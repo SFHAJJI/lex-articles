@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1994/12/08/n2/consolide/20260
 source_sha256: 3a70c4c24e3a5fcbc92a69ccebd6f3f0f441d37d0d776c7629379876a6fa4dfe
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## PARTIE l — CHAMP D'APPLICATION

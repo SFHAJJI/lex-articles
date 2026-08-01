@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/consolide/19930
 source_sha256: 4c2f6465578bdb6bcdac454172b34a5a21bc77c7803f2abdd937cb7efc3fe176
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

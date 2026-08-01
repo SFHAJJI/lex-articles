@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/consolide/20170
 source_sha256: bca32c8dd4af1b478a431fe65de95c2db8d79c4ecc5afa2926999fea0355f7d0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

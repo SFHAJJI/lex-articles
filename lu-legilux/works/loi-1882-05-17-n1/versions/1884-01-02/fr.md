@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/18840
 source_sha256: aa75431a4f87f815a54746bba21bfc8d57b0d8a7e7f281e69a7dc6d8700363af
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

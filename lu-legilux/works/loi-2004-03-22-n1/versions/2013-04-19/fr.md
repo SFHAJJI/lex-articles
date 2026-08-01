@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/consolide/20130
 source_sha256: 650e42a55fa1c4d6cc6ac36e876bd30988131c2fe7bfd509107f9df2f6a0fce7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I — **Définitions**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2017/05/05/a484/consolide/202
 source_sha256: 70714c8428c47ff37af8b47deaec7d8c9925188f9d4344111588ce460df187be
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

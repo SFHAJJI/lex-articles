@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2024/02/28/a105/consolide/202
 source_sha256: a033e154bbe5cc373efad49299b516222ce0f13d35c49eb7f83fe08e375f9d3d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20150
 source_sha256: 86cd67f900eedd7ffedf68cf5a7988ebd968474dbaf2795ba7dacf267b354d28
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## 1ère PARTIE — **Les droits d'auteur**

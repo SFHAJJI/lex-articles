@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656/consolide/202
 source_sha256: 4d59935400294dc497cbecfc0ca4f338b03073868b591785f59b5d18da7f7c45
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1 ** — **Dispositions communes au recrutement dans la catégorie de traitement A et les groupes de traitement B1 et C1 du cadre policier**

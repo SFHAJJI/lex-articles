@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1998/09/25/n4/consolide/20230
 source_sha256: d0a0493bba454c27b43f4bf7b287072ee0229823808f1c4ee0b5e10cd1c54ec5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

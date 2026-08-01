@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/consolide/20
 source_sha256: 3c6f216bca64f9bd79ce702acc5cc8f048943ba7d84bc9e5077d185849cc522e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

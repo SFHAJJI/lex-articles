@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/08/17/a732/consolide/202
 source_sha256: 94c2bed47b625f40bbc29cf631991136a52f704349e59b089e4498766b0e43ea
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Le plan d’insertion professionnelle du fonctionnaire stagiaire du cadre policier**

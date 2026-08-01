@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/consolide/20180
 source_sha256: bfbc9fb618218656e4b73dacc4375fa5400be00614971cebf9e2f04c0fe9dbc2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Procédure dans le cadre de la première liste et de la première liste *bis*

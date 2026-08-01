@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a192/consolide/202
 source_sha256: 376d5d07b5c979ac6ca52e145a2993be41ffd7f5f5d7dcd01ac9150e0adc7afb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — **Définitions**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19780
 source_sha256: cfd2c55d8f9d14a2c0d0a04524113d7dfd3dd973febc452d1de1d468443e4bf2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

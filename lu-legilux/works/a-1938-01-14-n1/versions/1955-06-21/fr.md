@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/a/1938/01/14/n1/consolide/1955062
 source_sha256: 20e6b97d694f8a7b0d2a1f3b35d3b278b742ba63e82d1e01065d165812ac75ff
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

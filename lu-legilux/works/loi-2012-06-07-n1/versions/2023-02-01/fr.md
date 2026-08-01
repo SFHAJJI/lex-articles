@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2012/06/07/n1/consolide/20230
 source_sha256: dca922af4f879f779bd573d16099f0a73c5d0aa0d3e27fd027b549d8b5517841
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier.**- — ** Recrutement et formation des attachés de justice**

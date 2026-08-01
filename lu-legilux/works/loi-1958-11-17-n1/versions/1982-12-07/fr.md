@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1958/11/17/n1/consolide/19821
 source_sha256: bbf79b45be2f083f89f1cdaf52ce8ca930470521c5b51a90b40078be5ba80174
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

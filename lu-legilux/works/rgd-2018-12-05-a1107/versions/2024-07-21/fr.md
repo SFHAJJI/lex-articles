@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20
 source_sha256: 0284085a4f75b4d3f5a0cb181e872d3bd93b5799e7ad7dc02cc9f3abaf1b3586
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — ** Le service d’inspection**

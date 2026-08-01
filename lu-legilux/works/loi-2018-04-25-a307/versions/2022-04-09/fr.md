@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/25/a307/consolide/202
 source_sha256: 1dd55d4cfcb201ee65f91bc35ccc70857c73004ea87a157bb5022ad83d74ffb8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **TITRE Ier** — **Dispositions générales**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1997/02/06/n1/consolide/20201
 source_sha256: 1acdcc630ab5c2a65fc9eed80449587b8571daf15021f1123883835c37d73416
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/consolide/20211
 source_sha256: 27c2db9274c74a8ba3458bb45125ca31bbc22179acab917563ff9dd6ad82fdb7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I.- — Dispositions générales.

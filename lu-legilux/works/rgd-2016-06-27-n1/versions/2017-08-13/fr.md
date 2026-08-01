@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/consolide/20170
 source_sha256: 45cd0290bc7a1773ded12f73099e650aa31dbe90a055ebb8dd3f404e74b14e33
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Procédure de réaffectation.

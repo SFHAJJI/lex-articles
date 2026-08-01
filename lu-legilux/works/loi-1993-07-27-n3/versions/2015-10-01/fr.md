@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n3/consolide/20151
 source_sha256: 0c5d272e083a52b18fc4f14ab47627e0165126004f8c36499f7d1ffa350d5821
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er.- — De l’administration en général

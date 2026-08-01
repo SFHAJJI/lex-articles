@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/consolide/202
 source_sha256: 5765d7cad6efc73a6a9a39e49517b4e49b4be19684ed4a391c44ac9623a82867
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre I** — ** Les objectifs et principes fondamentaux**

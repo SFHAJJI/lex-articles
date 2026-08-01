@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1/consolide/20060
 source_sha256: 79d107e0fdd7291160b0dbfbcefe772f8155a0594b99e98c09911b6846c47288
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Partie I — Champ d’application

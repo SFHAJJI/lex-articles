@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1970/04/13/n1/consolide/20020
 source_sha256: 9326b25d55fe0d912ddbce5476c6f40a0496271fa3d6edf8c5483c265e788d82
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20230
 source_sha256: 981bcdf9589912865f3e363e8756c7aa2cc12cef36ffb87821acebc5ebafe6ea
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1****er** — **Dispositions générales**

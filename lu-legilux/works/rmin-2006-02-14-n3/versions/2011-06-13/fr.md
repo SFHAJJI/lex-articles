@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/2011
 source_sha256: be1b090fbb58e7bcf84f4c66764b7d50e7357ed24374f9dfffe4af08345e59e3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

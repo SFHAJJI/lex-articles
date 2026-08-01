@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/02/10/n3/consolide/20241
 source_sha256: f398d4e89484d39a98ecaf55eca26bba2fe3d80981638d3964531b166ffd8bd8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre I — Déclaration, stockage, surveillance, sanctions

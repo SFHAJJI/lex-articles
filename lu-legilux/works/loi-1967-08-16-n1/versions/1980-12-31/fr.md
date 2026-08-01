@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19801
 source_sha256: 807e8c509486f08fa5be3a06aba8e82eec54c93680c18d573f497448747da239
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier

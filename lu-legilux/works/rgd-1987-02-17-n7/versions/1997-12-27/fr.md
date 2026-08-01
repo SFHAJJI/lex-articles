@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/19971
 source_sha256: eeb600540c655207addfd55ddb2cd52e63005b851b77c7437ac8a100ea9631b5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

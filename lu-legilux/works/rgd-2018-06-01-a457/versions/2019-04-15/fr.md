@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/06/01/a457/consolide/201
 source_sha256: 8595a6d247dfeaf5466f3898ef387ec530120958e523fddafcdc07cfff56c302
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ****Chapitre 1er **** — ** Commercialisation des semences de plantes fourragères**

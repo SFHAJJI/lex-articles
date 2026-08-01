@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20151
 source_sha256: f4bfe072e68a0f7a8a81fb3a93ff13d50900bdf0a3d11f339bdcd4885b6f5aea
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. Généralités

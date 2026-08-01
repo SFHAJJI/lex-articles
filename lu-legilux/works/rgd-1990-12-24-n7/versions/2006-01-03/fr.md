@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1990/12/24/n7/consolide/20060
 source_sha256: 7a201df0214c49511ba6ac086749118c1faf1d71a59c35aa9be275d817d1b97a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section 1re. — Définitions

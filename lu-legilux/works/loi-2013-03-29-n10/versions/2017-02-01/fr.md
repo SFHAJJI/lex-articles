@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n10/consolide/2017
 source_sha256: a282d1669bf280dd9bb3fd3b827ed9576020bfb99322ea4ad31e76a7308b0c71
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — L’organisation du casier judiciaire

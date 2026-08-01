@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1996/04/02/n1/consolide/20070
 source_sha256: 5eb1a77acaee6d1cc7c75929789a8f1a7e17bd5bd8ac36f0fa5ac07cd461a2f1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

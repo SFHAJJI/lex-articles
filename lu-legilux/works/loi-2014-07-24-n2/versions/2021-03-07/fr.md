@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n2/consolide/20210
 source_sha256: 78366789b2a8510bb9c83861e779d7ce9137776f4425bde0375cfe3e3a560d1a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er: — Champ d’application et définitions

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19871
 source_sha256: 13ded423dd63a6d7d6b9a57f76e8465abe12ad095ba318d70e8760a923515c52
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

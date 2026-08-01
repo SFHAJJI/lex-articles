@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1883/12/28/n3/consolide/20151
 source_sha256: 16e2248998c7a8b7019b5678fe6436d72a23684e4c1e6f3ad2d65bd74f4c0159
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier. — *Des associations syndicales.*

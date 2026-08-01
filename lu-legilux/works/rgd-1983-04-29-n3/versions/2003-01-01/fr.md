@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3/consolide/20030
 source_sha256: 2e2c9eecd5e5953af96c99320845206f75e835391041f22152e78b7a4bc37aeb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2017/07/20/a665/consolide/202
 source_sha256: 65b4caff0de2956510ed7a1f47d2afbce880736b524a001209eeeca641d976d2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

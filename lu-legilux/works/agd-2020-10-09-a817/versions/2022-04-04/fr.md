@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/consolide/202
 source_sha256: 7e0b9d3feb718672f3ae9c48dfaecfeedb09e15c2b6602400723ae9f93645114
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Institution, mission et personnel de la Maison du Grand-Duc**

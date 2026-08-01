@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2025/06/06/a218/consolide/202
 source_sha256: 52127083cd75b8e2b175ef769595aa28d156cb11c44977fe7637215549ed6b05
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — ** Modification de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État**

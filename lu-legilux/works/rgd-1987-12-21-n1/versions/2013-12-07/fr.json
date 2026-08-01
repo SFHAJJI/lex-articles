@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -34,8 +33,8 @@
       "text_md": "Le numéro d'identité est représenté par un nombre à 11 chiffres qui comprend dans l'ordre les composantes suivantes:\n\n1. 1. l'année de naissance exprimée par 4 chiffres;\n2. le mois de naissance exprimé par 2 chiffres (01 à 12);\n3. le jour de naissance exprimé par 2 chiffres (01 à 31);\n4. un numéro d'ordre à deux chiffres qui est impair pour les personnes du sexe masculin et pair pour les personnes du sexe féminin;\n5. un indicatif vérificateur à une position numérique. La composante a) doit obligatoirement indiquer l'année de naissance, même si cette donnée n'est que présumée. Les composantes b) et/ou c) sont égales à zéro pour les personnes dont le mois et/ou le jour de naissance ne sont pas connus. L'indicatif vérificateur correspond à la différence entre 11 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 1 ne sont pas attribués. Un reste de division 0 constitue le chiffre de contrôle. Lorsque la limite supérieure pour le numéro d'ordre est atteinte, un deuxième indicatif vérificateur est calculé. Cet indicatif vérificateur correspond à la différence entre 12 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 2 ne sont pas attribués. Un reste de division 0 constitue le chiffre de contrôle 1, un reste de division 1 constitue le chiffre de contrôle 0.\n2. 1. l'année de la constitution ou, pour les personnes morales étrangères, celle de leur apparition sur le rôle d'une administration publique ou d'un établissement de sécurité sociale luxembourgeois autorisés à employer le numéro, année exprimée par 4 chiffres ou 4 zéros, selon que l'année de constitution est connue ou non;\n2. la forme juridique codifiée exprimée par 2 chiffres (20 à 99);\n3. un numéro d'ordre à 4 chiffres distinguant les personnes morales constituées la même année (0001 à 9999);\n4. un indicatif autovérificateur à une position numérique. L'indicatif autovérificateur correspond à la différence entre 11 et le reste de la division par 11 de la somme des produits obtenus en multipliant chacun des 10 premiers chiffres du numéro d'identité par les facteurs respectifs 5, 4, 3, 2, 7, 6, 5, 4, 3 et 2, étant entendu que les numéros engendrant, lors de la division précitée, un reste de 1 ne sont pas attribués. Un reste de division zéro constitue le chiffre de contrôle.\n3. Au cas où l'attribution du numéro suivant les modalités prévues dans le cadre du présent article s'avère impossible, il appartient au Centre Informatique de l'Etat d'attribuer un numéro d'après des critères alternatifs qu'il détermine et qui sont à approuver par le Ministre ayant dans ses attributions le Centre Informatique de l'Etat.",
       "text_sha256": "5ce2c6e176e2fc2f251dd11e497f6218aa5bbf8223fb6b8673fa057df7924651",
       "md_span": {
-        "start": 753,
-        "end": 3812
+        "start": 747,
+        "end": 3806
       },
       "citations": []
     },
@@ -53,8 +52,8 @@
       "text_md": "**(1)** Pour les personnes physiques nées au Grand-Duché de Luxembourg, le Centre Informatique de l'Etat attribue le numéro d'identité sur base d'un bulletin de naissance qui lui est transmis dans les trois jours ouvrables de l'inscription par l'officer de l'état civil, accompagné d'une copie de l'acte de naissance respectivement de l'acte de présentation sans vie. La forme et le contenu de ce bulletin sont déterminés par le Centre Informatique de l'Etat.\n\n**(2)** Pour les personnes immigrées au Grand-Duché de Luxembourg, le Centre Informatique de l'Etat attribue le numéro d'identité sur base des demandes de cartes d'identité d'étranger prévues par le règlement grand-ducal du 28 mars 1972 relatif aux formalités à remplir par les étrangers séjournant au pays.\n\nLes administrations communales font parvenir au Centre Informatique de l'Etat dans les huit jours une copie de la demande accompagnée d'une copie du passeport ou de l'acte de naissance ou, à défaut, de toute autre pièce officielle de l'intéressé.\n\n**(3)** Pour les personnes adoptées conformément aux dispositions de l'alinéa 2 de l'article 354 du Code Civil, le Centre Informatique de l'Etat attribue un nouveau numéro d'identité sur base d'un bulletin d'adoption plénière qui lui est transmis par l'officier de l'état civil dans les trois jours ouvrables de la transcription, accompagné d'une copie de la transcription tenant lieu d'acte de naissance de l'adopté.\n\nL'officier de l'état civil communique de même au Centre Informatique de l'Etat l'ancien numéro d'identité de l'adopté dont les données sont rayées du répertoire général des personnes physiques.\n\nLa forme et le contenu du bulletin sont déterminés par le Centre Informatique de l'Etat.",
       "text_sha256": "73eb0301ea182bd0f282b7ead213f01a669aa9787aaa3399036c803328c5f524",
       "md_span": {
-        "start": 3914,
-        "end": 5634
+        "start": 3908,
+        "end": 5628
       },
       "citations": [
         {
@@ -81,8 +80,8 @@
       "text_md": "**(1)** Pour les personnes morales, le Centre Informatique de l'Etat attribue le numéro d'identité sur base des textes, actes ou extraits d'actes déposés auprès d'une administration ou d'un service de l'Etat en vue de leur publication au Mémorial.\n\n**(2)** L'administration ou le service en question transmet les textes, actes ou extraits d'actes visés ci-dessus dans les huit jours du dépôt au Centre Informatique de l'Etat dans une forme à déterminer par celui-ci.",
       "text_sha256": "0533a3e5d53594c459948a61a18244e4a453c25a519c7d906e7bf6629aecc9d4",
       "md_span": {
-        "start": 5669,
-        "end": 6135
+        "start": 5663,
+        "end": 6129
       },
       "citations": []
     },
@@ -100,8 +99,8 @@
       "text_md": "**(1)** Pour les personnes physiques ou morales qui apparaissent sur le rôle d'une administration publique ou d'un établissement de sécurité sociale luxembourgeois, autorisés à utiliser le numéro d'identité, le Centre Informatique de l'Etat attribue le numéro d'identité sur base d'un bulletin de demande d'attribution d'un numéro d'identité présenté par ces administrations, accompagné, pour ce qui est des personnes physiques, d'une copie de l'acte de naissance ou du passeport ou, à défaut, de toute autre pièce officielle, à moins que le numéro n'ait déjà été attribué par application des articles 2 et 3 du présent règlement.\n\n**(2)** La forme et le contenu du bulletin sont déterminés par le Centre Informatique de l'Etat.",
       "text_sha256": "f70149580ab7f8d8e6f2f01713816ba1682f2df529949f769798fd4cd024bfab",
       "md_span": {
-        "start": 6170,
-        "end": 6898
+        "start": 6164,
+        "end": 6892
       },
       "citations": []
     },
@@ -119,8 +118,8 @@
       "text_md": "**(1)** Les administrations communales communiquent dans les huit jours au Centre Informatique de l'Etat:\n\n1. tous les changements en matière d'état civil qui ne sont pas mentionnés à l'article 2 de la présente loi sous forme de bulletins spéciaux, dont la forme et le contenu sont déterminés par le Centre Informatique de l'Etat;\n2. tous les changements de nationalité sous forme d'un bulletin de changement de nationalité, dont la forme et le contenu sont déterminés par le Centre Informatique de l'Etat;\n3. tous les changements de domicile de même que les avis de non-inscription, sous forme de copies des certificats de changement de résidence ou de domicile établis par les administrations communales;\n4. toutes les corrections d'éventuelles erreurs dans une forme à déterminer par le Centre Informatique de l'Etat.",
       "text_sha256": "7dcd59757d3ded27f67df2d0efc69dd6610554f481b2bd89c5966cee7ec3635f",
       "md_span": {
-        "start": 7060,
-        "end": 7880
+        "start": 7054,
+        "end": 7874
       },
       "citations": []
     },
@@ -138,8 +137,8 @@
       "text_md": "**(1)** Les administrations et services de l'Etat visés à l'article 3 du présent règlement communiquent au Centre Informatique de l'Etat, dans une forme à déterminer par celui-ci et dans les huit jours, toutes les modifications déposées auprès de ces administrations ou services en vue de leur publication au Mémorial.\n\n**(2)** La nature de l'activité principale des personnes morales est déterminée par le STATEC et communiquée dans les trente jours au Centre Informatique de l'Etat.",
       "text_sha256": "23d1db0e5eebb80f552f6f29903c2b9e43c94bc7ab4ed339798c4d9d4ce3aa9a",
       "md_span": {
-        "start": 7915,
-        "end": 8399
+        "start": 7909,
+        "end": 8393
       },
       "citations": []
     },
@@ -157,8 +156,8 @@
       "text_md": "**(1)** A la demande du Centre Informatique de l'Etat, les administrations publiques et les établissements de sécurité sociale communiquent dans les huit jours au Centre Informatique de l'Etat tous les changements concernant les données inscrites au répertoire général des personnes dont ils ont eu connaissance.\n\n**(2)** La procédure et la forme de ces communications sont déterminées par le Centre Informatique de l'Etat.",
       "text_sha256": "f99f5e730fcd859249f8d69d09f3d792e0f3f5a0e302bb0bcb0d8d2448441cda",
       "md_span": {
-        "start": 8434,
-        "end": 8857
+        "start": 8428,
+        "end": 8851
       },
       "citations": []
     },
@@ -176,8 +175,8 @@
       "text_md": "**(1)** Les administrations publiques et les établissements de sécurité sociale dûment équipés à cet effet, peuvent remplacer les documents de saisie et les pièces à l'appui prescrits aux articles 2, 3, 4, 5, 6 et 7 du présent règlement par des enregistrements sur support informatique pour autant que ces documents et pièces soient établis par ces services et sous leur responsabilité.\n\n**(2)** Les caractéristiques techniques des moyens informatiques utilisés ainsi que les modalités d'application et toutes les opérations y relatives sont déterminées par le Centre Informatique de l'Etat.",
       "text_sha256": "ba71616ec7f48b5d07edd9918cad33e2d61d035e6e9025524f3df82cf4d19f44",
       "md_span": {
-        "start": 8892,
-        "end": 9483
+        "start": 8886,
+        "end": 9477
       },
       "citations": []
     },
@@ -195,8 +194,8 @@
       "text_md": "**(1)** Le Centre Informatique de l'Etat communique dans les quinze jours aux administrations publiques et aux établissements de sécurité sociale autorisés à utiliser le numéro d'identité, les nouvelles inscriptions, les modifications et les rectifications qu'il a opérées au répertoire général des personnes, pour autant que ces organismes soient habilités à avoir accès à ces données et que celles-ci les concernent directement.\n\n**(2)** Sur demande, le Centre Informatique de l'Etat communique aux organismes désignés sub 1) les données auxquelles ceux-ci sont habilités à avoir accès.\n\n**(3)** La procédure et la forme de la communication et de la consultation des données du répertoire général des personnes est déterminée par le Centre Informatique de l'Etat.",
       "text_sha256": "309bdc805eb404c8af39eacd5fca89507144d33063b957abf9d1386fb0e160e1",
       "md_span": {
-        "start": 9655,
-        "end": 10420
+        "start": 9649,
+        "end": 10414
       },
       "citations": []
     },
@@ -214,8 +213,8 @@
       "text_md": "**(1)** Les personnes inscrites au répertoire général des personnes sont informées dans un mois par le Centre Informatique de l'Etat des inscriptions, modifications ou rectifications opérées à leur égard au répertoire. La forme et le contenu de cette communication sont déterminés par règlement ministériel.\n\n**(2)** Toute personne inscrite au répertoire général des personnes peut demander au Centre Informatique de l'Etat, à condition d'y apporter les justifications nécessaires, rectifications ou modifications des données qui la concernent. Le Centre Informatique de l'Etat procède dans un mois aux rectifications justifiées.",
       "text_sha256": "8cd1b401c2a99cf9aab3fa844bd6ce581ad52c376c7921bb735b54e4aa7b3e5f",
       "md_span": {
-        "start": 10457,
-        "end": 11086
+        "start": 10451,
+        "end": 11080
       },
       "citations": []
     },
@@ -233,8 +232,8 @@
       "text_md": "Le règlement grand-ducal du 7 juin 1979 fixant les modalités d'application de la loi du 30 mars 1979 organisant l'identification numérique des personnes physiques et morales est abrogé.\n\nLe règlement ministériel du 28 mars 1986 déterminant la forme et le contenu des communications faites par le Centre Informatique de l'Etat en relation avec le répertoire général des personnes physiques et morales reste en vigueur dans la mesure où il n'est pas contraire aux dispositions du présent règlement.",
       "text_sha256": "ce1e6de1e376278938b2af4513f31182a6a2f6736ea7be9954cfb3daec6f16f0",
       "md_span": {
-        "start": 11155,
-        "end": 11651
+        "start": 11149,
+        "end": 11645
       },
       "citations": [
         {
@@ -265,8 +264,8 @@
       "text_md": "Notre Président du Gouvernement, Ministre d'Etat, Notre Ministre de l'Economie, Notre Ministre de l'Intérieur et Notre Ministre de la Sécurité Sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
       "text_sha256": "041c9d2362c055529785bd1dcd0f39145436ed9ea9339c87e18e823744428c38",
       "md_span": {
-        "start": 11688,
-        "end": 11947
+        "start": 11682,
+        "end": 11941
       },
       "citations": []
     }

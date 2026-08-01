@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/20090
 source_sha256: cb74a0763f73c255433da43158d6e05e9dfc83d594fbd7c1800868a0314b1c96
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/consolide/20210
 source_sha256: dca0ddbc652fc4a28b647b5db41fa88879c77d3823257e740d6a920f4bc72efd
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre 1er — Définitions et objectifs

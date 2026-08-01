@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -34,8 +33,8 @@
       "text_md": "**(1)** L’entité immatriculée demande l’inscription des informations, prévues à l’article 3 de la loi du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs, par le biais du site Internet du gestionnaire ou de sa plateforme électronique.\n\n**(2)** Chaque demande d’inscription acceptée par le gestionnaire est classée dans le dossier de la personne ou entité immatriculée, tenu électroniquement par le gestionnaire.\n\n**(3)** Chaque inscription est datée du jour de l’acceptation de la demande d’inscription par le gestionnaire et se voit attribuer un numéro unique. Elle donne lieu à délivrance d’un récépissé d’acceptation de l’inscription, retourné au déclarant.\n\n**(4)** Le gestionnaire peut interdire l’accès à son site Internet à tout porteur de certificat électronique, qui en fait un usage abusif ou frauduleux avéré.",
       "text_sha256": "674b2e0094b61cffc27ff4245e590c133d088b63a47d7f61246c98c751e26a00",
       "md_span": {
-        "start": 821,
-        "end": 1659
+        "start": 815,
+        "end": 1653
       },
       "citations": [
         {
@@ -58,8 +57,8 @@
       "text_md": "Les inscriptions doivent être effectuées en langues française, allemande ou luxembourgeoise, de façon complète et exacte. Les caractères alphanumériques à utiliser sont les lettres de l’alphabet latin et les chiffres romains ou arabes. L’usage de caractères et symboles additionnels est autorisé, s’ils ont une signification dans la langue parlée.",
       "text_sha256": "d133d1d8459f59aade0dd2e38fb8ebd2949b094e84a1c49fccb00ad4f5c89877",
       "md_span": {
-        "start": 1694,
-        "end": 2041
+        "start": 1688,
+        "end": 2035
       },
       "citations": []
     },
@@ -77,8 +76,8 @@
       "text_md": "Le gestionnaire tient un relevé complet des inscriptions, selon un procédé informatique.",
       "text_sha256": "932ca74d9a37fc94188b35aea1c26fe76ea5fc5dc9d8eec9548ab1c369b3d709",
       "md_span": {
-        "start": 2076,
-        "end": 2164
+        "start": 2070,
+        "end": 2158
       },
       "citations": []
     },
@@ -96,8 +95,8 @@
       "text_md": "Toute déclaration effectuée au Registre des bénéficiaires effectifs ne peut être annulée que sur base d’une décision judiciaire portant injonction au gestionnaire.",
       "text_sha256": "3b5c21b7a6c91dfdcfd1adc02c45bf0ed23bcd68b51e00e39f0866f6d5e32ffa",
       "md_span": {
-        "start": 2205,
-        "end": 2368
+        "start": 2199,
+        "end": 2362
       },
       "citations": []
     },
@@ -115,8 +114,8 @@
       "text_md": "**(1)** Le bureau du gestionnaire est situé dans la commune de Luxembourg. Le gestionnaire peut avoir des bureaux dans d’autres communes du Grand-Duché de Luxembourg. Il affiche les heures d’ouverture de son bureau sur son site Internet.\n\n**(2)** Pour les entités immatriculées, qui sont dans l’impossibilité matérielle d’effectuer les inscriptions requises par la loi précitée du 13 janvier 2019 conformément à l’article 1 er , le gestionnaire offre en ses bureaux, une assistance d’ordre technique.",
       "text_sha256": "a9a1d9d4028d1210a42deea0fe3d723f59426c51fee6ee34b9ae52ec8c1a2afc",
       "md_span": {
-        "start": 2403,
-        "end": 2903
+        "start": 2397,
+        "end": 2897
       },
       "citations": [
         {
@@ -139,8 +138,8 @@
       "text_md": "Les pièces justificatives prévues à l’article 4, paragraphe 3, de la loi précitée du 13 janvier 2019 comprennent :\n\n1. loi modifiée du 19 juin 2013\n2. er loi précitée du 13 janvier 2019\n3. directive 2004/109/CE directive 2001/34/CE",
       "text_sha256": "9c74691042ba0ecb1aa9b26ed610977d8c8dfa5cc148e34e9941b3b7fdcc2e12",
       "md_span": {
-        "start": 2938,
-        "end": 3169
+        "start": 2932,
+        "end": 3163
       },
       "citations": [
         {
@@ -163,8 +162,8 @@
       "text_md": "Les demandes de limitation d’accès prévues à l’article 15 de la loi précitée du 13 janvier 2019 sont transmises au gestionnaire selon les dispositions des articles 1 er et 2, concomitamment ou postérieurement aux demandes d’inscription.",
       "text_sha256": "77f375808d5db4b90e69bcf5d6bcbc085a8f350431c83ca6ccbdca8dfa4e45d5",
       "md_span": {
-        "start": 3204,
-        "end": 3440
+        "start": 3198,
+        "end": 3434
       },
       "citations": [
         {
@@ -187,8 +186,8 @@
       "text_md": "**(1)** La date à laquelle l’entité immatriculée a pris connaissance ou aurait dû prendre connaissance de l’événement qui rend nécessaire l’inscription ou sa modification au Registre des bénéficiaires effectifs est communiquée au gestionnaire lors de la déclaration.\n\n**(2)** Sauf en cas de force majeure, les entités immatriculées qui n’ont pas effectué leurs inscriptions ou modifications dans les délais prescrits par la loi, contribuent aux frais exposés par le gestionnaire, pour s’acquitter de la mission de surveillance qui lui a été dévolue et dont découle la mise en œuvre des mesures administratives, telles que prévues à l’article 9 de la loi précitée du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs et supportent à ce titre une majoration des frais de déclaration, fixée à l’annexe A du présent règlement.",
       "text_sha256": "c83d19286fb8ee2cfdc52b3a66f3bceca2cab31aa029de5c4d6b8c2a75f5e695",
       "md_span": {
-        "start": 3481,
-        "end": 4320
+        "start": 3475,
+        "end": 4314
       },
       "citations": [
         {
@@ -211,8 +210,8 @@
       "text_md": "**(1)** Le Registre des bénéficiaires effectifs peut être consulté gratuitement sur le site Internet du gestionnaire.\n\n**(2)** La recherche sur le site du gestionnaire s’effectue par la dénomination, le nom ou le numéro d’immatriculation de l’entité immatriculée\n\n**(3)** Après acceptation préalable par le gestionnaire, d’une demande d’accès motivée par des besoins professionnels et précisant les finalités de la réutilisation de l’information détenue au Registre des bénéficiaires effectifs, émanant d’un professionnel tel que défini à l’article 1er point 6° de la loi précitée du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs, le gestionnaire peut mettre à disposition du demandeur, par le biais de sa plateforme électronique, tout ou partie des informations inscrites et accessibles du Registre des bénéficiaires effectifs.\n\n**(4)** L’accès des établissements de crédit, des établissements financiers, ainsi que des huissiers de justice et des notaires, agissant en leur qualité d’officier public, aux informations sur les bénéficiaires effectifs couvertes par une limitation d’accès, accordée conformément à l’article 15, paragraphe 1er, de la loi précitée du 13 janvier 2019, est ouvert par le gestionnaire sur demande.",
       "text_sha256": "e10434adeda558ccbe1aafcec93cc618c982c87dda4900061e20243bab9f5445",
       "md_span": {
-        "start": 4406,
-        "end": 5653
+        "start": 4400,
+        "end": 5647
       },
       "citations": [
         {
@@ -235,8 +234,8 @@
       "text_md": "**(1)** L’accès au Registre des bénéficiaires effectifs aux autorités nationales, définies à l’article 1 er , point 5°, de la loi précitée du 13 janvier 2019 , doit faire l’objet d’une demande émanant de l’autorité nationale, adressée au gestionnaire.\n\n**(2)** Les autorités nationales ont accès aux informations inscrites et historiques des entités immatriculées et rayées contenues dans le Registre des bénéficiaires effectifs, dans le cadre et les limites de l’exercice de leurs missions.\n\n**(3)** Les autorités nationales ont accès aux informations inscrites et historiques des entités immatriculées et rayées, contenues dans le Registre des bénéficiaires effectifs.",
       "text_sha256": "2dcb9c0a23436b494c1bab605b638ff666ceca4a29d6da46a0a5b96be2410762",
       "md_span": {
-        "start": 5688,
-        "end": 6358
+        "start": 5682,
+        "end": 6352
       },
       "citations": [
         {
@@ -259,8 +258,8 @@
       "text_md": "**(1)** Le gestionnaire émet des extraits et des certificats sur support papier sécurisé à en-tête du Registre des bénéficiaires effectifs ou sous format électronique, moyennant paiement de frais administratifs, prévus à l’annexe A.\n\n**(2)** Les demandes d’extraits et de certificats sont à effectuer sur le site Internet du gestionnaire ou sur sa plateforme électronique.\n\n**(3)** Les extraits et certificats émis comportent la signature manuscrite ou électronique du gestionnaire.",
       "text_sha256": "1c9b241526881685beaf7ebecd853f608c0cf4c1acd3edb7001c67097c42747a",
       "md_span": {
-        "start": 6393,
-        "end": 6875
+        "start": 6387,
+        "end": 6869
       },
       "citations": []
     },
@@ -278,8 +277,8 @@
       "text_md": "**(1)** Les entités, visées par une demande de vérification émanant du gestionnaire, en application de l’article 9 de la loi précitée du 13 janvier 2019 , doivent vérifier leurs informations sur le site Internet du gestionnaire.\n\n**(2)** Si l’information inscrite est adéquate, exacte et actuelle, l’entité doit confirmer ses données par le biais du site Internet du gestionnaire ou sur sa plateforme électronique.\n\n**(3)** Si l’entité constate que l’information inscrite est inadéquate, inexacte, ou non actuelle, elle doit procéder à la mise à jour de ses informations, conformément aux dispositions de l’article 1 er .",
       "text_sha256": "40afb9076d2db2aba23747145fe475b460e18a46ed43ea504c34c37c3cbbfce5",
       "md_span": {
-        "start": 6912,
-        "end": 7533
+        "start": 6906,
+        "end": 7527
       },
       "citations": [
         {
@@ -302,8 +301,8 @@
       "text_md": "**(1)** Toute demande d’inscription acceptée, ainsi que toute demande d’extrait ou de certificat, donnent lieu au paiement auprès du gestionnaire de frais administratifs dont le montant est fixé à l’annexe A.\n\n**(2)** Les frais sont dus individuellement, lorsque l’inscription est effectuée par un requérant ne bénéficiant pas de l’agrément pour le paiement sur facture mensuelle prévu à l’article 12, paragraphe 2.",
       "text_sha256": "7a97df8aeda81b1100fcc3f77036875e0d99c65ef615b4d5520397d4f2cd48ce",
       "md_span": {
-        "start": 7621,
-        "end": 8036
+        "start": 7615,
+        "end": 8030
       },
       "citations": []
     },
@@ -321,8 +320,8 @@
       "text_md": "**(1)** Le paiement s’effectue par voie électronique. Cependant, les entités visées à l’article 4, paragraphe 2, peuvent procéder à un paiement des frais administratifs au comptant.\n\n**(2)** Les requérants qui effectuent régulièrement un nombre important de demandes d’inscription, d’extrait ou de certificat auprès du gestionnaire peuvent introduire une demande d’agrément pour le paiement sur facture mensuelle, établie après l’inscription des frais administratifs fixés à l’annexe A dus sur ces demandes.\n\n**(3)** La demande d’agrément contient l’engagement écrit du requérant de payer en une seule fois au gestionnaire l’intégralité des montants dus au titre des frais administratifs dans un délai de trente jours après la date d’émission de la facture établie et expédiée par le gestionnaire.\n\n**(4)** Les demandes d’agrément sont à introduire auprès du gestionnaire.\n\n**(5)** Le gestionnaire statue sur les demandes d’agrément et notifie ses décisions aux requérants. Lorsque l’agrément est accordé, un numéro de référence leur est communiqué.\n\n**(6)** Le gestionnaire peut prononcer le retrait de l’agrément sur décision motivée lorsque les montants dus au titre des frais administratifs restent impayés pendant deux mois suivant la date d’émission de la facture mensuelle établie par le gestionnaire.",
       "text_sha256": "a0fd77201aab3a50839732180276ac5f0eab185e578bdddf9e58a1f92ef9fedd",
       "md_span": {
-        "start": 8073,
-        "end": 9381
+        "start": 8067,
+        "end": 9375
       },
       "citations": []
     },
@@ -340,8 +339,8 @@
       "text_md": "Les entités soumises à la loi précitée du 13 janvier 2019 effectifs sont exemptées du paiement des frais administratifs, fixés à l’annexe A, pendant un délai de six mois après l’entrée en vigueur du présent règlement.",
       "text_sha256": "c59fa68cf7e2ce34235be154b91c1a75eb822dfe763d7473706c163311cbd4ef",
       "md_span": {
-        "start": 9483,
-        "end": 9700
+        "start": 9477,
+        "end": 9694
       },
       "citations": [
         {
@@ -364,8 +363,8 @@
       "text_md": "Le présent règlement grand-ducal entre en vigueur le 1 er mars 2019.",
       "text_sha256": "6342309db80eb3e666b3812fed9ea76224b67fff549310fdc138fc35e7d60536",
       "md_span": {
-        "start": 9737,
-        "end": 9805
+        "start": 9731,
+        "end": 9799
       },
       "citations": []
     },
@@ -383,8 +382,8 @@
       "text_md": "Notre ministre de la Justice est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
       "text_sha256": "c6df074498c9a69f652d73445da96eb369f50c96e0f09b501116aaf6df6e1385",
       "md_span": {
-        "start": 9842,
-        "end": 9983
+        "start": 9836,
+        "end": 9977
       },
       "citations": []
     },
@@ -400,8 +399,8 @@
       "text_md": "** Grille de tarification du Registre des bénéficiaires effectifs**\n\n| *** Montants en EUR hors TVA****** (tarifs soumis à TVA au taux de 17 %)*** |  |\n| --- | --- |\n| ** Type de déclaration** |  |\n| Inscription | € 15 |\n| Modification | € 15 |\n| **Majoration des frais de déclaration effectuée en dehors des délais légaux** |  |\n| lorsque la déclaration est effectuée dans le deuxième mois suivant la date de l’évènement le rendant nécessaire | € 50 |\n| lorsque la déclaration est effectuée entre le troisième et quatrième mois suivant la date de l’évènement le rendant nécessaire | € 200 |\n| lorsque la déclaration est effectuée à compter du cinquième mois suivant la date de l’évènement le rendant nécessaire | € 500 |\n| ** Extrait** |  |\n| Extrait sous format papier | € 10 |\n| Extrait sous format électronique | € 5 |\n| ** Certificat de non inscription de bénéficiaire(s) effectif(s)** |  |\n| Certificat sous format papier | € 10 |\n| Certificat sous format électronique | € 5 |\n| ** Autres tarifs** |  |\n| Supplément pour traitement prioritaire d’une demande d’extrait ou de certificat sous format papier | € 100 |\n| Guichet d’assistance à la déclaration | Tarif de déclaration + € 20 |\n| Demande de dérogation - article 15 | Tarif de déclaration + € 200 |\n| Frais d’accès à la plateforme électronique | Annuellement : € 5.000 |\n| Mise à disposition d’information inscrite au RBE pour une entité immatriculée sous forme de données électroniques avec signature qualifiée automatique | € 5 |",
       "text_sha256": "19973f4785608ee2ad277cb9d5ec4cfae45f13a44feffd6bcaab941e90c4fa23",
       "md_span": {
-        "start": 10035,
-        "end": 11529
+        "start": 10029,
+        "end": 11523
       },
       "citations": []
     }

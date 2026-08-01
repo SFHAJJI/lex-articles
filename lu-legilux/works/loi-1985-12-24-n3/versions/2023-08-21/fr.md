@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/consolide/20230
 source_sha256: bea4de0ab4bd1aceb4ac39ff27e8f5aa955d33908db570b9969ced32a823e6bf
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Champ d’application et dispositions générales

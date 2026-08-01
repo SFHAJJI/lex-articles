@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/consolide/20100
 source_sha256: e5900c229e7fc41a340f25a91b8066b4adf2fb7635b32199cb2332d7e5362b4a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Premier — Des aides techniques.

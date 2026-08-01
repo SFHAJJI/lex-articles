@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2003/05/19/n1/consolide/20080
 source_sha256: a7ddfea0e28e7b6ba0b8dfb2a4dca0abf3fbfdba7b96f82bb244f8e220114f29
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_ier"></a>

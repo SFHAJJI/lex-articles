@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1988/06/22/n1/consolide/20181
 source_sha256: 49c6b49671c3fbcc281afbbdff3288f63d6e9be5ce386bf065af33b521381195
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — Champ d’application

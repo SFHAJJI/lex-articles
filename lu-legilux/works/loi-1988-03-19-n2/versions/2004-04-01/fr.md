@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n2/consolide/20040
 source_sha256: bc6e5ace5272df9c251680d91a16ed4977ccfd72435042c3e6441e3d711a1550
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

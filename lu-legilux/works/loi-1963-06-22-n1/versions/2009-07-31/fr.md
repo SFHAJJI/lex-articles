@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/20090
 source_sha256: be9a521ded5f56ec4eb9d6504105968e8e01c51ec46ec1685aba2e27d073564b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, telle qu’elle a été modifiée****.**

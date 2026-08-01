@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1984/01/24/n4/consolide/20091
 source_sha256: 81f359b55c4f2fd7e786bf3440498c785b3eea762a77a11a1eae67ae447c66da
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

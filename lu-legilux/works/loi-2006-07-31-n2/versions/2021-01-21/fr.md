@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/travail/20210121/fr
 source_sha256: f51fd2e5ce7db8ea3d1a7b549d40b728d12eb158cd17ff0ad85ed0b184be5656
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Préliminaire — Dispositions d’ordre public

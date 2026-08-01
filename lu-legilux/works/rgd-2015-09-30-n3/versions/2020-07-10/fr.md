@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n3/consolide/20200
 source_sha256: 0b6670d32da21de01a7f6d52ce9396b481966c916f719b54b6b82f52af1e9e69
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er. ** — **Dispositions générales**

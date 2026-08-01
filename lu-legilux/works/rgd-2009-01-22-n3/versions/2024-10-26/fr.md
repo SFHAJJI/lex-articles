@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/consolide/20241
 source_sha256: 8a58046bbc0f9d28c15644c21b286ded6919d1a44ec1abd40f6d11b1406b332c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I — Stockage et échange d’informations

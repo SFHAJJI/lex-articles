@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1971/07/14/n7/consolide/19750
 source_sha256: 0a6a54cfaa22485f151a62ca0221c2cbab2a84377259856301f75d1802991541
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

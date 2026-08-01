@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/consolide/20150
 source_sha256: f025ed143d157b2bf4790834e87fb52d9f7afc82cb7f47347a3efc83e19231e4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Dispositions générales

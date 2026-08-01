@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1844/07/12/n1/consolide/18630
 source_sha256: 98b43dcd580fbcf8b6f42c80ad5c43a042bea8e47e6d0573643abf1adf35264e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## CHAPITRE Ier.*Des moyens affectés aux travaux de la voirie vicinale.*

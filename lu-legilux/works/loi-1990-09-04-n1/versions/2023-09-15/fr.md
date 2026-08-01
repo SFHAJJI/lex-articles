@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/consolide/20230
 source_sha256: ff6d2ba8f5766944fb272c375a5d28ad11d43cbed8ea5042294f0f4fa520a0a3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — De l'enseignement secondaire général

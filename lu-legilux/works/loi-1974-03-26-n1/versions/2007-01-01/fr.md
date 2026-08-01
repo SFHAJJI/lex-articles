@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1974/03/26/n1/consolide/20070
 source_sha256: 47dcb93392789374e04e5ec5ba69623b0400a91cd446f31948e3f9c43f08c47b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

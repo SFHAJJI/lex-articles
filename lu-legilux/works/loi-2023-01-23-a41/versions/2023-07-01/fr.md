@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a41/consolide/2023
 source_sha256: 67bfe8b3f114d9c918449854a03c1c6fe4132a574897e9e465559662fe0c04da
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — De la composition

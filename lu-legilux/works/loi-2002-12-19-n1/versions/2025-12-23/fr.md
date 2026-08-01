@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2002/12/19/n1/consolide/20251
 source_sha256: a92662cb264ba3fbaa7f03ec83d013877a423d499882a0b923e50bb4a753d702
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **TITRE I.** — **Du registre de commerce et des sociétés**

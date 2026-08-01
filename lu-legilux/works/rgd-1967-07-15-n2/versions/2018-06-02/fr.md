@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1967/07/15/n2/consolide/20180
 source_sha256: 86393d66a8aeaa8f8d2e4c049c2b43f8d13e01319de67848731b6f96fdb36a42
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

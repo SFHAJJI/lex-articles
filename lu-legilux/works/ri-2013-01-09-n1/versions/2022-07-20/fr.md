@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1/consolide/202207
 source_sha256: d4babf4eb08bac539d3ab4212ffaeaa312adde71323202acfc7900bbe1b2a639
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **TITRE 1.** — ** PRINCIPES ESSENTIELS**

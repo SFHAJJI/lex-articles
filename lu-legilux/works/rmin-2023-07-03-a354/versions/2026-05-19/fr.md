@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/consolide/20
 source_sha256: e1b5089900d599c66b8529b5331738f9cce6de1a3cf7f9102d300d5388d6887f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

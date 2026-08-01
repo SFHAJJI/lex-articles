@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/consolide/20020
 source_sha256: 7f8364c004bc7462a6ceafae5e4e5affb187106b62f724caebb21eab02434fc0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

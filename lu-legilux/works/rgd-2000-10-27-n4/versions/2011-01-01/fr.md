@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n4/consolide/20110
 source_sha256: 1cc73d560a1948f450b6b3ba886b2924743af86e8ab73749c55bcf954cd41a0a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre I** — **Organisation de la formation générale à Institut national d’administration publique**

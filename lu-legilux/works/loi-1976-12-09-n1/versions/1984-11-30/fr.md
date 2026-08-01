@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19841
 source_sha256: f474d4c15adeee0dbb5d71ffe8fd28a49ddcfee02ed2ab6fb8ac3d5185ada2c9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section I. — —** Des fonctions, ressort et devoirs des notaires**

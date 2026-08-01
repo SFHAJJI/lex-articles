@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consol
 source_sha256: 7602f09f240263c960a08d6f16665ee8386b411c4de9cff719c53d75a00dea59
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1979/02/25/n3/consolide/20240
 source_sha256: 9f14d8e41a27deee08a61061550f02f464f0eb86c7cf327e9a7c80fd1d8ccc46
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 2*sexies*. — Certification de la durabilité des logements

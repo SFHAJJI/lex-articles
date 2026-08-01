@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20230812/
 source_sha256: f1c0daad0c03ce94b3e7502b70c39925f0f6b182a86d566d523b4549e3a9e79a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ORGANISATION JUDICIAIRE

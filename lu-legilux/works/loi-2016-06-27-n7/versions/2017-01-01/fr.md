@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n7/consolide/20170
 source_sha256: f23b79ed67506b4f6566e75dff9809dda65524fe168d3d1db989a6d078da2379
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier — Champ d'application et définitions

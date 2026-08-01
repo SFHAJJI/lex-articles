@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/2020
 source_sha256: 443296f1028a2c742a1d437bbdfdf803c3627982ee82c27b24073803a6c1f6fb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Objectif, champ d’application et définitions

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/03/n2/consolide/20230
 source_sha256: 80aca2b0359950de2dfae56e83672d95d7b19e63a24d8aa98e92ae1bc3d7d82e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I — Définitions

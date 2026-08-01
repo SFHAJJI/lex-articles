@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2021/12/08/a845/consolide/202
 source_sha256: f61ab4a5853776ff21e759b55c54015d1699f7a01813f1abf0a7ac3a78cf73b1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ****Titre Ier**** — **Dispositions relatives à l’activité d’émission de lettres de gage**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/20251
 source_sha256: c286793f4291e7428f1dd7f48e2ceedb9084003339c8ea1c9c0aee33f5021834
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er.** — **Champ d’application et dispositions générales**

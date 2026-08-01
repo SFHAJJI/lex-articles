@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770/consolide/202
 source_sha256: dfe73052b0aeb4c7611c8f5869ef648f44e62b9c31dd4e31a4c01af7f1aa9c2d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Commercialisation des semences de céréales**

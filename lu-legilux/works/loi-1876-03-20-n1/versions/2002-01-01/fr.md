@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1876/03/20/n1/consolide/20020
 source_sha256: 90d5573ee9e896d98a5b03d3e1998c01a098049f9e57d2e5e8cfe824f1a3f9b8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

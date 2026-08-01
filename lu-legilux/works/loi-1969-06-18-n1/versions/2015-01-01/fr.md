@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/consolide/20150
 source_sha256: 506f6c5f1ebd07149fc7eee3dbc5b5942673e356cb270e77bce46a1bb2989726
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

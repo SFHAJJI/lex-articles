@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2001/02/23/n2/consolide/20170
 source_sha256: cbccc05c42f5ea3b9c439cb805bf1068359715b9d810265285d86804b40298e0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I — De la nature, de l'objet et de la constitution des syndicats de communes

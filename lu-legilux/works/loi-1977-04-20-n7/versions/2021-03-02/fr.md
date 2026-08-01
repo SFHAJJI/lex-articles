@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/20210
 source_sha256: df505dd4b39a12af6e0511942091d5df82ed73c34a787a09d31e23d9c115e829
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

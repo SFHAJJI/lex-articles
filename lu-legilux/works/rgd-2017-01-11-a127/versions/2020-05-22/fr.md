@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/consolide/202
 source_sha256: fc7a1122b99a0b9374adb4e3ff542a32e72ed1a2bf35b3749b5b32ddf15d2e25
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **La procédure générale**

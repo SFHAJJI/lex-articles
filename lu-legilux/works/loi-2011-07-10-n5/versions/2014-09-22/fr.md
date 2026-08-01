@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n5/consolide/20140
 source_sha256: 876da4ee55eead243d53675c6e62c8c16ba9bfb8db060e59984e87a1906f9ba4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er*****.*** — ***Attributions***

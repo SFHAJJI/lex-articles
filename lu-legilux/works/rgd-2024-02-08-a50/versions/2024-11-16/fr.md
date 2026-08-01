@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/consolide/2024
 source_sha256: fcea7cb4ce214bcd0d12d843c4afc14d21667a152cc7af7a0e23534ac6d3b559
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

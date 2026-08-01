@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -32,8 +31,8 @@
       "text_md": "La présente loi s’applique aux factures électroniques émises à l’issue de l’exécution des marchés ou des contrats auxquels la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, la loi du 3 juillet 2018 sur l’attribution de contrats de concession et portant modification du Code pénal, du Code du travail et de la loi modifiée du 10 novembre 2010 instituant les recours en matière de marchés publics ou la loi modifiée du 8 avril 2018 sur les marchés publics s’appliquent.\n\nLa présente loi ne s’applique pas aux factures électroniques émises à l’issue de l’exécution de marchés relevant du champ d’application de la loi du 26 décembre 2012 sur les marchés publics de la défense et de la sécurité, lorsque la passation et l’exécution du marché sont déclarées secrètes ou doivent s’accompagner de mesures particulières de sécurité, conformément aux dispositions législatives, réglementaires ou administratives en vigueur et à condition que le pouvoir adjudicateur ait déterminé que la protection des intérêts essentiels concernés ne peut être garantie par des mesures moins intrusives.",
       "text_sha256": "39c54bf75e021c1547d1a897d5467de194931a3e25c7ccfae3874640d2b75ed1",
       "md_span": {
-        "start": 668,
-        "end": 1780
+        "start": 662,
+        "end": 1774
       },
       "citations": [
         {
@@ -74,8 +73,8 @@
       "text_md": "Pour l’application de la présente loi, on entend par :\n\n1. « facture électronique » : une facture qui a été émise, transmise et reçue sous une forme électronique structurée qui permet son traitement automatique et électronique, toute demande de paiement équivalente qui remplit ces mêmes conditions ou tout document ou message qui modifie la facture initiale et y fait référence de façon spécifique et non équivoque qui remplit ces mêmes conditions ;\n2. « éléments essentiels d’une facture électronique » : un ensemble d’informations essentielles qui doit figurer dans une facture électronique pour permettre l’interopérabilité transfrontière, y compris les informations nécessaires pour assurer le respect de la législation ;\n3. « modèle sémantique de données » : un ensemble structuré de termes et de significations logiquement corrélés spécifiant les éléments essentiels d’une facture électronique ;\n4. « syntaxe » : le langage ou le dialecte lisible par une machine qui est utilisé pour représenter les éléments de données contenus dans une facture électronique ;\n5. loi du 26 décembre 2012 loi du 3 juillet 2018 Code pénal Code du travail loi modifiée du 10 novembre 2010 loi modifiée du 8 avril 2018\n6. loi modifiée du 8 avril 2018\n7. loi modifiée du 8 avril 2018\n8. loi du 26 décembre 2012 loi du 3 juillet 2018 Code pénal , Code du travail loi modifiée du 10 novembre 2010 loi modifiée du 8 avril 2018\n9. (UE) n° 1025/2012 directives 89/686/CEE 93/15/CEE 94/9/CE 94/25/CE 95/16/CE 97/23/CE 98/34/CE 2004/22/CE 2007/23/CE 2009/23/CE 2009/105/CE décision 87/95/CEE n° 1673/2006/CE\n10. loi du 26 décembre 2012 loi du 3 juillet 2018 loi modifiée du 8 avril 2018\n11. « réseau de livraison » : une solution technique qui permet l’émission, la transmission et la réception automatisées de factures électroniques.",
       "text_sha256": "86081552313bd8f9455e51118d1956fcd004e0216d37bd3023d4a6d9df883672",
       "md_span": {
-        "start": 1827,
-        "end": 3640
+        "start": 1821,
+        "end": 3634
       },
       "citations": []
     },
@@ -91,8 +90,8 @@
       "text_md": "Les éléments essentiels d’une facture électronique sont, entre autres :\n\n1. les identifiants de processus et de facture ;\n2. la période de facturation ;\n3. les renseignements concernant le vendeur ;\n4. les renseignements concernant l’acheteur ;\n5. les renseignements concernant le payeur ;\n6. les renseignements concernant le représentant fiscal du vendeur ;\n7. la référence du contrat ;\n8. les détails concernant la fourniture ;\n9. les instructions relatives au paiement ;\n10. les renseignements concernant les déductions ou frais supplémentaires ;\n11. les informations concernant les postes figurant sur la facture ;\n12. les montants totaux de la facture ;\n13. la répartition par taux de TVA.",
       "text_sha256": "ceeaf5e7c55c301a0753a1830d6debfefd9c30dfad8f3e88ec0399ec1797741a",
       "md_span": {
-        "start": 3722,
-        "end": 4416
+        "start": 3716,
+        "end": 4410
       },
       "citations": []
     },
@@ -108,8 +107,8 @@
       "text_md": "Les pouvoirs adjudicateurs et les entités adjudicatrices reçoivent et traitent les factures électroniques qui sont conformes avec la version la plus récente de la norme européenne sur la facturation électronique qui définit le modèle sémantique de données d’une facture électronique ainsi qu’avec l’une des syntaxes figurant sur la liste la plus récente publiée par la Commission européenne.",
       "text_sha256": "a7e04251ee7e84726f25927b667f551c93f4843d200584bcb4e59d30535dadd7",
       "md_span": {
-        "start": 4502,
-        "end": 4893
+        "start": 4496,
+        "end": 4887
       },
       "citations": []
     },
@@ -125,8 +124,8 @@
       "text_md": "Les opérateurs économiques émettent et transmettent toute facture aux pouvoirs adjudicateurs ou entités adjudicatrices sous forme de facture électronique conforme avec la version la plus récente de la norme européenne sur la facturation électronique qui définit le modèle sémantique de données d’une facture électronique ainsi qu’avec l’une des syntaxes figurant sur la liste la plus récente publiée par la Commission européenne.\n\nSi une version électronique de la facture non conforme aux exigences de l’alinéa 1er accompagne la facture électronique conforme à ces exigences, seule la facture électronique conforme aux exigences de l’alinéa 1er fait foi.\n\nPar dérogation, les dispositions prévues à l’alinéa 1er ne s’appliquent pas aux marchés publics qui sont conclus :\n\n1. dans le cadre de la coopération au développement ;\n2. par des représentations diplomatiques ou par des consulats ;\n3. dans le cadre de la participation du Grand-Duché de Luxembourg à des expositions internationales à l’étranger ;\n4. dans le cadre de visites d’État, de visites officielles ou de visites de travail à l’étranger.",
       "text_sha256": "445fad0af64e94cf0cc6cb6397d21abef45ba0e9e6f6432a741630b808f0b9b4",
       "md_span": {
-        "start": 4986,
-        "end": 6089
+        "start": 4980,
+        "end": 6083
       },
       "citations": []
     },
@@ -142,8 +141,8 @@
       "text_md": "**(1)** Tous les pouvoirs adjudicateurs et entités adjudicatrices utilisent pour la réception automatisée de factures électroniques un seul et même réseau de livraison, appelé réseau de livraison commun, conforme aux critères suivants :\n\n1. être interopérable et ouvert ;\n2. être sécurisé de manière à ce que la non-répudiation ainsi que l’intégrité et la confidentialité des factures électroniques soient garanties ;\n3. permettre à tous les opérateurs économiques d’émettre et de transmettre de manière automatisée toutes leurs factures électroniques à destination de tous les pouvoirs adjudicateurs et de toutes les entités adjudicatrices sans devoir mettre en place des solutions spécifiques avec des exigences techniques particulières pour différents pouvoirs adjudicateurs ou entités adjudicatrices ;\n4. permettre non seulement aux opérateurs économiques d’émettre et de transmettre de manière automatisée des factures électroniques à destination de tous les pouvoirs adjudicateurs et de toutes les entités adjudicatrices, mais aussi d’émettre et de transmettre de manière automatisée des factures électroniques à destination de tous les autres opérateurs économiques qui utilisent le même réseau de livraison et de recevoir, de manière automatisée, des factures électroniques de tous les pouvoirs adjudicateurs, de toutes les entités adjudicatrices et de tous les autres opérateurs économiques qui utilisent ce même réseau de livraison ;\n5. être par défaut transfrontalier, c’est-à-dire permettre par défaut de manière automatisée l’émission, la transmission et la réception transfrontalières dans les deux sens de factures électroniques entre tous les utilisateurs du réseau de livraison dans les États membres et des États non membres de l’UE ;\n6. permettre par défaut de manière automatisée l’émission, la transmission et la réception, non seulement de factures électroniques, mais aussi d’autres types de documents dans un format structuré et standardisé et plus particulièrement des types de documents spécifiques aux procédures des marchés publics, de la facturation et du paiement ;\n7. utiliser par défaut un format d’échange pour les factures électroniques conforme avec la version la plus récente de la norme européenne sur la facturation électronique qui définit le modèle sémantique de données d’une facture électronique ainsi qu’avec l’une des syntaxes figurant sur la liste la plus récente publiée par la Commission européenne.\n\nSur base des critères définis à l’alinéa 1er, un règlement grand-ducal détermine le réseau de livraison commun qui devra être utilisé par tous les pouvoirs adjudicateurs et entités adjudicatrices pour la réception automatisée de factures électroniques. Ce règlement grand-ducal peut fixer des paramètres techniques pour le réseau de livraison commun auxquels chaque utilisateur national du réseau se conforme. Ces paramètres techniques peuvent comporter des règles à respecter en ce qui concerne l’identifiant unique à utiliser afin de permettre un adressage fiable et non équivoque des factures.\n\nLes ministères et administrations de l’État utilisent le point d’accès au réseau de livraison commun mis à disposition par le Centre des technologies de l’information de l’État.\n\nLes autres pouvoirs adjudicateurs ou entités adjudicatrices utilisent, pour recevoir les factures électroniques concernées, le point d’accès au réseau de livraison mis à disposition par le Centre des technologies de l’information de l’État tant qu’ils ne disposent pas d’un propre point d’accès.\n\n**(2)** Pour répondre aux besoins des opérateurs économiques qui ne disposent pas encore de capacités d’émission et de transmission automatisées de factures électroniques via le réseau de livraison, des solutions techniques alternatives non automatisées qui ne permettent que l’émission et la transmission manuelles et individuelles de factures électroniques conformes aux exigences de l’article 4*bis*, alinéa 1er, sont mises à disposition des opérateurs économiques.\n\nUn règlement grand-ducal détermine les solutions techniques alternatives non automatisées.",
       "text_sha256": "6247c8c93386fd603180637e1c7b8d2603e95c5d2e191b7ad59e20ca5baede4f",
       "md_span": {
-        "start": 6151,
-        "end": 10233
+        "start": 6145,
+        "end": 10227
       },
       "citations": []
     },
@@ -159,8 +158,8 @@
       "text_md": "La présente loi est sans préjudice des dispositions de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée.",
       "text_sha256": "456b4a954e534b0a1bcb5b356e855af10aa72f525406323428ebe90c663e58f3",
       "md_span": {
-        "start": 10325,
-        "end": 10456
+        "start": 10319,
+        "end": 10450
       },
       "citations": [
         {
@@ -181,8 +180,8 @@
       "text_md": "**(1)** L’article 4 entre en vigueur le 18 avril 2019.\n\nPar dérogation à l’alinéa 1er, les pouvoirs adjudicateurs sous-centraux et les entités adjudicatrices appliquent l’obligation énoncée à l’article 4 de recevoir et traiter les factures électroniques pour le 18 avril 2020 au plus tard. Cette dérogation ne s’applique pas aux centrales d’achat.\n\n**(2)** L’article 4*bis* s’applique cinq mois après l’entrée en vigueur de la loi du 13 décembre 2021 modifiant la loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession.\n\nPar dérogation à l’alinéa 1er, les opérateurs économiques :\n\n1. bis loi du 13 décembre 2021 loi du 16 mai 2019 1. total du bilan : 20 millions d’euros ;\n2. montant net du chiffre d’affaires : 40 millions d’euros ;\n3. nombre des membres du personnel employé à plein temps et en moyenne au cours de l’exercice : 250.\n2. bis loi du 13 décembre 2021 loi du 16 mai 2019 1. total du bilan : 4,4 millions d’euros ;\n2. montant net du chiffre d’affaires : 8,8 millions d’euros ;\n3. nombre des membres du personnel employé à plein temps et en moyenne au cours de l’exercice : 50.\n3. bis loi du 13 décembre 2021 loi du 16 mai 2019",
       "text_sha256": "923ecf33784f18cff212574897a87c2514c7e8c834287cf4af75e0f3faf3f959",
       "md_span": {
-        "start": 10507,
-        "end": 11714
+        "start": 10501,
+        "end": 11708
       },
       "citations": [
         {

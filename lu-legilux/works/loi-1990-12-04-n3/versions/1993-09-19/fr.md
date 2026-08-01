@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/19930
 source_sha256: cf56e5a1075e4a01140223fdbfb1d2db9684f8be0d513a0f5774b6f1b6b63526
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier: — Du titre, de la nomination, du serment, de la résidence et de la cessation des fonctions

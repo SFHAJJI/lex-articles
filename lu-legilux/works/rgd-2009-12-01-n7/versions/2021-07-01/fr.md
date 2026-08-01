@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20210
 source_sha256: cd610260aebc735be758475acb56f8c6d3dabb525e820784a695d8ec8af08ab2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I — Déclaration du commencement d’activité

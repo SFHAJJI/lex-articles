@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2016/07/27/n1/consolide/20190
 source_sha256: 7672a143bda5e8aa040c9d3be0ec4d479618d65da5c36d1dbd2d5c6c9580ce82
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Détermination des frais de route et de séjour des personnes dont les enfants sont examinés en vue de l'octroi de l'allocation spéciale supplémentaire prévue à l'article 274 du Code de la sécurité sociale

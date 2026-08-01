@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2/consolide/20190
 source_sha256: 206c674f955f2451763fff5703196f74c41cffedf2d763b531eeadae082211e5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Formation théorique

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/consolide/20251
 source_sha256: 5e6f69fc5d3d7532196c0d04e0641ebfe9f3730d4f125b0c5105cba15b6e9764
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier.- — De l’objet de la loi et des définitions

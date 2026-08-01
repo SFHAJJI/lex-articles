@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/202
 source_sha256: f34eb5dd2e8afa53d8ae505870c8aee01d700cd737dc90049289e476dcf82c52
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre** **1er ** — ** Mise en œuvre du règlement (UE) n° 345/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque européens et du règlement (UE) n° 346/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds d’entrepreneuriat social européens**

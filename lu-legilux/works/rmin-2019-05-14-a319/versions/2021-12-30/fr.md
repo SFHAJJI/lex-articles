@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rmin/2019/05/14/a319/consolide/20
 source_sha256: 32d6774450e0e5c19bab7d097aeb45568395d42d1288a513fe4097cf6ea19597
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Généralités**

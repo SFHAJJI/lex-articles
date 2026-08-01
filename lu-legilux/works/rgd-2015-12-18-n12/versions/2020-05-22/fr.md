@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n12/consolide/2020
 source_sha256: 78837e14121c607cee7a3fe3665d102ad75525694b9d6ef81336d4308d98e598
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Les critères d’admissibilité au concours.

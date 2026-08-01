@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7/consolide/20030
 source_sha256: aa5d6201934b2e8028f150e91dc6ffcb07a7d6ad21d78ae1131e18892ea75d60
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

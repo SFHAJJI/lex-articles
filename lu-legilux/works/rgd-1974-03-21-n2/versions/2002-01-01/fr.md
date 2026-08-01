@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1974/03/21/n2/consolide/20020
 source_sha256: 56836bd55de8ef319b28884bb16a2e9527394a833ebe669b2be7f106893b6b45
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Art. Ier.** — Les droits et émoluments des avoués près les tribunaux de première instance et près de la Cour supérieure de Justice, ainsi que le droit de représentation en matière commerciale des avoués et avocats sont fixés comme suit:

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/20030
 source_sha256: 4583956b62a2895bf6a7edbc054816d58eedd4e3b05f9f2f7134c33f9a96c089
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section I - **Dispositions générales**

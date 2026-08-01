@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2017/06/22/a605/consolide/201
 source_sha256: e1edfa2c00bc806f62c5afbc55cdf44ccad1b0e683e7c4b2ef43a2dc6f11647c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **L’organisation de la Maison de l’orientation**

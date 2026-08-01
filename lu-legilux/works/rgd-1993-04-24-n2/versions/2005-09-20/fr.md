@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1993/04/24/n2/consolide/20050
 source_sha256: 2959fb46ea73b80de978596ce563fbf7744de7bb87174bcd485e0e8e3a9d2d21
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

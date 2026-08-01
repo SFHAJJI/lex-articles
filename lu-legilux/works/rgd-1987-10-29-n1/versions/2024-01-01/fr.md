@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1987/10/29/n1/consolide/20240
 source_sha256: 5b1dc93809edb613a78875eb16fa71b60c7a63f76dbbb17f59a1d6d95c87f39e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

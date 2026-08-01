@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a323/consolide/202
 source_sha256: bd13ce88023e7b705eb897a689595d8ba5dfaffb775f9c48ff8113a75d9ed7d0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Le Bureau de gestion des avoirs

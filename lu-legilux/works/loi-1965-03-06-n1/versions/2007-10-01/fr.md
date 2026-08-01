@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1965/03/06/n1/consolide/20071
 source_sha256: c639cab847ac2967f32bebb6dbec2ce9ec9656d4493d63648f6bbcd6a3c6a7c2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

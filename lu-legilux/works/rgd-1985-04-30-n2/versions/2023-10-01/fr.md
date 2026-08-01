@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1985/04/30/n2/consolide/20231
 source_sha256: 84df4529f660d8c7ca86dff2c036a08ed965b9fb7d4b2f324463b525d4024f1b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

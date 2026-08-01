@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/consolide/20161
 source_sha256: 9bc7398aacd44db1e7f50c1fd97c76391fedb7847e0987e772305ff9f88a8376
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## CHAPITRE Ier — ***Dispositions générales***

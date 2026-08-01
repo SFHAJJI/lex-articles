@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n7/consolide/20260
 source_sha256: 2cb88cdd469b0c7a7763f62f8fd820f5bfbc9294437ebb7f4e3f9189b20d4583
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## PARTIE Ire — CADRE DE RESOLUTION

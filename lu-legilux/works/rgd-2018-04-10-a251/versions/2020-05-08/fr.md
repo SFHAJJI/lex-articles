@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/04/10/a251/consolide/202
 source_sha256: d603c2db60aeadc571a48529b1398fbaac22078a4c571c7af2f0fb4e29cbd2e0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — ** Organisation des examens et appréciation des résultats**

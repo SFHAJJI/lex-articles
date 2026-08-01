@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a243/consolide/202
 source_sha256: dd3234981e3026e4084dcf170f2b6f4138e5fbcb6e1fddb70585eed05a932c27
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **LIVRE IER** — **DISPOSITIONS GÉNÉRALES**

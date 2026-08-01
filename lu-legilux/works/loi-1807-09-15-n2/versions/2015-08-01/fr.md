@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/commerce/20150801/fr
 source_sha256: 0c1609fc661b1f2faeaa1c1daec09612084fefff34c8cb35273f0424743edc7f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Livre Ier. — Du commerce en général

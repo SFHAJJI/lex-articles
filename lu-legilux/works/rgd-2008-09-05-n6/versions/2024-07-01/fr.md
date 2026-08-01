@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20240
 source_sha256: 54fc75cb0ea2c6a82d75e6f69d052d8f80ce3e790fb0879e1c59636c7923bb30
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1. – Définitions

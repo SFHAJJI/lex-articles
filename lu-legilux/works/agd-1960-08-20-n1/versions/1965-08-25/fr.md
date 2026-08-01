@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19650
 source_sha256: c0b52584a067ebb6bcf872f84be5ad5b5a78a0183c17819ec4fc5e2d2ae15e2b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## I. — **Disposition préliminaire.**

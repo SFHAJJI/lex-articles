@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/consolide/20111
 source_sha256: daef4f994196e985be112ccec32a3a5ac493e76ca7a3633b49ee99a26a4596bb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

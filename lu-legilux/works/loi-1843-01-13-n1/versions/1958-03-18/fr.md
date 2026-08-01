@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1843/01/13/n1/consolide/19580
 source_sha256: 50dba0fc124cef3c4af15dd53c1e2d68aabb29711e7b46229eb7357c6ee9b2bf
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

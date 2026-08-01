@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1972/08/01/n3/consolide/20020
 source_sha256: c5398f7af92e6ff666c40dc077526c937249b6095911c3b589141ca01e7b0311
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. - Des sépultures

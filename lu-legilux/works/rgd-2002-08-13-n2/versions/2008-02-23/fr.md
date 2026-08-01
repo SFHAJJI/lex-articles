@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20080
 source_sha256: 7849582e6a015c2700f32fecd68ddbc79a5e0fb6997e35eb9d85e78719cb2734
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — La formation spéciale -

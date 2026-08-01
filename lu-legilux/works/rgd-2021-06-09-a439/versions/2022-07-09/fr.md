@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2021/06/09/a439/consolide/202
 source_sha256: 4fa0961d4d98a2a767d6e091706a5deea391568b7f33a50a565c5435b61ac454
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Objet, champ d’application et définitions**

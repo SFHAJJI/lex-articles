@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1977/10/31/n1/consolide/20051
 source_sha256: e6bc2d1322ba9fbd61cf876522f945fc15d98e7a5a7d4b61cafce115c234d239
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

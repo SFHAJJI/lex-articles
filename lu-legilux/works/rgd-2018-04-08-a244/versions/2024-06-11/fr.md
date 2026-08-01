@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/202
 source_sha256: e7976d7a03dbecb793e50202533d08a94829e8ab42ba8bba2299f7b8a4949060
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Livre Ier** — ** Dispositions générales**

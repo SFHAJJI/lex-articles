@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/consolide/20190
 source_sha256: 3ed4121c1f0d0f61f26824f56f09b84842e9a4fcdbd91e0e8d2494dc5601e080
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ***Chapitre Ier. –*** — ***Compétences et mesures administratives***

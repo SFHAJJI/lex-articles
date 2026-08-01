@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/tc/2014/01/29/n2/consolide/201112
 source_sha256: cc8c8ae251e8689368a392c8830e4850020b1555e6facf582dd88293450bc06a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Dispositions générales.

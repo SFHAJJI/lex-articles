@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2/consolide/19881
 source_sha256: 9c4c6ba0bee637c0b70d630a910f7fce8087192ed8d9cbd57132bb027e6988e5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/consolide/20160
 source_sha256: c457e5c96c5ce1e8af87e500a8b3b9fb717e8cc9f7fa3579500feec110336b32
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I. — Objectifs, missions, définitions

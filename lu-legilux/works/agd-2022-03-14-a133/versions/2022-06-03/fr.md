@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/2022/03/14/a133/consolide/202
 source_sha256: e7b6716aada2c7529b7f3e13f273eb95874575c27443288191bb16471cf918f5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Dispositions déontologiques

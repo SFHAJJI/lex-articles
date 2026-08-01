@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20250101/f
 source_sha256: 29a366ac7aaa1e013d410fdbd6d2256281190cc0e6f49160153d0133254c6f09
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **I. Fonctionnaires de l'État**

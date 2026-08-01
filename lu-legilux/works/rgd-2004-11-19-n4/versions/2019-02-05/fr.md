@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2004/11/19/n4/consolide/20190
 source_sha256: 90299989a1dc89e8b07d37de34e7b7693cde4eee62b4e11b708656cfc818e679
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Autorisation de fabrication de médicaments à usage humain ou vétérinaire

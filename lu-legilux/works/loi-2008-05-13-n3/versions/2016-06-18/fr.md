@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/05/13/n3/consolide/20160
 source_sha256: 50220b1e06e820423a2466aba0e1a9760254010c581f2d24ba94f59f1a06a3ca
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Premier.** — **Principe de l’égalité de traitement**

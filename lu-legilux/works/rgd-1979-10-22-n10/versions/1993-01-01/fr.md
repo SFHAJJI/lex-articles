@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1979/10/22/n10/consolide/1993
 source_sha256: 7907469e4b4a3d522abde5136c35c64c75ab656639b34fcff649238cdbef3e9a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2024/05/22/a219/consolide/202
 source_sha256: 11bee0cf2a0b2a24d64d15ca2768b3185a19ba216f45f47f2d5967df320c6972
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Droits d’enregistrement et de transcription pour l’acquisition d’immeubles destinés à servir d’habitation à un locataire

@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -34,8 +33,8 @@
       "text_md": "Au sens du présent règlement, on entend par :\n\n1. loi modifiée du 4 décembre 1967\n2. règlement grand-ducal modifié du 9 janvier 1974\n3. règlement grand-ducal modifié du 27 décembre 1974\n4. règlement grand-ducal modifié du 19 décembre 2008\n5. loi loi\n6. 1. er loi\n2. loi\n7. « salariés » ou « pensionnés » : les contribuables bénéficiant respectivement d’un salaire ou d’une pension visés au numéro 6 ;\n8. loi ter loi\n9. « résident » ou « non-résident » : une personne physique qui, au moment de la constatation d’une situation, a ou n’a pas son domicile fiscal ou son séjour habituel au Grand-Duché ;\n10. « bureau RTS compétent » : le bureau d’imposition compétent pour l’établissement des fiches de retenue d’impôt du salarié ou pensionné ;\n11. 1. au moins un enfant pour lequel il est attributaire des allocations familiales,\n2. un enfant majeur qui est lui-même attributaire des allocations familiales,\n3. loi règlement grand-ducal du 23 décembre 2016 loi modifiée du 4 décembre 1967 loi\n12. « transmission électronique » : une transmission par un canal sécurisé de l’Administration des contributions directes à l’employeur, à la caisse de pension ou au débiteur de la pension ou rente de toutes les inscriptions permettant le calcul exact de la retenue d’impôt et des crédits d’impôt ;\n13. « mise à disposition électronique » : une mise à disposition sur une plateforme informatique sécurisée à l’employeur, à la caisse de pension ou au débiteur de la pension ou rente de toutes les inscriptions permettant le calcul exact de la retenue d’impôt et des crédits d’impôt ;\n14. « date de début de validité » : la date à partir de laquelle les inscriptions de la fiche de retenue d’impôt sont applicables ;\n15. « date de fin de validité » : la date après laquelle les inscriptions de la fiche de retenue d’impôt ne sont plus applicables ;\n16. loi",
       "text_sha256": "8bc8ec6fe87bae953e96cacf4fa270e2c8c3a2ae71bde66bba7be58cd7c6e78e",
       "md_span": {
-        "start": 953,
-        "end": 2797
+        "start": 947,
+        "end": 2791
       },
       "citations": []
     },
@@ -53,8 +52,8 @@
       "text_md": "Les fiches de retenue d’impôt sont établies par l’Administration des contributions directes. La fiche est destinée à recevoir les inscriptions devant permettre la détermination de la retenue et des crédits d’impôt.",
       "text_sha256": "ec6e93e480926c5d50454c6582f81ecb78558e2a86bd2661f2437985475ca220",
       "md_span": {
-        "start": 2881,
-        "end": 3095
+        "start": 2875,
+        "end": 3089
       },
       "citations": []
     },
@@ -72,8 +71,8 @@
       "text_md": "**(1)** L’Administration des contributions directes établit une fiche principale pour chaque salarié et pensionné. Lorsque deux conjoints imposables collectivement touchent chacun une ou plusieurs rémunérations, une fiche principale n’est établie que pour celui des conjoints qui touche la rémunération qualifiée de première rémunération par l’article 3, alinéa 2, du règlement de détermination de la retenue.\n\n**(2)** Lorsqu’un salarié ou un pensionné, seul ou ensemble avec le conjoint imposable collectivement avec lui, cumule plusieurs rémunérations touchées auprès d’employeurs ou de caisses de pension différents, il est établi, en dehors de la fiche principale visée à l’alinéa 1er, une fiche de retenue additionnelle pour chaque rémunération supplémentaire touchée en sus de la première rémunération, pour autant que cette rémunération supplémentaire n’est pas soumise à une imposition forfaitaire ou à une retenue forfaitaire au sens des articles 27 à 30a du règlement de détermination de la retenue.",
       "text_sha256": "79b13603558dda5774daba28992eb9efe246f0d96b701c92f1dc51e21c438b39",
       "md_span": {
-        "start": 3130,
-        "end": 4139
+        "start": 3124,
+        "end": 4133
       },
       "citations": [
         {
@@ -96,8 +95,8 @@
       "text_md": "**(1)** Les fiches de retenue sont établies d’office ou sur demande suivant les distinctions prévues par les articles 5 et 6.\n\n**(2)** L’Administration des contributions directes est seule habilitée à établir les fiches de retenue.\n\n**(3)** Les inscriptions inexactes de la fiche de retenue d’impôt peuvent à tout moment être redressées par l’Administration des contributions directes. Aucune inscription ne peut être modifiée, ni par le titulaire de la fiche, ni par l’employeur ou la caisse de pension, ni par une autre personne.",
       "text_sha256": "a1b9876787a989fd372d5cd24541c23b6ae03955a9d93f58f6c8a891c0d1da6c",
       "md_span": {
-        "start": 4174,
-        "end": 4705
+        "start": 4168,
+        "end": 4699
       },
       "citations": []
     },
@@ -115,8 +114,8 @@
       "text_md": "Sauf les cas visés aux articles 6 à 8, les fiches de retenue d’impôt sont établies et mises à jour d’office par l’Administration des contributions directes sur base des informations à sa disposition.",
       "text_sha256": "3331f16d40394630af34c61a38d2942f15408ed0babdae72a1f4dbdea042eb28",
       "md_span": {
-        "start": 4740,
-        "end": 4939
+        "start": 4734,
+        "end": 4933
       },
       "citations": []
     },
@@ -134,8 +133,8 @@
       "text_md": "**(1)** Les fiches de retenue sont sur demande établies par l’Administration des contributions directes pour les salariés et pensionnés qui touchent un revenu passible de retenue et pour lesquels une fiche de retenue n’a pas été établie d’office par l’Administration des contributions directes.\n\n**(2)** L’employeur est obligé de signaler à l’Administration des contributions directes chaque changement de lieu de travail de ses salariés. L’Administration des contributions directes procèdera, le cas échéant, à une mise à jour de la fiche de retenue d’impôt concernée.\n\n**(3)** Les salariés et pensionnés non résidents doivent signaler à l’Administration des contributions directes tous les changements de leur situation qui ont un impact sur les inscriptions de la fiche de retenue d’impôt. L’Administration des contributions directes procède alors, le cas échéant, à une mise à jour de la fiche de retenue d’impôt concernée. Les changements de lieu de travail auprès du même employeur ne sont pas visés par le présent alinéa.",
       "text_sha256": "bc1fbdc3847fa05c19cd2e1f9841a9c4c2eefcc49129f3b8d0897c18533bce82",
       "md_span": {
-        "start": 4974,
-        "end": 6002
+        "start": 4968,
+        "end": 5996
       },
       "citations": []
     },
@@ -153,8 +152,8 @@
       "text_md": "**(1)** Les changements en cours d’une année des situations documentées par les inscriptions de la fiche de retenue donnent lieu à des inscriptions correctives dans les conditions et sous les modalités prévues par les dispositions suivantes :\n\n1. règlement grand-ducal modifié du 28 décembre 1990 loi modifiée du 4 décembre 1967\n2. règlement des modalités de déduction\n3. règlement de détermination de la retenue\n\n**(2)** Sous réserve du droit d’intervention d’office du bureau RTS compétent, les inscriptions correctives ont lieu sur demande du salarié ou du pensionné.\n\n**(3)** Chaque inscription corrective au sens de l’alinéa 1er se formalise par l’établissement d’une nouvelle fiche de retenue d’impôt.",
       "text_sha256": "f719845f8fc192f196f944db31cfe455cd352a55e4f7df7e29436f8d9996eaa6",
       "md_span": {
-        "start": 6037,
-        "end": 6744
+        "start": 6031,
+        "end": 6738
       },
       "citations": []
     },
@@ -172,8 +171,8 @@
       "text_md": "**(1)** Lorsque des contribuables résidents se marient en cours de l’année d’imposition ou que des conjoints, ne vivant pas en fait séparés en vertu d’une dispense de la loi ou de l’autorité judiciaire, deviennent contribuables résidents en cours de l’année d’imposition, la fiche principale originairement établie au nom du conjoint touchant la rémunération supplémentaire est convertie en fiche additionnelle. Le présent alinéa n’est toutefois applicable que pour autant que l’autre conjoint est lui-même titulaire d’une fiche principale et que les conjoints sont imposables collectivement.\n\n**(2)** Au cas où, en cours d’année, il y a dans le chef de conjoints résidents imposables collectivement dissolution du mariage, séparation de fait en vertu d’une dispense de la loi ou de l’autorité judiciaire ou perte, par le ménage ou par un des conjoints, du statut de résident, cet événement n’entraîne pas de conversion de la fiche additionnelle.\n\n**(3)** Les conversions de fiches ont lieu sur demande, sauf que l’Administration des contributions directes peut, en cas de carence du titulaire, procéder à une conversion d’office.\n\n**(4)** Chaque conversion de fiche au sens de l’alinéa 1er se formalise par l’établissement d’une nouvelle fiche de retenue d’impôt.",
       "text_sha256": "2c9f124dcd0b5871ab7db7d32b4a9e4d173181a4ce063b20c995d4c9b3db9562",
       "md_span": {
-        "start": 6779,
-        "end": 8043
+        "start": 6773,
+        "end": 8037
       },
       "citations": []
     },
@@ -191,8 +190,8 @@
       "text_md": "**(1)** Au début de l’année d’imposition, l’Administration des contributions directes détermine les inscriptions à figurer sur la fiche pour la détermination de la retenue et des crédits d’impôt de l’année d’imposition lorsqu’à la fin de l’année précédant l’année d’imposition une fiche de retenue d’impôt émise antérieurement était applicable et ne portait pas une date de fin de validité antérieure au 1er janvier de l’année d’imposition.\n\n**(2)** Si les inscriptions ainsi déterminées sont identiques aux inscriptions qui figurent sur la fiche applicable à la fin de l’année d’imposition précédente, l’Administration des contributions directes n’émet pas de nouvelle fiche de retenue d’impôt et la fiche applicable à la fin de l’année d’imposition précédente reste applicable dès le 1er janvier de l’année d’imposition. Dans le cas contraire, l’Administration des contributions directes émet une nouvelle fiche de retenue applicable à partir du 1er janvier de l’année d’imposition et comportant les inscriptions visées à l’alinéa précédent.",
       "text_sha256": "d91f8845b52f96e124fe1cf633a9562d9c578d709825ad930fff3aed095ac472",
       "md_span": {
-        "start": 8078,
-        "end": 9121
+        "start": 8072,
+        "end": 9115
       },
       "citations": []
     },
@@ -210,8 +209,8 @@
       "text_md": "Lors de l’émission d’une fiche de retenue, l’Administration des contributions directes fait les inscriptions suivantes :\n\n1. les données d’identification et l’adresse du salarié ou pensionné ;\n2. la classe d’impôt ;\n3. les données d’identification de l’employeur ;\n4. la commune du lieu de travail ;\n5. la date de début de validité ;\n6. le cas échéant, la date de fin de validité ;\n7. règlement des modalités de déduction\n8. er règlement des modalités de déduction\n9. un identifiant de la fiche de retenue et la date d’émission ;\n10. le cas échéant, des instructions associées.",
       "text_sha256": "68fc02a26a8a17c1a2574ddd71b36d51a27841c631d907e0eae14f0b9965964b",
       "md_span": {
-        "start": 9158,
-        "end": 9735
+        "start": 9152,
+        "end": 9729
       },
       "citations": []
     },
@@ -229,8 +228,8 @@
       "text_md": "**(1)** La fiche est mise à disposition par l’Administration des contributions directes à l’employeur ou caisse de pension ainsi qu’au salarié ou pensionné. La mise à disposition à l’employeur ou caisse de pension se fait sous forme électronique.\n\n**(2)** Le salarié ou pensionné est tenu\n\n- de vérifier l’exactitude des inscriptions de ladite fiche,\n- de requérir, le cas échéant, la rectification d’inscriptions inexactes de la part du service émetteur de la fiche,\n- de suivre les instructions associées le cas échéant à la fiche.",
       "text_sha256": "79c6a97ecc97a907f06047705af14f992764e0297861706a4b468579677cafcf",
       "md_span": {
-        "start": 9772,
-        "end": 10305
+        "start": 9766,
+        "end": 10299
       },
       "citations": []
     },
@@ -248,8 +247,8 @@
       "text_md": "**(1)** Les inscriptions de la fiche de retenue sont applicables à partir de la date de début de validité y inscrite.\n\n**(2)** Les inscriptions de la fiche de retenue sont déterminantes pour la retenue à opérer à charge des rémunérations ordinaires attribuées au titre de périodes de paie ou de pension prenant fin à partir de la date de début de validité et des rémunérations non périodiques allouées à partir de la date de début de validité.\n\n**(3)** Si l’Administration des contributions directes émet, pour un même employeur ou une même caisse de pension, une nouvelle fiche de retenue d’impôt, celle-ci invalide automatiquement la fiche émise antérieurement concernant cet employeur ou cette caisse de pension à partir de la date de début de validité de la nouvelle fiche.\n\n**(4)** L’Administration des contributions directes est autorisée, en cas de circonstances particulières à apprécier par elle, à inscrire une date de fin de validité sur la fiche. Dans un tel cas, les inscriptions de la fiche sont seulement applicables jusqu’à cette date.\n\n**(5)** À la fin d’emploi d’un salarié, toute fiche de retenue d’impôt en relation avec l’employeur concerné qui serait valable au-delà de la date de fin d’emploi est invalidée par l’établissement d’une nouvelle fiche, qui contient exactement les mêmes inscriptions, sauf qu’elle porte comme date de fin de validité la date de fin d’emploi faisant en sorte que les inscriptions de la fiche sont seulement applicables jusqu’à cette date.",
       "text_sha256": "b4d71a009ba35139e404e79a1544a0395d9e7c0ffac838ffab61c8ec954230af",
       "md_span": {
-        "start": 10342,
-        "end": 11831
+        "start": 10336,
+        "end": 11825
       },
       "citations": []
     },
@@ -267,8 +266,8 @@
       "text_md": "L’Administration des contributions directes est seule compétente pour les opérations suivantes :\n\n1. loi règlement des modalités de déduction\n2. er",
       "text_sha256": "4c98e12c84dadc522ba9438fb45e3f3008a98145ef9365512cda3129d59bf915",
       "md_span": {
-        "start": 11980,
-        "end": 12127
+        "start": 11974,
+        "end": 12121
       },
       "citations": []
     },
@@ -286,8 +285,8 @@
       "text_md": "**(1)** L’Administration des contributions directes inscrit les données prévues à l’article 10 sur la fiche.\n\n**(2)** Sur la fiche principale d’un salarié ou pensionné résident marié qui a demandé, ensemble avec son conjoint, une imposition individuelle suivant les dispositions de l’article 3*ter*, alinéa 2 de la loi, l’Administration des contributions directes inscrit, en outre, si les conjoints touchent chacun un ou plusieurs salaires, la déduction correspondant à l’abattement extra-professionnel revenant au salarié ou pensionné (la déduction sera indiquée par le code AE sur la fiche). Dans le cas d’une telle inscription, la retenue d’impôt est déterminée par application du barème respectif au montant semi-net de la rémunération diminué de la déduction susvisée.\n\n**(3)** Sur la fiche principale d’un salarié ou pensionné résident marié qui a demandé, ensemble avec son conjoint, une imposition individuelle suivant les dispositions de l’article 3*ter*, alinéa 3 de la loi, l’Administration des contributions directes inscrit, outre les données prévues à l’article 10 :\n\n1. loi\n2. la déduction correspondant au minimum forfaitaire pour frais d’obtention de la catégorie de revenu considérée (indiquée par le code FFO sur la fiche) ;\n3. la déduction correspondant au minimum forfaitaire pour dépenses spéciales revenant au salarié ou pensionné (indiquée par le code FDS sur la fiche) ;\n4. si les conjoints touchent chacun un ou plusieurs salaires, la déduction correspondant à l’abattement extra-professionnel revenant au salarié ou pensionné (indiquée par le code AE sur la fiche).\n\nLa retenue d’impôt est déterminée par application du taux de retenue visé sub i) au montant semi-net de la rémunération diminué des déductions visées sub ii) et iii) et, le cas échéant, de la déduction visée sub iv).\n\n**(4)** Il est tenu compte des changements d’état civil ou de famille survenant en cours d’année selon les prescriptions de l’article 16.",
       "text_sha256": "f33c9f117ec541a664ce027b6bb5281f4c2131e16ab52ca78c6f10572a17df3a",
       "md_span": {
-        "start": 12164,
-        "end": 14114
+        "start": 12158,
+        "end": 14108
       },
       "citations": [
         {
@@ -310,8 +309,8 @@
       "text_md": "**(1)** L’Administration des contributions directes détermine la classe d’impôt du salarié ou pensionné résident selon les distinctions suivantes :\n\n1. la classe d’impôt 1 est certifiée pour les salariés et les pensionnés qui n’appartiennent au début de l’année d’imposition pas à une des deux autres classes d’impôt ;\n2. 1. pour les salariés et pensionnés veufs au début de l’année d’imposition,\n2. er\n3. pour les salariés et pensionnés qui ont terminé leur soixante-quatrième année au début de l’année d’imposition ;\n3. 1. loi\n2. pour les salariés et les pensionnés veufs au début de l’année d’imposition dont le mariage a été dissous par décès au cours d’une des trois années précédant l’année d’imposition,\n3. loi\n\n**(2)** Par dérogation à l’alinéa 1er, les salariés et les pensionnés résidents mariés qui, sur leur demande conjointe, sont imposés individuellement suivant les dispositions de l’article 3*ter*, alinéa 2 de la loi sont toujours rangés en classe d’impôt 1.\n\n**(3)** Pour les salariés et les pensionnés résidents mariés qui, sur leur demande conjointe, sont imposés individuellement suivant les dispositions de l’article 3*ter*, alinéa 3 de la loi, la retenue d’impôt est cependant déterminée par application d’un taux de retenue conformément à l’article 14, alinéa 3 du présent règlement.",
       "text_sha256": "46557d807c6af974ad3060435e4066a490e2d9609dbd2c182a6cec132b3ee177",
       "md_span": {
-        "start": 14151,
-        "end": 15458
+        "start": 14145,
+        "end": 15452
       },
       "citations": [
         {
@@ -334,8 +333,8 @@
       "text_md": "En cours d’année, l’Administration des contributions directes procède à des inscriptions correctives, lorsqu’un salarié ou un pensionné résident inscrit dans la classe d’impôt 1 ou 1a établit qu’il a contracté mariage et qu’il y a imposition collective avec son conjoint; dans ce cas, l’Administration des contributions directes établit une nouvelle fiche de retenue d’impôt indiquant la classe d’impôt 2.",
       "text_sha256": "03dff24ff48b88fbe7000c8fd6b345eb62d759cca817e823de40562a14069205",
       "md_span": {
-        "start": 15495,
-        "end": 15900
+        "start": 15489,
+        "end": 15894
       },
       "citations": []
     },
@@ -353,8 +352,8 @@
       "text_md": "**(1)** Sur demande à formuler auprès du bureau RTS compétent, pour le salarié ou le pensionné résident dans le chef duquel, eu égard à la situation existant au début de l’année d’imposition, se trouvent remplies les conditions donnant droit à l’octroi de la classe 1a du fait qu’il est susceptible de bénéficier d’une modération d’impôt pour enfant selon les dispositions prévues à l’article 1er, point 11, lettre c), l’inscription indiquant la classe d’impôt 1 est remplacée par une inscription corrective indiquant la classe d’impôt 1a. La date d’effet de l’inscription corrective reste fixée au début de l’année d’imposition.\n\n**(2)** Lorsqu’un salarié ou un pensionné résident inscrit dans la classe d’impôt 1 établit la survenance dans son ménage d’au moins un enfant susceptible de le faire bénéficier d’une modération d’impôt pour enfant, l’inscription indiquant la classe d’impôt 1 est remplacée, sur demande à formuler au bureau RTS compétent, par une inscription corrective indiquant la classe d’impôt 1a.\n\n**(3)** Le remplacement de la classe 1 par la classe 1a a un caractère provisoire.",
       "text_sha256": "ca09d683d465754b82a4ed6bf9820e671807df6f7ad3ec808b26d7089df206b1",
       "md_span": {
-        "start": 15937,
-        "end": 17037
+        "start": 15931,
+        "end": 17031
       },
       "citations": []
     },
@@ -372,8 +371,8 @@
       "text_md": "**(1)** Pour l’établissement des fiches de retenue additionnelles des salariés et pensionnés résidents et les inscriptions correctives à y porter, les dispositions des articles qui précèdent sont applicables par analogie pour autant qu’il n’en est pas disposé autrement aux alinéas qui suivent et aux articles 14 à 19 du règlement de détermination de la retenue.\n\n**(2)** L’Administration des contributions directes inscrit sur la fiche de retenue additionnelle :\n\n1. les inscriptions prévues à l’article 10 ;\n2. règlement de détermination de la retenue\n3. ter loi loi\n4. s’il s’agit d’une fiche relative au premier salaire d’une personne, dont le conjoint est également salarié et qu’il y a imposition collective, la déduction correspondant aux fractions de minima forfaitaires et d’abattement extra-professionnel revenant à cette personne. Lorsque celle-ci exerce, en dehors de son premier emploi, un ou plusieurs autres emplois salariés, la déduction n’est pas à inscrire sur les fiches relatives à ces emplois supplémentaires.",
       "text_sha256": "b38adc3f440a67322c09306beb45973b0423ef399602238d5baf82c79d305f82",
       "md_span": {
-        "start": 17189,
-        "end": 18219
+        "start": 17183,
+        "end": 18213
       },
       "citations": [
         {
@@ -396,8 +395,8 @@
       "text_md": "Les fiches de retenue destinées aux salariés et pensionnés non résidents sont établies et font, le cas échéant, l’objet d’inscriptions correctives dans les mêmes conditions et selon les mêmes modalités que les fiches destinées aux résidents, sauf\n\n1. bis loi règlement grand-ducal modifié du 28 décembre 1990 loi modifiée du 4 décembre 1967\n2. que les dispositions de l’article 14, alinéas 2 et 3, de l’article 15, de l’article 16 et de l’article 18, alinéa 2, lettres c) et d) du présent règlement ne s’appliquent pas ;\n3. bis loi 1. bis loi ter loi\n2. la déduction correspondant au minimum forfaitaire pour frais d’obtention de la catégorie de revenu considérée (indiquée par le code FFO sur la fiche) ;\n3. la déduction correspondant au minimum forfaitaire pour dépenses spéciales revenant au salarié ou pensionné (indiquée par le code FDS sur la fiche) ;\n4. si les conjoints touchent chacun un ou plusieurs salaires, la déduction correspondant à l’abattement extra-professionnel revenant au salarié ou pensionné (indiquée par le code AE sur la fiche). La retenue d’impôt est déterminée par application du taux de retenue visé sub i) au montant semi-net de la rémunération diminué des déductions visées sub ii) et iii) et, le cas échéant, de la déduction visée sub iv) ;\n4. bis loi règlement de détermination de la retenue bis loi ter loi",
       "text_sha256": "0eebf9ee6e7fa58edaaf01732e0bfc9971763fe63e34f4908929cc1aed4bc950",
       "md_span": {
-        "start": 18391,
-        "end": 19731
+        "start": 18385,
+        "end": 19725
       },
       "citations": []
     },
@@ -415,8 +414,8 @@
       "text_md": "L’employeur ou la caisse de pension est tenu de déterminer la retenue et les crédits d’impôt sur la base des inscriptions de la fiche de retenue.",
       "text_sha256": "695069af353a0fbb5a36edf190b55807d645fe607bb71765963751a6cbc2d441",
       "md_span": {
-        "start": 19847,
-        "end": 19992
+        "start": 19841,
+        "end": 19986
       },
       "citations": []
     },
@@ -434,8 +433,8 @@
       "text_md": "**(1)** En cas d’établissement d’une nouvelle fiche de retenue, l’employeur ou la caisse de pension tient pour la première fois compte de la nouvelle situation lors de la première attribution de revenu passible de retenue postérieure au moment où la nouvelle fiche lui a été communiquée, mais au plus tôt à la date de début de validité de la nouvelle fiche.\n\n**(2)** Toutefois, lorsque la nouvelle fiche mentionne qu’elle s’applique rétroactivement à partir d’une date de début de validité antérieure à la date de communication de la fiche à l’employeur ou à la caisse de pension, celui-ci est autorisé\n\n- soit à déduire des retenues à venir de l’année d’imposition en cours l’impôt qui a été retenu en trop au cours de la période de rétroaction,\n- soit à prélever sur les rémunérations à venir de l’année d’imposition en cours l’impôt qui aurait dû être retenu en plus au cours de la période de rétroaction.",
       "text_sha256": "552bde20e26f74e9742ec5f6c98237817315ae26db6eab6ee3b19dcc3ac13c75",
       "md_span": {
-        "start": 20029,
-        "end": 20937
+        "start": 20023,
+        "end": 20931
       },
       "citations": []
     },
@@ -453,8 +452,8 @@
       "text_md": "Le règlement grand-ducal modifié du 21 décembre 2012 remplaçant le règlement grand-ducal modifié du 21 décembre 2007 portant exécution de l’article 143 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu est abrogé.",
       "text_sha256": "a22d83c1885871dff27923a8f340b824e7f022446b2f6c6609dcb15d50ccf548",
       "md_span": {
-        "start": 21037,
-        "end": 21271
+        "start": 21031,
+        "end": 21265
       },
       "citations": [
         {
@@ -485,8 +484,8 @@
       "text_md": "**(1)** Les fiches émises avant le 1er mai 2021 sont seulement valables pour l’année d’imposition 2021. À cet effet, l’Administration des contributions directes inscrit sur ces fiches soit une date de fin de validité en vertu de l’article 12, alinéa 4 du présent règlement, laquelle ne peut pas être postérieure au 31 décembre 2021, soit elle y inscrit le 31 décembre 2021 comme date de fin de validité.\n\n**(2)** Les fiches émises avant le 1er mai 2021 ne sont, par dérogation à l’article 11, alinéa 1er du présent règlement, pas mises électroniquement à disposition des employeurs et caisses de pension.\n\n**(3)** Les fiches émises avant le 1er janvier 2022 doivent être remises sans délai par les salariés ou pensionnés à leur employeur ou caisse de pension, sauf en cas d’une transmission électronique au sens de l’article 143, alinéa 3a, de la loi. Les fiches portent des instructions correspondantes.\n\n**(4)** Au début de l’année d’imposition 2021, l’Administration des contributions directes émet une fiche de retenue pour toute rémunération existant au 1er janvier 2021. Ces fiches portent le 1er janvier 2021 comme date de début de validité.\n\n**(5)** Au début de l’année d’imposition 2022, l’Administration des contributions directes émet une fiche de retenue pour toute rémunération existant au 1er janvier 2022 pour laquelle aucune fiche n’a été émise à partir du 1er mai 2021. Ces fiches portent le 1er janvier 2022 comme date de début de validité.",
       "text_sha256": "29dcf46476330be545c35aa3e2118f7e46be36c3ca547a492519a11376a0d1fd",
       "md_span": {
-        "start": 21308,
-        "end": 22766
+        "start": 21302,
+        "end": 22760
       },
       "citations": [
         {
@@ -509,8 +508,8 @@
       "text_md": "Le présent règlement est applicable à partir de l’année d’imposition 2021.",
       "text_sha256": "f8ad9ccf7bd57a2f9d56dfd620ca2ca7d6ecdc7f9df1d649463e46cf7b9c9c96",
       "md_span": {
-        "start": 22803,
-        "end": 22877
+        "start": 22797,
+        "end": 22871
       },
       "citations": []
     },
@@ -528,8 +527,8 @@
       "text_md": "Notre ministre ayant les Finances dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
       "text_sha256": "82f62435b0d24a50520fecedc186659f6cda47d236c175d767326994f5f9b81e",
       "md_span": {
-        "start": 22914,
-        "end": 23082
+        "start": 22908,
+        "end": 23076
       },
       "citations": []
     }

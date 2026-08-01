@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542/consolide/202
 source_sha256: f62ad38a90a774f2eff1938974c6ee195ccfea779388e2a429932ba8f0e8876a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1.er — L’autorité compétente en matière d’assistance judiciaire

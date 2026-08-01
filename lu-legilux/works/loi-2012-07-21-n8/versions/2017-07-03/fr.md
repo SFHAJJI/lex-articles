@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/consolide/20170
 source_sha256: e0916d215b8f2e46e0b9ac8f47340ce8a8dbebdf52166f5a880e59d54b6b4ab2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier.** — *****Dispositions générales*****

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20230
 source_sha256: a3f17cac1d82727cf7962eb058cb469e917ca96e87e8c1b8d62d15e6d37ebdfc
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1. — Champ d'application

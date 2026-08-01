@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2009/07/01/n1/consolide/20140
 source_sha256: 83fe9ba2fdb0cd2a6179657e5b9dd79128aab5829dd93b9c366e3a6f1f5486bf
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Généralités

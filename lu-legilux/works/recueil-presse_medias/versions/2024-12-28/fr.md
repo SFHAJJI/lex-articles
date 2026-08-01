@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20241228/fr
 source_sha256: 397a7b51d51fa737bf442bb11348d75bb605b2013c3c6b4ce31ac0a9c5ea6ac2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **1. Constitution**

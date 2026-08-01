@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1/consolide/20170
 source_sha256: fbe5d56ef7cdc33ddf046f5e194b3aa66b61e9f40507c91006cd3abd70ad4d3d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — **Mesures visant le maintien de l’emploi**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n8/consolide/20180
 source_sha256: 8293054cd468ffe2e6f3107f699d757f8997804a7a30223b35cb66daf725d6be
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1. Attributions du Collège médical.

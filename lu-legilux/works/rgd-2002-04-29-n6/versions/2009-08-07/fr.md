@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n6/consolide/20090
 source_sha256: f844a41256ffb2a6ab108172c36ada3bb3944bf548f8dec8effe5280c61a9ba6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Champ d’application**

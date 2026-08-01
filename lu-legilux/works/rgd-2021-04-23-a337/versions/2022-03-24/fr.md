@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2021/04/23/a337/consolide/202
 source_sha256: 85018bf0c23abbe0f762320635c1b36866241d8ab35e150f9923db5565c45302
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Organisation de la formation pendant le service provisoire pour les fonctionnaires communaux

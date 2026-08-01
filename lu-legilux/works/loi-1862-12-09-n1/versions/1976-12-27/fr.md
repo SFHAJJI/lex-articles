@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/consolide/19761
 source_sha256: 2c74d6c81dbff47b2a32c68649db558b50c4394970011c7b6b446562923aae98
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er_19761227"></a>

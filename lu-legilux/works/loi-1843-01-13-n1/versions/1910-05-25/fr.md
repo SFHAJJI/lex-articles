@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1843/01/13/n1/consolide/19100
 source_sha256: 922b3f1bb4b6984f0412e7adc0d4965a0c9d071f40ca56e3bb97e5e957a77a9b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

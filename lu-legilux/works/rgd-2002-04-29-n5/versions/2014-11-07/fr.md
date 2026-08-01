@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n5/consolide/20141
 source_sha256: 648155934548f0c481249b32104c4f3c7801895f7f55d4e8c8e4c149c1fba941
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **A)** — ** Définitions**

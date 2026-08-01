@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/logement/20241206/fr
 source_sha256: 0e2586c95cc2e3641df30a2cb46eaf74dd2e45c0c3dd8d574daaf7436b474564
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **I. AIDES INDIVIDUELLES**

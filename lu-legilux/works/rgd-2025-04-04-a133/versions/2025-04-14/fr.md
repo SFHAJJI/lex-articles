@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2025/04/04/a133/consolide/202
 source_sha256: a23b509047e1175851aa75aa3d07eb352868abd16bec1781caae9bc0a5472395
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Formation spéciale et examen de fin de formation spéciale des fonctionnaires stagiaires de l’Administration d’évaluation et de contrôle de l’assurance dépendance

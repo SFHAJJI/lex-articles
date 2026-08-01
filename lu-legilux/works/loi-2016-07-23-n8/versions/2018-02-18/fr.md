@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/consolide/20180
 source_sha256: 5b2e866d8371e01291df04befd1b23fc22fd4026e2aec2a4ad1dd788f9c192a6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## PARTIE Ière -: — Transposition de la directive 2014/56/UE du Parlement européen et du Conseil du 16 avril 2014 modifiant la directive 2006/43/CE concernant les contrôles légaux des comptes annuels et des comptes consolidés.

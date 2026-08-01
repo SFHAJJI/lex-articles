@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/consolide/20141
 source_sha256: 0db02cec73fc9a494cf1713d7127c689ee668230b65d45c1bccf694ae0ee5d05
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

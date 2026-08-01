@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a701/consolide/202
 source_sha256: 0772b482b3f12536889cda1bf2887e61836842dd688681091c9dda7fc3676610
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — ** L'Administration de l'enregistrement, des domaines et de la TVA**

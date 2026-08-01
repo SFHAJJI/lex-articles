@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -32,8 +31,8 @@
       "text_md": "En exécution de l’article 56, paragraphe 2, de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée, la taxe sur la valeur ajoutée due au titre d’importations et d’acquisitions intracommunautaires de tabacs fabriqués à l’étranger, ainsi qu’au titre de livraisons de tabacs fabriqués subséquentes à la fabrication de ces tabacs au Grand-Duché de Luxembourg, est perçue conformément à un régime dit « régime de perception à la source ».\n\nPar tabacs fabriqués, on entend, comme en matière d’accises, ceux visés à l’article 2, paragraphe 1er, de la loi modifiée belge du 3 avril 1997 relative au régime fiscal des tabacs manufacturés, tels que définis aux articles 4 à 8 de ladite loi.",
       "text_sha256": "e0597ad328d33dd6d0fb8f02656457b5fbd1cbe44903f2456da2092979552006",
       "md_span": {
-        "start": 748,
-        "end": 1452
+        "start": 742,
+        "end": 1446
       },
       "citations": [
         {
@@ -54,8 +53,8 @@
       "text_md": "Par dérogation aux dispositions des articles 28 à 36 et de l’article 60*bis*, paragraphe 8, de la loi précitée du 12 février 1979, la base d’imposition est constituée par le prix inscrit sur la bandelette fiscale, diminué de la taxe sur la valeur ajoutée incorporée dans ce prix. Si aucun prix n’est indiqué, la base d’imposition est la base adoptée pour la perception du droit d’accise, augmentée dudit droit d’accise.",
       "text_sha256": "a037771247b31880a17329e403cca12a73714b233c781b8b35470d7dbf7f44c5",
       "md_span": {
-        "start": 1487,
-        "end": 1906
+        "start": 1481,
+        "end": 1900
       },
       "citations": [
         {
@@ -76,8 +75,8 @@
       "text_md": "**(1)** La taxe sur la valeur ajoutée est due :\n\n1. pour les tabacs fabriqués au Grand-Duché de Luxembourg, par le fabricant ;\n2. pour les tabacs non fabriqués au Grand-Duché de Luxembourg, par la personne qui effectue, à l'intérieur du pays, une acquisition intracommunautaire ou une importation de ces tabacs fabriqués.\n\n**(2)** Par dérogation au paragraphe 1er, lorsque les tabacs fabriqués y visés sont placés dans un entrepôt fiscal au sens de la réglementation relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accises, la taxe est due par l'opérateur responsable dudit entrepôt fiscal pour ces tabacs fabriqués à leur sortie de l'entrepôt.\n\nLa perception de la taxe due en vertu de l'alinéa 1 se fait par l'intermédiaire de l'Administration des douanes et accises, selon les modalités et la forme prescrites par celle-ci.Cette perception de la taxe à la sortie des biens de l’entrepôt rend les exonérations visées à l’article 60*bis*, paragraphe 2, de la loi précitée du 12 février 1979 définitives.",
       "text_sha256": "64435e476778c7a743cbe9bb10a0522805271d83823111d68156746e23d6ea28",
       "md_span": {
-        "start": 1941,
-        "end": 2997
+        "start": 1935,
+        "end": 2991
       },
       "citations": [
         {
@@ -98,8 +97,8 @@
       "text_md": "Le paiement de la taxe due conformément à l'article 3 couvre toutes les livraisons ultérieures jusques et y compris celle faite au consommateur.",
       "text_sha256": "59a6e692ecba2bc77b2deac4464e075321915f091af4f6ad4438872d9289a0fb",
       "md_span": {
-        "start": 3032,
-        "end": 3176
+        "start": 3026,
+        "end": 3170
       },
       "citations": []
     },
@@ -115,8 +114,8 @@
       "text_md": "Par dérogation à l'article 63, paragraphes 8 et 11, de la loi modifiée du 12 février 1979, les livraisons de tabacs fabriqués effectuées à un assujetti doivent être facturées au prix taxe comprise.\n\nLa facture doit porter la mention «Régime spécial:T.V.A. perçue à la source».",
       "text_sha256": "f782adfc8e01824218ab35f4489e97b2d73717ebd1d893533a11a273095ddd99",
       "md_span": {
-        "start": 3211,
-        "end": 3487
+        "start": 3205,
+        "end": 3481
       },
       "citations": [
         {
@@ -137,8 +136,8 @@
       "text_md": "Par dérogation à l’article 48, paragraphe 1er, lettres b) et c), et à l’article 60*bis*, paragraphe 9, de la loi précitée du 12 février 1979, la taxe sur la valeur ajoutée due en vertu de l’article 3, paragraphe 1er, point 2°, et paragraphe 2, n’est pas déductible.",
       "text_sha256": "fce08336a52c5baec9fc158e6764279cd0ee9e86a8a7144b55f053cac82bd037",
       "md_span": {
-        "start": 3522,
-        "end": 3787
+        "start": 3516,
+        "end": 3781
       },
       "citations": [
         {
@@ -159,8 +158,8 @@
       "text_md": "Aux stades ultérieurs à celui auquel la taxe est due conformément à l'article 3 du présent règlement, les livraisons de tabacs fabriqués ouvrent droit à la déduction, conformément au chapitre VII de la loi du 12 février 1979, de toute taxe en amont autre que celle comprise dans le prix d'achat des tabacs fabriqués.",
       "text_sha256": "8e79294acffa67d64c8390d8718631a088529753500053b567d848ac88e30b8f",
       "md_span": {
-        "start": 3822,
-        "end": 4138
+        "start": 3816,
+        "end": 4132
       },
       "citations": [
         {
@@ -181,8 +180,8 @@
       "text_md": "L'article 65 de la loi du 12 février 1979 et le règlement grand-ducal pris en exécution de cet article et concernant la tenue de la comptabilité sont applicables compte tenu des dispositions du présent règlement.",
       "text_sha256": "cd779553f9526f455539e9d6689cf61510bd63beb31660b8b007023d22c4c080",
       "md_span": {
-        "start": 4173,
-        "end": 4385
+        "start": 4167,
+        "end": 4379
       },
       "citations": [
         {
@@ -203,8 +202,8 @@
       "text_md": "Les dispositions du présent règlement ne visent pas les livraisons, les acquisitions intracommunautaires et les importations de tabacs bruts, même travaillés mais non présentés sous forme de cigarettes, de cigares, de cigarillos ou de tabacs à fumer, à priser ou à mâcher.",
       "text_sha256": "109c4df8f4e362c60048ec67f8421972875680bda1400bac4b1c86d8b14d6994",
       "md_span": {
-        "start": 4429,
-        "end": 4701
+        "start": 4423,
+        "end": 4695
       },
       "citations": []
     },
@@ -220,8 +219,8 @@
       "text_md": "Le règlement grand-ducal du 21 décembre 1979 concernant le régime spécial de perception de la taxe sur la valeur ajoutée frappant les importations et les livraisons de tabacs fabriqués est abrogé avec effet au 1er janvier 1993.",
       "text_sha256": "8c5cfd3c5ea1014a3caac5f2ef6b6a94b48f16755a277887507fb11df3fd378b",
       "md_span": {
-        "start": 4738,
-        "end": 4965
+        "start": 4732,
+        "end": 4959
       },
       "citations": [
         {
@@ -242,8 +241,8 @@
       "text_md": "Notre Ministre des Finances est chargé de l'exécution du présent règlement qui sera publié au Mémorial et qui entrera en vigueur le 1er janvier 1993.",
       "text_sha256": "080689e7383ec1b4091d22c5bfc4a949fe11982be6deda69403707d82118cf28",
       "md_span": {
-        "start": 5002,
-        "end": 5151
+        "start": 4996,
+        "end": 5145
       },
       "citations": []
     }

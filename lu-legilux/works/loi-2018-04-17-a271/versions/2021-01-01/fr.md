@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a271/consolide/202
 source_sha256: aca15a00ffe419210b9f05471a70daa83cfd7898d769b941d468b9a0258e1bbf
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## CHAPITRE 1er — DISPOSITIONS GÉNÉRALES

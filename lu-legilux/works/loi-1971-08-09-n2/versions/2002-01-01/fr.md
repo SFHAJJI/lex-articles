@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1971/08/09/n2/consolide/20020
 source_sha256: 8acd5a7e2d5f4d09d6c7bbb92cf3813465cacaf70537a94fa6f079ef9d0d042b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

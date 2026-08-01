@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/19990
 source_sha256: 8d0b27df866c95cd386569b62175224d1f1cfefe0fa3c54d83989be9ab8cc372
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier.

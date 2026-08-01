@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n3/consolide/20210
 source_sha256: 5ebcd7bccec00b06ca0cde0fd86edefc7cb26ba2fad7b90f68af5a61f74c69d9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## SECTION I — DISPOSITIONS GÉNÉRALES

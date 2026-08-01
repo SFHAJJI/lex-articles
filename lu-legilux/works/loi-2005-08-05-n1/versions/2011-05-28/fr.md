@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2005/08/05/n1/consolide/20110
 source_sha256: 9b62cb94cb9551d76a3fbd55e3d39bd15cc6b6cfb271c2817bd442b1ff2f356c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## PARTIE I: — Dispositions générales

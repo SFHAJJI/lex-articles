@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a544/consolide/201
 source_sha256: 5fd7f0a070a4f35d1899cfa402b1c5012836682f60256ccc7981234bc2194855
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier** — **Régimes de promotion de la recherche, du développement et de l’innovation**

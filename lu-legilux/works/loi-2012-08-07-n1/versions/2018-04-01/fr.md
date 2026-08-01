@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2012/08/07/n1/consolide/20180
 source_sha256: de2fb6555b0ca8e521ae074cfa26b78408e7f6404884fdeb220afa430896f4f4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — *** Statut juridique, missions et siège***

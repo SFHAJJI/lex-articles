@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/1961/03/08/n1/consolide/19830
 source_sha256: fd2172910cc1bff1f0135ddf99e7d33ed9e28244302b9a8e01085cd897ed2ffe
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

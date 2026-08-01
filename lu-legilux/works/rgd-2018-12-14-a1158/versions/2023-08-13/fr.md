@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158/consolide/20
 source_sha256: 73eed6243cbc1feec12538c8d2b82ef7b974c8b206043b5f24b9a4bd5e3d94b9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Office du contrôle des exportations, des importations et du transit**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20230
 source_sha256: 1bdb10662dd0ec02c7993e7f22ea19e8c70c96af737c1de8472b3470e475ea33
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — **Dispositions particulières à la profession de médecin**

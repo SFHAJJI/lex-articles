@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/consolide/20171
 source_sha256: 756af8495e674050af59f9bff564b35da9e957324b400ac20517516ff609e2bf
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier** — **Dispositions générales**

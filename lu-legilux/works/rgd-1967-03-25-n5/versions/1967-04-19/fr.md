@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1967/03/25/n5/consolide/19670
 source_sha256: 51b4ba8b76b1c6ca284dc863f318eb2a5890f4c59800f36cd215ccd27e1cb364
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

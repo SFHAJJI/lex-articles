@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n5/consolide/20220
 source_sha256: 497b517bef260f31786ebe9446aaf51d3a6ece4f3aa3b462cedd53e96160b0ae
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er*****.*** — ***Attributions***

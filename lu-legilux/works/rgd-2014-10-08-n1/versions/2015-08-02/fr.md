@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1/consolide/20150
 source_sha256: 63a4f19cc2e954a85540875bc382248e615d0ba9b238de3c81e83938d5414231
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Les intermédiaires d’assurances ou de réassurances

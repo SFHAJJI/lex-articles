@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/consolide/20190
 source_sha256: 33be6962a50ed442f3b96b1290d2bc6b698bb3e4abfb399feb38a01ccd0821b3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Du champ d’application et des dispositions générales.

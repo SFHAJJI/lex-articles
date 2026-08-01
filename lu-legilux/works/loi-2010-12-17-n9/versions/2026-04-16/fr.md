@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20260
 source_sha256: 6ab105068412cb5ca8581e9ba4c85504d1bc4e83ac06b3d2c491d4094143a4b9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## PARTIE INTRODUCTIVE — DEFINITIONS

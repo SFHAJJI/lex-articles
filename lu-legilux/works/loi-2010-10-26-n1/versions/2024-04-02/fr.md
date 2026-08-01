@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/consolide/20240
 source_sha256: f3f6f08a07dd8ae79ea3b9ec47ac8f0aaa9aea16a0b80437d7682df3a385e66d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — Disposition générale

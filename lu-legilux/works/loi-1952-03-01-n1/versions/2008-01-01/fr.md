@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/20080
 source_sha256: 9b536a81103b877783ae8b1e532365eb36401f89d1e0445903e08c27b8c19cef
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier.

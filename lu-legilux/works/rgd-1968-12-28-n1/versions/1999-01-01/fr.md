@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1968/12/28/n1/consolide/19990
 source_sha256: 9733f6912ced10d5f88b663e9720f5704635ce597a7705258ad7f048f7f535ad
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

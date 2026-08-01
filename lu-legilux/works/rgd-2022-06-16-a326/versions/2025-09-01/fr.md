@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2022/06/16/a326/consolide/202
 source_sha256: d10592363dc08e0ce9dc16db3332d22892ab835d92b6254f359b24f0a4751df2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Partie Ire** — **Définitions, branches et admissibilité dans les différents niveaux**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19820
 source_sha256: 210ed59003a28704211fb45873cb0a0a4d79fa5f6745c0b87f55d579fe6b0027
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20180
 source_sha256: 3935594afd0614bb00d5c23f6fa4d9a651faa8d3d9bab973e7ee5170644b4c92
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

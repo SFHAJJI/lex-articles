@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n11/consolide/2015
 source_sha256: 7f56b7bb62eaf9ad532133afc06206dfae710c413258e906bf334db3ba28f48e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre A** — **Arrêté du budget**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2023/07/21/a470/consolide/202
 source_sha256: a31acf9c2451e6102dab60ea91d19567da60ce65e6aab00731f04191a1603d08
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier — Cadre et composantes de l’enseignement supérieur

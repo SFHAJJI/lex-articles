@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1974/03/04/n1/consolide/20240
 source_sha256: e2e0ed1de242a837cdb069689dee3362c99e1ecc8e7e01f89bdeea65e0bc488d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

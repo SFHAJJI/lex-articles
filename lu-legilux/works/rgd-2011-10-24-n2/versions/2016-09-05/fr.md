@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2011/10/24/n2/consolide/20160
 source_sha256: 0107540225af4d5f30688552a9945bb73da839ac779448dcae1be705224709d6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — L’examen-concours d’admission au stage des fonctions de formateur d’adultes

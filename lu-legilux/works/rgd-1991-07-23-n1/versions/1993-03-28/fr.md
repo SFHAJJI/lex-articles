@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/consolide/19930
 source_sha256: c15d1f0752cd47b2e1144dc7252023e16310975be6931a45889cae665a3f2494
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

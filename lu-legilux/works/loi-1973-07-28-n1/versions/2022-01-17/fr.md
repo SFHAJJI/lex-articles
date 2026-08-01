@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n1/consolide/20220
 source_sha256: a70449a7df3119dbeeef536de3cf882ea2fe1beba939fd0d36a5ab40d9acc4fe
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

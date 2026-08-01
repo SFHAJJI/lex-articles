@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1962/01/08/n2/consolide/20231
 source_sha256: 8e3b95824c936f8a3d0341882770bde146af5d6f277e7d87b0c5d2be7a7d4ef4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

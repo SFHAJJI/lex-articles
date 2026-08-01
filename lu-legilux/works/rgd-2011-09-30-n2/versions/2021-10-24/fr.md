@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/consolide/20211
 source_sha256: 3e41d14774d8779898d79b1acbd869a91c5b6d67abd989200375d4333561cabe
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre I. ** — **Bureau électoral**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20140
 source_sha256: 1f30c05f7830fa0ea11fcdadc43802436479ad641d7998a5c6495042eb4a1787
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Dispositions particulières à la profession de médecin

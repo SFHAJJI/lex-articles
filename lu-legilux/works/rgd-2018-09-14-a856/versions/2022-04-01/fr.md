@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/09/14/a856/consolide/202
 source_sha256: cce009ba24b049f94be1db3b18262c95ee35ee233771888eb428543f73e5a4b8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — ** Formation spéciale des fonctionnaires stagiaires**

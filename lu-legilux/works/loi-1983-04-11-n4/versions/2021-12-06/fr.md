@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/consolide/20211
 source_sha256: ca0cccd0426cf4d3b0068d3d2353a4fa1a5df42cdca33803d01e83b92f046670
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier — Dispositions générales

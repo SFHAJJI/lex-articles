@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1980/03/07/n3/consolide/20130
 source_sha256: 1cac8bfd5924c53d48d65888984e62990e010414a243f63615f302cad34334ca
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

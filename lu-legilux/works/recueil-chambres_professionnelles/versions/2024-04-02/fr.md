@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles
 source_sha256: 8457bca9db0471c0aacd4c72aa6619d160a16614df497fd0425b4df6c57ddf0d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## A. LÉGISLATION DE BASE

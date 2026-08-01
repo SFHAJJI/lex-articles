@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2021/02/22/a156/consolide/202
 source_sha256: 0cd4e726cdbe321dbb1226b953da6fe02b2af2d527e381102989de5fbdb4e4aa
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — ** Programme de la formation spéciale**

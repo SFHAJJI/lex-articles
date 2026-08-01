@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1987/12/21/n1/consolide/19940
 source_sha256: 329f2da0b635fbb780a2953eca41c0c31e64c6d65648c6ae8869aa2b94ae621f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — **Structure du numéro d´identité**

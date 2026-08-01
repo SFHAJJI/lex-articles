@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1980/11/21/n1/consolide/20221
 source_sha256: 6a79c1495a06fad537dc8594f22d25bcbabb5f810f14790cd861c19b1976ee4b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

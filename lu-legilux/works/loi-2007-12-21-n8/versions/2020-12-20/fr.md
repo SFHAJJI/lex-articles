@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8/consolide/20201
 source_sha256: 7772948a041dd33060716ffad8aa35a04a3d32199f3365b39c29053368b6debc
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre premier — *Définitions*

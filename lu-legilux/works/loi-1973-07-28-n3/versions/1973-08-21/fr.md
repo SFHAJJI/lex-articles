@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/19730
 source_sha256: e46d070b2a5cff954c0ffd80c22f9184a59d522e9875d4790bfdd4dd7848747b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

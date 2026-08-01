@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446/consolide/202
 source_sha256: 2ec67c5b6f36eadedce9e33d710c86b3f4e07c797609b36fbeb1bde1f87ed5fc
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **TITRE Ier ** — **Les marchés d’instruments financiers **

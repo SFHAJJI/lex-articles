@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n13/consolide/2024
 source_sha256: 85b7b737b041894739b01615671f736146b7506d69d0071aa7754be9cf179aed
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er****.** — **Création du Fonds souverain intergénérationnel du Luxembourg**

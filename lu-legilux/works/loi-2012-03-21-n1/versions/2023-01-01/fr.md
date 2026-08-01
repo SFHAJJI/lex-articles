@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20230
 source_sha256: d5628ae8dccd91422ee3608bf660d84004922ea3a220968c775dbac2caa651d6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier: — Objet, champ d'application, compétences et définitions

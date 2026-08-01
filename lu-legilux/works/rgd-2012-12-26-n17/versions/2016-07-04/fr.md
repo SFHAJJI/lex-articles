@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n17/consolide/2016
 source_sha256: b2a70580c0f2f609f60838d39a972f75019c37e1928d2a7a4ea0174a0ce7aba1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## CHAPITRE Ier — CHAMP D’APPLICATION ET DEFINITIONS

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2001/11/15/n2/consolide/20110
 source_sha256: cff0fc315834cf1bf60e95ad25087fa7a937f7f9c7d43de048fe6c2ed8ec2915
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier — **Généralités**

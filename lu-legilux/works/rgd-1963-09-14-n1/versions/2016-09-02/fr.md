@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/consolide/20160
 source_sha256: e67be89f866fa2d1947057caf246b0b7e14bbf7bb073a00aecad3d7ee67e1c21
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

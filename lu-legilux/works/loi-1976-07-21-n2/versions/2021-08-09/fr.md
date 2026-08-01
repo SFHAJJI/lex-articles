@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1976/07/21/n2/consolide/20210
 source_sha256: 8d78fee2d53a6e1c68d379baef352168eef0c1cff73f1af9f147c7b6ceba2330
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="article_unique"></a>

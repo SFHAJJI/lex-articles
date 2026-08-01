@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n5/consolide/20240
 source_sha256: e85ea68804530f06c81670b1f901ff4fa933ed7e48d99d43acd1d126c11fce65
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **A)** — ** Définitions**

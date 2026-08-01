@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1/consolide/20090
 source_sha256: d3b8dc72e423c5e0c424bd9d158f4a48088fdb879e111ecfdd7548730c0214e3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE **1er** - **Généralités**

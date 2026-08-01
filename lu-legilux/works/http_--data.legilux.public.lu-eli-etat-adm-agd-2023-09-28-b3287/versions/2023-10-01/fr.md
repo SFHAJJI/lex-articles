@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/adm/agd/2023/09/28/b3287/consolide/20
 source_sha256: e2af3dec32bed18b7a4afc78e772ae216174678bf2fbb7348bf96e71f11c62e1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

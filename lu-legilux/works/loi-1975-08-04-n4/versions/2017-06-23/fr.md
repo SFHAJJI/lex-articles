@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/consolide/20170
 source_sha256: c399717a1f4d31cb97f8120aa467147dbe3edacb57184130e2d0d78a7b84c654
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — **Dispositions générales**

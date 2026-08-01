@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/20230
 source_sha256: 4fabbaacc7f2f174e7614d2d675277ac086e074a86dd362c97576d37f145b55b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Du titre, de la nomination, du serment, de la résidence, de la cessation des fonctions et de l'association entre huissiers de justice

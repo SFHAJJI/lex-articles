@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1997/07/19/n2/consolide/20200
 source_sha256: ab0cbd61ed13b88cc547feda62d6a347fd9985defac4effb065e80b1d4630684
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

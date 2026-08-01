@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2019/08/15/a571/consolide/202
 source_sha256: 5f198f1d785b05c885912f4ef04576da41b2e353b44826bcd8181e90d0a8b63b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **L’évaluation et les décisions du conseil de classe**

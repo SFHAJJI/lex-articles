@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20190
 source_sha256: 690c4dec9a5e9bf7f3a5649a5824bfbd106584a728b0ca9f4cfafee447713437
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20180
 source_sha256: d508fced90d18331d1ba42e86e85f6a1ea4bf4acdc33593a349f829ed3f09558
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **TITRE Ier** — ** Le droit d’établissement**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n1/consolide/20110
 source_sha256: 808404cdba0db27e0d15510fb6d1cf936ce4e600ac9f2bbeb44a2066bf08d152
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre 1er. ** — ** De la division du pays, du territoire de la commune et de son nom**

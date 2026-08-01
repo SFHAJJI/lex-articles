@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/07/14/n1/consolide/20180
 source_sha256: d49579f989af7887adf8ba9167d1b5411e138690e95fdcc7bb8bc9255e25b2ab
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier: Profession de psychothérapeute

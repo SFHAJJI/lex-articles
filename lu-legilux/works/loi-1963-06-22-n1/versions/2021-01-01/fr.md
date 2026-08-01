@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/20210
 source_sha256: 6791bfdd673517e3b08860071b8bec2c4e308522b8e1ded4167ca2f9f08d541a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/20010
 source_sha256: 65d7fb83ce7231138b24fefba2285316924926978f750829e8b3506204925c67
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1967/02/25/n1/consolide/19730
 source_sha256: b94c73308413bb3159cc3c1062e8cfe1cfec0cedebbdb8bb4ab752bcd9eb90ba
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. - **La Résistance**

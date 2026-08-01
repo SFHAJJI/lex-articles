@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2013/01/11/n2/consolide/20261
 source_sha256: 30776e9e1bb22125a68a973dc6db512ef7b9095fe39b69f320a77424ed633863
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## CHAPITRE Ier — DISPOSITIONS GENERALES

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/reutilisation_information
 source_sha256: e4e9b21d000f1cde345507c46e9385094ac571acbcc86e855f4da1b0374569c5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Loi du 29 novembre 2021 sur les données ouvertes et la réutilisation des informations du secteur public.

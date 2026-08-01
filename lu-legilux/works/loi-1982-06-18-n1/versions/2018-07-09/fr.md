@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1982/06/18/n1/consolide/20180
 source_sha256: 80eaba6ae2464c0f9eae55f84313477aa007f7e8230fcbc325d9aead38497be4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier** — **Dispositions générales**

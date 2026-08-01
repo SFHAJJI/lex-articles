@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1986/07/08/n1/consolide/20100
 source_sha256: 97271adbe391e72ec84ee186516144c42a66fa5557130e81ca453ebb3deccd0e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

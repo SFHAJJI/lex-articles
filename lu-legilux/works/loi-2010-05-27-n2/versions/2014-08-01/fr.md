@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2010/05/27/n2/consolide/20140
 source_sha256: b36570c2efd38b03b2c653d047442d3745b0704c1366034e98d23d39c500dbb1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section 1: — Champ d'application et définitions

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/202
 source_sha256: 1a02a96a2a5cba7e0c9f6424b41b93cae16ad5d2f91cb77e6e4ede590c22140f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Partie Ière** — **Définitions et branches d’enseignement**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20231127/fr
 source_sha256: 502771eda671913ee2b8e05a51eb6ba60854bd70944d0083ce5fdeda258667ee
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ORGANISATION DU GOUVERNEMENT

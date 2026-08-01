@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1971/07/14/n7/consolide/19921
 source_sha256: 7a2c06d26f7950c568ffd09d1ab07545c74ed5eaa44eb2fd3494cde8c7613018
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

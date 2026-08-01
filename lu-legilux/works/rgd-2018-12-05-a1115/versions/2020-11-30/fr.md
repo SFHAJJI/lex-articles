@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1115/consolide/20
 source_sha256: 33f2906197db2315f995bb638b7c07a2e094ad2b6205d6601226e102398a1def
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Prise en charge de l'acte**

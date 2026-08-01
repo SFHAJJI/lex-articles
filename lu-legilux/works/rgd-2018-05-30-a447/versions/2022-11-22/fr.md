@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a447/consolide/202
 source_sha256: 815f1d1bdd56bd1464c3328f6e7daa45d01b282d408303eead92bfa05cad0ac4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Protection des instruments financiers et des fonds des clients, obligations applicables en matière de gouvernance des produits et règles régissant l’octroi ou la perception de droits, de commissions ou de tout autre avantage monétaire ou non monétaire**

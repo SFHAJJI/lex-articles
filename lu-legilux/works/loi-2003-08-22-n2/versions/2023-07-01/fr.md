@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2003/08/22/n2/consolide/20230
 source_sha256: ddccd834ce6078b0f43e09542e52a9621059463c91a4ad510967e3fd83c75ff8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Du mandat et des attributions du Ombudsman

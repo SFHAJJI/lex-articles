@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a523/consolide/202
 source_sha256: af0be62e7ac0b59dab1c31e845bfad23bd7c87312217e6c192b68ea8e89265d1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Tenue d’audiences publiques devant les juridictions dans les affaires soumises à la procédure écrite et adaptation temporaire de la procédure de référé exceptionnel devant le juge aux affaires familiales**

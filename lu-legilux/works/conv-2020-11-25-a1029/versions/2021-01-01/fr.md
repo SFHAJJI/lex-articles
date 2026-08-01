@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/conv/2020/11/25/a1029/consolide/2
 source_sha256: c6e05d74c5ddfb9f66021fea0006270f7eec8308a439ba76f10979090ac2724d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

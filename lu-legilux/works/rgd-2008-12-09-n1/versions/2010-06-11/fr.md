@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/consolide/20100
 source_sha256: d127a53d10dca666f2bd86737e109382802167bb93a5484cb7656811f14e9ce3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Désignation des délégués des institutions et juridictions de sécurité sociale

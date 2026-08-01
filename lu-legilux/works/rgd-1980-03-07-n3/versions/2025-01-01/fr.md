@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1980/03/07/n3/consolide/20250
 source_sha256: 2c29a5c1fec82f3b0b72566861b022df58df6c08680c3d7be3c617d72f38257f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>
