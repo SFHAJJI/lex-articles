@@ -1,0 +1,144 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2005-01-26-n1:2013-06-29",
+  "language": "fr",
+  "title": "Version consolidée applicable au 16/02/2015 : Règlement grand-ducal du 26 janvier 2005 fixant les modalités pour l'obtention d'un titre de voyage pour étrangers.",
+  "valid_from": "2013-06-29",
+  "valid_to": "2015-02-15",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2005-01-26-n1/versions/2013-06-29/fr.xml",
+    "sha256": "3db73b5dfa9c61eec899cc076ddf97bd768d6976e346ba50dd13745a1c4b7a0e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20130629/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2013-06-29#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_1er_definition_et_champ_d_application/20130629",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définition et champ d'application",
+      "path": [],
+      "article_valid_from": "2013-06-29",
+      "text_md": "**1.** Le titre de voyage pour étrangers est un document de voyage délivré à des personnes résidant régulièrement sur le territoire du Grand-Duché de Luxembourg et dont l'identité et la nationalité sont établies, mais qui ne sont pas en mesure d'obtenir un passeport national de la part des autorités de leur pays d'origine ou auxquelles il est impossible de demander l'établissement ou la prolongation d'un titre de voyage en raison de circonstances exceptionnelles.\n\n**2.** Dans des cas exceptionnels, un tel titre de voyage peut également être délivré lorsque la procédure de délivrance d'un passeport national est excessivement longue ou difficile, de sorte à dépasser les limites du raisonnable.\n\n**3.** Ne tombent pas sous le champ d'application des présentes dispositions, les personnes qui bénéficient du statut de réfugié conféré en conformité avec la Convention de Genève, du 28 juillet 1951, ou du statut d'apatride conféré en conformité avec la Convention de New York, du 28 septembre 1954.",
+      "text_sha256": "0d016efceb1252bc27a64ec933d33887913f33c8516787ef714f80514f52d871",
+      "md_span": {
+        "start": 677,
+        "end": 1679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_1bis",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2013-06-29#article_1bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_1bis/20080201",
+      "type": "article",
+      "num": "Article 1bis.",
+      "heading": "Descriptif du Titre de Voyage",
+      "path": [],
+      "article_valid_from": "2008-02-01",
+      "text_md": "**1.** Par rapport aux passeports biométriques décrits à l'article 1, paragraphe 1, le couvercle est de couleur verte portant l'inscription:\n\nTitre de Voyage pour étrangers, Grand-Duché de Luxembourg. La version anglaise de ces inscriptions y figure également.\n\n**2.** Par rapport aux passeports biométriques décrits à l'article 1, paragraphe 4, figurent au recto de la carte en plastique dans l'ordre les mentions suivantes:\n\nTitre de Voyage pour étrangers, ainsi qu'un texte reprenant les conditions à respecter en cas de délivrance de ce document. Ces mentions sont rédigées en langues française et anglaise.\n\n**3.** Par rapport aux passeports biométriques décrits à l'article 1, paragraphe 6, figurent au verso de la carte en plastique dotée d'une zone de lecture optique, en langues française et anglaise la mention suivante:\n\nGrand-Duché de Luxembourg. Y figurent également en langues française et anglaise les mentions suivantes:\n\nTitre de Voyage, type, code du pays, numéro de passeport, nom, prénoms, taille, nationalité, date de naissance, sexe, lieu de naissance, autorité, date de délivrance, date d'expiration et la signature du titulaire.\n\nLa photo numérisée de ce dernier est engravée sur cette page.\n\n**4.** Par rapport aux passeports biométriques décrits à l'article 1, paragraphe 8, figurent à la deuxième page numérotée, en langues française et anglaise, les mentions suivantes:\n\nPage réservée aux autorités compétentes pour délivrer le titre de voyage, Numéro de registre...\n\n**5.** Par rapport aux passeports biométriques décrits à l'article 1, paragraphe 9, les troisième et quatrième pages numérotées sont réservées à l'apposition de visas.\n\n**6.** Par rapport aux passeports biométriques décrits à l'article 1, paragraphe 11, figurent à la dernière page numérotée, en langues française et anglaise, des informations utiles en relation avec le passeport.\n\nLa même page comporte en bas, en langues française et anglaise, l'inscription suivante:\n\nCe passeport contient 32 pages.",
+      "text_sha256": "bf6c429586dcb18b196e4c5a25ae5836c89dc54a6984018e00efa0effed70d70",
+      "md_span": {
+        "start": 1757,
+        "end": 3756
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2013-06-29#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_2_conditions_pour_pouvoir_pretendre_a_l_obtention_d_un_titre_de_voyage_pour_etrangers/20130629",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Conditions pour pouvoir prétendre à l'obtention d'un titre de voyage pour étrangers",
+      "path": [],
+      "article_valid_from": "2013-06-29",
+      "text_md": "**(1)** Pour pouvoir prétendre à l'obtention d'un titre de voyage pour étrangers, le requérant doit remplir les conditions suivantes:\n\n- être titulaire d'une autorisation de séjour, ou avoir obtenu de la part du ministre ayant l'Immigration dans ses attributions l'accord pour l'octroi d'une telle autorisation;\n- er\n- autoriser le ministre ayant l'Immigration dans ses attributions et de l'Immigration à s'enquérir auprès de l'Ambassade du pays d'origine sur les raisons qui sont à la base du refus de la délivrance d'un passeport national ou, le cas échéant, de la procédure de délivrance excessivement longue ou difficile.\n\n**2.** Aucun titre de voyage pour étrangers ne sera délivré:\n\n- lorsqu'il appert que le requérant a été condamné dans son pays d'origine ou dans tout autre pays pour des crimes contre l'humanité ou pour toute autre infraction pénale, ou qu'il est recherché pour ces mêmes faits. Il appartient au ministre ayant l'Immigration dans ses attributions de juger de la gravité des faits reprochés;\n- lorsque le requérant est susceptible de compromettre la sécurité et l'ordre publics.",
+      "text_sha256": "d048d1975cc296f0e881d8a5e6771ae0dde5ee621d9db3e19badc8177f783fec",
+      "md_span": {
+        "start": 3875,
+        "end": 4979
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2013-06-29#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_3_procedure_de_delivrance_prolongation_et_taxes/20130629",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Procédure de délivrance, prolongation et taxes",
+      "path": [],
+      "article_valid_from": "2013-06-29",
+      "text_md": "**(1)** Les demandes en obtention d'un titre de voyage pour étrangers sont à présenter au ministre ayant l'Immigration dans ses attributions. Elles doivent être accompagnées des pièces justificatives mentionnées à l'article 2, paragraphe (1).\n\n**2.** Le titre de voyage délivré à un majeur et à un mineur de quatre ans révolus est valable pour une durée maximale de cinq ans.\n\nLes mineurs de moins de quatre ans révolus se voient délivrés un titre de voyage valable pour une durée maximale de deux ans.\n\nAucun titre de voyage ne peut être prorogé au-delà des durées de validité définies ci-dessus.\n\n**3.** Le montant à régler pour la délivrance d'un titre de voyage est fixé à 50 (cinquante) euros. Pour les titres de voyage d'une validité maximale de deux ans, ce montant est de 30 (trente) euros.",
+      "text_sha256": "139592ee2ba51ea906ee48f1cdea1beefa25613ac747c562f3f055292635dba2",
+      "md_span": {
+        "start": 5061,
+        "end": 5859
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2013-06-29#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_4_retrait_et_restitution/20130629",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Retrait et restitution",
+      "path": [],
+      "article_valid_from": "2013-06-29",
+      "text_md": "**1.** Le titre de voyage pour étrangers peut être retiré à son détenteur\n\n- lorsqu'il a été constaté que sa délivrance a eu lieu sur base de fausses déclarations du titulaire;\n- lorsque les faits énumérés à l'article 2. par. 2. ci-dessus viennent à la connaissance du ministre ayant l'Immigration dans ses attributions après la délivrance du titre de voyage pour étrangers;\n- lorsque son titulaire a été condamné à une peine d'emprisonnement ferme d'un an ou plus;\n- lorsque le ministre ayant l'Immigration dans ses attributions a signifié à l'intéressé un ordre de quitter le territoire.\n\n**2.** Le titre de voyage pour étrangers devra être restitué au ministre ayant l'Immigration dans ses attributions\n\n- lorsqu'un passeport national a été délivré à son titulaire;\n- lorsque le titulaire a pris résidence dans un autre pays;\n- lorsque le titulaire a acquis la nationalité luxembourgeoise ou toute autre nationalité.",
+      "text_sha256": "1a8a89706c156a9c5928584a6d78b0c4a4d5524d4f91993eebefda04b6976d9c",
+      "md_span": {
+        "start": 5917,
+        "end": 6836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2013-06-29#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_5_dispositions_generales/20130629",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Dispositions générales",
+      "path": [],
+      "article_valid_from": "2013-06-29",
+      "text_md": "**1.** Le titulaire d'un titre de voyage pour étrangers reste soumis aux règles générales de la législation luxembourgeoise régissant l'entrée, le séjour et l'admissibilité au travail des étrangers au Grand-Duché de Luxembourg.\n\n**2.** Le titre de voyage pour étrangers est délivré pour permettre à son détenteur de se déplacer en dehors du territoire luxembourgeois dans les pays qui ont reconnu ce titre de voyage pour l'entrée et le séjour sur leur territoire. Il ne dispense pas du visa si celui-ci est requis.\n\n**3.** Le titre de voyage permet seulement le retour au Grand-Duché dans la limite de la validité du titre de séjour. Dans tous les cas, le retour au Grand-Duché n'est plus possible après un séjour de six mois consécutifs à l'étranger, sauf dérogation spéciale accordée, avant le départ, par le Ministre ayant dans ses attributions l'entrée et le séjour des étrangers sur le territoire du Grand-Duché de Luxembourg.\n\n**4.** Le titre de voyage pour étrangers ne donne pas automatiquement droit à l'assistance consulaire des autorités luxembourgeoises en cas de difficultés à l'étranger.",
+      "text_sha256": "202d1a9c1f7f907acc579319533af0007c682f789d6d23efa7aeb91b176cef54",
+      "md_span": {
+        "start": 6894,
+        "end": 7995
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2005-01-26-n1:2013-06-29#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/art_6/20050207",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-02-07",
+      "text_md": "Notre Ministre des Affaires Etrangères et de l'Immigration est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "b5bf0e41a47c743f93881d462a317db57d3405308edfbefbdda544d0f6d6bb64",
+      "md_span": {
+        "start": 8030,
+        "end": 8164
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

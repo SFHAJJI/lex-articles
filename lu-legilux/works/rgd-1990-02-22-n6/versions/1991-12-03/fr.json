@@ -1,0 +1,263 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/12/1991 : Règlement grand-ducal du 22 février 1990 déterminant les conditions d'admission et de promotion des fonctionnaires de la carrière de l'expéditionnaire technique des établissements d'enseignement secondaire, d'enseignement technique et de l'Institut supérieur de technologie.",
+  "valid_from": "1991-12-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1990-02-22-n6/versions/1991-12-03/fr.xml",
+    "sha256": "f534f3aecfbcbbb565605147c2bddb1086433058893631b205e90f85f52f8dcb",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/consolide/19911203/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_1er/19900323",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "I. Conditions d'admission"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "**1.** Les candidats aux fonctions d'expéditionnaire technique dans les établissements d'enseignement secondaire, d'enseignement secondaire technique et à l'Institut supérieur de technologie doivent satisfaire aux dispositions du règlement grand-ducal modifié du 13 juin 1983 concernant l'organisation des examens-concours pour l'admission au stage dans la carrière de l'expéditionnaire technique des administrations de l'Etat et des établissements publics.\n\n**2.** Sont applicables les modifications qui pourront être apportées dans la suite au règlement précité.\n\n**3.** Les emplois qui pourront être occupés par des fonctionnaires de la carrière de l'expéditionnaire technique aux différents établissements d'enseignement sont fixés par le Gouvernement en conseil, sans pouvoir toutefois dépasser le nombre de quinze pour-cent de l'effectif de la carrière d'origine de l'artisan.",
+      "text_sha256": "2f0865467cf4aaef0a33c0da1e9f6be0fd2e0f0ceaf1508a9349a327db66b0c7",
+      "md_span": {
+        "start": 826,
+        "end": 1708
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1983/06/13/n1/jo",
+          "text": "règlement grand-ducal modifié du 13 juin 1983"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_2/19900323",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "II. Stage et examen d'admission définitive"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "L'organisation pratique du stage incombe au directeur de l'établissement, qui affecte le candidat successivement à différents emplois au sein de l'établissement afin de lui permettre d'acquérir les connaissances pratiques requises pour se présenter à l'examen d'admission définitive.",
+      "text_sha256": "e966e8342d2e202277226b996607239a26246a109810c5f5773b4cd117ee8745",
+      "md_span": {
+        "start": 1790,
+        "end": 2073
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_3/19900323",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "II. Stage et examen d'admission définitive"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "**1.** Avant la fin du stage, le candidat doit se soumettre à un examen d'admission définitive qui comporte des épreuves écrites et des épreuves pratiques.\n\nIl porte sur les matières suivantes:\n\n| a) | rédaction d'un rapport de service en langue française | 60 points |\n| --- | --- | --- |\n| b) | rédaction d'un rapport de service en langue allemande | 60 points |\n| c) | législation concernant le statut général des fonctionnaires de l'Etat | 60 points |\n| d) | technologie professionnelle | 120 points |\n\n**2.** Le programme détaillé de l'examen d'admission définitive est fixé par règlement ministériel.",
+      "text_sha256": "1d389e88232eaf02d8da595877a9f56e78aeaae46ee7ef61078cbdf88acb9fa4",
+      "md_span": {
+        "start": 2108,
+        "end": 2714
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_4/19900323",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "III. Promotions"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "**1.** L'examen de promotion requis pour l'accès aux fonctions supérieures à celles de commis technique adjoint par l'article 17, section I de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat porte sur les matières suivantes:\n\n| a) | rédaction d'un rapport de service en langue française | 60 points |\n| --- | --- | --- |\n| b) | droit public | 60 points |\n| c) | législation concernant le statut général des fonctionnaires de l'Etat | 60 points |\n| d) | technologie professionnelle approfondie | 120 points |\n\n**2.** Le programme détalillé de l'examen de promotion est fixé par règlement ministériel.",
+      "text_sha256": "0b5546f9f02f76f3bccaf54cd5a9ad3cccca218b6fceb2f3e0d0600fcf72c992",
+      "md_span": {
+        "start": 2769,
+        "end": 3414
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_5/19900323",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "III. Promotions"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "Sans préjudice des dispositions de l'article 7 ci-dessous l'expéditionnaire technique peut être nommé aux fonctions de commis technique adjoint, de commis technique, de commis technique principal et de premier commis technique principal dans les conditions de l'article 5 de la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l'Etat.",
+      "text_sha256": "dd8513ae0938a9a32e3939b8e1989c8144a7fa6c434ebf31a90ec2a2b6186517",
+      "md_span": {
+        "start": 3449,
+        "end": 3892
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1986/03/28/n3/jo",
+          "text": "loi modifiée du 28 mars 1986"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_6/19900323",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "IV. Procédure des examens d'admission définitive et de promotion"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "**1.** La procédure des examens d'admission définitive et de promotion prévus par le présent règlement est organisée conformément au règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d'examen du concours d'admission au stage, de l'examen de fin de stage et de l'examen de promotion dans les administrations et services de l'Etat.\n\n**2.** A la suite de chaque examen de promotion, la commission d'examen procède, outre le classement normal des candidats, à l'établissement du tableau de classement de la carrière en question en groupant les candidats par promotion dans l'ordre chronologique et en classant les candidats à l'intérieur de chaque promotion en tenant compte de leur ancienneté, des résultats de leur examen d'admission définitive ainsi que des résultats obtenus à l'examen de promotion.\n\nLe rang utile pour obtenir les promotions qui exigent la réussite à un examen de promotion est déterminé par référence au tableau de classement ainsi établi.",
+      "text_sha256": "275e4cd4ea51000689dc62eef405bd63d175f2ffee1d5783ba4f33622e2cd438",
+      "md_span": {
+        "start": 3996,
+        "end": 4992
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1984/04/13/n7/jo",
+          "text": "règlement grand-ducal modifié du 13 avril 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_7/19900323",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "IV. Procédure des examens d'admission définitive et de promotion"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "**1.** Sont éliminés aux examens susvisés les candidats qui ont obtenu moins des trois cinquièmes du maximum total des points.\n\n**2.** Les candidats qui ont ontenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum des points dans une ou deux branches, subissent un examen supplémentaire dans ces branches, dont le résultat décide de leur admission.\n\n**3.** En cas d'insuccès à l'examen d'admission définitive, la durée du stage peut être prolongée d'une année à l'expiration de laquelle le candidat doit se présenter une nouvelle fois à l'examen. Un nouvel échec entraîne l'élimination définitive du candidat.\n\n**4.** En cas d'insuccès à l'examen de promotion, le candidat peut se présenter une deuxième fois à cet examen après l'expiration d'un délai d'une année. Un second échec entraîne pour le candidat l'élimination définitive de cet examen.",
+      "text_sha256": "78cf2c5725ee4397f56e69ffaef6684db096adf61421e76666f0f7cd6e7ba18d",
+      "md_span": {
+        "start": 5027,
+        "end": 5912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_8/19900323",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "V. Forme de nomination"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "Les nominations aux différentes fonctions de la carrière de l'expéditionnaire technique sont faites par le ministre de l'Education nationale. Il en est de même de l'admission au stage qui est révocable et qui doit être renouvelée d'année en année.",
+      "text_sha256": "baf0bd5f9cf7b8cd20a49d4b2b6ee21a5ab06abd002b5b8d207ea67832343854",
+      "md_span": {
+        "start": 5974,
+        "end": 6221
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_9/19900323",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "VI. Mesures transitoires"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "Les fonctionnaires de la carrière de l'artisan, détenteurs du diplôme de technicien en chimie ou du diplôme de fin d'études moyennes, en service à l'Institut supérieur de technologie, au Lycée technique du Centre, au Lycée technique d'Ettelbruck et au Lycée technique d'Esch-sur-Alzette en date du 1er novembre 1986, bénéficient d'un rang de priorité pour l'accès aux emplois de la carrière de l'expéditionnaire technique, conformément aux dispositions de l'article 17, paragraphe II, point 3, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, ainsi que de l'article IV, paragraphe 1, de la loi du 27 août 1986 modifiant et complétant la loi modifiée du 22 juin 1963 citée ci-dessus.",
+      "text_sha256": "13d1e6f635de27b5b9d27120bed1e1e98b5a5781889c4ecf15cafe092b529326",
+      "md_span": {
+        "start": 6285,
+        "end": 7016
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1986/08/27/n1/jo",
+          "text": "loi du 27 août 1986"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9a",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_9a",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_9a/19911203",
+      "type": "article",
+      "num": "Art. 9A.",
+      "heading": null,
+      "path": [
+        "VI. Mesures transitoires"
+      ],
+      "article_valid_from": "1991-12-03",
+      "text_md": "Par dérogation aux dispositions de l'article 1er, paragraphe 3, ci-dessus, le nombre minimum des emplois qui pourront être occupés par des fonctionnaires de la carrière de l'expéditionnaire technique est fixé à dix unités chaque fois pour les établissements d'enseignement secondaire et les établissements d'enseignement secondaire technique.",
+      "text_sha256": "9269c1aed648bb0ae44da430e239d0d672ec4b8281ca4a9304787ad2b5db8f5a",
+      "md_span": {
+        "start": 7053,
+        "end": 7395
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/art_10/19900323",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "VI. Mesures transitoires"
+      ],
+      "article_valid_from": "1990-03-23",
+      "text_md": "Notre ministre de l'Education nationale est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "25c19b701a19a1d355897256bd34261cdff12c54a6163d9711690039768b964f",
+      "md_span": {
+        "start": 7432,
+        "end": 7547
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

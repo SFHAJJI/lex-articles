@@ -1,0 +1,130 @@
+{
+  "lex_work_id": "lu-legilux:loi-2018-03-13-a183",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_10": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "5c1be4f0ebd0be90c7f68a2a776fd3824422de85f94b2195ac1959b2e58fc191",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29"
+      }
+    ],
+    "art_1er": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "b9ac8564485bb194be2c80ff45b74cfad3fd3bc9e65b68a1289e313a037accce",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29",
+        "article_valid_from": "2022-03-29"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "7308c075d010aa3038d3fdacee85ea84bff6cec0ac7614b4353b0d3674aa6a45",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "834dd63dd5c59d9500e319268afd26bbd4f366f43a932f4108932cb46394d235",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29"
+      }
+    ],
+    "art_3bis": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "786ac9fa995a4d6ff214cb009cda2c231bbd87a21783b514d3597faba74e8565",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29"
+      }
+    ],
+    "art_3quater": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "4909c4f15eacbc3807c5b9e1fdbc0204cab3d7f9b6a6a3d517940fd1e0c46179",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29"
+      }
+    ],
+    "art_3ter": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "d0e60f2bffe64d15df22acbf2f5da75578a10c2d473261e59b7f57e663701567",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "9616f879373ecdd0e595e335fb4c8c9c6614c8957c74f07f3327dbb48d56eba0",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29",
+        "article_valid_from": "2022-03-29"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "b1c350c435317378f8e6d1c09da6d6422925fcf99938d3815dd8422019a2631d",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29",
+        "article_valid_from": "2022-03-29"
+      }
+    ],
+    "art_5bis": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "c62a33cff236afb1fa5748427db91ecdfa977f06524fb07cadfe7299ed4f51f6",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "7067b9054a551d774bf3bcb9cf13682223e50ddc26bc85adbc667ed32207587e",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29",
+        "article_valid_from": "2018-03-18",
+        "validity_conflict": true
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "33bab400a0d42f6780a1414d4a4cdfc79411edba15305a805082dfb6888b24db",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29",
+        "article_valid_from": "2018-03-18",
+        "validity_conflict": true
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "64397b97e4c00fc67eab2de089fd0062acffc4cb3e7c408721ec495740a68dc1",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29",
+        "article_valid_from": "2022-03-29"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2022-03-29",
+        "valid_to": null,
+        "text_sha256": "ff45baf0ae0446f0016dd009c688ce7b4ad2e107ca5a3a30c64017bfcc853931",
+        "in_version": "lu-legilux:loi-2018-03-13-a183:2022-03-29"
+      }
+    ]
+  },
+  "anchor_events": []
+}

@@ -1,0 +1,1385 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/08/2023 : Loi du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire.",
+  "valid_from": "2018-08-25",
+  "valid_to": "2020-08-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1983-04-29-n1/versions/2018-08-25/fr.xml",
+    "sha256": "598e165c99ca840ebdeee99d85dc6ca318a87d924c8c85f873b959613cc5375b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20180825/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_1er/20161118",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** Sous réserve des dispositions prévues aux articles 2 et 4 et sans préjudice de l’article 7, paragraphe 3 de la présente loi, l’accès aux activités de médecin et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre ayant la Santé dans ses attributions, désigné ci-après par «le ministre», qui est délivrée aux conditions suivantes:\n\n1. loi du 28 octobre 2016\n2. loi du 28 octobre 2016\n3. loi du 28 octobre 2016\n4. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession de médecin;\n5. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 3.\n\n**(2)** Un règlement grand-ducal détermine la liste des disciplines reconnues comme spécialités médicales au Luxembourg.",
+      "text_sha256": "da2a85102cc0a48bd3f409b807447c0af97692c987d2ac398d6729781df9a46e",
+      "md_span": {
+        "start": 718,
+        "end": 1805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_1erbis",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_1erbis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_1er_bis/20161118",
+      "type": "article",
+      "num": "Art. 1erbis.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c) et paragraphe 2, l’accès aux activités de médecin-spécialiste en médecine légale et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre, qui est délivrée aux conditions suivantes:\n\n1. le candidat dispose d’un titre de formation de médecin-spécialiste dans la discipline de la médecine légale. Ce titre doit sanctionner une formation de spécialisation en médecine légale, conférant à l’intéressé le droit d’exercer la médecine en qualité de médecin-spécialiste en médecine légale dans le pays d’obtention du diplôme;\n2. er er\n\n**(2)** Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c) et paragraphe 2, l’accès aux activités de médecin-spécialiste en neuropathologie et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre, qui est délivrée aux conditions suivantes:\n\n1. le candidat dispose d’un titre de formation de médecin-spécialiste dans la discipline de la neuropathologie. Ce titre doit sanctionner une formation de spécialisation en neuropathologie, conférant à l’intéressé le droit d’exercer la médecine en qualité de médecin-spécialiste en neuropathologie dans le pays d’obtention du diplôme;\n2. er er",
+      "text_sha256": "6c8faa0d61a94387fcd6c863926020ef27362a78a72344631bc2f41b8af6053f",
+      "md_span": {
+        "start": 1850,
+        "end": 3130
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_1erter",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_1erter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_1er_ter/20100723",
+      "type": "article",
+      "num": "Art. 1erter.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Les médecins résidant au Luxembourg ou inscrits à l’Université du Luxembourg et poursuivant une formation spécifique en médecine générale ou une formation de médecin spécialiste telles que prévues à l’article 1er peuvent bénéficier d’une aide financière mensuelle à fixer par règlement grand-ducal ne pouvant dépasser le montant de 4.000,- (quatre mille) euros.",
+      "text_sha256": "ef4e3b28f5454644dfd22f81ee6e38319062905fa204f149b4499871647d4b2e",
+      "md_span": {
+        "start": 3175,
+        "end": 3536
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_2/20161118",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c), le ministre peut accorder l’autorisation temporaire d’exercer les activités de médecin sous la responsabilité d’un maître de stage autorisé définitivement à exercer la médecine au Luxembourg, aux médecins effectuant un stage de formation dans le cadre de la formation spécifique en médecine générale ou de la formation de spécialisation.\n\nCette autorisation ne peut dépasser une période de 12 mois. Elle est renouvelable sur demande de l’intéressé, à condition que celui-ci fournisse une preuve attestant que ce stage s’inscrit dans le cadre de la formation spécifique en médecine générale ou de la formation de spécialisation.\n\nUn règlement grand-ducal fixe les conditions d’accès, l’organisation et les conditions de réussite du stage ainsi que les conditions de travail du médecin ou étudiant en médecine effectuant le stage.\n\n**(2)** Par dérogation aux dispositions de l’article 1er, paragraphe 1er sous c), le ministre peut accorder l’autorisation temporaire d’exercer les activités de médecin à titre de remplaçant d’un médecin établi au Luxembourg, aux médecins ressortissants d’un Etat membre de l’Union européenne qui sont en dernière année d’une formation spécifique en médecine générale ou d’une formation de spécialisation.\n\nUn règlement grand-ducal fixe les modalités du remplacement ainsi que les conditions à remplir et la procédure à suivre pour obtenir l’autorisation de remplacement.\n\n**(3)** Par dérogation aux dispositions de l’article 1er, paragraphe 1er, le ministre peut accorder l’autorisation d’exercer temporairement pendant une période ne pouvant dépasser 6 mois, les activités de médecin ou certaines activités relevant de l’exercice de la médecine aux médecins ressortissants d’un pays tiers effectuant un stage de formation dans le cadre de la coopération internationale.\n\nL’autorisation d’exercer fixe les modalités et conditions du stage de formation.",
+      "text_sha256": "7b37c7abd14c22942e5bc6633554bfb3b0575d9067b8065ba8ed063af6e23861",
+      "md_span": {
+        "start": 3571,
+        "end": 5536
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_3/20161118",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "L’avis du Collège médical est demandé pour toutes les demandes en autorisation d’exercer.",
+      "text_sha256": "a0222a00fbfad6e8713682cd80f1f5ba3de830f673877f3eba2655f3f9d8e73d",
+      "md_span": {
+        "start": 5571,
+        "end": 5660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_4/20100723",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Le médecin ressortissant d’un Etat membre de l’Union européenne, qui est établi dans un autre Etat membre et y exerce légalement les activités de médecin généraliste ou de médecin spécialiste, peut exécuter au Luxembourg des prestations de services de façon temporaire et occasionnelle sans autorisation du ministre.\n\n**(2)** Le médecin ressortissant d’un pays tiers établi dans un Etat membre ou un pays tiers et y exerçant soit en qualité de médecin généraliste soit en qualité de médecin spécialiste peut, à titre occasionnel et sur appel du médecin traitant ou du malade, exécuter une prestation de services à titre de consultant du médecin traitant établi au Luxembourg.\n\n**(3)** Un règlement grand-ducal détermine les conditions et modalités d’exercice de la prestation de services visée aux paragraphes (1) et (2) du présent article. Ce règlement prescrira entre autres que le médecin fasse une déclaration préalable relative à sa prestation au ministre qui en fera parvenir une copie au Collège médical et aux organismes de sécurité sociale.\n\n**(4)** Le prestataire est soumis aux règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l’usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des patients, ainsi qu’aux dispositions disciplinaires applicables aux médecins légalement établis au Luxembourg.\n\n**(5)** Le médecin frappé d’une peine de suspension ou d’interdiction d’exercer sa profession au Luxembourg et qui est légalement établi dans un autre Etat membre, ne peut pas effectuer de prestation de services au Luxembourg pendant la durée de sa suspension ou de son interdiction.",
+      "text_sha256": "24bbaedfbf8f4d12733b407fd1ae1f6c0a2640cc77e349b453f64013d00ae4c2",
+      "md_span": {
+        "start": 5695,
+        "end": 7498
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_5/20161118",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** La personne autorisée à exercer la médecine au Luxembourg en qualité de médecin-généraliste porte le titre professionnel de médecin-généraliste.\n\n**(2)** La personne autorisée à exercer la médecine au Luxembourg en qualité de médecin-spécialiste porte le titre professionnel de médecin-spécialiste suivi du nom de la spécialité reconnue au Luxembourg.\n\n**(3)** Le médecin peut également être autorisé par le ministre à faire usage de son titre licite de formation tel que visé à l’article 1er, point c) et éventuellement de son abréviation dans la langue de l’Etat où il a acquis sa formation, suivi des nom et lieu de l’établissement ou du jury qui l’a délivré. Toutefois au cas où ce titre peut être confondu avec un titre exigeant une formation supplémentaire non acquise par le bénéficiaire, ce dernier ne pourra utiliser son titre de formation que dans une formule appropriée à indiquer par le ministre.\n\n**(4)** Le médecin peut aussi être autorisé par le Collège médical à faire usage d’une fonction académique ou d’un titre licite de formation autre que celui visé au paragraphe 3 selon la formulation intégrale qui lui a été conféré par une université ou une autre autorité compétente, et qui est reconnu par les autorités compétentes du pays où il a été délivré. Le Collège médical peut soumettre cette autorisation au paiement préalable d’une taxe. Le montant de cette taxe est fixé annuellement par le Collège médical, étant entendu qu’il se situe entre 75 et 150 euros.",
+      "text_sha256": "56e734738dd7955fc947c58b2e0a62389d42a7b08db900630b03ef98cee94a9c",
+      "md_span": {
+        "start": 7533,
+        "end": 9022
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_6/20100723",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Le médecin autorisé à exercer doit veiller à la continuité des soins aux patients dont il a la charge.\n\nAu cas ou il ne peut pas satisfaire à cette obligation du fait de l’existence d’un deuxième cabinet ou lieu d’établissement, le ministre peut l’obliger à se limiter à un seul cabinet ou lieu d’établissement.\n\n**(2)** Il doit posséder les connaissances linguistiques nécessaires à l’exercice de sa profession au Luxembourg. Il engage sa responsabilité disciplinaire, civile et pénale si, par suite d’une insuffisance de ces connaissances, il commet une erreur dans l’exercice de sa profession ou fait commettre une erreur à d’autres dans l’exercice de leurs professions.\n\nDès son installation il doit recueillir les informations nécessaires concernant les législations sanitaire et sociale et la déontologie applicables au Luxembourg.\n\nIl est obligé de tenir à jour ses connaissances professionnelles.\n\nIl est tenu au secret professionnel.\n\n**(3)** Le médecin établi au Luxembourg en qualité de médecin généraliste est tenu de participer au service de remplacement des médecins généralistes.\n\nL’organisation et les modalités de fonctionnement du service de remplacement, visant à assurer la continuité des soins à la population pendant les heures usuelles de fermeture des cabinets médicaux, sont déterminées par règlement grand-ducal.\n\nLe médecin qui participe au service de remplacement a droit à une indemnité horaire à charge du budget de l’Etat qui ne peut pas dépasser le montant de 16,00 euros valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948. Un règlement grand-ducal fixera le montant ainsi que les modalités de calcul de cette indemnité qui sera adaptée à l’indice pondéré.\n\nLe médecin établi au Luxembourg en qualité de médecin spécialiste est tenu de participer au service de permanence médicale à l’intérieur de l’établissement hospitalier auquel il est attaché, conformément aux dispositions de la législation en matière d’aide médicale urgente.\n\nUn règlement grand-ducal détermine les modalités suivant lesquelles les médecins spécialistes qui ne sont attachés à aucun établissement hospitalier participent au service de permanence visé à l’alinéa qui précède en cas de pénurie de médecins attachés, dûment constatée par le ministre, sur avis du Collège médical, dans la spécialité dont ils relèvent.",
+      "text_sha256": "357fc457fd353859a3185e21c809b558131ad3a000a4211d6aafcc53a23bf6cf",
+      "md_span": {
+        "start": 9057,
+        "end": 11414
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6bis",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_6bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_bis/20100723",
+      "type": "article",
+      "num": "Art. 6.bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Le médecin prodigue aux patients dont il a la charge les soins préventifs, curatifs ou palliatifs que requiert leur état de santé, conformes aux données acquises par la science et à la déontologie.\n\n**(2)** En cas d’affection arrivée à un stade incurable et terminal le médecin traitant apaise les souffrances physiques et morales du patient, en lui donnant les traitements appropriés, en évitant toute obstination déraisonnable et en maintenant pour autant que possible la qualité de la survie.\n\nIl met en œuvre tous les moyens qui sont à sa disposition pour permettre au patient mourant de garder sa dignité.",
+      "text_sha256": "4dff1f3ed199237d55cab9ce639a324c6170f20e2287b267041028cf69c070fd",
+      "md_span": {
+        "start": 11456,
+        "end": 12074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_7/20161118",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions particulières à la profession de médecin"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** Exerce illégalement la médecine:\n\n1. toute personne qui pratique ou prend part, même en présence du médecin, à l’établissement d’un diagnostic ou au traitement d’affections pathologiques, réelles ou supposées, ou à un accouchement, par actes personnels, consultations verbales ou écrites ou par tous autres procédés quels qu’ils soient, sans être autorisée à exercer la profession de médecin, sauf le cas d’urgence avérée;\n2. toute personne qui, munie d’un titre régulier, prête son concours aux personnes visées sous a) à l’effet de les soustraire aux prescriptions de la présente loi;\n3. tout médecin qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.\n\n- tout médecin qui effectue une prestation de services sans remplir les conditions prévues à l’article 4 de la présente loi.\n- tout médecin, médecin-dentiste ou médecin-vétérinaire, qui, n’ayant plus exercé sa profession depuis cinq ans, reprend cet exercice sans en avoir fait la notification au ministre prévue à cet effet à l’article 32 ter ci-dessous ou sans avoir accompli la formation complémentaire ou le stage d’adaptation imposé par le ministre en vertu de l’article précité.\n\n**(2)** Les dispositions du présent article ne s’appliquent pas aux étudiants en médecine qui agissent sous la responsabilité d’un maître de stage autorisé à exercer la médecine au Luxembourg dans le cadre d’un stage de formation en vue de l’obtention d’un titre de formation dont question à l’article 1er sous b) de la présente loi ou d’un stage d’adaptation prévu par la présente loi, ni aux membres des professions de santé régies par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé qui agissent dans la limite de leurs attributions fixées par les lois et règlements qui régissent ces professions.",
+      "text_sha256": "9de7c570219a38706a6910a4c3d7f0d532137ded56075050510028390e42069c",
+      "md_span": {
+        "start": 12109,
+        "end": 13990
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/03/26/n1/jo",
+          "text": "loi modifiée du 26 mars 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_8/20161118",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** Sous réserve des dispositions prévues aux articles 9 et 11, et sans préjudice de l’article 14, paragraphe 3 de la présente loi, l’accès aux activités de médecin-dentiste et médecin-dentiste spécialiste et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre qui est délivrée aux conditions suivantes:\n\n1. loi du 28 octobre 2016\n2. loi du 28 octobre 2016\n3. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession;\n4. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège médical. Le président du Collège médical ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 10.\n\n**(2)** Un règlement grand-ducal détermine la liste des disciplines reconnues comme spécialités médico-dentaires au Luxembourg.",
+      "text_sha256": "54fcd1ede86b92be77b77068d0ced29741afc6432cc343452b2d77996b9e91c9",
+      "md_span": {
+        "start": 14109,
+        "end": 15137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8bis_20180825",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_8bis_20180825",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_55/20161118",
+      "type": "article",
+      "num": "Art. 8bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Lorsque pour un motif spécifique et exceptionnel, le candidat ne remplit pas les conditions pour bénéficier de la reconnaissance automatique de son titre de formation, l’autorisation d’exercer les activités de médecin est accordée par le ministre, à condition que son titre de formation ait été préalablement reconnu par les autorités compétentes d’un Etat membre de l’Union européenne et qu’il remplisse les conditions prévues sous a), c) et d) de l’article 8.",
+      "text_sha256": "cf96bad09f0499778757637fadbeeec1959df92b948b66ae8e5a039871073811",
+      "md_span": {
+        "start": 15187,
+        "end": 15648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_9/20161118",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** Par dérogation aux dispositions de l’article 8, paragraphe 1er sous b), le ministre peut accorder l’autorisation temporaire d’exercer les activités de médecin-dentiste ou médecin-dentiste spécialiste sous la responsabilité d’un maître de stage autorisé définitivement à exercer la médecine dentaire au Luxembourg, aux étudiants en médecine dentaire, respectivement aux médecins-dentistes effectuant un stage de formation dans le cadre de la formation en médecine dentaire, respectivement de la formation de spécialisation en médecine dentaire.\n\nCette autorisation ne peut dépasser une période de 12 mois. Elle est renouvelable sur demande de l’intéressé, à condition que celui-ci fournisse une preuve attestant que ce stage s’inscrit dans le cadre de la formation de médecin-dentiste ou médecin-dentiste spécialiste.\n\nUn règlement grand-ducal fixe les conditions d’accès, l’organisation et les conditions de réussite du stage ainsi que les conditions de travail du médecin-dentiste ou médecin-dentiste spécialiste ou étudiant en médecine dentaire effectuant le stage.\n\n**(2)** Par dérogation aux dispositions de l’article 8, paragraphe 1er sous b), le ministre peut accorder l’autorisation temporaire d’exercer les activités de médecin-dentiste ou médecin-dentiste spécialiste à titre de remplaçant d’un médecin-dentiste ou d’un médecin-dentiste spécialiste établi au Luxembourg, aux étudiants en médecine dentaire, respectivement aux médecins-dentistes effectuant un stage de formation dans le cadre de la formation en médecine dentaire, respectivement de la formation de spécialisation en médecine dentaire, ressortissants d’un Etat membre de l’Union européenne qui sont en dernière année d’une formation en médecine dentaire ou d’une formation de spécialisation en médecine dentaire.\n\nUn règlement grand-ducal fixe les modalités du remplacement ainsi que les conditions à remplir et la procédure à suivre pour obtenir l’autorisation de remplacement.\n\n**(3)** Par dérogation aux dispositions de l’article 8, paragraphe 1er, le ministre peut accorder l’autorisation d’exercer temporairement pendant une période ne pouvant dépasser 6 mois les activités de médecin-dentiste ou certaines activités relevant de l’exercice de la médecine dentaire aux médecins-dentistes ressortissants d’un pays tiers effectuant un stage de formation dans le cadre de la coopération internationale.\n\nL’autorisation d’exercer fixe les modalités et conditions du stage de formation.",
+      "text_sha256": "559bf080a2669a0212ea3623c760bb570f53e455809b99ba37aa77128a8154d9",
+      "md_span": {
+        "start": 15683,
+        "end": 18150
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_10/20161118",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "L’avis du Collège médical est demandé pour toutes les demandes en autorisation d’exercer.",
+      "text_sha256": "a0222a00fbfad6e8713682cd80f1f5ba3de830f673877f3eba2655f3f9d8e73d",
+      "md_span": {
+        "start": 18187,
+        "end": 18276
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_11/20100723",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Le médecin-dentiste ressortissant d’un Etat membre de l’Union européenne qui est établi dans un autre Etat membre et y exerce légalement les activités de praticien de l’art dentaire, peut exécuter au Luxembourg des prestations de services de façon temporaire et occasionnelle sans autorisation du ministre.\n\n**(2)** Le médecin-dentiste ressortissant d’un pays tiers établi dans un Etat membre ou un pays tiers et y exerçant en qualité de médecin-dentiste, peut à titre occasionnel et sur appel du médecin-dentiste traitant ou du malade exécuter une prestation de services à titre de consultant du médecin-dentiste traitant établi au Luxembourg.\n\n**(3)** Un règlement grand-ducal détermine les conditions et modalités d’exercice de la prestation de services visée aux paragraphes (1) et (2) du présent article. Ce règlement prescrira entre autres que le médecin-dentiste fasse une déclaration préalable relative à sa prestation au ministre qui en fera parvenir une copie au Collège médical et aux organismes de sécurité sociale.\n\n**(4)** Le prestataire est soumis aux règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l’usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des patients, ainsi qu’aux dispositions disciplinaires applicables aux médecins-dentistes légalement établis au Luxembourg.\n\n**(5)** Le médecin-dentiste frappé d’une peine de suspension ou d’interdiction d’exercer sa profession au Luxembourg et qui est légalement établi dans un autre Etat membre, ne peut pas effectuer de prestation de services au Luxembourg pendant la durée de sa suspension ou de son interdiction.",
+      "text_sha256": "4f4823c6e88100b61ce7dffc50c33c976166a060f2e100f64577d0b84a7e096a",
+      "md_span": {
+        "start": 18313,
+        "end": 20113
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_12/20161118",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** La personne autorisée à exercer la médecine dentaire au Luxembourg porte le titre professionnel de médecin-dentiste.\n\n**(2)** La personne autorisée à exercer la médecine dentaire au Luxembourg en qualité de médecin-dentiste spécialiste porte le titre professionnel de médecin-dentiste spécialiste suivi du nom de la spécialité reconnue au Luxembourg.\n\n**(3)** Le médecin-dentiste peut également être autorisé par le ministre à faire usage de son titre licite de formation tel que visé à l’article 8, paragraphe 1er, point b) et éventuellement de son abréviation dans la langue de l’Etat où il a acquis sa formation, suivi des nom et lieu de l’établissement ou du jury qui l’a délivré. Toutefois au cas où ce titre peut être confondu avec un titre exigeant une formation supplémentaire non acquise par le bénéficiaire, ce dernier ne pourra utiliser son titre de formation que dans une formule appropriée à indiquer par le ministre.\n\nUn règlement grand-ducal pourra préciser les modalités d’application de la présente disposition.\n\n**(4)** Le médecin-dentiste peut aussi être autorisé par le Collège médical à faire usage d’une fonction académique ou d’un titre licite de formation autre que celui visé au paragraphe 3 selon la formulation intégrale qui lui a été conféré par une université ou une autre autorité compétente, et qui est reconnu par les autorités compétentes du pays où il a été délivré.\n\nLe Collège médical peut soumettre cette autorisation au paiement préalable d’une taxe. Le montant de cette taxe est fixé annuellement par le Collège médical, étant entendu qu’il se situe entre 75 et 150 euros.",
+      "text_sha256": "82ff6be288af4ca5de45b9e9ff6ab363e18e7d809d38108e53b4b27359d3d694",
+      "md_span": {
+        "start": 20150,
+        "end": 21769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_13/20100723",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Le médecin-dentiste autorisé à exercer doit veiller à la continuité des soins aux patients dont il a la charge.\n\nAu cas ou il ne peut pas satisfaire à cette obligation du fait de l’existence d’un deuxième cabinet ou lieu d’établissement, le ministre peut l’obliger à se limiter à un seul cabinet ou lieu d’établissement.\n\n**(2)** Il doit posséder les connaissances linguistiques nécessaires à l’exercice de sa profession au Luxembourg. Il engage sa responsabilité disciplinaire, civile et pénale si, par suite d’une insuffisance de ces connaissances, il commet une erreur dans l’exercice de sa profession ou fait commettre une erreur à d’autres dans l’exercice de leurs professions.\n\nDès son installation il doit recueillir les informations nécessaires concernant les législations sanitaire et sociale et la déontologie applicables au Luxembourg.\n\nIl est obligé de tenir à jour ses connaissances professionnelles.\n\nIl est tenu au secret professionnel.\n\n**(3)** Le médecin-dentiste établi au Luxembourg est tenu de participer au service dentaire d’urgence dont l’organisation et les modalités sont fixées par règlement grand-ducal à prendre sur avis du Conseil d’Etat.",
+      "text_sha256": "cf6f51166b66e123afb1b468d3d9ca6b791fc7703970a8ea184fdf85f73d1aa7",
+      "md_span": {
+        "start": 21806,
+        "end": 22981
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13bis",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_13bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_56/20100723",
+      "type": "article",
+      "num": "Art. 13bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Le médecin-dentiste prodigue aux patients dont il a la charge les soins préventifs, curatifs ou palliatifs que requiert leur état de santé, conformes aux données acquises par la science et à la déontologie.\n\n**(2)** En cas d’affection arrivée à un stade incurable et terminal le médecin-dentiste traitant apaise les souffrances physiques et morales du patient, en lui donnant les traitements appropriés, en évitant toute obstination déraisonnable et en maintenant pour autant que possible la qualité de la survie.\n\nIl met en œuvre tous les moyens qui sont à sa disposition pour permettre au patient mourant de garder sa dignité.",
+      "text_sha256": "16596ceaa193d5a00ab3f2a64e602296d2b1083e9b035d1c3feb016160321925",
+      "md_span": {
+        "start": 23024,
+        "end": 23660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_14/20100723",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Dispositions particulières à la profession de médecin-dentiste**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Exerce illégalement la médecine dentaire\n\n1. toute personne qui prend part, même en présence du médecin-dentiste, à la pratique de la médecine dentaire sans remplir les conditions prévues aux articles 8 et 9 de la présente loi, sauf le cas d’urgence avérée;\n2. toute personne qui, munie d’un titre régulier prête son concours aux personnes visées sous a) à l’effet de les soustraire aux prescriptions de la présente loi;\n3. tout médecin-dentiste qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.\n\n- tout médecin-dentiste qui effectue une prestation de services sans remplir les conditions prévues à l’article 11 de la présente loi.\n\n**(2)** Les dispositions du présent article ne s’appliquent pas aux étudiants en médecine dentaire, aux médecins-dentistes qui agissent sous la responsabilité d’un maître de stage autorisé à exercer la médecine dentaire au Luxembourg dans le cadre d’un stage de formation ou d’adaptation prévus par la présente loi, ni aux membres des professions de santé régies par la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé qui agissent dans la limite de leurs attributions fixées par les lois et règlement qui régissent ces professions.",
+      "text_sha256": "cfb837843c82cf344d1121838b2f36e9035faa84e6419d90df63358f23246b0f",
+      "md_span": {
+        "start": 23697,
+        "end": 24999
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/03/26/n1/jo",
+          "text": "loi modifiée du 26 mars 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_15/20100723",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions communes aux professions de médecin et de médecin-dentiste**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’autorisation d’exercer la profession de médecin ou de médecin-dentiste visée aux articles 1er, 2, 8 et 9 est suspendue ou retirée par le ministre lorsque les conditions y prévues ne sont plus remplies.",
+      "text_sha256": "911820c31bc8363bf1542c6ae57d6f3bdafb3eeecca73d2086aa6ca20e544653",
+      "md_span": {
+        "start": 25134,
+        "end": 25337
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_16/20100723",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions communes aux professions de médecin et de médecin-dentiste**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Dans le cas d’inaptitude, le ministre peut décider la suspension temporaire du droit d’exercer. Elle ne peut être ordonnée que sur base d’un rapport motivé adressé au ministre, établi par trois experts désignés l’un par l’intéressé ou sa famille, le deuxième par le directeur de la Santé et le troisième par les deux premiers. En cas de désaccord entre ces derniers, la désignation du troisième expert est faite sur demande du ministre par le président du tribunal d’arrondissement. Il en est de même en cas de carence de l’intéressé ou de sa famille pour la désignation du premier expert.\n\nLe ministre peut être saisi soit par le directeur de la Santé, soit par le Collège médical. L’expertise prévue à l’alinéa précédent doit être effectuée au plus tard dans le délai de deux mois à compter de la désignation des trois experts.\n\n**(2)** S’il y a péril en la demeure, lorsque la poursuite de l’exercice professionnel par un médecin ou un médecin-dentiste risque d’exposer la santé ou la sécurité des patients ou de tiers à un dommage grave, le ministre peut, sur avis du Collège médical et l’intéressé dûment mis en mesure de présenter ses observations, suspendre avec effet immédiat le droit d’exercer ou le soumettre à certaines restrictions. La décision de suspension doit être motivée et ne peut dépasser trois mois. Avant l’expiration de ce délai le ministre, sur base d’un rapport d’expertise tel que prévu au paragraphe qui précède, décide soit de restaurer l’intéressé dans son droit d’exercer, soit de prolonger la mesure de suspension, soit de prononcer le retrait de l’autorisation d’exercer.\n\n**(3)** La durée totale d’une mesure de suspension temporaire ne peut pas dépasser deux ans. Le ministre peut subordonner la reprise de l’activité professionnelle à la constatation de l’aptitude de l’intéressé par une nouvelle expertise effectuée à la diligence du directeur de la Santé, dans les conditions ci-dessus prévues, dans le mois qui précède l’expiration de la période de suspension.\n\n**(4)** Les frais d’expertise sont à charge du titulaire dont l’autorisation a été suspendue temporairement. Il en est de même en cas de renouvellement de suspension ou de retrait de l’autorisation. Dans les autres cas, les frais d’expertise sont à charge de l’Etat.",
+      "text_sha256": "d887d45282b249aeaf90399edf261f447d89d1a02a898c67ea4de236b12caabf",
+      "md_span": {
+        "start": 25374,
+        "end": 27649
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17_20180825",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_17_20180825",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_17/20180825",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions communes aux professions de médecin et de médecin-dentiste**"
+      ],
+      "article_valid_from": "2018-08-25",
+      "text_md": "Toute personne exerçant la médecine ou la médecine dentaire au Luxembourg est tenue de faire la déclaration des cas de maladies infectieuses ou transmissibles sujettes à déclaration obligatoire au directeur de la Santé. La liste de ces maladies est établie par le ministre, sur avis du Collège médical.\n\nLes cas de maladies infectieuses ou transmissibles déclarés dans les différentes localités du pays sont publiés au Mémorial par le ministre.",
+      "text_sha256": "631880d49b5a535b7392cf1a259617295c944e52525cd0af9988a11ac1a8cab8",
+      "md_span": {
+        "start": 27695,
+        "end": 28139
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_18/20100723",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions communes aux professions de médecin et de médecin-dentiste**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Pour les règlements grand-ducaux concernant les professions de médecin et de médecin-dentiste prévus aux chapitres 1er, 2, 3 et 5 de la présente loi, l’avis du collège médical doit être demandé.\n\n**(2)** Un code de déontologie des professions de médecin et de médecin-dentiste est édicté par le collège médical et approuvé par le ministre. Ce code est publié au Mémorial.",
+      "text_sha256": "df99d723108db7c0a356048e7817acb4b6605316336a09850d11896a9c9397d1",
+      "md_span": {
+        "start": 28176,
+        "end": 28555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_19/20161118",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions communes aux professions de médecin et de médecin-dentiste**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Un règlement grand-ducal pris sur avis du Conseil d’Etat fixe une liste des équipements et appareils qui ne peuvent être détenus ou utilisés par les médecins et médecins-dentistes pour les besoins de leur cabinet médical, ainsi qu’une liste des équipements et appareils qui peuvent seulement être détenus ou utilisés par les médecins spécialistes pour les besoins de leurs spécialités.\n\nCes listes doivent être adaptées tous les trois ans.",
+      "text_sha256": "97c01c3d3e41dab8ddbb9ced2e7a382f27f3cc379309dbfb9546180042a5a8c9",
+      "md_span": {
+        "start": 28592,
+        "end": 29031
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_20/20100723",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions communes aux professions de médecin et de médecin-dentiste**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Est nulle toute convention conclue par les membres des professions de médecin et de médecin-dentiste entre eux ou avec un établissement hospitalier, stipulant des partages sur les honoraires ou des remises sur les médicaments prescrits, sans préjudice des dispositions concernant la rémunération des médecins prévues par les lois organiques relatives à certains établissements hospitaliers.",
+      "text_sha256": "afad134062090799042c603eb0a02b2bf683011481ec83989e6d2958c3cfe9e5",
+      "md_span": {
+        "start": 29068,
+        "end": 29458
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_21/20161118",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Sous réserve des dispositions prévues à l’article 25 de la présente loi, l’accès aux activités de médecin-vétérinaire et l’exercice de celles-ci au Luxembourg sont subordonnés à une autorisation du ministre qui est délivrée aux conditions suivantes:\n\n1. loi du 28 octobre 2016\n2. loi du 28 octobre 2016\n3. il doit remplir les conditions de moralité et d’honorabilité ainsi que de santé physique et psychique nécessaires à l’exercice de la profession de médecin-vétérinaire;\n4. Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite à la demande du ministre par le Collège vétérinaire. Le président du Collège vétérinaire ou son délégué entend le candidat et transmet au ministre le résultat de la vérification ensemble avec l’avis prévu à l’article 23.",
+      "text_sha256": "e77c60c95e815c394a2c3c6884ff0bdfa9875d43cdd3207d82b77a1449af0442",
+      "md_span": {
+        "start": 29588,
+        "end": 30426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21bis_20180825",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_21bis_20180825",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_57/20161118",
+      "type": "article",
+      "num": "Art. 21bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Lorsque pour un motif spécifique et exceptionnel, le candidat ne remplit pas les conditions pour bénéficier de la reconnaissance automatique de son titre de formation, l’autorisation d’exercer les activités de médecin est accordée par le ministre, à condition que son titre de formation ait été préalablement reconnu par les autorités compétentes d’un Etat membre de l’Union européenne et qu’il remplisse les conditions prévues sous a), c) et d) de l’article 21.",
+      "text_sha256": "0fa649ae084f78b61f02aa4cc05ce76a003b8165dae7b2e7bc5b3bdd8d94c198",
+      "md_span": {
+        "start": 30478,
+        "end": 30940
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22_20180825",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_22_20180825",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_22/20161118",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Par dérogation aux dispositions de l’article 21, paragraphe (1) sous a), l’autorisation d’exercer les activités de médecin-vétérinaire peut être accordée par le ministre dans des cas exceptionnels à un ressortissant d’un pays tiers ou à une personne jouissant du statut d’apatride ou de réfugié politique remplissant les conditions prévues sous b), c) et d) de l’article 21, paragraphe (1).\n\nL’arrêté d’autorisation doit être motivé et fixer les conditions et modalités d’exercice. Le ministre peut, le cas échéant, subordonner l’autorisation à l’obligation pour le candidat de faire un stage d’adaptation qui peut être accompagné d’une formation complémentaire.",
+      "text_sha256": "a3e2c5d6f0858c3bc4e1a25d359cc34cb1cfa23afe36c1d94c7adb554ea13592",
+      "md_span": {
+        "start": 30986,
+        "end": 31648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_23/20161118",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Les demandes en autorisation d’exercer la médecine vétérinaire sont soumises pour avis au Collège vétérinaire.",
+      "text_sha256": "812b0a18e5a21d6ef0aaff6e93da3ad6d3f81506d64fec61967752d4de4eca14",
+      "md_span": {
+        "start": 31685,
+        "end": 31795
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_24/20100723",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’autorisation d’exercer la profession de médecin-vétérinaire visée aux articles 21 et 22 est suspendue ou retirée par le ministre lorsque les conditions y prévues ne sont plus remplies.",
+      "text_sha256": "243924f80a388d0833ba5caa248e1c3cceab0e85062882d324c3c938547057d1",
+      "md_span": {
+        "start": 31832,
+        "end": 32018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24bis",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_24bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_58/20100723",
+      "type": "article",
+      "num": "Art. 24bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Dans le cas d’inaptitude, le ministre peut décider la suspension temporaire du droit d’exercer. Elle ne peut être ordonnée que sur base d’un rapport motivé adressé au ministre, établi par trois experts, à savoir deux médecins désignés l’un par l’intéressé ou sa famille, le deuxième par le directeur de la Santé et un médecin-vétérinaire désigné par les deux premiers. En cas de désaccord entre ces derniers, la désignation du médecin-vétérinaire est faite sur demande du ministre par le président du tribunal d’arrondissement. Il en est de même en cas de carence de l’intéressé ou de sa famille pour la désignation du premier expert.\n\nLe ministre peut être saisi soit par le directeur de la Santé soit par le Collège vétérinaire. L’expertise prévue à l’alinéa précédent doit être effectuée au plus tard dans le délai de deux mois à partir de la désignation des trois experts.\n\n**(2)** S’il y a péril en la demeure, lorsque la poursuite de l’exercice professionnel par un médecin-vétérinaire risque d’exposer la santé ou la sécurité des animaux ou de tiers à un dommage grave, le ministre peut, sur avis du Collège vétérinaire et l’intéressé dûment mis en mesure de présenter ses observations, suspendre avec effet immédiat le droit d’exercer. La décision de suspension doit être motivée et ne peut dépasser trois mois. Avant l’expiration de ce délai le ministre, sur base d’un rapport d’expertise tel que prévu au paragraphe qui précède, décide soit de restaurer l’intéressé dans son droit d’exercer, soit de prolonger la mesure de suspension, soit de prononcer le retrait de l’autorisation d’exercer.\n\n**(3)** La durée totale d’une mesure de suspension ne peut pas dépasser deux ans. Le ministre peut subordonner la reprise de l’activité professionnelle à la constatation de l’aptitude de l’intéressé par une nouvelle expertise effectuée à la diligence du directeur de la Santé, dans les conditions ci-dessus prévues, dans le mois qui précède l’expiration de la période de suspension.\n\n**(4)** Les frais d’expertise sont à charge du titulaire dont l’autorisation a été suspendue temporairement. Il en est de même en cas de renouvellement de suspension ou de retrait de l’autorisation. Dans les autres cas, les frais d’expertise sont à charge de l’Etat.",
+      "text_sha256": "a91667370913eb96164473a580ab01cfe226829e19ba97f5cc42cb59c2e2058c",
+      "md_span": {
+        "start": 32061,
+        "end": 34323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_25/20100723",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Le médecin-vétérinaire ressortissant d’un Etat membre de l’Union européenne qui est établi dans un autre Etat membre et y exerce légalement les activités de vétérinaire, peut exécuter au Luxembourg des prestations de services de façon temporaire et occasionnelle sans autorisation du ministre.\n\n**(2)** Le médecin-vétérinaire ressortissant d’un pays tiers établi dans un Etat membre ou un pays tiers et y exerçant en qualité de médecin-vétérinaire, peut à titre occasionnel et sur appel du médecin-vétérinaire traitant ou du client exécuter une prestation de services à titre de consultant du médecin-vétérinaire traitant établi au Luxembourg.\n\n**(3)** Un règlement grand-ducal détermine les conditions et modalités d’exercice de la prestation de services visée aux paragraphes (1) et (2) du présent article. Ce règlement prescrira entre autres que le médecin-vétérinaire fasse une déclaration préalable relative à sa prestation au ministre qui en fera parvenir une copie au Collège vétérinaire.\n\n**(4)** Le prestataire est soumis aux règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l’usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des animaux, ainsi qu’aux dispositions disciplinaires applicables aux médecins vétérinaires légalement établis au Luxembourg.\n\n**(5)** Le médecin-vétérinaire frappé d’une peine de suspension ou d’interdiction d’exercer sa profession au Luxembourg et qui est légalement établi dans un autre Etat membre, ne peut pas effectuer de prestation de services au Luxembourg pendant la durée de sa suspension ou de son interdiction.",
+      "text_sha256": "8ec848bf5303ff965d5e24c21639817f47b7fde69df7e9bc21f27e8cf734e608",
+      "md_span": {
+        "start": 34360,
+        "end": 36133
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_26/20161118",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** La personne autorisée à exercer la médecine vétérinaire au Luxembourg porte le titre de médecin-vétérinaire.\n\n**(2)** Le médecin-vétérinaire peut également être autorisé par le ministre à faire usage de son titre licite de formation tel que visé à l’article 21, point b) et éventuellement de son abréviation dans la langue de l’Etat où il a acquis sa formation, suivi des nom et lieu de l’établissement ou du jury qui l’a délivré. Toutefois au cas où ce titre peut être confondu avec un titre exigeant une formation supplémentaire non acquise par le bénéficiaire, ce dernier ne pourra utiliser son titre de formation que dans une formule appropriée à indiquer par le ministre.\n\nUn règlement grand-ducal pourra préciser les modalités d’application de la présente disposition.\n\n**(3)** Le médecin-vétérinaire peut aussi être autorisé par le Collège vétérinaire à faire usage d’une fonction académique ou d’un titre licite de formation autre que celui visé au paragraphe 2 selon la formulation intégrale qui lui a été conféré par une université ou une autre autorité compétente, et qui est reconnu par les autorités compétentes du pays où il a été délivré. Le Collège vétérinaire peut soumettre cette autorisation au paiement préalable d’une taxe. Le montant de cette taxe est fixé annuellement par le Collège vétérinaire, étant entendu qu’il se situe entre 75 et 150 euros.",
+      "text_sha256": "5e9a01af754cef99ddefbd49f17eb4b584d9d5cc1843756c24ca037c758cf30e",
+      "md_span": {
+        "start": 36170,
+        "end": 37549
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_27/20100723",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Le médecin-vétérinaire autorisé à exercer doit posséder les connaissances linguistiques nécessaires à l’exercice de sa profession au Luxembourg. Il engage sa responsabilité disciplinaire, civile et pénale si, par suite d’une insuffisance des ces connaissances, il commet une erreur dans l’exercice de sa profession ou fait commettre une erreur à d’autres dans l’exercice de leurs professions.\n\nDès son installation il doit recueillir les informations nécessaires concernant la législation vétérinaire et la déontologie applicables au Luxembourg.\n\nIl est obligé de tenir à jour ses connaissances professionnelles.\n\nIl est tenu au secret professionnel.\n\n**(2)** Le médecin-vétérinaire établi au Luxembourg est tenu de participer au service vétérinaire de garde dont l’organisation et les modalités sont fixées par règlement grand-ducal à prendre sur avis du Conseil d’Etat.",
+      "text_sha256": "c57e018a47d12699e655e430dd2b57fea1017e1e437002895bbd751d3cab6db6",
+      "md_span": {
+        "start": 37586,
+        "end": 38465
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_28/20100723",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Toute personne exerçant la médecine vétérinaire au Luxembourg est tenue de faire la déclaration des cas de suspicion ou d’existence des maladies sujettes à déclaration obligatoire conformément aux dispositions de la loi du 29 juillet 1912 sur la police sanitaire du bétail et à ses règlements d’exécution.",
+      "text_sha256": "2d2494f50144cd89c7768699e2570a75aea14ec9841499ffc457bfbb0f4c16bd",
+      "md_span": {
+        "start": 38502,
+        "end": 38807
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1912/07/29/n1/jo",
+          "text": "loi du 29 juillet 1912"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29_20180825",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_29_20180825",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_29/20161118",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Le médecin-vétérinaire ne peut avoir qu’un seul lieu d’établissement professionnel au Luxembourg.",
+      "text_sha256": "932132fff6c054147c03ed867fa774c954e03009b3cb3a43f0421821c1c74aa4",
+      "md_span": {
+        "start": 38853,
+        "end": 38950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29bis",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_29bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_59/20100723",
+      "type": "article",
+      "num": "Art. 29bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’ouverture d’une clinique vétérinaire ou d’un centre de cas référés est soumise à une autorisation du ministre, le Collège vétérinaire préalablement entendu en son avis.\n\nUn règlement grand-ducal détermine les conditions relatives aux infrastructures et équipements minimaux obligatoires et nécessaires ainsi que la procédure à suivre en vue de l’ouverture d’une clinique vétérinaire ou d’un centre de cas référés.",
+      "text_sha256": "68de600cafd552045f50900f387a9d4935275269d46e0e54b3721a164a4be51a",
+      "md_span": {
+        "start": 38993,
+        "end": 39408
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_30/20100723",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Un règlement grand-ducal à prendre sur avis du Conseil d’Etat détermine les attributions des médecins-vétérinaires quant à l’exécution de la police sanitaire du bétail.",
+      "text_sha256": "ace64c5e6e9aee681342314005eb589e9b69eaaa97b629e473b1033783461171",
+      "md_span": {
+        "start": 39445,
+        "end": 39613
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_31/20100723",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Pour les règlements grand-ducaux concernant la profession de médecin-vétérinaire prévus aux chapitres 4 et 5 de la présente loi, l’avis du collège vétérinaire doit être demandé.\n\n**(2)** Un code de déontologie de la profession de médecin-vétérinaire est édicté par le collège vétérinaire et approuvé par le ministre. Ce code est publié au Mémorial.",
+      "text_sha256": "5c9d6c7ce38830570e2a0e930383fde5f07dfaa3f0e893e5106989a6875737fd",
+      "md_span": {
+        "start": 39650,
+        "end": 40006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_32/20100723",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — ** Dispositions particulières à la profession de médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Exerce illégalement la médecine vétérinaire:\n\n1. toute personne qui exerce la médecine vétérinaire, même en présence d’un médecin-vétérinaire, sans remplir les conditions prévues aux articles 21, 22, ou 25 de la présente loi, sauf le cas d’urgence avérée;\n2. toute personne qui, munie d’un titre régulier prête son concours aux personnes visées sous a), à l’effet de les soustraire aux prescriptions de la présente loi;\n3. tout médecin-vétérinaire qui accomplit un acte professionnel pendant la durée d’une peine de suspension ou d’interdiction de l’exercice de la profession.\n\n1. tout médecin-vétérinaire qui effectue une prestation de services sans remplir les conditions prévues à l’article 25 de la présente loi.\n\n**(2)** Les dispositions du présent article ne s’appliquent pas:\n\n- aux personnes qui pratiquent certaines opérations urgentes ou d’importance secondaire à déterminer par règlement grand-ducal sur avis du collège vétérinaire;\n\n- aux étudiants en médecine vétérinaire d’un Etat membre de la communauté européenne qui agissent sous la responsabilité d’un maître de stage autorisé à exercer la médecine vétérinaire au Luxembourg dans le cadre d’un stage de formation ou d’adaptation prévus par la présente loi;\n- règlement (CE) n° 854/2004",
+      "text_sha256": "3b68b752b7acae0220e864feb1392396abe44be04de90d3bf5817585b802d87b",
+      "md_span": {
+        "start": 40043,
+        "end": 41305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32bis",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_32bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_60/20100723",
+      "type": "article",
+      "num": "Art. 32bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’autorisation d’exercer devient caduque lorsque le médecin, le médecin-dentiste ou le médecin-vétérinaire bénéficiaire n’exerce pas sa profession au Luxembourg dans les deux années qui suivent la délivrance de l’autorisation. Il en va de même du médecin, médecin-dentiste ou médecin-vétérinaire qui a cessé son activité professionnelle et quitté le Luxembourg depuis plus de deux ans.",
+      "text_sha256": "69d00b84d8dc76d4d1f552cbc1bd8b35284376f4810bc0c637a90a06cb42bb14",
+      "md_span": {
+        "start": 41463,
+        "end": 41848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32ter",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_32ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_ter/20100723",
+      "type": "article",
+      "num": "Art. 32ter.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Le médecin, médecin-dentiste ou médecin-vétérinaire qui n’a pas exercé sa profession depuis cinq ans est tenu, avant de reprendre cet exercice, de notifier son intention au ministre.\n\nLe ministre peut l’obliger, sur avis respectivement du Collège médical et du Collège vétérinaire, et en tenant compte de la spécificité de la discipline exercée, à faire un stage d’adaptation qui peut être accompagné d’une formation complémentaire\n\nUn règlement grand-ducal détermine les modalités du stage d’adaptation et de la formation complémentaire.",
+      "text_sha256": "4c3ad72ae3ef8364aefeb70445170754fcaea89358cc2fccfa1a2aefad629ce6",
+      "md_span": {
+        "start": 41891,
+        "end": 42429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32quater",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_32quater",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_32quater/20161118",
+      "type": "article",
+      "num": "Art. 32quater.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** Une taxe d’un montant de 450 euros est due pour toute demande d’autorisation d’exercer définitive, visée aux articles 1er, 1er*bis*, 8 et 21.\n\nUne taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées à l’alinéa précédent.\n\n**(2)** Une taxe d’un montant de 150 euros est due pour toute demande d’autorisation d’exercer temporaire, visée aux articles 2 (2) et 9 (2).\n\nUne taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées à l’alinéa précédent.\n\n**(3)** Une taxe d’un montant de 75 euros est due pour toute demande d’autorisation pour l’usage du titre licite de formation, visée aux articles 5 (3), 12 (3) et 26 (2).\n\nUne taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées à l’alinéa précédent.\n\n**(4)** Une taxe d’un montant de 450 euros est due pour toute demande d’autorisation pour l’ouverture d’une clinique vétérinaire, visée à l’article 29*bis*.\n\nUne taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant l’autorisation visée à l’alinéa précédent.\n\n**(5)** La taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.",
+      "text_sha256": "d01cefee159466edbf57789258ef1257bd46273629a5f3ae950ffec014f2c963",
+      "md_span": {
+        "start": 42478,
+        "end": 44037
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_33/20161118",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "**(1)** Le médecin, le médecin-dentiste ou le médecin-vétérinaire autorisé à exercer sa profession au Luxembourg conformément aux articles 1er, 2, 8, 9, 21 et 22 de la présente loi est tenu, sous peine de sanctions disciplinaires de se faire inscrire dans le mois qui suit son installation aux registres professionnels mentionnés ci-dessous.\n\n**(2)** Le ministre tient à jour un registre professionnel regroupant les informations administratives et disciplinaires relatives aux médecins, médecins-dentistes et médecins-vétérinaires autorisés à exercer au Luxembourg conformément aux dispositions de la présente loi, les informations relatives aux prestataires de services visés aux articles 4, 11 et 25, ainsi que les informations relatives aux détenteurs d’une autorisation temporaire d’exercer les activités de médecin, médecin-dentiste ou de médecin-vétérinaire à titre de remplaçant ou de doctorant.\n\nLe Collège médical tient à jour un registre ordinal pour les professions de médecin et de médecin-dentiste. Pour la profession de médecin-vétérinaire, ce registre est tenu par le Collège vétérinaire. Les informations nécessaires à la tenue du registre ordinal leur sont communiquées d’office par le ministre.\n\n**(3)** Le registre professionnel renseigne en outre sur les sanctions disciplinaires ou pénales qui ont été prises et renseigne sur des faits graves et précis susceptibles d’avoir des conséquences sur l’exercice des activités professionnelles du médecin, médecin-dentiste ou médecin-vétérinaire.\n\n**(4)** Les personnes concernées ne peuvent pas s’opposer au traitement des données administratives ou professionnelles les concernant aux fins de la tenue du registre professionnel.\n\nLes personnes concernées peuvent à tout moment accéder au registre professionnel. Ils peuvent requérir la rectification d’inscriptions erronées ou le retrait d’inscriptions ne concernant pas leur activité professionnelle. Ils peuvent aussi y faire consigner leurs observations écrites éventuelles.\n\n**(5)** Les inscriptions du registre sont communiquées au Collège médical, au Collège vétérinaire et aux institutions de sécurité sociale qui se communiquent ces données réciproquement.\n\nElles peuvent être fournies sur demande à toute autorité ou instance habilitée spécifiquement par un autre Etat membre de l’Union européenne à délivrer ou à recevoir des titres de formation et autres documents ou informations, via le système d’information mis en place par le RÈGLEMENT (UE) n° 1024/2012 DU PARLEMENT EUROPÉEN ET DU CONSEIL du 25 octobre 2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur et abrogeant la décision 2008/49/CE de la Commission («règlement IMI»), à condition que ces échanges d’information se fassent dans la confidentialité et le respect de la législation sur la protection des données à caractère personnel.\n\n**(6)** Un règlement grand-ducal précise le détail des informations qui doivent être fournies par les intéressés concernant leur situation administrative et disciplinaire. Il peut rendre obligatoire l’usage de formulaires préétablis.\n\nSous peine de sanction disciplinaire, tout changement intervenu dans le chef des données ainsi fournies ou de la situation professionnelle doit être signalé endéans le mois au ministre pour être mentionné dans le registre professionnel ainsi qu’au Collège médical et au Collège vétérinaire pour être mentionné dans les registres ordinaux respectifs.\n\n**(7)** La liste des médecins, médecins-dentistes et médecins-vétérinaires inscrits au registre professionnel institué auprès du ministre est tenue à la disposition du public sous forme d’un annuaire consultable. Le médecin, médecin-dentiste et médecin-vétérinaire dont l’autorisation d’exercer est devenue caduque est omis d’office de cet annuaire.\n\nLe médecin, médecin-dentiste et médecin-vétérinaire qui se trouve frappé d’une interdiction d’exercer au Luxembourg reste inscrit à l’annuaire public pendant une période de six mois suivant la prise d’effet de cette mesure, avec indication de son interdiction d’exercer.\n\nDe même le médecin, médecin-dentiste et médecin-vétérinaire qui se trouve frappé d’une mesure de suspension reste inscrit à l’annuaire public pendant toute la durée de la suspension, avec indication de sa suspension.",
+      "text_sha256": "b4eced522482ffa5d1f556b66f91d5c340d7dd91df696748fb2e696d80fe8029",
+      "md_span": {
+        "start": 44074,
+        "end": 48383
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2012/1024/jo",
+          "text": "RÈGLEMENT (UE) n° 1024/2012"
+        },
+        {
+          "href": " http://data.europa.eu/eli/dec/2008/49(1)/oj",
+          "text": "décision 2008/49/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33bis",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_33bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_61/20140801",
+      "type": "article",
+      "num": "Art. 33bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Toute personne exerçant la médecine, la médecine dentaire ou la médecine vétérinaire au Luxembourg est tenue, sous peine de sanctions disciplinaires de disposer d'une assurance destinée à garantir sa responsabilité civile susceptible d'être engagée en raison de dommages survenus dans le cadre de son activité professionnelle.\n\nLes prestataires de services visés aux articles 4, 11 et 25 de la présente loi sont également soumis à cette obligation.\n\nToutefois, ils sont dispensés d'une telle assurance si l'activité de prestation de service est couverte par une garantie ou une formule similaire qui est équivalente ou essentiellement comparable quant à son objet, adaptée à la nature et à l'ampleur du risque, dont ils disposent dans l'Etat membre de leur établissement.\n\nUn règlement grand-ducal pris sur avis respectivement du Collège médical et du Collège vétérinaire peut fixer les conditions et modalités minimales que doit couvrir cette assurance.",
+      "text_sha256": "37e901f13a1f253b7b09e1dae53434bf1dc6fce2d4c126cbd376b9fdcad21338",
+      "md_span": {
+        "start": 48426,
+        "end": 49380
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_34/20100723",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Un règlement grand-ducal pris sur avis du Conseil d’Etat détermine la procédure à suivre et les documents à présenter pour obtenir l’autorisation d’exercer ainsi que la procédure applicable en cas de suspension ou de retrait de l’autorisation.",
+      "text_sha256": "cce22418f6a45e32e2d169a78943fe2cd6356127a6c6d74871872d32c7f78401",
+      "md_span": {
+        "start": 49417,
+        "end": 49660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_35/20100723",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Un recours en réformation auprès du tribunal administratif peut être introduit dans le mois qui suit sa notification contre toute décision d’octroi, de refus, de suspension ou de retrait d’une autorisation d’exercer. Le recours contre l’octroi de l’autorisation ne peut être exercé que par le Collège médical en ce qui concerne les médecins et les médecins-dentistes ainsi que par le Collège vétérinaire en ce qui concerne les médecins vétérinaires.",
+      "text_sha256": "790e3d0efaf1f06de5ab681d4fd9f6d1e8532975975e94b2676ac2fdd2508198",
+      "md_span": {
+        "start": 49697,
+        "end": 50146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_36/20100723",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Le médecin, le médecin-dentiste ou le médecin-vétérinaire autorisé à exercer est tenu de déférer aux réquisitions d’un magistrat.",
+      "text_sha256": "ecf07d396b1e70be9316ebb1c618fac5c8b3999b9cee623768d20bdf97147c14",
+      "md_span": {
+        "start": 50183,
+        "end": 50312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_37/20100723",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’action des médecins, des médecins-dentistes et des médecins-vétérinaires pour leurs prestations se prescrit par deux années à compter de la date des services rendus.",
+      "text_sha256": "89ae87b7a50628b594fd08e8656e6778cc008939535459b7960912d66892e722",
+      "md_span": {
+        "start": 50349,
+        "end": 50516
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_38/20100723",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "La médecine, la médecine dentaire et la médecine vétérinaire peuvent être exercées cumulativement à condition que le professionnel soit détenteur des diplômes et autorisations d’exercer correspondants.\n\nL’exercice cumulatif d’une des professions réglementées par la présente loi et de la profession de pharmacien est interdit.",
+      "text_sha256": "f038e97a9974bed24d1a3d265142119556178a5f5ace56ed6736bf93e380cf00",
+      "md_span": {
+        "start": 50553,
+        "end": 50879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_39/20100723",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Quiconque s’attribue l’un des titres visés aux articles 5, 12 et 26 de la présente loi sans remplir les conditions de formation prévues à cet effet ou qui altère, soit par retranchement, soit par addition de mots ou de signes abréviatifs le titre qu’il est autorisé à porter est puni d’une amende de 1.000 à 20.000 euros. En cas de récidive l’amende est portée au double.",
+      "text_sha256": "8f5986b597d98218e463fdd7b6bcbff4d6a944c5b320313d39d0013ad76d84e6",
+      "md_span": {
+        "start": 50916,
+        "end": 51287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39bis",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_39bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_62/20100723",
+      "type": "article",
+      "num": "Art. 39bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Quiconque aura incité une personne non autorisée à cet effet à l’exercice illégal de la médecine, de la médecine dentaire ou vétérinaire, est puni d’une amende de 500 à 20.000 euros. Le maximum de l’amende sera porté au double si le condamné commet ce même fait avant l’expiration d’un délai de deux ans à compter du jour où une première condamnation est devenue définitive.",
+      "text_sha256": "ac966f9bb51f01c56c1b316a6de44dc2511805942cae2283a7b10383ee6f550c",
+      "md_span": {
+        "start": 51330,
+        "end": 51704
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_40/20100723",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’exercice illégal de la médecine, de la médecine dentaire ou de la médecine vétérinaire est punie d’une amende de 1.000 à 50.000 euros et en cas de récidive d’une amende de 2.000 à 100.000 euros et d’un emprisonnement de huit jours à six mois ou d’une de ces peines seulement.",
+      "text_sha256": "4eadf644f8999a81d84fab8f580b6598818ebca36717e2fa3a44b0fb3eb7a88f",
+      "md_span": {
+        "start": 51741,
+        "end": 52018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_41/20100723",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’exercice illégal de la médecine, de la médecine dentaire ou de la médecine vétérinaire avec usurpation de titre est puni d’une amende de 5.000 à 100.000 euros et en cas de récidive d’une amende de 10.000 à 200.000 euros et d’un emprisonnement de six mois à un an ou d’une de ces peines seulement.",
+      "text_sha256": "dca5f5bdb27dd61ae9a98f7081f8edfb3d0b89d08cce4a9cdcf2a6421f699a8c",
+      "md_span": {
+        "start": 52055,
+        "end": 52353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_42/20180825",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2018-08-25",
+      "text_md": "**(1)** Les infractions aux dispositions des articles 6 (3), 13 (3), 17, 19, 27 (2), 28, 29 et 32 ter et des règlements d’exécution à prendre en vertu de ces articles sont punies d’une amende de 251 à 50.000 euros.\n\n**(2)** Le maximum de l’amende sera porté au double si le condamné commet le même fait avant l’expiration d’un délai de deux ans à compter du jour où une première condamnation est devenue définitive. En outre l’utilisation des équipements et appareillages installés en violation du règlement grand-ducal prévu par l’article 19 peut être interdite.\n\n**(3)** Les infractions aux dispositions des articles 6 (3), 13 (3) et 27 (2) et des règlements d’exécution à prendre en vertu de ces articles sont punies d’une amende de 251 à 25.000 euros.",
+      "text_sha256": "d2c8f3c9ab6883686405c7b58bfc996daa71e566cd4c061fcc160378c29035b0",
+      "md_span": {
+        "start": 52390,
+        "end": 53145
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_43/20100723",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’infraction aux dispositions de l’article 20 est punie d’une amende de 1.000 à 20.000 euros. En cas de récidive l’amende est portée au double.",
+      "text_sha256": "4bc54aabc35726eb6ec19118d3a9fa524ee2220c2b1cd66d006412b50b363185",
+      "md_span": {
+        "start": 53182,
+        "end": 53325
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_44/20100723",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Il y a récidive lorsque l’agent du délit a été, dans les cinq ans qui précèdent ce délit, condamné pour une infraction de qualification identique.",
+      "text_sha256": "5014d76b49bf608fa4c39f072e90d520c3643d9c7132b2477d1667f84aa6ca37",
+      "md_span": {
+        "start": 53362,
+        "end": 53508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_45/20100723",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "**(1)** Dans les cas où les cours et tribunaux, jugeant en matière répressive, prononcent à charge d’un médecin, d’un médecin-dentiste ou d’un médecin-vétérinaire suivant les distinctions et pour les temps établis par les articles 11, 24, 32, du code pénal, l’interdiction de tout ou partie des droits détaillés à l’article 11 de ce code, ils ajoutent à ces droits celui de l’exercice de la profession du condamné.\n\n**(2)** Toutefois, si la condamnation a été encourue du chef de vol ou de tentative de vol, de recèlement d’objets obtenus à l’aide d’un crime ou d’un délit, d’abus de confiance, d’escroquerie ou de tromperie, sans qu’il y ait lieu en droit ou en fait, à l’application de l’article 78 du code pénal, l’interdiction de l’exercice de la profession est toujours prononcée contre le condamné.",
+      "text_sha256": "71e7e9cda7af6b72eb608037c208ef566a6eb3ef9b7efc5af6189e87434b65cc",
+      "md_span": {
+        "start": 53545,
+        "end": 54349
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_46/20100723",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "****(1)**** En cas de condamnation prononcée à l’étranger contre un médecin, un médecin-dentiste ou un médecin-vétérinaire établi au Luxembourg pour des faits entraînant à charge de celui-ci l’interdiction obligatoire ou facultative de l’exercice de la profession, cette interdiction peut être, à la requête du ministère public, prononcée par le tribunal correctionnel indigène auquel ressortit le condamné du fait de son domicile ou de sa résidence.\n\n**(2)** Les citations et les recours en appel et en cassation ont lieu comme il est réglé pour les matières correctionnelles. Il en est de même des frais.",
+      "text_sha256": "4534109d2914f6651156075ba0570754dd52bb4172d7e2fbae532afbb1f7b972",
+      "md_span": {
+        "start": 54386,
+        "end": 54992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_47/20100723",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Le livre 1er du code pénal ainsi que les articles 130-1 à 132-1 du Code d’instruction criminelle sont applicables.",
+      "text_sha256": "2bbbd8f2c1a82821baf0cba640e00d94cb441778573a5d63ca0b7c19b2cad246",
+      "md_span": {
+        "start": 55029,
+        "end": 55143
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_48/20100723",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions communes aux professions de médecin, médecin-dentisteet médecin-vétérinaire**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "L’interdiction judiciaire prononcée contre un médecin, un médecin-dentiste ou un médecin-vétérinaire peut entraîner l’interdiction de l’exercice de sa profession. Elle est prononcée, le cas échéant, par le tribunal civil saisi de la demande en interdiction judiciaire et accessoirement à celle-ci.",
+      "text_sha256": "1a11b361ee9ca0f1826bec9df68817bcc8f56f8e192a4b08ba2cc2a7f2ff5b53",
+      "md_span": {
+        "start": 55180,
+        "end": 55477
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_49/20100723",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Dispositions additionnelles et abrogatoires**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "La loi du 10 juillet 1901 sur l’exercice de l’art de guérir, l’arrêté grand-ducal du 6 octobre 1945 concernant la pratique de la médecine vétérinaire, la loi du 2 août 1977 concernant l’exercice de la profession de médecin et l’article 18 de la loi du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades de l’enseignement supérieur sont abrogés.\n\nLes dispositions de la loi du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur sont abrogées en ce qui concerne les professions de médecin, de médecin-dentiste et de médecin-vétérinaire.",
+      "text_sha256": "991bfa04baef955eeedf8111b7a1fd6154d126f162b96baa4a5a9a7ad010ed66",
+      "md_span": {
+        "start": 55584,
+        "end": 56175
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1901/07/10/n1/jo",
+          "text": "loi du 10 juillet 1901"
+        },
+        {
+          "href": "/eli/etat/leg/agd/1945/10/06/n3/jo",
+          "text": "arrêté grand-ducal du 6 octobre 1945"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1977/08/02/n4/jo",
+          "text": "loi du 2 août 1977"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1969/06/18/n1/jo",
+          "text": "loi du 18 juin 1969"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/17/n1/jo",
+          "text": "loi du 17 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_50/20100723",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Dispositions additionnelles et abrogatoires**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "La référence aux dispositions de la loi du 10 juillet 1901 sur l’exercice de l’art de guérir ou à celles de la loi du 2 août 1977 concernant l’exercice de la profession de médecin dans les dispositions légales et réglementaires en vigueur est remplacée de plein droit par la référence aux dispositions de la présente loi, dans la mesure où elles concernent les professions de médecin, de médecin-dentiste ou de médecin-vétérinaire.",
+      "text_sha256": "ead8a9685792c851e9984548b53115a0e9320b462a8a274b81afdb1821820f47",
+      "md_span": {
+        "start": 56212,
+        "end": 56643
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1901/07/10/n1/jo",
+          "text": "loi du 10 juillet 1901"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1977/08/02/n4/jo",
+          "text": "loi du 2 août 1977"
+        }
+      ]
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_51/20100723",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Dispositions additionnelles et abrogatoires**"
+      ],
+      "article_valid_from": "2010-07-23",
+      "text_md": "Les attributions et pouvoirs conférés au Ministre de l’Agriculture par l’arrêté grand-ducal du 6 octobre 1945 portant création du collège vétérinaire sont transférés au ministre.",
+      "text_sha256": "f78f5d8fdd19f53542b0af2d6944f10d369dfe277a1d88c47c6060d37ec6428d",
+      "md_span": {
+        "start": 56680,
+        "end": 56858
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1945/10/06/n3/jo",
+          "text": "arrêté grand-ducal du 6 octobre 1945"
+        }
+      ]
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_52/20161118",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Dispositions additionnelles et abrogatoires**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Pour l’application de la présente loi, il y a lieu d’entendre par Etat membre de l’Union européenne: un Etat membre de l’Union européenne, de l’Espace économique européen ou de la Confédération suisse.",
+      "text_sha256": "cc0acf9f59c622be921af81197064bc9a1ca6e2e91f7c3e88fd6d6f3a501d0cd",
+      "md_span": {
+        "start": 56895,
+        "end": 57096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53_20180825",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_53_20180825",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_53/20100723",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 -** — **Dispositions dérogatoires**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Par dérogation aux dispositions de l’article 1er, paragraphe (1), lettre c), restera acquis le droit d’exercer la médecine en qualité de médecin généraliste au médecin non titulaire d’un titre de formation sanctionnant une formation spécifique en médecine générale conformément à l’article 30 de la directive 93/16/CEE qui a obtenu l’autorisation d’exercer en qualité de médecin généraliste et est établi sur le territoire luxembourgeois avant le 1er janvier 1995.\n\nLe même droit acquis est reconnu au médecin établi dans un autre Etat membre de l’Union européenne qui présente un certificat délivré par les autorités compétentes de cet Etat attestant le droit d’exercer sur son territoire les activités de médecin en qualité de médecin généraliste dans le cadre de son régime national de sécurité sociale sans le titre de formation sanctionnant une formation spécifique en médecine générale, à la date de référence visée à l’annexe V point 5.1.4 de la directive modifiée 2005/36/CE.",
+      "text_sha256": "ccd464bc65f7af8373eb295af3f10584fe4c539fd7f3c5993d45c77c629348ec",
+      "md_span": {
+        "start": 57195,
+        "end": 58178
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1993/16/jo",
+          "text": "93/16/CEE"
+        },
+        {
+          "href": "/eli/dir_ue/2005/36/jo",
+          "text": "2005/36/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_54_20180825",
+      "provision_id": "lu-legilux:loi-1983-04-29-n1:2018-08-25#art_54_20180825",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2010/08/30/n1/art_54/20100723",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 -** — **Dispositions dérogatoires**"
+      ],
+      "article_valid_from": "2016-11-18",
+      "text_md": "Les titres de formation donnant accès aux activités de médecin et à l’exercice de celles-ci au Luxembourg, qui sont délivrés par un Etat membre de l’Union européenne et qui ne répondent pas à l’ensemble des critères de formation requis par cette loi, sont reconnus comme faisant preuve d’une qualification suffisante lorsqu’ils sanctionnent une formation qui a commencé avant les dates de référence visées à l’annexe V, points 5.1.1.; 5.1.2.; 5.2.2; 5.3.2.; 5.3.3.; 5.4.2.; 5.5.2. et 5.6.2. de la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles.\n\nCette disposition s’applique par analogie aux dispositions visées à l’article 23, paragraphes 2, 3, 4 et 5 de la directive 2005/36/CE relatifs à la reconnaissance des titres de formation antérieurs délivrés par l’ancienne République démocratique allemande, l’ancienne Tchécoslovaquie, la République tchèque, la Slovaquie, l’ancienne Union Soviétique, l’Estonie, la Lettonie, la Lituanie, l’ancienne Yougoslavie et la Slovénie.\n\nLe Luxembourg reconnaît le titre de médecin spécialiste délivré par l’Espagne aux médecins spécialistes qui ont achevé une formation spécialisée avant le 1er janvier 1995, alors même que cette formation ne répondrait pas aux critères de formation requis par cette loi, pour autant que le titre de formation délivré par les autorités espagnoles atteste que l’intéressé a passé avec succès l’épreuve de compétence professionnelle spécifique organisée dans le cadre des mesures exceptionnelles de reconnaissance prévues par la législation espagnole dans le but de vérifier que l’intéressé possède un niveau de compétence comparable à celui des médecins possédant des titres de médecin spécialiste définis pour l’Espagne, à l’annexe V, points 5.1.2. et 5.1.3. de la directive 2005/36/CE précitée.\n\nPour les ressortissants des Etats membres dont les titres de formation de vétérinaire ont été délivrés par l’Estonie ou dont la formation a commencé dans cet Etat avant le 1er mai 2004, le Luxembourg reconnaît ces titres de formation de vétérinaire s’ils sont accompagnés d’une attestation déclarant que ces personnes ont effectivement et licitement exercé en Estonie les activités en cause pendant au moins cinq années consécutives au cours des sept années précédant la date de délivrance de l’attestation.",
+      "text_sha256": "c60be87923bb5292326263c23ede7a9cf3c17ae656cd2bec1f130f629f685d7b",
+      "md_span": {
+        "start": 58224,
+        "end": 60594
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2005/36/jo",
+          "text": "2005/36/CE"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,243 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 14/04/2020 : Règlement grand-ducal du 23 décembre 2016 concernant les subsides accordés aux clubs sportifs affiliés auprès d'une fédération sportive agréée.",
+  "valid_from": "2020-02-11",
+  "valid_to": "2020-04-13",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2016-12-23-n33/versions/2020-02-11/fr.xml",
+    "sha256": "614f19fa8b49787bacb6ea44188533a12065c8bd05997e025b2e68689fd31585",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/consolide/20200211/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_1er/20161231",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Champ d’application"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Le présent règlement grand-ducal vise à définir les critères et le fonctionnement d’un dispositif d’aide accordée aux clubs de sport affiliés auprès d’une fédération sportive agréée et régissant un sport de compétition.\n\nCe subside se compose de deux parties, un subside de base et un subside complémentaire. Le subside complémentaire qui est réservé aux clubs assurant un encadrement sportif de qualité des enfants est dénommé ci-après «subside qualité+».",
+      "text_sha256": "c73007a7d30a7069e711fa9182567b632d8dd05fbeeef5bc3152ea55805d308a",
+      "md_span": {
+        "start": 713,
+        "end": 1169
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_2/20161231",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er: — Champ d’application"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Le ministre des sports est désigné «le ministre» pour les besoins du présent règlement.\n\nLa qualification des entraîneurs exigée dans le présent règlement se réfère au niveau de qualification européen appelé «European Qualifications Framework» et est désigné pour les besoins du présent règlement «EQF».",
+      "text_sha256": "e8cad8db437d9bc0626dce7d983fd493c7075cbd147a92f7ad5066d155ef7805",
+      "md_span": {
+        "start": 1204,
+        "end": 1507
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_3/20200211",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Le subside de base"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Un club sportif affilié auprès d’une fédération sportive agréée par le ministre peut prétendre à un subside de base sous condition\n\n1. de régir un sport de compétition;\n2. de se prévaloir d’une activité sportive d’au moins une saison complète et\n3. d’avoir un effectif comprenant au moins un jeune licencié de moins de 16 ans ainsi qu’au moins un entraîneur disposant d’une qualification du niveau EQF3 ou supérieur.\n\nLes 3 facteurs suivants sont pris en compte pour le calcul du subside de base:\n\n1. le nombre de licenciés tous âges confondus;\n2. la qualification des entraîneurs;\n3. le bénévolat.\n\nUne pondération en fonction d’un système de pointage de ces trois critères est fixée annuellement par le ministre sur avis du Conseil supérieur des sports.\n\nLe montant du subside alloué à chaque club est fonction du résultat du système de pointage et varie en fonction du nombre de demandes et de l’enveloppe budgétaire accordée annuellement. Un seuil minimal et maximal peut être fixé par le ministre sur avis du Conseil supérieur des sports.",
+      "text_sha256": "8618d43fd3db55cc1f72b051c2dc4aab56ff210f34930f805bbf0e7522cda8e6",
+      "md_span": {
+        "start": 1579,
+        "end": 2622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_4/20161231",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Le subside qualité+"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Peut prétendre à une aide complémentaire tout club sportif remplissant les conditions définies au premier alinéa de l’article 3 et répondant en outre aux critères définis ci-après.\n\nDans le cadre du présent chapitre on entend par jeune, les enfants âgés de moins de 16 ans au 31 décembre de l’année pour laquelle l’aide en question est demandée et qui sont détenteurs soit d’une licence soit d’une attestation prouvant leur appartenance au club demandeur.",
+      "text_sha256": "a66a3147467ab4b31475232a67131f4e8e778982fe562b100d84704c3fde3836",
+      "md_span": {
+        "start": 2695,
+        "end": 3150
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_5/20161231",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Le subside qualité+"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Afin de profiter du subside qualité+, le club sportif doit disposer d’un personnel qualifié pour encadrer les jeunes tels que définis au deuxième alinéa de l’article 4 du présent règlement. Cette qualification est définie de la façon suivante:\n\n1. au moins la moitié des personnes assurant l’encadrement des enfants définis à l’article 4, alinéa 2 sont détenteurs soit d’un diplôme d’entraîneur du niveau EQF3 (ce qui correspond au niveau national à la formation C) ou supérieur, soit d’un diplôme ou d’une formation reconnus équivalents par l’ENEPS. Est assimilée au diplôme de formation EQF3, la préformation à ce niveau si une telle formation est organisée par la fédération concernée. La même assimilation vaut pour les personnes titulaires d’un diplôme de master en sciences du sport;\n2. 1. soit avoir suivi une formation fédérale préliminaire à la formation pour entraîneur C correspondant aux niveaux EQF1 ou EQF2 et reconnue comme équivalente par l’ENEPS,\n2. soit avoir obtenu une validation de l’acquis de l’expérience sur le vu du dossier pour les personnes qui ont exercé la fonction d’entraîneur sans diplôme pendant au moins 10 ans,\n3. soit avoir suivi une formation de 8 heures en pédagogie pour les sportifs qui ont un passé actif d’au moins 10 ans (module apprentissage et enseignement),\n4. soit avoir suivi une formation de 8 heures relative à la spécificité du sport pour les personnes qui exercent la fonction d’enseignant ou d’éducateur de tous niveaux (module planification d’une séance).\n\nLes dossiers en vue de l’acquis de l’expérience sont analysés par une commission dont la composition et son fonctionnement sont déterminés par le ministre.\n\nLes qualifications ci-dessus doivent être certifiées au plus tard le premier mars de l’année consécutive pour laquelle le subside est demandé.",
+      "text_sha256": "a9e42f69f325a4d8642263a15a6fff64fb7fa3da5ec0fe46f1ada71e8f65a515",
+      "md_span": {
+        "start": 3185,
+        "end": 4995
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_6/20161231",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Le subside qualité+"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Un montant de 150 EUR est attribué pour chaque enfant remplissant les conditions du présent règlement. Si un même enfant est inscrit par plusieurs clubs pour différentes activités sportives, ce montant est divisé par le nombre de clubs en question dans la limite de trois. Un même enfant ne peut pas être inscrit dans plusieurs clubs pratiquant la même discipline sportive.",
+      "text_sha256": "86e5dd252843cd2d3bee381c8d0da6254b69f02ddbdce1a8eed34e21549bcf62",
+      "md_span": {
+        "start": 5030,
+        "end": 5403
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_7/20161231",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions communes aux deux subsides"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Tout club voulant bénéficier du subside prévu au présent règlement doit introduire une demande en bonne et due forme via le système «my guichet.lu».\n\nLa demande doit être introduite au plus tard jusqu’au 15 juillet de l’année pour laquelle l’aide en question est demandée.\n\nAprès la date butoir telle que définie ci-avant, les dossiers sont clôturés et les données disponibles à cette date sont prises en compte pour le calcul des subsides, sans préjudice du dernier alinéa de l’article 5 du présent règlement.\n\nDans cette hypothèse, le calcul du subside hypothétique est fait mais la liquidation du montant en question est tenue en suspens jusqu’à l’envoi de la pièce manquante relative à la formation de l’entraîneur qui doit se faire dans la limite prévue au dernier alinéa de l’article 5 du présent règlement.",
+      "text_sha256": "f35b74bc88977d3983f0612afa5c0fbca5729098753c1841eaa81918a5ef07c6",
+      "md_span": {
+        "start": 5496,
+        "end": 6309
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_8/20161231",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions communes aux deux subsides"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Le ministre se réserve le droit de demander toute pièce supplémentaire nécessaire au contrôle des données introduites par le club ou de faire vérifier les données en question directement auprès de la fédération concernée ou d’autres instances compétentes et au besoin de procéder à des contrôles sur place. A cette fin, une commission de contrôle est nommée par le ministre qui met en place un dispositif de contrôle de la qualité de l’encadrement.",
+      "text_sha256": "d78959ec1e701a2af77c8191ae80b7941c839d72facb30be9abc828aaafb22f9",
+      "md_span": {
+        "start": 6344,
+        "end": 6792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_9/20161231",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions communes aux deux subsides"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Toute aide obtenue sur base d’informations frauduleuses peut être demandée en restitution au club bénéficiaire. Le club concerné peut en outre être exclu du bénéficie de toute aide pendant 2 années supplémentaires. Cette décision est prise par le ministre sur avis de la commission de contrôle définie à l’article 8 du présent règlement.",
+      "text_sha256": "496ce1f68796b43a752b3b61196a3314ee524be8c89084e7240131381784965e",
+      "md_span": {
+        "start": 6827,
+        "end": 7164
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_10/20161231",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions communes aux deux subsides"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "En vue de la gestion et du suivi administratif des demandes de subside, il est créé un fichier de données à caractère personnel, sous l’autorité du ministre, qui est établi conformément aux dispositions de la loi modifiée du 2 août 2002 relative à la protection des personnes à l’égard du traitement des données à caractère personnel.\n\nLe fichier contient les données suivantes:\n\n1. dénomination, adresse, compte bancaire, matricule, noms des responsables du club demandeur;\n2. fédération à laquelle le club est affilié;\n3. nombre des licences de compétition par catégorie d’âge;\n4. nombre des licences de loisir;\n5. nombre des licences d’arbitres et de dirigeants;\n6. nombre des licences d’entraîneurs;\n7. nom, prénom et diplôme des entraîneurs ainsi que la catégorie entraînée;\n8. nombre des jeunes encadrés;\n9. nom, prénom, numéro d’identification et numéro de licence du jeune éligible au sens de l’article 4 ci-avant.\n\nCes données sont communiquées au ministre par les clubs demandeurs via une ligne sécurisée. La sécurisation de la banque de données en question se fait conformément aux exigences légales et réglementaires en vigueur.\n\nLes données sous le point 9 sont conservées aussi longtemps que l’enfant en question peut être considéré comme éligible, c’est-à-dire au plus tard jusqu’à l’âge de ses 16 ans. Une fois ce délai écoulé, les données sont anonymisées à des fins statistiques.\n\nLes autres données non nominatives sont mises à jour annuellement par le club demandeur. Les données relatives au club sont conservées aussi longtemps que le club reste demandeur d’un subside.\n\nToute personne, qui à quelque titre que ce soit, participe à la gestion ou à la tenue de la banque de données est tenue de respecter son caractère confidentiel. L’article 458 du Code Pénal est applicable.",
+      "text_sha256": "89da8d6678c5b254b9d95b02220534733d3ead95ad1277f4f64653b5f5d0032c",
+      "md_span": {
+        "start": 7201,
+        "end": 8998
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/08/02/n2/jo",
+          "text": "loi modifiée du 2 août 2002"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code Pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n33:2020-02-11#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/art_11/20161231",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions communes aux deux subsides"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Notre Ministre des Sports est chargé de l’exécution du présent règlement qui sera publié au Mémorial et entrera en vigueur le 1er janvier 2017.",
+      "text_sha256": "ecdfb0adb5a14a565cb82f63b0380da1e709b2ab99a131ad3cb7453d28b193bd",
+      "md_span": {
+        "start": 9035,
+        "end": 9178
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

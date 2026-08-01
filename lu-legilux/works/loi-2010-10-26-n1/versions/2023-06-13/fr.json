@@ -1,0 +1,787 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/04/2024 : Loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.",
+  "valid_from": "2023-06-13",
+  "valid_to": "2024-04-01",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2010-10-26-n1/versions/2023-06-13/fr.xml",
+    "sha256": "f7842e8a039470fa46e4e81a250f17784081ec1b54a596baa2179136639067b6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/consolide/20230613/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_1er/20101101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — Disposition générale"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "La Chambre de Commerce est un établissement public.",
+      "text_sha256": "6798384b00143676e2fe6a7d786462768c652723a0da6fd8c3df5d992b5b61a3",
+      "md_span": {
+        "start": 639,
+        "end": 690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_2/20110930",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Objet et missions"
+      ],
+      "article_valid_from": "2011-09-30",
+      "text_md": "La Chambre de Commerce a comme objet l'articulation, la sauvegarde et la défense des intérêts de ses ressortissants. Ses avis émis dans le cadre de l'alinéa 3, ses propositions émises dans le cadre de l'alinéa 2 ainsi que les initiatives qu'elle développe dans le cadre de l'alinéa 4 du présent article peuvent se limiter à la prise en considération d'intérêts sectoriels, sous condition que ceux-ci ne soient pas préjudiciables à ceux de l'ensemble de ses ressortissants.\n\nElle a le droit de faire des propositions au Gouvernement, que ce dernier doit examiner et soumettre à la Chambre des Députés, lorsque leur objet rentre dans la compétence de celle-ci.\n\nPour toutes les lois et tous les projets de règlements grand-ducaux et ministériels qui concernent principalement les professions ressortissant de la Chambre de Commerce, l'avis de la Chambre de Commerce doit être demandé. Elle donne également son avis sur le budget de l'Etat à soumettre aux délibérations de la Chambre des Députés et présente ses observations à la Chambre des Députés sur l'emploi des crédits du budget de l'Etat alloués pour les exercices écoulés dans l'intérêt du commerce, de l'industrie, des finances et des services et donne son avis sur les nouvelles allocations à proposer pour l'exercice suivant. Elle peut se saisir pour formuler tout avis au Gouvernement sur des sujets relatifs à son objet ou ses missions.\n\nLa Chambre de Commerce a comme missions notamment:\n\n1. la promotion de l'esprit d'entreprise et l'assistance dans le cadre de la création, du développement et de la pérennisation des entreprises;\n2. la promotion d'un cadre législatif et réglementaire propice au développement économique;\n3. la promotion des relations économiques et commerciales aux niveaux régional, européen et international;\n4. la promotion de l'économie luxembourgeoise au Luxembourg et à l'étranger;\n5. d'oeuvrer en faveur de tout ce qui contribue à la défense et à la promotion de l'intérêt de ses ressortissants;\n6. l'orientation et l'appui des entreprises luxembourgeoises dans leurs démarches d'internationalisation et d'accès aux marchés étrangers;\n7. le développement et la promotion de la formation professionnelle initiale et continue;\n8. l'élaboration de propositions concernant le contenu et la surveillance de la formation professionnelle;\n9. la sensibilisation à l'observation de la législation en matière commerciale et industrielle.\n10. l'établissement de statistiques et la réalisation d'études et d'analyses en matière commerciale, industrielle et financière et notamment celles concernant les petites et moyennes entreprises.\n\nPour remplir son objet, la Chambre de Commerce peut créer ou participer, le cas échéant, à tout établissement, société, association, institution, oeuvre ou service voué essentiellement au développement de l'entreprise industrielle, financière et commerciale, en féconder l'activité, fournir des avis, formuler des réclamations, solliciter des informations et contribuer à la production et à l'analyse de données statistiques.\n\nEn vue de permettre à la Chambre de Commerce la réalisation d'études statistiques au sens du paragraphe 4, point j), le Centre Commun de la Sécurité Sociale est autorisé à lui transmettre les données relatives à l'emploi de ses ressortissants.",
+      "text_sha256": "737f260580d561e3468a564b6727174c962fba24212ffd9f6be473882d1accbb",
+      "md_span": {
+        "start": 762,
+        "end": 4046
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_3/20101101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Objet et missions"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "La Chambre de Commerce dispose de la personnalité juridique et jouit de l'autonomie financière et administrative.\n\nElle peut acquérir, recevoir, posséder, emprunter, aliéner, ester en justice et faire tous les actes et transactions que son objet comporte, et ce dans les limites de ses attributions telles qu'elles sont définies par la présente loi.",
+      "text_sha256": "71178cbffd1eef2cb8fe363abd56411c8d8a4c832d6fe037bbdcf5d181353c86",
+      "md_span": {
+        "start": 4081,
+        "end": 4430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_4/20110930",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Objet et missions"
+      ],
+      "article_valid_from": "2011-09-30",
+      "text_md": "**(1)** Sous réserve des paragraphes 2 et 3 ci-après, sont ressortissants de plein droit de la Chambre de Commerce:\n\n- toutes les personnes morales ayant adopté la forme d'une société commerciale et ayant leur siège social au Grand-Duché de Luxembourg, ainsi que\n- toutes les personnes physiques exerçant une activité commerciale, industrielle ou financière au Grand-Duché de Luxembourg,\n- toutes les succursales, établies au Luxembourg et ayant une activité commerciale, industrielle ou financière, de sociétés étrangères.\n\nLa qualité de ressortissant de la Chambre de Commerce est acquise de plein droit au jour de l'immatriculation au registre de commerce et des sociétés et prend fin au jour de la radiation de celui-ci.\n\nLes ressortissants sont inscrits au rôle des ressortissants et des cotisations de la Chambre de Commerce soit d'office, soit sur leur propre initiative, soit sur base des données signalétiques communiquées mensuellement par l'Administration des contributions directes.\n\nLe fait de ne pas exploiter momentanément une activité commerciale, financière ou industrielle ne met pas fin à l'affiliation auprès de la Chambre de Commerce. La mise en liquidation, la décision de dissolution ou de cessation de l'activité commerciale, financière ou industrielle ne mettent pas fin à l'affiliation à la Chambre de Commerce et ne dispensent pas du paiement de la cotisation due.\n\n**(2)** Ne sont pas ressortissants de la Chambre de Commerce toutes les personnes physiques ou morales, ainsi que toutes les succursales de sociétés étrangères qui sont ressortissantes de la Chambre des Métiers au sens de l'article 3 de la loi portant réorganisation de la Chambre des Métiers.\n\n**(3)** Cependant, dans les deux cas exceptionnels énumérés ci-après, il y aura double affiliation à la Chambre des Métiers et à la Chambre de Commerce:\n\n- s'il est établi qu'un ressortissant de la Chambre des Métiers, titulaire d'une autorisation ministérielle en qualité de commerçant, exerce de façon effective une activité commerciale sans aucun rapport avec son activité artisanale,\n- s'il est établi qu'un ressortissant de la Chambre des Métiers exerce en outre une activité industrielle.",
+      "text_sha256": "da86aced0bc8f029142652cae8dc4e9c59532bb68124a353da0697d8308f17b7",
+      "md_span": {
+        "start": 4465,
+        "end": 6647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_5/20230613",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "L’assemblée plénière de la Chambre de Commerce est composée de membres effectifs et suppléants désignés par la voie de l'élection.\n\nUn règlement grand-ducal, pris sur proposition de la Chambre de Commerce, déterminera le nombre exact des membres effectifs et suppléants, la composition numérique, l'énumération et la dénomination des groupes électoraux ainsi que la répartition des sièges.\n\nLes modifications à ce règlement grand-ducal, prises sur proposition de la Chambre de Commerce seront à publier au moins six mois avant le jour du scrutin.\n\nChaque groupe distinct d'électeurs ayant droit aux termes des alinéas qui précèdent à un nombre déterminé de délégués, formera un collège électoral spécial pour la désignation de ses délégués.\n\nLa fonction de membre, effectif ou suppléant, de la Chambre de Commerce prend fin au moment où l'intéressé a atteint l'âge de soixante-douze ans.",
+      "text_sha256": "aa7f2db8c5f6a9b01cda5a95b4ced5b36aa1809d7c73502c7370aa28598ed31e",
+      "md_span": {
+        "start": 6730,
+        "end": 7617
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_6/20101101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Les membres effectifs et suppléants de la Chambre de Commerce sont tenus au secret professionnel et doivent garder le silence envers les tiers sur tout ce qu'ils ont appris dans l'exercice de leurs fonctions.",
+      "text_sha256": "37d7dacfb67846d8a07abfd6ab333218c8e3bb3c2b266da0e3e20722d27b0a7f",
+      "md_span": {
+        "start": 7652,
+        "end": 7860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_7/20230613",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "L'assemblée plénière est constituée par l'ensemble des membres effectifs et des membres suppléants qui les remplacent selon les modalités établies par la présente loi. Elle est l'organe de décision souverain de la Chambre de Commerce et représente l'ensemble des ressortissants de la Chambre de Commerce.\n\nL'assemblée plénière fixe l'organisation interne de la Chambre de Commerce. Elle approuve le budget de la Chambre de Commerce, y compris le nombre et la qualification de son personnel. Elle désigne le directeur général dont la nomination est soumise à l'approbation du Gouvernement.\n\nL'assemblée plénière peut déléguer certains de ses pouvoirs au président et au Bureau de la Chambre de Commerce.\n\nLe directeur général et le personnel de la Chambre de Commerce sont engagés sur la base d'un contrat de louage de services de droit privé.\n\nLorsqu’un membre élu est empêché d'assister à une assemblée plénière, il sera remplacé par le membre suppléant suivant selon l'ordre correspondant au résultat des élections, ou en l’absence de celles-ci, selon l’ordre de la liste telle qu'arrêtée par le président du bureau électoral. Ce membre siège alors à la place du membre effectif. Seuls les membres effectifs et, le cas échéant, les membres suppléants siégeant en remplacement des membres effectifs ont voix délibérative.",
+      "text_sha256": "388af0a3e67ac5ebe2b72ab1177e47df5a79559bc43be8a01c5be2abdaa6430f",
+      "md_span": {
+        "start": 7895,
+        "end": 9217
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_8/20101101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Le mandat de membre élu de la Chambre de Commerce est incompatible avec celui de parlementaire et avec les fonctions de conseiller d'Etat.",
+      "text_sha256": "1ca2bf8d5ce208bfa4e91c785412dc10d9918cf9d489c6357f60e59028938d35",
+      "md_span": {
+        "start": 9252,
+        "end": 9390
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_9/20101101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Il est interdit aux employeurs et à leurs agents de restreindre les salariés qui sont membres élus dans la liberté d'accepter et de remplir leur mission ou de les léser pour des motifs pris dans ces faits.\n\nPour le cas où le temps consacré à l'accomplissement de leurs devoirs paraîtrait excessif, il pourra, à la demande de l'employeur, être décidé par justice qu'il y a lieu à réduction de la rémunération servie aux intéressés.",
+      "text_sha256": "5fd85f36ef17f94c98aa34bf97015df21319afeab9b6f927ea433755476be130",
+      "md_span": {
+        "start": 9425,
+        "end": 9855
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_10/20101101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "La Chambre de Commerce désignera dans sa première réunion après les élections, parmi ses membres effectifs, le président et le ou les vice-présidents.\n\nIl lui sera loisible de constituer dans son sein un comité, composé du président, du ou des vice-présidents et, le cas échéant d'autres membres élus, chargé d'expédier les affaires et qui prendra la dénomination de «Bureau de la Chambre de Commerce».\n\nLa Chambre de Commerce peut désigner en son sein des commissions spécialisées chargées de préparer les travaux de ses réunions. Ces commissions sont présidées par un membre élu désigné par l'assemblée plénière et assistées par les services de la Chambre de Commerce.\n\nLes règles de fonctionnement et le mode de délibération du Bureau et des commissions sont fixés par un règlement d'ordre intérieur publié au Mémorial A.",
+      "text_sha256": "10474bf6f586ff9fdab513d8f65762726cb7eb7ce14a0f2178bc58a9cd83b4ac",
+      "md_span": {
+        "start": 9892,
+        "end": 10716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_11/20101101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Le président de la Chambre de Commerce représente la Chambre de Commerce à l'égard des tiers et en justice.\n\nLe président peut déléguer tout ou partie de ses fonctions à d'autres membres élus de la Chambre de Commerce ou au directeur général de celle-ci.",
+      "text_sha256": "e54bf2203b1a96bb79534580079e100cc01c91a8150f481739524e6f377b69ec",
+      "md_span": {
+        "start": 10753,
+        "end": 11007
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_12/20101101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "La Chambre de Commerce se réunit toutes les fois que le Bureau le juge nécessaire ou qu'un tiers de ses membres le demande. La convocation est faite par le président moyennant un avis écrit qui indique l'ordre du jour.",
+      "text_sha256": "d7f407f781de56013fe8275a5325aa420fa925db2604cc22c6ad9cbba64f0657",
+      "md_span": {
+        "start": 11044,
+        "end": 11262
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_13/20101101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Les résolutions de l'assemblée plénière de la Chambre de Commerce sont adoptées à la majorité absolue des voix. Toutefois, si une résolution n'a pas recueilli la majorité absolue des voix lors d'un premier vote, elle peut être adoptée à la majorité des membres présents lors d'un second vote pouvant intervenir au plus tôt huit jours après le premier vote.\n\nLe mode de délibération et le fonctionnement sont fixés par un règlement d'ordre intérieur publié au Mémorial A.",
+      "text_sha256": "e7ada26279f0e8522cb620222bf8b933f871910d1b1c24ec744cf9d682421760",
+      "md_span": {
+        "start": 11299,
+        "end": 11769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_14/20101101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Le directeur général de la Chambre de Commerce dresse pour chaque séance un procès-verbal signé par le président ou son délégué qui sera porté à la connaissance du Gouvernement.",
+      "text_sha256": "b7a0ff05bf1c583bbda4385828b241a6f02e9588573f742111aa804dfa0198a0",
+      "md_span": {
+        "start": 11806,
+        "end": 11983
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_15/20101101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Composition et organisation"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Il est loisible au Gouvernement de commissionner un délégué à assister aux réunions de la chambre. Ce délégué pourra y prendre la parole chaque fois qu'il le désire et faire des propositions.\n\nDepuis le jour de la dissolution de l'assemblée plénière jusqu'à celui de la nouvelle constitution de son Bureau après la réélection, les affaires courantes de la chambre seront gérées par son directeur général sous l'approbation du Gouvernement.\n\nLe Gouvernement est autorisé à dissoudre l'assemblée plénière de la Chambre de Commerce pour des motifs graves. S'il est fait usage de ce droit, des élections nouvelles auront lieu dans les trois mois de l'arrêté de dissolution.",
+      "text_sha256": "e90dcbff822d5fa3569fc919c950b056f01d983cda7d005bd0c1011ef4497252",
+      "md_span": {
+        "start": 12020,
+        "end": 12689
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_16/20101101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Cotisations et autres ressources"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Pour faire face à ses dépenses, la Chambre de Commerce est autorisée à percevoir:\n\n1. de ses ressortissants une cotisation annuelle;\n2. des droits ou rétributions en rémunération des services qu'elle rend.\n\nLes modalités de calcul des cotisations annuelles à percevoir par la Chambre de Commerce sont fixées par celle-ci dans son règlement de cotisation soumis à l'approbation du Gouvernement. La cotisation annuelle par ressortissant ne peut dépasser quatre pour mille de son bénéfice réalisé pendant l'avant-dernier exercice. Ce bénéfice s'entend du bénéfice commercial au sens de la loi concernant l'impôt sur le revenu, abstraction faite des pertes reportées selon les articles 109, alinéa 1er, No 4 et 114 de cette même loi.\n\nIl lui est loisible de fixer des cotisations dégressives.\n\nLe règlement de cotisation de la Chambre de Commerce est publié au Mémorial A, sous réserve de l'approbation du Gouvernement.\n\nUn règlement grand-ducal déterminera le mode et la procédure d'établissement du rôle des cotisations.\n\nL'Administration des contributions directes est autorisée à transmettre à la Chambre de Commerce les données nécessaires à l'établissement et la tenue à jour de ses fichiers de ressortissants, ainsi qu'à la fixation et la perception des cotisations de ses ressortissants. Ces données ne peuvent être utilisées qu'à ces fins exclusives, à l'exception des données relatives à la dénomination ou la raison sociale, au nom commercial, à l'adresse et au secteur économique des ressortissants lesquelles données peuvent également être utilisées par la Chambre de Commerce et transférées à des tiers.\n\nLa perception des cotisations mise à charge des ressortissants de la Chambre de Commerce sera opérée par elle-même d'après une procédure à fixer par règlement grand-ducal.\n\nEn cas de non-paiement, le recouvrement des cotisations pourra être effectué par la Chambre de Commerce elle-même ou par l'Administration des contributions directes dans les mêmes formes et avec les mêmes privilège et hypothèque que ceux des impôts directs, mais avec le droit de priorité pour ces derniers et les cotisations dues aux assurances sociales. Le recouvrement des droits ou rétributions se fera d'après les règles de droit commun.\n\nLa prescription des cotisations sera acquise trois ans après la remise de l'extrait du rôle.",
+      "text_sha256": "98ea531715958943b721b81566c86fd7a91e24d45db8d97257d401e70cc88b21",
+      "md_span": {
+        "start": 12778,
+        "end": 15102
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1",
+          "text": "loi concernant l'impôt sur le revenu"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1",
+          "text": "109"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_17/20101101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Cotisations et autres ressources"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Il sera toutefois loisible à la Chambre de Commerce de fixer dans son règlement de cotisation un minimum de cotisation qui ne pourra dépasser, par an, 100 euros pour les personnes physiques, 200 euros pour les collectivités dont les bénéfices, répartis entre les coexploitants, sont imposés au titre de l'impôt sur le revenu des personnes physiques et 500 euros pour les collectivités soumises à l'impôt sur le revenu des collectivités. Ces montants peuvent être adaptés périodiquement par voie de règlement grand-ducal.",
+      "text_sha256": "800530be20696db7c2330e7754b658bd4b945548614b383d2ba738bcfef451c8",
+      "md_span": {
+        "start": 15139,
+        "end": 15659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_18/20101101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Cotisations et autres ressources"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Il est loisible à la Chambre de Commerce de fixer dans son règlement de cotisation, par dérogation aux articles 16 et 17, des montants forfaitaires pour les sociétés qui détiennent principalement des participations financières et qui sont répertoriées comme telles selon la Nomenclature générale des activités économiques dans la Communauté européenne (NACE) dans sa version luxembourgeoise en vigueur au 1er janvier de l'année de perception. Cette disposition des montants forfaitaires ne concerne pas les bulletins de cotisation déjà émis avant l'entrée en vigueur de la présente loi. Les nouveaux bulletins de cotisation émis après l'entrée en vigueur de la présente loi en cas d'une modification d'un bénéfice commercial par l'Administration des Contributions Directes et concernant les années de perceptions pour lesquelles la Chambre de Commerce a déjà émis les bulletins de cotisation d'après l'ancien mode de calcul ne sont pas non plus concernés par cette disposition des montants forfaitaires. Toutefois, ces forfaits ne peuvent dépasser, par an, 3.000 euros. Ce montant peut être adapté périodiquement par voie de règlement grand-ducal.\n\nLes données nécessaires à la détermination de l'activité économique aux fins de l'alinéa précédent sont fournies par le Service Central de la Statistique et des Etudes Economiques à la Chambre de Commerce.",
+      "text_sha256": "287016f6e2574820c7efe64264ee9afe7168f39980b176003525b54e4e8aa720",
+      "md_span": {
+        "start": 15696,
+        "end": 17050
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_19/20101101",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Cotisations et autres ressources"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Les bulletins de cotisation et les bulletins rectificatifs portant redressement d'une cotisation, valant extrait du rôle des cotisations, sont notifiés par la Chambre de Commerce à ses ressortissants par simple pli fermé à la poste. La notification par simple lettre est présumée accomplie le troisième jour ouvrable qui suit la remise de l'envoi à la poste, à moins qu'il ne résulte des circonstances de l'espèce que l'envoi n'a pas atteint le destinataire dans le délai prévu. Cette présomption n'est pas renversée par le fait que le destinataire refuse sans motif légitime d'accepter l'envoi ou néglige de le réclamer en temps utile.",
+      "text_sha256": "d5cf9c7f7182645df1b892a28e0cb29617123e0422c795fe0a64c8da3a9dcd2a",
+      "md_span": {
+        "start": 17087,
+        "end": 17723
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_20/20101101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — Cotisations et autres ressources"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Un réviseur d'entreprises agréé, désigné par l'assemblée plénière, est chargé de contrôler les comptes de la Chambre de Commerce et la régularité des opérations effectuées et des écritures comptables.\n\nLa Chambre de Commerce n'est pas à considérer comme un pouvoir adjudicateur au sens de la législation sur les marchés publics.",
+      "text_sha256": "3e03a496fe8a98ab9df3f881bfa0e525745d774e4436e0fd25c8e945292b989b",
+      "md_span": {
+        "start": 17760,
+        "end": 18088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_21/20230613",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Electorat"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "Sont électeurs et éligibles :\n\n1. La personne physique ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant une activité commerciale, industrielle ou financière au Grand-Duché de Luxembourg en nom propre. Elle ne peut déléguer les droits inhérents à la qualité d’électeur, et le cas échéant, d’élu ;\n2. Le représentant légal ou le délégué désigné par une personne morale ayant adopté la forme d’une société commerciale, ayant son siège social au Grand-Duché de Luxembourg, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière ;\n3. Le représentant légal ou le délégué désigné par une succursale d’une société étrangère, établie au Luxembourg et ayant une activité commerciale, industrielle ou financière, ressortissante de plein droit de la Chambre de Commerce au sens de l’article 4 et exerçant les droits inhérents à l’électorat pour cette dernière.\n\nLes personnes mentionnées à l’alinéa 2 doivent être âgées de dix-huit ans accomplis au jour du scrutin.\n\nUn électeur ne peut être inscrit qu’une seule fois et sur une seule liste électorale. Il s’agit de la liste électorale correspondant au groupe électoral dont l’électeur fait partie.",
+      "text_sha256": "ae72738bdd684d33b30dbacb8d8becaa64680e46336a17c1e99c64853220ff3a",
+      "md_span": {
+        "start": 18153,
+        "end": 19422
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_22/20230613",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Electorat"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "Toute société commerciale ayant son siège social au Grand-Duché de Luxembourg et toute succursale d'une société étrangère, établie au Grand-Duché, ressortissantes de la Chambre de Commerce, sont qualifiées à participer au vote par leur représentant légal ou délégué, âgé de 18 ans accomplis au jour de la clôture du scrutin, tel que fixé par règlement grand-ducal, qui est également éligible, sans préjudice d'autres dispositions législatives.",
+      "text_sha256": "4cbc8c138dd9efe7376298c4f796c946aaf96daeb8922b5a3ca1f6533d2241b2",
+      "md_span": {
+        "start": 19459,
+        "end": 19902
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_23/20101101",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Electorat"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Sont exclus de l'électorat et de l'éligibilité:\n\n1. les condamnés à des peines criminelles;\n2. ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;\n3. ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;\n4. les majeurs en tutelle.\n\nLes preuves concernant les conditions précitées sont rapportées moyennant les attestations, certificats et autres documents prévus par des dispositions législatives, réglementaires ou administratives luxembourgeoises.\n\nLorsque le candidat réside au Grand-Duché depuis moins de cinq ans, il doit en outre produire les documents équivalents émanant de l'autorité compétente de l'Etat de résidence antérieur. Lorsque le candidat réside à l'étranger, seuls les documents équivalents émanant de l'autorité compétente de l'Etat de résidence sont à produire.",
+      "text_sha256": "613176884b497a05ce2764df1ecfcf24f5eac6386b742ba7b3435c0dbaf36166",
+      "md_span": {
+        "start": 19939,
+        "end": 20775
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_24/20230613",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Electorat"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "Les membres de la Chambre de Commerce seront élus pour un terme de cinq ans; ils sont rééligibles.\n\nLes élections sont secrètes et ont lieu au cours des mois de mars ou avril, au jour à déterminer par le ministre ayant la Chambre de Commerce dans ses attributions, ci-après « ministre ». La date des élections est publiée au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "61b4283ee88bc3c44a9d7b066258af4ae0b13f9255401bd63170ee75ed4fefbf",
+      "md_span": {
+        "start": 20812,
+        "end": 21183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_25/20211030",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Electorat"
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "Ne peuvent se présenter en tant que candidats aux élections :\n\n1. les ressortissants membres effectifs et membres suppléants d’une autre chambre professionnelle du Grand-Duché de Luxembourg ;\n2. les ressortissants candidats aux élections auprès d’une autre chambre professionnelle du Grand-Duché de Luxembourg.",
+      "text_sha256": "d0f7019293e879c8df9c13f3a856f960c95fa15c3727df9eccd32fbf4ec77df4",
+      "md_span": {
+        "start": 21220,
+        "end": 21530
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_26/20230613",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "La qualité d’électeur est constatée par l’inscription sur les listes électorales.\n\nLes listes électorales sont établies pour chaque groupe électoral par le bureau électoral. Elles renseignent pour chaque électeur les :\n\n1. nom ;\n2. prénoms ;\n3. loi modifiée du 19 juin 2013\n4. domicile ;\n5. profession ;\n6. dénomination du ressortissant ;\n7. loi modifiée du 30 mars 1979\n\nTous les cinq ans, tout ressortissant est invité, à produire auprès du bureau électoral au plus tôt cent vingt jours et au plus tard cent quatre jours avant la date du scrutin, contre récépissé, les titres de ceux qui ont droit à l’électorat. Au plus tôt cent cinq jours et au plus tard quatre-vingts jours avant la date du scrutin, le bureau électoral procède à l’élaboration des listes électorales sur base des données communiquées préalablement par la Chambre de Commerce.\n\nIl y inscrit ceux qui réunissent les conditions de l’électorat.\n\nLe fait, pour un ressortissant de la Chambre de Commerce, de demander sa radiation des listes électorales n’affecte pas sa qualité de ressortissant ni ses autres droits et obligations.",
+      "text_sha256": "0f6bc5370d4e54f8521880df7f4ec42baf5e6aa5a429487493c3ec81ebd80a19",
+      "md_span": {
+        "start": 21607,
+        "end": 22705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_27/20230613",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "Les listes électorales sont arrêtées provisoirement au plus tard quatre-vingts jours avant la date du scrutin et sont déposées à l’inspection du public par le bureau électoral. Au moins quatre-vingts jours avant la date du scrutin, le président du bureau électoral en informe le public en publiant dans deux journaux luxembourgeois au moins, un avis pour annoncer ce dépôt et pour inviter les personnes intéressées à présenter, soixante-dix jours au plus tard avant la date du scrutin, tous recours auxquels les listes électorales pourraient donner lieu.\n\nTout individu incorrectement ou indûment inscrit, dans un groupe électoral, ou dont le nom a été omis peut présenter un recours, par écrit ou verbalement, au président du bureau électoral, en y joignant les pièces justifiant sa demande. Ces recours sont reçus, contre récépissé, par le président du bureau électoral ou son délégué.\n\nLe recours est en outre exercé pour la Chambre de Commerce par la personne à désigner à ces fins par le Gouvernement.",
+      "text_sha256": "85ad0214b811fdfee960d76eec56d5694286de554c85d22e701d7cda3977fcbb",
+      "md_span": {
+        "start": 22742,
+        "end": 23748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_28/20230613",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "Dans les trois jours à partir de l’expiration du délai de recours, le président du bureau électoral transmet ces recours et toutes les pièces qui s’y rapportent au juge de paix directeur de Luxembourg ou au magistrat qui le remplace qui statue en audience publique, toutes affaires cessantes, après avoir entendu les parties et, s’il le juge utile, un délégué du bureau électoral. Dans tous les cas les débats sont publics et le jugement est réputé contradictoire ; il n’est pas susceptible d’appel.",
+      "text_sha256": "85ebe5c783c980b5adc3f2bc11af85466820079a998bae5b9997285f2545c6b9",
+      "md_span": {
+        "start": 23785,
+        "end": 24284
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_29/20101101",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Toutes réclamations, tous exploits, actes de procédure et expéditions en matière électorale peuvent être faits sur papier libre.\n\nToutes les pièces sont dispensées de l'enregistrement.",
+      "text_sha256": "0c72d612c47aa5f40e03ca5cabf71bf994c0401971f722f92bc94a1f83ac6e48",
+      "md_span": {
+        "start": 24321,
+        "end": 24505
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_30/20230613",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "Les sièges sont attribués aux candidats ayant obtenu le plus grand nombre de suffrages valables.\n\nSont élus membres suppléants, les candidats rangeant, par le nombre des voix obtenues, après les membres effectifs.\n\nEn cas d'égalité de voix obtenues par deux ou plusieurs candidats dans un groupe électoral, l'attribution du siège se fera par tirage au sort.\n\nSi des causes d'inéligibilité ou des faits constituant des manquements graves aux devoirs du mandataire surviennent, la Chambre de Commerce relèvera le membre élu dont s'agit de ses fonctions après l'avoir entendu dans ses explications.\n\nEn cas de refus du mandat de membre élu ou lorsque, pour un motif quelconque, un membre de la Chambre de Commerce quitte ses fonctions, son emploi ou sa profession avant l'expiration de son mandat, il n'est pas procédé à une élection complémentaire, mais les suppléants sont appelés aux fonctions de membre effectif dans l'ordre correspondant au résultat des élections. Les membres suppléants sont remplacés, dans le même ordre, par ceux qui, lors des élections, ont recueilli des suffrages sans cependant avoir été élus. Le remplaçant achève le mandat de celui qu'il remplace.\n\nLorsque le nombre des candidats d'un groupe ne dépasse pas celui des membres effectifs et des membres suppléants à élire dans ce groupe ou lorsque le nombre des candidats proposés est inférieur à celui des membres effectifs et des membres suppléants à élire dans ce groupe, ces candidats sont proclamés élus par le président du bureau électoral sans autre formalité, sous condition toutefois que pour ce groupe, il n'ait été présenté qu'une seule proposition de candidats et que cette proposition désigne expressément, d'une part, les membres effectifs, et, d'autre part, les membres suppléants dans l'ordre suivant lequel ils doivent remplacer les membres effectifs. Il en est dressé procès-verbal qui est signé, séance tenante, par le président du bureau électoral, pour être immédiatement adressé au ministre ayant l'Economie dans ses attributions.\n\nAprès constitution de l'assemblée plénière, et en cas de refus du mandat de membre ou lorsque, pour un motif quelconque, un membre effectif de la Chambre de Commerce quitte ses fonctions, son emploi ou sa profession avant l'expiration de son mandat, il n'est pas procédé à une élection complémentaire. Il sera remplacé par un membre suppléant du même groupe électoral figurant sur la liste dont l’ordre correspond au résultat des élections, telle qu’arrêtée par le président du bureau électoral.\n\nDans l’hypothèse où, pour un groupe électoral, il n’y a plus de membre effectif, ni de membre suppléant, il sera procédé à des nouvelles élections, mais uniquement dans ce groupe, afin de déterminer les nouveaux membres effectifs et suppléants de ce groupe électoral.",
+      "text_sha256": "57bae5a5bef77922d7928527742c34f27e039cfea70769c6ca0652a555c5bf11",
+      "md_span": {
+        "start": 24542,
+        "end": 27335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_31/20211030",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "Tout électeur peut introduire auprès de la Cour administrative un recours contre l’élec tion. Le recours doit être introduit sous peine de forclusion dans les cinq jours de la date de la publication des résultats au Journal officiel du Grand-Duché de Luxembourg.\n\nLa Cour statue au fond, dans les vingt jours suivant la date à laquelle elle a été saisie. Le greffe de la Cour donne avis de ce recours, par lettre recommandée, au ministre compétent qui informe les candidats et le public par les voies ordinaires.\n\nLorsqu’une élection est définitivement déclarée nulle, le ministre compétent fixe jour dans la huitaine à l’effet de procéder à de nouveaux scrutins dans les soixante jours.",
+      "text_sha256": "1f061f49ff44a95b5abd78ddaf324c83d033831d5872500d8734e52531195e6a",
+      "md_span": {
+        "start": 27372,
+        "end": 28059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_32/20230613",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "Un bureau électoral chargé de l’organisation et du déroulement des opérations électorales est institué auprès du ministre. Des bureaux auxiliaires peuvent être constitués par le président du bureau électoral en cas de besoin.\n\nLes membres du bureau électoral ont droit à une indemnité dont le montant et les modalités sont fixés par règlement grand-ducal.\n\nL’organisation des élections et la procédure électorale sont fixées par règlement grand-ducal.\n\nLe bureau électoral a la qualité de responsable du traitement pour les données à caractère personnel traitées dans le cadre des opérations électorales.\n\nUne proposition de candidats ne peut comprendre un nombre de candidats supérieur au nombre des délégués effectifs et suppléants à élire. Toute candidature isolée est considérée comme formant une proposition de candidat à elle seule. Au cas où pour un groupe électoral il n’a été présenté qu’une seule proposition de candidats et que cette proposition ne présente pas assez de candidats à élire, le nombre total de membres élus, ainsi que le nombre de délégués prévu pour ce groupe électoral, est diminué d’autant. Au cas où pour un ou plusieurs groupe(s) électoral(aux), il n’a été présenté aucune proposition de candidats, il sera procédé à des nouvelles élections dans ce(s) groupe(s) après constitution de l’assemblée plénière et dans un délai maximal de six mois.",
+      "text_sha256": "105007c4bc687d19254e7c0d46d139d61624920effc777fb194516d1a61640e2",
+      "md_span": {
+        "start": 28096,
+        "end": 29469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_33/20211030",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2021-10-30",
+      "text_md": "Il est interdit d'opérer ou de demander l'inscription d'une personne sur plus d'une liste électorale.\n\nL'auteur de l'infraction commise sciemment sera puni d'une amende de 251 à 2.500 euros. La même peine sera prononcée contre celui qui aura pris part au scrutin pour plus d'une chambre professionnelle.",
+      "text_sha256": "5fbd65a047a7ede16e1044e08b533294447ef04fa1b2ace36b51b1b388c605bc",
+      "md_span": {
+        "start": 29506,
+        "end": 29809
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_34/20230613",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2023-06-13",
+      "text_md": "Seront punis d'une amende de 251 à 5.000 euros:\n\n1. quiconque, pour se faire inscrire sur la liste électorale, aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manoeuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;\n2. celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;\n3. quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;\n4. toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;\n5. ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau électoral ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;\n6. tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;\n7. les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.",
+      "text_sha256": "9b16314c25a6ed4fa21b8178c2058770a1122f9d6505c52122d08d6d9688ba25",
+      "md_span": {
+        "start": 29846,
+        "end": 33594
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_35/20101101",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Procédure d'élection"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "L'action publique et l'action civile résultant des infractions prévues par la présente loi seront prescrites après six mois révolus à partir du jour où les délits ont été commis.",
+      "text_sha256": "655772182a5f8022ed30a1f28b5769ef935e2b7a51aaa2bd6c2d5a1d36131bd5",
+      "md_span": {
+        "start": 33631,
+        "end": 33809
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_36/20101101",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Dispositions transitoires"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "Les arrêtés et règlements grand-ducaux concernant la Chambre de Commerce, pris en exécution de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective et en vigueur au jour de l'entrée en vigueur de la présente loi, restent en vigueur tant qu'ils n'auront pas été remplacés par un arrêté ou règlement grand-ducal pris en exécution de la présente loi.",
+      "text_sha256": "faa6214232ece4989f34c787622e3f52ad31420c0ebef8be7bc4aa6471be615f",
+      "md_span": {
+        "start": 33876,
+        "end": 34264
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1",
+          "text": "loi modifiée du 4 avril 1924"
+        }
+      ]
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_37/20101101",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Dispositions abrogatoires"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "A l'article 1er de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective, les mots «une Chambre de Commerce» sont rayés.",
+      "text_sha256": "dbb1ba46d8932030a616e97517c7e7986a419a5970eacb4db67e227706e92eb5",
+      "md_span": {
+        "start": 34331,
+        "end": 34491
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/art_1er",
+          "text": "article 1er"
+        },
+        {
+          "href": "???",
+          "text": "loi modifiée du 4 avril 1924"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2010-10-26-n1:2023-06-13#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/art_38/20101101",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Dispositions abrogatoires"
+      ],
+      "article_valid_from": "2010-11-01",
+      "text_md": "L'article 3, dernier alinéa, ainsi que les articles 35 à 37bis de la loi modifiée du 4 avril 1924 portant organisation de chambres professionnelles à base élective sont abrogés.",
+      "text_sha256": "cb47741b856dc21a4d65d73b22ddfbe068a36225c95a49f9a6e8c73ee381f690",
+      "md_span": {
+        "start": 34528,
+        "end": 34705
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/art_3",
+          "text": "article 3"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/art_35",
+          "text": "articles 35"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/art_37",
+          "text": "37bis"
+        },
+        {
+          "href": "???",
+          "text": "loi modifiée du 4 avril 1924"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

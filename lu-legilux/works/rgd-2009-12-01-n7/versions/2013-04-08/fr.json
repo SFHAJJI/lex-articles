@@ -1,0 +1,216 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/07/2021 : Règlement grand-ducal du 1er décembre 2009 relatif à la déclaration de commencement, de changement ou de cessation de l’activité économique en matière de taxe sur la valeur ajoutée et à l’attribution d’un numéro d’identification TVA.",
+  "valid_from": "2013-04-08",
+  "valid_to": "2021-06-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-12-01-n7/versions/2013-04-08/fr.xml",
+    "sha256": "d6dcd7295187cabd850caf4f77ac1e19c9534748b01af4fb635f3eb7a7d1897b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20130408/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_1er/20091210",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Déclaration du commencement d’activité"
+      ],
+      "article_valid_from": "2009-12-10",
+      "text_md": "Quiconque exerce une activité qui lui confère la qualité d’assujetti à la taxe sur la valeur ajoutée doit, dans les quinze jours du commencement de cette activité, en faire la déclaration à l’Administration de l’enregistrement et des domaines.\n\nSans préjudice de l’application des sanctions prévues au chapitre XI de la loi du 12 février 1979 concernant la taxe sur la valeur ajoutée, l’administration procède d’office à l’immatriculation de l’assujetti qui n’a pas respecté l’obligation lui imposée par l’alinéa 1er.",
+      "text_sha256": "02da0074a20c71062ceb58a254ac85c6132d009921cd49708edc9c278615eb00",
+      "md_span": {
+        "start": 817,
+        "end": 1334
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1",
+          "text": "loi du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_2/20130408",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I — Déclaration du commencement d’activité"
+      ],
+      "article_valid_from": "2013-04-08",
+      "text_md": "Par dérogation à l’article 1er, l’assujetti est déchargé des obligations y prévues\n\n1. lorsqu’il n’a pas d’établissement stable à l’intérieur du pays et qu’il exerce son activité exclusivement à l’étranger;\n2. loi du 12 février 1979\n3. lorsqu’il n’a pas d’établissement stable à l’intérieur du pays et n’effectue à l’intérieur du pays que des opérations imposables pour lesquelles l’acquéreur respectivement le preneur identifié à la TVA est le redevable de la taxe;\n4. loi du 12 février 1979\n5. loi du 12 février 1979\n6. loi du 12 février 1979",
+      "text_sha256": "3da260e336a0780bb44e0f18ba4240cef9b5af5f8f8a6cdd49f7640c6bd4ff2f",
+      "md_span": {
+        "start": 1369,
+        "end": 1913
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_3/20130408",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre II — Demande d’attribution d’un numéro d’identification TVA"
+      ],
+      "article_valid_from": "2013-04-08",
+      "text_md": "**(1)** L’assujetti qui n’est pas soumis à l’obligation visée à l’article 1er et la personne morale non assujettie telle que visée à l’article 4, paragraphe 2, de ladite loi du 12 février 1979, lorsqu’ils réalisent des opérations telles que visées à l'article 62, paragraphes 2 et 3, de ladite loi du 12 février 1979, doivent déposer une demande d’attribution d’un numéro d’identification TVA auprès de l’administration avant la réalisation de ces opérations.\n\n**(2)** Par dérogation au paragraphe 1er, l’assujetti et la personne morale non assujettie y visés sont déchargés de l’obligation y prévue dans les conditions suivantes:\n\n1. ils n’effectuent que des acquisitions intracommunautaires de moyens de transport neufs ou de produits soumis à accises;\n2. ces acquisitions sont effectuées à titre occasionnel.",
+      "text_sha256": "fdbd21c36927c00d8d5f3acc28a1637bf497ecc4f83e9f78ad9f9b14ca60f47c",
+      "md_span": {
+        "start": 2021,
+        "end": 2832
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1",
+          "text": "loi du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_4/20091210",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre III — Déclaration des changements dans l’exercice de l’activité, notification de modifications substantielles et déclaration de cessation d’activité"
+      ],
+      "article_valid_from": "2009-12-10",
+      "text_md": "L’assujetti tenu de respecter l’obligation de déclaration prévue à l’article 1er et qui est identifié à la TVA doit renouveler cette déclaration lors de toute modification substantielle des conditions d’exercice de son activité, telle que l’adjonction d’une nouvelle branche d’activité ou l’ouverture d’une succursale ou la modification de la forme juridique de l’entreprise.\n\nL’assujetti et la personne morale non assujettie visés à l’article 3 et qui sont identifiés à la TVA doivent notifier à l’administration toute modification substantielle par rapport aux renseignements fournis lors de la demande d’attribution d’un numéro d’identification.\n\nL’assujetti et la personne morale non assujettie identifiés à la TVA doivent informer le bureau d’imposition compétent de tout changement d’adresse de leur domicile, de leur résidence ou de leur siège.",
+      "text_sha256": "3e1282efeaf50c7af84cac3b8b975f09a0691cb42b8daa9bbe6595789a11560b",
+      "md_span": {
+        "start": 3029,
+        "end": 3880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_5/20091210",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre III — Déclaration des changements dans l’exercice de l’activité, notification de modifications substantielles et déclaration de cessation d’activité"
+      ],
+      "article_valid_from": "2009-12-10",
+      "text_md": "L’assujetti tenu de respecter l’obligation de déclaration prévue à l’article 1er qui cesse l’activité pour laquelle il a été identifié à la TVA en tout ou en partie doit, dans les quinze jours de la cessation totale ou partielle, en faire la déclaration au bureau d’imposition de la taxe sur la valeur ajoutée auprès duquel il est immatriculé.\n\nL’assujetti qui n’était pas tenu de respecter l’obligation de déclaration prévue à l’article 1er lors du commencement de son activité économique et la personne morale non assujettie, lorsqu’ils sont identifiés à la TVA pour les opérations visées à l’article 6, points 5° et 6° doivent, en cas de cessation de l’activité en raison de laquelle ils avaient demandé l’attribution d’un numéro d’identification TVA, en faire la déclaration dans les quinze jours de la cessation au bureau d’imposition de la taxe sur la valeur ajoutée auprès duquel ils sont immatriculés.",
+      "text_sha256": "d3f4bed093053ac090e9ab8b9b36b10c1a69cb2553e2d4b4f79c9b829f5ed2a2",
+      "md_span": {
+        "start": 3915,
+        "end": 4824
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_6/20130408",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre IV — Identification TVA"
+      ],
+      "article_valid_from": "2013-04-08",
+      "text_md": "L’administration identifie à la TVA, par l’attribution d’un numéro d’identification TVA,\n\n1. er\n2. l’assujetti visé à l’article 2, points d) et f) qui effectue des prestations de services dont le lieu se situe sur le territoire d’un autre État membre et pour lesquelles seul le preneur est le redevable de la taxe;\n3. loi du 12 février 1979\n4. l’assujetti visé à l’article 2, point f) qui a opté pour l’application normale de la taxe sur la valeur ajoutée à ses opérations imposables;\n5. loi du 12 février 1979\n6. loi du 12 février 1979\n7. er\n8. directive 2006/112/CE\n\nL'administration retire le numéro d'identification attribué aux assujettis visés à l'alinéa qui précède lorsqu'elle constate, sur la base d'indices précis et concordants, qu'il y a absence d'activité économique exercée à titre indépendant au sens des articles 4 et 5 de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée dans le chef de ces opérateurs.",
+      "text_sha256": "fc19be64139385337e78a968d969932c168c57f43c737bbc335642ad8b8678f4",
+      "md_span": {
+        "start": 4896,
+        "end": 5842
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi modifiée du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_7/20091210",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre V — Modalités d’application"
+      ],
+      "article_valid_from": "2009-12-10",
+      "text_md": "Les déclarations et demandes prévues au présent règlement doivent être déposées auprès de l’Administration de l’enregistrement et des domaines au moyen d’un formulaire disponible auprès de ladite administration sous forme papier ou électronique.",
+      "text_sha256": "8ce3693316855714bcc02d6fb87a670abb9d198a30a9f2716cde7b996e639fbb",
+      "md_span": {
+        "start": 5918,
+        "end": 6163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_8/20091210",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre VI — Dispositions finales"
+      ],
+      "article_valid_from": "2009-12-10",
+      "text_md": "Le règlement grand-ducal du 21 décembre 1979 relatif à la déclaration de commencement, de changement ou de cessation de l’activité économique en matière de taxe sur la valeur ajoutée est abrogé avec effet au 1er janvier 2010.",
+      "text_sha256": "d183d3d7bed07ab4e7c2be6c3338230723e6596d13171a1d6b755dc9626e1b2e",
+      "md_span": {
+        "start": 6237,
+        "end": 6462
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1979/12/21/n1",
+          "text": "règlement grand-ducal du 21 décembre 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-12-01-n7:2013-04-08#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/art_9/20091210",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre VI — Dispositions finales"
+      ],
+      "article_valid_from": "2009-12-10",
+      "text_md": "Notre Ministre des Finances est chargé de l’exécution du présent règlement qui sera publié au Mémorial et qui entre en vigueur le 1er janvier 2010.",
+      "text_sha256": "7662cc84454d2245a7685aab923373c88957460183ef0ac2d61f9dd9d4a40638",
+      "md_span": {
+        "start": 6497,
+        "end": 6644
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

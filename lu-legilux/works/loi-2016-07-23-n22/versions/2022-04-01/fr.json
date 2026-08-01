@@ -1,0 +1,496 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01",
+  "language": "fr",
+  "title": "Loi du 23 juillet 2016 portant création d'une réserve nationale des employés enseignants des lycées.",
+  "valid_from": "2022-04-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2016-07-23-n22/versions/2022-04-01/fr.xml",
+    "sha256": "4321e18d5ed93f012826283a0a871ab888c1d86b414bf45188ee0834970ad8ca",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/consolide/20220401/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_1er/20151001",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Dispositions générales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La présente loi s'applique aux employés enseignants des catégories, groupes et sous-groupes d'indemnité suivants:\n\n1. er loi du 25 mars 2015\n2. er loi du 25 mars 2015\n3. er loi du 25 mars 2015",
+      "text_sha256": "c3818d2c5b94d3433ec71123bdf46cd7a48ba26d40736f694a364a32cb6cdc2b",
+      "md_span": {
+        "start": 618,
+        "end": 810
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_2/20210915",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Dispositions générales."
+      ],
+      "article_valid_from": "2021-09-15",
+      "text_md": "Au sens de la présente loi, on entend par:\n\n1. directeur: directeur d'un lycée;\n2. établissement scolaire: entité administrative et pédagogique identifiable, regroupant en communauté scolaire les apprenants, le personnel enseignant, le personnel éducatif et psycho-social d'un ou de plusieurs bâtiments scolaires;\n3. formation: cycle de formation de début de carrière;\n4. institut: Institut de formation de l'éducation nationale;\n5. lycée : lycée et établissement d’enseignement public luxembourgeois ;\n6. ministère: ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse;\n7. ministre: ministre ayant l'Éducation nationale dans ses attributions;\n8. er",
+      "text_sha256": "7a201a7ab44e4a85fb925921a22d5343a5d83dbb8c6b46883ae9b7c13167abc9",
+      "md_span": {
+        "start": 845,
+        "end": 1508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_3/20220401",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre Ier — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": "2022-04-01",
+      "text_md": "Des chargés d'éducation à durée déterminée et à tâche complète ou partielle peuvent être engagés sous le régime de l'employé de l'État dans un lycée, en vue d'assumer des remplacements qui ne peuvent être assurés ni par les fonctionnaires, candidats, stagiaires fonctionnaires, ni par les chargés de cours, les chargés d'éducation engagés à durée indéterminée et les chargés d'enseignement.\n\nDe même, des chargés d’éducation peuvent être engagés sous les conditions fixées à l’alinéa 1er et à l’article 45, paragraphe 1er, lettre e), de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État et par dérogation aux conditions fixées à l’article 4 de la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire, en vue d’assumer une tâche de surveillance dans les lycées pour une durée maximale d’engagement pouvant aller jusqu’au 31 décembre 2022.",
+      "text_sha256": "07347b1caf15f19ec3a82a3c69243c198379808538d647c9c3b84984c8909f8e",
+      "md_span": {
+        "start": 1892,
+        "end": 2826
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2005/06/29/n1/jo",
+          "text": "loi modifiée du 29 juin 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_4/20151001",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre Ier — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Sans préjudice des conditions prévues à l'article 4 de la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique, peuvent bénéficier d'un engagement en qualité de chargé d'éducation à durée déterminée et à tâche complète ou partielle dans un lycée, les candidats qui remplissent les conditions suivantes:\n\n1. offrir les garanties de moralité requises, dont la preuve est apportée par la remise d'un extrait récent du casier judiciaire, bulletin n° 2 et du casier judiciaire, bulletin spécial «protection des mineurs» ne comprenant pas de condamnation à une peine d'emprisonnement;\n2. loi du 24 février 1984",
+      "text_sha256": "5390ab32119e884e00580cadfdc6bceb07c97deb41ef50c5065a6eef7c949f3d",
+      "md_span": {
+        "start": 2861,
+        "end": 3541
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/06/29/n1",
+          "text": "loi modifiée du 29 juin 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_5/20151001",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre Ier — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La tâche du chargé d'éducation à durée déterminée et à tâche complète ou partielle correspond au nombre de leçons d'enseignement de l'agent qu'il est appelé à remplacer. Il exécute sa tâche sous la tutelle du directeur du lycée ou de son délégué.",
+      "text_sha256": "e26f1b4fbee8bbf0cd8a0bdcd54c70643ea4066c66a9836e1ca5078cd8661bda",
+      "md_span": {
+        "start": 3576,
+        "end": 3822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5bis",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_5bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5bis.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre Ier — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": null,
+      "text_md": "Des chargés d’éducation à durée déterminée et à tâche complète ou partielle peuvent être engagés sous le régime de l’employé de l’État dans les lycées et écoles internationales publiques luxembourgeois, en vue d’assumer une tâche d’enseignement par voie de renforcement du corps enseignant existant.\n\nL’engagement des chargés d’éducation dans les conditions fixées à l’alinéa 1er est effectué pour une durée maximale pouvant aller jusqu’au 31 décembre 2022.",
+      "text_sha256": "489eefd41adb0a00f7a7f120f94cfce3a5ff6996e6ca0b7e884ba2c1f9699fa1",
+      "md_span": {
+        "start": 3863,
+        "end": 4320
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_6/20151001",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre II — Conditions d'engagement et de travail des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Des chargés d'enseignement à durée indéterminée peuvent être engagés sous le régime de l'employé de l'État dans un lycée, à raison d'une tâche complète ou à raison d'une tâche correspondant soit à soixante-quinze pour cent, soit à cinquante pour cent d'une tâche complète, en vue de pourvoir au manque de personnel enseignant breveté au sein des lycées et ainsi d'assumer des leçons vacantes et des activités d'encadrement administratives, sociales, périscolaires, de surveillance et d'appui qui ne peuvent être assurées ni par les fonctionnaires, candidats, stagiaires fonctionnaires, ni par les chargés de cours et chargés d'éducation.",
+      "text_sha256": "97a97546172e3f87893b808ed75b64f9b3334d1091c04dcff2cf5708526585ac",
+      "md_span": {
+        "start": 4494,
+        "end": 5131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_7/20151001",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre II — Conditions d'engagement et de travail des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Sans préjudice des conditions prévues à l'article 4 de la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique, peuvent bénéficier d'un engagement en qualité de chargé d'enseignement à durée indéterminée et à tâche complète ou partielle dans un lycée, les candidats qui remplissent les conditions suivantes:\n\n1. offrir les garanties de moralité requises, dont la preuve est apportée par la remise d'un extrait récent du casier judiciaire, bulletin n° 2 et du casier judiciaire, bulletin spécial «protection des mineurs» ne comprenant pas de condamnation à une peine d'emprisonnement;\n2. loi du 24 février 1984",
+      "text_sha256": "6425c2a0691b4c55f9e9a54f801a93efc561aaf3b306465be2fe0bc32d762ff2",
+      "md_span": {
+        "start": 5166,
+        "end": 5851
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/06/29/n1/jo",
+          "text": "loi modifiée du 29 juin 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_8/20190824",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre II — Conditions d'engagement et de travail des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": "2019-08-24",
+      "text_md": "Le chargé d’enseignement doit suivre, au cours de sa période d’initiation, le certificat de formation pédagogique et le cycle de formation de début de carrière organisés à l’Institut, conformément à la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale.",
+      "text_sha256": "159ee0c41c824f0db1413911d307d475986f3e94599e4cd4b6ec97ee2e056a9e",
+      "md_span": {
+        "start": 5886,
+        "end": 6189
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/30/n2/jo",
+          "text": "loi modifiée du 30 juillet 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_9/20151001",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre II — Conditions d'engagement et de travail des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** La tâche normale des chargés d'enseignement est fixée à l'équivalent de vingt-deux leçons. Elle correspond à des leçons d'enseignement et des activités dans l'intérêt du fonctionnement de l'enseignement dans l'établissement pouvant aller jusqu'à l'équivalent de vingt et une leçons selon un horaire fixé par le directeur tenant compte des besoins du service, ainsi qu'à l'équivalent de soixante-douze heures de disponibilité dans l'intérêt du fonctionnement de l'enseignement dans l'établissement à assurer au cours de l'année scolaire.\n\nLe volume de soixante-douze heures d'activités administratives, sociales et périscolaires est diminué de seize heures à partir de l'année scolaire au cours de laquelle le chargé d'enseignement atteint l'âge de 50 ans et de trente-deux heures additionnelles à partir de l'année scolaire au cours de laquelle le chargé d'enseignement atteint l'âge de 55 ans.\n\n**(2)** Pendant la formation, le chargé d'enseignement effectue sa tâche et procède à la promotion des élèves des classes qui lui sont confiées sous la responsabilité du directeur.\n\n**(3)** Pour les tâches partielles, le nombre de leçons d'enseignement et des activités dans l'intérêt du fonctionnement de l'enseignement dans l'établissement, ainsi que le nombre d'heures de disponibilité à assurer est fixé proportionnellement à celui prévu pour une tâche normale.\n\n**(4)** Les coefficients des leçons assurées par les chargés d'enseignement sont déterminés par règlement-grand-ducal.",
+      "text_sha256": "97cd3b1787c5287b9bdebf5b6450908492ef60ac7ae65127484a8dce55f847b4",
+      "md_span": {
+        "start": 6224,
+        "end": 7713
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_10/20151001",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Titre II — Conditions d'engagement et de travail des chargés d'éducation à durée déterminée et à tâche complète ou partielle et des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle.",
+        "Chapitre II — Conditions d'engagement et de travail des chargés d'enseignement à durée indéterminée et à tâche complète ou partielle."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** Dans le cas où le chargé d'enseignement n'est plus chargé d'une tâche d'enseignement, faute de leçons vacantes dans sa ou ses spécialités, il est tenu d'assurer des travaux administratifs soit dans son lycée d'affectation, soit dans d'autres lycées. La durée hebdomadaire de travail est dans ce cas identique à celle des fonctionnaires et employés de l'État occupant un travail administratif.\n\n**(2)** Si le chargé d'enseignement ne peut être chargé d'une tâche d'enseignement dans sa ou ses spécialités que pour une partie seulement des leçons prévues à son contrat d'engagement, il se voit chargé alternativement d'une tâche d'enseignement et d'une tâche administrative soit dans son lycée d'affectation, soit dans d'autres lycées, une leçon d'enseignement direct équivalant, dans un tel cas, à deux heures de travail administratif.",
+      "text_sha256": "f5a74b15428a76e445a99abf806dd0c74fa14142ac2c9f6bc41e6a1db7c602ab",
+      "md_span": {
+        "start": 7750,
+        "end": 8592
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_11/20151001",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Titre III — Réserve nationale des employés enseignants des lycées."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** Une réserve nationale des employés enseignants des lycées est placée sous l'autorité du ministre.\n\n**(2)** La réserve reprend l'ensemble des catégories de personnel enseignant engagés sous le régime de l'employé de l'État en service à l'entrée en vigueur de la présente loi, sous le régime du chargé de cours, d'éducation et d'enseignement à durée indéterminée et à tâche complète ou partielle.\n\nLa réserve peut comprendre:\n\n1. les chargés d'enseignement engagés à durée indéterminée et à tâche complète ou partielle conformément aux dispositions du chapitre II du Titre II;\n2. les chargés d'éducation engagés à durée déterminée et à tâche complète ou partielle conformément aux dispositions du chapitre Ier du Titre II.\n\n**(3)** Les membres de cette réserve ont pour mission d'assurer les remplacements et de pourvoir au manque de personnel enseignant breveté au sein des lycées et ainsi d'assumer des leçons vacantes et des activités d'encadrement administratives, sociales, périscolaires, de surveillance et d'appui qui ne peuvent pas être assurées par les fonctionnaires, candidats et fonctionnaires stagiaires.",
+      "text_sha256": "f749c36c6c49ecf037e134fb892358887c3badd6312a722890e779df86dada1f",
+      "md_span": {
+        "start": 8700,
+        "end": 9823
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_12/20151001",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Titre III — Réserve nationale des employés enseignants des lycées."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les leçons vacantes dans les différentes matières enseignées dans les lycées sont confiées prioritairement aux fonctionnaires, candidats et fonctionnaires stagiaires des catégories de traitement figurant à l'annexe A, rubrique II.a.\n\nNouveau régime de la rubrique «Enseignement» et rubrique II.b. Régime transitoire de la rubrique «Enseignement» de la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État.\n\nÀ défaut, elles peuvent être confiées aux membres de la réserve.",
+      "text_sha256": "38402341917f842b8f3572103074bc2b948bc6a49dd18041900a105804a54c85",
+      "md_span": {
+        "start": 9860,
+        "end": 10404
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_13/20151001",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Titre III — Réserve nationale des employés enseignants des lycées."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** Les membres de la réserve sont répartis par le ministre dans un ou plusieurs lycées en tenant compte des besoins de chaque lycée.\n\n**(2)** Le ministre se réserve la faculté d'affecter les membres de la réserve, en cours d'année scolaire ou d'une année scolaire à l'autre, à tout autre lycée ou auprès de toute autre administration selon les besoins des lycées et selon la nécessité du service.\n\n**(3)** Pour le cas où le nombre de postes disponibles est inférieur aux besoins des lycées, la répartition des postes se fait proportionnellement aux besoins déclarés par les directeurs.",
+      "text_sha256": "0c8591d7f9c92311648db2a3dfac165ac9bafe1e015f9f79c5dfa87b1f81a220",
+      "md_span": {
+        "start": 10441,
+        "end": 11031
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_14/20151001",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Titre IV — Dispositions abrogatoires, transitoires et finales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les dispositions de la présente loi s'appliquent aux employés enseignants engagés à partir du 1er octobre 2015.",
+      "text_sha256": "60f3e54b09571254662946bb1e2943aabdd88e7916f76cf47eea534aa2af63d2",
+      "md_span": {
+        "start": 11135,
+        "end": 11246
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_15/20151001",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Titre IV — Dispositions abrogatoires, transitoires et finales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La loi modifiée du 29 juin 2010 portant création d'une réserve nationale de chargés d'enseignement pour les lycées et les lycées techniques est abrogée.",
+      "text_sha256": "8ccd440f69aaeead38926c19fc6bb28f410321e2b607f225fe6a6a29701bef05",
+      "md_span": {
+        "start": 11283,
+        "end": 11435
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/06/29/n1",
+          "text": "loi modifiée du 29 juin 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_16/20151001",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Titre IV — Dispositions abrogatoires, transitoires et finales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La loi modifiée du 29 juin 2010 portant création d'une réserve nationale de chargés d'enseignement pour les lycées et les lycées techniques reste d'application pour les employés enseignants engagés à durée déterminée ou à durée indéterminée avant le 1er octobre 2015, à l'exception de l'article 12 qui cessera d'être en vigueur pour l'année scolaire 2016/2017.",
+      "text_sha256": "71511c5e44a8ba3aaba451c3108b5b96089639509f02e5c7c2f9ccc2678514bf",
+      "md_span": {
+        "start": 11472,
+        "end": 11832
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/06/29/n1/jo",
+          "text": "loi modifiée du 29 juin 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_17/20151001",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Titre IV — Dispositions abrogatoires, transitoires et finales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Pour l'année scolaire 2016/2017, la tâche hebdomadaire normale des employés enseignants engagés avant le 1er octobre 2015 est fixée conformément à l'article 19. À partir de l'année scolaire 2017/2018, celle-ci est fixée conformément à l'article 9.",
+      "text_sha256": "537f85f68c5d0bb61ff2af3f8003fabfedca64a2d45d0856eccb631e018e5fdc",
+      "md_span": {
+        "start": 11869,
+        "end": 12116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_18/20151001",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Titre IV — Dispositions abrogatoires, transitoires et finales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Pour l'année scolaire 2015/2016, la tâche hebdomadaire normale des chargés d'enseignement est fixée à l'équivalent de vingt-quatre leçons. Elle correspond à des leçons d'enseignement et des activités dans l'intérêt du fonctionnement de l'enseignement dans l'établissement pouvant aller jusqu'à l'équivalent de vingt-deux leçons selon un horaire fixé par le directeur tenant compte des besoins du service, ainsi qu'à l'équivalent de soixante-douze heures de disponibilité à assurer au cours de l'année scolaire et obligatoirement de soixante-douze heures annuelles d'activités administratives, sociales et périscolaires.\n\nLe volume de soixante-douze heures d'activités administratives, sociales et périscolaires est diminué de huit heures à partir de l'année scolaire au cours de laquelle le chargé d'enseignement atteint l'âge de 50 ans et de seize heures additionnelles à partir de l'année scolaire au cours de laquelle le chargé d'enseignement atteint l'âge de 55 ans.",
+      "text_sha256": "a6decf36d9c9819968640c079b18ce809d93f09d19929f136e47b166b6009715",
+      "md_span": {
+        "start": 12153,
+        "end": 13123
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_19/20151001",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Titre IV — Dispositions abrogatoires, transitoires et finales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Pour l'année scolaire 2016/2017, la tâche hebdomadaire normale des chargés d'enseignement est fixée à l'équivalent de vingt-trois leçons. Elle correspond à des leçons d'enseignement et des activités dans l'intérêt du fonctionnement de l'enseignement dans l'établissement pouvant aller jusqu'à l'équivalent de vingt et une leçons selon un horaire fixé par le directeur tenant compte des besoins du service, ainsi qu'à l'équivalent de soixante-douze heures de disponibilité dans l'intérêt du fonctionnement de l'enseignement dans l'établissement à assurer au cours de l'année scolaire et obligatoirement de soixante-douze heures annuelles d'activités administratives, sociales et périscolaires.\n\nLe volume de soixante-douze heures d'activités administratives, sociales et périscolaires est diminué de seize heures à partir de l'année scolaire au cours de laquelle le chargé d'enseignement atteint l'âge de 50 ans et de trente-deux heures additionnelles à partir de l'année scolaire au cours de laquelle le chargé d'enseignement atteint l'âge de 55 ans.",
+      "text_sha256": "1722a69567199bf650f53622ed586eec235e1d25c45b5464876039a97bffb144",
+      "md_span": {
+        "start": 13160,
+        "end": 14210
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_20/20151001",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Titre IV — Dispositions abrogatoires, transitoires et finales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en utilisant les termes de «loi du 23 juillet 2016 portant création d'une réserve nationale des employés enseignants des lycées».",
+      "text_sha256": "6e9f2ac5630e893538a04d87b82398531bf9ce289cd517e21428c7af68af0dc0",
+      "md_span": {
+        "start": 14247,
+        "end": 14444
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 23 juillet 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2016-07-23-n22:2022-04-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/art_21/20151001",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Titre IV — Dispositions abrogatoires, transitoires et finales."
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les dispositions de la présente loi produisent leurs effets au 1er octobre 2015, à l'exception de l'article 9, paragraphe 1er qui est applicable à partir de l'année scolaire 2017/2018.",
+      "text_sha256": "191f458d4bf932bc7e95a5b681abee8d7350c243eebef5fa17c1d064c061c55f",
+      "md_span": {
+        "start": 14481,
+        "end": 14665
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

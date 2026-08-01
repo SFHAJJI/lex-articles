@@ -1,0 +1,236 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29",
+  "language": "fr",
+  "title": "Version consolidée applicable au 21/09/2018 : Règlement grand-ducal du 5 septembre 2008 fixant les conditions et modalités relatives à la délivrance d’une autorisation de séjour en tant que travailleur salarié.",
+  "valid_from": "2013-06-29",
+  "valid_to": "2018-09-20",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2008-09-05-n3/versions/2013-06-29/fr.xml",
+    "sha256": "c23218855e7e1a9b9b3b5146899da21eeee6e118904269f7dd841b997a4cfb68",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/consolide/20130629/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_1er/20120708",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "Toute demande en obtention d’une autorisation de séjour ou d’une autorisation de travail prévue à l’article 42 de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration, ci-après nommée «la loi», est introduite par le travailleur salarié auprès du ministre ayant l’Immigration dans ses attributions, désigné ci-après «le ministre».",
+      "text_sha256": "5df62cbd7c374bab599d53fd53f09cd7db36fbd317edf018ec60bc4d0da78ccb",
+      "md_span": {
+        "start": 692,
+        "end": 1047
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi du 29 août 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_2/20130629",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-06-29",
+      "text_md": "**(1)** Pour faire l’objet d’un examen, la demande visée à l’article 1er doit comporter les éléments suivants:\n\n- une copie certifiée conforme à l’original du passeport intégral du requérant;\n- curriculum vitae\n- une copie certifiée conforme des diplômes ou des qualifications professionnelles du requérant, avec si nécessaire, leur traduction certifiée conforme si la pièce originale n’est pas rédigée en langue française, allemande ou anglaise;\n- un contrat de travail, daté et signé par les deux parties et conforme au droit de travail luxembourgeois;\n- une lettre de motivation du requérant à l’appui de la demande;\n- Code du travail loi du 29 août 2008\n\n**(2)** La demande unique introduite par le ressortissant de pays tiers en vue de résider et de travailler sur le territoire doit comporter, outre les documents énumérés au paragraphe (1), les pièces suivantes:\n\n- l’acte de naissance du requérant;\n- un extrait du casier judiciaire ou un affidavit.\n\n**(3)** Sur demande, le ressortissant de pays tiers ou son futur employeur reçoivent les informations adéquates concernant les documents requis pour introduire une demande complète.",
+      "text_sha256": "221f2bc2095e756f41f715a8adcf6d4ba6f16535350085776f63dafc4dceec95",
+      "md_span": {
+        "start": 1082,
+        "end": 2222
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3_20130629",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_3_20130629",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_3/20120708",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "Le ministre transmet une copie de la demande et des informations jointes à l’administration de l’emploi qui lui fera parvenir, endéans les trois semaines, un avis circonstancié relatif à l’opportunité de l’octroi d’une autorisation de séjour pour travailleur salarié.\n\nL’avis contiendra des renseignements notamment sur:\n\n- la déclaration de la vacance du poste par l’employeur;\n- la nécessité objective des critères exigés par l’employeur en relation avec l’exécution du travail sur le poste de travail déclaré vacant;\n- la vérification de la disponibilité concrète de demandeurs d’emploi bénéficiant d’un droit prioritaire à l’embauche;\n- le profil des candidats assignés et leur historique professionnel;\n- la suite réservée aux assignations;\n- le nombre de travailleurs soumis à autorisation par rapport au nombre de travailleurs total de l’employeur.",
+      "text_sha256": "2af373dbc84e157d387a26db05077b44a24c91b1ae0d210a78ebc0231ed61c3e",
+      "md_span": {
+        "start": 2266,
+        "end": 3121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_3/20130629",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-06-29",
+      "text_md": "Si les informations ou les documents fournis à l’appui de la demande sont incomplets au regard de l’article 2, le ministre précise au demandeur par écrit les informations ou les documents complémentaires requis et fixe un délai raisonnable pour la communication de ces informations ou documents.",
+      "text_sha256": "0174b747601b8cb57da230cd6a50eaea2494a2eb48725a4d6a366abeae42ecad",
+      "md_span": {
+        "start": 3156,
+        "end": 3451
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_4/20081001",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-10-01",
+      "text_md": "Le ministre peut demander à l’employeur des informations complémentaires avant la saisine de la commission consultative prévue à l’article 150 de la loi.",
+      "text_sha256": "9461cde361cf33372df2598e5eb66b279d12bb9ca488edeaf811c1e53b891ea9",
+      "md_span": {
+        "start": 3486,
+        "end": 3639
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_5/20120708",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-08",
+      "text_md": "Avant de prendre une décision de refus d’une autorisation de séjour pour travailleur salarié, d’une autorisation de travail ou une décision de refus de changement de secteur conformément à l’article 43, paragraphe (3) de la loi, le ministre saisit la commission et lui transmet le dossier avec tous les renseignements recueillis.",
+      "text_sha256": "7ada4e7725977348b336c7f464907dafdf0e9bfa4d9cdcdfeb21fac45406f70a",
+      "md_span": {
+        "start": 3674,
+        "end": 4003
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "la loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_6/20081001",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-10-01",
+      "text_md": "Le ministre peut saisir la commission en cas de demande de renouvellement d’autorisation de séjour pour travailleur salarié ou d’autorisation de travail lorsque les conditions d’octroi ne sont plus données.",
+      "text_sha256": "223f11c1770cfb2e7a8d7ee34f3fd299cb292327f6e56dba8a263eeda4fd4c27",
+      "md_span": {
+        "start": 4038,
+        "end": 4244
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_7/20081001",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-10-01",
+      "text_md": "La commission transmet son avis relatif à la demande au ministre.",
+      "text_sha256": "126f935e2b43f0afb6a5bb25181fbf5008710bce4d551e97d6f9b6c7e7c07928",
+      "md_span": {
+        "start": 4279,
+        "end": 4344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_8/20081001",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-10-01",
+      "text_md": "Le règlement grand-ducal modifié du 12 mai 1972 déterminant les mesures applicables pour l’emploi des travailleurs étrangers sur le territoire du Grand-Duché de Luxembourg est abrogé.",
+      "text_sha256": "e3daeb68eb2a28bea32709e8735ed1dfa1bb7fbdc42b41ca30869f490d4b7054",
+      "md_span": {
+        "start": 4379,
+        "end": 4562
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1972/05/12/n1/jo",
+          "text": "règlement grand-ducal modifié du 12 mai 1972"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_9/20081001",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-10-01",
+      "text_md": "Le présent règlement entrera en vigueur le 1er octobre 2008.",
+      "text_sha256": "4f984d43d3011a2c33d63358a552a976f459e9c90c4e6a9f0d8b7ed45c766915",
+      "md_span": {
+        "start": 4597,
+        "end": 4657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2008-09-05-n3:2013-06-29#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/art_10/20081001",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-10-01",
+      "text_md": "Notre Ministre du Travail et de l’Emploi et Notre Ministre délégué aux Affaires étrangères et à l’Immigration sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "a544e17efa1170f3241dfa0801e115046f19130355a9cd88447bd01433664180",
+      "md_span": {
+        "start": 4694,
+        "end": 4912
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

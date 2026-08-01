@@ -1,0 +1,1032 @@
+---
+lex_id: lu-legilux:rgd-2011-08-17-n6:2021-04-11
+title: Version consolidée applicable au 13/04/2026 : Règlement grand-ducal du 17 août 2011 précisant le financement des mesures d'aide sociale à l'enfance et à la famille.
+valid_from: 2021-04-11
+valid_to: 2023-03-31
+source: https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/consolide/20210411/fr
+source_sha256: f17f2e4c908a4bce6bd8c82b885bbd82775cb3fd2a8d7c401a96ec0b5c814164
+license: CC-BY-4.0
+attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
+generator: akn-lu/1 · lex derive · dev
+---
+
+## Chapitre 1er. — LES FORFAITS JOURNALIERS
+
+<a id="art_1er"></a>
+
+### Art. 1er.
+
+**Les forfaits journaliers, prévus aux points 1, 2, 3 et 6 de l’article 15** de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, comprennent les frais de rémunération de l’ensemble du personnel, les frais d’entretien d’une mesure d’accueil de jour et/ou de nuit, les frais relatifs aux équipements de faible valeur et les frais relatifs aux contrats d’entretien de l’équipement technique d’une structure d’accueil.
+
+Les facteurs suivants sont pris en compte pour la détermination des frais de personnel:
+
+1. les frais salariaux selon les dispositions légales, réglementaires et conventionnelles en vigueur;
+2. la quote-part pour les «frais généraux» comprenant les frais liés au personnel de direction et d’administration;
+3. la quote-part pour les frais de personnel logistique et technique;
+
+Les facteurs suivants sont pris en compte pour la détermination des frais d’entretien: les frais réels et l’évolution de l’indice du coût de la vie.
+
+<a id="art_2"></a>
+
+### Art. 2.
+
+**Les forfaits journaliers, prévus pour le placement familial ou l’accueil socio-éducatif de jour et de nuit ou de jour en famille d’accueil aux points 4 et 5 de l’article 15** de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, se composent d’une part «frais d’entretien» et d’une part «indemnisation». Pour ce qui est des frais d’entretien, les facteurs suivants sont pris en compte: les frais réels et l’évolution de l’indice du coût de la vie; pour ce qui est de la part indemnisation: l’évolution du salaire social minimum. La fixation de ces forfaits tient compte de la déduction préalable des prestations familiales et du boni enfants versés au prestataire conformément à l’article 18 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille.
+
+<a id="art_3"></a>
+
+### Art. 3.
+
+Le Ministère de la Famille et de l’Intégration peut conclure une convention avec un organisme gestionnaire agréé et reconnu comme service d’aide sociale en vertu de l’article 13 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, réglant la prise en charge des frais suivants:
+
+- les frais médicaux ou paramédicaux se rapportant à des prestations non remboursées par la Caisse de maladie;
+- les frais spéciaux pouvant incomber aux familles d’accueil en matière de prestations médicales, scolaires, paramédicales et parascolaires;
+- les frais spécifiques liés aux familles d’accueil;
+- les frais de loyer immobilier;
+- loi du 16 décembre 2008
+- les frais relatifs aux contrats d’entretien de techniques spéciales du bâtiment.
+
+Les frais de formation continue et de supervision font l’objet d’une demande de subvention préalable au Ministre de la Famille et de l’Intégration qui peut, dans les limites des dispositions légales et réglementaires afférentes, accorder une participation financière à ces frais à condition qu’il s’agisse d’un organisme agréé et reconnu comme service d’aide sociale.
+
+## Chapitre 2. — LES FORFAITS HORAIRES
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+**Les forfaits horaires prévus aux points 7 à 14 de l’article 15 **de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille comprennent les frais de personnel et une quote-part pour les frais généraux, les frais d’encadrement logistique, les frais d’appareil, et de matériel du prestataire. Les forfaits horaires, excepté le forfait horaire prévu au point 10 de l'article 15 de la loi précitée, sont déterminés en considération des tarifications appliquées par l'assurance maladie et l'assurance dépendance à des prestations similaires.Le forfait horaire prévu au point 10 de l'article 15 de ladite loi est fixé conformément à la tarification applicable à la fonction de médiateur en matière civile et commerciale.
+
+Les frais de formation continue, de supervision, les frais de déplacement, les frais de loyer immobilier, les frais relatifs aux équipements et infrastructures et aux contrats d’entretien de techniques spéciales du bâtiment ne sont pas compris dans les forfaits horaires.
+
+Ils ne sont pas dus en cas de concours avec des remboursements dus pour des prestations de même nature par l’assurance maladie, l’assurance dépendance, l’assurance contre les accidents, la législation relative aux personnes handicapées, respectivement la législation sur l’éducation différenciée. De même les forfaits horaires ne sont pas dus pour des prestations offertes par un service étatique spécialisé.
+
+Le forfait journalier «accueil de base», de même que le forfait journalier «accueil psychothérapeutique» ne peuvent être complétés par des forfaits horaires suivant article 15, point 9) de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille. Par contre, si la situation de l’enfant le requiert, le forfait journalier «accueil orthopédagogique» peut être complété par des forfaits horaires suivant article 15, point 9) de la loi en question. Ces mesures supplémentaires sont prestées en conformité avec le projet d’intervention validé par l’Office National de l’Enfance.
+
+Le Ministre de la Famille et de l’Intégration peut conclure une convention avec un organisme gestionnaire agréé et reconnu comme service d’aide sociale en vertu de l’article 13 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, réglant la prise en charge des frais:
+
+- les frais de loyer immobilier;
+- loi du 16 décembre 2008
+- les frais relatifs aux contrats d’entretien de techniques spéciales du bâtiment;
+- les frais de formation continue.
+
+En ce qui concerne les frais de déplacement, l’ONE valide la prise en charge d’un nombre déterminé de « déplacements », qui correspondront forfaitairement à 70 % d’un forfait horaire (coefficient : 0,70). Ce forfait horaire comprend à la fois la prise en charge des frais de personnel et la prise en charge des frais de transport (leasing, essence… ).
+
+## Chapitre 3. — LE FORFAIT MENSUEL
+
+<a id="art_5"></a>
+
+### Art. 5.
+
+Le forfait mensuel pour la prestation d’orientation, de coordination et d’évaluation des mesures d’aide, énoncée au point 15 de l’article 15 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille comprend les frais de personnel et une quote-part pour les frais généraux, les frais d’encadrement logistique, les frais de déplacement, les frais d’appareil, de matériel et d’installation du prestataire.
+
+Ne sont pas compris dans le forfait mensuel, les frais de loyer immobilier, les frais relatifs aux équipements et infrastructures et aux contrats d’entretien de techniques spéciales du bâtiment.
+
+Le forfait mensuel est basé sur une moyenne des frais réels occasionnés par les prestations d’orientation, d’évaluation et de coordination.
+
+## Chapitre 4. — LES MODALITES DE FIXATON DES FORFAITS
+
+<a id="art_6"></a>
+
+### Art. 6.
+
+Les forfaits journaliers sont fixés au plus une fois par an en fonction de l’évolution des facteurs précisés aux articles 1er à 3 ci-avant. A partir du 1er janvier 2014 chaque quatrième année, les différents éléments composant le forfait pourront être revus en fonction des frais réels des organismes gestionnaires et en fonction d’éventuels nouveaux éléments. Durant les trois années subséquentes les forfaits sont adaptés en fonction des éléments retenus.
+
+Les forfaits horaires sont déterminés en considération de l’évolution des tarifications appliquées par l’assurance maladie et l’assurance dépendance à des prestations similaires.
+
+<a id="art_7"></a>
+
+### Art. 7.
+
+Il est créée une commission de concertation, appelée ci-après la commission, qui a pour mission d’analyser et d’aviser les modalités de détermination des forfaits. La commission soumet son avis au Ministre de la Famille et de l’Intégration. La commission réunit:
+
+- un représentant du Ministre de la Famille et de l’Intégration;
+- un représentant du Ministre des Finances;
+- le directeur de l’Office National de l’Enfance;
+- deux représentants de gestionnaires privés offrant des mesures d’aide à l’enfance et à la famille.
+
+Les membres de la commission sont nommés par le Ministre de la Famille et de l’Intégration et le Ministre des Finances pour un mandat d’une durée de 5 ans.
+
+Des experts peuvent être invités aux séances de la commission. La présidence et le secrétariat de la commission sont assurés par un représentant de l’Etat. La période de concertation débute le 1er octobre et finit le 31 décembre de la même année.
+
+## Chapitre 5. — LES MODALITES DE PARTICIPATION FINANCIERE DES BENEFICIAIRES
+
+<a id="art_8"></a>
+
+### Art. 8.
+
+Dans le contexte des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour et de nuit au Luxembourg ou à l’étranger, de même que dans le contexte du placement familial ou de l’accueil socio-éducatif en famille d’accueil de jour et de nuit, la participation financière des parents est déterminée de la manière suivante:
+
+1. La participation est le résultat d’une quote-part Q exprimée en un pourcentage du revenu semi-net R moins une constante C exprimée en valeur absolue: QR – C.
+2. Est à considérer comme revenu semi-net, le 12e de l’ensemble des revenus annuels, de quelque nature qu’ils soient, dont disposent les parents, déduction faite des éléments qui, selon les dispositions de la loi concernant l’impôt sur le revenu, sont mis en compte pour la détermination du revenu imposable au cas où l’ensemble de ces revenus serait soumis à l’impôt. Les seuls revenus qui sont à exclure de l’ensemble des revenus sont les prestations familiales.
+3. La constante C est de 64,45 €.
+4. Si un enfant reste à charge des parents, la quote-part Q est de 16%. Si deux enfants restent à charge des parents, la quote-part Q est de 14%. Si trois enfants restent à charge des parents, la quote-part Q est de 12%. Si quatre enfants ou plus restent à charge des parents, la quote-part est de 10%.
+
+Les bases de calcul pour ces participations et pour la facturation en rapport sont le mois-calendrier et les périodes de présence. Sauf en cas d’accueil de moins de 8 jours au cours d’un mois-calendrier, la participation est due pour le mois entier.
+
+L’Office National de l’Enfance fixe le montant exact de la participation financière des parents en fonction des critères retenus aux articles 8 à 11 du présent règlement.
+
+L’Etat facture cette participation aux parents ou responsables légaux sur base des journées de présence fournies par le prestataire et en fait le recouvrement par les moyens de droit. Les journées de présence sont à transmettre à l’Office National de l’Enfance jusqu’au 15e du mois suivant le mois d’accueil.
+
+<a id="art_9"></a>
+
+### Art. 9.
+
+Le montant de la participation financière aux frais des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour et de nuit au Luxembourg ou à l’étranger, précisé à l’article 8 ci-avant, est également le maximum de la participation financière mensuelle des parents qui pourra être retenu dans le contexte d’un projet d’intervention pour la totalité des mesures d’aide au bénéfice des enfants d’une même famille concernées par les articles 9, 10 et 11 du présent règlement.
+
+<a id="art_10"></a>
+
+### Art. 10.
+
+Dans le contexte des placements institutionnels ou des mesures d’accueil socio-éducatif en institution de jour, de même que dans le contexte du placement familial ou de l’accueil socio-éducatif en famille d’accueil de jour, la participation financière des parents correspond à 60% de la participation financière définie à l’article 8.
+
+L’Office National de l’Enfance fixe le montant exact de la participation financière des parents en fonction des critères retenus aux articles 8 à 11 du présent règlement.
+
+L’Etat facture cette participation aux parents sur base du nombre des journées de présence fournies par le prestataire et en fait le recouvrement par les moyens de droit. Les données concernant le nombre des journées de présence sont à transmettre à l’Office National de l’Enfance jusqu’au 15 du mois suivant le mois d’accueil.
+
+<a id="art_11"></a>
+
+### Art. 11.
+
+Dans le contexte des mesures d’aide correspondant aux forfaits définis par l’article 15 – points 7, 8, 9, 10, 11 et 12 de la loi du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, la participation financière des parents est calculée sur base du nombre des forfaits horaires dont a bénéficié l’enfant.
+
+La participation des parents est déterminée sur base de la tarification précisée ci-dessous:
+
+- Revenus de la famille supérieurs à 5 fois le salaire social minimum mensuel: € 6 par forfait horaire (n.i. 719,84).
+- Revenus de la famille supérieurs à 3 fois le salaire social minimum mensuel, mais inférieurs à 5 fois le salaire social minimum mensuel: € 4 par forfait horaire (n.i. 719,84).
+- Revenus de la famille supérieurs à 2 fois le salaire social minimum mensuel, mais inférieurs à 3 fois le salaire social minimum mensuel: € 2 par forfait horaire (n.i. 719,84).
+- Revenus de la famille inférieurs à 2 fois le salaire social minimum mensuel: gratuité.
+
+Les montants précités au titre de forfait horaire correspondent au nombre indice 719,84 et sont adaptés selon les modalités applicables aux traitements et pensions des fonctionnaires de l’Etat.
+
+L’Office National de l’Enfance fixe le montant exact de la participation financière des parents en fonction des critères retenus aux articles 8 à 11 du présent règlement.
+
+L’Etat facture cette participation aux parents ou responsables légaux sur base des forfaits horaires déclarés par les prestataires et en fait le recouvrement par les moyens de droit. La déclaration des forfaits horaires prestés est à transmettre à l’Office National de l’Enfance jusqu’au 15 du mois suivant le mois de la prestation.
+
+## Chapitre 6. — Mesures transitoires pour les années 2011 et 2012
+
+<a id="art_11bis"></a>
+
+### Art. 11bis.
+
+Les prestataires ayant droit aux forfaits journaliers pour le placement institutionnel ou l'accueil socio-éducatif de jour ou de jour et de nuit du chef des prestations effectuées entre le 1er janvier 2011 et le 31 décembre 2011 se verront attribuer un paiement unique correspondant à 2,43% des montants perçus.
+
+Les prestataires ayant droit aux forfaits horaires du chef des prestations effectuées entre le 1er octobre 2011 et le 31 décembre 2011 se verront attribuer un paiement unique correspondant à 4,55% des montants perçus.
+
+Les prestataires ayant droit aux forfaits mensuels du chef des prestations effectuées entre le 1er octobre 2011 et le 31 décembre 2011 se verront attribuer un paiement unique correspondant à 1,53% des montants perçus.
+
+<a id="art_11ter"></a>
+
+### Art. 11ter.
+
+Pour les prestataires ayant droit à des forfaits horaires, journaliers et mensuels du chef des prestations effectuées entre le 1er janvier 2012 et le 31 décembre 2012, la liquidation du montant correspondant à la différence entre les montants des forfaits définis par le «Tableau des forfaits valable à partir du 1er janvier 2011» et les montants des forfaits fixés par le «Tableau des forfaits valable à partir du 1er janvier 2013» se fait par voie d'un paiement unique. Ces deux tableaux figurent en annexe du présent règlement grand-ducal.
+
+## Chapitre 7. — DISPOSITIONS FINALES
+
+<a id="art_12"></a>
+
+### Art. 12.
+
+En application de l’article 16 de la loi modifiée du 16 décembre 2008 relative à l’aide à l’enfance et à la famille, les montants des forfaits valables à partir de la mise en vigueur du présent règlement grand-ducal sont fixés à l’annexe 9 : « Tableau des forfaits valables à partir du 1er janvier 2021 », annexe qui fait partie intégrante du présent règlement grand-ducal.
+
+Les montants des forfaits fixés à l’annexe 9 correspondent au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier 1948 et sont adaptés périodiquement aux variations du coût de la vie conformément aux dispositions de l’article 3 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et sans préjudice quant aux modalités de détermination des forfaits prévus par le présent règlement grand-ducal.
+
+Dans le contexte des forfaits définis par l’article 15 de la loi aux points 1, 2, 3, 6, 7 et 8, l’ONE pourra verser aux organismes dûment reconnus comme services d’aide sociale à l’enfance des avances financières ne dépassant pas les 90% de l’estimation prévisionnelle du volume de mesures d’aide à prester au cours d’une période de six mois.
+
+<a id="art_13"></a>
+
+### Art. 13.
+
+Notre Ministre de la Famille et de l’Intégration et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.
+
+<a id="attachment_1"></a>
+
+### Annexe 1: TABLEAU DES FORFAITS
+
+**valable à partir du 1er janvier 2011**
+
+(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008)
+
+**A. Mesures d’accueil financées par forfaits journaliers «institutionnels»**
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 201,38 |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 226,67 |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule |  |  |
+| d’accueil psychothérapeutique ou | 3.1 | € 288,06 |
+| d’accueil urgent en situation de crise psychosociale aiguë ou | 3.2 | € 288,06 |
+| d’accueil d’enfants de moins de trois ans | 3.3 | € 288,92 |
+| Forfait journalier pour le placement ou l’accueil socio-éducatif de jour dans un foyer orthopédagogique | 6.1 | € 104,73 |
+| ou psychothérapeutique | 6.2 | € 206,47 |
+
+**B. Mesures d’accueil financées par forfaits journaliers «accueil en famille»**
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| PART ENTRETIEN: Forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil: |  |  |
+| Jour et Nuit: enfant de moins de 6 ans | 4.01 | € 13,76 |
+| Jour et Nuit: enfant de 6 à 11,99 ans | 4.02 | € 15,19 |
+| Jour et Nuit: enfant de 12 ans et plus | 4.03 | € 17,86 |
+| Jour - journée entière | 5.01 | € 9,65 |
+| Jour - demi-journée | 5.02 | € 6,98 |
+| PART INDEMNISATION: Forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour: |  |  |
+| Jour et Nuit: accueil d’un enfant | 4.11 | € 27,92 |
+| Jour: accueil d’un enfant - journée entière | 5.11 | € 19,97 |
+| Jour: accueil d’un enfant - demi-journée | 5.12 | € 9,98 |
+
+**C. Mesures d’aide et d’assistance financées par forfaits horaires «aide et assistance»**
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| Forfait horaire pour l’aide sociofamiliale en famille | 7 | € 48,00 |
+| Forfait horaire pour l’assistance psychique, sociale ou éducative en famille | 8.1 | € 72,02 |
+| Forfait horaire pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO) | 8.2 | € 52,81 |
+
+**D. Mesures d’intervention psycho-pédagogiques, thérapeutiques et sociales financées par forfaits horaires «consultation - médiation - soutien» **
+
+Forfait horaire pour consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 30 minutes | 9.1 | € 45,60 |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 60 minutes | 9.2 | € 91,20 |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 90 minutes | 9.3 | € 136,80 |
+| Exploration du milieu familial, diagnostic détaillé plusieurs séances d’une durée totale de minimum 90 minutes avec rapport détaillé à la demande de l’ONE | 9.4 | € 182,40 |
+
+|  |  |
+| --- | --- |
+| N.B.: Ces mêmes forfaits sont également applicables en cas de traitement collectif. |  |
+
+**Forfaits horaires pour la médiation familiale et sociale**
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| Médiation familiale et sociale; durée minimale 30 minutes | 10.1 | € 31,20 |
+| Médiation familiale et sociale; durée minimale 60 minutes | 10.2 | € 62,41 |
+| Médiation familiale et sociale; durée minimale 90 minutes | 10.3 | € 93,61 |
+| Exploration du milieu familial, diagnostic détaillé plusieurs séances d’une durée totale de minimum 90 minutes avec rapport détaillé à la demande de l’ONE | 10.4 | € 124,82 |
+
+**Forfaits horaires pour les interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie**
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| Premier examen et bilan avant traitement, rapport avec plan de traitement compris, d’une durée minimale de 1 heure | 11.1 | € 63,33 |
+| Bilan intermédiaire en cas de traitement de longue durée, rapport avec plan de traitement compris; à la demande de l’ONE (55% de 11.1) | 11.2 | € 34,83 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement individuel d’une durée de 30 minutes (55% de 11.1) | 11.3 | € 34,83 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement individuel d’une durée de 60 minutes | 11.4 | € 63,33 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, deux enfants, par enfant (55% de 11.1) | 11.5 | € 34,83 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, trois enfants, par enfant (40% de 11.1) | 11.6 | € 25,33 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, quatre enfants, par enfant (30% de 11.1) | 11.7 | € 19,00 |
+
+**Forfait horaire pour le soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement**
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement individuel d’une durée de 30 minutes (55% de 12.2) | 12.1 | € 25,33 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement individuel d’une durée de 60 minutes | 12.2 | € 46,06 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, deux enfants, par enfant (55% de 12.2) | 12.3 | € 25,33 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, trois enfants, par enfant (40% de 12.2) | 12.4 | € 18,43 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, quatre enfants, par enfant (30% de 12.2) | 12.5 | € 13,82 |
+
+**E. Mesures d’assistance aux prestataires financées par forfaits horaires «assistance des prestataires»**
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| Forfait horaire pour l’assistance médicale des prestataires (médecin généraliste) | 13.1 | € 118,46 |
+| Forfait horaire pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) (13.1 + 10%) | 13.2 | € 130,30 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestataires | 14.1 | € 91,20 |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 91,20 |
+
+**F. Mesure d’orientation, de coordination et d’évaluation des mesures (mesure CPI) financées par forfait mensuel**
+
+|  | **Code** | **Tarif** |
+| --- | --- | --- |
+| Forfait mensuel d’orientation, de coordination et d’évaluation des mesures développées au bénéfice d’un même enfant, de sa famille ou du jeune adulte (coordination complète) | 15.1 | € 389,10 |
+| Forfait mensuel d’orientation, de coordination et d’évaluation des mesures développées au bénéfice d’un même enfant, de sa famille ou du jeune adulte (coordination réduite) | 15.2 | € 58,36 |
+
+<a id="attachment_2"></a>
+
+### Annexe 2: Tableau des forfaits
+
+**valables à partir du 1er janvier 2013**
+
+(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008)
+
+**A. Mesures d’accueil financées par forfaits journaliers «institutionnels»**
+
+|  | **Code ** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 28,5039 |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 32,0914 |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule |  |  |
+| d’accueil psychothérapeutique ou | 3.1 | € 40,8048 |
+| d’accueil urgent en situation de crise psychosociale aiguë ou | 3.2 | € 40,8048 |
+| d’accueil d’enfants de moins de trois ans | 3.3 | € 40,9349 |
+| Forfait journalier pour le placement ou l’accueil socio-éducatif de jour dans un foyer orthopédagogique | 6.1 | € 14,8232 |
+| ou psychothérapeutique | 6.2 | € 29,2547 |
+
+**B. Mesures d’accueil financées par forfaits journaliers «accueil en famille»**
+
+|  | **Code ** | **n.i. 100** |
+| --- | --- | --- |
+| PART ENTRETIEN: Forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil: |  |  |
+| Jour et Nuit: enfant de moins de 6 ans | 4.01 | € 1,9097 |
+| Jour et Nuit: enfant de 6 à 11,99 ans | 4.02 | € 2,1102 |
+| Jour et Nuit: enfant de 12 ans et plus | 4.03 | € 2,4816 |
+| Jour - journée entière | 5.01 | € 1,3404 |
+| Jour - demi-journée | 5.02 | € 0,9691 |
+| PART INDEMNISATION: Forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour: |  |  |
+| Jour et Nuit: accueil d’un enfant | 4.11 | € 3,8789 |
+| Jour: accueil d’un enfant - journée entière | 5.11 | € 2,7744 |
+| Jour: accueil d’un enfant - demi-journée | 5.12 | € 1,3865 |
+
+**C. Mesures d’aide et d’assistance financées par forfaits horaires «aide et assistance»**
+
+|  | **Code ** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait horaire pour l’aide socio-familiale en famille | 7 | € 6,8565 |
+| Forfait horaire pour l’assistance psychique, sociale ou éducative en famille | 8.1 | € 10,2856 |
+| Forfait horaire pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO) | 8.2 | € 10,2856 |
+
+**D. Mesures d’intervention psycho-pédagogiques, thérapeutiques et sociales financées par forfaits horaires «consultation - soutien»**
+
+**Forfait horaire pour consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique**
+
+|  | **Code ** | **n.i. 100** |
+| --- | --- | --- |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 30 minutes | 9.1 | € 6,5137 |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 60 minutes | 9.2 | € 13,0260 |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 90 minutes | 9.3 | € 19,5397 |
+| Exploration du milieu familial, diagnostic détaillé, plusieurs séances d’une durée totale de minimum 90 minutes avec rapport détaillé à la demande de l’ONE | 9.4 | € 26,0534 |
+
+|  |  |
+| --- | --- |
+| N.B.: Ces mêmes forfaits sont également applicables en cas de traitement collectif. |  |
+
+**Forfaits horaires pour les interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie**
+
+|  | **Code ** | **n.i. 100** |
+| --- | --- | --- |
+| Premier examen et bilan avant traitement, rapport avec plan de traitement compris, d’une durée minimale de 1 heure | 11.1 | € 8,7974 |
+| Bilan intermédiaire en cas de traitement de longue durée, rapport avec plan de traitement compris; à la demande de l’ONE (55% de 11.1) | 11.2 | € 4,8385 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement individuel d’une durée de 30 minutes (55% de 11.1) | 11.3 | € 4,8385 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement individuel d’une durée de 60 minutes | 11.4 | € 8,7974 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, deux enfants, par enfant (55% de 11.1) | 11.5 | € 4,8385 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, trois enfants, par enfant (40% de 11.1) | 11.6 | € 3,5191 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, quatre enfants, par enfant (30% de 11.1) | 11.7 | € 2,6392 |
+
+**Forfait horaire pour le soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement**
+
+|  | **Code ** | **n.i. 100** |
+| --- | --- | --- |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement individuel d’une durée de 30 minutes (55% de 12.2) | 12.1 | € 3,5191 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement individuel d’une durée de 60 minutes | 12.2 | € 6,3985 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, deux enfants, par enfant (55% de 12.2) | 12.3 | € 3,5191 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, trois enfants, par enfant (40% de 12.2) | 12.4 | € 2,5594 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, quatre enfants, par enfant (30% de 12.2) | 12.5 | € 1,9196 |
+
+**E. Mesures d’assistance aux prestataires financées par forfaits horaires «assistance des prestataires»**
+
+|  | **Code ** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait horaire pour l’assistance médicale des prestataires (médecin généraliste) | 13.1 | € 16,4564 |
+| Forfait horaire pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) (13.1 + 10%) | 13.2 | € 18,1020 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestataires | 14.1 | € 13,0260 |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 13,0260 |
+
+**F. Mesures d’orientation, de coordination et d’évaluation des mesures (mesure CPI) financées par forfait mensuel**
+
+|  | **Code ** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait mensuel d’orientation, de coordination et d’évaluation des mesures développées au bénéfice d’un même enfant, de sa famille ou du jeune adulte (coordination complète) | 15.1 | € 54,6156 |
+| Forfait mensuel d’orientation, de coordination et d’évaluation des mesures développées au bénéfice d’un même enfant, de sa famille ou du jeune adulte (coordination réduite) (15% de 15.1) | 15.2 | € 8,1923 |
+
+<a id="attachment_3"></a>
+
+### Annexe 3: Tableau des forfaits valables à partir du 1er janvier 2015
+
+(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008)
+
+**A. Mesures d’accueil financées par forfaits journaliers «institutionnels» **
+
+|  | Code | n.i. 100 |
+| --- | --- | --- |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 28,3224 |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 31,7765 |
+| Forfait journalier pour le placement institutionnel ou l’accueil socio-éducatif de jour et de nuit d’après la formule |  |  |
+| d’accueil psychothérapeutique ou | 3.1 | € 39,4426 |
+| d’accueil urgent en situation de crise psychosociale aiguë ou | 3.2 | € 36,3430 |
+| d’accueil d’enfants de moins de trois ans | 3.3 | € 42,8326 |
+| Forfait journalier pour le placement ou l’accueil socio-éducatif de jour dans un foyer orthopédagogique | 6.1 | € 14,6777 |
+| ou psychothérapeutique | 6.2 | € 28,2781 |
+
+**B. Mesures d’accueil financées par forfaits journaliers «accueil en famille»**
+
+|  | Code | n.i. 100 |
+| --- | --- | --- |
+| PART ENTRETIEN: Forfait journalier pour le placement familial ou l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil: |  |  |
+| Jour et Nuit: enfant de moins de 6 ans | 4.01 | € 1,9097 |
+| Jour et Nuit: enfant de 6 à 11,99 ans | 4.02 | € 2,1102 |
+| Jour et Nuit: enfant de 12 ans et plus | 4.03 | € 2,4816 |
+| Jour – journée entière | 5.01 | € 1,3404 |
+| Jour – demi-journée | 5.02 | € 0,9691 |
+| PART INDEMNISATION: Forfait journalier pour le placement familial ou l’accueil socioéducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour: |  |  |
+| Jour et Nuit: accueil d’un enfant | 4.11 | € 3,8789 |
+| Jour: accueil d’un enfant – journée entière | 5.11 | € 2,7744 |
+| Jour: accueil d’un enfant – demi-journée | 5.12 | € 1,3865 |
+
+**C. Mesures d’aide et d’assistance financées par forfaits horaires «aide et assistance»**
+
+|  | Code | n.i. 100 |
+| --- | --- | --- |
+| Forfait horaire pour l’aide socio-familiale en famille | 7 | € 8,2942 |
+| Forfait horaire pour l’assistance psychique, sociale ou éducative en famille | 8.1 | € 11,8941 |
+| Forfait horaire pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO) | 8.2 | € 11,8941 |
+| Forfait horaire pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte ACCUEIL EN FAMILLE) | 8.3 | € 14,5539 |
+
+**D. Mesures d’intervention psycho-pédagogiques, thérapeutiques et sociales financées par forfaits horaires «consultation – soutien»**
+
+**Forfait horaire pour consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique**
+
+|  | Code | n.i. 100 |
+| --- | --- | --- |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 30 minutes | 9.1 | € 8,7862 |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 60 minutes | 9.2 | € 17,5724 |
+| Consultation psychologique, psycho-affective, psychothérapeutique ou psychotraumatologique; durée minimale 90 minutes | 9.3 | € 26,3586 |
+| Exploration du milieu familial, diagnostic détaillé plusieurs séances d’une durée totale de minimum 90 minutes avec rapport détaillé à la demande de l’ONE | 9.4 | € 35,1448 |
+
+|  |  |
+| --- | --- |
+| N.B.: Ces mêmes forfaits sont également applicables en cas de traitement collectif. |  |
+
+**Forfaits horaires pour les interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie**
+
+|  | Code | n.i. 100 |
+| --- | --- | --- |
+| Premier examen et bilan avant traitement, rapport avec plan de traitement compris, d’une durée minimale de 1 heure | 11.1 | € 13,3778 |
+| Bilan intermédiaire en cas de traitement de longue durée, rapport avec plan de traitement compris; à la demande de l’ONE (55% de 11.1) | 11.2 | € 7,3578 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement individuel d’une durée de 30 minutes (55% de 11.1) | 11.3 | € 7,3578 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement individuel d’une durée de 60 minutes | 11.4 | € 13,3778 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, deux enfants, par enfant (55% de 11.1) | 11.5 | € 7,3578 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, trois enfants, par enfant (40% de 11.1) | 11.6 | € 5,3511 |
+| Interventions d’orthopédagogie précoce, de psychomotricité, de logopédie ou d’orthophonie, traitement collectif d’une durée de 60 minutes, quatre enfants, par enfant (30% de 11.1) | 11.7 | € 4,0133 |
+
+**Forfait horaire pour le soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec les animaux ou l’environnement**
+
+|  | Code | n.i. 100 |
+| --- | --- | --- |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement individuel d’une durée de 30 minutes (55% de 12.2) | 12.1 | € 3,5191 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement individuel d’une durée de 60 minutes | 12.2 | € 6,3985 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, deux enfants, par enfant (55% de 12.2) | 12.3 | € 3,5191 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, trois enfants, par enfant (40% de 12.2) | 12.4 | € 2,5594 |
+| Soutien psychosocial par l’expression corporelle, artistique et artisanale ou par le contact dirigé avec des animaux ou l’environnement, traitement collectif d’une durée de 60 minutes, quatre enfants, par enfant (30% de 12.2) | 12.5 | € 1,9196 |
+
+**E. Mesures d’assistance aux prestataires financés par forfaits horaires «assistance des prestataires» **
+
+|  | Code | n.i. 100 |
+| --- | --- | --- |
+| Forfait horaire pour l’assistance médicale des prestataires (médecin généraliste) | 13.1 | € 16,4564 |
+| Forfait horaire pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) (13.1 + 10%) | 13.2 | € 18,1020 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestataires | 14.1 | € 17,5724 |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 17,5724 |
+
+**F. Mesures d’orientation, de coordination et d’évaluation des mesures (mesures CPI) financées par forfait mensuel**
+
+|  | Code | n.i. 100 |
+| --- | --- | --- |
+| Forfait mensuel d’orientation, de coordination et d’évaluation des mesures développées au bénéfice d’un même enfant, de sa famille ou du jeune adulte (coordination complète) | 15.1 | € 52,2932 |
+| Forfait mensuel d’orientation, de coordination et d’évaluation des mesures développées au bénéfice d’un même enfant, de sa famille ou du jeune adulte (coordination réduite) (15% de 15.1) | 15.2 | € 7,8440 |
+
+<a id="attachment_4"></a>
+
+### Annexe 4: Tableau des forfaits valable à partir du 1er janvier 2016
+
+**A. Forfaits journaliers «institutionnels»**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 28,1641 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 31,5989 |
+|  |  |  |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule |  |  |
+| • d’accueil psychothérapeutique | 3.1 | € 41,2309 |
+| • d’accueil urgent en situation de crise psychosociale aiguë | 3.2 | € 39,0465 |
+| • d’accueil d’enfants de moins de trois ans | 3.3 | € 43,9454 |
+| • d’accueil psychothérapeutique limité aux périodes scolaires | 3.4 | € 41,2309 |
+| Forfait journalier pour l’accueil socio-éducatif de jour dans un |  |  |
+| • foyer orthopédagogique | 6.1 | € 14,6777 |
+| • foyer psychothérapeutique | 6.2 | € 28,2781 |
+| • foyer psychothérapeutique limité aux périodes scolaires | 6.3 | € 28,2781 |
+
+**B. Forfaits journaliers «accueil en famille»**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| PART ENTRETIEN: Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil: |  |  |
+| Jour et Nuit: enfant de moins de 6 ans | 4.01 | € 1,9097 |
+| Jour et Nuit: enfant de 6 à 11,99 ans | 4.02 | € 2,1102 |
+| Jour et Nuit: enfant de 12 ans et plus | 4.03 | € 2,4816 |
+| Jour – journée entière | 5.01 | € 1,3404 |
+| Jour – demi-journée | 5.02 | € 0,9691 |
+| PART INDEMNISATION: Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour: |  |  |
+| Jour et Nuit: accueil d’un enfant | 4.11 | € 3,8789 |
+| Jour: accueil d’un enfant – journée entière | 5.11 | € 2,7744 |
+| Jour: accueil d’un enfant – demi-journée | 5.12 | € 1,3865 |
+
+**C. Forfaits horaires «aide et assistance»**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’aide socio-familiale en famille | 7 | € 8,6984 |
+| Déplacement | 7D | € 4,3492 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille | 8.1 | € 12,3615 |
+| Déplacement | 8.1D | € 6,1807 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (prestée dans un contexte SLEMO) | 8.2 | € 12,3615 |
+| Déplacement | 8.2D | € 6,1807 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (prestée dans un contexte ACCUEIL EN FAMILLE) | 8.3 | € 13,3418 |
+| Déplacement | 8.3D | € 6,6709 |
+
+**D. Forfaits horaires «consultation – soutien»**
+
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Consultation psychologique ou psychothérapeutique (coefficient 1,0) | 9.0 | € 7,4434 |
+| Consultation psychologique ou psychothérapeutique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée «CCT SAS» (coefficient: 1,1592) | 9.1 | € 8,6283 |
+| Déplacement | 9.1D | € 8,6283 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+- Les APC 9.1 en cours prendront la nouvelle valeur au 1.1.2016
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Intervention précoce orthopédagogique (coefficient 1,0) | 11A0 | € 7,9982 |
+| Intervention précoce orthopédagogique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée «CCT SAS» (coefficient: 1,7786) | 11A1 | € 14,2257 |
+| Déplacement | 11A1D | € 7,1128 |
+| **Les forfaits correspondent à une séance d’une durée comprise entre 30 et 60 minutes (maximum deux séances par journée).** |  |  |
+| Soutien psychosocial par la psychomotricité (réalisé par un psychomotricien ou un ergothérapeute) | 11B | € 7,9982 |
+| Déplacement | 11BD | € 7,9982 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+- Dans le cadre des forfaits 11A0 les déplacements ne sont pas pris en charge.
+- Les APC 11.3 ou 11.4 ou 11.5 en cours sont retranscrits sur la nouvelle grille avec effet au 1.1.2016.
+
+| **Soutien psychosocial par l’orthophonie: les forfaits correspondent à une durée minimale de 30 minutes** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Séance pour consultation ou guidance | 11C1 | € 6,5315 |
+| Bilan orthophonique | 11C2 | € 7,8370 |
+| Rééducation orthophonique pour troubles de l’articulation ou pour troubles de la déglutition atypique (non pris en charge par CNS) | 11C3 | € 5,2247 |
+| Rééducation orthophonique pour troubles du langage oral (retard de langage, retard de parole, dysphasie, troubles de l’audition, handicap etc. non inclus dans la nomenclature CNS) | 11C4 | € 7,8370 |
+| Rééducation orthophonique pour troubles du langage écrit (dyslexie, dysorthographie, dysgraphie) et du raisonnement logico-mathématique (dyscalculie) | 11C5 | € 6,5315 |
+| Rééducation orthophonique en cas de troubles vélo-tubo-tympaniques, dysphonie dysfonctionnelle ou pour dysfonction pathologique grave vélopharyngienne (non pris en charge par CNS) | 11C6 | € 6,5315 |
+| Rapport écrit | 11C7 | € 2,6123 |
+| Déplacement | 11CD | € 6,5315 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+- Les APC 11.3 ou 11.4 ou 11.5 en cours sont retranscrits sur la nouvelle grille avec effet au 1.1.2016.
+
+**E. Forfaits horaires «assistance des prestataires»**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’assistance médicale des prestataires par le médecin généraliste | 13.1 | € 16,4564 |
+| Forfait pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) | 13.2 | € 18,1020 |
+
+| **Les forfaits correspondent à une durée de 30 minutes** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’assistance psychothérapeutique des prestataires (coefficient 1,0) | 14.10 | € 7,4434 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestataires prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée «CCT SAS» (coefficient: 1,15) | 14.11 | € 8,6283 |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 7,4434 |
+
+- Dans le cadre des forfaits 13 et 14 les déplacements ne sont pas pris en charge.
+- Le mode de facturation des forfaits 13 et 14 est spécifique.
+
+**F. Forfaits mensuels pour l’orientation, la coordination ou l’évaluation (CPI)**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait mensuel pour l’orientation, la coordination ou l’évaluation des mesures développées au bénéfice d’un même enfant, d’une famille ou d’un jeune adulte (coordination complète) | 15.1 | € 48,4239 |
+| Forfait mensuel pour l’orientation, la coordination ou l’évaluation des mesures développées au bénéfice d’un même enfant, d’une famille ou d’un jeune adulte (coordination réduite) | 15.2 | € 7,2636 |
+
+<a id="attachment_5"></a>
+
+### Annexe 5 : TABLEAU DES FORFAITS valable à partir du 1er janvier 2017(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008)
+
+**A. Forfaits journaliers « institutionnels »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 26,5322 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base PLUS | 1bis | € 28,1551 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 29,7690 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique PLUS | 2bis | € 31.5892 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formuled’accueil psychothérapeutiqued’accueil urgent en situation de crise psychosociale aiguë d’accueil d’enfants de moins de trois ansd’accueil psychothérapeutique limité aux périodes scolaires | 3.13.23.33.4 | € 41,7534€ 37,2228€ 43,8988€ 41,7534 |
+| Forfait journalier pour l’accueil socio-éducatif de jour dans unfoyer orthopédagogiquefoyer psychothérapeutiquefoyer psychothérapeutique limité aux périodes scolaires | 6.16.26.3 | € 14,6777€ 28,2781€ 28,2781 |
+
+**B. Forfaits journaliers « accueil en famille »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| PART ENTRETIEN : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil :Jour et Nuit : enfant de moins de 6 ansJour et Nuit : enfant de 6 à 11,99 ansJour et Nuit : enfant de 12 ans et plusJour – journée entièreJour – demi-journée | 4.014.024.035.015.02 | € 1,9097€ 2,1102€ 2,4816€ 1,3404€ 0,9691 |
+| PART INDEMNISATION : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour :Jour et Nuit : accueil d’un enfantJour : accueil d’un enfant – journée entièreJour : accueil d’un enfant – demi-journée | 4.115.115.12 | € 3,8789€ 2,7744€ 1,3865 |
+
+**C. Forfaits horaires « aide et assistance »**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’aide socio-familiale en familleDéplacement | 77D | € 8,6984€ 4,3492 |
+| Forfait pour l’assistance psychique, sociale ou éducative en familleDéplacement | 8.18.1D | € 12,6656€ 6,3328 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO)Déplacement | 8.28.2D | € 11,7613€ 5,8806 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte ACCUEIL EN FAMILLE)Déplacement | 8.38.3D | € 13,9208€ 6,9604 |
+
+**D. Forfaits horaires « consultation – soutien »**
+
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Consultation psychologique ou psychothérapeutique (coefficient 1,0) | 9.0 | € 7,4434 |
+| Consultation psychologique ou psychothérapeutique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1638)Déplacement | 9.19.1D | € 8,6626€ 8,6626 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+- Les APC 9.1 en cours prendront la nouvelle valeur au 1.1.2016.
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Intervention précoce orthopédagogique (coefficient 1,0) | 11A0 | € 7,9982 |
+| Intervention précoce orthopédagogique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,8982)Déplacement | 11A111A1D | € 15,1825€ 7,5912 |
+| **Les forfaits correspondent à une séance d’une durée comprise entre 30 et 60 minutes (maximum deux séances par journée).** |  |  |
+| Soutien psychosocial par la psychomotricité (réalisé par un psychomotricien ou un ergothérapeute)Déplacement | 11B11BD | € 7,9982€ 7,9982 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+- Dans le cadre des forfaits 11A0 les déplacements ne sont pas pris en charge.
+- Les APC 11.3 ou 11.4 ou 11.5 en cours sont retranscrits sur la nouvelle grille avec effet au 1.1.2016.
+
+| **Soutien psychosocial par l’orthophonie : les forfaits correspondent à une durée minimale 30 minutes ** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Séance pour consultation ou guidance | 11C1 | € 6,5315 |
+| Bilan orthophonique | 11C2 | € 7,8370 |
+| Rééducation orthophonique pour troubles de l’articulation ou pour troubles de la déglutition atypique (non pris en charge par CNS) | 11C3 | € 5,2247 |
+| Rééducation orthophonique pour troubles du langage oral (retard de langage, retard de parole, dysphasie, troubles de l’audition, handicap etc. non inclus dans la nomenclature CNS) | 11C4 | € 7,8370 |
+| Rééducation orthophonique pour troubles du langage écrit (dyslexie, dysorthographie, dysgraphie) et du raisonnement logico-mathématique (dyscalculie) | 11C5 | € 6,5315 |
+| Rééducation orthophonique en cas de troubles vélo-tubo-tympaniques, dysphonie dysfonctionnelle ou pour dysfonction pathologique grave vélo-pharyngienne (non pris en charge par CNS) | 11C6 | € 6,5315 |
+| Rapport écrit Déplacement | 11C711CD | € 2,6123€ 6,5315 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+- Les APC 11.3 ou 11.4 ou 11.5 en cours sont retranscrits sur la nouvelle grille avec effet au 1.1.2016.
+
+**E. Forfaits horaires « assistance des prestataires****»**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’assistance médicale des prestataires par le médecin généraliste | 13.1 | € 16,4564 |
+| Forfait pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) | 13.2 | € 18,1020 |
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| Forfait pour l’assistance psychothérapeutique des prestataires (coefficient 1,0) | 14.10 | € 7,4434 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestatairesprestée dans le contexte d’une personne morale appliquant la convention | 14.11 | € 8,6283 |
+| collective de travail appelée « CCT SAS » (coefficient : 1,15) |  |  |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 7,4434 |
+
+- Dans le cadre des forfaits 13 et 14 les déplacements ne sont pas pris en charge.
+- Le mode de facturation des forfaits 13 et 14 est spécifique.
+
+<a id="attachment_6"></a>
+
+### Annexe 6 : TABLEAU DES FORFAITSvalable à partir du 1er janvier 2018(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008)
+
+**A. Forfaits journaliers « institutionnels »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 29,4247 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base PLUS | 1bis | € 32,8099 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 33,0136 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique PLUS | 2bis | € 36,8118 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formuled’accueil psychothérapeutiqued’accueil urgent en situation de crise psychosociale aiguëd’accueil d’enfants de moins de trois ansd’accueil psychothérapeutique limité aux périodes scolaires | 3.13.23.33.4 | € 50,8210€ 41,2041€ 50,5224€ 41,7534 |
+| Forfait journalier pour l’accueil socio-éducatif de jour dans unfoyer orthopédagogiquefoyer psychothérapeutiquefoyer psychothérapeutique limité aux périodes scolaires | 6.16.26.3 | € 14,6777€ 28,2781€ 28,2781 |
+
+**B. Forfaits journaliers « accueil en famille »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| PART ENTRETIEN : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil :Jour et Nuit : enfant de moins de 6 ansJour et Nuit : enfant de 6 à 11,99 ansJour et Nuit : enfant de 12 ans et plusJour - journée entièreJour - demi-journée | 4.014.024.035.015.02 | € 1,9097€ 2,1102€ 2,4816€ 1,3404€ 0,9691 |
+| PART INDEMNISATION : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour :Jour et Nuit : accueil d’un enfantJour : accueil d’un enfant - journée entièreJour : accueil d’un enfant - demi-journée | 4.115.115.12 | € 3,8789€ 2,7744€ 1,3865 |
+
+**C. Forfaits horaires « aide et assistance »**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’aide socio-familiale en familleDéplacement | 77D | € 8,6211€ 6,0348 |
+| Forfait pour l’assistance psychique, sociale ou éducative en familleDéplacement | 8.18.1D | € 13,9865€ 9,7906 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO)Déplacement | 8.28.2D | € 12,7666€ 8,9366 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte ACCUEIL EN FAMILLE)Déplacement | 8.3 8.3D | € 14,9755€ 10,4829 |
+
+**D. Forfaits horaires « consultation - soutien »**
+
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Consultation psychologique ou psychothérapeutique (coefficient 1,0) | 9.0 | € 7,4434 |
+| Consultation psychologique ou psychothérapeutique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1992)Déplacement | 9.19.1D | € 8,9264€ 12,4970 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Intervention précoce orthopédagogique (coefficient 1,0) | 11A0 | € 7,9982 |
+| Intervention précoce orthopédagogique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,7827)Déplacement | 11A111A1D | € 14,2580€ 9,9806 |
+| **Les forfaits correspondent à une séance d’une durée comprise entre 30 et 60 minutes (maximum deux séances par journée).** |  |  |
+| Soutien psychosocial par la psychomotricité (réalisé par un psychomotricien ou un ergothérapeute)Déplacement | 11B11BD | € 7,9982€ 11,1974 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+- Dans le cadre des forfaits 11A0 les déplacements ne sont pas pris en charge.
+
+| **Soutien psychosocial par l’orthophonie : les forfaits correspondent à une durée minimale 30 minutes** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Séance pour consultation ou guidance | 11C1 | € 6,5315 |
+| Bilan orthophonique | 11C2 | € 7,8370 |
+| Rééducation orthophonique pour troubles de l’articulation ou pour troubles de la déglutition atypique (non pris en charge par CNS) | 11C3 | € 5,2247 |
+| Rééducation orthophonique pour troubles du langage oral (retard de langage, retard de parole, dysphasie, troubles de l’audition, handicap etc. non inclus dans la nomenclature CNS) | 11C4 | € 7,8370 |
+| Rééducation orthophonique pour troubles du langage écrit (dyslexie, dysorthographie, dysgraphie) et du raisonnement logico-mathématique (dyscalculie) | 11C5 | € 6,5315 |
+| Rééducation orthophonique en cas de troubles vélo-tubo-tympaniques, dysphonie dysfonctionnelle ou pour dysfonction pathologique grave vélo-pharyngienne (non pris en charge par CNS) | 11C6 | € 6,5315 |
+| Rapport écrit Déplacement | 11C711CD | € 2,6123€ 9,1441 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+
+**E. Forfaits horaires « assistance des prestataires****»**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’assistance médicale des prestataires par le médecin généraliste | 13.1 | € 16,4564 |
+| Forfait pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) | 13.2 | € 18,1020 |
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| Forfait pour l’assistance psychothérapeutique des prestataires (coefficient 1,0) | 14.10 | € 7,4434 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestataires prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1592) | 14.11 | € 8,6283 |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 7,4434 |
+
+- Dans le cadre des forfaits 13 et 14 les déplacements ne sont pas pris en charge.
+
+<a id="attachment_7"></a>
+
+### Annexe 7 : TABLEAU DES FORFAITSvalable à partir du 1er janvier 2019(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008)
+
+**A. Forfaits journaliers « institutionnels »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 29,8639 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base PLUS | 1bis | € 33,2491 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 33,5032 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique PLUS | 2bis | € 37,3014 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule |  |  |
+| d’accueil psychothérapeutique | 3.1 | € 51,5559 |
+| d’accueil urgent en situation de crise psychosociale aiguë | 3.2 | € 41,7987 |
+| d’accueil d’enfants de moins de trois ans | 3.3 | € 51,1046 |
+| d’accueil psychothérapeutique limité aux périodes scolaires | 3.4 | € 41,7534 |
+| Forfait journalier pour l’accueil socio-éducatif de jour dans un |  |  |
+| foyer orthopédagogique | 6.1 | € 14,6777 |
+| foyer psychothérapeutique | 6.2 | € 28,2781 |
+| foyer psychothérapeutique limité aux périodes scolaires | 6.3 | € 28,2781 |
+
+**B. Forfaits journaliers « accueil en famille »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| PART ENTRETIEN : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil : |  |  |
+| Jour et Nuit : enfant de moins de 6 ans | 4.01 | € 1,9097 |
+| Jour et Nuit : enfant de 6 à 11,99 ans | 4.02 | € 2,1102 |
+| Jour et Nuit : enfant de 12 ans et plus | 4.03 | € 2,4816 |
+| Jour - journée entière | 5.01 | € 1,3404 |
+| Jour - demi-journée | 5.02 | € 0,9691 |
+| PART INDEMNISATION : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour : |  |  |
+| Jour et Nuit : accueil d’un enfant | 4.11 | € 3,8789 |
+| Jour : accueil d’un enfant - journée entière | 5.11 | € 2,7744 |
+| Jour : accueil d’un enfant - demi-journée | 5.12 | € 1,3865 |
+
+**C. Forfaits horaires « aide et assistance »**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’aide socio-familiale en familleDéplacement | 77D | € 8,7688€ 6,1382 |
+| Forfait pour l’assistance psychique, sociale ou éducative en familleDéplacement | 8.18.1D | € 14,1855€ 9,9299 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO)Déplacement | 8.2 8.2D | € 12,9428 € 9,0600 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte ACCUEIL EN FAMILLE)Déplacement | 8.3 8.3D | € 15,2113 € 10,6479 |
+
+**D. Forfaits horaires « consultation – soutien »**
+
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | ** n.i. 100** |
+| --- | --- | --- |
+| Consultation psychologique ou psychothérapeutique (coefficient 1,0) | 9.0 | € 7,4434 |
+| Consultation psychologique ou psychothérapeutique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,2178)Déplacement | 9.19.1D | € 9,0645€ 12,6903 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Intervention précoce orthopédagogique (coefficient 1,0) | 11A0 | € 7,9982 |
+| Intervention précoce orthopédagogique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,8141)Déplacement | 11A111A1D | € 14,5095€ 10,1567 |
+| **Les forfaits correspondent à une séance d’une durée comprise entre 30 et 60 minutes (maximum deux séances par journée).** |  |  |
+| Soutien psychosocial par la psychomotricité (réalisé par un psychomotricien ou un ergothérapeute)Déplacement | 11B11BD | € 7,9982€ 11,1974 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+- Dans le cadre des forfaits 11A0 les déplacements ne sont pas pris en charge.
+
+| **Soutien psychosocial par l’orthophonie : les forfaits correspondent à une durée minimale 30 minutes ** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Séance pour consultation ou guidance | 11C1 | € 6,6380 |
+| Bilan orthophonique | 11C2 | € 7,9647 |
+| Rééducation orthophonique pour troubles de l’articulation ou pour troubles de la déglutition atypique (non pris en charge par CNS) | 11C3 | € 5,3099 |
+| Rééducation orthophonique pour troubles du langage oral (retard de langage, retard de parole, dysphasie, troubles de l’audition, handicap etc. non inclus dans la nomenclature CNS) | 11C4 | € 7,9647 |
+| Rééducation orthophonique pour troubles du langage écrit (dyslexie, dysorthographie, dysgraphie) et du raisonnement logico-mathématique (dyscalculie) | 11C5 | € 6,6380 |
+| Rééducation orthophonique en cas de troubles vélo-tubo-tympaniques, dysphonie dysfonctionnelle ou pour dysfonction pathologique grave vélo-pharyngienne (non pris en charge par CNS) | 11C6 | € 6,6380 |
+| Rapport écrit Déplacement | 11C711CD | € 2,6549€ 9,2931 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+
+**E. Forfaits horaires **« assistance des prestataires »****
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’assistance médicale des prestataires par le médecin généraliste | 13.1 | € 16,4564 |
+| Forfait pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) | 13.2 | € 18,1020 |
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| Forfait pour l’assistance psychothérapeutique des prestataires (coefficient 1,0) | 14.10 | € 7,4434 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestatairesprestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1592) | 14.11 | € 8,6283 |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 7,4434 |
+
+- Dans le cadre des forfaits 13 et 14 les déplacements ne sont pas pris en charge.
+
+<a id="attachment_8"></a>
+
+### attachment_8
+
+| **Annexe 8 : TABLEAU DES FORFAITS ****valable à partir du 1er janvier 2020**(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008) |
+| --- |
+
+**A. Forfaits journaliers « institutionnels »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 32,3827 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 36,3231 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule |  |  |
+| d’accueil psychothérapeutique d’accueil urgent en situation de crise psychosociale aiguëd’accueil d’enfants de moins de trois ansd’accueil psychothérapeutique limité aux périodes scolaires | 3.13.23.33.4 | € 53,2070€ 43,1653€ 49,9267€ 41,7534 |
+| Forfait journalier pour l’accueil socio-éducatif de jour dans un |  |  |
+| foyer orthopédagogiquefoyer psychothérapeutiquefoyer psychothérapeutique limité aux périodes scolaires | 6.16.26.3 | € 14,6777€ 28,2781€ 28,2781 |
+
+**B. Forfaits journaliers « accueil en famille »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| PART ENTRETIEN : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil : |  |  |
+| Jour et Nuit : enfant de moins de 6 ansJour et Nuit : enfant de 6 à 11,99 ansJour et Nuit : enfant de 12 ans et plusJour – journée entièreJour – demi-journée | 4.014.024.035.015.02 | € 1,9097€ 2,1102€ 2,4816€ 1,3404€ 0,9691 |
+| PART INDEMNISATION : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour : |  |  |
+| Jour et Nuit : accueil d’un enfantJour : accueil d’un enfant – journée entièreJour : accueil d’un enfant – demi-journée | 4.115.115.12 | € 3,8789€ 2,7744€ 1,3865 |
+
+**C. Forfaits horaires « aide et assistance »**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’aide socio-familiale en famille | 7 | € 8,3686 |
+| Déplacement | 7D | € 5,8580 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille | 8.1 | € 14,1405 |
+| Déplacement | 8.1D | € 9,8984 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO) | 8.2 | € 12,7215 |
+| Déplacement | 8.2D | € 8,9051 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte ACCUEIL EN FAMILLE) | 8.3 | € 15,5009 |
+| Déplacement | 8.3D | € 10,8506 |
+
+**D. Forfaits horaires « consultation - soutien »**
+
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Consultation psychologique ou psychothérapeutique (coefficient 1,0) | 9.0 | € 7,5884 |
+| Consultation psychologique ou psychothérapeutique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1748) | 9.1 | € 8,9148 |
+| Déplacement | 9.1D | € 12,4807 |
+| En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire. |  |  |
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Intervention précoce orthopédagogique (coefficient 1,0) | 11A0 | € 7,9982 |
+| Intervention précoce orthopédagogique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 2,1743) | 11A1 | € 17,3907 |
+| Déplacement | 11A1D | € 12,1735 |
+| **Les forfaits correspondent à une séance d’une durée comprise entre 30 et 60 minutes (maximum deux séances par journée).** |  |  |
+| Soutien psychosocial par la psychomotricité (réalisé par un psychomotricien ou un ergothérapeute) | 11B | € 7,9982 |
+| Déplacement | 11BD | € 11,1974 |
+| En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.Dans le cadre des forfaits 11A0 les déplacements ne sont pas pris en charge. |  |  |
+
+| **Soutien psychosocial par l’orthophonie : les forfaits correspondent à une durée minimale 30 minutes** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Séance pour consultation ou guidance | 11C1 | € 6,6380 |
+| Bilan orthophonique | 11C2 | € 7,9647 |
+| Rééducation orthophonique pour troubles de l’articulation ou pour troubles de la déglutition atypique (non pris en charge par CNS) | 11C3 | € 5,3099 |
+| Rééducation orthophonique pour troubles du langage oral (retard de langage, retard de parole, dysphasie, troubles de l’audition, handicap etc. non inclus dans la nomenclature CNS) | 11C4 | € 7,9647 |
+| Rééducation orthophonique pour troubles du langage écrit (dyslexie, dysorthographie, dysgraphie) et du raisonnement logico-mathématique (dyscalculie) | 11C5 | € 6,6380 |
+| Rééducation orthophonique en cas de troubles vélo-tubo-tympaniques, dysphonie dysfonctionnelle ou pour dysfonction pathologique grave vélo-pharyngienne (non pris en charge par CNS) | 11C6 | € 6,6380 |
+| Rapport écrit Déplacement | 11C711CD | € 2,6549€ 9,2931 |
+| En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire. |  |  |
+
+**E. Forfaits horaires « assistance des prestataires****»**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’assistance médicale des prestataires par le médecin généraliste | 13.1 | € 16,4564 |
+| Forfait pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) | 13.2 | € 18,1020 |
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| Forfait pour l’assistance psychothérapeutique des prestataires (coefficient 1,0) | 14.10 | € 7,4434 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestataires prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1592) | 14.11 | € 8,6283 |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 7,4434 |
+| Dans le cadre des forfaits 13 et 14 les déplacements ne sont pas pris en charge. |  |  |
+
+<a id="attachment_9"></a>
+
+### Annexe 9 : TABLEAU DES FORFAITSvalable à partir du 1er janvier 2021(la numérotation correspond à la chronologie de l’article 15 de la loi du 16 décembre 2008)
+
+**A. Forfaits journaliers « institutionnels »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil de base | 1 | € 34,0929 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule d’accueil orthopédagogique | 2 | € 38,3466 |
+| Forfait journalier pour l’accueil socio-éducatif de jour et de nuit d’après la formule |  |  |
+| d’accueil psychothérapeutique | 3.1 | € 55,1558 |
+| d’accueil urgent en situation de crise psychosociale aiguë | 3.2 | € 44,5255 |
+| d’accueil d’enfants de moins de trois ans | 3.3 | € 52,724 |
+| d’accueil psychothérapeutique limité aux périodes scolaires | 3.4 | € 41,7534 |
+| d’accueil dans un petit groupe | 3.5 | € 50,1100 |
+| Forfait journalier pour l’accueil socio-éducatif de jour dans un |  |  |
+| foyer orthopédagogique | 6.1 | € 14,6777 |
+| foyer psychothérapeutique | 6.2 | € 28,2781 |
+| foyer psychothérapeutique limité aux périodes scolaires | 6.3 | € 28,2781 |
+
+**B. Forfaits journaliers « accueil en famille »**
+
+|  | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| PART ENTRETIEN : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil : |  |  |
+| Jour et Nuit : enfant de moins de 6 ans | 4.01 | € 1,9097 |
+| Jour et Nuit : enfant de 6 à 11,99 ans | 4.02 | € 2,1102 |
+| Jour et Nuit : enfant de 12 ans et plus | 4.03 | € 2,4816 |
+| Jour – journée entière | 5.01 | € 1,3404 |
+| Jour – demi-journée | 5.02 | € 0,9691 |
+| PART INDEMNISATION : Forfait journalier pour l’accueil socio-éducatif en famille d’accueil d’après la formule d’accueil de jour et de nuit ou de jour : |  |  |
+| Jour et Nuit : accueil d’un enfant | 4.11 | € 3,8789 |
+| Jour : accueil d’un enfant – journée entière | 5.11 | € 2,7744 |
+| Jour : accueil d’un enfant – demi-journée | 5.12 | € 1,3865 |
+
+**C. Forfaits horaires « aide et assistance »**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’aide socio-familiale en famille | 7 | € 8,5841 |
+| Déplacement | 7D | € 6,0089 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille | 8.1 | € 14,4484 |
+| Déplacement | 8.1D | € 10,1139 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte SLEMO) | 8.2 | € 13,1147 |
+| Déplacement | 8.2D | € 9,1803 |
+| Forfait pour l’assistance psychique, sociale ou éducative en famille (presté dans un contexte ACCUEIL EN FAMILLE) | 8.3 | € 15,8932 |
+| Déplacement | 8.3D | € 11,1252 |
+
+**D. Forfaits horaires « consultation – soutien »**
+
+| ****Les forfaits correspondent à une durée de 30 minutes.**** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Consultation psychologique ou psychothérapeutique (coefficient 1,0) | 9.0 | € 7,6131 |
+| Déplacement | 9.0D | € 10,6583 |
+| Consultation psychologique ou psychothérapeutique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1943) | 9.1 | € 9,0924 |
+| Déplacement | 9.1D | € 12,7294 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+
+| ****Les forfaits correspondent à une durée de 30 minutes.**** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Intervention précoce orthopédagogique (coefficient 1,0) | 11A0 | € 6,8252 |
+| Déplacement | 11A0D | € 9,5553 |
+| Intervention précoce orthopédagogique prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,2545) | 11A1 | € 8,5620 |
+| Déplacement | 11A1D | € 11,9867 |
+| **Les forfaits correspondent à une séance d’une durée de 30 minutes.** |  |  |
+| Soutien psychosocial par la psychomotricité (réalisé par un psychomotricien ou un ergothérapeute) | 11B | € 6,8252 |
+| Déplacement | 11BD | € 9,5553 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+
+| **Soutien psychosocial par l’orthophonie : les forfaits correspondent à une durée 30 minutes ** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Séance pour consultation ou guidance | 11C1 | € 6,8252 |
+| Bilan orthophonique | 11C2 | € 8,1893 |
+| Rééducation orthophonique pour troubles de l’articulation ou pour troubles de la déglutition atypique (non pris en charge par CNS) | 11C3 | € 5,4596 |
+| Rééducation orthophonique pour troubles du langage oral (retard de langage, retard de parole, dysphasie, troubles de l’audition, handicap etc. non inclus dans la nomenclature CNS) | 11C4 | € 8,1893 |
+| Rééducation orthophonique pour troubles du langage écrit (dyslexie, dysorthographie, dysgraphie) et du raisonnement logico-mathématique (dyscalculie) | 11C5 | € 6,8252 |
+| Rééducation orthophonique en cas de troubles vélo-tubo-tympaniques, dysphonie dysfonctionnelle ou pour dysfonction pathologique grave vélo-pharyngienne (non pris en charge par CNS) | 11C6 | € 6,8252 |
+| Rapport écrit | 11C7 | € 2,7298 |
+| Déplacement | 11CD | € 9,5553 |
+
+- En cas de traitement collectif ces mêmes tarifs sont applicables. La facturation correspondra à la quote-part de chaque bénéficiaire.
+
+**E. Forfaits horaires « assistance des prestataires** **»**
+
+| **Les forfaits correspondent à une durée de 60 minutes.** | **Code** | **n.i. 100** |
+| --- | --- | --- |
+| Forfait pour l’assistance médicale des prestataires par le médecin généraliste | 13.1 | € 16,4564 |
+| Forfait pour l’assistance médicale des prestataires par le médecin spécialiste (en pédiatrie, en gynécologie, en psychiatrie) | 13.2 | € 18,1020 |
+| **Les forfaits correspondent à une durée de 30 minutes.** | **Code** | **n.i. 100** |
+| Forfait pour l’assistance psychothérapeutique des prestataires (coefficient 1,0) | 14.10 | € 7,4434 |
+| Forfait horaire pour l’assistance psychothérapeutique des prestataires prestée dans le contexte d’une personne morale appliquant la convention collective de travail appelée « CCT SAS » (coefficient : 1,1592) | 14.11 | € 8,6283 |
+| Forfait horaire pour l’assistance juridique des prestataires | 14.2 | € 7,4434 |
+
+- Dans le cadre des forfaits 13 et 14 les déplacements ne sont pas pris en charge.

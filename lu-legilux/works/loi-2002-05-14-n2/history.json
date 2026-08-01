@@ -1,0 +1,39 @@
+{
+  "lex_work_id": "lu-legilux:loi-2002-05-14-n2",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "71e11944fdebc10d02bade2a19312374ab20df1d31d34552497a2d52b286fcec",
+        "in_version": "lu-legilux:loi-2002-05-14-n2:2015-01-01",
+        "article_valid_from": "2015-01-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "6afb0985046d0429100f8fcf4cd5425202c0445429494e10b197f0dfa2544d38",
+        "in_version": "lu-legilux:loi-2002-05-14-n2:2015-01-01",
+        "article_valid_from": "2002-07-13",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "7ab3747145d54028f6460bf6e2c5759c782c05838bc44f9bb2b2532c864ecc8c",
+        "in_version": "lu-legilux:loi-2002-05-14-n2:2015-01-01",
+        "article_valid_from": "2002-07-13",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

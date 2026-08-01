@@ -1,0 +1,98 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgc-2023-09-22-a636:2025-10-10",
+  "language": "fr",
+  "title": "Version consolidée applicable au 10/10/2025 : Règlement du Gouvernement en Conseil du 22 septembre 2023 portant fixation de l’indemnité spéciale allouée aux participants à une opération pour le maintien de la paix, à une opération de prévention ou à une opération de gestion de crise.",
+  "valid_from": "2025-10-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgc-2023-09-22-a636/versions/2025-10-10/fr.xml",
+    "sha256": "2305397707013bfe1f700b26a7155564f47612a2cbdf0f4a69ec6de35a18016d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/consolide/20251010/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgc-2023-09-22-a636:2025-10-10#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/art_1er/20251010",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-10-10",
+      "text_md": "L’indemnité spéciale visée à l’article 9 de la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise est fixée aux montants mensuels nets ci-après :\n\n| 1° | Pour le personnel militaire de l’Armée : |  |\n| --- | --- | --- |\n| a. | Officiers : | 4.618.- EUR |\n| b. | Sous-officiers et caporaux : | 4.270.- EUR |\n| c. | Soldats volontaires : | 3.192.- EUR |\n| 2° | Pour le personnel de la Police : |  |\n| a. | Cadre supérieur : | 4.618.- EUR |\n| b. | Inspecteurs et brigadiers : | 4.270.- EUR |\n| 3° | Pour les participants civils, issus du secteur public ou du secteur privé : |  |\n| a. | Catégorie de traitement A, groupes de traitements A1 et A2 : | 4.618.- EUR |\n| b. | Catégories de traitement B et C : | 4.270.- EUR |\n| c. | Toutes catégories de traitement ou de rémunération confondues :les participants au programme « Jeunes experts professionnels » de l’UE et les participants à une mission d’observation électorale : | 2.700.- EUR |",
+      "text_sha256": "230de00d40fe566586f912d6b3c9c3c324ec7dcca2a30752d6826cf00aa79c0f",
+      "md_span": {
+        "start": 764,
+        "end": 1846
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/07/27/n5/jo",
+          "text": "loi modifiée du 27 juillet 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgc-2023-09-22-a636:2025-10-10#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/art_2/20230814",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "L’indemnité spéciale susvisée est due à partir du jour de départ pour la mission à l’étranger jusqu’au retour au Grand-Duché de Luxembourg.",
+      "text_sha256": "1ad33391ef7115241d9c68f88ad0ad36a2a4d1cb88e194e73cdbe8f2f0a39a5f",
+      "md_span": {
+        "start": 1881,
+        "end": 2020
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgc-2023-09-22-a636:2025-10-10#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/art_3/20230814",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "Lorsque l’indemnité spéciale n’est due que pour une partie du mois, elle est calculée par jour à raison d’un trentième du montant mensuel net.",
+      "text_sha256": "481fa3d9ed2e9df0a5a7d961f9581382f327f73a8b6b28918961440e41545413",
+      "md_span": {
+        "start": 2055,
+        "end": 2197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgc-2023-09-22-a636:2025-10-10#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/art_4/20230814",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-14",
+      "text_md": "Le présent règlement prend effet le 14 août 2023 et sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "85cb8d06a831042aad5d862d75bd6aef885e9ad405c8101033a3eb0d339afd4c",
+      "md_span": {
+        "start": 2232,
+        "end": 2345
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

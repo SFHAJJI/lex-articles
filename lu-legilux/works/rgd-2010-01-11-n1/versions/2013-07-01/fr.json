@@ -1,0 +1,349 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 11 janvier 2010 portant organisation de la validation des acquis de l'expérience pour la délivrance des brevets, diplômes et certificats prévue au chapitre V de la loi du 19 décembre 2008 portant réforme de la formation professionnelle.",
+  "valid_from": "2013-07-01",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2010-01-11-n1/versions/2013-07-01/fr.xml",
+    "sha256": "56c4f01a8a161a5008a3df03749653ab85e278ee508a0df070db1b1524e018e9",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20130701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_1er/20100123",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre Ier** — **Généralités**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Peuvent faire l’objet d’une validation tous les acquis résultant des apprentissages formels, non formels ou informels, continus ou non, pendant une durée cumulée de 5000 heures sur 3 années au moins. Les apprentissages pouvant être pris en compte doivent être en relation avec le domaine d’activité du brevet, diplôme ou certificat visé. Le début de l’expérience pouvant être prise en compte se situe au plus tôt après la fin de l’obligation scolaire, à l’exception d’une formation faite sous contrat d’apprentissage. Pour une formation faite sous contrat d’apprentissage l’expérience est prise en considération dès l’âge de 15 ans.\n\nLe terme de ministre utilisé dans le présent règlement, désigne le ministre ayant la formation professionnelle dans ses attributions.",
+      "text_sha256": "f350142233930e42afb3abfe5c1faffd8d8bd762dcc5651ee734a6849f5c108f",
+      "md_span": {
+        "start": 828,
+        "end": 1595
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_2/20100123",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "La démarche est faite de façon individuelle et volontaire par la personne concernée. Dans tous les cas, le caractère privé de la démarche est respecté.",
+      "text_sha256": "a13d8269b0b143c331c968dc89bdce0133371070b4750f281b05e6ea2db26afb",
+      "md_span": {
+        "start": 1665,
+        "end": 1816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_3/20100123",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Deux sessions de validation ont lieu au cours de l’année civile, une au courant des mois de mai – juin et une au courant des mois d’octobre – novembre.\n\nUn candidat ne peut déposer une nouvelle demande de validation pour un même brevet, diplôme ou certificat qu’à l’occasion de la session qui suit immédiatement celle au cours de laquelle une décision de recevabilité ou de validation a été prise relative à ce diplôme, certificat ou brevet. Pour des diplômes, certificats ou brevets différents, il peut déposer une nouvelle demande la session suivante. Une seule et même demande peut concerner plusieurs métiers ou professions apparentées. Un règlement ministériel déterminera l’apparentement.\n\nLe candidat n’est pas autorisé à apporter des pièces supplémentaires après l’introduction du dossier.",
+      "text_sha256": "609332988cd8afa6cea94c69b6380b8e13aac2f4d9f0484806d01ceeadad8fbc",
+      "md_span": {
+        "start": 1851,
+        "end": 2648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_4/20100123",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Le modèle du dossier de validation tel que prévu à l’article 47 de la loi du 19 décembre 2008 portant réforme de la formation professionnelle, est arrêté par le ministre. Il comprend deux étapes:\n\n1. La demande de recevabilité du dossier\n2. La demande de validation sur le fond.\n\nLa demande de recevabilité du dossier précise pour quel brevet, diplôme ou certificat et, le cas échéant, pour quel métier ou profession, le candidat entend se faire valider son expérience.\n\nLes périodes d’expérience relevant de l’apprentissage formel et de l’apprentissage non formel sont documentées par des pièces officielles. Pour les expériences relevant de l’apprentissage informel, l’activité bénévole est certifiée par l’association ou l’organisme concerné, l’activité privée est prouvée par une déclaration sur l’honneur.\n\nLa demande de validation sur le fond permet d’inventorier et de décrire de manière détaillée les acquis: connaissances, aptitudes et compétences qui ont un rapport direct avec les exigences du brevet, diplôme ou certificat visé. La demande de validation sur le fond décrit des activités caractéristiques du candidat, illustrées par des exemples concrets. Ces informations permettent à la commission de validation d’évaluer les acquis et de les comparer aux requis du brevet, diplôme ou certificat visé.",
+      "text_sha256": "57a911a7fcd2fa78873cc14ef07c75fed0d6ec643291fc890e25ce115410a044",
+      "md_span": {
+        "start": 2683,
+        "end": 3997
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n19/jo",
+          "text": "loi du 19 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_5/20130701",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Le candidat introduit soit par lettre recommandée, soit personnellement contre récépissé sa demande de recevabilité auprès du ministre. Le dépôt de la demande de recevabilité est soumis à un droit de timbre d’un montant de 18,75 €.",
+      "text_sha256": "b49c99913f44f07dd6c84cbf8353afd29809de0bf3bd4eb35cb7ab836171d748",
+      "md_span": {
+        "start": 4032,
+        "end": 4263
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_6/20100123",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Le ministre procède à l’examen de la demande de recevabilité.\n\nIl peut demander des renseignements complémentaires auprès du candidat qui doivent parvenir au ministre endéans les 30 jours.\n\nLa décision quant à la recevabilité de la demande est communiquée au candidat par lettre recommandée au plus tard 30 jours après l’introduction de la demande complète.\n\nDans le cas d’une réponse positive, le candidat peut introduire sa demande de validation sur le fond qui lui est transmise par le ministre. La décision positive reste valable pour 2 sessions de validation dont les dates sont communiquées au candidat. Dans le cas d’une réponse négative, cette dernière est motivée.",
+      "text_sha256": "197da37367fe383a8277b6b87a1834eef726648df250252688f3e4af6796c4eb",
+      "md_span": {
+        "start": 4298,
+        "end": 4971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_7/20100123",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Le candidat introduit, soit par lettre recommandée, soit personnellement contre récépissé, la demande de validation sur le fond auprès du ministre dans les conditions et les délais préalablement fixés et rendus publics.",
+      "text_sha256": "0b7e952f7730b7bcc5ff8be1e57714edc0fff6258c44a05b90591f7e7a286042",
+      "md_span": {
+        "start": 5006,
+        "end": 5225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_8/20100123",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Le dossier est soumis pour analyse aux membres de la commission de validation prévue à l’article 49 de la loi du 19 décembre 2008 portant réforme de la formation professionnelle.\n\nLa commission se compose de six membres: deux représentants patronaux, deux représentants salariaux et deux représentants du milieu scolaire. Ils élisent en leur sein un président et un secrétaire. La commission peut s’adjoindre des experts. Il est désigné pour chacun des membres un suppléant.\n\nChaque représentation dispose d’une voix lors de la prise de décision.\n\nLa commission ne peut siéger que si au moins un membre de chaque représentation est présent.\n\nNul ne peut prendre part aux travaux d’une commission examinant le dossier soit de l’un de ses salariés soit de l’un de ses parents ou alliés jusque et y compris le quatrième degré, ni d’une commission examinant le dossier d’un candidat qu’il a accompagné dans sa démarche.",
+      "text_sha256": "3c6cc19909a9efa21412050f7daf0f6efac1c1daa4b90bdc7bbed3f8279a6f68",
+      "md_span": {
+        "start": 5260,
+        "end": 6175
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n19/jo",
+          "text": "loi du 19 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_9/20100123",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Les membres de la commission évaluent les acquis dont fait état le candidat par rapport aux compétences exigées pour la délivrance du brevet, diplôme ou certificat visé. La commission établit, sur la base de lignes directrices générales définies par le ministre, une grille d’évaluation qui se fonde sur le programme-cadre en vigueur.",
+      "text_sha256": "f303aba22cf5aa79ff9869bfe50b000b65efd02f02e1837ddca4f9bb69a87fec",
+      "md_span": {
+        "start": 6210,
+        "end": 6544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_10/20100123",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Au cas où l’évaluation doit être complétée par une mise en situation professionnelle, le président de la commission de validation informe immédiatement après l’évaluation le ministre de la décision d’un complément réel ou reconstitué. Le ministre procède à l’organisation de la mise en situation. La mise en situation reconstituée se fait soit dans le Centre national de formation professionnelle continue soit dans un lycée technique. La mise en situation réelle se fait dans l’entreprise du candidat après concertation avec celle-ci. Si cette dernière refuse, l’évaluation se fait en milieu reconstitué.\n\nLes frais de l’évaluation en situation réelle ou reconstituée incombent à l’État.",
+      "text_sha256": "9d2bf994a4c051693cc60acf5062330ddcdaedb3f07b840d32c78262cde9db21",
+      "md_span": {
+        "start": 6581,
+        "end": 7269
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_11/20100123",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "La commission prend sa décision quant au degré de validation à la majorité des voix. L’abstention n’est pas permise.\n\nLa commission communique sa décision par écrit à l’autorité compétente en matière de certification. Elle informe le candidat de la transmission de sa décision.\n\nL’autorité compétente en matière de certification notifie la décision au candidat, endéans un mois.\n\nLes membres de la commission ont l’obligation de garder le secret de toutes les délibérations en rapport avec la validation.",
+      "text_sha256": "74fc8012ecbbfdf169e22c1eded72ec0707fc121c890c04b44e08accdeb14256",
+      "md_span": {
+        "start": 7306,
+        "end": 7810
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_12/20100123",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Dans le cas d’une validation partielle, la commission se prononce sur les connaissances, aptitudes et attitudes qui doivent faire l’objet d’une évaluation complémentaire nécessaire à l’obtention du brevet, diplôme ou certificat. Si le candidat veut obtenir la certification visée, il dispose d’un délai de trois ans à compter de la notification de la décision pour satisfaire aux exigences de la commission. Pour des motifs reconnus valables par la commission cette dernière peut accorder une prolongation du délai.\n\nCette évaluation complémentaire se fait par la commission de validation.\n\nPassé le délai de trois ans, le candidat ne peut présenter une nouvelle demande qu’après un délai de trois ans.",
+      "text_sha256": "3d0e75e237ac976505646e3a55f8c5be605d9b165177af6ec834f6b5d554433a",
+      "md_span": {
+        "start": 7847,
+        "end": 8549
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_13/20100123",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Le candidat peut recourir à tout organisme d’information et d’orientation répondant aux conditions du dernier alinéa de l’article 47 de la loi du 19 décembre 2008 portant réforme de la formation professionnelle pour se faire conseiller quant aux suites à donner à la décision de la commission en termes de projet de formation ou projet professionnel.",
+      "text_sha256": "ea344fa4cab9afa77c1b5c5420de69ba91f34951ad6b487e58a5f9dff3fbd401",
+      "md_span": {
+        "start": 8586,
+        "end": 8936
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n19/jo",
+          "text": "loi du 19 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_14/20130701",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Les indemnités des membres de la commission et des experts de validation sont fixées comme suit:\n\n1. 18,75 € (indice 100).\n2. 3,75 € (indice 100) par heure.\n\nLe président et le secrétaire de la commission de validation se voient augmenter ces indemnités de 3,75 € (indice 100).\n\nLes membres et les experts des commissions ont droit au remboursement de leurs frais de route et de séjour conformément aux dispositions du règlement grand-ducal du 5 août 1993 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État, tel qu’il a été modifié par la suite.",
+      "text_sha256": "4c81b580fa4f9aee105894c9616a7a98561b60e68ae326023151fbdae2716f37",
+      "md_span": {
+        "start": 8973,
+        "end": 9589
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1993/08/05/n5/jo",
+          "text": "règlement grand-ducal du 5 août 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_15/20130701",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Il est créé une commission de pilotage qui a pour mission de suivre l’organisation et d’accompagner le processus de validation des acquis de l’expérience professionnelle.\n\nLa commission se compose:\n\n- d’un représentant du ministre ayant la formation professionnelle dans ses attributions, comme président;\n- d’un représentant du Service de la Formation professionnelle, comme secrétaire;\n- d’un représentant du collège des directeurs de l’enseignement secondaire technique;\n- d’un représentant de la Chambre de Commerce;\n- d’un représentant de la Chambre des Métiers;\n- d’un représentant de la Chambre d’Agriculture;\n- de deux représentants de la Chambre des Salariés.\n\nLe fonctionnement de la commission sera déterminé par règlement ministériel.\n\nLa commission peut s’adjoindre d’autres experts.\n\nLes membres de la commission ont droit à une indemnité fixée par vacation à 37,50 €.",
+      "text_sha256": "322b6f29e52d344e4923d761eaa1bcff97f6b7f7fae1e75a6763dac972eb5f61",
+      "md_span": {
+        "start": 9626,
+        "end": 10508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2010-01-11-n1:2013-07-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/art_16/20100123",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre II** — **Démarche**"
+      ],
+      "article_valid_from": "2010-01-23",
+      "text_md": "Notre Ministre de l’Éducation nationale et de la Formation professionnelle et Notre Ministre des Finances sont chargés de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "97984d51488585635299ea690dd182b8e3969622e82abdd5221a714a61cb3a34",
+      "md_span": {
+        "start": 10545,
+        "end": 10728
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

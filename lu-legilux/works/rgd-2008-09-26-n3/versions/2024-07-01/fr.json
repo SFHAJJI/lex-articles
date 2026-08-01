@@ -1,0 +1,81 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2008-09-26-n3:2024-07-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/07/2024 : Règlement grand-ducal du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.",
+  "valid_from": "2024-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2008-09-26-n3/versions/2024-07-01/fr.xml",
+    "sha256": "9e02a9eb4837d06fc4b3360e7e9039830b288d96a172d8dc09aff13a077a84c6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/consolide/20240701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n3:2024-07-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/art_1er/20240701",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-07-01",
+      "text_md": "Le salaire annuel brut résultant du salaire mensuel ou annuel indiqué dans le contrat de travail à verser à un ressortissant de pays tiers en vue de son occupation en tant que travailleur salarié hautement qualifié conformément aux dispositions de l’article 45, paragraphe (1), point 3 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration ne peut pas être inférieur à un seuil salarial égal à une fois et demie le salaire annuel brut moyen.\n\nPour l’emploi dans des professions appartenant aux groupes 1 et 2 de la CITP (Classification Internationale Type de Professions), pour lesquelles un besoin particulier de travailleurs ressortissants de pays tiers est constaté par le Gouvernement, le seuil de rémunération est fixé par dérogation à l’alinéa qui précède, à 1,2 fois le salaire annuel brut moyen.\n\nLes professions en question, arrêtées par l’OCDE sont les suivantes:\n\n| Groupe 1. | Directeurs, cadres de direction et gérantsDirecteurs généraux, cadres supérieursDirecteurs de services administratifs et commerciauxDirecteurs et cadres de direction, production et services spécialisésDirecteurs et gérants de l’hôtellerie, la restauration, le commerce et autres services |\n| --- | --- |\n\n| Groupe 2. | Professions intellectuelles et scientifiques Spécialistes des sciences et techniquesSpécialistes de la santéSpécialistes de l’enseignementSpécialistes en administration d’entreprisesSpécialistes des technologies de l’information et des communicationsSpécialistes de la justice, des sciences sociales et de la culture. |\n| --- | --- |\n\nLa liste des professions pour lesquelles une dérogation est prévue est annuellement arrêtée par un règlement du Gouvernement en conseil et communiquée à la Commission.\n\nLe seuil salarial prévu à l’alinéa 1er sera publié annuellement au Journal officiel du Grand-Duché de Luxembourg.\n\nLes présentes dispositions sont sans préjudice des conventions collectives ou des pratiques applicables dans les secteurs professionnels concernés en ce qui concerne les emplois hautement qualifiés.",
+      "text_sha256": "1b8f57fa38c0ea11927f0a93b1b6875c8f60e8165182a84394e6d8a091b8e64a",
+      "md_span": {
+        "start": 745,
+        "end": 2807
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi modifiée du 29 août 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n3:2024-07-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/art_2/20240701",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-10-03",
+      "text_md": "Le présent règlement entrera en vigueur le 1er octobre 2008.",
+      "text_sha256": "4f984d43d3011a2c33d63358a552a976f459e9c90c4e6a9f0d8b7ed45c766915",
+      "md_span": {
+        "start": 2842,
+        "end": 2902
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2008-09-26-n3:2024-07-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/art_3/20240701",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-10-03",
+      "text_md": "Notre Ministre délégué aux Affaires étrangères et à l’Immigration est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5abb37e7d4c541555b339c6827aebd4bf72bb07f8b759c56d757b620961086cd",
+      "md_span": {
+        "start": 2937,
+        "end": 3078
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

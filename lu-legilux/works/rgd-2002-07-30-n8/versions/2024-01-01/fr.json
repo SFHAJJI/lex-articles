@@ -1,0 +1,110 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2002-07-30-n8:2024-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 30 juillet 2002 relatif à la commission consultative en matière de reconnaissance du baccalauréat international.",
+  "valid_from": "2024-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2002-07-30-n8/versions/2024-01-01/fr.xml",
+    "sha256": "3d2a1c820db4beca4d00913643b6d7c05685615013822c2c7e0a25707795b6ef",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/consolide/20240101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2002-07-30-n8:2024-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/art_1er/20020816",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-08-16",
+      "text_md": "Il est institué une commission appelée à donner des avis au Ministre ayant dans ses attributions l'Éducation nationale, désigné ci-après par «le ministre», au sujet des diplômes de baccalauréat international présentés en vue de leur reconnaissance avec le diplôme de fin d'études secondaires luxembourgeois.",
+      "text_sha256": "c8681e583751eba7f7838c60088a1528f285da039c1666a81ac1cda95a3a5714",
+      "md_span": {
+        "start": 659,
+        "end": 966
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2002-07-30-n8:2024-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/art_2/20020816",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-08-16",
+      "text_md": "La commission est nommée par le ministre pour une durée de quatre ans. Elle est composée de cinq fonctionnaires dont trois au moins doivent être ou avoir été professeur de l'enseignement secondaire ou de l'enseignement secondaire technique.",
+      "text_sha256": "5f0daeb3193e4152b57a72b5e3f6c242b0668bd8304cdbed36f82687818611a0",
+      "md_span": {
+        "start": 1001,
+        "end": 1241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2002-07-30-n8:2024-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/art_3/20020816",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-08-16",
+      "text_md": "La commission se réunit sur convocation de son président. Elle élit parmi ses membres un président et un secrétaire. Elle ne peut délibérer valablement que si trois au moins de ses membres sont présents.\n\nLes décisions sont prises à la majorité simple des voix. En cas d'égalité des voix, la voix du président est prépondérante.\n\nLes membres de la commission sont tenus de garder le secret des délibérations.\n\nLes délibérations de la commission sont consignées dans un procès-verbal qui sera transmis au ministre.",
+      "text_sha256": "bb6dec0a7bb633558d2cc156cb3908409e89d0044073f926bc565a45c9c17ddc",
+      "md_span": {
+        "start": 1276,
+        "end": 1789
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2002-07-30-n8:2024-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/art_4/20240101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Les membres de la commission bénéficient d'une indemnité de 6.90 EUR (N.I. 100) par séance de travail.",
+      "text_sha256": "27712d792970997d18ca12f0b34e4a874b5d10c315b7ac07d3abef89132de96e",
+      "md_span": {
+        "start": 1824,
+        "end": 1926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2002-07-30-n8:2024-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/art_5/20020816",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-08-16",
+      "text_md": "Notre Ministre de l'Éducation Nationale, de la Formation Professionnelle et des Sports est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "98493aba166206f26b8a9e905dbcea9c52e2e53b429124f1f442e2cc1cd7ef25",
+      "md_span": {
+        "start": 1961,
+        "end": 2123
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

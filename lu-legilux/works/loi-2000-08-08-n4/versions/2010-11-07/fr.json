@@ -1,0 +1,274 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07",
+  "language": "fr",
+  "title": "Version consolidée applicable au 12/08/2022 : Loi du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale.",
+  "valid_from": "2010-11-07",
+  "valid_to": "2021-08-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2000-08-08-n4/versions/2010-11-07/fr.xml",
+    "sha256": "6c022293091193f9a9aaa9fadecc227941b78e134b73f0dec181ea077e95e922",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20101107/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(loi du 27 octobre 2010)* «La présente loi est applicable aux demandes d’entraide judiciaire en matière pénale, dénommées ci-après «demandes d’entraide», qui tendent à faire opérer au Grand-Duché une saisie d’objets, de documents, de fonds et de biens de toute nature, une communication d’informations ou de documents ordonnée conformément aux articles 66-2 à 66-4 du Code d’instruction criminelle, une perquisition ou tout autre acte d’instruction présentant un degré de contrainte analogue et qui émanent:\n\n- d’autorités judiciaires d’Etats requérants qui ne sont pas liés au Grand-Duché de Luxembourg par un accord international en matière d’entraide judiciaire;\n- d’autorités judiciaires d’Etats requérants qui sont liés au Grand-Duché de Luxembourg par un accord international en matière d’entraide judiciaire, à moins que les dispositions de la présente loi soient contraires à celles de l’accord international;\n- d’une autorité judiciaire internationale reconnue par le Grand-Duché de Luxembourg.»",
+      "text_sha256": "a661c2eeeec692c8dbbc0e7447b2a93ea0a226d060578f6423c67db1df3c5f04",
+      "md_span": {
+        "start": 606,
+        "end": 1611
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/10/27/n4/jo",
+          "text": "loi du 27 octobre 2010"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** Sous réserve des dispositions spéciales prévues par des conventions prévoyant la possibilité d’une transmission directe, les demandes d’entraide sont à adresser par les autorités compétentes de l’Etat requérant au procureur général d’Etat luxembourgeois.\n\n**(2)** Elles sont renvoyées après exécution soit par la voie officielle soit par la voie directe.\n\n**(3)** Si l’Etat requérant adresse directement la demande d’entraide aux autorités judiciaires ou au ministre de la Justice luxembourgeois, ceux-ci doivent transmettre ladite demande dans les meilleurs délais au procureur général d’Etat.\n\n**(4)** Après avoir examiné la demande d’entraide sous les aspects de sa compétence, le procureur général d’Etat la transmet aux autorités judiciaires pour exécution s’il estime qu’aucune raison ne s’y oppose.\n\n**(5)** Toutefois, si l’affaire à la base de la demande d’entraide paraît grave et s’il y a urgence consistant en particulier en un risque de dépérissement de preuve, l’autorité judiciaire compétente saisie peut procéder aux devoirs d’instruction sollicités.",
+      "text_sha256": "8ca27018aae3020ae8f036a9f8a5fb616c9faf984cbacade1886a672f4a3e6f6",
+      "md_span": {
+        "start": 1646,
+        "end": 2719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’entraide judiciaire peut être refusée par le procureur général d’Etat dans les cas suivants:\n\n- si la demande d’entraide est de nature à porter atteinte à la souveraineté, à la sécurité, à l’ordre public ou à d’autres intérêts essentiels du Grand-Duché de Luxembourg;\n- si la demande d’entraide a trait à des infractions susceptibles d’être qualifiées par la loi luxembourgeoise soit d’infractions politiques, soit d’infractions connexes à des infractions politiques.\n\n*(loi du 27 octobre 2010)* «Sous réserve des dispositions prévues par des conventions, toute demande d’entraide est refusée si elle a exclusivement trait à des infractions en matière de taxes et d’impôts, de douane ou de change en vertu de la loi luxembourgeoise.»\n\n*(loi du 27 octobre 2010)* «Aucun recours ne peut être introduit contre la décision du procureur général d’Etat.»",
+      "text_sha256": "cd3300a2270b31026079a7f0d349fe8f60182f7fb552448ccbef6a25367eea05",
+      "md_span": {
+        "start": 2754,
+        "end": 3604
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/10/27/n1/jo",
+          "text": "loi du 27 octobre 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2010/10/27/n4/jo",
+          "text": "loi du 27 octobre 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les demandes d’entraide qui ne contiennent pas les indications suivantes sont refusées:\n\n1. l’autorité dont émane la demande,\n2. l’objet et le motif de la demande,\n3. la date et le lieu de la commission des faits, un exposé sommaire des faits et le lien entre ces faits et l’objet de l’acte d’instruction sollicité,\n4. dans la mesure du possible, l’identité et la nationalité de la personne en cause,\n5. le nom et l’adresse du destinataire, s’il y a lieu,\n6. le texte de l’inculpation et des sanctions y attachées,\n7. une traduction en langue française ou allemande de la demande d’entraide et des pièces à produire.\n\nEst également refusée l’exécution d’une demande d’entraide si, sans devoir procéder à un examen du fond, il est prévisible, au regard des exigences énoncées à l’article 4, point c), que les moyens à mettre en œuvre ne sont pas aptes à réaliser l’objectif visé à la demande d’entraide ou vont au-delà de ce qui est nécessaire pour l’atteindre.\n\nAu cas où la demande d’entraide est incomplète ou que les informations communiquées par les autorités de l’Etat requérant se révèlent insuffisantes, un complément d’information peut être demandé.\n\nLes demandes d’entraide qui ne répondent pas aux conditions du présent article sont refusées\n\n- par le procureur général d’Etat, sous réserve des pouvoirs des autres autorités judiciaires, dans l’hypothèse où le Grand-Duché de Luxembourg n’est pas lié à l’Etat requérant par un accord en matière d’entraide judiciaire;\n- par les autorités judiciaires dans l’hypothèse où le Grand-Duché de Luxembourg est lié à l’Etat requérant par un accord en matière d’entraide judiciaire.",
+      "text_sha256": "2a11e53c29829cc0317503a90a4db5e4211a7e17e34be2ae75b227852da7be47",
+      "md_span": {
+        "start": 3639,
+        "end": 5272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La demande d’entraide doit réunir les conditions suivantes:\n\n1. elle doit émaner d’une autorité judiciaire compétente en vertu du droit de l’Etat requérant;\n2. le fait à la base de la demande doit être susceptible d’être qualifié de crime ou de délit, punissable d’une peine privative de liberté d’un maximum d’au moins une année en vertu de la loi luxembourgeoise et de la loi de l’Etat requérant;\n3. la personne visée par la demande ne doit pas avoir été jugée au Grand-Duché de Luxembourg pour le même fait;\n4. la mesure sollicitée doit pouvoir être prise en vertu du droit luxembourgeois par les autorités judiciaires luxembourgeoises à des fins de recherches ou de poursuites comme s’il s’agissait d’une affaire interne analogue;\n5. sous réserve de dispositions contraires prévues dans une norme de droit international, la prescription de l’action publique ne doit pas avoir été acquise, ni d’après la loi luxembourgeoise, ni d’après la loi de l’Etat requérant.\n\nLes actes interruptifs ou suspensifs de prescription accomplis dans l’Etat requérant selon le droit de cet Etat sont pris en compte pour le calcul du délai de prescription de l’action d’après la loi luxembourgeoise.",
+      "text_sha256": "3f9e13b4b04bb8818f2fa3548f9b251a26192a2f741175875d071756d74b58ec",
+      "md_span": {
+        "start": 5307,
+        "end": 6490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’exécution des mesures d’entraide est confiée à l’autorité qui serait compétente si l’infraction avait été commise au Grand-Duché de Luxembourg.",
+      "text_sha256": "cfcc95b3788c32017833b83080da6a247d25b3796382e089fc168348f8d1f8f3",
+      "md_span": {
+        "start": 6525,
+        "end": 6670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les établissements de crédit ainsi que leurs dirigeants et employés ne peuvent pas révéler au client concerné ou à des personnes tierces, sans le consentement exprès préalable de l’autorité ayant ordonné la mesure, que des documents ont été saisis ou que des documents ou informations ont été communiqués en exécution d’une demande d’entraide.\n\nCeux qui ont contrevenu sciemment à cette obligation sont punis d’une amende allant de 1.250 à 1.250.000 euros.»",
+      "text_sha256": "09cafd3698ad4c869e42cd9ebea031057c73bf8ed3681278baac43759b45d86a",
+      "md_span": {
+        "start": 6706,
+        "end": 7163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 8.»",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les affaires d’entraide judiciaire sont traitées comme affaires urgentes et prioritaires. L’autorité requise informe l’autorité requérante de l’état de la procédure et de tout retard.",
+      "text_sha256": "8ff2391faad620ced0aeb05a2a05f4b582b04d88fd2fe3fb3b3a24bc50ad35e9",
+      "md_span": {
+        "start": 7200,
+        "end": 7383
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "* (loi du 27 octobre 2010)*\n\n**«(1)** La chambre du conseil examine d’office la régularité de la procédure. Si elle constate une cause de nullité, elle prononce la nullité de l’acte et des actes ultérieurs qui sont la suite de l’acte nul.\n\n**(2)** Si des objets ou documents ont été saisis ou si des objets, documents ou informations ont été communiqués au juge d’instruction, leur transmission à l’Etat requérant est subordonnée à l’accord de la chambre du conseil.\n\n**(3)** La chambre du conseil est saisie par un réquisitoire du procureur d’Etat en contrôle de régularité de la procédure et en transmission des objets, documents ou informations.\n\n**(4)** A l’exception des personnes auxquelles la mesure ordonnée en exécution de la demande d’entraide n’a pas été révélée en vertu de l’article 7, la personne visée par l’enquête ainsi que tout tiers concerné justifiant d’un intérêt légitime personnel peut déposer un mémoire contenant des observations sur la régularité de la procédure auprès du greffe de la chambre du conseil du tribunal d’arrondissement.\n\nUne demande en restitution peut également être formée dans le mémoire contenant les observations sur la régularité de la procédure.\n\nTout mémoire doit être déposé, sous peine de forclusion, dans un délai de dix jours à partir de la notification de l’acte à la personne auprès de laquelle la mesure ordonnée est exécutée.\n\nTout mémoire déposé par une des personnes visées à l’alinéa 1er du présent paragraphe doit, sous peine d’irrecevabilité, être signé par un avocat à la Cour et contenir une élection de domicile en son étude. Cette élection de domicile produit ses effets aussi longtemps qu’il n’y aura pas eu de nouvelle élection de domicile.\n\n**(5)** Les personnes en droit de déposer un mémoire, leurs dirigeants et employés ne peuvent pas communiquer aux personnes auxquelles la mesure ordonnée en exécution de la demande d’entraide n’a pas été révélée en vertu de l’article 7, le mémoire, l’existence ou la teneur du mémoire, le tout sous peine de l’amende prévue à l’article 7.»",
+      "text_sha256": "e2c846a2418fa8798215ae9e2ca0541463e713dfd20a1ef1e7c771d20626da2b",
+      "md_span": {
+        "start": 7418,
+        "end": 9467
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/2010/10/27/n4/jo",
+          "text": "loi du 27 octobre 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** La chambre du conseil statue, dans un délai de vingt jours de sa saisine, par une même ordonnance sur la régularité de la procédure, la transmission à l’Etat requérant des objets, documents ou informations ainsi que sur les observations et demandes en restitution formulées dans les mémoires présentés sur la base de l’article 9.\n\n**(2)** Elle ordonne la restitution des objets, documents, fonds et biens de toute nature qui ne se rattachent pas directement aux faits à la base de la demande.\n\n**(3)** Une copie de l’ordonnance est communiquée au procureur général d’Etat et notifiée à l’avocat en l’étude duquel domicile a été élu en vertu de l’article 9.\n\n**(4)** L’ordonnance de la chambre du conseil n’est susceptible d’aucun recours.\n\n**(5)** Les personnes qui ont déposé un mémoire, leurs dirigeants et employés ne peuvent pas communiquer aux personnes auxquelles la mesure ordonnée en exécution de la demande d’entraide n’a pas été révélée en vertu de l’article 7, l’ordonnance, l’existence ou la teneur de celle-ci, le tout sous peine de l’amende prévue à l’article 7.»",
+      "text_sha256": "1bfd65f8e1a3b239c222593419d09981b34ebeeacb69acb65befa51c3b403391",
+      "md_span": {
+        "start": 9505,
+        "end": 10590
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** Si des biens autres que ceux visés à l’article 9 ont été saisis en exécution d’une demande d’entraide, le propriétaire ainsi que toute personne ayant des droits sur ces biens, peut en réclamer la restitution jusqu’à la saisine du tribunal correctionnel d’une demande tendant à l’exequatur d’une décision étrangère de confiscation ou de restitution portant sur ces biens.\n\n**(2)** Il dépose à cette fin au greffe de la chambre du conseil du tribunal d’arrondissement compétent une requête signée par un avocat à la Cour et en l’étude duquel domicile est élu, le tout sous peine d’irrecevabilité de la requête. Cette élection de domicile produit ses effets aussi longtemps qu’il n’y aura pas eu de nouvelle élection de domicile. Les convocations ou notifications sont effectuées au domicile élu.\n\n**(3)** Au cas où une requête prévue aux paragraphes (1) et (2) du présent article a été déposée, il est procédé comme suit:\n\n1. Huit jours au moins avant l’audience, le greffier convoque le requérant en son domicile élu et son conseil par lettres recommandées à la poste, accompagnées d’un avis de réception, en leur faisant connaître les jours, heure et lieu de l’audience.\n2. Ce délai n’est pas susceptible d’augmentation en raison de la distance.\n3. La chambre du conseil statue par ordonnance motivée, après avoir entendu, le cas échéant, les conseils et les parties, le conseil des requérants ainsi que le procureur d’Etat en leurs conclusions.\n4. L’ordonnance de la chambre du conseil n’est exécutoire qu’après l’écoulement du délai d’appel.\n5. Le greffier opère la notification de l’ordonnance de la chambre du conseil par pli fermé et recommandé à la poste, accompagné d’un avis de réception au domicile élu.\n\n**(4)** Les ordonnances de la chambre du conseil sont susceptibles d’appel:\n\n- par le procureur général d’Etat et le procureur d’Etat, dans tous les cas;\n- par le requérant, si l’ordonnance préjudicie à ses droits.\n\nL’appel doit être interjeté dans les délais suivants, sous peine de forclusion:\n\n- par le procureur général d’Etat, dans les dix jours à partir de l’ordonnance de la chambre du conseil;\n- par le procureur d’Etat, dans les trois jours à partir de l’ordonnance de la chambre du conseil;\n- par la partie requérante, dans les trois jours à partir de la notification de l’ordonnance de la chambre du conseil.\n\n**(5)** La procédure devant la chambre du conseil du tribunal d’arrondissement est applicable devant la chambre du conseil de la cour d’appel.\n\n**(6)** L’arrêt de la chambre du conseil de la cour d’appel est exécutoire sans autre formalité.\n\n**(7)** Aucun pourvoi en cassation n’est admissible.»",
+      "text_sha256": "aa734cd8971637ad783b8da670e5bd5f7837cca94665ab92540b2565696b4efb",
+      "md_span": {
+        "start": 10628,
+        "end": 13266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 12.»",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Par dérogation à l’article 9 et même en cas de dépôt d’un *(loi du 27 octobre 2010)* «mémoire», le magistrat présidant la chambre du conseil peut, sur réquisition écrite du procureur d’Etat, autoriser la transmission sans délai à l’autorité judiciaire du pays requérant des résultats de l’exécution d’une commission rogatoire internationale s’il existe des indices graves et concordants que le déroulement de la procédure prévue à *(loi du 27 octobre 2010)* «l’article 9» risque de mettre en danger l’intégrité physique ou psychique d’une personne.\n\nCette décision n’est susceptible d’aucun recours.",
+      "text_sha256": "2a3d4ca2b4aed8628c3901913f326a221d3b59736ba5a1a1ea4f816f445e5f24",
+      "md_span": {
+        "start": 13305,
+        "end": 13904
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/2010/10/27/n4/jo",
+          "text": "loi du 27 octobre 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2000-08-08-n4:2010-11-07#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 13.»",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’Etat requérant ne peut utiliser les renseignements obtenus par voie d’entraide ni aux fins d’investigations, ni aux fins de leur production comme moyens de preuve dans une procédure pénale ou administrative autre que celle pour laquelle l’entraide a été accordée.",
+      "text_sha256": "150657ed003ab57935dc0ef76ac8bb5c5a25daed2fb9cdc3d58437c7c86ee94f",
+      "md_span": {
+        "start": 13943,
+        "end": 14208
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,569 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01",
+  "language": "fr",
+  "title": "Loi du 5 février 2021 sur les transports publics.",
+  "valid_from": "2021-03-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2021-02-05-a106/versions/2021-03-01/fr.xml",
+    "sha256": "071603175eca43be67a98e63052f1885d5b20639138595081a975a54ad3cb4c6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/consolide/20210301/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_25/20210301",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1 — Champ d’application et définitions"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Le membre du Gouvernement ayant les Transports dans ses attributions, ci-après « ministre », est l’autorité compétente pour les services de transports publics entrant dans le champ d’application de la présente loi.\n\nIl organise les services de transports publics destinés à couvrir les besoins de déplacement de personnes tant sur le territoire du Grand-Duché de Luxembourg que sur les relations entre le Grand-Duché de Luxembourg et les régions transfrontalières allemande, belge et française.\n\nLes services de transports publics comportent les transports publics de voyageurs effectués par rail et par route au sens de la présente loi, et entrant dans le champ d’application du règlement (CE) n° 1370/2007 du Parlement européen et du Conseil du 23 octobre 2007 relatif aux services publics de transport de voyageurs par chemin de fer et par route, et abrogeant les règlements (CEE) n° 1191/69 et (CEE) n° 1107/70 du Conseil, tel que modifié.\n\nSans préjudice des conventions que peut conclure le ministre en application de l’article 13 avec les autorités des communes et des syndicats de communes concernés, les services de transports publics confinés au territoire d’une même commune ou d’un même syndicat de communes ayant comme objet principal l’activité de transport public sont exclus du champ d’application de la présente loi.",
+      "text_sha256": "b816410b52ef6829c12de6853a2b4ae753f69cadbd11a37d95a06709af9ec2c3",
+      "md_span": {
+        "start": 581,
+        "end": 1914
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2007/1370/jo",
+          "text": "règlement (CE) n° 1370/2007"
+        },
+        {
+          "href": "/eli/reg_ue/1969/1191/jo",
+          "text": "règlements (CEE) n° 1191/69"
+        },
+        {
+          "href": "/eli/reg_ue/1970/1107/jo",
+          "text": "(CEE) n° 1107/70"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_2/20210301",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1 — Champ d’application et définitions"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Font partie des services de transports publics par rail :\n\n1. les transports intérieurs assurés au moyen de trains et de tramways, assurant les services réguliers sur les relations confinées au territoire national ;\n2. er\n\nSont également considérés comme services de transports publics les services prestés au moyen de trains internationaux, selon des conditions à convenir entre le ministre et les transporteurs et autorités organisatrices concernés sur base du règlement (CE) n° 1370/2007 précité.",
+      "text_sha256": "eabf49d4949f8336300c5992d790f0fa95f6e0f746eaedd397986bf8206fe2b6",
+      "md_span": {
+        "start": 1949,
+        "end": 2448
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2007/1370/jo",
+          "text": "règlement (CE) n° 1370/2007"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_3/20210301",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1 — Champ d’application et définitions"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Les services de transports publics par route sont effectués au moyen d’autobus, d’autocars et de voitures automobiles à personnes pour les cas visés à l’article 4, points 3° et 4°, à condition que ces transports desservent des relations confinées au territoire national ou des relations qui ont leur origine ou leur destination au Grand-Duché de Luxembourg et qui se situent à l’intérieur de la région transfrontalière, délimitée conformément à l’article 1er.",
+      "text_sha256": "6f8ce2ef4a6b8c95c357e6494a71fa3df083450f9ed23b0415b1a7d7ca7ce861",
+      "md_span": {
+        "start": 2483,
+        "end": 2942
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_4/20210301",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1 — Champ d’application et définitions"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Les services de transports publics par route sont définis comme suit :\n\n1. les services réguliers : services qui assurent le transport de voyageurs selon une fréquence et sur un trajet déterminé, les voyageurs pouvant être pris en charge et déposés à des arrêts préalablement fixés ;\n2. les services réguliers spécialisés : services réguliers visés au point 1° qui sont réservés à des catégories déterminées de voyageurs, à l’exclusion d’autres voyageurs ;\n3. les services à la demande : services qui sont offerts et exécutés sur un trajet déterminé en fonction de la demande des voyageurs ;\n4. les services spécifiques : services de transports complémentaires à chacun des services visés aux points 1° à 3°, effectués moyennant des véhicules spécifiquement équipés, lorsque les services visés aux points 1° à 3° ne sont pas accessibles à une personne affectée d’un handicap social, mental ou physique ou d’une affection médicale permanente.\n\nLes activités de transport suivantes ne sont pas considérées comme services de transports publics :\n\n1. loi modifiée du 5 juillet 2016\n2. les services de location de voitures avec chauffeur ;\n3. les transports de tourisme d’agrément ;\n4. règlement (CE) n° 1073/2009 n° 561/2006",
+      "text_sha256": "dceed46a5608a6011314b9798d1dada843d9898d035fa126a2f66556a978f8b8",
+      "md_span": {
+        "start": 2977,
+        "end": 4197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_5/20210301",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des transports publics"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Il est créé une administration des transports publics, appelée ci-après « administration », qui est placée sous l’autorité du ministre.\n\nL’administration succède à tous les droits et obligations à la Communauté des transports.\n\nL’administration est chargée, dans les limites fixées par les lois et règlements et aux conditions économiques les plus avantageuses pour la collectivité et qui répondent aux besoins des usagers, d’assurer la planification opérationnelle et l’organisation des services de transports publics par route.",
+      "text_sha256": "64d8c3ec7fe9de52e28ff6d2ebc1fd240833ed536c42776b3bcb62fdab810a03",
+      "md_span": {
+        "start": 4287,
+        "end": 4816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_6/20210301",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des transports publics"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "L’administration :\n\n1. optimise et gère en collaboration et avec le concours des autorités organisatrices compétentes en Allemagne, en Belgique et en France, les services de transports publics par route sur les relations transfrontalières ;\n2. participe à l’élaboration de la réglementation luxembourgeoise dans son domaine de compétence et en assure l’application ;\n3. assure la coordination entre les différents opérateurs de transports publics nationaux et transfrontaliers ;\n4. assure, auprès du public ainsi que des acteurs publics et privés l’information et le conseil en matière de l’offre de mobilité, ainsi que l’information multimodale et intégrée sur les modes de transports publics et de mobilité active, à l’aide des moyens de communication et des technologies appropriés ;\n5. gère les réclamations qui sont portées à sa connaissance ;\n6. élabore les propositions en matière tarifaire et exécute les décisions y afférentes du ministre ;\n7. effectue pour le ministre des missions de collecte des données des transports publics par route et d’autres données nécessaires à l’accomplissement de sa mission ;\n8. assure la gestion organisationnelle, administrative, technique, financière et comptable ainsi que le contrôle des services de transports publics réguliers, réguliers spécialisés et des services à la demande tels que définis à l’article 4, et assurés par les exploitants suivant un contrat de services publics ;\n9. effectue les tâches administratives et procédurales résultant des dispositions de l’Union européenne en matière de transports de voyageurs par route ;\n10. er",
+      "text_sha256": "462e1bd0b245755633dda9db26936dec4bc60bbabaa4f40b3b8df08f446aa413",
+      "md_span": {
+        "start": 4851,
+        "end": 6442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_7/20210301",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des transports publics"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "L’administration est dirigée par un directeur qui en est le chef d’administration. Le directeur dirige, coordonne et surveille les activités qui relèvent de la compétence de l’administration et représente l’administration dans ses relations avec les autorités et le public.\n\nLe directeur est assisté de deux directeurs adjoints auxquels il peut déléguer certaines de ses attributions et qui le remplacent en cas d’absence.",
+      "text_sha256": "d55744087ac04d3ddc9215996aae8e6440e376616a46ccd04ae9a7e3a11667b3",
+      "md_span": {
+        "start": 6477,
+        "end": 6899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_8/20210301",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des transports publics"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Le cadre du personnel de l’administration comprend un directeur, deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.\n\nCe cadre peut être complété par des fonctionnaires stagiaires, des employés et salariés de l’État suivant les besoins du service et dans les limites des crédits budgétaires.",
+      "text_sha256": "ceda5af38d8134a3d7f46a9ed2bea9917bf23d6a50bfde96a4614272494264ab",
+      "md_span": {
+        "start": 6934,
+        "end": 7423
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_9/20210301",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des transports publics"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Le directeur et les directeurs adjoints sont nommés par le Grand-Duc, sur proposition du Gouvernement en conseil.\n\nLe directeur doit remplir les conditions de diplôme pour l’accès aux fonctions du sous-groupe administratif du groupe de traitement A1.",
+      "text_sha256": "eebe56ba4a65b406b7c69aeefc5511c8151cfcb0d027804e23f24b35d95e28b1",
+      "md_span": {
+        "start": 7458,
+        "end": 7708
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_10/20210301",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Exploitation des services de transports publics"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "**(1)** L’exploitation des services de transports publics par rail ne peut être confiée qu’à des entreprises ferroviaires, titulaires de la licence et du certificat de sécurité prévus par la loi précitée du 6 juin 2019 relative à la gestion, à l’accès, à l’utilisation de l’infrastructure ferroviaire et à la régulation du marché ferroviaire.\n\n**(2)** Sans préjudice de l’action pénale, une entreprise ferroviaire qui contrevient de façon grave ou répétée aux dispositions de la présente loi peut faire l’objet du retrait de son certificat de sécurité et, dans la mesure où elle est établie au Luxembourg, de sa licence. Dans les mêmes conditions, la délivrance, l’extension ou le renouvellement du certificat de sécurité ou de la licence peut lui être refusé. La décision de retrait ou de refus de délivrance ou de renouvellement intervient selon les modalités et dans les conditions de la loi précitée du 6 juin 2019.",
+      "text_sha256": "0a65fb9023f11f1328c043d55955d0ba97dbab6096cf507f33f1c41f688e60a1",
+      "md_span": {
+        "start": 7810,
+        "end": 8729
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2019/06/06/a390/jo",
+          "text": "loi précitée du 6 juin 2019"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/jo",
+          "text": "loi précitée du 6 juin 2019"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_11/20210301",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Exploitation des services de transports publics"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "L’exploitation des services de transports publics par route ne peut être confiée qu’à des personnes physiques ou morales, établies dans un État membre de l’Espace économique européen conformément au règlement (CE) n° 1071/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles communes sur les conditions à respecter pour exercer la profession de transporteur par route, et abrogeant la directive 96/26/CE du Conseil, tel que modifié.",
+      "text_sha256": "db1dd67130b68a8031d635d13eb61d1c9cf3c212107791b9c7908aa926c55744",
+      "md_span": {
+        "start": 8766,
+        "end": 9228
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2009/1071/jo",
+          "text": "règlement (CE) n° 1071/2009"
+        },
+        {
+          "href": "/eli/dir_ue/1996/26/jo",
+          "text": "directive 96/26/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_12/20210301",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Les interventions des communes"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Le conseil communal désigne pour la durée de son mandat parmi ses membres un délégué aux transports publics.\n\nLe délégué communal aux transports publics a pour mission d’assurer la communication entre la commune et ses habitants et l’administration pour toute question d’organisation des transports publics et d’information afférente du public concerné.",
+      "text_sha256": "3f83dab1686dc4271675a12ad7929ec207c62a9855b7ac2518677d6a630f8368",
+      "md_span": {
+        "start": 9313,
+        "end": 9666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_13/20210301",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Les interventions des communes"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Lorsque dans l’intérêt d’une optimisation de l’offre de transport ou d’une organisation rationnelle des transports publics des synergies sont possibles entre les services de transports publics dont question à l’article 4, paragraphe 1er et des services qui relèvent des attributions d’une commune ou d’un syndicat de communes, le ministre peut, suite à la constatation du besoin du trafic selon les dispositions de l’article 5, conclure avec la commune ou le syndicat de communes une convention réglant en particulier les modalités d’exécution des prestations de transport en question ainsi que la prise en charge de l’organisation et du coût de celles-ci.",
+      "text_sha256": "20e6258b6cd69ad23f6b752cd021f366cb0d510cfdc1a1026a49f8127be93fac",
+      "md_span": {
+        "start": 9703,
+        "end": 10359
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_14/20210301",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Aménagement de gares et d’arrêts"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "L’aménagement et l’entretien des arrêts et terminus de ligne mis en place dans le cadre des services de transports publics par route, y compris la pose et l’entretien de la signalisation routière requise, sont à charge de la commune territorialement compétente. Si celle-ci reste en défaut pour ce faire, l’État peut y pourvoir aux frais de celle-ci.",
+      "text_sha256": "a398144155533de54548b9d63da05566f0a0fda34b3656996bb253252f8b4189",
+      "md_span": {
+        "start": 10446,
+        "end": 10796
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_15/20210301",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Aménagement de gares et d’arrêts"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Par dérogation aux dispositions de l’article 14, l’État assume les charges d’aménagement et d’entretien des gares de transbordement ainsi que des arrêts créés en vue de la desserte des parkings-relais P+R et des établissements de l’enseignement post-primaire.",
+      "text_sha256": "c14570742d13047a0ff974c8f900c9a04d72653f9981e52b1b7aea061b45b4f5",
+      "md_span": {
+        "start": 10833,
+        "end": 11092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_16/20210301",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Comité des usagers des transports publics"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Un comité des usagers de transports publics sert de plate-forme pour l’information et les échanges de vues utiles sur des questions touchant à l’organisation et au fonctionnement des transports publics.\n\nIndépendamment des attributions prévues à l’alinéa 1er, le ministre peut consulter le comité sur d’autres sujets en relation avec les transports publics.\n\nUn règlement grand-ducal détermine la composition et les modalités de fonctionnement du comité.",
+      "text_sha256": "53123037c700fe38a166025c6c25e6e278076858cedfdfb28c42ec77ed49377c",
+      "md_span": {
+        "start": 11188,
+        "end": 11642
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_17/20210301",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Le Code de la consommation est modifié comme suit :\n\n1. l’article L. 311-5, paragraphe (5) est abrogé ;\n2. l’article L. 311-6, paragraphe (5) est abrogé.",
+      "text_sha256": "954a3b6f06dc687d272acff076d14ab70abbd9f30592c7a8da37b3f0d87963f6",
+      "md_span": {
+        "start": 11739,
+        "end": 11892
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/consommation",
+          "text": "Code de la consommation"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_18/20210301",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "À l’article 7 de la loi modifiée du 28 juin 1984 portant réglementation de la police de la navigation intérieure, des sports nautiques, de la natation, des droits des passagers et du permis d’exploitation des bateaux à passagers, les mots la Communauté des Transports sont remplacés par ceux de « le ministre ayant la Protection des consommateurs dans ses attributions.",
+      "text_sha256": "7747500fbc2d059b55554a9972428d5f6cb6a9941a717835ae1f936fff087a16",
+      "md_span": {
+        "start": 11929,
+        "end": 12298
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1984/06/28/n1/jo",
+          "text": "loi modifiée du 28 juin 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_19/20210301",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Aux articles 1, 2 et 4 de la loi du 10 septembre 2012 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (CE) n° 1371/2007 du Parlement européen et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires, les mots la Communauté des Transports sont remplacés par ceux de le ministre ayant la Protection des consommateurs dans ses attributions.",
+      "text_sha256": "a31c1e52ee50a0305c673bb9bad882fbe785f2974fc9131acdd1687df3621444",
+      "md_span": {
+        "start": 12335,
+        "end": 12755
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2012/09/10/n1/jo",
+          "text": "loi du 10 septembre 2012"
+        },
+        {
+          "href": "/eli/reg_ue/2007/1371/jo",
+          "text": "règlement (CE) n° 1371/2007"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_20/20210301",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "À l’article 1er de la loi du 27 avril 2015 déterminant le régime des sanctions applicables en cas de violation des dispositions du règlement (UE) n° 181/2011 du Parlement européen et du Conseil du 16 février 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le règlement (CE) n° 2006/2004, et modifiant :\n\n1. Code de la consommation\n2. bis loi modifiée du 29 juin 2004 la Communauté des Transports le ministre ayant la Protection des consommateurs dans ses attributions",
+      "text_sha256": "0edf76894b45a8a5ebb3558d77049ecce44134c9393b89ee6386d27c86a26783",
+      "md_span": {
+        "start": 12792,
+        "end": 13306
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/04/27/n1/jo",
+          "text": "loi du 27 avril 2015"
+        },
+        {
+          "href": "/eli/reg_ue/2011/181/jo",
+          "text": "règlement (UE) n° 181/2011"
+        },
+        {
+          "href": "/eli/reg_ue/2004/2006/jo",
+          "text": "règlement (CE) n° 2006/2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_21/20210301",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "La loi du 29 juin 2004 sur les transports publics est abrogée.",
+      "text_sha256": "f97e3bfe9fde28da1b39cd4999977a163310e4dba8c17416e57250e5799d8bcb",
+      "md_span": {
+        "start": 13343,
+        "end": 13405
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/29/n1/jo",
+          "text": "loi du 29 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_22/20210301",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 8 — Dispositions finales"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "Tout le personnel actuellement engagé sous le statut du salarié conformément au Code du travail par la Communauté des Transports est repris par l’État sous le régime de l’employé de l’État et affecté à l’administration des transports publics ou au Ministère de la Mobilité et des travaux publics, département de la mobilité et des transports. Les décisions de classement et l’ancienneté acquises auprès de la Communauté des Transports sont reprises par l’État.",
+      "text_sha256": "6f93012975bbcb2f38289dc1cf41aa524e475e3865f90d4e3a80dcb95485e160",
+      "md_span": {
+        "start": 13480,
+        "end": 13940
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_23/20210301",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 8 — Dispositions finales"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "La référence à la présente loi se fait sous la forme suivante : « loi du 5 février 2021 sur les transports publics ».",
+      "text_sha256": "1a66621c1f33ca57b2a9f71e3e55fc2303190abc1d59dc5c1b65e8a0131342dd",
+      "md_span": {
+        "start": 13977,
+        "end": 14094
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 5 février 2021"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/art_24/20210301",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 8 — Dispositions finales"
+      ],
+      "article_valid_from": "2021-03-01",
+      "text_md": "La présente loi entre en vigueur le premier jour du mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "d30dc53113546c007a8df1b55a697b1395f558924da8cc21fb063ff30315b433",
+      "md_span": {
+        "start": 14131,
+        "end": 14270
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,195 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 26 juin 2002 portant organisation du Conseil Supérieur de l'Education Nationale.",
+  "valid_from": "2013-07-01",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2002-06-26-n4/versions/2013-07-01/fr.xml",
+    "sha256": "5fdaee5122e80d3b61d0e0c033dfa8d6a668fb04a5accbb0de60fb299c10202b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/consolide/20130701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_1er/20020714",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-07-14",
+      "text_md": "Dans le présent règlement, le terme «ministre» désigne le ministre qui a dans ses attributions l'Éducation nationale et le terme «conseil» désigne le Conseil Supérieur de l'Éducation Nationale.",
+      "text_sha256": "279a63f6259f21c140502190401be817bd5d62ac6a5d75ef5d358fef407af1c7",
+      "md_span": {
+        "start": 633,
+        "end": 826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_2/20020714",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-07-14",
+      "text_md": "Le conseil est un organe consultatif habilité à se prononcer, soit à la demande du ministre, soit de sa propre initiative, sur toutes les questions ayant trait à l'éducation nationale et plus particulièrement sur celles qui touchent les grandes orientations du système éducatif.\n\nIl conseille le ministre sur les réformes et innovations jugées importantes tant par le ministre que par le conseil. A cet effet, il participe activement à l'élaboration de concepts d'instruction, d'éducation et de formation initiale et continue.\n\nLe conseil est informé régulièrement sur toutes les mesures que le Gouvernement compte introduire par voie législative et réglementaire dans les domaines de l'éducation nationale.",
+      "text_sha256": "04799310a79e5d5accea4fe7a106c71ef19e988788136f0b0d440b29e3b48824",
+      "md_span": {
+        "start": 861,
+        "end": 1568
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_3/20020714",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-07-14",
+      "text_md": "Le conseil se compose de 36 membres nommés par le ministre pour un terme renouvelable de quatre ans, sur proposition des organismes et associations représentant les partenaires de la vie scolaire. Pour chaque membre effectif il est nommé un membre suppléant. Il remplace le membre effectif au cas où celui-ci serait empêché et, le cas échéant, pour la durée du mandat restant à couvrir, lorsque le membre effectif cesse, pour une raison quelconque, de faire partie du conseil.\n\nChacun des quatre groupes de partenaires de la vie scolaire est représenté au sein du conseil par neuf membres.\n\nLa composition du conseil est arrêtée comme suit :\n\n1. Groupe des parents, des étudiants et des élèves : - deux représentants des parents d’élèves de l’enseignement préscolaire et primaire\n- un représentant des parents d’élèves de l’enseignement secondaire\n- un représentant des parents d’élèves de l’enseignement secondaire technique\n- un représentant des élèves de l’enseignement secondaire\n- un représentant des élèves de l’enseignement secondaire technique\n- deux représentants des associations des étudiants\n- un représentant à désigner par le ministre\n2. Groupe du personnel enseignant - un représentant des enseignants de l’enseignement préscolaire\n- deux représentants des enseignants de l’enseignement primaire\n- un représentant des enseignants de l’éducation différenciée\n- un représentant des enseignants de l’enseignement secondaire\n- deux représentants des enseignants de l’enseignement secondaire technique\n- un représentant du Conseil national de l’Enseignement Supérieur\n- un représentant à désigner par le ministre\n3. Groupe des autorités en rapport avec l’Ecole - un représentant du Collège des Inspecteurs de l’enseignement primaire\n- un délégué du Ministre de l’Intérieur\n- un représentant du Collège des Directeurs de l’enseignement secondaire\n- un représentant du Collège des Directeurs de l’enseignement secondaire technique\n- un représentant de l’enseignement supérieur\n- un représentant de l’enseignement privé\n- un délégué du Ministre de la Santé, compétent en matière de médecine scolaire\n- un représentant des cultes reconnus\n- un représentant des communes à désigner par le Syvicol\n4. Groupe du monde économique, social, associatif et culturel - deux représentants du Conseil Économique et Social\n- deux représentants des chambres professionnelles\n- un représentant du monde associatif culturel proposé par le ministre ayant dans ses attributions la culture\n- un représentant du monde associatif sportif proposé par le ministre ayant dans ses attributions le sport\n- un représentant du monde associatif de la famille ou de la jeunesse proposé par le ministre ayant dans ses attributions la famille et le ministre ayant dans ses attributions la jeunesse\n- un représentant du monde associatif de la promotion féminine proposé par le ministre ayant dans ses attributions la promotion féminine\n- un représentant à désigner par le ministre.",
+      "text_sha256": "1bfc08ff14901ffe85e2cb88d0290aa3ca0cbcbf4155da01671e22d8e5ab3f6f",
+      "md_span": {
+        "start": 1603,
+        "end": 4558
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_4/20020714",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-07-14",
+      "text_md": "Le mandat de membre du conseil est incompatible avec les fonctions de membre du Gouvernement, de membre de la Chambre des Députés et de membre du Conseil d'État.\n\nAu conseil nul ne peut représenter plus d'un groupe de partenaires.\n\nLe membre du conseil qui perd la qualité au titre de laquelle il a été nommé ne peut plus faire partie du conseil.",
+      "text_sha256": "ee3722e86de25cb624f89b50fbae0755d2487a591d56247d40404e27fa813d05",
+      "md_span": {
+        "start": 4593,
+        "end": 4939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_5/20040329",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-03-29",
+      "text_md": "Chaque groupe de partenaires propose, parmi ses représentants au conseil, une personne pour faire partie du bureau du conseil qui est composé d’un président et de trois vice-présidents. Le ministre y délègue comme membre supplémentaire un secrétaire général. Les membres du bureau sont nommés par le ministre pour un mandat renouvelable de deux ans.",
+      "text_sha256": "3e9990765efefc025c6f9e35de1c092e190167544cfecb1eda152abb640e0012",
+      "md_span": {
+        "start": 4974,
+        "end": 5323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_6/20020714",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-07-14",
+      "text_md": "Le bureau arrête la date et l'ordre du jour des séances du conseil. Il assure la gestion des affaires courantes du conseil et se prononce sur toutes les questions qui intéressent le fonctionnement et l'activité du conseil.\n\nUn secrétariat administratif assiste le conseil et le bureau dans l'exercice de leurs fonctions. Ce secrétariat comprend un secrétaire administratif et le cas échéant un ou deux secrétaires administratifs adjoints choisis en dehors des membres du conseil et qui n'ont pas voix délibérative.\n\nLes membres du secrétariat administratif sont nommés par le ministre. Ils agissent conformément aux directives du bureau.",
+      "text_sha256": "038d0204186c2b600e9441921a5ab1261d4d8de1f21a50b1b41bab993e291134",
+      "md_span": {
+        "start": 5358,
+        "end": 5995
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_7/20020714",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-07-14",
+      "text_md": "Les modalités de fonctionnement, d'élection, de convocation, de délibération et de vote du conseil sont déterminées par un règlement d'ordre intérieur établi par le conseil et soumis à l'approbation du ministre.",
+      "text_sha256": "4150d79ffe083a0ea283f4924b3ef0010f7561ec1ee7cee20e65d21d46aa7dd0",
+      "md_span": {
+        "start": 6030,
+        "end": 6241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_8/20020714",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-07-14",
+      "text_md": "Le conseil peut instituer des commissions ou groupes de travail chargés soit d'une mission permanente, soit de l'étude d'un problème particulier. Il peut recourir, sur autorisation préalable du ministre, à la consultation d'experts.\n\nLe conseil peut proposer des travaux de recherche sur les problèmes à l'étude et peut, avec l'accord préalable du ministre, déléguer des membres à des activités d'organisations gouvernementales ou non-gouvernementales ayant trait à l'éducation nationale.",
+      "text_sha256": "9f767cecf4a79910d99b52cffe49b82609ba22a57e7bef08479bb6879115b538",
+      "md_span": {
+        "start": 6276,
+        "end": 6764
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_9/20130701",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Le montant des indemnités et jetons de présence revenant aux membres du conseil, aux membres du secrétariat administratif ainsi qu'aux experts est fixé à 18,59 € par séance.",
+      "text_sha256": "523a8746dfdd2cb614a94969f97913b4c56a19a2321c780858dee419b3a2be54",
+      "md_span": {
+        "start": 6799,
+        "end": 6972
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2002-06-26-n4:2013-07-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/art_10/20020714",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-07-14",
+      "text_md": "Notre Ministre de l'Éducation Nationale, de la Formation Professionnelle et des Sports est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "98493aba166206f26b8a9e905dbcea9c52e2e53b429124f1f442e2cc1cd7ef25",
+      "md_span": {
+        "start": 7009,
+        "end": 7171
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

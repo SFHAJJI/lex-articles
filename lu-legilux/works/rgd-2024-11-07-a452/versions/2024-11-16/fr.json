@@ -1,0 +1,64 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2024-11-07-a452:2024-11-16",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 16/11/2024 : Règlement grand-ducal du 7 novembre 2024 portant modification du règlement grand-ducal modifié du 17 septembre 2004 fixant les conditions et modalités de l’octroi d’avances temporaires de fonds pour le paiement de dépenses de l’État.",
+  "valid_from": "2024-11-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2024-11-07-a452/versions/2024-11-16/fr.xml",
+    "sha256": "57bdff62c919bb8230fe9e8448b041440a93abb34d745f52251a7b8753e35727",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/11/07/a452/consolide/20241116/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2024-11-07-a452:2024-11-16#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/11/07/a452/art_1er/20241116",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-11-16",
+      "text_md": "L’article 3 du règlement grand-ducal modifié du 17 septembre 2004 fixant les conditions et modalités de l’octroi d’avances temporaires de fonds pour le paiement de dépenses de l’État est modifié comme suit :\n\n1. er 1. en relation avec les indemnités de chômage complet couvertes par le Fonds pour l’emploi. ».\n2. 1. mensuellement pour les avances sous g). ».",
+      "text_sha256": "3ca790960ee7d7c386583871c3f296f2e953cfdafe052d5faf15bf50b0ca03c1",
+      "md_span": {
+        "start": 758,
+        "end": 1116
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2004/09/17/n1/jo",
+          "text": "règlement grand-ducal modifié du 17 septembre 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2024-11-07-a452:2024-11-16#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/11/07/a452/art_2/20241116",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-11-16",
+      "text_md": "Le ministre ayant les Finances dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "57040763e2ae2dd31e105ba2308cbafe65dd9692ae3b5e9cd5327ae21ad3a3ad",
+      "md_span": {
+        "start": 1151,
+        "end": 1316
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

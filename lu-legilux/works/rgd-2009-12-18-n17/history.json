@@ -1,0 +1,77 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2009-12-18-n17",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2017-07-01",
+        "valid_to": null,
+        "text_sha256": "91865879734a3d2bd2909b9fe17a0d8144dbb43680c6e5368afbd2caf99c9f20",
+        "in_version": "lu-legilux:rgd-2009-12-18-n17:2017-07-01",
+        "article_valid_from": "2017-07-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2017-07-01",
+        "valid_to": null,
+        "text_sha256": "c3b009d0d8970ac7e55c504717c8d89e64e61e9c2193048c9cf5a71c81bf2567",
+        "in_version": "lu-legilux:rgd-2009-12-18-n17:2017-07-01",
+        "article_valid_from": "2017-07-01"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2017-07-01",
+        "valid_to": null,
+        "text_sha256": "a6e97e5f26a407567e013039dfb55a9532d75aa2e740a4b68c3d0173970fcd8f",
+        "in_version": "lu-legilux:rgd-2009-12-18-n17:2017-07-01",
+        "article_valid_from": "2010-02-23",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2017-07-01",
+        "valid_to": null,
+        "text_sha256": "8dd3adfa66a6f86c789b1e46b01a9f906c9556ac08df5adbb05778369d2ccc26",
+        "in_version": "lu-legilux:rgd-2009-12-18-n17:2017-07-01",
+        "article_valid_from": "2010-02-23",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2017-07-01",
+        "valid_to": null,
+        "text_sha256": "7ed3361b2d89232fdabac4b618d5dbd163ccd2cd8fa043afbeac9169ab02c2aa",
+        "in_version": "lu-legilux:rgd-2009-12-18-n17:2017-07-01",
+        "article_valid_from": "2017-07-01"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2017-07-01",
+        "valid_to": null,
+        "text_sha256": "aab4bce26c0f781e7c7bf2ddd62cf5174a2832e62624ac15325497fe43daa0ff",
+        "in_version": "lu-legilux:rgd-2009-12-18-n17:2017-07-01",
+        "article_valid_from": "2010-02-23",
+        "validity_conflict": true
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2017-07-01",
+        "valid_to": null,
+        "text_sha256": "a8e1a93d4940a55c911e7417abafbd0afb2aea1a7343b6146ff9850d5bd90096",
+        "in_version": "lu-legilux:rgd-2009-12-18-n17:2017-07-01",
+        "article_valid_from": "2010-02-23",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

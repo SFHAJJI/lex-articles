@@ -1,0 +1,948 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26",
+  "language": "fr",
+  "title": "Version consolidée applicable au 26/03/2017 : Règlement grand-ducal modifié du 24 décembre 1993 déterminant en application de l’article 455 du Code de la sécurité sociale la procédure à suivre devant le Conseil arbitral de la sécurité sociale et le Conseil supérieur de la sécurité sociale, ainsi que les délais et frais de justice.",
+  "valid_from": "2017-03-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1993-12-24-n2/versions/2017-03-26/fr.xml",
+    "sha256": "788ca53541008c90b5c54897aae0d9bbea793d5fa94c95a85250dec30bbc0c36",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/consolide/20170326/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_1er/20090221",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Les recours prévus par le Code de la sécurité sociale doivent être formés, sous peine de forclusion, dans un délai de quarante jours à dater de la notification de la décision attaquée, par simple requête sur papier libre à déposer au siège du Conseil arbitral des assurances sociales. La requête est présentée en autant d'exemplaires qu'il y a de parties en cause.\n\nElle indique les noms, prénoms, numéros d’identité, profession et domicile du demandeur, ainsi que la qualité en laquelle il agit, et énonce l’objet de la demande et l’exposé sommaire des moyens. La requête doit être signée par le demandeur ou son représentant légal ou son mandataire qui peut être le représentant de son organisation professionnelle ou syndicale. Il en est de même des autres pièces produites en cours de la procédure. Si la requête est présentée par un mandataire, ce dernier, s’il n’est pas avocat doit justifier d’une procuration spéciale. Cette dernière doit être présentée au plus tard lors du débat oral et avant que celui-ci ne soit entamé.\n\nLe délai est également considéré comme observé lorsque les recours sont produits en temps utile auprès d'une institution de sécurité sociale au sens de l'article 396 du Code de la sécurité sociale. Dans ces cas, les requêtes doivent être transmises immédiatement au Conseil arbitral des assurances sociales.",
+      "text_sha256": "7241465b48ae39696787f56c0ba92ddcd370d8770cb9118f3f1ea6fd19021dd7",
+      "md_span": {
+        "start": 885,
+        "end": 2225
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_2/19940104",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "La date d’entrée des requêtes introductives de recours est inscrite par le greffe sur un registre ad hoc ou sur un support informatique adéquat. Y est inscrit en outre la date des lettres recommandées prévues par le présent règlement.",
+      "text_sha256": "ae4f87f81c7ddb37e674f1e56604625edeba370de6c01338fe3971424cc06a0c",
+      "md_span": {
+        "start": 2260,
+        "end": 2494
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_3/19940104",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Un exemplaire de la requête est transmis à l’institution de sécurité sociale dont émane la décision attaquée, avec sommation d’effectuer dans les quinze jours le dépôt de tous les documents relatifs à l’action intentée qui se trouvent en sa possession ou dont elle entend se servir en cours d’instance.",
+      "text_sha256": "401cc7969ccf6e5f3b82c538a62594136ff8340d2ac2518cf3be1884e108fac5",
+      "md_span": {
+        "start": 2529,
+        "end": 2831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_4/19940104",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Le président instruit l’affaire et peut, avant le débat oral, rassembler les moyens de preuve. Il ordonne toute mesure d’instruction qu’il juge utile et il peut notamment par ordonnance commettre toute personne de son choix pour l’éclairer par des constatations, par une consultation ou par une expertise sur une question de fait qui requiert l’avis d’un expert.",
+      "text_sha256": "c9c7cf0dd5962c7bcd75ae49da4cb782af457c4d8e89decfeec90f3f82e67cc5",
+      "md_span": {
+        "start": 2866,
+        "end": 3228
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_5/20090221",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Les assurés ou leurs mandataires peuvent prendre connaissance des dossiers au secrétariat du Conseil arbitral des assurances sociales. Sur demande ils obtiennent communication des pièces relatives au litige, le cas échéant, contre remboursement.\n\nLe président décide dans quelle mesure les intéressés ou leurs représentants peuvent consulter les rapports médicaux.",
+      "text_sha256": "2b10fe8277562c3d8d8dde2cb738286490bb90c16ccaf146caea1cd9c53e3903",
+      "md_span": {
+        "start": 3263,
+        "end": 3627
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_6/19940104",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Le conseil arbitral peut choisir un ou plusieurs médecins qu’il s’adjoint comme experts lors des débats oraux.",
+      "text_sha256": "6b8905054032775d59d5a6c5b2dabe84f74cf3f6635eafd93df2355bef59cae3",
+      "md_span": {
+        "start": 3662,
+        "end": 3772
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_7/20090221",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Le jour et l’heure du débat oral ainsi que le lieu de réunion sont notifiés aux assesseurs et aux parties par lettre recommandée. Un délai de huit jours au moins entre la réception de la convocation et le jour indiqué pour la comparution est à respecter.",
+      "text_sha256": "0717c793059a1fdd7d8b7ecf153fb2bc1d5356b2016e362aff2ffb9eb7fde187",
+      "md_span": {
+        "start": 3807,
+        "end": 4061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_8/19940104",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Même dans le cas où les parties ne comparaîtraient ni en personne, ni par mandataire, le conseil arbitral peut statuer sur le recours.\n\nL’affaire peut être remise à une séance ultérieure, lorsque les parties ou l’une d’elles font connaître au conseil arbitral l’impossibilité de se présenter à la date indiquée; une nouvelle convocation est envoyée dans les formes ci-dessus déterminées.",
+      "text_sha256": "dd66b32282c497c00be795cb4a241336ae9742b645ef64eb5ced89c2d1d45379",
+      "md_span": {
+        "start": 4096,
+        "end": 4483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_9/19940104",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Les décisions par défaut peuvent être attaquées par la voie de l’opposition. L’opposition doit être formée par requête conforme aux dispositions de l’article 1er du présent règlement, dans les quinze jours de la notification de la décision attaquée.",
+      "text_sha256": "d0bfb419f6f4e90fa90612fb331028258b986db495ba899f083e9bd4b981507a",
+      "md_span": {
+        "start": 4518,
+        "end": 4767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_10/19940104",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Le président peut, pour le débat oral, citer des témoins et des experts et prendre toutes autres mesures, en particulier ordonner la comparution personnelle du demandeur.\n\nLes témoins et les experts sont cités par lettre recommandée ou remise contre récépissé. L’avis de réception de la poste est versé au dossier.",
+      "text_sha256": "cbcbaf18fa7174f5d40da2dd7eb897688ab9d9fa85a50c0885f638c6ba982968",
+      "md_span": {
+        "start": 4804,
+        "end": 5118
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_11/19940104",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Ne peut, dans une affaire, faire partie du conseil arbitral celui qui est partie dans l’affaire, qui est ou a été le conjoint d’une partie, qui est parent ou allié d’une partie jusqu’au troisième degré inclusivement ou qui a pris part à la décision litigieuse.\n\nL’inobservation des dispositions qui précèdent ne constitue une cause de nullité que si elle a été préalablement invoquée.",
+      "text_sha256": "fd7be55185b2f9993294abf0962c9a3c1d1a17691b842eb762eb2c8a83eceff3",
+      "md_span": {
+        "start": 5155,
+        "end": 5539
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_12/20090221",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Dans les cas énoncés à l’article qui précède, les membres du conseil arbitral peuvent être récusés. Ils peuvent être récusés également pour cause de suspicion légitime. La récusation pour cause de suspicion légitime est recevable s’il existe des faits qui peuvent justifier la mise en doute de l’impartialité d’un membre. La partie intéressée doit faire valoir le motif de la récusation avant d’entamer le débat devant le conseil arbitral.\n\nLa partie qui veut récuser un membre du conseil arbitral est tenue de former la récusation et d’en exposer les motifs par un acte qu’elle dépose au greffe du conseil arbitral, qui la communique immédiatement au membre du conseil arbitral concerné.\n\nLe membre du conseil arbitral est tenu de donner en bas de cet acte, dans le délai de deux jours sa déclaration par écrit, portant, ou son acquiescement à la récusation, ou son refus de s’abstenir, avec ses réponses aux moyens de récusation.\n\nDans les trois jours de la réponse du membre du conseil arbitral qui refuse de s’abstenir, ou faute par lui de répondre, expédition de l’acte de récusation et de la déclaration du membre du conseil arbitral, s’il y en a, est envoyée par le greffe, sur réquisition de la partie la plus diligente au Conseil supérieur des assurances sociales. La récusation est jugée en dernier ressort dans la huitaine, sans qu’il soit besoin d’appeler les parties.",
+      "text_sha256": "7944da1d06cc30bb907dccc7ba8e09b885f4ecad7db3578b4cf79940aa6ac163",
+      "md_span": {
+        "start": 5576,
+        "end": 6956
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_13/19940104",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Les débats sont publics à moins que le conseil arbitral décide par jugement de siéger à huis clos. Ils sont ouverts par un exposé de l’affaire donné par le président.\n\nEnsuite les parties ou leurs mandataires sont entendus dans leurs observations.\n\nLe président peut faire expulser de la salle d’audience toute personne qui proférerait des injures soit à son adresse, soit à celle d’un des assesseurs ou d’un témoin.",
+      "text_sha256": "e88a137f5ac686b963d1764d49db752ed0ea4d0464e613422c4b2747883ecaa2",
+      "md_span": {
+        "start": 6993,
+        "end": 7409
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_14/19940104",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Après la clôture des débats, prononcée par le président, le conseil arbitral délibère. Les délibérations ne sont pas publiques.\n\nLe président recueille les opinions individuellement en commençant par l’assesseur le plus jeune. Le président opine le dernier. S’il se forme plus de deux opinions, celle du président prévaut.",
+      "text_sha256": "aba96004c688a75fe3a9b8862f71f899769a452172ab2a7b422c291e22f701c6",
+      "md_span": {
+        "start": 7446,
+        "end": 7768
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_15/19940104",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Le président prononce la décision sur le champ. Il peut toutefois remettre le prononcé à une audience ultérieure dont il fixe les jour et heure.",
+      "text_sha256": "2600b91c0c6b820c2dc91ff1a49218cecee590183d835a48dd9bbc25f7cf73d6",
+      "md_span": {
+        "start": 7805,
+        "end": 7949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_16/19940104",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Les notes au plumitif sont signées par le greffier. Elles mentionnent le lieu et la date de l’audience, les noms et profession du président, des assesseurs et du greffier, avec indication de la qualité en laquelle ils agissent, l’objet du recours, les noms des parties, et le cas échéant de leurs mandataires.",
+      "text_sha256": "6495e0bbea1745664c5454af936d642fed4bc79b9f66b8800fd11bf2e397c371",
+      "md_span": {
+        "start": 7986,
+        "end": 8295
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_17/19940104",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Les notes au plumitif doivent mentionner :\n\n1. les déclarations des parties ayant pour objet le retrait du recours, les déclarations de désistement et les déclarations ou arrangements ayant pour but de mettre fin au litige;\n2. les demandes et déclarations qui diffèrent de celles faites antérieurement par les intéressés;\n3. l’avis émis par le médecin-expert du conseil arbitral;\n4. le dispositif de la décision et son prononcé.\n\nUn extrait du plumitif est délivré en copie à la partie au litige qui en fait la demande.",
+      "text_sha256": "19ee9c1748897c40c6c41044ac1715883c3d5def82612c5ce272bfcaa7278839",
+      "md_span": {
+        "start": 8332,
+        "end": 8851
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_18/19940104",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Une copie sur papier libre de la décision est notifiée dans les quinze jours du prononcé, aux parties intéressées par lettre recommandée ou remise contre récipissé.",
+      "text_sha256": "f285ff730c2f3a68b4167bb65b5d140bcda90b005b79d08e6407c25b8d264c52",
+      "md_span": {
+        "start": 8888,
+        "end": 9052
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_19/20090221",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Si le domicile actuel d’une partie est inconnu, il est procédé conformément aux dispositions de l'article 458, alinéas 4 et 5 du Code de la sécurité sociale.",
+      "text_sha256": "2af6de250a906252d3c61380e8f8247539889c485607db7d70413ded261e49f9",
+      "md_span": {
+        "start": 9089,
+        "end": 9246
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_20/19940104",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Procédure devant le Conseil arbitral des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Pour autant que le présent titre ne prévoit pas de disposition spécifique, les règles de procédure civile devant les justices de paix sont applicables.",
+      "text_sha256": "edec566f10fdea084088f817d16937a8ee3afd39361dd5899b5153b7d3a23906",
+      "md_span": {
+        "start": 9283,
+        "end": 9434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_21/20090221",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "L’appel doit être interjeté, sous peine de forclusion, dans les quarante jours de la date de la notification de la décision du conseil arbitral par simple requête sur papier libre à déposer au siège du Conseil supérieur des assurances sociales. La requête est présentée en autant d’exemplaires qu’il y a de parties en cause. Elle doit indiquer sommairement les moyens sur lesquels se fonde l’appel.\n\nLes alinéas 2 et 3 de l’article 1 du présent règlement sont applicables en matière d’appel devant le Conseil supérieur des assurances sociales.",
+      "text_sha256": "13b4ca74fd6b0575b993ab33981cd8fe4b695e58f27d60b129aca9e062e21eae",
+      "md_span": {
+        "start": 9549,
+        "end": 10092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_22/19940104",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "L’article 2 du présent règlement s’applique au conseil supérieur. Sur ce registre est inscrite en outre la date des lettres recommandées prévues par le présent règlement.",
+      "text_sha256": "356218a217ff664428ad6a4b12bab5e17f8757486fed0b6355f1a0f9dd5dc93c",
+      "md_span": {
+        "start": 10129,
+        "end": 10299
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_23/20090221",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Un exemplaire de la requête est transmis à la partie défenderesse en appel. Le Conseil arbitral des assurances sociales est immédiatement informé de l’introduction de l’appel.",
+      "text_sha256": "974879741e4da87e2dcd89db2255f948125f26afdc7cb5cecbf7d575bc742c96",
+      "md_span": {
+        "start": 10336,
+        "end": 10511
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_24/20090221",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Les articles 4 à 13, 16 et 17, 1°, 2° et 4° du présent règlement sont applicables à la procédure devant le Conseil supérieur des assurances sociales. Toutefois, par dérogation aux articles précités, le président du Conseil supérieur des assurances sociales peut charger un des assesseurs-magistrats qui font partie du conseil supérieur de préparer l’instruction de l’affaire et de faire rapport. Le rapport est fait lors du débat oral.",
+      "text_sha256": "add0980ae8cf1beff1c24f3bae177ee3adb0305a6ee1116d5fac2441f0327f9a",
+      "md_span": {
+        "start": 10548,
+        "end": 10983
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_25/19940104",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Après la clôture des débats, prononcée par le président, le conseil supérieur délibère. Les délibérations ne sont pas publiques.\n\nLe président recueille les opinions individuellement en commençant par l’assesseur le plus jeune.\n\nLe président opine le dernier.\n\nLa décision est prise à la majorité des voix.\n\nS’il se forme plus de deux opinions sans qu’il y ait majorité absolue, les membres du conseil sont tenus de se réunir à l’une des deux émises par le plus grand nombre de votants.\n\nS’il y a partage des voix, celle du président prévaut.",
+      "text_sha256": "de6ff5cbb70ea0600d2ff99fd6334c03ba6d9d99c3b911eddb75310f879458d9",
+      "md_span": {
+        "start": 11020,
+        "end": 11562
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_26/20090221",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Le président prononce la décision d’appel sur le champ. Le Conseil supérieur des assurances sociales peut toutefois remettre le prononcé à une audience ultérieure dont il fixe les jour et heure.\n\nLa décision rendue par le Conseil supérieur des assurances sociales est définitive.",
+      "text_sha256": "2350e08cb9563f1f8507071265b7f786782daa50c323ab70867a5ada0230702d",
+      "md_span": {
+        "start": 11599,
+        "end": 11878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_27/20090221",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Une copie sur papier libre de la décision est notifiée dans le mois du prononcé au plus tard aux parties intéressées ainsi qu’au Conseil arbitral des assurances sociales.",
+      "text_sha256": "e090a8228f18e6854e66609ddd83c8d7c7e53e5191e3397e35e39b11137f17f3",
+      "md_span": {
+        "start": 11915,
+        "end": 12085
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_28/20090221",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Si le domicile actuel d’une partie est inconnu, il est procédé conformément aux dispositions de l'article 458, alinéas 4 et 5 du Code de la sécurité sociale.",
+      "text_sha256": "2af6de250a906252d3c61380e8f8247539889c485607db7d70413ded261e49f9",
+      "md_span": {
+        "start": 12122,
+        "end": 12279
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_29/19940104",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Titre II. — Procédure devant le Conseil supérieur des assurances sociales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Pour autant que le présent titre ne prévoit pas de disposition spécifique, les règles de procédure civile devant la Cour d’appel sont applicables.",
+      "text_sha256": "53f74ed06a609530de38e03327841408cdf61c6b39f857420f89e394856771ca",
+      "md_span": {
+        "start": 12316,
+        "end": 12462
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_30/20090221",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Titre III. — Procédure particulière des articles 67 à 70 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Lorsque le Conseil supérieur des assurances sociales est saisi par le ministre ayant dans ses attributions la sécurité sociale par requête conformément à l’article 68 du Code de la sécurité sociale ou par le médiateur conformément à l’article 69 du Code de la sécurité sociale, le président fixe aux parties au litige un délai dans lequel elles peuvent faire valoir leurs moyens et conclusions.\n\nLorsqu’il s’agit de l’adaptation annuelle de la lettre-clé conformément à l’article 67 du Code de la sécurité sociale, les moyens et conclusions des parties doivent être présentées jusqu’au 15 septembre au plus tard.\n\nLes parties sont admises à faire valoir leurs moyens et conclusions tant oralement que par des mémoires écrits.\n\nLes mémoires sont déposés au greffe par leurs auteurs dans autant d’exemplaires qu’il y a de parties et notifiés par les soins du greffe aux autres parties en cause.\n\nLe président peut ordonner toute mesure d’instruction qu’il juge utile et qu’il reçcoit lui-même ou par un membre qu’il délègue à cet effet.\n\nLes parties, les témoins et les experts sont convoqués par les soins du greffe aux jour et heure fixés par le président du conseil supérieur. Les sentences arbitrales du conseil sont notifiées aux parties au litige; communication en est donnée à l’autorité de surveillance.",
+      "text_sha256": "d8d9352ad20c5ca9067cd4a7733677f6e87ced6f4166258a988f7f0791da7731",
+      "md_span": {
+        "start": 12591,
+        "end": 13900
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_31/20090221",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Titre IV. — Procédure particulière de l'article 62 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Les litiges au sujet de la représentativité ou du défaut de qualité sont portés par tout groupement professionnel intéressé devant le Conseil supérieur des assurances sociales par simple requête.\n\nIls sont tranchés d’après les règles prévues à l’article 30, alinéas 3 à 6. Les décisions du Conseil supérieur des assurances sociales sont notifiées aux parties du litige.",
+      "text_sha256": "75b8d6ad08576946af682540e771eabc2809d399f57731fe503c4ecf0d0e6286",
+      "md_span": {
+        "start": 14023,
+        "end": 14392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_32/20090221",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Titre V. — Procédure particulière de l'article 72 bis du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Si le conseil arbitral ou le Conseil supérieur des assurances sociales est appelé à statuer conformément à l'article 72 bis, alinéas 4 et 5 du Code de la sécurité sociale, les dispositions prévues au titre Ier et au titre II du présent règlement sont applicables.",
+      "text_sha256": "52d22e315f9b8360c94646ea8093d81db8aefdac61eb8aa547064f11e4d0268a",
+      "md_span": {
+        "start": 14518,
+        "end": 14781
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_33/20090221",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Après la décision de renvoi de la commission de surveillance devant le Conseil arbitral des assurances sociales, le greffe du conseil arbitral convoque par lettre recommandée le prestataire de soins en cause et la partie qui a soumis l'affaire à la commission de surveillance, à comparaître à jour et heure fixes.\n\nLa comparution ne peut être ordonnée avant la huitaine suivant la notification au prestataire de soins en cause.",
+      "text_sha256": "d8e24186a1ec55b1d207ceaf35155769dc7d84953487be5f61ac167a71bdc654",
+      "md_span": {
+        "start": 14904,
+        "end": 15331
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_34/19940104",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Les parties au litige comparaissent personnellement ou par avocat.",
+      "text_sha256": "8a6e33f6a5d518a19ae374a097a83fed7071c9d4800c3676c6c1263c6004bfae",
+      "md_span": {
+        "start": 15368,
+        "end": 15434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_35/19940104",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Si le prestataire en cause ne comparaît pas au jour et à l'heure fixés dans la convocation, il est jugé par défaut.\n\nCependant l'affaire peut être remise à une séance ultérieure, lorsque les parties ou l'une d'elles font connaître au conseil arbitral l'impossibilité de se présenter à la date indiquée; une nouvelle convocation est envoyée dans les formes ci-dessus déterminées.",
+      "text_sha256": "5c2fd2c8ee2ab537545c4bcdd1b0b578c55ec91b0491291f57be67f6ed63b35b",
+      "md_span": {
+        "start": 15471,
+        "end": 15849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_36/19940104",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Le prestataire de soins condamné par défaut n'est plus recevable à s'opposer à l'exécution du jugement s'il ne se présente pas à l'audience indiquée par l'article suivant, sauf ce qui est réglé sur l'appel et le recours en cassation.",
+      "text_sha256": "4309bfa311713bacfe2f42d46c4777651660b6aa3667a77b2c23f18b9f09c4f1",
+      "md_span": {
+        "start": 15886,
+        "end": 16119
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_37/19940104",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "La condamnation par défaut est considérée comme non avenue si, dans les quinze jours de la notification qui en a été faite, le prestataire de soins en cause forme opposition au jugement et notifie son opposition tant au conseil arbitral qu'aux autres parties au litige.\n\nEn cas d'opposition, le greffe convoque l'opposant et les parties à une prochaine audience.",
+      "text_sha256": "08d5992a8605f2050f09faf567f83e09da56ddefa410a0216606a9eb1ba4a5f1",
+      "md_span": {
+        "start": 16156,
+        "end": 16518
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_38/19940104",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Le conseil arbitral peut instituer une expertise. Dans le jugement il précise les renseignements qu'il désire obtenir des experts, ainsi que les questions sur lesquelles il appelle leur attention et dont il demande la solution.\n\nLe jugement ordonnant l'expertise est notifié au prestataire en cause.\n\nLe prestataire de soins peut, de son côté, mais sans retarder l'expertise, choisir un expert à ses propres frais qui a le droit d'assister à toutes les opérations, d'adresser toutes réquisitions aux experts désignés par le conseil arbitral et de consigner ses observations à la suite du rapport ou dans un rapport séparé.\n\nLes experts commis par le conseil arbitral l'avisent des jour, lieu et heure de leurs opérations et le conseil arbitral informe, à son tour, l'expert choisi par le prestataire de soins.",
+      "text_sha256": "4e9a9c0b2d8db9a3e0597ad744a4f151ddb33edf028bfb31ff9a57d0b02a5024",
+      "md_span": {
+        "start": 16555,
+        "end": 17364
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_39/19940104",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "L'instruction se fait dans l'ordre suivant.\n\nLe procès-verbal de la commission de surveillance est lu par le greffier. Les témoins, s'il en a été appelé par l'une ou l'autre partie sont entendus s'il y a lieu; les parties prennent leurs conclusions.",
+      "text_sha256": "065f37a57e99b8e216b51630107af2d1f6ffc618c6c76d5154c40a961bd140c0",
+      "md_span": {
+        "start": 17401,
+        "end": 17650
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_40/19940104",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Les audiences sont publiques.\n\nNéanmoins, le conseil arbitral peut, en constatant dans son jugement que la publicité est dangereuse pour l'ordre public ou les mœurs, ordonner par jugement rendu en audience publique que les débats auront lieu à huis clos.\n\nTout jugement est prononcé en audience publique.",
+      "text_sha256": "cac6fda20e942ead75294d469dc9b3447ac9083b0023906330691fb78bd67f5b",
+      "md_span": {
+        "start": 17687,
+        "end": 17991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_41/19940104",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Le conseil arbitral prononce le jugement dans l'audience où l'instruction a été terminée ou lors d'une audience suivante.",
+      "text_sha256": "ff2a8085596828ea6c52c5f7dfc95436c972bdf925cb7ea65ca6d76c6916ec1d",
+      "md_span": {
+        "start": 18028,
+        "end": 18149
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_42/20090221",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "L'appel est porté devant le Conseil supérieur des assurances sociales où l'affaire est instruite dans les formes prévues au présent titre.",
+      "text_sha256": "9d310b5d7ccbb4d3dfb35dccc8f4b777948a648872465b260a59c1cbad533557",
+      "md_span": {
+        "start": 18186,
+        "end": 18324
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_43/19940104",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Procédure particulière de l'article 73 du Code de la sécurité sociale"
+      ],
+      "article_valid_from": "2000-01-01",
+      "text_md": "Pour autant que le présent titre ne prévoie pas de disposition spécifique, les règles de procédure devant les justices de paix, respectivement devant la Cour d'appel sont applicables.",
+      "text_sha256": "c1a6151402a00c5d1581df531b977670cdb49ec0aeb8a09eec51255bb7397317",
+      "md_span": {
+        "start": 18361,
+        "end": 18544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_44/20090221",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Titre VII. — Frais"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "Tous les frais tant du conseil arbitral que du Conseil supérieur des assurances sociales sont à charge de l’Etat.",
+      "text_sha256": "67c25a79ecf2154388da7439c9cad06d81a2d098fd8f28bbece043eee609235f",
+      "md_span": {
+        "start": 18604,
+        "end": 18717
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45_20170326",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_45_20170326",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_45/20170326",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Titre VII. — Frais"
+      ],
+      "article_valid_from": "2017-03-26",
+      "text_md": "Les indemnités revenant aux\n\n- président du conseil supérieur et aux magistrats-assesseurs\n- magistrat remplaçcant le président ou le vice-président du conseil arbitral\n- assesseurs-assurés et assesseurs-employeurs, des prestataires de soins et de l’union des caisses de maladie siégeant auprès du conseil arbitral et du conseil supérieur\n- experts\n- témoins\n\nsont fixées par règlement ministériel.",
+      "text_sha256": "ed0727a14644cf53578c595b0dbf6cfa0e9e389c997fb012e45876c5bab8d18b",
+      "md_span": {
+        "start": 18763,
+        "end": 19161
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_46/20090221",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Titre VIII. — Dispositions finales"
+      ],
+      "article_valid_from": "2009-02-21",
+      "text_md": "L’arrêté grand-ducal du 13 octobre 1945 portant fixation du siège, de la compétence et de l’organisation du conseil arbitral et du Conseil supérieur des assurances sociales et règlement de procédure devant lesdits conseils est abrogé.",
+      "text_sha256": "7cf2de30fc285a88a17667ab4802669e5f0d8a8d2d9b5c577274b631f8cd3c24",
+      "md_span": {
+        "start": 19237,
+        "end": 19471
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1945/10/13/n4/jo",
+          "text": "arrêté grand-ducal du 13 octobre 1945"
+        }
+      ]
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:rgd-1993-12-24-n2:2017-03-26#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/art_47/19940104",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Titre VIII. — Dispositions finales"
+      ],
+      "article_valid_from": "1994-01-04",
+      "text_md": "Notre Secrétaire d’Etat à la Sécurité sociale et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne de l’exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur le 1er janvier 1994.",
+      "text_sha256": "3eb749bdc9683dc205f9f6caadafbb26fc35d9d3eb43cb9fa2c4e522d92a2bba",
+      "md_span": {
+        "start": 19508,
+        "end": 19735
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,1329 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/09/2016 : Loi du 19 juin 2009 portant organisation de l'enseignement supérieur:\\n - fixant les modalités du cycle d'études d'enseignement supérieur aboutissant à la délivrance du brevet de technicien supérieur;\\n - modifiant la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue;\\n - fixant les modalités d'implantation de formations d'enseignement supérieur ou de création de filiales ou d'établissements privés ou publics sur le territoire du Grand-Duché de Luxembourg;\\n - abrogeant la loi du 14 août 1976 déterminant les conditions de création d'établissements privés d'enseignement supérieur.",
+  "valid_from": "2016-09-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2009-06-19-n1/versions/2016-09-15/fr.xml",
+    "sha256": "c457e5c96c5ce1e8af87e500a8b3b9fb717e8cc9f7fa3579500feec110336b32",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/consolide/20160915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_1er/20230915",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "TITRE I. — Objectifs, missions, définitions"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** L'enseignement supérieur universitaire comprend trois cycles qui mènent à trois niveaux de qualification: le grade de bachelor, le grade de master et le grade de docteur.\n\nL'enseignement supérieur de type court comprend un cycle qui mène à un niveau de qualification : le diplôme de brevet de technicien supérieur et le diplôme de brevet de technicien supérieur spécialisé et le diplôme d'études supérieures générales.\n\n**(2)** L'enseignement supérieur luxembourgeois comprend\n\n1. les formations dispensées dans le cadre de la loi du 12 août 2003 portant création de l'Université du Luxembourg,\n2. les formations dispensées dans l'enseignement supérieur de type court,\n3. les formations diplômantes organisées par des établissements d'enseignement supérieur étrangers, publics ou privés, soit sous leur seule responsabilité par le biais de la création d'une filiale au Grand-Duché de Luxembourg, soit en partenariat avec un organisme luxembourgeois.",
+      "text_sha256": "9adf32535779ca203e518d88a36dcff83162cd780edc74f753b2bc9ae36aa95b",
+      "md_span": {
+        "start": 1238,
+        "end": 2195
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/08/12/n17/jo",
+          "text": "loi du 12 août 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_2/20230915",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "TITRE I. — Objectifs, missions, définitions"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Pour l'application de la présente loi on entend par:\n\n- admission: processus consistant à vérifier qu'un étudiant remplit les conditions l'autorisant à entreprendre un cycle d'études particulier. L'admission est entérinée par l'inscription effective aux études.\n- bachelor: grade sanctionnant des études de premier niveau ou universitaire de 180 crédits au moins et de 240 crédits au plus.\n- brevet de technicien supérieur: diplôme qui atteste la réussite d'une formation dispensée dans l'enseignement supérieur de type court.\n- le diplôme d'études supérieures générales: diplôme qui atteste la réussite d'une formation dispensée dans l'enseignement supérieur de type court\n- crédit: unité correspondant au temps consacré, par l'étudiant, au sein d'un programme d'études, à une activité d'apprentissage dans une discipline déterminée. Les crédits sont octroyés à l'étudiant après évaluation favorable des connaissances et compétences acquises.\n- diplôme: document écrit émanant d'un établissement d'enseignement supérieur reconnu, attestant la réussite d'études.\n- docteur: grade de troisième niveau universitaire, obtenu après soutenance d'une thèse.\n- grade: titre correspondant au niveau d'études universitaires et attesté par un diplôme.\n- jury: sans préjudice d'autres législations, pour les dispositions de la présente loi, instance chargée à titre principal de l'évaluation des connaissances et compétences, de leur certification et de l'organisation des épreuves correspondantes.\n- master: grade sanctionnant des études de deuxième niveau valorisables pour au moins 60 crédits à l'issue d'une formation de premier niveau.\n- module: unité thématique indépendante et structurée, pour laquelle le volume en crédits ECTS, les objectifs de formation et les critères d'appréciation sont fixés. Un module est composé d'une ou de plusieurs unités d'apprentissage et/ ou d'enseignement. Un programme d'études, une orientation ou une option hors programme d'études comprend un ou plusieurs modules.\n- mention: appréciation par un jury de la qualité des travaux d'un étudiant.\n- programme de formation: unité définie selon son volume (crédits) et sa structure, dont le déroulement complet aboutit à un grade universitaire (Bachelor, Master) ou un brevet de technicien supérieur et dont les détails, en particulier les conditions d'admission, les conditions à remplir pour l'obtention du grade, ainsi que la dénomination du grade décerné, sont portés à la connaissance des étudiants.\n- validation des acquis de l'expérience: processus d'évaluation et de reconnaissance, des savoirs et des compétences d'un candidat acquis dans sa vie professionnelle et citoyenne en vue d'obtenir un des diplômes repris à l'article 1er de la présente loi.\n- formation en alternance: une formation qui se fait alternativement en milieu professionnel et en milieu scolaire.",
+      "text_sha256": "51c84fd4ab7c541fcd7e2969e82669694defcc1fac0360d2f16a5f074c75c550",
+      "md_span": {
+        "start": 2230,
+        "end": 5080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_3/20230915",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 1. — *Objectif du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Il est organisé un cycle d'études d'enseignement supérieur, à finalité professionnelle, sanctionné par l'obtention du brevet de technicien supérieur.\n\nLe brevet de technicien supérieur atteste que ses titulaires ont acquis une qualification professionnelle, qu'ils sont aptes à occuper les emplois de technicien supérieur dans les domaines et activités de leurs études et qu'ils sont capables de mobiliser leurs connaissances et leurs compétences pour se perfectionner et s'adapter au cours de leur vie professionnelle.\n\nLe brevet de technicien supérieur est un diplôme national; il est délivré au titre d'une spécialité professionnelle et après des études dans un des domaines suivants: les professions industrielles et commerciales, les professions de l'agriculture, les métiers de l'artisanat, les activités de service et de la santé ainsi que celles relevant des arts appliqués.\n\nDes diplômes ou certificats étrangers correspondant au brevet de technicien supérieur peuvent être reconnus équivalents à celui-ci par le ministre, à charge de payer une taxe dont le montant est fixé à 75 euros.\n\nPour les certificats de reconnaissance d'équivalence des titres de formation et des qualifications professionnelles en vue de l'accès à certaines professions réglementées, il est introduit une taxe dont le montant est fixé à 75 euros.\n\nLes mesures de compensation auxquelles le demandeur peut être amené à se soumettre en vertu de l'article 9 de la loi du 19 juin 2009 ayant pour objet la transposition de la directive 2005/36/CE pour ce qui est a. du régime général de reconnaissance des titres de formation et des qualifications professionnelles b. de la prestation temporaire de service, sont soumises au paiement d'une taxe dont le montant est fixé à 300 euros.\n\nTout intéressé peut se voir délivrer un duplicata du certificat d'équivalence à charge de payer une taxe d'un montant de 10 euros.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l'Administration de l'enregistrement et des domaines, comprenant indication de l'identité du requérant ainsi que l'objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.",
+      "text_sha256": "8424e2f1c4a3f51f2a82bf4abbbeab3ed9e3be7bb06eb85324032d3af8fa09da",
+      "md_span": {
+        "start": 5308,
+        "end": 7535
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/06/19/n2/jo",
+          "text": "loi du 19 juin 2009"
+        },
+        {
+          "href": "/eli/dir_ue/2005/36/jo",
+          "text": "directive 2005/36/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_4/20230915",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le brevet de technicien supérieur est préparé, par voie de formation en alternance avec stages en milieu professionnel dans les lycées d'enseignement secondaire et les lycées d'enseignement secondaire technique, publics et privés reconnus par l'Etat, désignés ci-après par le terme «lycée». Le brevet de technicien supérieur peut également être préparé par une institution d'enseignement supérieur privée ou publique accréditée conformément aux dispositions du titre III de la présente loi.\n\nLes spécialités du brevet de technicien supérieur sont créées par arrêté du ministre ayant l'Enseignement supérieur dans ses attributions désigné ci-après par le terme «ministre», après accréditation émise par le comité créé à l'article 19 de la présente loi. Ce même arrêté détermine également le lycée de formation.",
+      "text_sha256": "1a7638a23e25a27be7aae05ecf179def928edd3ce187b1bdc009f7ccb85fd8be",
+      "md_span": {
+        "start": 7622,
+        "end": 8431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_5/20230915",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le cycle d'études préparant au brevet de technicien supérieur comporte un enseignement théorique à caractère professionnel sous forme de cours d'enseignement dirigé et de travaux pratiques ainsi qu'un stage en milieu professionnel sur base d'un contrat-type.\n\nLe programme du cycle d'études est organisé en modules constitués d'un certain nombre de cours et affectés d'un certain nombre de crédits.\n\nLe programme est élaboré par le lycée et les milieux professionnels concernés. Le lycée transmet la proposition de programme au comité d'accréditation visé à l'article 19 ci-dessous.",
+      "text_sha256": "66f6ab6ca040f08cac47325694b9728c4526744c8ae94d563d55947bfe271a47",
+      "md_span": {
+        "start": 8466,
+        "end": 9048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5bis",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_5bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_5bis/20230915",
+      "type": "article",
+      "num": "Art. 5bis.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Pour chaque programme de formation, un coordinateur du programme de la formation, désigné ci-après par «coordinateur», est nommé par le ministre sur proposition du directeur du lycée pour une durée de 24 mois. Sous la responsabilité du directeur du lycée, le coordinateur assure l'organisation du programme de formation ainsi que la fonction de secrétaire du groupe curriculaire visé ci-après. Le coordinateur bénéficie d'une décharge qui est déterminée par règlement grand-ducal.\n\nSur proposition du directeur du lycée, le ministre peut nommer annuellement un groupe curriculaire, qui se compose d'un membre de la direction du lycée, du coordinateur, de titulaires de cours et d'experts du milieu professionnel concerné et qui est chargé de la préparation et de l'établissement du programme de formation. Les missions du groupe curriculaire ainsi que les indemnités des membres du groupe curriculaire sont déterminées par règlement grand-ducal.",
+      "text_sha256": "f87286a114b96fa0053b2ebede52296e5f9fdee3317bae7505587a48944f97e5",
+      "md_span": {
+        "start": 9089,
+        "end": 10034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_6/20230915",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Un tutorat assure le suivi des étudiants pendant toute la durée de leurs études.\n\nLes tuteurs sont désignés par le directeur parmi le corps des enseignants tel que défini à l'article 9. Les tuteurs bénéficient soit d'une décharge, soit d'une indemnité qui sont fixées par règlement grand-ducal.",
+      "text_sha256": "ef44864c03fc7d59af1463ea04c59b1e7184c3339e2bac47ec49cdd15498e006",
+      "md_span": {
+        "start": 10069,
+        "end": 10363
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_7/20230915",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le début de l'année d'études est fixé au 15 septembre et la fin de l'année d'études est fixée au 14 septembre de l'année suivante.\n\nL'année d'études est subdivisée en deux semestres.",
+      "text_sha256": "518430e6203c39515d99027a6654aa0277f6b9556df2ac37f1d6ff05d8716272",
+      "md_span": {
+        "start": 10398,
+        "end": 10580
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_8/20230915",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Des droits d'inscription sont perçus. Le montant maximal des droits d'inscription par semestre est fixé à 71,196 € correspondant au nombre indice 100 du coût de la vie, le montant précis étant fixé par règlement grand-ducal.",
+      "text_sha256": "149835677f5ec1cde01265d18a57a5564f15e17fc5d6e2e79e1a07152929ace3",
+      "md_span": {
+        "start": 10615,
+        "end": 10839
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_9/20230915",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le corps des enseignants est constitué des enseignants nommés au lycée et de spécialistes issus des milieux professionnels visés par le programme de formation. Le corps des enseignants est placé sous la responsabilité hiérarchique du directeur. Les modalités d'intégration des prestations des enseignants dans leur tâche hebdomadaire sont précisées par règlement grand-ducal. Les indemnités pour les prestations horaires des spécialistes issus des milieux professionnels et autres experts appelés à intervenir dans la formation sont fixées par règlement grand-ducal, étant entendu qu'elles ne peuvent dépasser un taux horaire de 18,511 euros correspondant au nombre indice 100 du coût de la vie.",
+      "text_sha256": "12b3937e8421dd695adb597e6ec9b345b4dc2f7465811b2f7fa2fb4996f02363",
+      "md_span": {
+        "start": 10874,
+        "end": 11569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_10/20230915",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 3. — *Admission aux études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Sont admissibles au cycle d'études, les détenteurs d'un diplôme de fin d'études secondaires ou secondaires techniques, ou d'un diplôme étranger reconnu équivalent par le ministre ayant l'éducation nationale dans ses attributions, sans préjudice des dispositions de l'article 35 de la loi du 10 décembre 2008 portant réforme de la formation professionnelle.\n\n**(2)** L'étudiant désireux de poursuivre ses études dans le domaine des professions de santé en vue de l'obtention du brevet de technicien supérieur spécialisé tel que défini à l'article 18bis ci-après, doit être détenteur d'un des diplômes d'infirmier tels que prévus par les articles 31, 32, 33 de la directive 2005/36/CE relative à la reconnaissance des qualifications professionnelles et il doit jouir de l'autorisation d'exercer la profession d'infirmier. L'accès à la formation de sage-femme et à la formation d'assistant technique médical spécialisé de radiologie n'est pas subordonné à cette disposition.\n\n**(3)** Outre les conditions d'études à remplir en vue de l'admission au cycle d'études visé, dans le cas de figure où la formation est organisée en alternance et où la formation pratique est prévue en entreprise, le candidat peut être contraint de présenter, en vue de son admissibilité, un contrat de stage de formation tel que prévu à l'article 24 de la présente loi.",
+      "text_sha256": "202903f557b48a0c5e5509f040a461f1dbbd9dfd444da369e4408e7d22e5fc10",
+      "md_span": {
+        "start": 11648,
+        "end": 12999
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n19/jo",
+          "text": "loi du 10 décembre 2008"
+        },
+        {
+          "href": "/eli/dir_ue/2005/36/jo",
+          "text": "directive 2005/36/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_11/20230915",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 3. — *Admission aux études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Outre les conditions d'études à remplir en vue de l'admission au cycle d'études visé, l'admission des candidats peut être sujette à une vérification de conditions supplémentaires qui sont fonction de la voie de formation choisie et des objectifs de la formation visée. Ces conditions supplémentaires doivent être portées à la connaissance des candidats au moins trois mois avant qu'elles ne fassent l'objet d'un contrôle. Elles font partie de l'accréditation prévue à l'article 19 ci-après.\n\n**(2)** Au cas où le nombre de candidatures dépasse le nombre de places disponibles, il est procédé, soit à un examen concours, soit à un classement des candidats sur base d'un dossier à présenter par le candidat. Les épreuves sur lesquelles porte l'examen concours ainsi que les points attribués à chaque épreuve sont publiés par le lycée un mois avant le déroulement de l'examen concours. Ces dispositions valent également pour la nature et le contenu du dossier à présenter par le candidat. Les candidats sont classés dans l'ordre de leur note finale obtenue aux différentes épreuves de l'examen concours ou résultant de l'appréciation de leur dossier. La note finale résulte de l'addition des notes obtenues dans les différentes épreuves ou parties du dossier pour autant qu'aucune note n'ait été inférieure à la moitié du maximum des points.\n\n**(3)** L'examen concours et l'analyse du dossier prévus au paragraphe (2) du présent article ont lieu devant une commission ad hoc instaurée pour la spécialité concernée et nommée à cet effet par le ministre sur proposition du directeur du lycée et composée d'un président et de trois membres. La commission prend ses décisions à la majorité simple des voix, l'abstention n'étant pas permise. En cas de partage des voix, celle du président est prépondérante. Les indemnités des membres de la commission sont fixées par règlement grand-ducal.\n\nLes décisions de la commission sont sans recours sauf ceux prévus à l'article 2 (1) de la loi du 7 novembre 1996 portant organisation des juridictions de l'ordre administratif.",
+      "text_sha256": "792ed1abc6c05d88b0166dda7f8d8a7df68c1726b81c3f4d902f6b7f42da6fc5",
+      "md_span": {
+        "start": 13036,
+        "end": 15104
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1996/11/07/n1/jo",
+          "text": "loi du 7 novembre 1996"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_12/20230915",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 3. — *Admission aux études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Par dérogation aux dispositions de l'article 10, l'accès est ouvert aux étudiants pouvant se prévaloir d'une expérience et d'acquis professionnels.\n\nPeuvent donner lieu à validation les acquis de l'expérience correspondant à l'exercice, continu ou non, pendant une durée cumulée d'au moins trois ans, d'activités salariées, non salariées ou bénévoles.\n\nCes acquis doivent justifier en tout ou partie des connaissances et des aptitudes exigées pour l'obtention du brevet de technicien supérieur postulé. Peuvent également donner lieu à validation des périodes de formation continue certifiées.\n\nL'accès est subordonné à la présentation d'un dossier et à un entretien.\n\n**(2)** Les candidats titulaires de certains titres ou diplômes ou justifiant de l'obtention de certaines unités ou du bénéfice de certaines épreuves d'un diplôme, peuvent être dispensés de l'obtention d'une ou plusieurs unités constitutives d'un brevet de technicien supérieur. En fonction de la situation professionnelle du candidat, la durée des stages de formation peut être réduite.\n\n**(3)** Une commission *ad hoc* instaurée pour le programme de formation concerné, nommée par le ministre sur proposition du directeur du lycée et composée de ce dernier comme président ainsi que de quatre membres dont deux font partie du corps enseignant du programme visé et dont deux sont issus du milieu professionnel concerné peut valider l'expérience du candidat pour une partie ou totalité des connaissances et compétences exigées pour l'obtention du brevet de technicien supérieur postulé. Elle se prononce sur les connaissances et les compétences qui, dans un délai de deux ans à compter de la notification de sa décision, doivent faire l'objet de l'évaluation complémentaire nécessaire à l'obtention du brevet de technicien supérieur.\n\nLa commission se prononce en outre sur la dispense et la réduction de stage.\n\nLes indemnités des membres de la commission sont fixées par règlement grand-ducal.",
+      "text_sha256": "384f86859942aca90d52d4b1baea36684a8a147eefefc6d764534445307977da",
+      "md_span": {
+        "start": 15141,
+        "end": 17112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_13/20230915",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 3. — *Admission aux études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "L'admission au cycle d'études n'est accordée en règle générale qu'aux étudiants réguliers.\n\nUne admission en tant qu'étudiant libre ne peut être accordée qu'exceptionnellement sur décision du directeur du lycée pour autant que la disponibilité des places d'étude le permette.",
+      "text_sha256": "a09ce3ab8b4519615b6a74e972e7b549a6723b0f7d466ba55afadaa3ba87c793",
+      "md_span": {
+        "start": 17149,
+        "end": 17424
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_14/20230915",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "L'obtention du brevet de technicien supérieur comporte l'acquisition d'au moins 120 crédits ECTS et d'au plus 135 crédits ECTS.\n\nLe directeur du lycée concerné délivre, après consultation du jury, un supplément au diplôme qui atteste du parcours de formation suivi par l'étudiant ainsi que des connaissances et aptitudes qu'il a acquises.",
+      "text_sha256": "9c54e5f84391a1f0c0be4a048ec05ceae70c37be583376b226d183ea5b077cef",
+      "md_span": {
+        "start": 17507,
+        "end": 17845
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_15/20230915",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Les aptitudes, compétences et connaissances acquises dans chaque module sont appréciées, soit par un contrôle continu, soit par un examen final, soit par ces deux modes de contrôle combinés.\n\nLe brevet de technicien supérieur est délivré aux candidats qui ont obtenu une note supérieure ou égale à 10 sur 20 à chacun des modules qui composent le programme de formation.\n\nLes étudiants peuvent, à chaque session, soit conserver et reporter, dans la limite de 18 mois à compter de leur obtention, les notes inférieures à 10 sur 20, soit se soumettre à une nouvelle évaluation.\n\nDans ce dernier cas, c'est la dernière note obtenue qui est prise en compte.\n\nUne note supérieur ou égale à 10 sur 20 est valable cinq ans à compter de sa date d'obtention. Elle peut donner lieu à délivrance, par le directeur de l'établissement concerné, d'une attestation de réussite valable pour cette durée.\n\nUne session d'examen au moins est organisée chaque année scolaire.",
+      "text_sha256": "538d0edaee2b8d5401be407f21ecb9eda7414bcdd5fe01ca2bc9e62fae10e46c",
+      "md_span": {
+        "start": 17882,
+        "end": 18836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15bis",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_15bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_15bis/20230915",
+      "type": "article",
+      "num": "Art. 15bis.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "La présentation et la défense d'un mémoire ou d'un travail de fin d'études peuvent constituer un module obligatoire du programme d'études.\n\nLors de la rédaction du mémoire ou du travail de fin d'études, l'étudiant est encadré par un promoteur qui est désigné par le directeur du lycée.\n\nLe mémoire ou le travail de fin d'études donnent lieu à une présentation devant une commission composée d'au moins deux examinateurs, dont le promoteur, et désignée par le directeur du lycée.\n\nLes dispositions applicables en matière de délais, ainsi que les indemnités du promoteur et des membres de la commission pour le mémoire ou le travail de fin d'études sont fixées par règlement grand-ducal.",
+      "text_sha256": "252ba2822a04a57049d3f81251b5d7d782a487833e85ccf3bf710be5e0b383bd",
+      "md_span": {
+        "start": 18879,
+        "end": 19564
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_16/20230915",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "La délivrance du brevet de technicien supérieur résulte de la délibération du jury.\n\nLe jury est nommé, pour chaque session et pour chaque spécialité par le ministre. Il est présidé par un commissaire de gouvernement et il est composé outre du directeur de l'établissement concerné, d'au moins cinq membres choisis parmi les personnes ayant enseigné effectivement un des cours du programme.\n\nLe jury ainsi constitué pourra s'adjoindre, soit une ou deux personnes qualifiées, soit un ou deux membres de la profession intéressée.\n\nLes indemnités des membres du jury et des experts visés ci-dessus sont fixées par règlement grand-ducal.",
+      "text_sha256": "0a95f39ed23d38c18b88bfe519dd8ec50abf656dac3914eedd70542e8f01d00a",
+      "md_span": {
+        "start": 19601,
+        "end": 20234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16bis",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_16bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_16bis/20230915",
+      "type": "article",
+      "num": "Art. 16bis.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** En matière de fraude ou de tentative de fraude aux examens ou aux épreuves de contrôle continu ou en matière de plagiat, le pouvoir disciplinaire est exercé en première instance par le jury d'examen visé à l'article 16 ci-dessus et en appel par le ministre ayant l'Enseignement supérieur dans ses attributions. L'appel doit être formé dans un délai de 7 jours à compter de la notification de la décision du jury d'examen. Le ministre statue dans un délai de 30 jours.\n\n**(2)** Toute fraude, tentative de fraude ou plagiat dûment constaté entraîne, pour l'intéressé, la nullité de l'épreuve correspondante. L'intéressé est réputé avoir été présent à l'épreuve, laquelle est cotée à zéro point. Le pouvoir disciplinaire décide s'il y a lieu de prononcer, en outre, à l'égard de l'intéressé, la nullité du groupe d'épreuves du module ou de la session d'examen ou l'interdiction de subir tout examen conduisant à l'obtention d'un brevet de technicien supérieur pour une durée maximum de cinq ans.\n\n**(3)** Une peine académique telle que prévue sous (2) ne peut être prononcée que si l'étudiant a été préalablement appelé ou entendu. Les décisions sont motivées. Un règlement grand-ducal détermine la procédure organisant les droits de la défense, garantissant l'impartialité de l'instance de décision et fixant le mode de délibération de celle-ci ainsi que la notification à l'intéressé.\n\n**(4)** Un recours en pleine juridiction est ouvert devant les juridictions administratives à l'encontre de la décision du ministre visée au paragraphe (1).",
+      "text_sha256": "8b1bedf93f4669a0c8de4050c1e2dd6fc1619384395a4e4f4407fd9811e1749c",
+      "md_span": {
+        "start": 20277,
+        "end": 21826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_17/20230915",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le titre de brevet de technicien supérieur renseigne sur la spécialité ainsi que sur la mention attribuée. Le brevet de technicien supérieur est inscrit d'office au registre des brevets de technicien supérieur déposé au Ministère de la Culture, de l'Enseignement supérieur et de la Recherche.\n\nTout intéressé peut se faire délivrer un extrait du ou des registre(s) à charge de payer une taxe d'un montant de 75 euros.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l'Administration de l'enregistrement et des domaines, comprenant indication de l'identité du requérant ainsi que l'objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier. Un règlement grand-ducal précise les modalités de délivrance du brevet de technicien supérieur.",
+      "text_sha256": "46b7672e9935955843d4922363412421ad79af4dfdfff54366476ffcf2b2970b",
+      "md_span": {
+        "start": 21863,
+        "end": 22709
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_18/20230915",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Les étudiants ont l’obligation de suivre régulièrement les cours et travaux pratiques et de se soumettre aux épreuves et de participer à toute autre activité d’ordre pédagogique organisée dans le cadre des horaires et des programmes.",
+      "text_sha256": "2249e0cbafe3d97e545e0bff23216acbebcf84492b285602eecdfbc0b9972a16",
+      "md_span": {
+        "start": 22746,
+        "end": 22979
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18bis",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_18bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_18bis/20230915",
+      "type": "article",
+      "num": "Art. 18bis.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Il peut être délivré un brevet de technicien supérieur spécialisé sanctionnant les formations d'infirmier spécialisé, la formation de la sage-femme, ainsi que la formation de l'assistant technique médical de radiologie. Ces formations sont dispensées selon les dispositions des articles 3 à 18 inclus ci-avant. Par dérogation aux dispositions de l'article 14, les brevets de technicien supérieur menant respectivement à la frofession de sage-femme et à la profession d'assistant technique médical spécialisé de radiologie peuvent comporter l'acquisition de 180 crédits ECTS.",
+      "text_sha256": "03651162509a01ec2bc0b64a1e000d445bd299641d4c87f9caa310a89c1a6a67",
+      "md_span": {
+        "start": 23022,
+        "end": 23596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_19/20230915",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 5. — *Comité d'accréditation pour les formations du brevet de technicien supérieur*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Il est institué, par le ministre ayant l'Enseignement supérieur dans ses attributions, un comité d'accréditation des programmes de formation. Le comité a pour mission de proposer au ministre l'accréditation des programmes.\n\nLe comité d'accréditation\n\n- se prononce sur l'opportunité de chaque programme de formation;\n- examine et accrédite les programmes de formation;\n- examine et accrédite les modalités d'évaluation et de certification;\n- accrédite les intervenants dans la formation;\n- donne son avis au ministre sur la définition des compétences visées dans les différentes spécialisations.\n\nLe comité d'accréditation peut émettre, soit un avis positif, soit un avis négatif, soit un avis formulant des conditions supplémentaires à respecter par le lycée qui envisage d'organiser la formation.\n\nLe ministre arrête, sur avis du comité d'accréditation, et pour chaque formation, le programme d'études, la grille des horaires, ainsi que les modalités d'évaluation et de certification.\n\nL'accréditation proposée par le comité et l'arrêté ministériel autorisant le cycle d'études est valable pour une durée de cinq ans. En cas de non-reconduction d'une accréditation, le lycée est tenu d'organiser le cycle d'études jusqu'à ce que les étudiants inscrits dans ce cycle aient pu obtenir le brevet de technicien supérieur correspondant.",
+      "text_sha256": "8789efe68bd3b6e6052128c6b8334ab338cf4049a6e9833cf1e0e677d7d5f80c",
+      "md_span": {
+        "start": 23731,
+        "end": 25064
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_20/20230915",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 5. — *Comité d'accréditation pour les formations du brevet de technicien supérieur*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le comité d'accréditation est composé à parts égales d'experts en matière d'accréditation et de membres des professions intéressées, employeurs et salariés. Il est composé de huit membres au plus.\n\nLe mandat des membres du comité d'accréditation est de trois ans renouvelables.\n\nLe président du comité d'accréditation est nommé par le ministre. Un règlement ministériel précise les modalités de fonctionnement dudit comité.\n\nLe comité d'accréditation ne peut délibérer valablement que si le quorum des trois quarts des membres présents est atteint.\n\nLes décisions sont prises à la majorité simple des voix, le vote par procuration n'étant pas admis.\n\nLe comité peut constituer des commissions spéciales et s'adjoindre des experts pour l'accréditation de programmes spécifiques.",
+      "text_sha256": "c574c5d2b78a17689c4dc87283d38b5a3fda5d55744a6265a87fdee27ba1f4d7",
+      "md_span": {
+        "start": 25101,
+        "end": 25878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_21/20230915",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 5. — *Comité d'accréditation pour les formations du brevet de technicien supérieur*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le comité d'accréditation doit, au plus tard le 15 novembre de chaque année, soumettre au ministre un rapport de ses activités pour l'année scolaire se terminant le 15 juillet précédent.",
+      "text_sha256": "fe6f6babe61e4ae62a4a462c63da2dc565c555d2331872a8d8e2a1eb01e9b1cb",
+      "md_span": {
+        "start": 25915,
+        "end": 26101
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_22/20230915",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 6. — *Stage de formation en milieu professionnel*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Est visé par les dispositions suivantes tout étudiant préparant un brevet de technicien supérieur pour autant que le programme inclue un stage de formation en milieu professionnel.\n\nPar stage de formation en milieu professionnel il faut entendre un temps de formation obligatoire en milieu professionnel compris dans la scolarité de l'étudiant et lié au cursus d'enseignement correspondant.\n\nPar milieu professionnel, il faut entendre les entreprises à but lucratif ou non lucratif, les associations, le secteur public et les institutions du secteur de la santé, repris ci-après sous le terme d'entreprise formatrice.\n\nLe stage de formation doit permettre la mise en oeuvre des connaissances théoriques dans un cadre professionnel; sa finalité est uniquement pédagogique.",
+      "text_sha256": "f55b87b2e2ac039367f9996268b58acd826262de35cc55e9696f81af72aa0382",
+      "md_span": {
+        "start": 26202,
+        "end": 26973
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_23/20230915",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 6. — *Stage de formation en milieu professionnel*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le statut de la personne à former est celui d'étudiant stagiaire. Ce statut ne lie pas l'étudiant stagiaire à l'entreprise par un contrat de travail. Une indemnité de stage peut être accordée par voie de convention.",
+      "text_sha256": "fefaa68fbb6c167c833a2b965bf7738b69df540c59b1948b8807f21093288bf2",
+      "md_span": {
+        "start": 27010,
+        "end": 27225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_24/20230915",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 6. — *Stage de formation en milieu professionnel*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Le stage de formation en milieu professionnel est régi, soit par un contrat de stage de formation conclu entre le lycée, l'étudiant stagiaire et le représentant de l'entreprise formatrice, soit par une convention de stage de formation conclue entre le lycée et des institutions du secteur concerné par la formation.\n\nLe contrat de stage de formation et la convention de stage de formation doivent être constatés par écrit au plus tard au moment de l'entrée en stage de formation.\n\nLe contrat de stage de formation et la convention de stage de formation mentionnent obligatoirement:\n\n- la dénomination et l'adresse du lycée représenté par son directeur;\n- les nom, prénom, matricule et domicile de l'étudiant stagiaire; s'il est mineur, les nom, prénom et domicile de son représentant légal;\n- la dénomination, le siège ainsi que les noms, prénoms et qualités des personnes qui représentent l'entreprise formatrice au contrat;\n- les objectifs et les modalités du stage de formation, notamment les activités du stagiaire;\n- la date de début du contrat et la durée du contrat;\n- les droits et devoirs des parties contractantes ainsi que les conditions dans lesquelles les responsables du stage, l'un représentant le lycée, l'autre l'entreprise formatrice, assurent l'encadrement de l'étudiant stagiaire;\n- la durée hebdomadaire maximale de présence de l'étudiant stagiaire dans l'entreprise dans le respect des règles relatives à la durée du travail et au repos journalier et hebdomadaire; la présence, le cas échéant, du stagiaire dans l'entreprise la nuit, le dimanche ou un jour férié doit être indiquée;\n- la liste des avantages offerts, le cas échéant par l'entreprise à l'étudiant stagiaire, notamment en ce qui concerne sa restauration ou le remboursement des frais qu'il a engagés dans l'exercice des activités du stage, ainsi que, le cas échéant, le montant d'une indemnité de stage;\n- les conditions de validation du stage pour l'obtention du brevet de technicien supérieur;\n- les modalités de suspension et de résiliation du stage;\n- le contenu du rapport de stage et les modalités d'évaluation du stage.\n\n**(2)** Les modèles de contrat et de convention sont fixés et agréés par le ministre.\n\n**(3)** Le contrat et la convention de stage de formation doivent, sous peine de nullité, être dressés sous seing privé en autant d'exemplaires qu'il y a de parties contractantes.\n\n**(4)** La durée du stage de formation est d'au moins 228 heures.\n\n**(5)** Le stage de formation peut se dérouler entièrement ou partiellement pendant les vacances scolaires. L'étudiant stagiaire doit néanmoins pouvoir bénéficier d'un congé de récréation annuel d'au moins 25 jours.\n\n**(6)** Les dispositions légales et règlementaires relatives à la protection des jeunes travailleurs, à la médecine du travail, à la protection des travailleuses enceintes, accouchées et allaitantes sont applicables au stage de formation.",
+      "text_sha256": "329e825d10032092ac9a4fa685e3223e45e80e9dff4101ef956772e4260cca05",
+      "md_span": {
+        "start": 27262,
+        "end": 30174
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_25/20230915",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 6. — *Stage de formation en milieu professionnel*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Seuls les stages donnant lieu à la signature d'un contrat ou d'une convention sont autorisés.\n\nIl ne peut être conclu de contrat ou de convention de stage pour remplacer un salarié en cas d'absence, de suspension de son contrat de travail ou de licenciement pour exécuter une tâche régulière correspondant à un poste de travail permanent, pour faire face à un accroissement temporaire de l'activité de l'entreprise ou pour occuper un emploi saisonnier.",
+      "text_sha256": "5b210ecf9ffd0725baa97cc82248376c0e57ec816b306da8add561f9ec65652d",
+      "md_span": {
+        "start": 30211,
+        "end": 30663
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26/20230915",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 6. — *Stage de formation en milieu professionnel*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Pendant toute la durée du stage l'étudiant stagiaire bénéficie de la couverture de l'assurance obligatoire contre les accidents, telle que définie par la loi du 1er septembre 1988 relative à la responsabilité civile de l'Etat et des collectivités publiques ainsi que par le règlement grand-ducal du 23 février 2001 concernant l'assurance accident dans l'enseignement précoce, préscolaire, scolaire et universitaire.",
+      "text_sha256": "3a9a65347cc73486fe0032d94d74139b6f256c0d5b9528e5e79b3aac5e3f295c",
+      "md_span": {
+        "start": 30700,
+        "end": 31115
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/09/01/n1/jo",
+          "text": "loi du 1er septembre 1988"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2001/02/23/n15/jo",
+          "text": "règlement grand-ducal du 23 février 2001"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26bis",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26bis/20230915",
+      "type": "article",
+      "num": "Art. 26bis.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 7. — *Sanctions disciplinaires*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "A l'égard des étudiants, il est engagé une procédure disciplinaire pour les infractions suivantes:\n\n1. l'insulte grave, la menace, les voies de fait et les actes de violence commis à l'égard d'un membre de la communauté scolaire;\n2. le port d'armes;\n3. le refus d'observer les mesures de sécurité;\n4. la dégradation ou la destruction de propriétés au détriment soit de l'Etat soit de particuliers;\n5. l'atteinte aux bonnes mœurs;\n6. la consommation d'alcool dans l'enceinte du lycée;\n7. la consommation et le trafic de stupéfiants prohibés;\n8. l'incitation à la haine raciale, à la xénophobie et à l'intolérance religieuse.",
+      "text_sha256": "020dd4acd2d0008802d397f4f6c84db6652dad22e13a59762e810f77e276fdd8",
+      "md_span": {
+        "start": 31204,
+        "end": 31827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26ter",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26ter/20230915",
+      "type": "article",
+      "num": "Art. 26ter.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 7. — *Sanctions disciplinaires*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Les sanctions qui peuvent être prononcées à l'encontre des étudiants sont les suivantes:\n\n1. le blâme;\n2. l'avertissement;\n3. l'exclusion temporaire des cours, séminaires et travaux pratiques. La durée de cette exclusion ne peut excéder huit jours;\n4. l'exclusion temporaire de l'établissement ou de l'un de ses services annexes. La durée de cette exclusion ne peut excéder huit jours;\n5. l'exclusion définitive de l'établissement ou de l'un de ses services annexes. Les sanctions sous 1 et 2 sont des sanctions mineures, les sanctions sous 3, 4, et 5 sont des sanctions majeures.\n\n**(2)** Les sanctions sous 3 à 5 peuvent être assorties d'un sursis total ou partiel.\n\n**(3)** Si l'étudiant poursuivi le propose, ou s'il y marque son accord, les sanctions 3 et 4 du paragraphe 1er ci-dessus peuvent être remplacées par l'obligation d'accomplir des travaux d'intérêt général non rémunérés au profit et de l'accord d'un établissement scolaire, d'une collectivité publique ou d'une institution philanthropique pendant une durée maximum de dix demi-journées. Ces activités sont placées sous la direction d'un professeur.\n\n**(4)** Aucun étudiant ne peut faire l'objet de plusieurs sanctions au sein de l'établissement à raison des mêmes faits.",
+      "text_sha256": "0bceb2c4cabf4afa0ec0159f6aa4ebcb99b13efc80b02ba276b27961a7376440",
+      "md_span": {
+        "start": 31870,
+        "end": 33116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26quater",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26quater",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26quater/20230915",
+      "type": "article",
+      "num": "Art. 26quater.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 7. — *Sanctions disciplinaires*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Aux fins de l'examen disciplinaire de la conduite d'un étudiant, il suffit que ce dernier ait été étudiant au moment de l'infraction présumée.\n\n**(2)** Si avant le début ou à la fin de la procédure ci-après, l'étudiant a obtenu le brevet de technicien supérieur ou de technicien supérieur spécialisé, l'examen disciplinaire ne peut suivre son cours que si l'étudiant se réinscrit à un nouveau programme ou que l'infraction présumée, une fois établie, attaque la validité du diplôme conféré.",
+      "text_sha256": "75a6c664e7164465ebd974692d1fb9dacaac82bfd740bcd47202b365ef9b8375",
+      "md_span": {
+        "start": 33165,
+        "end": 33663
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26quinquies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26quinquies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26quinquies/20230915",
+      "type": "article",
+      "num": "Art. 26quinquies.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 7. — *Sanctions disciplinaires*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Les autorités disciplinaires sont le directeur du lycée et la commission de discipline.\n\n**(2)** Le directeur du lycée engage les actions disciplinaires et intente les poursuites de sa propre initiative ou sur base d'un rapport déposé par le plaignant, qui doit être identifié.\n\n**(3)** Les sanctions mineures sont prononcées par le directeur du lycée. Les sanctions majeures sont prononcées par la com- mission de discipline qui peut aussi décider de ne prononcer qu'une sanction mineure.\n\n**(4)** Préalablement aux sanctions disciplinaires sous 2, 3 et 4 de l'article 26*ter*, l'étudiant est entendu par le directeur du lycée et par la commission de discipline visée sous le paragraphe 1er pour la sanction 5 du même article. L'étudiant peut se faire assister par un défenseur de son choix.\n\n**(5)** Il est dressé un procès-verbal de l'audition, qui reproduit fidèlement les déclarations de la personne entendue. Il en est donné lecture à l'intéressé qui est invité à le signer.\n\nSi l'intéressé ne se présente pas à l'audition, il est dressé un procès-verbal de carence.\n\n**(6)** Qu'elle soit prononcée par le directeur du lycée ou par la commission de discipline, toute sanction doit être notifiée par écrit et comporter une motivation claire et précise, rappelant le fait qui constitue le fondement de la décision.",
+      "text_sha256": "6005f86922b3858c074bfc3a24b0add753a41d9303c4583831709ee4a9993948",
+      "md_span": {
+        "start": 33718,
+        "end": 35044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26sexies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26sexies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26sexies/20230915",
+      "type": "article",
+      "num": "Art. 26sexies.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 7. — *Sanctions disciplinaires*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** La commission de discipline, qui est présidée par le directeur du lycée ou son représentant, comprend cinq personnes choisies parmi le personnel de l'établissement, dont au moins un professeur. Aucun membre du corps des enseignants du programme de formation concerné et aucun parent jusqu'au quatrième degré inclus ne peut siéger à la commission de discipline. Celle-ci peut associer, en tant que de besoin, toute personne susceptible d'apporter des éléments permettant de mieux appréhender la situation de l'étudiant concerné. Le secrétariat de la commission de discipline est assuré par un membre du personnel administratif du lycée désigné par le directeur du lycée.\n\n**(2)** Les membres de la commission de discipline sont désignés par le directeur du lycée.\n\n**(3)** La commission statue en toute indépendance et impartialité.\n\n**(4)** Les indemnités des membres de la commission de discipline sont fixées par règlement grand-ducal.",
+      "text_sha256": "aa481d6c1737b4c3662554628d5e63621b1dbc1b65004e4c609848cb4dbf9f6c",
+      "md_span": {
+        "start": 35093,
+        "end": 36038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26septies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26septies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26septies/20230915",
+      "type": "article",
+      "num": "Art. 26septies.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 7. — *Sanctions disciplinaires*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Les sanctions disciplinaires sont inscrites dans le dossier administratif de l'étudiant.\n\nL'avertissement et le blâme sont effacés du dossier administratif de l'étudiant à l'issue de l'année académique. Les autres sanctions, hormis l'exclusion définitive, sont effacées du dossier administratif de l'étudiant au bout d'un an.\n\nToutefois, un étudiant peut demander l'effacement des sanctions inscrites dans son dossier administratif lorsqu'il change d'établissement.",
+      "text_sha256": "046e569fcb6e2c4fe27fe29f00ca8cdb1ef0603d53337b91cc5ceb5248bc4c7a",
+      "md_span": {
+        "start": 36089,
+        "end": 36554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26octies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26octies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26octies/20230915",
+      "type": "article",
+      "num": "Art. 26octies.",
+      "heading": null,
+      "path": [
+        "TITRE II. — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du brevet de technicien supérieur",
+        "Chapitre 7. — *Sanctions disciplinaires*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Le pouvoir disciplinaire est exercé en appel par le ministre ayant l'Enseignement supérieur dans ses attributions. L'appel doit être formé dans un délai de sept jours à compter de la notification de la décision de la commission de discipline. Le ministre statue dans un délai de trente jours.\n\n**(2)** Un recours en pleine juridiction est ouvert devant les juridictions administratives à l'encontre de la décision du ministre visée au paragraphe 1er pour autant qu'il s'agisse de la sanction majeure énumérée à l'article 26*ter*, paragraphe 1er, point 5.",
+      "text_sha256": "13b0e0606b0d065a9b621e34a0a453836bb5ef40280103fbe9394bd9bfdd601c",
+      "md_span": {
+        "start": 36603,
+        "end": 37165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26novies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26novies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26novies/20230915",
+      "type": "article",
+      "num": "Art. 26novies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 1er. — *Objectif du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Il est organisé un cycle d'études d'enseignement supérieur, sanctionné par l'obtention du diplôme d'études supérieures générales.\n\nLe diplôme d'études supérieures générales est un diplôme national qui atteste que ses titulaires ont acquis un niveau de connaissances qui leur permet d'avoir accès aux concours d'admission des grandes écoles françaises ou de poursuivre des études universitaires.\n\nLe diplôme d'études supérieures générales peut comporter trois filières:\n\n1. la filière économique et commerciale;\n2. la filière scientifique;\n3. la filière littéraire.",
+      "text_sha256": "889a58112b02786156e51ad6801a3d2a2ce61e690869b12e9cf996032fb30763",
+      "md_span": {
+        "start": 37421,
+        "end": 37985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26decies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26decies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26decies/20230915",
+      "type": "article",
+      "num": "Art. 26decies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Le diplôme d'études supérieures générales est préparé, par voie de formation à plein temps dans les lycées d'enseignement secondaire et les lycées d'enseignement secondaire technique, publics et privés reconnus par l'Etat, désignés ci-après par le terme «lycée». Le diplôme d'études supérieures générales est sujet à la procédure d'accréditation telle que définie aux articles 19 à 21 ci-avant. Toutefois, par dérogation aux dispositions de l'article 20, le comité est composé à parts égales d'experts en matière d'accréditation d'une part et de professeurs d'université ou de professeurs enseignant dans une grande école d'autre part.\n\n**(2)** Le diplôme d'études supérieures générales peut également être préparé par une institution d'enseignement supérieur privée ou publique accréditée conformément aux dispositions du titre III.",
+      "text_sha256": "4f951ae28f8dda59b7b454e275852dec56a09ecafd15f37e5609e6b80c9ee51e",
+      "md_span": {
+        "start": 38086,
+        "end": 38927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26undecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26undecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26undecies/20230915",
+      "type": "article",
+      "num": "Art. 26undecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le programme du cycle d'études est organisé en modules semestriels constitués d'un certain nombre de cours et affectés d'un certain nombre de crédits ECTS. Le programme est élaboré par le lycée et les partenaires concernés. Le lycée transmet la proposition de programme au comité d'accréditation visé à l'article 20 tel que modifié ci-dessus.",
+      "text_sha256": "1ce8cf4f266603a4263a6521488247988b676a85655b619c6d534cc96db48d85",
+      "md_span": {
+        "start": 38980,
+        "end": 39322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26duodecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26duodecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26duodecies/20230915",
+      "type": "article",
+      "num": "Art. 26duodecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Un tutorat assure le suivi des étudiants pendant toute la durée de leurs études.\n\nLes tuteurs sont désignés par le directeur parmi le corps des enseignants tel que défini à l'article 26*tredecies*. Les tuteurs bénéficient soit d'une décharge, soit d'une indemnité qui sont fixées par règlement grand-ducal.",
+      "text_sha256": "ae4328406fdfc9e492c0f25da6e7dcbce2d85d0c2d01cbe47c6406b8d61fa567",
+      "md_span": {
+        "start": 39377,
+        "end": 39683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26tredecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26tredecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26tredecies/20230915",
+      "type": "article",
+      "num": "Art. 26tredecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 2. — *Organisation du cycle d'études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le corps des enseignants est constitué des enseignants nommés au lycée et de spécialistes issus du milieu des partenaires visés par le programme de formation. Le corps des enseignants est placé sous la responsabilité hiérarchique du directeur. Les modalités d'intégration des prestations des enseignants dans leur tâche hebdomadaire sont précisées par règlement grand-ducal. Les indemnités pour les prestations horaires des spécialistes issus des milieux professionnels et autres experts appelés à intervenir dans la formation sont fixées par règlement grand-ducal, étant entendu qu'elles ne peuvent dépasser un taux horaire de 18,511 euros correspondant au nombre indice 100 du coût de la vie.",
+      "text_sha256": "603db646d9b5f0f9178ace14be5c50affed837382ba2f6d711a06cd781c6a876",
+      "md_span": {
+        "start": 39738,
+        "end": 40432
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26quattordecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26quattordecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26quattordecies/20230915",
+      "type": "article",
+      "num": "Art. 26quattordecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 3. — *Admission aux études*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Sont admissibles au cycle d'études, les détenteurs d'un diplôme de fin d'études secondaires ou secondaires techniques, ou d'un diplôme étranger reconnu équivalent par le ministre ayant l'Education nationale dans ses attributions, sans préjudice des dispositions de l'article 35 de la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle.\n\n**(2)** Outre les conditions d'études à remplir en vue de l'admission au cycle d'études visé, l'admission des candidats est sujette à la présentation d'un dossier personnel et d'un entretien auprès de la commission visée au paragraphe 3 ci-après. Ces conditions supplémentaires doivent être portées à la connaissance des candidats au moins trois mois avant qu'elles ne fassent l'objet d'un contrôle. Elles font partie de l'accréditation prévue à l'article 19 ci-avant.\n\n**(3)** L'appréciation de la motivation du candidat et l'analyse du dossier prévues au paragraphe 2 du présent article ont lieu devant une commission *ad hoc* nommée à cet effet par le ministre sur proposition du directeur du lycée et composée de ce dernier comme président et de trois membres. La commission prend ses décisions à la majorité simple des voix, l'abstention n'étant pas permise. En cas de partage des voix, celle du président est prépondérante.\n\nLes décisions de la commission sont sans recours sauf celles prévues à l'article 2, paragraphe 1er de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l'ordre administratif.\n\nLes indemnités des membres de la commission sont fixées par règlement grand-ducal.\n\n**(4)** Sur proposition du directeur du lycée, le ministre peut instaurer un numerus clausus, dont le contingent est porté à la connaissance du public au plus tard le 31 mai précédant l'admission au premier semestre d'études.",
+      "text_sha256": "1a6f8e5e112234e54d863ce8e680c624e92fb798be550e77c04e2c257b106f83",
+      "md_span": {
+        "start": 40537,
+        "end": 42354
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n19/jo",
+          "text": "loi modifiée du 19 décembre 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1996/11/07/n1/jo",
+          "text": "loi modifiée du 7 novembre 1996"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26quindecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26quindecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26quindecies/20230915",
+      "type": "article",
+      "num": "Art. 26quindecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "L'obtention du diplôme de cycle court comporte l'acquisition de 120 crédits ECTS.\n\nLe directeur du lycée concerné délivre, après consultation du jury visé à l'article 26*septemdecies*, paragraphe 3 ci-après, un supplément au diplôme qui atteste du parcours de formation suivi par l'étudiant ainsi que des connaissances et aptitudes qu'il a acquises.",
+      "text_sha256": "6a4e20189296150c1107044d6e99360f4ac1d235de107ce0bd6399802b025056",
+      "md_span": {
+        "start": 42457,
+        "end": 42806
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26sexiesdecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26sexiesdecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26sexiesdecies/20230915",
+      "type": "article",
+      "num": "Art. 26sexiesdecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Les aptitudes, compétences et connaissances acquises dans chaque cours sont appréciées par un contrôle continu sous forme d'épreuves écrites ou orales. A la fin de chaque semestre une note selon l'échelle de 0 à 20 points est attribuée à l'étudiant dans chaque module. Une note inférieure à 8 points sur 20 est considérée comme insuffisante.\n\nLes crédits ECTS correspondant au module ne sont obtenus qu'une fois que l'étudiant a réussi les modalités de validation des connaissances ou compétences visées.\n\nUn module est validé si l'étudiant s'est soumis à toutes les modalités d'évaluation prévues et s'il a obtenu une mention autre que la mention F, telle que définie à l'article ci-après.\n\n**(2)** A la fin de la première année d'études, le jury défini à l'article 26*decies* attribue une mention à chaque module sur base de la moyenne annuelle des notes finales obtenues par l'étudiant aux premier et deuxième semestres.\n\nLes mentions sont les suivantes:\n\n1. mention A correspondant à «excellent» et à une moyenne annuelle supérieure ou égale à 17 points sur 20;\n2. mention B correspondant à «très bien» et à une moyenne annuelle supérieure ou égale à 14 et inférieure à 17 points sur 20;\n3. mention C correspondant à «bien» et à une moyenne annuelle supérieure ou égale à 12 et inférieure à 14 points sur 20;\n4. mention D correspondant à «assez bien» et à une moyenne annuelle supérieure ou égale à 10 et inférieure à 12 points sur 20;\n5. mention E correspondant à «satisfaisant» et à une moyenne annuelle supérieure ou égale à 8 et inférieure à 10 points sur 20;\n6. mention F correspondant à «insuffisant» et à une moyenne annuelle inférieure à 8 points sur 20.\n\nL'étudiant à temps plein doit avoir validé 25 crédits ECTS. A défaut, l'étudiant est exclu du programme de formation.\n\nL'obtention d'une mention autre que la mention F est valable cinq ans à compter de sa date d'obtention. Elle peut donner lieu à délivrance par le directeur du lycée d'une attestation de réussite valable pour cette durée.",
+      "text_sha256": "d03f8c5d257e553443f53b977aff2701cbd789a72c411f4c778a6dd6243febbf",
+      "md_span": {
+        "start": 42867,
+        "end": 44882
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26septemdecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26septemdecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26septemdecies/20230915",
+      "type": "article",
+      "num": "Art. 26septemdecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** La délivrance du diplôme d'études supérieures générales résulte de la délibération du jury visé ci-après au vu des mentions obtenues dans les différents modules. Le diplôme ne peut être délivré si une mention F a été attribuée à un module.\n\n**(2)** Le jury attribue une mention globale au diplôme d'études supérieures générales en se basant sur les mentions des différents modules.\n\nLa mention globale décernée est:\n\n1. «excellent» si toutes les mentions finales sauf une valent A;\n2. «très bien» si toutes les mentions finales sauf une valent au moins B;\n3. «bien» si toutes les mentions finales sauf une valent au moins C;\n4. «assez bien» si toutes les mentions finales sauf une valent au moins D.\n\nLe diplôme d'études supérieures générales indique la filière choisie et la mention attribuée.\n\n**(3)** Le jury est nommé, pour chaque session par le ministre. Il est présidé par un commissaire du Gouvernement et il est composé outre du directeur de l'établissement concerné, d'au moins cinq membres choisis parmi les personnes ayant enseigné effectivement un des cours du programme.\n\nLe jury ainsi constitué pourra s'adjoindre une ou deux personnes qualifiées.\n\nLes indemnités des membres du jury et des experts visés ci-dessus sont fixées par règlement grand-ducal.",
+      "text_sha256": "4a68abf5c6e158f3322ce761d5bdabae4ee85ff569be52e4b21246162ca674d7",
+      "md_span": {
+        "start": 44943,
+        "end": 46218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26octodecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26octodecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26octodecies/20230915",
+      "type": "article",
+      "num": "Art. 26octodecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "En matière de fraude ou de tentative de fraude aux examens ou aux épreuves de contrôle continu ou en matière de plagiat, les dispositions de l'article 16*bis* sont d'application. En matière de sanctions disciplinaires, les dispositions du Titre II, chapitre 7, articles 26*bis* à 26*octies* sont d'application.",
+      "text_sha256": "162a6579f844a9f35796eda207f9839a392be6719f6c846b65ecc742c19b2342",
+      "md_span": {
+        "start": 46275,
+        "end": 46585
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26noviesdecies",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_26noviesdecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_26noviesdecies/20230915",
+      "type": "article",
+      "num": "Art. 26noviesdecies.",
+      "heading": null,
+      "path": [
+        "TITRE II*bis* — Modalités du cycle d'études d'enseignement supérieur de type court aboutissant à la délivrance du diplôme d'études supérieures générales",
+        "Chapitre 4. — *Conditions de délivrance*"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Les étudiants ont l'obligation de suivre régulièrement les cours et de se soumettre aux épreuves et de participer à toute autre activité d'ordre pédagogique organisée dans le cadre des horaires et des programmes.",
+      "text_sha256": "0285e505af3f71ae531c692c2942589b28bc868453ca28d23b6e8cf312d2f88f",
+      "md_span": {
+        "start": 46646,
+        "end": 46858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_27/20230915",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Tout diplôme d'enseignement supérieur tel que défini à l'article 1er émis sur le territoire du Grand-Duché de Luxembourg par une institution d'enseignement supérieur étrangère, publique ou privée, soit sous la seule responsabilité de cette institution par le biais de la création d'une filiale au Grand-Duché de Luxembourg, soit en partenariat avec un organisme luxembourgeois, doit être délivré dans le cadre d'une formation accréditée au Grand-Duché de Luxembourg. Celle-ci doit être assurée par une institution accréditée au Grand-Duché de Luxembourg.",
+      "text_sha256": "6ea34a4108ff2efc16eec574abf0c549c5793400e550fef7d3d66b4582cbb8c3",
+      "md_span": {
+        "start": 47027,
+        "end": 47581
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_28/20230915",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "La procédure d'accréditation appliquée doit permettre d'apprécier la moralité des promoteurs, la moralité et les qualifications des dirigeants de l'institution d'enseignement supérieur étrangère telle que visée à l'article 27 et les qualifications des enseignants, le niveau, le contenu et le caractère scientifique de l'enseignement, l'opportunité de la formation proposée, les appellations et modalités de la certification, la solidité matérielle de l'institution et le rapport entre ses prestations et ses exigences financières. Les standards de qualité y relatifs doivent être conformes aux meilleures pratiques internationales d'accréditation.",
+      "text_sha256": "60d2d30c45a42d4dd50e7337d12726b17b9c7411b72626cc88f245121a4bc35f",
+      "md_span": {
+        "start": 47618,
+        "end": 48266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28bis",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_28bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_28bis/20230915",
+      "type": "article",
+      "num": "Art. 28bis.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Peuvent être accrédités des institutions d'enseignement supérieur étrangères, publiques ou privées, et des programmes d'études dispensés soit sous leur seule responsabilité, par le biais de la création d'une filiale au Grand-Duché de Luxembourg, soit dans le cadre d'un partenariat avec un organisme luxembourgeois.\n\nL'accréditation d'un programme d'études est soumise à l'accréditation conjointe de l'institution qui dispense ce programme.\n\n**(2)** Une institution d'enseignement supérieur peut être accréditée dans une des deux catégories suivantes:\n\n1. université ou filiale d'une université,\n2. établissement d'enseignement supérieur spécialisé ou filiale d'un établissement d'ensiegement supérieur spécialisé.\n\n**(3)** Peuvent être accrédités comme programmes d'études:\n\n1. les programmes d'études du brevet de technicien supérieur,\n2. les programmes d'études du diplôme d'études supérieures générales.\n3. les programmes d'études de bachelor,\n4. les programmes d'études de master,\n5. les programmes d'études de doctorat.\n\nL'accréditation d'un programme d'études de doctorat est soumise à l'accréditation conjointe de l'institution concernée en tant qu'université ou filiale d'une université.\n\n**(4)** Les formations sanctionnées par ces diplômes et grades sont reconnues au Grand-Duché en vertu de l'accréditation attribuée aux établissements et aux programmes d'études.",
+      "text_sha256": "0e7da4fcb4250f613c88781c9059b64e9013cc30737e741749044c177dd1f9ad",
+      "md_span": {
+        "start": 48309,
+        "end": 49692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28ter",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_28ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_28ter/20230915",
+      "type": "article",
+      "num": "Art. 28ter.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Peut être accréditée comme université ou filiale de cette université, l'institution d'enseignement supérieur qui\n\n1. dispense régulièrement un enseignement menant à la délivrance des grades, et de bachelor, et de master, et de doctorat dans un éventail approprié de domaines scientifiques;\n2. emploie des collaborateurs équivalent plein temps au nombre d'au moins 30 dont au moins un tiers sont au rang de professeur, le professeur étant un enseignant chercheur titulaire d'un doctorat et auteur de travaux de recherche d'après thèse validés par des publications dans des ouvrages reconnus ou titulaire d'une autorisation à diriger des recherches et consacrant au moins 30% de son temps de travail à une activité de recherche.\n\n**(2)** Peut être accréditée comme établissement d'enseignement supérieur spécialisé ou filiale d'un tel établissement, l'institution d'enseignement supérieur qui\n\n1. dispense régulièrement, hors université, un enseignement supérieur menant à la délivrance du brevet de technicien supérieur, ou du grade de bachelor, ou du grade de master, ou des deux grades de bachelor et de master;\n2. emploie des collaborateurs équivalent plein temps au nombre d'au moins 15 dont la qualification professionnelle est au moins égale à celle du niveau d'études pour lequel le diplôme final est émis et dont l'enseignement s'appuie sur les résultats récents de la recherche scientifique.\n\n**(3)** Les demandes en accréditation d'institution d'enseignement supérieur peuvent être introduites pour l'une ou pour l'autre catégorie définies aux paragraphes (1) et (2) du présent article.\n\nLes demandes en accréditation qui sont considérées comme recevables sont soumises au paiement d'une taxe d'un montant de 12.000 euros.\n\nLes demandes en prorogation de l'accréditation sont soumises au paiement d'une taxe de 12.000 euros.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l'Administration de l'enregistrement et des domaines, comprenant indication de l'identité du requérant ainsi que l'objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.",
+      "text_sha256": "b714358d641f7f1b53122dcd092ea8bf79a9650ccb5bb1a56095dcfb6eae341a",
+      "md_span": {
+        "start": 49735,
+        "end": 51909
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_29/20230915",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Les demandes d'accréditation sont considérées comme recevables si l'institution d'enseignement supérieur étrangère souhaitant dispenser un ou plusieurs programmes d'études soit par le biais de la création d'une filiale au Grand-Duché de Luxembourg, soit dans le cadre d'un partenariat avec un organisme luxembourgeois remplit les conditions suivantes:\n\n1. elle jouit de la personnalité juridique et propose des formations relevant de l'enseignement supérieur;\n2. elle mène des activités d'enseignement et de recherche;\n3. elle est dotée des ressources en personnel, en locaux et en équipement adaptées à l'enseignement supérieur et à la recherche;\n4. elle présente un plan d'activité et de fonctionnement portant sur la durée prévue de l'accréditation, ainsi qu'une étude d'impact portant sur l'opportunité de la formation.",
+      "text_sha256": "bfa2b1845269f589879a77d5cc571e3ff8601406427de85341f34b921f186cf3",
+      "md_span": {
+        "start": 51946,
+        "end": 52769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_30/20230915",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "**(1)** Le ministre ayant l'Enseignement supérieur dans ses attributions, appelé par la suite «le ministre», désigne une agence d'assurance de la qualité, spécialisée en matière d'accréditation d'institutions et de programmes d'études de l'enseignement supérieur et inscrite au registre européen des agences d'assurance de la qualité, désignée ci-après par «l'agence».\n\nL'agence réalise l'évaluation en vue de l'accréditation de l'institution et du programme d'études concernés, en application des dispositions des articles 28, 28*bis* et 28*ter*. Les critères de l'accréditation sont précisés par règlement grand-ducal.\n\nSur base d'un rapport, l'agence soumet au ministre une proposition relative à l'accréditation.\n\n**(2)** Le ministre s'adjoint un groupe consultatif composé de cinq membres disposant de connaissances approfondies en matière d'accréditation d'institutions et de programmes d'études de l'enseignement supérieur. Les membres du groupe consultatif sont nommés par le ministre pour un mandat de cinq ans. Le groupe consultatif peut s'adjoindre un secrétaire hors de son sein.\n\n**(3)** Les indemnités des membres et du secrétaire du groupe consultatif et la procédure d'accréditation sont fixées par règlement grand-ducal.",
+      "text_sha256": "b8daf4ea53c5cd399a13d5eb71e6e744312503d9e777126e37e2bdc1b856fbb9",
+      "md_span": {
+        "start": 52806,
+        "end": 54043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_31/20230915",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Le ministre prend l'une des décisions suivantes:\n\n- accréditation;\n- accréditation assortie de conditions;\n- refus de l'accréditation.",
+      "text_sha256": "1749b59718b65615b7eb9c9e3cadaa12da000adcadc46d5906dc65fcf16a9c15",
+      "md_span": {
+        "start": 54080,
+        "end": 54214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_32/20230915",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "L'accréditation assortie de conditions est accordée sous réserve qu'il puisse être remédié aux carences dans un délai ne pouvant dépasser une année. Le groupe consultatif visé à l'article 30 vérifie qu'il soit satisfait aux conditions dans les délais impartis. Si les conditions ne sont pas remplies à l'expiration du délai, le groupe consultatif propose la prolongation des délais, l'adaptation des conditions ou l'abrogation de l'accréditation.",
+      "text_sha256": "656c56c07e84480c11119b56fd7f9f1a16a91c90ed938d32fccc02a66b3ddfe2",
+      "md_span": {
+        "start": 54251,
+        "end": 54697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_33/20230915",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "L'accréditation est valable cinq ans. La même durée vaut pour l'accréditation assortie de conditions, pour autant que ces dernières aient été remplies dans les délais impartis.\n\nElle est prorogée pour une nouvelle période de cinq ans, si les conditions nécessaires à son obtention restent remplies.\n\nL'accréditation est retirée en cas de cessation volontaire de l'activité pendant plus d'un an ou en cas de non-utilisation de l'accréditation pendant plus de deux ans après l'octroi de cette dernière.",
+      "text_sha256": "5586df67020755181857523ca85d2639398d999be19f6a12fe0e87c925c2e912",
+      "md_span": {
+        "start": 54734,
+        "end": 55234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_34/20230915",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "L'accréditation et le refus de l'accréditation sont décidés par le ministre.\n\nLa décision ministérielle portant sur l'accréditation détermine les diplômes et les grades accrédités et indique la catégorie dans laquelle l'institution d'enseignement supérieur a été accréditée ainsi que son statut d'origine.",
+      "text_sha256": "441fa2fb92ae0780c5136e9a13a6cbf1f8427e421d923d46e5261a77db87d573",
+      "md_span": {
+        "start": 55271,
+        "end": 55576
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_35/20230915",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "TITRE III. — Les modalités d'implantation de formations d'enseignement supérieur sur le territoire du Grand-Duché de Luxembourg"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Toute modification touchant à une formation accréditée ou à un plan d'activité doit être communiquée par l'institution d'enseignement supérieur concernée au ministre. Les modifications des données sur la base desquelles l'accréditation a été accordée doivent être approuvées par le ministre.",
+      "text_sha256": "76898560de46574586c2423b9e13563c40c314539d0d067eb67ccaeb81c7b66e",
+      "md_span": {
+        "start": 55613,
+        "end": 55904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_36/20230915",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "TITRE IV. — Dispositions transitoires, abrogatoires et finales"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Les étudiants ayant entamé les études aboutissant à la délivrance du diplôme de technicien supérieur avant la mise en vigueur de la présente loi sont habilités à terminer leurs études selon la législation et réglementation antérieures.",
+      "text_sha256": "7d88d433e3853f4ae51511616dbaa63370eb7f61a746840d2f782feeba431d0b",
+      "md_span": {
+        "start": 56008,
+        "end": 56243
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_37/20230915",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "TITRE IV. — Dispositions transitoires, abrogatoires et finales"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "Les dispositions de l'article 27 de la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue sont abrogées.",
+      "text_sha256": "d5f15eef0097f2efaf9703fbab54f0ca7ef1445c823419cbc51795519f62ff3c",
+      "md_span": {
+        "start": 56280,
+        "end": 56465
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1990/09/04/n1/jo",
+          "text": "loi modifiée du 4 septembre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_38/20230915",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "TITRE IV. — Dispositions transitoires, abrogatoires et finales"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "La loi du 14 août 1976 déterminant les conditions de création d'établissements privés d'enseignement supérieur est abrogée.",
+      "text_sha256": "4e8767a87e6e1b1b8c1f24a457523413a36cac676f3e9ac78527ca3684f526d0",
+      "md_span": {
+        "start": 56502,
+        "end": 56625
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1976/08/14/n5/jo",
+          "text": "loi du 14 août 1976"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2009-06-19-n1:2016-09-15#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/art_39/20230915",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "TITRE IV. — Dispositions transitoires, abrogatoires et finales"
+      ],
+      "article_valid_from": "2023-09-15",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en utilisant les termes de loi modifiée du 19 juin 2009 portant organisation de l'enseignement supérieur.",
+      "text_sha256": "ac2fcf583e4c0cf7b6491e64613f4b54479b4b66b8b8ef08e1645ed06320ca0d",
+      "md_span": {
+        "start": 56662,
+        "end": 56835
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/06/19/n1/jo",
+          "text": "loi modifiée du 19 juin 2009"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

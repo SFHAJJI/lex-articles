@@ -1,0 +1,324 @@
+{
+  "lex_work_id": "lu-legilux:rgd-1968-12-28-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_10_19990101": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": "2001-12-31",
+        "text_sha256": "c2354db6e7ae3979ab2846df9865b8da73305ad03b48780484d7d1f64f43e0ae",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1999-01-01"
+      }
+    ],
+    "art_10_20020101": [
+      {
+        "valid_from": "2002-01-01",
+        "valid_to": "2007-12-31",
+        "text_sha256": "c2354db6e7ae3979ab2846df9865b8da73305ad03b48780484d7d1f64f43e0ae",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_10_20080101": [
+      {
+        "valid_from": "2008-01-01",
+        "valid_to": "2020-12-31",
+        "text_sha256": "c2354db6e7ae3979ab2846df9865b8da73305ad03b48780484d7d1f64f43e0ae",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2008-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_10_20210101": [
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "c2354db6e7ae3979ab2846df9865b8da73305ad03b48780484d7d1f64f43e0ae",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2021-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_11_19990101": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": "2001-12-31",
+        "text_sha256": "3e380374372443f481c5e357e54dec28f5ad3cc008649882f85e1385138ee31e",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1999-01-01"
+      }
+    ],
+    "art_11_20020101": [
+      {
+        "valid_from": "2002-01-01",
+        "valid_to": "2007-12-31",
+        "text_sha256": "3e380374372443f481c5e357e54dec28f5ad3cc008649882f85e1385138ee31e",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_11_20080101": [
+      {
+        "valid_from": "2008-01-01",
+        "valid_to": "2020-12-31",
+        "text_sha256": "3e380374372443f481c5e357e54dec28f5ad3cc008649882f85e1385138ee31e",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2008-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_11_20210101": [
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "3e380374372443f481c5e357e54dec28f5ad3cc008649882f85e1385138ee31e",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2021-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": null,
+        "text_sha256": "9a2adb9ca326e4342954bb2ece6c423079fe5f30c9d660dc7e1a8e1404cf72b0",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1969-01-03",
+        "validity_conflict": true
+      }
+    ],
+    "art_1er": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": "2007-12-31",
+        "text_sha256": "855614c704e447c42d0a707afce4c4b1e415861597f5e232b4ba097a6896c2e9",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1969-01-03",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2008-01-01",
+        "valid_to": "2020-12-31",
+        "text_sha256": "266b7dfd741e1afa7e43314bee563383a0c8dbfa086c46e50cbe8820d258c912",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2008-01-01",
+        "article_valid_from": "2008-01-01"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "f832b45b03b1e1cfa4aa0ca8871ee361017ea14621ab1517952c1955ac5a4388",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2021-01-01",
+        "article_valid_from": "2021-01-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": null,
+        "text_sha256": "fb3af2e64204bfcbf2cf83228b073fe6674bddedd7b4c36de84e06952b381a8b",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1969-01-03",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": "2001-12-31",
+        "text_sha256": "9d8909329c00cf9f44222b5835e14548cc9837c9fca1ca417e61052d854b8235",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1969-01-03",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2002-01-01",
+        "valid_to": null,
+        "text_sha256": "3c5b1a35343a7a107860653ac1a2687a8f9785451f8fc792364921b2c46563c6",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+        "article_valid_from": "2002-01-01"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": "2001-12-31",
+        "text_sha256": "90fd60886897ef30fc2aa489114ba8439484ae0b208758a86378da36e2e04adc",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1969-01-03",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2002-01-01",
+        "valid_to": null,
+        "text_sha256": "174273319d240914d64c84272c784504efe36911bc1eff0a4e7aeb11736e8bc4",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+        "article_valid_from": "2002-01-01"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": "2001-12-31",
+        "text_sha256": "0d08bcb47f383f92da1d97866a301cac0f5903e49f7327aa1c373b25d4f6effd",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1969-01-03",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2002-01-01",
+        "valid_to": null,
+        "text_sha256": "1edb10640a50d6412a4f1cc64d182f78d55f243c540662194b6a48cc5ffa52ce",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+        "article_valid_from": "2002-01-01"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": null,
+        "text_sha256": "bbe3d4e97545a31e523cb4233813b3245d42d1b439b875fa292d1b492db0bb7c",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1999-01-01"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": null,
+        "text_sha256": "633699d09d30a1cb290213842fa47e6807e84d3ae884f716d862799c89043b0f",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1969-01-03",
+        "validity_conflict": true
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": null,
+        "text_sha256": "ff7e1f301fe73effc4b2f2a5331a7bf8636419b2b8e10128d805f6f836f740f0",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1969-01-03",
+        "validity_conflict": true
+      }
+    ],
+    "art_9_19990101": [
+      {
+        "valid_from": "1999-01-01",
+        "valid_to": "2001-12-31",
+        "text_sha256": "a827a56d3fe593ee2a088d70a1f4d26797b6a2f89c7ea74a3fc6fa173c394fff",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:1999-01-01",
+        "article_valid_from": "1999-01-01"
+      }
+    ],
+    "art_9_20020101": [
+      {
+        "valid_from": "2002-01-01",
+        "valid_to": "2007-12-31",
+        "text_sha256": "a827a56d3fe593ee2a088d70a1f4d26797b6a2f89c7ea74a3fc6fa173c394fff",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_9_20080101": [
+      {
+        "valid_from": "2008-01-01",
+        "valid_to": "2020-12-31",
+        "text_sha256": "a827a56d3fe593ee2a088d70a1f4d26797b6a2f89c7ea74a3fc6fa173c394fff",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2008-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_9_20210101": [
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "a827a56d3fe593ee2a088d70a1f4d26797b6a2f89c7ea74a3fc6fa173c394fff",
+        "in_version": "lu-legilux:rgd-1968-12-28-n1:2021-01-01",
+        "article_valid_from": "1999-01-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "renumbered",
+      "from": "art_10_19990101",
+      "to": "art_10_20020101",
+      "text_sha256": "c2354db6e7ae3979ab2846df9865b8da73305ad03b48780484d7d1f64f43e0ae",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_11_19990101",
+      "to": "art_11_20020101",
+      "text_sha256": "3e380374372443f481c5e357e54dec28f5ad3cc008649882f85e1385138ee31e",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_9_19990101",
+      "to": "art_9_20020101",
+      "text_sha256": "a827a56d3fe593ee2a088d70a1f4d26797b6a2f89c7ea74a3fc6fa173c394fff",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2002-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_10_20020101",
+      "to": "art_10_20080101",
+      "text_sha256": "c2354db6e7ae3979ab2846df9865b8da73305ad03b48780484d7d1f64f43e0ae",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2008-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_11_20020101",
+      "to": "art_11_20080101",
+      "text_sha256": "3e380374372443f481c5e357e54dec28f5ad3cc008649882f85e1385138ee31e",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2008-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_9_20020101",
+      "to": "art_9_20080101",
+      "text_sha256": "a827a56d3fe593ee2a088d70a1f4d26797b6a2f89c7ea74a3fc6fa173c394fff",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2008-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_10_20080101",
+      "to": "art_10_20210101",
+      "text_sha256": "c2354db6e7ae3979ab2846df9865b8da73305ad03b48780484d7d1f64f43e0ae",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2021-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_11_20080101",
+      "to": "art_11_20210101",
+      "text_sha256": "3e380374372443f481c5e357e54dec28f5ad3cc008649882f85e1385138ee31e",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2021-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_9_20080101",
+      "to": "art_9_20210101",
+      "text_sha256": "a827a56d3fe593ee2a088d70a1f4d26797b6a2f89c7ea74a3fc6fa173c394fff",
+      "at_version": "lu-legilux:rgd-1968-12-28-n1:2021-01-01",
+      "basis": "identical_text"
+    }
+  ]
+}

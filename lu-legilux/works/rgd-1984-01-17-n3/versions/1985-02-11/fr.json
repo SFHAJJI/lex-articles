@@ -1,0 +1,987 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/12/2019 : Règlement grand-ducal du 17 janvier 1984 portant réglementation de la procédure électorale pour la Chambre des Fonctionnaires et Employés publics.",
+  "valid_from": "1985-02-11",
+  "valid_to": "1989-06-16",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1984-01-17-n3/versions/1985-02-11/fr.xml",
+    "sha256": "9fca4efd5c2314f06ccf0cc3075802f7afa0f57510abd904a05392e5d6f540b0",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/19850211/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_1er/19840214",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les élections pour la Chambre des fonctionnaires et employés publics ont lieu au scrutin de liste. Dans la suite du texte la Chambre des fonctionnaires et employés publics est désignée par le terme de Chambre.",
+      "text_sha256": "1d4d758e86b95f301348428bdc2d1f4e75e858dec8ca5f9e9b49b35ab522383a",
+      "md_span": {
+        "start": 674,
+        "end": 883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_2/19840214",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "La qualité d’électeur est constatée par l’inscription sur les listes électorales.\n\nLa liste des électeurs est établie par le collège des bourgmestre et échevins, par ordre alphabétique et séparément pour chaque catégorie; elle est permanents, sauf les radiations et inscriptions qui peuvent avoir lieu tous les cinq ans lors de leur revision.\n\nLa liste comprend pour chaque électeur les nom, prénoms, profession, date et lieu de naissance, ainsi que le domicile électoral et l’adresse exacte.\n\nTous les cinq ans, dans la première quinzaine du mois de décembre, le Ministre de la Fonction Publique fait publier par la voie de la presse un avis informant les fonctionnaires et employés publics que les administrations communales vont procéder à la revision des listes électorales.",
+      "text_sha256": "619e2f88b93e5584a9e309d76a59968be760ceef03507ca4d18f729458d44f74",
+      "md_span": {
+        "start": 953,
+        "end": 1731
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_3/19840214",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Au cours de la première quinzaine du mois de novembre, qui précède la revision des listes électorales, le Ministre de la Fonction Publique adresse une lettre circulaire aux services du personnel des employeurs et à leur service de pensions, leur rappelant qu’ils sont tenus de délivrer avant le 15 décembre au collège des bourgmestre et échevins de chaque commune, des listes, datées et signées comprenant les nom, prénoms, profession, date et lieu de naissance, domicile et nationalité des agents en activité ou retraités ayant qualité d’électeur en vertu des articles 6, 43ter et 43quater de la loi modifiée du 4 avril 1924 portant création des chambres professionnelles à base élective. Ces listes sont à établir séparément pour les différentes catégories d’électeurs.",
+      "text_sha256": "d6846dc934c9e021bb3de436c6ac3ec08689bf7c8352be385dd5e93b04d27ba1",
+      "md_span": {
+        "start": 1766,
+        "end": 2537
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/jo",
+          "text": "loi modifiée du 4 avril 1924"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_4/19840214",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Du 15 décembre au 10 janvier, le collège des bourgmestre et échevins procède à la revision de la liste des électeurs.\n\nIl y inscrit ou il y maintient d’office ou à la demande des intéressés ceux qui, ayant au 15 décembre leur domicile dans la commune, réunissent les conditions de l’électorat pour la Chambre.",
+      "text_sha256": "55682fe3d610cb6e32c58dc5c8757b1253fa5f8e252adfa4ca7b985df64fc4e0",
+      "md_span": {
+        "start": 2572,
+        "end": 2881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_5/19840214",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le domicile électoral est au lieu de sa résidence habituelle, c’est-à-dire au lieu où l’électeur habite d’ordinaire avec sa famille.\n\nEn cas de changement de résidence, l’électeur est inscrit sur les listes électorales de la commune de sa nouvelle résidence, s’il déclare son intention, dans la quinzaine de ce changement, à l’administration de la commune qu’il quitte.\n\nLe bourgmestre transmet le certificat de cette déclaration à l’administration de sa nouvelle résidence. L’électeur est rayé des listes de la commune qu’il a quittée.",
+      "text_sha256": "c9af199412b18e67407e3ca3d3c38b9306a78f6338c30329c1d4606d715dcd0a",
+      "md_span": {
+        "start": 2916,
+        "end": 3452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_6/19840214",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les listes électorales sont arrêtées le 10 janvier. Elles sont déposées à l’inspection du public dans un local communal à désigner par le collège des bourgmestre et échevins, qui en informe le public dans la forme ordinaire.\n\nLe Ministre de la Fonction Publique fait publier, le 11 janvier au plus tard, par la voie de la presse un avis pour annoncer ce dépôt et pour inviter les personnes intéressées à présenter, le 21 janvier au plus tard, tous recours auxquels les listes pourraient donner lieu.\n\nToute personne indûment inscrite, ou dont le nom a été omis ou rayé, peut présenter un recours, par écrit ou verbalement, au secrétariat de la commune, en y joignant les pièces qui pourraient justifier sa demande. Toute personne qui demande son inscription sur la liste des électeurs, doit indiquer la catégorie à laquelle elle estime appartenir. Le cas échéant, le collège des bourgmestre et échevins peut exiger la production de la part du requérant, de l’acte de naissance, d’un extrait du casier judiciaire ou de toute autre pièce justifiant sa demande.\n\nLes recours sont reçus contre récépissé par le secrétaire communal ou par la personne déléguée par le collège des bourgmestre et échevins.\n\nLe droit de recours est en outre exercé par la personne que le Gouvernement désignera à cette fin.\n\nIl sera composé un dossier de chaque réclamation et des pièces produites à son appui; ces dernières seront cotées et paraphées et inscrites avec un numéro d’ordre dans l’inventaire joint à chaque dossier.",
+      "text_sha256": "a9a200560f48afeef54acb350189f3a4775aaafb9646c06eb9c8779fe68f9e7d",
+      "md_span": {
+        "start": 3487,
+        "end": 4991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_7/19840214",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Dans les trois jours à partir de l’expiration du délai de recours, le collège des bourgmestre et échevins transmet les recours et toutes les pièces qui s’y rapportent au juge de paix directeur qui statue en audience publique, toutes affaires cessantes, après avoir entendu les parties et, s’il le juge utile, un délégué du collège des bourgmestre et échevins. Dans tous les cas les débats seront publics; le jugement est réputé contradictoire et ne comportera aucun recours.",
+      "text_sha256": "673adc35792e6f82b57c49e32168cfd9f8063fb54163037bcfa94683899dabcb",
+      "md_span": {
+        "start": 5026,
+        "end": 5500
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_8/19840214",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Toutes réclamations, tous exploits, actes de procédure et expéditions en matière électorale peuvent être faits sur papier libre.\n\nToutes les pièces sont dispensées de l’enregistrement.",
+      "text_sha256": "7aa9b58cd9c2194110bc206b4025ec6eab4dcdd0ff77e84c45f23a95bd5efba7",
+      "md_span": {
+        "start": 5535,
+        "end": 5719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_9/19840214",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le greffier de la justice de paix est tenu de transmettre l’expédition du jugement statuant sur le recours au collège des bourgmestre et échevins dans le délai de 48 heures.",
+      "text_sha256": "4454677fa7505945559645c2c29ba3fdd25c15dcaefaa5b1c6bd7eeaac41c8e9",
+      "md_span": {
+        "start": 5754,
+        "end": 5927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_10/19840214",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Listes électorales"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "En exécution des jugements ayant statué sur les recours, le collège des bourgmestre et échevins modifiera incontinent les listes électorales qui seront clôturées définitivement le 7 février.\n\nUne copie des listes électorales définitivement arrêtées devra être transmise, dans la huitaine, par le collège des bourgmestre et échevins au Gouvernement qui les retransmet au président du bureau constitué conformément au Titre III du présent règlement.",
+      "text_sha256": "ed4f08368de10a81a32c5a4a811f226693ef71f27e87a6c84174ad422a3b6cf9",
+      "md_span": {
+        "start": 5964,
+        "end": 6411
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_11/19840214",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Titre II — Candidatures"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Pour chaque catégorie d’électeurs les listes de candidats sont à présenter par dix électeurs inscrits dans cette catégorie. Chaque liste de candidats doit être accompagnée:\n\n1. d’une attestation délivrée à chaque candidat, à chaque électeur qui la présente et à chaque témoin ou témoin suppléant, par la commune de son domicile électoral, certifiant qu’il est électeur et indiquant la catégorie d’électeurs à laquelle il appartient;\n2. d’une déclaration signée par les candidats et confirmant qu’ils acceptent la candidature dans cette catégorie;\n3. d’une attestation délivrée à chaque candidat par son administration ou service certifant qu’il appartient ou a appartenu au cadre de son personnel. Pour les ressortissants de la catégorie D, cette attestation est délivrée par le Ministre de l’Education Nationale.\n\nChaque liste de candidats doit être déposée par un mandataire désigné par et parmi les électeurs qui la présentent et qui l’ont signée à cet effet. Le mandataire remplit en outre tous les autres devoirs qui lui sont imposés par le présent règlement grand-ducal.\n\nLa liste indique la catégorie à laquelle les candidats appartiennent, les nom, prénoms, fonctions, administration ou service et domicile des candidats, ainsi que des électeurs qui la présentent.\n\nNul ne peut figurer, ni comme candidat ni comme présentant, sur plus d’une liste.\n\nToute candidature isolée est considérée comme formant une liste à elle seule.\n\nChaque liste doit porter une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l’expiration du délai imparti pour les déclarations de candidature, ces listes sont désignées par une lettre d’ordre par le juge de paix directeur du canton de Luxembourg.\n\nLes formules imprimées des listes, attestations et déclarations visées au présent article doivent être disponibles au greffe de la justice de paix de Luxembourg au plus tard le 1er février qui précède les élections.",
+      "text_sha256": "a86b0e347c54755494032692ec78fcf6b52c4dcfa1d2aab1fe8dd8ecf340a23e",
+      "md_span": {
+        "start": 6476,
+        "end": 8518
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_12/19840214",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Titre II — Candidatures"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les listes des candidats doivent être déposées au greffe de la justice de paix de Luxembourg au plus tard le 18 février, à dix-huit heures. Si le 18 février qui précède les élections est un jour non ouvré, la dernière date utile pour la présentation des candidats est avancée au dernier jour ouvré précédant cette date.\n\nLe 8 février, le juge de paix directeur de Luxembourg publie un avis fixant les jours, heures et lieu auxquels il recevra les présentations de candidats et les désignations de témoins. L’avis indique deux jours au moins, parmi lesquels le dernier jour utile, et trois heures au moins pour chacun de ces jours; le dernier délai utile est, dans tous les cas, de dix-sept à dix-huit heures du dernier jour utile.\n\nLe juge de paix directeur enregistre les listes dans l’ordre de leur présentation. Il est délivré un récépissé sur le nom du mandataire de la liste.\n\nL’enregistrement est refusé à toute liste qui ne répond pas aux exigences de l’article 11.\n\nSi des déclarations identiques quant aux candidats y portés sont déposées, la première en date est seule valable. Si elles portent la même date, toutes sont nulles.\n\nDès l’expiration du délai fixé pour la présentation de candidats, le juge de paix directeur fait connaître d’urgence au Ministre ayant la Chambre dans ses attributions, les nom, prénoms, administration ou service et domicile des candidats des différentes catégories.",
+      "text_sha256": "456722cb33b1f3378293795678ed759ad12e65ca8c1bbe6d3db55cef716afeaa",
+      "md_span": {
+        "start": 8555,
+        "end": 9961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_13/19840214",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Titre II — Candidatures"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Un candidat inscrit sur une liste ne peut en être rayé que s’il notifie au juge de paix directeur par exploit d’huissier, la volonté de s’en retirer. Toute liste peut être complétée par les noms de candidats qui sont présentés par tous les signataires de la liste. Les notifications devront avoir lieu avant l’expiration du délai fixé pour les déclarations de candidature.",
+      "text_sha256": "a2ad878e81c7f03ef8d4adf68ae7d5ef701c975cfd6d399840696006d1100807",
+      "md_span": {
+        "start": 9998,
+        "end": 10370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_14/19840214",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Titre II — Candidatures"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Lors de la présentation des candidats, le mandataire de la liste peut désigner un témoin et un témoin suppléant pour assister aux opérations du bureau électoral. Le témoin et le témoin suppléant doivent être électeurs appartenant à la même catégorie que les candidats.\n\nLe juge de paix directeur de Luxembourg transmet les noms des témoins et des témoins suppléants au président du bureau électoral.\n\nLe président désigne par voie de tirage au sort le témoin qui aura à remplir ce mandat.",
+      "text_sha256": "0861d2e969376b6573891878f0936c6579c95aa7ad9637241b28ccfb96b4f574",
+      "md_span": {
+        "start": 10407,
+        "end": 10895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_15/19840214",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Titre II — Candidatures"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "A l’expiration du terme fixé à l’article 12, alinéa 1er, le juge de paix directeur de Luxembourg arrête les listes de candidats.\n\nLorsque le nombre des candidats d’une catégorie ne dépasse pas celui des membres effectifs et des membres suppléants à élire dans cette catégorie ou lorsque le nombre des candidats proposés est inférieur à celui des membres effectifs et des membres suppléants à élire dans cette catégorie, ces candidats sont proclamés élus par le juge de paix directeur sans autre formalité, sous condition toutefois que pour cette catégorie, il n’ait été présenté qu’une seule liste de candidats et que cette liste désigne expressément, d’une part, les membres effectifs, et, d’autre part, les membres suppléants dans l’ordre suivant lequel ils devront remplacer les membres effectifs. Il en est dressé procès-verbal qui est signé, séance tenante, par le juge de paix directeur et son secrétaire, pour être immédiatement adressé au Ministre ayant la Chambre dans ses attributions.\n\nLes listes de candidats présentées pour les différentes catégories sont immédiatement imprimées et affichées dans toutes les communes du Grand-Duché. L’affiche reproduit sur une même feuille, pour chacune des différentes catégories, les nom, prénoms, fonction, administration ou service et domicile des candidats des différentes listes présentées pour cette catégorie. Pour chaque liste d’une catégorie, l’ordre de présentation des candidats y est maintenu et les listes y sont placées suivant l’ordre déterminé par le tirage au sort opéré par le juge de paix directeur assisté par son greffier. Un chiffre arabe correspondant au numéro d’ordre est imprimé en gros caractères en tête de chaque liste des différentes catégories.\n\nSi, dans l’hypothèse envisagée par l’alinéa 2 du présent article, le nombre de candidats d’une catégorie ne dépasse pas celui des membres effectifs et des membres suppléants à élire dans cette catégorie, ces candidats sont inscrits comme élus sur l’affiche et les électeurs de cette catégorie ne sont plus admis à voter.\n\nL’affiche reproduit aussi l’instruction annexée au présent règlement.",
+      "text_sha256": "d4a6a44fc7a5670ba79c344bd0fd880763bc4797b9ff69eb9e842c8d41081fd1",
+      "md_span": {
+        "start": 10932,
+        "end": 13049
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_16/19840214",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Titre III — Bureau électoral"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Il y aura pour l’élection de la Chambre un seul bureau électoral, composé d’un président, de deux vice-présidents, de douze scrutateurs, d’un secrétaire et de deux secrétaires adjoints. Des scrutateurs suppléants peuvent être désignés.\n\nEn cas d’empêchement, les fonctions de président sont remplies par un vice-président.",
+      "text_sha256": "0c86d93df0a97d488829d740e3321ce07604b0fd86c90c829adf115030a9a22d",
+      "md_span": {
+        "start": 13119,
+        "end": 13441
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_17/19840214",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Titre III — Bureau électoral"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les président et vice-présidents du bureau sont nommés au plus tard le 1er février précédant les élections par le Ministre ayant la Chambre dans ses attributions.",
+      "text_sha256": "ac98587b926f9dc0c24681dabd3f47077ce48b285d96eb709a78e09e92805e7b",
+      "md_span": {
+        "start": 13478,
+        "end": 13640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_18/19840214",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Titre III — Bureau électoral"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le président peut choisir librement les scrutateurs, les suppléants ainsi que le secrétaire et les deux secrétaires adjoints. Ces trois derniers n’ont pas voix délibérative.",
+      "text_sha256": "cd8bff7d809c3d3e2e6c68c9c941f42201615c50390238fa5847ec1581945a69",
+      "md_span": {
+        "start": 13677,
+        "end": 13850
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_19/19840214",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Titre III — Bureau électoral"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le président du bureau invite sans délai les secrétaires, les scrutateurs et les suppléants à venir remplir leurs fonctions.\n\nLes scrutateurs et les suppléants sont tenus, en cas d’empêchement, d’en informer dans les 48 heures le président du bureau.",
+      "text_sha256": "eda5bf131774096620746bd94a80bac3a0fdde9616f914070d6dad0bb5c431fd",
+      "md_span": {
+        "start": 13887,
+        "end": 14137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_20/19840214",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Titre III — Bureau électoral"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les membres, le secrétaire et les secrétaires adjoints du bureau reçoivent, par heure de travail effectif, un jeton dont le montant est fixé par règlement ministériel.",
+      "text_sha256": "c9f4e16b5602555d43898cd363895d696cdb078a5f0da3dece71ea96b64a9f3a",
+      "md_span": {
+        "start": 14174,
+        "end": 14341
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_21/19840214",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Titre III — Bureau électoral"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les témoins à désigner par les candidats peuvent siéger au bureau pendant toute la durée des opérations.\n\nS’ils ne se présentent pas, les opérations se poursuivent sans interruption et sont valables, nonobstant leur absence.",
+      "text_sha256": "582a5149c5fb141fcbb0bd31d8bebc17b3a0dc6d9dedfb28d76c3e09072a6d32",
+      "md_span": {
+        "start": 14378,
+        "end": 14602
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_22/19840214",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Titre III — Bureau électoral"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les membres du bureau sont tenus de recenser fidèlement les suffrages.\n\nLes membres du bureau, les secrétaires et les témoins des candidats sont tenus de garder le secret des votes. Il sera donné lecture de cette disposition, et mention en est faite au procès-verbal.",
+      "text_sha256": "41ebca3c27b083a7271b2cfa0575d2e69e4ec55227b0fd2db826ae126a757efa",
+      "md_span": {
+        "start": 14639,
+        "end": 14906
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_23/19840214",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Titre III — Bureau électoral"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Ni les membres sortants, ni les candidats, ni leurs parents ou alliés jusqu’au deuxième degré inclusivement ne peuvent siéger au bureau.\n\nToutes autres récusations et abstentions sont exclues.",
+      "text_sha256": "6ddbd7913fd25ca8c904ad8a21e3a01f3309d8885087d05da3a2da817d32a3f8",
+      "md_span": {
+        "start": 14943,
+        "end": 15135
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_24/19840214",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 1er. — *Des bulletins*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Après avoir arrêté les listes et les propositions des candidats et après avoir commandé l’impression des affiches, le juge de paix directeur de Luxembourg formule incontinent les bulletins de vote dont le papier doit être de couleur différente suivant les différentes catégories de la Chambre.\n\nPour chacune des catégories de la Chambre, le bulletin de vote reproduit les numéros d’ordre des différentes listes présentées dans cette catégorie, ainsi que les nom et prénoms des candidats. Chaque liste est surmontée d’une case réservée au vote. Deux autres cases se trouvent à la suite des nom et prénoms de chaque candidat. La case placée en tête de chaque liste est noire est présente au milieu un petit cercle de la couleur du papier.",
+      "text_sha256": "513ddd416ec5a5bd1809283b8a01289dd15ac5cde959c37dea6a3adb5b370553",
+      "md_span": {
+        "start": 15247,
+        "end": 15983
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_25/19840214",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 1er. — *Des bulletins*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le papier électoral servant à la confection des bulletins est fourni par le Service central des imprimés et des fournitures de l’Etat et timbré par ses soins avant d’être remis au juge de paix directeur.\n\nLes bulletins employés pour une même catégorie d’électeurs, doivent être absolument identiques, sous le rapport du papier, du format et de l’impression. L’emploi de tous autres bulletins est interdit.",
+      "text_sha256": "2b555ea5d29ad08601af736230cbfba4cd5821900d7c74f9873a4ed1dcbb35ed",
+      "md_span": {
+        "start": 16020,
+        "end": 16425
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_26/19840214",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 1er. — *Des bulletins*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Aussitôt que le bureau aura été composé, le juge de paix directeur fait remettre au président les bulletins nécessaires à l’élection avec l’indication du nombre des bulletins des différentes catégories.\n\nLe nombre des bulletins est vérifié en présence du bureau régulièrement constitué et le résultat de la vérification est indiqué au procès-verbal.\n\nLe président commande en temps opportun l’impression des enveloppes visées à l’article 27 et des listes de dépouillement visées à l’article 36 du présent règlement.",
+      "text_sha256": "97859dd24f5360e0a5c657bef6e44fd75948549661ae5f505fe06b386183a694",
+      "md_span": {
+        "start": 16462,
+        "end": 16977
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_27/19850211",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 2 — *Du vote*"
+      ],
+      "article_valid_from": "1985-02-11",
+      "text_md": "Le 20 mars au plus tard, . le président envoie par lettre recommandée à chaque électeur un bulletin de vote et le texte des instructions pour l’électeur qui est annexé au présent règlement.\n\nLes bulletins de vote sont pliés en quatre, à angle droit.\n\nLe bulletin de vote est placé dans une première enveloppe, laissée ouvert et portant l’indication « Elections pour la Chambre des Fonctionnaires et Employés Publics, loi modifiée du 4 avril 1924 » ainsi que l’indication de la catégorie pour laquelle l’élection a lieu. Une deuxième envelope, également ouverte, est jointe à l’envoi et porte l’adresse du président du bureau ainsi que la mention « port payé par le destinataire ». Sur cette deuxième enveloppe est inscrit le numéro d’ordre que l’électeur a dans la liste électorale de sa catégorie.\n\nLe tout est renfermé dans une troisième enveloppe à l’adresse de l’électeur, et paraphé par le secrétaire ou le secrétaire adjoint.\n\nCette enveloppe doit porter du côté de la suscription et, autant que possible, dans l´angle supérieur gauche la mention « Recommandé électoral ».\n\nLes envois électoraux à distribuer sont récapitulés sur une formule de remise spéciale établie en double exemplaire, de préférence par le bureau électoral sur base du code postal et en faisant usage des moyens informatiques, sinon par les facteurs. Cette formule renseigne les numéros d´ordre ainsi que les noms et prénoms des destinataires.\n\nPar dérogation aux dispositions de l´article 136 du règlement grand-ducal modifié du 26 juin 1981 sur le service intérieur des postes le facteur dépose les envois dans les boîtes à lettres des destinataires. Il certifie ce dépôt sur le bas de la liste en indiquant les envois qu´il n´a pu remettre et le motif.\n\nUn exemplaire de cette formule, ensemble avec les envois non remis, est retourné incontinent au président du bureau électoral, qui envoie le matériel électoral à la nouvelle adresse si le changement de résidence est le motif du renvoi.",
+      "text_sha256": "24e361a26b521c0aa82f9e276a2e6ca05b93ee20f12582fa1dc10a0b06f2c7a5",
+      "md_span": {
+        "start": 17042,
+        "end": 19012
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/jo",
+          "text": "loi modifiée du 4 avril 1924"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1981/06/26/n2/jo",
+          "text": "règlement grand-ducal modifié du 26 juin 1981"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_28/19840214",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 2 — *Du vote*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Chaque électeur dispose d’autant de suffrages qu’il y a de membres effectifs et de membres suppléants à élire dans sa catégorie.\n\nL’électeur peut attribuer deux suffrages à chacun des candidats jusqu’à concurrence du total des suffrages dont il dispose.\n\nL’électeur qui, à l’aide d’un crayon, d’une plume, d’un stylo à bille ou d’un instrument analogue, remplit le cercle blanc de la case placée en tête d’une liste ou qui y inscrit une croix (+ ou x) adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste.\n\nChaque croix (+ ou x) inscrite dans l’une des deux cases réservées derrière le nom des candidats vaut un suffrage à ce candidat.\n\nTout cercle rempli, même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.",
+      "text_sha256": "10ea59cbb92b4bba4178d4dca3ebbd1b41d1cf12f8b7b426ccbd164cd67f8c2d",
+      "md_span": {
+        "start": 19049,
+        "end": 19918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_29/19840214",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 2 — *Du vote*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "L’électeur s’abstient de faire sur le bulletin toute autre inscription, signature, rature ou signe quelconque.",
+      "text_sha256": "cacc1029a900c95a3a90f7a3eef5c08c46e63e8438f8073503cdbc3865d4013f",
+      "md_span": {
+        "start": 19955,
+        "end": 20065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_30/19840214",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 2 — *Du vote*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Il place le bulletin, plié en quatre, l’estampille à l’extérieur, dans la première enveloppe qu’il ferme. Il glisse celle-ci dans la seconde envelope portant l’adresse du président du bureau, ferme le pli, et le remet à la poste, comme lettre recommandée, au plus tard le 30 mars.",
+      "text_sha256": "d7dde296c48d4d23797666e5302db6899941dff9c77729355447958074ecbad1",
+      "md_span": {
+        "start": 20102,
+        "end": 20382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_31/19840214",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 2 — *Du vote*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Si l’électeur, par inadvertance, détériore le bulletin qui lui a été remis, il en demande un autre au président et renvoie sous le même pli le premier bulletin qui sera aussitôt détruit. Il en sera fait mention au procès-verbal de l’élection.",
+      "text_sha256": "ff699bc4bc475ec187d08e7aaef84ddad43035c32601f71e52f543cc1bc25a02",
+      "md_span": {
+        "start": 20419,
+        "end": 20661
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_32/19840214",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 2 — *Du vote*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Lorsque le srutin est clos, le bureau fait le récolement des bulletins non employés dans les différentes catégories, qui sont immédiatement détruits. Il est fait mention du nombre de ces bulletins au procès-verbal. Le papier électoral non employé est renvoyé par le bureau au Service central des imprimés et des fournitures de bureau de l’Etat.",
+      "text_sha256": "604cf08644e441c0f259267628f0a6c663e225e7ee9982b7e49282cc62af1722",
+      "md_span": {
+        "start": 20698,
+        "end": 21042
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_33/19840214",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 2 — *Du vote*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Nul n’est tenu de révéler le secret de son vote, à quelque réquisition que ce soit.",
+      "text_sha256": "0cce388017aa00cc7528f3c9933ae960a3520a95ded799e02f8349eafa26d510",
+      "md_span": {
+        "start": 21079,
+        "end": 21162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_34/19840214",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le bureau électoral siège à Luxembourg dans les locaux qui seront mis à sa disposition par l’Etat.",
+      "text_sha256": "a1ce264eec0f6333617b581d0c5d8f49653a08d05952526ca2ff94bfcb59cd3f",
+      "md_span": {
+        "start": 21247,
+        "end": 21345
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_35/19840214",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le srutin est clos le 31 mars à dix-huit heures. Le lendemain, le président remet au bureau les envelopes qu’il a reçues.\n\nLes enveloppes sont comptées, et leur nombre est inscrit au procès-verbal. Les numéros d’ordre des envelopes sont pointés dans les listes électorales.\n\nLes enveloppes extérieures sont ensuite ouvertes et détruites immédiatement; les enveloppes intérieures sont triées par catégories.\n\nLe bureau constitue trois sections comprenant chacune quatre assesseurs, un secrétaire ou secrétaire adjoint et présidées respectivement par le président du bureau et les deux vice-présidents.\n\nChaque section procède ensuite au dépouillement des bulletins d’une catégorie. Les bulletins sont comptés sans les déplier, et leur nombre est inscrit au procès-verbal.\n\nSi une enveloppe contient plusieurs bulletins, ceux-ci sont annulés et paraphés par le président et un assesseur; mention en est faite au procès-verbal.",
+      "text_sha256": "8fb3eb48803138a8158061a535f621af5c3d248366e8e840e1d096abb257dba3",
+      "md_span": {
+        "start": 21382,
+        "end": 22306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_36/19840214",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les bulletins sont dépliés et triés suivant qu’ils ont la case noircie ou marquée d’une croix, contiennent des votes nominatifs ou sont blancs.\n\nLes bulletins blancs sont de suite écartés, et leur nombre est inscrit au procès-verbal.\n\nLes bulletins à case noircie ou marquée d’une croix sont classés d’après les listes et vérifiés par le président et un assesseur. Ils sont ensuite comptés et portés sur les listes de dépouillement par deux assesseurs désignés par le président de section.\n\nLes bulletins à votes nominatifs sont vérifiés par deux assesseurs quant à leur validité, et le nombre des suffrages exprimés est contrôlé. Les bulletins douteux et nuls sont mis à part. Les suffrages inscrits sur les bulletins reconnus valables sont énoncés par le président, liste par liste, et portés par deux assesseurs sur les listes de dépouillement.",
+      "text_sha256": "56c4cf9c472bf921af755c24c766e566ebae2acbdbf01822c5109f53dcf79389",
+      "md_span": {
+        "start": 22343,
+        "end": 23190
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_37/19840214",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Les bulletins nuls et douteux sont soumis à un contrôle approfondi par tous les membres de la section. Les témoins présents ont voix consultative. Les bulletins définitivement déclarés nuls sont paraphés par le président et un assesseur, et leur nombre est inscrit au procès-verbal.\n\nLes suffrages exprimés sur les bulletins reconnus valables sont énoncés par le président et portés sur les listes de dépouillement par les deux assesseurs désignés par le président de section.",
+      "text_sha256": "252e2f206fa2cba3a38dd13ca0912c1185a71f0c332df2db44d3e80774212307",
+      "md_span": {
+        "start": 23227,
+        "end": 23703
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_38/19840214",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Sont nuls:\n\n1. tous les bulletins autres que ceux envoyés ou remis par le président aux électeurs;\n2. 1. s’il ne contient l’expression d’aucun suffrage;\n2. s’il exprime plus de suffrage qu’il y a de membres à élire;\n3. s’il porte une marque ou un signe distinctif quelconque, ou s’il est renfermé dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président;\n4. si le votant s’y est fait connaître.",
+      "text_sha256": "fab1d580345522bfe37c6a688cf993ce217aa5cdac234174e0509cdd8ebc4188",
+      "md_span": {
+        "start": 23740,
+        "end": 24168
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_39/19840214",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Pour l’élection de la Chambre les suffrages donnés dans chacune des différentes catégories à une liste en totalité (suffrages de liste) ou aux candidats individuellement (suffrages nominatifs) comptent tant à la liste pour le calcul de la répartition proportionnelle des sièges entre les listes de cette catégorie qu’aux candidats pour l’attribution des sièges dans les listes de la même catégorie.\n\nLe suffrage exprimé dans la case figurant en tête d’une liste compte à cette liste pour autant de suffrages de liste qu’il y figure de candidats.\n\nLes suffrages recueillis par un candidat décédé après l’expiration du terme pour les déclarations de candidatures sont valablement acquis à la liste à laquelle il appartient.",
+      "text_sha256": "e3a742c8e6ebfaf88b43752f17052bf6a0d28648af146a904969b91c0522e407",
+      "md_span": {
+        "start": 24205,
+        "end": 24926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_40/19840214",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Lorsque le bureau doit interrompre ses travaux, tous les bulletins et les listes de dépouillement de toutes les sections sont réunis dans un local que le président, en présence de deux membres au moins, ferme à clef et met sous scellé.\n\nA la reprise des travaux, ce local ne peut être ouvert par le président qu’après vérification des scellés par deux membres du bureau. Toute irrégularité constatée est à mentionner au procès-verbal.",
+      "text_sha256": "6a9baad8314107033c9868cc0d21d9f79840cf077db434543f03cb834fe7e0d2",
+      "md_span": {
+        "start": 24963,
+        "end": 25397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_41/19840214",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le bureau arrête pour les différentes catégories:\n\n1. le nombre des votants,\n2. celui des bulletins nuls et des bulletins valables,\n3. le nombre des suffrages de listes ainsi que celui des suffrages nominatifs.\n\nIl les fait inscrire au procès-verbal.",
+      "text_sha256": "2f69766c0649c2c84942d77bee4b3f52d2efc95642d483348117d95012a8d303",
+      "md_span": {
+        "start": 25434,
+        "end": 25684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_42/19840214",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Pour chacune des différentes catégories d’électeurs, le nombre total des suffrages valables des listes est divisé par le nombre des membres effectifs à élire dans cette catégorie, augmenté de un.\n\nOn appelle « nombre électoral » le nombre entier qui est immédiatement supérieur au quotient ainsi obtenue.\n\nA chaque liste d’une catégorie, il est attribué autant de sièges de membres effectifs et autant de sièges de membres suppléants dans cette catégorie que le nombre électoral est contenu de fois dans le nombre des suffrages recueillis par cette liste.\n\nLorsque le nombre des membres effectifs et des membres suppléants élus par cette répartition reste inférieur à celui des membres effectifs et des membres suppléants à élire dans cette catégorie, on divise le nombre des suffrages de chaque liste de la même catégorie par le nombre de sièges de membres effectifs qu’elle a déjà obtenus augmenté de un; le siège de membre effectif et le siège correspondant de membre suppléant sont attribués à la liste qui obtient le quotient le plus élevé. On répète le même procédé, s’il reste encore des sièges disponibles dans cette catégorie.\n\nEn cas d’égalité de quotient, le siège disponible de membre effectif et celui de membre suppléant sont attribués à la liste qui a recueilli le plus de suffrages.\n\nLes différents sièges de membres effectifs, respectivement de membres suppléants, dont dispose une catégorie sont attribués dans chaque liste aux candidats ayant obtenu le plus grand nombre de suffrages. En cas d’égalité de suffrages, l’élection est acquise au candidat le plus âgé.\n\nSi une liste d’une catégorie obtient plus de représentants qu’elle n’a présenté de candidats, le nombre des sièges restant à pourvoir est distribué entre les autres listes de la même catégorie. On procède à cet effet à une nouvelle répartition proportionnelle.\n\nToutefois, si par les opérations qui précèdent plus de deux sièges de membres effectifs étaient à attribuer dans une catégorie à des candidats d’une même administration de l’Etat ou d’un même établissement public ou d’utilité publique, les deux candidats élus de cette administration ou de cet établissement, à quelque liste qu’ils appartiennent, qui ont obtenu le plus grand nombre de suffrages sont définitivement déclarés élus membres effectifs. En cas de parité de suffrages, l’élection est acquise au candidat le plus âgé. Le siège restant à pourvoir est attribué au premier suppléant de la liste qui n’est pas de la même administration ou du même établissement. Le membre élu écarté prendra rang comme premier suppléant de sa liste.",
+      "text_sha256": "99ffffbe72bce45d8c7db9c0282c9ff4ae2e91edc1bd59fde3398b77b678109f",
+      "md_span": {
+        "start": 25721,
+        "end": 28305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_43/19840214",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Le procès-verbal est signé séance tenante par les membres et le secrétaire de la section qui a procédé au dépouillement des bulletins. Les procès-verbaux des trois sections, les listes électorales et les bulletins valables et nuls sont envoyés par le président du bureau électoral au Ministre de la Fonction Publique, le tout sous une ou plusieurs envelopes cachetées.",
+      "text_sha256": "c288f851700597f05170a3885bf27f36e27db47747f1d29a59b6b00ffa85485c",
+      "md_span": {
+        "start": 28342,
+        "end": 28710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_44/19840214",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Titre IV — Opérations électorales",
+        "Chapitre 3 — *Du dépouillement du scrutin*"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Sont publiés par la voie du Mémorial pour les différentes catégories:\n\n1. les nom et prénoms des membres effectift et des membres suppléants dans l’ordre des suffrages qu’ils ont obtenues,\n2. le nombre des votants,\n3. le nombre des bulletins nuls et des bulletins valables,\n4. le nombre des suffrages de listes ainsi que des suffrages nominatifs.\n\nA l’expiration des délais prévus pour l’introduction des réclamations, tous les documents relatift à l’élection sont détruits.",
+      "text_sha256": "6fcc1b1fe6ae305c89b7fd98868e18ac0cd5f1dc67548c474f941dbc9cdcf9ec",
+      "md_span": {
+        "start": 28747,
+        "end": 29221
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_45/19840214",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Titre V — Répartition des électeurs par catégories"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "La répartition des fonctionnaires et retraités de l’Etat et du personnel des établissements publics et d’utilité publique, pour autant qu’il est assimilé aux fonctionnaires de l’Etat, dans les catégories A, B et C est celle qui de l’annexe D de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, aux rubriques I Administration générale, II Magistrature, III Force Publique, IV Enseignement et V Cultes sous la dénomination des carrières en supérieure, moyenne et inférieure, à l’exception du personnel de l’éduction préscolaire et de l’enseignement primaire ainsi que des instituteurs de l’enseignement technique et professionnel et des Ministres du culte catholique.\n\nLes fonctionnaires dont les fonctions sont classées à la rubrique VI Fonctions spéciales à indice fixe de l’annexe A de la loi précitée appartiennent à la catégorie supérieure.",
+      "text_sha256": "7e5891e92653d779ba7c20e962eea1064643864198d7a8a89ac58ec9109c07ca",
+      "md_span": {
+        "start": 29313,
+        "end": 30193
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_46/19840214",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Titre V — Répartition des électeurs par catégories"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Sont abrogés toutes les dispositions contraires aux présentes et notamment le règlement grand-ducal du 28 octobre 1964 tel qu’il a été modifié par la suite.",
+      "text_sha256": "596e46a15f4ce3210f1b93323fadc3e4fabeb4ed6ccdcb82d193d6ad41eb2d61",
+      "md_span": {
+        "start": 30230,
+        "end": 30386
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1964/10/28/n1/jo",
+          "text": "règlement grand-ducal du 28 octobre 1964"
+        }
+      ]
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/art_47/19840214",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Titre V — Répartition des électeurs par catégories"
+      ],
+      "article_valid_from": "1984-02-14",
+      "text_md": "Notre Ministre ayant la Chambre dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "f42a348857cc49275bf3534f1edc7115765888ff7525eadd16b3d7def03d4bd3",
+      "md_span": {
+        "start": 30423,
+        "end": 30552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-1984-01-17-n3:1985-02-11#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Instructions pour l’électeur**\n\n1° Les élections pour la Chambre des fonctionnaires et employés publics ont lieu au scrutin de liste.\n\n2° L’électeur n’a le droit de vote que pour la catégorie pour laquelle il a été porté sur les listes électorales.\n\nNul ne peut exercer l’électorat pour plus d’une catégorie.\n\nChaque électeur dispose d’autant de suffrages qu’il y a de membres effectifs et de membres suppléants à élire dans sa catégorie.\n\nL’électeur peut attribuer deux suffrages à chacun des candidats jusqu’à concurrence du total des suffrages dont il dispose.\n\nL’électeur qui, à l’aide d’un crayon, d’une plume, d’un stylo à bille ou d’un instrument analogue remplit le cercle de la case placée en tête d’une liste ou qui y inscrit une croix (+ ou x), adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste.\n\nChaque croix (+ ou x), inscrite dans une des deux cases réservées derrière le nom d’un candidat, vaut un suffrage à ce candidat. Tout cercle rempli, même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.\n\nToute croix tracée dans un autre endroit que dans une case réservée à cette fin entraîne la nullité du bulletin de vote.\n\nL’électeur ne doit faire sur le bulletin aucune autre inscription, signature, rature ou signe quelconques. Exemple: Pour la catégorie C, il y a neuf membres effectifs et neuf membres suppléants, donc en tout dix-huit membres à élire.\n\nIl y a pour ce groupe trois listes dont les nos 1 et 3 comprennent dix-huit candidats, tandis que la liste n° 2 ne comprend que neuf candidats.\n\nL’électeur qui veut émettre toutes les voix dont il dispose peut:\n\n1. attribuer tous les 18 suffrages à l’une des listes n° 1 ou 3, soit en remplissant le cercle de la case placée en tête de ladite liste soit en y inscrivent une croix (+ ou x), et attribuer ainsi une voix à chacun des 18 candidats;\n2. ou bien attribuer tous les 18 suffrages à la liste n° 2, soit en remplissant le cercle de la case placée en tête de cette liste et en inscrivant en outre une croix derrière les neuf noms de la liste dans l’une des deux cases réservées à cette fin, soit en ne remplissant pas le cercle de la case placée en tête et en inscrivant deux croix derrière les neuf noms dans les cases réservées à cette fin;\n3. L’électeur remplit le cercle de la case placée en tête de la liste n° 2 et attribue les neuf suffrages restants en partie à la même liste en inscrivant une croix derrière différents noms de la liste dans l’une des deux cases réservées à cette fin et en partie aux listes nos 1 et 3 en inscrivant une ou deux croix derrière différents noms desdites listes dans les cases réservées à cette fin; ou bien l’électeur ne remplit le cercle d’aucune liste et répartit ses suffrages à son gré sur les différentes listes en inscrivant une ou deux croix, jusqu’à concurrence du nombre 18, dans l’une ou les deux cases se trouvant derrière les noms des candidats.\n\n3° Le 20 mars au plus tard, le président du bureau électoral transmet à chaque électeur, par lettre recommandée, un bulletin de vote, le texte des instructions pour les électeurs ainsi que deux enveloppes électorales.\n\nAprès avoir exprimé son vote, l’électeur place le bulletin, plié en quatre, l’estampille à l’extérieur, dans la première enveloppe, qu’il ferme et qui porte l’indication « Elections pour la Chambre des fonctionnaires et employés publics, loi modifiée du 4 avril 1924 ». Il glisse celle-ci dans la seconde enveloppe, portant l’adresse du président du bureau électoral, ferme le pli et le remet à la poste comme envoi recommandé, au plus tard le 30 mars.\n\nLe délai légal pour la clôture du scrutin expirant le 31 mars, tous les bulletins de vote, qui sont remis au bureau électoral après cette date sont entachés de nullité.\n\nSi l’électeur, par inadvertance, détériore le bulletin qui lui a été remis, il demande un autre au président du bureau électoral, en lui renvoyant le premier.\n\n4° Si une enveloppe contient plusieurs bulletins, ceux-ci seront considérés comme nuls.\n\nSont nuls\n\n1. tous les bulletins autres que ceux envoyés ou remis par le président aux électeurs;\n2. 1. s’il ne contient l’expression d’aucun suffrage;\n2. s’il exprime plus de suffrages qu’il y a de membres effectifs et suppléants à élire;\n3. s’il porte une marque ou un signe distinctif quelconque, s’il est renfermé dans une envelope marquée ou dans une enveloppe autre que celle délivrée par le président;\n4. si le votant s’y est fait connaître.\n\n5° Conformément à l’article 18 de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective, sera puni d’une amende de 2.501 à 50.000 francs quiconque, pour déterminer un électeur à s’abstenir de voter, ou à remettre un bulletin de vote nul, ou, pour influencer son vote ou pour empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violences ou de menaces ou lui aura fait craindre de perdre son emploi ou d’exposer à un dommage sa personne, sa famille ou sa fortune;\n\nquiconque aura contrefait un bulletin électoral ou aura fait usage d’un bulletin contrefait;\n\ncelui qui aura voté sans être électeur ou qui aura voté sous le nom d’un autre électeur et celui qui, d’une manière quelconque aura distrait ou retenu un ou plusieurs bulletins officiels de vote.",
+      "text_sha256": "7a7db6c1a8898323e1ff58006798030682cf245ccb79537eb2ad30ea8ba6cbfe",
+      "md_span": {
+        "start": 30593,
+        "end": 36003
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1924/04/04/n1/jo",
+          "text": "loi modifiée du 4 avril 1924"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,404 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15",
+  "language": "fr",
+  "title": "Loi du 13 juillet 2018 portant création d’un lycée à Mondorf-les-Bains.",
+  "valid_from": "2021-09-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2018-07-13-a652/versions/2021-09-15/fr.xml",
+    "sha256": "d104feee1008839bfd5ca811a135a4521fcfe819ae2217b14a2b86b9573134ef",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/consolide/20210915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_1er/20180917",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Le lycée à Mondorf-les-Bains"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Il est créé un lycée sur le territoire de la commune de Mondorf-les-Bains. Les services du lycée incluent un internat.",
+      "text_sha256": "dd86330fb9b0f1d8f9304315491080808ff4245b4ffd970cc63888731e93565b",
+      "md_span": {
+        "start": 599,
+        "end": 717
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_2/20180917",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Le lycée à Mondorf-les-Bains"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Le lycée peut offrir, selon les besoins et les infrastructures, les enseignements secondaires prévus à l’article 1*bis* de la loi modifiée du 25 juin 2004 portant organisation des lycées, dénommée ci-après « loi modifiée du 25 juin 2004 ».",
+      "text_sha256": "de642401b8c44188fd9b574706af63a1c05d8e029214e4a8f9c007ae74d8ea0e",
+      "md_span": {
+        "start": 752,
+        "end": 991
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_3/20180917",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Le lycée à Mondorf-les-Bains"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Sans préjudice des dispositions applicables à l’école européenne, les enseignements secondaires de l’établissement sont soumis aux lois et règlements de l’enseignement secondaire.",
+      "text_sha256": "4945aaca1dd2760cc1e913a4ca39bc92175371c465534595ccf0f61513c0b3fd",
+      "md_span": {
+        "start": 1026,
+        "end": 1205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_4/20210915",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Le lycée à Mondorf-les-Bains"
+      ],
+      "article_valid_from": "2021-09-15",
+      "text_md": "**(1)** Le cadre du personnel comprend un directeur, deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État. Il peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État dans la limite des crédits budgétaires.\n\n**(2)** Le cadre prévu au paragraphe 1er peut, suivant les besoins du service, dans les limites des crédits budgétaires et par dérogation à l’article 3, paragraphe 1er, point e), de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, être complété par des employés enseignants qui remplissent les conditions particulières suivantes :\n\n1. avoir eu accès à la fonction enseignante ou d’encadrement socio-éducatif ou psycho-social dans un pays membre de l’Union européenne ou de l’Association européenne de libre-échange ;\n2. se prévaloir d’une expérience professionnelle d’au moins cinq ans dans la fonction enseignante ou dans une fonction d’encadrement socio-éducatif ou psycho-social en relation avec l’apprentissage ou l’enseignement ;\n3. loi du 24 février 1984\n\n**(3)** L’enseignement peut être assuré par des enseignants d’autres établissements détachés ou transférés.",
+      "text_sha256": "4da664a7c9413e20ce81e3c37680af91ece2ba8d25d1b4a9f45305e9864cf365",
+      "md_span": {
+        "start": 1240,
+        "end": 2596
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_5/20210915",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — L’école européenne agréée"
+      ],
+      "article_valid_from": "2021-09-15",
+      "text_md": "Au sein du lycée à Mondorf-les-Bains est créée une école européenne agréée portant la dénomination « École internationale de Mondorf-les-Bains » désignée ci-après « École ». Elle fait partie de la même entité administrative que le lycée et est placée sous la direction du lycée.",
+      "text_sha256": "378564777bca253bef4b9aa2c406eef381d20f533094377b6de02da33bfe620f",
+      "md_span": {
+        "start": 2674,
+        "end": 2952
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_6/20180917",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — L’école européenne agréée"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "L’École a pour mission l’éducation et l’enseignement communs d’élèves d’origines diverses et de proposer un enseignement européen multilingue et pluriculturel aux élèves nationaux. Lors de la mise en œuvre des programmes et du choix des matériels d’enseignement une attention particulière est consacrée à l’idée européenne, à l’éducation au respect mutuel et à l’ouverture sur le monde extérieur.",
+      "text_sha256": "40fde4d286348c2b2c9b3525628952bcb373e87f51f22bb892d2c791ec004714",
+      "md_span": {
+        "start": 2987,
+        "end": 3383
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_7/20180917",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — L’école européenne agréée"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "L’offre scolaire de l’École peut comporter :\n\n1. le cycle de deux années de l’enseignement « early éducation - maternel » européen ;\n2. le cycle de cinq années de l’enseignement primaire européen ;\n3. le cycle de sept années de l’enseignement secondaire européen.\n\nIl est offert au moins deux sections linguistiques choisies parmi la section anglophone, la section francophone et la section germanophone. Un règlement grand-ducal peut élargir l’offre des sections linguistiques à d’autres sections prévues par l’annexe II de la Convention portant statut des Écoles Européennes, signée à Luxembourg, le 21 juin 1994 et approuvée par la loi du 23 décembre 1998. Dans chaque cycle sont offerts des cours obligatoires de langue luxembourgeoise.",
+      "text_sha256": "4eeeb2459f9b8af7dcd92ac7763b5de0b2d04cfeedae02f58531684cd0ed9487",
+      "md_span": {
+        "start": 3418,
+        "end": 4158
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/12/23/n9/jo",
+          "text": "loi du 23 décembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_8/20180917",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — L’école européenne agréée"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "**(1)** Le fonctionnement et l’organisation de l’École sont soumis aux dispositions de la loi modifiée du 25 juin 2004, à l’exception de son article 5 qui ne s’applique pas. Toute référence dans la loi modifiée du 25 juin 2004 au terme « lycée » s’entend comme référence à l’*« *École ».\n\n**(2)** L’organisation des études, les contenus, les modalités de l’enseignement et les certifications de l’enseignement européen de l’École sont soumis à la Convention portant statut des Écoles Européennes, signée à Luxembourg le 21 juin 1994 et approuvée par la loi du 23 décembre 1998.",
+      "text_sha256": "ff952297d37aca47bf5b2d002efd6177ab7e092e10414f4a76838a97ad3b479a",
+      "md_span": {
+        "start": 4193,
+        "end": 4770
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1998/12/23/n9/jo",
+          "text": "loi du 23 décembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_9/20180917",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — L’école européenne agréée"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Par dérogation à l’article 8, paragraphe 1er, l’École n’est pas soumise à la disposition de l’inscription prioritaire telle que définie à l’article 37 de la loi modifiée du 25 juin 2004. Les nouvelles admissions à l’École sont réglées comme suit :\n\n1. er\n2. les élèves sont admis à la première année de l’enseignement primaire européen à la fin du cycle 1.2 de l’enseignement fondamental luxembourgeois ;\n3. e\n4. loi modifiée du 25 juin 2004",
+      "text_sha256": "572b9d87d26cff153c6b95292c6744a33852cd04f9af7a6d154f6289ccec99fa",
+      "md_span": {
+        "start": 4805,
+        "end": 5246
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_10/20180917",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Dispositions modificatives"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "La loi du 22 juillet 2008 portant création d’un lycée à Junglinster est modifiée comme suit :\n\n1. Le lycée peut offrir, selon les besoins et les infrastructures, les enseignements secondaires prévus à l’article 1*bis* de la loi modifiée du 25 juin 2004 portant organisation des lycées, dénommée ci-après « loi modifiée du 25 juin 2004 ». ;\n2. **(1)** Le cadre du personnel comprend un directeur, trois directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État. Il peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État dans la limite des crédits budgétaires. **(2)** Le cadre prévu au paragraphe 1er peut, suivant les besoins du service, dans les limites des crédits budgétaires et par dérogation à l’article 3, paragraphe 1er, point e), de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, être complété par des employés enseignants qui remplissent les conditions particulières suivantes : 1. avoir eu accès à la fonction enseignante ou d’encadrement socio-éducatif ou psycho-social dans un pays membre de l’Union européenne ou de l’Association européenne de libre-échange ;\n2. se prévaloir d’une expérience professionnelle d’au moins cinq ans dans la fonction enseignante ou dans une fonction d’encadrement socio-éducatif ou psycho-social en relation avec l’apprentissage ou l’enseignement ;\n3. loi du 24 février 1984 **(3)** L’enseignement peut être assuré par des enseignants d’autres établissements détachés ou transférés. » ;\n3. Sans préjudice des dispositions applicables à l’école européenne, les enseignements secondaires de l’établissement sont soumis aux lois et règlements de l’enseignement secondaire. » ;\n4. Les articles 5 et 6 sont abrogés ;\n5. Au sein du lycée à Junglinster est créée une école européenne agréée portant la dénomination « École internationale Junglinster » désignée ci-après « École ». Elle fait partie de la même entité administrative que le lycée et est placée sous la direction du lycée. L’École a pour mission l’éducation et l’enseignement communs d’élèves d’origines diverses et de proposer un enseignement européen multilingue et pluriculturel aux élèves nationaux. Lors de la mise en œuvre des programmes et du choix des matériels d’enseignement une attention particulière est consacrée à l’idée européenne, à l’éducation au respect mutuel et à l’ouverture sur le monde extérieur. L’offre scolaire de l’École peut comporter : 1. le cycle de deux années de l’enseignement « early éducation - maternel » européen ;\n2. le cycle de cinq années de l’enseignement primaire européen ;\n3. le cycle de sept années de l’enseignement secondaire européen. Il est offert au moins deux sections linguistiques choisies parmi la section anglophone, la section francophone et la section germanophone. Un règlement grand-ducal peut élargir l’offre des sections linguistiques à d’autres sections prévues par l’annexe II de la Convention portant statut des Écoles Européennes, signée à Luxembourg, le 21 juin 1994 et approuvée par la loi du 23 décembre 1998. Dans chaque cycle sont offerts des cours obligatoires de langue luxembourgeoise. **(1)** Le fonctionnement et l’organisation de l’École sont soumis aux dispositions de la loi modifiée du 25 juin 2004, à l’exception de son article 5 qui ne s’applique pas. Toute référence dans la loi modifiée du 25 juin 2004 au terme « lycée » s’entend comme référence à l’« École ». **(2)** L’organisation des études, les contenus, les modalités de l’enseignement et les certifications de l’enseignement européen de l’École sont soumis à la Convention portant statut des Écoles Européennes, signée à Luxembourg le 21 juin 1994 et approuvée par la loi du 23 décembre 1998. Par dérogation à l’article 10, paragraphe 1er, l’École n’est pas soumise à la disposition de l’inscription prioritaire telle que définie à l’article 37 de la loi modifiée du 25 juin 2004. Les nouvelles admissions à l’École sont réglées comme suit : 1. er\n2. les élèves sont admis à la première année de l’enseignement primaire européen à la fin du cycle 1.2 de l’enseignement fondamental luxembourgeois ;\n3. e\n4. loi modifiée du 25 juin 2004",
+      "text_sha256": "593523cccf2d78d054f29bf7aa368d79e072928489584fd4ed2ef3d1ab47dc03",
+      "md_span": {
+        "start": 5327,
+        "end": 9673
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/07/22/n3/jo",
+          "text": "loi du 22 juillet 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1998/12/23/n9/jo",
+          "text": "loi du 23 décembre 1998"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1998/12/23/n9/jo",
+          "text": "loi du 23 décembre 1998."
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_11/20180917",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Dispositions modificatives"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "La loi modifiée du 13 juin 2013 portant création d’un lycée à Clervaux est modifiée comme suit :\n\n1. L’offre scolaire comporte : 1. bis loi modifiée du 25 juin 2004 loi modifiée du 25 juin 2004\n2. une structure d’accueil pour élèves à besoins spécifiques. » ;\n2. **(1)** Le cadre du personnel comprend un directeur, deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État. Il peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État dans la limite des crédits budgétaires. **(2)** Le cadre prévu au paragraphe 1er peut, suivant les besoins du service, dans les limites des crédits budgétaires et par dérogation à l’article 3, paragraphe 1er, point e), de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, être complété par des employés enseignants qui remplissent les conditions particulières suivantes : 1. avoir eu accès à la fonction enseignante ou d’encadrement socio-éducatif ou psycho-social dans un pays membre de l’Union européenne ou de l’Association européenne de libre-échange ;\n2. se prévaloir d’une expérience professionnelle d’au moins cinq ans dans la fonction enseignante ou dans une fonction d’encadrement socio-éducatif ou psycho-social en relation avec l’apprentissage ou l’enseignement ;\n3. loi du 24 février 1984 **(3)** L’enseignement peut être assuré par des enseignants d’autres établissements détachés ou transférés. » ;\n3. Sans préjudice des dispositions applicables à l’école européenne, les enseignements secondaires de l’établissement sont soumis aux lois et règlements de l’enseignement secondaire. » ;\n4. L’article 6 est abrogé ;\n5. Au sein du lycée à Clervaux est créée une école européenne agréée portant la dénomination « École internationale Edward Steichen - Clervaux » désignée ci-après « École ». Elle fait partie de la même entité administrative que le lycée et est placée sous la direction du lycée. L’École a pour mission l’éducation et l’enseignement communs d’élèves d’origines diverses et de proposer un enseignement européen multilingue et pluriculturel aux élèves nationaux. Lors de la mise en œuvre des programmes et du choix des matériels d’enseignement une attention particulière est consacrée à l’idée européenne, à l’éducation au respect mutuel et à l’ouverture sur le monde extérieur. L’offre scolaire de l’École peut comporter : 1. le cycle de deux années de l’enseignement « early éducation - maternel » européen ;\n2. le cycle de cinq années de l’enseignement primaire européen ;\n3. le cycle de sept années de l’enseignement secondaire européen. Il est offert au moins deux sections linguistiques choisies parmi la section anglophone, la section francophone et la section germanophone. Un règlement grand-ducal peut élargir l’offre des sections linguistiques à d’autres sections prévues par l’annexe II de la Convention portant statut des Écoles Européennes, signée à Luxembourg, le 21 juin 1994 et approuvée par la loi du 23 décembre 1998. Dans chaque cycle sont offerts des cours obligatoires de langue luxembourgeoise. **(1)** Le fonctionnement et l’organisation de l’École sont soumis aux dispositions de la loi modifiée du 25 juin 2004, à l’exception de son article 5 qui ne s’applique pas. Toute référence dans la loi modifiée du 25 juin 2004 au terme « lycée » s’entend comme référence à l’« École ». **(2)** L’organisation des études, les contenus, les modalités de l’enseignement et les certifications de l’enseignement européen de l’École sont soumis à la Convention portant statut des Écoles Européennes, signée à Luxembourg le 21 juin 1994 et approuvée par la loi du 23 décembre 1998. Par dérogation à l’article 10, paragraphe 1er, l’École n’est pas soumise à la disposition de l’inscription prioritaire telle que définie à l’article 37 de la loi modifiée du 25 juin 2004. Les nouvelles admissions à l’École sont réglées comme suit : 1. er\n2. les élèves sont admis à la première année de l’enseignement primaire européen à la fin du cycle 1.2 de l’enseignement fondamental luxembourgeois ;\n3. e\n4. loi modifiée du 25 juin 2004",
+      "text_sha256": "66904f4eeca46b8451286916d16a2c7ed38184f948f0f888d1869574cc7be14a",
+      "md_span": {
+        "start": 9710,
+        "end": 13977
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/06/13/n4/jo",
+          "text": "loi modifiée du 13 juin 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1998/12/23/n9/jo",
+          "text": "loi du 23 décembre 1998"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_12/20180917",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Dispositions modificatives"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "L’article 3 de la loi modifiée du 26 février 2016 portant création d’une école internationale publique à Differdange est complété par l’alinéa suivant :« Dans chaque cycle sont offerts des cours obligatoires de langue luxembourgeoise. ».",
+      "text_sha256": "bd3c43cc54857332e12482c7f0172dde098f0838f87ed84621950f6de6d73b3b",
+      "md_span": {
+        "start": 14014,
+        "end": 14251
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/02/26/n1/jo",
+          "text": "loi modifiée du 26 février 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_13/20180917",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Dispositions modificatives"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "La loi du 15 décembre 2017 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2018 est modifiée comme suit :\n\n1. à l’article 47, alinéa II. Administrations dépendant du Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse, est ajouté le tiret suivant : - Lycée à Mondorf-les-Bains ;\n2. le crédit de l’article 10.0.41.052. - Services de l’État à gestion séparée : frais de consommation d’eau, de gaz, d’électricité et de chauffage (Crédit non limitatif et sans distinction d’exercice) est porté à 8.120.363 euros ;\n3. le crédit de l’article 10.6.41.050. - Dotation dans l’intérêt du fonctionnement du service des restaurants scolaires (Crédit non limitatif) est porté à 9.493.500 euros ;\n4. est ajouté l’article 11.0.41.053. - Dotation dans l’intérêt du fonctionnement de l’enseignement primaire à l’École Internationale de Mondorf-les-Bains, 332.500 euros ;\n5. le crédit de l’article 11.1.41.085. - Dotation dans l’intérêt du fonctionnement des établissements d’enseignement secondaire classique et secondaire général est porté à 19.135.280 euros.",
+      "text_sha256": "c47e5de2c6f96f33573a4f63ebab93a8b4bc2bfd4d3c5e6af95dce3f6a055378",
+      "md_span": {
+        "start": 14288,
+        "end": 15374
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2017/12/15/a1097/jo",
+          "text": "loi du 15 décembre 2017"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_14/20180917",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Dispositions modificatives"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "La référence à la présente loi se fait sous la forme suivante : « loi du 13 juillet 2018 portant création d’un lycée à Mondorf-les-Bains ».",
+      "text_sha256": "a4311220e87a6a12692534c7197c41f5fec27d007f9318407ef086471ba237ff",
+      "md_span": {
+        "start": 15411,
+        "end": 15550
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 13 juillet 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2018-07-13-a652:2021-09-15#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/art_15/20180917",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Dispositions modificatives"
+      ],
+      "article_valid_from": "2018-09-17",
+      "text_md": "La présente loi est applicable à partir de l’année scolaire 2018/2019.",
+      "text_sha256": "adc97294e4686d5b9ea10da1d532549e69dc065a96379d0ba4882343cbd2a755",
+      "md_span": {
+        "start": 15587,
+        "end": 15657
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,108 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1982-03-18-n5:2002-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2002 : Loi du 18 mars 1982 relative aux changements de noms et de prénoms et modifiant l'article 10 de l'arrêté grand-ducal du 12 mai 1945 portant nouvelle fixation de certains droits de timbre et des droits de chancellerie.",
+  "valid_from": "2002-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1982-03-18-n5/versions/2002-01-01/fr.xml",
+    "sha256": "96998f39ccc01a3a34be3c3e46eaa64ee2c71dac33b6f4dc93350ec37ee4d803",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/consolide/20020101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1982-03-18-n5:2002-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/art_1er/19820426",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-04-26",
+      "text_md": "Le Titre Il de la loi du 11-21 germinal an XI relative aux prénoms et changements de noms est modifié comme suit:",
+      "text_sha256": "cfcb7a937e060778ab888db37eaedea5fa6c0e5f49bbe6904f7296e4162a13f7",
+      "md_span": {
+        "start": 739,
+        "end": 852
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1803/04/01/n1/jo",
+          "text": "loi du 11-21 germinal an XI"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1982-03-18-n5:2002-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/art_2/19820426",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-04-26",
+      "text_md": "Les articles 4, 6, 7 et 8 de la loi du 11-21 germinal an XI relative aux prénoms et changements de noms sont modifiés comme suit:",
+      "text_sha256": "aec3ac4d97ff6c0a6e471d1ce2c9ea2055c3594b346686c8d479a1cdc8298a3b",
+      "md_span": {
+        "start": 887,
+        "end": 1016
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1803/04/01/n1/jo",
+          "text": "loi du 11-21 germinal an XI"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1982-03-18-n5:2002-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/art_3/20020101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Par dérogation à l'article 10 de l'arrêté grand-ducal du 12 mai 1945 portant nouvelle fixation de certains droits de timbre et des droits de chancellerie, les arrêtés accordant changement de nom ou de prénoms sont assujettis à un droit d'enregistrement de 61 à 185 euros à fixer par règlement grand-ducal.",
+      "text_sha256": "97f18982247500701a3838a43bedc4ad82815343310c4d63f249c5964a736cae",
+      "md_span": {
+        "start": 1051,
+        "end": 1356
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1945/05/12/n2/jo",
+          "text": "arrêté grand-ducal du 12 mai 1945"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1982-03-18-n5:2002-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/art_4/19820426",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-04-26",
+      "text_md": "Toute personne née au Grand-Duché de Luxembourg avant le 1er janvier 1945 peut demander à l'Officier de l'état civil du lieu de sa naissance le remplacement de son prénom à consonance allemande par le prénom à consonance française correspondant. L'officier de l'état civil inscrit le nouveau prénom en marge de l'acte de naissance.",
+      "text_sha256": "7ca4d5adbb8701d70b85ab34e31dbad1583ec1c1ed2ddff3d8224d1d133d118b",
+      "md_span": {
+        "start": 1391,
+        "end": 1722
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

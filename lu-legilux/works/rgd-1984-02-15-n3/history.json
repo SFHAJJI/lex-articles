@@ -1,0 +1,29 @@
+{
+  "lex_work_id": "lu-legilux:rgd-1984-02-15-n3",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2024-04-21",
+        "valid_to": null,
+        "text_sha256": "e818f59c38ab0fb2283280b922b36d8dc45e309fd7cc2f60722a14f38af53ae5",
+        "in_version": "lu-legilux:rgd-1984-02-15-n3:2024-04-21",
+        "article_valid_from": "2024-04-21"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2024-04-21",
+        "valid_to": null,
+        "text_sha256": "d9525a03d5cd3ea73b7182cdecb623eed94cb9a337b6766c99e4d10866163834",
+        "in_version": "lu-legilux:rgd-1984-02-15-n3:2024-04-21",
+        "article_valid_from": "1984-03-14",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

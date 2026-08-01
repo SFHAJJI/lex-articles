@@ -1,0 +1,46 @@
+{
+  "lex_work_id": "lu-legilux:rgc-1987-05-08-n6",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "1992-09-15",
+        "valid_to": null,
+        "text_sha256": "1a2f3a49be7d8e23ff5e62224413fb859f779a30149ea02a92c973ae23f5703e",
+        "in_version": "lu-legilux:rgc-1987-05-08-n6:1992-09-15",
+        "article_valid_from": "1992-09-15"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1992-09-15",
+        "valid_to": null,
+        "text_sha256": "eca8494bb553a3c084c7ccf4636fe24e2df411d6c97cfe771802fe1ffb0de24c",
+        "in_version": "lu-legilux:rgc-1987-05-08-n6:1992-09-15",
+        "article_valid_from": "1992-09-15"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "1992-09-15",
+        "valid_to": null,
+        "text_sha256": "15f7887011161696666e45beb820f7c4c525423dcbe7b9c8825d0cb6f1a7b0f1",
+        "in_version": "lu-legilux:rgc-1987-05-08-n6:1992-09-15",
+        "article_valid_from": "1992-09-15"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "1992-09-15",
+        "valid_to": null,
+        "text_sha256": "dd7807fcaed42d7f755f4764b0118095c5b39cd14109adc3e04fdff59e7a9903",
+        "in_version": "lu-legilux:rgc-1987-05-08-n6:1992-09-15",
+        "article_valid_from": "1992-09-15"
+      }
+    ]
+  },
+  "anchor_events": []
+}

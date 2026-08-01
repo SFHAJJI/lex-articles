@@ -1,0 +1,59 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2001-10-18-n3:2007-02-16",
+  "language": "fr",
+  "title": "Version consolidée applicable au 24/02/2026 : Règlement grand-ducal du 18 octobre 2001 déterminant la liste des vaccinations recommandées.",
+  "valid_from": "2007-02-16",
+  "valid_to": "2008-07-28",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2001-10-18-n3/versions/2007-02-16/fr.xml",
+    "sha256": "0b6650214efc54465cb6baf1e42976e9219046af6f492bc404c17c807325ef63",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20070216/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2001-10-18-n3:2007-02-16#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/art_1er/20070216",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2007-02-16",
+      "text_md": "La liste des vaccinations recommandées est déterminée comme suit:\n\n1. Vaccinations universelles: - - la diphtérie\n- le tétanos\n- la coqueluche au moyen du vaccin acellulaire\n- la poliomyélite\n- haemophilus influenzæ type b\n- l'hépatite B\n- la rougeole\n- la rubéole\n- les oreillons\n- le pneumocoque au moyen du vaccin conjugué 7-valent\n- le méningocoque au moyen du vaccin anti-méningococcique C\n- le Rotavirus\n2. Vaccinations pour groupes-cibles spécifiques - - la grippe\n- le pneumocoque\n- la tuberculose\n- l'hépatite A\n- l’encéphalite à tiques centreeuropéenne (FSME)\n- la rage\n- la fièvre jaune\n- la fièvre typhoïde\n- la méningite à méningocoques\n- l'encéphalite japonaise\n- la varicelle\n- le pneumocoque au moyen du vaccin polysaccharide 23-valent\n- le méningocoque au moyen du vaccin tétravalent (A, C, W 135, Y).\n3. - vaccination contre la variole",
+      "text_sha256": "963f258a281954565514a594f6e632c6e7c3761960b5e24d08bb85073dd48a04",
+      "md_span": {
+        "start": 620,
+        "end": 1473
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2001-10-18-n3:2007-02-16#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/art_2/20011103",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-11-03",
+      "text_md": "Notre ministre de la Santé et de la Sécurité Sociale est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "08e4fca8142a5f3c3350b0b60c805fc4c3dac66d499b42cc6b284affa67b2127",
+      "md_span": {
+        "start": 1508,
+        "end": 1636
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

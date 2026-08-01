@@ -1,0 +1,212 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/11/1985 : Texte coordonné du 18 décembre 1986 de la loi du 21 mars 1966 portant institution d'un conseil économique et social, telle qu'elle a été modifiée par la loi du 15 décembre 1986.",
+  "valid_from": "1986-12-21",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/tc-1986-12-18-n1/versions/1986-12-21/fr.xml",
+    "sha256": "dd4aee9efea0b6f3ac5d3f372d7eb7f0a7f33c4201c768dce2b64a9aaf7c38ed",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/19861221/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Il est institué un conseil économique et social dénommé ci-après «le conseil».",
+      "text_sha256": "39d9004b8f794f9d881e15a25f49505e42b8f4e8ef3e6ba32455208067eaa9e5",
+      "md_span": {
+        "start": 697,
+        "end": 775
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le conseil est un organe consultatif chargé d'étudier soit de sa propre initiative, soit à la demande du Gouvernement, les problèmes économiques, financiers et sociaux intéressant plusieurs secteurs économiques ou l'ensemble de l'économie nationale. Il peut faire au Gouvernement toutes propositions motivées en conclusion de ses études.\n\nSauf en cas d'urgence le Gouvernement demande l'avis du conseil sur les mesures de portée générale qu'il est envisagé de prendre par voie législative ou réglementaire dans les domaines intéressant plusieurs groupes professionnels ou l'ensemble de l'économie nationale.\n\nLe Gouvernement saisit au cours du premier trimestre de chaque année le conseil d'un rapport sur l'évolution économique, financière et sociale du pays et d'un exposé sur la politique que le Gouvernement entend poursuivre dans ces domaines.\n\nCes rapports feront l'objet d'un avis du conseil. Cet avis contiendra les données statistiques et documentaires en possession du Service Central de la Statistique et des Etudes économiques, de l'Inspection du Travail et des Mines, de l'Office National du Travail, de l'Inspection des Institutions sociales et des organismes qu'elle contrôle, des commissions instituées par les lois-cadres ainsi que des autres administrations techniques de l'Etat.\n\nL'avis du conseil pourra être demandé par le Gouvernement sur toutes affaires d'intérêt général et toutes questions de principe au sujet desquelles les chambres professionnelles ont présenté des avis fondamentalement divergents. En ce cas le conseil doit émettre un avis unique et coordonné.\n\nLe conseil émettra ses avis dans les délais qui seront déterminés par le Gouvernement.",
+      "text_sha256": "89aad36a64d84840699ef021a44634a0509906717e177ce2df97fdc11d1f4d25",
+      "md_span": {
+        "start": 810,
+        "end": 2488
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les rapports du conseil avec le Gouvernement, la Chambre des Députés, le Conseil d'Etat et toutes les autres autorités publiques ont lieu par l'intermédiaire du Ministre d'Etat, Président du Gouvernement.\n\nLes membres du Gouvernement ont leur entrée au conseil; ils peuvent s'y faire représenter par des fonctionnaires de leur ministère. Le Gouvernement pourra être invité à déléguer des fonctionnaires aux réunions du conseil et de ses commissions pour fournir des renseignements d'ordre technique.",
+      "text_sha256": "b1a8412465d8ddf9d474a84a0ffdfa4998fe574c9650aa2b0d3c5b7ed2582569",
+      "md_span": {
+        "start": 2523,
+        "end": 3022
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le conseil se compose de vingt-neuf membres effectifs et d'autant de suppléants à savoir:\n\n1. - deux représentants de l'industrie lourde;\n- deux représentants de la petite et moyenne industrie;\n- deux représentants du secteur commercial;\n- deux représentants du secteur artisanal;\n- deux représentants de l'agriculture;\n- un représentant de la viticulture;\n- six représentants ouvriers;\n- deux représentants des employés du secteur privé;\n- deux fonctionnaires ou employés du secteur public;\n- un agent du secteur des «transports». Les représentants prédésignés sont nommés par le Conseil de Gouvernement sur propositions des organisations professionnelles les plus représentatives.\n2. Sept membres jouissant d'une compétence particulière en matière économique et sociale, d'une complète indépendance à l'égard des organisations professionnelles déjà représentées au Conseil, dont au moins un membre à choisir au sein des professions libérales. Quatre de ces membres sont cooptés par les membres du conseil désignés dans l'alinéa qui précède; trois sont nommés par le Conseil de Gouvernement.",
+      "text_sha256": "cbd373c0e1000f17be0e1c48e40581292977b402d36a942fd3b8e1d4313ab7b8",
+      "md_span": {
+        "start": 3057,
+        "end": 4149
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les membres et les suppléants sont désignés pour une durée de quatre ans.\n\nLe membre effectif empêché d'assister à une réunion, peut se faire remplacer par son suppléant.\n\nLes membres ou leurs suppléants touchent une indemnité à fixer par le Gouvernement en Conseil. Les frais de voyage leur sont remboursés.\n\nLe règlement d'ordre intérieur règlera les modalités de remplacement des membres empêchés d'exercer leur mandat et de ceux qui, par un changement dans leur état ou par leur désintéressement manifeste ne pourront plus l'exercer utilement.",
+      "text_sha256": "a8653e26f6624d59b060af30aef4780ec9fb012a5af790b233d8a12051d5386a",
+      "md_span": {
+        "start": 4184,
+        "end": 4731
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le mandat de membre du conseil est incompatible avec les fonctions de membre du Gouvernement, membre de la Chambre des Députés et membre du Conseil d'Etat.",
+      "text_sha256": "d01b8c18943b2264f98eb057a3cb8586d43a44dd4258ae53e81729b6969a07ec",
+      "md_span": {
+        "start": 4766,
+        "end": 4921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Un président et deux vice-présidents sont nommés par le Grand-Duc sur proposition du conseil pour la durée de deux ans, sauf renouvellement.",
+      "text_sha256": "588966ebce14c227428251100972c66e11e169afffd2d1420b0d48cccd61ee2a",
+      "md_span": {
+        "start": 4956,
+        "end": 5096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le conseil désigne son secrétaire général dont la rémunération sera fixée par le Gouvernement en Conseil sur avis du conseil économique et social et prise en charge par le budget de l'Etat. Suivant les besoins du service, il peut être adjoint au secrétaire du personnel auxiliaire.\n\nLe secrétaire général et ses auxiliaires ont la qualité d'employés et leur contrat d'emploi sera régi par le statut légal réservé aux employés privés.",
+      "text_sha256": "15b85575e6ce75b87938adc69134a4e07fdfa4524fe98f3eeda437e8130b772c",
+      "md_span": {
+        "start": 5131,
+        "end": 5564
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le bureau du conseil comprend le président, les deux vice-présidents et le secrétaire général, ce dernier n'ayant cependant pas voix délibérative.\n\nLe conseil peut instituer les commissions nécessaires à l'exécution de sa mission et recourir aux mêmes fins à la consultation d'experts.\n\nLe secrétariat assure l'administration et la gestion courante conformément aux directives du conseil et réunit la documentation requise.\n\nLes modalités de fonctionnement, de délibération et de vote du conseil seront déterminées par celui-ci dans un règlement d'ordre intérieur qui sera soumis à l'approbation du Gouvernement en Conseil.\n\nLes frais de fonctionnement du conseil comprenant les rémunérations du personnel, les indemnités et les frais de voyage à allouer aux membres et à leurs suppléants, feront l'objet d'un crédit spécial à inscrire au budget de l'Etat.",
+      "text_sha256": "3573df2742806f3c9fafaf0c3c91e4806f69b713ac058a973926e1b8c0b1c950",
+      "md_span": {
+        "start": 5599,
+        "end": 6455
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les membres effectifs et suppléants ainsi que le secrétaire général et le personnel auxiliaire doivent être de nationalité luxembourgeoise.",
+      "text_sha256": "204d530eb87b1bea5b27291ec0fa8da3e85f5b472834eb890a8d21aa5e0d036d",
+      "md_span": {
+        "start": 6492,
+        "end": 6631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L'arrêté grand-ducal du 10 novembre 1944 portant création d'une conférence nationale du travail, d'une commission paritaire du marché de travail et d'une commission paritaire de conciliation, de même que l'arrêté grand-ducal du 4 août 1945 portant création d'un conseil de l'économie nationale, tel qu'il a été modifié par l'arrêté grand-ducal du 1er octobre 1951, sont abrogés.",
+      "text_sha256": "77b6d1571ee1bac5f8b4694ab2c51d7956fa78294086603ce63f36a31b06f198",
+      "md_span": {
+        "start": 6668,
+        "end": 7046
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

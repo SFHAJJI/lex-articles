@@ -1,0 +1,98 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-03-27-a205:2020-05-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/05/2020 : Règlement grand-ducal du 27 mars 2020 portant dérogation à l’article L. 122-1 du Code du travail.",
+  "valid_from": "2020-05-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-03-27-a205/versions/2020-05-11/fr.xml",
+    "sha256": "ecb1b75c65722259998edad3af7f64c79baeca578ea1b9a456bdf6c5b6c29c24",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a205/consolide/20200511/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a205:2020-05-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a205/art_1er/20200511",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-05-11",
+      "text_md": "Par dérogation au point 5 de l’article L. 122-1, paragraphe 3 du Code du travail, les contrats conclus entre un employeur qui est actif dans un ou plusieurs des domaines économiques énumérés à l’annexe du présent règlement grand-ducal, et un étudiant, la durée hebdomadaire ne peut pas dépasser quarante heures en moyenne sur une période d’un mois ou de quatre semaines.",
+      "text_sha256": "1f36c25335923275413798521bf511cbd1a0bd31f8e60e29aa84a431d470f4b6",
+      "md_span": {
+        "start": 623,
+        "end": 993
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a205:2020-05-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a205/art_2/20200327",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "727c86324f983968ecdf17b3a5758e07b073772171306c03dcc95eec77eb2de3",
+      "md_span": {
+        "start": 1028,
+        "end": 1141
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a205:2020-05-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a205/art_3/20200327",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-27",
+      "text_md": "Notre ministre du Travail, de l’Emploi et de l’Économie sociale et solidaire est chargé de l’exécution des dispositions du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "78816f75ad4f796faa06378c5dd6e3e8f4dadcae3febc07cc728d3af869b41b3",
+      "md_span": {
+        "start": 1176,
+        "end": 1382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2020-03-27-a205:2020-05-11#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1. Les activités commerciales et artisanales :**\n\n- les commerces qui vendent principalement des produits alimentaires,\n- les pharmacies,\n- les opticiens, orthopédistes et audioprothésistes,\n- les commerces qui vendent principalement des aliments pour animaux,\n- les commerces de bricolage et de jardinage, et les commerces vendant principalement des produits saisonniers à planter,\n- les commerces qui vendent principalement des produits et du matériel de construction indispensables à un usage conforme à la destination de l’immeuble pour lequel les produits et le matériel sont destinés,\n- les commerces de services de télécommunication,\n- les commerces qui vendent principalement des produits d’hygiène, de lavage et de matériel sanitaire,\n- les services de vente de carburants et de stations d’essence,\n- les activités de transport de personnes,\n- les distributeurs et les commerces spécialisés en matériel médico-sanitaire,\n- la pédicure médicale limitée aux soins médicaux et non esthétiques,\n- les commerces de distribution de la presse,\n- les institutions financières et d’assurance,\n- les services postaux,\n- les services de pressing et de nettoyage de vêtements,\n- les services funéraires,\n- les activités de construction, de rénovation et de transformation,\n- les activités de dépannage, de maintenance, de révision, de réparation, de déménagement et de dépollution,\n- les activités d’entretien nécessaires pour des raisons de sécurité,\n- les activités des jardiniers et des paysagistes.\n\n**2.****Les activités essentielles pour le maintien des intérêts vitaux de la population et du pays :**\n\n- les services publics nécessaires au bon fonctionnement de l’État,\n- le secteur de la santé et des soins, y compris les activités hospitalières et les laboratoires d’analyses médicales,\n- la production et la distribution d’énergie et de produits pétroliers,\n- le secteur de l’alimentation,\n- la production et la distribution de l’eau,\n- la collecte et le traitement des eaux usées,\n- l’enlèvement et la gestion des déchets,\n- les transports publics,\n- les services de transport, de transbordement et d’expédition de marchandises et de fret,\n- les systèmes d’échange, de paiement et de règlements des instruments,\n- les services postaux et de télécommunication,\n- les services de gardiennage, de sécurité, transports de fonds et de nettoyage,\n- les activités essentielles liées au fonctionnement du secteur financier et du secteur de l’assurance et de la réassurance.",
+      "text_sha256": "ed3ebac0378518e5c7668d5094674096234810701c20346147d9c9f083aae4b0",
+      "md_span": {
+        "start": 1423,
+        "end": 3898
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

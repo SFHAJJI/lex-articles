@@ -1,0 +1,132 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-09-02-a735:2021-01-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/01/2021 : Règlement grand-ducal du 2 septembre 2020 déterminant les modalités des épreuves de l’examen de fin d’études secondaires générales.",
+  "valid_from": "2021-01-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-09-02-a735/versions/2021-01-11/fr.xml",
+    "sha256": "55f6015d1570b9629b9ec479211af0b7c80e95743dc71ffdb24703937673f418",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a735/consolide/20210111/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-09-02-a735:2021-01-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a735/art_1er/20200915",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-09-15",
+      "text_md": "Le présent règlement détermine les modalités des épreuves de l’examen de fin d’études secondaires générales pour les divisions et sections suivantes :\n\n1. 1. section gestion ;\n2. section communication et organisation ;\n3. section Deutsch-Luxemburgisches Schengen-Lyzeum ;\n2. division artistique : section arts et communication visuelle ;\n3. division hôtelière et touristique : section gestion de l’hospitalité ;\n4. 1. section de la formation de l’éducateur ;\n2. section de la formation de l’infirmier ;\n3. section sciences de la santé ;\n4. section sciences sociales ;\n5. 1. section ingénierie ;\n2. section informatique ;\n3. section sciences environnementales ;\n4. section sciences naturelles.",
+      "text_sha256": "61d85c67ff44480a90852d3f615bb2f104fd4e425c2ec02d89828b9f9c6a0603",
+      "md_span": {
+        "start": 657,
+        "end": 1349
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-09-02-a735:2021-01-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a735/art_2/20200915",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-09-15",
+      "text_md": "Pour chaque section, les coefficients de toutes les disciplines au programme et la pondération à l’intérieur des disciplines, les disciplines fondamentales, la nature des épreuves, ainsi que les disciplines donnant lieu à une note finale sont fixés et arrêtés conformément aux tableaux annexés.",
+      "text_sha256": "c7377d6c58035288efe2c69969c6160dfb38bce84593b6bb4a93ac75c4f318db",
+      "md_span": {
+        "start": 1384,
+        "end": 1678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-09-02-a735:2021-01-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a735/art_3/20200915",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-09-15",
+      "text_md": "Le règlement grand-ducal du 1er août 2019 déterminant les modalités des épreuves de l’examen de fin d’études secondaires générales est abrogé.",
+      "text_sha256": "810cfa0102386cf436aa23216f4b03efb0820e9e709647789f6b26f635f9b40e",
+      "md_span": {
+        "start": 1713,
+        "end": 1855
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2019/08/01/a560/jo",
+          "text": "règlement grand-ducal du 1er août 2019"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2020-09-02-a735:2021-01-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a735/art_4/20200915",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-09-15",
+      "text_md": "Le présent règlement est applicable à partir de l’année scolaire 2020/2021.",
+      "text_sha256": "cc9dbd4860bf04ca486875c6d4196566a3f7a20abd444f6c6bc43cb99b19d9b8",
+      "md_span": {
+        "start": 1890,
+        "end": 1965
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2020-09-02-a735:2021-01-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a735/art_5/20200915",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-11",
+      "text_md": "Notre ministre ayant l’Éducation nationale dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "a21a821a061608417ec50e765036a3d690b5a9493167d6f328b59bd9b51f854d",
+      "md_span": {
+        "start": 2000,
+        "end": 2177
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2020-09-02-a735:2021-01-11#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Tableaux fixant les disciplines d’examen, les disciplines donnant lieu à une épreuve écrite et orale à l’examen, les coefficients de promotion des disciplines et les coefficients servant au calcul de la moyenne pondérée des notes de l’année**\n\n**Enseignement secondaire général **\n\n**Division administrative et commerciale**\n\n***Section gestion***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand | 3 |  | X | X | X |\n| Anglais | 3 |  | X | X | X |\n| Français | 4 | X | X | X | X |\n| Mathématiques | 3 |  | X |  | X |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Économie de gestion | 4 | X | X |  | X |\n| Économie politique | 4 | X | X | X | X |\n| Comptabilité | 4 | X | X |  | X |\n| Informatique | 3 |  | X |  | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Connaissance du monde contemporain | 3 |  | X |  | X |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général**\n\n**Division administrative et commerciale**\n\n*****Section ******communication et organisation*****\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand | 3 |  | X | X | X |\n| Anglais | 3 |  | X | X | X |\n| Français | 4 | X | X | X | X |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Économie de gestion | 4 | X | X |  | X |\n| Économie politique | 4 | X | X | X | X |\n| Comptabilité | 3 |  | X |  | X |\n| Communication professionnelle et relations humaines | 4 | X | X |  | X |\n| Organisation et gestion d’activités | 3 |  | X |  | X |\n| Technologies de l’information et de la communication | 3 |  | X |  | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Connaissance du monde contemporain | 3 |  | X |  | X |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général ****Division administrative et commerciale*****Deutsch-Luxemburgisches Schengen-Lyzeum***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve***4) | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand / Deutsch | 4 | X | X | X3) | X |\n| Anglais / Englisch | 3 |  | X1) | X3) | X |\n| Français / Französisch | 3 |  | X1) | X3) | X |\n| Mathématiques / Mathematik | 3 |  | X1) |  | X |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Économie de gestion / Betriebswirtschaftslehre | 4 | X | X |  | X |\n| Économie politique / Volkswirtschaftslehre | 4 | X | X | X | X |\n| Comptabilité / Rechnungswesen | 4 | X | X |  | X |\n| Informatique / Informatik | 3 |  | X2) |  | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Histoire – Géographie / Geschichte - Erdkunde | 3 |  | X2) |  | X |\n| Éducation physique et sportive / Sport5) | 1 |  |  |  |  |\n\n**Coeff. :** Coefficient attribué à la discipline / Gewichtung des Faches\n\n**DF :** Discipline fondamentale / Fach, das nicht kompensiert werden kann\n\n***Remarques :***\n\n1. 1 discipline parmi 3, au choix de l’élève / 1 Fach von 3, nach Wahl des Prüflings.\n2. 1 discipline parmi 2, au choix de l’élève / 1 Fach von 2, nach Wahl des Prüflings.\n3. 1 langue au choix de l’élève ; seule une langue présentée à l’examen peut faire l’objet d’une épreuve orale. / Eine Sprache, nach Wahl des Prüflings ; in einer Sprache muss der Prüfling sich einer mündlichen Prüfung unterziehen.\n4. Pour les disciplines dans lesquelles l’élève présente une épreuve écrite et une épreuve orale, l’épreuve orale compte pour 25 % de la note. / Gewichtung der mündlichen Note : 25 %\n5. Discipline prise en compte uniquement pour le calcul de la moyenne générale annuelle. / Fach, das nur für die Berechnung der allgemeinen Jahresnote berücksichtigt wird.\n\n**Enseignement secondaire général**\n\n**Division artistique**\n\n***Section arts et communication visuelle***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand ou Français | 3 |  | X | X | X |\n| Anglais | 3 |  | X | X | X |\n| Mathématiques | 3 |  | X |  | X |\n| **Volet : Spécialité** |  |  |  |  |  |\n| Histoire de l’art | 4 | X | X | X | X |\n| Dessin à main levée / Dessin appliqué | 4 | X | X |  | X |\n| Communication graphique | 3 |  | X |  | X |\n| Langage des médias | 2 |  |  |  | X |\n| Volume et conception 3D | 3 |  | X |  | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Connaissance du monde contemporain | 2 |  | X |  | X |\n| Sciences | 2 |  |  |  | X |\n| Chimie |  |  | X |  |  |\n| Physique |  |  | X |  |  |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général **\n\n**Division hôtelière et touristique**\n\n***Section gestion de l’hospitalité***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Anglais | 3 | X | X | X | X |\n| Allemand ou Français | 2 |  | X |  | X |\n| Mathématiques et informatique | 2 |  | X |  | X |\n| **Volet : Spécialité** |  |  |  |  |  |\n| Gestion en hôtellerie | 3 | X | X | X | X |\n| Gestion de la restauration | 3 |  | X |  | X |\n| Géographie et tourisme | 3 |  | X |  | X |\n| Gestion, organisation, promotion | 3 |  | X |  | X |\n| Arts et culture | 2 |  | X |  | X |\n| Choix gastronomie | 2 |  |  |  | X |\n| Initiation à la cuisine et à la restauration ouApprofondissement de techniques en restauration |  |  |  |  |  |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Connaissance du monde contemporain | 2 |  | X |  | X |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général**\n\n**Division des professions de santé et professions sociales**\n\n*****Section de la formation de l’éducateur*****\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand | 3 |  | X | X | X |\n| Anglais | 3 |  | X | X | X |\n| Français | 3 |  | X | X | X |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Psychologie | 2 |  | X |  | X |\n| Sociologie et action éducative et sociale | 3 |  |  |  | X |\n| Sociologie |  |  | X |  |  |\n| Action éducative et sociale |  |  | X |  |  |\n| Pédagogie | 4 | X | X | X | X |\n| Développement tout au long de la vie | 3 | X | X | X | X |\n| Pratique et méthodologie professionnelles | 4 | X |  |  | X |\n| Pratique professionnelle |  |  |  |  |  |\n| Méthodologie de la pratique professionnelle |  |  |  |  |  |\n| Expression et animation | 3 |  |  |  | X |\n| Pédagogie des activités physiques et sportives |  |  |  |  |  |\n| Matière à option 1 |  |  |  |  |  |\n| Matière à option 2 |  |  |  |  |  |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Biologie | 2 |  | X |  | X |\n| Éthique, déontologie et développement durable | 2 |  | X |  | X |\n| Éducation aux médias | 2 |  | X |  | X |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n** Enseignement secondaire général****Division des professions de santé et des professions sociales*****Section de la formation de l’infirmier***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ******Nature de l’épreuve***(8)*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand ou Anglais | 3 |  | X(1) | X(2) | X |\n| Français | 3 |  | X | X(2) | X |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Biologie humaine | 4 | X | X |  | X |\n| Connaissances professionnelles de base 1 (3) | 4 | X |  |  | X |\n| *Pharmacologie* |  |  |  |  |  |\n| *Hygiène professionnelle / Microbiologie* |  |  |  |  |  |\n| Connaissances professionnelles de base 2 (3) | 4 | X |  |  | X |\n| *Étapes de la vie* |  |  |  |  |  |\n| *Éducation pour la santé - santé publique* |  |  |  |  |  |\n| Sciences médicales | 4 | X | X |  | X |\n| Concepts de soins et problèmes infirmiers | 4 | X | X | X | X |\n| Connaissances relationnelles et déontologiques (3) | 4 | X |  |  | X |\n| *Communication professionnelle* |  |  |  |  |  |\n| *Connaissance du monde professionnel* |  |  |  |  |  |\n| Connaissances professionnelles appliquées / pratiques (4) | - | X |  |  |  |\n| *Laboratoire d’enseignement clinique* (5) |  |  |  |  |  |\n| *Enseignement clinique* (6) |  |  |  |  | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Sciences humaines et sociales | 4 | X | X |  | X |\n| Éducation physique et sportive (7) | 1 |  |  |  |  |\n\n**DF :** Discipline fondamentale\n\n**Coeff. :** Coefficient attribué à la discipline\n\n***Remarques :***\n\n1. 1 langue parmi 2, au choix de l’élève.\n2. 1 langue parmi 2, au choix de l’élève ; seule une langue présentée à l’examen peut faire l’objet d’une épreuve orale.\n3. Les matières comptent à parts égales.\n4. Connaissances professionnelles appliquées / pratiques : cette discipline ne donne pas lieu à une évaluation par une note chiffrée sur 60.\n5. Laboratoire d’enseignement clinique : cette matière ne donne pas lieu à une évaluation.\n6. Enseignement clinique : évaluation par compétences ; le résultat ne donne pas lieu à une note chiffrée ; la note finale s’exprime par les niveaux de compétence suivants : non-maîtrise, maîtrise, très bonne maîtrise. L’élève qui ne suit pas les cours pendant l’année prend part à l’enseignement clinique pendant quatre semaines et se soumet à deux évaluations sommatives. Le commissaire nomme un évaluateur.\n7. Discipline prise en compte uniquement pour le calcul de la moyenne générale annuelle.\n8. Pour les disciplines dans lesquelles l’élève présente une épreuve écrite et une épreuve orale, l’épreuve orale compte pour 25 % de la note.\n\n**Enseignement secondaire général **\n\n**Division des professions de santé et des professions sociales**\n\n***Section sciences de la santé***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Anglais | 3 |  | X | X | X |\n| Allemand ou Français | 3 |  | X | X | X |\n| Mathématiques | 3 |  | X |  | X |\n| **Volet : Spécialité** |  |  |  |  |  |\n| Biologie humaine, cellulaire et microbiologie | 4 | X | X | X | X |\n| Sciences humaines et de la santé | 4 | X | X |  | X |\n| Chimie médicale | 4 | X | X | X | X |\n| Physique médicale | 4 | X | X | X | X |\n| Sciences médicales | 4 | X | X | X | X |\n| Stage d’initiation à la vie professionnelle | - |  |  |  |  |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Informatique et statistiques | 2 |  |  |  | X |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Volet : Options** |  |  |  |  |  |\n| Option | 2 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général **\n\n****Division des professions de santé et professions sociales****\n\n***Section sciences sociales***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand ou Français | 3 |  | X | X | X |\n| Anglais | 3 |  | X | X | X |\n| Mathématiques | 3 |  | X |  | X |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Connaissance du monde contemporain | 3 | X | X | X | X |\n| Psychologie et communication | 3 | X | X | X | X |\n| Sociologie | 3 |  | X |  | X |\n| Économie politique | 3 |  | X |  | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Questions philosophiques | 2 |  | X |  | X |\n| Pédagogie | 2 |  | X |  | X |\n| Arts et culture | 1 |  |  |  |  |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Volet : Options** |  |  |  |  |  |\n| Options | 1 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général **\n\n**Division technique générale**\n\n***Section ingénierie***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand ou Français | 3 |  | X | X | X |\n| Anglais | 3 |  | X | X | X |\n| Mathématiques | 4 | X |  |  | X |\n| Mathématiques 1 |  |  | X |  |  |\n| Mathématiques 2 |  |  | X |  |  |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Chimie | 4 |  | X |  | X |\n| Physique | 4 |  | X |  | X |\n| Électrotechnique | 3 |  | X |  | X |\n| Informatique | 3 |  | X |  | X |\n| Mécanique | 3 |  | X |  | X |\n| Technologie | 3 |  | X | X | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Connaissance du monde contemporain | 2 |  | X |  | X |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général **\n\n**Division technique générale**\n\n***Section informatique***\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand ou Français | 3 |  | X | X | X |\n| Anglais | 4 |  | X | X | X |\n| Mathématiques | 4 | X |  |  | X |\n| Mathématiques 1 |  |  | X |  |  |\n| Mathématiques 2 |  |  | X |  |  |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Programmation | 4 | X | X |  | X |\n| Téléinformatique et réseaux | 3 |  | X |  | X |\n| Bases de données | 3 |  | X | X | X |\n| Sciences naturelles et technologie | 3 |  | X |  | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Connaissance du monde contemporain | 2 |  | X |  | X |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général**\n\n**Division technique générale**\n\n*****Section sciences environnementales*****\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand ou Français | 3 |  | X | X | X |\n| Anglais | 3 |  | X | X | X |\n| Mathématiques | 4 |  | X |  | X |\n| **Volet : Spécialité** |  |  |  |  |  |\n| Écologie | 4 | X | X |  | X |\n| Environnement et technologies | 4 | X | X |  | X |\n| Physique | 3 |  | X |  | X |\n| Aspects économiques et juridiques du développement durable | 3 |  | X |  | X |\n| Projet personnel encadré | 3 |  | X | X | X |\n| Étude de cas | 2 |  |  |  |  |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Connaissance du monde contemporain | 2 |  | X |  | X |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Volet : Options** |  |  |  |  |  |\n| Options | 2 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |\n\n**Enseignement secondaire général**\n\n****Division technique générale****\n\n*******Section sciences naturelles*******\n\n| ***Discipline*** | ***Coeff.*** | ***DF*** | ***Nature de l’épreuve*** | ***Note finale*** |  |\n| --- | --- | --- | --- | --- | --- |\n| ***Écrit*** | ***Oral*** |  |  |  |  |\n| **Volet : Langues et mathématiques** |  |  |  |  |  |\n| Allemand ou Français | 3 |  | X | X | X |\n| Anglais | 3 |  | X | X | X |\n| Mathématiques | 4 |  | X |  | X |\n| **Volet : Spécialisation** |  |  |  |  |  |\n| Biologie | 4 |  | X | X | X |\n| Chimie | 4 |  | X | X | X |\n| Physique | 4 |  | X | X | X |\n| Géographie | 3 |  | X | X | X |\n| **Volet : Formation générale** |  |  |  |  |  |\n| Questions philosophiques | 2 |  | X |  | X |\n| Connaissance du monde contemporain | 2 |  | X |  | X |\n| Éducation physique et sportive | 1 |  |  |  |  |\n| **Coeff. :** Coefficient attribué à la discipline |  |  |  |  |  |\n| **DF : **Discipline fondamentale |  |  |  |  |  |\n| ***Remarques :*** |  |  |  |  |  |",
+      "text_sha256": "d6772a03eae53d1c5d858a5793317c5ebfecaac7945af20f11a31cb1da0f4252",
+      "md_span": {
+        "start": 2219,
+        "end": 19802
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

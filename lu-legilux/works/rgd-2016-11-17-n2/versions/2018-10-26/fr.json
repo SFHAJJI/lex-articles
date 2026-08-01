@@ -1,0 +1,1249 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26",
+  "language": "fr",
+  "title": "Version consolidée applicable au 26/10/2018 : Règlement grand-ducal du 17 novembre 2016 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive, ainsi que de l’examen de promotion des différentes catégories de traitement auprès de l’administration pénitentiaire.",
+  "valid_from": "2018-10-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2016-11-17-n2/versions/2018-10-26/fr.xml",
+    "sha256": "924f82ce17885292adb45da04abcaa10c0ca713f23db903b978cc461d5adb138",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/consolide/20181026/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_1er/20170101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Catégorie de traitement A, groupe de traitement A1, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 114 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – connaissances approfondies | 6 heures |\n| b) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – utilisation fréquente | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures |\n| f) | Organisation judiciaire – connaissances approfondies | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures |\n| h) | Probation – connaissances approfondies | 6 heures |\n| i) | Législation sociale | 12 heures |\n| j) | Gestion de la comptabilité et du budget – connaissances approfondies | 12 heures |\n| k) | Gestion des ressources humaines | 6 heures |\n| l) | Sozialarbeit im Strafvollzug - connaissances approfondies | 6 heures |\n| m) | Entwicklungspsychologie – connaissances approfondies | 6 heures |\n| n) | Traitement pénologique - connaissances approfondies | 6 heures |",
+      "text_sha256": "1bb8a96c5d62d3a3da2e1b35bda4962f59acf8cfbbdf3ee4f8e6a6df6ed2892c",
+      "md_span": {
+        "start": 920,
+        "end": 2573
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_2/20170101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Catégorie de traitement A, groupe de traitement A1, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement A, groupe de traitement A1, sous-groupe administratif, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures | 60 points |\n| d) | Organisation judiciaire – connaissances approfondies | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures | 60 points |\n| f) | Probation – connaissances approfondies | 6 heures | 60 points |\n| g) | Législation sociale | 12 heures | 60 points |",
+      "text_sha256": "436b8d8c58456c3c7fc2dc10dbc3abace73d4ebecbaf3650b2c1323c94b70e4a",
+      "md_span": {
+        "start": 2608,
+        "end": 3590
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_3/20170101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Catégorie de traitement A, groupe de traitement A1, sous-groupe scientifique et technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement A, groupe de traitement A1, sous-groupe scientifique et technique, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 108 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – connaissances approfondies | 6 heures |\n| b) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – connaissances approfondies | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures |\n| f) | Organisation judiciaire – connaissances approfondies | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures |\n| h) | Probation – connaissances approfondies | 6 heures |\n| j) | Législation sociale | 12 heures |\n| k) | Gestion de la comptabilité et du budget – connaissances approfondies | 12 heures |\n| i) | Sozialarbeit im Strafvollzug - connaissances approfondies | 6 heures |\n| m) | Entwicklungspsychologie – connaissances approfondies | 6 heures |\n| n) | Traitement pénologique - connaissances approfondies | 6 heures |",
+      "text_sha256": "e5d34d9cfecf02ae3546f36d4906edd60a2c8340a817bb668db671921a008e90",
+      "md_span": {
+        "start": 3740,
+        "end": 5358
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_4/20170101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Catégorie de traitement A, groupe de traitement A1, sous-groupe scientifique et technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement A, groupe de traitement A1, sous-groupe scientifique et technique, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures | 60 points |\n| d) | Organisation judiciaire – connaissances approfondies | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures | 60 points |\n| f) | Probation – connaissances approfondies | 6 heures | 60 points |\n| g) | Législation sociale | 12 heures | 60 points |",
+      "text_sha256": "23f86204ecb51e8aa601d01c4d5e1e75dccabf5144e5f2d27110f22ab42ca413",
+      "md_span": {
+        "start": 5393,
+        "end": 6387
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_5/20170101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Catégorie de traitement A, groupe de traitement A1, sous-groupe éducatif et psycho-social**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement A, groupe de traitement A1, sous-groupe éducatif et psycho-social, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 108 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence **\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – connaissances approfondies | 6 heures |\n| b) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – connaissances approfondies | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures |\n| f) | Organisation judiciaire – connaissances approfondies | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures |\n| h) | Probation – connaissances approfondies | 6 heures |\n| i) | Législation sociale | 12 heures |\n| j) | Protection de la jeunesse | 6 heures |\n| k) | Gestion de la comptabilité et du budget – connaissances approfondies | 12 heures |\n| l) | Sozialarbeit im Strafvollzug - connaissances approfondies | 6 heures |\n| m) | Traitement pénologique - connaissances approfondies | 6 heures |",
+      "text_sha256": "1a7fb1fa057a24fdde711804fb29b0c0f994d62201d383be5bf4df75a72f9a7f",
+      "md_span": {
+        "start": 6537,
+        "end": 8129
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_6/20170101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Catégorie de traitement A, groupe de traitement A1, sous-groupe éducatif et psycho-social**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement A, groupe de traitement A1, sous-groupe éducatif et psycho-social, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures | 60 points |\n| d) | Organisation judiciaire – connaissances approfondies | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures | 60 points |\n| f) | Probation – connaissances approfondies | 6 heures | 60 points |\n| g) | Législation sociale | 12 heures | 60 points |",
+      "text_sha256": "f8461243b0d74eac25cb7a1ee03607c1052d04be8d57ecdfbda872b8e9b6be4d",
+      "md_span": {
+        "start": 8164,
+        "end": 9158
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_7/20170101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Catégorie de traitement A, groupe de traitement A2, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement A, groupe de traitement A2, sous-groupe administratif, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 114 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence **\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – connaissances approfondies | 6 heures |\n| b) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – utilisation fréquente | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures |\n| f) | Organisation judiciaire – connaissances approfondie | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures |\n| h) | Probation – connaissances approfondies | 6 heures |\n| i) | Législation sociale | 12 heures |\n| j) | Gestion de la comptabilité et du budget – connaissances approfondies | 12 heures |\n| k) | Gestion des ressources humaines | 6 heures |\n| l) | Sozialarbeit im Strafvollzug - connaissances approfondies | 6 heures |\n| m) | Entwicklungspsychologie – connaissances approfondies | 6 heures |\n| n) | Traitement pénologique - connaissances approfondies | 6 heures |",
+      "text_sha256": "a615980435e2a7c29ef9819a46c2e2d9d5c368c677a73c6413b62e6e7baf6b4f",
+      "md_span": {
+        "start": 9297,
+        "end": 10950
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_8/20170101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Catégorie de traitement A, groupe de traitement A2, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement A, groupe de traitement A2, sous-groupe administratif, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures | 60 points |\n| d) | Organisation judiciaire – connaissances approfondies | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures | 60 points |\n| f) | Probation – connaissances approfondies | 6 heures | 60 points |\n| g) | Législation sociale | 12 heures | 60 points |",
+      "text_sha256": "3b10501c98de71727b507c56f4da8043e6ea712881f042d0e8ab9be17db4d000",
+      "md_span": {
+        "start": 10985,
+        "end": 11967
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_9/20170101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Catégorie de traitement A, groupe de traitement A2, sous-groupe scientifique et technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement A, groupe de traitement A2, sous-groupe scientifique et technique, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 108 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – connaissances approfondies | 6 heures |\n| b) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – connaissances approfondies | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures |\n| f) | Organisation judiciaire – connaissances approfondies | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures |\n| h) | Probation – connaissances approfondies | 6 heures |\n| j) | Législation sociale | 12 heures |\n| k) | Gestion de la comptabilité et du budget – connaissances approfondies | 12 heures |\n| l) | Sozialarbeit im Strafvollzug - connaissances approfondies | 6 heures |\n| m) | Entwicklungspsychologie – connaissances approfondies | 6 heures |\n| n) | Traitement pénologique - connaissances approfondies | 6 heures |",
+      "text_sha256": "18923bffac3fa659e8ce5fb5a78001570a8a9a72b9a7dda08558adafd544f751",
+      "md_span": {
+        "start": 12118,
+        "end": 13736
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_10/20170101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Catégorie de traitement A, groupe de traitement A2, sous-groupe scientifique et technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement A, groupe de traitement A2, sous-groupe scientifique et technique, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures | 60 points |\n| d) | Organisation judiciaire – connaissances approfondies | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures | 60 points |\n| f) | Probation – connaissances approfondies | 6 heures | 60 points |\n| g) | Législation sociale | 12 heures | 60 points |",
+      "text_sha256": "7da8394cff5517cc3f622ecbe17f2542016b63d90b2cc06b007bb04ea3c9572c",
+      "md_span": {
+        "start": 13773,
+        "end": 14767
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_11/20170101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **Catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psycho-social**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psycho-social, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 114 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – connaissances approfondies | 6 heures |\n| b) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – connaissances approfondies | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures |\n| f) | Organisation judiciaire – connaissances approfondies | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures |\n| h) | Probation – connaissances approfondies | 6 heures |\n| i) | Législation sociale | 12 heures |\n| j) | Protection de la jeunesse | 6 heures |\n| k) | Gestion de la comptabilité et du budget – connaissances approfondies | 12 heures |\n| l) | Sozialarbeit im Strafvollzug - connaissances approfondies | 6 heures |\n| m) | Entwicklungspsychologie – connaissances approfondies | 6 heures |\n| n) | Traitement pénologique - connaissances approfondies | 6 heures |",
+      "text_sha256": "2330cdb0f92979e37d058386feb587125f3845dc7eff137ed273019dda5d3c4d",
+      "md_span": {
+        "start": 14919,
+        "end": 16583
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_12/20170101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6** — **Catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psycho-social**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement A, groupe de traitement A2, sous-groupe éducatif et psycho-social, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – connaissances approfondies | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – connaissances approfondies | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – connaissances approfondies | 12 heures | 60 points |\n| d) | Organisation judiciaire – connaissances approfondies | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – utilisation fréquente | 6 heures | 60 points |\n| f) | Probation – connaissances approfondies | 6 heures | 60 points |\n| g) | Législation sociale | 12 heures | 60 points |",
+      "text_sha256": "223b3b8c5cbb44267d1c1eb9f8715acb6e6c6b85fcf2e1a883e9862ff8fc134f",
+      "md_span": {
+        "start": 16620,
+        "end": 17614
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_13/20170101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 126 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – notions élémentaires | 6 heures |\n| b) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – utilisation fréquente | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – notions élémentaires | 12 heures |\n| f) | Organisation judiciaire – notions élémentaires | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – connaissances approfondies | 6 heures |\n| h) | Probation – notions élémentaires | 6 heures |\n| i) | Législation sociale | 12 heures |\n| j) | Gestion de la comptabilité et du budget – connaissances approfondies | 12 heures |\n| k) | Gestion des ressources humaines | 6 heures |\n| l) | Gestion du greffe | 12 heures |\n| m) | Sozialarbeit im Strafvollzug - notions élémentaires | 6 heures |\n| n) | Entwicklungspsychologie – notions élémentaires | 6 heures |\n| o) | Traitement pénologique - notions élémentaires | 6 heures |",
+      "text_sha256": "83a774d7818072ed81d31cec9373e25bcfc8a23d51fa08b99def37bfb513e581",
+      "md_span": {
+        "start": 17754,
+        "end": 19397
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_14/20170101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – notions élémentaires | 12 heures | 60 points |\n| d) | Organisation judiciaire – notions élémentaires | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – connaissances approfondies | 6 heures | 60 points |\n| f) | Probation – notions élémentaires | 6 heures | 60 points |\n| g) | Législation sociale | 12 heures | 60 points |",
+      "text_sha256": "c3c107ab5f536c8505826047599175d4ca9ab3f55ebf45b9249d5c13ed779047",
+      "md_span": {
+        "start": 19434,
+        "end": 20391
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_15/20170101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen de promotion de la catégorie de traitement B, groupe de traitement B1, sous-groupe administratif en application de l’article 12, paragraphe 3, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, comporte des interrogations écrites sur les matières suivantes:\n\n|  | **Matière** | **points** |\n| --- | --- | --- |\n| a) | Code pénal, code d’instruction criminelle | 60 points |\n| b) | Comptabilité de l’Etat | 60 points |\n| c) | Législation spécifique en relation avec l’administration pénitentiaire | 60 points |\n| d) | Rapport sur un thème ayant trait à la gestion des centres pénitentiaires | 60 points |\n| e) | Statut général des fonctionnaires de l’Etat | 60 points |\n| f) | Régime des traitements des fonctionnaires de l’Etat | 60 points |",
+      "text_sha256": "6d8185ebae2f479ad52e01d256495a88785ea85a94300bbedb3814092dcb77d7",
+      "md_span": {
+        "start": 20428,
+        "end": 21269
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_16/20170101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe technique **"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 120 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – notions élémentaires | 6 heures |\n| b) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – initiation | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – notions élémentaires | 12 heures |\n| f) | Organisation judiciaire – notions élémentaires | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – connaissances approfondies | 6 heures |\n| h) | Probation – notions élémentaires | 6 heures |\n| i) | Législation sociale | 12 heures |\n| j) | Gestion de la comptabilité et du budget – notions élémentaires | 12 heures |\n| k) | Sozialarbeit im Strafvollzug - notions élémentaires | 6 heures |\n| l) | Entwicklungspsychologie – notions élémentaires | 6 heures |\n| m) | Traitement pénologique - notions élémentaires | 6 heures |\n| n | Professionnelles Handeln | 12 heures |",
+      "text_sha256": "d883856aff2e4a8518757bdf030de0f14946f586874a9fd43f3b80a6130724c4",
+      "md_span": {
+        "start": 21406,
+        "end": 22982
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_17/20170101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe technique **"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – notions élémentaires | 12 heures | 60 points |\n| d) | Organisation judiciaire – notions élémentaires | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – connaissances approfondies | 6 heures | 60 points |\n| f) | Probation – notions élémentaires | 6 heures | 60 points |",
+      "text_sha256": "83ec71d3e2caae75d87276b4fa87d65e41ebabc45b11f60ff7619b66942eeadf",
+      "md_span": {
+        "start": 23019,
+        "end": 23919
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_18/20170101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 8** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe technique **"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen de promotion de la catégorie de traitement B, groupe de traitement B1, sous-groupe technique en application de l’article 12, paragraphe 3, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, comporte des interrogations écrites sur les matières suivantes:\n\n|  | **Matière** | **points** |\n| --- | --- | --- |\n| a) | Comptabilité de l’Etat | 60 points |\n| b) | Législation spécifique en relation avec l’administration pénitentiaire | 60 points |\n| c) | Rapport technique | 60 points |\n| d) | Etablissement d’un projet écrit à caractère technique (rédaction d’un mémoire écrit) | 60 points |\n| e) | Sécurité dans les centres pénitentiaires | 60 points |\n| f) | Technologie du bâtiment | 60 points |",
+      "text_sha256": "91c498e9ce9515e959de156388dffc398839110061be65f76296383b2063a08e",
+      "md_span": {
+        "start": 23956,
+        "end": 24750
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_19/20170101",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 9** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psycho-social**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psycho-social, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 114 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – notions élémentaires | 6 heures |\n| b) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – connaissances approfondies | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – notions élémentaires | 12 heures |\n| f) | Organisation judiciaire – notions élémentaires | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – connaissances approfondies | 6 heures |\n| h) | Probation – notions élémentaires | 6 heures |\n| i) | Législation sociale | 12 heures |\n| j) | Protection de la jeunesse | 6 heures |\n| k) | Gestion de la comptabilité et du budget – connaissances approfondies | 12 heures |\n| l) | Sozialarbeit im Strafvollzug - notions élémentaires | 6 heures |\n| m) | Entwicklungspsychologie – notions élémentaires | 6 heures |\n| n) | Traitement pénologique - notions élémentaires | 6 heures |",
+      "text_sha256": "d5c24cda72f9c056906a43ca001e0a1f5b1a0df6a4032fec1a9888307420eebe",
+      "md_span": {
+        "start": 24902,
+        "end": 26517
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_20/20170101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 9** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psycho-social**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psycho-social, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – notions élémentaires | 12 heures | 60 points |\n| d) | Organisation judiciaire – notions élémentaires | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – connaissances approfondies | 6 heures | 60 points |\n| f) | Probation – notions élémentaires | 6 heures | 60 points |\n| g) | Législation sociale | 12 heures | 60 points |",
+      "text_sha256": "fc7fac3f513df91b42701d6974bf0550362ca890dc948ba9dcdd2d84387de8ea",
+      "md_span": {
+        "start": 26554,
+        "end": 27523
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_21/20170101",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre 9** — **Catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psycho-social**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen de promotion de la catégorie de traitement B, groupe de traitement B1, sous-groupe éducatif et psycho-social en application de l’article 12, paragraphe 3, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, comporte des interrogations écrites sur les matières suivantes:\n\n|  | **Matière** | **points** |\n| --- | --- | --- |\n| a) | Code pénal et code d’instruction criminelle | 60 points |\n| b) | Législation spécifique en relation avec l’administration pénitentiaire | 60 points |\n| c) | Rapport sur un thème ayant trait au travail éducatif en milieu pénitentiaire | 60 points |\n| d) | Législation sociale | 60 points |\n| e) | Etablissement d’un projet éducatif (rédaction d’un mémoire écrit) | 60 points |\n| f) | Traitement pénologique et mode d’exécution des peines | 60 points |",
+      "text_sha256": "585ef0e97aef69ce274f1fed2614e95b2881044316a99073d9029bd12ac2f108",
+      "md_span": {
+        "start": 27560,
+        "end": 28440
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_22/20170101",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 102 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – notions élémentaires | 6 heures |\n| b) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – initiation | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – initiation | 12 heures |\n| f) | Organisation judiciaire – initiation | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – notions élémentaires | 6 heures |\n| h) | Probation – initiation | 6 heures |\n| i) | Gestion de la comptabilité et du budget – notions élémentaires | 12 heures |\n| j) | Gestion des ressources humaines | 6 heures |\n| k) | Sozialarbeit im Strafvollzug - initiation | 6 heures |\n| l) | Entwicklungspsychologie – initiation | 6 heures |\n| m) | Traitement pénologique - initiation | 6 heures |",
+      "text_sha256": "7ce8964b4b6791b3904bf769f04b92cad521eb1ee0d8c2319932566133a72f9e",
+      "md_span": {
+        "start": 28581,
+        "end": 30061
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_23/20170101",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – initiation | 12 heures | 60 points |\n| d) | Organisation judiciaire – initiation | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – notions élémentaires | 6 heures | 60 points |\n| f) | Probation – initiation | 6 heures | 60 points |",
+      "text_sha256": "bb3ba86f4748c528269e7b64c1f53a7d3731480ad8c67605edc8735a5269dc4c",
+      "md_span": {
+        "start": 30098,
+        "end": 30966
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_24/20170101",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre 10** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe administratif**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen de promotion de la catégorie de traitement C, groupe de traitement C1, sous-groupe administratif, en application de l’article 12, paragraphe 4, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, comporte des interrogations écrites sur les matières suivantes:\n\n|  | **Matière** | **points** |\n| --- | --- | --- |\n| a) | Code pénal et code d’instruction criminelle | 60 points |\n| b) | Comptabilité de l’Etat | 60 points |\n| c) | Législation spécifique en relation avec l’administration pénitentiaire | 60 points |\n| d) | Rapport sur un thème ayant trait à la gestion des centres pénitentiaires | 60 points |\n| e) | Statut général des fonctionnaires de l’Etat | 60 points |\n| f) | Régime des traitements des fonctionnaires de l’Etat | 60 points |",
+      "text_sha256": "3237708e079fc29067dfadf6d1c14e68c81f9803b47fc6660f0c99590113dd20",
+      "md_span": {
+        "start": 31003,
+        "end": 31847
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_25/20170101",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement C, groupe de traitement C1, sous-groupe technique, à l’exception des agents remplissant la fonction de moniteur sportif, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 96 heures, et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence **\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – notions élémentaires | 6 heures |\n| b) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – initiation | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – initiation | 12 heures |\n| f) | Organisation judiciaire – initiation | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – notions élémentaires | 6 heures |\n| h) | Probation – initiation | 6 heures |\n| i) | Gestion de la comptabilité et du budget – notions élémentaires | 12 heures |\n| j) | Sozialarbeit im Strafvollzug - initiation | 6 heures |\n| k) | Entwicklungspsychologie – initiation | 6 heures |\n| l) | Traitement pénologique - initiation | 6 heures |",
+      "text_sha256": "6789eaab6a46d48c6bd18655b5c634b5646ab997ac5e97fa428b6a6e31f795e1",
+      "md_span": {
+        "start": 31984,
+        "end": 33479
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_26/20170101",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement C, groupe de traitement C1, sous-groupe technique, agents remplissant la fonction de moniteur sportif, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 108 heures, et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – notions élémentaires | 6 heures |\n| b) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – initiation | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – initiation | 12 heures |\n| f) | Organisation judiciaire – initiation | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – notions élémentaires | 6 heures |\n| h) | Probation – initiation | 6 heures |\n| i) | Sozialarbeit im Strafvollzug - initiation | 6 heures |\n| j) | Entwicklungspsychologie – initiation | 6 heures |\n| k) | Traitement pénologique - initiation | 6 heures |\n| l) | Professionnelles Handeln | 12 heures |\n| m) | Techniques professionnelles et mesures préventives contre les accidents | 12 heures |",
+      "text_sha256": "0943b4f68be96b419d76f8d399824f0eb1c4e805d2ca6325e6cb4c8a884d6749",
+      "md_span": {
+        "start": 33516,
+        "end": 35048
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_27/20170101",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement C, groupe de traitement C1, sous-groupe technique, à l’exception des agents remplissant la fonction de moniteur sportif, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation **\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – initiation | 12 heures | 60 points |\n| d) | Organisation judiciaire – initiation | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – notions élémentaires | 6 heures | 60 points |\n| f) | Probation – initiation | 6 heures | 60 points |",
+      "text_sha256": "35e63529bc0b6d6414ee8fa1001086a18a716e6d4ee406c98b855b9948135d83",
+      "md_span": {
+        "start": 35085,
+        "end": 36020
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_28/20170101",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement C, groupe de traitement C1, sous-groupe technique, agents remplissant la fonction de moniteur sportif, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – notions élémentaires | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – notions élémentaires | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – initiation | 12 heures | 60 points |\n| d) | Organisation judiciaire – initiation | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – notions élémentaires | 6 heures | 60 points |\n| f) | Probation – initiation | 6 heures | 60 points |\n| g) | Techniques professionnelles et mesures préventives contre les accidents | 12 heures | 60 points |",
+      "text_sha256": "d8eba53bc764e242043e89943c451fa73b0e4ecb44f6cb42c982286c4843cef2",
+      "md_span": {
+        "start": 36057,
+        "end": 37078
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_29/20170101",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen de promotion de la catégorie de traitement C, groupe de traitement C1, sous-groupe technique, à l’exception des agents remplissant la fonction de moniteur sportif, en application de l’article 12, paragraphe 4, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, comporte des interrogations écrites sur les matières suivantes:\n\n|  | **Matière** | **points** |\n| --- | --- | --- |\n| a) | Comptabilité de l’Etat | 60 points |\n| b) | Législation spécifique en relation avec l’administration pénitentiaire | 60 points |\n| c) | Rapport technique | 60 points |\n| d) | Sécurité dans les centres pénitentiaires | 60 points |\n| e) | Technologie du bâtiment | 60 points |\n| f) | Etablissement d’un projet à caractère technique (rédaction d’un mémoire écrit) | 60 points |",
+      "text_sha256": "ccb0c5a73976ad15169372854dee3a2bc083ee94b2140e590ae4a6b363cb9f1a",
+      "md_span": {
+        "start": 37115,
+        "end": 37974
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_30/20170101",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11** — **Catégorie de traitement C, groupe de traitement C1, sous-groupe technique**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen de promotion de la catégorie de traitement C, groupe de traitement C1, sous-groupe technique, des agents remplissant la fonction de moniteur sportif, en application de l’article 12, paragraphe 4, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, comporte des interrogations écrites sur les matières suivantes:\n\n|  | **Matière** | **points** |\n| --- | --- | --- |\n| a) | Législation spécifique en relation avec l’administration pénitentiaire | 60 points |\n| b) | Statut général des fonctionnaires de l’Etat | 60 points |\n| c) | Traitement pénologique et mode d’exécution des peines | 60 points |\n| d) | Etablissement d’un programme ayant trait au travail du moniteur sportif (rédaction d’un mémoire écrit) | 60 points |\n| e) | Présentation d’un programme socio-éducatif dans la branche professionnelle exercée (épreuve orale) | 60 points |",
+      "text_sha256": "709898adae7fcb23c89a82414a1f474b75b6ce01ba7255fa627d8a7cb5e9415e",
+      "md_span": {
+        "start": 38011,
+        "end": 38950
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_31/20170101",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Chapitre 12** — **Catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction agent pénitentiaire**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction agent pénitentiaire, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 96 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – initiation | 6 heures |\n| b) | Loi organique, organigramme de l’administration – initiation | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – initiation | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – initiation | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – initiation | 12 heures |\n| f) | Organisation judiciaire – initiation | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – initiation | 6 heures |\n| h) | Probation – initiation | 6 heures |\n| i) | Sozialarbeit im Strafvollzug - initiation | 6 heures |\n| j) | Entwicklungspsychologie – initiation | 6 heures |\n| k) | Traitement pénologique - initiation | 6 heures |\n| l) | Professionnelles Handeln | 12 heures |",
+      "text_sha256": "24682011a34994b1170854f10bcab0fdd559707fc323d5a28603868c30a65934",
+      "md_span": {
+        "start": 39136,
+        "end": 40530
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_32/20170101",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "**Chapitre 12** — **Catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction agent pénitentiaire**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction agent pénitentiaire, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – initiation | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – initiation | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – initiation | 12 heures | 60 points |\n| d) | Organisation judiciaire – initiation | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – initiation | 6 heures | 60 points |\n| f) | Probation – initiation | 6 heures | 60 points |",
+      "text_sha256": "62290e5d091a2762781bdc6a223439532dc5a76642c5c7af86ff50ee37e65134",
+      "md_span": {
+        "start": 40567,
+        "end": 41450
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_33/20170101",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "**Chapitre 12** — **Catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction agent pénitentiaire**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen de promotion de la catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction agent pénitentiaire, en application de l’article 12, paragraphe 5, point 1, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, comporte des interrogations écrites sur les matières suivantes:\n\n|  | **Matière** | **points** |\n| --- | --- | --- |\n| a) | Code pénal et code d’instruction criminelle | 60 points |\n| b) | Législation spécifique en relation avec l’administration pénitentiaire | 60 points |\n| c) | Traitement pénologique et mode d’exécution des peines | 60 points |\n| d) | Statut général des fonctionnaires de l’Etat | 60 points |\n| e) | Sécurité dans les centres pénitentiaires | 60 points |\n| f) | Rapport de service | 60 points |",
+      "text_sha256": "891fe3b1e625442ed3aad9f2692bb16e95f9e35d4074ee169c376c3a5842798d",
+      "md_span": {
+        "start": 41487,
+        "end": 42351
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_34/20170101",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "**Chapitre 13 ** — **Catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction artisan**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Pour les stagiaires de la catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction artisan, la formation spéciale théorique visée à l’article 6, paragraphe 3, de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 108 heures et comprend les cours et le nombre d’heures de formation suivants:\n\n**Partie I: Matières certifiées par une attestation de présence**\n\n|  | **Matière** | **durée** |\n| --- | --- | --- |\n| a) | Histoire des prisons – initiation | 6 heures |\n| b) | Loi organique, organigramme de l’administration – initiation | 6 heures |\n| c) | Règlements de l’administration pénitentiaire – initiation | 12 heures |\n| d) | Circulaires, notes internes, notes de service et autres documents en relation avec la législation et la réglementation spécifiques – initiation | 12 heures |\n| e) | Code pénal, code d’instruction criminelle – initiation | 12 heures |\n| f) | Organisation judiciaire – initiation | 6 heures |\n| g) | Droits de l’homme et règles pénitentiaires européennes – notions élémentaires | 6 heures |\n| h) | Probation - initiation | 6 heures |\n| i) | Gestion de la comptabilité et du budget – notions élémentaires | 12 heures |\n| j) | Sozialarbeit im Strafvollzug - initiation | 6 heures |\n| k) | Entwicklungspsychologie – initiation | 6 heures |\n| l) | Traitement pénologique - initiation | 6 heures |\n| m) | Professionnelles Handeln | 12 heures |",
+      "text_sha256": "31e5461e5be89991ab906e61c2ec29e04133587fa130fcaaa8a3203b351350d7",
+      "md_span": {
+        "start": 42526,
+        "end": 44003
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_35/20170101",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "**Chapitre 13 ** — **Catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction artisan**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale de la catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction artisan, comporte des interrogations écrites sur les matières suivantes:\n\n**Partie II: Matières sanctionnées par un examen en fin de formation**\n\n|  | **Matière ** | **durée** | **points** |\n| --- | --- | --- | --- |\n| a) | Loi organique, organigramme de l’administration – initiation | 6 heures | 60 points |\n| b) | Règlements de l’administration pénitentiaire – initiation | 12 heures | 60 points |\n| c) | Code pénal, code d’instruction criminelle – initiation | 12 heures | 60 points |\n| d) | Organisation judiciaire – initiation | 6 heures | 60 points |\n| e) | Droits de l’homme et règles pénitentiaires européennes – notions élémentaires | 6 heures | 60 points |\n| f) | Probation – initiation | 6 heures | 60 points |",
+      "text_sha256": "e59459c4a8a9d3e6c2ca05e1d26c1b1b6c33aa33e7f1d95d22d0e90eea9c485d",
+      "md_span": {
+        "start": 44040,
+        "end": 44922
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_36/20170101",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "**Chapitre 13 ** — **Catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction artisan**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen de promotion de la catégorie de traitement D, groupe de traitement D1, sous-groupe à attributions particulières, fonction artisan, en application de l’article 12, paragraphe 5, point 2, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat, comporte des interrogations écrites sur les matières suivantes:\n\n|  | **Matière** | **points** |\n| --- | --- | --- |\n| a) | Code pénal et code d’instruction criminelle | 60 points |\n| b) | Législation spécifique en relation avec l’administration pénitentiaire | 60 points |\n| c) | Traitement pénologique et mode d’exécution des peines | 60 points |\n| d) | Statut général des fonctionnaires de l’Etat | 60 points |\n| e) | Rapport technique | 60 points |\n| f) | Sécurité dans les ateliers | 60 points |",
+      "text_sha256": "27e62aa5acd134c05dd60ad37e955ab57e125fbf2d0c6ea7c7e77ac03b14aa84",
+      "md_span": {
+        "start": 44959,
+        "end": 45796
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale/20181101",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_37/20170101",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "**Chapitre 14** — **Aspects**** organisationnels de la formation spéciale**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Les matières sont enseignées sous forme de sessions de formation suivant un horaire à déterminer par le chef d’administration.\n\nCertaines formations figurant au programme de plusieurs groupes de traitement peuvent être organisées en commun pour tous les stagiaires des groupes de traitement concernés.\n\nLes sessions de formation peuvent comprendre des cours présentiels, des cours alternant des phases présentielles avec des phases d’autoapprentissage, des cours de travaux dirigés ou des séances d’apprentissage accompagné sur le lieu du travail.\n\nElles peuvent être organisées pour des périodes à temps plein ou en alternance avec des plages de travail effectif.\n\nLa nature des sessions de formation et les modalités d’organisation sont déterminées par le chef d’administration.\n\nLes stagiaires sont informés à l’avance et dans un délai d’un mois de la nature des sessions de formations et des modalités d’organisation, de l’horaire des sessions ainsi que du lieu de leur déroulement.\n\nLe temps de formation spéciale compte comme période d’activité de service.",
+      "text_sha256": "ac4c6f2adfcba9e22d50f1a493f4ab70300d47044bda72615cacc5279f40722a",
+      "md_span": {
+        "start": 45913,
+        "end": 46975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_38/20170101",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "**Chapitre 14** — **Aspects**** organisationnels de la formation spéciale**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "La fréquentation des cours de formation est obligatoire.\n\nUne dispense de la fréquentation de certains cours de formation peut être accordée au stagiaire s’il bénéficie d’un congé pour raisons de santé ou d’un congé extraordinaire conformément au règlement grand-ducal modifié du 3 février 2012 fixant le régime des congés des fonctionnaires et employés de l’Etat.\n\nSur demande et pour des raisons exceptionnelles dûment motivées, le stagiaire peut bénéficier d’une dispense de la fréquentation de certains cours de formation.\n\nLe stagiaire qui, à la suite d’un premier échec à l’un des examens prévus par le présent règlement, doit se représenter à l’examen en question et peut bénéficier d’une dispense de la fréquentation des cours de formations correspondants.\n\nLes dispenses sont accordées sur demande au stagiaire concerné par le chef d’administration.",
+      "text_sha256": "7407b2511fc88614a4c6bd25e522047dfdac0a1a183785432c4b07d9ce09ed4c",
+      "md_span": {
+        "start": 47012,
+        "end": 47870
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/02/03/n2/jo",
+          "text": "règlement grand-ducal modifié du 3 février 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_39/20170101",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "**Chapitre 15** — **Organisation des examens**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "**(1)** L’examen de fin de formation spéciale pour les groupes de traitement visés par le présent règlement porte sur les formations des parties I et II des programmes de formation respectifs.\n\n**(2)** Les stagiaires des catégories de traitement A, B, C et D, groupes de traitement A1, A2, B1, C1, et D1, doivent obligatoirement suivre les formations de la partie I de leur programme de formation spéciale. La participation intégrale du stagiaire aux sessions de formation donne à chaque fois lieu à l’établissement d’un certificat de fréquentation.\n\n**(3)** A la fin du cycle de formation, les stagiaires des différents groupes de traitement doivent passer un examen théorique qui porte d’office sur les matières de la partie II des programmes de formation des différents groupes de traitement sans préjudice de l’application des dispositions du paragraphe II ci-dessus.\n\nPour les stagiaires des différents groupes de traitement, les matières enseignées sont sanctionnées par un examen de fin de formation spéciale organisé dans les trois mois qui suivent la fin de la période des cours.\n\nL’examen théorique a lieu devant une commission d’examen qui se compose d’un président, de deux membres effectifs pour chaque épreuve, d’un secrétaire et de secrétaires adjoints, ainsi que d’un nombre concordant de membres suppléants, nommés par le ministre du ressort.\n\nLa commission d’examen prononce l’admission, le refus ou l’ajournement des candidats se présentant aux différents examens prévus par le présent règlement.\n\nLa commission peut être complétée par des experts. Nul ne peut être président, membre, secrétaire ou secrétaire adjoint d’une commission d’un examen auquel participe un parent ou allié jusqu’au quatrième degré inclusivement.\n\nLe ministre nomme, sur proposition de la Chambre des fonctionnaires et employés publics, un observateur relevant du groupe de traitement concerné. L’observateur participe aux travaux de la commission avec voix consultative. Il est convoqué aux réunions et séances de la commission dans les mêmes formes et dans les mêmes délais que les membres de la commission.\n\nL’examen est organisé conformément aux dispositions du règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen du concours d’admission au stage, de l’examen de fin de stage et de l’examen de promotion dans les administrations et services de l’Etat.\n\n**(4)** Les résultats obtenus à l’examen théorique sont mis en compte pour l’établissement du résultat de l’examen de fin de formation spéciale.\n\nL’appréciation de la réussite ou de l’échec du stagiaire se fait conformément à l’article 19 paragraphe II du règlement grand-ducal modifié du 27 octobre 2000 déterminant l’organisation à l’Institut national d’administration publique de la division de la formation pendant le stage du personnel de l’Etat et des établissements publics de l’Etat ainsi que du cycle de formation de début de carrière pour les employés de l’Etat.\n\nLe résultat final de l’examen de fin de formation spéciale doit être constitué définitivement au cours du troisième mois qui précède la fin du stage. Il est arrêté sous forme d’un procès-verbal par la commission d’examen prévue au paragraphe III du présent article.",
+      "text_sha256": "4042ac042a663ee53e0e095c4046d3756cd386894239cce22ba35926e73e2b25",
+      "md_span": {
+        "start": 47958,
+        "end": 51194
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1984/04/13/n7/jo",
+          "text": "règlement grand-ducal modifié du 13 avril 1984"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2000/10/27/n2/jo",
+          "text": "règlement grand-ducal modifié du 27 octobre 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39bis",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_39bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_39_bis/20181026",
+      "type": "article",
+      "num": "Art. 39 bis.",
+      "heading": null,
+      "path": [
+        "**Chapitre 15** — **Organisation des examens**"
+      ],
+      "article_valid_from": "2018-10-26",
+      "text_md": "**(1)** L’examen de promotion pour les groupes de traitement visés par le présent règlement comporte des interrogations sur les matières respectives.\n\n**(2)** L’examen de promotion a lieu devant une commission d’examen qui se compose selon les modalités reprises à l’article 39, paragraphe 3. L’examen est organisé d’après les procédures fixées à l’article 39, paragraphe 3.\n\n**(3)** Les dates de l’examen de promotion sont publiées au Journal officiel du Grand-Duché de Luxembourg.\n\nLe programme et les dates de l’examen de promotion sont communiqués à chaque candidat, dès le dépôt de sa candidature, par le président de la commission d’examen.\n\n**(4)** A réussi à l’examen de promotion, le candidat qui a obtenu au moins trois cinquièmes du total des points et au moins la moitié des points dans chaque matière.\n\nLe candidat qui a obtenu au moins trois cinquièmes des points sans avoir obtenu la moitié au moins du total des points dans une matière est ajourné dans cette matière.\n\nLes examens d’ajournement ont lieu dans les trois mois de la proclamation du résultat de l’examen.\n\nLe candidat qui n’a pas obtenu au moins la moitié des points à l’examen d’ajournement a échoué à l’examen.\n\nA échoué à l’examen le candidat qui n’a pas obtenu au moins trois cinquièmes du total des points ou celui qui a obtenu au moins trois cinquièmes du total des points mais n’a pas obtenu la moitié au moins du total des points dans plus d’une matière.\n\nLe fonctionnaire qui a subi un échec à l’examen de promotion peut se présenter une nouvelle fois à l’examen. En cas de second échec, le candidat peut se présenter une dernière fois à l’examen de promotion après un délai minimum de cinq ans et à condition d’avoir suivi une formation spéciale à l’Institut national d’administration publique ou auprès d’un autre organisme de formation reconnu par le ministre ayant la Fonction publique dans ses attributions.\n\nLa non-participation sans motif valable du candidat à une ou plusieurs des épreuves de la session d’examen équivaut à un échec",
+      "text_sha256": "19297efb707dfb3053251c540476172ca5fa79600db55b04a4d0e44de4976913",
+      "md_span": {
+        "start": 51238,
+        "end": 53266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_40/20170101",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "**Chapitre 16** — **Disposition abrogatoire et mise en vigueur**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Le règlement grand-ducal modifié du 11 février 1999 déterminant les conditions d’admission, de nomination et d’avancement du personnel des cadres de l’administration pénitentiaire est abrogé.",
+      "text_sha256": "10ff2b538fd303b454e34495353b5d593d10aaf292df77f3620769b0533a41bd",
+      "md_span": {
+        "start": 53372,
+        "end": 53563
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1999/02/11/n1/jo",
+          "text": "règlement grand-ducal modifié du 11 février 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_41/20170101",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "**Chapitre 16** — **Disposition abrogatoire et mise en vigueur**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Le présent règlement entre en vigueur le 1er janvier 2017.",
+      "text_sha256": "cb2decc2825c9f057c778274f716b4cd5981670ef3258f38d8f744edd99a1177",
+      "md_span": {
+        "start": 53600,
+        "end": 53658
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:rgd-2016-11-17-n2:2018-10-26#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/art_42/20170101",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "**Chapitre 16** — **Disposition abrogatoire et mise en vigueur**"
+      ],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Notre Ministre de la Justice et Notre Ministre des Finances sont chargés de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "f6beb55ec63f3ecd9660d6fcc260435981f0aabb1b7eeedaa07624881ea06030",
+      "md_span": {
+        "start": 53695,
+        "end": 53832
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

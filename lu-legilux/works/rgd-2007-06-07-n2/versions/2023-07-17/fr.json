@@ -1,0 +1,618 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/07/2023 : Règlement grand-ducal du 7 juin 2007 déterminant pour la profession d'orthoptiste:\\n 1. les études en vue de l'obtention du diplôme,\\n 2. les modalités de reconnaissance des diplômes étrangers, et\\n 3. l'exercice de la profession.",
+  "valid_from": "2023-07-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2007-06-07-n2/versions/2023-07-17/fr.xml",
+    "sha256": "af2ef1aeb635f7723e5724f7918fa61bc85ceb83514ccdbacccaa295a4bc2e74",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/consolide/20230717/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_1er/20070622",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2007-06-22",
+      "text_md": "Les dispositions du présent règlement règlent l'accès et l'exercice au Grand-Duché de Luxembourg de la profession d'orthoptiste telle que visée par l'article 1er de la loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé.",
+      "text_sha256": "ae3c379baab497dec79b5131fff4980294e661a8f8b90c08dd57f7cdcc14c3b8",
+      "md_span": {
+        "start": 752,
+        "end": 1019
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/03/26/n1/jo",
+          "text": "loi modifiée du 26 mars 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_2/20070622",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2007-06-22",
+      "text_md": "Les personnes exerçant la profession de santé visée à l'article 1er portent le titre d'orthoptiste.",
+      "text_sha256": "89a6a9274f796048f013dc71b9f47c57ee369c22d8736ef01cbe18657d5f7b41",
+      "md_span": {
+        "start": 1054,
+        "end": 1153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_3/20070622",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1: — Etudes en vue de l’obtention du diplôme d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "Le diplôme ou titre de formation d'orthoptiste ne peut être reconnu que:\n\n1. s'il sanctionne un cycle de formation post-secondaire à temps plein d'au moins trois années ou six semestres ou neuf trimestres, d'un institut de formation agréé par l'Etat dans lequel il a son siège et\n2. si le détenteur du diplôme ou titre de formation possède les qualifications requises pour accéder à la profession d'orthoptiste dans l'Etat où le diplôme ou titre de formation a été délivré pour autant que la profession d'orthoptiste y est réglementée.",
+      "text_sha256": "7cd14b9d40ebf45dd92eb84a9231eb714e034fdd0ee3568df7adc9bfb88922b5",
+      "md_span": {
+        "start": 1260,
+        "end": 1795
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_4/20070622",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1: — Etudes en vue de l’obtention du diplôme d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "Le programme des études visées doit compter au moins 3 000 heures de formation et comporte:\n\n1. - anatomie et physiologie générale,\n- neurophysiologie,\n- physique et optique,\n- pathologie générale,\n- hygiène,\n- psychologie,\n- notions élémentaires de statistiques.\n2. - anatomie oculaire,\n- physiologie et neurophysiologie de l'oeil,\n- optique de l'oeil et réfraction,\n- ophtalmologie générale,\n- neuro-ophtalmologie générale,\n- - strabismes,\n- hétérophories,\n- troubles de vergence,\n- correspondance rétinienne anormale,\n- amblyopie,\n- basse vision,\n- vices de réfraction,\n- paralysies oculo-motrices,\n- nystagmus,\n- syndromes de rétraction,\n- syncinésies anormales,\n- attitudes compensatrices,\n- pharmacologie,\n- techniques fondamentales de l’examen ophtalmologique,\n- techniques plé-orthoptiques et de basse vision,\n- méthodes d’examen et de traitement plé-orthoptique,\n- méthodes d’examen et de rééducation et de réadaptation de la basse vision,\n- instrumentation,\n- législation et déontologie professionnelle de l’orthoptiste.\n3. Un enseignement pratique d'au moins 1 000 heures en milieu hospitalier ou extrahospitalier: dans un service d'orthoptie, un service de basse vision, ainsi que dans un service ou une policlinique ophtalmologique. Il s'effectue sous forme de stages dans des services agréés par les autorités compétentes du pays où se déroulent les études.",
+      "text_sha256": "986753bf15841fddd56fce5335a2be41290a15eeffae95741c0a3eb82aaca6c9",
+      "md_span": {
+        "start": 1830,
+        "end": 3201
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_5_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_5/20070622",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "En vue d'obtenir la reconnaissance des études effectuées à l'étranger, le requérant adresse une demande au ministre ayant l'Education nationale dans ses attributions.\n\nSeront annexées à cette demande toutes les pièces ayant trait au cycle d'études suivi par le requérant, et notamment:\n\n- copie du diplôme final, certifiée conforme à l'original par une autorité compétente;\n- une notice biographique indiquant de façon détaillée les études et l'expérience professionnelle par ordre chronologique;\n- copie d'un titre d'identité, certifiée conforme à l'original.",
+      "text_sha256": "617f034ba08eeaf19d869f2b77f354c175cd1f1b0ffadede5070ee7d031317b6",
+      "md_span": {
+        "start": 3314,
+        "end": 3874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_6_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_6/20070622",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "**1.** Pour les requérants titulaires d'un diplôme étranger bénéficiant de l'application de ladirective du Conseil 89/48/CEErelative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans, le ministre ayant l'Education nationale dans ses attributions peut imposer au requérant soit:\n\n- de se soumettre à une épreuve d'aptitude ou un stage d'adaptation, au choix du requérant, au cas où les curricula de la formation effectuée à l'étranger comportent des programmes d'études substantiellement différents de ceux visés à l'article 4 ou si l'exercice de la profession dans le pays de provenance est substantiellement différent de celui du Grand-Duché de Luxembourg, ou\n- de faire preuve d'une expérience professionnelle licite dans un Etat membre ou un pays tiers si, pour la même profession, la durée des études visées à l'article 3 est substantiellement différente entre la formation à l'étranger et l'enseignement prévu à l'article 4.\n\n**2.** Pour les requérants titulaires d'un diplôme étranger tombant sous le champ d'application de la directive du Conseil 92/51/CEE relative à un deuxième système général de reconnaissance des formations professionnelles, qui complète la directive 89/48/CEE, le ministre ayant l'Education nationale dans ses attributions peut exiger du requérant de choisir entre l'accomplissement d'un stage d'adaptation et une épreuve d'aptitude, conformément aux dispositions de l'article 3 du règlement grand-ducal du 2 juin 1994 portant transposition de la directive 92/51/CEE.",
+      "text_sha256": "d819170d6ccb4007dfda27317362f93ef50e7849f294fb3a629d0a1d8eb3557b",
+      "md_span": {
+        "start": 4041,
+        "end": 5648
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1989/48/jo",
+          "text": "directive du Conseil 89/48/CEE"
+        },
+        {
+          "href": "/eli/dir_ue/1992/51/jo",
+          "text": "directive du Conseil 92/51/CEE"
+        },
+        {
+          "href": "/eli/dir_ue/1989/48/jo",
+          "text": "directive 89/48/CEE"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1994/06/02/n1/jo",
+          "text": "règlement grand-ducal du 2 juin 1994"
+        },
+        {
+          "href": "/eli/dir_ue/1992/51/jo",
+          "text": "directive 92/51/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_7_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_7/20070622",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "La commission chargée de procéder à l'épreuve d'aptitude est nommée par le ministre ayant l'Education nationale dans ses attributions pour une durée de trois ans.\n\nElle se compose de cinq membres effectifs, à savoir:\n\n- un représentant du ministre ayant l'Education nationale dans ses attributions, qui préside la commission;\n- un représentant du ministre ayant la Santé dans ses attributions;\n- deux orthoptistes;\n- un médecin spécialisé en ophtalmologie.\n\nPour chaque membre effectif, il est nommé un membre suppléant.\n\nNul ne peut, en sa qualité de membre de la commission d'examen, prendre part à l'examen d'un de ses parents ou alliés jusqu'au quatrième degré inclus.\n\nLe président de la commission d'examen fixe le jour d'ouverture de la session, les dates et lieux des différentes épreuves et en informe les candidats.",
+      "text_sha256": "8f6dd55ba5f3ac8c29059cec4dd8f37f0d552e29dde54247764d093967472378",
+      "md_span": {
+        "start": 5692,
+        "end": 6517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_8_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_8/20070622",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Le programme de l'épreuve d'aptitude porte sur la législation luxembourgeoise applicable aux orthoptistes ainsi que sur les matières ou activités pour lesquelles il existe une différence substantielle entre la formation à l'étranger et les matières prévues à l'article 4. L'épreuve d'aptitude peut comporter une épreuve pratique.\n\nL'épreuve est notée de 0 à 60 points.",
+      "text_sha256": "9d8a959768d744d228db19c923795548b06d8a68d8a89c42c3be1bb9ea6def9a",
+      "md_span": {
+        "start": 6561,
+        "end": 6929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_9_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_9/20070622",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "A l'issue de l'épreuve d'aptitude, est déclaré admis le candidat qui a obtenu au moins la moitié du maximum des points dans chaque matière sur laquelle porte l'épreuve.\n\nIl est loisible au candidat qui n'a pas été admis de se présenter à une nouvelle épreuve d'aptitude lors d'une session ultérieure.\n\nLa reconnaissance d'équivalence des études effectuées à l'étranger est accordée au candidat admis.\n\nLa commission dresse un procès-verbal de ses opérations et le transmet au ministre ayant l'Education nationale dans ses attributions.",
+      "text_sha256": "494bbfafdc3cfe968613a942aada3bc41e205b4f1bb57522f67ad4cbeb139c7b",
+      "md_span": {
+        "start": 6973,
+        "end": 7508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_10_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_10/20070622",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Les membres de la commission d'examen visée à l'article 7 touchent des indemnités fixées sur la base du barème ci-dessous:\n\n- une indemnité forfaitaire de base de 10,43 €\n- une indemnité par questionnaire de 5,55 €\n- une indemnité de correction par candidat de 0,51 €.\n\nCes indemnités correspondent au nombre indice 100 et subissent la même adaptation au coût de la vie que les traitements des fonctionnaires d'Etat.",
+      "text_sha256": "eda5635cee86e119b0dc313aeabfea2794e8e8b026e537d4baf25d4a7c474a8a",
+      "md_span": {
+        "start": 7554,
+        "end": 7970
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_11_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_11/20070622",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Le ministre ayant l'Education nationale dans ses attributions fixe le nombre de sessions annuelles de l'épreuve d'aptitude selon les besoins.",
+      "text_sha256": "135bf88f212587377b3b04b87f36e947b8d4e954dc08662ccc7e55eb996914f7",
+      "md_span": {
+        "start": 8016,
+        "end": 8157
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_12_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_12/20070622",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Le requérant ayant opté pour le stage d'adaptation soumet à l'approbation du ministre ayant l'Education nationale dans ses attributions un projet de stage comportant les indications suivantes: le contenu et les objectifs détaillés, le lieu de stage, le nom du responsable de stage et, le cas échéant, le nom de l'employeur du responsable de stage.\n\nIl est joint au projet de stage une déclaration du stagiaire par laquelle il s'engage à respecter la législation et la déontologie afférentes à sa profession, ainsi que l'accord écrit du responsable de stage et de son employeur, si le responsable est un salarié.",
+      "text_sha256": "ace48778dd017b479eaa9022347fff3ce9790b21da1bd8cf6589e171cd5d02fc",
+      "md_span": {
+        "start": 8203,
+        "end": 8814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_13_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_13/20070622",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Le ministre ayant l'Education nationale dans ses attributions, après avoir donné son accord au projet du requérant, fixe le début et la fin du stage.",
+      "text_sha256": "18825d7dde7fe2c3e035a4624f623655b72510a16ce21233a42cde3efe5e90da",
+      "md_span": {
+        "start": 8860,
+        "end": 9009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_14_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_14/20070622",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Le lieu de stage doit être agréé par le ministre de la Santé.",
+      "text_sha256": "8915210442ec039ff6f04c87b6fea2bb1cec2c7d5863ea9c33b0d9a98bcabfc6",
+      "md_span": {
+        "start": 9055,
+        "end": 9116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_15_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_15/20070622",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Le stage est effectué sous l'autorité et sous la responsabilité d'un orthoptiste autorisé à exercer la profession au Luxembourg et disposant d'une expérience professionnelle d'au moins trois ans. Le responsable de stage doit assurer sur le lieu du stage une présence adéquate pour surveiller l'activité professionnelle du stagiaire.",
+      "text_sha256": "53176ac05363cdffd986fb0d1692cbb00d7776eef7c6f137f6809887e771dbf9",
+      "md_span": {
+        "start": 9162,
+        "end": 9494
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_16_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_16/20070622",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Lors du stage, le stagiaire doit pouvoir, à tout moment, être identifié comme tel.\n\nLe stage comporte des évaluations établies par le responsable de stage.",
+      "text_sha256": "04255b6a229e046740b27b32fed595e627de31914c39029e3807f76dd9ca1231",
+      "md_span": {
+        "start": 9540,
+        "end": 9695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_17_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_17/20070622",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "A la fin du stage, une attestation de la durée du stage ainsi qu'un rapport écrit comportant l'évaluation de l'activité professionnelle du stagiaire par rapport aux objectifs du stage et les documents qui s'y rattachent sont délivrés au stagiaire par le responsable de stage.\n\nEn cas d'évaluation positive, la reconnaissance d'équivalence des études effectuées à l'étranger est accordée au candidat admis.\n\nEn cas d'évaluation négative, il est loisible au requérant de se soumettre à un nouveau stage d'adaptation.",
+      "text_sha256": "2e5c9183df69bf06e19810d61b632efb56559b018afda0e675bfecb8f949008b",
+      "md_span": {
+        "start": 9741,
+        "end": 10255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_18_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_18/20070622",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Le stage peut être interrompu définitivement ou temporairement sur initiative du stagiaire, du responsable de stage ou de l'employeur.\n\nSur demande motivée du stagiaire, le ministre ayant l'Education nationale dans ses attributions peut autoriser la continuation du stage sous la supervision d'un autre responsable de stage et sur un lieu de stage différent\n\nEn cas de rejet de la demande, le requérant soumet un nouveau projet de stage pour approbation au ministre ayant l'Education nationale dans ses attributions.",
+      "text_sha256": "70b3cc3885a88f8b05e2b5aa5f52fbdf991d6c4b727b2e7fd38da8a67acd8603",
+      "md_span": {
+        "start": 10301,
+        "end": 10817
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_19_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_19/20070622",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section I: — Diplômes étrangers tombant sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Lorsque la durée de la formation à l'étranger est inférieure d'au moins une année à celle prévue à l'article 3, le ministre ayant l'Education nationale dans ses attributions peut exiger, en vue de la reconnaissance des études, une expérience professionnelle acquise dans un Etat membre de l'Union Européenne ou un pays tiers, étant entendu:\n\n- que cette expérience professionnelle doit être consécutive à l'obtention du diplôme final permettant l'accès à la profession d'orthoptiste;\n- que l'expérience professionnelle exigée pour la reconnaissance des études ne peut dépasser le double de la période manquante, lorsqu'il s'agit d'un cycle d'études post-secondaires et/ou d'un stage professionnel accompli sous l'autorité d'un responsable de stage et sanctionné par un examen;\n- que l'expérience professionnelle exigée ne peut dépasser la période de formation manquante, lorsque cette dernière porte sur une pratique professionnelle accomplie avec la surveillance d'un professionnel qualifié.\n\nEn tout état de cause, l'expérience professionnelle exigible ne peut excéder quatre ans.",
+      "text_sha256": "7f0863d022d8f1a4450563ce214bb50f5f056ea765575609d2eb7ff2d0002201",
+      "md_span": {
+        "start": 10863,
+        "end": 11945
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20_20230717",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_20_20230717",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_20/20070622",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — Modalités de reconnaissance des diplômes étrangers",
+        "Section II: — Diplômes étrangers ne tombant pas sous le champ d’application d’une directive communautaire visée à l’article 6"
+      ],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Dans le cas où les niveaux, durées et curricula de la formation effectuée à l'étranger comportent des programmes d'études différents de ceux visés aux articles 3 et 4, le ministre ayant l'Education nationale dans ses attributions peut imposer aux requérants titulaires d'un diplôme étranger non couvert par une directive communautaire soit:\n\n- une épreuve d'aptitude;\n- un stage d'adaptation;\n- à la fois une épreuve d'aptitude et un stage d'adaptation.\n\nLes modalités de l'épreuve d'aptitude et du stage d'adaptation sont définies aux articles 7 à 19.",
+      "text_sha256": "682dcf6da839422336e279c18f92a8184761801b88ae59b3234974c785aecb02",
+      "md_span": {
+        "start": 12122,
+        "end": 12674
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_21/20070622",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Exercice de la profession d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "L'orthoptie consiste en des actes de dépistage, de rééducation et de réadaptation de la vision dans le cas d'une amblyopie, de troubles de la vision binoculaire, d'une basse vision et/ou des perturbations du champ visuel en mono- ou binoculaire.",
+      "text_sha256": "32c2f9e7b7e54847d1129bc02a4fd112cd7a76aa6eb39b12a75f30aae1a92f54",
+      "md_span": {
+        "start": 12769,
+        "end": 13014
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_22/20070622",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Exercice de la profession d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "L'exercice de la profession d'orthoptiste est réservé au professionnel de la santé qui est autorisé par le ministre de la Santé à exercer la profession d'orthoptiste au Grand-Duché de Luxembourg.",
+      "text_sha256": "7420cd63efbec0f5531484ab2471b53de0f2b623aae948501b4c912695243a46",
+      "md_span": {
+        "start": 13051,
+        "end": 13246
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_23/20070622",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Exercice de la profession d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "L'orthoptiste est habilité à accomplir les actes professionnels suivants de façon autonome:\n\n1. les actes relatifs à la détermination subjective et objective de l'acuité visuelle;\n2. le conseil en matière d'ergonomie visuelle concernant le domicile, le poste de travail, le poste scolaire ainsi que les moyens de transport.",
+      "text_sha256": "a9c5bf4ac4d1c89b37c5babce53717bce63a1bedb8a40f2812efb57a72ffe166",
+      "md_span": {
+        "start": 13283,
+        "end": 13606
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_24/20070622",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Exercice de la profession d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "Dans le cadre d'un programme de dépistage organisé ou agréé par le ministre de la Santé, l'orthoptiste est habilité à accomplir les actes suivants:\n\n1. la détermination objective et subjective de la fixation;\n2. le bilan des déséquilibres oculomoteurs;\n3. le dépistage des dyschromatopsies congénitales;\n4. l'établissement de la courbe d'adaptation à l'obscurité.",
+      "text_sha256": "2518a4ea39fc18cd910c708bbf0805e2f937c65f53bb96678a6a0b9697bcf13b",
+      "md_span": {
+        "start": 13643,
+        "end": 14006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_25/20070622",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Exercice de la profession d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "**(1)** Sur prescription médicale écrite préalable, l'orthoptiste est habilité à accomplir, outre les actes visés aux points 1, 2 et 3 de l'article 24, les actes suivants:\n\n1. le bilan et la rééducation des personnes atteintes d'amblyopie, de strabismes, d'hétérophories, d'insuffisances de convergence ou de déséquilibres binoculaires et la proposition d'aides visuelles et techniques;\n2. le bilan et la rééducation de la basse vision et des perturbations du champ visuel ainsi que la proposition d'aides visuelles et techniques.\n\n**(2)** Sur prescription médicale écrite préalable et sous la réserve que le médecin prescripteur procède à l'interprétation des résultats, l'orthoptiste est habilité à accomplir les actes suivants:\n\n1. la périmétrie;\n2. la campimétrie;\n3. l'établissement de la courbe d'adaptation à l'obscurité;\n4. l'exploration du sens chromatique.\n\n**(3)** Sur prescription médicale, l'orthoptiste établit un bilan qui comprend le diagnostic orthoptique ainsi que, le cas échéant, un plan de soins. Ce bilan, accompagné du choix des actes et des techniques appropriées, est communiqué au médecin prescripteur.\n\n**(4)** L'orthoptiste informe le médecin prescripteur:\n\n1. de toute information en sa possession susceptible d'être utile pour le diagnostic ou le traitement du patient;\n2. de l'éventuelle adaptation du traitement en fonction de l'évolution de l'état de la pathologie à traiter.\n\n**(5)** L'orthoptiste adresse à l'issue de la dernière séance un rapport orthoptique au médecin prescripteur.\n\n**(6)** Chaque fois qu'il le juge opportun, l'orthoptiste demande des compléments d'information au médecin prescripteur.",
+      "text_sha256": "b8c7e7824c67b139ef19e2c122437084084ca9212ff41ec2a6c4fdcf5d801a79",
+      "md_span": {
+        "start": 14043,
+        "end": 15684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_26/20070622",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Exercice de la profession d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "L'orthoptiste est habilité à assister le médecin pour effectuer les enregistrements à l'occasion des explorations fonctionnelles suivantes:\n\n1. la rétinographie;\n2. l'électrophysiologie oculaire.",
+      "text_sha256": "327743b25a098498ae20904f25310f4fc7862f209c048c441fcfe53cf77c9ea3",
+      "md_span": {
+        "start": 15721,
+        "end": 15916
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_27/20070622",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Exercice de la profession d’orthoptiste"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "L'orthoptiste n'est pas autorisé à prescrire ou à délivrer des médicaments.",
+      "text_sha256": "9bd8429163c1f85b42d2f739ef35a35690854eeae4c0e898222115914c4e665f",
+      "md_span": {
+        "start": 15953,
+        "end": 16028
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_28/20070622",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions finales"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "Les autorisations d'exercer la profession d'orthoptiste, délivrées conformément aux dispositions de l'article 2 de la loi modifiée du 26 mars 1992 précitée, restent valables.",
+      "text_sha256": "2e2a957d5edc0b19e342f22e583f62bb5453515774bc3a700aeffe091b87f760",
+      "md_span": {
+        "start": 16104,
+        "end": 16278
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/03/26/n1/jo",
+          "text": "loi modifiée du 26 mars 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2007-06-07-n2:2023-07-17#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/art_29/20070622",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions finales"
+      ],
+      "article_valid_from": "2007-06-22",
+      "text_md": "Notre Ministre de la Santé et Notre Ministre de l'Éducation nationale et de la Formation professionnelle sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "7ad36c7153eb52c09d0e183c09f47b195960d1434c2a765a857a06ddc247d15c",
+      "md_span": {
+        "start": 16315,
+        "end": 16528
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

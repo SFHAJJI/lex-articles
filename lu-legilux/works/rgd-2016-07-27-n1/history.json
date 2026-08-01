@@ -1,0 +1,106 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2016-07-27-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": null,
+        "text_sha256": "73fd5555fdc015f0932db58e03a889ee128f3caaaa2da53ebd97f9ed2d149b65",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2016-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": null,
+        "text_sha256": "904bd3a7a8da8d7e285fec830e1d09ad74cddf86624feee07a634d9b35a8fcba",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2016-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": "2020-04-28",
+        "text_sha256": "e88302d53c8ebc77e3b81dcbae043be6d52d463dc174c7015b27d2ae6d0eb19d",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2016-08-01",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2020-04-29",
+        "valid_to": null,
+        "text_sha256": "a78ac3543123784ce63ac5cf3ea076f424523e9f07b935ac0f429c0396c8dd28",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2020-04-29",
+        "article_valid_from": "2020-04-29"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": null,
+        "text_sha256": "36537716025a699550cebb89632a8915d88704f8e98b3d586ffc8e2347f1c4d3",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2019-01-01"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": null,
+        "text_sha256": "5b0f33556afe8dcc9766b6352b15b999dca044bc760cf25f0ed2d299c198f42f",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2016-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": null,
+        "text_sha256": "e4d33a742e56dc59b6cf1c0a6772c07a24a8bba13fb38cd1512658b7c06f6a86",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2016-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": null,
+        "text_sha256": "616c776d697a4a1ba8e6b525de2cb750406ca8c4e3211ce044369bd9f652efe9",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2016-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": null,
+        "text_sha256": "505787faeb1e8b847dd1f776882d6defadd46ae1e152c0b472fe1fa5b86a1867",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2016-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2019-01-01",
+        "valid_to": null,
+        "text_sha256": "8640be72b3f3928a591313b76e6f493c8c46292bf2a76ebeed575862f2945bac",
+        "in_version": "lu-legilux:rgd-2016-07-27-n1:2019-01-01",
+        "article_valid_from": "2016-08-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

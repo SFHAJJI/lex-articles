@@ -1,0 +1,467 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2025 : Loi du 19 décembre 2014 relative\u00A01) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle\u00A02) à la promotion de la création artistique.",
+  "valid_from": "2023-03-01",
+  "valid_to": "2023-05-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2014-12-19-n10/versions/2023-03-01/fr.xml",
+    "sha256": "fbd9c6268faec3ee75157af3761c212768ab0457c925af2e2871d82695db9699",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/20230301/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_1er/20230301",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définitions et champ d’application",
+      "path": [
+        "Chapitre Ier: — *Dispositions préliminaires*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "**(1-0)** Au sens de la présente loi, on entend par :\n\n1. « artiste » : toute personne majeure qui pratique à titre habituel, en tant que créateur ou exécutant, un art ou une discipline artistique dans les domaines des arts graphiques, plastiques et visuels, des arts de la scène, de la littérature et de la musique ;\n2. « artiste professionnel » : toute personne qui pratique régulièrement un art ou une discipline artistique qu’elle exerce moyennant rémunération et dans un but lucratif et qui participe activement à la vie artistique du Grand-Duché de Luxembourg dans son domaine artistique du fait de son engagement au niveau local, régional ou national et de sa collaboration avec des institutions culturelles et des acteurs culturels luxembourgeois, de manière que son parcours artistique fait preuve d’une continuité ;\n3. « artiste créateur » : toute personne qui pratique un art ou une discipline artistique par le biais de la création d’œuvres ;\n4. « artiste exécutant » ou « artiste interprète » : toute personne qui pratique un art ou une discipline artistique par le biais de l’exécution d’œuvres créées par autrui ;\n5. « technicien de scène » : toute personne qui se sert de techniques sonores, audiovisuelles, d’éclairage ou de toute autre technologie de pointe, numériques ou autres, actuelles ou à venir, pour assurer le bon fonctionnement d’un spectacle ;\n6. er er Code de la sécurité sociale\n7. « intermittent du spectacle » : l’artiste, créateur ou exécutant, le technicien de scène ou tout autre professionnel intervenant dans le cadre d’un projet ou d’une production cinématographique, audiovisuelle, musicale, des arts de la scène, des arts graphiques, plastiques, visuels ou littéraires, que ce soit au stade de la préparation, de la création, de l’exécution, de la diffusion ou de la promotion, qui travaille principalement de manière temporaire dans le cadre de projets individuels et limités dans la durée, de sorte qu’il alterne des périodes d’activités et des périodes d’inactivités. L’intermittent du spectacle exerce son activité principalement soit pour le compte d’entreprises ou organisateurs du spectacle vivant ou du secteur de la production cinématographique, audiovisuelle et musicale soit dans le cadre d’une production de spectacle vivant et offre ses services à autrui moyennant salaire, honoraires ou cachet sur base d’un contrat de travail à durée déterminée ou d’un contrat d’entreprise.\n\n**(1)** La présente loi s’applique:\n\n1. aux artistes créateurs et interprètes dans les domaines des arts graphiques et plastiques, des arts de la scène, de la littérature, de la musique; ainsi que\n2. aux créateurs et aux réalisateurs d’oeuvres d’art et techniciens de scène qui se servent de techniques photographiques, cinématographiques, sonores, audiovisuelles ou de toutes autres technologies de pointe, numériques ou autres, actuelles ou à venir.\n\n**(2)** Les dispositions de la présente loi ne s’appliquent pas aux personnes qui ont pour activité la création:\n\n1. d’oeuvres pornographiques, incitatrices à la violence ou la haine raciale, apologétique de crimes contre l’humanité et, de manière générale, contrevenant à l’ordre public et aux bonnes moeurs;\n2. d’oeuvres destinées ou utilisées à des fins purement commerciales ou de publicité.\n\n**(3)** Les dispositions relatives aux mesures de soutien s’appliquent uniquement aux personnes qui tombent sous la définition des points 6 et 7 du paragraphe 1-0 et qui sont affiliées de manière continue au Grand-Duché de Luxembourg en vertu de l’article 1er du Code de la Sécurité Sociale depuis au moins six mois précédant la date de la demande d’admission au bénéfice des mesures de soutien et font preuve d’un engagement notoire dans la scène artistique et culturelle luxembourgeoise grâce à la diffusion publique de leurs œuvres, aux retombées de leur activité et à la reconnaissance par leurs pairs.",
+      "text_sha256": "b400514919710efb8fabf4dc2dc38f1f03512644778010e8d18e458709f93225",
+      "md_span": {
+        "start": 802,
+        "end": 4690
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la Sécurité Sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_1bis",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_1bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_1bis/20200101",
+      "type": "article",
+      "num": "Art. 1bis.",
+      "heading": "Incompatibilités",
+      "path": [
+        "Chapitre Ier: — *Dispositions préliminaires*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "N’est pas compatible avec le bénéfice des mesures de soutien pour les artistes professionnels indépendants l’exercice de toute activité professionnelle accessoire non artistique qui génère un revenu annuel supérieur à douze fois le salaire social minimum mensuel pour travailleurs qualifiés.\n\nN’est pas compatible avec le bénéfice des mesures de soutien pour les intermittents du spectacle l’exercice d’une activité professionnelle sur base d’un contrat de travail à durée indéterminée pour une durée hebdomadaire supérieure ou égale à vingt heures.\n\nN’est pas compatible avec le bénéfice des mesures de soutien prévues par la présente loi, l’attribution d’une pension de vieillesse dans le cadre du régime général d’assurance pension.",
+      "text_sha256": "9f51068563f1cbf697ebc56dc295abdb1ec83dccc476fd218d087545ffc39a5e",
+      "md_span": {
+        "start": 4748,
+        "end": 5483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2_20230301",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_2_20230301",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_2/20150301",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Définition de l’artiste professionnel indépendant",
+      "path": [
+        "Chapitre Ier: — *Dispositions préliminaires*"
+      ],
+      "article_valid_from": "2015-03-01",
+      "text_md": "Au sens de la présente loi, on entend par artiste professionnel indépendant la personne qui, en dehors de tout lien de subordination, détermine elle-même les conditions dans lesquelles elle effectue ses prestations artistiques et qui en assume le risque économique et social, le cas échéant à côté de l’exercice d’une activité professionnelle secondaire non artistique. Cette activité professionnelle secondaire non artistique ne doit pas générer un revenu annuel supérieur à douze fois le salaire social minimum mensuel pour travailleurs qualifiés.\n\nLa personne doit pouvoir rapporter la preuve de son travail artistique et être affiliée en tant que travailleur intellectuel indépendant auprès d’un régime d’assurance pension.",
+      "text_sha256": "8c3ce09719e8340a14f6e53ae60dd3cd21a0f237bb5b7fe6a31ebe9a93de8f04",
+      "md_span": {
+        "start": 5577,
+        "end": 6304
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3_20230301",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_3_20230301",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_3/20161217",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Définition de l’intermittent du spectacle",
+      "path": [
+        "Chapitre Ier: — *Dispositions préliminaires*"
+      ],
+      "article_valid_from": "2016-12-17",
+      "text_md": "On entend par intermittent du spectacle, l’artiste ou le technicien de scène qui exerce ses activités principalement de manière temporaire dans le cadre de projets individuels et limités dans la durée, de sorte qu’il alterne des périodes d’activité et des périodes d’inactivité. Ces activités sont exercées soit pour le compte d’une entreprise ou de tout autre organisateur de spectacle, soit dans le cadre d’une production cinématographique, audiovisuelle, musicale ou des arts de la scène et moyennant salaire, honoraires ou cachet sur base d’un contrat de travail à durée déterminée ou d’un contrat d’entreprise.\n\nAu sens de la présente loi, l’intermittent du spectacle peut également exercer une activité professionnelle secondaire non artistique à condition que cette activité reste inférieure en nombre de jours aux activités d’intermittent du spectacle visées à l’alinéa précédent sur une période de 365 jours.",
+      "text_sha256": "7e6420ff530bb06bc739a99d3c5bc94033ee1626162412d2683aa238c18275b4",
+      "md_span": {
+        "start": 6390,
+        "end": 7307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_4/20230301",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Commission consultative",
+      "path": [
+        "Chapitre Ier: — *Dispositions préliminaires*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "Il est institué auprès du ministre ayant la Culture dans ses attributions (ci-après dénommé «ministre») une commission consultative chargée de conseiller le ministre au sujet des demandes en admission au bénéfice des aides telles que prévues au chapitre 2 de la présente loi et des demandes en obtention d’aides à la création artistique et au développement professionnel des artistes telles que prévues à l’article 9 de la présente loi (ci-après dénommée «commission consultative»).\n\nLa composition et le fonctionnement de la commission consultative ainsi que l’indemnisation de ses membres sont déterminés par règlement grand-ducal.",
+      "text_sha256": "29140a71c2a24bac567714dcfb22919967a995eae02084fd24ce5444fa1a730d",
+      "md_span": {
+        "start": 7366,
+        "end": 7999
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_5/20230301",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Aides en faveur des artistes professionnels indépendants",
+      "path": [
+        "Chapitre II: — *Mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "**(1)** Les artistes professionnels indépendants au sens de la présente loi, sur demande écrite adressée au ministre, sont admis au bénéfice des aides en faveur des artistes professionnels indépendants à condition :\n\n1. er\n2. er\n3. que leur activité artistique ait généré un revenu moyen annuel d’au moins quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés sur les deux années précédant immédiatement la demande ;\n4. de ne pas être admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue à l’article 6 ;\n5. de ne pas toucher un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère ;\n6. loi modifiée du 2 septembre 2011\n\nLes personnes qui peuvent se prévaloir d’un diplôme de niveau universitaire sanctionnant un cycle complet d’au moins trois années, délivré à la suite d’études spécialisées dans une des disciplines artistiques visées par la présente loi et inscrit au registre des titres de formation prévu par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles sont dispensées des conditions énumérées aux points 2 et 3.\n\n**(2)** L’admission au bénéfice des aides en faveur des artistes professionnels indépendants est décidée par le ministre, sur avis de la commission consultative instituée par la présente loi, pour une période renouvelable.\n\nL’admission et le premier renouvellement sont valables pour une période de vingt-quatre mois. Tout renouvellement ultérieur est valable pour une période de trente-six mois.\n\nÀ partir de l’âge de cinquante ans, l’artiste professionnel indépendant peut bénéficier d’un renouvellement valable pour une période de soixante mois lors de sa prochaine demande de renouvellement, à condition qu’il s’agisse au moins de son troisième renouvellement consécutif.\n\nAprès chaque terme, l’admission peut être renouvelée sur demande écrite adressée au ministre. Sur avis de la commission consultative, le ministre renouvelle l’admission au bénéfice des aides aux personnes qui remplissent les conditions prévues au paragraphe 1er, points 1 à 6, depuis leur admission au bénéfice des aides ou depuis le renouvellement de cette admission.\n\nLes décisions relatives à l’admission au bénéfice des aides parviennent au requérant dans un délai de trois mois qui suit la réception de la demande dûment complétée par l’ensemble des pièces requises.\n\n**(3)** Pour les artistes professionnels indépendants admis au bénéfice des aides conformément aux paragraphes 1er et 2 et dont les ressources mensuelles n’atteignent pas 1,5 fois le salaire social minimum mensuel pour travailleurs qualifiés, le Fonds social culturel intervient sur demande pour parfaire le montant de 1,5 fois le salaire social minimum mensuel pour travailleurs qualifiés sans que cette intervention mensuelle ne puisse dépasser le montant d’un salaire social minimum mensuel pour travailleurs qualifiés dans la limite d’un plafond annuel de six fois le salaire social minimum mensuel pour travailleurs qualifiés.\n\nLe Fonds social culturel intervient sur demande à hauteur de 6,5 fois le montant du salaire social minimum mensuel pour travailleurs qualifiés par an à partir de l’année où l’artiste professionnel indépendant a atteint l’âge de cinquante-cinq ans à condition qu’il s’agisse au moins de son troisième renouvellement du bénéfice des aides consécutif.\n\nPour la détermination des ressources mensuelles de l’artiste sont pris en compte ses propres revenus bruts, professionnels ou non.\n\nAucune aide au titre de la présente loi ne peut être perçue pour les mois pendant lesquels l’artiste professionnel indépendant :\n\n1. est admis au bénéfice de l’indemnisation en cas d’inactivité involontaire prévue à l’article 6 ; ou\n2. touche un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère.\n\nLes modalités relatives à la demande en obtention des aides sont déterminées par règlement grand-ducal.\n\n**(4)** Les artistes professionnels indépendants admis au bénéfice des aides bénéficient, sur demande, mensuellement d’un montant supplémentaire par rapport à ce qui est prévu par le paragraphe 3 ne pouvant dépasser la moitié du salaire social minimum pour travailleurs qualifiés de la part du Fonds social culturel, la somme des ressources mensuelles propres et de l’aide de soutien mensuelle ne pouvant dépasser 1,5 fois le salaire social minimum pour travailleurs qualifiés, et ce :\n\n1. pendant une période au cours de laquelle a lieu un événement imprévisible rendant impossible l’exercice normal des activités tombant sous le champ d’application de la présente loi ;\n2. lorsque l’artiste professionnel indépendant établit qu’il rencontre des difficultés temporaires à effectuer ses prestations artistiques pendant l’événement imprévisible ;\n3. s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses prestations artistiques.\n\nPour être admise au bénéfice des aides, l’activité artistique doit, par dérogation au paragraphe 1er, alinéa 1er, point 3, avoir généré un revenu moyen annuel d’au moins quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés sur les deux années précédant immédiatement la demande, réduit d’un montant équivalent au tiers du salaire social minimum pour travailleurs non qualifiés pour chaque mois pendant lequel perdure l’événement imprévisible.\n\nPar événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.",
+      "text_sha256": "c72c0be674f53e166489281069d0626807729801da93657503024b926465685a",
+      "md_span": {
+        "start": 8216,
+        "end": 13787
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/10/28/n2/jo",
+          "text": "loi modifiée du 28 octobre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_6/20230301",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Aides en cas d’inactivité des intermittents du spectacle",
+      "path": [
+        "Chapitre II: — *Mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "**(1)** Le bénéfice d’une indemnisation en cas d’inactivité involontaire est accordé aux intermittents du spectacle au sens de l’article 1er, paragraphe 1-0, point 7,de la présente loi, à condition:\n\n1. qu’ils justifient d’une période d’activité comptant quatre-vingt jours au moins et pendant lesquels une activité rémunérée principale a été exercée de manière temporaire soit pour le compte d’entreprises ou organisateurs du spectacle vivant ou du secteur de la production cinématographique, audiovisuelle et musicale, soit dans le cadre d’une production de spectacle vivant, ceci endéans la période de 365 jours de calendrier précédant la demande d’ouverture des droits en indemnisation ;\n2. que cette activité ait généré un revenu au moins égal à quatre fois le salaire social minimum mensuel pour travailleurs non qualifiés au cours de l’année précédant immédiatement la demande;\n3. que cette activité ait donné lieu à affiliation auprès d’un régime d’assurance pension;\n4. er\n5. qu’ils ne soient pas admis au bénéfice des aides en faveur des artistes professionnels indépendants;\n6. Code du travail\n7. loi modifiée du 28 juillet 2018\n\n**(1*bis*)** Sont considérées comme période d’activités au sens du présent article, à concurrence d‘un maximum de 10 jours sur les 80 jours d’activités, les activités occasionnelles suivantes :\n\n1. les participations à des formations en rapport avec l’exercice de l’activité d’intermittent du spectacle ;\n2. la tenue d’activités pédagogiques ou de leçons dans un contexte éducatif et toute autre activité de médiation culturelle à condition d’être liée à l’activité d’intermittent du spectacle et d’être rémunérée.\n\nLa période d’activités minimale prévue au paragraphe 1er, point 1, est ramenée à soixante jours pour l’intermittent du spectacle ayant atteint l’âge de cinquante ans à condition qu’il s’agisse au moins de sa huitième admission au bénéfice d’indemnisation en cas d’inactivité involontaire consécutive.\n\n**(2)** Les décisions en rapport avec l’indemnisation en cas d’inactivité involontaire sont prises par le ministre sur avis de la commission consultative. Les décisions en cause doivent parvenir au requérant dans un délai de trois mois qui suit la réception de la demande d’ouverture des droits en indemnisation dûment complétée par l’ensemble des pièces requises.\n\n**(3)** En cas d’admission au bénéfice de l’indemnisation en cas d’inactivité involontaire, l’intermittent du spectacle a droit à une indemnité journalière qui correspond à la fraction journalière du salaire social minimum mensuel pour travailleurs qualifiés. Il peut toucher cette indemnité à partir du jour de l’introduction de sa demande d’ouverture des droits en indemnisation, ceci sous réserve des conditions du paragraphe 1er, 1er point.\n\n**(4)** L’admission au bénéfice de l’indemnisation en cas d’inactivité involontaire permet à l’intermittent du spectacle de toucher 121 indemnités journalières au maximum pendant une période de 365 jours de calendrier à compter du jour de l’introduction de sa demande d’ouverture des droits en indemnisation. À partir de l’âge de cinquante-cinq ans, l’admission au bénéfice d’indemnisation en cas d’inactivité involontaire permet à l’intermittent du spectacle de toucher cent trente et une indemnités journalières au maximum pendant une période de 365 jours de calendrier à compter du jour de l’introduction de sa demande d’ouverture des droits en indemnisation à condition qu’il s’agisse au moins de sa huitième admission au bénéfice d’indemnisation en cas d’inactivité involontaire consécutive.\n\nL’intermittent du spectacle admis au bénéfice de l’indemnisation en cas d’inactivité involontaire peut toucher jusqu’à vingt indemnités journalières par mois supplémentaires en cas d’inactivité involontaire par rapport aux cent vingt et une ou cent trente et une indemnités journalières prévues à l’alinéa 1er, et ce :\n\n1. pendant une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 4, rendant impossible l’exercice normal des activités tombant sous le champ d’application de la présente loi\n2. lorsque l’intermittent du spectacle établit qu’il rencontre des difficultés temporaires à offrir ses services tels que prévus par l’article 3 de la présente loi pendant l’événement imprévisible ; et\n3. s’il existe un lien de causalité direct entre l’événement imprévisible et les difficultés à effectuer ses services.\n\nPour être admis au bénéfice des aides, l’intermittent du spectacle doit, par dérogation à l’article 6, paragraphe 1er, point 1, justifier d’une période comptant quatre-vingt jours au moins, réduite de 7 jours pour chaque mois pendant la période déterminée par règlement grand-ducal, ceci endéans la période de 365 jours de calendrier précédant la demande d’ouverture des droits en indemnisation.\n\nPar événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.\n\nUne indemnité journalière n’est pas due :\n\n- pour les jours où une activité professionnelle est exercée ;\n- pour les jours pendant lesquels l’intermittent du spectacle n’est pas affilié auprès d’un régime d’assurance pension ;\n- pour les jours pendant lesquels l’intermittent du spectacle touche un revenu de remplacement au titre de la législation luxembourgeoise ou étrangère.\n\nLes modalités relatives à la déclaration des jours d’inactivité involontaire ainsi que celles relatives au calcul et au versement subséquents sont déterminées par règlement grand-ducal.\n\n**(5)** Les dépenses résultant de l’application du présent article sont à charge du Fonds social culturel.",
+      "text_sha256": "72d6db433523d66d91b99759c94e503bab6ba497e2a1010e413966a839254ea8",
+      "md_span": {
+        "start": 13879,
+        "end": 19559
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_7/20230301",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Carnet d’intermittent du spectacle",
+      "path": [
+        "Chapitre II: — *Mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "Les jours d’activités de l’intermittent du spectacle sont consignés dans un carnet numérique de travail. Les modalités de délivrance et de tenue du carnet numérique de travail sont fixées par règlement grand-ducal.",
+      "text_sha256": "f57e6d99c7047962b7b99b7e630574772bb1b857ba26f95864c70e728f77a5bc",
+      "md_span": {
+        "start": 19629,
+        "end": 19843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_8/20230301",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Suspension de la période d’activités et de la période d’admission au bénéfice des aides des artistes professionnels indépendants et des intermittents du spectacle",
+      "path": [
+        "Chapitre II: — *Mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "Lorsqu’une période à laquelle il est fait référence à l’article 5, paragraphe 1er, points 2 et 3, et à l’article 6, paragraphe 1er, points 1 et 2, comprend des périodes d’incapacité de travail couvertes par un congé de maladie d’au moins un mois, un congé de maternité, un congé d’accueil ou un congé parental, ou une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 4, rendant impossible l’exercice normal des activités tombant sous le champ d’application de la présente loi, la prédite période est, sur demande, suspendue par décision du ministre pour une période d’une durée égale à celle de l’incapacité de travail ou de l’événement imprévisible.\n\nLorsque la période d’admission au bénéfice des aides visée à l’article 5, paragraphe 2, ou à l’article 6, paragraphe 5, comprend des périodes d’incapacité de travail couvertes par un congé de maladie d’au moins un mois, un congé de maternité, un congé d’accueil, un congé parental à plein temps ou une période au cours de laquelle a lieu un événement imprévisible au sens de l’article 5, paragraphe 4, rendant impossible l’exercice normal des activités tombant sous le champ d’application de la présente loi, la prédite période est, sur demande, suspendue par décision du ministre pour une période d’une durée égale à celle de l’incapacité de travail ou de l’événement imprévisible.\n\nPar événement imprévisible, il y a lieu d’entendre toute circonstance exceptionnelle ou tout ensemble de circonstances exceptionnelles, d’envergure nationale ou internationale.",
+      "text_sha256": "6437eea2d5226f4b7043735fc362e24cf1a060554d8625a7b0831c26367c28f2",
+      "md_span": {
+        "start": 20041,
+        "end": 21601
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8bis",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_8bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_8bis/20200101",
+      "type": "article",
+      "num": "Art. 8bis.",
+      "heading": "Déclaration des revenus et échange de données",
+      "path": [
+        "Chapitre II: — *Mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "**(1)** Pour pouvoir prétendre aux mesures de soutien prévues aux articles 5 et 6, les artistes professionnels indépendants et les intermittents du spectacle déclarent au ministre leur revenu intégral se rapportant à la période de référence prévue à l’article 5, paragraphe 1er, point 3, et à l’article 6, paragraphe 1er, point 2.\n\nAfin de permettre au ministre de déterminer le montant de l’aide de soutien prévue à l’article 5, paragraphe 3, les artistes professionnels indépendants déclarent au ministre leurs revenus mensuels.\n\n**(2)** À la demande du ministre, les administrations fiscales, sur autorisation de leur autorité de tutelle, lui communiquent, par des procédés informatisés ou non, l’annexe à la déclaration pour l’impôt sur le revenu spécialement établie pour les artistes professionnels indépendants et les intermittents du spectacle et renseignant sur les revenus des bénéficiaires des mesures de soutien prévues par la présente loi qui se rapportent à la période de référence prévue à l’article 5, paragraphe 1er, point 3, et à l’article 6, paragraphe 1er, point 2, ou à une période à laquelle des sommes leur ont été allouées afin de permettre au ministre de vérifier le respect des conditions prévues aux articles 1*bis*, 5 et 6.",
+      "text_sha256": "eb553dd285ad063f1b60fb73b0f773586799fdc45da30c305801f79e021ddd0b",
+      "md_span": {
+        "start": 21688,
+        "end": 22939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8ter",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_8ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_8ter/20200101",
+      "type": "article",
+      "num": "Art. 8ter.",
+      "heading": "Restitution des mesures de soutien indûment touchées",
+      "path": [
+        "Chapitre II: — *Mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "Les sommes indûment touchées en application de la présente loi sont à restituer lorsqu’elles ont été obtenues au moyen de déclarations inexactes ou incomplètes, en dissimulant des faits importants ou si le bénéficiaire a omis de signaler un éventuel changement des conditions sur base desquelles les sommes ont été accordées, le tout sans préjudice de poursuites judiciaires éventuelles.",
+      "text_sha256": "ffa20cbf7107c007ce5b7c9229957eda09ad0716f36cba4358cc0daab5b841a6",
+      "md_span": {
+        "start": 23033,
+        "end": 23420
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_9/20230301",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Aides à la création artistique et au développement professionnel des artistes",
+      "path": [
+        "Chapitre III: — *Promotion de la création artistique*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "Des bourses peuvent être attribuées aux artistes professionnels ou non sur demande et ce dans la limite des crédits budgétaires disponibles à titre de soutien à la création artistique ou au développement professionnel des artistes.\n\nLe montant et la périodicité du paiement des bourses sont individuellement fixés par le membre du Gouvernement ayant la Culture dans ses attributions, l’avis de la commission consultative demandé.\n\nUn règlement grand-ducal détermine la forme de la demande de bourse ainsi que les pièces à verser à l’appui et les délais dans lesquels les demandes doivent être introduites.",
+      "text_sha256": "f4a748d250e23cf2ccbe315319316bde6903ddc2dfc82baca9aae9be4125cbfc",
+      "md_span": {
+        "start": 23591,
+        "end": 24196
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9bis",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_9bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_9bis/20200101",
+      "type": "article",
+      "num": "Art. 9bis.",
+      "heading": "Bourse de relève",
+      "path": [
+        "Chapitre III: — *Promotion de la création artistique*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "Une bourse de relève pour une durée maximale de six mois peut être attribuée aux artistes professionnels qui peuvent se prévaloir d’un diplôme de niveau universitaire sanctionnant un cycle complet d’au moins trois années, délivré à la suite d’études spécialisées dans une des disciplines artistiques visées par la présente loi et inscrit au registre des titres de formation prévu par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles et qui soumettent leur demande dans l’année qui suit l’obtention de leur diplôme, à condition :\n\n1. er er Code de la sécurité sociale\n2. de faire preuve d’un engagement dans la scène artistique et culturelle luxembourgeoise et de fournir une motivation écrite concernant leurs activités artistiques prévues.\n\nLa bourse d’un montant mensuel égal au cinquième du salaire social minimum mensuel pour travailleurs qualifiés est attribuée par décision du ministre, l’avis de la commission consultative demandé.\n\nUn règlement grand-ducal détermine la forme de la demande de bourse ainsi que les pièces à verser à l’appui et les délais dans lesquels les demandes sont à introduire.",
+      "text_sha256": "ec5fe7143bfff5f049ea2a6cd7b1597fc615efd5ca1beb128a03f5e6d0199ec0",
+      "md_span": {
+        "start": 24254,
+        "end": 25412
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/10/28/n2/jo",
+          "text": "loi modifiée du 28 octobre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_10/20150301",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Commandes publiques",
+      "path": [
+        "Chapitre III: — *Promotion de la création artistique*"
+      ],
+      "article_valid_from": "2015-03-01",
+      "text_md": "Lors de la construction d’un édifice par l’Etat, ou de la réalisation d’un édifice par les communes ou les établissements publics financée ou subventionnée pour une part importante par l’Etat, un pourcentage du coût total de l’immeuble ne pouvant être en dessous de 1% et ne pouvant dépasser les 10% est affecté à l’acquisition d’oeuvres artistiques à intégrer dans l’édifice. Le montant à affecter à l’acquisition d’oeuvres artistiques ne peut pas dépasser la somme de 500.000 euros par édifice.\n\nLes édifices visés par la présente loi sont les immeubles à vocation culturelle, éducative, sociale, administrative ainsi que tous les immeubles destinés à recevoir des visiteurs.\n\nUn concours d’idées est lancé dans les cas où une loi spéciale doit être votée pour la réalisation de l’édifice, ceci conformément aux dispositions de l’article 99 de la Constitution. Le pourcentage du coût global est déterminé par règlement grand-ducal, de même que les modalités des concours publics ainsi que les modalités d’appréciation et d’exécution des dispositions du présent article.\n\nUn règlement grand-ducal institue auprès du ministre ayant la Culture dans ses attributions une commission de l’aménagement artistique dont il fixe la mission, la composition, les attributions et l’indemnisation.",
+      "text_sha256": "12bc923eebaf9c2ec7f372e0727ceefb0df8e83f236160874c3feb4fac09dfd1",
+      "md_span": {
+        "start": 25469,
+        "end": 26754
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/constitution/1868/10/17/n1/jo",
+          "text": "Constitution"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_11/20150301",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Exemptions",
+      "path": [
+        "Chapitre IV: — *Mesures fiscales*"
+      ],
+      "article_valid_from": "2015-03-01",
+      "text_md": "Sont exemptés de l’impôt sur le revenu dans le chef des artistes professionnels ou non:\n\n1. les prix artistiques et académiques attribués par les collectivités de droit public luxembourgeoises ou étrangères ou par des organismes internationaux dont fait partie le Grand-Duché de Luxembourg, dans la mesure où ils ne constituent pas la rémunération d’une prestation économique;\n2. l’aide prévue à l’article 9 de la présente loi.",
+      "text_sha256": "91748dd2b2f8b80dca9cf77c18ad534aede89543cab4244d07c32f58271a365e",
+      "md_span": {
+        "start": 26840,
+        "end": 27267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_12/20150301",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Forfait pour dépenses d’exploitation",
+      "path": [
+        "Chapitre IV: — *Mesures fiscales*"
+      ],
+      "article_valid_from": "2015-03-01",
+      "text_md": "Les personnes telles que visées dans l’article 1er de la présente loi qui exercent leur activité de manière indépendante ont droit, à titre de dépenses d’exploitation, à une déduction minimum forfaitaire de 25 pour cent des recettes d’exploitation provenant de l’exercice de leur activité artistique sans que cette déduction forfaitaire puisse dépasser 12.500 euros par an.",
+      "text_sha256": "59336c2fa3e7c37cd94acb94adcf65dd99bd58af65fc91e76e026c4313a1ddda",
+      "md_span": {
+        "start": 27341,
+        "end": 27714
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_13/20150301",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Revenu extraordinaire",
+      "path": [
+        "Chapitre IV: — *Mesures fiscales*"
+      ],
+      "article_valid_from": "2015-03-01",
+      "text_md": "Le bénéfice de l’exercice d’une activité artistique qui dépasse la moyenne des bénéfices de l’exercice envisagé et des trois exercices entiers précédents, est à considérer comme revenu extraordinaire au sens de l’article 132, alinéa 1 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu, à imposer d’après les dispositions de l’article 131, alinéa 1, b de la prédite loi.",
+      "text_sha256": "df4272542a90d173175288ca7cc6e51d7c84e8ba7b6a3305bdbab7ab819015cb",
+      "md_span": {
+        "start": 27773,
+        "end": 28163
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1",
+          "text": "loi modifiée du 4 décembre 1967"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1",
+          "text": "prédite loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_14/20230301",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Fonds social culturel",
+      "path": [
+        "Chapitre V: — *Dispositions budgétaires*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "Le Fonds social culturel est alimenté annuellement par une dotation de l’Etat et géré selon les règles fixées au chapitre 15 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’Etat.\n\nCe fonds prend en charge les mesures de soutien prévues par la présente loi au profit des artistes professionnels indépendants et des intermittents du spectacle ainsi que la bourse de relève prévue à l’article 9*bis*.\n\nLe Fonds social culturel reprend l’avoir et les obligations du fonds spécial de même nom créé par la loi modifiée du 30 juillet 1999 concernant a) le statut de l’artiste professionnel indépendant et l’intermittent du spectacle b) la promotion de la création artistique.",
+      "text_sha256": "c6605d56a4801003c8bb4b14f65eba9d428f6ebd05fb6a4d9155305a2c705af7",
+      "md_span": {
+        "start": 28267,
+        "end": 28974
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/07/30/n1",
+          "text": "loi modifiée du 30 juillet 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_15/20150301",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Disposition abrogatoire",
+      "path": [
+        "Chapitre VI: — *Dispositions finales*"
+      ],
+      "article_valid_from": "2015-03-01",
+      "text_md": "La loi modifiée du 30 juillet 1999 concernant a) le statut de l’artiste professionnel indépendant et l’intermittent du spectacle b) la promotion de la création artistique est abrogée.",
+      "text_sha256": "f5eff3e10c03ec7253cc862446eb4a39703cbe667ee96e42e4baae15369eb96f",
+      "md_span": {
+        "start": 29077,
+        "end": 29260
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/07/30/n1/jo",
+          "text": "loi modifiée du 30 juillet 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_16/20230301",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Dispositions transitoires",
+      "path": [
+        "Chapitre VI: — *Dispositions finales*"
+      ],
+      "article_valid_from": "2023-03-01",
+      "text_md": "Les personnes reconnues comme artistes professionnels indépendants au jour de l’entrée en vigueur de la présente loi gardent le bénéfice des anciennes dispositions pendant les 24 mois qui suivent le jour de cette reconnaissance. Après l’épuisement de ce terme la reconnaissance du statut d’artiste professionnel indépendant devient caduque et la personne peut demander d’être admise au bénéfice des aides tel que prévu à l’article 5 de la présente loi.\n\nLes personnes admises au bénéfice de l’indemnité pour intermittents du spectacle au jour de l’entrée en vigueur de la présente loi, gardent ce bénéfice jusqu’à l’épuisement de leurs droits. Une fois ces droits épuisés, elles peuvent sans délai être admises à l’indemnisation en cas d’inactivité involontaire telle que prévue par la présente loi.",
+      "text_sha256": "eee94cbe42215eab1bf6aedb9ea393692b091e055243e5576fed54d086cea617",
+      "md_span": {
+        "start": 29323,
+        "end": 30122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2014-12-19-n10:2023-03-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/art_17/20150301",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Mise en vigueur",
+      "path": [
+        "Chapitre VI: — *Dispositions finales*"
+      ],
+      "article_valid_from": "2015-03-01",
+      "text_md": "La présente loi entre vigueur le premier jour du troisième mois qui suit sa publication au Mémorial.",
+      "text_sha256": "de75786bf0ebef6b4de03d0abc0bc369cdd659c9330c8b87f1619ff1812063f9",
+      "md_span": {
+        "start": 30175,
+        "end": 30275
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

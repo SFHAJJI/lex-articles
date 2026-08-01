@@ -1,0 +1,149 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2022-05-12-a230:2022-08-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 21/07/2026 : Loi du 12 mai 2022 instaurant une compensation financière permettant la réduction temporaire du prix de vente de certains produits pétroliers.",
+  "valid_from": "2022-08-01",
+  "valid_to": "2022-10-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2022-05-12-a230/versions/2022-08-01/fr.xml",
+    "sha256": "679642bd5d46b15866c086cfd5fb264094607ded19eaee6e3c50b2f5ac35bb14",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/consolide/20220801/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2022-05-12-a230:2022-08-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/art_1er/20220801",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** Les prix de vente des produits pétroliers mis à la consommation au Grand-Duché de Luxembourg font l’objet d’une réduction obligatoire d’un montant toutes taxes comprises de 0,075 euro par litre.\n\nPar produits pétroliers au sens de l’alinéa 1er, il y a lieu d’entendre les produits énergétiques suivants au sens de la loi modifiée du 17 décembre 2010 fixant les droits d’accise et les taxes assimilées sur les produits énergétiques, l’électricité, les produits de tabacs manufacturés, l’alcool et les boissons alcooliques :\n\n1. gasoil utilisé comme carburant pour des utilisations industrielles et commerciales ;\n2. gasoil utilisé comme combustible.\n\nLa réduction du prix de vente en vertu de l’alinéa 1er est applicable jusqu’au 31 juillet 2022 et pendant la période du 16 août jusqu’au 31 août 2022 pour le gasoil utilisé comme carburant pour des utilisations industrielles et commerciales ainsi que jusqu’au 31 décembre 2023 pour le gasoil utilisé comme combustible et s’applique à toutes les opérations de vente de ces produits pétroliers depuis la mise à la consommation jusqu’à la vente au consommateur final.\n\nPar dérogation à l’alinéa 1er, et pendant la période du 31 octobre 2022 jusqu’au 31 décembre 2023, la réduction du prix de vente pour le gasoil utilisé comme combustible est fixée à un montant toutes taxes comprises de 0,15 euro par litre.\n\n**(2)** Les prix de vente du gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture font l’objet d’une réduction obligatoire d’un montant toutes taxes comprises de 0,075 euro par litre.\n\nLa réduction du prix de vente en vertu de l’alinéa 1er est applicable jusqu’au 31 juillet 2022 et pendant la période du 16 août 2022 jusqu’au 31 août 2022 et s’applique à toutes les opérations de vente de ce produit pétrolier depuis la mise à la consommation jusqu’à la vente au consommateur final.",
+      "text_sha256": "dbb4a0a91a2c438a1bdabfca255f325d25405b3291ad6b2696196d07c47e77e0",
+      "md_span": {
+        "start": 674,
+        "end": 2580
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/12/17/n2/jo",
+          "text": "loi modifiée du 17 décembre 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2022-05-12-a230:2022-08-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/art_2/20220801",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-16",
+      "text_md": "La réduction du prix de vente des produits pétroliers en vertu de l’article 1er fait l’objet d’une compensation financière pour les opérateurs ayant mis à la consommation ces produits au Grand-Duché de Luxembourg. Le montant de cette compensation financière est fixé à un montant de 0,075 euro par litre pour le gasoil utilisé comme carburant pour des utilisations industrielles et commerciales ainsi que pour le gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture et par litre pour le gasoil utilisé comme combustible, qui sont mis à la consommation pendant la période d’application de la réduction du prix de vente.",
+      "text_sha256": "cecca9e2437ace16b8a30aadc757afe09131180f1b1ca7b8c91e134f2697d186",
+      "md_span": {
+        "start": 2615,
+        "end": 3291
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2022-05-12-a230:2022-08-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/art_3/20220516",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-16",
+      "text_md": "Sur base des volumes mensuels des produits pétroliers visés à l’article 1er qui ont été mis à la consommation en 2021, le ministre ayant les Finances dans ses attributions détermine pour chaque mois en cours le montant de l’avance à attribuer aux opérateurs respectifs dans le cadre de la compensation financière visée à l’article 2. Le montant de cette avance correspond à 90 pour cent du volume mensuel du produit pétrolier concerné mis à la consommation au cours de l’année 2021 et est versé dans les quinze jours qui suivent le début du mois concerné à l’opérateur respectif. À la fin du mois concerné, le ministre ayant les Finances dans ses attributions dresse un décompte final des volumes effectivement mis à la consommation par les opérateurs concernés. Si l’avance mensuelle ainsi versée est inférieure au montant de la compensation financière qui correspond au volume effectivement mis à la consommation par l’opérateur concerné au cours du mois en question, le solde de la compensation financière est payé au plus tard trente jours après la fin du mois concerné. Si l’avance mensuelle dépasse le volume effectivement mis à la consommation par l’opérateur concerné au cours du mois en question, l’opérateur rembourse l’excédent perçu au titre d’avance au plus tard trente jours après la fin du mois concerné.",
+      "text_sha256": "d91b21fea7017515a25c5148d44b1bf9f32d04c35b5339aee6398be7f24fa487",
+      "md_span": {
+        "start": 3326,
+        "end": 4645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2022-05-12-a230:2022-08-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/art_4/20220516",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-16",
+      "text_md": "Tout opérateur ayant bénéficié en vertu de l’article 2 de la compensation financière et qui n’a, pendant la période d’application de la réduction du prix de vente, pas respecté son obligation de réduire son prix de vente conformément à l’article 1er, est tenu de rembourser le montant de la compensation financière indûment perçue.",
+      "text_sha256": "08b9ed9adffb39868ac72bdf7bb874c6c5a45ab9fb2e54ac37cc7d407eafdcfd",
+      "md_span": {
+        "start": 4680,
+        "end": 5011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4bis",
+      "provision_id": "lu-legilux:loi-2022-05-12-a230:2022-08-01#art_4bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/art_4_bis/20220801",
+      "type": "article",
+      "num": "Art. 4 bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-08-01",
+      "text_md": "**(1)** Les livraisons aux consommateurs finals de gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture et de gasoil utilisé comme carburant pour des utilisations industrielles et commerciales qui ont eu lieu pendant la période du 1er août 2022 jusqu’au 15 août 2022 font l’objet d’une compensation financière pour les consommateurs finals. Le montant de cette compensation financière est fixé à un montant de 0,075 euro par litre pour le gasoil utilisé comme carburant pour des utilisations industrielles et commerciales ainsi que pour le gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture.\n\n**(2)** Les consommateurs finals qui ont réceptionné des livraisons de gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture pendant la période du 1er août 2022 jusqu’au 15 août 2022 adressent avant le 31 décembre 2022 leur demande en obtention de la compensation financière au ministre ayant l’Agriculture dans ses attributions. Cette demande est accompagnée des pièces justificatives requises pour attester les date et quantité de livraison, le prix d’achat ainsi que le paiement du gasoil utilisé exclusivement pour des travaux agricoles et horticoles, dans la pisciculture et la sylviculture.\n\n**(3)** Les consommateurs finals qui ont réceptionné des livraisons de gasoil utilisé comme carburant pour des utilisations industrielles et commerciales pendant la période du 1er août 2022 jusqu’au 15 août 2022 adressent avant le 31 décembre 2022 leur demande en obtention de la compensation financière au ministre ayant l’Économie dans ses attributions. Cette demande est accompagnée des pièces justificatives requises pour attester les date et quantité de livraison, le prix d’achat ainsi que le paiement du gasoil utilisé comme carburant pour des utilisations industrielles et commerciales.",
+      "text_sha256": "e5b1052360be27e4ac527e05cc5da3bf20760b8e996cf0399be63ae7eff4bad4",
+      "md_span": {
+        "start": 5053,
+        "end": 7013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2022-05-12-a230:2022-08-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/art_5/20220801",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-08-01",
+      "text_md": "Les dépenses occasionnées par l’exécution des articles 2 et 4*bis* sont imputées sur le budget de l’État.",
+      "text_sha256": "edb937259d948ae63e0bdbdd749ef15052a913f164e0ee1e1816115ea6870cbb",
+      "md_span": {
+        "start": 7048,
+        "end": 7153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2022-05-12-a230:2022-08-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/art_6/20220516",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-05-16",
+      "text_md": "La présente loi entre en vigueur le premier jour de la semaine qui suit le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "05396bf311956554bf4d103a10592b468ebe5cc52a9d6e600b7308f5b23459ec",
+      "md_span": {
+        "start": 7188,
+        "end": 7335
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,28 @@
+{
+  "lex_work_id": "lu-legilux:loi-2018-08-14-a792",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2020-12-12",
+        "valid_to": null,
+        "text_sha256": "81872f91c47320d3e85a294821f074bdf72e236e1b58bba988b853e490460189",
+        "in_version": "lu-legilux:loi-2018-08-14-a792:2020-12-12",
+        "article_valid_from": "2020-12-12"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2020-12-12",
+        "valid_to": null,
+        "text_sha256": "cddc71578369e56b5db2e70557027d4c1efedb1c4cc5e92ba04b7463851e2b71",
+        "in_version": "lu-legilux:loi-2018-08-14-a792:2020-12-12",
+        "article_valid_from": "2020-12-12"
+      }
+    ]
+  },
+  "anchor_events": []
+}

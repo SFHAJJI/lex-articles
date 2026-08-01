@@ -1,0 +1,103 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2022-12-23-a675:2024-08-06",
+  "language": "fr",
+  "title": "Version consolidée applicable au 06/08/2024 : Règlement grand-ducal du 23 décembre 2022 modifiant le règlement grand-ducal modifié du 1er août 2014 relatif à la production d’électricité basée sur les sources d’énergie renouvelables.",
+  "valid_from": "2024-08-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2022-12-23-a675/versions/2024-08-06/fr.xml",
+    "sha256": "ea85cfa17cd3100c8649e188a1b2ca318ac68e4838b75af347c3f228c3d53ae1",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a675/consolide/20240806/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2022-12-23-a675:2024-08-06#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a675/art_1er/20240806",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-08-06",
+      "text_md": "Les critères définis à l’article 6, paragraphe 2, point d) du règlement grand-ducal modifié du 1er août 2014 relatif à la production d’électricité basée sur les sources d’énergie renouvelables ne sont pas applicables pour les rémunérations de l’électricité produite en 2022 et en 2023.",
+      "text_sha256": "03d135eb4c5a6bb56db8b15ad500df8a3aa691606d7cc54f3fce2428059ac9cb",
+      "md_span": {
+        "start": 712,
+        "end": 997
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2014/08/01/n1/jo",
+          "text": "règlement grand-ducal modifié du 1er août 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2022-12-23-a675:2024-08-06#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a675/art_2/20221227",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-27",
+      "text_md": "Les centrales visées à l’article 15 du même règlement dont les travaux de renouvellement ont débuté entre le 1er janvier 2020 et le 31 décembre 2021 sont exemptées de tout délai d’exécution des travaux.",
+      "text_sha256": "4f8f34bfe82943182d5a4554f95af4c4a71e49690c269ad2b7c0c85d881cfdfb",
+      "md_span": {
+        "start": 1032,
+        "end": 1234
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2014/08/01/n1/jo",
+          "text": "même règlement"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2022-12-23-a675:2024-08-06#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a675/art_3/20221227",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-27",
+      "text_md": "L’article 23*bis*, est modifié comme suit :\n\n1. à la fin de la deuxième formule, le point final est remplacé par un point-virgule ;\n2. « n = 2022 à partir du 1er janvier 2023, jusqu’au 31 décembre 2023. ».",
+      "text_sha256": "76b8364a9e8594f0cfd816278edbbf4ca428254b944d0178b031d1e4ac162135",
+      "md_span": {
+        "start": 1269,
+        "end": 1474
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2022-12-23-a675:2024-08-06#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a675/art_4/20221227",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-27",
+      "text_md": "Notre ministre ayant l’Énergie dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "6541d0933580a0e73c72809b0f731be34c826ebb5bf284a30f9b734b40761168",
+      "md_span": {
+        "start": 1509,
+        "end": 1674
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

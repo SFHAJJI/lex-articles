@@ -1,0 +1,144 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-10-12-a953:2021-05-25",
+  "language": "fr",
+  "title": "Version consolidée applicable au 20/07/2022 : Règlement grand-ducal du 12 octobre 2018 déterminant la composition et le fonctionnement de la commission consultative chargée de l’examen des demandes d’aides.",
+  "valid_from": "2021-05-25",
+  "valid_to": "2022-07-19",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-10-12-a953/versions/2021-05-25/fr.xml",
+    "sha256": "db215866aac51ca35b897464e914168a29ee7d757d753154526c04f907f9994f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/consolide/20210525/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-10-12-a953:2021-05-25#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/art_1er/20210525",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": "2021-05-25",
+      "text_md": "**(1)** Le présent règlement a pour objet de déterminer la composition et le fonctionnement de la Commission consultative en matière d’aides d’État, ci-après « la commission », chargée de donner son avis sur les demandes d’aides et prévue :\n\n1. loi modifiée du 17 mai 2017\n2. loi modifiée du 20 juillet 2017\n3. loi du 15 décembre 2017\n4. loi du 9 août 2018\n5. er",
+      "text_sha256": "199196c50f4ba631076b76cae04ce6e122095b91e73e67f51ab3dc67b5b176e4",
+      "md_span": {
+        "start": 712,
+        "end": 1074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-10-12-a953:2021-05-25#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/art_2/20210525",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Composition",
+      "path": [],
+      "article_valid_from": "2021-05-25",
+      "text_md": "**(1)** La commission se compose de onze membres effectifs dont un président et deux vice-présidents. Les membres sont nommés par le ministre ayant l’Économie dans ses attributions, ci-après « ministre ».\n\n**(2)** La composition de la commission est arrêtée comme suit :\n\n1. deux représentants du ministre ;\n2. un représentant du ministre ayant les Classes moyennes dans ses attributions ;\n3. un représentant du ministre ayant le Tourisme dans ses attributions ;\n4. un représentant du ministre ayant l’Énergie dans ses attributions ;\n5. deux représentants du ministre ayant les Finances dans ses attributions ;\n6. un représentant du ministre ayant l’Emploi dans ses attributions ;\n7. un représentant du ministre ayant l’Environnement dans ses attributions ;\n8. un représentant du ministre ayant l’Intérieur dans ses attributions ;\n9. un représentant du ministre ayant la Recherche publique dans ses attributions ;\n10. un représentant du ministre ayant les Communications et médias dans ses attributions.\n\n**(3)** Pour chaque membre effectif, est désigné un membre suppléant, lequel assiste à la réunion de la commission avec voix délibérative en cas d’empêchement du membre effectif.\n\n**(4)** La Société nationale de crédit et d’investissement délègue un expert permanent et un suppléant.\n\n**(5)** En cas de besoin, des experts permanents supplémentaires désignés par le ministre, ou des experts invités de façon ponctuelle par le président, peuvent assister la commission lors de ses délibérations.\n\n**(6)** La commission dispose, dans le cadre des services du ministre, d'un secrétariat composé d'un ou de plusieurs fonctionnaires ou agents, désignés par le ministre, et qui en assurent la gestion.\n\n**(7)** Les membres effectifs et suppléants, de même que les membres du secrétariat sont nommés par arrêté du ministre.\n\n**(8)** Les nominations du ministre interviennent sur proposition des ministres du ressort.\n\n**(9)** Le ministre nomme un président et deux vice-présidents parmi les membres effectifs.",
+      "text_sha256": "7df4c735b5e07472767bd162a324b8d1bdfeea99d8e216a999c254f8cc05b606",
+      "md_span": {
+        "start": 1121,
+        "end": 3128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-10-12-a953:2021-05-25#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/art_3/20181021",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Fonctionnement",
+      "path": [],
+      "article_valid_from": "2018-10-21",
+      "text_md": "**(1)** La commission se dote, le cas échéant, d’un règlement interne, qui est approuvé par le ministre.\n\n**(2)** La commission délibère sur toutes les affaires lui soumises par le ministre.\n\n**(3)** Les réunions sont présidées par le président. En cas d’empêchement de ce dernier, la réunion est présidée par un vice-président.\n\n**(4)** Les réunions sont convoquées par le président au moins trois jours ouvrables à l'avance, et l’avis de convocation est accompagné de l'ordre du jour de la réunion.\n\nDans des cas exceptionnels et en cas d'urgence, le président peut demander une procédure de délibération par voie écrite.\n\n**(5)** Pour délibérer valablement, au moins six membres doivent être présents.\n\n**(6)** Le secrétariat établit un compte rendu des délibérations qui est soumis pour approbation à la commission.\n\n**(7)** Le secrétariat tient un registre des dossiers soumis à l'examen de la commission et des avis qu'elle a émis.\n\n**(8)** La commission établit annuellement un rapport d'activités qu'elle transmet au ministre.",
+      "text_sha256": "10c6dbad97e0cd544ddc66e4307332c21a5eda5341d37a24a1943feb5d8d28c7",
+      "md_span": {
+        "start": 3178,
+        "end": 4212
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-10-12-a953:2021-05-25#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/art_4/20181021",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Instruction des demandes et avis",
+      "path": [],
+      "article_valid_from": "2018-10-21",
+      "text_md": "**(1)** Les demandes d'application des lois sont transmises au et centralisées par le secrétariat de la commission, qui constitue un dossier administratif pour chaque requête.\n\n**(2)** L'instruction des demandes est confiée au secrétariat ou à un ou plusieurs membres ou experts de la commission.\n\n**(3)** La commission délibère d'une demande dans un délai de trois mois, à compter de la réception d'un dossier complet par le secrétariat, à moins que le ministre ne lui fixe un délai plus long ou plus court.\n\n**(4)** Le secrétariat et les membres ou experts de la commission instruisant les dossiers peuvent s'entourer de tous renseignements qu'ils jugent nécessaires pour donner son avis sur les demandes. Ils peuvent demander aux requérants toutes les informations nécessaires ou utiles à l'accomplissement de leur mission.\n\n**(5)** Le cas échéant, des groupes de travail regroupant les représentants des différents secteurs et les experts instruisant les dossiers sont mises en place.\n\n**(6)** L'avis de la commission doit être motivé et signé par les membres de la commission qui ont assisté aux délibérations.",
+      "text_sha256": "e2a1bcdd7a0e8b8be1f74c5d7c94f6353cf64ea4e4795a3a63b9f4c7c5a356e0",
+      "md_span": {
+        "start": 4280,
+        "end": 5395
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2018-10-12-a953:2021-05-25#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/art_5/20181021",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Confidentialité des informations et délibérations",
+      "path": [],
+      "article_valid_from": "2018-10-21",
+      "text_md": "Les membres, experts et secrétaires de la commission sont tenus au secret des délibérations et ne peuvent divulguer à des tiers aucune information qu'ils ont obtenue dans l'accomplissement de leur mission.",
+      "text_sha256": "8c77ea880058eeb0cbfcc3d338e77de9bc7f2e6bdc8fcbd9a0097580d0f37180",
+      "md_span": {
+        "start": 5480,
+        "end": 5685
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2018-10-12-a953:2021-05-25#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/art_6/20181021",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Dispositions abrogatoires",
+      "path": [],
+      "article_valid_from": "2018-10-21",
+      "text_md": "Sont abrogés :\n\n1. règlement grand-ducal modifié du 27 août 2008\n2. règlement grand-ducal du 30 mai 2005 loi du 30 juin 2004",
+      "text_sha256": "65f3a5bb007f191d81aff8fc03f739efca86f5c60d86867882655b69aafe3275",
+      "md_span": {
+        "start": 5746,
+        "end": 5870
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2018-10-12-a953:2021-05-25#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/art_7/20181021",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Formule exécutoire",
+      "path": [],
+      "article_valid_from": "2018-10-21",
+      "text_md": "Notre ministre de l'Économie est chargé de l'exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "5137473cc9dff624ef81eed83607b014a0961568b9d7c18de1d7ab7f8963adde",
+      "md_span": {
+        "start": 5924,
+        "end": 6065
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

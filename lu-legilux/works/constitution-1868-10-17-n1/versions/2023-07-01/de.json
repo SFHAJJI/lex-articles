@@ -1,0 +1,2643 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01",
+  "language": "de",
+  "title": "Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.",
+  "valid_from": "2023-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/constitution-1868-10-17-n1/versions/2023-07-01/de.xml",
+    "sha256": "7602f09f240263c960a08d6f16665ee8386b411c4de9cff719c53d75a00dea59",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/de"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*",
+        "**Abschnitt 1.** — *Der Staat, seine politische Form und die Hoheitsgewalt*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Das Großherzogtum Luxemburg ist ein demokratischer, freier, unabhängiger und unteilbarer Staat.",
+      "text_sha256": "94101261984c744e560cafa6b4f24e0cbf9627f952c7c37b4bf6fbf9dec7a7ba",
+      "md_span": {
+        "start": 737,
+        "end": 832
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*",
+        "**Abschnitt 1.** — *Der Staat, seine politische Form und die Hoheitsgewalt*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Das Großherzogtum Luxemburg ist eine parlamentarische Demokratie. Es hat die Staatsform einer konstitutionellen Monarchie.\n\nEs beruht auf den Grundsätzen der Rechtsstaatlichkeit und auf der Achtung der Menschenrechte.",
+      "text_sha256": "353baf62f75034503a4e5126a53997bb3fd93f27a1c1ba31dce2db057ff9a8df",
+      "md_span": {
+        "start": 867,
+        "end": 1084
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*",
+        "**Abschnitt 1.** — *Der Staat, seine politische Form und die Hoheitsgewalt*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Hoheitsgewalt liegt bei der Nation, von der die Staatsgewalt ausgeht.",
+      "text_sha256": "315fb1118281b9a8e4113b1403a740844f9185683ae037019c25e55b5795bb62",
+      "md_span": {
+        "start": 1119,
+        "end": 1192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*",
+        "**Abschnitt 1.** — *Der Staat, seine politische Form und die Hoheitsgewalt*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Sprache des Großherzogtums Luxemburg ist Luxemburgisch. Die Verwendung der luxemburgischen, französischen und deutschen Sprache wird gesetzlich geregelt.\n\n**(2)** Das Symbol der Nation ist die dreifarbige rot-weiß-blaue Flagge.\n\n**(3)** Die Staatswappen werden per Gesetz festgelegt.\n\n**(4)** Die Nationalhymne ist „Ons Heemecht“.",
+      "text_sha256": "fb4464fc4d98bc7fb8a5df8d891cadf2a939fa9af1800cb647723671f254f9e4",
+      "md_span": {
+        "start": 1227,
+        "end": 1569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*",
+        "**Abschnitt 1.** — *Der Staat, seine politische Form und die Hoheitsgewalt*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Das Großherzogtum Luxemburg beteiligt sich an der europäischen Integration.\n\nDie Ausübung von Staatsgewalt kann durch ein nach Maßgabe von Artikel 131, Absatz 2 der Verfassung verabschiedetes Gesetz auf die Europäische Union und internationale Einrichtungen übertragen werden.",
+      "text_sha256": "d8b43b676fe5c3eb8907c78cb9bf871cf2f818bc29bcd1aec1528dfc7222debc",
+      "md_span": {
+        "start": 1604,
+        "end": 1880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*",
+        "**Abschnitt 2.** — *Das Staatsgebiet*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Gebietsabtretungen, Gebietstausche und Gebietserweiterungen dürfen nur aufgrund eines mit qualifizierter Mehrheit verabschiedeten Gesetzes erfolgen.",
+      "text_sha256": "65dd3fa43dff1995a9dae9b63a8ee2db6173a7cdda0eaf4795787748df0d9d96",
+      "md_span": {
+        "start": 1958,
+        "end": 2106
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*",
+        "**Abschnitt 2.** — *Das Staatsgebiet*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Grenzen und Hauptorte der Kantone, Gemeinden und Gerichtsbezirke werden per Gesetz bestimmt.",
+      "text_sha256": "d436ec3f0d9dda14a15f88c9b0ed7266ed172bc01d0a7504947c64462354059e",
+      "md_span": {
+        "start": 2141,
+        "end": 2237
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Kapitel I.** — *Der Staat, sein Hoheitsgebiet und seine Einwohner*",
+        "**Abschnitt 2.** — *Das Staatsgebiet*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Stadt Luxemburg ist die Hauptstadt des Großherzogtums und Sitz der Verfassungsorgane.",
+      "text_sha256": "c64ff8e9e1862d31fa69625d6c8d6b71f1e3f32aea89dbfd02f47dca43d5b29f",
+      "md_span": {
+        "start": 2272,
+        "end": 2361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 1.** — *Staatsangehörigkeit und politische Rechte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Erwerb, der Erhalt und der Verlust der luxemburgischen Staatsangehörigkeit werden per Gesetz geregelt.",
+      "text_sha256": "fd1d733a1cc7c5f0d838f395c8da05136dd7bc8a069c833ed44255a6fd8f8a04",
+      "md_span": {
+        "start": 2510,
+        "end": 2616
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 1.** — *Staatsangehörigkeit und politische Rechte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Luxemburger genießen alle politischen Rechte, die sie unter den durch die Verfassung und die Gesetze geregelten Bedingungen ausüben.\n\n**(2)** Unbeschadet des Artikels 64 kann Nichtluxemburgern per Gesetz die Ausübung von politischen Rechten gewährt werden.",
+      "text_sha256": "1db9333378e197a7b96801c1bf91e3bfa1aafbe19e224bdd0bafcd80b6d594a7",
+      "md_span": {
+        "start": 2653,
+        "end": 2921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 1.** — *Staatsangehörigkeit und politische Rechte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Zugang zu öffentlichen Stellen wird per Gesetz geregelt. Es kann den Luxemburgern die Stellen vorbehalten, die eine direkte oder indirekte Beteiligung an der Ausübung der öffentlichen Gewalt und den Funktionen, die dem Schutz der allgemeinen Interessen des Staates dienen, beinhalten.",
+      "text_sha256": "616be51b8a641dc1ca57958e6a61780d92647cd8bb696bf05aff245e9b853c8e",
+      "md_span": {
+        "start": 2958,
+        "end": 3246
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 2.** — *Grundrechte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Würde des Menschen ist unantastbar.",
+      "text_sha256": "ce9084612d659dd3d77c139f488cf296ba75798004233e1251608b3ab4dad78a",
+      "md_span": {
+        "start": 3321,
+        "end": 3360
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 2.** — *Grundrechte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Jeder hat das Recht auf körperliche und geistige Unversehrtheit.\n\n**(2)** Niemand darf der Folter oder unmenschlichen oder erniedrigenden Strafen oder Behandlungen unterworfen werden.\n\nDie Todesstrafe darf nicht eingeführt werden.",
+      "text_sha256": "1a1b530a59c5b69d41eb93b199b684cc2371627b9dee5a289f784fec54441840",
+      "md_span": {
+        "start": 3397,
+        "end": 3635
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 2.** — *Grundrechte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jeder hat das Recht auf Gedanken-, Gewissens- und Religionsfreiheit.",
+      "text_sha256": "ac38f1350c9fc2aa853a440428d68b27e774aca6bd1739fc0221e9a2d86ed121",
+      "md_span": {
+        "start": 3672,
+        "end": 3740
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Luxemburger sind vor dem Gesetz gleich.\n\nUngleichbehandlungen, die auf objektiven Merkmalen beruhen, rational begründet, angemessen und zu dem verfolgten Zweck verhältnismäßig sind, können gesetzlich vorgesehen werden.\n\n**(2)** Niemand darf aufgrund seiner Situation oder persönlicher Umstände diskriminiert werden.\n\n**(3)** Frauen und Männer haben die gleichen Rechte und Pflichten.\n\nDer Staat sorgt dafür, die Beseitigung von Hindernissen, die im Zusammenhang mit der Gleichstellung von Frauen und Männern bestehen können, aktiv zu fördern.\n\n**(4)** Jede Person hat das Recht, eine Familie zu gründen.\n\nJede Person hat das Recht auf die Achtung ihres Familienlebens.\n\n**(5)** Das Wohl des Kindes ist in allen Entscheidungen, die es betreffen, vorrangig zu berücksichtigen.\n\nJedes Kind kann seine Meinung in allen es betreffenden Fragen frei äußern. Seine Meinung wird unter Berücksichtigung seines Alters und seiner Urteilsfähigkeit berücksichtigt.\n\nJedes Kind hat Anspruch auf den Schutz, die Maßnahmen und die Fürsorge, die für sein Wohlergehen und seine Entwicklung notwendig sind.\n\n**(6)** Jeder Mensch mit Behinderungen hat das Recht, alle Rechte gleichberechtigt zu genießen.",
+      "text_sha256": "f7f1aae9c861b866f73c08d7bac32c77efb85a828ebeb3e8f1f1fe63f05eb3af",
+      "md_span": {
+        "start": 3826,
+        "end": 5021
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jeder Nichtluxemburger, der sich auf dem Gebiet des Großherzogtums befindet, genießt den Schutz, welcher Personen und Gütern gewährt wird, vorbehaltlich der gesetzlich festgelegten Ausnahmen.",
+      "text_sha256": "a2b2e7cd791f2e3262cd8d7d7f899cde53fd803aa36d3790f5fd6c15a461c0d2",
+      "md_span": {
+        "start": 5058,
+        "end": 5249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Freiheit des Einzelnen wird garantiert.\n\n**(2)** Niemand darf verfolgt, festgenommen oder seiner Freiheit beraubt werden, es sei denn in den gesetzlich vorgesehenen Fällen und in der gesetzlich bestimmten Form.\n\n**(3)** Außer bei Ergreifung auf frischer Tat darf niemand festgenommen werden, es sei denn, es liegt eine begründete gerichtliche Entscheidung vor, die zum Zeitpunkt der Festnahme oder spätestens innerhalb von vierundzwanzig Stunden zugestellt werden muss.\n\n**(4)** Jede einer Straftat beschuldigte Person gilt bis zum gesetzmäßig erbrachten Beweis ihrer Schuld als unschuldig.\n\nJede Person muss unverzüglich über die Gründe für ihre Festnahme oder den Freiheitsentzug, die gegen sie erhobenen Beschuldigungen und die ihr zur Verfügung stehenden rechtlichen Mittel zur Wiedererlangung ihrer Freiheit informiert werden.",
+      "text_sha256": "446b383ecaa6261de8992e2df16812be1b46c0ad371cee8594e5f2efbb0ca134",
+      "md_span": {
+        "start": 5286,
+        "end": 6129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jede Person hat das Recht darauf, dass ihre Sache vor das gesetzlich bestimmte Gericht gebracht wird.\n\nNiemand darf gegen seinen Willen dem ihm gesetzlich zugewiesenen Richter entzogen werden.",
+      "text_sha256": "de1764f1a2ebfcd2822c4c1ac6e125590c85cee16f63cf2f06be4103c8829a2f",
+      "md_span": {
+        "start": 6166,
+        "end": 6358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Eine Strafe darf nur aufgrund eines Gesetzes verhängt oder angewandt werden.\n\nNiemand darf für eine Handlung oder Unterlassung verurteilt werden, die zum Zeitpunkt ihrer Begehung keinen Gesetzesverstoß darstellte.\n\nNiemand darf zu einer höheren als der zum Zeitpunkt der Tat anwendbaren Strafe verurteilt werden.",
+      "text_sha256": "5b8668f9ea2c92c109f7a4acf9bb8b32d7a59920d5aae02cde6400f5bd7b1a9e",
+      "md_span": {
+        "start": 6395,
+        "end": 6707
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jede Person hat das Recht auf die Achtung ihres Privatlebens.",
+      "text_sha256": "ff447087e0f927503fd902e680197348ee2803d37b4bd3fd90d2179d94e17461",
+      "md_span": {
+        "start": 6744,
+        "end": 6805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Wohnung ist unverletzlich. Ein Hausbesuch darf nur in den gesetzlich vorgesehen Fällen und in der gesetzlich festgelegten Form stattfinden.",
+      "text_sha256": "38005b0babf73e7f53511351ea37cbbec14245d02ba4479b802dcaeeb6566a39",
+      "md_span": {
+        "start": 6842,
+        "end": 6985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Ein Eid darf nur aufgrund eines die Eidesformel festlegenden Gesetzes auferlegt werden.",
+      "text_sha256": "d2021fb9b8ff6cf74151599520c3093aff8c4c379ef226f8d2ef98d75ac200c2",
+      "md_span": {
+        "start": 7022,
+        "end": 7109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Meinungs- und die Pressefreiheit sind garantiert, abgesehen von Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.\n\nDie Zensur darf nicht eingeführt werden.",
+      "text_sha256": "0a214be0169611b689ff4875ffb042d066704576670ebf1ea32e4968c6065591",
+      "md_span": {
+        "start": 7146,
+        "end": 7339
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Freiheit, philosophische oder religiöse Überzeugungen zu bekunden, sowie die Freiheit, sich einer Religion anzuschließen oder nicht anzuschließen, wird garantiert, abgesehen von Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.\n\nDie Religionsfreiheit und die Freiheit der Religionsausübung werden garantiert, außer bei Straftaten, die im Zusammenhang mit der Ausübung dieser Freiheiten begangen werden.\n\nNiemand darf gezwungen werden, auf irgendeine Weise an den Handlungen und Zeremonien einer Religion teilzunehmen oder sich an deren Ruhetage zu halten.",
+      "text_sha256": "fcb38d687792bb76d01da9753c77a1131234526280eee74f973e164ae91134be",
+      "md_span": {
+        "start": 7376,
+        "end": 7969
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jeder hat das Recht, sich im Rahmen der Gesetze friedlich zu versammeln. Dieses Recht darf nur bei Versammlungen unter freiem Himmel an einem der Öffentlichkeit zugänglichen Ort einer vorherigen Genehmigung unterworfen werden.",
+      "text_sha256": "fae43f3cda421ab6813ecfcfef70c009064be41a81eb4d2f0c2feceabe3c42c5",
+      "md_span": {
+        "start": 8006,
+        "end": 8232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Vereinigungsfreiheit wird garantiert. Ihre Ausübung wird per Gesetz geregelt und darf keinem vorherigen Genehmigungserfordernis unterworfen werden.",
+      "text_sha256": "1729ee8ec9d8a1f492e567ea3ec3324e3337f2755d8abe85834decaf53b8a5ea",
+      "md_span": {
+        "start": 8269,
+        "end": 8420
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Politische Parteien tragen zur Willensbildung des Volkes und zum Ausdruck des allgemeinen Wahlrechts bei. Sie sind Ausdruck des demokratischen Pluralismus.",
+      "text_sha256": "b80a29c17ce435ef1641c7228920dafce0263a650ce55ba2b751ae14b6398f1e",
+      "md_span": {
+        "start": 8457,
+        "end": 8612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die gewerkschaftlichen Freiheiten werden garantiert.\n\nDie Ausübung des Streikrechts wird gesetzlich geregelt.",
+      "text_sha256": "dee40fee16035ae38fa564e474dec6c98a68cd3b7bbda6566c5fa726a635315c",
+      "md_span": {
+        "start": 8649,
+        "end": 8758
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jede Person hat das Recht, von einer oder mehreren Personen unterzeichnete Anträge an die öffentlichen Behörden zu richten.\n\nDie öffentlichen Behörden sind verpflichtet, innerhalb einer angemessenen Frist auf die schriftlichen Anträge der Antragsteller zu antworten.",
+      "text_sha256": "b6db38c44221a18a117d85f9e8d24b3696d0ebb40afb6bc17ac979c9ac40420d",
+      "md_span": {
+        "start": 8795,
+        "end": 9061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jede Person hat das Recht auf die Unverletzlichkeit ihrer Kommunikation.\n\nDieses Recht darf nur in den per Gesetz vorgesehenen Fällen und unter den vom Gesetz bestimmten Bedingungen und Kontrollen eingeschränkt werden.",
+      "text_sha256": "94cf9538389fae4f98b58693d53e0e038296db2ebdaf274b608ade453e9baa34",
+      "md_span": {
+        "start": 9098,
+        "end": 9316
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jede Person hat das Recht auf informationelle Selbstbestimmung und auf den Schutz der sie betreffenden personenbezogenen Daten. Diese Daten dürfen nur zu den gesetzlich festgelegten Zwecken und unter den gesetzlich festgelegten Bedingungen verarbeitet werden.",
+      "text_sha256": "b695bcfa65a7f205793c0250b533e507dd51810b8dd00e139c1b9037d12d6a90",
+      "md_span": {
+        "start": 9353,
+        "end": 9612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Das Recht auf Asyl wird unter den gesetzlich festgelegten Bedingungen garantiert.",
+      "text_sha256": "ce641b8a226e495d1cb3de0e1228a80f46a0112ee96ab52fee96e82ca9b818fc",
+      "md_span": {
+        "start": 9649,
+        "end": 9730
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Jeder Mensch hat das Recht auf Bildung.\n\n**(2)** Der Staat organisiert den Unterricht und garantiert den Zugang dazu.\n\nDie Dauer der Schulpflicht wird gesetzlich festgelegt.\n\nDer öffentliche Fundamental- und Sekundarschulunterricht ist kostenlos.\n\n**(3)** Die Freiheit der Bildung wird im Einklang mit den Werten einer demokratischen Gesellschaft ausgeübt, die auf den Grund- und Freiheitsrechten beruht.\n\nDer Eingriff des Staates in das private Bildungswesen wird per Gesetz geregelt.\n\n**(4)** Jedem steht es frei, seine Studien in Luxemburg oder im Ausland zu absolvieren und Universitäten seiner Wahl zu besuchen. Die Bedingungen für die Anerkennung von Diplomen werden per Gesetz festgelegt.",
+      "text_sha256": "58355295ca93f32ee3c86150f227f8a1f144bf53b073be2623ad0b9242a4caa5",
+      "md_span": {
+        "start": 9767,
+        "end": 10470
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Grundsätze der sozialen Sicherheit, des Gesundheitsschutzes und der Rechte der Arbeitnehmer werden gesetzlich geregelt.",
+      "text_sha256": "00f9bf764191a229c7de106275d9f1f02b918453e3c05e85fc1a89496e43f1bf",
+      "md_span": {
+        "start": 10507,
+        "end": 10630
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Ausübung der Handels- und Gewerbefreiheit sowie der freien Berufe und der landwirtschaftlichen Tätigkeit wird unter den per Gesetz bestimmten Einschränkungen gewährleistet.",
+      "text_sha256": "6d5dbb251073943e02a78b5472847337f363e6d97c0df95cae5bc64fbfc2abd2",
+      "md_span": {
+        "start": 10667,
+        "end": 10843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Niemandem darf sein Eigentum entzogen werden, außer zum allgemeinen Nutzen und gegen eine gerechte Entschädigung gemäß den gesetzlich vorgesehenen Fällen und Verfahren.",
+      "text_sha256": "7f1a5238978256bb8c16c48d571519bc753cc50fa952a9574a32a247c78d46ad",
+      "md_span": {
+        "start": 10880,
+        "end": 11048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 3.** — *Öffentliche Freiheiten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jede Einschränkung der Ausübung von öffentlichen Freiheiten muss gesetzlich vorgesehen sein und deren wesentlichen Inhalt respektieren. Unter Beachtung des Grundsatzes der Verhältnismäßigkeit dürfen Einschränkungen nur vorgenommen werden, wenn sie in einer demokratischen Gesellschaft notwendig sind und tatsächlich Zielen des Gemeinwohls oder der Notwendigkeit des Schutzes der Rechte und Freiheiten anderer entsprechen.",
+      "text_sha256": "3af2d2de4dc06f655e4bb471d08186a40346283e5b235cbc20f359dedb77e154",
+      "md_span": {
+        "start": 11085,
+        "end": 11506
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 4.** — *Staatsziele mit Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Staat garantiert das Recht auf Arbeit und sorgt dafür, dass die Ausübung dieses Rechts sichergestellt ist.",
+      "text_sha256": "d0d467b52d8063fd3ada05813014ddd1856338bbf4ff0802d2a97e4f7a23df4f",
+      "md_span": {
+        "start": 11601,
+        "end": 11711
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 4.** — *Staatsziele mit Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Staat fördert den Sozialdialog.",
+      "text_sha256": "b5675af0bd053c22f190371424e60fae9b425c9b4563f4dba5cafc7815fd658b",
+      "md_span": {
+        "start": 11748,
+        "end": 11783
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 4.** — *Staatsziele mit Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Staat sorgt dafür, dass jeder Mensch in Würde leben kann und über eine angemessene Wohnung verfügt.",
+      "text_sha256": "c39d8980e821b73015424ead314074152f5df498d44c24bcf3115d996db447ad",
+      "md_span": {
+        "start": 11820,
+        "end": 11923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 4.** — *Staatsziele mit Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Staat garantiert den Schutz der menschlichen und natürlichen Umwelt und setzt sich ein für die Herstellung eines dauerhaften Gleichgewichts zwischen der Erhaltung der Natur, insbesondere ihrer Erneuerungsfähigkeit, und dem Schutz der biologischen Vielfalt sowie der Befriedigung der Bedürfnisse heutiger und künftiger Generationen.\n\nDer Staat verpflichtet sich, den Klimawandel zu bekämpfen und sich für Klimaneutralität einzusetzen.\n\nEr erkennt Tiere als empfindungsfähige, nicht menschliche Lebewesen an und sorgt für den Schutz ihres Wohlergehens.",
+      "text_sha256": "372ecad3fb805b5a0f5af2f6033658b936557a80de04e52aff2d9851c57cbdcf",
+      "md_span": {
+        "start": 11960,
+        "end": 12514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 4.** — *Staatsziele mit Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Staat garantiert den Zugang zur Kultur und das Recht auf kulturelle Entfaltung.\n\nDer Staat fördert den Schutz des kulturellen Erbes.",
+      "text_sha256": "cada89e98e45f652454cfc382e61275f6b2048237e9b73041e7f29c519824bcf",
+      "md_span": {
+        "start": 12551,
+        "end": 12687
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "**Kapitel II.** — *Rechte und Freiheiten*",
+        "**Abschnitt 4.** — *Staatsziele mit Verfassungsrang*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Staat fördert die Freiheit der wissenschaftlichen Forschung, die im Einklang mit den Werten einer demokratischen Gesellschaft steht und auf Grundrechten und öffentlichen Freiheiten beruht.",
+      "text_sha256": "fac2b287280b599f02160815f1e87411235b80fd620020b38afbb73f0d3d7269",
+      "md_span": {
+        "start": 12724,
+        "end": 12916
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Der Großherzog ist das Staatsoberhaupt.\n\nEr repräsentiert den Staat. Er ist das Symbol der Einheit und Unabhängigkeit der Nation.\n\nSeine Person ist unantastbar.\n\n**(2)** Der Großherzog hat keine anderen Befugnisse als die, die ihm von der Verfassung und den Gesetzen zuerkannt werden.\n\nEr übt gemeinsam mit der Regierung die Exekutivgewalt aus.\n\n**(3)** Die Verfügungen des Großherzogs müssen von einem Mitglied der Regierung gegengezeichnet werden, das die Verantwortung für sie übernimmt.",
+      "text_sha256": "a1ea3d6238302680adc47f9e156afe2f3886aed14ab636d12257c289f463a955",
+      "md_span": {
+        "start": 13048,
+        "end": 13546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_45",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Der Großherzog erlässt die für die Ausführung der Gesetze erforderlichen Verordnungen und Beschlüsse.\n\n**(2)** In den Angelegenheiten, die die Verfassung dem Gesetz vorbehält, kann der Großherzog Verordnungen und Beschlüsse nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen, die das Ziel der Ausführungsbestimmungen und gegebenenfalls die Bedingungen, denen sie unterworfen sind, festlegt.\n\n**(3)** Er erlässt die für die Anwendung der Rechtsakte der Europäischen Union notwendigen Verordnungen.\n\nIn Angelegenheiten, die nach der Verfassung dem Gesetz vorbehalten sind, können diese Verordnungen nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen werden, in der das Ziel der Durchführungsmaßnahmen und gegebenenfalls die Bedingungen, denen sie unterworfen sind, festgelegt werden. Unter den gesetzlich bestimmten Bedingungen können Verordnungen Ausnahmen zu bestehenden gesetzlichen Bestimmungen festlegen oder diese ersetzen.",
+      "text_sha256": "7308d058dc64ee3a61567c5b1aa7e9ab6e2f7809c540309be391956f48056053",
+      "md_span": {
+        "start": 13583,
+        "end": 14542
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_46",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Großherzog schließt völkerrechtliche Verträge und kündigt sie auf. Die völkerrechtlichen Verträge und, sofern keine spezielle Klausel in einem Vertrag vorgesehen ist, ihre Kündigung werden erst durch gesetzliche Billigung wirksam. Sie werden in der für die Veröffentlichung von Gesetzen vorgesehenen Form veröffentlicht.\n\nDer Großherzog erlässt die für die Ausführung der völkerrechtlichen Verträge notwendigen Verordnungen und Beschlüsse in den Formen, die für die Maßnahmen zur Durchführung der Gesetze gelten, und mit den Wirkungen, die an diese Maßnahmen geknüpft sind, unbeschadet der Angelegenheiten, die die Verfassung dem Gesetz vorbehält.",
+      "text_sha256": "f916e5922730810c8fb2b4bc8783b2a4a932926f4a28adcfbdbafd914e771e56",
+      "md_span": {
+        "start": 14579,
+        "end": 15230
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_47",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Bei der Ausführung der ihm durch die Artikel 45, Absatz 1 und 3, Unterabsatz 1 sowie Artikel 46, Absatz 2 verliehenen Befugnisse kann der Großherzog in von ihm bestimmten Fällen die Mitglieder seiner Regierung beauftragen, Ausführungsbestimmungen zu ergreifen.",
+      "text_sha256": "5ebdbfe703a501728294117abb794ffd1db315db4cd905ada51631a350e67d4e",
+      "md_span": {
+        "start": 15267,
+        "end": 15527
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_48",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Im Falle einer internationalen Krise, einer realen Bedrohung der lebenswichtigen Interessen der gesamten Bevölkerung oder eines Teils davon oder einer drohenden Gefahr aufgrund von schweren Angriffen auf die öffentliche Sicherheit kann der Großherzog nach Feststellung der Dringlichkeit, die sich daraus ergibt, dass die Abgeordnetenkammer nicht in der Lage ist, innerhalb angemessener Fristen Gesetze zu erlassen, in sämtlichen Bereichen Maßnahmen mit Verordnungscharakter ergreifen.\n\nDiese Maßnahmen können von bestehenden Gesetzen abweichen. Sie müssen notwendig, angemessen und im Hinblick auf ihren Zweck verhältnismäßig sein, sowie mit der Verfassung und den internationalen Verträgen im Einklang stehen.\n\nDie Verlängerung des Krisenzustands über zehn Tage hinaus kann nur durch ein oder mehrere Gesetze beschlossen werden, in denen die Dauer festgelegt wird, ohne dass die Verlängerung eine Höchstdauer von drei Monaten überschreiten darf. Diese Gesetze werden mit einer qualifizierten Zweidrittelmehrheit der Stimmen der Abgeordneten verabschiedet, wobei eine Stimmabgabe per Vollmacht nicht zulässig ist.\n\nAlle aufgrund der vorliegenden Bestimmung erlassenen Verordnungen treten spätestens mit der Beendigung des Krisenzustands außer Kraft.\n\nDie Abgeordnetenkammer darf während des Krisenzustands nicht aufgelöst werden.",
+      "text_sha256": "bda941adae507e88121f3ba1f03daa9091b02deae026fdaa6cef46d552f0fd48",
+      "md_span": {
+        "start": 15564,
+        "end": 16893
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_49",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Großherzog verkündet die Gesetze innerhalb von drei Monaten nach ihrer Verabschiedung durch die Abgeordnetenkammer.",
+      "text_sha256": "2fd49ac7bb122511b075693ab85dd75b4c9748b5b29bf9bed8cf5486051e5df5",
+      "md_span": {
+        "start": 16930,
+        "end": 17049
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_50",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Der Großherzog ernennt die öffentlichen Bediensteten gemäß dem Gesetz, außer in den gesetzlich festgelegten Ausnahmen.\n\n**(2)** Eine vom Staat besoldete Stelle kann nur aufgrund eines Gesetzes geschaffen werden.\n\n**(3)** Er erlässt die für die Anwendung der Rechtsakte der Europäischen Union notwendigen Verordnungen.\n\nDas Statut der Staatsbeamten wird per Gesetz bestimmt.",
+      "text_sha256": "ea5b53e128d24d5e8074d688df0249c9a316814ff2bad7a06d1a46efd3645fb7",
+      "md_span": {
+        "start": 17086,
+        "end": 17467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_51",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Großherzog hat unter den gesetzlich bestimmten Bedingungen das Recht, die von den Gerichten verhängten Strafen ganz zu erlassen oder zu mildern.",
+      "text_sha256": "cf9532300a883f8c44d020b865b1e907f1f08acd7eb4921ce033990556a7cada",
+      "md_span": {
+        "start": 17504,
+        "end": 17652
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_52",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Großherzog hat das Recht, den Mitgliedern der großherzoglichen Familie Adelstitel zu verleihen, ohne jemals ein Privileg daran knüpfen zu können.",
+      "text_sha256": "b42accf01e5b1ca3658f33aabdd5a1b77c16b3bb79bc5b9849ecfb7e1a5bf392",
+      "md_span": {
+        "start": 17689,
+        "end": 17838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_53",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Der Großherzog trägt den Titel des Befehlshabers der Armee. Diese Befehlsgewalt wird unter der Verantwortung der Regierung ausgeübt.\n\n**(2)** Der Großherzog verleiht zivile und militärische Orden unter Beachtung der Gesetze.",
+      "text_sha256": "d23f723492b524858d853fc91d61350df3d3bacabaf9829b0b3c577bfb0b5094",
+      "md_span": {
+        "start": 17875,
+        "end": 18107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_54",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Großherzog, das ehemalige Staatsoberhaupt, der Erbgroßherzog, der Regent und der Stellvertreter erhalten aus dem Staatshaushalt eine jährliche Dotation, deren Bestandteile und Höhe per Gesetz festgesetzt werden.\n\nDer Großherzog bestimmt und organisiert unter Berücksichtigung des öffentlichen Interesses seine Verwaltung, die Rechtspersönlichkeit besitzt.",
+      "text_sha256": "01b3ea6713859e37faa87913ceee557b034b54596f0eb918aa6e6c62a7dd714b",
+      "md_span": {
+        "start": 18144,
+        "end": 18503
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_55",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 1.** — *Das Amt des Staatsoberhaupts*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der großherzogliche Palast in Luxemburg und das Schloss Berg sind der Wohnung des Großherzogs vorbehalten.",
+      "text_sha256": "6f4715135c6daad0108414e5988da2dfb53a0e0c5467b373dab0bd4fc9bc2690",
+      "md_span": {
+        "start": 18540,
+        "end": 18646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_56",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 2.** — *Die konstitutionelle Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Das Amt des Staatsoberhaupts ist in der direkten Nachkommenschaft Seiner Königlichen Hoheit Adolphe, Großherzog von Luxemburg, Herzog von Nassau, in der Reihenfolge der Primogenitur und der Repräsentation erblich. Nur eheliche Kinder haben Anspruch auf die Thronfolge.\n\n**(2)** Ein Thronfolger kann auf den Thron verzichten. Dieser Verzicht erfolgt in Form einer schriftlichen Urkunde, die unwiderruflich ist und deren Wirkungen nur für den Verfasser gelten.\n\nWenn außergewöhnliche Umstände es erfordern, kann die Abgeordnetenkammer eine oder mehrere Personen durch ein mit qualifizierter Mehrheit verabschiedetes Gesetz von der Thronfolge ausschließen.\n\n**(3)** Wenn es keinen Thronfolger gibt, tritt die Abgeordnetenkammer spätestens innerhalb von dreißig Tagen nach dem Tod oder der Abdankung des Großherzogs zusammen, um ein neues Staatsoberhaupt zu ernennen. Der Beschluss wird mit qualifizierter Mehrheit gefasst.\n\n**(4)** Die Abdankung des Großherzogs bedarf der Form eines schriftlichen Aktes, der unwiderruflich ist.",
+      "text_sha256": "aa817c5a9300a6d3e9d827021a85b6fcfd758bd716b864914dcd2ebd3d6f978f",
+      "md_span": {
+        "start": 18740,
+        "end": 19773
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_57",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 2.** — *Die konstitutionelle Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Der Großherzog übt das Amt des Staatsoberhaupts ab dem Zeitpunkt aus, an dem er folgenden Eid vor der Abgeordnetenkammer geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Zuständigkeiten treu zu erfüllen.“\n\n**(2)** Der Eid wird spätestens am zehnten Tag nach dem Tod, der Abdankung oder der Ernennung des Großherzogs unter den Bedingungen des Artikel 56, Absatz 3 geleistet.\n\n**(3)** Die Weigerung, den Eid zu leisten, beinhaltet den Verzicht auf das Amt des Staatsoberhaupts.",
+      "text_sha256": "14f691745496702b2dc1e2a5bd6473f8c468fd765d958fa07a313ab8f5d6f6e0",
+      "md_span": {
+        "start": 19810,
+        "end": 20347
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_58",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 2.** — *Die konstitutionelle Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Großherzog kann sich von einer Person vertreten lassen, die die Bedingungen von Artikel 56, Absatz 1 erfüllt und den Titel „Stellvertreter des Großherzogs“ trägt.\n\nDer Stellvertreter des Großherzogs tritt sein Amt erst an, nachdem er vor der Abgeordnetenkammer folgenden Eid geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Befugnisse treu zu erfüllen.“",
+      "text_sha256": "45ddcb6fc616607a61ef8bb8b166ec8ddf4076e46b2a270554d8b892509cad7e",
+      "md_span": {
+        "start": 20384,
+        "end": 20795
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_59",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 2.** — *Die konstitutionelle Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Ist der Thronfolger am Todestag des Großherzogs oder am Tag seiner Abdankung minderjährig, tritt die Abgeordnetenkammer binnen zehn Tagen zusammen, um auf Vorschlag der Regierung die Regentschaft zu besetzen.\n\nIst es dem Großherzog vorübergehend nicht möglich, seine verfassungsrechtlichen Befugnisse zu erfüllen oder den in Artikel 57 vorgesehenen Eid zu leisten, setzt die Regierung die Abgeordnetenkammer davon in Kenntnis, welche innerhalb von zehn Tagen zusammentritt, um dieses Unvermögen festzustellen und die Regentschaft zu besetzen.\n\nDie Regentschaft kann nur an eine einzige Person übertragen werden, die volljährig sein und zu den in Artikel 56, Absatz 1 genannten Personen zählen muss.\n\nDer Regent tritt sein Amt erst an, nachdem er vor der Abgeordnetenkammer folgenden Eid geleistet hat: „Ich schwöre, die Verfassung und die Gesetze zu achten und meine verfassungsrechtlichen Befugnisse treu zu erfüllen.“\n\nDie Regentschaft endet mit der Volljährigkeit des Thronfolgers oder dem Ende des vorübergehenden Unvermögens des Großherzogs, seine verfassungsrechtlichen Befugnisse zu erfüllen.\n\nDie Regierung setzt die Abgeordnetenkammer davon in Kenntnis, welche innerhalb von zehn Tagen zusammentritt, um die Regentschaft zu beenden.",
+      "text_sha256": "41ce92faddc2b56a75e17c979a644d5f50cf441792e03b4fab76492775404c54",
+      "md_span": {
+        "start": 20832,
+        "end": 22073
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_60",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 2.** — *Die konstitutionelle Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Wenn der Großherzog seine in der Verfassung übertragenen Befugnisse nicht erfüllt, entscheidet die Abgeordnetenkammer, auf Antrag der Regierung nach Anhörung des Staatsrats, mit qualifizierter Mehrheit, dass davon auszugehen ist, dass der Großherzog abgedankt hat.",
+      "text_sha256": "f189cba56ca6f1865eda87f6858fc26114751a3e2ed8866ce5f5419144e6a9c8",
+      "md_span": {
+        "start": 22110,
+        "end": 22374
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_61",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "**Kapitel III.** — *Der Großherzog*",
+        "**Abschnitt 2.** — *Die konstitutionelle Monarchie*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Nach dem Tod des Großherzogs, seiner Abdankung oder der Feststellung seines Unvermögens, seine verfassungsrechtlichen Befugnisse zu erfüllen, wird das Amt des Staatsoberhaupts bis zur Leistung des Eides des Thronfolgers von der Regierung ausgeübt. Das Gleiche gilt im Falle des Todes oder des Rücktritts des Regenten.",
+      "text_sha256": "7e0c19c521ad55cd126f2af4a3cd832ed97ff41ba599409c4288be7531093c6f",
+      "md_span": {
+        "start": 22411,
+        "end": 22728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_62",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 1.** — *Die Vertretung des Landes*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordnetenkammer repräsentiert das Land. Sie übt die gesetzgebende Gewalt aus. Sie kontrolliert das Handeln der Regierung.\n\nDie Abgeordneten stimmen ausschließlich im Interesse des Gemeinwohls ab, ohne Rücksprache mit ihren Bestellern zu halten.",
+      "text_sha256": "b5b83e177131ff631976970a2913435846bd693ed764c0c5d2855e9d88b2f58f",
+      "md_span": {
+        "start": 22864,
+        "end": 23115
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_63",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 1.** — *Die Vertretung des Landes*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Abgeordnetenkammer setzt sich aus sechzig Abgeordneten zusammen.\n\n**(2)** Die Abgeordneten werden für fünf Jahre gewählt.\n\n**(3)** Die Wahl ist direkt. Sie erfolgt gemäß dem allgemeinen Wahlrecht, per Listenwahl, nach den Regeln der verhältnismäßigen Vertretung und dem Grundsatz des kleinsten Wahlquotienten.\n\nEs besteht Wahlpflicht. Die Wahlen sind geheim. Die Modalitäten werden per Gesetz geregelt.\n\n**(4)** Das Land ist in vier Wahlbezirke eingeteilt:\n\n1. Süden mit den Kantonen Esch-an-der-Alzette und Capellen;\n2. Zentrum mit den Kantonen Luxemburg und Mersch;\n3. Norden mit den Kantonen Diekirch, Redingen, Wiltz, Clerf und Vianden;\n4. Osten mit den Kantonen Grevenmacher, Remich und Echternach.\n\nEin mit qualifizierter Mehrheit verabschiedetes Gesetz legt die Zahl der in jedem Wahlbezirk zu wählenden Abgeordneten fest.",
+      "text_sha256": "c013fc6d97cbf82315682c98255290d2700c57f881a577a05a71c804934da690",
+      "md_span": {
+        "start": 23152,
+        "end": 23993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_64",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 1.** — *Die Vertretung des Landes*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Um Wähler zu sein, muss man Luxemburger und achtzehn Jahre alt sein.\n\n**(2)** Um wählbar zu sein, muss man zudem seinen Wohnsitz im Großherzogtum Luxemburg haben.\n\n**(3)** Die Gerichte können in den gesetzlich vorgesehenen Fällen den Ausschluss vom aktiven und passiven Wahlrecht aussprechen.",
+      "text_sha256": "676e92960e3fe6929fc19d0f3cd382b45536f5707c32b3d7c65ea4630c60cc5e",
+      "md_span": {
+        "start": 24030,
+        "end": 24330
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_65",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 1.** — *Die Vertretung des Landes*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Das Abgeordnetenmandat ist unvereinbar mit dem Mandat als Mitglied der Regierung und des Staatsrats.\n\nDie gleiche Unvereinbarkeit gilt für die öffentlichen Stellen und Funktionen, die durch ein mit qualifizierter Mehrheit verabschiedetes Gesetz zu bestimmen sind. Sie kann auf andere politische Mandate ausgedehnt werden, die durch ein mit qualifizierter Mehrheit verabschiedetes Gesetz zu bestimmen sind.",
+      "text_sha256": "c3366817ab6bd35b0a96a72f9454ba90550b9a0a46c3f0909aecb7b0219a93c3",
+      "md_span": {
+        "start": 24367,
+        "end": 24772
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_66",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 1.** — *Die Vertretung des Landes*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Ein Abgeordneter, der von der Regierung für eine besoldete Stelle ernannt wird und diese annimmt, nimmt mit sofortiger Wirkung nicht mehr an den Sitzungen des Parlaments teil und nimmt sein Mandat nur aufgrund einer neuen Wahl wieder auf.\n\n**(2)** Ein Abgeordneter, der Regierungsmitglied wird, verliert sein Abgeordnetenmandat. Er wird auf der Liste, von der er als Nachrücker gewählt wurde, in der Reihenfolge der erhaltenen Stimmen wieder eingetragen.\n\nDas Gleiche gilt für Nachrücker, die nach Regierungseintritt auf das Abgeordnetenmandat verzichten müssen, das ihnen während der Ausübung dieses Mandates zufällt.\n\nGibt es mehrere berechtigte Nachrücker, erfolgt die Wiedereintragung in der Reihenfolge der bei der Wahl erhaltenen Stimmen.\n\n**(3)** Personen, bei denen eine Unvereinbarkeit vorliegt, haben das Recht, zwischen dem Abgeordnetenmandat und ihrer Stelle oder ihrer Tätigkeit zu wählen.",
+      "text_sha256": "559600387c4a1b3d551428ac5cd8839a947d21852b8ae4b364ec983ac4a41a11",
+      "md_span": {
+        "start": 24809,
+        "end": 25719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_67",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Abgeordnetenkammer tritt von Rechts wegen am dritten Dienstag nach dem Wahltag in öffentlicher Sitzung zusammen, um die Berechtigung ihrer Mitglieder zu überprüfen.\n\n**(2)** Es obliegt der Abgeordnetenkammer festzustellen, dass eines ihrer Mitglieder die Abgeordneteneigenschaft während des Mandats verloren hat aufgrund einer Nichtwählbarkeit im Sinne von Artikel 64 oder weil eine Unvereinbarkeit im Sinne von Artikel 65 eingetreten ist.\n\n**(3)** Gegen eine solche Entscheidung kann vor dem Verfassungsgerichtshof Einspruch eingelegt werden. Die Modalitäten dieses Einspruchs werden per Gesetz geregelt.\n\n**(4)** Beim Antritt ihres Mandats leisten die Abgeordneten in öffentlicher Sitzung folgenden Eid: „Ich schwöre, die Verfassung und die Gesetze zu achten und mein Mandat mit Integrität, Gewissenhaftigkeit und Unparteilichkeit auszuüben.“\n\n**(5)** Mit dem ersten Zusammentreten der aus der Wahl hervorgehenden Abgeordnetenkammer in öffentlicher Sitzung im Sinne von Absatz 1 scheidet die aus der vorhergehenden Wahl hervorgegangene Abgeordnetenkammer aus dem Amt aus.",
+      "text_sha256": "0a06ff7aea9a17a74e15e4ca824947752f3205161010ac597eac47cbeed38449",
+      "md_span": {
+        "start": 25839,
+        "end": 26924
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_68",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordnetenkammer bestimmt durch ihre Geschäftsordnung die Art und Weise, wie sie ihre Aufgaben ausführt, sowie ihre praktische und finanzielle Organisation, einschließlich dem Statut ihrer Beamten.\n\nDie Geschäftsordnung der Abgeordnetenkammer regelt die Ausführungsbestimmungen der Gesetze, die ihre Organisation betreffen.",
+      "text_sha256": "7bc87d39978070a9f9bdc9e8ff721040c3cbb7db829031d8aa81626080ab871f",
+      "md_span": {
+        "start": 26961,
+        "end": 27290
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_69",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordnetenkammer ernennt ihren Präsidenten und ihre Vize-Präsidenten und setzt ihr Präsidium zusammen.",
+      "text_sha256": "4b8c286e4b57c2d56686ab163683cf299e04acbd31e03440a7f0dc53d592b4d1",
+      "md_span": {
+        "start": 27327,
+        "end": 27435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_70",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Sitzungen der Abgeordnetenkammer sind öffentlich, außer der durch ihre Geschäftsordnung zu bestimmenden Ausnahmen.",
+      "text_sha256": "d616cba47a793331857c04a8d4d9646133ea0b05c8e2cb76ef311f29a0972ea7",
+      "md_span": {
+        "start": 27472,
+        "end": 27590
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_71",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordnetenkammer ist nur beschluss-, entschließungs- und antragsfähig, wenn die Mehrheit der Abgeordneten anwesend ist.\n\nJeder Beschluss, jede Resolution und jeder Antrag wird mit der Stimmenmehrheit angenommen. Enthaltungen werden bei der Berechnung der Mehrheit nicht berücksichtigt. Die Stimmabgabe durch Vollmacht ist zulässig. Niemandem darf jedoch mehr als eine Vollmacht erteilt werden.\n\nBeschlüsse und Resolutionen, deren Annahme aufgrund der Verfassung der qualifizierten Mehrheit bedarf, müssen mit mindestens zwei Drittel der Abgeordnetenstimmen gefasst werden, wobei die Stimmabgabe per Vollmacht nicht zulässig ist.",
+      "text_sha256": "6d314a336b77b2455116e942078a89feeddec074699e0806d55242d25daa67b8",
+      "md_span": {
+        "start": 27627,
+        "end": 28261
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_72",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Geschäftsordnung der Abgeordnetenkammer bestimmt die Mehrheitsregelungen für die Ernennung von Personen zu Mandaten oder Funktionen, die von der Abgeordnetenkammer vorgenommen wird.",
+      "text_sha256": "85eba583c6aa6956efa1b17c56c4040f45ba78b96029da0e237ccbbb0dce69bc",
+      "md_span": {
+        "start": 28298,
+        "end": 28483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_73",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Großherzog kann vorgezogene Neuwahlen nur ansetzen, wenn die Abgeordnetenkammer mit der Mehrheit ihrer Mitglieder der Regierung das Vertrauen entzieht oder einen Misstrauensantrag gegenüber der Regierung annimmt.\n\nIm Falle eines Rücktritts der Regierung setzt der Großherzog nach Zustimmung der Abgeordnetenkammer, die mit der absoluten Mehrheit der Abgeordneten erteilt wird, vorgezogene Neuwahlen an.\n\nDie Neuwahlen finden spätestens innerhalb von drei Monaten statt.\n\nWährend des Ausnahmezustands kann der Großherzog keine vorgezogenen Neuwahlen ansetzen.",
+      "text_sha256": "8cf4a67b025934c3ee14ecee589f9dcee70c4f1c51a8833c857ba337d2ac64f0",
+      "md_span": {
+        "start": 28520,
+        "end": 29082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_74",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Regierungsmitglieder haben Zutritt zur Abgeordnetenkammer. Auf ihre Anfrage hin muss ihnen das Wort erteilt werden.",
+      "text_sha256": "7cdeab7254a65a4d3720ff007da7b06696303b4246006f84895828eb4a33beaf",
+      "md_span": {
+        "start": 29119,
+        "end": 29238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_75",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 2.** — *Die Organisation und Arbeitsweise der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Zwecks Ausübung der in Artikel 62 vorgesehenen Aufgaben kann die Abgeordnetenkammer:\n\n1. die Anwesenheit eines oder mehrerer Regierungsmitglieder verlangen;\n2. Fragen und Anfragen an die Regierung stellen, zu deren Beantwortung die Regierung verpflichtet ist;\n3. von der Regierung sämtliche Informationen und Dokumente verlangen;\n4. gegenüber der Regierung einen Vertrauens- oder Misstrauensantrag annehmen.\n\nDie Ausübung dieser Befugnisse wird durch die Geschäftsordnung der Abgeordnetenkammer geregelt.",
+      "text_sha256": "f43f02cb75ffb012f9d73984d38604243bd284c189c01f27af16488105739021",
+      "md_span": {
+        "start": 29275,
+        "end": 29779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_76",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 3.** — *Die Verabschiedung der Gesetze*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Regierung bringt Gesetzesentwürfe in die Abgeordnetenkammer ein.",
+      "text_sha256": "a790e0df9c6924145a5443b325bc2e5a823e97ebc96af980070f67a2ff345a19",
+      "md_span": {
+        "start": 29873,
+        "end": 29941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_77",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 3.** — *Die Verabschiedung der Gesetze*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jeder Abgeordnete ist berechtigt, der Abgeordnetenkammer Gesetzesvorschläge vorzulegen.",
+      "text_sha256": "cafeb542c1aaa49fc4a5bf871ca982de83439e8c3da8a178bf09932237a42c80",
+      "md_span": {
+        "start": 29978,
+        "end": 30065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_78",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 3.** — *Die Verabschiedung der Gesetze*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Gesetze werden von der Abgeordnetenkammer verabschiedet.\n\n**(2)** Die Abgeordnetenkammer kann Änderungen an den Gesetzesentwürfen und Gesetzesvorschlägen vornehmen.\n\n**(3)** Die Abgeordnetenkammer stimmt über das gesamte Gesetz ab. Die Stimmabgabe ist immer namentlich.\n\nAuf Antrag von mindestens fünf Abgeordneten kann vor der Abstimmung über das gesamte Gesetz eine Abstimmung über einen oder mehrere Artikel des Gesetzes vorgenommen werden.\n\n**(4)** Alle Gesetze werden einer zweiten Abstimmung unterzogen, es sei denn, die Abgeordnetenkammer beschließt mit Zustimmung des Staatsrats, der in öffentlicher Sitzung tagt, etwas anderes. Zwischen den beiden Abstimmungen liegt ein Zeitraum von mindestens drei Monaten.",
+      "text_sha256": "9cc7c76ccf469dc188237d25c5a780c8a9349ae087a37452ffadf11cad041f5a",
+      "md_span": {
+        "start": 30102,
+        "end": 30831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_79",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 4.** — *Die weiteren Zuständigkeiten der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordnetenkammer entscheidet in öffentlicher Sitzung über die von hundertfünfundzwanzig Wählern eingebrachten und von mindestens zwölftausendfünfhundert Wählern unterstützten begründeten Vorschlägen zur Einleitung eines Gesetzgebungsverfahrens.\n\nDie Ausübung dieses Rechts auf Gesetzesinitiative wird gesetzlich geregelt.",
+      "text_sha256": "14f5ba9465292de5924f60ba672aab4625cc8d881834d9c125125a2fe3bc8524",
+      "md_span": {
+        "start": 30946,
+        "end": 31273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_80",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 4.** — *Die weiteren Zuständigkeiten der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordnetenkammer kann beschließen, ein Referendum in den Fällen, zu den Bedingungen und mit den Auswirkungen durchzuführen, die durch das Gesetz festgelegt werden müssen.",
+      "text_sha256": "0ec9b871fd82f34e5d3259df56a9be0555729a49af27cfc0c660a0073b41beb7",
+      "md_span": {
+        "start": 31310,
+        "end": 31486
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_81",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 4.** — *Die weiteren Zuständigkeiten der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordnetenkammer hat das Untersuchungsrecht. Die Ausübung dieses Rechts wird per Gesetz bestimmt.\n\nEin Untersuchungsausschuss muss auf Antrag von mindestens einem Drittel der Abgeordneten eingesetzt werden.",
+      "text_sha256": "2848443882627434984e0d0dd6f95e12f5fb192db2a0946b5b37e242caf9c6ec",
+      "md_span": {
+        "start": 31523,
+        "end": 31735
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_82",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 4.** — *Die weiteren Zuständigkeiten der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordnetenkammer nimmt die in der von ihrer Geschäftsordnung vorgeschriebenen Form an sie gerichteten Petitionen entgegen.",
+      "text_sha256": "19c903af081c096432c7729519a043ebab65cd2bb9a53209ed2f5b8f94f04d8c",
+      "md_span": {
+        "start": 31772,
+        "end": 31900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_83",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 4.** — *Die weiteren Zuständigkeiten der Abgeordnetenkammer*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Ombudsman wird vom Großherzog auf Vorschlag der Abgeordnetenkammer ernannt, welcher mit der in Artikel 71, Absatz 3 vorgesehenen qualifizierten Mehrheit angenommen wurde.\n\nDie Befugnisse und die Regeln für die Arbeitsweise des Ombudsman und die Beziehungen zur Abgeordnetenkammer werden per Gesetz bestimmt.",
+      "text_sha256": "1efd4b5c6fccf1700aa65ef4f5061c500b81dd52aeac89f218edae6c900e7014",
+      "md_span": {
+        "start": 31937,
+        "end": 32248
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_84",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 5.** — *Das Statut des Abgeordneten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Kein Abgeordneter kann wegen der von ihm in Ausübung seines Amtes geäußerten Meinungen oder wegen seiner Abstimmungen zivil- oder strafrechtlich belangt werden.",
+      "text_sha256": "833b195e32818adf9bcc308b6b9e6009bc18bdcdd6bc1a32d28a951ab7d20e39",
+      "md_span": {
+        "start": 32339,
+        "end": 32499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_85",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 5.** — *Das Statut des Abgeordneten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Mit Ausnahme der in Artikel 84 vorgesehenen Fälle können Abgeordnete strafrechtlich verfolgt werden.\n\nDie Verhaftung eines Abgeordneten bedarf jedoch, außer im Fall der Ergreifung auf frischer Tat, der vorherigen Genehmigung der Abgeordnetenkammer.\n\nFür den Vollzug der gegen einen Abgeordneten verhängten Strafen – selbst der Freiheitsstrafen – bedarf es keiner Genehmigung der Abgeordnetenkammer.",
+      "text_sha256": "e99f8fe35e0f112b6aaaac3780752095af7577a39d43b9b0fb91861b2769370d",
+      "md_span": {
+        "start": 32536,
+        "end": 32934
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_86",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "**Kapitel IV.** — *Die Abgeordnetenkammer*",
+        "**Abschnitt 5.** — *Das Statut des Abgeordneten*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Abgeordneten beziehen eine Entschädigung, deren Höhe und Bedingungen per Gesetz festgelegt wird.",
+      "text_sha256": "9673575a9a66c7fb88b42031393ad366637dde85d6b39911a2862078eb5ebd4c",
+      "md_span": {
+        "start": 32971,
+        "end": 33071
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_87",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *Die Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Regierung leitet die allgemeine Politik des Staates.",
+      "text_sha256": "b2a84ca48273cee56bd92c47c42911d224c3278c311608043c9ac0d2ac351a50",
+      "md_span": {
+        "start": 33145,
+        "end": 33201
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_88",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *Die Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Regierung besteht aus einem Premierminister, einem oder mehreren Vizepremierministern, Ministern und gegebenenfalls einem oder mehreren beigeordneten Ministern und Staatssekretären.\n\nDer Großherzog ernennt den Premierminister und die anderen Regierungsmitglieder und entbindet sie von ihren Aufgaben.\n\nVor Amtsantritt leisten die Regierungsmitglieder folgenden Eid: „Ich schwöre, die Verfassung und die Gesetze zu achten und mein Amt mit Integrität, Gewissenhaftigkeit und Unparteilichkeit auszuüben.“",
+      "text_sha256": "c81498998ac95fde93b4aa8b5e4201d59dbf9adeffee7df6d561f43a7f005e9a",
+      "md_span": {
+        "start": 33238,
+        "end": 33743
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_89",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 89.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *Die Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Das Amt des Regierungsmitglieds ist unvereinbar mit dem Mandat des Abgeordneten, des Mitglieds des Staatsrats, des Mitglieds eines Gemeinderats sowie mit öffentlichen Ämtern oder einer beruflichen Tätigkeit.",
+      "text_sha256": "70b03c0f9fe84c02ea33b83fcd7b5503ea336d18d2091a717f57eaffba2bd03e",
+      "md_span": {
+        "start": 33780,
+        "end": 33987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_90",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_90",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 90.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *Die Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Regierungsmitglieder üben ihre Befugnisse entweder im Regierungsrat oder, für die Angelegenheiten, mit denen sie betraut sind, einzeln aus.",
+      "text_sha256": "e256fe2b92d1b6bd6f2385f76814314b438989a2832dbb7c77f2959787805695",
+      "md_span": {
+        "start": 34024,
+        "end": 34167
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_91",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_91",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 91.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *Die Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Premierminister koordiniert die Arbeit der Regierung und achtet auf ein einheitliches Vorgehen der Regierung.",
+      "text_sha256": "f5e83c2e43a942135316dd12cea9b0fd75b49086d3a6a339d5cdf9897bd8da3f",
+      "md_span": {
+        "start": 34204,
+        "end": 34317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_92",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_92",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 92.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *Die Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Regierung regelt ihre Organisation und Arbeitsweise, mit Ausnahme der nach der Verfassung dem Gesetz vorbehaltenen Angelegenheiten, durch eine per großherzoglichen Beschluss genehmigte Geschäftsordnung.",
+      "text_sha256": "8b1b48f6d2c5f44f2e7dbeee2596bafa018f4f397a33a49382926c1593eee147",
+      "md_span": {
+        "start": 34354,
+        "end": 34560
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_93",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_93",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 93.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *Die Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Anlässlich der Vorstellung des Regierungsprogramms vor der Abgeordnetenkammer stellt der Premierminister die Vertrauensfrage für die neue Regierung.\n\n**(2)** Anlässlich einer Abstimmung über einen Gesetzentwurf oder einer Regierungserklärung kann der Premierminister nach Beratung des Regierungsrats gegenüber der Abgeordnetenkammer die Vertrauensfrage stellen.\n\n**(3)** Die Abgeordnetenkammer kann die Regierung durch einen Misstrauensantrag zur Verantwortung ziehen.\n\n**(4)** Wenn die Abgeordnetenkammer der Regierung das Vertrauen entzieht, reicht der Premierminister beim Großherzog den Rücktritt der Regierung ein.\n\n**(5)** Die scheidende Regierung führt die allgemeinen politischen Geschäfte weiter.",
+      "text_sha256": "bba7eeb076bc82636cff3d0a88bf41619b83750080118dc7344d6a4066cb83a7",
+      "md_span": {
+        "start": 34597,
+        "end": 35310
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_94",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_94",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 94.",
+      "heading": null,
+      "path": [
+        "**Kapitel V.** — *Die Regierung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Regierung und ihre Mitglieder sind gegenüber der Abgeordnetenkammer verantwortlich.\n\n**(2)** Die Regierungsmitglieder können wegen ihrer Äußerungen im Rahmen der Ausübung ihres Amtes weder zivilrechtlich noch strafrechtlich zur Verantwortung gezogen werden.\n\n**(3)** Die Regierungsmitglieder sind für die von ihnen in Ausübung ihres Amtes begangenen Taten strafrechtlich verantwortlich.\n\nNur die Staatsanwaltschaft kann gegen ein Mitglied der Regierung wegen dieser Handlungen ein Verfahren einleiten und führen, auch wenn es aus dem Amt ausgeschieden ist.\n\n**(4)** Außer bei Ergreifung auf frischer Tat bedarf die Verhaftung eines Regierungsmitglieds der vorherigen Genehmigung der Abgeordnetenkammer. Für den Vollzug der gegen ein Regierungsmitglied verkündeten Strafen – selbst der Freiheitsstrafen – bedarf es dieser Genehmigung nicht.",
+      "text_sha256": "a4a731c1c09469f8cb8df526739c5f336bab6c68f6efbb5ebfd652ca4545ceb2",
+      "md_span": {
+        "start": 35347,
+        "end": 36198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_95",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_95",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 95.",
+      "heading": null,
+      "path": [
+        "**Kapitel VI.** — *Der Staatsrat*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Staatsrat gibt seine Stellungnahme zu den Gesetzesentwürfen und Gesetzesvorschlägen sowie zu den etwaigen vorgeschlagenen Änderungen ab.\n\nIst er der Ansicht, dass ein Gesetzesentwurf oder Gesetzesvorschlag Bestimmungen enthält, die gegen die Verfassung, gegen internationale Verträge, bei denen das Großherzogtum Luxemburg Vertragspartner ist, gegen Rechtsakte der Europäischen Union oder gegen die allgemeinen Rechtsgrundsätze verstoßen, erwähnt er dies in seiner Stellungnahme.\n\nHat die Abgeordnetenkammer Artikel für Artikel über einen Gesetzesentwurf oder Gesetzesvorschlag abgestimmt, ohne dass der Staatsrat sein Gutachten abgegeben hat, kann die Abgeordnetenkammer unter Einhaltung einer Frist von mindestens drei Monaten über das gesamte Gesetz abstimmen, nachdem sie den Staatsrat davon in Kenntnis gesetzt hat.\n\nAußer in Notfällen, die der Großherzog im Rahmen der bestehenden Gesetzgebung zu beurteilen hat, gibt der Staatsrat sein Gutachten zu zu erlassenden Verordnungen zu den Ausführungsbestimmungen der Gesetze und internationalen Verträgen und zwecks Anwendung der Rechtsakte der Europäischen Union ab. Ist er der Ansicht, dass der Verordnungsentwurf nicht mit den übergeordneten Rechtsnormen übereinstimmt, erwähnt er dies in seinem Gutachten.\n\nDie Abgeordnetenkammer und die Regierung können dem Staatsrat alle anderen Fragen unter den gesetzlich bestimmten Modalitäten vorlegen.",
+      "text_sha256": "dd96fe81f3cf432c498c0a19fae00e3515787c1c9c43e56775951601efc67c5d",
+      "md_span": {
+        "start": 36273,
+        "end": 37675
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_96",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_96",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 96.",
+      "heading": null,
+      "path": [
+        "**Kapitel VI.** — *Der Staatsrat*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Organisation des Staatsrats und die Art und Weise der Ausübung seiner Aufgaben werden gesetzlich geregelt.",
+      "text_sha256": "d0bb5777fc964d374f95237053b7bca1d4f3d0eb1cc74ddca3d792727b6f4e7d",
+      "md_span": {
+        "start": 37712,
+        "end": 37822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_97",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_97",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 97.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 1.** — *Die Organisation der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die rechtsprechende Gewalt wird von den Gerichtshöfen und Gerichten ausgeübt.\n\nDie Urteile und Gerichtsentscheidungen werden im Namen des Großherzogs vollstreckt.",
+      "text_sha256": "6b20341e53deb144d96ede90eba54d69dfe09124fe3bfd538ab63d90ad7652f0",
+      "md_span": {
+        "start": 37949,
+        "end": 38111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_98",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_98",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 98.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 1.** — *Die Organisation der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die ordentlichen Gerichte haben in allen Bereichen allgemeine Zuständigkeit, außer in den Bereichen, die die Verfassung Gerichten mit besonderer Zuständigkeit überträgt.",
+      "text_sha256": "b06a69f456db2ae33dc1fec02bcc6a111bd42bb51f4a60ccd158580addbdc5f5",
+      "md_span": {
+        "start": 38148,
+        "end": 38317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_99",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_99",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 99.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 1.** — *Die Organisation der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "In Streitfällen, die das Verwaltungs- und das Steuerrecht betreffen, sind, in den gesetzlich bestimmten Fällen und Bedingungen, die Gerichte der Verwaltungsgerichtbarkeit zuständig.",
+      "text_sha256": "1bb3ed0c87ceb208eb4cc2f61646d01162ee6a65f1c9514efef1e2931a11c198",
+      "md_span": {
+        "start": 38354,
+        "end": 38535
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_100",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_100",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 100.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 1.** — *Die Organisation der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die für die Sozialversicherung zuständige Gerichtsbarkeit wird gesetzlich geregelt.",
+      "text_sha256": "e351a231bb5cb0a15118bcd4aeac5687050d3a8b727a2ee3f6ac6e5a5e46b25b",
+      "md_span": {
+        "start": 38574,
+        "end": 38657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_101",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_101",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 101.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 1.** — *Die Organisation der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Organisation der Gerichte sowie die Rechtsbehelfe werden gesetzlich geregelt.",
+      "text_sha256": "3ae60f1d806db1a7d51c28aefdb49111859f9c6f7053d5e475d819a5edd36351",
+      "md_span": {
+        "start": 38696,
+        "end": 38777
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_102",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_102",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 102.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 1.** — *Die Organisation der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Gerichte wenden die Gesetze und Verordnungen nur insoweit an, als sie mit den übergeordneten Rechtsnormen übereinstimmen.",
+      "text_sha256": "11219f40050045d8938d6b4793c21a8cde83a62b4bf3ddb874c378385a5f83b5",
+      "md_span": {
+        "start": 38816,
+        "end": 38941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_103",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_103",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 103.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 1.** — *Die Organisation der Justiz*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Aufhebung einer Verordnung durch ein Verwaltungsgericht erlangt ab dem Tag, an dem die Gerichtsentscheidung oder das Urteil rechtskräftig wird, Rechtswirksamkeit, es sei denn, das Gericht, das die Aufhebung ausgesprochen hat, ordnet eine andere Frist an.\n\nDas Gericht, das die Rechtsunwirksamkeit ausspricht, bestimmt die Bedingungen und Grenzen, unter denen die Wirkungen, die die Verordnung hervorgerufen hat, wieder in Frage gestellt werden können.",
+      "text_sha256": "6bdcd8fbf624840bd8d2de00c9ecb029eec2896c26f0e9c613ba5dfdd5a80f95",
+      "md_span": {
+        "start": 38980,
+        "end": 39435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_104",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_104",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 104.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 2.** — *Das Statut der Richter und Staatsanwälte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Richter sind bei der Ausübung ihres richterlichen Amtes unabhängig.\n\n**(2)** Die Staatsanwaltschaft übernimmt die Anklageerhebung und verlangt die Durchsetzung des Rechts. Sie ist bei der Ermittlung und Verfolgung von Straftaten unabhängig, unbeschadet des Rechts der Regierung, Richtlinien für die Strafrechtspolitik zu erlassen.",
+      "text_sha256": "cbbf1a4ed2ed7367ee308a6d74ead60f7b81c42b45ed56205928fc4eb41b041a",
+      "md_span": {
+        "start": 39541,
+        "end": 39883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_105",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_105",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 105.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 2.** — *Das Statut der Richter und Staatsanwälte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Das Statut der Richter und der Staatsanwälte wird gesetzlich festgelegt.\n\n**(2)** Die Richter können nicht abgesetzt werden.\n\n**(3)** Die Versetzung in den Ruhestand der Richter und Staatsanwälte aus Alters-, Krankheits- und Dienstuntauglichkeitsgründen werden gesetzlich geregelt.",
+      "text_sha256": "34a6832770d6c778f027aba2dea48389ca7878bf7fdea9cd099624142dd638e9",
+      "md_span": {
+        "start": 39922,
+        "end": 40211
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_106",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_106",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 106.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 2.** — *Das Statut der Richter und Staatsanwälte*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Vor Amtsantritt leisten die Richter und die Staatsanwälte den vom Gesetz vorgesehenen Eid.",
+      "text_sha256": "44d67f6c327338885815ccd0c23d23ce77ac528669d870483c991b2c8db45f25",
+      "md_span": {
+        "start": 40250,
+        "end": 40340
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_107",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_107",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 107.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 3.** — *Der Nationale Justizrat*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Der Nationale Justizrat wacht, unter Wahrung ihrer Unabhängigkeit, über das ordnungsgemäße Funktionieren der Justiz.\n\nDie Zusammensetzung und die Organisation des Nationalen Justizrats werden per Gesetz geregelt. Der Nationale Justizrat muss mehrheitlich aus Richtern und Staatsanwälten bestehen.\n\nDer Großherzog ernennt die vom Nationalen Justizrat vorgeschlagenen Richter und Staatsanwälte gemäß den gesetzlich geregelten Bedingungen.\n\nDie Zuständigkeiten des Nationalen Justizrats in Disziplinarverfahren gegen Richter und Staatsanwälte werden per Gesetz bestimmt.\n\nDie anderen Zuständigkeiten des Nationalen Justizrats werden per Gesetz festgelegt, das ebenfalls die Art ihrer Ausübung bestimmt.",
+      "text_sha256": "d24449e4e5aab33816dcc6467d88af0cac1bf17df3f8ed88591d758656426921",
+      "md_span": {
+        "start": 40429,
+        "end": 41128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_108",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_108",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 108.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 4.** — *Die Garantien des Rechtsuchenden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Sitzungen der Gerichte sind öffentlich, es sei denn, diese Öffentlichkeit gefährdet die Ordnung oder die Sitten, wobei dies vom Gericht durch einen Gerichtsbeschluss entschieden wird.",
+      "text_sha256": "37eb3cf8e04bfa57bf5d46407ea3a3452559a732132157d6d310695127eff5b8",
+      "md_span": {
+        "start": 41226,
+        "end": 41413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_109",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_109",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 109.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 4.** — *Die Garantien des Rechtsuchenden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jedes Urteil wird begründet. Es wird in öffentlicher Sitzung verkündet.",
+      "text_sha256": "5169cb40c94898cb047fedba1de4dbe5496ddcf14bfd09ee5f5fc57306153145",
+      "md_span": {
+        "start": 41452,
+        "end": 41523
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_110",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_110",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 110.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 4.** — *Die Garantien des Rechtsuchenden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Gesetzlich garantiert sind die Unparteilichkeit der Richter, der faire und gerechte Charakter der Verfahren einschließlich angemessener Verfahrensfristen, die Wahrung des Grundsatzes des kontradiktorischen Verfahrens und der Verteidigungsrechte.",
+      "text_sha256": "01cfb333f54a07e19b9a6189bc71b5862965b199c3d23a34c20cd18e320a522a",
+      "md_span": {
+        "start": 41562,
+        "end": 41807
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_111",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_111",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 111.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 4.** — *Die Garantien des Rechtsuchenden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Bestimmungen der Verfassung stehen den Verpflichtungen, die sich aus dem Statut des Internationalen Strafgerichtshofs ergeben, nicht entgegen.",
+      "text_sha256": "dcd421a30dc329baf409dbfafc20ba8e01f50614997c3269e6567364e96b3390",
+      "md_span": {
+        "start": 41846,
+        "end": 41992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_112",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_112",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 112.",
+      "heading": null,
+      "path": [
+        "**Kapitel VII.** — *Die Justiz*",
+        "**Abschnitt 5.** — *Der Verfassungsgerichtshof*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Der Verfassungsgerichtshof entscheidet durch Urteil über die Verfassungsmäßigkeit der Gesetze.\n\n**(2)** Der Verfassungsgerichtshof kann in einem Vorabentscheidungsverfahren gemäß den per Gesetz zu bestimmenden Modalitäten von allen Gerichten hinsichtlich der Verfassungsmäßigkeit der Gesetze, mit Ausnahme der Gesetze zur Billigung von völkerrechtlichen Verträgen, befasst werden.\n\n**(3)** Der Verfassungsgerichtshof urteilt über Zuständigkeitskonflikte nach den gesetzlich festgelegten Verfahren.\n\n**(4)** Die Zuständigkeiten des Verfassungsgerichtshofs können durch ein Gesetz erweitert werden, das mit einer qualifizierten Mehrheit von mindestens zwei Dritteln der Stimmen der Mitglieder der Abgeordnetenkammer verabschiedet wurde, wobei die Stimmabgabe per Vollmacht nicht zulässig ist.\n\n**(5)** Der Verfassungsgerichtshof besteht aus:\n\n1. neun ordentlichen Mitgliedern: 1. dem Vorsitzenden des Obersten Gerichtshofs und dem Vorsitzenden des Verwaltungsgerichtshofs;\n2. zwei Richtern am Kassationsgerichtshof und fünf vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannten Richtern;\n2. sieben stellvertretenden Mitgliedern, die vom Großherzog nach Zustimmung des Obersten Gerichtshofs und des Verwaltungsgerichtshofs ernannt werden.\n\n**(6)** Der Verfassungsgerichtshof tagt in Kammern mit fünf Mitgliedern. Wenn der Verfassungsgerichtshof der Ansicht ist, dass eine Rechtssache, mit der er befasst ist, von besonderer Bedeutung ist, tagt er im Plenum mit neun Mitgliedern.\n\n**(7)** Die Organisation des Verfassungsgerichtshofs und die Art und Weise der Ausübung seiner Befugnisse werden per Gesetz geregelt.\n\n**(8)** Die Bestimmungen der Gesetze, die durch ein Urteil des Verfassungsgerichtshofs für verfassungswidrig erklärt werden, verlieren ihre Rechtswirkung am Tag nach der Veröffentlichung des Urteils in der gesetzlich vorgesehen Form, es sei denn, der Verfassungsgerichtshof hat eine andere Frist angeordnet. Der Verfassungsgerichtshof legt die Bedingungen und Grenzen fest, unter denen die von der Bestimmung hervorgerufenen Wirkungen in Frage gestellt werden können.",
+      "text_sha256": "127192e3df368937235ebb5327ac2b469bd4a09e40aa90cfe05db22f1e67c718",
+      "md_span": {
+        "start": 42084,
+        "end": 44216
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_113",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_113",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 113.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Bestimmungen über die Staatsverwaltung*",
+        "**Abschnitt 1.** — *Die allgemeinen Regeln der Verwaltung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Gesetze, Verordnungen und allgemeine Verwaltungsbeschlüsse werden erst mit der Veröffentlichung in der gesetzlich bestimmten Form verbindlich.",
+      "text_sha256": "9b4befec365ee3fc4229898109397e4e467ab321abfa73c8e792c5f5c4c58d38",
+      "md_span": {
+        "start": 44384,
+        "end": 44526
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_114",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_114",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 114.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Bestimmungen über die Staatsverwaltung*",
+        "**Abschnitt 1.** — *Die allgemeinen Regeln der Verwaltung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Bedingungen und Grenzen sowie die Modalitäten für die Staatshaftung und die Haftung anderer öffentlich-rechtlicher juristischer Personen für Schäden, die sie oder ihre öffentlichen Mandatsträger und Bediensteten bei der Ausübung ihrer Funktionen verursacht haben, werden per Gesetz geregelt.",
+      "text_sha256": "bf74dda0638b1ecec355850d0f75577295e93859c6a5f37a26ea435141ec651f",
+      "md_span": {
+        "start": 44565,
+        "end": 44860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_115",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_115",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 115.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Bestimmungen über die Staatsverwaltung*",
+        "**Abschnitt 1.** — *Die allgemeinen Regeln der Verwaltung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Ausübung der öffentlichen Gewalt und deren Befugnisse werden per Gesetz geregelt.\n\nJede Erklärung betreffend den Kriegszustand und jede Beteiligung der öffentlichen Gewalt an Operationen im Ausland bedürfen der Genehmigung der Abgeordnetenkammer entsprechend den per Gesetz festzulegenden Modalitäten.",
+      "text_sha256": "63bb4106ea25f7157cdebece604c587f5b2d80b87e9127a16e5eb66c8c699118",
+      "md_span": {
+        "start": 44899,
+        "end": 45204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_116",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_116",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 116.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Bestimmungen über die Staatsverwaltung*",
+        "**Abschnitt 2.** — *Die Finanzen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Jede staatliche Steuer sowie jede Befreiung oder Ermäßigung von der Besteuerung werden per Gesetz festgelegt.\n\n**(2)** Über die Steuern zugunsten des Staates wird jährlich im Parlament abgestimmt. Die Gesetze, die sie festlegen, sind nur für ein Jahr gültig, wenn sie nicht erneuert werden.\n\n**(3)** Außer in den per Gesetz formell geregelten Ausnahmen können von den Bürgern oder den öffentlichen Einrichtungen nur Abgaben verlangt werden, wenn es sich um Steuern zugunsten des Staates oder der Gemeinde handelt.",
+      "text_sha256": "a68ebed9cf00168feea305a51534f1fc7618cc444d5627b4a6ab2517ea5e2b03",
+      "md_span": {
+        "start": 45282,
+        "end": 45803
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_117",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_117",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 117.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Bestimmungen über die Staatsverwaltung*",
+        "**Abschnitt 2.** — *Die Finanzen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Jede Anleihe zulasten des Staates bedarf der Zustimmung der Abgeordnetenkammer.\n\n**(2)** Jede Veräußerung von unbeweglichem oder beweglichem Eigentum des Staates muss durch ein Sondergesetz genehmigt werden. Ein allgemeines Gesetz kann jedoch eine Grenze bestimmen, unterhalb derer eine Sondergenehmigung der Abgeordnetenkammer nicht erforderlich ist.\n\n**(3)** Jeder Erwerb durch den Staat von größerem unbeweglichem oder beweglichem Eigentum, jedes zugunsten des Staates durchgeführte große Infrastrukturprojekt oder bedeutende Bauprojekt sowie jede erhebliche finanzielle Verpflichtung des Staates müssen durch ein Sondergesetz genehmigt werden. Ein allgemeines Gesetz legt die Schwellenwerte fest, ab denen eine solche Genehmigung erforderlich ist, sowie die Bedingungen und Modalitäten für die Finanzierung der Vorbereitungsarbeiten.\n\n**(4)** Jede den Staatshaushalt für länger als ein Geschäftsjahr belastende Ausgabe muss durch ein Sondergesetz beschlossen werden.\n\n**(5)** Jedes Ruhegehalt, jedes Wartegeld sowie jede Sondervergütung zulasten des Staates werden durch ein Gesetz bewilligt.",
+      "text_sha256": "e585207e3ad2b6fd6f12f8a2028e8569893e201485fbcecc6efc0dd660e3a068",
+      "md_span": {
+        "start": 45842,
+        "end": 46946
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_118",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_118",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 118.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Bestimmungen über die Staatsverwaltung*",
+        "**Abschnitt 2.** — *Die Finanzen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jedes Jahr erlässt die Abgeordnetenkammer das Haushaltsgesetz und verabschiedet den Staatshaushalt. Alle Einnahmen und Ausgaben des Staates müssen im Staatshaushalt und in den Staatskonten eingetragen sein.",
+      "text_sha256": "25116e84878cf5c04ce2ba3294191604f4941050a64f8ce71e3085086975643d",
+      "md_span": {
+        "start": 46985,
+        "end": 47191
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_119",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_119",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 119.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Bestimmungen über die Staatsverwaltung*",
+        "**Abschnitt 2.** — *Die Finanzen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Der Rechnungshof ist mit der Kontrolle der Finanzverwaltung der Organe, Verwaltungen und Dienststellen des Staates beauftragt. Weitere Aufgaben im Bereich der Kontrolle der Verwaltung der öffentlichen Gelder können ihm per Gesetz übertragen werden.\n\n**(2)** Der Rechnungshof übermittelt der Abgeordnetenkammer seine Beanstandungen und Empfehlungen zu den Staatskonten.\n\n**(3)** Die Zuständigkeiten und die Organisation des Rechnungshofs sowie die Modalitäten seiner Überwachungsmission und die Beziehungen zur Abgeordnetenkammer werden per Gesetz geregelt.\n\n**(4)** Die Mitglieder des Rechnungshofs werden durch den Großherzog auf Vorschlag der Abgeordnetenkammer ernannt.",
+      "text_sha256": "df6740eb4a525f0250628981bafccf6dcb8e8f072bdac8d10aa7918a0ba6c1c9",
+      "md_span": {
+        "start": 47230,
+        "end": 47910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_120",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_120",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 120.",
+      "heading": null,
+      "path": [
+        "**Kapitel VIII.** — *Bestimmungen über die Staatsverwaltung*",
+        "**Abschnitt 3.** — *Die Beziehungen zwischen dem Staat und den Glaubensgemeinschaften*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Kirchen und Glaubensgemeinschaften sind vom Staat getrennt.\n\nDie Beziehungen zwischen dem Staat und den Kirchen und Glaubensgemeinschaften werden gesetzlich geregelt.\n\nInnerhalb der gesetzlich bestimmten Grenzen und Formen können Vereinbarungen, die von der Abgeordnetenkammer zu verabschieden sind, die Beziehungen zwischen dem Staat und den Kirchen und Glaubensgemeinschaften näher bestimmen.",
+      "text_sha256": "6fd3507d2f1fe31ac967dc26231ae85339ec89407094cb96d4b487dd10313eee",
+      "md_span": {
+        "start": 48041,
+        "end": 48439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_121",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_121",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 121.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *Die Gemeinden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Gemeinden bilden eigenständige Körperschaften auf territorialer Grundlage, besitzen Rechtspersönlichkeit und verwalten durch ihre Organe ihre eigenen Interessen und ihr eigenes Vermögen.\n\n**(2)** Die Zusammensetzung, die Organisation und die Kompetenzen der Gemeindeorgane werden gesetzlich bestimmt.",
+      "text_sha256": "b9d5953802eb8744ee0baf10a3c4ead8e8b12a1289b837ece1d1134167eeb0b5",
+      "md_span": {
+        "start": 48516,
+        "end": 48828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_122",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_122",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 122.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *Die Gemeinden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Jede Gemeinde hat einen Gemeinderat, der gemäß dem allgemeinen Wahlrecht direkt und in geheimer Wahl gewählt wird.\n\n**(2)** Die Gemeinde wird von einem Kollegium bestehend aus dem Bürgermeister und den Schöffen, welche unter den Mitgliedern des Gemeinderats in der per Gesetz bestimmten Form gewählt werden, verwaltet.",
+      "text_sha256": "20ad0e84df48d637f1754fca1fc97e2a9235351de2eb81acda76d452e9c9fba0",
+      "md_span": {
+        "start": 48867,
+        "end": 49193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_123",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_123",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 123.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *Die Gemeinden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Die Steuern zugunsten der Gemeinden werden per Gesetz festgelegt.\n\nUnter Einhaltung seiner verfassungsrechtlichen und gesetzlichen Befugnisse kann der Gemeinderat die zur Umsetzung des Interesses der Gemeinde erforderlichen Steuern und Gebühren festsetzen. Die Gemeindesteuern und -gebühren werden von der Aufsichtsbehörde genehmigt.\n\n**(2)** Der Gemeinderat erstellt jährlich den Haushalt der Gemeinde und schließt die entsprechenden Haushaltskonten ab.\n\n**(3)** Die Gemeinden haben ein Anrecht auf finanzielle Mittel zur Erfüllung der ihnen gesetzlich übertragenen Aufgaben.",
+      "text_sha256": "691dae783b5450ccadf0935ecc78eaa05bf4a1154d73d3afb93f3d1db1ddea3c",
+      "md_span": {
+        "start": 49232,
+        "end": 49816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_124",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_124",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 124.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *Die Gemeinden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Außer in Dringlichkeitsfällen erlässt der Gemeinderat die Gemeindeverordnungen.\n\nGemeindeverordnungen können in den Bereichen, die laut der Verfassung dem Gesetz vorbehalten sind, nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen werden, die das Ziel der Ausführungsbestimmungen und gegebenenfalls die Bedingungen, denen sie unterliegen, festlegt.\n\nDie Gemeindeverordnungen müssen den in Anwendung von Artikel 45 verabschiedeten Gesetzen und Verordnungen entsprechen.",
+      "text_sha256": "2e2e17100758608a164f3e31161be00d7ba8b9501af905fd662b3c98e4d74cb4",
+      "md_span": {
+        "start": 49855,
+        "end": 50335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_125",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_125",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 125.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *Die Gemeinden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Für die Erstellung der Personenstandsurkunden und das Führen der Register dieser Urkunden sind ausschließlich die gesetzlich bestimmten Organe der Gemeinde zuständig.\n\n**(2)** Das Statut der Gemeindebeamten wird gesetzlich bestimmt.",
+      "text_sha256": "7c2beab2f44475909615ef70cd768260ad458a5a8cb183830a23d0d945e59dc5",
+      "md_span": {
+        "start": 50374,
+        "end": 50614
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_126",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_126",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 126.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *Die Gemeinden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jede Gemeinde kann allein oder mit anderen Gemeinden innerhalb der Grenzen und gemäß der Art und Weise, die per Gesetz geregelt werden, öffentlich-rechtliche Einrichtungen gründen.",
+      "text_sha256": "42695e01b79e231b2f5d8d21170c614dd19dbeb435be02c3833a7f0c59cc39eb",
+      "md_span": {
+        "start": 50653,
+        "end": 50833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_127",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_127",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 127.",
+      "heading": null,
+      "path": [
+        "**Kapitel IX.** — *Die Gemeinden*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Aufsicht über die Gemeindeverwaltung wird per Gesetz geregelt, das abschließend bestimmt, welche Handlungen der Gemeindeorgane von der Aufsichtsbehörde zu genehmigen sind. Unbeschadet der Befugnisse der Gerichtshöfe oder Verwaltungsgerichte können per Gesetz bestimmte Handlungen der Gemeindeorgane der Genehmigung durch die Aufsichtsbehörde unterworfen werden.\n\nDer Regierungsrat kann den Gemeinderat im Interesse der Verwaltung der Gemeinde auflösen.",
+      "text_sha256": "6fea8cb689155445ebf7c7f237aa0ed2263c9ec447afb39285606a2211ea4c2e",
+      "md_span": {
+        "start": 50872,
+        "end": 51328
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_128",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_128",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 128.",
+      "heading": null,
+      "path": [
+        "**Kapitel X.** — *Öffentlich-rechtliche Einrichtungen des Staates und Berufsorgane*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Per Gesetz können öffentlich-rechtliche Einrichtungen gegründet werden, die eine eigene Rechtspersönlichkeit besitzen und unter der Aufsicht des Staates stehen.\n\n**(2)** Per Gesetz können Berufskammern gegründet werden, die eine eigene Rechtspersönlichkeit besitzen.\n\n**(3)** Per Gesetz können repräsentative Organe der freien Berufe gegründet werden und ihnen kann eine eigene Rechtspersönlichkeit zugestanden werden.",
+      "text_sha256": "33e4d40ee792ecb71f8875e37a74e16008533957ce004e692c8ca3453997fd5b",
+      "md_span": {
+        "start": 51455,
+        "end": 51881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_129",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_129",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 129.",
+      "heading": null,
+      "path": [
+        "**Kapitel X.** — *Öffentlich-rechtliche Einrichtungen des Staates und Berufsorgane*"
+      ],
+      "article_valid_from": null,
+      "text_md": "**(1)** Der Zweck, die Organisation und die Befugnisse der öffentlich-rechtlichen Einrichtungen, der Berufskammern und der Organe der freien Berufe, die eine eigene Rechtspersönlichkeit besitzen, werden gesetzlich bestimmt.\n\n**(2)** Innerhalb der Grenzen ihres Aufgabengebiets kann ihnen per Gesetz die Befugnis erteilt werden, Verordnungen zu erlassen.\n\nIn den Bereichen, die gemäß der Verfassung dem Gesetz vorbehalten sind, können diese Verordnungen nur aufgrund einer besonderen gesetzlichen Bestimmung erlassen werden, die das Ziel der Ausführungsbestimmungen und gegebenenfalls die Bedingungen, denen sie unterliegen, festlegt.\n\nDiese Verordnungen müssen den nach Artikel 45 verabschiedeten Gesetzen und Verordnungen entsprechen.",
+      "text_sha256": "03a1530d17a30d9d83f694ca2aa81e86d9eacfe3d461fbb57b611b27fdc8d719",
+      "md_span": {
+        "start": 51920,
+        "end": 52655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_130",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_130",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 130.",
+      "heading": null,
+      "path": [
+        "**Kapitel XI.** — *Die Änderung der Verfassung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Keine Bestimmung der Verfassung kann ausgesetzt werden.",
+      "text_sha256": "610a95525d30d9ecabdc8e68ddff8e9c2d746d1785d9575d5c2da2142f1a5f03",
+      "md_span": {
+        "start": 52746,
+        "end": 52801
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_131",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_131",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 131.",
+      "heading": null,
+      "path": [
+        "**Kapitel XI.** — *Die Änderung der Verfassung*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Jede Änderung der Verfassung muss mit dem gleichen Wortlaut von der Abgeordnetenkammer in zwei aufeinanderfolgenden Abstimmungen im Abstand von mindestens drei Monaten verabschiedet werden.\n\nKeine Änderung wird angenommen, wenn sie nicht mindestens zwei Drittel der Stimmen der Mitglieder der Abgeordnetenkammer auf sich vereint, wobei die Stimmabgabe per Vollmacht nicht zulässig ist.\n\nDer in erster Lesung von der Abgeordnetenkammer angenommene Text wird einem Referendum unterzogen, das die zweite Abstimmung der Kammer ersetzt, wenn innerhalb von zwei Monaten nach der ersten Abstimmung entweder von mehr als einem Viertel der Mitglieder der Abgeordnetenkammer oder von fünfundzwanzigtausend Wählern, die in den Wählerlisten für die Parlamentswahlen eingetragen sind, ein entsprechender Antrag gestellt wird. Die Änderung der Verfassung wird nur angenommen, wenn sie die Mehrheit der gültig abgegebenen Stimmen auf sich vereint. Die Modalitäten der Durchführung des Referendums werden gesetzlich geregelt.",
+      "text_sha256": "feaf1722ded39231be9f61346fe9b7c56d783816f1ffd3fb9c0e99a34acc9591",
+      "md_span": {
+        "start": 52840,
+        "end": 53849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_132",
+      "provision_id": "lu-legilux:constitution-1868-10-17-n1:2023-07-01#art_132",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 132.",
+      "heading": null,
+      "path": [
+        "**Kapitel XII.** — *Übergangsbestimmungen*"
+      ],
+      "article_valid_from": null,
+      "text_md": "Die Bestimmungen von Artikel 56 sind erstmals auf die Nachkommen Seiner Königlichen Hoheit Henri, Großherzog von Luxemburg, Herzog von Nassau, anwendbar.",
+      "text_sha256": "d76a4fda2e650fb631eb186c56af3dfcd1653a012cdc01e6ef7cda633c626dfe",
+      "md_span": {
+        "start": 53935,
+        "end": 54088
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

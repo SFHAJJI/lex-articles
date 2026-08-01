@@ -1,0 +1,768 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/03/2024 : Loi du 16 mai 1975 portant statut de la copropriété des immeubles bâtis.",
+  "valid_from": "2022-10-01",
+  "valid_to": "2023-07-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1975-05-16-n1/versions/2022-10-01/fr.xml",
+    "sha256": "bd9a44250509f79a867808cc28643d31bb48c9c8b44854e54f3f18aaae125411",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/consolide/20221001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_1er/19750526",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "La présente loi régit tout immeuble bâti ou groupe d’immeubles bâtis dont la propriété est répartie entre plusieurs personnes, par lots comprenant chacun une partie privative et une quote-part de parties communes.\n\nA défaut de convention contraire créant une organisation différente, elle régit encore tout ensemble immobilier comprenant outre des terrains, des aménagements et des services communs, des parcelles, bâties ou non, faisant l’objet de droits de propriété privatifs ainsi que tout terrain sur lequel la construction d’un bâtiment est commencée ou projetée, du moment que la propriété en est répartie entre plusieurs personnes dont chacune dispose d’un droit à un lot distinct comprenant une partie privative et une quote-part de parties communes du bâtiment.",
+      "text_sha256": "0bde4f733e15107735f2618b47c9d6da5eaeffa00c6f20763a996ed56ef0d11f",
+      "md_span": {
+        "start": 600,
+        "end": 1371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_2/19750526",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Le copropriétaire peut disposer de son lot et le grever de droits réels même avant tout aménagement ou construction.\n\nIl use et jouit librement des parties privatives et des parties communes sous la condition de ne porter atteinte ni aux droits des autres copropriétaires ni à la destination de l’immeuble.",
+      "text_sha256": "0b7b7d1ce1413b64e0fdb543db11cc5c25e4145095d6a1a419a7bef4bfcba4dd",
+      "md_span": {
+        "start": 1406,
+        "end": 1712
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_3/19850513",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "**1.** Sont privatives les parties des bâtiments et des terrains réservés à l’usage exclusif d’un copropriétaire déterminé. Elles sont la propriété exclusive du copropriétaire.\n\n**2.** Sont communes les parties des bâtiments et des terrains affectées à l’usage ou à l’utilité de tous les copropriétaires ou de plusieurs d’entre eux.\n\nDans le silence ou la contradiction des titres, sont réputés parties communes:\n\n- le sol, les cours, les parcs et jardins, les voies d’accès;\n- le gros oeuvre des bâtiments, les éléments d’équipement commun, y compris les parties de canalisations y afférentes qui traversent des locaux privatifs;\n- les coffres, gaines et têtes de cheminées;\n- les locaux des services communs;\n- les passages et corridors.\n- les terrasses, balcons, balustrades et garde-corps, à l’exclusion du revêtement superficiel des terrasses et balcons invisible de l’extérieur.\n\n3. Sont réputés droits accessoires aux parties communes dans le silence ou la contradiction des titres:\n\n- le droit de surélever un bâtiment affecté à l’usage commun ou comportant plusieurs locaux qui constituent des parties privatives différentes, ou d’en affouiller le sol;\n- le droit d’édifier des bâtiments nouveaux dans des cours, parcs ou jardins constituant des parties communes;\n- le droit de mitoyenneté afférent aux parties communes.\n\nLes droits accessoires aux parties communes ne peuvent être exercés que du consentement de tous les copropriétaires.\n\n**4.** Les cloisons ou murs, séparant des parties privatives et non compris dans le gros oeuvre, sont présumés mitoyens entre les locaux qu’ils séparent.",
+      "text_sha256": "fb4eafdd57a574b689d3ac8a7f71c16cfb1523fe68526b058389f29bd8889a71",
+      "md_span": {
+        "start": 1747,
+        "end": 3349
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_4/19750526",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Les parties communes sont l’objet d’une propriété indivise entre l’ensemble des copropriétaires ou certains d’entre eux seulement; leur administration et leur jouissance sont organisées conformément aux dispositions de la présente loi.",
+      "text_sha256": "94be66abeaa41bf5cf55ba53b4da95f85f4e8a09c1dd7337c0fd241501f32499",
+      "md_span": {
+        "start": 3384,
+        "end": 3619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_5/19850513",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Les parties communes et les droits qui leur sont accessoires ne peuvent faire l’objet, séparément des parties privatives, d’une action en partage ni d’une licitation forcée. Ils ne peuvent être aliénés, grevés de droits réels ou saisis qu’avec la partie privative dont ils sont l’accessoire.\n\nEn cas de modification dans les quotes-parts des parties communes afférentes aux lots, quelle qu’en soit la cause, les droits soumis à inscription ou à transcription dont les lots sont l’objet, s’éteignent sur les quotes-parts qui en sont détachées et s’étendent à celles qui y sont rattachées.\n\nEn cas de changement de l’emprise d’une copropriété résultant de l’aliénation volontaire ou forcée ou de l’acquisition de parties communes, les droits soumis à inscription ou à transcription, autres que les servitudes, dont les lots sont l’objet s’éteignent sur le bien cédé et s’étendent au bien acquis.\n\nToutefois, l’extension prévue à l’alinéa précédent, qui s’opère avec le rang attaché à l’inscription ou à la transcription primitive, n’a lieu que par l’inscription au registre des hypothèques de la déclaration faite par le syndic que le bien acquis est libre de tout droit de même nature au jour de la mutation ou qu’il est devenu libre de ces mêmes droits.",
+      "text_sha256": "d00aee7a3b51a6dfd5a80939f971046ca1406ba1e06f34f3771d70064c55bc17",
+      "md_span": {
+        "start": 3654,
+        "end": 4907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_6/19750526",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Dans le silence ou la contradiction des titres, la quote-part des parties communes afférente à chaque lot est proportionnelle à la valeur relative de chaque partie privative par rapport à l’ensemble des valeurs desdites parties, telles que ces valeurs résultent lors de l’établissement de la copropriété, de la consistance, de la superficie et de la situation des lots, sans égard à leur utilisation.",
+      "text_sha256": "9bdf8b44538ce7efe0250009ec326252a85b236cf43f802a6c06f37f999cdb5c",
+      "md_span": {
+        "start": 4942,
+        "end": 5342
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_7/19850513",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Les copropriétaires sont tenus de participer aux charges relatives à la conservation, à l’entretien et à l’administration des parties communes proportionnellement aux valeurs relatives des parties privates comprises dans leurs lots, telles que ces valeurs résultent des dispositions de l’article précédent.\n\nDes critères différents peuvent être retenus pour la répartition des charges entraînées par les éléments d’équipement commun. A défaut de convention y relative, les copropriétaires sont tenus d’y participer en fonction de l’utilité que ces éléments présentent à l’égard de chaque lot.\n\nL’assemblée des copropriétaires peut, à tout moment, à la majorité des voix de tous les copropriétaires, modifier les règles de répartition des différentes catégories de charges pour les adapter aux critères prévus par les dispositions qui précédent.\n\nLa charge de l’entretien d’une partie commune dont le règlement de copropriété réserve la jouissance à un copropriétaire n’incombe qu’à celui-ci. Lorsque cette jouissance est réservée à plusieurs copropriétaires, cette charge est répartie entre eux proportionnellement à la valeur relative de leurs droits de jouissance sur cette partie commune.\n\nLes dispositions du présent alinéa ne s’appliquent pas aux dépenses afférentes au gros oeuvre et notamment à l’étanchéité.",
+      "text_sha256": "858da5738e30f3c2cbaaa58f2464faced6aa1856612496d0da2dffb31fb0fff3",
+      "md_span": {
+        "start": 5377,
+        "end": 6692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_8/19850513",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "1. Sous réserve des dispositions de l’article précédent, la répartition des charges ne peut être modifiée qu’à l’unanimité des copropriétaires. Toutefois, lorsque des travaux ou des actes d’acquisition ou de disposition sont décidés par l’assemblée générale statuant à la majorité exigée par la loi, la modification de la répartition des charges ainsi rendue nécessaire peut être décidée par l’assemblée générale statuant à la même majorité.\n2. Lorsque les charges ne doivent être supportées que par certains copropriétaires, ceux-ci seuls prennent part aux votes concernant la modification ou l’établissement de la répartition.\n3. En cas d’aliénation séparée d’une ou plusieurs fractions d’un lot, la répartition des charges entre ces fractions est, lorsqu’elle n’est pas fixée par le règlement de copropriété, soumise à l’approbation de l’assemblée générale statuant à la majorité prévue à l’article 15.\n4. A défaut de décision de l’assemblée générale modifiant les bases de répartition des charges dans les cas prévus aux alinéas précédents, tout copropriétaire pourra saisir le tribunal d’arrondissement de la situation de l’immeuble à l’effet de faire procéder à la nouvelle répartition rendue nécessaire.\n5. La décision judiciaire arrêtant la nouvelle répartition des charges est opposable aux propriétaires de tous les lots intéressés; elle prend effet à compter du jour où elle est devenue irrévocable.",
+      "text_sha256": "ee22bf56e329de56d701d379ed03cd7616d5dc74ef2c0891ffe42f9804e57f4c",
+      "md_span": {
+        "start": 6727,
+        "end": 8137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_9/19750526",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "En l’absence de toute répartition conventionnelle des charges, chaque copropriétaire peut saisir le tribunal aux fins de voir procéder à une répartition conforme aux dispositions précédentes.\n\nL’action est intentée contre le syndicat, tous les copropriétaires appelés en cause.",
+      "text_sha256": "c3f43949aaa613cd907a73cbcf51f4fec0bd764b883608f6efb0d4ece48d1979",
+      "md_span": {
+        "start": 8172,
+        "end": 8449
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_10/19850513",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "1. Un règlement de copropriété, objet d’une convention générale ou de l’engagement de chacun des intéressés, détermine la destination des parties tant privatives que communes, ainsi que les conditions de leur jouissance; il établit également, sous réserve des dispositions de la présente loi, les règles relatives à l’administration des parties communes et fixe la quote-part des charges afférente à chaque lot.\n2. Le règlement de copropriété ne peut imposer aucune restriction aux droits des copropriétaires en dehors de celles qui seraient justifiées par la destination de l’immeuble, telle qu’elle est définie aux actes, par ses caractères ou sa situation.\n3. Toute clause étrangère à l’objet du règlement de copropriété tel qu’il est défini au présent article est réputée non écrite.\n4. A l’égard toutefois des ayants cause à titre particulier des parties au règlement, celui-ci n’est obligatoire qu’après avoir été transcrit sur les registres du conservateur des hypothèques de la circonscription dans laquelle l’immeuble est situé. Il en est de même des additions ou modifications apportées au règlement existant La transcription a lieu dans les formes de la loi du 25 septembre 1905 sur la transcription des droits réels immobiliers.\n5. Dans les copropriétés où il n’existe pas de règlement de copropriété, le syndicat doit établir et faire publier un règlement de copropriété conformément à la présente loi. A défaut par l’assemblée générale d’en arrêter le texte à la majorité prévue à l’article 17, tout copropriétaire peut demander au tribunal civil de procéder à son établissement.",
+      "text_sha256": "2c56b5c3b22b45605fefdbf8527598dbe886b569e5b916ae1ca3be1f65efc4a6",
+      "md_span": {
+        "start": 8486,
+        "end": 10079
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1905/09/25/n1/jo",
+          "text": "loi du 25 septembre 1905"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_11/19850513",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "L’ensemble des copropriétaires est obligatoirement et de plein droit groupé dans un syndicat, représentant légal de la collectivité, doté de la personnalité juridique.\n\nCe syndicat a pour objet la conservation de l’immeuble et l’administration des parties communes. Il établit, s’il y a lieu, et modifie le règlement de copropriété. Il est responsable des dommages causés aux copropriétaires ou aux tiers par le vice de construction ou le défaut d’entretien des parties communes, sans préjudice de toutes actions récursoires,\n\nToute clause du règlement de copropriété, étrangère à l’objet du syndicat, tel qu’il est défini à l’alinéa précédent, est réputée non écrite.",
+      "text_sha256": "3237d349a2aa28036fefdbdec5ec25ba3433f3d2b95f3d6acbeca5131f1d56e9",
+      "md_span": {
+        "start": 10116,
+        "end": 10784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_12/19750526",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Le syndicat a qualité pour agir en justice, tant en demandant qu’en défendant ,même contre certains des copropriétaires; il peut notamment agir, conjointement ou non avec un ou plusieurs de ces derniers, en vue de la sauvegarde des droits afférents à l’immeuble.\n\nTout copropriétaire peut néanmoins exercer seul les actions concernant la propriété ou la jouissance de son lot. Il doit en informer le syndic, lorsque le même fait donne également ouverture au droit d’action du syndicat.",
+      "text_sha256": "3d702236a597907a1531e7b5d06c98f7943014c4d0263b89e3231a20cac5d477",
+      "md_span": {
+        "start": 10821,
+        "end": 11306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_13/19850513",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Tous actes d’acquisition ou d’aliénation des parties communes ou de constitution de droits réels immobiliers au profit ou à la charge de ces dernières, à la condition qu’ils aient été décidés conformément aux dispositions de l’article 17 sont valablement passés par le syndicat lui-même et de son chef.\n\nLe syndicat peut acquérir lui-même, à titre onéreux ou gratuit, des parties privatives sans que celles-ci perdent pour autant leur caractère privatif. Il peut les aliéner dans les conditions prévues à l’alinéa précédent. Il ne dispose pas de voix, en assemblée générale, au titre des parties privatives acquises par lui.\n\nLes sommes représentant le prix des parties communes cédées se divisent de plein droit entre les copropriétaires dans les lots desquels figuraient ces parties communes et proportionnellement à la quotité de ces parties afférentes à chaque lot.\n\nLa part du prix revenant à chaque copropriétaire lui est remise directement par le syndic, nonobstant l’existence de toute sûreté grevant son lot.",
+      "text_sha256": "70ba117c14d45b870dddcd35f82de0e28f9c1e32afb8d0794dd33c73b0ff42be",
+      "md_span": {
+        "start": 11343,
+        "end": 12360
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_14/19850513",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "1. Néanmoins, les décisions relatives à l’entretien et la réfection des parties communes, même s’il s’agit du remplacement d’un élément hors état de servir par une installation plus perfectionnée, peuvent être prises hors assemblée par voie de consultation écrite, à condition que le syndic ait soumis tous les éléments d’appréciation nécessaires et notamment le coût des travaux. Le recours à ce procédé doit être autorisé préalablement par le conseil syndical, s’il en existe.\n2. L’exécution des décisions du syndicat est confiée à un syndic placé éventuellement sous le contrôle d’un conseil syndical.\n3. A l’expiration de ses fonctions, il ne peut poursuivre ses activités qu’en vertu d’une décision formelle de l’assemblée générale. Il a toutefois qualité, en attendant cette décision, d’accomplir tous actes conservatoires dans l’intérêt du syndicat et peut convoquer l’assemblée générale en vue de pourvoir à la vacance.\n4. Le syndic représente le syndicat dans tous les actes civils et en justice. Les actes de procédure concernant le syndicat des copropriétaires sont régulièrement signifiés, suivant les cas, au syndic ou à la requête de celui-ci.\n5. Le syndic ne peut intenter une action en justice au nom du syndicat sans y avoir été autorisé par une décision de l’assemblée générale, sauf lorsqu’il s’agit d’une action en recouvrement de créance même par voie d’exécution forcée ou lorsqu’il y a urgence ne permettant pas la convocation d’une assemblée générale dans les délais ou lorsqu’il s’agit d’assurer l’observation et l’exécution du règlement de copropriété.\n6. A l’occasion de tous litiges dont est saisie une juridiction et qui concernent le fonctionnement d’un syndicat ou dans lesquels le syndicat est partie, le syndic avise chaque copropriétaire de l’existence et de l’objet de l’instance.",
+      "text_sha256": "6c5f1113bdc6fd29f15e56a08a3e350037b4556291b16e6736b098498eee5620",
+      "md_span": {
+        "start": 12397,
+        "end": 14212
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_15/19750526",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Les décisions de l’assemblée générale sont prises à la majorité des voix des copropriétaires présents ou réprésentés par un mandataire régulier, tous les copropriétaires dûment convoqués, s’il n’en est autrement ordonné par la loi.",
+      "text_sha256": "e951f2397b731a474670f88e8e11e937f208cbd17e5af8e1f60e2218b93eef66",
+      "md_span": {
+        "start": 14249,
+        "end": 14480
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_16/20221001",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-10-01",
+      "text_md": "Ne sont adoptées qu’à la majorité des voix de tous les copropriétaires, les décisions concernant:\n\n1. toute délégation du pouvoir de prendre l’une des décisions visées à l’article précédent;\n2. l’autorisation à donner à certains copropriétaires d’effectuer à leurs frais des travaux affectant les parties communes ou l’aspect extérieur de l’immeuble, et conformes à la destination de celui-ci; en cas de refus, le juge peut autoriser ce ou ces copropriétaires à exécuter ces travaux s’ils ne sont pas de nature à nuire à la solidité ou à l’esthétique de l’immeuble, ou à gêner les autres copropriétaires.\n3. la désignation ou la révocation du syndic et des membres du conseil syndical.\n4. les travaux de réparation, de réfection ou de remplacement qui comportent une amélioration ou une transformation d’éléments d’équipement existants: lorsque le règlement de copropriété met les dépenses relatives à ces travaux à la charge de certains copropriétaires seulement, ceux-ci seuls prennent part au vote avec un nombre de voix proportionnel à leur participation auxdites dépenses.\n5. les travaux de rénovation énergétique ;\n6. les travaux de réalisation d’infrastructures dans les parties communes en préparation pour l’installation de gaines techniques ;\n7. les travaux de réalisation d’installations de production et de stockage d’énergie à partir de sources d’énergie renouvelables dans les parties communes.\n\nA défaut de décision prise dans les conditions de majorité prévues au présent article, une nouvelle assemblée générale statue dans les conditions prévues à l’article précédent.",
+      "text_sha256": "d0741ea8b90ab0c9f0ec2951ff8041d19a803d8353f4bb95428c1b7388122c22",
+      "md_span": {
+        "start": 14517,
+        "end": 16103
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_17/20221001",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-10-01",
+      "text_md": "Sont prises à la majorité des membres du syndicat représentant au moins les trois quarts des voix les décisions concernant;\n\n1. les actes d’acquisition immobilière et les actes de disposition;\n2. la modification, ou éventuellement l’établissement, du règlement de copropriété dans la mesure où il concerne la jouissance, l’usage et l’admintstration des parties communes;\n3. loi du 22 mars 2017 loi modifiée du 16 mai 1975",
+      "text_sha256": "807de627a8dfcaa5e49fd07785df42af433da50a349c83841f10209fc5b41ede",
+      "md_span": {
+        "start": 16140,
+        "end": 16561
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_18/19750526",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "L’assemblée générale ne peut, à quelque majorité que ce soit, imposer à un copropriétaire une modification à la destination de ses parties privatives ou aux modalités de leur jouissance, telles qu’elles résultent du règlement de copropriété,\n\nElle ne peut, sauf à l’unanimité des voix de tous les copropriétaires, décider l’aliénation des parties communes dont la conservation est nécessaire au respect de la destination de l’immeuble.",
+      "text_sha256": "f96afa97552f2bdb3e1d3b722807afbb78994493e362e68c69edfbb5fce11f79",
+      "md_span": {
+        "start": 16598,
+        "end": 17033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_19/19850513",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Chaque copropriétaire dispose d’un nombre de voix correspondant à sa quote-part dans les parties communes. Toutefois, lorsqu’un copropriétaire possède une quote part des parties communes supérieure à la moitié,le nombre de voix dont il dispose est réduit à la somme des voix des autres copropriétaires.\n\nTout copropriétaire peut déléguer son droit de vote à un mandataire.\n\nLorsque le règlement de copropriété met à la charge de certains copropriétaires seulement les dépenses d’entretien d’une partie de l’immeuble ou celles d’entretien et de fonctionnement d’un élément d’équipement, ces copropriétaires participent seuls, au cours de l’assemblée générale ou d’une assemblée spéciale, au vote sur les décisions qui concernent ces dépenses.\n\nChacun d’eux vote alors avec un nombre de voix proportionnel à sa participation auxdites dépenses.",
+      "text_sha256": "39eaf541effc8f4e60db199941dc68fd0870b14fc142def3f7bd4df5cc69301c",
+      "md_span": {
+        "start": 17070,
+        "end": 17911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19-1",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_19-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_19_1/19850513",
+      "type": "article",
+      "num": "Art. 19-1.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Si l’assemblée générale ne peut adopter une résolution en raison d’un partage égal des voix, la décision prise est celle pour laquelle a voté le plus grand nombre de copropriétaires.\n\nS’il y a partage égal tant des voix que des copropriétaires, il est immédiatement procédé à un deuxième vote.\n\nSi, après ce deuxième vote, il y a toujours partage, tout copropriétaire peut saisir le tribunal d’arrondissement à l’effet de départager les copropriétaires et d’habiliter le syndic à exécuter la décision ainsi rendue.",
+      "text_sha256": "722c8a737f05eee38eb9aa9149d151673617f63736117d0054cedaa71c4ab399",
+      "md_span": {
+        "start": 17952,
+        "end": 18466
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_20/19750526",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Le syndic exécute les décisions de l’assemblée générale.\n\nDans les cas où, avant la réunion de la première assemblée générale, un syndic a été désigné par le règlement de copropriété ou par tout autre accord des parties, cette désignation doit être soumise à la ratification de cette première assemblée générale.\n\nA défaut de nomination, le syndic est désigné par ordonnance du président du tribunal de l’arrondissement dans lequel l’immeuble est situé, sur requête de l’un des copropriétaires, les autres entendus ou dûment appelés.\n\nSes pouvoirs sont révoqués suivant la manière dont il a été nommé, par le syndicat des copropriétaires ou par une ordonnance du président du tribunal d’arrondissement auxquels les différents copropritaires avertis au préalable pourront faire connaître leur avis.\n\nLa rémunération du syndic judiciaire est déterminée par l’ordonnance de nomination.\n\nSes fonctions cessent de plein droit à compter de l’acceptation de son mandat par le syndic désigné par l’assemblée générale.",
+      "text_sha256": "d9ea3d5343c88c0dd2477c0df89dd0b23e3797e153eff17feba66d4e26fe0d2f",
+      "md_span": {
+        "start": 18503,
+        "end": 19512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_21/19750526",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Indépendamment des pouvoirs qui lui sont conférés par d’autres dispositions de la présente loi ou par une délibération spéciale de l’assemblée générale, le syndic est chargé:\n\n- d’assurer l’exécution des dispositions du règlement de copropriété et des délibérations de l’assemblée générale;\n- d’administrer l’immeuble, de pourvoir à sa conservation, à sa garde et à son entretien et, en cas d’urgence, de faire procéder de sa propre initiative à l’exécution de tous travaux nécessaires à la sauvegarde de celui-ci.",
+      "text_sha256": "afc8c2ae98b41c41a968c8ea9bacf906402540f9d1aa68db6d96a3a4bfe353a2",
+      "md_span": {
+        "start": 19549,
+        "end": 20063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_22/19850513",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "En cas d’empêchement du syndic pour quelque cause que ce soit ou en cas de carence de sa part à exercer sa mission et à défaut de stipulation du règlement de copropriété, tout intéressé peut, après mise en demeure du syndic restée infructueuse pendant quinze jours, demander au président du tribunal d’arrondissement de charger de tout ou partie de cette mission et pour un temps déterminé, soit un membre du conseil syndical, soit, s’il n’y a pas de conseil syndical ou si aucun de ses membres n’accepte cette mission, un administrateur provisoire.\n\nLe président statue comme en matière de référés sur assignation donnée au syndic.\n\nLorsque, pour quelque cause que ce soit, le syndicat se trouve dépourvu de syndic, le président du conseil syndical ou, à défaut, tout membre de ce conseil, procède à la convocation de l’assemblée générale en vue de la désignation du syndic. Jusqu’à l’entrée en fonction du nouveau syndic, le conseil syndical est chargé d’accomplir les actes de gestion courante, y compris les appels de fonds, et les actes nécessités par l’urgence. Les décisions du conseil syndical sont exécutées par son président. Lorsqu’il n’a pas été institué de conseil syndical, le droit de convoquer l’assemblée générale et le droit d’accomplir les actes susmentionnés appartiennent à toute personne désignée par accord des copropriétaires représentant au moins le tiers des membres du syndicat. A défaut d’un tel accord, tout copropriétaire peut demander, par voie de requête au président du tribunal, la désignation d’un administrateur provisoire qui dispose du pouvoir d’accomplir les actes susmentionnés.",
+      "text_sha256": "69b11afbe082ba68799c6cf3a7f9011f182146507e0e14d438c50ac0f4f7743a",
+      "md_span": {
+        "start": 20100,
+        "end": 21718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_23/19750526",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Un conseil syndical peut à tout moment être institué, en vue d’assister le syndic et de contrôler sa gestion,\n\nA défaut de désignation dans les conditions prévues à l’article 16 le conseil syndical peut être désigné par ordonnance du président du tribunal de l’arrondissement dans lequel est situé l’immeuble, sur requête de l’un des copropriétaires, les autres entendus ou dûment appelés.",
+      "text_sha256": "bc494835ebacaa894228782ccd471f5459eefe26c27402cf55145e815318d77a",
+      "md_span": {
+        "start": 21755,
+        "end": 22144
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_24/19750526",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Les créances de toute nature du syndicat à l’encontre de chaque copropriétaire sont, qu’il s’agisse de provision ou de paiement définitif, garanties par une hypothèque légale sur son lot. L’hypothèque est inscrite après mise en demeure restée infructueuse d’avoir à payer une dette devenue exigible. Elle prend rang du jour de son inscription.\n\nLe syndic a qualité pour faire inscrire cette hypothèque au profit du syndicat; il peut valablement en consentir la mainlevée et requérir la radiation, en cas d’extinction de la dette, sans intervention de l’assemblée générale.\n\nLe copropriétaire défaillant peut, même en cas d’instance au principal, sous condition d’une offre de paiement suffisante ou d’une garantie équivalente, demander mainlevée totale ou partielle au président du tribunal d’arrondissement statuant comme en matière de référé.\n\nAucune inscription ou inscription complémentaire ne peut être requise pour des créances exigibles depuis plus de cinq ans.\n\nLes créances visées à l’alinéa 1er bénéficient en outre du privilège prévu par l’article 2102 — 1° du Code civil en faveur du bailleur. Ce privilège porte surtout ce qui garnit les lieux, sauf si ces derniers font l’objet d’une location non meublée. Dans ce dernier cas, il est reporté sur les loyers dus par le locataire.\n\nLes dispositions des articles 819, 821, 824 et 825 du Code de procédure civile sont applicables au recouvrement des créances visées à l’alinéa qui précède.",
+      "text_sha256": "ac0b8e1a64957216a10346d228d4e963dd5b7fd6fc3b4c7cf96ad614d6125599",
+      "md_span": {
+        "start": 22181,
+        "end": 23630
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_25/19850513",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Lors de la mutation à titre onéreux d’un lot, et si le vendeur n’a pas présenté au notaire un certificat du syndic ayant moins d’un mois de date, attestant qu’il est libre de toute obligation à l’égard du syndicat, avis de la mutation doit être donné au syndic de l’immeuble, par lettre recommandée avec avis de réception, à la diligence de l’acquéreur. Avant l’expiration d’un délai de huit jours à compter de la réception de cet avis, le syndic peut former, au domicile élu par acte extrajudiciaire, opposition au versement des fonds pour obtenir le paiement des sommes restant dues par l’ancien propriétaire. Cette opposition, à peine de nullité, énoncera le montant et les causes de la créance et contiendra élection de domicile dans le ressort du tribunal d’arrondissement de la situation de l’immeuble. Aucun paiement ou transfert amiable ou judiciaire de tout ou partie du prix ne sera opposable au syndic ayant fait opposition dans ledit délai. Il en est de même au cas où l’avis de la mutation n’a pas été donné au syndic.\n\nL’acquéreur d’un lot est solidairement tenu avec le vendeur des charges restant dues au titre de l’exercice clos et des mois de l’exercice en cours.",
+      "text_sha256": "b92bafd7130f49357e9adb73e4858969b1bbd0fb01c1b03c91e6df7e413139e9",
+      "md_span": {
+        "start": 23667,
+        "end": 24848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_26/19850513",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "L’assemblée générale des copropriétaires, statuant à la double majorité prévue à l’article 17, peut, à condition qu’elle soit conforme à la destination de l’immeuble, décider toute amélioration, tels que l’adjonction d’éléments d’équipement nouveaux, l’aménagement de locaux affectés à l’usage commun ou la création de tels locaux.\n\nA la même majorité elle fixe la répartition du coût des travaux et de la charge des indemnités prévues à l’article 31 ci-après, en proportion des avantages qui résulteront des travaux envisagés pour chacun des copropriétaires sauf à tenir compte de l’accord de certains d’entre eux pour supporter une part plus grande.\n\nElle fixe, à la même majorité, la répartition des dépenses de fonctionnement,d’entretien et de remplacement des parties communes ou des éléments transformés ou créés.",
+      "text_sha256": "94d227fa5b28e8d0c9731618bc8bcb3cde582f448b8847dd74caa71c6ec152b5",
+      "md_span": {
+        "start": 24885,
+        "end": 25704
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_27/19850513",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Lorsque l’assemblée générale refuse d’autoriser un ou plusieurs copropriétaires à exécuter dans les parties communes des travaux d’amélioration visés à l’article 26 ci-dessus, ce ou ces copropriétaires peuvent être autorisés par le tribunal d’arrondissement à les accomplir aux conditions qu’il fixe.\n\nLorsqu’il est possible de réserver l’usage des installations à celui ou à ceux des copropriétaires qui les ont exécutées, les autres copropriétaires ne peuvent être autorisés à les utiliser qu’en versant leur quote-part du coût des travaux, évalués à la date où cette faculté est exercée. Si l’usage des installations ne peut être réservé à celui ou à ceux des copropriétaires qui les ont exécutés, ceux-ci supportent seuls le coût des travaux, mais le tribunal fixe les conditions dans lesquelles les autres copropriétaires peuvent utiliser les installations ainsi réalisées, et notamment leur participation aux dépenses d’entretien, de fonctionnement, de réfection et de réparation.",
+      "text_sha256": "e0825d1cb91ecc5e17d97236ef53af5993a44c164d696ceccd4fd509aa584cbd",
+      "md_span": {
+        "start": 25741,
+        "end": 26727
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_28/19850513",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Aucun des copropriétaires ou de leurs ayants droit ne peut faire obstacle à l’exécution, même à l’intérieur de ses parties privatives, des travaux régulièrement et expressément décidés par l’assemblée générale en vertu des articles 16 d) et 26.",
+      "text_sha256": "c1cc32b6fd64a6110ba1cfc41654b134283c260b6ac92f86c068e3c57aad0e87",
+      "md_span": {
+        "start": 26764,
+        "end": 27008
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_29/19750526",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "La décision prévue à l’article 26 n’est pas opposable au copropriétaire opposant qui a, dans le délai prévu à l’article 34, alinéa 2, saisi le tribunal civil en vue de faire reconnaître que l’amélioration décidée présente un caractère somptuaire eu égard à l’état,aux caractéristiques et à la destination de l’immeuble.",
+      "text_sha256": "13d6506c60c32cb5219a9bcc9c93183afcd07fcea80fa6a91587abdf1b39e282",
+      "md_span": {
+        "start": 27045,
+        "end": 27364
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_30/19850513",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "La surélévation ou la construction de bâtiments aux fins de créer de nouveaux locaux à usage privatif ne peut être réalisée par les soins du syndicat que si la décision en est prise à l’unanimité de ses membres.\n\nLa décision d’aliéner aux mêmes fins le droit de surélever un bâtiment existant exige, outre la majorité prévue à l’article 17, l’accord des copropriétaires de l’étage supérieur du bâtiment à surélever, et, si l’immeuble comprend plusieurs bâtiments, la confirmation par une assemblée spéciale des copropriétaires des lots composant le bâtiment à surélever, statuant à la majorité indiquée ci-dessus.\n\nLa modification corrélative des quotes-parts de droits dans les parties communes est décidée à la majorité de l’article 17.\n\nSi le règlement de copropriété stipule une majorité supérieure pour prendre la décision prévue à l’alinéa précédent, cette clause ne peut être modifiée qu’à cette même majorité.",
+      "text_sha256": "12b7b86a0bb0e2727ab4ea0f440c114314b68aa981bbb44e0eeb50a7e9f81efa",
+      "md_span": {
+        "start": 27401,
+        "end": 28318
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_31/19750526",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Les copropriétaires qui subissent un préjudice par suite de l’exécution des travaux, en raison, soit d’une diminution définitive de la valeur de leur lot, soit d’un trouble de jouissance grave, même s’il est temporaire, soit de dégradations, ont droit à une indemnité.\n\nCette indemnité, qui est à la charge de l’ensemble des copropriétaires, est répartie, s’il s’agit de travaux décidés dans les conditions prévues à l’article 26 en proportion de la participation de chacun au coût des travaux et, s’il s’agit de travaux de surélévation prévus à l’article 30, selon la proportion initiale des droits de chacun dans les parties communes.",
+      "text_sha256": "da4efce3efd5a6a080feae9b1b576ebfcc2d395da7535468a62dc70d620c136e",
+      "md_span": {
+        "start": 28355,
+        "end": 28991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_32/19750526",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "En cas de destruction totale ou partielle, l’assemblée générale des copropriétaires peut décider à la majorité des voix des copropriétaires, la reconstruction du bâtiment ou la remise en état de la partie endommagée. Dans le cas où la destruction affecte des lots représentant moins de la moitié des voix de tous les copropriétaires dont les parties privatives composent le bâtiment sinistré la remise en état est obligatoire si la majorité des copropriétaires sinistrés la demande. Les copropriétaires qui participent à l’entretien des bâtiments ayant subi les dommages sont tenus de participer dans les mêmes proportions et suivant les mêmes règles aux dépenses des travaux.\n\nDans le cas où le syndicat déciderait la reconstruction, les indemnités représentatives de l’immeuble détruit seront, sous réserve des droits des créanciers inscrits, affectées par priorité à la reconstruction ou à la réparation et les paiements libératoires ne peuvent s’opérer que sur le vu des pièces justificatives.\n\nLes indemnités représentatives de l’immeuble détruit, si elles ne sont pas employées à la reconstruction ou à la réparation de l’immeuble assuré, sont affectées au paiement des créances privilégiées et hypothécaires selon le rang de chacune d’elles.",
+      "text_sha256": "c01423e942fa2a7affdb983319900e42d18cf6ac9ff3dabde5f98f2c4d58e623",
+      "md_span": {
+        "start": 29028,
+        "end": 30276
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_33/19750526",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Si la décision est prise, dans les conditions prévues à l’article précédent, de ne pas remettre en état le bâtiment sinistré, il est procédé à la liquidation des droits dans la copropriété et à l’indemnisation de ceux des copropriétaires dont le lot n’est pas reconstitué.",
+      "text_sha256": "81852ea53a9cc58f4803ebab0dbd9d222046a2d7719cea22b512bbb7b774d8f0",
+      "md_span": {
+        "start": 30313,
+        "end": 30585
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33-1",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_33-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_33_1/19850513",
+      "type": "article",
+      "num": "Art. 33-1.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Est nulle toute convention par laquelle un propriétaire ou un tiers se réserve l’exercice de l’un des droits accessoires visés à l’article 3.3.\n\nLa convention portant sur le droit de construire des bâtiments nouveaux dans les cours, parcs ou jardins est toutefois licite si elle indique l’importance et la consistance des constructions à ériger et les modifications que leur exécution entraînerait dans les droits et charges des copropriétaires. Elle devient caduque si le droit n’a pas été exercé dans les dix années.",
+      "text_sha256": "7ea93151c81edef935c22790cb1b00fc8514780b95cc62a9469f36105cbfc5e7",
+      "md_span": {
+        "start": 30626,
+        "end": 31144
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_34/19750526",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Sans préjudice de l’application des textes spéciaux, fixant des délais plus courts, les actions personnelles nées de l’application de la présente loi entre des copropriétaires, ou entre un copropriétaire et le syndicat, se prescrivent par dix ans.\n\nLes actions qui ont pour objet de contester les décisions des assemblées générales doivent à peine de déchéance, être introduites par las copropriétaires opposants ou défaillants dans un délai de deux mois à compter de la notification desdites décisions qui leur est faite à la diligence du syndic.\n\nEn cas de modification par l’assemblée générale des bases de répartition des charges dans les cas où cette faculté lui est reconnue par la présente loi, le tribunal civil, saisi par un copropriétaire, dans le délai prévu ci-dessus, d’une contestation relative à cette modification, pourra, si l’action est reconnue fondée, procéder à la nouvelle répartition. Il en est de même en ce qui concerne les répartitions votées en application de l’article 26.",
+      "text_sha256": "20e4a2052346cc372b77d185a7b766dd68236df0ea187a2454b49aac2fcbd421",
+      "md_span": {
+        "start": 31181,
+        "end": 32181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_35/19750526",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Tous les litiges nés de l’application de la présente loi sont de la compétence de la juridiction du lieu de la situation de l’immeuble.",
+      "text_sha256": "6c74f9a6c9fd9281e28b0dfb8627e05054bfb546db79251e1d245b7379ff2ce5",
+      "md_span": {
+        "start": 32218,
+        "end": 32353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_36/19750526",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "L’article 664 du Code civil est abrogé.",
+      "text_sha256": "88ff35cfdb804e5eeea1bb1fc29275af531c236cbac1542618ecdbfdba6d4126",
+      "md_span": {
+        "start": 32390,
+        "end": 32429
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_37/19750526",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "L’article 2205 du Code civil est abrogé et remplacé par la disposition suivante:",
+      "text_sha256": "a745cc21bea58d6992f9cb5331a79c2f8d58943c4cea38db8029c99e1f960c52",
+      "md_span": {
+        "start": 32466,
+        "end": 32546
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_38/19750526",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "L’article 13 de la loi du 29 mai 1906 sur les habitations à bon marché est complété par un alinéa 3 conçu comme suit:",
+      "text_sha256": "7ea73f8ba7c52381d25ec0abd5cbc9b2c54300dd42eb6a3b638d8cf90686b387",
+      "md_span": {
+        "start": 32583,
+        "end": 32700
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1906/05/29/n4/jo",
+          "text": "loi du 29 mai 1906"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_39/19750526",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1975-05-26",
+      "text_md": "Un règlement d’administration publique prescrira les mesures d’exécution de la présente loi et réglera notamment la convocation et la tenue des assemblées, la gestion du syndic et le fonctionnement du conseil syndical.",
+      "text_sha256": "d5a92a0281df2f15bc6cb0dce8be99802920cd8a9a07f23e95196708c0387dc2",
+      "md_span": {
+        "start": 32737,
+        "end": 32955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1975-05-16-n1:2022-10-01#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/art_40/19850513",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1985-05-13",
+      "text_md": "Toutes clauses contraires aux articles 2, 3 paragraphe 4, 5, 6, 7 alinéas 1er et 3, 8 à 31 -1, 34 et 35 sont réputées non écrites.",
+      "text_sha256": "f4098b465b990478a295b7ae8474c9b8691c438c2dde2856b1182f6c934adac4",
+      "md_span": {
+        "start": 32992,
+        "end": 33122
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

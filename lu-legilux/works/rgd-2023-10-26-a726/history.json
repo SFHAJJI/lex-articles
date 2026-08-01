@@ -1,0 +1,28 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2023-10-26-a726",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2023-11-16",
+        "valid_to": null,
+        "text_sha256": "09a719a0becb70b971ed01e696c0af3d5cb76af60fbc6d5d155ebe60212e5c76",
+        "in_version": "lu-legilux:rgd-2023-10-26-a726:2023-11-16",
+        "article_valid_from": "2023-11-16"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2023-11-16",
+        "valid_to": null,
+        "text_sha256": "25eaefa4281a53396e432e3900ea41c832d21c3a5f8197e57966d92eff5b04bd",
+        "in_version": "lu-legilux:rgd-2023-10-26-a726:2023-11-16",
+        "article_valid_from": "2023-11-16"
+      }
+    ]
+  },
+  "anchor_events": []
+}

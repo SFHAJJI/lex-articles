@@ -1,0 +1,144 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-05-14-n3:2011-05-17",
+  "language": "fr",
+  "title": "Version consolidée applicable au 05/12/2010 : Règlement grand-ducal du 14 mai 2009 déterminant les modalités suivant lesquelles un enfant peut être admis dans une école d'une commune autre que sa commune de résidence ainsi que le mode de calcul des frais de scolarité.",
+  "valid_from": "2011-05-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-05-14-n3/versions/2011-05-17/fr.xml",
+    "sha256": "1581c4a13e56a3b2e3e51002c9361f1b22c5669c75a979f57e06e6ba15cb63b1",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/14/n3/consolide/20110517/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-05-14-n3:2011-05-17#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les parents qui entendent faire scolariser leur enfant dans l'école d'une autre commune que celle de leur résidence adressent, avant le 1er mai de l'année précédant la rentrée scolaire, une demande écrite et motivée au collège des bourgmestre et échevins de la commune où ils entendent faire scolariser leur enfant.",
+      "text_sha256": "3f12a43e11053d3ad33f98af96edbc4b4dcb24cca230c5795b0e9f273c5c363b",
+      "md_span": {
+        "start": 744,
+        "end": 1059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-05-14-n3:2011-05-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le collège des bourgmestre et échevins communique sa décision aux parents avant le 15 mai.\n\nEn cas d'acceptation de la demande, les parents en informent la commune d'origine dans la huitaine, l'enfant est inscrit par l'administration communale concernée sur la liste des enfants scolarisés dans la commune pour l'année scolaire en question.",
+      "text_sha256": "00cf1240186c46b1c3ff867710458be4d40f31c98533ea9b6ab1a60bc9ea4e50",
+      "md_span": {
+        "start": 1094,
+        "end": 1434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-05-14-n3:2011-05-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le retour d'un élève dans l'école de sa commune de résidence se fait sur simple information par les parents de l'administration communale de résidence. L'enfant est inscrit d'office sur la liste des élèves pour l'année scolaire en question. L'administration communale en informe la commune où l'enfant était scolarisé durant l'année scolaire en cours.\n\n(Règl. g.-d. du 28 avril 2011)",
+      "text_sha256": "75321a98d48b514dfe380550cc6246902172ac7442c07e2a1d31bf3ef64ae4b3",
+      "md_span": {
+        "start": 1469,
+        "end": 1852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-05-14-n3:2011-05-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tout changement d'école intervenant au cours de l'année scolaire est notifié à l'inspecteur respectif par les titulaires de l'ancienne et de la nouvelle classe fréquentée par l'enfant. Chaque entrée et sortie d'enfant au cours de l'année est saisie dans le système de gestion des élèves par le titulaire des classes concernées.",
+      "text_sha256": "903f5d0d0debc8667eee245a20273e0402d36858d6644be546fbceef18b85937",
+      "md_span": {
+        "start": 1887,
+        "end": 2214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-05-14-n3:2011-05-17#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lors d'un changement d'école la transmission des données scolaires de l'enfant, et notamment son dossier d'évaluation, de l'école d'origine à l'école d'accueil se fait par l'intermédiaire des présidents du comité d'école.\n\nSi l'enfant part sans indiquer la nouvelle école où il sera scolarisé, les documents visés ci-dessus sont gardés à l'école.\n\nSi l'enfant part pour une école à l'étranger, les documents sont remis aux parents à leur demande.",
+      "text_sha256": "a429eda2395aab360546c47ec5b654c60ee93f1e62d2be0252aa996acab7e9ba",
+      "md_span": {
+        "start": 2249,
+        "end": 2695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-05-14-n3:2011-05-17#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement grand-ducal entre en vigueur à partir de l'année scolaire 2009/2010.",
+      "text_sha256": "4ff389eff34f093b66299c7347bf2f7552669e5e18223e6aa27d33927ad5c4dc",
+      "md_span": {
+        "start": 2730,
+        "end": 2819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-05-14-n3:2011-05-17#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de l'Éducation nationale et de la Formation professionnelle est chargée de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "7d0b94a30660241e4e19ee887e77f80d19e5e767d56a4253a1e15066b5afe39b",
+      "md_span": {
+        "start": 2854,
+        "end": 3005
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

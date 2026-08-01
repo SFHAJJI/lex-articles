@@ -1,0 +1,218 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/11/2020 : Règlement grand-ducal du 27 février 2011 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires communaux.",
+  "valid_from": "2020-01-01",
+  "valid_to": "2020-06-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-02-27-n10/versions/2020-01-01/fr.xml",
+    "sha256": "3d466407d3270365fab75fc1cf06f7a09274d8c17a5207ccf66d14eb0e2c0be5",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/consolide/20200101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_1er/20110327",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "Sans préjudice de l’application des règles générales relatives au statut général des fonctionnaires communaux et aux différents examens d’admissibilité pour l’admission au service provisoire, nul n’est admis à participer à un examen d’admissibilité s’il n’a pas fait preuve d’une connaissance adéquate des trois langues administratives telles que définies par la loi du 24 février 1984 sur le régime des langues.\n\nLes dispositions du présent règlement grand-ducal s’appliquent à toutes les carrières et fonctions pour lesquelles l’admission au service des communes, syndicats de communes et établissements publics placés sous la surveillance des communes sous le statut du fonctionnaire communal est fixée conformément aux dispositions de l’article 2 de la loi modifiée du 24 décembre 1985 fixant le statut général des fonctionnaires communaux.\n\nSont exclus de l’application des dispositions du présent règlement les chargés de cours de l’enseignement musical et les chargés de direction d’une école de musique dans le secteur communal.",
+      "text_sha256": "95fe3a37008b320d3ff65ee9f55688926bc74a41939ee6b4c0a9543fa2353ea2",
+      "md_span": {
+        "start": 706,
+        "end": 1742
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1984/02/24/n1/jo",
+          "text": "loi du 24 février 1984"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1985/12/24/n3/jo",
+          "text": "loi modifiée du 24 décembre 1985"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_2/20110327",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "La vérification de la connaissance adéquate des trois langues administratives se fait sous forme d’épreuves préliminaires qui ont lieu devant le comité d’évaluation prévu à l’article 2 (2) de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration.\n\nUn observateur est nommé par le ministre ayant dans ses attributions la Fonction publique, sur proposition de la Chambre des fonctionnaires et employés publics.\n\nLe ministre ayant l’Intérieur dans ses attributions informe l’Institut national d’administration publique des épreuves préliminaires à organiser en précisant la carrière concernée, la ou les dates à prévoir pour les épreuves et les coordonnées personnelles des candidats à évaluer.\n\nL’Institut informe les candidats de la date et des modalités des épreuves préliminaires.",
+      "text_sha256": "b153d527c245c714f736b097a05c40014dc04126ce2ce56a13e28b349f4d0feb",
+      "md_span": {
+        "start": 1777,
+        "end": 2597
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_3/20200101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-01-01",
+      "text_md": "**I.** Les épreuves préliminaires ont pour objet d’apprécier, sous forme d’épreuves de compréhension et d’expression orale, les connaissances du candidat dans les trois langues administratives selon des niveaux de compétences fixés conformément au Cadre européen commun de référence pour les langues.\n\n1. - niveau C1 pour la première langue\n- niveau B2 pour la deuxième langue\n- niveau B1 pour la troisième langue.\n2. - niveau B2 pour la première langue\n- niveau B1 pour la deuxième langue\n- niveau A2 pour la troisième langue.\n3. - niveau B1 pour la première langue\n- niveau A2 pour la deuxième langue\n- niveau A1 pour la troisième langue.\n\n**II.** En fonction de son niveau de carrière, le candidat déterminera laquelle des trois langues constituera sa première, sa deuxième et sa troisième langue. Le contrôle des connaissances se fera conformément au choix du candidat en tenant compte des niveaux de compétences fixés au paragraphe précédent.\n\nLe candidat qui, conformément à l’article 6 du présent règlement, a obtenu une dispense de l’épreuve préliminaire dans une des trois langues est considéré être dispensé dans sa première langue. Il choisira pour les deux langues qui entrent en considération pour les épreuves préliminaires entre le niveau de compétences de la deuxième et le niveau de compétences de la troisième langue.",
+      "text_sha256": "9c5fbd40a98727cdb28fe0afe0030cf8d13b06a0a933d6149487c10607bdfc08",
+      "md_span": {
+        "start": 2632,
+        "end": 3967
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_4/20200101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-01-01",
+      "text_md": "**1.** Les épreuves préliminaires tiennent compte des niveaux de compétences à atteindre prévus à l’article 3 et comprennent pour chacune des trois langues une épreuve de compréhension orale et une épreuve d’expression orale.\n\n**2.** L’épreuve de compréhension orale se compose pour chacune des trois langues de l’écoute de documents enregistrés et de questionnaires portant sur ces documents.\n\nLes questionnaires peuvent comprendre les trois types de questions suivants:\n\n- questions à choix binaire ou multiple\n- questions du type vrai/faux\n- des questions d’appariement.\n\nLe candidat est évalué par deux correcteurs suivant une grille de correction.\n\nL’épreuve porte sur un maximum de 25 points.\n\n**3.** L’épreuve d’expression orale peut comprendre pour chacune des trois langues:\n\n- un entretien entre l’examinateur et le candidat sur un thème donné;\n- une description d’un support visuel;\n- l’expression d’un point de vue à partir d’un document déclencheur;\n- la présentation et la défense d’un point de vue à partir d’un document déclencheur.\n\nL’épreuve porte sur un maximum de 25 points. Elle a lieu devant deux examinateurs, dont le premier est l’interlocuteur qui mène l’entretien et donne une note globale, et le deuxième est l’assesseur qui donne une note suivant une grille de correction. La note de l’interlocuteur compte pour 1/5 et celle de l’assesseur pour 4/5 de la note finale sur le maximum des 25 points à attribuer.\n\nLe questionnaire utilisé lors de l’entretien ou de la description du support visuel par l’interlocuteur doit être arrêté à l’avance et les questions doivent être posées de façon identique à chaque candidat.\n\nL’épreuve d’expression orale se fait séparément pour chaque candidat et fait l’objet d’un enregistrement en vue de l’évaluation ultérieure.\n\n**4.** Les notes obtenues à l’épreuve de compréhension orale et à l’épreuve d’expression orale sont additionnées et calculées sur un maximum de 50 points pour chacune des trois langues.\n\nSi le résultat ainsi obtenu est égal ou supérieur aux 3/5 du maximum des points pouvant être obtenus, le candidat a fait preuve d’une connaissance adéquate de la langue dans laquelle il a passé l’épreuve préliminaire.\n\nSi le résultat obtenu est inférieur aux 3/5 du maximum des points pouvant être obtenus, le candidat n’a pas fait preuve d’une connaissance adéquate de la langue dans laquelle il a passé l’épreuve préliminaire et partant n’est pas admissible à l’examen d’admissibilité.\n\n**5.** Les décisions concernant chaque candidat sont prises par les membres du comité d’évaluation qui ont évalué les épreuves du candidat et documentées sous forme de procès-verbal.\n\n**6.** Les résultats des épreuves préliminaires sont communiqués par l’Institut national d’administration publique au Ministre ayant l’Intérieur dans ses attributions au plus tard dix jours après les épreuves.\n\n**6.** Le ministre ayant l’Intérieur dans ses attributions communique le résultat au candidat.",
+      "text_sha256": "9007e4e97c76d73c8793b9a16886074d1838c54a8f3aafa0e0b7eb1329173cb5",
+      "md_span": {
+        "start": 4002,
+        "end": 6954
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_5/20110327",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "La participation à l’examen d’admissibilité est subordonnée à la réussite aux épreuves préliminaires.\n\nLes résultats obtenus lors des épreuves préliminaires ne sont pas pris en compte lors de l’examen d’admissibilité et ne donnent pas lieu à un classement.",
+      "text_sha256": "3af0db79f70fe73ffbe731e6670847291572ce413adc7a2173156a306e3b3a2c",
+      "md_span": {
+        "start": 6989,
+        "end": 7245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_6/20200101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Le candidat ayant obtenu dans un pays ou une région de langue française ou allemande le certificat d’études ou y ayant accompli la dernière année d’études lui permettant d’accéder au groupe de traitement brigué, est dispensé des épreuves de langues de français ou d’allemand.\n\nLe candidat ayant obtenu ce certificat d’études ou ayant accompli cette dernière année d’études dans le système d’ensei­gnement public luxembourgeois, est dispensé des trois épreuves de langues.\n\nLe candidat ayant obtenu dans un pays ou une région de langue française ou allemande, un diplôme d’enseignement supérieur lui permettant d’accéder à une fonction de la catégorie de traitement ou d’indemnité A est dispensé de l’épreuve de langue de français ou d’allemand. Le candidat ayant obtenu ce diplôme ou ayant accompli cette dernière année dans une insti­tution d’enseignement supérieur à caractère universitaire du système d’enseignement supérieur luxembourgeois est dispensé de l’épreuve de français si le diplôme certifie des programmes d’études organisés majoritairement en langue française ou de l’épreuve d’allemand si le diplôme certifie des programmes d’études organisés majoritairement en langue allemande.\n\nLe candidat ayant obtenu dans un pays ou une région de langue française ou de langue allemande le diplôme lui permettant l’accès à des études d’enseignement supérieur est dispensé des épreuves de langues de français ou d’allemand.\n\nLe candidat qui a accompli au moins sept années de sa scolarité au Grand-Duché de Luxembourg dans le cadre de l’ensei­gnement public luxembourgeois ou de l’enseignement privé appliquant les programmes d’enseignement public luxembourgeois est dispensé des trois épreuves de langues.\n\nLe candidat qui peut se prévaloir d’un certificat de compétences de langues, établi suivant le Cadre européen com­mun de référence pour les langues et attestant qu’il dispose du ou des niveaux de compétences requis conformément aux dispositions de l’article 3 bénéficie d’une dispense de la langue ou des langues correspondantes.",
+      "text_sha256": "eddd5c1e666b4810e08eefdd80cb7b3f45877c7017305a6e6ad6b034bb7f2901",
+      "md_span": {
+        "start": 7280,
+        "end": 9321
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_7/20200101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Le candidat ayant déjà réussi aux épreuves préliminaires à l’occasion d’un examen d’admissibilité précédent en est dispensé, s’il se présente une nouvelle fois à un examen d’admissibilité pour l’accès à la même carrière que celle briguée antérieurement.",
+      "text_sha256": "6b84d7afa65c51d14eb7041479fa500c92c36c5d5322c3c4c4d9bb9254672a8c",
+      "md_span": {
+        "start": 9356,
+        "end": 9609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_8/20110327",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "Chaque année le ministre ayant dans ses attributions la Fonction publique publie une analyse statistique des épreuves comprenant notamment les taux de réussite et d’échec.\n\nLes copies et les enregistrements des examens sont la propriété de l’Institut national d’administration publique et sont conservés pendant deux ans aux archives de l’Institut.",
+      "text_sha256": "a162028451514589f06cc439e1af456ee7af99b410fee959c95b627aca39019d",
+      "md_span": {
+        "start": 9644,
+        "end": 9992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_9/20110327",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "Le règlement grand-ducal du 14 octobre 1996 fixant les critères d’évaluation de la connaissance des trois langues administratives pour les candidats aux postes de fonctionnaire communal ainsi que l’article 32*bis* du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d’admission et d’examen des fonctionnaires communaux ne sont plus applicables à partir de l’entrée en vigueur du présent règlement grand-ducal.\n\nToutefois, les dispositions réglementaires visées restent applicables aux chargés de cours de l’enseignement musical et les chargés de direction d’une école de musique dans le secteur communal.",
+      "text_sha256": "226c79fe7231ca6be70c40e63a70f9f45425f6a2c0486f20260530704ee7e01a",
+      "md_span": {
+        "start": 10027,
+        "end": 10664
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rmin/1996/10/14/n1",
+          "text": "règlement grand-ducal du 14 octobre 1996"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1990/12/20/n1",
+          "text": "règlement grand-ducal modifié du 20 décembre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2011-02-27-n10:2020-01-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/art_10/20110327",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-27",
+      "text_md": "Notre Ministre déléguée à la Fonction publique et à la Réforme administrative et Notre Ministre de l’Intérieur et à la Grande Région sont chargés de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "cad3c63685d99678dd70b5de26178117cd2c84e1a403e7b055179103a699f751",
+      "md_span": {
+        "start": 10701,
+        "end": 10911
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

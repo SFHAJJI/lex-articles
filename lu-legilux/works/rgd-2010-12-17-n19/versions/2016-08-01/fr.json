@@ -1,0 +1,266 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/08/2016 : Règlement grand-ducal du 17 décembre 2010 déterminant la procédure de déclaration des accidents et des maladies professionnelles et précisant la prise en charge de certaines prestations par l’assurance accident.",
+  "valid_from": "2016-08-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2010-12-17-n19/versions/2016-08-01/fr.xml",
+    "sha256": "6bacdd5e980f2582d4701cc96022c6c79f53d8df5660673e00dcacedbc3a3129",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/consolide/20160801/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_1er/20110101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-01",
+      "text_md": "Sauf en cas de circonstances exceptionnelles dûment motivées, tout assuré, victime d’un accident du travail ou de trajet, doit en aviser immédiatement son employeur ou le représentant de celui-ci.",
+      "text_sha256": "07c10404309970baa2e3fa753c3189912844897e7a5df71f80c564851e441c9c",
+      "md_span": {
+        "start": 735,
+        "end": 931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_2/20160801",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "L’employeur ou son représentant déclare tout accident du travail à l’Association d’assurance accident en fournissant toutes les indications demandées sur le formulaire de déclaration d’un accident du travail disponible auprès de l’Association d’assurance accident et fait parvenir une copie de la déclaration à l’assuré.",
+      "text_sha256": "29e4a2debc66ef42ceb693c56a7e12343e4d39748aa52d625038e4b2ee30e688",
+      "md_span": {
+        "start": 966,
+        "end": 1286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_3_nb_modif_insertion_avec_ajout_art_3_vu_avec_rol/20160801",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Pour les maladies professionnelles, il incombe au médecin de faire la déclaration à l’Association d’assurance accident dès qu’il a des suspicions fondées qu’une maladie a sa cause déterminante dans une activité professionnelle assurée. En cas de déclaration, il remet une copie de la déclaration à son patient.\n\nLa déclaration est effectuée au moyen du formulaire de déclaration médicale d’une maladie professionnelle disponible auprès de l’Association d’assurance accident et contient un diagnostic médical précis de la maladie dont l’origine professionnelle est soupçonnée ainsi qu’une indication des risques professionnels susceptibles d’être à l’origine de celle-ci. Les pièces médicales établissant la maladie déclarée sont annexées à la déclaration.\n\nL’instruction du dossier est limitée à la maladie pour laquelle la déclaration médicale est introduite.",
+      "text_sha256": "b95182438d4db5e580fa48947929bd10d1827fcfd0d88a2b3d8a5809308777d3",
+      "md_span": {
+        "start": 1321,
+        "end": 2181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_3/20160801",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Si un écolier, élève ou étudiant subit un accident dans le cadre d’un établissement d’enseignement, la déclaration incombe au bourgmestre ou au responsable de l’établissement ou à leur délégué. L’accident survenu dans le cadre d’une activité péripréscolaire, périscolaire ou périuniversitaire est à déclarer par le représentant de l’organisme luxembourgeois ayant organisé cette activité. Ces déclarations sont effectuées au moyen du formulaire de déclaration d’un accident scolaire ou périscolaire disponible auprès de l’Association d’assurance accident.\n\nLes accidents survenus dans le cadre d’une autre activité visée à l’article 91 du Code de la sécurité sociale sont à déclarer par le responsable ou son délégué du service, de l’administration, de l’institution ou de l’association ayant organisé l’activité au moyen du formulaire de déclaration d’un accident du travail disponible auprès de l’Association d’assurance accident..",
+      "text_sha256": "ed5ff00427bc306e1452b322c72f0c233d201689e0750e3d503a15d2ea8e8c97",
+      "md_span": {
+        "start": 2216,
+        "end": 3149
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_4/20160801",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Sur réclamation écrite de la personne affirmant avoir été victime d’un accident ou être atteinte d’une maladie professionnelle dans le délai annuel prescrit par l’article 123 du Code de la sécurité sociale, l’Association d’assurance accident demande la prise de position de la personne à laquelle incombe la déclaration avant de prendre une décision.",
+      "text_sha256": "32790980c4f97e4ece218a6b87cf7257761c5c9678ba5da95b498f561d0bd8e5",
+      "md_span": {
+        "start": 3184,
+        "end": 3534
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_6/20160801",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "En cas de déclaration médicale d’une maladie professionnelle, l’employeur fournit tous les renseignements concernant l’exposition professionnelle à des risques. Dans la déclaration patronale concernant cette exposition, il indique notamment avec précision:\n\n1. le ou les postes de travail successivement occupés et les tâches y effectuées;\n2. les gestes et postures de travail relatifs à chaque poste ainsi que les produits, machines et outils y utilisés;\n3. la durée du temps de travail exposant le salarié aux différents gestes et postures de travail ainsi qu’aux produits, machines et outils en cause;\n4. les mesures de protection prises contre les risques professionnels et les équipements de protection individuelle mis à disposition.",
+      "text_sha256": "3bce154a87fb5daa099df4fb1673d3e101e3f8a2a1a764344580e30aae3c81a6",
+      "md_span": {
+        "start": 3569,
+        "end": 4308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_7/20160801",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Le Contrôle médical de la sécurité sociale se prononce sur l’existence de la maladie déclarée, sur le diagnostic médical de celle-ci et sur le numéro du tableau des maladies professionnelles sous lequel elle est à instruire.\n\nL’Association d’assurance accident se prononce sur l’exposition de l’assuré aux risques professionnels susceptibles d’être à l’origine de la maladie déclarée. A cette fin, elle peut demander tous renseignements ou pièces nécessaires à l’employeur et à l’assuré. Elle peut procéder à une étude du ou des postes de travail et demander un avis motivé au médecin du travail compétent.\n\nSur base du rapport de l’Association d’assurance accident concernant l’exposition aux risques, le Contrôle médical de la sécurité sociale rend un avis médical sur la relation d’imputabilité entre la maladie déclarée et l’activité professionnelle exercée.",
+      "text_sha256": "6747c33f2041c8ff723a3dc28f2a5b6d2aa2fdbc2503bac746f076d7c74d6265",
+      "md_span": {
+        "start": 4343,
+        "end": 5205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_5/20160801",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Le refus de considérer comme accident du travail ou de trajet ou comme maladie professionnelle un accident ou une maladie déclarés conformément aux articles qui précèdent fait l’objet d’une décision du président ou de son délégué en vertu de l’article 146 du Code de la sécurité sociale. Cette décision est notifiée à la victime de l’accident et portée à la connaissance de l’employeur ou de la personne ayant fait la déclaration.",
+      "text_sha256": "bb4d07308150bc971ba901d36b579c9360bf14af25d70ddb45cc1f8a2b2c5cb7",
+      "md_span": {
+        "start": 5240,
+        "end": 5670
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_6/20160801",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Pour rémunérer le travail administratif effectué par les institutions d’assurance maladie, l’Association d’assurance accident verse une indemnité correspondant à trois pour cent des prestations avancées à la Caisse nationale de santé.",
+      "text_sha256": "5f973fb8da638e893ab5a6b0fdf8d71b28d0b5ea191f744fdcd7a7ce2517f8f8",
+      "md_span": {
+        "start": 5705,
+        "end": 5939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_7/20160801",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Si le médecin estime que la période d’incapacité de travail totale ou la prestation en nature est imputable à un accident du travail ou à une maladie professionnelle, il indique le numéro de référence du dossier lui communiqué par l’assuré ou directement par l’Association d’assurance accident sur le certificat d’incapacité de travail, le mémoire d’honoraires, l’ordonnance ou tout autre document standardisé servant aux prescriptions médicales. Pendant les trois mois consécutifs à l’accident, il peut, à défaut de numéro, indiquer la date de l’accident.",
+      "text_sha256": "eba80e452648c5f720f5a6eb531d952b507472da6dcba45a6c9930d9dadde5d1",
+      "md_span": {
+        "start": 5976,
+        "end": 6532
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_8/20160801",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Les dossiers sont clôturés d’office sans qu’un avis du Contrôle médical de la sécurité sociale et une décision n’aient à intervenir,\n\n- trois mois après la survenance d’un accident qui n’a pas provoqué une incapacité de travail totale dépassant les huit jours consécutifs à cet accident,\n- douze mois après la survenance d’un accident ayant entraîné une incapacité de travail totale plus importante, sauf avis contraire du Contrôle médical de la sécurité sociale.",
+      "text_sha256": "e624a0832376a524e028038482803994bd51aed641efd0c5f12c7a3c4e05b979",
+      "md_span": {
+        "start": 6569,
+        "end": 7032
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_9/20160801",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-08-01",
+      "text_md": "Si une prestation imputée initialement à l’assurance accident sur indication du médecin est mise à charge de l’assurance maladie sur avis postérieur du Contrôle médical de la sécurité sociale ou inversement ou si l’assurance maladie a pris intégralement en charge une prestation en nature dans le cadre du système du tiers payant nonobstant la limitation dans le temps prévue à l’article 8, la Caisse nationale de santé peut soit renoncer à la récupération de la participation incombant éventuellement à l’assuré dans le cadre de l’assurance maladie, soit la déduire, en vertu de l’article 441 du Code de la sécurité sociale, du remboursement futur par l’assurance maladie de prestations en nature au même assuré.",
+      "text_sha256": "984c1667e660c0a0d1202d50b3b21950afd88ca974d17c391d4ee8e7e769d1f8",
+      "md_span": {
+        "start": 7069,
+        "end": 7782
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10-1",
+      "provision_id": "lu-legilux:rgd-2010-12-17-n19:2016-08-01#art_10-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/art_10/20110101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-01",
+      "text_md": "Notre Ministre de la Sécurité sociale est chargé de l’exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur le 1er janvier 2011.",
+      "text_sha256": "ffff72d679e5b48c8b1335f41937c85148b68520259cf99414270f16fe8d5959",
+      "md_span": {
+        "start": 7821,
+        "end": 7977
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

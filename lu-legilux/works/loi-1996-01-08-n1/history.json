@@ -1,0 +1,59 @@
+{
+  "lex_work_id": "lu-legilux:loi-1996-01-08-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_ier": [
+      {
+        "valid_from": "1998-01-01",
+        "valid_to": null,
+        "text_sha256": "3533ccd2cc65a4f1f9026bff79e55cbc3fb9c993ccea5eeffc1fcf7d1a8e37fe",
+        "in_version": "lu-legilux:loi-1996-01-08-n1:1998-01-01",
+        "article_valid_from": "1996-01-19",
+        "validity_conflict": true
+      }
+    ],
+    "art_ii": [
+      {
+        "valid_from": "1998-01-01",
+        "valid_to": null,
+        "text_sha256": "fd22e158552404a5d5d79dc826df9c07047018a9b78d411890f0ec39a3fb32c7",
+        "in_version": "lu-legilux:loi-1996-01-08-n1:1998-01-01",
+        "article_valid_from": "1996-01-19",
+        "validity_conflict": true
+      }
+    ],
+    "art_iii": [
+      {
+        "valid_from": "1998-01-01",
+        "valid_to": null,
+        "text_sha256": "725f94d71d7a24646823e9aae3d98c8838e2317d0449e28908c2e015069d4d9f",
+        "in_version": "lu-legilux:loi-1996-01-08-n1:1998-01-01",
+        "article_valid_from": "1996-01-19",
+        "validity_conflict": true
+      }
+    ],
+    "art_iv": [
+      {
+        "valid_from": "1998-01-01",
+        "valid_to": null,
+        "text_sha256": "6f418dd58227ebba3fee9741fe1c2850c059978c46bc1af056f6d2b7a53354de",
+        "in_version": "lu-legilux:loi-1996-01-08-n1:1998-01-01",
+        "article_valid_from": "1996-01-19",
+        "validity_conflict": true
+      }
+    ],
+    "art_v": [
+      {
+        "valid_from": "1998-01-01",
+        "valid_to": null,
+        "text_sha256": "b9bca0ed63d57aeab1a06e1d24d6e30c9acf23a2081a973bfc2ecc80785502b2",
+        "in_version": "lu-legilux:loi-1996-01-08-n1:1998-01-01",
+        "article_valid_from": "1998-01-01"
+      }
+    ]
+  },
+  "anchor_events": []
+}

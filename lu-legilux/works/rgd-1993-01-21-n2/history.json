@@ -1,0 +1,67 @@
+{
+  "lex_work_id": "lu-legilux:rgd-1993-01-21-n2",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2010-12-28",
+        "valid_to": null,
+        "text_sha256": "153521ef4a7303a3427df5c625134c64cd257406313908f6c3fea61b7c044298",
+        "in_version": "lu-legilux:rgd-1993-01-21-n2:2010-12-28",
+        "article_valid_from": "2010-12-28"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2010-12-28",
+        "valid_to": null,
+        "text_sha256": "6cc135537cb4ef85a1753bb4ad276233f5db8fcdc0c59729c6f42fa6db430373",
+        "in_version": "lu-legilux:rgd-1993-01-21-n2:2010-12-28",
+        "article_valid_from": "1993-02-14",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2010-12-28",
+        "valid_to": null,
+        "text_sha256": "5027ba56030d4b05a22cbda99248f8c64d8a7f69b92970038927533b8851bed2",
+        "in_version": "lu-legilux:rgd-1993-01-21-n2:2010-12-28",
+        "article_valid_from": "1993-02-14",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2010-12-28",
+        "valid_to": null,
+        "text_sha256": "a0a7b0bd508bd3a909aa23385ab216f2fe0190de56eea398c633e0085d7d1ff0",
+        "in_version": "lu-legilux:rgd-1993-01-21-n2:2010-12-28",
+        "article_valid_from": "2010-12-28"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2010-12-28",
+        "valid_to": null,
+        "text_sha256": "4199121ed0c7866d7ee0d4ffa62679c27b177e77d1701bc790cc5a57a0d6bbcc",
+        "in_version": "lu-legilux:rgd-1993-01-21-n2:2010-12-28",
+        "article_valid_from": "2010-12-28"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2010-12-28",
+        "valid_to": null,
+        "text_sha256": "5c590ff6962447456b899f0cc409b9a15bcd6cc93fb5193cc4b5eb4f2891ffb9",
+        "in_version": "lu-legilux:rgd-1993-01-21-n2:2010-12-28",
+        "article_valid_from": "1993-02-14",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

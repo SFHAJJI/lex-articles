@@ -1,0 +1,120 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2009-12-01-n7",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": null,
+        "text_sha256": "02da0074a20c71062ceb58a254ac85c6132d009921cd49708edc9c278615eb00",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2009-12-10",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": null,
+        "text_sha256": "3da260e336a0780bb44e0f18ba4240cef9b5af5f8f8a6cdd49f7640c6bd4ff2f",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2009-12-10",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": "2013-04-07",
+        "text_sha256": "817bf63b47cd5fdd22f5bb95061711bc9aea9f93c219305769cefe025c26981f",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2009-12-10",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2013-04-08",
+        "valid_to": null,
+        "text_sha256": "fdbd21c36927c00d8d5f3acc28a1637bf497ecc4f83e9f78ad9f9b14ca60f47c",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2013-04-08",
+        "article_valid_from": "2013-04-08"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": null,
+        "text_sha256": "3e1282efeaf50c7af84cac3b8b975f09a0691cb42b8daa9bbe6595789a11560b",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2009-12-10",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": null,
+        "text_sha256": "d3f4bed093053ac090e9ab8b9b36b10c1a69cb2553e2d4b4f79c9b829f5ed2a2",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2009-12-10",
+        "validity_conflict": true
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": "2013-04-07",
+        "text_sha256": "b282337e6d84358b58b87ea0028f03f10e48c0f38ba4fd3603605f8726a81202",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2012-01-01"
+      },
+      {
+        "valid_from": "2013-04-08",
+        "valid_to": "2021-06-30",
+        "text_sha256": "fc19be64139385337e78a968d969932c168c57f43c737bbc335642ad8b8678f4",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2013-04-08",
+        "article_valid_from": "2013-04-08"
+      },
+      {
+        "valid_from": "2021-07-01",
+        "valid_to": null,
+        "text_sha256": "2d2e7d24da57aff944bc7cad56fcd69745a029de6085adf92010751fb5f81c75",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2021-07-01",
+        "article_valid_from": "2021-07-01"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": null,
+        "text_sha256": "8ce3693316855714bcc02d6fb87a670abb9d198a30a9f2716cde7b996e639fbb",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2009-12-10",
+        "validity_conflict": true
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": null,
+        "text_sha256": "d183d3d7bed07ab4e7c2be6c3338230723e6596d13171a1d6b755dc9626e1b2e",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2009-12-10",
+        "validity_conflict": true
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2012-01-01",
+        "valid_to": null,
+        "text_sha256": "7662cc84454d2245a7685aab923373c88957460183ef0ac2d61f9dd9d4a40638",
+        "in_version": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+        "article_valid_from": "2009-12-10",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

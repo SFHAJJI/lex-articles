@@ -1,0 +1,1321 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/01/2026 : Loi du 7 août 2023 relative aux aides individuelles au logement.",
+  "valid_from": "2023-10-01",
+  "valid_to": "2024-05-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2023-08-07-a554/versions/2023-10-01/fr.xml",
+    "sha256": "4fbfabc15b49ecc432166e6b914c1ae0906633fbe5a7813581599f0def641cad",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/consolide/20231001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_1er/20230901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Objectifs et définitions"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La présente loi a pour objectifs de promouvoir :\n\n1. l’accès à un logement du marché locatif privé ;\n2. l’accès à la propriété immobilière pour des personnes à revenu modéré ;\n3. l’amélioration, la transformation, la rénovation, l’assainissement et la création de logements.\n\nCes objectifs sont poursuivis par la mise en œuvre des mesures suivantes :\n\n1. l’octroi d’une aide aux personnes physiques pour soutenir le financement d’une garantie locative réclamée par le bailleur à un locataire d’un logement à usage d’habitation ;\n2. l’octroi d’une garantie de l’État aux personnes physiques en vue de l'acquisition, de la construction, de l'amélioration, de la transformation, de la rénovation ou de l’assainissement énergétique d’un logement ;\n3. l’octroi d’aides financières aux personnes physiques en vue de la location, de l’acquisition, de la construction, de l’amélioration, de la transformation, de la rénovation, de l’assainissement énergétique d’un logement ou de la création d’un logement intégré.",
+      "text_sha256": "d100be8f3b9a20235ae6d88e3444c2cf62f537f313d3f7895de2679509397f03",
+      "md_span": {
+        "start": 640,
+        "end": 1646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_2/20230901",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Objectifs et définitions"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Pour l’application de la présente loi, on entend par :\n\n| 1° « aide » : | une aide individuelle au logement prévue par la présente loi et pouvant être accordée pour la location, l’acquisition, la construction, l’amélioration, la transformation, la rénovation ou l’assainissement énergétique d’un logement situé sur le territoire du Grand-Duché de Luxembourg, ou pour la création d’un logement intégré ; |\n| --- | --- |\n| 2° « autre logement » : | un logement différent de celui pour lequel une ou plusieurs aides prévues par la présente loi sont accordées ; les membres de la communauté domestique peuvent être pleins propriétaires ou usufruitiers jusqu’à un tiers d’un seul autre logement ;un logement intégré faisant partie de l’immeuble abritant le logement du demandeur ou bénéficiaire n’est pas à considérer comme un autre logement s’il est mis à disposition de personnes ayant un lien de parenté au premier degré avec le demandeur ou bénéficiaire ou loué à usage d’habitation ; |\n| 3° « bénéficiaire » : | les demandeurs auxquels une aide est accordée ; |\n| 4° « communauté domestique » : | le demandeur et toutes les autres personnes physiques qui vivent dans le cadre d’un foyer commun dans le logement, dont il faut admettre qu’ils disposent d’un budget commun et qui ne peuvent fournir les preuves matérielles qu’ils résident ailleurs ;ces preuves matérielles sont, selon le cas :a) le contrat de bail ;b) le pacte de colocation ;c) les quittances de loyer ;d) les pièces bancaires ou comptables prouvant le paiement du loyer ;e) les pièces prouvant le paiement des factures d’électricité, de chauffage ou de gaz, de l’antenne collective ou des taxes communales ;les pièces énumérées ci-avant portent sur une durée de six mois au moins à compter de la date où la demande en obtention de l’aide a été introduite auprès du ministre ; |\n| 5° « demandeur » : | les personnes physiques qui introduisent et signent une demande en obtention d’une aide prévue par la présente loi ; |\n| 6° « emprunteur » : | les personnes ayant contracté un prêt hypothécaire, y compris les cotitulaires ou codébiteurs du prêt ; |\n| 7° « enfant à charge » : | a) l’enfant pour lequel le demandeur perçoit des allocations familiales, qui habite avec le demandeur dans le logement et qui y est déclaré ; oub) l’enfant jusqu’à l’âge de vingt-sept ans, qui bénéficie de la protection liée à l’affiliation à l’assurance-maladie du demandeur soit au titre de l’article 7 du Code de la sécurité sociale, soit au titre de la législation d’un État avec lequel le Luxembourg est lié par un instrument bi- ou multilatéral de sécurité sociale, soit au titre d’un régime d’assurance-maladie en raison d’une activité au service d’un organisme international, qui habite avec le demandeur dans le logement et qui y est déclaré ; il en est de même si cet enfant bénéficie d’une rente d’orphelin à l’exclusion de tout autre revenu ; |\n| 8° « établissement de crédit » : | un établissement de crédit au sens de la loi modifiée du 5 avril 1993 relative au secteur financier ; |\n| 9° « logement » : | un local d’habitation distinct et indépendant ;est considéré comme un local d’habitation distinct tout immeuble ou partie d’immeuble susceptible d’être habité à titre principal de sorte qu’une personne ou un groupe de personnes puissent y dormir, y prendre leurs repas et s’y abriter à l’écart d’autres personnes ;un local d’habitation est à considérer comme indépendant s’il dispose d’une porte principale permettant d’accéder à l’extérieur de l’immeuble ou à une partie commune à l’intérieur d’un immeuble, sans que les habitants du local traversent un local habité par d’autres personnes ; |\n| 10° « logement intégré » : | un logement faisant partie d’une maison de type unifamilial et appartenant au propriétaire du logement principal ; il est subordonné en surface au logement principal ; un seul logement intégré est admis par maison unifamiliale ; |\n| 11° « ministre » : | le ministre ayant le Logement dans ses attributions. |",
+      "text_sha256": "d4517a64d18bfd1a7cfb72a3e28d8ea57098740f70595e6d2346aa60497a4a70",
+      "md_span": {
+        "start": 1681,
+        "end": 5680
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1993/04/05/n1/jo",
+          "text": "loi modifiée du 5 avril 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_3/20230901",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 1re — Aide au financement d’une garantie locative"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Dans les cas où une personne ayant l’intention de louer un logement à usage d’habitation sur le marché locatif privé ne dispose pas des fonds propres nécessaires au financement de la garantie locative exigée par le bailleur lors de la conclusion du bail, le ministre est autorisé à soutenir l’accession à la location dudit logement en accordant une aide au financement de la garantie locative.\n\nL’aide prend la forme d’un certificat dans lequel le ministre s’engage à payer au bailleur, en cas d’appel à la garantie, le montant exigé de la garantie locative.\n\n**(2)** L’aide est accordée si les conditions suivantes sont remplies :\n\n1. le demandeur est une personne physique majeure au jour de l’introduction de la demande ;\n2. le demandeur a ouvert un compte de dépôt conditionné auprès d’un établissement de crédit ayant au préalable signé avec l’État une convention réglant les modalités de mise en œuvre et de fonctionnement du dépôt conditionné, de blocage ou de déblocage des avoirs épargnés sur ce compte de dépôt, de transmission des données nécessaires pour vérifier le respect des conditions légales relatives à l’aide, ainsi que les modalités en cas d’appel à la garantie locative du bailleur ;\n3. le demandeur a conclu en qualité de locataire un contrat de bail à usage d’habitation portant sur un logement sis sur le territoire luxembourgeois et étant son habitation principale et permanente ;\n4. le demandeur n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n5. le demandeur justifie des revenus réguliers pendant les trois mois précédant la date de la demande ;\n6. le revenu mensuel de la communauté domestique, calculé conformément à l’article 11, est inférieur ou égal à la limite de revenu fixée suivant la composition de la communauté domestique conformément au tableau repris à l’annexe I ;\n7. loi modifiée du 21 septembre 2006 Code civil\n8. le logement n’est pas loué au demandeur par un de ses ascendants ou descendants au premier degré.\n\nAvant l’octroi de l’aide, le demandeur peut recevoir du ministre une attestation certifiant qu’il a introduit une demande en obtention de l’aide et qu’il remplit les conditions prévues à l’alinéa 1er, points 1°, 4°, 5°, 6° et 7°, en indiquant le montant maximal de l’aide pouvant lui être accordée compte tenu des informations transmises au ministre. Cette attestation a une durée de validité de trois mois.",
+      "text_sha256": "2c25857316f92db9d766e18eb1fbccfd734f182607a9155828e080ddc16b4743",
+      "md_span": {
+        "start": 5829,
+        "end": 8227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_4/20230901",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 1re — Aide au financement d’une garantie locative"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le montant de l’aide se détermine en fonction du montant de la garantie locative exigée par le bailleur lors de la conclusion du bail, sans pouvoir dépasser le plafond de la garantie locative fixé par l’article 5 de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil.",
+      "text_sha256": "5ac457ed9a2f039936d975eb28700867ea532e17be00ec5b5f2d42288aa4ac21",
+      "md_span": {
+        "start": 8262,
+        "end": 8598
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/09/21/n1/jo",
+          "text": "loi modifiée du 21 septembre 2006"
+        },
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_5/20230901",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 1re — Aide au financement d’une garantie locative"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Le dépôt conditionné est à alimenter régulièrement par le bénéficiaire, par un ordre permanent à conclure par le demandeur au moment de l’ouverture du dépôt, jusqu’à ce que les avoirs bloqués sur le dépôt conditionné soient équivalents au montant de l’aide accordée.\n\nLes avoirs sur le dépôt conditionné sont à bloquer par l’établissement de crédit pendant la durée du bail et pendant un délai de six mois au maximum après la fin du bail, à moins que le bailleur renonce à la garantie locative avant l’expiration de ce délai. À l’exception du montant des frais bancaires éventuellement dus, le bénéficiaire ne peut retirer des fonds du dépôt conditionné que suite à une autorisation écrite du ministre pour des raisons de force majeure, de santé ou de situation financière grave. Les sommes se trouvant sur le dépôt conditionné sont insaisissables.\n\nPour alimenter le dépôt conditionné du montant de l’aide, le bénéficiaire dispose au maximum d’un délai de trois ans à compter du jour de l’ouverture du dépôt conditionné.\n\n**(2)** Sur demande écrite et dûment motivée, le ministre peut, pour des raisons de force majeure, de santé ou de situation financière grave, dispenser temporairement le bénéficiaire du paiement régulier des mensualités.",
+      "text_sha256": "b7c9a9ef1af90a1722cdd00524776a9b8454c107edd83e4116c978205ea932ef",
+      "md_span": {
+        "start": 8633,
+        "end": 9884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_6/20230901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 1re — Aide au financement d’une garantie locative"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "En cas d’appel à la garantie locative, et sur présentation du certificat annexé à la décision d’octroi de l’aide par le bailleur auprès du ministre, au plus tard six mois après la date de fin du bail, le montant de l’aide exigé est viré sans délai au bailleur sur le numéro de compte communiqué par écrit par celui-ci. Le bénéficiaire est informé par voie postale du montant de l’aide payée au bailleur à titre de garantie locative.\n\nAu cas où le bailleur a fait appel à la garantie locative auprès du ministre et que l’aide a été virée, les avoirs sur le dépôt conditionné du bénéficiaire sont, suite à une demande du ministre, virés à l’État par l’établissement de crédit concerné jusqu’à concurrence du montant de l’aide. Le bénéficiaire en est informé par voie postale.",
+      "text_sha256": "51529f35211489099e87dc476221989cc2cb6b07de0079d8df065061186ba5e9",
+      "md_span": {
+        "start": 9919,
+        "end": 10692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_7/20230901",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 1re — Aide au financement d’une garantie locative"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** En cas de virement préalable du montant total ou partiel de l’aide au bailleur ou en cas d’insuffisance des avoirs sur le dépôt conditionné pour rembourser le montant de l’aide virée par l’État, le bénéficiaire paie à l’État le solde du montant restant dû après mise en compte des avoirs sur le dépôt conditionné.\n\n**(2)** Une nouvelle aide ne peut être accordée au bénéficiaire pour un autre logement que si celui-ci a remboursé le montant de la première aide. Par dérogation et sur demande écrite et dûment motivée, le ministre peut, pour des raisons de force majeure, de santé ou de situation financière grave, accorder une nouvelle aide même si la première aide n’a pas encore été remboursée, ou dispenser totalement ou partiellement le bénéficiaire du remboursement du montant dû de l’aide.",
+      "text_sha256": "0721889ee795bbfd820f841ee5405d2c608faa6f04c021f22e34f8c6677aec8e",
+      "md_span": {
+        "start": 10727,
+        "end": 11530
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_8/20230901",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 2 — Subvention de loyer"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Pour les personnes à faible revenu qui louent un logement sur le marché locatif privé, le ministre est autorisé à accorder une subvention de loyer si les conditions suivantes sont remplies :\n\n1. le demandeur est une personne physique majeure au jour de l’introduction de la demande ;\n2. loi modifiée du 21 septembre 2006 Code civil\n3. le demandeur est déclaré à l’adresse du logement qui est son habitation principale et permanente ;\n4. les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n5. er\n6. le revenu de la communauté domestique fixé conformément à l’article 11 ne dépasse pas le plafond de revenu prévu à l’annexe II ;\n7. loi modifiée du 21 septembre 2006 Code civil\n8. le logement n’est pas loué au demandeur par un de ses ascendants ou descendants au premier degré.\n\nLe ministre peut déroger, sur demande motivée et pour des raisons tenant à la situation familiale, financière ou de santé dûment documentées, à l’une des conditions visées à l’alinéa 1er, points 2°, 3° et 4°.\n\nEn cas de décision d’octroi de l’aide, celle-ci est accordée à partir de la date de la demande si les conditions étaient remplies à cette date.",
+      "text_sha256": "808d5ba8216b39f210d1027875eac710c46c792bb7114bfb6749784cbc5302ac",
+      "md_span": {
+        "start": 11602,
+        "end": 12794
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_9/20230901",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 2 — Subvention de loyer"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La subvention de loyer est calculée conformément à la formule prévue à l’annexe II.\n\nLes paramètres de calcul et limites de revenu sont plafonnés en fonction de la composition de la communauté domestique, conformément au tableau à l’annexe II.\n\n**(2)** Le montant de l’aide ne peut jamais dépasser le loyer effectivement payé par le demandeur éligible.",
+      "text_sha256": "610bb11c47444f11f08dbd8b7681b8fbe0e8da4d23cb9175050326377078fe55",
+      "md_span": {
+        "start": 12829,
+        "end": 13189
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_10/20230901",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 2 — Subvention de loyer"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La subvention de loyer n’est pas due et doit être restituée, avec effet rétroactif, si pendant la période d’octroi d’une subvention de loyer, une des conditions d’octroi de l’aide n’a pas été remplie ou si le bénéficiaire donne en sous-location tout ou une partie du logement. Une sous-location est présumée exister si tout ou une partie du logement est mis à la disposition de personnes autres que le bénéficiaire et qui y habitent pendant un délai supérieur à six mois.\n\n**(2)** En cas de départ d’un des demandeurs, une nouvelle demande en obtention d’une subvention de loyer est présentée par le demandeur restant dans le logement au cas où il souhaite bénéficier d’une continuation de l’aide.",
+      "text_sha256": "8c71cafb4febb569d4adcbcedaf386556698c2b6133b180e3ea28aab364760a8",
+      "md_span": {
+        "start": 13226,
+        "end": 13931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_11/20230901",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Aides à la location d’un logement",
+        "Section 3 — Dispositions générales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Le revenu net de la communauté domestique est la somme :\n\n1. loi modifiée du 4 décembre 1967\n2. des rentes alimentaires perçues ;\n3. des montants nets des rentes accident ;\n4. loi modifiée du 4 décembre 1967\n\nLes rentes alimentaires virées sont déduites du revenu.\n\nUne indemnité payée durant une période de stage est considérée comme un revenu si le demandeur a été affilié à un régime d’assurance maladie et pension durant cette période.\n\n**(2)** Le revenu à prendre en considération pour l’obtention de l’aide est la moyenne du revenu net de l’année civile qui précède le mois à partir duquel l’aide est accordée. Lorsque le revenu total à prendre en considération comprend un revenu provenant d’une occupation rémunérée qui n’a pas été exercée pendant toute l’année civile concernée, ce revenu est à extrapoler sur l’année.\n\nEn cas de changement d’employeur ou d’une modification du contrat de travail ayant un impact sur le revenu durant l’année civile au cours de laquelle l’aide est accordée, ou au cas où la communauté domestique n’a pas eu de revenu professionnel durant ladite année civile, le dernier revenu connu est pris en considération et est extrapolé sur l’année.",
+      "text_sha256": "07636d29c5e2282cdee8103ce449e661951ad0b139b5dae4e504f88a227c9df1",
+      "md_span": {
+        "start": 14008,
+        "end": 15196
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_12/20230901",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 1re — Garantie de l’État"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Dans le cas où un emprunteur ne peut pas fournir à l’établissement de crédit des garanties propres jugées suffisantes par celui-ci, le ministre est autorisé à garantir, aux conditions et limites déterminées par la présente section, le remboursement en principal, intérêts et accessoires d’un prêt hypothécaire consenti à des personnes physiques en vue de l’acquisition, de la construction, de l’amélioration, de la transformation ou de la rénovation d’un logement qui est l’habitation principale et permanente de l’emprunteur.",
+      "text_sha256": "7de2c8b6071846a8813279a1be524928e927e2b2318f0e9f625c84dfe51f17d7",
+      "md_span": {
+        "start": 15323,
+        "end": 15849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_13/20230901",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 1re — Garantie de l’État"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Une garantie de l’État n’est accordée qu’à l’emprunteur majeur :\n\n1. qui rapporte la preuve d’une épargne régulière et constante pendant une période d’au moins trois ans auprès d’un établissement de crédit ; le solde du compte d’épargne doit augmenter d’un montant net de 1 000 euros par an pendant une période d’au moins trois ans précédant la date de la demande ;\n2. qui a obtenu auprès d’un établissement de crédit un prêt hypothécaire correspondant à au moins 60 pour cent du coût du projet relatif au logement, garanti par une hypothèque sur le logement pour lequel le prêt est consenti et dont le taux d’intérêt débiteur n’est pas supérieur au taux-plafond fixé par l’article 21 ; l’établissement de crédit doit avoir préalablement signé avec l’État une convention réglant les modalités de mise en œuvre du prêt, les modalités du paiement des intérêts et les modalités en cas d’appel à la garantie étatique ;\n3. qui est titulaire unique du prêt et réunit dans son chef la pleine et exclusive propriété du logement pour lequel l’aide est sollicitée ; ce logement a une désignation cadastrale propre ;\n4. dont les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger au moment de l’octroi du prêt ;\n5. er\n\nPar coût du projet relatif au logement, il y a lieu d’entendre :\n\n1. en cas de nouvelle construction ou en cas de vente en état futur d’achèvement : le coût du terrain et des travaux de construction du logement ;\n2. en cas d’acquisition d’un logement antérieurement occupé : le coût d’acquisition et des éventuels travaux d’amélioration ou de transformation du logement.\n\n**(2)** Le revenu à prendre en considération pour la limite de revenu prévue au paragraphe 1er, point 5°, est le revenu net de l’année civile qui précède la date de la décision d’octroi de l’aide. Lorsque le revenu total à prendre en considération comprend un revenu provenant d’une occupation rémunérée qui n’a pas été exercée pendant toute l’année civile, ce revenu est à extrapoler sur l’année. En cas de changement d’employeur ou au cas où la communauté domestique n’a pas eu de revenu durant ladite année civile, le dernier revenu connu à la date de la décision d’octroi de l’aide est pris en considération et est extrapolé sur l’année.\n\nPar revenu net de la communauté domestique, on entend la somme :\n\n1. loi modifiée du 4 décembre 1967\n2. des rentes alimentaires perçues ;\n3. des montants nets des rentes accident,\n4. loi modifiée du 4 décembre 1967\n\nLa communauté domestique à prendre en considération est celle existant à la date de la décision d’octroi de l’aide.",
+      "text_sha256": "edfd1802097f7e22f1b737f86875c51968e8c409d1f92f95d50f1f320d5df981",
+      "md_span": {
+        "start": 15886,
+        "end": 18505
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_14/20230901",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 1re — Garantie de l’État"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La garantie de l’État porte sur la partie du prêt qui dépasse les 60 pour cent du coût du projet relatif au logement, sans pouvoir dépasser 30 pour cent dudit coût.\n\nElle ne peut pas dépasser le montant maximum de 26 000 euros correspondant à la valeur au nombre cent de l’indice de synthèse des prix de la construction établi par l’Institut national de la statistique et des études économiques du Grand-Duché de Luxembourg.\n\n**(2)** La garantie vaut pour la durée totale du prêt.\n\n**(3)** La garantie de l’État portant sur le remboursement du principal, des intérêts et des accessoires est limitée en proportion du montant initial de cette garantie par rapport au montant total du prêt.",
+      "text_sha256": "0a485ede6af7589886440f86f751a5aa2d5b6b5418b42717997efff9bae820f3",
+      "md_span": {
+        "start": 18542,
+        "end": 19237
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_15/20230901",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 1re — Garantie de l’État"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Lorsque l’établissement de crédit a fait les démarches nécessaires pour régulariser le défaut de paiement de l’emprunteur, précisées dans la convention prévue à l’article 13, paragraphe 1er, alinéa 1er, point 2°, et si le produit de vente réalisé lors de l’aliénation du logement par vente publique est insuffisant pour tenir indemne l’établissement de crédit, l’État se libère de son engagement en payant à ce dernier la perte qu’il a subie sans toutefois que la somme à payer par l’État ne puisse dépasser le montant de l’engagement pris en vertu de l’article 14, paragraphes 1er et 3. Dans ce cas, l’État est subrogé dans les droits de l’établissement de crédit, dans les proportions définies à l’article 14, paragraphe 3.\n\nLe recouvrement des sommes redues est assuré par l’Administration de l’enregistrement, des domaines et de la TVA suivant la procédure prévue en matière de recouvrement des droits d’enregistrement.",
+      "text_sha256": "9ecaa5d7e57ebb00843cb1b5d1f3a9da06333a9296a0de23cc4c9a1fe3f1bc37",
+      "md_span": {
+        "start": 19274,
+        "end": 20197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_16/20230901",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 2 — Aides à l’accession à la propriété d’un logement",
+        "Sous-section 1re — Prime d’accession à la propriété"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Le ministre est autorisé à accorder une prime d’accession à la propriété d’un logement différenciée suivant le revenu et la composition de la communauté domestique du demandeur. Elle est également différenciée suivant le type de construction du logement :\n\n1. lorsqu’il s’agit d’une maison jumelée, la prime accordée est augmentée de 15 pour cent ;\n2. s’il s’agit d’un logement en copropriété ou d’une maison en rangée, la prime accordée est augmentée de 40 pour cent.\n\nLa prime d’accession à la propriété est calculée conformément à la formule et aux paramètres de calcul prévus à l’annexe III.\n\n**(2)** Cette prime n’est accordée que si les conditions suivantes sont remplies :\n\n1. le demandeur est une personne physique majeure au jour de l’introduction de la demande ;\n2. le demandeur a contracté un prêt hypothécaire en vue de l’acquisition ou de la construction du logement auprès d’un établissement de crédit, et réunit dans son chef la pleine et exclusive propriété du logement pour lequel l’aide est sollicitée ;\n3. les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n4. le revenu de la communauté domestique remplit les conditions fixées par l’article 32 ;\n5. le logement a une désignation cadastrale propre ;\n6. le logement est l’habitation principale et permanente du demandeur, conformément à l’article 33 ;\n7. loi du 7 août 2023\n\n**(3)** La prime d’accession à la propriété est augmentée d’une prime compensatoire conjoncturelle de 20 000 euros en cas d’acquisition d’un logement si la date de l’acte authentique de vente a lieu entre la période allant de la date d’entrée en vigueur de la présente loi au 31 décembre 2024. La prime compensatoire conjoncturelle n’est accordée que pour des logements nouvellement construits et n’ayant pas été occupés antérieurement.\n\nAu cas où l’organisation de la construction du logement est réalisée par le bénéficiaire de la prime accordée, la date de début des travaux de construction déclarée au bourgmestre de la commune doit avoir lieu endéans la période prévue à l’alinéa 1er.",
+      "text_sha256": "826dc863a840084bdeab006eabd6f72d9a878c01458a6ed92e7f6c66e35b3f8b",
+      "md_span": {
+        "start": 20358,
+        "end": 22461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_17/20230901",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 2 — Aides à l’accession à la propriété d’un logement",
+        "Sous-section 2 — Prime d’épargne"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le ministre est autorisé à accorder une prime d’épargne au demandeur ayant obtenu un prêt hypothécaire en faveur d’un logement aux conditions suivantes :\n\n1. le demandeur est bénéficiaire d’une prime d’accession à la propriété d’un logement en vertu de l’article 16 ;\n2. il rapporte la preuve d’une épargne auprès d’un même établissement de crédit pendant une période d’au moins un an précédant la date à partir de laquelle les fonds épargnés sont investis dans le financement dudit logement.",
+      "text_sha256": "4f56a78c617044c084a817aec00db77fc96ebf5c366d27478a3806bb3b3218be",
+      "md_span": {
+        "start": 22537,
+        "end": 23029
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_18/20230901",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 2 — Aides à l’accession à la propriété d’un logement",
+        "Sous-section 2 — Prime d’épargne"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La prime d’épargne est égale à 10 pour cent de l’accroissement d’épargne par année calendrier sur le compte d’épargne investie dans le financement du logement. Pour chaque bénéficiaire, la prime est limitée à 500 euros par année calendrier et peut être obtenue pour une période maximale d’épargne de dix ans précédant la date à partir de laquelle les avoirs épargnés sont investis dans le financement du logement.\n\nPour bénéficier de la prime, au moins 90 pour cent des avoirs de ces comptes sont utilisés pour le financement du logement endéans les deux ans après la date de l’acte authentique d’acquisition du logement ou de l’acte authentique de vente en état futur d’achèvement. Sur demande écrite et dûment motivée, le ministre accorde, pour des raisons de force majeure, de santé ou de situation financière grave, une prolongation de ce délai pour une durée d’un an.",
+      "text_sha256": "8115e8a93db12bf1e8be334e7bde45d3d2c699727a4afc50bb42e52ab0034d46",
+      "md_span": {
+        "start": 23066,
+        "end": 23938
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_19/20230901",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 2 — Aides à l’accession à la propriété d’un logement",
+        "Sous-section 3 — Subvention d’intérêt"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le ministre est autorisé à accorder des subventions d’intérêt aux personnes qui ont contracté un prêt hypothécaire auprès d’un établissement de crédit en vue de la construction ou de l’acquisition d’un logement.\n\nLes subventions d’intérêt sont différenciées suivant la situation de revenu et de la composition de la communauté domestique de façon à réduire la charge d’intérêt en fonction de la capacité de remboursement des emprunteurs. Si la subvention d’intérêt est accordée à plusieurs personnes bénéficiaires, elle est répartie à parts égales entre celles-ci.\n\nChaque personne bénéficiaire a droit à un total de trois cents paiements mensuels pouvant concerner plusieurs logements, sans toutefois être simultanés.\n\nEn cas de décision d’octroi de la subvention d’intérêt, celle-ci est accordée à partir de la date de la demande si les conditions étaient remplies à cette date. Elle ne peut cependant pas être accordée pour un nouveau logement, construit ou encore en voie de construction, aussi longtemps que cette aide est encore payée dans le cadre d’une autre demande.",
+      "text_sha256": "c4ad99b3621a35c3bae44ef978cbe454bb94f6cd00348da3b17fadef16f57d12",
+      "md_span": {
+        "start": 24019,
+        "end": 25094
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_20/20230901",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 2 — Aides à l’accession à la propriété d’un logement",
+        "Sous-section 3 — Subvention d’intérêt"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La subvention d’intérêt n’est accordée que si les conditions suivantes sont remplies :\n\n1. le demandeur est une personne physique majeure au jour de l’introduction de la demande ;\n2. er\n3. les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n4. le revenu de la communauté domestique remplit les conditions fixées par l’article 32 ;\n5. le logement a une désignation cadastrale propre ;\n6. le logement est l’habitation principale et permanente du demandeur, conformément à l’article 33.",
+      "text_sha256": "1fc2738baf8e6eec012e2cbe270d84490c490266fa6e2f3b3d92b0cdd0afeb5f",
+      "md_span": {
+        "start": 25131,
+        "end": 25676
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_21/20230901",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 2 — Aides à l’accession à la propriété d’un logement",
+        "Sous-section 3 — Subvention d’intérêt"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le taux de la subvention d’intérêt est fixé suivant la formule et les paramètres de calcul prévus à l’annexe IV, sans que le taux de la subvention d’intérêt puisse dépasser le taux-plafond fixé à 3 pour cent.\n\nLorsque le taux d’intérêt nominal du prêt auquel s’applique la subvention d’intérêt est inférieur à un taux de référence fixé à 1,5 pour cent, le taux de la subvention d’intérêt est réduit de la moitié de la différence entre le taux de référence et le taux d’intérêt nominal arrondie au huitième de point inférieur, sans que le taux de la subvention d’intérêt puisse excéder le taux d’intérêt nominal du prêt.",
+      "text_sha256": "684f4524992c62f81fa34a70617603a1aadcc0a48c1e2268defc9f060d120bb9",
+      "md_span": {
+        "start": 25713,
+        "end": 26332
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_22/20230901",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 2 — Aides à l’accession à la propriété d’un logement",
+        "Sous-section 3 — Subvention d’intérêt"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La subvention d’intérêt est calculée sur base des intérêts à échoir en fonction du tableau d’amortissement prévu à l’annexe V. Elle est convertie en un montant d’aide périodique sur l’ensemble de la période d’amortissement du prêt hypothécaire.\n\nPour le calcul de la subvention d’intérêt, les prêts hypothécaires sont pris en considération jusqu’à concurrence de 200 000 euros par logement, augmenté de 20 000 euros par enfant à charge à ajouter au montant subventionné initial du prêt, avec un montant maximum à subventionner plafonné à 280 000 euros, qui s’amortit à partir du premier paiement de l’aide conformément au prédit tableau.\n\nAucune subvention d’intérêt n’est accordée si le montant mensuel de l’aide est inférieur à 10 euros.",
+      "text_sha256": "7049531056818537a556f4d3e73c3775bd96fc539f13e5c8bf7a3904d97191cf",
+      "md_span": {
+        "start": 26369,
+        "end": 27108
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_23/20230901",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 2 — Aides à l’accession à la propriété d’un logement",
+        "Sous-section 3 — Subvention d’intérêt"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La subvention d’intérêt n’est pas due en tout ou en partie et doit être remboursée à l’État, avec effet rétroactif, à partir du moment où une ou plusieurs conditions d’octroi ou de maintien de l’aide ne sont plus remplies au cours de la période prévue à l’article 33, paragraphe 1er.\n\n**(2)** En cas de départ d’un bénéficiaire du logement avant le délai prévu à l’article 33, paragraphe 1er, que ce soit pour cause de divorce, de séparation ou pour des raisons de force majeure, de santé ou de situation financière grave, le ministre accorde, sur demande écrite et motivée, au bénéficiaire restant dans le logement une continuation provisoire de la subvention d’intérêt pour une durée maximale de deux ans.\n\nAprès ce délai de deux ans, le bénéficiaire continuant à habiter dans le logement et ayant repris à lui seul le logement et le prêt hypothécaire introduit une nouvelle demande s’il veut obtenir une continuation de la subvention d’intérêt.",
+      "text_sha256": "0825323735cdeddd43e3be3d720339cb09af5831de88e19c8a58cee5264501de",
+      "md_span": {
+        "start": 27145,
+        "end": 28100
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_24/20230901",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 3 — Aides à l’amélioration d’un logement",
+        "Sous-section 1re — Prime d’amélioration"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le ministre est autorisé à accorder au demandeur :\n\n1. une prime d’amélioration pour la réalisation de travaux de rénovation ou de transformation de son logement visant à améliorer les conditions d’habitabilité, de salubrité et de sécurité de son logement, à l’exclusion des travaux ayant pour seul but l’entretien courant ou l’embellissement ;\n2. loi modifiée du 23 décembre 2016\n\nLa prime d’amélioration visée à l’alinéa 1er, point 1°, n’est accordée que si les conditions suivantes sont remplies :\n\n1. le demandeur est une personne physique majeure au jour de l’introduction de la demande ;\n2. le demandeur réunit dans son chef la pleine et exclusive propriété du logement pour lequel l’aide est sollicitée ;\n3. les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n4. le revenu de la communauté domestique remplit les conditions fixées par l’article 32 ;\n5. le logement, qui a une désignation cadastrale propre, est l’habitation principale et permanente du demandeur, conformément à l’article 33 ;\n6. le demandeur a présenté les factures acquittées relatives aux travaux d’amélioration réalisés.\n\nLa prime d’amélioration visée à l’alinéa 1er, point 2°, n’est accordée que si les conditions suivantes sont remplies :\n\n1. le demandeur est une personne physique majeure au jour de l’introduction de la demande ;\n2. le demandeur réunit dans son chef la pleine et exclusive propriété du logement pour lequel l’aide est sollicitée ;\n3. les membres de la communauté domestique n’ont aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n4. le revenu de la communauté domestique remplit les conditions fixées par l’article 32 ;\n5. le logement, qui a une désignation cadastrale propre, est l’habitation principale et permanente du demandeur, conformément à l’article 33 ;\n6. loi modifiée du 23 décembre 2016 er",
+      "text_sha256": "0414d15d793aae270dc356708846650242adc7dd417c2e3a93cb028037d01cb8",
+      "md_span": {
+        "start": 28237,
+        "end": 30116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_25/20230901",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 3 — Aides à l’amélioration d’un logement",
+        "Sous-section 1re — Prime d’amélioration"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Pour la prime d’amélioration visée à l’article 24, alinéa 1er, point 1°, sont éligibles les travaux relatifs :\n\n1. à la couverture du toit, à la charpente ou à la zinguerie ;\n2. à l’assèchement des murs humides ;\n3. à l’aménagement d’un vide sanitaire ou d’une isolation mécanique équivalente ;\n4. au raccordement à l’égout ou à l’évacuation des eaux usées ;\n5. à l’équipement du logement en salles de bains et WC, y compris la fosse septique ;\n6. à la pose de conduites d’eau, de gaz et d’électricité ;\n7. à l’installation et au renouvellement du chauffage central ;\n8. au remplacement de fenêtres ;\n9. à la pose et au remplacement de volets ;\n10. à l’installation de garde-corps sur le balcon ou dans la cage d’escalier ;\n11. à l’addition ou l’extension de pièces d’habitation ;\n12. au ravalement des façades par un procédé traditionnel ;\n\nà l’exception des travaux prévus par la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.\n\nPour la prime d’amélioration visée à l’article 24, alinéa 1er, point 2°, sont éligibles les travaux visés aux articles 4 et 5 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.\n\nLes travaux sont à effectuer dans un logement dont la première occupation est antérieure à dix ans.",
+      "text_sha256": "b4afdad5d649afd36eb0b60b8b44f04f5e3d3cbcc1d2414be3cc0167a644938c",
+      "md_span": {
+        "start": 30153,
+        "end": 31666
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/12/23/n20/jo",
+          "text": "loi modifiée du 23 décembre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_26/20230901",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 3 — Aides à l’amélioration d’un logement",
+        "Sous-section 1re — Prime d’amélioration"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La prime d’amélioration visée à l’article 24, alinéa 1er, point 1°, correspond à un pourcentage du montant des factures hors taxe sur la valeur ajoutée relatives aux travaux visés à l’article 25, alinéa 1er. Ce pourcentage est fixé en fonction du revenu et de la composition de la communauté domestique, conformément à l’article 32, paragraphe 3, et conformément à la formule et aux paramètres de calcul prévus à l’annexe VI, avec un plafond maximum de 40 pour cent du montant total des factures relatives auxdits travaux.\n\nPour pouvoir être prise en considération pour le calcul de l’aide, toute facture relative à des travaux d’amélioration éligibles porte individuellement sur un montant minimum de 500 euros hors taxe sur la valeur ajoutée et être notifiée au ministre endéans un délai de deux ans après son émission. Chaque facture ne peut être prise en considération que pour le calcul d’une seule tranche de prime d’amélioration.\n\nAucune prime d’amélioration n’est accordée si le montant total de la prime est inférieur à 125 euros.\n\n**(2)** La prime d’amélioration visée à l’article 24, alinéa 1er, point 2°, correspond à un pourcentage du montant de l’aide financière accordée pour des travaux visés à l’article 25, alinéa 2. Ce pourcentage est fixé en fonction du revenu et de la composition de la communauté domestique, conformément à l’article 32, paragraphe 4, et conformément à la formule et aux paramètres de calcul prévus à l’annexe VI, avec un plafond maximum de 100 pour cent du montant de l’aide financière accordée pour lesdits travaux.",
+      "text_sha256": "e75ae687c0acc1e035f948d5636f47276b01d9c380fff376afc404589939c683",
+      "md_span": {
+        "start": 31703,
+        "end": 33267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_27/20230901",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 3 — Aides à l’amélioration d’un logement",
+        "Sous-section 2 — Subvention d’intérêt"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le ministre est autorisé à accorder des subventions d’intérêt aux personnes qui ont contracté un prêt hypothécaire auprès d’un établissement de crédit en vue de l’amélioration de leur logement.\n\nLes conditions prévues aux articles 19, alinéas 2 à 4, 20 à 23 et 25 s’appliquent. Les prêts hypothécaires contractés en vue de l’acquisition, de la construction et de l’amélioration d’un logement ne peuvent être pris en considération que jusqu’à concurrence de 200 000 euros par logement, augmenté de 20 000 euros par enfant à charge à ajouter au montant subventionné initial du prêt, avec un montant maximum à subventionner plafonné à 280 000 euros.",
+      "text_sha256": "c50a8231e13f3d59c002f814eae637ab357ad991731077ea4dc3e2d8764f810d",
+      "md_span": {
+        "start": 33348,
+        "end": 33994
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_28/20230901",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 3 — Aides à l’amélioration d’un logement",
+        "Sous-section 3 — Prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Le ministre est autorisé à accorder une prime pour aménagements spéciaux de constructions nouvelles ou de logements existants qui ne sont pas pris en charge par l’assurance dépendance et qui répondent aux besoins spécifiques de personnes en situation de handicap.\n\nEst à considérer comme une personne en situation de handicap au sens de la présente loi toute personne qui présente une incapacité physique, mentale, intellectuelle ou sensorielle durable, dont l’interaction avec diverses barrières peut faire obstacle à sa pleine et effective participation à la société sur la base de l’égalité avec les autres.\n\n**(2)** La prime n’est accordée à la personne en situation de handicap que si les conditions suivantes sont remplies :\n\n1. la communauté domestique répond aux conditions de revenu fixées par l’article 32 ;\n2. la personne en situation de handicap ou son représentant légal a réalisé à ses frais des travaux d’aménagements spéciaux visés à l’article 29 ;\n3. le logement, qui a une désignation cadastrale propre et dans lequel sont réalisés les aménagements spéciaux, est l’habitation principale et permanente de la personne en situation de handicap, conformément à l’article 33.\n\nEn cas de demandeur incapable ou placé sous un régime de protection, la demande est à remplir et à signer par son représentant légal.",
+      "text_sha256": "be27b38ef0382ab95a5e0d96d0f36680a0b396f0f312fb9210105f6dd8181d6c",
+      "md_span": {
+        "start": 34147,
+        "end": 35478
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_29/20230901",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 3 — Aides à l’amélioration d’un logement",
+        "Sous-section 3 — Prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Sont considérés comme aménagements spéciaux :\n\n1. l’aménagement d’un accès au logement répondant aux besoins spécifiques de la personne en situation de handicap ;\n2. les transformations et aménagements à l’intérieur du logement facilitant le déplacement de la personne en situation de handicap ;\n3. l’élargissement de portes ;\n4. la première installation d’un ascenseur spécial ou d’un équipement équivalent ;\n5. la première installation d’équipements dans la cuisine, dans la salle de bains et aux toilettes répondant aux besoins spécifiques de la personne en situation de handicap ;\n6. l’aménagement d’installations techniques répondant aux besoins spécifiques de la personne en situation de handicap.",
+      "text_sha256": "eaf9c7a5d57eb1e73c80b37100a307f4a1b77954b30797706802efa29e3ef6da",
+      "md_span": {
+        "start": 35515,
+        "end": 36218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_30/20230901",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 3 — Aides à l’amélioration d’un logement",
+        "Sous-section 3 — Prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La prime correspond à un pourcentage du montant des factures hors taxe sur la valeur ajoutée relatives aux travaux d’aménagements spéciaux visés à l’article 29. Ce pourcentage est fixé en fonction du revenu et de la composition de la communauté domestique, conformément à la formule et aux paramètres de calcul prévus à l’annexe VII, avec un plafond maximum de 60 pour cent du montant total des factures hors taxe sur la valeur ajoutée, sans pouvoir dépasser la somme totale de 20 000 euros par personne en situation de handicap. L’aide peut être payée en tranches.",
+      "text_sha256": "e76a30a01e6baaa6c7532d1d1fa0dfba740b4abd36f3b8583c08770f9277c4df",
+      "md_span": {
+        "start": 36255,
+        "end": 36820
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_31/20230901",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 3 — Aides à l’amélioration d’un logement",
+        "Sous-section 4 — Prime de création d’un logement intégré"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le ministre est autorisé à accorder une prime de création d’un logement intégré.\n\nCette prime, qui est d’un montant de 10 000 euros, n’est accordée que si les conditions suivantes sont remplies :\n\n1. le demandeur est une personne physique majeure au jour de l’introduction de la demande ;\n2. le demandeur n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n3. le demandeur a obtenu une autorisation de bâtir de l’administration communale compétente avant de réaliser les travaux de transformation ;\n4. er\n\nPar dérogation à l’alinéa 2, la prime est augmentée à 20 000 euros pour tout logement intégré dont la première occupation a lieu après l’entrée en vigueur de la présente loi et qui est achevé avant le 31 décembre 2026.",
+      "text_sha256": "55319f636a12627aa28a2b4c37627659364d69dfaf3260e96d8c96e9b6fe95ed",
+      "md_span": {
+        "start": 36920,
+        "end": 37664
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_32/20230901",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 4 — Dispositions générales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Le revenu à prendre en considération pour le calcul des primes d’accession à la propriété, des primes d’amélioration, des primes pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap et des subventions d’intérêt est le revenu net dont dispose le demandeur et tout autre membre de la communauté domestique qui vit dans le logement en question.\n\nPar revenu net, il y a lieu d’entendre la somme :\n\n1. loi modifiée du 4 décembre 1967\n2. des rentes alimentaires perçues ;\n3. des montants nets des rentes accident ;\n4. loi modifiée du 4 décembre 1967\n\nLes rentes alimentaires virées sont déduites du revenu.\n\nUne indemnité payée durant une période de stage est considérée comme un revenu si le demandeur a été affilié à un régime d’assurance maladie et pension durant cette période.\n\n**(2)** Pour l’octroi d’une prime d’accession à la propriété, le revenu défini au paragraphe 1er correspond à la moyenne des revenus des deux années civiles qui précèdent la date de l’acte authentique documentant l’acquisition du logement ou la date de l’acte authentique en cas de vente en état futur d’achèvement du logement. Au cas où l’organisation de la construction du logement est réalisée par le demandeur, la date de début des travaux de construction déclarée au bourgmestre de la commune est prise en considération. Si la communauté domestique n’a pas eu de revenu au cours de l’année civile qui précède une desdites dates, aucune prime d’accession à la propriété ne peut être accordée.\n\nLorsque la communauté domestique dispose de revenus seulement au cours de l’année civile de l’acte authentique et de l’année civile qui précède cette date, le revenu défini au paragraphe 1er correspond à la moyenne des revenus de ces deux années civiles.\n\n**(3)** Pour l’octroi d’une prime d’amélioration prévue à l’article 24, alinéa 1er, point 1°, ou d’une prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap prévue à l’article 28, le revenu défini au paragraphe 1er correspond à la moyenne des revenus des deux années civiles qui précèdent l’année au cours de laquelle les factures relatives aux travaux d’amélioration ou de transformation éligibles ont été émises.\n\nSi la communauté domestique dispose de revenus seulement au cours de l’année de la date d’émission des factures relatives aux travaux d’amélioration ou de transformation éligibles et de l’année qui précède cette date, le revenu défini au paragraphe 1er correspond à la moyenne des revenus de ces deux années civiles.\n\nLorsque la communauté domestique n’a pas eu de revenu au cours de l’année civile qui précède la date d’émission des factures éligibles prévue à l’alinéa 1er, aucune prime d’amélioration prévue à l’article 24, alinéa 1er, point 1°, ou aucune prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap prévue à l’article 28 ne peut être accordée.\n\n**(4)** Pour l’octroi d’une prime d’amélioration prévue à l’article 24, alinéa 1er, point 2°, le revenu défini au paragraphe 1er correspond à la moyenne des revenus des deux années civiles qui précèdent l’année au cours de laquelle la décision d’octroi d’une aide financière prévue aux articles 4 ou 5 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement a été prise. Si la communauté domestique dispose de revenus seulement au cours de l’année de la prédite date de décision et au cours de l’année qui précède cette date, le revenu défini au paragraphe 1er correspond à la moyenne des revenus de ces deux années civiles.\n\nLorsque la communauté domestique n’a pas eu de revenu au cours de l’année civile qui précède la date de la décision prévue à l’alinéa 1er, aucune prime d’amélioration prévue à l’article 24, alinéa 1er, point 2°, ne peut être accordée.\n\n**(5)** Pour l’octroi d’une subvention d’intérêt, le revenu défini au paragraphe 1er correspond au revenu de l’année civile qui précède le mois à partir duquel l’aide mensuelle est accordée.\n\nEn cas de changement d’employeur ou d’une modification du contrat de travail ayant un impact sur le revenu durant l’année au cours de laquelle l’aide mensuelle est accordée, ou au cas où la communauté domestique n’a pas eu de revenu durant l’année civile qui précède la date à partir de laquelle l’aide est accordée, le dernier revenu connu est pris en considération et est extrapolé sur l’année.\n\n**(6)** Lorsque le revenu total à prendre en considération comprend un revenu provenant d’une occupation rémunérée qui n’a pas été exercée pendant toute la durée d’une année civile, ce revenu est à extrapoler sur l’année.\n\nL’année civile pour laquelle aucun revenu n’a été déclaré ne peut pas entrer en ligne de compte.",
+      "text_sha256": "d295d7d5de16a11b4006b726d902eab4c64277af8284f3e907ae2591d44e68bb",
+      "md_span": {
+        "start": 37741,
+        "end": 42586
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/12/23/n20/jo",
+          "text": "loi modifiée du 23 décembre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_33/20230901",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 4 — Dispositions générales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Le logement pour lequel une prime d’accession à la propriété, une prime d’épargne, une prime d’amélioration, une prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap, une prime de création d’un logement intégré ou une subvention d’intérêt est accordée doit, sous peine de restitution de celle-ci, être l’habitation principale et permanente du bénéficiaire pendant un délai d’au moins deux ans :\n\n1. pour la prime d’accession à la propriété ou la prime d’épargne, ce délai commence à partir de la date du premier paiement d’une de ces aides ;\n2. pour la prime d’amélioration, la prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap ou la prime de création d’un logement intégré, le délai de deux ans commence à partir de la date de décision d’octroi de l’aide ; lorsque le bénéficiaire est empêché d’habiter dans le logement durant les travaux d’amélioration, le délai ne commence à courir qu’à partir du jour où il commence à occuper le logement en question après la fin des travaux ;\n3. pour la subvention d’intérêt, le délai de deux ans commence à partir de la date du premier paiement de l’aide ; si une subvention d’intérêt est payée au bénéficiaire postérieurement audit délai, la condition de l’habitation principale et permanente est respectée aussi longtemps que cette aide est payée au bénéficiaire.\n\n**(2)** Au cas où la date de début du délai prévu pour une aide visée au paragraphe 1er ne peut pas être respectée par le bénéficiaire de l’aide, celui-ci dispose d’un délai maximal de trois ans à partir de la date de décision d’octroi de l’aide pour habiter dans le logement, sous peine de restitution de l’aide.\n\n**(3)** Pour respecter la condition de l’habitation principale et permanente, l’adresse du bénéficiaire inscrite au registre national des personnes physiques est identique à celle du logement pour lequel l’aide est accordée. Le bénéficiaire doit y être déclaré pendant le délai prévu au paragraphe 1er pour l’aide concernée.",
+      "text_sha256": "8c95f1da49edd79904e16d1bfb25244cc847bd07d7d72ecea96acb43ec1376da",
+      "md_span": {
+        "start": 42623,
+        "end": 44660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_34/20230901",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 4 — Dispositions générales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Les aides prévues par le présent chapitre ne sont pas dues et sont restituées, avec effet rétroactif, si pendant un des délais prévus à l’article 33, paragraphe 1er, le bénéficiaire donne en location le logement pour lequel il demande ou pour lequel il a obtenu une prime ou une subvention d’intérêt.\n\nPar dérogation à l’alinéa 1er, une location est permise en cas de dispense de la condition d’habitation prévue à l’article 36, paragraphe 2, alinéa 1er.\n\n**(2)** Une location partielle du logement ou une location du logement intégré faisant partie de l’immeuble abritant le logement du demandeur ou bénéficiaire d’une aide est permise si les conditions suivantes sont respectées :\n\n1. le demandeur ou bénéficiaire d’une aide a conclu avec les occupants un contrat de bail à usage d’habitation par écrit ; le montant du loyer est à ajouter au revenu pris en considération pour le calcul d’une aide à partir de la date du début d’occupation par les locataires ;\n2. le demandeur ou bénéficiaire d’une aide habite dans le logement.\n\nLe revenu de toute autre personne occupant le logement ou le logement intégré faisant partie de l’immeuble abritant le logement est à ajouter au revenu pris en considération conformément à l’article 32, paragraphe 1er, pour le calcul d’une aide à partir de la date du début d’occupation de cette personne.\n\n**(3)** Par dérogation à l’article 32, paragraphe 1er, en cas de demande motivée, le ministre peut, sur avis de la commission prévue à l’article 48, décider que le revenu d’une autre personne occupant le logement n’est pas pris en considération pendant une durée maximale de douze mois pour le calcul du revenu visé à l’article 32, paragraphe 1er, pour des raisons tenant à la situation familiale, professionnelle ou de santé dûment documentées.\n\nEst visée toute personne sortant d’un centre pénitentiaire, d’un établissement hospitalier, d’un traitement dûment autorisé par le Contrôle médical de la sécurité sociale dans un établissement de santé stationnaire à l’étranger, d’une structure d’hébergement réservée au logement provisoire d’étrangers gérée par l’Office national de l’accueil ou les organismes et instances partenaires ou d’une structure d’hébergement tombant sous le champ d’application de l’article 1er de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, ou d’une personne condamnée à déguerpir d’un logement ou expulsée d’un logement par décision judiciaire, et qui est hébergée à titre gratuit.",
+      "text_sha256": "0b55f234535501c34e7938be6cf9312fd3952f72976792f4d29ed959cc3e265c",
+      "md_span": {
+        "start": 44697,
+        "end": 47257
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/09/08/n4/jo",
+          "text": "loi modifiée du 8 septembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_35/20230901",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 4 — Dispositions générales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "En cas de non-respect du délai minimum d’habitation principale et permanente prévu à l’article 33, paragraphe 1er, en cas d’aliénation avant ledit délai ou en cas de non-respect du délai de trois ans prévu à l’article 33, paragraphe 2, les aides accordées visées aux articles 16, 17, 19, 24, 27, 28 et 31 sont à rembourser par le bénéficiaire.\n\nEn cas de décès d’une personne bénéficiaire avant ledit délai, sa part de l’aide n’est pas remboursable.\n\nUne transmission du logement par changement de régime matrimonial n’est pas à considérer comme une aliénation pour autant que le logement demeure celui de la communauté domestique.",
+      "text_sha256": "7ab0374d618a726eca1eda4074e419e1ca54b540c12c3d89c875695056d45524",
+      "md_span": {
+        "start": 47294,
+        "end": 47925
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_36/20230901",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 4 — Dispositions générales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Dans le cas d’un remboursement prévu à l’article 35, le ministre peut, en cas de demande motivée et sur avis de la commission prévue à l’article 48, dispenser totalement ou partiellement du remboursement du montant de l’aide à rembourser pour des raisons de santé, de force majeure, familiales ou financières, en tenant notamment compte du prix réalisé, de la durée d’habitation ou de la composition de la communauté domestique.\n\n**(2)** Une dispense de la condition d’habitation principale et permanente pour une durée maximale de deux ans peut être accordée par le ministre, sur avis de la commission prévue à l’article 48, en cas de demande motivée pour des raisons de santé, de force majeure, familiales ou financières.\n\nLe bénéficiaire qui habite le logement doit introduire la demande de dispense avant son départ.\n\nPendant la période dispensée, aucune aide n’est due, sauf en cas de transformation ou de rénovation substantielle du logement nécessitant le départ du bénéficiaire pendant les travaux.",
+      "text_sha256": "f5a36200ea9d1e31231763c0652cf283b0af9ec546778680822bb12b2d733e91",
+      "md_span": {
+        "start": 47962,
+        "end": 48976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_37/20230901",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Aides à la propriété d’un logement",
+        "Section 4 — Dispositions générales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La somme des primes en capital prévues aux articles 16 à 18 et 24 à 26 ne peut pas dépasser le montant de 35 000 euros par bénéficiaire.\n\nElles peuvent être payées en tranches, et concerner plusieurs logements. Chaque tranche d’une de ces primes est à calculer suivant le revenu et la composition de la communauté domestique du demandeur, conformément aux dispositions respectives prévues aux articles 16 à 18 ou par les articles 24 à 26.\n\nEn cas de pluralité de bénéficiaires, l’imputation de chaque tranche d’une prime est opérée à parts égales entre celles-ci.",
+      "text_sha256": "cadcd3eb4d1975d3e5e31087573bea6dc290438ed3cfaa04efa71e1ca3b5f74f",
+      "md_span": {
+        "start": 49013,
+        "end": 49576
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_38/20230901",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Aides à l’assainissement énergétique d’un logement",
+        "Section 1re — Garantie de l’État pour un prêt climatique"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Une aide sous forme d’une garantie étatique pour un prêt climatique contracté en vue de la réalisation de mesures d’assainissement d’un logement ou en vue de l’équipement d’un logement avec des installations techniques est accordée par le ministre à l’emprunteur si les conditions suivantes sont remplies :\n\n1. l’emprunteur est une personne physique majeure au jour de l’introduction de la demande ;\n2. l’emprunteur sollicite un prêt hypothécaire auprès d’un établissement de crédit dédié à la réalisation de mesures d’assainissement d’un logement ou en vue de l’équipement d’un logement avec des installations techniques et dont le taux d’intérêt débiteur n’est pas supérieur au taux-plafond fixé par l’article 21 ; la destination des fonds renseignée dans le contrat de prêt précise clairement que le prêt est uniquement contracté en vue de la réalisation de mesures d’assainissement ou de l’équipement du logement avec des installations techniques ;\n3. la première occupation du logement date de dix ans au moins lors de l’introduction de la demande ;\n4. le logement, qui a une désignation cadastrale propre, est l’habitation principale et permanente de l’emprunteur ;\n5. le prêt est contracté auprès d’un établissement de crédit ayant au préalable signé avec l’État une convention réglant les modalités de la mise en œuvre du prêt, les modalités du paiement des intérêts et les modalités en cas d’appel à la garantie étatique ;\n6. l’emprunteur est titulaire unique du prêt contracté et réunit dans son chef la pleine et exclusive propriété du logement pour lequel l’aide est sollicitée ;\n7. l’emprunteur n’a aucun autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n8. loi modifiée du 23 décembre 2016\n\nPour l’application du présent chapitre, il y a lieu d’entendre par mesure d’assainissement toute mesure d’assainissement au sens de l’article 4 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement. Par installation technique, il y a lieu d’entendre toute installation technique au sens de l’article 5 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.",
+      "text_sha256": "0103b1a702f0991ffca5ea3f581c32adf11f354a3aa6728f868922dbad74c4f8",
+      "md_span": {
+        "start": 49743,
+        "end": 52116
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/12/23/n20/jo",
+          "text": "loi modifiée du 23 décembre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_39/20230901",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Aides à l’assainissement énergétique d’un logement",
+        "Section 1re — Garantie de l’État pour un prêt climatique"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le prêt est garanti par une hypothèque inscrite au profit de l’établissement de crédit sur le logement pour lequel le prêt est consenti.\n\nEn cas d’octroi de la garantie, le bénéficiaire produit un certificat du bordereau d’inscription hypothécaire sur première demande du ministre.",
+      "text_sha256": "d46f56dc40c29a469f8474bdc59b20e8811213cbed12964763d5496a1f73bb4c",
+      "md_span": {
+        "start": 52153,
+        "end": 52434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_40/20230901",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Aides à l’assainissement énergétique d’un logement",
+        "Section 1re — Garantie de l’État pour un prêt climatique"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La garantie étatique porte sur le montant principal du prêt accordé au bénéficiaire ainsi que les intérêts à échoir sans pouvoir dépasser la somme totale de 50 000 euros.\n\n**(2)** La garantie vaut pour une durée maximale de quinze ans à compter de la date de la première liquidation du prêt par l’établissement de crédit. Au cas où l’intention de faire appel à la garantie a été notifiée par l’établissement de crédit au ministre avant l’échéance du délai de quinze ans, ce délai maximal est prolongé jusqu’à la date où les démarches auxquelles l’établissement de crédit est tenu en vertu de la convention prévue à l’article 38, alinéa 1er, point 5°, pour régulariser le défaut de paiement de l’emprunteur prennent fin.\n\n**(3)** La garantie de l’État prend fin automatiquement au terme du remboursement du prêt.",
+      "text_sha256": "75f54dcdefaf6f9f47cca4924445b4eef4d3a7ac53ff6a5e5128f8cabd735d1b",
+      "md_span": {
+        "start": 52471,
+        "end": 53290
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_41/20230901",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Aides à l’assainissement énergétique d’un logement",
+        "Section 1re — Garantie de l’État pour un prêt climatique"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La garantie de l’État portant sur le remboursement du principal, des intérêts et des accessoires est limitée en proportion du montant initial de cette garantie par rapport au montant total du prêt.\n\n**(2)** Lorsque l’établissement de crédit a fait les démarches nécessaires pour régulariser le défaut de paiement de l’emprunteur, précisées dans la convention prévue à l’article 38, alinéa 1er, point 5°, l’État se libère de son engagement en payant à l’établissement de crédit la perte qu’il a subie sans que la somme à payer par l’État ne puisse dépasser le montant de l’engagement pris en vertu de l’article 40. Dans ce cas, l’État est subrogé dans les droits de l’établissement de crédit, dans les proportions définies au paragraphe 1er.\n\nLe recouvrement des sommes redues est assuré par l’Administration de l’enregistrement, des domaines et de la TVA suivant la procédure prévue en matière de recouvrement des droits d’enregistrement.",
+      "text_sha256": "fa2003d1cdfe08ca4b27baa9fe0b0b0edb2cca6841c113e26184cea215d3585d",
+      "md_span": {
+        "start": 53327,
+        "end": 54273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_42/20230901",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Aides à l’assainissement énergétique d’un logement",
+        "Section 2 — Subvention d’intérêt pour prêt climatique"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Une aide financière sous la forme d’une subvention d’intérêt liée à un prêt au sens de l’article 38, alinéa 1er, est accordée au demandeur par le ministre, si les conditions suivantes sont remplies :\n\n1. le demandeur est une personne physique majeure au jour de l’introduction de la demande ;\n2. le demandeur a contracté un prêt en vue de la réalisation de mesures d’assainissement d’un logement ou en vue de l’équipement d’un logement avec des installations techniques ;\n3. le demandeur est titulaire unique du prêt et réunit dans son chef la pleine et exclusive propriété du logement pour lequel l’aide est sollicitée ;\n4. la première occupation du logement date de dix ans au moins lors de l’introduction de la demande ;\n5. le logement, qui a une désignation cadastrale propre, est l’habitation principale et permanente selon les conditions indiquées à l’article 43 ;\n6. loi modifiée du 23 décembre 2016\n\n**(2)** Le taux de la subvention d’intérêt est de 1,5 pour cent sans qu’il puisse dépasser le taux d’intérêt nominal du prêt.\n\n**(3)** La subvention d’intérêt est calculée sur base des intérêts à échoir en fonction du tableau d’amortissement prévu à l’annexe VIII. Le montant principal du prêt pris en considération pour un même logement, que ce soit au titre d’un seul prêt ou que ce soit au titre de plusieurs prêts, ne peut dépasser le montant de 100 000 euros. Ce montant s’amortit sur une période maximale de quinze ans à partir du premier paiement de la subvention d’intérêt.\n\nLe montant maximum à subventionner correspond au montant des frais éligibles retenus pour la décision d’octroi d’une aide financière prévue aux articles 4 et 5 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement pour les travaux financés par le prêt, sans toutefois pouvoir dépasser le montant maximal prévu à l’alinéa 1er.\n\n**(4)** Le montant total de la subvention d’intérêt accordée ne peut pas dépasser 10 pour cent du montant principal du prêt ou de la partie du prêt contracté en vue de la réalisation de mesures d’assainissement d’un logement ou en vue de l’équipement d’un logement avec des installations techniques.",
+      "text_sha256": "15b04845d0326be317235ac9c2bb93d2404e68435cabe4096cd9bf1e74771b24",
+      "md_span": {
+        "start": 54369,
+        "end": 56644
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/12/23/n20/jo",
+          "text": "loi modifiée du 23 décembre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_43/20230901",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Aides à l’assainissement énergétique d’un logement",
+        "Section 2 — Subvention d’intérêt pour prêt climatique"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Au plus tard trois ans à compter du début des travaux relatifs aux mesures d’assainissement ou des installations techniques le logement pour lequel une subvention d’intérêt pour prêt climatique est accordée doit, sous peine de restitution, être l’habitation principale et permanente du bénéficiaire ou d’un tiers pendant la période de paiement de la subvention d’intérêt.\n\nLe ministre peut accorder une prolongation de ce délai pour une durée maximale de deux ans sur demande écrite et dûment motivée par le bénéficiaire et pour des raisons de force majeure, des raisons de santé, des raisons familiales, des raisons professionnelles ou des raisons financières.\n\nPassé ce délai, aucune subvention d’intérêt n’est accordée si la condition d’habitation principale et permanente n’est pas respectée.",
+      "text_sha256": "e510a1f6002e2a48eac57314c73ee2648b9a8a10a0379efde9ad0ffd37358b6b",
+      "md_span": {
+        "start": 56681,
+        "end": 57477
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_44/20230901",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Aides à l’assainissement énergétique d’un logement",
+        "Section 2 — Subvention d’intérêt pour prêt climatique"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La subvention d’intérêt est accordée à partir de la date d’introduction de la demande. Une période de dix-huit mois, antérieure à la date d’introduction de la demande et pendant laquelle les conditions énoncées à l’article 42 étaient remplies, est prise en compte à condition que les travaux financés par le prêt aient été entamés.\n\n**(2)** La subvention d’intérêt est virée sur le compte indiqué par le demandeur sur le formulaire de demande d’aide. Aucune subvention d’intérêt n’est accordée si le montant mensuel est inférieur à 10 euros.",
+      "text_sha256": "aac53132718b428b982a65fac4dcb7fbce6ca2be22762854341fb28e9b61f1ca",
+      "md_span": {
+        "start": 57514,
+        "end": 58063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_45/20230901",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Conditions générales relatives aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** La demande en obtention d’une aide est à adresser au ministre moyennant un formulaire de demande spécifique, mis à disposition des personnes intéressées, qui est dûment rempli, daté et signé.\n\nPour que la demande soit recevable, le demandeur doit bénéficier d’un droit de séjour de plus de trois mois au moment de la demande conformément à la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration et être inscrit au registre principal du registre national des personnes physiques.\n\n**(2)** Le demandeur est tenu, sur demande du ministre, de fournir tous les renseignements et documents nécessaires à l’instruction, à la gestion et au suivi de sa demande d’aide, pour contrôler si les conditions d’octroi et de maintien d’une aide sont remplies. À défaut de donner suite à cette demande endéans un délai de trois mois, le dossier de demande est clôturé.\n\n**(3)** Un règlement grand-ducal précise les modalités relatives à la demande en obtention d’une aide et les pièces justificatives requises.",
+      "text_sha256": "6be8e9698973b21d50fe6d1aec943d64d3e5cb9c8f929779423bd7394ef51791",
+      "md_span": {
+        "start": 58184,
+        "end": 59217
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi modifiée du 29 août 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_46/20230901",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Conditions générales relatives aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Le bénéficiaire d’une aide est tenu d’informer dans les plus brefs délais le ministre de tout changement susceptible d’influencer le maintien, la modification ou la suppression d’une des aides prévues par la présente loi, sous peine de restitution de l’aide avec effet rétroactif.\n\n**(2)** En cas de déclaration inexacte ou incomplète en vue de l’octroi, du maintien ou de la modification d’une aide prévue aux chapitres 2, 3 ou 4, ou en cas de refus de communiquer les renseignements ou documents demandés par le ministre endéans un délai de trois mois, l’aide est refusée, et, au cas où elle a déjà été accordée et payée, l’aide indûment touchée est à restituer avec effet rétroactif par le bénéficiaire à l’État.\n\n**(3)** En cas d’octroi d’une garantie de l’État prévue aux articles 13 ou 38, l’établissement de crédit auprès duquel le demandeur ou bénéficiaire a obtenu le prêt hypothécaire communique une fois par an au ministre :\n\n1. les titulaires du prêt ;\n2. le numéro du compte prêt ;\n3. le taux d’intérêt du prêt appliqué par l’établissement de crédit ;\n4. le solde restant dû du prêt ;\n5. la durée restante du prêt.\n\nL’établissement de crédit informe également le ministre de toute modification du plan d’amortissement ainsi que de tout remboursement intégral ou transfert du prêt. Dans le cas d’une demande de subvention d’intérêt pour prêt climatique, lorsque le prêt hypothécaire liquidé n’est pas utilisé par le bénéficiaire, l’établissement de crédit en informe le ministre dans les plus brefs délais.",
+      "text_sha256": "d54188758a1dac13009cf904a4a3299a0ace2ddae8672cdd048b28764a3cd822",
+      "md_span": {
+        "start": 59254,
+        "end": 60780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_47/20230901",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Conditions générales relatives aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "La communauté domestique à prendre en considération pour la détermination des aides à la location, des primes d’accession à la propriété, des primes d’amélioration et des subventions d’intérêt est :\n\n1. pour l’octroi d’une aide au financement d’une garantie locative, celle existant à la date de la décision d’octroi de l’aide ;\n2. pour l’octroi d’une prime d’accession à la propriété, celle existant à la date de l’acte authentique documentant l’acquisition du logement ou celle existant à la date de l’acte authentique en cas de vente en état futur d’achèvement ; au cas où l’organisation de la construction du logement est réalisée par le demandeur, la date de déclaration du début des travaux sur le chantier au bourgmestre est prise en considération ; en cas de naissance d’un enfant dans l’année qui suit cette date, le demandeur a le droit de demander le réexamen de la prime sur base de cette nouvelle composition de la communauté domestique ;\n3. pour l’octroi d’une prime d’amélioration ou d’une prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap, celle existant à la date de la décision d’octroi de l’aide ;\n4. pour l’octroi d’une subvention d’intérêt ou d’une subvention de loyer, celle existant à la date à partir de laquelle l’aide mensuelle est accordée.",
+      "text_sha256": "ebdf6419f22afeb9d223de067b4419abbab3890b96968113638442142f7ffddd",
+      "md_span": {
+        "start": 60817,
+        "end": 62127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_48/20230901",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Conditions générales relatives aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Les décisions concernant l’octroi, le refus ou le remboursement total ou partiel des aides prévues aux articles 3 à 31 et 38 à 44 sont prises par le ministre, sur avis de la commission en matière d’aides individuelles au logement, dénommée ci-après « commission ».\n\nElles sont notifiées par voie postale aux demandeurs ou bénéficiaires concernés.\n\n**(2)** La commission se compose de cinq membres.\n\nLes membres de la commission sont nommés par le ministre parmi les fonctionnaires, employés publics et agents du ministre. Les nominations des membres de la commission sont faites pour un terme renouvelable de cinq ans, sauf en cas de révocation par le ministre, laquelle peut intervenir à tout moment.\n\nEn cas de décès ou de démission d’un membre de la commission, un nouveau membre est nommé par le ministre. Ce nouveau membre achève le mandat de celui dont il prend la place.\n\nLe président et le vice-président de la commission sont nommés par le ministre. Ils sont choisis parmi les membres de la commission.\n\n**(3)** La commission se réunit aussi souvent que sa mission l’exige.\n\nLa commission délibère valablement en présence d’au moins trois membres dont le président ou le vice-président. Les avis sont pris à la majorité des membres présents. En cas d’égalité des voix, la voix du président ou, le cas échéant, du vice-président, est prépondérante.\n\nLe membre empêché d’assister à une séance de la commission est tenu d’en avertir en temps utile les autres membres de la commission.\n\n**(4)** Lorsqu’un des membres de la commission a un intérêt personnel concernant un dossier, celui-ci ne peut participer à aucune délibération relative à ce dossier. Il en informe à l’avance les autres membres de la commission.\n\n**(5)** L’avis de la commission dûment motivé est signé par au moins un des membres présents à la réunion de la commission au cours de laquelle l’avis a été émis. L’avis de la commission indique la composition de la commission, les noms des membres ayant assisté à la séance et le nombre de voix exprimées en faveur de l’avis émis. Les avis séparés éventuels sont annexés.\n\n**(6)** Les membres de la commission sont tenus de garder le secret des délibérations et de ne pas divulguer les données inhérentes aux dossiers traités.\n\n**(7)** La commission peut se donner un règlement interne de fonctionnement contenant les directives techniques devant servir de gouverne lors de l’appréciation des dossiers.\n\n**(8)** La commission soumet au ministre un rapport de chaque séance contenant une liste de présence des membres, un relevé des dossiers traités ainsi que les avis pris en relation avec ces dossiers lors de la séance afférente.\n\nLes travaux de secrétariat sont assurés par des fonctionnaires, employés publics ou agents du ministre.",
+      "text_sha256": "f9c577a40276dd58f34f9328359ef1ae62b363c84e6b44281ef0551eee1c8ebf",
+      "md_span": {
+        "start": 62164,
+        "end": 64930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_49/20230901",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Conditions générales relatives aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Les demandes en obtention d’une prime d’accession à la propriété prévue à l’article 16 se prescrivent par un an à partir de la date de l’acte authentique documentant l’acquisition du logement ou de la date de l’acte authentique en cas de vente en état futur d’achèvement. Au cas où l’organisation de la construction du logement est réalisée par le demandeur, la date de début des travaux de construction déclarée au bourgmestre de la commune est prise en considération.\n\nLes demandes en obtention d’une prime d’amélioration visée à l’article 24 se prescrivent par deux ans :\n\n1. er\n2. loi modifiée du 23 décembre 2016 er\n\nLes demandes en obtention d’une prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap visée à l’article 28 se prescrivent par deux ans à partir de la date d’émission des factures relatives aux travaux de transformation éligibles.\n\nLes demandes en obtention d’une prime de création d’un logement intégré se prescrivent par trois ans à partir de la date de l’autorisation de bâtir prévue à l’article 31, alinéa 2, point 3°.\n\n**(2)** Les demandes de dispense de remboursement prévues par la présente loi se prescrivent par six mois à partir de la date de notification de la décision de remboursement du ministre au bénéficiaire.\n\n**(3)** Sur demande écrite et dûment motivée, une suspension de la prescription peut être décidée par le ministre, sur avis de la commission, pour des raisons de santé, de force majeure, familiales ou financières.\n\n**(4)** Dans le cas d’un recalcul des aides accordées dans un dossier, le remboursement des aides indûment touchées ne concerne qu’une période de dix ans à partir de la date de la dernière liquidation d’une aide au bénéficiaire.",
+      "text_sha256": "e51eec6d285e7a6b7bdd2d8615b59e9ced71eb70b5d658154b566545a417ee0e",
+      "md_span": {
+        "start": 64967,
+        "end": 66706
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_50/20230901",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Collecte, saisie et contrôle des dossiers relatifs aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le ministre met en œuvre un système de collecte et de saisie des demandes d’aide. L’introduction d’une demande donne lieu à l’établissement d’un dossier.\n\nLe ministre est le responsable du traitement des données à caractère personnel dans le cadre d’une demande d’aide. Le Centre des technologies de l’information de l’État a la qualité de sous-traitant.",
+      "text_sha256": "9e1c6b9ef84cb3c33d557a3bd282c45d841f899ed2c9fa706f1b29ef684be105",
+      "md_span": {
+        "start": 66847,
+        "end": 67201
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_51/20230901",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Collecte, saisie et contrôle des dossiers relatifs aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Le ministre peut, afin de contrôler si les conditions d’octroi de l’aide demandée sont remplies et afin de vérifier l’exactitude et l’authenticité des données et des pièces fournies par le demandeur ou bénéficiaire de l’aide, demander, pour chacun des membres de la communauté domestique :\n\n1. 1. le nom, le prénom, le numéro d’identification national et l’adresse ;\n2. l’indication si la personne concernée est propriétaire de logements selon les informations enregistrées par le service des évaluations immobilières de l’Administration des contributions directes ;\n3. loi modifiée du 4 décembre 1967 loi modifiée du 4 décembre 1967\n2. 1. l’indication si la personne concernée est propriétaire ou usufruitier de logements, y compris sa provenance ;\n2. le titre de propriété du logement ;\n3. les données techniques du logement ;\n3. 1. l’indication si la personne concernée est propriétaire ou usufruitier de logements ;\n2. le titre de propriété du logement ;\n3. les données techniques du logement ;\n4. Code de la sécurité sociale 1. le nom, le prénom, le numéro d’identification national et l’adresse ;\n2. la date et la durée de l’affiliation ;\n3. la durée de travail hebdomadaire ;\n4. le nom, les prénoms et les coordonnées de l’employeur ;\n5. les affiliations auprès d’employeurs antérieurs ;\n5. 1. le nom, le prénom, le numéro d’identification national et l’adresse ;\n2. les bénéficiaires du revenu d’inclusion sociale et les montants perçus ;\n3. les bénéficiaires du revenu pour personnes gravement handicapées et les montants perçus ;\n4. les bénéficiaires de la majoration du revenu d’inclusion sociale et les montants perçus ;\n5. les bénéficiaires de la majoration du revenu pour personnes gravement handicapées et les montants perçus ;\n6. les bénéficiaires d’une avance de pension alimentaire et les montants perçus ;\n7. les bénéficiaires du forfait d’éducation et les montants perçus ;\n6. à la Caisse pour l’avenir des enfants, la transmission de l’indication si la personne concernée est attributaire d’une allocation familiale au bénéfice des enfants vivant dans la communauté domestique du demandeur ou bénéficiaire de l’aide ;\n7. Code de la sécurité sociale\n8. 1. les titulaires du prêt hypothécaire ;\n2. le numéro du compte prêt ;\n3. le taux d’intérêt appliqué par l’établissement de crédit audit prêt ;\n4. le solde restant dû ;\n5. la durée restante du prêt ;\n9. à l’Agence pour le développement de l’emploi, la transmission des bénéficiaires des indemnités de chômage et les montants perçus.\n\nLe ministre a droit à la communication de renseignements à partir du registre national au sens de la loi modifiée du 19 juin 2013 relative à l’identification des personnes physiques et le répertoire général au sens de la loi modifiée du 30 mars 1979 organisant l’identification numérique des personnes physiques et morales pour vérifier pour un demandeur ou bénéficiaire d’une aide ou tout autre membre de la communauté domestique qui vit dans le logement les données à caractère personnel suivantes :\n\n1. les nom et prénoms ;\n2. le numéro d’identification national ;\n3. le sexe ;\n4. les date et lieu de naissance ;\n5. la date de décès ;\n6. l’état civil ;\n7. loi modifiée du 19 mars 1988",
+      "text_sha256": "574a0e64893a46ec662ed357aa5616488c8eceb83399d1c02485752acb4db095",
+      "md_span": {
+        "start": 67238,
+        "end": 70432
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2013/06/19/n3/jo",
+          "text": "loi modifiée du 19 juin 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/03/30/n1/jo",
+          "text": "loi modifiée du 30 mars 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_52/20230901",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Collecte, saisie et contrôle des dossiers relatifs aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** L’accès aux renseignements et la transmission des informations et données énumérés à l’article 51 et nécessaires pour le traitement d’un dossier de demande d’aide prend la forme d’un échange de données sur requête déclenchée par le système informatique ou par le biais d’une correspondance écrite sur initiative d’un gestionnaire du dossier.\n\nLe ministre peut autoriser l’accès aux données et informations visées à l’article 51 aux agents de son ministère, nommément désignés par lui, en fonction de leurs attributions.\n\n**(2)** Seules peuvent être consultées les données à caractère personnel ayant un lien direct avec la demande d’une aide prévue par la présente loi.\n\n**(3)** Le système informatique par lequel l’accès ou le traitement des données à caractère personnel sont opérés est aménagé de la manière suivante :\n\n1. l’accès aux renseignements est sécurisé moyennant une authentification forte ;\n2. tout traitement des données reprises dans les banques et fichiers de données à caractère personnel gérés par le ministre ou des renseignements auxquels le ministre a accès, ainsi que toute consultation de ces données, ne peut avoir lieu que pour un motif précis ;\n3. la date et l’heure de tout traitement ou consultation, le lien par rapport à un dossier en cours ainsi que l’identité de la personne qui y a procédé peuvent être retracés dans le système informatique mis en place ;\n4. les données de journalisation sont conservées pendant un délai de trois ans à partir de leur enregistrement, délai après lequel elles sont effacées.",
+      "text_sha256": "6e13f0a3569dd95200a757647a2d97af434ec921da01c52fd2e7a2aaa494c849",
+      "md_span": {
+        "start": 70469,
+        "end": 72018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_53/20230901",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Collecte, saisie et contrôle des dossiers relatifs aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Les dossiers peuvent faire l’objet d’un réexamen à tout moment.\n\nSi lors du réexamen, il est constaté qu’une ou plusieurs des conditions pour l’obtention d’une aide n’ont pas été respectées par le bénéficiaire, l’aide indûment touchée est à restituer, avec effet rétroactif, par le bénéficiaire à la trésorerie de l’État. Une décision de remboursement est notifiée au bénéficiaire. En cas de pluralité de bénéficiaires, l’aide à restituer est répartie à parts égales entre ceux-ci.\n\nLe montant indûment perçu ne fait pas l’objet d’une dispense de remboursement.\n\n**(2)** En cas d’une subvention d’intérêt prévue aux articles 19, 27 ou 42, le dossier est réexaminé d’office tous les deux ans à compter de la date de la première demande. Si les conditions sont remplies pour une continuation de l’aide, le montant de la subvention d’intérêt est réévalué sur base des nouveaux paramètres et du solde restant à subventionner tel que prévu à l’article 22 ou à l’article 42, paragraphe 3. L’aide réévaluée est accordée à partir du mois du réexamen.\n\n**(3)** En cas d’une subvention de loyer, le dossier est réexaminé d’office tous les douze mois à compter de la date d’octroi de l’aide. Si les conditions sont remplies pour une continuation de l’aide, le montant de la subvention de loyer est réévalué sur base des nouveaux paramètres. L’aide réévaluée est accordée à partir du mois du réexamen.\n\nEn cas d’une subvention de loyer indûment touchée, le bénéficiaire obtient un délai d’un an pour rembourser le montant demandé, sous peine d’une suspension de l’aide. Tant que le bénéficiaire d’une subvention de loyer n’a pas remboursé l’aide indûment touchée, toute demande de subvention de loyer pour un nouveau logement est rejetée de plein droit.\n\n**(4)** En cas de décision de remboursement d’une aide, le ministre peut, sur demande écrite et motivée du bénéficiaire de l’aide concernée, accorder un remboursement échelonné en tenant compte des moyens financiers et de la composition de la communauté domestique du bénéficiaire concerné. Le non-remboursement d’une aide aux termes fixés par le ministre entraîne le rejet de toute nouvelle demande en obtention d’une aide tant que le bénéficiaire de l’aide n’a pas remboursé l’aide indûment touchée.\n\n**(5)** Toute décision d’octroi d’une subvention d’intérêt ou d’une subvention de loyer est susceptible d’un réexamen sur demande du bénéficiaire. Si les données du dossier justifient l’allocation de l’aide ou l’augmentation du taux de l’aide déjà allouée, cette aide est accordée à partir de la date de la demande en réexamen.",
+      "text_sha256": "4b8d5bcf30fdb7ce714438fb51b57ef0b867383ef8f0462fb0e9a77becb0af01",
+      "md_span": {
+        "start": 72055,
+        "end": 74636
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_54/20230901",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Collecte, saisie et contrôle des dossiers relatifs aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "En cas de doute quant au respect des conditions d’octroi d’une aide, les agents sous l’autorité du ministre peuvent, dans l’exercice de leurs missions et munis des pièces justificatives de leurs fonctions, se rendre au logement pour lequel une aide est demandée, qu’il s’agisse du domicile du demandeur ou du bénéficiaire de l’aide, afin de procéder à tous les examens ou contrôles nécessaires. Les visites du logement ont lieu entre huit heures et dix-huit heures. Les demandeurs ou bénéficiaires concernés sont avertis préalablement de la date du contrôle.\n\nEn cas de refus d’accès au logement, le traitement du dossier d’aide d’un demandeur ou bénéficiaire ou le paiement de cette aide est suspendu jusqu’à ce que le demandeur ou bénéficiaire ait fourni au ministre tous les renseignements et documents demandés par celui-ci et nécessaires au traitement de son dossier d’aide. Si le demandeur ou bénéficiaire ne fournit pas les renseignements et documents demandés par le ministre endéans un délai de trois mois, l’aide est refusée, et au cas où une aide a déjà été accordée, la restitution de l’aide présumée indûment touchée est exigée avec effet rétroactif.",
+      "text_sha256": "88850c502e4d10e30826be399a1075f8cf0fc4ee0d6e019a8023238d090ce84a",
+      "md_span": {
+        "start": 74673,
+        "end": 75836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_55/20230901",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Collecte, saisie et contrôle des dossiers relatifs aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Pour garantir la restitution des aides prévues par la présente loi, le ministre est autorisé à inscrire une hypothèque légale sur le logement pour lequel une ou plusieurs aides sont accordées.\n\nL’hypothèque légale prend rang après la ou les hypothèques inscrites sur réquisition de l’établissement de crédit dans l’intérêt de la garantie des prêts accordés pour la construction, l’acquisition ou l’amélioration dudit logement.\n\nLes formalités relatives à l’inscription et à la radiation de l’hypothèque légale ne donnent lieu à aucune perception au profit de la trésorerie de l’État.",
+      "text_sha256": "b2048b496685de1bd3373b7cd447772af853f6b8de4df2ebb1c8096d52cfdb49",
+      "md_span": {
+        "start": 75873,
+        "end": 76456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_56/20230901",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Collecte, saisie et contrôle des dossiers relatifs aux aides individuelles au logement"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Les actes concernant les prêts accordés aux personnes qui remplissent les conditions pour l’octroi d’une des primes prévues aux articles 16, 17 et 24 sont exempts de tout droit de timbre, d’enregistrement et d’hypothèque, sauf le salaire des formalités hypothécaires.",
+      "text_sha256": "aa1d35b16f442677d22ecd2d95cb1f8d58a23778b7ac22f10c3e6233a2064ddc",
+      "md_span": {
+        "start": 76493,
+        "end": 76760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_57/20230901",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Dispositions abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "Sont abrogées :\n\n1. loi modifiée du 25 février 1979\n2. loi modifiée du 23 décembre 2016\n3. loi du 8 juin 2022\n4. loi du 22 juillet 2022",
+      "text_sha256": "d3c43c44fb6f6eddb1a6f008b01388b8155343938122d7eb1942fd6c4886e485",
+      "md_span": {
+        "start": 76865,
+        "end": 77000
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_58/20230901",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Dispositions abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-01",
+      "text_md": "**(1)** Par dérogation à l’article 57, point 1°, les chapitres 2*sexies*, 3, 4 et 7*bis* de la loi modifiée du 25 février 1979 concernant l’aide au logement restent en vigueur.\n\nPar dérogation à l’article 57, point 3°, l’article 15 de la loi du 8 juin 2022 relative aux aides à des prêts climatiques reste applicable pour les demandes introduites avant l’entrée en vigueur de la présente loi et portant sur un prêt climatique à taux zéro ayant été accordé avant la date d’entrée en vigueur de la présente loi.\n\n**(2)** Les personnes bénéficiant au jour précédant l’entrée en vigueur de la présente loi de la majoration du revenu minimum garanti en vertu des dispositions abrogées de l’article 5, paragraphe 5, de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti, continuent à bénéficier de cette majoration aussi longtemps qu’il n’y a pas de changement de leur situation financière ou familiale entraînant la perte de leur droit au revenu prévu à l’article 5 de la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti.\n\nLes personnes bénéficiant au jour précédant l’entrée en vigueur de la présente loi de la majoration du revenu pour personnes gravement handicapées en vertu des dispositions abrogées de l’article 25, alinéas 3 et 4, de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées, continuent à bénéficier de cette majoration aussi longtemps qu’il n’y a pas de changement de leur situation financière entraînant la perte de leur droit au revenu prévu à l’article 25 de la loi modifiée du 12 septembre 2003 relative aux personnes handicapées.\n\nLes majorations visées aux alinéas 1er et 2 ne peuvent pas être cumulées avec la subvention de loyer prévue par la présente loi.\n\n**(3)** Les bénéficiaires d’une garantie de l’État accordée avant l’entrée en vigueur de la présente loi conformément aux articles 3 à 10 de la loi modifiée du 25 février 1979 concernant l’aide au logement sont soumis aux articles 12 à 15 de la présente loi.\n\nLes bénéficiaires d’une prime d’acquisition, d’une prime de construction ou d’une prime d’épargne accordée avant l’entrée en vigueur de la présente loi conformément à l’article 11 de la loi modifiée du 25 février 1979 concernant l’aide au logement sont soumis aux dispositions du chapitre 3 de la présente loi.\n\nLes bénéficiaires d’une subvention d’intérêt prévue à l’article 14 de la loi modifiée du 25 février 1979 concernant l’aide au logement sont soumis aux articles 19 à 23 de la présente loi.\n\nPar dérogation à l’article 57, point 1°, et à l’alinéa 3, les bénéficiaires d’une subvention d’intérêt accordée conformément aux dispositions de l’article 14 de la loi modifiée du 25 février 1979 concernant l’aide au logement avant l’entrée en vigueur de la présente loi continuent à toucher cette aide pendant vingt-quatre mois à compter du dernier réexamen de leur dossier, à condition qu’ils remplissent les conditions d’octroi prévues à l’article 14 de la loi précitée du 25 février 1979. Si lors du prochain réexamen, il est constaté que le bénéficiaire avait droit à un montant plus élevé de la subvention d’intérêt, calculée conformément aux articles 19 à 23, la différence du montant de l’aide mensuelle, avec effet à la date d’entrée en vigueur de la présente loi, est viré sur le compte bancaire du bénéficiaire.\n\nLes bénéficiaires touchant une subvention d’intérêt prévue à l’article 14 de la loi modifiée du 25 février 1979 concernant l’aide au logement et une bonification d’intérêt prévue à l’article 14*bis* de la loi précitée du 25 février 1979 sont soumis aux articles 19 à 23 de la présente loi. Par dérogation à l’article 57, point 1°, ils continuent à toucher ces deux aides accordées avant l’entrée en vigueur de la présente loi pendant vingt-quatre mois à compter du dernier réexamen de leur dossier à condition qu’ils continuent à remplir les conditions d’octroi prévues aux articles 14 et 14*bis* de la prédite loi de 1979. Lors du prochain réexamen du dossier, le montant total de la subvention d’intérêt et de la bonification d’intérêt touché par le bénéficiaire après l’entrée en vigueur de la présente loi est imputé sur le montant de la subvention d’intérêt, calculée conformément aux articles 19 à 23, avec effet à la date d’entrée en vigueur de la présente loi.\n\nPar dérogation à l’article 57, point 1°, les bénéficiaires touchant seulement une bonification d’intérêt prévue à l’article 14*bis* de la loi précitée du 25 février 1979 concernant l’aide au logement continuent à toucher le même montant de cette aide accordée avant l’entrée en vigueur de la présente loi pendant vingt-quatre mois à compter du dernier réexamen de leur dossier à condition qu’ils continuent à remplir les conditions d’octroi prévues à l’article 14*bis* de la loi précitée du 25 février 1979. La bonification d’intérêt n’est plus due à partir de la date où le bénéficiaire de cette aide introduit une demande en obtention d’une subvention d’intérêt conformément à la présente loi.\n\nLes bénéficiaires d’une subvention d’intérêt pour prêt climatique prévue à la loi précitée du 8 juin 2022 relative aux aides à des prêts climatiques et accordée avant l’entrée en vigueur de la présente loi sont soumis aux articles 42 à 44.\n\n**(4)** Les primes d’acquisition, de construction, d’épargne ou d’amélioration accordées et non-remboursées avant l’entrée en vigueur de la présente loi conformément aux dispositions de la loi modifiée du 25 février 1979 concernant l’aide au logement sont prises en considération pour le calcul de la somme totale prévue à l’article 37.\n\nLes paiements mensuels sous forme de subvention d’intérêt accordés et non-remboursés avant l’entrée en vigueur de la présente loi conformément aux dispositions de la loi modifiée du 25 février 1979 concernant l’aide au logement sont pris en considération pour le calcul du nombre total de trois cents paiements mensuels prévus par l’article 19.",
+      "text_sha256": "dd2f1d9f899b38aaef11a4d678c91b7ef9aa719d374a320521a9ffeee3a34dd7",
+      "md_span": {
+        "start": 77037,
+        "end": 82987
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi modifiée du 25 février 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2022/06/08/a286/jo",
+          "text": "loi du 8 juin 2022"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/04/29/n11/jo",
+          "text": "loi modifiée du 29 avril 1999"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "loi modifiée du 12 septembre 2003"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi précitée du 25 février 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi de 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2022/06/08/a286/jo",
+          "text": "loi précitée du 8 juin 2022"
+        }
+      ]
+    },
+    {
+      "anchor": "art_59_20231001",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#art_59_20231001",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/art_59/20231001",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Dispositions abrogatoires, transitoires et finales"
+      ],
+      "article_valid_from": "2023-10-01",
+      "text_md": "**(1)** Est éligible pour acquérir un logement ayant bénéficié d’aides à la construction d’ensembles conformément aux dispositions du chapitre 3 de la loi modifiée du 25 février 1979 concernant l’aide au logement la personne qui remplit les conditions suivantes :\n\n1. être une personne physique majeure au jour de l’introduction de la demande d’acquisition ;\n2. au plus tard neuf mois après la remise des clés du logement, la personne et les membres de sa communauté domestique ne sont ni propriétaires, ni usufruitiers, ni emphytéotes, ni bénéficiaires d’un droit d’habitation, de plus d’un tiers indivis, d’un autre logement au Grand-Duché de Luxembourg ou à l’étranger ;\n3. loi modifiée du 29 août 2008\n4. le revenu de la communauté domestique remplit les conditions fixées à l’annexe IX.\n\nLa communauté domestique à prendre en considération est celle indiquée dans le certificat d’éligibilité visée au paragraphe 2, à la date de son émission.\n\n**(2)** Lors de l’introduction de sa demande d’acquisition d’un logement auprès du promoteur public, la personne fournit un certificat d’éligibilité attestant qu’elle remplit les conditions énumérées au paragraphe 1er, alinéa 1er, points 1°, 3° et 4°.\n\nLe certificat d’éligibilité est établi par le ministre sur demande écrite. Il est valable pour une durée de six mois à partir de la date de son émission.\n\n**(3)** Si neuf mois après la remise des clés du logement, il s’avère que la condition prévue à l’alinéa 1er, point 2°, n’est pas respectée, le promoteur public est fondé à agir en résolution de la vente. L’acquisition de droits indiqués à l’alinéa 1er, point 2°, après la remise des clés du logement n’emporte ni nullité, ni résolution de la vente du logement.",
+      "text_sha256": "e297d4c4b01491ae609f6ed51f870528f504adf952879ef10e031b4388ffb9e4",
+      "md_span": {
+        "start": 83033,
+        "end": 84750
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi modifiée du 25 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-2023-08-07-a554:2023-10-01#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXES",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Annexe I - Tableau des limites de revenu pour l’obtention d’une aide au financement d’une garantie locative**\n\n| **Type de communauté domestique** | **Limite de revenu** |\n| --- | --- |\n| Revenu net annuel(en euros) |  |\n| **Personne seule (sans enfant à charge)** | 4 467 |\n| **Communauté domestique sans enfant à charge** | 6 858 |\n| **Communauté domestique avec 1 enfant à charge** | 8 092 |\n| **Communauté domestique avec 2 enfants à charge** | 9 151 |\n| **Communauté domestique avec 3 enfants à charge** | 9 944 |\n| **+ par enfant à charge supplémentaire** | +1 108 |\n\nLes limites de revenu indiquées dans le tableau correspondent à la valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et adapté suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.\n\n**Annexe II - Subvention de loyer**\n\nFormule de calcul :\n\nPour l’application de cette formule, on entend par :\n\n| **a** | Montant de la subvention de loyer |\n| --- | --- |\n| **r** | Le revenu net annuel de la communauté domestique du demandeur, ramené au nombre indice 100 du coût de la vie (indice moyen annuel) |\n| **AS** | Montant maximal de la subvention de loyer (en fonction de la composition de la communauté domestique) |\n| **AI** | Montant minimal (forfaitaire) de la subvention de loyer |\n| **RI** | Plafond de revenu pour la subvention de loyer maximale |\n| **RS** | Plafond de revenu pour la subvention de loyer minimale (Limite de revenu) |\n\nTableau des paramètres de calcul :\n\n| **Type de communauté domestique** | **AS** | **AI** | **RI** | **RS** |\n| --- | --- | --- | --- | --- |\n| **Montant maximal de la subvention de loyer ** | **Montant minimal de la subvention de loyer** | **Plafond de revenu pour la subvention de loyer maximale** | **Plafond de revenu pour la subvention de loyer minimale** |  |\n| Revenu net annuel (en euros) | Revenu net annuel (en euros) |  |  |  |\n| **Personne seule ** | 200 € | 10 € | 3 310 | 4 467 |\n| **Communauté domestique sans enfant à charge** | 280 € | 10 € | 4 965 | 6 858 |\n| **Communauté domestique avec 1 enfant à charge** | 320 € | 10 € | 6 289 | 8 092 |\n| **Communauté domestique avec 2 enfants à charge** | 360 € | 10 € | 7 613 | 9 151 |\n| **Communauté domestique avec 3 enfants à charge** | 400 € | 10 € | 8 937 | 9 944 |\n| **+ par enfant à charge supplémentaire** | / | / | +993 | +1 108 |\n\nLes montants des plafonds de revenu indiqués dans le tableau correspondent à la valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et adapté suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.\n\n**Annexe III - Primes d’accession à la propriété**\n\nFormule de calcul :\n\nLe montant de la prime (« a ») est plafonné par le montant maximal (« AS »).\n\nPour l’application de cette formule, on entend par :\n\n| **A** | Montant de la prime |\n| --- | --- |\n| **r** | Le revenu net annuel de la communauté domestique du demandeur, ramené au nombre indice 100 du coût de la vie (indice moyen annuel) |\n| **AS** | Montant maximal de la prime (en fonction de la composition de la communauté domestique) |\n| **AI** | Montant minimal (forfaitaire) de la prime (en fonction de la composition de la communauté domestique) |\n| **RI** | Plafond de revenu pour la prime maximale |\n| **RS** | Plafond de revenu pour la prime minimale (Limite de revenu) |\n\nTableau des paramètres de calcul :\n\n| **Type de communauté domestique** | **AS** | **AI** | **RI** | **RS** |\n| --- | --- | --- | --- | --- |\n| **Montant de la prime maximale** | **Montant de la prime minimale** | **Plafond de revenu pour la prime maximale** | **Plafond de revenu pour la prime minimale** |  |\n| Revenu net annuel (en euros) | Revenu net annuel (en euros) |  |  |  |\n| **Personne seule ** | 5 000 € | 500 € | 2 805 | 5 042 |\n| **Communauté domestique sans enfant à charge** | 7 000 € | 500 € | 4 207 | 6 003 |\n| **Communauté domestique avec 1 enfant à charge** | 8 000 € | 500 € | 5 329 | 7 083 |\n| **Communauté domestique avec 2 enfants à charge** | 9 000 € | 500 € | 6 451 | 8 015 |\n| **Communauté domestique avec 3 enfants à charge** | 10 000 € | 500 € | 7 573 | 8 709 |\n| **+ par enfant à charge supplémentaire** | + 1 000 € | / | + 841 | + 968 |\n\nLes montants des plafonds de revenu indiqués dans le tableau correspondent à la valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et adapté suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.\n\n**Annexe IV - Subventions d’intérêt**\n\nFormule de calcul :\n\nLe taux de la subvention d’intérêt est arrondi au huitième de point inférieur.\n\nPour l’application de cette formule, on entend par :\n\n| **t** | Taux de la subvention d’intérêt |\n| --- | --- |\n| **r** | Le revenu net annuel de la communauté domestique du demandeur, ramené au nombre indice 100 du coût de la vie (indice moyen annuel) |\n| **AS** | Taux maximal de la subvention d’intérêt (en fonction de la composition de la communauté domestique) |\n| **AI** | Taux minimal (forfaitaire) de la subvention d’intérêt (en fonction de la composition de la communauté domestique) |\n| **RI** | Plafond de revenu pour le taux maximal de la subvention d’intérêt |\n| **RS** | Plafond de revenu pour le taux minimal de la subvention d’intérêt (Limite de revenu) |\n\nTableau des paramètres de calcul :\n\n| **Type de communauté domestique** | **AS** | **AI** | **RI** | **RS** |\n| --- | --- | --- | --- | --- |\n| **Taux maximal de la subvention d’intérêt** | **Taux minimal de la subvention d’intérêt** | **Plafond de revenu pour le taux maximal** | **Plafond de revenu pour le taux minimal** |  |\n| Revenu net annuel (en euros) | Revenu net annuel (en euros) |  |  |  |\n| **Personne seule ** | 2,45 % | 0,25 % | 2 805 | 3 913 |\n| **Communauté domestique sans enfant à charge** | 2,45 % | 0,25 % | 4 207 | 6 003 |\n| **Communauté domestique avec 1 enfant à charge** | 2,45 % | 0,25 % | 5 329 | 7 083 |\n| **Communauté domestique avec 2 enfants à charge** | 2,45 % | 0,25 % | 6 451 | 8 015 |\n| **Communauté domestique avec 3 enfants à charge** | 2,45 % | 0,25 % | 7 573 | 8 709 |\n| **+ par enfant à charge supplémentaire** | / | / | + 841 | + 968 |\n\nLes montants des plafonds de revenu indiqués dans le tableau correspondent à la valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et adapté suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.\n\n**Annexe V - Tableau d’amortissement relatif à la subvention d’intérêt ****prévu aux articles 22 et 27**\n\n| **Durée écoulée (en mois)** | **Solde (en euros)** |\n| --- | --- |\n| 0 | 200 000,00 |\n| 24 | 188 895,91 |\n| 48 | 177 110,44 |\n| 72 | 164 601,76 |\n| 96 | 151 325,51 |\n| 120 | 137 234,58 |\n| 144 | 122 278,99 |\n| 168 | 106 405,66 |\n| 192 | 89 558,29 |\n| 216 | 71 677,10 |\n| 240 | 52 698,67 |\n| 264 | 32 555,65 |\n| 288 | 11 176,58 |\n| 300 | 0,00 |\n\n**Annexe VI - Primes d’amélioration**\n\nFormule de calcul :\n\nPour l’application de cette formule, on entend par :\n\n| **t** | Taux de prise en chargepourcentage du montant des facturespourcentage du montant de l’aide « PRIMe House » |\n| --- | --- |\n| **r** | Le revenu net annuel de la communauté domestique du demandeur, ramené au nombre indice 100 du coût de la vie (indice moyen annuel) |\n| **AS** | Taux maximal de l’aide (en fonction de la composition de la communauté domestique) |\n| **AI** | Taux minimal (forfaitaire) de l’aide (en fonction de la composition de la communauté domestique) |\n| **RI** | Plafond de revenu pour l’aide maximale |\n| **RS** | Plafond de revenu pour l’aide minimale (Limite de revenu) |\n\nTableau des paramètres de calcul :\n\n| **Type de communauté domestique** | **AS** | **AI** | **RI** | **RS** |  |\n| --- | --- | --- | --- | --- | --- |\n| ********Taux maximal de l’aide prévue à l’article 26, paragraphe 1er ******** | **Taux maximal de l’aide prévue à l’article 26, paragraphe 2** | **********Taux minimal de l’aide********** | ********Plafond de revenu pour l’aide maximale******** | ******Plafond de revenu pour l’aide minimale****** |  |\n| Revenu net annuel (en euros) | Revenu net annuel (en euros) |  |  |  |  |\n| **Personne seule ** | 40 % | 100% | 10 % | 2 805 | 4 467 |\n| **Communauté domestique sans enfant à charge** | 40 % | 100% | 10 % | 4 207 | 6 858 |\n| **Communauté domestique avec 1 enfant à charge** | 40 % | 100% | 10 % | 5 329 | 8 092 |\n| **Communauté domestique avec 2 enfants à charge** | 40 % | 100% | 10 % | 6 451 | 9 151 |\n| **Communauté domestique avec 3 enfants à charge** | 40 % | 100% | 10 % | 7 573 | 9 944 |\n| **+ par enfant à charge supplémentaire** | / | / | / | + 841 | +1 108 |\n\nLes montants des plafonds de revenu indiqués dans le tableau correspondent à la valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et adapté suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.\n\n**Annexe VII - Prime pour aménagements spéciaux répondant aux besoins de personnes en situation de handicap**\n\nFormule de calcul :\n\nPour l’application de cette formule, on entend par :\n\n| **t** | Taux de prise en charge (pourcentage du coût des travaux éligibles) |\n| --- | --- |\n| **r** | Le revenu net annuel de la communauté domestique du demandeur, ramené au nombre indice 100 du coût de la vie (indice moyen annuel) |\n| **AS** | Taux maximal de l’aide (en fonction de la composition de la communauté domestique) |\n| **AI** | Taux minimal (forfaitaire) de l’aide (en fonction de la composition de la communauté domestique) |\n| **RI** | Plafond de revenu pour l’aide maximale |\n| **RS** | Plafond de revenu pour l’aide minimale (Limite de revenu) |\n\nTableau des paramètres de calcul :\n\n| **Type de communauté domestique** | **AS** | **AI** | **RI** | **RS** |\n| --- | --- | --- | --- | --- |\n| ****Montant maximal de l’aide**** | ****Montant minimal de l’aide**** | ****Plafond de revenu pour l’aide maximale**** | ****Plafond de revenu pour l’aide minimale**** |  |\n| Revenu net annuel (en euros) | Revenu net annuel (en euros) |  |  |  |\n| **Personne seule ** | 60 % | 10 % | 2 805 | 3 913 |\n| **Communauté domestique sans enfant à charge** | 60 % | 10 % | 4 207 | 6 003 |\n| **Communauté domestique avec 1 enfant à charge** | 60 % | 10 % | 5 329 | 7 083 |\n| **Communauté domestique avec 2 enfants à charge** | 60 % | 10 % | 6 451 | 8 015 |\n| **Communauté domestique avec 3 enfants à charge** | 60 % | 10 % | 7 573 | 8 709 |\n| **+ par enfant à charge supplémentaire** | / | / | + 841 | + 968 |\n\nLes montants des plafonds de revenu indiqués dans le tableau correspondent à la valeur au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948 et adapté suivant les modalités applicables aux traitements et pensions des fonctionnaires de l’État.\n\n**Annexe VIII - Tableau d’amortissement relatif à la subvention d’intérêt prévu à l’article 42**\n\n| **Durée écoulée (en mois)** | **Solde (en euros)** |\n| --- | --- |\n| 0 | 100 000,00 |\n| 24 | 89 102,17 |\n| 48 | 77 535,60 |\n| 72 | 65 259,27 |\n| 96 | 52 229,62 |\n| 120 | 38 400,43 |\n| 144 | 23 722,62 |\n| 168 | 8 144,14 |\n| 180 | 0,00 |\n\n**Annexe IX - Plafond d’éligibilité pour l’acquisition d’un logement ayant bénéficié d’aides à la construction d’ensembles conformément aux dispositions du chapitre 3 de la loi modifiée du 25 février 1979 concernant l’aide au logement**\n\n| **Type de communauté domestique** | **Plafond d’éligibilité ****Revenu mensuel****(en euros)** |\n| --- | --- |\n| 1 adulte sans enfant à charge | 3 595 |\n| Communauté domestique sans enfant | 5 510 |\n| Communauté domestique avec 1 enfant à charge | 6 505 |\n| Communauté domestique avec 2 enfants à charge | 7 360 |\n| Communauté domestique avec 3 enfants à charge | 8 000 |\n| + par enfant à charge supplémentaire | 890 |\n\nLes valeurs du tableau s’entendent à la cote d’application de l’échelle mobile des salaires de 855,62.\n\nLe revenu de la communauté domestique à prendre en considération est la moyenne du revenu net de l’année civile qui précède la date de sa détermination. Lorsque le revenu total à prendre en considération comprend un revenu provenant d’une occupation rémunérée qui n’a pas été exercée pendant toute l’année civile, ce revenu est à extrapoler sur l’année. En cas de changement d’employeur ou d’une modification du contrat de travail ayant un impact sur le revenu, le dernier revenu connu à la date de la détermination du revenu est pris en considération et est extrapolé sur l’année. Il en est de même pour le cas où la communauté domestique n’a pas eu de revenu durant l’année civile qui précède la date de la détermination du revenu.\n\nLe revenu net de la communauté domestique est la somme :\n\n1. loi modifiée du 4 décembre 1967\n2. des rentes alimentaires perçues ;\n3. des montants nets des rentes accident ;\n4. des allocations familiales ;\n5. loi modifiée du 4 décembre 1967\n\nLes rentes alimentaires virées sont déduites du revenu.\n\nUne période de stage est considérée comme un revenu si le stagiaire a été affilié à un régime d’assurance maladie et pension durant cette période.\n\nLes revenus des enfants à charge ne sont pas considérés. Les revenus des enfants qui entrent dans la vie professionnelle sont considérés à 0 pour cent la première année, à 25 pour cent la deuxième année, à 50 pour cent la troisième année et à 100 pour cent la quatrième année. À partir de cette première année, les enfants sont considérés comme des adultes du ménage.\n\nEst un enfant à charge :\n\n1. l’enfant pour lequel un membre de la communauté domestique perçoit des allocations familiales, qui habite avec la communauté domestique dans le logement et qui y est déclaré ; ou\n2. Code de la sécurité sociale\n\nLorsque la personne acquérant est l’un des conjoints d’un couple marié en instance de divorce ou lorsque la personne acquérant était liée par un partenaire au sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats et dont la rupture a été déclarée à l’officier de l’état civil avant l’introduction de la demande, les seuls revenus pris en compte sont ceux de la communauté domestique de la personne acquérant.",
+      "text_sha256": "f39423c38bf1d4881174accea3cc2dff307760a54978e3ef76ff8115cb2595c6",
+      "md_span": {
+        "start": 84792,
+        "end": 98925
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi modifiée du 25 février 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/07/09/n3/jo",
+          "text": "loi modifiée du 9 juillet 2004"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

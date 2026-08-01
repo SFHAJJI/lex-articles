@@ -1,0 +1,337 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24",
+  "language": "fr",
+  "title": "Loi du 19 décembre 2020 portant adaptation temporaire de certaines modalités procédurales en matière civile et commerciale.",
+  "valid_from": "2021-12-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2020-12-19-a1056/versions/2021-12-24/fr.xml",
+    "sha256": "ae8cbf5da0aadf02d55d497e8548884b70abc7b669ff06f5b5f94bd3eb49b47c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/consolide/20211224/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_1er/20201223",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Dérogations aux règles procédurales devant les juridictions dans les affaires soumises à la procédure écrite**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "Les affaires pendantes devant les juridictions administratives, soumises aux règles de la procédure écrite et en état d’être jugées, pourront être prises en délibéré sans comparution des mandataires avec l’accord de ces derniers.",
+      "text_sha256": "897b7f687ebafa51e627454a1addf4ff90f9fc8475a12ac4e395dc38273a1473",
+      "md_span": {
+        "start": 742,
+        "end": 971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_2/20210822",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Dérogations aux règles procédurales devant les juridictions dans les affaires soumises à la procédure écrite**"
+      ],
+      "article_valid_from": "2021-08-22",
+      "text_md": "**(1)** Les affaires pendantes devant la Cour constitutionnelle, la Cour de cassation et les juridictions civiles et commerciales, soumises aux règles de la procédure écrite et en état d’être jugées, pourront être prises en délibéré sans comparution des mandataires avec l’accord de ces derniers.\n\n**(2)** Pour les besoins de l’application de la procédure prévue aux articles 191 à 228 du Nouveau Code de procédure civile, les règles suivantes s’appliquent :\n\n1. au plus tard quarante-huit heures avant l’audience fixée pour les plaidoiries, la juridiction saisie informe les mandataires des parties par la voie électronique de la composition du siège ;\n2. au plus tard quarante-huit heures avant l’audience fixée pour les plaidoiries, les mandataires des parties font connaître par écrit, y compris la voie électronique, à la juridiction saisie le nombre de corps de conclusions échangés et s’ils entendent plaider l’affaire. Dans ce cas, les plaidoiries sont remises à horaire fixe ;\n3. à défaut d’avoir sollicité d’être entendus en leurs plaidoiries, les mandataires des parties sont réputés avoir réitéré leurs moyens à l’audience de plaidoiries et ils sont dispensés de se présenter à l’audience fixée à cette fin. Ils déposent leurs fardes de procédure au greffe de la juridiction saisie dans les deux jours ouvrables suivant celle-ci ;\n4. Nouveau Code de procédure civile\n5. Nouveau Code de procédure civile\n\nEn complément des communications par la voie électronique visées aux points 1° et 5°, le greffe adresse aux mandataires des parties une copie de cette communication par écrit. Les mêmes règles dérogatoires s’appliquent par analogie à la procédure en instance d’appel telle que régie par les articles 598 à 611 du Nouveau Code de procédure civile.",
+      "text_sha256": "0ae0ba9e5c1c09b9f2436f1ea01a85b43c8a8e492eb2de243b4a0b01b970d400",
+      "md_span": {
+        "start": 1006,
+        "end": 2768
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_3/20201223",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — **Dérogations aux règles procédurales devant les juridictions dans les affaires soumises à la procédure écrite**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "Le dépôt au greffe des pièces et mémoires visés aux articles 10, 16, 17, 43 et 44 de la loi modifiée du 18 février 1885 sur les pourvois et la procédure en cassation et les déclarations prévues aux articles 417 et 418 du Code de procédure pénale peuvent se faire par tous les moyens écrits, y compris la voie électronique, à l’adresse déterminée par la Cour de cassation.\n\nPar dérogation aux articles 18 et 46 de la loi précitée du 18 février 1885, la désignation de la composition de la Cour, la nomination du rapporteur et la fixation de la date à laquelle l’affaire sera prise en délibéré seront faites par note du président de la Cour de cassation ou du magistrat qui le remplace et seront communiquées aux mandataires des parties et au ministère public par la voie écrite, y compris la voie électronique.",
+      "text_sha256": "afc76488c68e9501f973ba6d90e2afaaf73b26f1c15b601c6d26c79be3bfb620",
+      "md_span": {
+        "start": 2803,
+        "end": 3612
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1885/02/18/n3/jo",
+          "text": "loi modifiée du 18 février 1885"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code de procédure pénale"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/jo",
+          "text": "loi précitée du 18 février 1885"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_4/20201223",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — **Adaptation temporaire de certaines autres modalités procédurales**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "Est suspendue l’exécution :\n\n1. des déguerpissements ordonnés en matière de bail à usage d’habitation ;\n2. Code civil Nouveau Code de procédure civile",
+      "text_sha256": "92179a89f3b735a4aa7bbcaefa54b20943f768e4f8f31399ebd338507feee47f",
+      "md_span": {
+        "start": 3738,
+        "end": 3888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_5/20201223",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — **Adaptation temporaire de certaines autres modalités procédurales**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "Le délai prescrit à l’article 440 du Code de commerce est suspendu.",
+      "text_sha256": "87d99272d51a2a1df916149991a02596425786155a3fd9b0c858a321b78fca7d",
+      "md_span": {
+        "start": 3923,
+        "end": 3990
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/commerce",
+          "text": "Code de commerce"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_6/20201223",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — **Adaptation temporaire de certaines autres modalités procédurales**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "Par dérogation à l’article 2127 du Code civil, les hypothèques conventionnelles peuvent être consenties par acte notarié sur base de procurations authentiques ou sous seing privé.",
+      "text_sha256": "acd3b4381bd0178477b5f5e78dddd4c69007425373d34c409d1ccb2b36fd1f6d",
+      "md_span": {
+        "start": 4025,
+        "end": 4204
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_7/20201223",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — **Adaptation temporaire de certaines autres modalités procédurales**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "Par dérogation à l’article 55 du Code civil, les déclarations de naissance seront faites dans le délai d’un mois. Le jour de l’accouchement n’est pas compté dans ce délai.",
+      "text_sha256": "c94d1231946faae108824395c546e7dcd983955af572216b702b437cab63ad58",
+      "md_span": {
+        "start": 4239,
+        "end": 4410
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_8/20201223",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions modificatives, abrogatoires et finales**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "La loi du 25 novembre 2020 portant modification : 1° de la loi modifiée du 23 septembre 2020 portant des mesures concernant la tenue de réunions dans les sociétés et dans les autres personnes morales 2° de la loi du 20 juin 2020 portant 1° prorogation de mesures concernant a) la tenue d’audiences publiques pendant l’état de crise devant les juridictions dans les affaires soumises à la procédure écrite ; b) certaines adaptations de la procédure de référé exceptionnel devant le juge aux affaires familiales ; c) la suspension des délais en matière juridictionnelle, et d) d’autres modalités procédurales ; 2° dérogation temporaire aux articles 74 à 76 et 83 de la loi modifiée du 9 décembre 1976 relative à l’organisation du notariat ; 3° dérogation temporaire aux articles 15 et 16 de la loi modifiée du 10 août 1991 sur la profession d’avocat ; et 4° modification de l’article 89 de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise et portant suspension du délai prévu à l’article 55 du Code civil est modifiée comme suit :\n\n1. Code civil\n2. L’article III, est abrogé. »",
+      "text_sha256": "3ae12321fc87074476f0e6418c7dadd1c42489b52a45a0435e92e112a22abce7",
+      "md_span": {
+        "start": 4523,
+        "end": 5615
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/11/25/a932/jo",
+          "text": "loi du 25 novembre 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/09/23/a785/jo",
+          "text": "loi modifiée du 23 septembre 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/06/20/a523/jo",
+          "text": "loi du 20 juin 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1976/12/09/n1/jo",
+          "text": "loi modifiée du 9 décembre 1976"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1991/08/10/n3/jo",
+          "text": "loi modifiée du 10 août 1991"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2017/03/08/a289/jo",
+          "text": "loi modifiée du 8 mars 2017"
+        },
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_9/20201223",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions modificatives, abrogatoires et finales**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "La loi du 20 juin 2020 portant 1° prorogation de mesures concernant a) la tenue d’audiences publiques pendant l’état de crise devant les juridictions dans les affaires soumises à la procédure écrite ; b) certaines adaptations de la procédure de référé exceptionnel devant le juge aux affaires familiales ; c) la suspension des délais en matière juridictionnelle, et d) d’autres modalités procédurales ; 2° dérogation temporaire aux articles 74 à 76 et 83 de la loi modifiée du 9 décembre 1976 relative à l’organisation du notariat ; 3° dérogation temporaire aux articles 15 et 16 de la loi modifiée du 10 août 1991 sur la profession d’avocat ; et 4° modification de l’article 89 de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise est abrogée.",
+      "text_sha256": "6a39b8c31cfae0482ab8425f5cdcf2fe3d470a3f125605b5b5828456767becfc",
+      "md_span": {
+        "start": 5650,
+        "end": 6410
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/06/20/a523/jo",
+          "text": "loi du 20 juin 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1976/12/09/n1/jo",
+          "text": "loi modifiée du 9 décembre 1976"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1991/08/10/n3/jo",
+          "text": "loi modifiée du 10 août 1991"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2017/03/08/a289/jo",
+          "text": "loi modifiée du 8 mars 2017"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_10/20211224",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions modificatives, abrogatoires et finales**"
+      ],
+      "article_valid_from": "2021-12-24",
+      "text_md": "Les articles 1er à 3 restent applicables jusqu’au 15 juillet 2022 inclus.\n\nL’article 4 reste applicable jusqu’au 31 mars 2021 inclus.\n\nLes articles 5 et 7 restent applicables jusqu’au 30 juin 2022 inclus.\n\nL’article 6 reste applicable jusqu’au 31 décembre 2021 inclus.",
+      "text_sha256": "7408e88591ef9645897de0a78b1fec3987752005ea0520060c3bdfb1297e867f",
+      "md_span": {
+        "start": 6447,
+        "end": 6715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_11/20201223",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions modificatives, abrogatoires et finales**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "La référence à la présente loi se fait sous la forme suivante : « Loi du 19 décembre 2020 portant adaptation temporaire de certaines modalités procédurales en matière civile et commerciale ».",
+      "text_sha256": "02d8407e2f320c938a15c7e60809a1111f2c2f4ea704400cc80690085f570719",
+      "md_span": {
+        "start": 6752,
+        "end": 6943
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "Loi du 19 décembre 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2020-12-19-a1056:2021-12-24#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/art_12/20201223",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Dispositions modificatives, abrogatoires et finales**"
+      ],
+      "article_valid_from": "2020-12-23",
+      "text_md": "La présente loi entre en vigueur le lendemain de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "18086b0772c0e401d0e398f92de505d3a9ee477972027cff885ddbbb09595d2f",
+      "md_span": {
+        "start": 6980,
+        "end": 7093
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

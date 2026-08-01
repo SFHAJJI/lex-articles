@@ -1,0 +1,153 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2000-05-12-n1:2009-01-04",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/07/2023 : Règlement grand-ducal du 12 mai 2000 fixant les modalités et les conditions en vue de l’obtention d’une aide financière pour les médecins en voie de spécialisation.",
+  "valid_from": "2009-01-04",
+  "valid_to": "2017-03-09",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2000-05-12-n1/versions/2009-01-04/fr.xml",
+    "sha256": "567295d0510dd9d8e5bf74956c207447b092e07c8aaf38db3e0f6c21f72bebb3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/consolide/20090104/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2000-05-12-n1:2009-01-04#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/art_1er/20000606",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2000-06-06",
+      "text_md": "Les étudiants en médecine et médecins non spécialistes ayant accompli et validé au moins six années d’études dans le cadre du cycle de formation menant à l’obtention d’un des diplômes, certificats ou autres titres de médecin prévus à l’article 3 de la directive modifiée 93/16/CEE et qui poursuivent une formation de spécialisation destinée à leur conférer le titre de médecin-spécialiste conformément au règlement grand-ducal du 10 juin 1997 portant fixation de la liste des spécialités en médecine reconnues au Luxembourg ainsi que détermination des conditions de formation à remplir en vue de la reconnaissance de ces titres, peuvent se voir accorder une aide financière.",
+      "text_sha256": "8e752ad4fb8dc0616fdf15d8fe8f0b16e5eb444747122dd68b3e5bde87ab40d9",
+      "md_span": {
+        "start": 692,
+        "end": 1366
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1993/16/jo",
+          "text": "directive modifiée 93/16/CEE"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1997/06/10/n2/jo",
+          "text": "règlement grand-ducal du 10 juin 1997"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2000-05-12-n1:2009-01-04#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/art_2/20020324",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2002-03-24",
+      "text_md": "Peuvent bénéficier de l'aide financière de l'Etat les candidats qui se proposent de poursuivre une formation de spécialisation en médecine à l'étranger et qui sont\n\n1. ressortissants luxembourgeois, ou\n2. règlement (CEE) No 1612/68\n3. Convention relative au statut des apatrides Convention relative au statut de réfugié politique",
+      "text_sha256": "ca8475f08a87c81cdbf1bd323965ace74af2d27b51ca9d58822ec978f75de37a",
+      "md_span": {
+        "start": 1401,
+        "end": 1730
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2000-05-12-n1:2009-01-04#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/art_3/20090104",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-01-04",
+      "text_md": "L’aide financière est fixée à 2100 euros par mois. Elle est accordée pour une période maximale de deux ans. Toutefois au cas où le candidat souhaite recevoir seulement la moitié de l’aide financière pendant quatre ans le paiement peut être échelonné sur cette période de temps.\n\nEn vue de pouvoir bénéficier de l’aide financière pour une deuxième année, respectivement une troisième et quatrième année, le candidat doit produire le certificat et l’engagement écrit mentionnés à l’article 5 sous 5) et 6).",
+      "text_sha256": "5a27d3c56ccddd8562546f59365a8af7ab0a7c21b45ca00dc132f69a9a08e754",
+      "md_span": {
+        "start": 1765,
+        "end": 2269
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2000-05-12-n1:2009-01-04#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/art_4/20000606",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2000-06-06",
+      "text_md": "L’aide financière ne peut pas être cumulée avec une bourse d’études allouée par le ministre ayant dans ses attributions l’enseignement supérieur.\n\nElle doit être restituée immédiatement lorsqu’il s’avère qu’elle a été obtenue au moyen de déclarations inexactes ou incomplètes. Dans ce cas, le bénéficiaire est également redevable des intérêts au taux légal en vigueur à partir du jour de l’obtention de l’aide jusqu’au jour de la restitution.",
+      "text_sha256": "c9781620ff9cff73c0879a1a27e7101e84584f1efd2c0b3bf3a3ae3bdb5d9cf3",
+      "md_span": {
+        "start": 2304,
+        "end": 2746
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2000-05-12-n1:2009-01-04#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/art_5/20000606",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2000-06-06",
+      "text_md": "Tout candidat qui désire bénéficier de l’aide financière prévue à l’article 3, doit présenter une demande écrite au ministre de la Santé au moins trois mois avant le début de la formation de spécialisation.\n\nSont à joindre à la demande:\n\n1. un curriculum vitae;\n2. un certificat de nationalité;\n3. un certificat établi par l’autorité compétente du pays formateur attestant que le candidat remplit les conditions de formation de base préalables pour pouvoir poursuivre sa formation de spécialisation;\n4. - à la discipline choisie pour la formation de spécialisation,\n- au début et à la durée du ou des stages envisagés,\n- aux coordonnées du ou des maîtres de stage et terrains de stage;\n5. un certificat établi par le ou les maîtres de stage attestant que les activités prestées lors des stages ne font l’objet d’aucune rémunération fixe ou régulière;\n6. un document écrit dans lequel le candidat s’engage à respecter les modalités de remboursement des montants alloués tel que prévu à l’article 4;\n7. un certificat de résidence.",
+      "text_sha256": "ea60db7893a63950bfc4998cbb916f228b93e08f9761c35950e2e61490e5fd24",
+      "md_span": {
+        "start": 2781,
+        "end": 3809
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2000-05-12-n1:2009-01-04#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/art_6/20000606",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2000-06-06",
+      "text_md": "L’aide financière cesse d’être due si, pendant la période pour laquelle elle a été accordée, il s’avérait qu’une des conditions auxquelles l’octroi de l’aide financière est subordonnée, n’était plus remplie.",
+      "text_sha256": "a0f805dc4b1c8167143a8080912147508e6402ac0f9abe9f7d9650350d0b7fc7",
+      "md_span": {
+        "start": 3844,
+        "end": 4051
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2000-05-12-n1:2009-01-04#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/art_7/20000606",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2000-06-06",
+      "text_md": "Notre ministre de la Santé et Notre ministre du Trésor et du Budget sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "385869f2820088f82b304faaa29e1aa8ba2247d5c5571d949cc3a8d736b0159b",
+      "md_span": {
+        "start": 4086,
+        "end": 4262
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

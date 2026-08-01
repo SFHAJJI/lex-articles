@@ -1,0 +1,247 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/05/2024 : Règlement grand-ducal du 18 décembre 1992 concernant le régime spécial de perception de la taxe sur la valeur ajoutée frappant les livraisons, les acquisitions intracommunautaires et les importations de tabacs fabriqués.",
+  "valid_from": "2018-04-01",
+  "valid_to": "2021-10-25",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1992-12-18-n1/versions/2018-04-01/fr.xml",
+    "sha256": "6fdda269be9860a6dc32fc04bbf17aca2ec712ca3cda80adaf88c93769e6b255",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/consolide/20180401/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_1er/20180401",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-04-01",
+      "text_md": "En exécution de l'article 56, paragraphe 2 de la loi du 12 février 1979 concernant la taxe sur la valeur ajoutée, la livraison, l'acquisition intracommunautaire et l'importation de tabacs fabriqués sont soumises à un régime de perception à la source.\n\nPar tabacs fabriqués on entend les cigarettes, les cigares et les cigarillos ainsi que les tabacs à fumer, à priser ou à mâcher.",
+      "text_sha256": "7272fd71727955d2fe57bac8918abc6d59686cb26387616156df94502d7b1107",
+      "md_span": {
+        "start": 748,
+        "end": 1128
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_2/19921231",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-12-31",
+      "text_md": "Par dérogation aux dispositions des articles 28 à 36 de ladite loi du 12 février 1979, la base d'imposition pour les livraisons, les acquisitions intracommunautaires et les importations de tabacs fabriqués est constituée par le prix figurant sur la bandelette fiscale, diminué de la taxe sur la valeur ajoutée due sur cette base.",
+      "text_sha256": "901c9ab2b10c167ad1c46919a0da0464c4b580221a398e3e91005c59d9b725bb",
+      "md_span": {
+        "start": 1163,
+        "end": 1492
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_3/20180401",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-04-01",
+      "text_md": "**(1)** La taxe sur la valeur ajoutée est due :\n\n1. pour les tabacs fabriqués au Grand-Duché de Luxembourg, par le fabricant ;\n2. pour les tabacs non fabriqués au Grand-Duché de Luxembourg, par la personne qui effectue, à l'intérieur du pays, une acquisition intracommunautaire ou une importation de ces tabacs fabriqués.\n\n**(2)** Par dérogation au paragraphe 1er, lorsque les tabacs fabriqués y visés sont placés dans un entrepôt fiscal au sens de la réglementation relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accises, la taxe est due par l'opérateur responsable dudit entrepôt fiscal pour ces tabacs fabriqués à leur sortie de l'entrepôt.\n\nLa perception de la taxe due en vertu de l'alinéa 1 se fait par l'intermédiaire de l'Administration des douanes et accises, selon les modalités et la forme prescrites par celle-ci.",
+      "text_sha256": "d55ba4619da314b1f3fbf429589aaf2545814b963cf5af0c47cf3509cf609d83",
+      "md_span": {
+        "start": 1527,
+        "end": 2405
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_4/19921231",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-12-31",
+      "text_md": "Le paiement de la taxe due conformément à l'article 3 couvre toutes les livraisons ultérieures jusques et y compris celle faite au consommateur.",
+      "text_sha256": "59a6e692ecba2bc77b2deac4464e075321915f091af4f6ad4438872d9289a0fb",
+      "md_span": {
+        "start": 2440,
+        "end": 2584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_5/20130408",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-04-08",
+      "text_md": "Par dérogation à l'article 63, paragraphes 8 et 11, de la loi modifiée du 12 février 1979, les livraisons de tabacs fabriqués effectuées à un assujetti doivent être facturées au prix taxe comprise.\n\nLa facture doit porter la mention «Régime spécial:T.V.A. perçue à la source».",
+      "text_sha256": "f782adfc8e01824218ab35f4489e97b2d73717ebd1d893533a11a273095ddd99",
+      "md_span": {
+        "start": 2619,
+        "end": 2895
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi modifiée du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_6/20180401",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-04-01",
+      "text_md": "Par dérogation à l'article 48, paragraphe 1er, lettres b) et c), de la loi modifiée du 12 février 1979, la taxe sur la valeur ajoutée due en vertu de l'article 3, paragraphe 1er, lettre b) n'est pas déductible.",
+      "text_sha256": "874f4e79efb056fc5ef4fa6afc0d496eda63ebd872782818af96c283e60ce0fd",
+      "md_span": {
+        "start": 2930,
+        "end": 3140
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi modifiée du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_7/19921231",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-12-31",
+      "text_md": "Aux stades ultérieurs à celui auquel la taxe est due conformément à l'article 3 du présent règlement, les livraisons de tabacs fabriqués ouvrent droit à la déduction, conformément au chapitre VII de la loi du 12 février 1979, de toute taxe en amont autre que celle comprise dans le prix d'achat des tabacs fabriqués.",
+      "text_sha256": "8e79294acffa67d64c8390d8718631a088529753500053b567d848ac88e30b8f",
+      "md_span": {
+        "start": 3175,
+        "end": 3491
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_8/19921231",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-12-31",
+      "text_md": "L'article 65 de la loi du 12 février 1979 et le règlement grand-ducal pris en exécution de cet article et concernant la tenue de la comptabilité sont applicables compte tenu des dispositions du présent règlement.",
+      "text_sha256": "cd779553f9526f455539e9d6689cf61510bd63beb31660b8b007023d22c4c080",
+      "md_span": {
+        "start": 3526,
+        "end": 3738
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_9/19921231",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-12-31",
+      "text_md": "Les dispositions du présent règlement ne visent pas les livraisons, les acquisitions intracommunautaires et les importations de tabacs bruts, même travaillés mais non présentés sous forme de cigarettes, de cigares, de cigarillos ou de tabacs à fumer, à priser ou à mâcher.",
+      "text_sha256": "109c4df8f4e362c60048ec67f8421972875680bda1400bac4b1c86d8b14d6994",
+      "md_span": {
+        "start": 3773,
+        "end": 4045
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_10/19921231",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-12-31",
+      "text_md": "Le règlement grand-ducal du 21 décembre 1979 concernant le régime spécial de perception de la taxe sur la valeur ajoutée frappant les importations et les livraisons de tabacs fabriqués est abrogé avec effet au 1er janvier 1993.",
+      "text_sha256": "8c5cfd3c5ea1014a3caac5f2ef6b6a94b48f16755a277887507fb11df3fd378b",
+      "md_span": {
+        "start": 4082,
+        "end": 4309
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1979/12/21/n6/jo",
+          "text": "règlement grand-ducal du 21 décembre 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1992-12-18-n1:2018-04-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/art_11/19921231",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-12-31",
+      "text_md": "Notre Ministre des Finances est chargé de l'exécution du présent règlement qui sera publié au Mémorial et qui entrera en vigueur le 1er janvier 1993.",
+      "text_sha256": "080689e7383ec1b4091d22c5bfc4a949fe11982be6deda69403707d82118cf28",
+      "md_span": {
+        "start": 4346,
+        "end": 4495
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

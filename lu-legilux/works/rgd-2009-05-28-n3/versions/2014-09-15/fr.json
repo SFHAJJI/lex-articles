@@ -1,0 +1,491 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 28 mai 2009 concernant les modalités d'élection des membres du personnel enseignant à la commission scolaire nationale, le fonctionnement de celle-ci ainsi que les décharges et indemnités de ses membres.",
+  "valid_from": "2014-09-15",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-05-28-n3/versions/2014-09-15/fr.xml",
+    "sha256": "375fe814bb929846569ccdb3ac0f5bb1cffaa3b384fa9ea44984561ffee38b3b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/consolide/20140915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_25/20090914",
+      "type": "article",
+      "num": "Art. 1er .",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "L’élection des délégués du personnel enseignant à la commission scolaire nationale a lieu tous les cinq ans, dans la première moitié du mois de décembre à une date à arrêter par le membre du Gouvernement ayant l’Éducation nationale dans ses attributions et désigné ci-après par le terme «le ministre».\n\nLes élections ont lieu par correspondance.",
+      "text_sha256": "e8e162d05a5a56f4341f3f86b0138b66dddd4f31f5503cddc9c266f9d132a944",
+      "md_span": {
+        "start": 826,
+        "end": 1171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_2/20090914",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "Sont électeurs les instituteurs désignés à l’article 2 de la loi du 6 février 2009 concernant le personnel de l’enseignement fondamental.\n\nLe ministre arrête la liste des électeurs avant le 15 octobre. Il nomme le président du bureau électoral.",
+      "text_sha256": "d41de1bb1d9d5ecee7c178a303506cb9f86df3d74ddfae2323044efbdef2dc14",
+      "md_span": {
+        "start": 1206,
+        "end": 1450
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n4/jo",
+          "text": "loi du 6 février 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_3/20090914",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "Le ministre publie sur le site internet du ministère ou par tout autre moyen approprié, pour le 15 octobre au plus tard, la date de l’élection, la liste des électeurs, le délai dans lequel les déclarations des candidatures doivent être parvenues au ministre ainsi que le nom et l’adresse du président du bureau électoral.",
+      "text_sha256": "92c843c5d4b801750189a8d4f8b9065b215cfee9de0761513da31f54e56183fa",
+      "md_span": {
+        "start": 1485,
+        "end": 1806
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_4/20090914",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "Les électeurs peuvent réclamer contre la composition du corps électoral. Ils doivent présenter, dans les dix jours qui suivent la publication de la liste, leur réclamation motivée par écrit au ministre qui en décide.",
+      "text_sha256": "3593d58412130e715098e35a8168651612d09527a6bba15be25b83af29ecc288",
+      "md_span": {
+        "start": 1841,
+        "end": 2057
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_5/20140915",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "Sont éligibles les personnes figurant sur la liste électorale mentionnée à l’article 2.\n\nPour être recevables, les déclarations de candidature doivent être adressées par lettre recommandée au président du bureau électoral. Elles portent la signature du candidat ou de la candidate et indiquent ses nom et prénoms et le lieu de travail.\n\nLes syndicats des enseignants peuvent présenter une liste de quatre candidats signée du président et des quatre candidats.\n\nAussitôt passé le délai pour la présentation des candidatures, le président du bureau électoral publie la liste des candidats par tout moyen approprié.\n\nS’il y a quatre ou moins de candidats, ils sont proclamés élus sans autres formalités.\n\nSi aucune candidature n’est présentée dans le délai requis, le ministre reporte l’élection à une date ultérieure et ouvre un nouveau délai pour la déclaration des candidatures.",
+      "text_sha256": "4c31589701fc498081b301bb5c97bfb2ac1e7667ef4d2406bcce7bd49273ced1",
+      "md_span": {
+        "start": 2092,
+        "end": 2970
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_6/20140915",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "Pour les élections, il est constitué un bureau électoral. Pour ce faire, le président nomme un secrétaire et quatre scrutateurs. Le président peut décider la création d'un bureau électoral accessoire et désigner à cet effet un vice-président, un secrétaire adjoint ainsi que quatre scrutateurs supplémentaires. Il choisit en outre des suppléants en nombre suffisant.\n\nAucun candidat ne peut faire partie du bureau électoral.",
+      "text_sha256": "0dff11b18eaf6e1f522166de21c7d97e6181e46806f0ff9b6928264712498c71",
+      "md_span": {
+        "start": 3005,
+        "end": 3429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_7/20140915",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "Au moins dix jours avant les élections, le président du bureau électoral transmet un bulletin de vote à chaque électeur par simple lettre à la poste.\n\nLe bulletin de vote indique les listes introduites par les syndicats des candidats classés dans l'ordre alphabétique.\n\nL'ordre de liste sur les bulletins de vote correspond au classement selon ordre alphabétique des acronymes des syndicats, suivi des candidatures individuelles regroupées par ordre alphabétique. Pour chaque candidat est indiqué le nom, le prénom et le lieu de travail ainsi qu'une case affectée au vote. En tête de chaque liste est placé un cercle à côté de l'acronyme du syndicat des enseignants de la liste en question.\n\nLe bulletin, qui est plié en quatre, à angle droit, est marqué du sceau du ministère.\n\nIl est placé dans une première enveloppe neutre, laissée ouverte et ne portant que l’indication «Élection pour la commission scolaire nationale» et la date des élections.\n\nUne deuxième enveloppe, également ouverte, est jointe à l’envoi et porte l’adresse du président du bureau électoral ainsi que le numéro d’inscription sur la liste électorale et une mention relative à l’affranchissement postal.\n\nLe tout est enfermé, ensemble avec des instructions aux électeurs, dans une troisième enveloppe à l’adresse de l’électeur.\n\nLes réclamations pour défaut d’envoi doivent être présentées au plus tard le quatrième jour avant les élections au président du bureau électoral qui envoie aussitôt un bulletin à l’électeur. Il en est de même si l’électeur a détérioré son bulletin ou l’enveloppe de renvoi. Dans les deux cas le procès-verbal en fait mention.",
+      "text_sha256": "b608b7cfa761b9e38d40cfc20e50183ff70620073b3db2e91a367ca9274005ea",
+      "md_span": {
+        "start": 3464,
+        "end": 5092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_8/20140915",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "Chaque électeur dispose de quatre voix.\n\nIl vote soit en inscrivant une croix dans la case prévue derrière le nom des candidats auxquels il donne sa voix, soit en inscrivant une croix ou en noircissant le cercle placé en tête d'une liste.\n\nIl place ensuite le bulletin, plié en quatre, l’estampille se trouvant à l’extérieur, dans la première enveloppe neutre, qu’il ferme.\n\nIl glisse celle-ci dans la seconde enveloppe, portant l’adresse du président du bureau électoral. Il indique lisiblement, à la place réservée à cet effet de cette seconde enveloppe, ses nom et prénoms, le lieu de sa résidence et y appose sa signature. Il ferme l’enveloppe et la remet à la poste, dans un délai suffisant pour qu’elle puisse parvenir au président du bureau électoral dans le délai fixé.",
+      "text_sha256": "1439155fe982852f9b694c2f6f7409f667fe2805deadb490fab2d10de9469adc",
+      "md_span": {
+        "start": 5127,
+        "end": 5904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_9/20140915",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "Le jour du scrutin, le président remet au bureau électoral les enveloppes qu’il a reçues. Aucune enveloppe n’est plus admise après cette opération, à moins qu’elle n’ait été remise à la poste l’avant-veille du jour du scrutin.\n\nLes noms des votants sont pointés par le secrétaire sur la liste des électeurs.\n\nLes enveloppes extérieures sont classées par numéro d'ordre et ouvertes. Les enveloppes intérieures en sont retirées et placées dans une urne.\n\nSi l’envoi n’est pas conforme aux dispositions de l’article 8, le vote est considéré comme nul et l’enveloppe est détruite immédiatement avec son contenu. Il en est fait mention au procès-verbal dressé par le secrétaire.\n\nLe nombre de votants est inscrit au procès-verbal. Aucune enveloppe n’est plus admise après cette opération quelle que soit la date de la remise à la poste.\n\nIl sera ensuite procédé au dépouillement des bulletins. Les enveloppes sont retirées de l’urne et sont ouvertes.\n\nLe président répartit les bulletins de vote entre les bureau et bureau accessoire. Le président respectivement le vice-président lit successivement les bulletins à haute voix. Les suffrages sont notés à la fois par le secrétaire, respectivement le secrétaire-adjoint, et un autre membre respectivement du bureau et du bureau accessoire.\n\nAprès dépouillement de tous les bulletins, le bureau totalise les résultats des bureau et bureau accessoire.\n\nOutre le nombre des votants, le bureau électoral détermine le nombre des bulletins blancs, le nombre des suffrages valablement exprimés et le nombre des voix obtenues par chaque candidat. Il en est fait mention au procès-verbal.",
+      "text_sha256": "75b1076c4eb563e45e796c50d2904b57d3ad5b1721ebef99d19863cb02f6539f",
+      "md_span": {
+        "start": 5939,
+        "end": 7562
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_10/20090914",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "Est nul\n\n1. tout bulletin non conforme ou expédié d’une manière non conforme aux prescriptions du présent règlement;\n2. tout bulletin qui est marqué par une signature, inscription, rature ou tout autre signe distinctif.",
+      "text_sha256": "210d1bc55840d578fb731f2458310854a507a8368c87dd0325a287919d872816",
+      "md_span": {
+        "start": 7599,
+        "end": 7818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_11/20090914",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "L’élection a lieu à la pluralité des voix. En cas de parité des voix, la date de l’entrée en service décide; si l’admission a eu lieu à la même date, le candidat le plus âgé l’emporte.\n\nPour l’application des dispositions de l’alinéa qui précède, les admissions à la fonction suite à une même session sont censées porter la même date.\n\nLe résultat du vote est immédiatement proclamé par le président.",
+      "text_sha256": "6dd8a772c9fb4145601d65eff0b893583e31140732a1e53cbb2532b15ca3d147",
+      "md_span": {
+        "start": 7855,
+        "end": 8255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_12/20140915",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "Le procès-verbal des opérations est signé par tous les membres du bureau électoral et envoyé au ministre; les enveloppes extérieures classées par numéro d'ordre sont enliassées en un paquet et jointes aux bulletins de vote regroupés tel que décrit ci-dessous.\n\nLes bulletins de vote enliassés en trois paquets, l’un contenant les bulletins valables pour les candidats, le deuxième les bulletins blancs, le troisième, les bulletins nuls sont tenus à disposition du ministre dans des contenants scellés par le président, jusqu’au surlendemain de l’expiration du délai prévu pour les réclamations. Ils sont détruits dans la suite.",
+      "text_sha256": "b36360696bcca07bacc5cd93e6bb26f4975e5ac3a7a2793011fece79c9f86966",
+      "md_span": {
+        "start": 8292,
+        "end": 8919
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13_20140915",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_13_20140915",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_13/20140915",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "Tout électeur a le droit d’assister aux opérations électorales, sans pouvoir toutefois examiner les bulletins ni entraver les travaux du bureau.",
+      "text_sha256": "803f0d657974ea334c868e3cccd39062e7db24ea3370acee370506d46b8adc3b",
+      "md_span": {
+        "start": 8965,
+        "end": 9109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_14/20090914",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "Tout électeur peut réclamer contre les résultats proclamés. La réclamation doit, sous peine de nullité, parvenir par écrit le dixième jour au plus tard après celui de la proclamation du résultat, au ministre qui en décide.",
+      "text_sha256": "2002068ed4aab024ac356e225bf9fd361df13caf54a70382ae64e747119e551b",
+      "md_span": {
+        "start": 9146,
+        "end": 9368
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_15/20090914",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre I. — De l’élection des délégués du personnel enseignant"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "Si l’élection est annulée, le ministre fixe la date de la nouvelle élection à bref délai.",
+      "text_sha256": "83fde3ac1c700890ccb42d9a1474ccc73ab1bb510b0c207488b12420021dae7f",
+      "md_span": {
+        "start": 9405,
+        "end": 9494
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_16/20090914",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "La commission scolaire nationale se réunit sur convocation du président et chaque fois que le ministre ou un tiers des membres effectifs de la commission le demandent.",
+      "text_sha256": "434f63e327529c78aec17ab3db15277fa5fe049484b5c9bb0a9d3afe6262c165",
+      "md_span": {
+        "start": 9568,
+        "end": 9735
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_17/20090914",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "La convocation, accompagnée de l’ordre du jour, est communiquée au moins cinq jours avant la séance aux membres effectifs. Le président arrête l’ordre du jour qui comprend obligatoirement tout point dont la mise à l’ordre du jour est demandée par écrit par le ministre ou par ou moins un tiers des membres effectifs.",
+      "text_sha256": "9ceadf2a4cbce4fe21bab42f5c6de784dcf191f197d4c67332a1f22ecbee55bb",
+      "md_span": {
+        "start": 9772,
+        "end": 10088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_18/20140915",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "La commission scolaire nationale peut constituer lors de sa première réunion un bureau qui comprend le président, le secrétaire et d’autres membres de la commission dont le nombre est fixé par le ministre.\n\nLe bureau représente la commission scolaire nationale vis-à-vis du ministre et en toute occasion utile. Il organise les travaux de la commission, en prépare les réunions plénières et garantit le suivi des affaires qui tombent sous l’attribution de la commission.",
+      "text_sha256": "ed0a938ca9a84125f5629fd62958b21c1a2770e17ada9eacfd2ec0093461f3c0",
+      "md_span": {
+        "start": 10125,
+        "end": 10594
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_19/20090914",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "La commission scolaire nationale peut constituer des groupes de travail chargés de l’étude de problèmes particuliers. Chaque groupe de travail élit parmi ses membres un président et un rapporteur. Les conclusions auxquelles aboutissent les groupes de travail sont soumises à la Commission scolaire nationale en plénière.",
+      "text_sha256": "c2389370b298cfc61adc3e1dd859f1e563302f64a65ae421895e6a9bf40c50ee",
+      "md_span": {
+        "start": 10631,
+        "end": 10951
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_20/20090914",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "La commission scolaire nationale se donne un règlement d’ordre intérieur.\n\nElle peut charger un fonctionnaire des travaux administratifs.",
+      "text_sha256": "a9e853459715ed2257d332fe6c9ba8f097aecb831ea7bdc1406b7dd9b1abf452",
+      "md_span": {
+        "start": 10988,
+        "end": 11125
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_21/20140915",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2014-09-15",
+      "text_md": "L’instituteur, membre de la commission scolaire nationale, bénéficie d’une décharge hebdomadaire de 2 leçons de sa tâche d’enseignement.",
+      "text_sha256": "569764ee9fbdf55451ed8a5d91ad7fe1405ae52d647d3159b9e8d459acc262f1",
+      "md_span": {
+        "start": 11162,
+        "end": 11298
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_22/20130701",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Les membres, le fonctionnaire chargé des travaux administratifs ainsi que les représentants et experts ont droit par séance à un jeton de présence qui s’élève à 18,59 €. Le président ainsi que le secrétaire bénéficient d’un double jeton.",
+      "text_sha256": "12d06bb1c784f006c774fe07f87d13a024416696d24e0c477245aef90bf3c20d",
+      "md_span": {
+        "start": 11335,
+        "end": 11572
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_23/20090914",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2009-09-14",
+      "text_md": "Le présent règlement entre en vigueur pour la rentrée 2009/2010.\n\nLe règlement grand-ducal du 23 décembre 1963 fixant le mode d’élection des délégués du personnel enseignant à la commission d’instruction est abrogé.",
+      "text_sha256": "235deb4cc65a24d88195ed6eb09b61090b3745f08a87c1574d05fd3452a17b45",
+      "md_span": {
+        "start": 11609,
+        "end": 11824
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1963/12/23/n2/jo",
+          "text": "règlement grand-ducal du 23 décembre 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2009-05-28-n3:2014-09-15#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/art_24/20090914",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Du fonctionnement"
+      ],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Notre Ministre de l’Éducation nationale et de la Formation professionnelle est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "e6d4f6382d89ccc48161dfce34da90d6ba3c24fb74aff884cbaca51771818d91",
+      "md_span": {
+        "start": 11861,
+        "end": 12012
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

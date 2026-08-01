@@ -1,0 +1,299 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/04/2018 : Loi du 19 décembre 2003 portant création de l'établissement public «\u00A0Centre national de rééducation fonctionnelle et de réadaptation\u00A0».",
+  "valid_from": "2018-04-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2003-12-19-n14/versions/2018-04-01/fr.xml",
+    "sha256": "744b5c193ba6bf3d98cecba92c8ee911e9e82fb03027dd3da89c554b0ba4482d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/consolide/20180401/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_1er/20040104",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Il est créé un établissement public dénommé «Centre national de rééducation fonctionnelle et de réadaptation», désigné ci-après par «le Centre».\n\nLe Centre est doté de la personnalité juridique et jouit de l’autonomie financière et administrative. Il est placé sous la tutelle du ministre ayant la Santé dans ses attributions. Il est géré dans les formes et selon les méthodes du droit privé.\n\nLe Centre a son siège à Luxembourg.",
+      "text_sha256": "fd7ede747f8f4020530b6f48d64897793fc38c97fdb00918470b59104e08d587",
+      "md_span": {
+        "start": 659,
+        "end": 1088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_2/20040104",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Le Centre a pour mission la création et la gestion d’un établissement hospitalier spécialisé chargé de prester des soins stationnaires et ambulatoires dans le traitement, la rééducation fonctionnelle et la réadaptation des personnes accidentées de la vie.\n\nIl peut initier et poursuivre des programmes scientifiques de recherche clinique en matière de rééducation fonctionnelle et de réadaptation.\n\nIl constitue un lieu d’enseignement en matière de rééducation fonctionnelle et de réadaptation.",
+      "text_sha256": "86ac1a2ec357192edb39347e31d452485c9402d53e9c51452dfdc190432ec5e5",
+      "md_span": {
+        "start": 1123,
+        "end": 1617
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_3/20040104",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Les propriétés domaniales inscrites au cadastre de la commune de Luxembourg figurant au relevé joint en annexe à la présente loi dont il fait partie intégrante sont mises par l’Etat à disposition du Centre dans l’intérêt de la réalisation de sa mission.",
+      "text_sha256": "c1d85ce89b23e3b1ed7c1c13e7432b5ddfa63c17423f8fd8eb004bcdb4e34bb2",
+      "md_span": {
+        "start": 1652,
+        "end": 1905
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_4/20180401",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-04-01",
+      "text_md": "**(1)** Les fonctions d’organisme gestionnaire sont assurées par un conseil d’administration composé de onze membres effectifs et de onze membres suppléants, nommés et révoqués par le Grand-Duc, sur proposition du ministre ayant la Santé dans ses attributions, dont :\n\n- cinq membres proposés par le Conseil de Gouvernement, dont deux pour représenter plus particulièrement les intérêts des usagers ;\n- quatre membres représentant chacun un des centres hospitaliers proposés par l’organisme gestionnaire de l’hôpital respectif ;\n- un membre proposé par le Conseil médical de l’établissement ;\n- un membre représentant le personnel non-médecin, proposé par les délégations du personnel.\n\n**(2)** Ne peuvent devenir membres du conseil d’administration le ou les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le Centre ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l’Etat en faveur du Centre.\n\n**(3)** Le président et le vice-président du conseil d’administration sont nommés par le Grand-Duc.\n\n**(4)** Le conseil d’administration peut choisir un secrétaire administratif hors de son sein.\n\n**(5)** Les membres du conseil d’administration sont nommés pour une durée de six ans, renouvelable à son terme.\n\n**(6)** Le conseil d’administration peut à tout moment être révoqué par le Grand-Duc. Par ailleurs, le Grand-Duc peut révoquer un membre avant l’expiration de son mandat sur proposition du ministre de tutelle, le conseil d’administration entendu en son avis.\n\n**(7)** En cas de démission, de décès ou de révocation avant terme du mandat d’un administrateur, il est pourvu à son remplacement par la nomination d’un nouveau membre qui achève le mandat de celui qu’il remplace.\n\n**(8)** Le conseil d’administration a la faculté de recourir à l’avis d’experts s’il le juge nécessaire. Les experts peuvent assister avec voix consultative aux réunions du conseil d’administration, si celui-ci le leur demande.\n\n**(9)** Les indemnités des membres du conseil d’administration sont fixées par règlement grand-ducal et sont à charge du Centre.",
+      "text_sha256": "156da91ea654fe50e5c9b97341ed05bc8c1a85eb0eb10a6ceae42ebfc692ba11",
+      "md_span": {
+        "start": 1940,
+        "end": 4155
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_5/20040104",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Le conseil d’administration se réunit sur convocation de son président aussi souvent que les intérêts du Centre l’exigent. Il doit être convoqué à la demande de deux de ses membres et au moins une fois tous les trois mois. Le délai de convocation est de cinq jours, sauf le cas d’urgence à apprécier par le président. La convocation indique l’ordre du jour.\n\nLe conseil d’administration ne peut valablement délibérer que si la majorité de ses membres est présente et il décide à la majorité simple des voix des membres présents. En cas d’égalité des voix, le vote de celui qui assure la présidence est prépondérant.",
+      "text_sha256": "54240295aa0958c87c6bf203acc097fca0f9afb3c42717402eddaec8c74707da",
+      "md_span": {
+        "start": 4190,
+        "end": 4805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_6/20040104",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Le conseil d’administration représente et gère le Centre dans toutes les affaires qui n’ont pas été déférées à d’autres organes par la loi ou les règlements et notamment par la loi du 28 août 1998 sur les établissements hospitaliers.\n\nSont toutefois soumises à l’approbation du ministre ayant la Santé dans ses attributions, les décisions relatives:\n\n- à l’engagement et au licenciement du directeur et du personnel dirigeant;\n- à l’acceptation et au refus de dons et de legs;\n- aux budgets d’investissement et d’exploitation ainsi qu’aux comptes de fin d’exercice;\n- aux acquisitions, aliénations et échanges d’immeubles et à leur affectation, aux travaux de construction, de démolition et de grosses réparations ainsi qu’aux conditions de baux à contracter;\n- aux emprunts à contracter;\n- à la grille des emplois et à leur classification ainsi qu’au niveau de rémunération du personnel;\n- aux créations, transformations et suppressions de services;\n- loi du 28 août 1998\n\nLe président du conseil d’administration représente le Centre judiciairement et extrajudiciairement.",
+      "text_sha256": "33ef1cbec87039e48577a63344e0d61edeed977de6a315640af7115dcf68eeac",
+      "md_span": {
+        "start": 4840,
+        "end": 5914
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/08/28/n1/jo",
+          "text": "loi du 28 août 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_7/20040104",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Le conseil d’administration est assisté par du personnel qui est lié au Centre par un contrat de louage de services de droit privé. Le conseil d’administration définit les attributions administratives et financières du directeur. Le directeur assiste aux réunions du conseil d’administration avec voix consultative.",
+      "text_sha256": "a54b9bf18d9a090f9a482c67a5a4391d8a0f13ac63f666f6814c82c5546e6d94",
+      "md_span": {
+        "start": 5949,
+        "end": 6264
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_8/20040104",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Il sera institué un conseil scientifique interhospitalier, pouvant s’adjoindre des experts, qui, sur demande du conseil d’administration, donne un avis sur toutes les questions relatives à l’orientation médicale de l’établissement.\n\nLa composition et le fonctionnement du conseil scientifique sont fixés au règlement général.",
+      "text_sha256": "3141b4e86e908eadafaefebc7a97a01a0b85d0a1692022caeace8c8abef1057f",
+      "md_span": {
+        "start": 6299,
+        "end": 6624
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_9/20040104",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Les ressources du Centre sont constituées notamment par:\n\n- les recettes pour prestations et services fournis,\n- les donations et les legs,\n- les emprunts,\n- les participations financières de l’Etat.\n\nLes comptes du Centre sont tenus conformément aux dispositions des articles 34 et 35 de la loi du 28 août 1998 sur les établissements hospitaliers.",
+      "text_sha256": "567431f654df7d51191a796235d55bf01b5e17c33f15c1365171289dff1ba557",
+      "md_span": {
+        "start": 6659,
+        "end": 7007
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/08/28/n1/jo",
+          "text": "loi du 28 août 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_10/20040104",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Le Centre est affranchi de tous impôts et taxes au profit de l’Etat et des communes à l’exception des taxes rémunératoires. L’application de l’article 150 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu est étendue au Centre. Les actes passés au nom et en faveur du Centre sont exempts des droits de timbre, d’enregistrement, d’hypothèque et de succession.\n\nLes dons en espèces faits au Centre sont déductibles comme dépenses spéciales conformément à l’article 109 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu. A cet effet, l’article 112 alinéa 1er, numéro 1 de la loi précitée est complété par l’ajout des termes «au Centre national de rééducation fonctionnelle et de réadaptation».",
+      "text_sha256": "1cc1c1fdc23e57fc444cdeafa64e59cbbb465a48b016ef2705c3c6783fa95c58",
+      "md_span": {
+        "start": 7044,
+        "end": 7758
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi du 4 décembre 1967"
+        },
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_11/20040104",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Les employés et ouvriers en service auprès des Hospices Civils de la Ville de Luxembourg et affectés au service de rééducation fonctionnelle et de réadaptation à la date d’entrée en vigueur de la présente loi, peuvent opter dans un délai de trois mois à partir de cette entrée en vigueur, pour leur statut actuel ou le nouveau régime applicable en vertu de l’article 7 de la présente loi.\n\nS’ils n’ont pas fait connaître leur option endéans ledit délai par lettre recommandée au président du conseil d’administration, ils sont censés avoir opté pour leur statut actuel. Ils conservent les emplois et fonctions ainsi que les modalités fixés dans leur contrat originaire.\n\nL’établissement public rembourse aux Hospices Civils de la Ville de Luxembourg les traitements, indemnités, salaires et charges sociales patronales des agents publics communaux ayant opté pour leur statut actuel.",
+      "text_sha256": "b98eebf532a7f9c536ae40b7330425f00c1c268db58781a4fa8c032605c7ec2c",
+      "md_span": {
+        "start": 7795,
+        "end": 8678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_12/20040104",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Le Centre est autorisé à reprendre, s’il y a lieu, l’actif et le passif que l’association sans but lucratif «Rehazenter» voudra lui transmettre, pour autant que, s’agissant du passif, celui-ci résulte d’engagements contractés par l’association dans l’intérêt de la réalisation du Centre et qui profitent à ce dernier.",
+      "text_sha256": "185880f47efe5930e66a66bc959447c684752b92084242e616b725c6dd552a59",
+      "md_span": {
+        "start": 8715,
+        "end": 9032
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_13/20040104",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "**(1)** Le solde des dettes contractées par l’a.s.b.l. Rehazenter en vue de la réalisation d’un centre de rééducation fonctionnelle et de réadaptation à Dudelange de 520.829,03 euros (cinq cent vingt mille huit cent vingt-neuf euros et trois cents) tel qu’il a été arrêté au 30 juin 2003 augmenté des intérêts courant jusqu’à la date de clôture du compte, sera pris en charge par le fonds spécial des investissements hospitaliers.\n\n**(2)** Une dotation initiale de 4.636.821 euros (quatre millions six cent trente-six mille huit cent vingt et un euros) à charge du fonds spécial des investissements hospitaliers est accordée à l’établissement public.",
+      "text_sha256": "6d6d3c996cd3fc392dc443a8691bd0ef184520ca145a7f7aa195f5459c401aa0",
+      "md_span": {
+        "start": 9069,
+        "end": 9719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/art_14/20040104",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "La présente loi entrera en vigueur le premier jour du mois qui suit sa publication au Mémorial.",
+      "text_sha256": "36328a5feb2836fbb7cd09c269400a8a79eade21692d6f1fa7be1ebba12aebbf",
+      "md_span": {
+        "start": 9756,
+        "end": 9851
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-2003-12-19-n14:2018-04-01#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "***Relevé des propriétés domaniales mises à disposition**du Centre national de rééducation fonctionnelle et de réadaptation*****\n\nCommune de Luxembourg\n\nSection – ED – de Neudorf\n\nLieux-dits «Auf Breieschhoecht»\n\n«Im langen Grund»\n\n«Kirchberg»\n\n| Lot | Nature de culture | Contenance | Partie Numéro |  |  |\n| --- | --- | --- | --- | --- | --- |\n|  |  | ha | a | ca |  |\n| 1 | place | 02 | 33 | 91 | 435/4495 |\n| 2 | place | 00 | 93 | 49 | 290/3572, 296/1227 et 323 |",
+      "text_sha256": "bc45c26afb4bc25d2b6119e33f92574dec4cd550ff766b40b55489bd2d8f548b",
+      "md_span": {
+        "start": 9892,
+        "end": 10359
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

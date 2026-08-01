@@ -1,0 +1,177 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2004-05-06-n4:2011-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2013 : Règlement grand-ducal du 6 mai 2004 relatif aux dotations fiscales du fonds pour l'emploi.",
+  "valid_from": "2011-01-01",
+  "valid_to": "2012-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2004-05-06-n4/versions/2011-01-01/fr.xml",
+    "sha256": "45c639bf22fd4be35601020ea96f987d3230f776a2079d468ac3a8d42bec06d1",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/consolide/20110101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2004-05-06-n4:2011-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/art_1er/20040529",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-05-29",
+      "text_md": "La majoration de l'impôt sur le revenu introduite par l'article 6, alinéa 1 de la loi modifiée du 30 juin 1976 portant\n\n1. création d'un fonds pour l'emploi;\n2. loi modifiée du 4 décembre 1967",
+      "text_sha256": "b5848d15df6faaa80cdb12f26d60c6c30b7a3e548c63241d37ddd30c49b929fc",
+      "md_span": {
+        "start": 618,
+        "end": 810
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1976/06/30/n1/jo",
+          "text": "loi modifiée du 30 juin 1976"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2004-05-06-n4:2011-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/art_2/20110101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-01",
+      "text_md": "Les barèmes et les formules de la retenue d'impôt sur les salaires et les pensions sont établis selon les règles des articles 137 et 141 de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu par référence au tarif visé aux articles 118 à 121 et 124 de ladite loi, les éléments de ce tarif étant au préalable majorés à concurrence de 4 pour cent et à concurrence de 6 pour cent pour la tranche du revenu imposable ajusté dépassant respectivement 150.000 euros en classes 1 et 1a ou 300.000 euros en classe 2.",
+      "text_sha256": "efec6b6fe03db26173922fcf1e0b8807a028470191dadbf05979d6c7934a7f89",
+      "md_span": {
+        "start": 845,
+        "end": 1369
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2004-05-06-n4:2011-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/art_3/20110101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-01",
+      "text_md": "Les taux proportionnels constants prévus par le règlement grand-ducal modifié du 9 janvier 1974 relatif à la détermination de la retenue d'impôt sur les salaires et les pensions ainsi que par le règlement grand-ducal modifié du 10 mai 1974 portant exécution de l'article 137, alinéa 3 L.I.R., sont fixés de façon à tenir compte de la majoration de respectivement 4 pour cent ou 6 pour cent pour la tranche du revenu imposable ajusté dépassant respectivement 150.000 euros en classes 1 et 1a ou 300.000 euros en classe 2.",
+      "text_sha256": "807752580bda0084f94b2d25ee627205c013e223df64d5ce910bf02e7004db0d",
+      "md_span": {
+        "start": 1404,
+        "end": 1924
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1974/01/09/n1/jo",
+          "text": "règlement grand-ducal modifié du 9 janvier 1974"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1974/05/10/n1/jo",
+          "text": "règlement grand-ducal modifié du 10 mai 1974"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2004-05-06-n4:2011-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/art_4/20110101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-01",
+      "text_md": "Les taux applicables aux revenus extraordinaires qui rentrent dans les prévisions de l'article 132, alinéa 1er de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu sont majorés, pour la détermination de la retenue d'impôt sur les salaires et les pensions d'après les dispositions des articles 137 et 145 de la loi précitée, à concurrence de 4 pour cent et à concurrence de 6 pour cent pour la tranche du revenu imposable ajusté dépassant respectivement 150.000 euros en classes 1 et 1a ou 300.000 euros en classe 2.",
+      "text_sha256": "2fe6094a7286ddd84cb855aa16e16c65f8fbf36e70f77590918813ec62dd98a4",
+      "md_span": {
+        "start": 1959,
+        "end": 2492
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2004-05-06-n4:2011-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/art_5/20040529",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-05-29",
+      "text_md": "**(1)** L'article 4 du règlement grand-ducal modifié du 12 novembre 1976 relatif aux dotations fiscales du fonds de chômage et portant adaptation de la limite d'assiette spéciale et des taux de retenue sur rémunérations supplémentaires est abrogé avec effet à partir de l'année d'imposition 2002.\n\n**(2)** Sont abrogés avec effet à partir de l'année d'imposition 2004:\n\n1. règlement grand-ducal modifié du 12 novembre 1976\n2. règlement grand-ducal du 28 décembre 1990",
+      "text_sha256": "1869ed6af7ac34c82480a43006dbfcdf80d19c4286fb9ab02531171b6967171e",
+      "md_span": {
+        "start": 2527,
+        "end": 2994
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1976/11/12/n1/jo",
+          "text": "règlement grand-ducal modifié du 12 novembre 1976"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2004-05-06-n4:2011-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/art_6/20040529",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-05-29",
+      "text_md": "Le présent règlement est applicable avec effet à partir de l'année d'imposition 2004.",
+      "text_sha256": "a4c130a31385b461ec019b29724209ff2d4b4d1814855ebaf504f3cd5f705c93",
+      "md_span": {
+        "start": 3029,
+        "end": 3114
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2004-05-06-n4:2011-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/art_7/20040529",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-05-29",
+      "text_md": "Notre Ministre des Finances est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "75bfb6c7b08138d58e07bde3aa076674ab96e43c97cf08759aa67fbd52540773",
+      "md_span": {
+        "start": 3149,
+        "end": 3252
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

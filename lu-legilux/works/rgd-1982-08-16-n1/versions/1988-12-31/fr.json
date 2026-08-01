@@ -1,0 +1,103 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1982-08-16-n1:1988-12-31",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/11/1987 : Règlement grand-ducal du 16 août 1982 relatif aux assises financières des établissements de crédit.",
+  "valid_from": "1988-12-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1982-08-16-n1/versions/1988-12-31/fr.xml",
+    "sha256": "002f3f746463735629588b84cc876e963b259ec58ca8dff7e8ffdb8eb76b9ebd",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1982/08/16/n1/consolide/19881231/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1982-08-16-n1:1988-12-31#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le capital souscrit ou le fonds social souscrit des établissements de crédit visés à l’article 1er de la loi modifiée du 27 novembre 1984 relative à l’accès au secteur financier et à sa surveillance doit être au moins d’une valeur de\n\n1. 350 millions de francs,dont au moins 250 millions doivent être libérés,pour les banques visées à l’article 1er (2) a) de la loi précitée;\n2. «100» millions de francs,entièrement libérés,pour les établissements financiers non-bancaires visés à l’article 1er (2) c) de la loi précitée.",
+      "text_sha256": "840ff3dbec7a76e1a5eaaae727cc280c0ba3b2401c170f5785df2c5caa07240e",
+      "md_span": {
+        "start": 621,
+        "end": 1142
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi modifiée du 27 novembre 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1982-08-16-n1:1988-12-31#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Règlement grand-ducal du 16 décembre 1988)*\n\n1. Les établissements de crédit de droit étranger autres que ceux originaires d’un Etat membre des Communautés Européennes, qui veulent établir une succursale au Luxembourg, doivent mettre à la disposition permanente de cette succursale des fonds d’une valeur d’au moins 250 millions de francs pour les banques et 100 millions de francs pour les établissements financiers non-bancaires».\n2. loi modifiée du 27 novembre 1984",
+      "text_sha256": "3cf5c4c366a576363e8298db82bd87fd59a3d7eecee00374e24ce6da5b97706b",
+      "md_span": {
+        "start": 1177,
+        "end": 1647
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "Règlement grand-ducal du 16 décembre 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1982-08-16-n1:1988-12-31#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement ne s’applique pas aux banques qui à la date du 28 août 1982 étaient déjà autorisées à exercer leurs activités.",
+      "text_sha256": "1e516a92d08b86011056138dbb930735094424e333fbf31afbb842f2cf059837",
+      "md_span": {
+        "start": 1682,
+        "end": 1813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1982-08-16-n1:1988-12-31#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre ayant dans ses attributions l’Institut Monétaire Luxembourgeois, et Notre Ministre de l’Economie et des Classes moyennes sont chargés de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "41fd5e830027f8e0c4eccff1cc33cdb826c8c9d798ecc30efbcd3ec2b9583f89",
+      "md_span": {
+        "start": 1848,
+        "end": 2061
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

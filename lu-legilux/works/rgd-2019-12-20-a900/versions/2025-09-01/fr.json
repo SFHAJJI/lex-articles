@@ -1,0 +1,291 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 20 décembre 2019 déterminant pour les fonctionnaires et employés de l’État les modalités d’attribution de la réduction de stage et de la prime de doctorat et abrogeant le règlement grand-ducal modifié du 30 septembre 2015 déterminant pour les fonctionnaires et employés de l'État : \\nI. les cas d'exception ou de tempérament aux conditions de stage ;\\nII. la bonification d'ancienneté de service pour la fixation du traitement initial ; \\nIII. la procédure d'attribution d'une prime pour les détenteurs d'un doctorat.",
+  "valid_from": "2025-09-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2019-12-20-a900/versions/2025-09-01/fr.xml",
+    "sha256": "cab7bcf524e8120617cc14cdcfb28b9ab4753dd52c5a40357618fd5be29a88a2",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/consolide/20250901/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_1er/20200101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Réduction de stage**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Le présent chapitre s’applique aux fonctionnaires stagiaires de l’État des rubriques « Administration générale », « Armée, Police et inspection générale de la Police » et « Douanes » et, conformément à l’article 20 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, aux employés de l’État, désignés ci-après par « agent ».\n\nPar « stage », il y a lieu d’entendre la période de stage des fonctionnaires stagiaires ou la période d’initiation et la période visée à l’article 20, paragraphe 1er, de la loi précitée du 25 mars 2015.",
+      "text_sha256": "80955299f27ad1501d16a6903a33ee4280879627abbb82f91279afbf59a8cdd6",
+      "md_span": {
+        "start": 1114,
+        "end": 1688
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi précitée du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_2/20200101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Réduction de stage**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "L’agent bénéficie d’une réduction de stage, à condition que sa formation puisse être accomplie au cours du stage.",
+      "text_sha256": "d79b477201366f9426eb4069cc679f1d0a41b05db131e6ef3a7d6b1195b43fd5",
+      "md_span": {
+        "start": 1723,
+        "end": 1836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_3/20250901",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Réduction de stage**"
+      ],
+      "article_valid_from": "2025-09-01",
+      "text_md": "L’agent qui peut se prévaloir d’une expérience professionnelle antérieure peut bénéficier d’une réduction de stage d’une année au maximum. La réduction est calculée à raison d’un mois pour quatre mois d’activité professionnelle accomplis, toutes les périodes inférieures à quatre mois en continu n’étant pas prises en compte. Par « expérience professionnelle », il y a lieu d’entendre toute activité de travail rémunérée soumise à la retenue de cotisations pour pension.\n\nPour les agents de la catégorie de traitement ou d'indemnité A, le stage est réduit d’une année lorsque l’agent a passé avec succès l’examen de fin de stage judiciaire ou lorsque, en dehors des diplômes requis pour l’admission au service de l’État, il est titulaire d’un diplôme universitaire supplémentaire.\n\nPour les agents de la catégorie de traitement ou d’indemnité C, le stage est réduit d’une année lorsque l’agent peut se prévaloir d’une période de volontariat à l’Armée d’au moins trente-six mois.",
+      "text_sha256": "61c7181b0005b83e485fcd7872a67c3ab7759731b96b2131db04d0181fd135a0",
+      "md_span": {
+        "start": 1871,
+        "end": 2849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_4/20200101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — **Réduction de stage**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Les décisions relatives à la réduction de stage sont prises par le ministre ayant la Fonction publique dans ses attributions, sur demande de l’administration d’affectation de l’agent concerné renseignant la durée maximale de réduction de stage permettant l’accomplissement de la formation au cours du stage. Sous peine d’irrecevabilité, la demande doit être présentée au cours des six premiers mois du stage.\n\nPour l’agent disposant d’une expérience professionnelle à l’étranger, une pièce documentant la durée de l’occupation professionnelle antérieure est à joindre à la demande.",
+      "text_sha256": "2760cfe23d988ade1e666f96b879e4148b18dba30e3929b74eeed4615af67f27",
+      "md_span": {
+        "start": 2884,
+        "end": 3465
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_5/20200101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Prime de doctorat**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Les fonctionnaires et employés de l’État peuvent bénéficier de la prime de doctorat, prévue respectivement à l’article 24, paragraphe 2, de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État et à l’article 34 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, sous réserve que le diplôme de doctorat soit inscrit au registre des titres de formation et soit classé au niveau 8 du cadre luxembourgeois des qualifications prévus par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.",
+      "text_sha256": "fab5e05527e66ace5a57e418512516ad8e8884c6fd9d35b6abd8f7f08e7a9d2a",
+      "md_span": {
+        "start": 3543,
+        "end": 4208
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2016/10/28/n2/jo",
+          "text": "loi modifiée du 28 octobre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_6/20200101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2** — **Prime de doctorat**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Les décisions d’octroi de la prime de doctorat sont prises par le ministre ayant la Fonction publique dans ses attributions, sur demande de l’administration d’affectation du fonctionnaire ou employé concerné, accompagnée d’une description de poste, du diplôme de doctorat et de l’inscription au registre des titres de formation.",
+      "text_sha256": "926ce08fb15791ecdbfd1a44ef19566c5e61f8fd89b575e558e46f69ae9598e1",
+      "md_span": {
+        "start": 4243,
+        "end": 4571
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_7/20200101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Dispositions abrogatoires, transitoires et finales**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Le règlement grand-ducal modifié du 30 septembre 2015 déterminant pour les fonctionnaires et employés de l'État : I. les cas d'exception ou de tempérament aux conditions de stage ; II. la bonification d'ancienneté de service pour la fixation du traitement initial ; III. la procédure d'attribution d'une prime pour les détenteurs d'un doctorat est abrogé.",
+      "text_sha256": "be35696f548f815617732843c3d42d8c0df154030491ea8c1e2a607bf6719e41",
+      "md_span": {
+        "start": 4682,
+        "end": 5037
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2015/09/30/n10/jo",
+          "text": "règlement grand-ducal modifié du 30 septembre 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_8/20200101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Dispositions abrogatoires, transitoires et finales**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Pour les agents visés par les articles 92 à 102 de de la loi du 1er août 2019 portant modification 1° de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale ; 2° de la loi modifiée du 10 juin 1980 portant planification des besoins en personnel enseignant de l’enseignement secondaire ; 3° de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ; 4° de la loi modifiée du 26 février 2016 portant création d’une école internationale publique à Differdange ; 5° de la loi modifiée du 23 juillet 2016 portant création d’une réserve nationale des employés enseignants des lycées et par l’article 27 de la loi du 15 décembre 2019 portant modification 1° de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ; 2° de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique ; 3° de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ; 4° de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État ; 5° de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale ; 6° de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale, la demande de réduction de stage doit, sous peine d’irrecevabilité, être présentée dans un délai de six mois à partir de l’entrée en vigueur du présent règlement grand-ducal.",
+      "text_sha256": "3e805d3eac858962f454d1976985f4a8043ed1354495652312b94051a204d85e",
+      "md_span": {
+        "start": 5072,
+        "end": 6614
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2019/08/01/a563/jo",
+          "text": "loi du 1er août 2019"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/07/30/n2/jo",
+          "text": "loi modifiée du 30 juillet 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1980/06/10/n1/jo",
+          "text": "loi modifiée du 10 juin 1980"
+        },
+        {
+          "href": "/eli/etat/leg/rect/2009/05/14/n1/jo",
+          "text": "loi modifiée du 6 février 2009"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2016/02/26/n1/jo",
+          "text": "loi modifiée du 26 février 2016"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2016/07/23/n22/jo",
+          "text": "loi modifiée du 23 juillet 2016"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2019/12/15/a899/jo",
+          "text": "loi du 15 décembre 2019"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2018/07/18/a622/jo",
+          "text": "loi modifiée du 18 juillet 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_9/20200101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Dispositions abrogatoires, transitoires et finales**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Le présent règlement entre en vigueur le 1er janvier 2020.",
+      "text_sha256": "6905244c69ee74117ef9c0ae8ec67f47614492238c4731240094388f73388211",
+      "md_span": {
+        "start": 6649,
+        "end": 6707
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/art_10/20200101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Dispositions abrogatoires, transitoires et finales**"
+      ],
+      "article_valid_from": "2020-01-01",
+      "text_md": "Notre ministre ayant la Fonction publique dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "8d381047081e5e28a6e66712b85b9d3cef1bf5840279c7a815578fd64757681b",
+      "md_span": {
+        "start": 6744,
+        "end": 6920
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

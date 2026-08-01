@@ -1,0 +1,64 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2022-06-09-a272:2022-06-14",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 14/06/2022 : Règlement grand-ducal du 9 juin 2022 abrogeant le règlement grand-ducal modifié du 30 juillet 2013 relatif aux déchets d’équipements électriques et électroniques.",
+  "valid_from": "2022-06-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2022-06-09-a272/versions/2022-06-14/fr.xml",
+    "sha256": "611f87685dca7d1b4379424dbd003e5ced9a1b3784c6b04f5561200ce0a1a733",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/09/a272/consolide/20220614/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2022-06-09-a272:2022-06-14#art_1er",
+      "eli": "/art_1er/20220614",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-14",
+      "text_md": "Le règlement grand-ducal modifié du 30 juillet 2013 relatif aux déchets d’équipements électriques et électroniques est abrogé.",
+      "text_sha256": "03569af06c9b4552eefb6f551f3d113dcb0e36cb93febacfaae00571f1ca9e7c",
+      "md_span": {
+        "start": 687,
+        "end": 813
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2013/07/30/n1/jo",
+          "text": "règlement grand-ducal modifié du 30 juillet 2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2022-06-09-a272:2022-06-14#art_2",
+      "eli": "/art_2/20220614",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-06-14",
+      "text_md": "Notre Ministre ayant l’Environnement dans ses attributions, Notre Ministre ayant l’Intérieur dans ses attributions, Notre Ministre ayant les Classes moyennes dans ses attributions et Notre Ministre ayant l’Économie dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "4d2d0923ecd4a7aa972a19fa67e3b366324f97af9dfa9e72349adae6a7ca8875",
+      "md_span": {
+        "start": 848,
+        "end": 1230
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

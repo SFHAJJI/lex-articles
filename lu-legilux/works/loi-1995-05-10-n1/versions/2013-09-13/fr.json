@@ -1,0 +1,508 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/12/2013 : Loi du 10 mai 1995 relative à la gestion de l'infrastructure ferroviaire.",
+  "valid_from": "2013-09-13",
+  "valid_to": "2014-09-04",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1995-05-10-n1/versions/2013-09-13/fr.xml",
+    "sha256": "c6645524538b6138c91a4da1c8cdd2afdeb728161695bd5814558c54aecccf31",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1995/05/10/n1/consolide/20130913/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le «réseau ferré luxembourgeois» est conçu pour répondre aux besoins globaux de l’aménagement du territoire, du développement de l’économie et de la mobilité de la population.\n\nSes raccordements avec les chemins de fer des pays voisins contribueront à son insertion appropriée dans les réseaux de transport transeuropéens et à une desserte ferroviaire adéquate de la région transfrontalière.",
+      "text_sha256": "9b4aa826be82c11124c16f39124846f5a3b78f9bf9f77a8511425febba37b3cf",
+      "md_span": {
+        "start": 601,
+        "end": 992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Loi du 24 juillet 2006)*\n\n«Par réseau ferré il faut entendre l’infrastructure ferroviaire telle qu’elle est définie par la directive modifiée du Conseil du 29 juillet 1991 relative au développement de chemins de fer communautaires (91/440/CEE).»\n\nL’infrastructure ferroviaire se compose des éléments suivants, pour autant qu’ils font partie des voies principales et des voies de service, à l’exception de celles situées à l’intérieur des ateliers de réparation du matériel et des dépôts ou garages d’engins de traction, ainsi que des embranchements particuliers:\n\n- Terrains;\n- quais à voyageurs et à marchandises; accotements et pistes; murs de clôture, haies vives, palissades; bandes protectrices contre le feu; dispositifs pour le réchauffage des appareils de voie; écrans pare-neige;\n- ponts, ponceaux et autres passages supérieurs, tunnels, tranchées couvertes et autres passages inférieurs; murs de soutènement et ouvrages de protection contre les avalanches, les chutes de pierres, etc.;\n- Passages à niveau, y compris les installations destinées à assurer la sécurité de la circulation routière;\n- rails, rails à gorge et contre-rails; traverses et longrines, petit matériel d’assemblage, ballast, y compris gravillon et sable; appareils de voie; plaques tournantes et chariots transbordeurs (à l’exception de ceux exclusivement réservés aux engins de traction);\n- Chaussées des cours à voyageurs et à marchandises, y compris les accès par route;\n- bâtiments affectés auxdites installations; freins de voie;\n- Installations d’éclairage destinées à assurer la circulation des véhicules et la sécurité de cette circulation;\n- Installations de transformation et de transport de courant électrique pour la traction des trains; sous-stations, lignes d’alimentation entre les sous-stations et les fils de contact, caténaires et supports; troisième rail avec supports;\n- Bâtiment affectés au service des infrastructures.\n\nLes éléments composant l’infrastructure ferroviaire pourront être complétés ou modifiés par règlement grand-ducal.",
+      "text_sha256": "9f413e01edea82d6744b450a51f71537a5d95a17584c3b3051e066a3596dc38a",
+      "md_span": {
+        "start": 1027,
+        "end": 3067
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/07/24/n3/jo",
+          "text": "Loi du 24 juillet 2006"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/dir_ue/1991/440/jo",
+          "text": "91/440/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "A partir de l’entrée en vigueur de la présente loi l’Etat a la pleine propriété du «réseau ferré».\n\nL’Etat et les CFL procéderont «jusqu’au 1er juillet 1997» aux écritures cadastrales afférentes qui seront reprises dans un règlement grand-ducal énumérant les propriétés domaniales concernées.",
+      "text_sha256": "4b6836e9e8f722b3134bce8c5148969deb6e540efb1c0a088de85d8a22bbb78f",
+      "md_span": {
+        "start": 3102,
+        "end": 3394
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’Etat pourvoit à la remise en état, à la modernisation et à l’entretien du «réseau ferré» ainsi qu’aux raccordements ferroviaires internationaux.\n\nIl décide de la construction de lignes nouvelles ainsi que de l’extension et de la suppression de lignes existantes.\n\nIl a la charge de la police du «réseau ferré». Cette mission comporte notamment l’obligation d’assurer les conditions de sécurité de l’exploitation ferroviaire, de sûreté des personnes et des biens et de conservation et de viabilité du «réseau ferré».\n\nLes prescriptions y relatives seront fixées par règlement grand-ducal.",
+      "text_sha256": "1eab7822ad74b6f7ee9aeb7e66cbeb3ccd06d8813f35a25cd8933ffc5cf44647",
+      "md_span": {
+        "start": 3429,
+        "end": 4018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La remise en état, la modernisation et l’extension du «réseau ferré», la suppression de lignes ainsi que l’adaptation et le développement des raccordements ferroviaires internationaux sont réalisés sous l’autorité du membre du Gouvernement ayant dans ses attributions les chemins de fer, ci-après désigné par le terme «le ministre», avec le concours tant des services administratifs et techniques de l’Etat que du gestionnaire de l’infrastructure.\n\nLe ministre peut s’assurer, avec l’accord du Conseil de Gouvernement, tous autres concours nécessaires à la réalisation du programme d’investissement ferroviaire et des raccordements ferroviaires transfrontaliers. Il peut notamment engager, par contrat à durée déterminée, du personnel expert en la matière dont un expert administrateur chargé de la coordination. Les frais y relatifs sont supportés à parts égales par les deux Fonds institués en vertu des articles 10 et 13.",
+      "text_sha256": "2eaee70f5aa17b5ad68a584ef8a8ee9cb5fba3f923d384b8038767c7fc71eff4",
+      "md_span": {
+        "start": 4053,
+        "end": 4977
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La gestion du «réseau ferré» est confiée à la Société Nationale des Chemins de Fer Luxembourgeois, en abrégé CFL, ci-après dénommée le gestionnaire de l’infrastructure.\n\nLes modalités de mise en œuvre de cette mission sont réglées par voie de contrat entre l’Etat et les CFL à approuver par règlement grand-ducal.",
+      "text_sha256": "d6a1f74a3725db5009827a96e26f9ab9712abf8c60b4cd59932b6e888f7d7ab5",
+      "md_span": {
+        "start": 5012,
+        "end": 5325
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Toute construction de ligne de chemin de fer nouvelle, toute adjonction de voie(s) à une ligne de chemin de fer existante ainsi que tout autre projet de modification d’une ligne existante, y compris les installations ferroviaires connexes, font l’objet d’une évaluation des incidences du projet sur l’environnement dans les limites et conformément aux modalités de la loi du 13 mars 2007 portant transposition en droit luxembourgeois en matière d’infrastructures de transport de la directive 97/11/CE du Conseil du 3 mars 1997 modifiant la directive 85/337/CEE concernant l’évaluation des incidences de certains projets publics et privés sur l’environnement.»",
+      "text_sha256": "cacc9ace06b40fe8e1afaa5ec1d33e496af23511c0c2af20efde7f27b72ff8b2",
+      "md_span": {
+        "start": 5361,
+        "end": 6020
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2007/03/13/n3/jo",
+          "text": "loi du 13 mars 2007"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/dir_ue/1997/11/jo",
+          "text": "directive 97/11/CE"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/dir_ue/1985/337/jo",
+          "text": "directive 85/337/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(abrogé par la loi du 24 juillet 2006)*",
+      "text_sha256": "9fe692516b6ae65f17fcf76c958c2b6058ebf98f35f358166d8ee96441f339c2",
+      "md_span": {
+        "start": 6055,
+        "end": 6095
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/07/24/n3/jo",
+          "text": "loi du 24 juillet 2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les projets de remise en état, de modernisation et d’extension du réseau ferré ou de suppression de lignes sont repris dans un programme d’investissement quinquennal établi par le ministre avec le concours du gestionnaire de l’infrastructure et soumis préalablement à son exécution à l’approbation du Gouvernement en Conseil.\n\nSur proposition du ministre une mise à jour du programme sera faite tous les ans par le Gouvernement.",
+      "text_sha256": "f8fa82587436359049e1deb328a19139ec6c476f25d16a56b01d222810a920d2",
+      "md_span": {
+        "start": 6130,
+        "end": 6558
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "«Il est institué un fonds spécial, dénommé «Fonds du Rail».\n\n**1.** Sont imputés sur le Fonds du Rail:\n\n- les dépenses occasionnées par la réalisation du programme d’investissement;\n- les dépenses relatives aux acquisitions immobilières requises dans l’intérêt de la réalisation du programme d’investissement;\n\n*(Loi du 24 juillet 2006)*\n\n- les dépenses relatives à la gestion courante de l’infrastructure comprenant notamment les frais d’entretien du réseau ferré luxembourgeois ainsi que les dépenses relatives à la régulation du trafic ferroviaire sur ledit réseau;»\n- les frais d’experts et d’études relatifs à la réalisation du programme d’investissement ainsi que les frais d’études et de surveillance de la gestion de l’infrastructure ferroviaire;\n\n*(Loi du 18 décembre 2006)*\n\n- les dépenses relatives aux acquisitions d’infrastructures et d’installations ferroviaires existantes qui ne font pas partie du réseau ferré national;»\n\n*(Loi du 3 août 2010)*\n\n- les frais de fonctionnement du régulateur du marché ferroviaire.»\n\nLe Ministre ordonnance les dépenses à charge de ce Fonds.\n\n**2.** Le Gouvernement est autorisé à réaliser les projets d’infrastructure ferroviaire énoncés au programme des investissements repris au paragraphe 3. et concernant la remise en état, la modernisation et l’extension du réseau ferré ainsi que la suppression de lignes.\n\nLes projets en question comprennent les études préparatoires et définitives, l’acquisition des terrains et des immeubles bâtis, la construction, le parachèvement et l’équipement des voies, installations de voies et ouvrages d’art, les raccordements à l’infrastructure existante ainsi que le rétablissement des communications interrompues.\n\n**3.** Le Gouvernement est autorisé à imputer à charge des crédits de ce fonds spécial les dépenses concernant la réalisation des projets énumérés ci-après et qui dépassent le montant prévu par la législation portant exécution de l’article 99, troisième et quatrième phrases de la Constitution.»\n\n*(Loi du 3 juin 2003)*\n\n«Les dépenses d’investissement concernant ces projets ne peuvent pas dépasser les montants ci-après indiqués, sans préjudice des hausses légales de prix pouvant intervenir jusqu’à l’achèvement des travaux:\n\n| 1a° | Ligne de Zoufftgen à Luxembourg (renouvellement complet des voies existantes entre Bettembourg/frontière et Luxembourg) | 12.518.623 € |\n| --- | --- | --- |\n| 1b° | Ligne Zoufftgen - Luxembourg (aménagement d’une 3e voie dans le triangle de Fentange, augmentation de la capacité de ligne par l’optimisation des blocks de section, intégration du poste de Berchem dans le Poste Directeur de Luxembourg) | 27.500.000 € |\n| 2° | Mise à double voie intégrale de la ligne de Pétange à Luxembourg et renouvellement et modernisation des installations fixes de ces lignes, en particulier dans les secteurs des gares de Pétange et de Rodange | 319.920.000 € |\n| 3° | Renouvellement complet de voie et des infrastructures de la ligne de Luxembourg à Gouvy, dite «Ligne du Nord», en particulier de la section de voie Walferdange - Lorentzweiler et augmentation de la capacité de ligne | 14.497.656 € |\n| 4° | Renouvellement de voie, d’appareils de voie et du poste directeur en gare de Wasserbillig | 23.867.189 € |\n| 5° | Renouvellement et modernisation des installations fixes des lignes de Noertzange à Rumelange et de Tétange à Langengrund, en particulier dans les secteurs des gares | 9.441.223 € |\n| 6° | Gare Esch-sur-Alzette (modernisation et renouvellement des installations fixes, situation définitive) | 25.161.193 € |\n| 7° | Création d’un faisceau de remisage pour le matériel roulant en Gare de Luxembourg | 102.570.000 € |\n| 8° | Remise en état du viaduc «Pulvermuehle» en gare de Luxembourg | 15.917.755 € |\n| «9° | *(Loi du 6 mai 2010)*Installation d’un dispositif d’arrêt automatique des trains et installation d’un système de contrôle de vitesse sur l’ensemble du réseau ferré luxembourgeois | 37.269.864,25 €» |\n| 10° | Aménagement de nouveaux quais pour voyageurs | 9.915.741 € |\n| 11° | Alimentation du réseau ferré luxembourgeois en énergie électrique de traction dans l’optique du trafic au début du 21e siècle | 35.101.996 € |\n| 12° | Renouvellement et suppression de passages à niveau sur l’ensemble du réseau | 12.345.098 € |\n| 13° | Modernisation et renouvellement de la ligne de Luxembourg à Kleinbettingen |  |\n| 14° | Renouvellement de voie et d’appareils de voie, aménagement de nouvelles voies et de nouveaux appareils de voie tertiaires et aménagement de supports spéciaux antigraissage dans les aiguilles des appareils de voie | 8.676.273 € |\n| 15° | Modernisation et sécurisation de l’infrastructure ferroviaire de l’antenne de Kautenbach à Wiltz | 31.463.086 € |\n| «16° | *(Loi du 19 juin 2012)*Ligne de Luxembourg à Wasserbillig. Mise à double voie du tronçon de ligne entre Hamm (Pulvermühle) et Sandweiler | 215.000.000 €» |\n| 17° | Ligne de Luxembourg à Wasserbillig. Modernisation des installations de signalisation et de télécommunication des postes de Wecker, Roodt, Oetrange et Sandweiler-Contern | 25.606.000 € |\n| «18° | *(Loi du 19 juin 2012)*Réseau ferré luxembourgeois. Aménagement d’un réseau numérique intégré ERTMS/GSM-R (partie infrastructure) | 51.100.000 €» |\n| 19° | Ligne du Nord. Renouvellement d’installations de voie sur plusieurs tronçons de ligne | 40.016.000 € |\n| 20° | Tronçon de ligne Berchem/Nord-Oetrange et courbe de raccordement d’Alzingen. Renouvellement complet d’installations de voie | 12.752.000 €» |\n| «21° | *(Loi du 18 décembre 2003)*Raccordement ferroviaire de Kirchberg et de Findel, d’une part, à la ligne de chemin de fer Luxembourg-Gouvy, dite Ligne du Nord, et, d’autre part, à la ligne de chemin de fer Luxembourg-Wasserbillig | 389.680.000 €» |\n| «22° | *(Loi du 18 avril 2004)*Construction d’une antenne ferroviaire Belval-Usines - Belvaux-Mairie | 95.450.000 €» |\n| «23° | *(Loi du 18 avril 2004)*Construction d’un nouveau viaduc à deux voies à la sortie Nord de la Gare de Luxembourg, raccordement d’une des deux voies par un tunnel nouveau à voie unique et réaménagement général de la tête Nord de la Gare de Luxembourg | 180.700.000 €» |\n| «24° | *(Loi du 5 juin 2009)*Gare de Luxembourg. Reconstruction du passage supérieur situé au point kilométrique 0,858 de la ligne de Luxembourg à Kleinbettingen (Rue d’Alsace) | 19.250.000 €» |\n| «25° | *(Loi du 17 décembre 2010)*Gare périphérique de Howald. Aménagement de la phase 1 | 42.878.500 €» |\n| «26° | *(Loi du 19 juin 2012)*Ligne du Nord. Renouvellement complet de différents tronçons de voie avec amélioration de la plate-forme en vue de la mise en œuvre de traverses en béton | 96.200.000 € |\n| 27° | Ligne de Luxembourg à Kleinbettingen. Modernisation de la ligne. Phase 1: Renouvellement des Postes Directeurs sur la situation actuelle | 42.000.000 € |\n| 28° | Gare de Differdange. Modernisation et renouvellement des installations fixes | 51.000.000 €» |\n| «29° | *(Loi du 27 août 2013)*Ligne de Zoufftgen/frontière à Luxembourg; aménagement d’une plate-forme multimodale à Bettembourg/Dudelange - Phase I: travaux préparatoires | 182.000.000 €» |\n\n*(Loi du 27 août 2013)*\n\n«Ces montants s’entendent hors taxe sur la valeur ajoutée (TVA). Les montants repris sous 1a°, 3°, 10°, 11°, 12° et 14° correspondent à la valeur 524,53 de l’indice semestriel des prix de la construction au 1er avril 2000. Ceux repris sous 1b°, 2°, 4°, 5°, 6°, 7°, 8°, 15°, 16°, 17°, 18°, 19° et 20° correspondent à la valeur 554,26 de cet indice au 1er octobre 2001. Celui repris sous 21° correspond à la valeur 563,36 de cet indice au 1er avril 2002. Celui repris sous 22° correspond à la valeur 569,61 de cet indice au 1er octobre 2002. Les montants repris sous 9°, 23°, 24° et 25° correspondent à la valeur 666,12 de cet indice au 1er avril 2008. Celui repris sous 28° correspond à la valeur 685,44 de cet indice au 1er octobre 2010. Celui sous 29° correspond à la valeur 725,05 de cet indice au 1er octobre 2012. Déduction faite des dépenses déjà engagées par le pouvoir adjudicateur, ce montant est adapté semestriellement en fonction de la variation de l’indice des prix de la construction précité.»\n\n*(Loi du 24 juillet 2006)*\n\n«4. Par dérogation à l’article 12b) de la loi du 30 juin 2003 sur les marchés publics, la durée des contrats et marchés relatifs aux travaux, fournitures et services à exécuter en vertu de la présente loi peut excéder dix exercices, y non compris celui au cours duquel ils ont été conclus.»",
+      "text_sha256": "25739197fb19366a4dc1e0ec252eb637cdb60deaea5a5f17ad02ffd17c97f634",
+      "md_span": {
+        "start": 6595,
+        "end": 15069
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/07/24/n3/jo",
+          "text": "Loi du 24 juillet 2006"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2006/12/18/n1/jo",
+          "text": "Loi du 18 décembre 2006"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2010/08/03/n4/jo",
+          "text": "Loi du 3 août 2010"
+        },
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo",
+          "text": "Constitution"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/06/03/n1/jo",
+          "text": "Loi du 3 juin 2003"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2010/05/06/n1/jo",
+          "text": "Loi du 6 mai 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2012/06/19/n2/jo",
+          "text": "Loi du 19 juin 2012"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/12/18/n1/jo",
+          "text": "Loi du 18 décembre 2003"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/04/18/n6/jo",
+          "text": "Loi du 18 avril 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/04/18/n7/jo",
+          "text": "Loi du 18 avril 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2009/06/05/n1/jo",
+          "text": "Loi du 5 juin 2009"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2010/12/17/n10/jo",
+          "text": "Loi du 17 décembre 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2013/08/27/n4/jo",
+          "text": "Loi du 27 août 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/06/30/n1/jo",
+          "text": "loi du 30 juin 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le Fonds du Rail est alimenté:\n\n- par des dotations budgétaires;\n\n*(Loi du 19 décembre 2003)*\n\n- par des emprunts;»\n- par le produit de la vente d’immeubles appartenant au domaine foncier et bâti du réseau ferré et rendus disponibles après la réalisation du programme d’investissement;\n- par le produit des redevances d’utilisation prévues à l’article 8;\n- par les revenus provenant notamment de la location d’immeubles faisant partie du domaine foncier et bâti du réseau ferré;\n- par les subventions de l’Union européenne allouées à des projets inscrits au programme d’investissement.»\n\n«Les sommes dont question aux tirets deux à six sont portées directement en recette au Fonds.»",
+      "text_sha256": "13d421ff50c64a3bd6e67f8f5a0b78e6eeab840af872a5df4b2ce781440eab31",
+      "md_span": {
+        "start": 15107,
+        "end": 15789
+      },
+      "citations": [
+        {
+          "href": "http://legilux.lu/eli/etat/leg/loi/2003/12/19/n3/jo",
+          "text": "Loi du 19 décembre 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La participation à la réalisation de projets ferroviaires situés en dehors du territoire national, lorsque ces projets contribuent au maintien et au développement des raccordements ferroviaires du Grand-Duché de Luxembourg avec ses pays voisins et à l’insertion du «réseau ferré luxembourgeois» dans les réseaux de transport transeuropéens doit être autorisée par une loi spéciale.",
+      "text_sha256": "91056e2ae52e25cd932681928e063c2e06ea8c270cac91db292bbf6e191590be",
+      "md_span": {
+        "start": 15826,
+        "end": 16207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les dépenses engendrées par ces participations sont à charge d’un fonds spécial, dénommé Fonds des Raccordements Ferroviaires Internationaux.\n\nLe ministre ordonnance les dépenses à charge à ce Fonds.",
+      "text_sha256": "593492c2a48db9a1e442e7a9c4c7c2486148f6d685e36526cb0ee37781bce5e6",
+      "md_span": {
+        "start": 16244,
+        "end": 16443
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le Fonds des Raccordements Ferroviaires Internationaux est alimenté:\n\n- par des dotations budgétaires;\n- par les subventions de l’Union européenne allouées au Grand-Duché de Luxembourg en vue de promouvoir la réalisation des raccordements visés à l’article 12;\n- par les rémunérations des participations de l’Etat dans des entités étrangères ou internationales qui sont, le cas échéant, chargées de la réalisation des projets prévus à l’article 12.\n\n*(Loi du 23 décembre 2005)*\n\n- par des emprunts\n\nLes sommes dont question aux deuxième, troisième et quatrième tirets sont portées directement en recette au Fonds.»",
+      "text_sha256": "6ab805750a5c6a757905f858ab8dcb04e4144289df70fabb40f3a9f16bf5d6d0",
+      "md_span": {
+        "start": 16480,
+        "end": 17094
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/12/23/n4/jo",
+          "text": "Loi du 23 décembre 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La gestion du «réseau ferré» comporte la charge de la conception, de la planification technique et financière, de l’adjudication et de la réalisation des travaux de renouvellement, de la maintenance de la totalité des voies et installations fixes du réseau ferré, dans la mesure où celles-ci sont nécessaires pour assurer la circulation des trains et la sécurité de cette circulation. Cette gestion inclut par ailleurs l’administration centrale et locale de la circulation des trains qui comprend notamment la planification, le suivi, l’expédition et la réception, le dispatching et les systèmes de communication et d’information.\n\n*(Loi du 24 juillet 2006)*\n\n«Les mêmes modalités valent dans le cadre de projets d’extension du réseau ou de suppression des lignes dont la réalisation technique est confiée au gestionnaire. Celui-ci est notamment tenu de présenter au ministre un plan de renforcement des capacités, s’il est informé de problèmes de saturation sur un axe déterminé par l’organisme de répartition prévu par la loi modifiée du 11 juin 1999 relative à l’accès à l’infrastructure ferroviaire et à son utilisation.»\n\nPour l’exécution des travaux lui incombant, le gestionnaire de l’infrastructure est investi de tous les droits que les lois et règlements confèrent à l’Etat en matière de travaux publics. Toutefois, il demeure soumis à toutes les obligations qui dérivent, pour l’Etat, de ces lois et règlements.",
+      "text_sha256": "2e79a63839a6159102df8ac0c919b58aaa42aca2dd7d1d454fda84cc3bd0f202",
+      "md_span": {
+        "start": 17131,
+        "end": 18553
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/07/24/n3/jo",
+          "text": "Loi du 24 juillet 2006"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "loi modifiée du 11 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les opérations immobilières qui sont réalisées dans l’intérêt de la mise en œuvre du programme dont question aux paragraphes 2. et 3. de l’article 10 sont reconnues d’utilité publique.»\n\n*(Loi du 13 mars 2007)*\n\n«Le plan des parcelles à exproprier et la liste des propriétaires concernés sont approuvés par règlement grand-ducal, le Conseil d’Etat entendu en son avis. Pour le surplus les dispositions de la loi du 15 mars 1979 sur l’expropriation pour cause d’utilité publique sont d’application; lorsque la réalisation d’un projet reconnu d’utilité publique relève du programme des investissements prévu à l’article 10, les mesures préparatoires relatives à l’expropriation sont diligentées par le ministre qui assume les attributions dont question aux articles 11, 12, 13, 15, 19 et 22 de la loi du 15 mai 1979 sur l’expropriation pour cause d’utilité publique.»",
+      "text_sha256": "8742e27b390e8cc13fb2163a521d175ecd38a3c640e4ff9f7812a260bcfd838d",
+      "md_span": {
+        "start": 18591,
+        "end": 19456
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2007/03/13/n3/jo",
+          "text": "Loi du 13 mars 2007"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/03/15/n3/jo",
+          "text": "loi du 15 mars 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/03/15/n3/jo",
+          "text": "loi du 15 mai 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le gestionnaire de l’infrastructure a l’obligation d’entretenir constamment le «réseau ferré» et toutes ses dépendances dans un état tel que les besoins du trafic et la circulation des trains sont assurés dans des conditions de sécurité et de commodité appropriées.\n\nToutefois, cette obligation est limitée en cas de réduction du trafic, aux exigences du service réduit maintenu et en cas de suspension ou de suppression du trafic ferroviaire sur une ligne ou une section de ligne en ce qui concerne le gros œuvre de l’infrastructure, aux mesures nécessaires pour assurer la sécurité publique et le respect des droits des tiers. Dans cette hypothèse le gestionnaire peut être autorisé par le ministre à supprimer les installations ferroviaires rendues inutiles par les transformations ainsi apportées à l’exploitation.",
+      "text_sha256": "17c736ab03bf473531859391a034542650f8b058e5bc723e527193e8f389d92f",
+      "md_span": {
+        "start": 19493,
+        "end": 20311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Dans les limites de la mission lui dévolue en vertu de l’article 6 le gestionnaire de l’infrastructure est responsable tant envers l’Etat qu’envers les particuliers, et notamment envers les entreprises ferroviaires qui empruntent le «réseau ferré luxembourgeois», du dommage causé soit par son propre fait, sa faute, sa négligence ou son imprudence, soit par le fait des personnes dont il doit répondre ou des choses qu’il a sous sa garde.\n\nLes dispositions qui précèdent ne préjudicient pas à l’application des dispositions internationales sur la responsabilité en matière de gestion de l’infrastructure ferroviaire.",
+      "text_sha256": "9ca124ab689099c963b63a85739bd734dece7702fee859ebf10a56cff2f0d6b7",
+      "md_span": {
+        "start": 20348,
+        "end": 20965
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le gestionnaire réalise et entretient les embranchements particuliers conformément aux modalités fixées dans le contrat de gestion à conclure selon l’article 6.\n\nLes conditions de la réalisation, de l’entretien et de l’usage de ces embranchements particuliers sont convenues entre le gestionnaire et l’embranché.",
+      "text_sha256": "5d806d20747cf6cf4416f2d1642c3f178d12975f639e613bc6a9596ccda57be5",
+      "md_span": {
+        "start": 21002,
+        "end": 21314
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "«Art. 20.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le gestionnaire de l’infrastructure effectue les paiements correspondant aux engagements financiers et recouvre les recettes relevant des missions lui confiées dans le cadre de la présente loi.\n\nConformément aux modalités fixées par le contrat de gestion prévu à l’article 6 l’Etat rémunère les prestations effectuées par le gestionnaire à charge des crédits du Fonds du Rail et le gestionnaire verse au profit du Fonds du Rail les recettes dont le recouvrement lui a été confié.\n\n*(Loi du 24 juillet 2006)*\n\n«Les comptes des CFL relatifs à la gestion du réseau ferroviaire sont tenus d’après les principes et les modalités de la comptabilité commerciale et de façon à permettre la tenue et la publication de comptes de profit et pertes séparés et de bilans financiers annuels séparés décrivant les actifs et les passifs, d’une part, pour les activités relatives à la gestion de l’infrastructure ferroviaire et, d’autre part, pour les autres activités dont notamment celle relative à la fourniture de services de transports. Les aides publiques versées à l’une de ces catégories d’activités ne peuvent pas être transférées à l’autre; cette interdiction doit être reflétée par les comptes y relatifs.»\n\nLe gestionnaire veillera par ailleurs, en ce qui concerne la gestion du «réseau ferré», à séparer les produits et les charges se rapportant aux investissements, à l’entretien et à la régulation du trafic.»",
+      "text_sha256": "a75080b95b769682f192a9bc125979e863a243be3e2c735e7d24fcf1be0e3778",
+      "md_span": {
+        "start": 21352,
+        "end": 22759
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/07/24/n3/jo",
+          "text": "Loi du 24 juillet 2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Sont abrogés l’article 49 et l’article 50, à l’exception de son dernier alinéa, de la loi du 23 décembre 1994 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1995.",
+      "text_sha256": "da7ec5808999b18680806039a47fa4c8b1ddd21bc2031d9ec911dbcf67ffda45",
+      "md_span": {
+        "start": 22796,
+        "end": 22987
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1994/12/23/n1/jo",
+          "text": "loi du 23 décembre 1994"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

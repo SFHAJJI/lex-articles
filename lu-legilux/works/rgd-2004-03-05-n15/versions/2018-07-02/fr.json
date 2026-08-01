@@ -1,0 +1,351 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/07/2018 : Règlement grand-ducal du 5 mars 2004 concernant la santé et la sécurité du travail et le contrôle médical dans la fonction publique.",
+  "valid_from": "2018-07-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2004-03-05-n15/versions/2018-07-02/fr.xml",
+    "sha256": "94d00fb164860740f4c09f93f254bbad6bea30476fc012b138896470ce71ce94",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/consolide/20180702/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_1er/20180702",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Dans le présent texte on entend par:\n\n| loi: | la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’Etat, dans les établissements publics et dans les écoles; |\n| --- | --- |\n| statuts: | lois fixant les statuts généraux et régimes des fonctionnaires et employés de l’Etat, des fonctionnaires et employés communaux ainsi que des employés publics occupés auprès des établissements publics, auprès des communes et auprès des établissements et syndicats qui ressortent directement des communes; |\n| ministre: | le ministre ayant la Fonction publique dans ses attributions; |\n| service: | le service national de la sécurité dans la fonction publique créé par l’article 12 de la loi précitée du 19 mars 1988; |\n| responsable: | la personne chargée de mettre en œuvre la sécurité au sens des articles 6, 7 et 8 de la loi; |\n| agent: | le membre du personnel, fonctionnaire assujetti au statut et employé assujetti au régime de l’employé de l’Etat ou de l’employé communal, et susceptible de se soumettre aux examens prévus par le présent règlement; |\n| délégué: | le délégué à la sécurité désigné par le responsable au sens de l’article 9 de la loi; |\n| médecin: | le médecin du travail dans la fonction publique en ce qui concerne les dispositions prévues au chapitre I, et le médecin de contrôle dans la Fonction publique pour ce qui est des dispositions du chapitre II du présent règlement grand-ducal. |",
+      "text_sha256": "51b81c82317e46798fb99ec82eefa38a71dcc6ecce210f3de0404db05c191938",
+      "md_span": {
+        "start": 656,
+        "end": 2100
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/03/19/n1/jo",
+          "text": "loi modifiée du 19 mars 1988"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1988/03/19/n1/jo",
+          "text": "loi précitée du 19 mars 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_2/20180702",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Le médecin est chargé en ce qui concerne les agents des institutions assujetties à la loi:\n\n1. d’identifier et d’évaluer les risques d’atteinte à la santé sur les lieux de travail, d’aider à éviter ces risques et à les combattre à la source;\n2. de surveiller les facteurs du milieu de travail susceptibles d’affecter la santé de l’agent;\n3. de donner des conseils sur la planification des postes de travail, notamment quant à l’aménagement des lieux de travail et le choix des équipements de travail, ainsi que quant à l’utilisation de substances ou de préparations chimiques pouvant constituer un risque pour la santé des agents;\n4. de promouvoir l’adaptation du travail à l’homme, en particulier en ce qui concerne la conception des postes de travail;\n5. de surveiller la santé des agents en relation avec l’exercice de leurs fonctions et d’effectuer à cet effet les examens médicaux prévus par le présent règlement grand-ducal; il en est de même des examens attribués au médecin du travail par toute autre disposition légale ou réglementaire dès lors qu’un agent est concerné;\n6. de donner des conseils dans les domaines de l’hygiène, de l’ergonomie, de l’éducation à la santé et de la réadaptation professionnelle;\n7. de coopérer avec le responsable, le délégué et avec la représentation du personnel;\n8. d’organiser les premiers secours;\n9. d’effectuer les examens médicaux des candidats à un emploi dans la fonction publique;\n10. d’organiser et de mettre en vigueur un programme de prévention et d’aide contre l’abus de substances susceptibles de créer une dépendance sur le lieu de travail.\n\nEn cas d’urgence dûment constatée par le ministre ayant la fonction publique dans ses attributions, l’examen médical des candidats à un emploi dans la fonction publique visé au point 9 ci-dessus peut être effectué, dans les conditions et suivant les modalités prévues au présent règlement, par un médecin-généraliste du secteur privé, à choisir par le candidat sur une liste fournie par le ministre. Les droits et obligations incombant aux médecins figurant sur cette liste sont consignés dans une convention établie entre le ministre et les médecins concernés.\n\nPar cas d’urgence il y a lieu d’entendre notamment le fait que le candidat ne peut pas être examiné en temps utile par le médecin du travail dans la fonction publique en vue d’un contrôle médical préalable à son engagement respectivement à son admission au stage.\n\nDans le cas où le candidat se trouve à l’étranger et qu’il est destiné à y occuper un poste, l’examen médical d’embauche peut être effectué sur place par un médecin à désigner par la mission diplomatique compétente. Le médecin ainsi désigné effectue l’examen médical et remplit un formulaire suivant les modalités et critères fixés par le médecin du travail. Ce dernier établit ensuite la fiche d’aptitude sur base des résultats certifiés par le médecin désigné.\n\nL’examen médical des pompiers professionnels du Corps grand-ducal d’incendie et de secours est assuré par un des médecins de ce dernier dans les conditions et modalités prévues par le règlement grand-ducal du 27 juin 2018 relatif au contrôle médical des pompiers du Corps grand-ducal d’incendie et de secours.",
+      "text_sha256": "2c11f97e78889a0ab3a6cafa8ebd8b7a4b8be7630a9cf1e1f0eaee48e7d0ee77",
+      "md_span": {
+        "start": 2181,
+        "end": 5381
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/06/27/a533/jo",
+          "text": "règlement grand-ducal du 27 juin 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_3/20180702",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Le médecin est chargé de l’examen médical des candidats qui se sont classés en rang utile après l’examen-concours sur épreuves à un emploi dans le secteur public. Il procèdera à l’examen et consignera les résultats détaillés sur une formule spéciale intitulée «certificat médical» et établie par le ministre ayant la Fonction Publique dans ses attributions.\n\nLe médecin transmet au service chargé du recrutement les résultats de l’examen médical. Cette information, revêtue de la signature et du cachet du médecin, contiendra les renseignements suivants:\n\n- nom et prénom du candidat\n- date de naissance\n- poste de travail brigué\n- résultat de l’examen médical.\n\nPar résultat d’examen, il y a lieu d’entendre l’information que le candidat est apte ou inapte au service du secteur public.\n\nLa formule spéciale dénommée «certificat médical», dûment remplie par le médecin, sera conservée dans son service où elle pourra être consultée par le candidat ou par le médecin de contrôle dans le cas visé à l’article 12 ci-dessous. Lorsque l’examen est effectué par un médecin-généraliste du secteur privé, la formule spéciale dénommée «certificat médical» est remise par le médecin au candidat qui devra la remettre en mains propres au médecin du travail dans la fonction publique.",
+      "text_sha256": "4f7af6584ed9fe4ff902ba278ab2f2a655c2134f176eef7414bec15fbe4fa0b0",
+      "md_span": {
+        "start": 5416,
+        "end": 6689
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_4/20180702",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "**1.** Le médecin est chargé de l’examen médical des agents dans tous les cas où l’examen est ordonné dans l’intérêt du personnel ou dans l’intérêt du service par le ministre de la Fonction publique, s’il s’agit de l’ensemble des fonctionnaires, et par le ministre du ressort s’il s’agit de tout ou partie des fonctionnaires d’un ministère ou des administrations et services qui en dépendent, respectivement par le Collège des Bourgmestre et échevins.\n\nA cette fin, le médecin est directement saisi par l’autorité compétente précitée de l’institution qui désire faire examiner ses agents. La convocation des agents est faite sous forme de lettre recommandée par le médecin qui fixe la date et le lieu de l’examen.\n\n**2.** Le médecin est chargé de l’examen médical périodique prévu par l’article 32, paragraphe 2 du statut général des fonctionnaires de l’Etat, respectivement l’article 36, paragraphe 2 du statut général des fonctionnaires communaux.\n\nA cette fin, le chef d’administration ou son délégué invite, par courrier, l’agent à se soumettre à l’examen médical en indiquant, après concertation avec le médecin, la date et l’heure à laquelle il doit s’y présenter.",
+      "text_sha256": "4aa1a1899cc53b2bf2223fe21aff926b0bf86300a3ca1a393329d4dfd65e6dac",
+      "md_span": {
+        "start": 6724,
+        "end": 7894
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_5/20180702",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "En cas de changement d’affectation à un autre poste présentant des conditions de travail sensiblement différentes avec des risques virtuels pour la santé des agents, le responsable est tenu d’en avertir le médecin par voie hiérarchique qui décide de la nécessité éventuelle d’un nouvel examen.\n\nEn cas de congés sans traitement dépassant la durée d’un an, l’agent est tenu de se soumettre à un examen médical auprès du médecin demandé par le responsable compétent.",
+      "text_sha256": "fc6a0d97fa848bebc03f2670fc76fa871fb7037e47ed60b5aa1bff615802cbef",
+      "md_span": {
+        "start": 7929,
+        "end": 8393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_6/20180702",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Sans préjudice des autres obligations légales ou réglementaires régissant les examens périodiques prescrits sur la base des statuts par respectivement les ministres et les collèges des Bourgmestre et échevins compétents, chaque agent d’une institution assujettie à la loi a droit à un examen de sa santé en relation avec son travail effectué par le médecin, et notamment dans les cas suivants:\n\n1. sur la demande écrite de l’agent transmise par voie hiérarchique au médecin;\n2. sur demande du médecin,\n3. sur demande motivée du responsable compétent.",
+      "text_sha256": "fe8d16213070ab3132004444a4f2b0d04ae3e383436e765a4312c3f9341e8d96",
+      "md_span": {
+        "start": 8428,
+        "end": 8978
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_7/20180702",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Le médecin prescrit des examens supplémentaires individuels ou collectifs:\n\n- en cas d’incidents sanitaires,\n- en présence d’insuffisances résultant d’examens préalables,\n- à l’égard de groupes à risques dont la santé n’est pas surveillée autrement; sont visés des jeunes, des personnes handicapées, des travailleurs occupant des postes à risque de même que des personnes exposées à un risque de maladies professionnelles ou à des radiations ionisantes.",
+      "text_sha256": "1284e7f0a98bbbd38b58141f75171f84f6c730f1e257fa7acf7b591c353938e8",
+      "md_span": {
+        "start": 9013,
+        "end": 9466
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_8/20180702",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "L’agent est libéré de son service, y compris en vue d’éventuels analyses et examens cliniques supplémentaires en cas d’examen médical effectué en vertu des articles qui précèdent.",
+      "text_sha256": "dd554922b88925789e452b9a59bc624be5d81f0a2e1e8affe1db9b5b527b70f9",
+      "md_span": {
+        "start": 9501,
+        "end": 9680
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_9/20180702",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Le médecin tient un fichier des consultations. Il ne peut communiquer une information sujette au secret médical ni au responsable ni à un autre tiers qu’à la suite d’un accord formel et écrit de la part de l’intéressé.\n\nNe tombent pas sous cette interdiction les informations échangées avec d’autres médecins concernés par le dossier médical de l’intéressé.",
+      "text_sha256": "4ab0ba9d9b4ada4167f9cf7be6ce55217167c949a2df6ae32c415de37c80fbe3",
+      "md_span": {
+        "start": 9715,
+        "end": 10072
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_10/20180702",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Le médecin informe et conseille l’agent personnellement et décide des suites à envisager.\n\nEn fonction des résultats il peut notamment:\n\n- classer le dossier sans suite;\n- décider d’examens médicaux ultérieurs, éventuellement périodiques;\n- prescrire des analyses et autres examens cliniques supplémentaires;\n- proposer des limitations d’efforts, de sollicitation, d’exposition et d’autres activités préjudiciables, voire des changements d’affectation ou de fonction;\n- effectuer ou faire effectuer des visites d’expertises techniques sur les lieux de travail.\n\nLes conclusions du médecin précitées (apte, apte sous réserve ou inapte) sont transmises à l’agent et à l’autorité qui a saisi le médecin.",
+      "text_sha256": "1d90b1855f8c1be70ecfca0c69a9dd671e1be8992394bdab6fe2a93ad2522e86",
+      "md_span": {
+        "start": 10109,
+        "end": 10809
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_11/20180702",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Médecine du travail**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "L’agent, le ministre du ressort respectivement le Collège des Bourgmestre et échevins ont le droit d’adresser une réclamation auprès du ministre ayant la Fonction publique dans ses attributions contre la décision du médecin constatant l’inaptitude totale et définitive de l’agent à son poste de travail suite à un des examens précités. Sous peine de forclusion la réclamation est à introduire endéans un délai de quarante jours suivant notification de la décision à l’agent et au ministre du ressort respectivement au Collège des Bourgmestre et échevins.\n\nSuite à la réclamation, un réexamen auprès d’un praticien au libre choix de l’agent doit être effectué.\n\nSi le deuxième avis conclut également à l’inaptitude totale et définitive de l’agent à son poste de travail, le ministre du ressort respectivement le Collège des Bourgmestre et échevins doit dans la mesure du possible lui proposer un autre poste, correspondant aux mêmes grade et niveau de rémunération que ceux du poste pour lequel il est déclaré inapte par le médecin. Si le deuxième avis ne conclut par contre pas à l’inaptitude totale et définitive de l’agent à son poste de travail, le médecin désigne un médecin spécialiste pour faire un réexamen et l’avis de ce dernier est décisif.",
+      "text_sha256": "bad0de5fac604085e6758757ac69637d9eb48e88fad683644be9c3930c768402",
+      "md_span": {
+        "start": 10846,
+        "end": 12096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_12/20180702",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Médecine de contrôle**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Le médecin est chargé en ce qui concerne les agents des institutions assujetties à la loi:\n\n1. d’effectuer les contrôles des incapacités de travail pendant les périodes de congés de maladie, sur demande du chef de l’administration ou de son délégué à laquelle est affecté l’agent en congé de maladie. Dans l’exécution de cette mission, il ne peut s’immiscer dans les rapports de l’agent avec le médecin traitant. Le médecin doit s’abstenir de formuler devant l’agent un diagnostic ou une appréciation sur le traitement. Les médecins traitants sont tenus de fournir sous pli fermé au médecin toutes indications concernant le diagnostic et le traitement; toutes les fois qu’il le juge utile, le médecin doit entrer en rapport avec le médecin traitant, toutes les précautions étant prises pour que le secret professionnel soit respecté; le médecin peut prendre l’avis d’hommes de l’art toutes les fois qu’il le juge nécessaire;\n2. loi modifiée du 26 mai 1954 loi modifiée du 3 août 1998\n3. loi modifiée du 26 mai 1954 loi modifiée du 3 août 1998\n4. de procéder à un examen médical complémentaire des candidats à un emploi du secteur public, déclarés inaptes par le médecin ayant procédé à l’examen médical requis au recrutement. Le médecin en est saisi par la partie intéressée dans les huit jours qui suivent la réception du certificat médical par le ministre ayant la Fonction publique dans ses attributions. Il dispose à son tour d’un délai de huit jours pour procéder à l’examen en question et avertir le ministre du ressort respectivement le Collège des Bourgmestre et échevins du résultat. L’avis du médecin de contrôle décide de l’aptitude ou de l’inaptitude définitive du candidat.",
+      "text_sha256": "99cc3c6bf717382520cf4c4dadd41279c3f0e5d8982e39437c5177248a0629e5",
+      "md_span": {
+        "start": 12181,
+        "end": 13867
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_13/20180702",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Mesures de protection contre les émanations résultant de la consommation de tabac d’autrui**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "**1.** Il est interdit de fumer à l’intérieur de tous les bâtiments de l’Etat, des communes et des établissements publics.\n\n**2.** Cette mesure s’applique à tous les bâtiments des institutions assujetties à la loi modifiée du 19 mars 1988 concernant la sécurité dans les administrations et services de l’Etat, dans les établissements publics et dans les écoles.",
+      "text_sha256": "d3b538640229233b9d8feacf5bca0add2cf239510b4620a4b6423528c6f674be",
+      "md_span": {
+        "start": 14023,
+        "end": 14384
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/03/19/n1/jo",
+          "text": "loi modifiée du 19 mars 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_14/20180702",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Mesures de protection contre les émanations résultant de la consommation de tabac d’autrui**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Sans préjudice de l’application de l’article 6 de la loi du 11 août 2006 relative à la lutte antitabac, le chef d’administration peut autoriser l’installation d’un fumoir dans tous les bâtiments des institutions tels que définis à l’article précédant. Le même pouvoir appartient au collège des bourgmestre et échevins en ce qui concerne les bâtiments communaux. Par fumoir, il y a lieu d’entendre tout espace spécialement aménagé à l’intérieur des bâtiments prédéfinis où l’interdiction de fumer ne s’applique pas. Le fumoir doit répondre à des conditions d’installation à définir par règlement ministériel.",
+      "text_sha256": "a0dffce83976d628e1a09bfefa5e345aff18987d062cf240b0fac3157ad21643",
+      "md_span": {
+        "start": 14421,
+        "end": 15028
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/08/11/n1/jo",
+          "text": "loi du 11 août 2006"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_15/20180702",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Mesures de protection contre les émanations résultant de la consommation de tabac d’autrui**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Les règles à respecter conformément aux dispositions du chapitre III du présent règlement peuvent être complétées et précisées dans l’intérêt du service par les chefs d’administration ou chefs de service concernés respectivement par le collège des bourgmestre et échevins en ce qui concerne les administrations communales.",
+      "text_sha256": "201f564ad33f6d97e6f59a65469d131dea37791b4f13014ca6a959b309cb84f0",
+      "md_span": {
+        "start": 15065,
+        "end": 15387
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2004-03-05-n15:2018-07-02#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/art_16/20180702",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Mesures de protection contre les émanations résultant de la consommation de tabac d’autrui**"
+      ],
+      "article_valid_from": "2018-07-02",
+      "text_md": "Les membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "dd7807fcaed42d7f755f4764b0118095c5b39cd14109adc3e04fdff59e7a9903",
+      "md_span": {
+        "start": 15424,
+        "end": 15560
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

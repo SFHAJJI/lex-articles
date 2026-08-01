@@ -1,0 +1,431 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01",
+  "language": "fr",
+  "title": null,
+  "valid_from": "2024-01-01",
+  "valid_to": "2024-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1999-10-25-n1/versions/2024-01-01/fr.xml",
+    "sha256": "aaa38c89e9bc314f02e4a554438f5da33bb46a462d84f07e902131e72b341d6a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20240101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_1er/20110802",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "Le président et le vice-président sont nommés pour une durée de cinq ans par arrêté du ministre ayant dans ses attributions la Sécurité sociale.\n\nEn cas de démission ou de décès du président ou du vice-président, un nouveau président, respectivement un nouveau vice-président, est nommé pour achever le mandat de celui qu’il remplace.",
+      "text_sha256": "ddcedf3295c6cc93d0741225559f9ad387de84f2f21b09eab0ca5456c173176a",
+      "md_span": {
+        "start": 499,
+        "end": 833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_2/20110802",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "Dans le cadre de l’article 72 du Code de la sécurité sociale, le comité directeur de la Caisse nationale de santé, le Collège médical, le Conseil supérieur des professions de santé, le groupement représentatif des médecins et médecins-dentistes et les autres groupements professionnels, signataires d’une convention visée à l’article 61, alinéa 2 du Code de la sécurité sociale, communiquent par simple lettre au ministre ayant dans ses attributions la Sécurité sociale leur liste avec les délégués pouvant faire partie de cette commission.\n\nDans le cadre de l’article 393 du Code de la sécurité sociale, le comité directeur de la Caisse nationale de santé, composé conformément à l’article 381 du Code de la sécurité sociale, et chaque groupement professionnel, signataire d’une convention visée à l’article 388bis du Code de la sécurité sociale, communiquent par simple lettre au ministre ayant dans ses attributions la Sécurité sociale leur liste avec les délégués pouvant faire partie de cette commission.\n\nLes listes doivent être renouvelées tous les cinq ans et sont approuvées par arrêté du ministre ayant dans ses attributions la Sécurité sociale.\n\nEn cas de démission ou de décès d’un délégué, un nouveau délégué est inscrit en application de la procédure visée aux alinéas 1 à 3 sur la liste respective pour achever le mandat de celui qu’il remplace.\n\nSi deux ou plusieurs groupements professionnels ont signé une convention avec la Caisse nationale de santé, ils doivent établir leur liste d’un commun accord et la communiquer sous forme d’une lettre collective signée par les mandataires de chacun des groupements.",
+      "text_sha256": "32b95b383fe8bceb6e2d238b98e97ac4d9b164d61ff35a4925d86e341f0223ff",
+      "md_span": {
+        "start": 868,
+        "end": 2494
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_3/20110802",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "La Commission de surveillance se réunit, sur convocation du président, toutes les fois que l’exigent les affaires comprises dans ses attributions.\n\nAu vu des affaires soumises, le président convoque les quatre délégués désignés suivant les modalités de l’article 72, respectivement de l’article 393, paragraphe 3 du Code de la sécurité sociale.\n\nHormis le cas d’urgence, la convocation des délégués est faite par écrit, au moins cinq jours avant la réunion. La convocation contient l’ordre du jour et mentionne le lieu, le jour et l’heure de la réunion.",
+      "text_sha256": "e6ba01314ddc39eaafa832436cde1813571b5c951e35b17c8e90d37476381599",
+      "md_span": {
+        "start": 2529,
+        "end": 3082
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_4/20130708",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-08",
+      "text_md": "En matière d’assurance maladie et d’assurance accident, la Commission de surveillance délibère valablement si au moins deux des délégués, dont un délégué de la liste du comité directeur de la Caisse nationale de santé et un délégué de l’une des deux listes établies pour les affaires mettant en cause le prestataire concerné, sont présents.\n\nEn matière d’assurance dépendance, la Commission de surveillance délibère valablement si au moins deux des délégués, dont un délégué de la liste du comité directeur de la Caisse nationale de santé et un délégué de la liste du groupement professionnel respectif signataire d’une convention prévue à l’article 388bis du Code de la sécurité sociale, sont présents.\n\nLorsque le président constate que la commission n’est pas en nombre pour délibérer valablement, il clôt la réunion.\n\nDans ce cas il convoque, endéans les trois jours, la commission avec le même ordre du jour en respectant le délai prévu sous l’article 3, alinéa 3. La commission siège alors valablement quel que soit le nombre des délégués présents.",
+      "text_sha256": "48b3bf39cecf83ef282c05565f7268af3f7359869bfd1818e5a55275b3bf4b53",
+      "md_span": {
+        "start": 3117,
+        "end": 4171
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_5/20110802",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "Le président ouvre et clôt la réunion et dirige les débats. Il en fait le résumé et formule, le cas échéant, la question à mettre au vote.\n\nLe président et les quatre délégués disposent chacun d’une voix. Ils votent à main levée. Les décisions sont prises à la majorité des voix exprimées. En cas de partage de voix, celle du président est prépondérante.\n\nLe président et les délégués de la Commission de surveillance sont tenus au secret des délibérations.",
+      "text_sha256": "ea664345fdd3103f2fa5ec9f6f90e5ee24e46fd4238aeb7d33b07a804e18d38c",
+      "md_span": {
+        "start": 4206,
+        "end": 4663
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_6/20110802",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "Pour les litiges lui déférés par les prestataires de soins en application des articles 47, alinéa 4, 146, alinéa 2, et 383 du Code de la sécurité sociale, la Commission de surveillance convoque, au moins quinze jours avant la réunion, le prestataire de soins et la Caisse nationale de santé ou l’Association d’assurance accident pour les entendre en leurs moyens.",
+      "text_sha256": "1f0cfd40c2f81389908f68555639ca5e276a9d5925ead8c04dc26a237fd365a6",
+      "md_span": {
+        "start": 4698,
+        "end": 5061
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_7/20130104",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-01-04",
+      "text_md": "Pour les litiges lui déférés par un prestataire de soins ou par une assuré en application des articles 47, alinéa 2 et 51, alinéa 2 du Code de la sécurité sociale, la Commission de surveillance convoque, au moins quinze jours avant la réunion, le prestataire de soins, l’assuré et la Caisse nationale de santé, respectivement la caisse de maladie compétente pour les entendre en leurs moyens.",
+      "text_sha256": "3dd80f345d5fcdf94fa2435a95f055c33afb891cb712554364781f508a4c2c39",
+      "md_span": {
+        "start": 5096,
+        "end": 5488
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_8/19991101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-11-01",
+      "text_md": "Si un litige est déféré à la commission de surveillance après que la prescription conformément à l’article 84 du Code des assurances sociales est acquise, le président informe la partie intéressée de la prescription de l’action sans que l’affaire ne soit portée à l’ordre du jour de la commission.",
+      "text_sha256": "5525dc7602d4e24a48b952dd28ba07e54a42c4d478063e32b152a975b27a568b",
+      "md_span": {
+        "start": 5523,
+        "end": 5820
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code des assurances sociales"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_9/19991101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-11-01",
+      "text_md": "La lettre de convocation précise l’objet de la demande et informe les parties du droit de se faire assister ou représenter par une personne mandatée à cet effet. Les parties en cause reçoivent communication de tous les éléments du dossier sur lesquels la commission de surveillance entend fonder sa décision.",
+      "text_sha256": "5acda8c021565e3460016e40f159d740d1ff40368357b90778912136efe62842",
+      "md_span": {
+        "start": 5855,
+        "end": 6163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_10/19991101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-11-01",
+      "text_md": "La commission de surveillance prend, après l’audition des parties, une décision motivée.",
+      "text_sha256": "bf4501295349a3d0724e74b310a489f10effdf9c5b3b1eace48489060d24e763",
+      "md_span": {
+        "start": 6200,
+        "end": 6288
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_11/19991101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-11-01",
+      "text_md": "La décision est notifiée aux parties en cause avec indication des voies de recours, de la juridiction à laquelle il doit être adressé et de la forme dans laquelle il doit être présenté.",
+      "text_sha256": "91b3f0b8918b8453e0caece921b1f64d912fdf093e1b952cca3d6debf52612dc",
+      "md_span": {
+        "start": 6325,
+        "end": 6510
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_12/20110802",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "Dans le cadre de ses attributions prévues aux articles 73 et 393 du Code de la sécurité sociale, la Commission de surveillance convoque, au moins quinze jours avant la réunion, le prestataire de soins et la partie, qui lui a soumis l’affaire pour les entendre en leurs moyens.\n\nLa lettre de convocation précise l’objet de l’instruction et informe le prestataire de soins du droit de se faire assister ou représenter par une personne mandatée à cet effet.\n\nLe prestataire de soins reçoit communication de tous les éléments du dossier ou est informé du lieu, de la date et de l’heure où il peut prendre connaissance du dossier.",
+      "text_sha256": "07a209a30d9d67826654d7fbd275943de10a128bbc6617e1c028a9635658999c",
+      "md_span": {
+        "start": 6547,
+        "end": 7172
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_13/20110802",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "Après avoir entendu le prestataire de soins et, le cas échéant, la partie qui lui a soumis l’affaire, la Commission de surveillance peut recueillir tous éléments d’information auprès du Centre commun de la sécurité sociale, de la Caisse nationale de santé, de l’Association d’assurance accident, des caisses de maladie et du Contrôle médical de la sécurité sociale. Elle peut déléguer ce pouvoir d’investigation à son président ou à son vice-président.\n\nElle dresse un procès-verbal des informations ainsi réunies. Le prestataire de soins reçoit une copie du procès-verbal.\n\nLa Commission de surveillance peut ordonner une expertise et demander un avis à la Cellule d’expertise médicale.\n\nElle précise les renseignements qu’elle désire obtenir des experts ainsi que les questions sur lesquelles elle appelle leur attention et dont elle demande la solution. L’expertise est dressée selon les formes contradictoires. Le prestataire de soins reçoit une copie de l’expertise.\n\nLa Commission de surveillance peut mettre le prestataire de soins en demeure de produire, dans un délai qu’elle détermine, toutes pièces écrites, conclusions ou justifications propres à l’éclairer.",
+      "text_sha256": "096b93f4fc84e981aa0a73d0c881baf87788fc11bc8fc2ced65e3fd24f42366e",
+      "md_span": {
+        "start": 7209,
+        "end": 8379
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_14/20110802",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "A la clôture de son instruction, la Commission de surveillance peut, préalablement à sa décision de renvoi, décider de recourir à une médiation débouchant, le cas échéant, sur une transaction en vertu des articles 73, alinéa 5 ou 393*bis*, alinéa 4 du Code de la sécurité sociale. La Commission de surveillance convoque, au moins quinze jours avant la réunion, le prestataire de soins. Au cours de cette réunion une transaction peut être conclue. La transaction est rédigée en deux exemplaires et contient notamment la qualité des parties, l’engagement de mettre fin aux pratiques illégales et, le cas échéant, le montant de la réparation du préjudice économique subi par la Caisse nationale de santé. La transaction met fin au litige.",
+      "text_sha256": "ea13bbf21745f9d47c1503adc98253d34226f9a965e11c9d1124341ac1cb8954",
+      "md_span": {
+        "start": 8416,
+        "end": 9151
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_15/19991101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-11-01",
+      "text_md": "La commission de surveillance prend, après l’examen de l’affaire, une décision motivée de classement de l’affaire ou une décision motivée de renvoi de l’affaire devant le Conseil arbitral des assurances sociales. La décision de classement met fin au litige. La décision est notifiée au prestataire et à la partie, qui a soumis l’affaire à la commission de surveillance.",
+      "text_sha256": "d4a8c756923d84cf0332fe980370211280c67dfb1e8ca453878cd0d4f2687cf7",
+      "md_span": {
+        "start": 9188,
+        "end": 9557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_16/19991101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-11-01",
+      "text_md": "La commission de surveillance est assistée d’un secrétaire à nommer pour une durée de cinq ans par un arrêté du ministre ayant dans ses attributions la sécurité sociale. En cas de démission ou de décès du secrétaire, un nouveau secrétaire est nommé pour achever le mandat de celui qu’il remplace.",
+      "text_sha256": "174ecc0031887efc23dcbb572876f425d579322f5237fee8405f4a784611a628",
+      "md_span": {
+        "start": 9594,
+        "end": 9890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_17/20110802",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-08-02",
+      "text_md": "Le secrétaire établit pour chaque réunion un procès-verbal indiquant le nom des délégués présents ou excusés, l’ordre du jour de la réunion ainsi que les décisions prises avec les motifs à la base. Le procès-verbal est signé par le président et le secrétaire. Il est communiqué aux parties en cause.",
+      "text_sha256": "0e97c3966d62822b8949cdc94ea9f95bf37219e522d9edcadccb9d1c333c337f",
+      "md_span": {
+        "start": 9927,
+        "end": 10226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_18/20240101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Le président ou le vice-président de la Commission de surveillance touche pour chaque réunion une indemnité fixée à quarante-trois euros et treize cents. Les délégués touchent pour chaque réunion une indemnité fixée à vingt et un euros et cinquante-six cents, à l’exception des délégués représentant des professions libérales qui touchent pour chaque réunion une indemnité fixée à quarante-trois euros et treize cents. Le secrétaire et les agents de l’Etat touchent pour chaque réunion une indemnité fixée à vingt et un euros et cinquante-six cents.",
+      "text_sha256": "4097ea2873e37133c13fa5702607c56f1ef1fee85fd3ff5920a1e0bc0f5b250e",
+      "md_span": {
+        "start": 10263,
+        "end": 10812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_19/20240101",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Les honoraires des experts commis sont calculés sur base du système de vacation horaire. Pour chaque expertise la fraction de vacation obtenue par addition des vacations est comptée pour une vacation horaire entière. Il est alloué pour les expertises pour chaque vacation d’une heure de même que pour le rapport une indemnité de 7 euros au nombre 100 de l’indice pondéré du coût de la vie au 1er janvier 1948. Les frais de voyage des experts sont remboursés d’après les tarifs officiels des moyens de transport en public.",
+      "text_sha256": "19da1885517a7d4c5c77e81c08fe6337d251ef2f12cde8c03266e0c97259dd92",
+      "md_span": {
+        "start": 10849,
+        "end": 11370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_20/19991101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-11-01",
+      "text_md": "Le règlement grand-ducal du 22 décembre 1993 déterminant le fonctionnement de la commission de surveillance prévue aux articles 72 et 73 du Code des assurances sociales est abrogé.",
+      "text_sha256": "39a13830bd2d694339c6693820edb4effa73d1af0c446d41d45147b42ff96442",
+      "md_span": {
+        "start": 11407,
+        "end": 11587
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1993/12/22/n3/jo",
+          "text": "règlement grand-ducal du 22 décembre 1993"
+        },
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code des assurances sociales"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1999-10-25-n1:2024-01-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/art_21/19991101",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-11-01",
+      "text_md": "Notre Ministre de la Santé et de la Sécurité sociale et Notre Ministre du Trésor et du Budget sont chargés chacun en ce qui le concerne de l’exécution du présent règlement qui entrera en vigueur le premier jour du mois qui suit sa publication au Mémorial.",
+      "text_sha256": "08776ab35139607d48bb71c82136e15a7309e7705e07b5b97034244f96a8af3a",
+      "md_span": {
+        "start": 11624,
+        "end": 11879
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

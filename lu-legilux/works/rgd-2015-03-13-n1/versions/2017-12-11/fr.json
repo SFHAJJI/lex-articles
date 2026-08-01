@@ -1,0 +1,115 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2015-03-13-n1:2017-12-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/12/2017 : Règlement grand-ducal du 13 mars 2015 déterminant les mesures de sécurité à respecter par les chasseurs et les tiers.",
+  "valid_from": "2017-12-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2015-03-13-n1/versions/2017-12-11/fr.xml",
+    "sha256": "e5ff25fb9eb3d5112d6fe66dc5579ef250181c966f7c0592d5af338c4d62329b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/03/13/n1/consolide/20171211/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2015-03-13-n1:2017-12-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/03/13/n1/art_1er/20150324",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-24",
+      "text_md": "Lors de l'exercice de la chasse, tout chasseur évite toute manipulation d'armes pouvant mettre en danger autrui.\n\nLors de chasses en battue, les armes ne peuvent être chargées qu'au poste, et les armes sont à transporter en veillant à ce que de tierces personnes puissent s'apercevoir de l'état non chargé. Les chasseurs-traqueurs ne sont autorisés à tirer qu'afin de mettre à mort un gibier blessé. Les munitions utilisées par les chasseurs-traqueurs ne sont chambrées qu'en vue d'un tir rapproché dans le temps.\n\nEn battue, les moyens optiques doivent être adaptés au tir sur cible mouvante.",
+      "text_sha256": "25d44570a4f0d721058d665d67a1fcb70e0ebd069d159caf9c0cc3263d1820be",
+      "md_span": {
+        "start": 639,
+        "end": 1232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2015-03-13-n1:2017-12-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/03/13/n1/art_2/20171211",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-12-11",
+      "text_md": "Les chasses en battue doivent être annoncées par un des locataires du lot de chasse à l'Administration de la nature et des forêts, désignée ci-après par «l'administration», au moins quinze jours avant la date de la chasse, moyennant un formulaire et une carte délivrés par l'administration en indiquant l'heure et le lieu de rassemblement et les lieux prévus de la battue, ainsi que les coordonnées (nom, adresse, numéros de téléphone) de deux personnes responsables pour l'organisation de la chasse. L'administration compétente doit être informée de tout changement. L'administration est chargée de la publication du lot de chasse et de la date de la battue sur carte via le site www.geoportail.lu.\n\nDans les mêmes délais, une copie du formulaire et de la carte est à envoyer par le locataire précité du lot de chasse aux administrations communales sur le territoire desquelles se trouve le lot de chasse. L'administration communale est chargée de publier par voie d'affiches apposées dans la commune de la manière usuelle la date et le lot chassé.\n\nLes dispositions des alinéas 1er et 2 du présent article ne s’appliquent\n\n1. ni aux chasses en battue de douze chasseurs ou moins,\n2. ni à celles destinées au sanglier et organisées dans un délai inférieur à quinze jours.\n\nNéanmoins, le préposé de la nature et des forêts territorialement compétent doit être informé de ces battues dès le début de leur organisation.",
+      "text_sha256": "e58b92f8d998676d89a86c17b5b4c55702cc2130028132faa7f83192647a36f5",
+      "md_span": {
+        "start": 1267,
+        "end": 2684
+      },
+      "citations": [
+        {
+          "href": "http://www.geoportail.lu",
+          "text": "www.geoportail.lu"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2015-03-13-n1:2017-12-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/03/13/n1/art_3/20171211",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-12-11",
+      "text_md": "Le locataire du lot de chasse informe le public de la chasse en battue moyennant des panneaux ou signaux apostés bien visiblement aux issues de routes, pistes, chemins et sentiers balisés traversant et longeant l’enceinte chassée au plus tard le jour de la battue et à enlever au plus tard le lendemain de la chasse. La date de la battue doit être marquée sur ces dispositifs.\n\nLe jour de la battue, dûment signalée au public, l'accès à la forêt se fait aux risques et périls propres du public. Il est interdit de perturber de manière délibérée le bon déroulement de la chasse en battue de quelque manière que ce soit.",
+      "text_sha256": "d1a0d5487a8497d94d817c36c52a09f6fba582810594770448e05cfe9bb2c1c6",
+      "md_span": {
+        "start": 2719,
+        "end": 3337
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2015-03-13-n1:2017-12-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/03/13/n1/art_4/20150324",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-24",
+      "text_md": "Tous les participants d'une battue, tant chasseurs que traqueurs, sont tenus de porter des vêtements de couleurs voyantes ou des dispositifs garantissant le même effet.",
+      "text_sha256": "8536f0f4a9b9335799f61a8f492345e9559e556377a1b81e5fdaeeb801e2b6c7",
+      "md_span": {
+        "start": 3372,
+        "end": 3540
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2015-03-13-n1:2017-12-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/03/13/n1/art_5/20150324",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-24",
+      "text_md": "Notre Ministre de l'Environnement est chargée de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5bd465e6fb1e755cfa92afacb29e31771d7d7c3d271e6e77750701fba90bfedd",
+      "md_span": {
+        "start": 3575,
+        "end": 3685
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,477 @@
+---
+lex_id: lu-legilux:loi-2006-09-21-n1:2015-10-03
+title: Version consolidée applicable au 01/08/2024 : Loi du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil.
+valid_from: 2015-10-03
+valid_to: 2015-10-31
+source: https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20151003/fr
+source_sha256: 01fc1ee4b11255c1d21fab65005fcacbfdb62c476e5b96b12b71a272b19333b3
+license: CC-BY-4.0
+attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
+generator: akn-lu/1 · lex derive · dev
+---
+
+## Chapitre Ier. — Dispositions générales
+
+<a id="art_1er"></a>
+
+### Art. 1er.
+
+**(1)** Les baux à usage d’habitation sont régis par les articles 1713 à 1762-2 du Code civil sous réserve des règles particulières instituées par la présente loi.
+
+**(2)** Sous réserve des dispositions des articles 16 à 18, la présente loi s’applique exclusivement à la location, par un contrat de bail écrit ou verbal, de logements à usage d’habitation à des personnes physiques, quelle que soit l’affectation stipulée dans le contrat de bail, sauf opposition justifiée par le bailleur en cas de réaffectation par le locataire en cours de contrat.
+
+**(3)** La loi ne s’applique pas:
+
+- aux immeubles affectés à un usage commercial, administratif, industriel, artisanal ou affectés à l'exercice d'une profession libérale, sous réserve des dispositions prévues par les chapitres V et VIII;
+- aux résidences secondaires;
+- aux locaux ne formant pas l’accessoire du logement;
+- aux chambres d’hôtel;
+- -
+- loi du 8 septembre 1998
+
+Les articles 3 à 11 et 15 ne s’appliquent pas aux logements locatifs prévus par les articles 27 à 30ter de la loi modifiée du 25 février 1979 concernant l’aide au logement, à l’exception des logements locatifs désignés à l’article 28, alinéa 4, de la loi modifiée du 25 février 1979 concernant l’aide au logement.
+
+<a id="art_2"></a>
+
+### Art. 2.
+
+Toute cession de bail portant sur des baux à usage d’habitation n’est interdite qu’en cas de stipulation contractuelle expresse dans le contrat de bail.
+
+Les dispositions des articles 3 à 11 s’appliquent également aux relations entre locataires principaux et sous-locataires ou cessionnaires.
+
+## Chapitre II. — De la fixation du loyer et des charges
+
+<a id="art_3"></a>
+
+### Art. 3.
+
+**(1)** La location d’un logement à usage d’habitation ne peut rapporter au bailleur un revenu annuel dépassant un taux de 5 % du capital investi dans le logement.
+
+**(2)** A défaut d’accord entre parties, le capital investi est celui engagé:
+
+- dans la construction initiale du logement et de ses dépendances telles que garages, emplacements de stationnement, jardin, grenier et cave, qui sont mis à la disposition du locataire et dont le coût est établi au jour de leur achèvement;
+- dans les travaux d’amélioration, dont le coût est établi au jour de l’achèvement des travaux, lesquels ne peuvent comporter des réparations locatives ou de menu entretien;
+- dans le terrain sur lequel l’habitation est sise, dont le coût est fixé à celui du jour de son acquisition; le prix du terrain peut toutefois également être fixé forfaitairement par le bailleur à 20 % du capital investi.
+
+**(3)** Ce capital investi est réévalué au jour de la conclusion du bail ou au jour de l’adaptation du loyer par multiplication avec le coefficient correspondant du tableau des coefficients de réévaluation prévus par l’article 102, alinéa 6, de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
+
+Si la construction du logement remonte à quinze ans ou plus, le capital investi réévalué déterminé d’après les modalités formulées ci-avant, à l’exception du prix du terrain sur lequel l’habitation est construite, frais de l’acte compris, qui ne sont pas pris en compte pour le calcul de la décote, est diminué de 2 % par période de deux années supplémentaires, à moins que le bailleur ne prouve avoir investi des frais équivalents dans l’entretien ou la réparation du logement. Ces frais sont également réévalués selon les modalités prévues par l’alinéa 1er. Au cas où les frais investis n’atteignent pas le montant correspondant de la décote, ils sont compensés avec la décote. Au cas où ils excèdent la décote opérée, ils sont reportés sur les décotes ultérieures.
+
+**(4)** Dans le cas où le capital investi défini ci-avant ne peut pas être déterminé sur base de pièces justificatives et s’il y a désaccord entre le bailleur et le locataire sur le montant du loyer, la partie la plus diligente chargera un expert assermenté en bâtiment qui procédera à l’évaluation du capital investi, réévalué et décoté.
+
+Toutefois, en cas d’aliénation à titre onéreux, le prix d’acquisition indiqué dans l’acte authentique translatif de propriété, et les frais de l’acte, sont présumés correspondre au jour de la signature de l’acte au capital investi, réévalué et décoté.
+
+Dans le cas où la prédite évaluation ou la présomption prévue à l’alinéa 2 est contestée par la partie qui aura prouvé qu’elle ne saurait manifestement correspondre à la valeur marchande comparable, sans pour autant que cette partie ne puisse établir le véritable capital investi, la commission des loyers, saisie conformément à l’article 8, détermine le capital investi compte tenu de la valeur du terrain, du volume de l’immeuble loué, de la surface louée, de la qualité de l’équipement, de l’état d’entretien ou de réparation du logement, et de la finition du logement.
+
+**(5)** Le loyer de tout logement à usage d’habitation fixé en vertu des dispositions qui précèdent soit de l’accord des parties, soit par la commission des loyers, soit judiciairement, ne peut faire l’objet d’une adaptation que tous les deux ans.
+
+Cette période de deux ans ne prend pas fin par suite d’un changement de bailleur. En revanche, elle prend fin de plein droit s’il y a changement de locataire sans préjudice des dispositions de l’article 13, alinéa 1er.
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+Le loyer des logements meublés, à l’exception de ceux visés par l’article 1er, paragraphe (3), ne peut en aucun cas dépasser le double du loyer fixé conformément à l’article 3. Il est tenu compte, dans la fixation du loyer, de la valeur du mobilier.
+
+<a id="art_5"></a>
+
+### Art. 5.
+
+**(1)** La conclusion du bail ne peut être liée au paiement de sommes autres que le loyer.
+
+**(2)** Il est toutefois permis aux parties de convenir d’une garantie locative, qui ne pourra dépasser trois mois de loyer, pour garantir le paiement du loyer ou des autres obligations découlant du contrat de bail.
+
+En cas de stipulation d’une garantie locative, un constat écrit et contradictoire des lieux doit être signé au plus tard le jour de l’entrée en jouissance des lieux par le locataire.
+
+Le bailleur ne peut refuser, même après la conclusion du bail, une garantie locative sous forme d’une garantie bancaire.
+
+**(3)** Le bailleur ne peut mettre à charge du locataire que les montants qu’il justifie avoir déboursés lui-même pour le compte du locataire.
+
+Ne peuvent être mis à charge du locataire que les frais exposés pour la consommation d’énergie, pour l’entretien courant du logement et des parties communes, pour les menues réparations ainsi que les taxes liées à l’usage du logement.
+
+Le bailleur peut exiger le versement d’acomptes appropriés sur ces frais. Ces acomptes peuvent être adaptés aux frais réellement exposés pour compte du locataire au cours des exercices antérieurs.
+
+Les charges communes à plusieurs logements sont réparties annuellement selon un mode de computation à convenir entre les parties en cause.
+
+Si les frais mis en compte résultent d’un décompte d’un immeuble soumis au statut de la copropriété approuvé en assemblée générale conformément à la législation relative au statut de la copropriété des immeubles bâtis, les positions de ce décompte à charge du locataire par application de la présente loi sont présumées justifiées et échues. La preuve contraire est admise.
+
+En cas de demande du locataire, le bailleur est tenu de lui communiquer une copie des extraits du règlement de copropriété concernant la destination de l’immeuble, la jouissance et l’usage des parties privatives et communes et précisant la quote-part afférente du lot loué dans chacune des catégories de charges.
+
+**(4)** Les acomptes sur charges peuvent également être fixés forfaitairement par les parties si ce forfait correspond à la consommation et aux charges normales du locataire. Il pourra être adapté au cours du bail.
+
+Il est permis aux parties de convenir au cours du bail de modifier le régime des acomptes soit vers un régime forfaitaire soit du régime forfaitaire à un régime par acomptes.
+
+**(5)** Les clauses de valeur conventionnelles qui diffèrent du régime prévu par la présente loi perdront leur effet à partir du premier terme suivant la date d’une réclamation adressée par lettre recommandée au bailleur.
+
+Toutes autres stipulations inscrites dans les contrats de bail et destinées à priver d’effet une disposition de la présente loi sont nulles de plein droit.
+
+<a id="art_6"></a>
+
+### Art. 6.
+
+Les articles 3 à 5 ne s’appliquent pas aux logements avec confort moderne, non-standard:
+
+1. er
+2. - par m² de surface utile, calculée conformément aux dispositions prévues par la législation sur la publicité foncière en matière de copropriété, d’un logement faisant partie d’une copropriété est supérieur à 618 euros, valeur au nombre cent de l’indice des prix de la construction en 1970; ou
+- par m² de surface utile d’habitation, calculée conformément aux dispositions prévues par la législation concernant l’aide au logement, des maisons unifamiliales est supérieur à 450 euros, valeur au nombre indice cent de l’indice des prix de la construction en 1970;
+
+à condition que le contrat de bail stipule clairement qu’il s’agit d’un des logements visés au présent article et qu’il n’est pas soumis aux articles 3 à 5.
+
+<a id="art_7"></a>
+
+### Art. 7.
+
+**(1)** Dans les communes de 6.000 habitants et plus, il est institué une ou plusieurs commissions des loyers.
+
+Plusieurs commissions des loyers sont instituées pour l’ensemble des communes de moins de 6.000 habitants. Un règlement grand-ducal déterminera la zone de compétence territoriale et le siège de ces commissions des loyers.
+
+**(2)** Les missions de la commission des loyers, dénommée ci-après «commission», sont définies par les dispositions de la présente loi.
+
+**(3)** Chaque commission se compose d’un président et de deux assesseurs. Il y a autant de membres suppléants que de membres effectifs. Les membres effectifs et suppléants sont nommés pour une durée de six ans. Leurs mandats sont renouvelables.
+
+Pour les communes de 6.000 habitants et plus, les membres effectifs et suppléants sont désignés par le conseil communal, sous l’approbation du Ministre de l’Intérieur. Le président de chaque commission et son suppléant sont choisis pour autant que possible parmi les membres du conseil communal. L’un des assesseurs est choisi parmi les bailleurs et l’autre parmi les locataires domiciliés dans la commune. Il en est de même de leurs suppléants respectifs.
+
+Pour les communes de moins de 6.000 habitants, les membres effectifs et suppléants des commissions sont désignés, sous l’approbation du ministre ayant le Logement dans ses attributions, sur base d’une liste de candidats proposés en réunion jointe par les conseils communaux concernés qui sont convoqués par le ministre de l’Intérieur et qui se réunissent dans les formes prévues par les articles 18, 19, 32, 33 et 34 de la loi communale modifiée du 13 décembre 1988. La réunion jointe est présidée par un fonctionnaire désigné à cette fin par le ministre ayant le Logement dans ses attributions. Si la réunion jointe des communes concernées a été convoquée deux fois sans s’être trouvée en nombre requis, elle peut, après une nouvelle et dernière convocation, quel que soit le nombre des communes présentes, prendre une résolution sur l’objet mis pour la troisième fois à l’ordre du jour. Chaque commission est présidée par un fonctionnaire désigné à cette fin par le ministre ayant le Logement dans ses attributions. L’un des assesseurs est choisi parmi les bailleurs et l’autre parmi les locataires domiciliés dans la zone de compétence territoriale de la commission. Il en est de même de leurs suppléants respectifs.
+
+Les commissions sont renouvelées à la suite des élections générales des conseils communaux dans les trois mois qui suivent l’installation des conseillers élus. En cas de renouvellement intégral du conseil communal d’une commune de 6.000 habitants et plus par suite de dissolution ou de démission de tous ses membres, le nouveau conseil procède, dans les trois mois de son installation, au renouvellement de la commission.
+
+Lorsqu’un assesseur perd sa qualité respectivement de bailleur ou de locataire, il est de plein droit démissionnaire de la commission en cette qualité.
+
+Les présidents des commissions dans les communes de 6.000 habitants et plus ainsi que les assesseurs de toutes les commissions des loyers peuvent être révoqués au cours de leur mandat et remplacés. La révocation d’un membre d’une commission dans une commune de 6.000 habitants et plus est faite par le conseil communal sous l’approbation du Ministre de l’Intérieur. La procédure de révocation d’un assesseur d’une commission regroupant plusieurs communes de moins de 6.000 habitants est initiée par une demande afférente présentée au président de la commission par une des communes concernées sur base d’une décision prise par son conseil communal. Dans le mois de la réception de la demande, le président convoque une réunion jointe des conseils communaux concernés lors de laquelle est prise une décision concernant la révocation. Cette décision est soumise à l’approbation du Ministre de l’Intérieur. Les règles de fonctionnement de cette réunion jointe sont les mêmes que celles qui figurent au troisième alinéa du présent paragraphe.
+
+En cas de vacance d’un poste de membre effectif ou suppléant d’une commission par suite de décès, de démission ou pour toute autre cause, il est pourvu au remplacement du poste vacant dans le délai de trois mois. Le remplaçant achève le terme du mandat de celui qu’il remplace.
+
+**(4)** Dans les communes de 6.000 habitants et plus, le lieu de réunion de la commission est un local approprié mis à disposition par l’administration communale concernée. Pour chaque commission regroupant des communes de moins de 6.000 habitants, un local approprié est mis à disposition par l’administration communale du lieu du siège de la commission.
+
+**(5)** Le secrétaire de la commission est désigné par le conseil communal parmi les fonctionnaires communaux dans les communes de 6.000 habitants et plus. Il est désigné par le président parmi les fonctionnaires du commissariat de district pour chaque autre commission.
+
+**(6)** Dans les communes de 6.000 habitants et plus, les indemnités revenant aux membres et au secrétaire de la commission ainsi que les autres frais de fonctionnement de la commission sont à charge de la commune.
+
+Pour les autres commissions, les indemnités revenant aux membres et au secrétaire de la commission ainsi que les autres frais de fonctionnement sont répartis de façon égale entre les communes concernées.
+
+Les montants des indemnités revenant aux membres et au secrétaire de la commission sont fixés par règlement grand-ducal.
+
+<a id="art_8"></a>
+
+### Art. 8.
+
+La partie qui se croira fondée en vertu des dispositions de la présente loi à demander une augmentation ou une réduction du loyer devra d’abord notifier son intention à l’autre partie par écrit, sous peine d’irrecevabilité de la requête devant la commission. Si un accord n’a pu être obtenu endéans un mois, le réclamant pourra adresser une requête au collège des bourgmestre et échevins de la commune du lieu de situation du logement. Le collège des bourgmestre et échevins transmettra sans délai la requête à la commission compétente.
+
+Chaque requête précisera l’objet de la demande. Elle ne sera pas recevable pendant les six premiers mois du bail.
+
+Les parties seront convoquées par la commission par lettre recommandée avec accusé de réception qui contiendra outre les jour, heure et lieu pour se présenter devant la commission une copie de la requête introductive de la partie requérante. La convocation sera faite au moins à huitaine. Si une partie n’est pas touchée personnellement, la commission des loyers reconvoquera les parties à quinzaine, le tout sous peine de nullité. La deuxième convocation est valablement faite à domicile.
+
+<a id="art_9"></a>
+
+### Art. 9.
+
+**(1)** Les parties comparaîtront en personne ou par fondé de pouvoir devant la commission aux jour, heure et lieu indiqués dans la convocation et présenteront leurs observations.
+
+**(2)** La commission pourra s’entourer de tous les renseignements qu’elle jugera convenir avant de déterminer le loyer. Elle pourra notamment prendre inspection des lieux loués.
+
+Exceptionnellement, la commission pourra se faire assister par un expert. Les frais de cette intervention seront avancés par la partie requérante et ventilés entre les parties dans la décision de la commission ou, en cas de recours, par le tribunal saisi en tenant compte de l’issue de la procédure.
+
+**(3)** La commission s’efforcera de concilier les parties.
+
+S’il y a conciliation, il sera dressé procès-verbal des conditions de l’arrangement. Ce procès-verbal sera signé par les parties ou leurs fondés de pouvoir et par le président de la commission.
+
+En cas de non-conciliation ou de non-comparution de l’une des parties, la commission déterminera le loyer dû et/ou les avances sur charges d’après les règles établies par les articles 3 à 5.
+
+**(4)** En cas de détermination du loyer, le procès-verbal contiendra l’évaluation du logement par rapport aux critères légaux et réglementaires et le montant du loyer.
+
+Le procès-verbal sera signé par les membres de la commission et une copie sera notifiée aux parties par lettre recommandée dans le plus bref délai avec indication des voies et du délai de recours ainsi que de la manière dans laquelle il doit être présenté, faute de quoi le délai pour introduire un recours contre la décision conformément à l’article 10 ne court pas.
+
+**(5)** La commission est tenue de rendre sa décision dans un délai de trois mois à partir de la transmission de la requête à la commission. Si aucune décision n’est rendue endéans ce délai, le requérant pourra saisir directement le juge de paix.
+
+**(6)** Les parties peuvent convenir de charger la commission d’une mission d’arbitrage auquel cas la décision s’imposera aux parties et sera susceptible d’exécution directe.
+
+<a id="art_10"></a>
+
+### Art. 10.
+
+Contre la détermination du loyer par la commission, il est ouvert une action devant le juge de paix du lieu de la situation du logement. Cette action devra être formée, à peine de déchéance, dans le mois de la notification du procès-verbal de la commission. Elle sera introduite, instruite et jugée conformément à la procédure prévue aux articles 19 à 25. La copie du procès-verbal de la commission sera jointe à la requête.
+
+Si aucun recours n’est introduit suite à la notification de la décision de la commission dans les délais fixés, il est présumé d’une manière irréfragable que la décision de la commission est acceptée de part et d’autre.
+
+La décision du juge de paix pourra être frappée d’opposition ou d’appel dans les formes et délais prévus aux articles 23 et 25.
+
+<a id="art_11"></a>
+
+### Art. 11.
+
+La détermination du loyer par la commission des loyers ou par le juge ne peut produire ses effets qu’à partir du premier terme venant à échoir après la date à laquelle le collège des bourgmestre et échevins compétent a été saisi de la requête conformément à l’article 8.
+
+Lorsque, en application des dispositions de la présente loi, le loyer est augmenté de plus de 10% suite à une décision de la commission des loyers ou sur un recours en justice, la hausse s’applique par tiers annuels. Le locataire aura toutefois le droit de dénoncer le bail, nonobstant toute convention contraire, moyennant un délai de résiliation de trois mois.
+
+## Chapitre III. — De la durée du contrat de bail
+
+<a id="art_12"></a>
+
+### Art. 12.
+
+**(1)** Le contrat de bail peut être conclu à durée déterminée ou indéterminée. En l’absence d’un écrit, il est présumé conclu à durée indéterminée.
+
+**(2)** Tout contrat de bail visé par la présente loi, à l’exception du contrat portant sur un logement tel que défini à l’article 6, qui vient à cesser pour n’importe quelle cause, est prorogé à moins que:
+
+1. le bailleur déclare avoir besoin des lieux loués pour les occuper lui-même ou pour les faire occuper de manière effective par un parent ou allié jusqu’au troisième degré inclusivement;
+2. le locataire ne remplisse pas ses obligations;
+3. il existe d’autres motifs graves et légitimes à établir par le bailleur; le transfert de propriété du logement ne vaut pas motif grave et légitime.
+
+**(3)** Par dérogation à l’article 1736 du Code civil, le délai de résiliation dans les cas prévus au paragraphe (2), point a, est de six mois. La lettre de résiliation doit être écrite, motivée et accompagnée, le cas échéant, de pièces afférentes et s’effectuer par voie de lettre recommandée à la poste avec avis de réception. Elle doit mentionner, sous peine de nullité, le texte du présent paragraphe.
+
+Dans les trois mois de l’avis de réception à la poste, le locataire peut, sous peine de forclusion, demander une prolongation du délai de résiliation au juge de paix. En l’absence de cette demande, le bailleur peut demander au juge de paix une décision autorisant le déguerpissement forcé du locataire après l’écoulement du délai de résiliation de six mois. Toutefois, le locataire pourra encore introduire une demande en sursis à l’exécution de la décision, conformément aux articles 16 à 18. Dans ce cas, le déguerpissement du logement par le locataire doit impérativement avoir lieu au plus tard quinze mois après la date d’envoi de la lettre de résiliation du bail. La décision autorisant le déguerpissement forcé du locataire ne sera pas susceptible d’opposition ou d’appel.
+
+En cas de demande de prolongation du délai de résiliation, les parties seront convoquées dans les deux mois à l’audience. Sauf si la demande est sérieusement contestable ou contestée, le juge de paix accordera une prolongation du délai au locataire à condition que celui-ci justifie avant l’expiration du délai initial de six mois, par voie de pièces, soit être en train de construire ou de transformer un logement lui appartenant, soit avoir loué un logement en construction ou en transformation, soit avoir fait des démarches utiles et étendues en vue de la recherche d’un nouveau logement. La prolongation du délai ne pourra en aucun cas dépasser de douze mois la date d’expiration du délai initial de six mois. La faveur du sursis, prévue aux articles 16 à 18, ne sera plus applicable. La décision accordant ou refusant la prolongation du délai vaudra de droit titre exécutoire en vue d’un déguerpissement forcé du locataire après l’écoulement du délai. Elle n’est pas susceptible d’opposition ou d’appel.
+
+**(4)** Lorsqu’un logement a été mis, même à titre gratuit, à la disposition d’une personne uniquement en raison d’un contrat de travail intervenu entre parties, le déguerpissement de l’occupant peut être ordonné par le juge de paix si l’employeur prouve que le contrat de travail a pris fin.
+
+Au cas où l’occupant reste en possession du logement après la cessation du contrat de travail, il est tenu de payer une indemnité d’occupation du logement à fixer conformément aux dispositions de l’article 3.
+
+**(5)** Par dérogation à l’article 1743 du Code civil, l’acquéreur d’un logement loué en tout ou en partie ne peut expulser le locataire dont le bail n’a pas date certaine avant son acte d’acquisition, mais qui avait été mis en possession des lieux avant cette date à moins que l’une des conditions définies au paragraphe (2) ne soit réalisée.
+
+**(6)** L’acquéreur d’un logement loué qui veut occuper le logement lui-même ou par un parent ou allié jusqu’au troisième degré inclusivement, doit envoyer au locataire une lettre recommandée de résiliation du contrat de bail dans les trois mois de l’acquisition du logement.
+
+Dans ce cas, les dispositions prévues au paragraphe (3) sont applicables, sauf que le déguerpissement du logement par le locataire doit impérativement avoir lieu au plus tard douze mois après la date d’envoi de la lettre de résiliation du bail.
+
+<a id="art_13"></a>
+
+### Art. 13.
+
+En cas d’abandon du domicile par le locataire ou en cas de décès du locataire, le contrat de bail continue à durée indéterminée:
+
+- au profit du conjoint ayant cohabité avec le locataire ou du partenaire ayant fait une déclaration de partenariat avec le locataire et ayant vécu en couple avec celui-ci;
+- au profit des descendants, des ascendants ou du concubin, qui vivaient avec lui en communauté domestique depuis au moins six mois à la date de l’abandon du domicile ou du décès et qui avaient déclaré leur domicile à la commune dans le logement pendant cette période.
+
+En cas de demandes multiples, le juge se prononce en fonction des intérêts en présence.
+
+Les droits du bailleur contre le locataire ayant abandonné le logement ne sont pas affectés par ces dispositions.
+
+A défaut de personnes remplissant les conditions prévues au présent article, le contrat de bail est résilié de plein droit par le décès du locataire.
+
+<a id="art_14"></a>
+
+### Art. 14.
+
+Sauf cas de force majeure, l’ancien locataire a droit à des dommages-intérêts si, dans les trois mois qui suivent son départ, les lieux ne sont pas occupés aux fins invoquées comme motif de la résiliation du bail soit dans l’acte de dénonciation du bail, soit dans la requête introductive d’instance, soit dans le jugement.
+
+Le délai de trois mois est suspendu pendant la durée des travaux de rénovation et de transformation entrepris de manière effective.
+
+Si le tribunal constate que le motif invoqué pour empêcher la prorogation légale était dolosif, le locataire a droit à des dommages-intérêts qui ne peuvent être inférieurs au montant des loyers d’une année.
+
+<a id="art_15"></a>
+
+### Art. 15.
+
+Le locataire dont le bail court depuis au moins dix-huit ans bénéficie d’un droit de préemption sur le logement loué, à moins que celui-ci ne fasse l’objet d’une vente par adjudication publique ou qu’il ne soit cédé à un membre de la famille du bailleur parent ou allié jusqu’au troisième degré inclusivement ou qu’il ne fasse l’objet d’une cession gratuite.
+
+Le bailleur adresse au locataire par voie de lettre recommandée l’offre de vente. Dans cette offre, le bailleur doit avertir le locataire qu’il a le droit de faire une contre-proposition. Le locataire dispose d’un mois pour user de son droit et pour faire éventuellement une contre-proposition. Son silence vaut refus de l’offre. Si le locataire a formulé une demande en obtention d’un prêt auprès d’un établissement financier établi au Grand-Duché, ce délai est prorogé d’un mois. Le logement ne peut être vendu à un tiers qu’à un prix supérieur à celui offert par le locataire.
+
+Le droit de préemption peut uniquement être exercé si le locataire a loué tout l’immeuble, respectivement si l’appartement qu’il a loué est placé sous le régime de la copropriété.
+
+En cas de vente du logement à un tiers acheteur en dépit du droit de préemption existant dans le chef du locataire, le locataire lésé peut réclamer des dommages-intérêts au vendeur qui ne pourront être inférieurs au montant des loyers d’une année.
+
+## Chapitre IV. — De la protection des personnes condamnées à déguerpir de leur logement
+
+<a id="art_16"></a>
+
+### Art. 16.
+
+Le juge de paix, siégeant en matière de bail à loyer, peut ordonner à la requête de la partie condamnée au déguerpissement, qu’il s’agisse d’un locataire ou d’un occupant sans droit ni titre, qu’il sera sursis à l’exécution de la décision.
+
+Le sursis ne pourra dépasser trois mois, mais il pourra être prorogé à deux reprises, chaque fois pour une durée maximum de trois mois. Le sursis ne sera accordé que si, en raison des circonstances, le requérant paraît mériter cette faveur et qu’il prouve avoir effectué des démarches utiles et étendues pour trouver un nouveau logement, à moins que le sursis ne soit incompatible avec le besoin personnel de l’autre partie.
+
+Le juge de paix fixe la contrepartie pécuniaire due par la partie condamnée à déguerpir pendant la durée du sursis en raison de son maintien provisoire dans les lieux, en tenant compte du dommage qui en résulte pour le bailleur.
+
+Si après une condamnation au déguerpissement en première instance, l’appel de la partie condamnée à déguerpir est déclaré irrecevable ou nul, ou si le déguerpissement est confirmé en instance d’appel, quel que soit le délai accordé par le juge d’appel à la partie condamnée au déguerpissement, cette partie ne pourra plus introduire une demande en sursis à l’exécution de la décision.
+
+Toute demande en sursis ou en prorogation de sursis est irrecevable s’il s’est écoulé un délai supérieur à un an entre le jour de l’introduction de la procédure judiciaire et l’expiration du délai de déguerpissement fixé dans le jugement prononçant la condamnation ou dans l’ordonnance accordant un précédent sursis.
+
+Par dérogation à l’alinéa qui précède et sous réserve des dispositions prévues par l’article 12, paragraphes (3) et (6), toute demande en sursis ou en prorogation de sursis est encore irrecevable à l’expiration du délai de douze mois à partir de la date où l’acquéreur d’un immeuble loué a informé le locataire par lettre recommandée, respectivement à l’expiration du délai de quinze mois à partir de la date où le bailleur a informé le locataire par lettre recommandée, qu’il veut occuper l’immeuble lui-même ou par un de ses parents ou alliés jusqu’au troisième degré inclusivement.
+
+<a id="art_17"></a>
+
+### Art. 17.
+
+La demande en sursis sera formée par simple requête à déposer au greffe de la justice de paix. Les parties seront convoquées pour la première audience utile.
+
+La décision sur la demande sera constatée par simple note au plumitif. Cette décision n’est susceptible d’aucun recours.
+
+<a id="art_18"></a>
+
+### Art. 18.
+
+Si le délai de déguerpissement accordé à l’occupant par la décision est supérieur à quinze jours, la demande en sursis est à introduire, à peine de déchéance, au plus tard trois jours avant l’expiration de ce délai. La demande en prolongation du sursis est à introduire, à peine de déchéance, au plus tard trois jours avant l’expiration du sursis. Il y sera statué incessamment. Néanmoins, la demande aura un effet suspensif.
+
+## Chapitre V. — Du règlement des litiges
+
+<a id="art_19"></a>
+
+### Art. 19.
+
+Le juge de paix est compétent, même si le titre est contesté, pour connaître de toutes les contestations entre bailleurs et locataires relatives à l’existence et à l’exécution des baux d’immeubles.
+
+Le juge de paix compétent est celui de la situation du logement faisant l’objet du bail en litige.
+
+<a id="art_20"></a>
+
+### Art. 20.
+
+La demande portée devant le juge de paix conformément à l’article 3, 3° du Nouveau Code de procédure civile sera formée par simple requête sur papier libre à déposer au greffe de la justice de paix en autant d’exemplaires qu’il y a de parties en cause.
+
+La requête énoncera les nom, prénom, profession et domicile des parties. Elle indiquera sommairement les moyens invoqués à l’appui de la demande et précisera l’objet de celle-ci.
+
+La date du dépôt de la demande est marquée par les soins du greffier sur un registre de papier non timbré tenu au greffe. Ce registre sera coté et paraphé par le juge de paix. Le greffier y inscrira également la date des lettres recommandées prévues par la présente loi.
+
+<a id="art_21"></a>
+
+### Art. 21.
+
+Le greffier convoquera les parties par lettre recommandée à la poste avec avis de réception. Il y joindra une copie de la requête pour chaque défendeur. La lettre indiquera les nom, prénom, profession et domicile du demandeur, l’objet de la demande, le jour et l’heure de l’audience fixée pour les débats par le juge de paix au délai minimum de huit jours. La convocation contiendra en outre et à peine de nullité les mentions prescrites à l’article 80 du Nouveau Code de procédure civile.
+
+<a id="art_22"></a>
+
+### Art. 22.
+
+Pour l’instruction et le jugement des affaires, la procédure ordinaire prévue en matière de justice de paix, pour autant qu’il n’y est pas dérogé par les dispositions de la présente loi, sera suivie.
+
+Lorsqu’il y a lieu à enquête ou expertise, le greffier citera les témoins et les experts par lettre recommandée avec avis de réception. La lettre précisera l’objet de l’enquête ou de l’expertise.
+
+Dans les quinze jours du prononcé, le greffier notifiera aux parties par lettre recommandée une copie sur papier libre du jugement.
+
+<a id="art_23"></a>
+
+### Art. 23.
+
+Si l’une des parties ne comparaît ni en personne, ni par mandataire, le juge de paix statuera conformément aux dispositions des articles 74 à 89 du Nouveau Code de procédure civile. La partie défaillante pourra faire opposition, par déclaration au greffe, dans les quinze jours de la notification prévue à l’article 22, alinéa 3. Dans ce cas, la convocation se fera conformément aux dispositions de l’article 21.
+
+<a id="art_24"></a>
+
+### Art. 24.
+
+Le juge de paix peut prendre par ordonnance toutes mesures provisoires, et notamment fixer le loyer provisoire. Sont applicables les articles 15, 16 et 17 du Nouveau Code de procédure civile.
+
+<a id="art_25"></a>
+
+### Art. 25.
+
+L’appel sera porté devant le tribunal d’arrondissement. Il devra être interjeté, sous peine de nullité, dans un délai de quarante jours à partir de la notification du jugement s’il est contradictoire et, si le jugement est rendu par défaut, dans un délai de quarante jours à partir du jour où l’opposition ne sera plus recevable. La procédure ordinaire prévue en matière commerciale s’applique tant pour l’introduction de l’appel que pour l’instruction et le jugement de l’affaire.
+
+## Chapitre VI. — Des missions incombant aux autorités communales
+
+<a id="art_26"></a>
+
+### Art. 26.
+
+Les administrations communales ont la mission d’assurer dans la mesure du possible le logement de toutes les personnes qui ont leur domicile sur le territoire de la commune.
+
+<a id="art_27"></a>
+
+### Art. 27.
+
+**(1)** Une habitation ou un local habituellement loué pour servir de logement ne pourra être soustrait à cette destination pour être transformé en bureau ou local à usage commercial ou artisanal, sauf autorisation expresse de la part du collège des bourgmestre et échevins de la commune dans laquelle se situe l’habitation ou le local en question.
+
+Cette interdiction ne s’applique ni aux bureaux des services publics ni aux cas où les locaux à usage professionnel, commercial ou artisanal ne constituent que l’accessoire du logement.
+
+**(2)** Le collège des bourgmestre et échevins peut obliger les propriétaires des immeubles et parties d’immeubles non-occupés destinés à servir de logement sis sur le territoire de la commune à les déclarer à l’administration communale dans le délai fixé par ledit collège. La déclaration devra préciser le volume non-occupé, le nombre de pièces et le montant du loyer.
+
+**(3)** Les infractions aux dispositions du paragraphe (1) sont punies d’une amende de 251 à 50.000 euros et d’un rétablissement des lieux transformés dans leur pristin état ou d’une de ces peines seulement.
+
+Les infractions aux dispositions du paragraphe (2) sont punies d’une amende de 251 à 25.000 euros.
+
+<a id="art_28"></a>
+
+### Art. 28.
+
+Chaque commune est autorisée à demander annuellement auprès des bailleurs, donnant en location un ou plusieurs logements sis sur le territoire de la commune, respectivement auprès des locataires d’un logement sis sur le territoire de la commune, des renseignements relatifs au montant du loyer et des charges locatives à payer au bailleur ainsi qu’au type et à la surface en m² du logement loué.
+
+Ces renseignements peuvent être utilisés pour l’établissement d’un cadastre des loyers afin de connaître le niveau moyen des loyers demandés pour les différents types de logements dans une commune ou dans une partie de celle-ci.
+
+La demande de renseignements est faite moyennant un formulaire mis à la disposition des bailleurs, respectivement des locataires, par les autorités communales. Elle doit être retournée, dûment remplie et signée par chaque bailleur ou locataire destinataire aux autorités communales dans le délai indiqué sur le formulaire, faute de quoi le destinataire défaillant pourra être puni à une amende dont le montant est fixé par règlement communal conformément aux dispositions de la loi communale.
+
+En cas de demande du ministre ayant le Logement dans ses attributions, les résultats des renseignements récoltés dans une commune donnée sont communiqués au ministre par les autorités communales.
+
+## Chapitre VII. — Des mesures spéciales pour la sauvegarde des biens meubles des personnes condamnées à déguerpir
+
+<a id="art_29"></a>
+
+### Art. 29.
+
+**(1)** En cas d’expulsion forcée d’une personne condamnée à déguerpir des lieux qu’elle occupe, les biens meubles se trouvant dans ces lieux sont transportés, aux frais de la personne expulsée qui doit en faire l’avance, au lieu qu’elle désigne.
+
+**(2)** Si la personne expulsée ne désigne aucun lieu de dépôt, si elle refuse ou si elle n’est pas à même de faire l’avance des frais de transport, l’huissier chargé de l’exécution du jugement de déguerpissement fait transporter les biens meubles aux frais de la personne expulsée, avancés par la commune du lieu d’expulsion en cas de demande de l’huissier, dans le local visé à l’article 30.
+
+**(3)** L’huissier de justice dresse, aux frais de la personne expulsée, un procès-verbal contenant l’inventaire des biens transportés et la description sommaire de leur état. Il remet une copie du procès-verbal à la personne expulsée et à l’administration communale concernée.
+
+<a id="art_30"></a>
+
+### Art. 30.
+
+**(1)** La commune prend en charge, dans un local approprié, l’entreposage des biens meubles des personnes expulsées dans les conditions de l’article 29, paragraphe (2). Elle peut faire détruire les biens périssables, insalubres ou dangereux et refuser d’entreposer les biens dont la conservation causerait des difficultés ou des frais anormaux.
+
+**(2)** Le dépôt dans le local visé à l’alinéa qui précède peut être assujetti au paiement d’une redevance à fixer par la commune.
+
+**(3)** Sauf convention écrite contraire entre la commune et la personne expulsée, les biens entreposés doivent être retirés dans un délai de trois mois à partir de la date du dépôt, contre paiement des frais de transport avancés par la commune et des redevances de dépôt redues. La commune peut renoncer à exiger de la personne expulsée le paiement de ces frais et redevances.
+
+**(4)** Après l’expiration de ce délai, la commune adresse, par lettre recommandée, à la personne expulsée une sommation de retirer ses biens. Si par suite un délai de trois mois s’est écoulé sans que ni la personne expulsée ni la partie saisissante ne se soient manifestées auprès de l’administration communale, la commune peut adresser, par lettre recommandée, à la personne expulsée et à la partie saisissante une ultime sommation de retirer les biens dans un délai de quinze jours, avec l’indication que, faute d’y obtempérer, il est présumé d’une manière irréfragable que tant la personne expulsée que la partie saisissante ont renoncé à réclamer la délivrance des biens entreposés. La commune est alors autorisée à procéder à la vente des biens se trouvant dans le local de dépôt, sinon à en disposer autrement.
+
+**(5)** La commune retient sur le produit de la vente les frais et autres dépenses mentionnés au paragraphe (3). Le solde est versé à la caisse des consignations. Le propriétaire des effets et meubles ou ses ayants droit pourront en obtenir le versement pendant une période de dix ans. Passé ce délai, il est acquis à la commune.
+
+## Chapitre VIII. — Dispositions finales, abrogatoires et transitoires
+
+<a id="art_31"></a>
+
+### Art. 31.
+
+Dans le livre III du Code civil, le chapitre II «Du louage des choses» du titre VIII est modifié comme suit:
+
+1. L’article 1762-5, alinéa 2, du Code civil aura désormais la teneur suivante:«Ceux-ci sont choisis par les parties ou sinon désignés à la requête de la partie la plus diligente par le juge de paix de la situation de l’immeuble».
+2. Un nouvel article 1762-8 est inséré au Code civil, lequel aura la teneur suivante:«Art. 1762-8.(1)Le preneur commerçant, industriel, artisan ou fermier, dont le bail vient à cesser pourra demander deux sursis successifs, chacun de six mois au maximum. Ces demandes seront déposées au greffe de la justice de paix, à peine de déchéance, deux mois au plus tard avant l’expiration du bail ou du premier sursis.Si le délai-congé conventionnel est égal ou inférieur à deux mois, la demande en sursis peut encore être déposée dans les huit jours de la notification du congé.Si le premier sursis accordé par le juge est égal ou inférieur à deux mois, la demande en obtention d’un deuxième sursis devra être déposée au plus tard huit jours avant l’expiration du premier sursis.Les demandes en sursis sont dispensées du préliminaire de conciliation. Le juge de paix saisi aura compétence pour fixer le loyer pendant la durée des sursis. Le sursis sera refusé si le bailleur prouve qu’il a besoin de l’immeuble pour l’exploiter lui-même ou pour le faire exploiter par ses descendants ou pour d’autres causes graves et légitimes.(2)En cas de décès d’un preneur, titulaire d’un contrat de bail commercial, artisanal ou à ferme, le contrat de bail est maintenu dans le chef du repreneur à condition que le repreneur maintienne l’exploitation commerciale, artisanale ou agricole et qu’il ait un lien de famille jusqu’au cinquième degré inclusivement avec le preneur défunt, sinon qu’il soit le conjoint ou le concubin du preneur défunt.(3)Sont à considérer dans l’application du présent article comme locaux à usage commercial ou industriel les immeubles dont le bail prévoit expressément pareille affectation, ceux qui sont destinés par leur nature à l’exercice d’un commerce ou d’une industrie et ceux dans lesquels cette activité est exercé à titre principal.».
+3. Il est inséré une section III libellé Section III. – Des règles particulières aux baux commerciaux. Elle comprendra les articles 1762-3 à 1762-8.
+4. Des règles particulières aux baux à ferme
+5. L’article 1736 du Code civil est modifié comme suit:«Art. 1736.Si le bail a été fait sans écrit ou si le contrat est stipulé à durée indéterminée, l’une des parties ne pourra donner congé à l’autre qu’en observant les délais fixés par l’usage des lieux.Le délai de résiliation d’un contrat de bail d’habitation est de trois mois, sauf clause contraire dans le contrat de bail écrit prévoyant un délai supérieur à trois mois.Le délai de résiliation pour un contrat de bail commercial ou un contrat de bail mixte est de six mois, sauf clause contraire prévue dans le contrat de bail écrit.».
+6. L’article 1758 du Code civil aura désormais la teneur suivante:«Art. 1758.Le bail d’un logement est censé être fait à durée indéterminée s’il n’est pas spécifié dans le contrat de bail écrit pour quelle durée les parties ont voulu se lier.».
+7. L’article 1761 du Code civil est remplacé comme suit:«Art. 1761.Le bailleur ne peut résilier le contrat de bail à durée déterminée, encore qu’il déclare vouloir occuper par lui-même la maison louée, s’il n’y a eu convention contraire.».
+8. L’article 1762 du Code civil est modifié comme suit:«Art. 1762.S’il a été convenu dans le contrat de bail à durée déterminée ou à durée indéterminée que le bailleur pourrait venir occuper la maison, il est tenu de notifier d’avance un congé soit aux époques déterminées par le contrat de bail, soit moyennant congé notifié dans les délais prévus à l’article 1736.».
+
+<a id="art_32"></a>
+
+### Art. 32.
+
+**(1)** L’article 37 de la loi modifiée du 18 juin 1982 portant réglementation du bail à ferme est à modifier comme suit:«Art. 37.Les articles 20 à 25 de la loi du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil sont applicables en matière de bail à ferme.».
+
+**(2)** Dans tous les textes de loi et de règlement, la référence à la loi du 14 février 1955 portant modification et coordination des dispositions légales et réglementaires en matière de bail à loyer s’entend comme référence aux dispositions de la présente loi.
+
+<a id="art_33"></a>
+
+### Art. 33.
+
+Les dispositions prévues par les articles 31 et 32 sont applicables aux contrats en cours à partir de la date d’entrée en vigueur de la présente loi. Elles s’appliquent aux demandes pendantes devant les commissions des loyers ou devant les juridictions au moment de l’entrée en vigueur de la présente loi.
+
+<a id="art_34"></a>
+
+### Art. 34.
+
+**(1)** Sont abrogées:
+
+- loi modifiée du 14 février 1955
+- loi du 27 août 1987
+
+**(2)** Par dérogation au paragraphe (1), premier tiret, l’article 6 de la loi modifiée du 14 février 1955 restera d’application aussi longtemps que le règlement grand-ducal prévu à l’article 7, paragraphes (1) et (6), de la présente loi n’est pas entré en vigueur.
+
+**(3)** Par dérogation au paragraphe (1), les contrats de bail conclus avant l’entrée en vigueur de la loi et portant sur des logements de luxe visés par l’article 5 de la loi modifiée du 14 février 1955 portant modification et coordination des dispositions légales et réglementaires en matière de baux à loyer continuent à courir jusqu’à l’expiration du bail.
+
+<a id="art_35"></a>
+
+### Art. 35.
+
+Les loyers convenus avant l’entrée en vigueur de la loi ne peuvent être adaptés au niveau résultant de l’application de la présente loi qu’après une notification écrite au locataire.
+
+Le locataire occupant un logement en vertu d’un contrat de bail conclu avant l’entrée en vigueur de la présente loi dispose d’un délai de réflexion de trois mois, à partir de la demande en augmentation du loyer du bailleur en application des dispositions introduites par la présente loi, pour dénoncer le contrat de bail. S’il dénonce le contrat de bail, aucune adaptation du loyer ne peut lui être imposée.
+
+Lorsque le locataire ne dénonce pas le contrat de bail et si l’augmentation du loyer demandée dépasse 10 %, la hausse s’applique par tiers annuels.
+
+<a id="art_36"></a>
+
+### Art. 36.
+
+La présente loi entre en vigueur le premier jour du mois qui suit sa publication au Mémorial.

@@ -1,0 +1,240 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/02/2026 : Loi du 6 janvier 1995 relative à la distribution en gros des médicaments.",
+  "valid_from": "2026-02-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1995-01-06-n4/versions/2026-02-01/fr.xml",
+    "sha256": "9a1d3222b76ebb5cc2d3d83e27260bc7e68e092bf0179e146edf5506c07f8607",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/consolide/20260201/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_1er/20260201",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-02-01",
+      "text_md": "**1.** La présente loi concerne la distribution en gros des médicaments visés par la loi du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués ainsi que par la loi du 18 décembre 1985 relative aux médicaments vétérinaires.\n\nLes modifications que subiront les lois précitées seront d’application.\n\n**2.** Aux fins de la présente loi on entend par distribution en gros des médicaments: toute activité qui consiste à se procurer, à détenir, à fournir ou à exporter des médicaments, à l’exclusion de la délivrance de médicaments au public; ces activités sont réalisées avec des fabricants ou leurs dépositaires, d’autres grossistes ou avec les pharmaciens.\n\nToutefois, les personnes qui disposent d’une autorisation de distribution en gros peuvent fournir des médicaments aux médecins, médecins-dentistes et médecins-vétérinaires, qui sont autorisés à les stocker. La liste de ces médicaments est déterminée par règlement grand-ducal.",
+      "text_sha256": "8e8b898ef6e8d31540ab207ad35b3f33e9e938ed342cf9855aa56af5f184cdfc",
+      "md_span": {
+        "start": 595,
+        "end": 1619
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "loi du 11 avril 1983"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1985/12/18/n1/jo",
+          "text": "loi du 18 décembre 1985"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_2/20210915",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-09-15",
+      "text_md": "*Sans préjudice des dispositions des articles 5 et 5*bis* de la loi du 11 avril 1983 précitée, peuvent seuls faire l’objet d’un stockage les médicaments couverts par une autorisation de mise sur le marché délivrée par le ministre de la Santé et ceux couverts par une autorisation de mise sur le marché conforme au droit de l’Union européenne délivrée par l’Agence européenne des médicaments ou l’autorité compétente d’un autre État membre*.",
+      "text_sha256": "af904948ad7ab885568e8494df87743174dab9824908a21e149c7d9a477c8ffc",
+      "md_span": {
+        "start": 1654,
+        "end": 2094
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "loi du 11 avril 1983"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_3/20150101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-01-01",
+      "text_md": "**1.** La distribution en gros des médicaments est soumise à la possession d’une autorisation d’exercer l’activité de grossiste en médicaments.\n\nUne taxe d’un montant de 1.250 euros est due pour toute demande d’autorisation de distribution en gros de médicaments.\n\nUne taxe d’un montant de 1.250 euros est également due en cas de demande de modification ou de renouvellement de l’autorisation de distribution en gros de médicaments.\n\nLa taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant les autorisations visées aux alinéas précédents.\n\nLa taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.\n\nLa preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.\n\nL’autorisation est délivrée par le ministre de la Santé sur présentation d’une demande accompagnée des pièces documentant que le demandeur satisfait aux exigences de l’article 4 ci-après.\n\n*Le demandeur précise s’il entend obtenir l’autorisation en qualité de grossiste-répartiteur, habilité à distribuer tous les médicaments couverts par une autorisation de mise sur le marché, ou en qualité de grossiste habilité à distribuer seulement certains de ces médicaments, qu’il indiquera dans sa demande. Dans ce dernier cas, l’autorisation à délivrer énoncera limitativement les médicaments qu’il est habilité à distribuer en gros.*\n\nSont reconnues au Luxembourg les autorisations accordées par les autorités compétentes des autres Etats membres conformément à la directive 92/25/CEE du Conseil concernant la distribution en gros des médicaments à usage humain.\n\n**2.** La possession d’une autorisation de fabrication de médicaments emporte celle de distribuer en gros les médicaments concernés par cette autorisation. La possession d’une autorisation d’exercer l’activité de grossiste en médicaments ne dispense pas de l’obligation de posséder l’autorisation de fabrication et de respecter les conditions fixées à cet égard,même lorsque l’activité de fabrication est exercée accessoirement.\n\n**3.** Le contrôle des personnes et établissements autorisés à exercer l’activité de grossistes en médicaments, et l’inspection des locaux dont ils disposent, sont effectués par les pharmaciens-inspecteurs.\n\n**4.** L’autorisation visée au paragraphe 1 est suspendue ou retirée, si les conditions d’autorisation cessent d’être remplies.\n\n**5.** La procédure pour l’examen de la demande d’autorisation visée au paragraphe 1 ne doit pas excéder 90 jours à compter de la date de la réception de la demande.\n\nAu cas ou le ministre de la Santé exige du demandeur qu’il fournisse des informations supplémentaires nécessaires concernant les conditions d’autorisation, le délai est suspendu jusqu’à ce que les données complémentaires requises aient été fournies.\n\n**6.** Toute décision portant refus, suspension ou retrait de l’autorisation doit être motivée de façon précise. Elle est notifiée à l’intéressé avec l’indication des moyens et délai de recours.",
+      "text_sha256": "ff83e938736922707e54b0ae28674c25b54d51899a153b455ae9c9b6240cddf8",
+      "md_span": {
+        "start": 2129,
+        "end": 5285
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1992/25/jo",
+          "text": "directive 92/25/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_4/19950116",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-01-16",
+      "text_md": "Pour obtenir l’autorisation de distribution en gros de médicaments, le demandeur doit satisfaire aux exigences suivantes:\n\n1. disposer des locaux, d’installations et d’équipements, adaptés et suffisants, de façon à assurer une bonne conservation et une bonne distribution des médicaments;\n2. disposer à temps plein d’un pharmacien responsable agréé par le ministre de la Santé. L’établissement est placé sous la surveillance effective de ce pharmacien;\n3. s’engager à respecter les obligations qui lui incombent en vertu de l’article 5 ci-après. 5b-",
+      "text_sha256": "49b475d48f414de2c9f71b35861d192920c3d0f9e956d17391f2eeb41fe5787f",
+      "md_span": {
+        "start": 5320,
+        "end": 5869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_5/19950116",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-01-16",
+      "text_md": "Le titulaire d’une autorisation de distribuer en gros des médicaments est tenu:\n\n1. de rendre les locaux, les installations et les équipements visés à l’article 4 point a) en tout temps accessible aux agents chargés de leur inspection;\n2. de ne se procurer ses approvisionnements de médicaments qu’auprès de personnes qui, soit possèdent ellesmêmes l’autorisation de distribuer en gros des médicaments, soit sont dispensées de cette autorisation en vertu de l’article 3 paragraphe 2;\n3. de ne fournir des médicaments qu’à des personnes qui possèdent elles-mêmes l’autorisation de distribuer en gros des médicaments ou à des pharmaciens tenant officine ouverte au public ou responsables d’une pharmacie hospitalière ou d’un dépôt hospitalier de médicaments.\n4. de posséder un plan d’urgence qui garantisse la mise en oeuvre effective de toute action de retrait du marché ordonnée par le ministre de la Santé ou engagée en coopération avec le fabricant du produit concerné ou le titulaire de l’autorisation de mise sur le marché pour ledit produit;\n5. Cette documentation est tenue à la disposition des pharmaciens-inspecteurs, à des fins d’inspection.\n6. de joindre pour toute fourniture de médicaments à un pharmacien un document dont le détail est fixé par règlement grand-ducal;\n7. de se conformer aux principes et aux lignes directrices concernant les bonnes pratiques de distribution qui ont été ou qui seront publiés par la Commission des Communautés Européennes au Journal Officiel des Communautés Européennes. Ces principes et lignes directrices sont d’application au Luxembourg.",
+      "text_sha256": "da5a7769965bb1ec9d1224aa45956cecc4b24889e9d2e49829ad31fec62d91ab",
+      "md_span": {
+        "start": 5904,
+        "end": 7490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5bis",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_5bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_5bis/20120803",
+      "type": "article",
+      "num": "Art. 5bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-08-03",
+      "text_md": "1. Le grossiste-répartiteur visé à l’alinéa 3 du paragraphe 1. de l’article 3 est chargé d’une obligation de service public.\n\n*En vertu de cette obligation il est tenu:*\n\n1. de posséder de façon permanente un stock de médicaments lui permettant d’approvisionner journellement les pharmacies du pays. Ce stock doit correspondre, d’une part, aux deux tiers au moins du nombre des médicaments à usage humain bénéficiant d’une autorisation de mise sur le marché au Luxembourg et qui sont effectivement mis sur ce marché et, d’autre part, à la valeur moyenne des chiffres d’affaires mensuels de l’année précédente par médicament. Il doit inclure d’office les médicaments essentiels ou vitaux désignés par le ministre ayant la Santé dans ses attributions;\n2. d’assurer à la requête du ministre de la Santé le stockage des médicaments acquis par l’Etat pour répondre à des situations d’exception. Les frais y afférents sont pris en charge par le budget de l’Etat sur base d’une convention à conclure entre le ministre de la Santé et le grossiste-répartiteur;\n3. de participer à un tour de garde établi d’un commun accord entre tous les grossistes-répartiteurs, ou établi d’office par le ministre de la Santé, à défaut d’accord, et garantissant un approvisionnement approprié de la population;\n4. de prendre toutes les dispositions utiles pour assurer la livraison d’urgence de médicaments dans les meilleurs délais, et dans les vingt-quatre heures de leur commande au plus tard.\n\n1. Les détenteurs d’une autorisation de distribuer en gros délivrée au Luxembourg autres que les grossistes-répartiteurs, ainsi que les personnes pouvant se prévaloir d’une autorisation équivalente délivrée dans un autre Etat membre conformément à l’alinéa 4 du paragraphe 1. de l’article 3, sont tenus d’assurer un approvisionnement continu des médicaments effectivement mis par eux sur le marché au Luxembourg pour les pharmacies du pays, de manière à couvrir les besoins de la population.",
+      "text_sha256": "dab400475e24e88461771f057f054735cfa1c04c5586e7f3885f7fc3d1a8cdcc",
+      "md_span": {
+        "start": 7531,
+        "end": 9495
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_6/19950116",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-01-16",
+      "text_md": "Les dispositions de la présente loi s’entendent sans préjudice des exigences plus strictes auxquelles est soumise la distribution des substances narcotiques ou psychotropes, en vertu de dispositions nationales ou de conventions internationales.",
+      "text_sha256": "df53b709bfed8d3b70b208949e8880473011a8df60294f1bfcbae6a2a7361cb1",
+      "md_span": {
+        "start": 9530,
+        "end": 9774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_7/19950116",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-01-16",
+      "text_md": "**1.** La loi du 4 août 1975 concernant la fabrication et l’importation des médicaments est abrogée, pour autant qu’elle concerne l’importation des médicaments, et sous réserve des dispositions de l’alinéa qui suit.\n\nToutefois les titulaires d’une autorisation d’importer des médicaments, accordée en vertu de la prédite loi, peuvent, pendant une période transitoire de cinq ans qui commence avec l’entrée en vigueur de la présente loi, continuer à importer d’un autre Etat membre des médicaments sans satisfaire à l’exigence dont question à l’article 4 sous b) de la présente loi. Ils ne peuvent cependant céder ces médicaments qu’à des titulaires d’une autorisation de distribuer en gros des médicaments.\n\n**2.** L’importation de médicaments en provenance de pays tiers est réservée aux titulaires d’une autorisation accordée en vertu de la présente loi.",
+      "text_sha256": "0d827f30a01956214c04962e7c0c4944f237bdeb1a883367840338912bd57e1d",
+      "md_span": {
+        "start": 9809,
+        "end": 10665
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1975/08/04/n4/jo",
+          "text": "loi du 4 août 1975"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1975/08/04/n4/jo",
+          "text": "prédite loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_8/19950116",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-01-16",
+      "text_md": "Les modifications suivantes sont apportées à la loi du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués.\n\n1. Dans l’intitulé de la loi ainsi que dans tout son texte, à l’exception de l’article 1er les expressions spécialités pharmaceutiques et spécialités pharmaceutiques et/ou médicaments préfabriqués sont remplacées par l’expression médicaments. Il en est de même dans les règlements grand-ducaux pris en exécution de cette loi.\n2. Entre les articles 9 et 10 il est intercalé un article 9-1 nouveau, rédigé comme suit:«9-1: L’autorisation précise si le médicament est soumis à prescription médicale ou non.Un règlement grand-ducal détermine les critères sur base desquels s’opère la classification des médicaments en médicaments soumis à prescription médicale et en médicaments non soumis à prescription. Ce règlement peut prévoir des sous-catégories pour les médicaments qui ne peuvent être délivrés que sur prescription médicale, et notamment distinguer entreles médicaments sur prescription médicale renouvelable ou non renouvelable;les médicaments soumis à prescription médicale spéciale;les médicaments sur prescription médicale restreinte, réservés à certains milieux spécialisés.Le même règlement détermine les modalités ayant trait à l’établissement d’une liste des médicaments soumis à prescription médicale et à leur communication à la Commission des Communautés, ainsi qu’à la révision de la classification d’un médicament déterminé.»\n3. Action en cessation. Le magistrat présidant la Chambre du tribunal d’arrondissement siégeant en matière commerciale à la requête de toute personne, du collège médical ou du conseil d’administration de l’Union des caisses de maladie ordonne la cessation des actes de publicité ou l’interdiction d’actes de publicité projetés, lorsqu’ils sont contraires à l’article qui précède et au règlement pris en son exécution. L’action est introduite et jugée comme en matière de référé conformément aux articles 806 à 811-2 du code de procédure civile.Toutefois, par dérogation à l’article 811-1, alinéa 2 du code de procédure civile, l’ordonnance de référé n’est pas susceptible d’opposition».",
+      "text_sha256": "af6bf3b33ff32a4f71c71f74bb0f4b56ab990ffe78a3a2e6b0cd95d712d667b6",
+      "md_span": {
+        "start": 10700,
+        "end": 12931
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "loi du 11 avril 1983"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "cette loi"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1995-01-06-n4:2026-02-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/art_9/19950116",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-01-16",
+      "text_md": "Les infractions aux dispositions de la présente loi et des règlements à prendre en son exécution sont punies d’un emprisonnement de huit jours à six mois et d’une amende de deux cent cinquante et un à vingt-cinq mille euros, ou d’une de ces peines seulement.",
+      "text_sha256": "dedbdacc7310e5bb47532df30cd53a2b57aa9765a5d73b91042f30ece9d75d26",
+      "md_span": {
+        "start": 12966,
+        "end": 13224
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

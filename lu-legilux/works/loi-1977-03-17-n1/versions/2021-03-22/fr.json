@@ -1,0 +1,93 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1977-03-17-n1:2021-03-22",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/03/2021 : Loi du 17 mars 1977 concernant l'heure légale.",
+  "valid_from": "2021-03-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1977-03-17-n1/versions/2021-03-22/fr.xml",
+    "sha256": "ef59c4f168d7aae15485b4b6b1c6afc399aab279088826216a36c7e6ebb041f7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/03/17/n1/consolide/20210322/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1977-03-17-n1:2021-03-22#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1977/03/17/n1/art_1er/20210322",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-03-22",
+      "text_md": "**(1)** L’heure légale au Grand-Duché de Luxembourg est le Temps Universel Coordonné (UTC), tel qu’établi conformément au paragraphe 2, augmenté d’une heure, soit la valeur UTC (LUX) + 1.\n\n**(2)** L’UTC (LUX) est déterminée et diffusée par le Bureau luxembourgeois de métrologie de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services (ILNAS).",
+      "text_sha256": "474b7ba481fe36a2d0736cfac2ec907433609e9f6848d471b675bd8a18505ea5",
+      "md_span": {
+        "start": 568,
+        "end": 976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1977-03-17-n1:2021-03-22#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1977/03/17/n1/art_2/19770321",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-03-21",
+      "text_md": "Un règlement grand-ducal pourra modifier l'heure légale telle que définie à l'article précédent.",
+      "text_sha256": "75ea346eb381acdd223e30a587c694b7150698e7f9eb31f51ef76391fb6d52a4",
+      "md_span": {
+        "start": 1011,
+        "end": 1107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1977-03-17-n1:2021-03-22#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1977/03/17/n1/art_3/19770321",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-03-21",
+      "text_md": "Sont abrogées:\n\n- loi du 10 mai 1904\n- loi du 10 mai 1916\n- loi du 27 avril 1917",
+      "text_sha256": "2739648f0f59569e06d6069d6bdaecbde8e444b53ba2aac4b29efe35c639207c",
+      "md_span": {
+        "start": 1142,
+        "end": 1222
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1977-03-17-n1:2021-03-22#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1977/03/17/n1/art_4/19770321",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-03-21",
+      "text_md": "Le présente loi entrera en vigueur le jour de sa publication au Mémorial.",
+      "text_sha256": "e0b579da16eb989e1075144d143fb77e5115fe06d9e1f315d350ed7a89bf26d4",
+      "md_span": {
+        "start": 1257,
+        "end": 1330
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

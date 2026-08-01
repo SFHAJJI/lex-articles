@@ -1,0 +1,525 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/09/2025 : Règlement grand-ducal du 24 juillet 2007 portant fixation de la tâche des enseignants des lycées et lycées techniques et portant modification\\n - de l'arrêté royal grand-ducal modifié du 7 juin 1861 portant approbation d'un nouveau règlement pour les établissements d'enseignement supérieur et moyen de l'Etat;\\n - du règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail des chargés d'éducation à durée déterminée des lycées et lycées techniques publics;\\n - du règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail de deux cents chargés d'éducation à durée indéterminée des lycées et lycées techniques publics;\\n - du règlement grand-ducal du 14 décembre 2000 fixant les conditions de travail des chargés de cours à durée indéterminée de l'Institut d Etudes éducatives et sociales.",
+  "valid_from": "2013-09-15",
+  "valid_to": "2014-09-14",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2007-07-24-n1/versions/2013-09-15/fr.xml",
+    "sha256": "9b18a4e19f843ada692e60aa5be4b4d76b81e544c496f90971f88245304c8d3f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/consolide/20130915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_1er/20070916",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er** — ** Champ d’application**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Le présent règlement fixe la tâche des enseignants nommés ou affectés à un lycée ou un lycée technique, à l’exception de la tâche des stagiaires et des candidats ainsi que de la tâche des enseignants nommés ou affectés au lycée-pilote.",
+      "text_sha256": "4c5424f9e1a0ff69c526f7e0a237c1ecc02d83e6c292bb5d976995642e94832e",
+      "md_span": {
+        "start": 1459,
+        "end": 1694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_2/20070916",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** La tâche normale des professeurs, instituteurs d’enseignement préparatoire,maîtres de cours spéciaux et maîtres d’enseignement technique**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "**(1)** La tâche des professeurs, instituteurs, maîtres de cours spéciaux et maîtres d’enseignement technique est fixée à l’équivalent de vingt-deux leçons. Elle correspond à vingt et une leçons d’enseignement hebdomadaires, ainsi qu’à l’équivalent d’une leçon de disponibilité, soit soixante-douze heures vérifiables à assurer au cours de l’année scolaire et selon les besoins de l’organisation du lycée.\n\n**(2)** Pour les tâches correspondant à un service à temps partiel ou à un congé pour travail à mi-temps, le nombre de leçons d’enseignement et le nombre d’heures de disponibilité à assurer est fixé proportionnellement à celui prévu pour une tâche normale.",
+      "text_sha256": "d9db66ab14e9b3ae2ec0c8bc9e650501aeedbc4f4c89010c64d66710c581b43e",
+      "md_span": {
+        "start": 1893,
+        "end": 2556
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_3/20070916",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 1 ** — ** La tâche normale**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "La tâche normale des enseignants est constituée des éléments suivants:\n\n1. d’une tâche d’enseignement et\n2. d’une tâche de disponibilité pour l’enseignement et l’établissement.",
+      "text_sha256": "dc91df8cf067c64a8aa639a9485d1045d83459ea5fe0589d12ad2866613409c3",
+      "md_span": {
+        "start": 2687,
+        "end": 2863
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_4/20070916",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 1 ** — ** La tâche normale**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "**(1)** La tâche d’enseignement comprend en dehors de la conduite des leçons devant la classe:\n\n1. la préparation des leçons;\n2. l’évaluation des connaissances et des compétences des élèves;\n3. la préparation et la correction des devoirs, des travaux de révision et des travaux de vacances;\n4. la participation aux conseils de classe;\n5. loi modifiée du 25 juin 2004\n6. la surveillance entre les leçons et avant le début des cours.\n\n**(2)** La tâche d’enseignement des professeurs, maîtres de cours spéciaux et maîtres d’enseignement technique peut être modulée suivant\n\n1. la qualification pédagogique reconnue par le ministre ayant l’Éducation nationale dans ses attributions, ci-après dénommé le ministre;\n2. la matière enseignée;\n3. le niveau de la classe;\n4. l’effectif de la classe;\n5. l’ancienneté ou l’âge du titulaire.\n\nLes modulations sub a.-d. sont effectuées moyennant un coefficient. La modulation sub e. est effectuée moyennant l’attribution d’une ou de plusieurs leçons de décharge.",
+      "text_sha256": "c5b412abab44670b139036458a8b6eed8efd0d8837a65d91601318ab2765bd8d",
+      "md_span": {
+        "start": 2898,
+        "end": 3895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_5/20070916",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 1 ** — ** La tâche normale**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "La tâche de disponibilité pour l’enseignement et l’établissement comprend, en dehors des heures de cours de l’enseignant, les activités suivantes:\n\n1. loi modifiée du 25 juin 2004\n2. la concertation pédagogique au sein de l’établissement;\n3. le dialogue avec les élèves;\n4. le dialogue avec les parents des élèves;\n5. la participation à au moins 8 heures de formation continue certifiée.\n\nElle peut comprendre des activités de recherche scientifique, ainsi que des activités culturelles ou sociales.",
+      "text_sha256": "e0b84fb8ce72d6762e5101d4aa57744f8829f19e29b267d341fa232758f74ab6",
+      "md_span": {
+        "start": 3930,
+        "end": 4429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_6/20070916",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 2 ** — **Les activités connexes**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "**(1)** La tâche de l’enseignant peut également comprendre des activités connexes à autoriser par le ministre, pour la durée renouvelable d’une année scolaire consistant en:\n\n1. des activités dans l’intérêt du fonctionnement de l’enseignement dans l’établissement non comprises dans la tâche de disponibilité pour l’enseignement et l’établissement;\n2. des activités dans l’intérêt de l’éducation en général.\n\n**(2)** Les activités dans l’intérêt du fonctionnement de l’enseignement dans l’établissement non comprises dans la tâche de disponibilité pour l’enseignement et l’établissement peuvent comprendre:\n\n1. er\n2. le travail en équipe réduite composée du régent et de 2 à 3 enseignants pour diriger une classe du cycle inférieur ou de la division inférieure ou le tutorat des élèves des classes du cycle inférieur ou de la division inférieure;\n3. le travail au sein du comité des professeurs;\n4. la mise en œuvre des programmes des différentes disciplines au sein d’un établissement ainsi que la coordination de la concertation entre les disciplines;\n5. les activités périscolaires ainsi que les voyages d’études même s’ils ne donnent pas lieu à une rémunération;\n6. la gestion et l’animation d’un centre de documentation et d’information;\n7. des activités de conseil et d’orientation des élèves dans le cadre du Service de psychologie et d’orientation scolaires;\n8. la gestion d’un laboratoire ou d’un atelier;\n9. le développement scolaire, la mise en œuvre de projets d’innovation pédagogique propres au lycée, la participation à l’évaluation des enseignements du lycée;\n10. l’organisation d’une formation continue spécifiquement conçue pour les enseignants de l’établissement;\n11. des travaux administratifs;\n12. des activités de surveillance.\n\n**(3)** Les activités dans l’intérêt de l’éducation nationale en général peuvent comprendre:\n\n1. la participation à des commissions instituées par le ministre;\n2. l’élaboration des programmes des différentes disciplines dépassant les travaux des commissions nationales des programmes;\n3. l’élaboration de matériel didactique;\n4. la participation à des travaux ou des projets de recherche ou d’innovation pédagogique effectués par un service du ministère de l’Éducation nationale;\n5. la formation des stagiaires;\n6. le travail dans des organismes œuvrant pour l’éducation nationale en général;\n7. la collaboration à un projet européen;\n8. le détachement partiel à une administration ou à un service de l’Etat.\n\n**(4)** Les activités connexes sont rémunérées soit par indemnités, soit moyennant décharge de la tâche d’enseignement. Une décharge d’une leçon d’enseignement correspond à deux heures de travail. La somme des décharges qui peuvent être accordées à un enseignant ne peut pas dépasser la tâche normale.\n\nLes intitulés et les codes administratifs des différentes décharges sont établis au tableau annexé qui fait partie intégrante du présent règlement.\n\nLe directeur peut demander à l’enseignant qui a bénéficié d’indemnités ou d’une décharge un rapport documentant les travaux réalisés. S’il s’avère que les travaux n’ont pas été réalisés, un nombre équivalent de leçons non rémunérées est imposé à l’enseignant pour l’année scolaire suivante.",
+      "text_sha256": "616b1a68fb208642cad574aae4b9dad3e9470dc087fa173bbbf2fa1fa8ab7cc6",
+      "md_span": {
+        "start": 4513,
+        "end": 7716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_7/20070916",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 3 ** — ** Autres activités**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "L’enseignant peut être déchargé de toute ou partie de sa tâche d’enseignement en raison d’activités civiques, sociales ou politiques conformément aux lois et règlements régissant ces matières.",
+      "text_sha256": "8a5c99ab404128455755057683383f2a0e7b111bfb56f1ff865336afa7607b06",
+      "md_span": {
+        "start": 7795,
+        "end": 7987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_8/20070916",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 4 ** — ** Les modulations de la tâche**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "**(1)** Les professeurs, instituteurs, maîtres de cours spéciaux et maîtres d’enseignement technique bénéficient des décharges pour années d’âge suivantes:\n\n| - | après 45 années d’âge: | 1 leçon d’enseignement; |\n| --- | --- | --- |\n| - | après 50 années d’âge: | 2 leçons d’enseignement; |\n| - | après 55 années d’âge: | 4 leçons d’enseignement; |\n\n**(2)** Lorsque ces agents bénéficient d’un congé pour travail à mi-temps, la moitié de la décharge est mise en compte.\n\nLorsque ces agents assurent un service à temps partiel correspondant à 25% d’une tâche complète, la décharge n’est pas accordée.\n\nLorsque ces agents assurent un service à temps partiel correspondant à 50% ou 75% d’une tâche complète, la décharge est réduite respectivement à 50% ou à 75% des leçons hebdomadaires à mettre en compte.\n\n**(3)** La présente décharge est due à partir du premier du mois qui suit celui où le titulaire aura atteint l’âge de 45, 50 ou 55 ans.",
+      "text_sha256": "d754dd455a7928fc6723513cd96108e21502c214c46e9f54e26f6e423cdd38ec",
+      "md_span": {
+        "start": 8077,
+        "end": 9018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_9/20130915",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 4 ** — ** Les modulations de la tâche**"
+      ],
+      "article_valid_from": "2013-09-15",
+      "text_md": "Les leçons assurées par les professeurs, instituteurs, maîtres de cours spéciaux et maîtres d’enseignement technique sont affectées des coefficients suivants:\n\n1. e e e e e e | Coefficients | Nombre d’élèves |  |  |\n| --- | --- | --- | --- |\n| Classes | < 11 | 11-17 | > 17 |\n| tous niveaux | 0,90 | 0,95 | 1 |\n\n1. 1. | Coefficients | Nombre d’élèves |  |  |\n| --- | --- | --- | --- |\n| Classes | < 5 | 5-9 | > 9 |\n|  | 0,9 | 0,95 | 1 |\n2. | Coefficients | Nombre d’élèves |  |\n| --- | --- | --- |\n| Classes | < 8 | 8 ou > 8 |\n|  | 0,95 | 1 |\n3. | Coefficients | Nombre d’élèves |  |  |  |\n| --- | --- | --- | --- | --- |\n| Classes | < 5 | 5-7 | 8-11 | > 11 |\n|  | 0,9 | 0,95 | 1 | 1,08 |\n\n1. | Classes | Coefficient | facteur 1 | facteur 2 | facteur 3 |\n| --- | --- | --- | --- | --- |\n| 10e AS | 1,30 | * 0,150 | *n leçons grille | *n élèves |\n| 11e AS | 1,30 | * 0,150 | *n leçons grille | *n élèves |\n| 12e AS | 1,30 | * 0,045 | *n leçons grille | *n élèves |\n| **12e SI ** | 1,30 | * 0,046 | *n leçons grille | *n élèves |\n| **13e SI ** | 1,30 | * 0,046 | *n leçons grille | *n élèves |\n| **13e SR ** | 1,30 | * 0,085 | *n leçons grille | *n élèves |\n| 14e SI, 14e SR | 1,30 | *0,050 | *n leçons grille | *n élèves |\n| **BTS SI (1er et 2e semestre) ** | 1,30 | * 0,044 | *n leçons grille | *n élèves |\n| **BTS SI (3e et 4e semestre) ** | 1,30 | * 0,038 | *n leçons grille | *n élèves |\n| **BTS spécialisé ** | 1,30 | * 0,035 | *n leçons grille | *n élèves |\n| **12e ED ** | 1,30 | *** 0,016 ** | *n leçons grille | *n élèves |\n| **13e ED ** | 1,30 | *** 0,014 ** | *n leçons grille | *n élèves |\n| 14e ED, | 1,30 | *** 0,018 ** | *n leçons grille | *n élèves. |\n\n1. | Coefficients | Nombre d’élèves |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Classes | < 09 | 9-10 | 11-15 | 16-17 | 18-25 | 26-27 | > 27 |\n| 7e, 6e, 5e ES 7e, 8e, 9e EST | 1,00 | 1,00 | 1,00 | 1,03 | 1,10 | 1,17 | 1,25 |\n| 4e, 3e ES 10e, 11e EST | 1,00 | 1,00 | 1,05 | 1,13 | 1,20 | 1,27 | 1,35 |\n| 2e ES12e EST13e EST (prof. santé/sociales) | 1,00 | 1,08 | 1,15 | 1,23 | 1,30 | 1,37 | 1,45 |\n| 1ère ES13e EST (fin d’études)14e EST (prof. santé/sociales) | 1,10 | 1,10 | 1,15 | 1,23 | 1,30 | 1,37 | 1,45 |\n| 14e BTS, 15e BTS | 1,10 | 1,18 | 1,25 | 1,33 | 1,40 | 1,47 | 1,55 |\n\n1. e e e | Coefficients | Nombre d’élèves |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Classes | < 14 | 14-15 | 16-21 | 22-23 | > 23 |\n|  | 1,00 | 1,03 | 1,10 | 1,17 | 1,25 |\n\n1. e | Coefficients | Nombre d’élèves |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Classes | < 8 | 8-9 | 10-17 | 18-19 | > 19 |\n|  | 1,00 | 1,03 | 1,10 | 1,17 | 1,25 |",
+      "text_sha256": "91c5e563d1c1a4d86ca08b539437fc3775e691eb172543735d0b8c8e111cfb1e",
+      "md_span": {
+        "start": 9053,
+        "end": 11691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_10/20070916",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 4 ** — ** Les modulations de la tâche**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "L’application des coefficients visés à l’article 9 est également soumise aux règles suivantes:\n\n1. pour la détermination de l’effectif de l’auditoire la date du 15 octobre est à prendre comme référence pour les classes à plein temps et celle du 15 novembre pour les classes à cours concomitants;\n2. au cas où un cours est pris en charge simultanément par deux enseignants, la moitié de l’effectif de la classe est à mettre en compte pour la détermination du coefficient;\n3. lorsque des élèves de deux cours d’années d’études différentes ou de trois modules différents sont regroupés avec l’accord de l’enseignant dans un même auditoire, le coefficient est majoré de 0,2;\n4. les cours optionnels figurant dans les horaires et programmes sont affectés des mêmes coefficients que ceux prévus pour les classes concernées;\n5. La présente disposition ne s’applique pas aux candidats, ni aux stagiaires, ni aux chargés de cours, ni aux chargés d’éducation.",
+      "text_sha256": "2d782f787e9ddc2f781a3d3325db15de44c22c2085e88b0d09f6ba4dde340b73",
+      "md_span": {
+        "start": 11728,
+        "end": 12677
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_11/20070916",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 5** — **La constitution et le mode de computation de la tâche**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Pour chaque enseignant, la tâche hebdomadaire effective est constituée par le directeur de l’établissement auquel l’enseignant est affecté en fonction des besoins du service et conformément aux dispositions du présent règlement.\n\nSelon les nécessités du service, l’organisation de la tâche, le plan des leçons et des activités peuvent faire l’objet de modifications en cours d’année scolaire.",
+      "text_sha256": "c52d78f54e041f3621dee7b030954486ecf6b3fb953330549f562c72712e129b",
+      "md_span": {
+        "start": 12793,
+        "end": 13185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_12/20070916",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 5** — **La constitution et le mode de computation de la tâche**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Pour établir le volume de la tâche, les différents éléments sont mis en compte dans l’ordre suivant:\n\n- en premier lieu figurent les leçons d’enseignement qui sont à grouper en commençant par les cours qui comportent les coefficients les plus élevés;\n- en second lieu figurent les leçons de décharge.\n\nLes coefficients supérieurs à 1 sont applicables jusqu’à concurrence de la tâche réglementaire. Au-delà de ce seuil, pour les cours dotés d’un coefficient supérieur à 1, le coefficient 1 est mis en compte.\n\nLa tâche hebdomadaire de l’enseignant, calculée selon les dispositions du présent règlement, reste dans les limites de la tâche hebdomadaire normale définie à l’article 2, paragraphe 1er, aussi longtemps qu’elle n’est ni inférieure de plus de 0,50 leçon, ni supérieure de 0,49 leçon à cette tâche.\n\nA l’exception des leçons assurées dans des classes d’examen, les leçons qui ne sont pas assurées pendant toute la durée de l’année scolaire sont affectées d’un coefficient correcteur tenant compte de la durée effective de la prestation.",
+      "text_sha256": "5d67b15ab92202d83191ed16e6550e6ca5709bbf333c30e73975a78bc8a6a5e7",
+      "md_span": {
+        "start": 13222,
+        "end": 14266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_13/20070916",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 6 ** — ** Leçons supplémentaires et leçons de remplacement **"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "**(1)** En principe, aucun membre du personnel enseignant n’est à charger de leçons supplémentaires, à moins d’une nécessité bien établie.\n\n**(2)** Aucune indemnité pour leçons supplémentaires n’est due pour une tâche supplémentaire inférieure à une demi-leçon normale hebdomadaire.\n\nL’indemnité due pour leçons supplémentaires se base sur le nombre de leçons supplémentaires effectivement assurées.\n\nLes leçons supplémentaires assurées uniquement pendant une partie seulement du mois sont converties en leçons supplémentaires mensuelles.\n\nSeul le surplus de travail assuré dans le cadre de la tâche d’enseignement et des tâches connexes donne lieu à une rémunération particulière.\n\n**(3)** La formule générale de l’indemnité pour une leçon supplémentaire annuelle est fixée comme suit: traitement de base x 1/22 x nombre indice x valeur du point indiciaire applicable aux éléments de rémunération non pensionnables x 36/52.",
+      "text_sha256": "51ec76f2d49ff61ceabdfce8868890e6aa94eec471ab9b2e76038093c2fe1b2a",
+      "md_span": {
+        "start": 14380,
+        "end": 15304
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_14/20070916",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — ** Les éléments de la tâche**",
+        "**Section 6 ** — ** Leçons supplémentaires et leçons de remplacement **"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "**(1)** Des leçons assurées en remplacement d’un membre du personnel enseignant empêché de faire ses cours et donnant lieu à des heures supplémentaires peuvent être imposées aux enseignants pendant une période ne dépassant pas la durée d’un trimestre, à l’exception des enseignants stagiaires et des candidats pendant la période de candidature de 18 mois.\n\n**(2)** Le nombre de leçons pouvant ainsi être imposé, y compris le cas échéant les leçons supplémentaires déjà assurées, ne peut pas dépasser cinq leçons par semaine.\n\nCette limite peut être dépassée d’un commun accord entre le directeur et l’enseignant concerné.\n\n**(3)** Les leçons de remplacement sont mises en compte selon le mode de computation prévu à l’article 12 ci-dessus.",
+      "text_sha256": "80e3254e2932da36f9cc8d9d8973c2f6d8c8b8eb1ea7c2284cf9f02903fcabc6",
+      "md_span": {
+        "start": 15341,
+        "end": 16080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_15/20070916",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4** — **La tâche des chargés de cours**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "**(1)** La tâche normale des chargés de cours est fixée à l’équivalent de vingt-deux leçons. Elle correspond à vingt et une leçons d’enseignement, ainsi qu’à l’équivalent de soixante-douze heures maximum de disponibilité à assurer en cours d’année scolaire et vérifiables selon les besoins de l’organisation du lycée.\n\n**(2)** Les leçons assurées par les chargés de cours sont affectées du coefficient 1 à l’exception des dispositions suivantes:\n\n1. pour les cours donnés en atelier au cycle inférieur et au régime préparatoire les dispositions du paragraphe 2 points a et b de l’article 9 ci-dessus sont applicables\n2. | Coefficients | Nombre d’élèves |  |  |\n| --- | --- | --- | --- |\n| Classes | < 5 | 5-9 | 8 ou > 8 |\n|  | 0,90 | 0,95 | 1 |\n\n1. |  | Nombre d’élèves |  |  |\n| --- | --- | --- | --- |\n| Classes | 10 ou < 10 | 11-17 | > 17 |\n| tous niveaux | 0,90 | 0,95 | 1 |\n\n**(3)** L’application des coefficients est également soumise aux règles définies à l’article 10 ci-dessus.",
+      "text_sha256": "4645fda6407b8730f53a1cb4dac4ba31ca4777be35690295fdca80518eb4b1cc",
+      "md_span": {
+        "start": 16172,
+        "end": 17158
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_16/20070916",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — ** La tâche des chargés d’éducation**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "L’article 3 du règlement grand-ducal du 27 juillet 1997 fixant les modalités d’engagement et les conditions de travail des chargés d’éducation à durée déterminée des lycées et lycées techniques publics est remplacé par les dispositions suivantes:«Art. 3.(1)La tâche normale des chargés d’éducation est fixée à l’équivalent de vingt-quatre leçons. Elle correspond normalement à des leçons d’enseignement et des activités dans l’intérêt du fonctionnement de l’enseignement dans l’établissement pouvant aller jusqu’à l’équivalent de vingt-deux leçons selon un horaire fixé par le directeur tenant compte des besoins du service, ainsi qu’à l’équivalent de soixante-douze heures de disponibilité à assurer au cours de l’année scolaire et obligatoirement de soixante-douze heures annuelles d’activités administratives, sociales et périscolaires.Le volume de soixante-douze heures d’activités administratives, sociales et périscolaires est diminué de huit heures à partir de l’année scolaire au cours de laquelle le chargé d’éducation atteint l’âge de 50 ans et de seize heures supplémentaires à partir de l’année scolaire au cours de laquelle le chargé d’éducation atteint l’âge de 55 ans.(2)Les leçons assurées par les chargés d’éducation sont affectées des mêmes coefficients que les leçons dispensées par les chargés de cours».",
+      "text_sha256": "cf7faf6cd50bc5dff32e9d89d2ae3dc06cbedf92dfd73d8ccb21526acfee5fec",
+      "md_span": {
+        "start": 17255,
+        "end": 18579
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1997/07/27/n6/jo",
+          "text": "règlement grand-ducal du 27 juillet 1997"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_17/20070916",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — ** La tâche des chargés d’éducation**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "L’article 3 du règlement grand-ducal du 27 juillet 1997 fixant les modalités d’engagement et les conditions de travail de deux cents chargés d’éducation à durée indéterminée des lycées et lycées techniques publics est remplacé par les dispositions suivantes:«Art. 3.(1)La tâche normale des chargés d’éducation est fixée à l’équivalent de vingt-quatre leçons. Elle correspond normalement à des leçons d’enseignement et des activités dans l’intérêt du fonctionnement de l’enseignement dans l’établissement pouvant aller jusqu’à l’équivalent de vingt-deux leçons selon un horaire fixé par le directeur tenant compte des besoins du service, ainsi qu’à l’équivalent de soixante-douze heures de disponibilité à assurer au cours de l’année scolaire et obligatoirement de soixante-douze heures annuelles d’activités administratives, sociales et périscolaires.Le volume de soixante-douze heures d’activités administratives, sociales et périscolaires est diminué de huit heures à partir de l’année scolaire au cours de laquelle le chargé d’éducation atteint l’âge de 50 ans et de seize heures supplémentaires à partir de l’année scolaire au cours de laquelle le chargé d’éducation atteint l’âge de 55 ans.(2)Les leçons assurées par les chargés d’éducation sont affectées des mêmes coefficients que les leçons dispensées par les chargés de cours.»",
+      "text_sha256": "f50c03a8d5323232e7e082279d2064fed56919a3e281f79f26d3caaf7b759f00",
+      "md_span": {
+        "start": 18616,
+        "end": 19952
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1997/07/27/n5/jo",
+          "text": "règlement grand-ducal du 27 juillet 1997"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_18/20070916",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — ** La tâche des chargés d’éducation**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Les dispositions de l’article 12, alinéas 3 et 4 et de l’article 13 sont applicables aux chargés d’éducation à durée déterminée et à durée indéterminée, le cas échéant par application analogique et compte tenu du volume particulier de leur tâche normale.",
+      "text_sha256": "1a42b7272e142b2639ed9effd7c429c71cd7ffb8af210bbd3d6cd1917c01185d",
+      "md_span": {
+        "start": 19989,
+        "end": 20243
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_19/20070916",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — ** Disposition abrogatoires**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Sont abrogés:\n\n1. arrêté royal grand-ducal du 7 juin 1861\n2. règlement grand-ducal du 14 décembre 2000",
+      "text_sha256": "f9997a811031ac9c490bfd5c8ede7fd6ef8be90300ac9747b603e672c4b0d80a",
+      "md_span": {
+        "start": 20332,
+        "end": 20434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_20/20070916",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — ** Dispositions transitoires et finales**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Les enseignants en fonction à l’entrée en vigueur du présent règlement grand-ducal conservent le bénéfice des décharges pour ancienneté qui leur ont été accordées avant l’entrée en vigueur du présent règlement.",
+      "text_sha256": "a8a29b2edb37461b985c9c60a726685377437901e1fdcce0766a893dd0b5cb40",
+      "md_span": {
+        "start": 20535,
+        "end": 20745
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_21/20070916",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — ** Dispositions transitoires et finales**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Les enseignants en fonction à l’entrée en vigueur du présent règlement grand-ducal qui bénéficiaient de deux leçons de décharge pour ancienneté se voient accorder une troisième leçon de décharge pour ancienneté après 25 années de service ou 50 années d’âge.",
+      "text_sha256": "7e9413ee3e7898d1e50eddeafa6723b97841e8dffb068703ded4e8043c7a4e21",
+      "md_span": {
+        "start": 20782,
+        "end": 21039
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_22/20070916",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — ** Dispositions transitoires et finales**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Toute référence au présent règlement grand-ducal peut se faire par l’usage de l’intitulé abrégé suivant: Règlement grand-ducal du 24 juillet 2007 portant fixation de la tâche des enseignants des lycées et lycées techniques.",
+      "text_sha256": "409b2f859b8c1ee8a3edea62b9f68c40ca670c9fdded5373ab864ed50907a231",
+      "md_span": {
+        "start": 21076,
+        "end": 21299
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2007/07/24/n1/jo",
+          "text": "Règlement grand-ducal du 24 juillet 2007"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_23/20070916",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — ** Dispositions transitoires et finales**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Le présent règlement grand-ducal sort ses effets à partir de l’année scolaire 2007/2008.",
+      "text_sha256": "d9f6208a4297fdadba7ef032cec1f1e42a9f043488215ac9075f9602dc044449",
+      "md_span": {
+        "start": 21336,
+        "end": 21424
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/art_24/20070916",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre 7 ** — ** Dispositions transitoires et finales**"
+      ],
+      "article_valid_from": "2007-09-16",
+      "text_md": "Notre Ministre de l’Éducation nationale et de la Formation professionnelle et Notre Ministre du Trésor et du Budget sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "4d52029526743772ddb03ac0d237fa9c71150781bdf3b487e54ecb5ad2e71089",
+      "md_span": {
+        "start": 21461,
+        "end": 21685
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2007-07-24-n1:2013-09-15#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **Code** | **Intitulé** |\n| --- | --- |\n|  |  |\n| **ACAGR** | décharge accordée pour activités agricoles au Lycée technique agricole. |\n| **ACHOT** | décharge accordée pour activités hôtelières au Lycée technique hôtelier Alexis Heck. |\n| **ACILO** | décharge accordée pour activités au profit de l’action locale pour jeunes. |\n| **ACTPA** | décharge accordée pour assurer des activités périscolaires. |\n| **ADBTS** | décharge accordée pour assister la direction d’un lycée dans l’administration des classes du BTS. |\n| **ADMIN** | décharge accordée pour assister la direction de l’établissement dans les travaux administratifs. |\n| **ALLAI** | décharge accordée aux femmes allaitantes. |\n| **ALOGO** | décharge accordée pour assurer une tâche d’enseignement au centre de logopédie. |\n| **ANCIE** | décharge accordée pour ancienneté. |\n| **APOLS** | décharge accordée pour activités politiques et/ou syndicales. |\n| **APPUI** | décharge accordée pour assurer des cours d’appui. |\n| **AUTON** | décharge accordée pour assurer des activités dans le cadre de l’autonomie pédagogique des lycées. |\n| **BIBLI** | décharge accordée pour assurer la gestion et l’animation du centre de documentation et d’information du lycée. |\n| **CANDI** | décharge accordée aux candidats pour préparer leur travail de candidature. |\n| **CFPCO** | décharge accordée pour assurer une tâche de formation au Centre de formation professionnelle continue. |\n| **CODIR** | décharge accordée aux directeurs et directeurs-adjoints des lycées et à des représentants du ministre pour la collaboration aux travaux des collèges des directeurs. |\n| **CODIS** | décharge accordée aux coordinateurs de disciplines intervenant dans le stage pédagogique. |\n| **COMOD** | décharge accordée aux coordinateurs de modules intervenant dans le stage pédagogique. |\n| **COMIT** | décharge accordée pour la participation aux travaux du comité des professeurs. |\n| **COPRE** | décharge accordée pour la coordination du régime préparatoire. |\n| **CORIN** | décharge accordée pour assurer la fonction de correspondant informatique. |\n| **COUSO** | décharge accordée pour assurer une tâche d’enseignement dans le cadre de la formation des adultes. |\n| **EDIFF** | décharge accordée pour assurer une tâche d’enseignement dans un centre de l’éducation différenciée. |\n| **EGALI** | décharge accordée aux personnes déléguées à l’égalité entre femmes et hommes. |\n| **ENEPS** | décharge accordée pour assurer une tâche d’enseignement à l’Ecole nationale d’éducation physique et des sports. |\n| **ETUDE** | décharge accordée pour assurer une aide aux travaux à domicile et aux travaux de préparation des élèves. |\n| **FACUL** | décharge accordée pour assurer des cours facultatifs qui ne sont pas prévus dans l’horaire. |\n| **FORMA** | décharges accordée aux stagiaires pour suivre la formation pédagogique. |\n| **GESAT** | décharge accordée pour la gestion d’ateliers servant à l’enseignement pratique dans diverses spécialités (salon de coiffure, cuisine, boulangerie, boucherie scolaires...) de l’enseignement secondaire technique. |\n| **GESEL** | décharge accordée pour la gestion d’un laboratoire d’électrotechnique et de mécanique utilisé par la division supérieure. |\n| **GESIN** | décharge accordée pour la gestion d’une salle spécialement équipée pour l’enseignement de l’informatique. |\n| **GESLA** | décharge accordée pour gestion d’un laboratoire ou d’installations servant à l’enseignement théorique et/ou pratique. |\n| **MIN…** | décharge résultant d’un détachement partiel (ou complet) au profit d’un autre département ministériel ou d’une administration publique. |\n| **MOSAI** | décharge accordée dans le cadre du programme de maintien en situation scolaire des élèves menacés d’exclusion. |\n| **ORIEN** | décharge accordée pour activités au sein du SPOS. |\n| **ORIKA ** | décharge accordée pour assurer des cours et autres activités d’orientation organisés pour des élèves de 6e primaire. |\n| **ORSTA ** | décharge accordée pour l’organisation de stages obligatoires prévus dans les horaires et programmes. |\n| **PRO..** | décharge accordée pour collaborer à un projet pédagogique initié par le lycée. |\n| **PROET** | décharge accordée pour collaborer au projet d’établissement du lycée. |\n| **REGAD** | décharge accordée pour assurer la régence d’une classe dans le cadre de la Formation des Adultes. |\n| **REGEN** | décharge accordée pour assurer la régence d’une classe |\n| **SANTE** | décharge accordée pour raisons de santé. |\n| **SCRIP** | décharge accordée pour collaborer à un projet d’étude ou à un groupe de travail du Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques. |\n| **SECUR** | décharge accordée pour assurer la fonction de délégué à la sécurité. |\n| **SPORT** | décharge accordée pour assurer des activités sportives en dehors des heures de cours. |\n| **SURV** | décharge accordée pour assurer des leçons de surveillance. |\n| **TUTEU** | décharge accordée aux tuteurs de stagiaires intervenant dans le stage pédagogique. |",
+      "text_sha256": "e84709fa4e676099bfabf7ceb568850cd33c2ee2bfd2b3124a75abd607d0a3df",
+      "md_span": {
+        "start": 21726,
+        "end": 26771
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,63 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2004-01-30-n3:2015-10-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/10/2015 : Règlement grand-ducal du 30 janvier 2004 portant organisation des examens-concours pour l’admission au stage des fonctions administratives et scientifiques de la carrière supérieure des administrations de l’Etat et des établissements publics.",
+  "valid_from": "2015-10-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2004-01-30-n3/versions/2015-10-01/fr.xml",
+    "sha256": "ce846c2eaeab5d1241712692ea503be5c6b14f79b80f8616edd93ba0b545078b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/01/30/n3/consolide/20151001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2004-01-30-n3:2015-10-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/01/30/n3/art_13/20151001",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Dispositions transitoires.",
+      "path": [],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**1.** Les réserves de recrutement établies sous le régime du règlement grand-ducal modifié du 27 février 1987 portant organisation des examens-concours pour l'admission au stage des fonctions administratives de la carrière supérieure des administrations de l'Etat et des établissements publics et du règlement grand-ducal du 30 janvier 2004 portant organisation des examens-concours pour l'admission au stage des fonctions administratives et scientifiques de la carrière supérieure des administrations de l'Etat et des établissements publics restent en vigueur jusqu'à l'expiration d'un délai de trois ans à partir de l'établissement des relevés prévus à l'article 7, paragraphe 2 du règlement grand-ducal du 27 février 1987 précité respectivement aux articles 5 et 8 du règlement grand-ducal du 30 janvier 2004 précité.\n\n**2.** Les candidats ayant acquis avant le 1er janvier 2017 les diplômes et certificats visés par l’ancien article 2, paragraphe 2, points a), b) et c) du règlement grand-ducal modifié du 30 janvier 2004 précité, en vigueur avant l’entrée en vigueur du règlement grand-ducal du 19 mai 2010 modifiant le règlement grand-ducal modifié du 30 janvier 2004 portant organisation des examens-concours pour l’admission au stage des fonctions administratives et scientifiques de la carrière supérieure des administrations de l’Etat et des établissements publics, continuent à être admissibles à l’examen d’aptitude générale.",
+      "text_sha256": "ee7dcdf9ea328a81d5a656737b06263fcc42aa728721faa80b2f47fb521488c1",
+      "md_span": {
+        "start": 789,
+        "end": 2227
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1987/02/27/n2/jo",
+          "text": "règlement grand-ducal modifié du 27 février 1987"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2004/01/30/n3/jo",
+          "text": "règlement grand-ducal du 30 janvier 2004"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1987/02/27/n2/jo",
+          "text": "règlement grand-ducal du 27 février 1987"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2004/01/30/n3/jo",
+          "text": "règlement grand-ducal modifié du 30 janvier 2004"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2010/05/19/n1/jo",
+          "text": "règlement grand-ducal du 19 mai 2010"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

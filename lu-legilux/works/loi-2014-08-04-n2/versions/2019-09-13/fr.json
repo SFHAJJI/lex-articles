@@ -1,0 +1,81 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2014-08-04-n2:2019-09-13",
+  "language": "fr",
+  "title": "Version consolidée applicable au 13/09/2019 : Loi du 4 août 2014 relative à l'équipement meublant, scientifique, informatique et autre de certains bâtiments de la Cité des Sciences à Belval.",
+  "valid_from": "2019-09-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2014-08-04-n2/versions/2019-09-13/fr.xml",
+    "sha256": "7b277acc1db514706694ed62644289e5e5876ae435e0326a3224f3b75bac6738",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/consolide/20190913/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2014-08-04-n2:2019-09-13#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/art_1er/20190913",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-09-13",
+      "text_md": "Le Gouvernement est autorisé à procéder à l’équipement meublant, scientifique, informatique et autre de la Maison du Savoir, de la Maison des Sciences humaines, de la Maison du Nombre, des Arts et des Étudiants et du Centre de Calcul, de la Maison de l’Innovation, de la Halle d’essais Ingénieurs, du Bâtiment Laboratoires et de la Maison de Livre à Belval pour les besoins de l’Université du Luxembourg, du Luxembourg Institute of Science and Technology, du Luxembourg Institute of Socio-Economic Research, du Fonds national de la Recherche, de la Fondation RESTENA, de LUXINNOVATION GIE, du Centre de gestion pour formation continue et professionnelle universitaire GIE, de la Luxembourg Income Study, asbl et du Centre de Formation Professionnelle Continue Dr Robert WIDONG, asbl.",
+      "text_sha256": "f8830371de6eb2aaafb7dcd4cd0e7918227d564df7c3f15fb934089178cae629",
+      "md_span": {
+        "start": 666,
+        "end": 1449
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2014-08-04-n2:2019-09-13#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/art_2/20140922",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-09-22",
+      "text_md": "Les dépenses engagées au titre du projet visé à l'article 1er ne peuvent pas dépasser le montant de 140.000.000 euros.",
+      "text_sha256": "48494f2655daf1bb9469e67fb21534827d301dda1176684d566e5c17a75a83af",
+      "md_span": {
+        "start": 1484,
+        "end": 1602
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2014-08-04-n2:2019-09-13#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/art_3/20140922",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-09-22",
+      "text_md": "Les travaux sont réalisés par l'établissement public pour la réalisation des équipements de l'Etat sur le site de Belval-Ouest à charge des crédits mis à la disposition de ce dernier dans les conditions et suivant les modalités prévues à l'article 3 de la loi du 25 juillet 2002 portant création d'un établissement public pour la réalisation des équipements de l'Etat sur le site de Belval-Ouest.",
+      "text_sha256": "e751165fb546cacff3b701148c65867557790d2c70f48873e85a6a4bb3439b12",
+      "md_span": {
+        "start": 1637,
+        "end": 2033
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/07/25/n2",
+          "text": "loi du 25 juillet 2002"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

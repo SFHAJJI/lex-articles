@@ -1,0 +1,163 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2016-02-26-n1:2027-09-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/09/2027 : Loi du 26 février 2016 portant création d'une école internationale publique à Differdange.",
+  "valid_from": "2027-09-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2016-02-26-n1/versions/2027-09-15/fr.xml",
+    "sha256": "81f5cf0090b5e6807d16da4fd7d4f667e6b31b3cb461d3bb934ecf8c08848bd3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/consolide/20270915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2016-02-26-n1:2027-09-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/art_1er/20210915",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2027-09-15",
+      "text_md": "Il est créé un établissement d’enseignement public luxembourgeois comprenant des classes de l’enseignement primaire et de l’enseignement secondaire, appelé ci-après « École ».\n\nL’École porte la dénomination « École internationale de Differdange ». Une dénomination particulière peut lui être octroyée par règlement grand-ducal.",
+      "text_sha256": "96cb28f369ab0cf9dd0f496c65d3b71dfa4fed4e091c7f51e135da28d9680507",
+      "md_span": {
+        "start": 612,
+        "end": 939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2016-02-26-n1:2027-09-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/art_2/20210915",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-09-15",
+      "text_md": "L’École a pour mission l’éducation et l’enseignement communs d’élèves d’origines diverses. Lors de la mise en oeuvre des programmes et du choix des matériels d’enseignement une attention particulière est consacrée à l’idée européenne, à l’éducation au respect mutuel et à l’ouverture sur le monde extérieur.",
+      "text_sha256": "3b4ef7846f8e0bd2b73304be2da8a2f73ee3eccfb5ed249773917fd1741ce1c1",
+      "md_span": {
+        "start": 974,
+        "end": 1281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2016-02-26-n1:2027-09-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/art_3/20210915",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-09-15",
+      "text_md": "L’offre scolaire comporte:\n\n1. le cycle de deux années de l’enseignement « early education » européen ;\n2. le cycle de cinq années de l’enseignement primaire européen;\n3. le cycle de sept années de l’enseignement secondaire européen;\n4. les classes du régime préparatoire de l’enseignement secondaire général, les classes d’accueil et les classes de la formation professionnelle.\n\nIl est offert au moins deux sections linguistiques choisies parmi la section anglophone, la section francophone et la section germanophone. Un règlement grand-ducal peut élargir l’offre des sections linguistiques à d’autres sections prévues par l’annexe II de la Convention portant statut des Écoles Européennes, signée à Luxembourg, le 21 juin 1994 et approuvée par la loi du 23 décembre 1998.\n\nDans chaque cycle sont offerts des cours obligatoires de langue luxembourgeoise.",
+      "text_sha256": "bacdb5f71b02dae0bb4f002db0cefb584ab1651ef8da56c3df26af2f1595d0fa",
+      "md_span": {
+        "start": 1316,
+        "end": 2173
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/12/23/n9/jo",
+          "text": "loi du 23 décembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2016-02-26-n1:2027-09-15#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/art_4/20210915",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-09-15",
+      "text_md": "**(1)** Le fonctionnement et l’organisation de l’École sont soumis aux dispositions de la loi modifiée du 25 juin 2004 portant organisation des lycées. Pour les classes suivant l’enseignement européen, les dispositions de l’article 5 de la loi modifiée du 25 juin 2004 portant organisation des lycées ne s’appliquent pas. Au sens de la présente loi, le terme «lycée» employé dans la loi modifiée du 25 juin 2004 portant organisation des lycées désigne «l’École» et le terme «comité des professeurs» désigne le «comité des enseignants».\n\n**(2)** L’organisation des études, les contenus, les modalités de l’enseignement et les certifications de l’enseignement européen de l’École sont soumis à la loi du 23 décembre 1998 portant approbation de la Convention portant statut des écoles européennes, signée à Luxembourg le 21 juin 1994 et des Annexes I et II.\n\n**(3)** L’organisation des études, les contenus et les modalités des classes de l’enseignement préparatoire de l’enseignement secondaire général et des classes d’accueil de l’École sont soumis aux lois et règlements de l’enseignement secondaire général luxembourgeois.",
+      "text_sha256": "2a40f2476536dd83caa93f60bb079b7eed23dfa527d037610bd2ed7c49fef795",
+      "md_span": {
+        "start": 2208,
+        "end": 3332
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1998/12/23/n9/jo",
+          "text": "loi du 23 décembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2016-02-26-n1:2027-09-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/art_5/20210915",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-09-15",
+      "text_md": "Les nouvelles admissions à l’École sont réglées comme suit:\n\n1. Les élèves sont admis à la première année de l’enseignement primaire européen à la fin du cycle 1.2 de l’enseignement fondamental luxembourgeois.\n2. Les élèves qui ont suivi l’enseignement fondamental luxembourgeois sont admis à la première année de l’enseignement secondaire européen en fonction de la décision d’orientation leur délivrée à la fin du cycle 4.2 de l’enseignement fondamental luxembourgeois et les admettant à une classe de 7e de l’enseignement secondaire luxembourgeois.\n3. L’admission à une classe du régime préparatoire ou à une classe d’accueil suit les mêmes règles que celles relatives à l’inscription à une telle classe dans un autre lycée luxembourgeois.\n4. Les élèves sont admis à la première année de l’enseignement « early education » européen s’ils ont l’âge de quatre ans révolus au 1er septembre.\n\nÀ l’exception des classes du régime préparatoire et des classes d’accueil, l’École n’est pas soumise à la disposition de l’inscription prioritaire telle que définie à l’article 37 de la loi modifiée du 25 juin 2004 portant organisation des lycées.",
+      "text_sha256": "940889e2bef6ccd0a7ad3c217549dede14d76f66bf6146dee0846c811875df64",
+      "md_span": {
+        "start": 3367,
+        "end": 4506
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2016-02-26-n1:2027-09-15#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/art_6/20210915",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-09-15",
+      "text_md": "**(1)** Le cadre du personnel de l’École comprend des fonctionnaires des différentes catégories de traitement tels que prévus par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État sur la base des emplois prévus par la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental et par la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire.\n\nIl peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État.\n\n**(2)** L’enseignement peut être assuré par des enseignants d’autres établissements détachés à l’École.\n\n**(3)** Le cadre prévu au paragraphe 1er peut être complété par des employés enseignants suivant les besoins du service et dans les limites des crédits budgétaires, sous les conditions suivantes:\n\n1. avoir eu accès à la fonction enseignante ou d’encadrement socio-éducatif ou psycho-social dans un pays membre de l’Union européenne ou de l’Association européenne de libre-échange ;\n2. se prévaloir d’une expérience professionnelle d’au moins cinq ans dans la fonction enseignante;\n3. prouver par des certificats qu’ils ont atteint le niveau B2 du cadre européen commun de référence des langues dans au moins une des langues administratives définies par la loi du 24 février 1984 sur le régime des langues.\n\nPour bénéficier d’un classement dans la catégorie A, groupe d’indemnité A1, sous-groupe de l’enseignement tel que prévu à l’article 43, paragraphe 4 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, l’employé doit remplir les conditions de diplôme pour l’admission au concours de recrutement pour une fonction enseignante du groupe de traitement correspondant du régime de traitement des fonctionnaires de l’État ou pour l’admission au stage de cette fonction.\n\nPour bénéficier d’un classement dans la catégorie A, groupe d’indemnité A2, sous-groupe de l’enseignement tel que prévu à l’article 44, paragraphe 3 de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État, l’employé doit soit être détenteur du diplôme du bachelor, soit présenter un certificat sanctionnant des études reconnues équivalentes correspondant à la formation exigée pour la vacance de poste sollicitée.",
+      "text_sha256": "f8f0effb8aa24a937c7e7f78a3c04aded89c5533baafb69ab059cdffc96a8d89",
+      "md_span": {
+        "start": 4541,
+        "end": 6925
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2009/02/06/n4/jo",
+          "text": "loi modifiée du 6 février 2009"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2005/06/29/n1/jo",
+          "text": "loi modifiée du 29 juin 2005"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1984/02/24/n1/jo",
+          "text": "loi du 24 février 1984"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

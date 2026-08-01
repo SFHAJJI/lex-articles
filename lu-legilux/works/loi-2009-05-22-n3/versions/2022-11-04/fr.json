@@ -1,0 +1,270 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04",
+  "language": "fr",
+  "title": "Loi du 22 mai 2009 relative à l'Œuvre Nationale de Secours Grande-Duchesse Charlotte et à la Loterie Nationale.",
+  "valid_from": "2022-11-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2009-05-22-n3/versions/2022-11-04/fr.xml",
+    "sha256": "df7a3c724939d2332937f606b6477faba821ad3f048b7aa684a89650baa1ada3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/consolide/20221104/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_1er/20090605",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "- Statut de l'Œuvre",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "**(1)** L'’Œuvre Nationale de Secours Grande-Duchesse Charlotte, ci-après désignée «l'Œuvre», est un établissement public possédant la personnalité juridique et jouissant de l'autonomie financière.\n\n**(2)** L'Œuvre est placée sous la tutelle du Premier Ministre, Ministre d'Etat.",
+      "text_sha256": "d9065500983b2618e0caf2b495ccc539585466df72bb7a41296b1feca51a6eca",
+      "md_span": {
+        "start": 607,
+        "end": 886
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_2/20090605",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "- Missions",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "**(1)** L'Œuvre a pour missions:\n\n1. de venir en aide aux Luxembourgeois victimes de la guerre 1940-1945;\n2. de soutenir des organismes œuvrant dans le domaine social en vue de réaliser les objectifs que ces organismes se sont fixés dans leurs statuts;\n3. de soutenir des organismes œuvrant au niveau national dans les domaines de la culture, du sport et de la protection de l'environnement;\n4. de participer aux dépenses des offices sociaux communaux et du Fonds national de solidarité dans les limites à préciser par règlement grand-ducal;\n5. d'organiser et de gérer la Loterie Nationale.\n\n**(2)** En vue de réaliser ses missions, l'Œuvre peut:\n\n1. octroyer des subsides, prix, récompenses et autres soutiens financiers;\n2. lancer des appels à projets;\n3. promouvoir des études, recherches et autres activités scientifiques;\n4. créer d'autres sociétés, organismes, fondations, associations ou groupements ou participer à de telles entités.",
+      "text_sha256": "42abd102ac1a0df77f4d41a8c2639854ea7ccbced2f564eff1f1d3765b55ef73",
+      "md_span": {
+        "start": 932,
+        "end": 1873
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_3/20090605",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "- Méthodes de gestion",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "**(1)** L'Œuvre est gérée dans les formes et selon les méthodes du droit privé.\n\n**(2)** Les relations entre l'Œuvre et son personnel sont régies par des contrats de droit privé.",
+      "text_sha256": "39352458a018e0ff0d8b5876576167aa8bcfbb204a4007a6d91d7ae9303b5df9",
+      "md_span": {
+        "start": 1930,
+        "end": 2108
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_4/20221104",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "- Conseil d'administration",
+      "path": [],
+      "article_valid_from": "2022-11-04",
+      "text_md": "**(1)** L'Œuvre est administrée et gérée par un conseil d'administration de huit membres au moins et de vingt membres au maximum, dont un président, un vice-président et un secrétaire général. Ils sont nommés et révoqués par le Premier Ministre, Ministre d'Etat pour un terme de cinq ans renouvelable.\n\nNe peuvent devenir membres du conseil d'administration le ou les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler l'Œuvre ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs de l'Œuvre ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l'Etat en faveur de l'Œuvre.\n\nLa fonction d'administrateur est honorifique et ne donne droit à aucune rémunération.\n\n**(2)** Le conseil d'administration délibère valablement si la majorité des membres sont présents ou représentés. Tout membre empêché ou absent peut donner par écrit, à un autre membre du conseil, délégation pour le représenter aux réunions du conseil et y voter en ses lieu et place. Aucun délégué ne peut représenter plus d'un membre du conseil.\n\nLes résolutions sont prises à la majorité des voix. En cas de partage des voix celle du président est prépondérante.\n\n**(3)** Il appartient notamment au conseil d'administration:\n\n1. d'établir le budget et d'arrêter les comptes annuels;\n2. de statuer au sujet des aides à accorder en vertu de l'article 2;\n3. de statuer sur l'acceptation des dons et des legs;\n4. de fixer la grille des emplois et leur classification ainsi que le niveau de rémunération du personnel.\n5. d'arrêter un règlement d'ordre intérieur en vue de l'organisation interne de l'Œuvre, y compris les attributions et le mode de fonctionnement de la direction;\n6. de statuer sur le placement de la fortune de l'Œuvre;\n7. de statuer sur l'acquisition et l'aliénation d'immeubles et sur la constitution de charges sur ces immeubles;\n8. de statuer sur la création d'autres sociétés, organismes, fondations, associations ou groupements ou la participation à de telles entités;\n9. de statuer sur les produits développés et distribués par la Loterie Nationale.\n10. d’engager et de licencier les directeurs et de contrôler les actes de la gestion courante de ceux-ci ;\n11. de décider quant aux actions judiciaires à intenter par l’Œuvre et des transactions à conclure ;\n12. de déterminer la politique générale de l’Œuvre.\n\n**(4)** Le conseil d'administration peut nommer en son sein un bureau exécutif auquel il peut déléguer la gestion courante de l'Œuvre.\n\n**(5)** L'Œuvre est représentée dans les actes publics ou sous seing privé par son président ou le membre du conseil par lui désigné.",
+      "text_sha256": "bc25acac2d415c67e89891b18fe4855012971470c7f2ac6992c4b448282b5d00",
+      "md_span": {
+        "start": 2170,
+        "end": 4848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4bis",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_4bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_4_bis_direction/20221104",
+      "type": "article",
+      "num": "Art. 4 bis.",
+      "heading": "- Direction",
+      "path": [],
+      "article_valid_from": "2022-11-04",
+      "text_md": "**(1)** La direction exécute les décisions du conseil d’administration. Elle assure la gestion courante de l’Œuvre et répond de celle-ci devant le conseil d’administration.\n\n**(2)** La direction est composée d’un directeur chargé des missions philanthropiques de l’Œuvre et d’un directeur chargé de la Loterie Nationale. Ils sont engagés sous le régime de droit privé régi par le Code du travail.\n\n**(3)** Les directeurs assistent aux réunions du conseil d’administration avec voix consultative.",
+      "text_sha256": "fb0735cdd2e8078da539c027e70e62f0672003b697668587083d4489ed169f2b",
+      "md_span": {
+        "start": 4902,
+        "end": 5397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_5/20090605",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "- Tutelle",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "Dans le cadre de la tutelle que le Premier Ministre, Ministre d'Etat exerce sur l'Œuvre, le conseil d'administration soumet les points suivants à son approbation:\n\n1. la politique générale de l'Œuvre;\n2. le budget et les comptes annuels;\n3. les acquisitions et ventes d'immeubles;\n4. la création d'autres sociétés, organismes, fondations, associations ou groupements ou la participation à de telles entités;\n5. l'acceptation de dons et de legs dont la valeur excède le montant de 30.000 euros, l'article 910 du Code civil n'étant pas applicable;\n6. les emprunts et les garanties;\n7. l'organigramme, la grille des emplois ainsi que les conditions et modalités de rémunération du personnel;\n8. la désignation d'un réviseur d'entreprises.",
+      "text_sha256": "c76074afa38f04599dbf135c93d44299455553dac951b46ef4c36a2493469a5c",
+      "md_span": {
+        "start": 5442,
+        "end": 6177
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_6/20090605",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "- Moyens financiers",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "Pour faire face à ses engagements, l'Œuvre dispose des moyens financiers suivants:\n\n1. les ressources provenant de la Loterie Nationale;\n2. les dons et legs;\n3. les subsides et subventions;\n4. les prélèvements sur toutes sortes de loteries et de paris relatifs aux épreuves sportives au profit de l'Œuvre fixés par le ministre ayant la réglementation des jeux de hasard et des paris relatifs aux épreuves sportives dans ses attributions;\n5. les revenus propres;\n6. les revenus divers.",
+      "text_sha256": "8e98cbb98b7e35fdb2a7c7db2b8d311ff99cead5507752f3c9f78bd16ce25afc",
+      "md_span": {
+        "start": 6232,
+        "end": 6716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_7/20221104",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "- Tenue des comptes",
+      "path": [],
+      "article_valid_from": "2022-11-04",
+      "text_md": "**(1)** Les comptes de l'Œuvre sont tenus selon les principes et les modalités de la comptabilité commerciale.\n\nL'exercice comptable coïncide avec l'année civile. A la clôture de chaque exercice, le conseil d'administration établit un projet de bilan et un projet de compte de profits et pertes.\n\n**(2)** La Loterie Nationale tient des comptes distincts selon les mêmes principes et modalités.\n\n**(3)** Un réviseur d'entreprises est chargé de contrôler les comptes de l'Œuvre et la régularité des opérations effectuées et des écritures comptables. Le réviseur d'entreprises doit remplir les conditions requises par la loi modifiée du 23 juillet 2016 portant organisation de la profession de l’audit. Son mandat est d'une durée de trois ans renouvelable. Sa rémunération est à charge de l'Œuvre. Il remet son rapport au conseil d'administration pour le quinze avril. Il peut être chargé par le conseil d'administration de procéder à des vérifications spécifiques.\n\n**(4)** Pour le quinze mai au plus tard, le conseil d'administration présente les comptes de fin d'exercice, accompagnés d'un rapport circonstancié sur la situation et le fonctionnement de l'établissement ainsi que du rapport du réviseur d'entreprises, au Premier Ministre, Ministre d'Etat, qui est appelé à décider sur la décharge à donner au conseil d'administration de l'Œuvre. La décharge est acquise de plein droit si le Premier Ministre, Ministre d'Etat n'a pas pris de décision dans un délai de deux mois.\n\n**(5)** L'Œuvre dépose ses comptes annuels auprès du registre de commerce et des sociétés dans le mois de l'obtention de la décharge.",
+      "text_sha256": "6e04cc155c6f651a305b2bc139f697c446a1c9e5c6b14d815253ead9523ad0a2",
+      "md_span": {
+        "start": 6771,
+        "end": 8382
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/07/23/n8/jo",
+          "text": "loi modifiée du 23 juillet 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_8/20090605",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "- Dispositions fiscales",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "**(1)** L'Œuvre est affranchie de tous impôts et taxes au profit de l'Etat et des communes, à l'exception de la taxe sur la valeur ajoutée et des taxes rémunératoires. Cependant, la taxe sur le loto est due au cas où l'Oeuvre agit en tant que mandataire pour un tiers organisateur.\n\n**(2)** Les actes passés au nom et en faveur de l'Œuvre sont exempts des droits de timbre, d'enregistrement, d'hypothèque ou de succession, sauf le salaire des formalités hypothécaires.\n\n**(3)** Les dons en espèces faits à l'Oeuvre sont déductibles comme dépenses spéciales conformément à l'article 109 de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu. A cet effet, à l'article 112, alinéa 1er, numéro 1 de la loi précitée, sont ajoutés les termes",
+      "text_sha256": "4f00a28fa7b444c3bf5acc41fb0df33605a18f60b79a0859425da764fc592209",
+      "md_span": {
+        "start": 8441,
+        "end": 9193
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1",
+          "text": "l'article 109 de la loi modifiée du 4 décembre 1967"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1",
+          "text": "l'article 112, alinéa 1er, numéro 1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_9/20090605",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "- Loterie Nationale",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "**(1)** L'organisation de la Loterie Nationale est confiée à l'Œuvre.\n\nLa Loterie Nationale:\n\n1. organise, selon des méthodes commerciales, toutes formes de loteries et de paris relatifs aux épreuves sportives en conformité avec la législation applicable;\n2. opère un réseau commercial de distribution de produits de toute forme de loteries et de paris relatifs aux épreuves sportives, y compris par recours aux outils de la société de l'information.\n\n**(2)** Parallèlement au développement de méthodes commerciales visant à promouvoir les loteries et paris relatifs aux épreuves sportives dont elle assure l'organisation ou la commercialisation, la Loterie Nationale veille:\n\n1. à informer clairement le public des chances réelles de gain pour chaque type de produit proposé;\n2. à organiser des campagnes d'information sur les risques économiques, sociaux et psychologiques liés à la dépendance au jeu;\n3. à collaborer avec les autorités compétentes et les diverses associations œuvrant dans le secteur à une politique active et coordonnée de prévention et d'assistance en matière de dépendance au jeu.",
+      "text_sha256": "b8a5ad9b274322c7b4e1b58a58dbba85e268e30a2be597e75d4c2c150c4a12e9",
+      "md_span": {
+        "start": 9248,
+        "end": 10351
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_10/20090605",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "- Dispositions modificatives de la loi modifiée du 20 avril 1977",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "La loi modifiée du 20 avril 1977 relative à l'exploitation des jeux de hasard et des paris relatifs aux épreuves sportives est modifiée comme suit:\n\n1. er Ne tombent pas dans le champ d'application de la présente loi: 1. l'article 21 de la loi du 30 juillet 2002 directive 97/55/CE directive 84/550/CEE\n2. les loteries et paris relatifs aux épreuves sportives organisés par la Loterie Nationale.»\n2. *I.- Des loteries*\n3. L'article 2 **(1)** Par dérogation à l'article 1er, alinéa 1er, les loteries et tombolas destinées entièrement ou partiellement à un but d'intérêt général à caractère philanthropique, religieux, scientifique, artistique, pédagogique, social, sportif ou touristique peuvent être autorisées: 1. par le collège des bourgmestre et échevins de la commune du principal lieu de l'émission des billets, lorsque la valeur des billets à émettre est inférieure ou égale à 12.500 euros, ou\n2. par le ministre ayant les jeux de hasard dans ses attributions, si la valeur des billets à émettre dépasse la somme de 12.500 euros. **(2)** Dans l'intérêt de la protection des participants, le ministre et le collège des bourgmestre et échevins peuvent assortir leurs autorisations visées au paragraphe (1) des conditions nécessaires relatives à l'organisation, aux opérations de tirage et au contrôle des loteries autorisées. **(3)** Par dérogation aux articles 14 à 17, les contrevenants au présent article seront punis, selon les cas, des peines prévues par les articles 302 et 303 du code pénal.»\n4. l'article 6",
+      "text_sha256": "1706c2af30f1cc9c91a5db7ac31f33f3a165ead66c4cf377a3bd5c2b4674d0fa",
+      "md_span": {
+        "start": 10453,
+        "end": 11971
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1977/04/20/n7",
+          "text": "loi modifiée du 20 avril 1977"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_11/20090605",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "- Dispositions abrogatoires",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "Sont abrogés:\n\n- l'arrêté grand-ducal modifié du 25 décembre 1944\n- l'arrêté grand-ducal modifié du 13 juillet 1945\n- loi modifiée du 15 février 1882",
+      "text_sha256": "a624ece70f7c3c0c2b2a9d04be19bae144b0ca7c28fd04451405179fe2bfe12e",
+      "md_span": {
+        "start": 12036,
+        "end": 12185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2009-05-22-n3:2022-11-04#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/art_12/20090605",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "- Intitulé abrégé",
+      "path": [],
+      "article_valid_from": "2009-06-05",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en recourant à l'intitulé suivant: «Loi du 22 mai 2009 relative à l'Œuvre Nationale de Secours Grande-Duchesse Charlotte et à la Loterie Nationale.»",
+      "text_sha256": "c9ec23db0d0f19b6879cba45b49234653d23fb775b6c6abb7c46e6dfffd079c1",
+      "md_span": {
+        "start": 12240,
+        "end": 12456
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/05/22/n3/jo",
+          "text": "Loi du 22 mai 2009"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

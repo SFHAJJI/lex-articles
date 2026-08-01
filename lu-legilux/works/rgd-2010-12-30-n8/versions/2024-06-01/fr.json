@@ -1,0 +1,110 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2010-12-30-n8:2024-06-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/06/2024 : Règlement grand-ducal du 30 décembre 2010 concernant les aspects techniques du programme directeur de gestion des risques d'inondation.",
+  "valid_from": "2024-06-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2010-12-30-n8/versions/2024-06-01/fr.xml",
+    "sha256": "c98849347f0b37c4b7d2a93c57b66743d61b287ab59a625e7dccd9188f080838",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8/consolide/20240601/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2010-12-30-n8:2024-06-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8/art_1er/20110104",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-04",
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n1. «inondation»: submersion temporaire par l'eau de terres qui ne sont pas submergées en temps normal. Cette notion recouvre les inondations dues aux crues de rivières en excluant les inondations dues aux réseaux d'égouts.\n2. «risque d'inondation»: la combinaison de la probabilité d'une inondation et des conséquences négatives potentielles pour la santé humaine, l'environnement, le patrimoine culturel et l'activité économique associées à une inondation.",
+      "text_sha256": "3f8db7dc6f45951b9d72f5fc6d753f5d6e02c5d9e7d5da28d4187273b27b6c0b",
+      "md_span": {
+        "start": 657,
+        "end": 1161
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2010-12-30-n8:2024-06-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8/art_2/20110104",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-04",
+      "text_md": "Les cartes des zones inondables sont établies pour:\n\n1. des crues de faible probabilité ou de scénarios d'évènements extrêmes,\n2. des crues de probabilité moyenne pour une période de retour probable de cent ans,\n3. des crues de forte probabilité, d'une période de retour de 10 ans.\n\nPour ces trois scénarios, les éléments suivants doivent apparaître dans les cartes:\n\n- l'étendue de l'inondation,\n- les hauteurs d'eau et\n- le cas échéant, la vitesse du courant.",
+      "text_sha256": "8ae2fd3e1e086078e06764360bcb668832114d5ffe4b8fe667f97383764ade58",
+      "md_span": {
+        "start": 1196,
+        "end": 1657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2010-12-30-n8:2024-06-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8/art_3/20240601",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-06-01",
+      "text_md": "Les cartes des risques d'inondation doivent contenir les paramètres suivants:\n\n1. le nombre indicatif des habitants potentiellement touchés,\n2. les types d'activités économiques dans la zone potentiellement touchée,\n3. loi modifiée du 9 mai 2014\n4. l'article 20 de la loi du 19 décembre 2008",
+      "text_sha256": "a50fe97ee193149a840835a5e4e48787a29afabdced7c01ac93edbe92a581911",
+      "md_span": {
+        "start": 1692,
+        "end": 1983
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2010-12-30-n8:2024-06-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8/art_4/20110104",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-04",
+      "text_md": "Les plans de gestion des risques d'inondation sont établis à l'échelle du district hydrographique, sur la base de l'évaluation préliminaire des risques d'inondation, des cartes des zones inondables et des cartes des risques d'inondation.\n\nIls comportent des éléments relatifs à la prévention, la protection et la préparation, y compris la prévision et les systèmes d'alerte précoce des inondations. Ils définissent des objectifs appropriés, ainsi que les mesures pour atteindre ces objectifs, en matière de gestion des risques d'inondation et mettent l'accent sur la réduction des conséquences négatives potentielles d'une inondation pour la santé humaine, l'environnement, le patrimoine culturel et l'activité économique. Ces mesures sont complétées par des mesures structurelles ou non structurelles relatives à la régulation de l'écoulement des crues et l'encouragement à des modes durables d'occupation du sol.\n\nDes priorités et des modalités de suivi du progrès de mise en œuvre du plan de gestion sont définies dans ce cadre. Les plans de gestion des risques d'inondation renseignent également sur les mesures et les actions prises en matière d'information du public ainsi que sur le processus de coordination au sein du district hydrographique international.\n\nLes plans de gestion doivent être conformes au principe de solidarité internationale. Ils ne comprennent pas de mesures augmentant sensiblement, du fait de leur portée et de leur impact, les risques d'inondation en amont ou en aval ni sur le territoire national ni dans d'autres pays partageant le même bassin hydrographique.",
+      "text_sha256": "a41c8496b9e632b57fc897aaabe14fec1df86f7ea036297ff00090e22a467a3b",
+      "md_span": {
+        "start": 2018,
+        "end": 3610
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2010-12-30-n8:2024-06-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8/art_5/20110104",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-01-04",
+      "text_md": "Notre Ministre de l'Intérieur et à la Grande Région est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "421cad699d4116638f97f697bb54447a8a26e73cfc0b5a45c80c2b587645ed2e",
+      "md_span": {
+        "start": 3645,
+        "end": 3772
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

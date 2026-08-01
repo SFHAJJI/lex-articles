@@ -1,0 +1,69 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2019-01-25-a53",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2023-12-26",
+        "valid_to": null,
+        "text_sha256": "6e8df796bb23e63989dfca8b9d84e91e2f1ef33692e20f1bed329da79558459c",
+        "in_version": "lu-legilux:rgd-2019-01-25-a53:2023-12-26",
+        "article_valid_from": "2019-02-05",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2023-12-26",
+        "valid_to": null,
+        "text_sha256": "68f4704abdc57a6ec72fb3f223677da64f520d10c9b8a8f46d618cf62dd50c1f",
+        "in_version": "lu-legilux:rgd-2019-01-25-a53:2023-12-26",
+        "article_valid_from": "2019-02-05",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2023-12-26",
+        "valid_to": "2025-12-30",
+        "text_sha256": "819866b799576cb2b3ab7d7bf0cb30970d143990c5f724cf01b5bc06ebd2bed6",
+        "in_version": "lu-legilux:rgd-2019-01-25-a53:2023-12-26",
+        "article_valid_from": "2023-12-26"
+      },
+      {
+        "valid_from": "2025-12-31",
+        "valid_to": null,
+        "text_sha256": "003759113924e93a0c603aa8c2ae480959c77841f651955caaa5567db96186ff",
+        "in_version": "lu-legilux:rgd-2019-01-25-a53:2025-12-31",
+        "article_valid_from": "2025-12-31"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2023-12-26",
+        "valid_to": null,
+        "text_sha256": "3123167c4ac44f9a2b50ee4721dc9b95508d70fb84c28042295679d9985516ba",
+        "in_version": "lu-legilux:rgd-2019-01-25-a53:2023-12-26",
+        "article_valid_from": "2023-12-26"
+      }
+    ],
+    "attachment_1": [
+      {
+        "valid_from": "2023-12-26",
+        "valid_to": "2025-12-30",
+        "text_sha256": "5f28d65fb55b0ef762fc9407ba0adf27038b780979296ac0913364c8f5cf74fd",
+        "in_version": "lu-legilux:rgd-2019-01-25-a53:2023-12-26"
+      },
+      {
+        "valid_from": "2025-12-31",
+        "valid_to": null,
+        "text_sha256": "c896ae36f3d1e7e0e793b8eaeb7de3aecb845d358bcaac1687803d937cc4a743",
+        "in_version": "lu-legilux:rgd-2019-01-25-a53:2025-12-31"
+      }
+    ]
+  },
+  "anchor_events": []
+}

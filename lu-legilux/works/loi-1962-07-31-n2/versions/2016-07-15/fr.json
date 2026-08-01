@@ -1,0 +1,296 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/03/2026 : Loi du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable au Grand-Duché de Luxembourg à partir du réservoir d’Esch-sur-Sûre.",
+  "valid_from": "2016-07-15",
+  "valid_to": "2026-03-02",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1962-07-31-n2/versions/2016-07-15/fr.xml",
+    "sha256": "338b4d82754c1e725c9ee75caacf50b2fceebb78054c55025e494b192be196fc",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/consolide/20160715/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_1er/20160715",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "L’État, le syndicat des eaux du sud, le syndicat de distribution d’eau des Ardennes, le syndicat pour la distribution de l’eau dans la région de l’est, le syndicat des eaux du centre et la ville de Luxembourg sont autorisés à se constituer en syndicat pour l’établissement, l’entretien et l’exploitation de tous les ouvrages, installations mécaniques et canalisations destinés à la conduite d’eau potable provenant des eaux puisées dans le réservoir d’Esch-sur-Sûre et de captage d’eaux souterraines.\n\nPour autant qu’il n’y est pas dérogé par la présente loi, les dispositions de la loi du 23 février 2001 concernant les syndicats de communes sont applicables à ce syndicat.\n\nL’état sera représenté au sein du comité du syndicat par cinq délégués dont un du Ministre de l’Intérieur, un du Ministre des Finances, un du Ministre de la Santé publique, un du Ministre ayant dans ses attributions la gestion de l’eau et un du Ministre des Travaux publics. L’un de ces délégués assumera la présidence du comité; il sera désigné par le Gouvernement en Conseil. Le délégué du ministre ayant les Travaux publics dans ses attributions dispose d’une voix consultative et ne peut pas exercer la fonction de président du syndicat.\n\nChaque fois qu’il y aura renouvellement des conseils communaux à la suite d’élections générales, il sera procédé à la désignation d’un nouveau comité.»",
+      "text_sha256": "7e6047be41cc3f3f5c9cc375664c5f6cc6d11e717f8979d80b66381c080f0f40",
+      "md_span": {
+        "start": 684,
+        "end": 2054
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2001/02/23/n2/jo",
+          "text": "loi du 23 février 2001"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_2/20160715",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "D’autres communes ou syndicats de communes peuvent adhérer au syndicat sur leur demande et sont regroupés dans les groupements régionaux du Centre et de l’Est. La décision d’adhésion est prise pour les communes par le conseil communal et pour les syndicats de communes par le comité de ces syndicats. Le comité du syndicat détermine les conditions et modalités de leur admission, qui sont approuvées par le Gouvernement en Conseil.\n\nPour des raisons techniques ou économiques, cette admission peut être étendue, par voie de règlement grand-ducal, à d’autres communes ou syndicats de communes de la même région, après consultation des communes ou syndicats concernés et du SEBES.\n\nLes délibérations qui précèdent prennent les mesures propres à maintenir le principe de la parité de voix entre les membres délégués de l’État et du secteur communal.\n\nL’adhésion des nouveaux membres est faite pour toute la durée du syndicat.\n\nChaque membre du syndicat peut nommer des suppléants au même nombre que ses délégués effectifs au syndicat.",
+      "text_sha256": "dba26672515151095a388e5a97be91f2128ad0a88dd2d258c8dc37b1e3a68d33",
+      "md_span": {
+        "start": 2089,
+        "end": 3120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_3/20160715",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Durant la période de construction précédant la mise en exploitation des installations le siège du syndicat est fixé à Luxembourg. Après cette période, il sera transféré sur le territoire de la commune d’Esch-sur-Sûre. Le montant de ce transfert sera déterminé par arrêté du ministre de l’Intérieur.",
+      "text_sha256": "3556d36643f1945575194697e1538a262e990741504f24ad00a80e4843c3ae55",
+      "md_span": {
+        "start": 3155,
+        "end": 3453
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_5/20160715",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Le syndicat jouit de l’exemption de l’impôt commercial communal et de l’impôt sur le revenu des collectivités.",
+      "text_sha256": "79dad56ac248dc1218194a3b51eb1de8f2a0cabf8066fe39bf2e0330ceae6e07",
+      "md_span": {
+        "start": 3488,
+        "end": 3598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_6/20160715",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Le syndicat est autorisé à créer à partir du réservoir d’Esch-sur-Sûre les installations de conduite de l’eau vers les différentes parties du pays; il est encore autorisé à construire et à exploiter une station de traitement de l’eau, selon des plans à approuver par les Ministres de l’Intérieur et des Travaux publics.",
+      "text_sha256": "52ad57659aa31e6d3ea0db7a699c4049f07af5c6a7161da14f1aca39215cece8",
+      "md_span": {
+        "start": 3633,
+        "end": 3952
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_7/20160715",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Aux fins visées par l’article 6 le syndicat est habilité à faire gratuitement usage du domaine public et privé de l’État et des communes pour l’établissement, l’entretien et l’exploitation de tous ouvrages destinés à l’adduction de l’eau au réservoir.",
+      "text_sha256": "afc9ca6935738c6abca2ba91245e374ecfd0f424e03972663e0076512455dd04",
+      "md_span": {
+        "start": 3987,
+        "end": 4238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_8/20160715",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "L’exécution des travaux à réaliser par le syndicat pourra être confié aux services et administrations techniques des ministères représentés au syndicat.",
+      "text_sha256": "fbc32529f202b4f01e891b65dfddf31830611f27a72412ba8da79bc84af0a61f",
+      "md_span": {
+        "start": 4273,
+        "end": 4425
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_9/20160715",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Les travaux, installations mécaniques et ouvrages nécessaires à l’établissement et à l’exploitation de la conduite d’eau sont déclarés d’utilité publique et dispensés de l’autorisation prévue par l’arrêté royal grand-ducal du 17 juin 1872 concernant le régime de certains établissements dangereux, insalubres ou incommodes.",
+      "text_sha256": "ab4ec77586e7869cf6c36ecd5b8fd3a4f7b39bd84d0b732995e8e16ecde040d0",
+      "md_span": {
+        "start": 4460,
+        "end": 4783
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/argd/1872/06/17/n1/jo",
+          "text": "arrêté royal grand-ducal du 17 juin 1872"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_10/20160715",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "S’il y a lieu à expropriation, il y est procédé conformément aux dispositions de la loi du 15 mars 1979 sur l’expropriation pour cause d’utilité publique au nom et aux frais de l’exploitant.",
+      "text_sha256": "1369a41099f2fbd5e0e8f855aca4e7e0598b266842b1cb942e7275786a08160c",
+      "md_span": {
+        "start": 4820,
+        "end": 5010
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/03/15/n3/jo",
+          "text": "loi du 15 mars 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_11/20160715",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Le syndicat aura en outre le droit:\n\n- d’installer des canalisations d’eau dans des terrains privés, non bâtis;\n- d’assurer la surveillance de ces canalisations;\n- de procéder aux travaux d’entretien et de réfection.\n\nL’exécution des travaux prévus sous le numéro 1 ci-dessus doit être précédée d’une notification directe aux intéressés et d’une enquête dont la procédure sera déterminée par règlement grand-ducal. Elle ne peut avoir lieu qu’après approbation du projet de détail des tracés par les Ministres de l’Intérieur et des Travaux publics.\n\nSans préjudice des droits résultant de l’établissement des canalisations dans un terrain ouvert et non bâti, le propriétaire peut le clôturer, y élever des constructions et y faire des plantations ou en exploiter le sous-sol.\n\nSix mois avant d’entreprendre les travaux de clôture, de construction, de plantation ou d’exploitation du sous-sol, le propriétaire devra en informer le syndicat.\n\nLes indemnités dues pour le dommage résultant de l’exercice des droits prévus sub 1 à 3 ci-dessus sont fixées, soit par arrangement à l’amiable, soit en cas de désaccord, par le juge de paix du canton du fonds assujetti qui statuera en dernier ressort dans les limites de sa compétence ordinaire et à charge d’appel, quelle que soit la valeur de l’objet en litige.",
+      "text_sha256": "5dc74f6d07d25a3fcac29bc3de88c10ba6712799b4de65cc6cff6738217ca3c1",
+      "md_span": {
+        "start": 5047,
+        "end": 6351
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_12/20160715",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Toute infraction à l’avant-dernier alinéa de l’art. 11 et aux règlements d’administration publique pris en exécution de la présente loi sera punie d’un emprisonnement de huit jours à trois mois et d’une amende de 251 à 5.000 euros ou une de ces peines seulement.\n\nLa disposition de l’article 523 du code pénal est applicable aux faits de dégradation ou de destruction volontaire des ouvrages et des installations mécaniques créées par le syndicat et servant au stockage, au transport et à la distribution de l’eau.\n\nL’article 563, 5°, du code pénal est applicable à ceux qui, par défaut de précaution, auront involontairement détruit ou dégradé les ouvrages et installations visés à l’alinéa qui précède.\n\nLe livre 1er du code pénal et les articles 130-1 à 132-1 du code d’instruction criminelle sont applicables aux infractions prévues par la présente loi.",
+      "text_sha256": "49bb8f197f8fb99669c0b5f32acfb62381f882443ce70778e2ea42dd180f33c3",
+      "md_span": {
+        "start": 6388,
+        "end": 7245
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_13/20160715",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Les dépenses résultant de l’exécution des travaux projetés sont à charge du syndicat. L’État en supportera la moitié.\n\nLe syndicat fera l’avance de la part de l’État. Ce dernier en fera le remboursement en capital et intérêts au moyen de crédits qui seront inscrits aux budgets de différents exercices.\n\nL’État est autorisé à garantir pour un montant total ne pouvant dépasser 9.915.741 euros les emprunts à contracter par le syndicat, soit à l’intérieur du pays, soit à l’étranger.\n\nLe Gouvernement est autorisé à participer jusqu’à concurrence de 50 % au financement des ouvrages visés à l’alinéa 2 de l’article 6.",
+      "text_sha256": "e1c8d670aa6b88a6205614e79088542b6a08434f881067810de1b2e2a4efd719",
+      "md_span": {
+        "start": 7282,
+        "end": 7898
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/art_14/20160715",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-15",
+      "text_md": "Sans préjudice des dispositions de l’alinéa 2 de l’article 2 de la loi du 14 février 1900 précitée, les actes portant approbation des budget, compte et bilan du syndicat, ainsi que toutes autres décisions du comité du syndicat, dont l’application est susceptible de grever le budget de l’État, doivent porter le contreseing du ministre des Finances. Pour les vérifications périodiques et approfondies de la caisse et de la comptabilité du syndicat, l’organe de contrôle prévu à l’article 2 de la loi du 6 avril 1920, portant réorganisation du service de contrôle des caisses et de la comptabilité des communes et des établissements publics, sera assisté par un fonctionnaire du ministère des Finances.",
+      "text_sha256": "856eb0455d6d0319cc2170b107e1acbc7dfb46510e69ec233127998a59ce8e75",
+      "md_span": {
+        "start": 7935,
+        "end": 8636
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1900/02/14/n5/jo",
+          "text": "loi du 14 février 1900"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1920/04/06/n1/jo",
+          "text": "loi du 6 avril 1920"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1962-07-31-n2:2016-07-15#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**(1)** Il est institué un comité d’accompagnement pour chaque projet d’investissement faisant l’objet d’une loi spéciale autorisant la participation financière de l’État.\n\n**(2)** Ce comité se compose de représentants du ministre ayant la Gestion de l’eau dans ses attributions, du ministre ayant le Budget dans ses attributions, du ministre ayant l’Intérieur dans ses attributions et du syndicat SEBES.\n\n**(3)** Le comité peut se faire assister par des experts.\n\n**(4)** Le comité est présidé par un représentant du ministre ayant la Gestion de l’eau dans ses attributions.\n\n**(5)** Le comité a pour mission de suivre la mise au point des projets d’investissement et leur exécution sur les plans technique, financier et budgétaire. Il peut à cet effet adresser ses observations sous forme de rapports au ministre ayant la Gestion de l’eau dans ses attributions.\n\n**(6)** Un règlement grand-ducal précise les modalités de fonctionnement du comité.",
+      "text_sha256": "9a2050f6444f54866ef926540e5a6469902c3f16e6b91b95433c963acd12d279",
+      "md_span": {
+        "start": 8673,
+        "end": 9621
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

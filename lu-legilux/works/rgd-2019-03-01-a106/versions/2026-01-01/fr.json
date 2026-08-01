@@ -1,0 +1,249 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 1er mars 2019 sur les modalités d’attribution d’une allocation de reconnaissance aux pompiers volontaires du Corps grand-ducal d’incendie et de secours.",
+  "valid_from": "2026-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2019-03-01-a106/versions/2026-01-01/fr.xml",
+    "sha256": "d261b094b0e45e9891cd93ec1b8bb8bf0d7e910da3e1291174a9c27a49d3f0c8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/consolide/20260101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_1er/20190309",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Le Corps grand-ducal d’incendie et de secours, ci-après dénommé « CGDIS », est chargé du paiement de l’allocation de reconnaissance prévue à l’article 40 de la loi du 27 mars 2018 portant organisation de la sécurité civile.",
+      "text_sha256": "9d1585d94fbf727b16f440cd4f74b29e11a0a4ed3b564db153fffc69d321a9ee",
+      "md_span": {
+        "start": 703,
+        "end": 926
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "loi du 27 mars 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_2/20190309",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Au sens du présent règlement, on entend par :\n\n1. « demandeur » : un vétéran du CGDIS, qui adresse une demande au CGDIS pour obtenir l’allocation de reconnaissance ;\n2. règlement grand-ducal du 15 juin 2018\n3. règlement grand-ducal du 15 juin 2018\n4. « temps de service » : service effectué par le pompier calculé suivant les modalités définies à l’article 5 ;\n5. règlement grand-ducal du 15 juin 2018",
+      "text_sha256": "df592aa182f69aae81711b82fd93e683c1ac6fc763154e8fc2cbc86a17cab5a1",
+      "md_span": {
+        "start": 961,
+        "end": 1362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_3/20190309",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Est éligible pour l’obtention de l’allocation de reconnaissance par le CGDIS, tout vétéran, qui au moment de sa demande a effectué au moins quinze ans de service conformément à l’article 40 de la loi précitée du 27 mars 2018.",
+      "text_sha256": "bf5e138e5e0f955b3bedeb47cc6f4944bdfa7c13da549d82c4cf060014981147",
+      "md_span": {
+        "start": 1397,
+        "end": 1622
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/03/27/a221/jo",
+          "text": "loi précitée du 27 mars 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_4/20240101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Le montant annuel de l’allocation de reconnaissance est déterminé sur base des éléments suivants :\n\n1. le temps de service, calculé suivant les modalités prévues à l’article 5 ;\n2. loi précitée du 27 mars 2018\n3. **Temps de service****Montant annuel**> 15 ans€ 260,00> 20 ans€ 360,00> 25 ans€ 460,00> 30 ans€ 560,00> 35 ans€ 660,00",
+      "text_sha256": "b7827ecb9dc389a565a98bae3fbb61b83194f02e4db34a2957651c0d6d44cdf5",
+      "md_span": {
+        "start": 1657,
+        "end": 1988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_5/20190309",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Au moment de la demande pour l’obtention de l’allocation de reconnaissance, le conseil d’administration du CGDIS vérifie le temps de service effectué par le pompier volontaire, calculé à partir de sa nomination.\n\nLe temps de service effectué par le vétéran est exprimé en années et en mois, les mois sont ajustés vers le haut.\n\nLe temps de service est calculé en additionnant :\n\n1. la période pendant laquelle le demandeur appartenait à la catégorie des pompiers volontaires opérationnels ;\n2. la moitié de la période pendant laquelle le demandeur appartenait à la catégorie des pompiers volontaires de support.",
+      "text_sha256": "720180916532bef6bdf8b1c74bf35750456351a0a207375ba34170b24b37a94f",
+      "md_span": {
+        "start": 2023,
+        "end": 2634
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_6/20190309",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Le demandeur adresse une demande unique pour l’obtention de l’allocation de reconnaissance par le biais d’un formulaire mis à disposition par le CGDIS prévu à cet effet.\n\nLa demande doit être introduite avant le 30 novembre de l’année lors de laquelle le demandeur a adhéré aux vétérans.\n\nLa demande produit ses effets jusqu’à la fin de l’adhésion du demandeur au CGDIS.",
+      "text_sha256": "5fb641b1577a4413b99d9ab4e23068093127777f932e1a948ea9852cff75d3d1",
+      "md_span": {
+        "start": 2669,
+        "end": 3039
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_7/20190309",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Le conseil d’administration du CGDIS vérifie annuellement la liste des vétérans, qui doit être validée par les chefs de centre ou de groupe.",
+      "text_sha256": "694b872c742f6a436eea6c5abdc68393631fbff3a33d5cbba3db58d22b531643",
+      "md_span": {
+        "start": 3074,
+        "end": 3214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_8/20190309",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Le paiement de l’allocation de reconnaissance est effectué annuellement par virement sur le compte bancaire du vétéran.\n\nToute demande de changement de compte bancaire est à adresser au directeur administratif et financier du CGDIS par écrit au moins un mois avant l’échéance du prochain paiement.",
+      "text_sha256": "a46cc88423ac11b374acc55e62fb81365dc87a0880dd96691316e637e8e577b0",
+      "md_span": {
+        "start": 3249,
+        "end": 3546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_9/20190309",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Le paiement de l’allocation de reconnaissance prend fin, soit à la fin de l’adhésion au CGDIS, soit à la suite du décès du pompier volontaire.",
+      "text_sha256": "8e96ab7f10eb9f7a1db2080ff2eb7a412829d5accd10aa32075789dcba4ac01a",
+      "md_span": {
+        "start": 3581,
+        "end": 3723
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_10/20190309",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Pour les agents visés aux articles 26 à 28 du règlement grand-ducal du 15 juin 2018 relatif aux pompiers volontaires du Corps grand-ducal d’incendie et de secours, la période pendant laquelle ils ont exercé des activités opérationnelles est prise en compte pour le calcul du temps de service tel que prévu à l’article 5.",
+      "text_sha256": "879d34dfca09b1bd0fbb7445e52f5eb02e554589a28a33a286c87abeefc015ed",
+      "md_span": {
+        "start": 3760,
+        "end": 4080
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/06/15/a536/jo",
+          "text": "règlement grand-ducal du 15 juin 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_11/20260101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-01-01",
+      "text_md": "Par dérogation à l’article 4, les agents visés aux articles 29 et 30 du règlement grand-ducal du 15 juin 2018 relatif aux pompiers volontaires du Corps grand-ducal d’incendie et de secours sont éligibles au paiement d’une allocation de reconnaissance annuelle forfaitaire de 520 euros. Pour l’année 2018, ce montant s’élève à 180 euros.",
+      "text_sha256": "d2756dbee9293422c3d7dc2861d8a692f7ff09507915148f747db5f809249459",
+      "md_span": {
+        "start": 4117,
+        "end": 4453
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/06/15/a536/jo",
+          "text": "règlement grand-ducal du 15 juin 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a106:2026-01-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a106/art_12/20190309",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-09",
+      "text_md": "Notre ministre de l'Intérieur est chargé de l'exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "cfacb5dc8705a6feb3108851a721253febf2625ed52f93713500ed3dfdf1ffc5",
+      "md_span": {
+        "start": 4490,
+        "end": 4632
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,166 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/09/2016 : Règlement grand-ducal du 14 septembre 1963 déterminant la procédure d’enquête préalable à l’exécution des travaux visés à l’article 11 de la loi du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable du Grand-Duché de Luxembourg à partir du réservoir d’Esch-sur-Sûre.",
+  "valid_from": "2016-09-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1963-09-14-n1/versions/2016-09-02/fr.xml",
+    "sha256": "e67be89f866fa2d1947057caf246b0b7e14bbf7bb073a00aecad3d7ee67e1c21",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/consolide/20160902/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/art_1er/19631004",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1963-10-04",
+      "text_md": "Avant de procéder à l’exécution des travaux visés à l’article 11, alinéa premier, sub 1), de la loi du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable du Grand-Duché de Luxembourg à partir du réservoir d’Esch-sur-Sûre, le comité du syndicat des eaux du barrage d’Esch-sur-Sûre fera dresser un projet de détail des tracés.",
+      "text_sha256": "89ccdac0817e555c35f9e8bb328a77074e2412f8752eeae59b4b4b987eba1f1a",
+      "md_span": {
+        "start": 819,
+        "end": 1174
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1962/07/31/n2/jo",
+          "text": "loi du 31 juillet 1962"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/art_2/19631004",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1963-10-04",
+      "text_md": "Ce projet indiquera les propriétés auxquelles les travaux projetés porteront atteinte, mentionnera les noms des propriétaires tels qu’ils sont inscrits sur la matrice des rôles cadastraux et renseignera sur la nature et l’étendue des travaux à exécuter.",
+      "text_sha256": "a0f6114c4adac909a81aab8c3c0a0b23d3b71996f21499a9e1b1040f40cfa17e",
+      "md_span": {
+        "start": 1209,
+        "end": 1462
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/art_3/19631004",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1963-10-04",
+      "text_md": "Le projet restera déposé pendant quinze jours au siège du syndicat et au secrétariat de chacune des communes sur les territoires desquelles passera la conduite d’adduction projetées, où tous ceux qui sont intéressés pourront en prendre connaissance sans déplacement et sans frais.\n\nLe délai fixé à l’alinéa qui précède ne court qu’à partir du jour de la notification donnée par lettre recommandée aux parties intéresées.",
+      "text_sha256": "e25f0c828219a95e63001fa6935741ff6b8d1b1349fdfecf1d3db263086e095b",
+      "md_span": {
+        "start": 1497,
+        "end": 1917
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/art_4/20160902",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-02",
+      "text_md": "Les intéressés adresseront au collège des bourgmestre et échevins de l’une des communes concernées leurs observations éventuelles par écrit et dans les quinze jours à dater de la notification mentionnée à l’article qui précède.",
+      "text_sha256": "c063624e87ebc4a6214fd6c4fbd182d66511c2a084b2c5c9d813380e16eee016",
+      "md_span": {
+        "start": 1952,
+        "end": 2179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/art_5/20160902",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-02",
+      "text_md": "À l’expiration dudit délai de quinze jours, le collège des bourgmestre et échevins de l’une des communes concernées transmet les pièces avec les observations éventuelles des personnes intéressées au syndicat.",
+      "text_sha256": "3fabf470097acbdb9ff44c29ff12e0ee18f28e2782e3b22ac6480f3f2b5bbcca",
+      "md_span": {
+        "start": 2214,
+        "end": 2422
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/art_6/20160902",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-02",
+      "text_md": "Si à la suite de ces observations et de l’avis de la prédite commission le comité du syndicat décide d’opérer des changements au projet, il devra, dans la forme indiquée par l’article 3 du présent arrêté, en donner notification aux propriétaires que ces changements pourront intéresser.\n\nPendant quinze jours, à dater de cette notification, le projet restera déposé au siège du syndicat et au secrétariat de chacune des communes sur le territoire desquelles passera la conduite d’adduction projetée pour que les parties intéressées puissent en prendre communication comme il est dit à l’article 3, et fournir leurs observations écrites dans le délai fixé à l’article 4 du présent arrêté.",
+      "text_sha256": "1c8feb8a985dbf3356628ae0968d695905fa53826bfd6580a85f8c324c499db8",
+      "md_span": {
+        "start": 2457,
+        "end": 3144
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/art_7/19631004",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1963-10-04",
+      "text_md": "Le comité du syndicat transmettra le projet de détail des tracés ensemble avec sa décision et les observations écrites des propriétaires aux ministres de l’intérieur, de la santé publique, et des travaux publics.",
+      "text_sha256": "7cbc92a1cf971b38dbcb7fb24fbf28a3d3f6c9a5e881170ad53334b007e1d5ae",
+      "md_span": {
+        "start": 3179,
+        "end": 3391
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1963-09-14-n1:2016-09-02#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/art_8/19631004",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1963-10-04",
+      "text_md": "Nos ministres de l’intérieur, de la santé publique et des travaux publics sont chargés de l’exécution du présent arrêté qui sera publié au Mémorial.",
+      "text_sha256": "279a01360324ff5d703cdaa46813f68e08a470cc16c2c17b34941fde09f000b7",
+      "md_span": {
+        "start": 3426,
+        "end": 3574
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

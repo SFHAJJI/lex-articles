@@ -1,0 +1,2346 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/04/2022 : Loi du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données.",
+  "valid_from": "2020-04-07",
+  "valid_to": "2022-04-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2001-04-18-n2/versions/2020-04-07/fr.xml",
+    "sha256": "50489c8b03e5c9fc26d82611b4fefb6f905da645814745e71a584144712b188d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20200407/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_1er/20040503",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "**1.** Les droits d'auteur protègent les œuvres littéraires et artistiques originales, quels qu'en soient le genre et la forme ou l'expression, y compris les photographies, les bases de données et les programmes d'ordinateur.\n\nIls ne protègent pas les idées, les méthodes de fonctionnement, les concepts ou les informations, en tant que tels.\n\n**2.** Sont des bases de données au sens des 1re et 6ème parties de la présente loi, les recueils ou compilations d'œuvres ou d'autres éléments indépendants, disposés de manière systématique ou méthodique et individuellement accessibles par des moyens électroniques ou d’une autre manière.\n\nSont protégées par les droits d’auteur les bases de données qui originales dont la structure, par le choix ou la disposition des éléments qu'elles contiennent, constituent une création intellectuelle propre à leur auteur, qu'elles soient accessibles par des moyens électroniques ou par d'autres moyens, à l'exclusion des phonogrammes et des œuvres audiovisuelles.\n\nLa protection des bases de données par les droits d’auteur ne s'étend pas à leur contenu ni aux programmes d'ordinateur utilisés le cas échéant pour leur création, leur fonctionnement ou leur consultation, sans préjudice de la protection propre de ces éléments.",
+      "text_sha256": "615861598a140f491fc20c50372b01365794b9fb094c98b33c0593a619672d24",
+      "md_span": {
+        "start": 699,
+        "end": 1960
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_2/20010503",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Indépendamment des droits patrimoniaux, et même après la cession desdits droits, l'auteur jouit du droit de revendiquer la paternité de son œuvre et du droit de s'opposer à toute déformation, mutilation ou autre modification de celle-ci ou à toute autre atteinte à son œuvre, préjudiciables à son honneur ou à sa réputation.\n\nL'auteur a seul le droit de divulguer son œuvre.",
+      "text_sha256": "2c216e2b781981263a115b1cd8c17d9157320248b440c3cd6918725587f493f9",
+      "md_span": {
+        "start": 1995,
+        "end": 2369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_3/20040503",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "**1.** L'auteur jouit du droit exclusif d'autoriser la reproduction de son œuvre, de quelque manière et sous quelque forme que ce soit.\n\n**2.** Le droit de reproduction comporte pour l'auteur le droit exclusif d'autoriser l'adaptation, l'arrangement ou la traduction de son œuvre.\n\n**3.** Le droit de reproduction comprend le droit exclusif pour l'auteur d'autoriser l'intégration et l'extraction de son œuvre dans ou à partir d'une base de données.\n\n**4.** L'auteur d'une œuvre jouit du droit exclusif d'autoriser la location et le prêt de l'original et des copies de son œuvre.\n\n**5.** L'auteur d'une œuvre jouit du droit exclusif d'autoriser toute forme de distribution au public, par la vente ou autrement, de l'original de son œuvre ou de copies de celle-ci.\n\nCe droit de distribution relatif à l'original ou à des copies d'une œuvre n'est épuisé à l'intérieur de l'Union européenne qu'en cas de première vente ou premier autre transfert de propriété dans l'Union européenne de cet objet par le titulaire du droit ou avec son consentement.",
+      "text_sha256": "298e78f84920d6b5a0e37683c6d94401b80afbecf457d530152eed70d80ba1a0",
+      "md_span": {
+        "start": 2404,
+        "end": 3448
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_4/20010503",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "L'auteur d'une œuvre jouit du droit exclusif d'autoriser sa communication au public par un procédé quelconque, y compris sa transmission par fil ou sans fil, par le moyen de la radiodiffusion, par satellite, par câble ou par réseau.\n\nConstitue également une communication au public la mise à la disposition d'œuvres protégées de manière que le public puisse y avoir accès de l'endroit et au moment qu'il choisit individuellement.",
+      "text_sha256": "cdace3f9aff344891dfeafffb4807abb9a488b8fe8bd5b4f73ff6f2f27bddc1e",
+      "md_span": {
+        "start": 3483,
+        "end": 3912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_5/20010503",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** Lorsque les droits d'auteur sont indivis, leur exercice est réglé par convention. A défaut de convention, aucun des coauteurs ne peut les exercer isolément, sauf aux tribunaux à se prononcer en cas de désaccord.\n\n**2.** Toutefois, chacun des coauteurs reste libre de poursuivre en son nom et sans l'intervention des autres, l'atteinte qui serait portée aux droits d'auteur et de réclamer des dommages et intérêts pour sa part à condition de mettre en cause les autres coauteurs.\n\n**3.** Lorsque la contribution des coauteurs dans l'œuvre de collaboration peut être individualisée, chacun d'eux pourra, sauf convention contraire, exploiter isolément sa contribution personnelle pour autant que cette exploitation ne se fasse pas avec celle d'un autre coauteur et qu'elle ne porte pas préjudice à l'œuvre commune.",
+      "text_sha256": "8cce1c05a33fa9d9c2591a23d3a3e9deb0eb2ff813d6e8491190665bbd4cfc93",
+      "md_span": {
+        "start": 3947,
+        "end": 4765
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_6/20010503",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Est dite «œuvre dirigée», l'œuvre créée par plusieurs auteurs à l'initiative et sous la direction d'une personne physique ou morale qui l'édite ou la produit et la divulgue sous son nom, et dans laquelle la contribution des auteurs participant à son élaboration est conçue pour s'intégrer dans cet ensemble.\n\nSauf disposition contractuelle contraire, la personne physique ou morale sous le nom de laquelle l'œuvre dirigée a été divulguée est investie à titre originaire des droits patrimoniaux et moraux d'auteur sur l'œuvre.",
+      "text_sha256": "3804dcb113be474be828a2c8c82b8484ebfc782ddd1cd4460e920060a2766e2b",
+      "md_span": {
+        "start": 4800,
+        "end": 5325
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_7/20010503",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La qualité d'auteur appartient, sauf preuve contraire, à celui ou à ceux sous le nom de qui l'œuvre est divulguée.\n\nL'éditeur d'une œuvre anonyme ou pseudonyme est réputé, à l'égard des tiers, représentant l'auteur.",
+      "text_sha256": "a0c0c3eb69c0788600a3cc42e451765355a895adc46cbf687d24c00de38e1b60",
+      "md_span": {
+        "start": 5360,
+        "end": 5575
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_8/20010503",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Après le décès de l'auteur, ses droits sont exercés par ses héritiers et ayants droit.",
+      "text_sha256": "36448d5691bb4e7bbdfd94416c91f274d47fbb9eae4bf95cd5a737b194839788",
+      "md_span": {
+        "start": 5610,
+        "end": 5696
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_9/20150217",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2015-02-17",
+      "text_md": "**1.** Les droits d'auteur se prolongent pendant 70 ans après le décès de l'auteur au profit de ses héritiers et de ses ayants droit.\n\n**2.** Lorsque l'œuvre est le produit d'une collaboration telle que les apports des collaborateurs sont inséparables, les droits d'auteurs existent au profit de tous les ayants droit jusque 70 ans après la mort du dernier survivant des collaborateurs.\n\nLa protection d'une composition musicale comportant des paroles prend fin 70 ans après la mort du dernier survivant parmi les personnes suivantes, que ces personnes soient ou non désignées comme coauteurs: l'auteur des paroles et le compositeur de la composition musicale, à condition que leurs contributions aient été spécialement créées pour ladite composition musicale comportant des paroles.\n\nLa protection d'une œuvre audiovisuelle prend fin 70 ans après le décès du dernier survivant parmi les personnes suivantes: le réalisateur principal, les auteurs du scénario, des dialogues et des compositions musicales, avec ou sans paroles, spécialement créées pour être utilisées dans l'œuvre, qu'ils soient coauteurs ou non.\n\n**3.** La durée des droits d'auteur sur les œuvres anonymes, pseudonymes et dirigées est de 70 ans à compter du jour où l'œuvre a été licitement rendue accessible au public.\n\nCette durée court pour chaque élément séparément si l'œuvre est publiée par volumes, parties, fascicules, numéros ou épisodes.\n\nSi l'identité de l'auteur de l'œuvre anonyme ou pseudonyme est établie, l'auteur ou ses ayants droit peuvent revendiquer la protection pendant toute la durée visée au paragraphe 1.\n\n**4.** Toute personne qui, après l'expiration de la protection par les droits d'auteur, publie ou communique licitement au public, pour la première fois, une œuvre non publiée auparavant, est investie de droits patrimoniaux équivalant à ceux dont bénéficie l'auteur, pendant une durée de 25 ans à compter du moment où l'œuvre a été pour la première fois publiée ou communiquée au public.\n\n**5.** Les durées indiquées dans le présent article sont calculées à partir du 1er janvier qui suit le fait générateur.",
+      "text_sha256": "36c19a88c37580defc91e7e325b19fe285db4a5a0c1c3246a1b6eeaf0e641a50",
+      "md_span": {
+        "start": 5731,
+        "end": 7838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_10/20040503",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 2 — Des exceptions aux droits d'auteur"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Lorsque l'œuvre, autre qu’une base de données, a été licitement rendue accessible au public, l'auteur ne peut interdire:\n\n1. Les utilisations visées à l'alinéa ci-avant ne peuvent être faites sans l'autorisation de l'auteur que pour autant qu'elles soient conformes aux bons usages, qu'elles ne poursuivent pas un but de lucre, qu’elles soient justifiées par le but poursuivi et qu'elles ne portent atteinte ni à l'œuvre ni à son exploitation. Le nom de l'auteur et le titre de l'œuvre reproduite ou citée doivent être mentionnés s'ils figurent dans la source.\n2. la reproduction et la communication au public de courts fragments d’œuvres à titre exclusif d'illustration de l'enseignement ou de la recherche scientifique dans la mesure justifiée par le but non commercial poursuivi et sous réserve qu'une telle utilisation soit conforme aux bons usages et que, à moins que cela ne s’avère impossible, la source, y compris le nom de l’auteur, soit indiquée.\n3. la reproduction et la communication au public, dans un but d'information, de courts fragments d'œuvres ou d'œuvres plastiques dans leur intégralité à l'occasion de comptes rendus d'événements de l'actualité dans la mesure justifiée par le but d’information poursuivi et sous réserve d’indiquer, à moins que cela ne s’avère impossible, la source, y compris le nom de l’auteur.\n4. Les conditions de fixation et de perception, ainsi que le niveau de cette compensation sont fixés par règlement grand-ducal.\n5. la reproduction provisoire, qui est transitoire ou accessoire, qui constitue une partie intégrante et essentielle d’un procédé technique, qui n’a pas de signification économique indépendante et dont l’unique finalité est de permettre une transmission dans un réseau entre tiers par un intermédiaire ou une utilisation licite d’une œuvre.\n6. la caricature, la parodie ou le pastiche qui a pour but de railler l'œuvre parodiée, à la condition qu'ils répondent aux bons usages en la matière et notamment qu'ils n'empruntent que les éléments strictement nécessaires à la caricature et ne dénigrent pas l'œuvre.\n7. la reproduction et la communication d'œuvres situées dans un lieu accessible au public, lorsque ces œuvres ne constituent pas le sujet principal de la reproduction ou de la communication.\n8. les actes officiels de l'autorité et leur traduction officielle, ainsi que les discours prononcés dans les assemblées délibérantes, dans les audiences publiques des tribunaux ou dans les réunions politiques. Toutefois, l'auteur a seul le droit de tirer à part ou de réunir en recueil ses discours.\n9. Les enregistrements visés à l'alinéa précédent peuvent être conservés dans des archives officielles s'ils possèdent un caractère exceptionnel de documentation. Les modalités de cette conservation seront fixées par un règlement grand-ducal.\n10. la reproduction d'une œuvre licitement accessible au public, réalisée par une bibliothèque accessible au public, un établissement d’enseignement, un musée ou une archive qui ne recherchent aucun avantage commercial ou économique direct ou indirect dans le seul but de préserver le patrimoine et d'effectuer tous travaux raisonnablement utiles à la sauvegarde de cette œuvre, à condition de ne pas porter atteinte à l'exploitation normale desdites œuvres et de ne pas causer de préjudice aux intérêts légitimes des auteurs, ainsi que la communication publique des œuvres audiovisuelles par ces institutions dans le but de faire connaître le patrimoine culturel, à condition que cette communication soit analogique et se fasse dans l'enceinte de l'institution.\n11. la reproduction et la communication au public d’œuvres au bénéfice de personnes affectées d'un handicap, qui sont directement liées au handicap en question et sont de nature non commerciale, dans la mesure requise par ledit handicap.\n12. l’utilisation à des fins de sécurité publique ou pour assurer le bon déroulement de procédures administratives, parlementaires ou judiciaires ou pour assurer une couverture adéquate desdites procédures.\n13. l’utilisation de courts extraits de conférences publiques ou d’œuvres similaires, dans la mesure justifiée par le but d’information poursuivi et pour autant, à moins que cela ne s’avère impossible, que la source, y compris le nom de l’auteur, soit indiquée.\n14. la communication publique, à des fins de recherches ou d’études privées, au moyen de terminaux spécialisés, à des particuliers dans l’enceinte des institutions visées au point 10° ci-dessus, d’œuvres faisant partie de leur collection qui ne sont pas soumises à des conditions en matière d’achat ou de licence.\n\nLes exceptions énumérées ci-dessus ne peuvent porter atteinte à l’exploitation normale de l’œuvre, ni causer un préjudice injustifié aux intérêts légitimes de l’auteur.",
+      "text_sha256": "d2315c5446453235a91bff71d0ea5f58728776fc53b927be3fc9711fc55dda8a",
+      "md_span": {
+        "start": 7927,
+        "end": 12689
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10bis",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_10bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_10bis/20040503",
+      "type": "article",
+      "num": "Art. 10bis.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 2 — Des exceptions aux droits d'auteur"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "L’auteur d’une base de données ne peut interdire:\n\n1. Toute disposition contractuelle contraire à la présente disposition est nulle.\n2. les reproductions à des fins privées d’une base de données non électronique.\n3. les utilisations à des fins d’illustration de l’enseignement ou de recherche scientifique, sous réserve d’indiquer la source et dans la mesure justifiée par le but non commercial poursuivi.\n4. les utilisations à des fins de sécurité publique ou aux fins d’une procédure administrative ou juridictionnelle.\n5. la reproduction de tout ou d’une partie d'une base de données appartenant à l'Etat pour autant qu'elle soit licitement rendue publique. Les conditions de la reproduction sont fixées par règlement grand-ducal.",
+      "text_sha256": "bfe32ba1e5580ef6321405ff051d324df1727503e4eb8e9af0710c55e4fab7e6",
+      "md_span": {
+        "start": 12732,
+        "end": 13465
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10ter",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_10ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_10ter/20200407",
+      "type": "article",
+      "num": "Art. 10ter.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 2 — Des exceptions aux droits d'auteur"
+      ],
+      "article_valid_from": "2020-04-07",
+      "text_md": "**1.** Aux fins du présent article, on entend par :\n\n1. « œuvre ou autre objet » : une œuvre prenant la forme d’un livre, d’une revue, d’un journal, d’un magazine ou d’un autre type d’écrit, de notations, y compris les partitions de musique, ainsi que les illustrations y afférentes, sur tout support, y compris sous une forme sonore, telle que les audiolivres, et dans un format numérique, protégée par le droit d’auteur ou les droits voisins et qui est publiée ou autrement mise de manière licite à la disposition du public ;\n2. 1. est aveugle ;\n2. est atteinte d’une déficience visuelle qui ne peut pas être réduite de manière à rendre la fonction visuelle sensiblement équivalente à celle d’une personne non atteinte de cette déficience et qui, de ce fait, n’est pas capable de lire des œuvres imprimées dans la même mesure, essentiellement, qu’une personne non atteinte de cette déficience ;\n3. est atteinte d’une déficience de perception ou éprouve des difficultés de lecture et qui, de ce fait, n’est pas capable de lire des œuvres imprimées dans la même mesure, essentiellement, qu’une personne qui ne serait pas atteinte d’une telle déficience ou qui n’éprouverait pas de telles difficultés ; ou\n4. est incapable, en raison d’un handicap physique, de tenir ou de manipuler un livre ou de fixer les yeux ou de les faire bouger au point de permettre en principe la lecture.\n3. « exemplaire en format accessible » : un exemplaire d’une œuvre ou d’un autre objet présenté sous une forme spéciale permettant aux personnes bénéficiaires d’avoir accès à l’œuvre ou à l’autre objet, et notamment d’y avoir accès aussi aisément et librement qu’une personne qui ne serait pas atteinte des déficiences ou du handicap ou qui n’éprouverait aucune des difficultés visés à la lettre b) ;\n4. « entité autorisée » : une entité autorisée en vertu du paragraphe 5 ou qui est autorisée ou reconnue par un État membre de l’Union européenne pour offrir aux personnes bénéficiaires, à titre non lucratif, des services en matière d’enseignement, de formation pédagogique, de lecture adaptée ou d’accès à l’information. Cette dénomination désigne aussi un établissement public ou une organisation à but non lucratif dont l’une des activités principales, obligations institutionnelles ou missions d’intérêt public est de fournir les mêmes services aux personnes bénéficiaires.\n\n**2.** L’auteur d’une œuvre ou d’un autre objet ne peut interdire au titre de l’article 1er, paragraphe 1er, de l’article 3, paragraphes 1er à 5, des articles 4, 33 et 67, paragraphe 1er, tout acte nécessaire pour que :\n\n1. toute personne bénéficiaire ou toute personne agissant au nom de celle-ci réalise un exemplaire en format accessible d’une œuvre ou d’un autre objet auquel la personne bénéficiaire a un accès licite, à l’usage exclusif de la personne bénéficiaire ; et\n2. toute entité autorisée réalise un exemplaire en format accessible d’une œuvre ou d’un autre objet auquel elle a un accès licite ou communique, mette à disposition, distribue ou prête un exemplaire en format accessible à une personne bénéficiaire ou à une autre entité autorisée, à titre non lucratif, à des fins d’utilisation exclusive par une personne bénéficiaire.\n\nChaque exemplaire en format accessible doit respecter l’intégrité de l’œuvre ou de l’autre objet, tout en tenant dûment compte des changements nécessaires pour rendre l’œuvre ou l’autre objet accessible dans le format spécial.\n\nL’exception prévue au paragraphe 2, alinéa 1er, n’est applicable que dans certains cas spéciaux qui ne portent pas atteinte à l’exploitation normale de l’œuvre ou de l’autre objet et ne causent pas un préjudice déraisonnable aux intérêts légitimes du titulaire de droits.\n\nL’article 71*quinquies*, alinéas 1er et 3 et l’article 71*sexies* s’appliquent à l’exception prévue au paragraphe 1er.\n\nToute disposition contractuelle contraire au présent article est nulle et non avenue.\n\n**3.** Toute entité autorisée sur le territoire luxembourgeois peut accomplir les actes visés au paragraphe 2, alinéa 1er, lettre b), pour une personne bénéficiaire ou une autre entité autorisée établie dans n’importe quel État membre de l’Union européenne.\n\nToute personne bénéficiaire ou toute entité autorisée établie sur le territoire luxembourgeois peut obtenir un exemplaire en format accessible ou y avoir accès auprès d’une entité autorisée établie dans n’importe quel État membre de l’Union européenne.\n\n**4.** Toute entité autorisée établie sur le territoire luxembourgeois accomplissant les actes visés au paragraphe 3 définit et suit ses propres pratiques de manière :\n\n1. à ne distribuer, communiquer et mettre à disposition des exemplaires en format accessible qu’à des personnes bénéficiaires ou à d’autres entités autorisées ;\n2. à prendre des mesures appropriées pour prévenir la reproduction, la distribution, la communication au public ou la mise à disposition du public non autorisées d’exemplaires en format accessible ;\n3. à faire preuve de toute la diligence requise lorsqu’elle traite les œuvres ou autres objets et les exemplaires en format accessible qui s’y rapportent, et à tenir un registre de ces traitements ; et\n4. à publier et à actualiser, sur son site internet le cas échéant, ou par divers autres canaux en ligne ou hors ligne, des informations sur la façon dont elle respecte les obligations prévues précédemment aux lettres a) à c).\n\nToute entité autorisée établie sur le territoire luxembourgeois accomplissant les actes visés au paragraphe 3 fournit, sur demande et de manière accessible, aux personnes bénéficiaires, aux autres entités autorisées ou aux titulaires de droits les informations suivantes :\n\n1. la liste des œuvres ou autres objets dont elle a des exemplaires en format accessible et les formats disponibles ; et\n2. le nom et les coordonnées des entités autorisées avec lesquelles elle a entrepris d’échanger des exemplaires en format accessible au titre du paragraphe 3.\n\nToute entité autorisée fournit régulièrement et sans demande préalable les informations suivantes au commissaire aux droits d’auteur et droits voisins :\n\n1. la liste des œuvres ou autres objets dont elle a des exemplaires en format accessible et les formats disponibles ; et\n2. le nom et les coordonnées des entités autorisées avec lesquelles elle a entrepris d’échanger des exemplaires en format accessible au titre du paragraphe 3.\n\n**5.** Toute entité qui fournit au commissaire aux droits d’auteur et droits voisins les informations visées au paragraphe 4, alinéa 3, est, de plein droit, autorisée à offrir aux personnes bénéficiaires, à titre non lucratif, des services en matière d’enseignement, de formation pédagogique, de lecture adaptée ou d’accès à l’information.",
+      "text_sha256": "fcccb84c765c98f42c2d2a16c2ef9b7478e155327de532aaf77319e46d41d2d8",
+      "md_span": {
+        "start": 13508,
+        "end": 20225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_11/20010503",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 2 — Des exceptions aux droits d'auteur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Indépendamment des droits patrimoniaux d'auteur, et même après la cession desdits droits, l'auteur jouit du droit de revendiquer la paternité de son œuvre et de s'opposer à toute déformation, mutilation ou autre modification de celle-ci ou à toute autre atteinte à la même œuvre, préjudiciables à son honneur ou à sa réputation.\n\nL'auteur peut céder et transmettre tout ou partie de ses droits moraux, pour autant qu'il ne soit pas porté atteinte à son honneur ou à sa réputation.",
+      "text_sha256": "925d556f9d521c29eb788a44c86482075b315b2604bdfda308079184200af3f3",
+      "md_span": {
+        "start": 20262,
+        "end": 20742
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_12/20010503",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 2 — Des exceptions aux droits d'auteur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "A l'égard de l'auteur, la cession et la transmission de ses droits patrimoniaux se prouvent par écrit et s'interprètent restrictivement en sa faveur.\n\nLa cession des droits patrimoniaux peut faire l'objet notamment d'une aliénation ou de licences.",
+      "text_sha256": "066b7b9f4fc1fdb1595877d55e57e62ace4310fdfb41025fa004888f2fa36187",
+      "md_span": {
+        "start": 20779,
+        "end": 21026
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_13/20010503",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 2 — Des exceptions aux droits d'auteur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La cession des modes d'exploitation inconnus au jour du contrat n'est autorisée que si elle fait l'objet d'une rémunération particulière.",
+      "text_sha256": "64cf5b3893654bfe615199a894f2da29e37e41f8e053d4d3e75d296d70096f14",
+      "md_span": {
+        "start": 21063,
+        "end": 21200
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_14/20010503",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 3 — Le contrat d'édition"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Constitue un contrat d'édition, le contrat par lequel l'auteur charge l'éditeur, sous la responsabilité financière de ce dernier, d'assurer la publication et la distribution publique d'exemplaires corporels de son œuvre littéraire, musicale ou graphique.",
+      "text_sha256": "689fab561956a14752f34e3d5a957903e7984d2d4f3916cc518331cd408c823d",
+      "md_span": {
+        "start": 21275,
+        "end": 21529
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_15/20010503",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 3 — Le contrat d'édition"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Le contrat d'édition doit mentionner le premier tirage ainsi que la date à laquelle les exemplaires de ce premier tirage seront mis sur le marché. Ce délai ne peut excéder une durée raisonnable à dater de l'acceptation de l'œuvre à éditer.\n\nCette acceptation doit intervenir dans les douze mois de la signature du contrat, faute de quoi l'auteur peut résilier immédiatement le contrat d'édition par pli recommandé à la poste.",
+      "text_sha256": "162c4aaa099260e9a667f506cb771a3497c70a104912da05bccbea3ea6d8d5e1",
+      "md_span": {
+        "start": 21566,
+        "end": 21991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_16/20010503",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 3 — Le contrat d'édition"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Dans le cas où l'ouvrage est épuisé, l'auteur peut mettre fin au contrat d'édition et récupérer ses droits si son ouvrage n'est pas disponible sur le marché dans un délai de 12 mois qui suit l'envoi recommandé qu'il aura adressé à l'éditeur, le mettant en demeure de rééditer son ouvrage épuisé.",
+      "text_sha256": "d27737e777b3cf9949302213ea38b20e15b876af5a19cd31245bd9555755b150",
+      "md_span": {
+        "start": 22028,
+        "end": 22323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_17/20010503",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 3 — Le contrat d'édition"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "En cas de faillite, d'octroi d'un concordat, de mise en liquidation ou de décès de l'éditeur, l'auteur peut résilier immédiatement le contrat d'édition par pli recommandé à la poste. Tous les exemplaires, copies ou reproductions qui font l'objet des droits d'auteurs doivent être offerts à l'achat à l'auteur par priorité, moyennant un prix qui, en cas de désaccord, est déterminé par le tribunal. L'auteur perd son droit de priorité s'il n'a pas fait connaître au curateur ou au liquidateur sa volonté d'en faire usage dans les 30 jours de la réception de l'offre.",
+      "text_sha256": "c543cd511dcf64df345c4da5ec30fe9fd8a25d60f88b12307bc5305126faba9b",
+      "md_span": {
+        "start": 22360,
+        "end": 22925
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_18/20010503",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 3 — Le contrat d'édition"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "L'éditeur ne peut céder le contrat d'édition à un tiers sans l'assentiment de l'auteur, sauf en cas de cession concomitante de tout ou partie de son entreprise.",
+      "text_sha256": "31759dd42c25ad3c4e676e76b77ffe12a00f09d3b961e8e70a4d09c00afece30",
+      "md_span": {
+        "start": 22962,
+        "end": 23122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_19/20010503",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 4 — Le contrat de représentation"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** Le contrat de représentation de spectacles vivants doit être conclu pour une durée limitée ou pour un nombre déterminé de communications au public.\n\n**2.** La licence exclusive accordée par un auteur à un organisateur de spectacles vivants ne peut valablement excéder 3 ans.\n\n**3.** Le bénéficiaire d'un contrat de représentation de spectacles vivants ne peut céder en tout ou en partie celui-ci à un tiers sans l'assentiment de l'auteur, sauf en cas de cession concomitante de tout ou partie de son entreprise.",
+      "text_sha256": "723ad370879c4ab1c3516dc601266e5520bbb1b8213572e21f0dae13b057d379",
+      "md_span": {
+        "start": 23205,
+        "end": 23723
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_20/20010503",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 5 — Les œuvres audiovisuelles"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Une œuvre audiovisuelle consiste à titre principal en la succession de séquences d'images animées, sonorisées ou non.\n\nEst présumé producteur de l'œuvre audiovisuelle, sauf preuve contraire, la personne physique ou morale dont le nom en tant que celui du producteur est indiqué sur ladite œuvre en la manière usitée.",
+      "text_sha256": "29c979be234510a69e523d74a8aeac4c9f179425ef47fc8d4929b5083665455a",
+      "md_span": {
+        "start": 23803,
+        "end": 24119
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_21/20010503",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 5 — Les œuvres audiovisuelles"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les auteurs de l'œuvre audiovisuelle sont le producteur et le réalisateur principal.",
+      "text_sha256": "54809feb257d15a0f848d764744bba45d8eab36d54dd47657e8ded868c7ab27a",
+      "md_span": {
+        "start": 24156,
+        "end": 24240
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_22/20010503",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 5 — Les œuvres audiovisuelles"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "L'œuvre audiovisuelle est réputée achevée lorsque la version définitive a été établie par le réalisateur et le producteur.",
+      "text_sha256": "3071c11239735db05b63338ec23530d40c4daf3a3f4d11280db734375b026972",
+      "md_span": {
+        "start": 24277,
+        "end": 24399
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_23/20010503",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 5 — Les œuvres audiovisuelles"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "L'auteur et les autres créateurs qui refusent d'achever leur contribution à l'œuvre audiovisuelle ou se trouvent dans l'impossibilité de le faire ne pourront s'opposer à l'utilisation de celle-ci en vue de l'achèvement de l'œuvre.",
+      "text_sha256": "f8f7131c600209c33a48e5feb60b4fcfd83ea7629901a419774b0640497557d1",
+      "md_span": {
+        "start": 24436,
+        "end": 24666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_24/20010503",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 5 — Les œuvres audiovisuelles"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Sauf stipulation contraire, les auteurs et les autres créateurs de l'œuvre audiovisuelle sont présumés céder au producteur à titre exclusif tous les droits d'exploitation audiovisuelle de l'œuvre, à l'exception des créateurs des compositions musicales. Cette cession comprend les droits nécessaires à cette exploitation tels le droit d'ajouter des sous-titres ou de doubler l'œuvre.\n\nL'adaptation, l'arrangement ou l'utilisation d'une œuvre préexistante doit être autorisée par son auteur.",
+      "text_sha256": "16d0aa34706d916af8a65b4dd41eb294d27d84761ea53a132fbd0f4afcb53705",
+      "md_span": {
+        "start": 24703,
+        "end": 25192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_25/20010503",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 5 — Les œuvres audiovisuelles"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La faillite du producteur, l'octroi d'un concordat ou la mise en liquidation de son entreprise n'entraîne pas la résiliation de la cession des droits au producteur.\n\nEn cas de cession de tout ou partie de l'entreprise ou de liquidation, le liquidateur ou le curateur est tenu d'aviser à peine de nullité chacun des autres producteurs de l'œuvre ainsi que le réalisateur. L'acquéreur est tenu des obligations du producteur dont les droits sont cédés ou vendus.\n\nLes coproducteurs ou, à défaut, le réalisateur possèdent un droit de priorité pour acquérir les droits sur l'œuvre dont le prix d'achat est fixé par décision de justice à défaut d'accord.\n\nUn règlement grand-ducal organisera le déroulement de la procédure.",
+      "text_sha256": "9a7792793527c98d47847da062b5f18943dfc1023e569669415f7bfb44e5e23c",
+      "md_span": {
+        "start": 25229,
+        "end": 25946
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_26/20010503",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 6 — Les œuvres plastiques"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Comme pour les autres œuvres, la cession d'une œuvre plastique n'emporte pas le droit d'exploiter celle-ci. L'auteur aura accès à son œuvre dans une mesure raisonnable pour l'exercice de ses droits.",
+      "text_sha256": "13f1f0037d10a5fdafc5cb76da9546dbc374ffd25de4e654eff98420cd43f5cb",
+      "md_span": {
+        "start": 26022,
+        "end": 26220
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_27/20010503",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 6 — Les œuvres plastiques"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Sauf convention contraire, l'acquisition d'une œuvre plastique emporte pour le propriétaire le droit de l'exposer dans des conditions non préjudiciables aux droits, à l'honneur et à la réputation de l'auteur.",
+      "text_sha256": "7466ec39f61f7548d7071746e5968a456b4477fc2997aa32228ee4ffa4c3dfed",
+      "md_span": {
+        "start": 26257,
+        "end": 26465
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_28/20010503",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 6 — Les œuvres plastiques"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Ni l'auteur ni le propriétaire d'un portrait n'ont le droit de le reproduire, de le communiquer ou de l'exposer publiquement sans l'assentiment de la personne représentée ou celui de ses ayants droit pendant 20 ans à partir de son décès.",
+      "text_sha256": "f87efc02d1ce0e7f0d451c428dcd4d3dc3282ff9194516016482577a299c1f41",
+      "md_span": {
+        "start": 26502,
+        "end": 26739
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_29/20010503",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 6 — Les œuvres plastiques"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "L'œuvre reproduite par des procédés industriels ou appliqués à l'industrie reste soumise aux dispositions de la présente loi.",
+      "text_sha256": "1c90c9b12b8eedefafd426418306047e17e4316aaacc37710c43ec2e8a980414",
+      "md_span": {
+        "start": 26776,
+        "end": 26901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_30/20040503",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 6 — Les œuvres plastiques"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Les auteurs d'œuvres d’art originales ont, nonobstant toute cession de l'œuvre originale, un droit inaliénable auquel il ne peut être renoncé de participation au produit de toute revente de cette œuvre dans laquelle intervient en tant que vendeur, acheteur ou intermédiaire un professionnel du marché de l’art et d’une manière générale, un commerçant d’œuvres d’art.\n\nToutefois, le droit prévu à l’alinéa 1er n’est pas dû lorsque le vendeur a acquis l’œuvre directement de l’auteur moins de trois ans avant la revente et que le prix de revente ne dépasse pas 10 000 euros.\n\nCe même droit appartient, après son décès, aux héritiers et autres ayants droit de l'auteur.\n\nUn règlement grand-ducal fixera les conditions d'application, y compris l’application dans le temps, de ce droit, son tarif et le prix de vente minimum à partir duquel le droit de suite peut être perçu, sans que celui-ci puisse être inférieur à 1.983,15 euros. Il déterminera en outre les conditions dans lesquelles les auteurs feront valoir les droits qui leur sont reconnus par les dispositions du présent article.",
+      "text_sha256": "7c490a583b2cde05c76cdae80d0193a2bd821b33795ca0d093872ec95f51d713",
+      "md_span": {
+        "start": 26938,
+        "end": 28022
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_31/20010503",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": "Objet de la protection",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les programmes d'ordinateur sont protégés par la présente loi en tant qu'œuvres littéraires au sens de la Convention de Berne pour la protection des œuvres littéraires et artistiques. La protection d'un programme d'ordinateur comprend celle du matériel de conception préparatoire concernant ce programme.",
+      "text_sha256": "6b95f7544deb740497379b5cf3c81b4d10fbed386cdef18805b63308100ff478",
+      "md_span": {
+        "start": 28127,
+        "end": 28431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_32/20010503",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "Bénéficiaires de la protection",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** La protection est accordée à toute personne admise à bénéficier des dispositions de la présente loi applicables aux œuvres littéraires.\n\n**2.** Lorsqu'un programme d'ordinateur est créé par un employé dans l'exercice de ses fonctions ou d'après les instructions de son employeur, seul l'employeur est habilité à exercer tous les droits patrimoniaux afférents au programme d'ordinateur ainsi créé, sauf dispositions contractuelles contraires.",
+      "text_sha256": "e411dba07e69e118cc0923c1bba2f369764d427e64602730bb08db31ed507b57",
+      "md_span": {
+        "start": 28499,
+        "end": 28947
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_33/20010503",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": "Actes soumis à restrictions",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Sous réserve des articles 34, 35 et 36, les droits exclusifs de l'auteur d'un programme d'ordinateur comportent le droit de faire et d'autoriser:\n\n1. la reproduction permanente ou provisoire d'un programme d'ordinateur, en tout ou en partie, par quelque moyen et sous quelque forme que ce soit, y compris le chargement, l'affichage, le passage, la transmission ou le stockage d'un programme d'ordinateur, lorsque ces opérations nécessitent une telle reproduction;\n2. la traduction, l'adaptation, l'arrangement et toute autre transformation d'un programme d'ordinateur et la reproduction du programme en résultant, sans préjudice des droits de la personne ayant transformé le programme d'ordinateur;\n3. toute forme de distribution au public de l'original ou de copies d'un programme d'ordinateur, y compris notamment la vente, le leasing, la concession sous licence et la location. Toutefois, la première transaction de ce genre effectuée dans la Communauté économique européenne par le titulaire des droits exclusifs ou avec son consentement, épuise le droit de distribution dans la Communauté des exemplaires du programme d'ordinateur faisant l'objet de la transaction, à l'exception du droit de contrôler les locations ultérieures de ces exemplaires.",
+      "text_sha256": "bd3acfdec1911fbfa4c4b8806ea52443f311efa358404435fc0fc7df7aa2f478",
+      "md_span": {
+        "start": 29012,
+        "end": 30264
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_34/20010503",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": "Exceptions aux actes soumis à restrictions",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Sauf dispositions contractuelles spécifiques, ne sont pas soumis à l'autorisation du titulaire les actes prévus à l'article 33 lorsque ces actes sont nécessaires pour permettre à l'acquéreur légitime d'utiliser le programme d'ordinateur d'une manière conforme à sa destination, y compris pour corriger des erreurs et l'intégrer dans une base de données qu'il est appelé à faire fonctionner.",
+      "text_sha256": "7587952845b64f9b839ba83d4f8bb608d38b05ae291116d4c60ee98ee65a287e",
+      "md_span": {
+        "start": 30344,
+        "end": 30734
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_35/20010503",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": "Autres exceptions",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Une personne ayant le droit d'utiliser le programme d'ordinateur ne peut être empêchée par contrat\n\n1. d'en faire une copie de sauvegarde dans la mesure où celle-ci est nécessaire pour cette utilisation;\n2. d'observer, d'étudier ou de tester le fonctionnement de ce programme afin de déterminer les idées et les principes qui sont à la base de n'importe quel élément du programme, lorsqu'elle effectue toute opération de chargement, d'affichage, de passage, de transmission ou de stockage du programme d'ordinateur qu'elle est en droit d'effectuer.",
+      "text_sha256": "ffa114c6661df4a11ccc58f4d665281da3baa91a69e7cee8b3f97513d914ca7f",
+      "md_span": {
+        "start": 30789,
+        "end": 31337
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_36/20010503",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": "Décompilation",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** L'autorisation du titulaire des droits exclusifs n'est pas requise lorsque la reproduction du code ou la traduction de la forme de ce code au sens de l'article 33, points a) et b), est indispensable pour obtenir les informations nécessaires à l'interopérabilité d'un programme d'ordinateur créé de façon indépendante avec d'autres programmes et sous réserve que les conditions suivantes soient réunies:\n\n1. ces actes sont accomplis par le licencié ou par une autre personne jouissant du droit d'utiliser une copie d'un programme ou pour leur compte par une personne habilitée à cette fin;\n2. les informations nécessaires à l'interopérabilité n'ont pas déjà été facilement et rapidement accessibles aux personnes visées au point a); et\n3. ces actes sont limités aux parties du programme d'origine nécessaires à cette interopérabilité.\n\n**2.** Les dispositions du paragraphe 1 ne peuvent justifier que les informations obtenues en vertu de son application:\n\n1. soient utilisées à des fins autres que la réalisation de l'interopérabilité du programme d'ordinateur créé de façon indépendante;\n2. soient communiquées à des tiers, sauf si cela s'avère nécessaire à l'interopérabilité du programme d'ordinateur créé de façon indépendante; ou\n3. soient utilisées pour la mise au point, la production ou la commercialisation d'un programme d'ordinateur dont l'expression est fondamentalement similaire ou pour tout autre acte portant atteinte aux droits d'auteur.\n\n**3.** Par référence à l'article 9, paragraphe 2 de la Convention de Berne pour la protection des œuvres littéraires et artistiques, le présent article ne peut donner lieu à une application qui causerait un préjudice injustifié aux intérêts légitimes du titulaire des droits exclusifs ou qui porterait atteinte à l'exploitation normale du programme d'ordinateur.",
+      "text_sha256": "a2fb35735dcc6f5f5a1614ab47c5d2333aa7d31ee207810bb4d2f4ecec4b6b1a",
+      "md_span": {
+        "start": 31388,
+        "end": 33213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_37/20010503",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": "Mesures spéciales de protection",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** Commettent notamment un acte de contrefaçon engageant la responsabilité civile ou pénale de ses auteurs les personnes qui\n\n1. mettent en circulation une copie d'un programme d'ordinateur en sachant qu'elle est illicite ou en ayant des raisons de le croire;\n2. détiennent à des fins commerciales une copie d'un programme d'ordinateur en sachant qu'elle est illicite ou en ayant des raisons de le croire;\n3. mettent en circulation ou détiennent à des fins commerciales tout moyen ayant pour seul but de faciliter la suppression non autorisée ou la neutralisation de tout dispositif technique éventuellement mis en place pour protéger un programme d'ordinateur.\n\n**2.** Toute copie illicite d'un programme d'ordinateur est susceptible de saisie.",
+      "text_sha256": "e4613accff33472ef416d1aef51247f50e514178ef785b4720af8c175718aea3",
+      "md_span": {
+        "start": 33282,
+        "end": 34031
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_38/20010503",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": "Durée de la protection",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La durée de la protection assurée à un programme d'ordinateur en vertu de la présente loi est la même que celle qui s'appliquerait dans les mêmes conditions à une œuvre littéraire.",
+      "text_sha256": "88080c4448e429245431a1dda7e00975e050b9a7da3133f5b55be149b053ea0b",
+      "md_span": {
+        "start": 34091,
+        "end": 34271
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_39/20040503",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": "Effets de certaines dispositions ou clauses",
+      "path": [
+        "1ère PARTIE — **Les droits d'auteur**",
+        "Section 7 — Les programmes d'ordinateur"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "**1.** Les dispositions de la présente loi sont applicables aux programmes d'ordinateur créés avant l'entrée en vigueur de la présente section VIbis de la loi du 29 mars 1972 sur le droit d'auteur, sans préjudice des actes conclus et des droits acquis avant cette date.\n\n**2.** Toute disposition contractuelle contraire à l'article 36 ou aux exceptions prévues à l’article 35 sera nulle et non avenue.",
+      "text_sha256": "864e5d09d94a0877719c0f0169feeba7a2cc829c353eeac1365ec379e29fcff6",
+      "md_span": {
+        "start": 34352,
+        "end": 34753
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1972/03/29/n1/jo",
+          "text": "loi du 29 mars 1972"
+        }
+      ]
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_40/20010503",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les dispositions relatives aux droits voisins laissent intacts et n'affectent en aucune façon les droits de l'auteur. Aucune d'entre elles ne peut être interprétée comme une limite à l'exercice des droits d'auteur.",
+      "text_sha256": "1989cdd1e774fc4a4738301719e4a825b416f6680573243079f54c2bf1487201",
+      "md_span": {
+        "start": 34872,
+        "end": 35086
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_41/20010503",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 1 — Dispositions générales"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Aux fins de la présente loi, on entend par:\n\n1. «artistes interprètes ou exécutants»: les acteurs, chanteurs, musiciens, danseurs et autres personnes qui représentent, chantent, récitent, déclament, jouent, interprètent ou exécutent de toute autre manière des œuvres littéraires ou artistiques ou des expressions du folklore, y compris les artistes de variété, de cirque et les marionnettistes. Ne sont pas des artistes interprètes les artistes de complément, comme les figurants, reconnus comme tels par les usages de la profession;\n2. «phonogramme»: la fixation de sons provenant d'une interprétation ou exécution ou d'autres sons, ou d'une représentation de sons autre que sous la forme d'une fixation incorporée dans une œuvre cinématographique ou une autre œuvre audiovisuelle;\n3. «fixation»: l'incorporation de sons, ou des représentations de ceux-ci, dans un support qui permette de les percevoir, de les reproduire ou de les communiquer à l'aide d'un dispositif;\n4. «producteur d'un phonogramme»: la personne physique ou morale qui prend l'initiative et assume la responsabilité de la première fixation des sons provenant d'une interprétation ou exécution ou d'autres sons, ou des représentations de sons;\n5. «publication d'une interprétation» ou «d'une exécution fixée ou d'un phonogramme»: la mise à disposition du public de copies de l'interprétation ou de l'exécution fixée ou d'exemplaires du phonogramme avec le consentement du titulaire des droits, et à condition que les copies ou exemplaires soient mis à la disposition du public en quantité suffisante;\n6. «radiodiffusion»: la transmission sans fil de sons ou d'images et de sons, ou des représentations de ceux-ci, aux fins de réception par le public; ce terme désigne aussi une transmission de cette nature effectuée par satellite; la transmission de signaux cryptés est assimilée à la „radiodiffusion«lorsque les moyens de décryptage sont fournis au public par l'organisme de radiodiffusion ou avec son consentement;\n7. «producteur de première fixation de films»: la personne physique ou morale qui prend l'initiative et assume la responsabilité de la première fixation d'une œuvre audiovisuelle au sens de l'article 20 ou une autre succession de séquences animées d'images, accompagnées ou non de sons.",
+      "text_sha256": "6ab13f2e311bbfafdbd37b7ff7dc5695479e729c04989fe5bdcd734a70887252",
+      "md_span": {
+        "start": 35123,
+        "end": 37397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_42/20010503",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 2 — Dispositions relatives aux artistes interprètes ou exécutants"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Indépendamment des droits patrimoniaux, et même après la cession desdits droits, l'artiste interprète ou exécutant a le droit à la mention de son nom, sauf lorsque l'usage ou le mode d'utilisation de l'interprétation ou de l'exécution permet d'omettre cette mention.\n\nIl a aussi le droit de s'opposer à toute déformation, mutilation ou autre modification de ses interprétations ou exécutions ou à tout autre atteinte à celles-ci, préjudiciables à son honneur ou à sa réputation.\n\nL'artiste interprète ou exécutant peut céder ou transmettre tout ou partie de ses droits moraux pour autant qu'il ne soit pas porté atteinte à son honneur ou à sa réputation.",
+      "text_sha256": "9037449ca3725188072df43c1a81e7119d6c447bf4b8457d588f7099f54fedad",
+      "md_span": {
+        "start": 37513,
+        "end": 38167
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_43/20090601",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "**(1)** La qualité d’artiste interprète ou exécutant ainsi que la qualité de producteur de phonogrammes et de premières fixations de films appartiennent, sauf preuve contraire, à celui ou à ceux qui apparaissent comme tels sur l’œuvre, du fait de la mention de leur nom.\n\n**2.** Les artistes interprètes ou exécutants et les producteurs de phonogrammes et de premières fixations de films jouissent du droit exclusif d'autoriser la fixation et la reproduction directe ou indirecte de leurs prestations, de quelque manière et sous quelque forme que ce soit, notamment leur intégration dans une base de données et leur extraction à partir de cette base de données.\n\n**3.** Ce droit comprend le droit exclusif d'autoriser la location et le prêt de supports contenant leurs prestations.\n\n**4.** Les artistes interprètes ou exécutants et les producteurs de phonogrammes et de premières fixations de films jouissent du droit exclusif d'autoriser la distribution de leurs prestations.\n\nCe droit exclusif de distribution est épuisé à l'intérieur de l'Union européenne en cas de première vente dans l'Union européenne.",
+      "text_sha256": "7fa5ef51e74adb28af92cb1a6e18c6ba38bf3633c50b4df4447f779139d7af44",
+      "md_span": {
+        "start": 38349,
+        "end": 39457
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_44/20010503",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les artistes interprètes ou exécutants et les producteurs de phonogrammes et de premières fixations de films jouissent du droit exclusif d'autoriser la communication au public de leurs prestations par un procédé quelconque, y compris leur transmission par fil ou sans fil, par le moyen de la radiodiffusion, par satellite, par câble ou par réseau.\n\nConstitue également une communication au public la mise à la disposition du public des prestations de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit individuellement.",
+      "text_sha256": "4a1773f872df82f624e236b7d5d180a6d2d042758effca13dbbb3745b2afc8b7",
+      "md_span": {
+        "start": 39494,
+        "end": 40042
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_45/20150217",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2015-02-17",
+      "text_md": "**1.** Les droits de l'artiste interprète ou exécutant expirent 50 ans après la date de l'exécution.\n\nToutefois, si une fixation de l'exécution par un moyen autre qu'un phonogramme fait l'objet d'une publication licite ou d'une communication licite au public dans ce délai, les droits expirent 50 ans après le premier de ces faits.\n\nSi une fixation de l'exécution dans un phonogramme fait l'objet d'une publication licite ou d'une communication licite au public dans ce délai, les droits expirent 70 ans après le premier de ces faits.\n\n**2.** Les droits des producteurs de phonogrammes expirent 50 ans après la fixation.\n\nToutefois, si le phonogramme a fait l’objet d’une publication licite pendant cette période, les droits expirent 70 ans après la date de la première publication licite. En l’absence de publication licite au cours de la période visée au premier alinéa et au cas où le phonogramme a fait l’objet d’une communication licite au public pendant cette période, les droits expirent 70 ans après la première communication licite au public.\n\nDans la mesure où les droits des producteurs de phonogrammes ont bénéficié de la durée de protection prévue au paragraphe 1er, et que cette protection est venue à échéance avant le 22 décembre 2002, les dispositions du présent paragraphe ne peuvent pas avoir pour effet de protéger ces droits à nouveau.\n\n**2*bis*.** Si, 50 ans après que le phonogramme a fait l'objet d'une publication licite ou, faute de cette publication 50 ans après qu'il a fait l'objet d'une communication licite au public, le producteur de phonogrammes n'offre pas à la vente des exemplaires du phonogramme en quantité suffisante ou ne le met pas à la disposition du public, par fil ou sans fil, de manière que les membres du public puissent y avoir accès de l'endroit et au moment qu'ils choisissent individuellement, l'artiste interprète ou exécutant peut résilier le contrat par lequel l'artiste interprète ou exécutant a transféré ou cédé ses droits sur la fixation de son exécution à un producteur de phonogrammes. Le droit de résilier ce contrat de transfert ou de cession peut être exercé si le producteur, dans un délai de un an à compter de la notification par l'artiste interprète ou exécutant de son intention de résilier ce contrat conformément à la phrase précédente, n'accomplit pas les deux actes d'exploitation visés dans ladite phrase. L'artiste interprète ou exécutant ne peut pas renoncer à ce droit de résiliation.\n\nSi un phonogramme contient la fixation de plusieurs artistes interprètes ou exécutants ceux-ci peuvent résilier leurs contrats de transfert ou de cession conformément aux dispositions de la présente loi et du droit commun.\n\nSi le contrat de transfert ou de cession est résilié en application du présent paragraphe, les droits du producteur de phonogrammes sur le phonogramme expirent.\n\n**2*ter*.** Lorsqu'un contrat de transfert ou de cession donne à l'artiste interprète ou exécutant le droit de revendiquer une rémunération non récurrente, l'artiste interprète ou exécutant a le droit d'obtenir une rémunération annuelle supplémentaire de la part du producteur de phonogrammes pour chaque année complète suivant directement la cinquantième année après que le phonogramme a fait l'objet d'une publication licite, ou, faute de cette publication, la cinquantième année après qu'il a fait l'objet d'une communication licite au public. Les artistes interprètes ou exécutants ne peuvent renoncer à ce droit d'obtenir une rémunération annuelle supplémentaire.\n\n**2*quater*.** Le montant global qu'un producteur de phonogrammes doit réserver au paiement de la rémunération annuelle supplémentaire visée au paragraphe 2*ter* correspond à 20% des recettes que le producteur de phonogrammes a perçues, au cours de l'année précédant celle du paiement de ladite rémunération, au titre de la reproduction, de la distribution et de la mise à disposition du phonogramme concerné, au-delà de la cinquantième année après que le phonogramme a fait l'objet d'une publication licite, ou, faute de cette publication, la cinquantième année après qu'il a fait l'objet d'une communication licite au public.\n\nLes producteurs de phonogrammes sont tenus de fournir, sur demande, aux artistes interprètes ou exécutants qui ont droit à la rémunération annuelle supplémentaire visée au paragraphe 2*ter* toute information pouvant s'avérer nécessaire afin de garantir le paiement de ladite rémunération.\n\n**2*quinquies*.** Le droit à l'obtention d'une rémunération annuelle supplémentaire est administré par les organismes visés au paragraphe 1er de l'article 66. Si l'organisme n'est pas établi sur le territoire luxembourgeois, cette activité est exercée sous la responsabilité de son mandataire général établi et agréé au Luxembourg.\n\n**2*sexies*.** Lorsqu'un artiste interprète ou exécutant a droit à des paiements récurrents, aucune avance ni déduction définie contractuellement ne peut être retranchée des paiements dont il bénéficie au-delà de la cinquantième année après que le phonogramme a fait l'objet d'une publication licite ou, faute de cette publication, la cinquantième année après qu'il a fait l'objet d'une communication licite au public.\n\n**3.** Les durées mentionnées aux paragraphes 1er et 2 sont calculées à partir du 1er janvier de l’année qui suit le fait générateur.\n\nAprès le décès ou la liquidation du titulaire de droits voisins, les droits sont exercés par la personne qu’il a désignée à cet effet ou, à défaut, par ses héritiers ou ses ayants droit.\n\n**4.** Les dispositions transitoires de la 14ème partie de la présente loi précisent le sort des prestations tombées dans le domaine public avant le 1er juillet 1995, mais qui bénéficient d’une nouvelle protection en vertu de la présente loi.\n\n**5.** Les droits des producteurs de la première fixation d'un film expirent 50 ans après la fixation. Toutefois, si le film fait l'objet d'une publication licite ou d'une communication licite au public pendant cette période, les droits expirent 50 ans après la date du premier de ces faits.",
+      "text_sha256": "09d98f1eee4372336cf91f6b296c9c39da1c5a3b6e05a517fc7c3f96522f458c",
+      "md_span": {
+        "start": 40079,
+        "end": 46127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_46/20200407",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2020-04-07",
+      "text_md": "L'artiste interprète ou exécutant et le producteur de phonogramme et de première fixation de films ne peuvent interdire:\n\n**1°** Les courtes citations, en original ou en traduction, justifiées par le caractère critique, polémique, pédagogique, scientifique ou d'information de l'œuvre ou du programme dans laquelle la prestation est incorporée.\n\nCes utilisations ne peuvent être faites que pour autant qu'elles soient conformes aux bons usages, qu'elles ne poursuivent pas un but de lucre, qu’elles soient justifiées par le but poursuivi et dans la mesure où elles ne portent pas atteinte aux prestations ni à leur exploitation.\n\n**2°** La reproduction et la communication au public, dans un but d'information, de courts fragments de prestations dans leur intégralité à l'occasion de comptes rendus d'événements de l'actualité dans la mesure justifiée par le but d’information poursuivi et sous réserve d’indiquer, à moins que cela ne s’avère impossible, la source, y compris le nom de l’auteur.\n\n**3°** La communication privée des prestations, ainsi que la communication des prestations d'une œuvre musicale ou d'une œuvre audiovisuelle principalement musicale dans un lieu public si elle se fait à titre gratuit et qu'elle reste accessoire à l'activité qui se déroule dans ce lieu.\n\n**4°** La reproduction sur tout support par une personne physique pour son usage privé et à des fins non directement ou indirectement commerciales, à condition que les titulaires de droits reçoivent une compensation équitable, qui prend en compte l’application des mesures techniques visées aux articles 71ter à 71quinquies de la présente loi aux prestations concernées.\n\nLes conditions de fixation et de perception, ainsi que le niveau de cette compensation sont fixés par règlement grand-ducal.\n\n**5°** La reproduction provisoire, qui est transitoire ou accessoire, qui constitue une partie intégrante et essentielle d’un procédé technique, qui n’a pas de signification économique indépendante et dont l’unique finalité est de permettre une transmission dans un réseau entre tiers par un intermédiaire ou une utilisation licite d’une prestation.\n\n**6°** La caricature, la parodie ou le pastiche dans les conditions de l’article 10, 6°.\n\n**7°** Les enregistrements éphémères effectués par un organisme de radiodiffusion par ses propres moyens et pour ses émissions, à condition qu'ils ne soient utilisés aux fins d'émissions que pendant les 3 mois qui suivent la communication enregistrée et qu'ils soient ensuite détruits ou rendus impropres à l'usage.\n\nLes enregistrements visés à l'alinéa précédent peuvent cependant être conservés dans des archives officielles s'ils possèdent un caractère exceptionnel de documentation.\n\nLes modalités de cette conservation seront fixées par un règlement grand-ducal.\n\n**8°** La reproduction et la communication analogiques des prestations dans une œuvre, dans les conditions visées par l’article 10, 10°.\n\n**9°** La reproduction et la communication au public de courts fragments de prestations à titre exclusif d'illustration de l'enseignement ou de la recherche scientifique dans la mesure justifiée par le but non commercial poursuivi et sous réserve qu'une telle utilisation soit conforme aux bons usages et que, à moins que cela ne s’avère impossible, la source, y compris le nom de l’auteur, soit indiquée.\n\nSans préjudice des exceptions ci-dessus énumérées, les exceptions aux droits des auteurs prévues aux articles 10 et 10*ter* de la présente loi s’appliquent mutatis mutandis aux droits des artistes interprètes ou exécutants et des producteurs de phonogrammes et de première fixation de films.\n\nLes exceptions énumérées ci-dessus ne peuvent porter atteinte à l’exploitation normale de la prestation, ni causer un préjudice injustifié aux intérêts légitimes du titulaire du droit.",
+      "text_sha256": "761eb9d8c93be7b64bbb9372f67754550df510e295af34bdd61537c7b91fb3b3",
+      "md_span": {
+        "start": 46164,
+        "end": 49979
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_47/20010503",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** Sans préjudice des droits de l'auteur, lorsque la prestation d'un artiste interprète ou exécutant ou d'un producteur de phonogrammes est licitement reproduite ou radiodiffusée, l'artiste interprète ou exécutant et le producteur ne peuvent s'opposer:\n\n1. à sa communication quelconque au public,\n2. à sa radiodiffusion.\n\n**2.** L'utilisation des prestations dans les conditions visées au paragraphe précédent donne droit à une rémunération équitable et unique, partagée entre les artistes interprètes ou exécutants et les producteurs de phonogrammes concernés.\n\nLes conditions de fixation, de perception et de répartition de cette rémunération sont fixées par règlement grand-ducal.",
+      "text_sha256": "50fba1c916c4822518b07c869489b2601e20eb8c2b23633c0cbc1999223753ea",
+      "md_span": {
+        "start": 50016,
+        "end": 50704
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_48/20010503",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les droits patrimoniaux des artistes interprètes ou exécutants et des producteurs de phonogrammes et de première fixation de films sont cessibles et transmissibles, en tout ou en partie, conformément aux règles du Code civil.",
+      "text_sha256": "2573311cae2117333740dc975d9af1ba579818053422328bd0c29bde081f6ab1",
+      "md_span": {
+        "start": 50741,
+        "end": 50966
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_49/20010503",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** A l'égard de l'artiste interprète ou exécutant, la cession de ses droits ou la renonciation à leur exercice se prouve par écrit et s'interprète restrictivement en sa faveur. La cession peut faire l'objet notamment d'une aliénation ou de licences.\n\n**2.** La cession des modes d'exploitation inconnus au jour du contrat n'est autorisée que si elle fait l'objet d'une rémunération particulière.",
+      "text_sha256": "9a84626f9300389eeda91da9eb15c12295526751772c6bcee858d3707685bf79",
+      "md_span": {
+        "start": 51003,
+        "end": 51402
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_50/20010503",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Sauf stipulation contraire, les artistes formant un ensemble sont présumés avoir cédé aux chefs d'orchestres, metteurs en scène ou aux directeurs de troupes, le pouvoir d'autoriser en leur nom la représentation des spectacles vivants auxquels ils participent ainsi que la fixation et la reproduction de ceux-ci.",
+      "text_sha256": "49a9174b32fb8e60bdd192bc107c3e48e656bbaef31cbb1115d350b9f7f844b4",
+      "md_span": {
+        "start": 51439,
+        "end": 51750
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_51/20010503",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** Sauf stipulation contraire, les artistes interprètes ou exécutants d'une œuvre audiovisuelle sont présumés céder au producteur, à titre exclusif, tous les droits d'exploitation audiovisuelle de leurs prestations dans l'œuvre.\n\nCette cession comprend les droits nécessaires à cette exploitation tel le droit d'ajouter des sous-titres ou de doubler leurs prestations.\n\n**2.** L'artiste interprète ou exécutant qui refuse d'achever sa contribution à l'œuvre audiovisuelle ou se trouve dans l'impossibilité de le faire, ne pourra s'opposer à l'utilisation de celle-ci en vue de l'achèvement de l'œuvre.\n\n**3.** La faillite du producteur, l'octroi d'un concordat ou la mise en liquidation de son entreprise n'entraîne pas la résiliation de la cession des droits au producteur audiovisuel.",
+      "text_sha256": "9e3f268680c6b542f1e8724a4e44eda9a7991f3db29a7b5f8b02a01f5b9e3f02",
+      "md_span": {
+        "start": 51787,
+        "end": 52577
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_52/20010503",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 3 — Dispositions relatives aux artistes interprètes ou exécutants, aux producteurs de phonogrammes et de première fixation de films"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Sauf stipulation contraire, l'artiste interprète ou exécutant est présumé céder au producteur de phonogrammes et de première fixation de films son droit de location, pour autant qu'un contrat conclu entre le producteur et l'artiste interprète ou exécutant prévoie une rémunération équitable comme il est dit à l'article 64.",
+      "text_sha256": "bdf5e473227d917cda01988882b944a6c906a23f9bb7079b0d820df0d74d8522",
+      "md_span": {
+        "start": 52614,
+        "end": 52937
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52bis",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_52bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_52bis/20090601",
+      "type": "article",
+      "num": "Art. 52bis.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 4 — Dispositions relatives aux organismes de radiodiffusion"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "La qualité d’organisme de radiodiffusion appartient, sauf preuve contraire, à celui ou à ceux qui apparaissent comme tels sur l’œuvre, du fait de la mention de leur nom.",
+      "text_sha256": "58020ee38bf7e69b69a22bdb6b40d0b142165b4ef70edce6ac41a9e82a559599",
+      "md_span": {
+        "start": 53053,
+        "end": 53222
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_53/20040503",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 4 — Dispositions relatives aux organismes de radiodiffusion"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "l’organisme de radiodiffusion jouit du droit exclusif d’autoriser les actes suivants:\n\n1. la réémission simultanée ou différée de ses émissions, y compris la retransmission par câble et la communication au public par satellite et par réseau;\n2. la reproduction directe ou indirecte de ses émissions par quelque procédé que ce soit, en ce compris la distribution de fixations de ses émissions;\n3. la communication de ses émissions faites dans un endroit accessible au public, moyennant un droit d'entrée.\n4. la mise à la disposition du public des fixations de ses émissions, qu’elles soient diffusées par fil ou sans fil, y compris par câble ou par satellite, de manière que chacun puisse y avoir accès de l’endroit et au moment qu’il choisit individuellement.\n\nLe droit de distribution visé au point b) de l'alinéa 1er n'est épuisé dans l'Union européenne qu'en cas de première vente dans l'Union européenne de la fixation de son émission par l'organisme de radiodiffusion ou avec son consentement.",
+      "text_sha256": "964f4a0f7126721505966c7400383fdead282fb5decf4a3ab28f052726513165",
+      "md_span": {
+        "start": 53259,
+        "end": 54257
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_54/20010503",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 4 — Dispositions relatives aux organismes de radiodiffusion"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La protection visée à l'article 53 subsiste pendant 50 ans après la première diffusion de l'émission.\n\nCette durée est calculée à partir du 1er janvier de l'année qui suit le fait générateur.",
+      "text_sha256": "effc70cd6de73579ffcac767bdad56cd3fdc683d5db1d764b1af823027eb0891",
+      "md_span": {
+        "start": 54294,
+        "end": 54485
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_55/20010503",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 4 — Dispositions relatives aux organismes de radiodiffusion"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les dispositions de l'article 46 s'appliquent aux émissions des organismes de radiodiffusion.",
+      "text_sha256": "c349efd68be3086dc97d4bd0c58f5bad7b40b31f6ebe484bcdbe945f1708e370",
+      "md_span": {
+        "start": 54522,
+        "end": 54615
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_56/20010503",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "2ième PARTIE — **Les droits voisins**",
+        "Section 4 — Dispositions relatives aux organismes de radiodiffusion"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les droits des organismes de radiodiffusion sur leurs émissions sont cessibles et transmissibles, en tout ou en partie, conformément aux règles du Code civil.",
+      "text_sha256": "53b0ce1631d6e16478cd90ef635d491bcd021c4cc091cc430c8d3135feb9b72d",
+      "md_span": {
+        "start": 54652,
+        "end": 54810
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_57/20010503",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "3ième PARTIE — **La communication au public par satellite et la retransmission par câble**",
+        "Section 1 — Communication par satellite"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La communication au public par satellite est soumise aux règles des droits d'auteur et des droits voisins énoncées dans la présente loi ainsi qu'aux règles particulières dont il sera question ci-après.",
+      "text_sha256": "577bd897e305bfa284df22a79ea699395ba53eb930bdf11d7fb87ed3ad65f9cb",
+      "md_span": {
+        "start": 54987,
+        "end": 55188
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_58/20010503",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "3ième PARTIE — **La communication au public par satellite et la retransmission par câble**",
+        "Section 1 — Communication par satellite"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "On entend par communication au public par satellite l'acte d'introduction, sous le contrôle et la responsabilité de l'organisme de radiodiffusion, de signaux porteurs de programmes destinés à être captés par le public dans une chaîne ininterrompue de communication conduisant au satellite et revenant vers la terre.\n\nLorsque les signaux porteurs de programmes sont diffusés sous forme codée, il y a communication au public par satellite à condition que le dispositif de décodage de l'émission soit mis à la disposition du public par l'organisme de radiodiffusion ou avec son consentement.",
+      "text_sha256": "5015a2d807880f7edd19a9f1f4863df0a03768653f2795fde4a075a66048a5d8",
+      "md_span": {
+        "start": 55225,
+        "end": 55813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_59",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_59/20010503",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "3ième PARTIE — **La communication au public par satellite et la retransmission par câble**",
+        "Section 1 — Communication par satellite"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La communication au public par satellite a lieu uniquement dans l'Etat membre de l'Union européenne dans lequel, sous le contrôle et la responsabilité de l'organisme de radiodiffusion, les signaux porteurs de programmes sont introduits dans une chaîne ininterrompue de communication conduisant au satellite et revenant vers la terre.\n\nSi elle a lieu dans un Etat tiers et que celui-ci n'accorde pas une protection dans la même mesure que les chapitres qui précèdent, elle est néanmoins réputée avoir lieu dans l'Etat membre défini ci-après et les droits s'y exercent selon le cas contre l'exploitant de la station ou de l'organisme de radiodiffusion:\n\n- lorsque les signaux porteurs de programmes sont transmis par satellite à partir d'une station pour liaison montante située sur le territoire d'un Etat membre, ou\n- lorsque l'organisme de radiodiffusion qui a délégué la communication au public, a son principal établissement sur le territoire d'un Etat membre.",
+      "text_sha256": "f23f7c6e2f6fcf57d741ca4bd3caabf2f5870bf5d827d6d18a891eed34786427",
+      "md_span": {
+        "start": 55850,
+        "end": 56813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_60",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_60/20010503",
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "3ième PARTIE — **La communication au public par satellite et la retransmission par câble**",
+        "Section 2 — Retransmission par câble"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La communication au public par câble est soumise aux règles des droits d'auteur et de droits voisins énoncées dans la présente loi. Elle est en outre soumise aux règles particulières dont il sera question ci-après lorsque cette retransmission est effectuée de manière simultanée, inchangée et intégrale par câble ou par un système de diffusion par ondes ultracourtes pour la réception par le public d'une transmission initiale, sans fil ou avec fil, notamment par satellite, d'émissions de télévision ou de radio destinées à être captées par le public.",
+      "text_sha256": "2f1221a55bbe8fba1feaeaa94b9f00c2da17860683e167077031bc375ed14376",
+      "md_span": {
+        "start": 56892,
+        "end": 57444
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_61",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_61/20180429",
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "3ième PARTIE — **La communication au public par satellite et la retransmission par câble**",
+        "Section 2 — Retransmission par câble"
+      ],
+      "article_valid_from": "2018-04-29",
+      "text_md": "**1.** Le droit de l’auteur et des titulaires de droits voisins d’autoriser ou d’interdire la retransmission par câble ne peut être exercé que par un organisme de gestion collective valablement autorisé ou un mandataire valablement agréé à agir sur le territoire luxembourgeois.\n\n**2.** Lorsque l'auteur ou les titulaires de droits voisins n'ont pas confié la gestion de leurs droits à un organisme de gestion des droits, l'organisme qui gère des droits de la même catégorie est réputé être chargé de gérer leurs droits.\n\nLorsque plusieurs organismes de gestion des droits gèrent des droits de cette catégorie, l'auteur ou les titulaires de droits voisins peuvent désigner eux-mêmes celui qui sera réputé être chargé de la gestion de leurs droits. Ils ont les mêmes droits et les mêmes obligations résultant du contrat conclu entre le câblodistributeur et l'organisme de gestion des droits que les titulaires qui ont chargé cet organisme de défendre leurs droits. Ils peuvent faire valoir leurs droits dans un délai de trois ans à compter de la date de retransmission par câble de leur œuvre ou de leur prestation.\n\n**3.** Les paragraphes 1 et 2 ne s'appliquent pas aux droits exercés par un organisme de radiodiffusion à l'égard de ses propres émissions, que les droits en question lui appartiennent ou qu'ils lui aient été transférés par d'autres titulaires de droits d'auteur ou de droits voisins.",
+      "text_sha256": "30afe8d3d88e778b4170149793cfc5417750bdf276a3d037b9ba07d2ce6c4bcb",
+      "md_span": {
+        "start": 57481,
+        "end": 58881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_62",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_62/20010503",
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "3ième PARTIE — **La communication au public par satellite et la retransmission par câble**",
+        "Section 2 — Retransmission par câble"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Lorsque les parties ne parviennent pas à s'accorder sur une convention autorisant la retransmission par câble, elles peuvent faire appel à un ou à plusieurs médiateurs.",
+      "text_sha256": "461bf0715a332306f14af774aedc5ac795ba82a86c4f26931fd056cfa4980ac2",
+      "md_span": {
+        "start": 58918,
+        "end": 59086
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_63",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_63/20040503",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "3ième PARTIE — **La communication au public par satellite et la retransmission par câble**",
+        "Section 3 — Autorisation d'émission"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Sauf stipulation contractuelle contraire, les autorisations prévues aux sections 1 et 2 de la présente partie impliquent, pour l'organisme de radiodiffusion bénéficiaire, la faculté d'utiliser aux fins d'émission, des instruments portant fixation des sons ou des images licitement confectionnés.\n\nSont licites les enregistrements éphémères ou conservés dans des archives officielles, dans les conditions des articles 10, 9° et 46, 7°.",
+      "text_sha256": "0a65c935bc8e86b467ece6447644b7bca7d125ae7613b16d7c030b6da4bbc03a",
+      "md_span": {
+        "start": 59164,
+        "end": 59598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_64",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_64/20010503",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "4ième PARTIE — **Dispositions relatives au prêt et à la location**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Lorsqu'un auteur ou un artiste interprète ou exécutant a transféré ou cédé son droit de location en ce qui concerne un phonogramme ou l'original ou une copie d'une œuvre audiovisuelle à un producteur de phonogrammes ou de films, il conserve le droit d'obtenir une rémunération équitable au titre de la location.\n\nCe droit ne peut pas faire l'objet d'une renonciation de la part des auteurs ou artistes interprètes ou exécutants.",
+      "text_sha256": "c8f5140b1924f4631e7a75eb95252ff3f96588f2a1445fd744389d6951040de7",
+      "md_span": {
+        "start": 59706,
+        "end": 60134
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_65",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_65/20010503",
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "4ième PARTIE — **Dispositions relatives au prêt et à la location**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Lorsque l'œuvre ou la prestation ont été licitement rendues accessibles au public, l'auteur et le titulaire de droits voisins ne peuvent interdire le prêt public.\n\nToutefois, les auteurs et les artistes interprètes ou exécutants ont droit à une rémunération au titre de ce prêt dans les conditions fixées par un règlement grand-ducal qui en précise le montant et détermine les établissements de prêt exemptés du paiement de cette rémunération.",
+      "text_sha256": "bbb57d6d3a6728f7da8636be1be6bfe2ba66b7fb7a7c0af6ccb92f8ea93b69b5",
+      "md_span": {
+        "start": 60171,
+        "end": 60614
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_66",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_66/20180429",
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "Ve PARTIE — **Commissaire aux droits d’auteur et droits voisins**"
+      ],
+      "article_valid_from": "2018-04-29",
+      "text_md": "Il est institué un commissaire aux droits d’auteur et droits voisins, désigné par le ministre ayant les droits d’auteur et les droits voisins dans ses attributions.\n\nLe commissaire est membre de la commission des droits d’auteur et des droits voisins instituée à l’article 92.",
+      "text_sha256": "35bb2019207ccf5c7061b38626fe3e51390a274187ee17569a606318a5ea4d4a",
+      "md_span": {
+        "start": 60721,
+        "end": 60997
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_67",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_67/20040503",
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "6ième PARTIE — **Protection des droits sui generis sur des bases de données**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "**1.** Le producteur d'une base de données peut interdire l’extraction ou la réutilisation de la totalité ou d’une partie substantielle, évaluée de façon qualitative ou quantitative, du contenu de cette base de données.\n\nL’extraction ou la réutilisation répétées et systématiques de parties non substantielles du contenu d'une base de données, qui seraient contraires à l'exploitation normale de cette base de données ou qui causeraient un préjudice injustifié aux intérêts légitimes du producteur de la base ne sont pas autorisées.\n\nEst considéré comme extraction, le transfert permanent ou temporaire de la totalité ou d’une partie substantielle du contenu d’une base de données sur un autre support par quelque moyen ou sous quelque forme que ce soit, à l’exception du prêt public.\n\nEst considérée comme réutilisation, toute forme de mise à la disposition du public, par distribution de copies, par location, par transmission en ligne ou sous d'autres formes, de tout ou d’une partie substantielle du contenu d’une base de données, à l'exception du prêt public.\n\nLa première vente d'une copie de base de données dans la Communauté par le titulaire du droit, ou avec son consentement, épuise le droit de contrôler la revente de cette copie dans la Communauté.\n\nLe droit visé au premier alinéa du présent paragraphe peut être transféré, cédé ou donné en licence contractuelle.\n\nLe droit visé audit premier alinéa s’applique indépendamment de toute protection des bases de données ou de leur contenu par le droit d’auteur ou par d’autres droits et est sans préjudice des droits existant sur leur contenu.\n\nLa protection des bases de données ne s’étend pas aux programmes d’ordinateur utilisés le cas échéant pour leur création, leur fonctionnement ou leur consultation.\n\n**2.** Est producteur de base de données la personne physique ou morale qui prend l'initiative et assume à titre principal le risque d'effectuer les investissements nécessaires à la création d'une base de données.\n\n**3.** Est considérée comme une base de données visée par la présente partie, celle dont l'obtention, la vérification ou la présentation du contenu atteste d'un investissement qualitatif ou quantitatif substantiel.\n\nEst également considérée comme une base de données protégée en vertu de la présente partie, celle dont le contenu a fait l'objet d'une modification substantielle évaluée de façon qualitative ou quantitative, résultant notamment de l’accumulation d’ajouts, de suppressions ou de changements successifs, qui atteste d'un investissement qualitatif ou quantitatif substantiel.\n\nPour autant qu’elles soient licitement rendues publiques, les bases de données appartenant à l’Etat peuvent être copiées dans leur intégralité dans les conditions fixées par règlement grand-ducal.",
+      "text_sha256": "3703668bdd93da1b33bf8de54b4674ed51bf0c84c8058145c4c153fab37aae69",
+      "md_span": {
+        "start": 61116,
+        "end": 63888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67bis",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_67bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_67bis_extra_italique_et_souligne/20040503",
+      "type": "article",
+      "num": "Art. 67bis.",
+      "heading": null,
+      "path": [
+        "6ième PARTIE — **Protection des droits sui generis sur des bases de données**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "**1.** Le producteur d’une base de données qui est mise à la disposition du public de quelque manière que ce soit ne peut empêcher l’utilisateur légitime de cette base d’extraire ou de réutiliser des parties non substantielles de son contenu, évaluées de façon qualitative ou quantitative, à quelque fin que ce soit. Dans la mesure où l’utilisateur légitime est autorisé à extraire ou à réutiliser une partie seulement de la base de données, le présent paragraphe s’applique à cette partie.\n\n**2.** L’utilisateur légitime d’une base de données qui est mise à la disposition du public de quelque manière que ce soit ne peut pas effectuer des actes qui sont en conflit avec l’exploitation normale de cette base, ou qui lèsent de manière injustifiée les intérêts légitimes du producteur de la base.\n\n**3.** L’utilisateur légitime d’une base de données qui est mise à la disposition du public de quelque manière que ce soit ne peut porter préjudice au titulaire d’un droit d’auteur ou d’un droit voisin portant sur des œuvres ou des prestations contenues dans cette base.\n\n**4.** Toute disposition contractuelle contraire au présent article est nulle et non avenue.",
+      "text_sha256": "52d67c93833589d61d49a63a70b2189d21ad4fbc0f623c20a944f05203a0dd95",
+      "md_span": {
+        "start": 63931,
+        "end": 65092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_68",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_68/20040503",
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "6ième PARTIE — **Protection des droits sui generis sur des bases de données**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Sans préjudice des dispositions relatives aux droits d'auteur et aux droits voisins, tout utilisateur légitime d'une base de données mise à la disposition du public peut, sans autorisation du producteur de base de données, extraire et réutiliser une partie substantielle du contenu de celle-ci:\n\n1. lorsqu'il s'agit d'une extraction à des fins privées du contenu d'une base de données non électronique;\n2. lorsqu'il s'agit d'une extraction à des fins d'illustration de l'enseignement ou de recherche scientifique, pour autant qu'il indique la source et dans la mesure justifiée par le but non commercial à atteindre;\n3. lorsqu'il s'agit d'une extraction et/ou d'une réutilisation à des fins de sécurité publique ou aux fins d'une procédure administrative ou juridictionnelle.",
+      "text_sha256": "34f171e416d7313d2f90a59ed1b052b1f9365e2125dafb7330c1c78b4a96e0e9",
+      "md_span": {
+        "start": 65129,
+        "end": 65904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_69",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_69/20040503",
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "6ième PARTIE — **Protection des droits sui generis sur des bases de données**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "La protection prévue par la présente section expire 15 ans après le 1er janvier de l'année qui suit la date de l'achèvement de la base de données ou dans le cas d’une base de données qui a été mise à la disposition du public de quelque manière que ce soit avant l’expiration de la période prémentionnée de l'année qui suit la date à laquelle la base a été mise à la disposition du public pour la première fois.\n\nToute modification substantielle évaluée de façon qualitative ou quantitative, résultant notamment de l’accumulation d’ajouts, de suppressions ou de changements successifs, du contenu d'une base de données qui ferait considérer qu’il s’agit d’un nouvel investissement qualitatif ou quantitatif substantiel permet d'attribuer à la base qui résulte de cet investissement une durée de protection propre.",
+      "text_sha256": "0aebe043d21f306a45c942fda9b63c1d3b3513f6a194d27abde4db58fd5909ba",
+      "md_span": {
+        "start": 65941,
+        "end": 66753
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_70",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_70_extra_italique_et_souligne/20040503",
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "6ième PARTIE — **Protection des droits sui generis sur des bases de données**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "**1.** La protection prévue à la présente partie s’applique aux bases de données dont le producteur ou le titulaire du droit:\n\n- est un ressortissant d’un Etat membre de l’Union européenne ou a sa résidence habituelle sur le territoire de l’Union européenne.\n\n- est une société constituée en conformité avec la législation d’un Etat membre de l’Union européenne et qui a son siège statutaire, son administration centrale ou son établissement principal à l’intérieur de l’Union européenne. Néanmoins, si une telle société n’a que son siège statutaire sur le territoire de l'Union européenne, ses opérations doivent avoir un lien réel et continu avec l’économie d’un Etat membre.\n\n**2.** Un règlement grand-ducal pris en application des accords conclus par la Communauté européenne avec des pays tiers peut étendre la protection prévue par la présente partie à des bases de données produites dans des pays tiers à l’Union européenne et non couvertes par le paragraphe 1er. La durée de la protection accordée à ces bases de données ne peut pas dépasser celle prévue à l’article 69.",
+      "text_sha256": "db96474cca419c7675a1af92ea0678ee0026482bad0bb25858201acb359f7b54",
+      "md_span": {
+        "start": 66790,
+        "end": 67868
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_71",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_71/20010503",
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "7ième PARTIE — **Droit des étrangers**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les étrangers jouissent au Grand-Duché des droits garantis par la présente loi sans que la durée de ceux-ci puisse, en ce qui les concerne, excéder la durée fixée par la loi luxembourgeoise.\n\nToutefois, lorsque le pays d'origine de l'œuvre au sens de la Convention de Berne, pour la protection des œuvres littéraires et artistiques, ou le pays d'origine de la prestation, est un pays tiers non membre de l'Union européenne ou de l'Organisation Mondiale du Commerce et que l'auteur ou le titulaire du droit voisin n'est pas un ressortissant de l'Union européenne ou de l'Organisation Mondiale du Commerce, la durée de protection des droits prend fin à la date d'expiration de la protection accordée dans le pays d'origine de l'œuvre ou de la prestation.\n\nLes effets des conventions internationales sont réservés.",
+      "text_sha256": "6e54a1696a330b4f313b3b6a328a6463dcf8b34f3d712c52bf3d8b0510a8f158",
+      "md_span": {
+        "start": 67948,
+        "end": 68759
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71bis",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_71bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_71bis_idem_ici_et_nouveaux_articles_suivants/20040503",
+      "type": "article",
+      "num": "Art. 71bis.",
+      "heading": null,
+      "path": [
+        "7ième PARTIE — **Droit des étrangers**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Par dérogation à l’article 71 de la présente loi, les auteurs ressortissants de pays non membres de l’Union européenne et leurs ayants droit bénéficient du droit de suite conformément à l’article 30 de la présente loi et à son règlement d’exécution à condition que la législation du pays dont est ressortissant l’auteur ou son ayant droit admette la protection dans ce pays du droit de suite des auteurs des Etats membres et de leurs ayants droit.",
+      "text_sha256": "fe6424ab42b5db96123db7438034be0510527ca56d0e57367d520bf4a6104c72",
+      "md_span": {
+        "start": 68802,
+        "end": 69249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71ter",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_71ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_71ter/20040503",
+      "type": "article",
+      "num": "Art. 71ter.",
+      "heading": null,
+      "path": [
+        "Partie 7*bis*: — **La protection des mesures techniques et l’information sur le régime des droits**",
+        "Section 1 — Les mesures techniques"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Par «mesure technique» est visée toute technologie, dispositif ou composant qui, dans le cadre normal de son fonctionnement, est destiné à empêcher ou à limiter, en ce qui concerne les œuvres ou prestations protégées, les actes non autorisés par le titulaire d’un droit d’auteur, d’un droit voisin ou du droit sui generis prévu à la 6e partie de la présente loi.\n\nLes mesures techniques sont réputées efficaces lorsque l’utilisation d’une œuvre protégée ou d’une prestation protégée est contrôlée par les titulaires de droits grâce à l’application d’un code d’accès ou d’un procédé de protection, tel que le cryptage, le brouillage ou toute autre transformation de l’œuvre ou de la prestation ou d’un mécanisme de contrôle de copie qui atteint cet objectif de protection.",
+      "text_sha256": "a81d60c3a2df24b36bc67d490540a0c91a99439d3b21ee33cfd29e11b4d8d4b6",
+      "md_span": {
+        "start": 69436,
+        "end": 70207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71quater",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_71quater",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_71quater/20090601",
+      "type": "article",
+      "num": "Art. 71quater.",
+      "heading": null,
+      "path": [
+        "Partie 7*bis*: — **La protection des mesures techniques et l’information sur le régime des droits**",
+        "Section 1 — Les mesures techniques"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "Le contournement de toute mesure technique efficace par une personne qui sait, ou qui a des raisons valables de penser, qu’elle poursuit cet objectif, est interdit.\n\nIl est également interdit de fabriquer, d’importer, de distribuer, de vendre, de louer, de faire de la publicité en vue de la vente ou de la location, de posséder à des fins commerciales des dispositifs, produits ou composants ou de prester des services qui font l’objet d’une promotion, d’une publicité ou d’une commercialisation, dans le but de contourner la protection ou qui n’ont qu’un but commercial limité ou une utilisation limitée autre que de contourner la protection ou qui sont principalement conçus, produits, adaptés ou réalisés dans le but de permettre ou de faciliter le contournement de la protection de toute mesure technique efficace.\n\nCelui qui contrevient à une interdiction prévue aux alinéas précédents et qui n’agit pas à des fins strictement privées est puni des peines prévues à l’article 83 de la présente loi.\n\nTout intéressé, y compris un organisme autorisé en vertu de la présente loi à gérer ou à administrer des droits d’auteur ou des droits voisins, est en droit de demander la cessation de tout acte contrevenant à une interdiction prévue aux alinéas 1 et 2 ci-dessus.",
+      "text_sha256": "23cb34d5d673fb5fc433d67203d456aceb71efa3e28ca8dff929cd86f6604b74",
+      "md_span": {
+        "start": 70256,
+        "end": 71524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71quinquies",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_71quinquies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_71quinquies/20040503",
+      "type": "article",
+      "num": "Art. 71quinquies.",
+      "heading": null,
+      "path": [
+        "Partie 7*bis*: — **La protection des mesures techniques et l’information sur le régime des droits**",
+        "Section 1 — Les mesures techniques"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Nonobstant la protection juridique des mesures techniques, les titulaires de droits doivent prendre les mesures nécessaires, notamment par la voie contractuelle, afin de garantir aux bénéficiaires, qui ont un accès licite à l’œuvre ou la prestation protégée, un exercice sans entrave, et selon les conditions y prévues, des exceptions suivantes:\n\n1. illustration de l’enseignement dont question aux articles 10, 2° et 46, 9°,\n2. reproductions privées dont question aux articles 10, 4° et 46, 4°,\n3. enregistrements par des organismes de radiodiffusion dont question aux articles 10, 9° et 46, 7°,\n4. reproductions par des bibliothèques, etc. dont question à la première partie de l’article 10, 10°,\n5. utilisations au bénéfice de personnes affectées d’un handicap dont question à l’article 10, 11°,\n6. sécurité publique et bon déroulement des procédures dont question à l’article 10, 12°,\n7. utilisations de bases de données dont question aux articles 10bis et 68.\n\nDans la mesure où les titulaires des droits restent en défaut de prendre les mesures prévues au premier alinéa, les bénéficiaires des prédites exceptions, un groupement professionnel ou une association représentant leurs intérêts sont en droit d’intenter une action en cessation conformément à l’article 81 de la présente loi afin de faire cesser l’application des mesures techniques qui entravent l’exercice desdites exceptions.\n\nLes mesures techniques appliquées volontairement par les titulaires de droits conformément au premier alinéa, y compris celles mises en œuvre en application d’accords volontaires, ainsi que celles éventuellement mises en application en exécution d’une décision de justice sont protégées contre le contournement conformément à l’article 71quater ci-dessus.\n\nLes dispositions des premier et deuxième alinéas du présent article ne s’appliquent pas aux œuvres ou prestations qui sont mises à la disposition du public à la demande selon les dispositions contractuelles convenues entre les parties de manière que chacun puisse y avoir accès de l’endroit et au moment qu’il choisit individuellement.",
+      "text_sha256": "ca34bbf1a95a5c3dfd4457efcc248f0ba51581a7b223d3b79475c789bc3ac286",
+      "md_span": {
+        "start": 71579,
+        "end": 73668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71sexies",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_71sexies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_71sexies/20040503",
+      "type": "article",
+      "num": "Art. 71sexies.",
+      "heading": null,
+      "path": [
+        "Partie 7*bis*: — **La protection des mesures techniques et l’information sur le régime des droits**",
+        "Section 1 — Les mesures techniques"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Les dispositions de la présente section ne s’appliquent pas aux mesures techniques utilisées en relation avec des programmes d’ordinateur.",
+      "text_sha256": "730f92211d7c92f4e46a367b3688daecb06c5f154e8dce4d2a8077461c6b21e8",
+      "md_span": {
+        "start": 73717,
+        "end": 73855
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71septies",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_71septies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_71septies/20040503",
+      "type": "article",
+      "num": "Art. 71septies.",
+      "heading": null,
+      "path": [
+        "Partie 7*bis*: — **La protection des mesures techniques et l’information sur le régime des droits**",
+        "Section 2 — L’information sur le régime des droits"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Par «information sur le régime des droits» est visée toute information fournie par des titulaires de droits qui permet d’identifier l’œuvre, la prestation ou la base de données protégée en vertu de la 6e partie de la présente loi, l’auteur ou tout autre titulaire de droits. Cette notion désigne aussi les informations sur les conditions et modalités d’utilisation de l’œuvre, de la prestation ou de la base de données ainsi que tout numéro ou code représentant ces informations.\n\nL’information sur le régime des droits est assurée lorsque l’un quelconque des éléments d’information prévus par la définition du premier alinéa est joint à la copie ou apparaît en relation avec la communication au public d’une œuvre, d’une prestation ou d’une base de données protégée en vertu de la 6e partie de la présente loi.»",
+      "text_sha256": "0f378fb539884f7a45c5281ba219fd8b65f41af0bbffff7dfe4c3932b09064ee",
+      "md_span": {
+        "start": 73962,
+        "end": 74774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71octies",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_71octies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_71_octies/20090601",
+      "type": "article",
+      "num": "Art. 71octies.",
+      "heading": null,
+      "path": [
+        "Partie 7*bis*: — **La protection des mesures techniques et l’information sur le régime des droits**",
+        "Section 2 — L’information sur le régime des droits"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "Sont interdites\n\n(1) la suppression ou la modification de toute information sur le régime des droits se présentant sous forme électronique, ou\n\n(2) la distribution, l’importation aux fins de distribution, la radiodiffusion, la communication au public ou la mise à la disposition du public des œuvres, prestations ou bases de données protégées en vertu de la présente loi et dont les informations sur le régime des droits se présentant sous forme électronique ont été supprimées ou modifiées sans autorisation\n\npar une personne qui agit sciemment, sans autorisation et en sachant ou en ayant des raisons valables de penser que, ce faisant, elle entraîne, permet, facilite ou dissimule une atteinte à un droit d’auteur, à un droit voisin ou au droit sui generis.\n\nCelui qui contrevient à l’interdiction prévue à l’alinéa précédent et qui n’agit pas à des fins strictement privées est puni des peines prévues à l’article 83 de la présente loi.\n\nToute personne intéressée, y compris un organisme autorisé en vertu de la présente loi à gérer ou à administrer des droits d’auteur ou des droits voisins, est en droit de demander la cessation de tout acte contrevenant à l’interdiction visée à l’alinéa 1er.",
+      "text_sha256": "8e2b71afc2933cb11b9124bc8f6286eef19d12f3f644ed36a6a3a29f28077ef7",
+      "md_span": {
+        "start": 74823,
+        "end": 76022
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_72",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_72/20090601",
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "Il est procédé aux mesures de conservation des preuves et aux mesures provisoires conformément aux articles 22 à 30 de la loi du 22 mai 2009 portant transposition de la Directive 2004/48/CE du 29 avril 2004 relative au respect des droits de propriété intellectuelle.",
+      "text_sha256": "1eb75ad1471f607f597539df7c21f4e2baec81ee0b4671c557fa77b312264e1d",
+      "md_span": {
+        "start": 76098,
+        "end": 76364
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/05/22/n2/jo",
+          "text": "loi du 22 mai 2009"
+        },
+        {
+          "href": "/eli/dir_ue/2004/48/jo",
+          "text": "Directive 2004/48/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_73_20200407",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_73_20200407",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_73/20090601",
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "La requête contiendra élection de domicile dans les communes où doit avoir lieu la description.\n\nLes experts prêteront serment entre les mains du président du tribunal d'arrondissement avant de commencer leurs opérations.",
+      "text_sha256": "380d17e09a52e1e82b8b8447e4f267d53ff3eed28ed209faf259942c8fb59115",
+      "md_span": {
+        "start": 76410,
+        "end": 76631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_74",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_74/20090601",
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "La partie lésée a droit à réparation de tout préjudice qu’elle subit du fait d’une atteinte à un droit d’auteur, un droit voisin ou un droit sui generis sur une base de données. La juridiction qui fixe les dommages et intérêts:\n\n1. prend en considération tous les aspects appropriés tels que les conséquences économiques négatives, notamment le manque à gagner, subies par la partie lésée, les bénéfices injustement réalisés par le contrevenant et, dans des cas appropriés, des éléments autres que des facteurs économiques, comme le préjudice moral causé au titulaire du droit du fait de l’atteinte,\n2. à titre d’alternative, la juridiction peut décider, dans des cas appropriés, de fixer un montant forfaitaire de dommages-intérêts, sur la base d’éléments tels que, au moins, le montant des redevances ou droits qui auraient été dus si le contrevenant avait demandé l’autorisation d’utiliser le droit de propriété intellectuelle en question.",
+      "text_sha256": "c54d37cc3a8129156618300fca0ac5fef195154c4302bcaf0729aef1ca9a3e44",
+      "md_span": {
+        "start": 76668,
+        "end": 77610
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_75",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_75/20090601",
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "**(1)** La juridiction peut, à titre de dommages et intérêts, ordonner la délivrance à la partie demanderesse des biens contrefaisants, ainsi que, dans les cas appropriés, des matériaux et instruments ayant principalement servi à la création ou à la fabrication de ces biens, et qui sont encore en possession du défendeur.\n\nEn cas de mauvaise foi, la juridiction peut, à titre de dommages et intérêts, ordonner, en outre, la cession de tout ou partie du bénéfice réalisé à la suite de l’atteinte, ainsi que la reddition de compte à cet égard. Seuls les frais directement liés aux activités de contrefaçon concernées sont portés en déduction pour déterminer le bénéfice à céder.\n\n**(2)** En cas de mauvaise foi, la juridiction peut prononcer au profit du demandeur la confiscation des biens contrefaisants, ainsi que, dans les cas appropriés, des matériaux et instruments ayant principalement servi à la création ou à la fabrication de ces biens, et qui sont encore en possession du défendeur. Si les biens, matériaux et instruments ne sont plus en possession du défendeur, la juridiction peut allouer une somme égale au prix reçu pour les biens, matériaux et instruments cédés.",
+      "text_sha256": "0e2013c4597e1a4bdfbcc0f0105ace8d1c8648d42c087c1d5fdc5dec9cec790c",
+      "md_span": {
+        "start": 77647,
+        "end": 78824
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_76",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_76/20090601",
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "Lorsque la juridiction constate une atteinte au droit d’auteur, à un droit voisin ou à un droit sui generis sur des bases de données, il ordonne la cessation de celle-ci à tout auteur de l’atteinte.\n\nLa juridiction peut également rendre une injonction de cessation à l’encontre des intermédiaires dont les services sont utilisés par un tiers pour porter atteinte au droit d’auteur, à un droit voisin ou à un droit sui generis sur des bases de données. Sont également applicables les articles 2059 à 2066 du Code Civil.",
+      "text_sha256": "1963b1d91a9d7d25e3065323e1aa36d655c1c98452d02e51b4efef7754e046fc",
+      "md_span": {
+        "start": 78861,
+        "end": 79379
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code Civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_77",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_77/20090601",
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "Sans préjudice des éventuels dommages et intérêts dus à la partie lésée à raison de l’atteinte et sans dédommagement d’aucune sorte, la juridiction peut ordonner, à la demande de la partie habilitée à agir en contrefaçon, le rappel des produits contrefaits se trouvant dans les circuits commerciaux, la mise à l’écart définitive des circuits commerciaux ou la destruction des matériaux et instruments ayant principalement servi à la création ou à la fabrication des produits contrefaits ainsi que, dans les cas appropriés, des matériaux et instruments ayant principalement servi à la création ou à la fabrication de ces biens.\n\nCes mesures sont mises en œuvre aux frais du contrevenant, à moins que des raisons particulières ne s’y opposent.\n\nLors de l’appréciation d’une demande visée à l’alinéa 1er, il sera tenu compte de la proportionnalité entre la gravité de l’atteinte et les mesures ordonnées, ainsi que des intérêts des tiers.",
+      "text_sha256": "60b3e36b11ad84e22204c7259d9a1f52888e1ab6c631f299893628a4b91fe276",
+      "md_span": {
+        "start": 79416,
+        "end": 80351
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_78",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_78/20090601",
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "**(1)** Lorsque dans le cadre d’une action en contrefaçon, la juridiction constate une atteinte, il peut ordonner, à la demande de la partie habilitée à agir en contrefaçon, à l’auteur de l’atteinte de fournir à la partie qui introduit cette action toutes les informations dont il dispose concernant l’origine et les réseaux de distribution des biens et services contrefaisants et de lui communiquer toutes les données s’y rapportant, pour autant qu’il s’agisse d’une mesure justifiée et proportionnée.\n\n**(2)** Une même injonction peut être faite à la personne:\n\n1. qui a été trouvée en possession des biens contrefaisants à l’échelle commerciale,\n2. qui a été trouvée en train d’utiliser des services contrefaisants à l’échelle commerciale,\n3. qui a été trouvée en train de fournir, à l’échelle commerciale, des services utilisés dans les activités contrefaisantes,\n4. qui a été signalée, par la personne visée aux points a), b) ou c), comme intervenant dans la production, la fabrication ou la distribution des marchandises ou la fourniture des services.\n\n**(3)** Les informations visées comprennent, selon les cas:\n\n1. les noms et adresses des producteurs, fabricants, distributeurs, fournisseurs et autres détenteurs antérieurs des marchandises ou des services, ainsi que des grossistes destinataires et des détaillants;\n2. des renseignements sur les quantités produites, fabriquées, livrées, reçues ou commandées, ainsi que sur le prix obtenu pour les marchandises ou services en question.",
+      "text_sha256": "395bed3ec74b984ca3fc58a45b9e93e9901c0e08bffcdabdaa5a7afdd906f177",
+      "md_span": {
+        "start": 80388,
+        "end": 81883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_79",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_79/20090601",
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "La juridiction peut prescrire l’affichage de sa décision ou du résumé qu’il en rédige, pendant le délai qu’il détermine, aussi bien à l’extérieur qu’à l’intérieur des établissements du contrevenant et ordonner la publication de son jugement ou du résumé par la voie de journaux ou de toute autre manière, le tout aux frais du contrevenant.",
+      "text_sha256": "465bf3954ef8a458717569906e2d70541e1ea2f808481adf8c5bef71691d9374",
+      "md_span": {
+        "start": 81920,
+        "end": 82259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80_20200407",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_80_20200407",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_80/20090601",
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2009-06-01",
+      "text_md": "Les recettes et les objets confisqués pourront être alloués à la partie civile, à compte ou à concurrence du préjudice souffert.",
+      "text_sha256": "ba6f6c50d5a2598c664561ef183d31757bcb817edf22018590efd5e38d6d75d2",
+      "md_span": {
+        "start": 82305,
+        "end": 82433
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_81",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_81/20040503",
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "8ième PARTIE — **Actions civiles**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Sans préjudice de la compétence du tribunal d'arrondissement siégeant en matière civile, le magistrat présidant cette Chambre, ordonne la cessation de toute atteinte aux droits d'auteur, à un droit voisin ou à un droit sur une base de données sui generis, à la requête de tout intéressé, y compris un organisme autorisé en vertu de la présente loi à gérer ou à administrer des droits d'auteur ou des droits voisins.\n\nL'action est introduite et jugée comme en matière de référé, conformément aux articles 934 à 940 du Nouveau Code de procédure civile. Toutefois, par dérogation à l'article 811-1, alinéa 2 du Code de procédure civile, l'ordonnance de référé n'est pas susceptible d'opposition.\n\nSont également applicables les articles 2059 à 2066 du Code civil.\n\nIl est statué sur l'action nonobstant toute poursuite exercée en raison des mêmes faits devant une juridiction pénale.\n\nOutre la cessation de l'acte litigieux, le président peut ordonner selon la manière qu'il jugera appropriée, la publication et l'affichage de tout ou partie du jugement aux frais de la partie qui succombe.",
+      "text_sha256": "506b602f243a8457ce3be295ed72300802137644a4dd945dae2d4fe37f604d00",
+      "md_span": {
+        "start": 82470,
+        "end": 83557
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Code de procédure civile"
+        },
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_82",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_82/20010503",
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "9ième PARTIE — **Sanctions pénales**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Toute atteinte méchante ou frauduleuse portée aux droits protégés au titre de la présente loi de l'auteur, des titulaires de droits voisins et des producteurs de bases de données constitue le délit de contrefaçon.\n\nEst coupable du même délit, quiconque, sciemment, vend, offre en vente, importe, exporte, fixe, reproduit, communique, transmet par fil ou sans fil, met à la disposition du public et de manière générale, met ou remet en circulation, à titre onéreux ou gratuit, une œuvre, une prestation ou une base de données sans autorisation de l'auteur, du titulaire des droits voisins ou du producteur de base de données.\n\nEst ainsi notamment coupable de ce délit, quiconque, sciemment, met à la disposition du public des phonogrammes, vidéogrammes, CD-ROM, multimédias ou tous autres supports, programmes ou bases de données réalisés sans l'autorisation des titulaires de droits d'auteur ou de droits voisins ou des producteurs de bases de données, ainsi que ceux qui reproduisent des œuvres, des prestations ou des bases de données protégées pour les numériser, les mémoriser, les stocker, les distribuer, les injecter, et de façon générale, rendre possible leur accès par le public, ou leur communication au public.",
+      "text_sha256": "a2f88b89dabb26ec425229657f01896fe013f01df398e236ffa809e3e9cd4efe",
+      "md_span": {
+        "start": 83635,
+        "end": 84856
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_83",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_83/20010503",
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "9ième PARTIE — **Sanctions pénales**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les délits prévus à l'article précédent seront punis d'une amende de 251 à 250.000 euros.\n\nLa confiscation des ouvrages ou objets contrefaisants ou des supports contenant les contrefaçons, de même que celle des planches, moules ou matrices et autres ustensiles ayant directement servi à commettre les délits visés à l'article précédent, sans condition quant à leur propriété, sera prononcée contre les condamnés, ainsi que celle de leur matériel de copiage, de numérisation ou d'injection sur les réseaux. Le jugement pourra de même ordonner la destruction des choses confisquées.",
+      "text_sha256": "d3c7846b2534f1e301818ae851550170d54519e3b44886d7f4147688005f0b14",
+      "md_span": {
+        "start": 84893,
+        "end": 85473
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_84",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_84/20010503",
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "9ième PARTIE — **Sanctions pénales**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "L'application méchante ou frauduleuse sur une œuvre ou une base de données protégée du nom d'un auteur ou d'un titulaire de droits voisins ou d'un droit sui generis du producteur de base de données ou de tout autre signe distinctif adopté par lui pour désigner son œuvre, sa prestation ou sa production sera punie d'un emprisonnement de 3 mois à 2 ans et d'une amende de 251 à 250.000 euros ou de l'une de ces peines seulement. Il en est de même pour l'application méchante ou frauduleuse à l'occasion de l'exploitation de la prestation d'un titulaire de droits voisins ou d'un producteur de bases de données ou sur le support qui contient cette prestation du nom d'un titulaire de droits voisins ou d'un droit «sui generis» des producteurs de bases de données ou de tout autre signe distinctif adopté par lui.\n\nLa confiscation des objets contrefaits sera prononcée dans tous les cas. Le juge pourra de même ordonner leur destruction.\n\nCeux qui, sciemment, vendent, offrent en vente, importent, exportent, fixent, reproduisent, communiquent, transmettent par fil ou sans fil, mettent à la disposition du public et de manière générale, mettent ou remettent en circulation à titre onéreux ou gratuit, les objets ou prestations désignés au premier alinéa du présent article seront punis des mêmes peines.",
+      "text_sha256": "342e0110138a53966c1522e0d6dab2e7ff8ad7bbeeb397eadba4ac54e21b232e",
+      "md_span": {
+        "start": 85510,
+        "end": 86811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_85",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_85/20010503",
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "9ième PARTIE — **Sanctions pénales**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Toute récidive relative aux délits prévus aux articles précédents est punie d'un emprisonnement de 3 mois à 2 ans et d'une amende de 500 à 500.000 euros, ou de l'une de ces peines seulement.\n\nEn outre, le tribunal peut ordonner, soit à titre définitif, soit à titre temporaire pendant la durée qu'il précise, la fermeture de l'établissement exploité par le condamné pour une durée qui ne dépassera pas 5 ans. Il peut également ordonner, aux frais du condamné, la publication et l'affichage du jugement prononçant la condamnation.",
+      "text_sha256": "085cc4dabe50b5cb88962c446af63c07be90604da60f7aa63305595e7ac6f303",
+      "md_span": {
+        "start": 86848,
+        "end": 87377
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_86",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_86/20010503",
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "9ième PARTIE — **Sanctions pénales**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les personnes morales sont solidairement tenues responsables des condamnations, dommages et intérêts, amendes, frais, confiscations, restitutions et sanctions pécuniaires et en nature, prononcées pour infraction aux dispositions de la présente loi contre leurs administrateurs, représentants et préposés.",
+      "text_sha256": "3e1d87231f39ac3647abb710ff05a4543405503d85030abf3217d8ad3b6e1889",
+      "md_span": {
+        "start": 87414,
+        "end": 87718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_87",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_87/20010503",
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": null,
+      "path": [
+        "9ième PARTIE — **Sanctions pénales**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La disposition suivante est ajoutée au N.23 de l'article 1er de la loi du 13 mars 1870 sur les extraditions:",
+      "text_sha256": "8f0e337ae24f06223f61f00d557a4150682afe161cb5741eaba5158b489f0132",
+      "md_span": {
+        "start": 87755,
+        "end": 87863
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1870/03/13/n2/jo",
+          "text": "loi du 13 mars 1870"
+        }
+      ]
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_88",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_88/20010503",
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": null,
+      "path": [
+        "10ième PARTIE — **Difficultés et abus de négociation**",
+        "Section 1 — Médiateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Lorsque les parties ne parviennent pas à s'accorder sur une convention portant sur une cession ou une licence des droits d'auteur ou de droits voisins, elles peuvent faire appel à un ou plusieurs médiateurs qui procéderont selon les règles prévues à l'article 1227 du Nouveau Code de procédure civile.",
+      "text_sha256": "58375d9499ed854972032cf24e892d4c5b976a53b83732909235559ad53042c1",
+      "md_span": {
+        "start": 87986,
+        "end": 88287
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_89",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_89/20010503",
+      "type": "article",
+      "num": "Art. 89.",
+      "heading": null,
+      "path": [
+        "10ième PARTIE — **Difficultés et abus de négociation**",
+        "Section 1 — Médiateur"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Le médiateur a pour tâche d'aider aux négociations. Il peut soumettre des propositions aux parties concernées qui sont censées les avoir acceptées si, dans un délai de trois mois à partir de la notification des propositions, aucune d'entre elles n'a notifié son opposition au médiateur.\n\nLes propositions du médiateur et toute opposition à celles-ci sont notifiées aux parties concernées par pli recommandé à la poste.",
+      "text_sha256": "13a9e748b2f95ca42e72dcf9732e4eb28990edc4518dea838c0e2e18a1ca3de8",
+      "md_span": {
+        "start": 88324,
+        "end": 88742
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_90",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_90",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_90/20010503",
+      "type": "article",
+      "num": "Art. 90.",
+      "heading": null,
+      "path": [
+        "10ième PARTIE — **Difficultés et abus de négociation**",
+        "Section 2 — Abus de négociation"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Lorsqu'une partie estime que les négociations qu'elle mène en vue de conclure une convention pour l'utilisation de droits d'auteur ou de droits voisins sont manifestement entravées sans justification valable par une autre partie qui se trouve dans les conditions visées par l'article 1er de la loi du 17 juin 1970 concernant les pratiques commerciales restrictives, elle peut saisir la Commission des pratiques restrictives.\n\nLa procédure se déroulera comme il est dit dans la loi précitée du 17 juin 1970.",
+      "text_sha256": "a6bc14a1372abbc0e485ffa90d1751c3abc0e671e8af62e71e6f9a2ec4c57c2f",
+      "md_span": {
+        "start": 88816,
+        "end": 89322
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1970/06/17/n2/jo",
+          "text": "loi du 17 juin 1970"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1970/06/17/n2/jo",
+          "text": "loi précitée du 17 juin 1970"
+        }
+      ]
+    },
+    {
+      "anchor": "art_91",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_91",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_91/20040503",
+      "type": "article",
+      "num": "Art. 91.",
+      "heading": null,
+      "path": [
+        "11ième PARTIE — **Impossibilité de déterminer le titulaire des droits d'auteur ou des droits voisins**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Dans le cas où un utilisateur veut reproduire ou communiquer une œuvre ou une prestation licitement rendues accessibles au public dont, malgré ses efforts, il ne parvient pas à déterminer le titulaire des droits d'auteur ou des droits voisins, et qu'il apporte la preuve que l'auteur ou le prestataire est décédé, cet utilisateur peut demander au Tribunal d'arrondissement siégeant en matière commerciale de l'autoriser à y procéder.\n\nLe tribunal vérifie que l'utilisateur a fait ses meilleurs efforts pour identifier le titulaire du droit et qu'il n'a pu y parvenir.\n\nLa demande d'autorisation est publiée, aux frais de l'utilisateur, au registre prévu à la douzième partie de la loi, pendant un mois au moins avant que le tribunal ne statue sur la demande.\n\nS'il décide de faire droit à la demande d'autorisation, le tribunal fixe le montant provisionnel des droits que l'utilisateur doit, préalablement à toute utilisation, cantonner auprès de la caisse de consignation.\n\nLe jugement est publié par extrait dans un journal à diffusion nationale à la diligence de l’utilisateur et à ses frais.\n\nDans le cas où le titulaire du droit se fait connaître, il donne assignation à l'utilisateur à comparaître devant le tribunal. Le tribunal lui attribue la provision cantonnée après vérification de ses titres. Le titulaire du droit fixe le montant de la rémunération pour l'utilisation de son œuvre ou de sa prestation. Il peut la réclamer directement à l'utilisateur.",
+      "text_sha256": "47951475322b621a8e871e1b935ada1f8002127e1dbb9223d5c4cd33516926c7",
+      "md_span": {
+        "start": 89466,
+        "end": 90930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_92",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_92",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_92/20010503",
+      "type": "article",
+      "num": "Art. 92.",
+      "heading": null,
+      "path": [
+        "12ième PARTIE — **Commission des droits d'auteur et des droits voisins**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Il est institué auprès du ministre qui a les droits d'auteur dans ses attributions une Commission des droits d'auteur et des droits voisins. Cette Commission a compétence:\n\n1. Pour donner des avis sur les tarifs et barèmes des organismes de gestion collective.\n2. Pour donner des avis à tout intéressé lors de la conclusion de contrats concernant les droits d'auteur ou les droits voisins.\n3. Pour donner des avis au ministre sur toute question relative aux droits d'auteur et aux droits voisins, d'initiative ou sur sa demande.",
+      "text_sha256": "0fa0889295d15d944b88db41dcbcd6dd41613fd004652e87ab922234499774f7",
+      "md_span": {
+        "start": 91044,
+        "end": 91572
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_93",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_93",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_93/20010503",
+      "type": "article",
+      "num": "Art. 93.",
+      "heading": null,
+      "path": [
+        "12ième PARTIE — **Commission des droits d'auteur et des droits voisins**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Un règlement grand-ducal fixera la composition et les règles de fonctionnement de la Commission ainsi que la procédure.",
+      "text_sha256": "430516ef1709bf6cf6e9d38f565710a0d7c0a4eaa87ede543af63e0defa6a782",
+      "md_span": {
+        "start": 91609,
+        "end": 91728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_94_20200407",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_94_20200407",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_94/20010503",
+      "type": "article",
+      "num": "Art. 94.",
+      "heading": null,
+      "path": [
+        "13ième PARTIE — **Registre des droits d'auteur, des droits voisins et des bases de données**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "Il est créé un Registre des droits d'auteur, des droits voisins et des bases de données.\n\nL'inscription dans ce registre donne date certaine au sens de l'article 1328 du Code civil.\n\nLe Registre informera sur la titularité des droits relative aux droits d'auteur, aux droits voisins et aux droits sui generis sur des bases de données.",
+      "text_sha256": "efb6cd1b98388a93e9dcffaa0fe4aa99d210764ef6d897be75aaba70b7b14f5a",
+      "md_span": {
+        "start": 91871,
+        "end": 92205
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_95_20200407",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_95_20200407",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_95/20010503",
+      "type": "article",
+      "num": "Art. 95.",
+      "heading": null,
+      "path": [
+        "13ième PARTIE — **Registre des droits d'auteur, des droits voisins et des bases de données**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "L'organisation du Registre, la procédure d'enregistrement, le tarif et la publicité des inscriptions seront déterminés par règlement grand-ducal.\n\nLa taxe d'inscription ne peut dépasser 10.000 francs.",
+      "text_sha256": "e98c97042a8848ccd2c77937adc009322410a33fd17fa72b4e37eaa429e98877",
+      "md_span": {
+        "start": 92251,
+        "end": 92451
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_96",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_96",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_96/20040503",
+      "type": "article",
+      "num": "Art. 96.",
+      "heading": null,
+      "path": [
+        "14ième PARTIE — **Dispositions transitoires et abrogatoires**"
+      ],
+      "article_valid_from": "2004-05-03",
+      "text_md": "**1.** La présente loi s'applique aux œuvres, bases de données et prestations réalisées avant son entrée en vigueur et non tombées dans le domaine public à ce moment.\n\n**2.** La présente loi ne porte pas préjudice aux droits acquis en vertu de la loi ou par l'effet d'actes juridiques, ni aux actes d'exploitation accomplis antérieurement à son entrée en vigueur et qui avaient été légalement posés sous l'empire des lois antérieures.\n\n**3.** La présente loi s'applique également aux bases de données, créées avant son entrée en vigueur, qui remplissent les conditions pour être protégées par le droit d'auteur et qui ne sont pas tombées dans le domaine public au 1er janvier 1998.\n\nLa protection par le droit sui generis prévue pour les bases de données s'applique auxdites bases de données à condition que leur fabrication ait été achevée pendant les 15 années précédant le 1er janvier 1998 et qu'elles remplissent à cette date les conditions de l'article 67. La durée de protection d'une telle base de données est de 15 années à compter du 1er janvier 1998.\n\nCependant, la protection ainsi prévue au profit des bases de données est accordée sans préjudice des actes conclus et des droits acquis avant l'entrée en vigueur desdites dispositions.",
+      "text_sha256": "209a0b010d7541ad5449a5788bf1d932c152c4e716daa82407f92e678b1fc808",
+      "md_span": {
+        "start": 92554,
+        "end": 93800
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_97",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_97",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_97/20010503",
+      "type": "article",
+      "num": "Art. 97.",
+      "heading": null,
+      "path": [
+        "14ième PARTIE — **Dispositions transitoires et abrogatoires**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "La durée de protection prévue par la présente loi s'applique à toutes les œuvres et à toutes les prestations qui, à la date du 1er juillet 1995, étaient protégées dans au moins un Etat membre de l'Union européenne.\n\nLes œuvres tombées dans le domaine public avant le 1er juillet 1995 et qui ont déjà été exploitées librement et de bonne foi, pourront être exploitées par les mêmes personnes, sans que l'auteur ni les titulaires de droits voisins ne puissent faire valoir à leur égard leurs droits, pendant une période de trois mois suivant la date d'entrée en vigueur de la présente loi et pour autant qu'elles poursuivent les mêmes modes d'exploitation.",
+      "text_sha256": "1bba05f5d71f67300e35fd410c39756c7b8a6295d045fcdf1f8e1bd9b328d3f3",
+      "md_span": {
+        "start": 93837,
+        "end": 94491
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_97bis",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_97bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_97bis/20150217",
+      "type": "article",
+      "num": "Art. 97bis.",
+      "heading": null,
+      "path": [
+        "14ième PARTIE — **Dispositions transitoires et abrogatoires**"
+      ],
+      "article_valid_from": "2015-02-17",
+      "text_md": "**1.** Sans préjudice de tous actes d'exploitation intervenus avant le 1er novembre 2013, le paragraphe 2, alinéa 2 de l'article 9 s'applique aux compositions musicales comportant des paroles pour lesquelles, au minimum, la composition de la musique ou les paroles sont protégées dans au moins un État membre de l'Union européenne le 1er novembre 2013, ainsi qu'à celles qui sont postérieures à cette date.\n\nLa présente loi n'affecte pas les droits acquis des tiers.\n\n**2.** Les paragraphes 1er à 2*sexies* de l'article 45 s'appliquent aux fixations d'exécutions et aux phonogrammes qui sont postérieurs au 1er novembre 2013.\n\nIls s'appliquent également aux fixations d'exécutions et aux phonogrammes à l'égard desquels il existe une protection légale au profit de l'artiste interprète ou exécutant et du producteur encore en vigueur à cette date.\n\n**3.** En l'absence d'indication contraire claire dans le contrat, un contrat de transfert ou de cession conclu avant le 1er novembre 2013 est réputé continuer à produire ses effets au-delà de la date à laquelle, en vertu de l'article 45, paragraphe 1er dans sa version en vigueur au 30 octobre 2011, les droits de l'artiste interprète ou exécutant ne seraient plus protégés.\n\n**4.** Les contrats de transfert ou de cession en vertu desquels un artiste-interprète ou exécutant a droit à des paiements récurrents et qui ont été conclus avant le 1er novembre 2013 peuvent être modifiés au-delà de la cinquantième année après que le phonogramme a fait l'objet d'une communication licite au public, ou faute de cette publication, la cinquantième année après qu'il a fait l'objet d'une communication licite au public.",
+      "text_sha256": "b36489a14a2df835b76df4b36cbf4cf41af95a3bf251fedd8abd475cf6baa558",
+      "md_span": {
+        "start": 94534,
+        "end": 96195
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_98",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_98",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_98/20010503",
+      "type": "article",
+      "num": "Art. 98.",
+      "heading": null,
+      "path": [
+        "14ième PARTIE — **Dispositions transitoires et abrogatoires**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** Les contrats concernant l'exploitation d'œuvres et d'autres éléments protégés à la date d'entrée en vigueur de la présente loi sont soumis aux articles 57 et suivants à partir du 1er janvier 2000 s'ils expirent après cette date.\n\n**2.** Lorsqu'un contrat international de coproduction conclu avant le 1er janvier 1995 entre un coproducteur d'un Etat membre de l'Union européenne et un ou plusieurs coproducteurs d'autres Etats membres ou de pays tiers, prévoit expressément un régime de répartition entre les coproducteurs des droits d'exploitation par zones géographiques pour tous les moyens de communication au public, sans distinguer le régime applicable à la communication au public par satellite des dispositions applicables aux autres moyens de communication, et dans le cas où la communication au public par satellite de la coproduction porterait préjudice à l'exclusivité, notamment linguistique, de l'un des coproducteurs ou de ses cessionnaires sur un territoire déterminé, l'autorisation par l'un des coproducteurs ou de ses cessionnaires d'une communication au public par satellite est subordonnée au consentement préalable du bénéficiaire de cette exclusivité, qu'il soit coproducteur ou cessionnaire.",
+      "text_sha256": "907e57c95781c6229c6b5ffdcbfd47aad933a766e6a6289a67d57336f8676555",
+      "md_span": {
+        "start": 96232,
+        "end": 97454
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_99",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_99",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_99/20010503",
+      "type": "article",
+      "num": "Art. 99.",
+      "heading": null,
+      "path": [
+        "14ième PARTIE — **Dispositions transitoires et abrogatoires**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "**1.** Le droit à rémunération équitable pour la location prévue par l'article 64 ne s'applique pour les contrats conclus avant le 1er juillet 1994 que si l'auteur ou les titulaires de droits voisins ont présenté une demande à cet effet avant le 31 décembre 1997.\n\n**2.** Les titulaires de droit sont censés avoir autorisé la location ou le prêt des œuvres ou des prestations protégées dont il est prouvé qu'elles ont été mises à la disposition des tiers à cette fin ou qu'elles avaient été acquises avant l'entrée en vigueur de la présente loi.",
+      "text_sha256": "b782e4253902b72056590f1916835f75fe5c16abe278de0698762fc66ea185a8",
+      "md_span": {
+        "start": 97491,
+        "end": 98036
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_100",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_100",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_100/20010503",
+      "type": "article",
+      "num": "Art. 100.",
+      "heading": null,
+      "path": [
+        "14ième PARTIE — **Dispositions transitoires et abrogatoires**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Par dérogation à la loi budgétaire pour l'exercice 2001 concernant les engagements nouveaux de personnel dans les différents services et administrations de l'Etat, l'administration est autorisée à procéder, pour le compte du ministre ayant dans ses attributions l'Economie, à l'engagement d'un agent de la carrière supérieure de l'attaché de gouvernement.",
+      "text_sha256": "dbe6387f3dbbfb3b2be5bee98d2a924f68de51aeff94b83cea632abd2a4b7194",
+      "md_span": {
+        "start": 98075,
+        "end": 98430
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2000/12/22/n5/jo",
+          "text": "loi budgétaire pour l'exercice 2001"
+        }
+      ]
+    },
+    {
+      "anchor": "art_101",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_101",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_101/20010503",
+      "type": "article",
+      "num": "Art. 101.",
+      "heading": null,
+      "path": [
+        "14ième PARTIE — **Dispositions transitoires et abrogatoires**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Sont abrogées les lois du 29 mars 1972 et du 23 septembre 1975 respectivement sur le droit d'auteur et sur la protection des artistes interprètes ou exécutants, des producteurs de phonogrammes et des organismes de radiodiffusion, telles que modifiées par la suite.",
+      "text_sha256": "aecb3be4c945d187a74c5ea5a331d458e283457bb057b2d9756030965d5a4d80",
+      "md_span": {
+        "start": 98469,
+        "end": 98733
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1972/03/29/n1/jo",
+          "text": "29 mars 1972"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1975/09/23/n1/jo",
+          "text": "23 septembre 1975"
+        }
+      ]
+    },
+    {
+      "anchor": "art_102",
+      "provision_id": "lu-legilux:loi-2001-04-18-n2:2020-04-07#art_102",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/art_102/20010503",
+      "type": "article",
+      "num": "Art. 102.",
+      "heading": null,
+      "path": [
+        "14ième PARTIE — **Dispositions transitoires et abrogatoires**"
+      ],
+      "article_valid_from": "2001-05-03",
+      "text_md": "Les dispositions de la présente loi entreront en vigueur trois jours après leur publication au Mémorial.",
+      "text_sha256": "38ef546c3c060bb78364ac4b765fc4c3b2f04123dc53553eb7182fc9921e7d42",
+      "md_span": {
+        "start": 98772,
+        "end": 98876
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

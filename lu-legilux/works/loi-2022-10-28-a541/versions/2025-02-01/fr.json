@@ -1,0 +1,511 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/02/2025 : Loi du 28 octobre 2022 portant création de la procédure de dissolution administrative sans liquidation et modifiant :\\n1° le Code de commerce ;\\n2° le Nouveau Code de procédure civile ;\\n3° la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;\\n4° la loi modifiée du 19 décembre 2008 ayant pour objet la coopération interadministrative et judiciaire et le renforcement des moyens de l’Administration des contributions directes, de l’Administration de l’enregistrement et des domaines et de l’Administration des douanes et accises et portant modification de\\n- la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ;\\n- la loi générale des impôts («\u00A0Abgabenordnung\u00A0») ;\\n- la loi modifiée du 17 avril 1964 portant réorganisation de l’Administration des contributions directes ;\\n- la loi modifiée du 20 mars 1970 portant réorganisation de l’Administration de l’enregistrement et des domaines ;\\n- la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d’assurance sociale ;\\n5° la loi modifiée du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes de paiement et des comptes bancaires identifiés par un numéro IBAN et des coffres-forts.",
+  "valid_from": "2025-02-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2022-10-28-a541/versions/2025-02-01/fr.xml",
+    "sha256": "b1ca58a378d84dd9911c4a3a0bb8f135484a74b2ff81a8d5aea4e4741a120b78",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/consolide/20250201/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_1er/20230201",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 1re **–**** — **Les cas d’ouverture**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "Toute société commerciale qui tombe sous le champ d’application de l’article 1200-1, paragraphe 1er, de la loi modifiée du 10 août 1915 concernant les sociétés commerciales, qui n’a pas de salariés et qui ne dispose pas d’actif peut faire l’objet d’une procédure de dissolution administrative sans liquidation à l’initiative du procureur d’État.",
+      "text_sha256": "5ffc371959dfb35885bde5effa0efce011648a46052e80ae464af417b1471e40",
+      "md_span": {
+        "start": 2035,
+        "end": 2380
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_2/20230201",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 1re **–**** — **Les cas d’ouverture**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "Sont toutefois exclus de la procédure de dissolution administrative sans liquidation :\n\n1. loi modifiée du 18 décembre 2015\n2. er loi modifiée du 18 décembre 2015\n3. loi modifiée du 7 décembre 2015\n4. loi modifiée du 17 décembre 2010\n5. loi modifiée du 13 février 2007\n6. loi modifiée du 15 juin 2004\n7. règlement (UE) n° 648/2012\n8. er n° 909/2014 directives 98/26/CE 2014/65/UE règlement (UE) n° 236/2012\n9. loi modifiée du 13 juillet 2005\n10. er loi modifiée du 7 décembre 2015\n11. loi modifiée du 22 mars 2004 loi modifiée du 5 avril 1993 loi modifiée du 23 décembre 1998 loi du 27 juillet 2003 loi modifiée du 4 décembre 1967 loi modifiée du 16 octobre 1934 loi modifiée du 12 février 1979\n12. loi modifiée du 10 novembre 2009\n13. loi modifiée du 23 juillet 2016\n14. loi modifiée du 10 août 1991",
+      "text_sha256": "1a5ac6ba67d6e87559b5b454854da86a0c7c5f88796323dee29fa61d063ed586",
+      "md_span": {
+        "start": 2415,
+        "end": 3215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_3/20230201",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 1re **–**** — **Les cas d’ouverture**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "Les sociétés commerciales susceptibles de faire l’objet d’une procédure de dissolution administrative sans liquidation sont identifiées par le procureur d’État sur base de renseignements et documents obtenus par lui, notamment :\n\n1. une liste des sociétés commerciales pour lesquelles le gestionnaire du Registre de commerce et des sociétés constate sur base des inscriptions au Registre de commerce et des sociétés ou des documents déposés au Registre de commerce et des sociétés qu’elles contreviennent gravement aux lois régissant les sociétés commerciales ;\n2. loi modifiée du 19 décembre 2002\n3. loi modifiée du 19 décembre 2008 loi modifiée du 12 février 1979 loi générale des impôts loi modifiée du 17 avril 1964 loi modifiée du 20 mars 1970 loi modifiée du 27 novembre 1933\n\nLorsqu’il existe des indices précis et concordants qu’une société commerciale remplit les conditions fixées à l’article 1er, le procureur d’État requiert le gestionnaire du registre de commerce et des sociétés d’ouvrir une procédure de dissolution administrative sans liquidation.\n\nÀ compter de la publication au Recueil électronique des sociétés et associations de la décision d’ouverture de la procédure de dissolution administrative sans liquidation, l’article 444 du Code de commerce est applicable.\n\nLes communications entre le procureur d’État et le gestionnaire du Registre de commerce et des sociétés découlant de l’application de la procédure de dissolution sans liquidation judiciaire peuvent s’effectuer par voie électronique, à l’aide de procédés automatisés.",
+      "text_sha256": "3fd126de620339c11429d53aa93a67431a657628f3bc53e476109054fc527891",
+      "md_span": {
+        "start": 3250,
+        "end": 4804
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/commerce",
+          "text": "Code de commerce"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_4/20250201",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 2 **–**** — **Procédure**"
+      ],
+      "article_valid_from": "2025-02-01",
+      "text_md": "Le gestionnaire du Registre de commerce et des sociétés ouvre la procédure de dissolution administrative sans liquidation dans les trois jours de la réquisition visée à l’article 3, alinéa 2.\n\nIl notifie la décision d’ouverture de la procédure par lettre recommandée avec accusé de réception adressée au siège de la société tel qu’inscrit au registre de commerce et des sociétés et procède à sa publication par extraits dans les trois jours dans deux journaux édités au Grand-Duché de Luxembourg ainsi qu’au Recueil électronique des sociétés et associations conformément aux dispositions du titre Ier, chapitre V*bis*, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.\n\nSi la société commerciale n’a pas pu être touchée par voie de notification à son siège social en application de l’alinéa premier, la notification est considérée comme ayant été faite à partir de la date de la publication de la décision au Recueil électronique des sociétés et associations.",
+      "text_sha256": "e0b634a1762e99d77c67162b3bc0df40d2d4ff7b771ef2b684548436a4caf622",
+      "md_span": {
+        "start": 4880,
+        "end": 5945
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_5/20230201",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 2 **–**** — **Procédure**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "La publication de la décision d’ouverture de la procédure contient les informations suivantes :\n\n1. la dénomination de la société commerciale, le numéro d’immatriculation, le siège social, ainsi que l’indication de la date de l’ouverture de la procédure ;\n2. les motifs sur base desquels la procédure a été ouverte ;\n3. la possibilité de former un recours juridictionnel devant le magistrat présidant la chambre du tribunal d’arrondissement siégeant en matière commerciale statuant comme juge du fond dans un délai d’un mois suivant la date de la publication de la décision d’ouverture de la procédure de dissolution administrative sans liquidation au Recueil électronique des sociétés et associations.",
+      "text_sha256": "f3243a386cba428271906d9ca9f951c9e58044a129e33220ba114ede44c597ce",
+      "md_span": {
+        "start": 5980,
+        "end": 6682
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_6/20230201",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 2 **–**** — **Procédure**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "À partir de la date de la publication de la décision d’ouverture de la procédure, le gestionnaire du Registre de commerce et des sociétés exerce une mission de vérification qui a pour objet de confirmer l’absence d’actifs et de salariés.\n\nÀ cet effet, le gestionnaire du Registre de commerce et des sociétés requiert la communication de renseignements sur la situation financière ou administrative de la société commerciale faisant l’objet d’une procédure de dissolution administrative, de la part des personnes suivantes :\n\n1. des établissements de crédit identifiés comme disposant d’un ou plusieurs comptes bancaires, comptes de paiement ou coffres-forts au nom de la société ;\n2. loi modifiée du 7 décembre 2015\n3. des bureaux des hypothèques de Luxembourg et de Diekirch ;\n4. de l’Administration du cadastre et de la topographie ;\n5. de la Société nationale de circulation automobile ;\n6. du Centre commun de la sécurité sociale.\n\nLes personnes visées à l’alinéa 2 contactées dans le cadre de cette mission de vérification répondent dans un délai d’un mois à partir de la demande de communication.\n\nÀ défaut de réponse endéans le délai imparti, le gestionnaire du Registre de commerce et des sociétés poursuit la procédure de dissolution administrative sans liquidation.",
+      "text_sha256": "2b64abda80b68804e4323cab7b32a73f89bb4b03574bf337f6a905e79756d134",
+      "md_span": {
+        "start": 6717,
+        "end": 7992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_7/20230201",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 2 **–**** — **Procédure**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "**(1)** La transmission des renseignements visés à l’article 6 est effectuée par les personnes désignées par les professionnels et administrations. Elle peut se faire par voie électronique, selon des modalités techniques définies par le gestionnaire du Registre de commerce et des sociétés.\n\n**(2)** Les renseignements fournis au gestionnaire du Registre de commerce et des sociétés en application de l’article 6 peuvent être utilisés uniquement aux fins de vérification prescrites par la présente loi.\n\n**(3)** Les éventuels frais engendrés par la mission de vérification sont avancés par le gestionnaire du Registre de commerce et des sociétés.",
+      "text_sha256": "93b8df4589df3ec5213ea780afff7d9a80a83a3e9551a6a092cf4bd978ec274b",
+      "md_span": {
+        "start": 8027,
+        "end": 8673
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_8/20230201",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 2 **–**** — **Procédure**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "Après avoir effectué sa mission de vérification, le gestionnaire du Registre de commerce et des sociétés informe le procureur d’État du résultat de ses vérifications.\n\nS’il y a confirmation que les conditions cumulatives prévues à l’article 1er sont remplies, le procureur d’État demande au gestionnaire du Registre de commerce et des sociétés de poursuivre la procédure de dissolution administrative sans liquidation. Si une des conditions cumulatives prévues à l’article 1er n’est pas remplie, le procureur d’État demande au gestionnaire du Registre de commerce et des sociétés d’arrêter la procédure et de lui renvoyer le dossier.\n\nLa décision d’arrêt de la procédure est publiée par le gestionnaire du Registre de commerce et des sociétés au Recueil électronique des sociétés et associations conformément aux dispositions du titre Ier, chapitre V*bis*, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.",
+      "text_sha256": "5b432e9604bf8f7d6fc288c4baa2964de0a63fdbc14e29b4723dec04002d8aee",
+      "md_span": {
+        "start": 8708,
+        "end": 9720
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_9/20230201",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 2 **–**** — **Procédure**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "La procédure de dissolution administrative sans liquidation est clôturée au plus tard six mois après la publication de la décision d’ouverture.\n\nLa décision de clôture émanant du gestionnaire du Registre de commerce et des sociétés est publiée par le gestionnaire du Registre de commerce et des sociétés au Recueil électronique des sociétés et associations conformément aux dispositions du titre Ier, chapitre V*bis*, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.\n\nLa décision de clôture des opérations de la procédure de dissolution administrative sans liquidation entraîne la dissolution de la société.",
+      "text_sha256": "a4bfb6a1d12dd5a94a345419e019e155e49ff7ec958fbdf2faa72222c1764205",
+      "md_span": {
+        "start": 9755,
+        "end": 10469
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_10/20230201",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 3 **–**** — **Voies de recours**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "La société commerciale destinataire de la décision d’ouverture de la procédure de dissolution administrative sans liquidation, ainsi que tout tiers intéressé qui estime que les conditions cumulatives visées à l’article 1er ne sont pas remplies, peuvent former un recours contre cette décision devant le magistrat présidant la chambre du tribunal d’arrondissement siégeant en matière commerciale statuant comme juge du fond dans un délai d’un mois suivant la publication de la décision au Recueil électronique des sociétés et associations, conformément aux dispositions du titre Ier, chapitre V*bis*, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.\n\nL’action est introduite et jugée comme en matière de référé et il est fait application des articles 934, 935, 936, 937 et 939 du Nouveau Code de procédure civile. Par dérogation à l’article 934, alinéa 1er, du Nouveau Code de procédure civile, la demande peut être portée à une audience spécialement prévue pour ces affaires.\n\nL’assignation et l’acte d’appel sont signifiés au gestionnaire du Registre de commerce et des sociétés et au procureur d’État.",
+      "text_sha256": "15562cf26d372f85fb600d14b5efafd39ff878da37b51c10b6757dd7d4ace28c",
+      "md_span": {
+        "start": 10554,
+        "end": 11764
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_11/20230201",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 3 **–**** — **Voies de recours**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "Si le magistrat présidant la chambre du tribunal d’arrondissement siégeant en matière commerciale statuant comme juge du fond estime que les conditions cumulatives d’ouverture d’une procédure de dissolution administrative sans liquidation visées à l’article 1er ne sont pas remplies, il rapporte la décision d’ouverture.",
+      "text_sha256": "6120af9c6c9b6389501b9190db1d88f863638fed6f736cde0747e8054ecec5be",
+      "md_span": {
+        "start": 11801,
+        "end": 12121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_12/20230201",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 3 **–**** — **Voies de recours**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "En cas de décision de rabattre la procédure de dissolution administrative sans liquidation, la décision est publiée à la diligence du greffe du tribunal compétent au Recueil électronique des sociétés et associations conformément aux dispositions du titre 1er, chapitre V*bis*, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.",
+      "text_sha256": "e7291011a759c6aa0f3da17f5943e155f3740506a5ccaa4f359f335a06aed972",
+      "md_span": {
+        "start": 12158,
+        "end": 12590
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_13/20230201",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**",
+        "**Section 3 **–**** — **Voies de recours**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "**(1)** Si des actifs apparaissent postérieurement à la clôture de la procédure de dissolution administrative sans liquidation, le tribunal d’arrondissement siégeant en matière commerciale peut, à la requête du procureur d’État, rapporter la décision de clôture de la procédure de dissolution administrative sans liquidation de la société et en ordonner la liquidation.\n\n**(2)** La requête est publiée par extrait dans deux journaux édités au Grand-Duché de Luxembourg.\n\n**(3)** En ordonnant la liquidation, le tribunal nomme un juge-commissaire ainsi qu’un ou plusieurs liquidateurs. Il arrête le mode de liquidation. II peut rendre applicables, dans la mesure qu’il détermine, les règles régissant la liquidation de la faillite. Le mode de liquidation peut être modifié par décision ultérieure, soit d’office soit sur requête du ou des liquidateurs.\n\n**(4)** La société est réputée exister pour sa liquidation.\n\n**(5)** Les décisions judiciaires ordonnant la liquidation d’une société sont publiées par extrait au Recueil électronique des sociétés et associations, conformément aux dispositions du titre Ier, chapitre V*bis*, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises. Le tribunal peut, en outre, et en dehors des publications à faire dans les journaux édités au Grand-Duché de Luxembourg, en ordonner la publication par extrait dans des journaux étrangers qu’il désigne.\n\nLes publications sont faites à la diligence du ou des liquidateurs.\n\n**(6)** Le tribunal peut décider que le jugement ordonnant la liquidation est exécutoire par provision.\n\n**(7)** Le délai pour interjeter appel du jugement de mise en liquidation d’une société commerciale soumise au droit luxembourgeois est de quarante jours, à compter de la publication du jugement au Recueil électronique des sociétés et associations, conformément aux dispositions du titre Ier, chapitre V*bis*, de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises. L’action est introduite et jugée comme en matière de référé et il est fait application des articles 934, 935, 936, 937 et 939 du Nouveau Code de procédure civile. Par dérogation à l’article 934, alinéa 1er, du Nouveau Code de procédure civile, la demande peut être portée à une audience spécialement prévue pour ces affaires.\n\n**(8)** Les actions contre les liquidateurs se prescrivent par cinq ans à partir de la publication de la clôture de la liquidation.",
+      "text_sha256": "5c90991ecfbd20b93da90dbe6cdd63965f5f7dddd4c614b59a5a00364fcb248b",
+      "md_span": {
+        "start": 12627,
+        "end": 15213
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_14/20230201",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 **–**** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "À la suite de l’article 536-1 du Code de commerce, il est inséré un article 536-2 nouveau, ayant la teneur suivante : Art. 536-2.Le jugement de clôture des opérations de la faillite dissout la personne morale et emporte clôture immédiate de sa liquidation.",
+      "text_sha256": "ed4ef4172643e570d5267e104774df2986148fda3b7965e676c2859b7b7f98a3",
+      "md_span": {
+        "start": 15308,
+        "end": 15564
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/commerce",
+          "text": "Code de commerce"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_15/20230201",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 **–**** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "À la première partie, livre VII, titre XV, du Nouveau Code de procédure civile, il est inséré une section III, comprenant un nouvel article 948-1 ayant la teneur suivante :« Art. 948-1.À moins qu’il n’en soit disposé autrement, dans tous les cas dans lesquels compétence est attribuée à un juge statuant comme juge unique, il est fait application des articles 934, 935, 936, 937 et 939. Par dérogation à l’article 934, premier alinéa, la demande peut être portée à une audience spécialement prévue pour ces affaires ».",
+      "text_sha256": "73c95aa79529576fd9aa582a095a4a15790a254d7f3efca74e09ca7c4178b8c3",
+      "md_span": {
+        "start": 15601,
+        "end": 16119
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_16/20230201",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 **–**** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "La loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises est modifiée comme suit :\n\n1. Sont également à inscrire au registre de commerce et des sociétés, sous forme d’extraits : 1. le contrat de mariage et les changements apportés au régime matrimonial d’un commerçant personne physique ;\n2. Code civil Code civil\n3. les décisions judiciaires concernant les commerçants personnes physiques et portant ouverture d’une tutelle ou d’une curatelle, les décisions judiciaires irrévocables ordonnant la mainlevée de ces mesures ; les décisions judiciaires prononçant le divorce, la séparation de corps ou de biens ; celles admettant le débiteur au bénéfice de la cession ;\n4. les jugements et arrêts déclaratifs de faillite et de clôture de faillite, d’homologation ou de résolution du concordat obtenu par le failli ;\n5. les jugements et arrêts d’homologation, d’annulation ou de résolution du concordat préventif de la faillite ;\n6. les arrêts portant réhabilitation du failli ou prononçant un sursis de paiement ou la révocation de ce dernier ;\n7. les décisions judiciaires concernant la gestion contrôlée ;\n8. les décisions judiciaires prononçant la dissolution, ordonnant la liquidation d’une société, d’un groupement d’intérêt économique, d’un groupement européen d’intérêt économique et des autres personnes morales ou entités immatriculées et portant nomination d’un liquidateur et les décisions judiciaires prononçant la clôture de la procédure de dissolution et de liquidation ;\n9. les décisions judiciaires prononçant la fermeture d’un établissement au Grand-Duché de Luxembourg d’une société étrangère ;\n10. Code de commerce\n11. les décisions judiciaires portant nomination et fin de mandat d’un administrateur provisoire ou d’un séquestre ;\n12. règlement (CE) n° 1346/2000\n13. les décisions de liquidation volontaire ;\n14. loi modifiée du 31 mai 1999\n15. loi modifiée du 10 août 1915\n16. la décision judiciaire prononçant le rabattement d’une procédure de dissolution administrative sans liquidation ;\n17. loi du 28 octobre 2022\n2. **(1)** Les inscriptions prévues à l’article 13 sont à faire à la diligence : 1. du notaire instrumentant dans le cas prévu sous 1) ;\n2. dans les cas prévus sous 2) à 11) et 16), des mandataires désignés par décision judiciaire, auquel cas la demande d’inscription doit être accompagnée de la décision judiciaire en question, ou des greffiers des juridictions visées à l’article 13 ;\n3. des praticiens de l’insolvabilité ou de toute autorité habilitée dans le cas prévu sous 12) ;\n4. de l’organe ayant désigné le ou les liquidateurs dans le cas prévu sous 13) ;\n5. du domiciliataire, de la personne démissionnaire ou de leur mandataire dans les cas prévus sous 14) ;\n6. de la personne immatriculée ou de son mandataire dans le cas prévu sous 15) ;\n7. du gestionnaire du Registre de commerce et des sociétés dans le cas prévu sous 17). **(2)** Les inscriptions des décisions prévues à l’article 13 sous 2) à 12) comprennent : 1. la juridiction ayant rendu la décision ;\n2. le type et, le cas échéant, le sous-type de procédure, ainsi que le numéro de référence de l’affaire ;\n3. règlement (UE) 2015/848\n4. la date à laquelle la procédure a été ouverte ou clôturée ;\n5. l’adresse postale de la personne visée par la procédure, si elle diffère de l’adresse inscrite au Registre de commerce et des sociétés ;\n6. les nom, prénoms, ou, s’il s’agit d’une personne morale, la dénomination ou la raison sociale des tuteurs, curateurs, administrateurs provisoires, séquestre, commissaires à la gestion contrôlée, liquidateurs judiciaires et praticiens de l’insolvabilité, ainsi que leur adresse postale ou électronique ;\n7. le cas échéant, les nom et prénoms du magistrat en charge de la surveillance de la procédure ;\n8. le cas échéant, le délai fixé pour la production des créances ;\n9. la juridiction devant laquelle un recours peut être formé ainsi que, le cas échéant, les délais de recours applicables. **(3)** Les inscriptions concernant la liquidation volontaire comprennent l’identité du liquidateur, son adresse privée ou professionnelle ainsi que la date à laquelle la liquidation a été décidée ; s’il s’agit d’une personne physique, ses nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales non immatriculées auprès du Registre de commerce et des sociétés de Luxembourg, leur dénomination ou leur raison sociale, leur forme juridique et le numéro d’immatriculation au Registre de commerce et des sociétés, si la législation de l’État dont la personne morale relève prévoit un tel numéro ainsi que le nom du registre le cas échéant ou s’il s’agit de personnes morales immatriculées auprès du Registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation ; dans le cas où il s’agit de personnes morales, les nom, prénoms, date et lieu de naissance et adresse professionnelle ou privée précise du représentant permanent, personne physique, désigné par celles-ci. **(4)** Les inscriptions concernant la dénonciation de siège comprennent les nom, prénoms ou s’il s’agit d’une personne morale, la dénomination ou la raison sociale du domiciliataire, le numéro d’immatriculation s’il existe ainsi que l’adresse précise du siège dénoncé. **(5)** Les inscriptions concernant la démission comprennent les nom, prénoms ou s’il s’agit d’une personne morale, la dénomination ou la raison sociale ainsi que la fonction de la personne démissionnaire. **(6)** Les inscriptions concernant le dépositaire comprennent l’identité du dépositaire, l’adresse privée ou professionnelle ; s’il s’agit d’une personne physique, ses nom, prénoms, date et lieu de naissance ou s’il s’agit de personnes morales immatriculées auprès du Registre de commerce et des sociétés de Luxembourg, le seul numéro d’immatriculation. **(7)** Les inscriptions concernant la décision d’ouverture ou de clôture d’une procédure de dissolution administrative sans liquidation comprennent la date de la décision et les motifs sur base desquels la procédure a été ouverte.\n3. er Du Registre de l’insolvabilité Les informations relatives aux procédures d’insolvabilité inscrites au Registre de commerce et des sociétés en application de l’article 13 points 4 à 12), 16) et 17) sont regroupées dans un Registre de l’insolvabilité (en abrégé REGINSOL) consultable sur le site internet du gestionnaire du Registre de commerce et des sociétés.",
+      "text_sha256": "2557de4adccb20bbf5d6cb762a5a56876baf0d190a539bfeb96d3a133c0712a1",
+      "md_span": {
+        "start": 16156,
+        "end": 22625
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_17/20230201",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 **–**** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "À l’article 16 de la loi modifiée du 19 décembre 2008 ayant pour objet la coopération interadministrative et judiciaire et le renforcement des moyens de l’Administration des contributions directes, de l’Administration de l’enregistrement et des domaines et de l’Administration des douanes et accises et portant modification de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ; la loi générale des impôts (« Abgabenordnung ») ; la loi modifiée du 17 avril 1964 portant réorganisation de l’Administration des contributions directes ; la loi modifiée du 20 mars 1970 portant réorganisation de l’Administration de l’enregistrement et des domaines ; la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d’assurance sociale est inséré un nouveau paragraphe 4, à la suite du paragraphe 3, libellé comme suit :**Art. 16.**(4)L’Administration des contributions directes et l’Administration de l’enregistrement, des domaines et de la TVA transmettent au procureur d’État les informations susceptibles d’être utiles dans le cadre de l’identification de sociétés commerciales susceptibles de faire l’objet d’une procédure de dissolution administrative sans liquidation.",
+      "text_sha256": "89db0aa08b49758c069044065beebfc9780424410fd6c1a6e220688e4f32105f",
+      "md_span": {
+        "start": 22662,
+        "end": 23903
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n6/jo",
+          "text": "loi modifiée du 19 décembre 2008"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi modifiée du 12 février 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1931/05/22/n1/jo",
+          "text": "loi générale des impôts"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1964/04/17/n2/jo",
+          "text": "loi modifiée du 17 avril 1964"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1970/03/20/n2/jo",
+          "text": "loi modifiée du 20 mars 1970"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1933/11/27/n1/jo",
+          "text": "loi modifiée du 27 novembre 1933"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_18/20230201",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 **–**** — **Dispositions modificatives**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "La loi modifiée du 25 mars 2020 instituant un système électronique central de recherche et de données concernant des comptes de paiement et des comptes bancaires identifiés par un numéro IBAN et des coffres-forts tenus par des établissements de crédit au Luxembourg est modifiée comme suit :\n\n1. 1. bis **« (2*bis*)** Le gestionnaire du Registre de commerce et des sociétés peut, dans le cadre d’une procédure de dissolution administrative sans liquidation, demander à la CSSF, selon la procédure arrêtée par la CSSF et selon les conditions du paragraphe 3, de recevoir les données visées à l’article 2, paragraphe 1er, permettant l’identification des comptes de paiement, des comptes bancaires ou des coffres-forts tels que visés à l’article 2, paragraphe 1er, qui sont ouverts au nom de la société commerciale qui fait l’objet de la procédure de dissolution administrative sans liquidation. » ;\n2. **« (3)** Les autorités nationales, les organismes d’autorégulation et le gestionnaire du Registre de commerce et des sociétés désignent en leur sein un nombre limité de personnes autorisées à accéder au système électronique central de recherche de données conformément au paragraphe 1er ou à demander la réception des données conformément au paragraphe 2. Les autorités nationales, les organismes d’autorégulation et le gestionnaire du Registre de commerce et des sociétés donnent la liste du personnel spécifiquement désigné et autorisé à exécuter ces tâches à la CSSF et la mettent à jour immédiatement après tout changement. Les autorités nationales, les organismes d’autorégulation et le gestionnaire du Registre de commerce et des sociétés veillent à ce que le personnel habilité conformément au présent paragraphe, soit informé du droit de l’Union européenne et du droit national applicables, y compris les règles applicables en matière de protection des données. À cet effet, les autorités nationales, les organismes d’autorégulation et le gestionnaire du Registre de commerce et des sociétés veillent, à ce que le personnel habilité suive des programmes de formation spécialisés. » ;\n2. 1. paragraphe 2 bis\n2. ou du gestionnaire du Registre de commerce et des sociétés concerné\n3. de l’autorité nationale ou l’organisme d’autorégulation du",
+      "text_sha256": "9966de2f25e40ca69cbc1108fa1cb0c6c4e224ea069e6631d1ccd9eee8a12a3b",
+      "md_span": {
+        "start": 23940,
+        "end": 26188
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/03/25/a193/jo",
+          "text": "loi modifiée du 25 mars 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_19/20230201",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 **–**** — **Disposition diverse et mise en vigueur**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "Les sociétés dont la procédure de faillite a été clôturée antérieurement à l’entrée en vigueur de la présente loi, à l’exception des sociétés ayant mis à jour leurs inscriptions au Registre de commerce et des sociétés conformément à leurs obligations légales en matière d’inscriptions et de dépôt auprès du Registre de commerce et des sociétés postérieurement au jugement de clôture de la faillite, sont dissoutes de plein droit et rayées du Registre de commerce et des sociétés deux années après l’entrée en vigueur de la présente loi et quinze jours après la publication d’un avis par le gestionnaire du registre de commerce et des sociétés au Recueil électronique des sociétés et associations constatant l’absence d’inscription et de dépôt.",
+      "text_sha256": "a22bb5a9e67b56f8920148d9304110eb1da5e668076c7e8902d5aef904b525fd",
+      "md_span": {
+        "start": 26295,
+        "end": 27038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/art_20/20230201",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 **–**** — **Disposition diverse et mise en vigueur**"
+      ],
+      "article_valid_from": "2023-02-01",
+      "text_md": "La présente loi entre en vigueur le premier jour du troisième mois qui suit celui de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "2b64a3714c213bdcbf15ae03c1175c0051cccb7f60020da390accb206135c414",
+      "md_span": {
+        "start": 27075,
+        "end": 27224
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

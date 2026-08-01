@@ -1,0 +1,76 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2014-01-28-n1:2014-05-25",
+  "language": "fr",
+  "title": "Version consolidée applicable au 25/05/2014 : Règlement grand-ducal du 28 janvier 2014 fixant au 25 mai 2014 la date des opérations électorales concernant le Parlement européen.",
+  "valid_from": "2014-05-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2014-01-28-n1/versions/2014-05-25/fr.xml",
+    "sha256": "b4db7525100db77c559e5d4f50a2b61eedda57633862d3485c10f8f0c98c0c62",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/consolide/20140525/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2014-01-28-n1:2014-05-25#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/art_1er/20140525",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-05-25",
+      "text_md": "La réunion des collèges électoraux pour pourvoir à l'élection des membres luxembourgeois au Parlement européen aura lieu le dimanche, 25 mai 2014.\n\nLes électeurs seront admis au vote de 8.00 heures du matin à 14.00 heures de l'après-midi.",
+      "text_sha256": "29903290603c002369e960a975b1f5d07f8656fdf2ea72dcffccef07387b4dc3",
+      "md_span": {
+        "start": 653,
+        "end": 891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2014-01-28-n1:2014-05-25#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/art_2/20140525",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-05-25",
+      "text_md": "Les opérations de dépouillement des bulletins de vote relatifs à l'élection directe des membres luxembourgeois au Parlement européen commenceront le dimanche, 25 mai 2014, à partir de 14.00 heures. Toutefois, le résultat du scrutin ne peut être rendu public qu'à partir de 23.00 heures du même jour.",
+      "text_sha256": "60412c38625f2797c9c25b98fc65c08ba7b9da92925a9f9b9c18a758086b1650",
+      "md_span": {
+        "start": 926,
+        "end": 1225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2014-01-28-n1:2014-05-25#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/art_3/20140525",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-05-25",
+      "text_md": "Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5c590ff6962447456b899f0cc409b9a15bcd6cc93fb5193cc4b5eb4f2891ffb9",
+      "md_span": {
+        "start": 1260,
+        "end": 1376
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

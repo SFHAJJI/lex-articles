@@ -1,0 +1,103 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-03-13-n3:2024-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 13 mars 2009 portant institution d’un comité à la formation professionnelle.",
+  "valid_from": "2024-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-03-13-n3/versions/2024-01-01/fr.xml",
+    "sha256": "336cd15fd1ee1124fba4dcfcc46eff58fc8041cd85802f00a10dc0c2c994cbb2",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/03/13/n3/consolide/20240101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-03-13-n3:2024-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/03/13/n3/art_1er/20090324",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objet et mission",
+      "path": [],
+      "article_valid_from": "2009-03-24",
+      "text_md": "Il est institué un comité à la formation professionnelle qui a pour mission d’accompagner la planification et la mise en œuvre de la loi du 19 décembre 2008 portant réforme de la formation professionnelle.\n\nIl a notamment comme objet de conseiller le gouvernement en matière de formation professionnelle en s’orientant aux plans définis à l’article 3 de la loi précitée, de favoriser une meilleure adéquation entre les objectifs de la formation professionnelle et les besoins des différents secteurs de l’économie et d’assurer la coordination des actions des départements ministériels et des chambres professionnelles concernés.",
+      "text_sha256": "7ca6516bcda52b23d1a7fdcbdb495dd82ba64f02a9b48852aabe1db6ffd09ebe",
+      "md_span": {
+        "start": 640,
+        "end": 1268
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n19/jo",
+          "text": "loi du 19 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-03-13-n3:2024-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/03/13/n3/art_2/20090324",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Fonctionnement",
+      "path": [],
+      "article_valid_from": "2009-03-24",
+      "text_md": "Le comité se réunit soit à l’initiative de son président, soit à la demande écrite d’au moins sept membres.\n\nSauf cas d’urgence, les convocations accompagnées de l’ordre du jour doivent être envoyées aux membres au moins quinze jours avant la date de la réunion. L’ordre du jour est proposé par le président et arrêté en début de la réunion.\n\nLe président dirige les séances du comité.\n\nSi les convocations accompagnées de l’ordre du jour sont envoyées aux membres au moins quinze jours avant la date de la réunion, le comité délibère valablement quel que soit le nombre des membres présents. Au cas contraire, il faut que la moitié au moins des membres soient présents.\n\nLes votes par procuration ne sont pas admis.\n\nLes décisions sont prises à la majorité des suffrages exprimés. En cas de partage des voix, celle du président l’emporte.\n\nLe comité s’adjoint un secrétaire chargé des affaires administratives, recruté parmi les fonctionnaires et employés du ministère ayant la formation professionnelle dans ses attributions. Il rédige un rapport sur les délibérations. Le rapport est envoyé par le président aux membres du comité dans le mois qui suit la réunion. Toute proposition de modification doit alors lui parvenir par écrit dans les quinze jours.\n\nL’approbation définitive du rapport se fait lors de la prochaine réunion du comité.",
+      "text_sha256": "af11313377ea552068f3fc79bf986e4f635aaf030ae84cb49460cdc621961164",
+      "md_span": {
+        "start": 1318,
+        "end": 2660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-03-13-n3:2024-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/03/13/n3/art_3/20240101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Frais de fonctionnement",
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Les frais de fonctionnement sont supportés par le ministère ayant la formation professionnelle dans ses attributions.\n\nLes membres du comité, ainsi que les experts prévus à l’article 5 de la loi du 19 décembre 2008 portant réforme de la formation professionnelle, ont droit à une indemnité de 43,13 € par séance à laquelle ils ont participé.\n\nL’indemnité du secrétaire est fixée à 86,25 € par séance.",
+      "text_sha256": "2fc59aaccf79d0e9bf863ba9d7cb35a3a6c4ab4166277a6f3a66aff2b60ae9b4",
+      "md_span": {
+        "start": 2719,
+        "end": 3119
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n19/jo",
+          "text": "loi du 19 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-03-13-n3:2024-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/03/13/n3/art_4/20090324",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-03-24",
+      "text_md": "Notre Ministre de l’Éducation nationale et de la Formation professionnelle est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "e6d4f6382d89ccc48161dfce34da90d6ba3c24fb74aff884cbaca51771818d91",
+      "md_span": {
+        "start": 3154,
+        "end": 3305
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

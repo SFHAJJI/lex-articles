@@ -1,0 +1,59 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:amin-2021-04-06-a270:2021-04-23",
+  "language": "fr",
+  "title": "Version consolidée applicable au 21/12/2021 : Arrêté ministériel du 6 avril 2021 énumérant la liste des tests rapides d’auto-diagnostic pouvant être utilisés pour la détection du coronavirus SARS-CoV-2.",
+  "valid_from": "2021-04-23",
+  "valid_to": "2021-05-18",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/amin-2021-04-06-a270/versions/2021-04-23/fr.xml",
+    "sha256": "f37d9c48524302fdb0b7f7986395a935a90aa93c795f6419445b126a8ad0dd36",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/consolide/20210423/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:amin-2021-04-06-a270:2021-04-23#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/art_1er/20210423",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-04-23",
+      "text_md": "Peuvent être utilisés sur le territoire du Grand-Duché de Luxembourg les tests rapides en tant que tests rapides d’auto-diagnostic pour la détection du coronavirus SARS-CoV-2- énumérés ci-après :\n\n| **Producteur ** | **Nom du test ** |\n| --- | --- |\n| Healgen Scientific LLC | CLINITEST Rapid COVID-19 Self-Test |\n| Xiamen Boson Biotech Ltd., Co | Rapid SARS-CoV-2 Antigen Test Card |\n| Hangzhou Laihe Biotech Ltd., Co | LYHER Covid-19 Antigen Schnelltest (Nasal) |\n| SD BIOSENSOR, Inc. | SARS-CoV-2 Rapid Antigen Test Nasal |\n| AMEDA Labordiagnostik GmbH | AMP Rapid Test SARS-CoV-2 Ag |\n| AMEDA Labordiagnostik GmbH | AMP Rapid Test SARS-CoV-2 Ag Sputum |\n| Beijing Hotgen Biotech Co., Ltd. | Novel Coronavirus (2029-nCoV)-Antigentest |\n| Aesku.Diagnostics GmbH &Co. KG | AESKU.RAPID SARS-CoV-2 |\n| NanoRepro AG | NanoRepro Antigen Schnelltest (Viromed) / NanoRepro Antigen Rapid Test (Viromed) |\n| MP Biomedicals Germany GmbH | Rapid SARS-CoV-2 Antigen Test Card |\n| Biosynex Suisse SA | BIOSYNEX COVID-19 Ag BSS |\n| Hangzhou Clongene Biotech Co., Ltd. | COVID-19 Antigen Rapid Test |\n| MEDICE Arzneimittel Pütter GmbH & Co. KG | Medicovid-AG SARS CoV-2 Antigen SELBSTTEST NASE |\n| amec GmbH | COVID-19 Antigen Schnelltest (Spucktest) |\n| MR Sanicom GmbH | COVID-19 Antigen-Schnelltest (Kolloidales Gold) |\n| Teda Laukoetter Technologie GmbH | ANBIO Corona Antigen Nasentupfer |\n| Beijing Hotgen Biotech Co., Ltd. | Coronavirus (2019-nCoV)-Antigentest - Speichel |\n| Haemato Pharm GmbH | Wondfo 2019-nCoV Antigen Test (Lateral-Flow-Methode) Selbsttest |\n\n| OFM GmbH | Sensitivo COVID-19 Antigen Test |\n| --- | --- |\n| Aripa Biotec GmbH | COVID-19-N-Antigen Schnelltest SARS-CoV-2 (vorderer Nasenabstrich) |\n| OFM GmbH | Deni COVID-19 Antigen Test |\n| Acura Kliniken Baden-Baden GmbH | Acura Speichel-Test Diagnos COVID-19 Antigen Saliva Test Kit |\n| Shenzhen Watmind Medical Co., Ltd. | SARS-CoV-2 Ag Diagnostic Test Kit (Colloidal Gold) |\n| Mexacare GmbH | MEXACARE Corona Home-Test Antigen |\n| Safecare Biotech (Hangzhou) Co., Ltd. | COVID-19 Antigen Rapid Test kit(Swab) (self-testing) |\n| Qingdao Hightop Biotech Co., Ltd. | HIGHTOP SARS-CoV-2 (COVID-19) Antigen Rapid Test |\n| Vitrosens Biyoteknoloji Ltd. Sti. | RapidFor SARS-CoV-2 Rapid Antigen Test |\n| nal von minden GmbH | NADAL® COVID-19 Ag Test |\n| Abbott Rapid Diagnostics Jena GmbH | Panbio™ COVID-19 Antigen Self-Test |\n| Anbio (Xiamen) Biotechnology Co., Ltd. | COVID-19 Antigen Schnelltest (Kolloidales Gold) |\n| Guangzhou Wondfo Biotech Co., Ltd. | Antigen Nasenkit Schnelltest Wondfo (Wondfo 2019 nCoV Antigen Test (Lateral Flow Method)) |\n| Beijing Lepu Medical Technology Co., Ltd. | LEPU Nasenbohrer Antigen Schnelltest SARS-CoV-2 |\n| WQS Management Consultants GmbH | SARS-CoV-2 Antigen Rapid Test Kit (Colloidal Gold Immunochromatography) |\n| ACON Biotech(Hangzhou) Co., Ltd. | SARS-CoV-2-Antigenschnelltest (Selbsttest) |\n| PerGrande BioTech Development Co., Ltd. | SARS-CoV-2 Antigen Detection Kit (Colloidal Gold Immunochromatographic assay) |\n| Bio-Gram Diagnostics GmbH | COVID-19 Ag Test Kit |\n| Beijing Wantai Biological Pharmacy Enterprise Co., Ltd. | WANTAI SARS-CoV-2 Ag Schnelltest (Kolloidales Gold) |\n| PCL Inc. | PCL COVID19 Ag Gold |\n| JOINSTAR BIOMEDICAL TECHNOLOGY CO., LTD. | COVID-19 Antigen Schnelltest (kolloidales Gold) Probenmaterial: vorderer Nasenabstrich |\n| Icon Medlab GmbH | SARS-CoV-2 Antigen Rapid Test Kit |\n| Brawa GmbH | COVID-19 (SARS-CoV-2) Antigen Schnelltest |\n| Anhui Deepblue Medical Technology Co. Ltd. | COVID-19 (SARS-CoV-2) Antigentest (kolloidales Gold) |\n| Anhui Deepblue Medical Technology Co. Ltd. | COVID-19 (SARS-CoV-2) Antigentestkit (kolloidales Gold) - Speichel |\n| Joinstar Biomedical Technology Co., Ltd. | Covid-19 Antigen Rapid Test (Colloidal Gold) |",
+      "text_sha256": "03b9b11e36c6c43fa5cd7166a7e9d64489ca0c716086925770c461858d4ca3c9",
+      "md_span": {
+        "start": 690,
+        "end": 4475
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:amin-2021-04-06-a270:2021-04-23#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/art_2/20210423",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-04-23",
+      "text_md": "La présente autorisation, qui reste valable jusqu’au 15 septembre 2021, est publiée au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "0bd45d7f562abd2634a1f1d85cae0516b37d72e2b14c6a0ef4c64328e08808c8",
+      "md_span": {
+        "start": 4510,
+        "end": 4643
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

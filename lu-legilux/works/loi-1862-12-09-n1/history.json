@@ -1,0 +1,242 @@
+{
+  "lex_work_id": "lu-legilux:loi-1862-12-09-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_10_19390201": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": "1976-12-26",
+        "text_sha256": "388e5ff73634023f3f1cb8bd39b454acfbf70eb724507f7d9ba76c2129dc5260",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1939-02-01"
+      }
+    ],
+    "art_10_19761227": [
+      {
+        "valid_from": "1976-12-27",
+        "valid_to": null,
+        "text_sha256": "388e5ff73634023f3f1cb8bd39b454acfbf70eb724507f7d9ba76c2129dc5260",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+        "article_valid_from": "1939-02-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_11_19390201": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": "1976-12-26",
+        "text_sha256": "7e672da1b79464616314a0f98a7f080bb4bfc808a5d331fafc84bcf2fee47fc2",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1939-02-01"
+      }
+    ],
+    "art_11_19761227": [
+      {
+        "valid_from": "1976-12-27",
+        "valid_to": null,
+        "text_sha256": "7e672da1b79464616314a0f98a7f080bb4bfc808a5d331fafc84bcf2fee47fc2",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+        "article_valid_from": "1939-02-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": "1976-12-26",
+        "text_sha256": "dbd9a335e1001f1c02806144a2a039dce0cce2622da47d8ec0fac7c701597830",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      }
+    ],
+    "art_12_19761227": [
+      {
+        "valid_from": "1976-12-27",
+        "valid_to": null,
+        "text_sha256": "dbd9a335e1001f1c02806144a2a039dce0cce2622da47d8ec0fac7c701597830",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+        "article_valid_from": "1976-12-27"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": null,
+        "text_sha256": "bb59e1e568e1dbcaf429313d3a27fc7b72d123706c84ae82534859f48fb64c82",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      }
+    ],
+    "art_14": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": null,
+        "text_sha256": "805ce097c1b7623e736d9adfbc6d64b3a9bd5cec7eecab2da6d4e50270e92d24",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      }
+    ],
+    "art_1er_19390201": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": "1976-12-26",
+        "text_sha256": "406fa74951009448e5a5addf4555bbad6a77bedc0bb8947cc54d05db14e4d56e",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1939-02-01"
+      }
+    ],
+    "art_1er_19761227": [
+      {
+        "valid_from": "1976-12-27",
+        "valid_to": null,
+        "text_sha256": "406fa74951009448e5a5addf4555bbad6a77bedc0bb8947cc54d05db14e4d56e",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+        "article_valid_from": "1939-02-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": null,
+        "text_sha256": "00155e09f9e6cb76ed9e68c0bb88cf2685875c27cc50d7d8cef8c5c8495d67a1",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": "1976-12-26",
+        "text_sha256": "b4a135d787ca6185f3ef93dbb90b546f4e7080fc6ab81c5d0c31a708c70a2b2c",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "1976-12-27",
+        "valid_to": null,
+        "text_sha256": "4c5ebe7a3dfe4fa1b7c735f40245f05e222808d624a06da7f2a84f0b0d251c41",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+        "article_valid_from": "1976-12-27"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": null,
+        "text_sha256": "5e221f7a4c9eeca8184b42f0848b3cba32ab70658d43d37c05767b8c90894ee6",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1939-02-01"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": null,
+        "text_sha256": "34a757228019b43837d47818c0f3ae6d609d5e2b9d13fb32d82ded1e56943e3d",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      }
+    ],
+    "art_6_19390201": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": "1976-12-26",
+        "text_sha256": "6469fa13167173cb7f6f835fcd491d945c36d7f124459564dca80ca348fc89f9",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1939-02-01"
+      }
+    ],
+    "art_6_19761227": [
+      {
+        "valid_from": "1976-12-27",
+        "valid_to": null,
+        "text_sha256": "6469fa13167173cb7f6f835fcd491d945c36d7f124459564dca80ca348fc89f9",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+        "article_valid_from": "1939-02-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": null,
+        "text_sha256": "77caa8d6fdcdb5192d3e9d269c7d0cf96fe286e3365e6bd27c7496274e13c283",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": null,
+        "text_sha256": "0302f91463820dfdf6ea077e2abedaf0daded59e4174b2def0a67772b58b278c",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "1939-02-01",
+        "valid_to": null,
+        "text_sha256": "1562ace9e0ded49bd07e4d9a39f1eab693eec7bbfa5e469cd6e71bf3aba8e09b",
+        "in_version": "lu-legilux:loi-1862-12-09-n1:1939-02-01",
+        "article_valid_from": "1862-12-17",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "renumbered",
+      "from": "art_10_19390201",
+      "to": "art_10_19761227",
+      "text_sha256": "388e5ff73634023f3f1cb8bd39b454acfbf70eb724507f7d9ba76c2129dc5260",
+      "at_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_11_19390201",
+      "to": "art_11_19761227",
+      "text_sha256": "7e672da1b79464616314a0f98a7f080bb4bfc808a5d331fafc84bcf2fee47fc2",
+      "at_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_12",
+      "to": "art_12_19761227",
+      "text_sha256": "dbd9a335e1001f1c02806144a2a039dce0cce2622da47d8ec0fac7c701597830",
+      "at_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_1er_19390201",
+      "to": "art_1er_19761227",
+      "text_sha256": "406fa74951009448e5a5addf4555bbad6a77bedc0bb8947cc54d05db14e4d56e",
+      "at_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_6_19390201",
+      "to": "art_6_19761227",
+      "text_sha256": "6469fa13167173cb7f6f835fcd491d945c36d7f124459564dca80ca348fc89f9",
+      "at_version": "lu-legilux:loi-1862-12-09-n1:1976-12-27",
+      "basis": "identical_text"
+    }
+  ]
+}

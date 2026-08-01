@@ -1,0 +1,289 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 27 juin 2016 concernant la détermination du revenu professionnel agricole cotisable en matière d'assurance maladie et d'assurance pension.",
+  "valid_from": "2022-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2016-06-27-n5/versions/2022-01-01/fr.xml",
+    "sha256": "217f2b84e70960cdedf66c0a4abd3979f878eae9d97607e04fd39ae3be90646d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/consolide/20220101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_1er/20160705",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "Par exploitation agricole au sens des articles 36 et 241 du Code de la sécurité sociale, on entend l’exploitation telle que définie dans le cadre de la législation nationale en vigueur concernant le soutien au développement rural.",
+      "text_sha256": "86d94172daeb187dda1ec172c417fec7a9b5b4c699ceb875302d2b8a9425842e",
+      "md_span": {
+        "start": 685,
+        "end": 915
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_2/20160705",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "Si une exploitation agricole compte plusieurs personnes affiliées au titre de l’article 171, alinéa 1, sous 2) ou 6) du Code de la sécurité sociale, les personnes peuvent désigner d’un commun accord le chef d’exploitation. A défaut, l’assuré actif le plus âgé sera considéré comme chef d’exploitation.",
+      "text_sha256": "14afb277e7b6e2a441c9cff5a35e2a8d5a3dcf637aea379587007c4648d66949",
+      "md_span": {
+        "start": 950,
+        "end": 1251
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_3/20160705",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "**(1)** A partir de l’exercice de cotisation 2016, les marges brutes standard des différentes spéculations animales et végétales fixées à l’annexe I sont multipliées pour chaque exploitation agricole par leur volume déclaré au Service d’économie rurale au cours de l’année précédant l’exercice de cotisation.\n\nPar dérogation à l’alinéa 1er, les marges brutes standard des différentes spéculations animales bovines fixées à l’annexe I sont multipliées par le cheptel bovin moyen détenu pendant la période du 1er novembre jusqu’au 31 octobre de l’année précédant l’exercice de cotisation en utilisant la base centrale de données informatiques visée à l’article 13 du règlement grand-ducal du 22 avril 1999 portant mesures d’application du règlement (CE) n° 820/97 du Conseil du 21 avril 1997 en ce qui concerne l’identification et l’enregistrement des bovins.\n\n**(2)** La marge brute standard totale de l’exploitation est obtenue en ajoutant au résultat déterminé conformément au paragraphe 1er les aides à la production suivantes versées au cours de l’année précédant l’exercice de cotisation:\n\n1. les paiements directs accordés au titre des régimes de soutien relevant de la politique agricole commune prévus par les dispositions nationales prises en exécution du droit de l’Union européenne en vigueur;\n2. l’aide accordée au titre de l’agriculture biologique prévue par la législation nationale en vigueur concernant le soutien au développement rural;\n3. l’aide à la restructuration et à la reconversion des vignobles prévue par la législation nationale en vigueur concernant le soutien au développement rural.",
+      "text_sha256": "1faa8a80b623746bafeaaa3e5a76274a18cd906a07c8fcead1e1e89a1b363a0c",
+      "md_span": {
+        "start": 1286,
+        "end": 2897
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1999/04/22/n1/jo",
+          "text": "règlement grand-ducal du 22 avril 1999"
+        },
+        {
+          "href": "/eli/reg_ue/1997/820/jo",
+          "text": "règlement (CE) n° 820/97"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_4/20160705",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "**(1)** Aux fins du calcul du revenu professionnel agricole de l’exploitation sont ajoutées au résultat déterminé conformément à l’article qui précède les aides à la production suivantes versées au cours de l’année précédant l’exercice de cotisation:\n\n1. les aides accordées au titre des paiements agroenvironnementaux et climatiques prévues par la législation nationale en vigueur concernant le soutien au développement rural;\n2. la prime à l’entretien du paysage et de l’espace naturel prévue par la législation nationale en vigueur concernant le soutien au développement rural.\n\n**(2)** Sont déduits du résultat déterminé conformément au paragraphe qui précède les coûts de production fixes déterminés forfaitairement en fonction de l’orientation technico-économique de l’exploitation.\n\nL’orientation technico-économique de l’exploitation est déterminée conformément au règlement délégué (UE) n° 1198/2014 de la Commission du 1er août 2014 complétant le règlement (CE) n° 1217/2009 du Conseil portant création d’un réseau d’information comptable agricole sur les revenus et l’économie des exploitations agricoles dans l’Union européenne.\n\nLes coûts de production fixes correspondent aux pourcentages définis à l’annexe II.",
+      "text_sha256": "bcf4430aa4f1bbcdf689e4b267a21e7444830326236ba42fd9afb30edeb7ea11",
+      "md_span": {
+        "start": 2932,
+        "end": 4157
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2014/1198/jo",
+          "text": "règlement délégué (UE) n° 1198/2014"
+        },
+        {
+          "href": "/eli/reg_ue/2009/1217/jo",
+          "text": "règlement (CE) n° 1217/2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_5/20160705",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "Sont ajoutées au résultat déterminé conformément à l’article qui précède les aides à la production et subventions au revenu ci-après versées à l’exploitation agricole au cours de l’année précédant l’exercice de cotisation:\n\n1. les paiements en faveur des zones soumises à des contraintes naturelles ou à d’autres contraintes spécifiques prévues par la législation nationale en vigueur concernant le soutien au développement rural;\n2. les aides pour la sauvegarde de la diversité biologique prévue par la législation nationale en vigueur concernant le soutien au développement rural.",
+      "text_sha256": "88d7901bf541e13f2a412ef77418e78b02b7fa612b9fffe9b5242c748f530942",
+      "md_span": {
+        "start": 4192,
+        "end": 4774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_6/20160705",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "Le revenu professionnel agricole de l’exploitation servant d’assiette au calcul des cotisations est obtenu en déduisant du résultat déterminé conformément à l’article qui précède les charges réelles supportées par l’exploitant agricole au cours de l’année précédant l’exercice de cotisation, à savoir:\n\n1. le fermage,\n2. les intérêts découlant de prêts professionnels agricoles,\n3. les salaires payés à des tiers et déclarés auprès du Centre commun de la sécurité sociale, augmentés des cotisations sociales à charge du chef d’exploitation,\n4. Code de la sécurité sociale règlement grand-ducal du 7 mai 1991 loi du 4 décembre 1967 règlement grand-ducal du 3 décembre 1969 loi du 4 décembre 1967",
+      "text_sha256": "5ed84407a31b95cc1ca7941aa3d5297f5b87e8ac04ac0a9d42562f599c8cbe01",
+      "md_span": {
+        "start": 4809,
+        "end": 5503
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_7/20160705",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "Le Service d’économie rurale communique au Centre commun de la sécurité sociale le revenu des exploitations agricoles déterminé conformément aux articles 3 à 5.\n\nLes charges réelles de l’exploitation au sens de l’article 6 font l’objet d’une déclaration annuelle au Centre commun de la sécurité sociale.\n\nSi le chef d’exploitation omet de communiquer les données requises, le Centre commun de la sécurité sociale procède aux estimations nécessaires conformément à l’article 427 du Code de la sécurité sociale.",
+      "text_sha256": "769ec8310793ca78637ddc27e5b308bbcbc0f2cb4745f1bd1738e6f9b9e7d08e",
+      "md_span": {
+        "start": 5538,
+        "end": 6047
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_8/20160705",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "Conformément à l’article 36, alinéa 3 et à l’article 241, alinéa 12 du Code de la sécurité sociale, il est loisible au chef d’exploitation de demander avant la fin de l’exercice de cotisation une refixation des cotisations relatives à cet exercice, lorsque la comptabilité régulièrement tenue de l’exploitation fait ressortir, pour l’année précédant l’exercice de cotisation, un résultat avant impôts et avant opérations sur réserves différant de dix pour cent au moins du revenu constaté forfaitairement conformément aux articles 3 à 5.\n\nLe Centre commun de la sécurité sociale peut exiger la présentation de la comptabilité et du résultat dans une forme qu’il prescrit.",
+      "text_sha256": "55582d35c72c7b96358770b9f6716a5fb0eca90ee8db0b71b2cc8e74eb02138f",
+      "md_span": {
+        "start": 6082,
+        "end": 6753
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_9/20160705",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "Est considérée comme comptabilité régulièrement tenue celle correspondant à la comptabilité définie dans le cadre de la législation nationale en vigueur concernant le soutien au développement rural.",
+      "text_sha256": "b86b00573dcb00f5bbeba7c4d286808b65ac417bf4bcf398089d80dfd5a1d3dd",
+      "md_span": {
+        "start": 6788,
+        "end": 6986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_10/20160705",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-05",
+      "text_md": "Le règlement grand-ducal modifié du 6 juin 2003 concernant la détermination du revenu professionnel agricole cotisable en matière d’assurance maladie et d’assurance pension est abrogé.",
+      "text_sha256": "ba3974e11e277009a5fc5f49c9e5f8519603d1a171b2677250c45a95f35cfb15",
+      "md_span": {
+        "start": 7023,
+        "end": 7207
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2003/06/06/n1/jo",
+          "text": "règlement grand-ducal modifié du 6 juin 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/art_11/20160705",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "Notre Ministre de l’Agriculture, de la Viticulture et de la Protection des consommateurs et Notre Ministre de la Sécurité sociale sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "44374e9cb5ed5b707325ad78c302acacd99122cd2c58e0b6b198e912f07d2ffb",
+      "md_span": {
+        "start": 7244,
+        "end": 7482
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Marges brutes standard visées à l’article 3\n\n| 1° Productions végétales (montant en euros par hectare) |  |  |\n| --- | --- | --- |\n| Blé tendre et épeautreSeigleOrgeAvoineMaïs-grainTriticaleAutres céréalesLégumes secsPommes de terre de consommationPlants de pommes de terreColza, navettes et autres plantes olaégineusesPlantes industrielles, non mentionnées ailleurs (y compris plantes aromatiques, médicinales)Légumes frais et fraises en culture maraîchère de plein airLégumes frais et fraises en culture de plein champLégumes frais et fraises sous serreFleurs et plantes ornementales (pépinières non comprises) de plein airFleurs et plantes ornementales (à l’exclusion des pépinières) sous serreSemences et semis de terres arables et autres cultures annuellesPlantations d’arbres fruitiers et baiesBaies (fraises non comprises)Vignes cultivées par des exploitants ne produisant pas eux-mêmes le vinVignes cultivées par des exploitants produisant eux-mêmes le vinPépinièresChampignons (pour cinq récoltes par an / euros par are)JachèreArbres de NoëlAutres cultures permanentes | 5744834694817454943743376 0612 359606674 18 45710 80251 96919 509150 8449016 2654 03612 63725 27416 91613 779-467 34617 860 | euroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuros euroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuros |\n| 2° Productions animales (montant en euros par unité de bétail) |  |  |\n| Chevaux de trait y compris poulains en propriétéChevaux de selle y compris poulains en propriétéÉquidés (toutes catégories confondues) en pensionBovins de moins d’un anBovins d’un an à moins de deux ans, mâlesBovins d’un an à moins de deux ans, femellesBovins de deux ans et plus, mâlesGénisses de deux ans et plusVaches laitièresAutres vachesOvins femelles servant à la production de viandeOvins femelles servant à la production de laitCaprins femelles servant à la production de viandeCaprins femelles servant à la production de laitPorcelets 8-30 kg (par tête)Truies reproductrices d’un poids vif de 50 kg ou plus (porcelets inclus)Porcs à l’engrais >30 kg (par tête)Porcs engraissés pour autrui (par tête)Autres porcs (par place)Poulets de chair (par centaines)Poules pondeuses (par centaines)Autres volailles (par centaines)Lapines reproductricesLapins à l’engraisAbeilles (par ruche)Daims (femelles reproductrices) | -18-5102 7291403081528611 4012521213697332212301018281532 5641 484817136180 | euroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuroseuros |",
+      "text_sha256": "364e9635e047aef7bef445dd73e83257e28e77e0f8ad00c0bbbd6d8513761d3b",
+      "md_span": {
+        "start": 7525,
+        "end": 10078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2016-06-27-n5:2022-01-01#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Coûts de production fixes visés à l’article 4\n\n| **Orientation technico-économique** | **Pourcentage des coûts de production fixes** |\n| --- | --- |\n| Exploitations bovines spécialisées – orientation lait | soixante et un pour cent |\n| Exploitations spécialisées – orientation élevage et viande | cinquante-neuf pour cent |\n| Exploitations bovines – lait, élevage et viande combinés | soixante et un pour cent |\n| Exploitations spécialisées de production animale hors sol (granivores) | soixante-trois pour cent |\n| Exploitations spécialisées à grandes cultures | cinquante-cinq pour cent |\n| Exploitations spécialisées en cultures permanentes | quarante-six pour cent |\n| Exploitations mixtes cultures – élevage | soixante-deux pour cent |\n| Horticulture | cinquante pour cent |",
+      "text_sha256": "ffb09a09e5834bce6d2fb4f73daac5dc4c688e5ce9f602df34150ca0703cee80",
+      "md_span": {
+        "start": 10122,
+        "end": 10901
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,2116 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01",
+  "language": "fr",
+  "title": "Loi du 8 juin 1999 sur le Budget, la Comptabilité et la Trésorerie de l'État.",
+  "valid_from": "2025-01-01",
+  "valid_to": "2025-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1999-06-08-n2/versions/2025-01-01/fr.xml",
+    "sha256": "6f31f03279b701278ba8c9cfd21c4cb1ef75a3a9ba3f1adb1258694bdb928236",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20250101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_1er/19990615",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — Champ d'application"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La présente loi s’applique aux organes, administrations et services de l’Etat.",
+      "text_sha256": "a587b8e6aa610d4438f3ff670b5703b4fd87be34453e0403adb5329b69072867",
+      "md_span": {
+        "start": 597,
+        "end": 675
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_2/19990615",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Définition et structure du budget"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Le budget de l’Etat est la loi annuelle qui prévoit et autorise toutes les recettes et toutes les dépenses à effectuer par l’Etat pendant l’exercice pour lequel il est voté.\n\nAu cas où le budget n’est pas voté avant le premier janvier de l’exercice auquel il s’applique, le Gouvernement présente un projet de loi l’autorisant à:\n\n1. recouvrer les impôts existant au 31 décembre de l’année précédant l’exercice;\n2. rendre applicables pour un ou plusieurs mois d’autres dispositions;\n3. effectuer, pendant la même période, les dépenses figurant dans des tableaux annexés.\n\nLes recettes perçues ainsi que les dépenses engagées au cours de cette période et liquidées au cours de l’exercice sont reprises dans le budget voté de l’exercice.",
+      "text_sha256": "f454f8c93b7df27caee3f7c073b0eb4a06d688270de594b91ebe4eede73e878a",
+      "md_span": {
+        "start": 762,
+        "end": 1496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_3/19990615",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Définition et structure du budget"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le budget de l’État se compose d’un budget des recettes et d’un budget des dépenses, d’un budget des recettes et des dépenses pour ordre ainsi que d’un budget des recettes et des dépenses concernant les opérations financières.\n\n**(2)** Les dépenses courantes et les dépenses en capital ainsi que les recettes courantes et les recettes en capital sont regroupées sous des titres distincts.\n\n**(3)** Le budget est subdivisé en titres, chapitres, sections et articles.\n\n**(4)** L’article budgétaire ne peut en principe couvrir que des recettes ou des dépenses de même nature économique.",
+      "text_sha256": "3b42c842f97e14dd052124837c07eaf63cca08a8fdc11c4eedd7952a67b3cd1b",
+      "md_span": {
+        "start": 1531,
+        "end": 2122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_4/20230902",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Définition et structure du budget"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "L’ensemble des recettes s’applique à l’ensemble des dépenses, sauf dérogations prévues par la loi.",
+      "text_sha256": "644e602d2eebce3447d6a386a10b5ef4eade4801f4410759b868f8e9f811c954",
+      "md_span": {
+        "start": 2157,
+        "end": 2255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_5/19990615",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Définition et structure du budget"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les recettes provenant de l’émission d’emprunts ne peuvent servir qu’au financement de projets d’investissements de l’Etat.",
+      "text_sha256": "e0957f42be6d8f9f2f45e859651b9508ac168c5959e6bdc056345372f7d6b5c5",
+      "md_span": {
+        "start": 2290,
+        "end": 2413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_6/19990615",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Définition et structure du budget"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Le projet de budget de l’année est accompagné d’un rapport sur la situation financière et budgétaire et ses perspectives d’évolution dans le cadre économique général ainsi que d’annexes explicatives faisant connaître notamment:\n\n1. la situation financière des services de l’Etat à gestion séparée;\n2. l’encours des garanties accordées par l’Etat;\n3. la situation financière des fonds spéciaux, indiquant pour chaque fonds spécial son évolution pluriannuelle passée et prospective;\n4. des indications détaillées concernant l’impact des dépenses fiscales sur les recettes;\n5. les principaux paramètres des projets de budgets des sous-secteurs des administrations publiques;\n6. règlement (UE) n° 473/2013\n7. les calculs permettant le passage du budget tel qu’il est établi selon les règles de la présente loi, vers une présentation des recettes, des dépenses et de la capacité ou du besoin de financement de l’ensemble des administrations publiques, détaillée par sous-secteurs et exprimée selon les règles de la comptabilité nationale et de l’Union européenne;\n8. l’évolution pluriannuelle des recettes et des dépenses de l’Etat sur une période mobile de cinq ans, comprenant l’année en cours, l’année auquel se rapporte le projet de budget ainsi que les trois exercices financiers qui suivent ;\n9. une analyse comparative avec les prévisions économiques et budgétaires les plus récentes de la Commission européenne et, le cas échéant, d’autres organismes indépendants et comprenant des explications sur les différences significatives entre le scénario macrobudgétaire retenu et les prévisions de la Commission européenne.",
+      "text_sha256": "47b5fad92f68490a794a016c9f9a77dc1aa62040242c37213604199b628bfb2d",
+      "md_span": {
+        "start": 2448,
+        "end": 4068
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_7/19990615",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Exercice budgétaire et comptable"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "L’exercice budgétaire et comptable commence le 1er janvier et finit le 31 décembre de la même année.",
+      "text_sha256": "a8285fc35cbe4df4c2f9afa237fc8a19066a9545b0dccdc116e01d4253efdaad",
+      "md_span": {
+        "start": 4154,
+        "end": 4254
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_8/19990615",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Exercice budgétaire et comptable"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Sont seules considérées comme appartenant à un exercice, les dépenses relatives à des engagements contractés au cours de l’année qui donne sa dénomination à l’exercice ainsi que les recettes relatives à des créances acquises à l’Etat au cours de cette année.",
+      "text_sha256": "ccca3f2706334e09eb7c6d027833c247d6fff3fcff42b039d604b24fc98fb91a",
+      "md_span": {
+        "start": 4289,
+        "end": 4547
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_9/20250101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Exercice budgétaire et comptable"
+      ],
+      "article_valid_from": "2025-01-01",
+      "text_md": "**(1)** Les opérations relatives à l’ordonnancement des dépenses peuvent se prolonger jusqu’au 31 janvier de l’année suivante.\n\n**(2)** Les opérations relatives au paiement des dépenses et au recouvrement des recettes peuvent se prolonger jusqu’au dernier jour du mois de février de l’année suivant l’exercice.\n\n**(3)** Toutefois, les recettes fiscales et les recettes provenant du placement des disponibilités de la trésorerie de l’Etat sont imputées à l’exercice de l’année au cours de laquelle elles sont recouvrées.",
+      "text_sha256": "3f449bf24b029f01e214f82547e61eaf3e21d1f5ae67d256c652dbdd989d237c",
+      "md_span": {
+        "start": 4582,
+        "end": 5101
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_10/19990615",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Compte général"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le compte général de l’Etat est établi par la trésorerie de l’Etat et est soumis à l’approbation du ministre ayant le budget dans ses attributions.\n\n**(2)** Il porte sur l’ensemble des recettes et dépenses de l’Etat par article budgétaire, ainsi que sur les fonds spéciaux, et est présenté suivant la même subdivision que le budget.",
+      "text_sha256": "f770e2770f9744daced8c6fa2edc626fad174529b3660871cf9e3ca67e081c8a",
+      "md_span": {
+        "start": 5171,
+        "end": 5511
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_11/19990615",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Compte général"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Pour le 30 juin au plus tard le projet de loi portant règlement du compte général de l’exercice précédent est déposé à la Chambre des députés et transmis à la Cour des comptes.",
+      "text_sha256": "244da1d0c48719bc4c6f492773afed75da7c6a714afa1931762685e44f759db4",
+      "md_span": {
+        "start": 5548,
+        "end": 5724
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_12/19990615",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Compte général"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Pour le 30 septembre au plus tard, la Cour des comptes communique ses observations relatives au compte général de l’exercice précédent à la Chambre des députés.",
+      "text_sha256": "8b98d00b55e834fcd44f207493787356027c87c72ff54bc13d1483a66b9b97f2",
+      "md_span": {
+        "start": 5761,
+        "end": 5921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_13/19990615",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — Comptabilité"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** La comptabilité de l’Etat se compose d’une comptabilité budgétaire et d’une comptabilité générale.\n\n**(2)** Les règles de la comptabilité et la structure du plan comptable sont fixées par règlement grand-ducal.",
+      "text_sha256": "45d899e433f6c815bd068c4ac5e2ad1c96de58e612d438f672a11c7026b8f2e9",
+      "md_span": {
+        "start": 5989,
+        "end": 6207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_14/19990615",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — Comptabilité"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La comptabilité budgétaire retrace l’intégralité des opérations de recettes et de dépenses de l’Etat se rapportant à l’exercice budgétaire tel que défini aux articles 7 à 9. La comptabilité budgétaire comprend la comptabilisation des engagements de l’Etat, au sens de l’article 19 ci-après.",
+      "text_sha256": "f9975a70c1cedac8bde578b3f35f47f12d84b84dd081b15b8702b60702ca0c0c",
+      "md_span": {
+        "start": 6244,
+        "end": 6534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_15/19990615",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — Comptabilité"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La comptabilité générale retrace, selon la méthode dite de la partie double, l’intégralité des recettes et des dépenses de l’Etat ainsi que ses avoirs et ses engagements afin d’établir une situation patrimoniale sous la forme d’un bilan financier arrêté au 31 décembre. Tous les documents comptables se rapportant aux recettes et dépenses de l’Etat ainsi que toutes les pièces à l’appui de ces actes, reçus ou produits par les départements ministériels, administrations et services de l’Etat, sont à conserver par les départements ministériels à des fins de gestion, de contrôle et de justification et ce quels qu’en soient les formes et supports matériels.\n\nLes conditions et modalités de l’archivage peuvent être déterminées par voie de règlement grand-ducal.",
+      "text_sha256": "9f2263abb42450a7c9ec589c2b576876863dc8264ceaa95b07e58245b891bfc7",
+      "md_span": {
+        "start": 6571,
+        "end": 7332
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_16/19990615",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Crédits budgétaires"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les crédits budgétaires ne permettent le paiement de dépenses que jusqu’à concurrence du montant voté.\n\n**(2)** Toutefois, des articles budgétaires peuvent être dotés de la mention «crédit non limitatif» lorsqu’ils concernent des dépenses obligatoires en vertu de dispositions légales, réglementaires ou conventionnelles ou à titre exceptionnel d’autres dépenses, résultant de facteurs externes indépendants de la volonté de l’ordonnateur.",
+      "text_sha256": "249c89d7fe02231390883e5b7c61de92f5375925531b5defa407892939a5c282",
+      "md_span": {
+        "start": 7407,
+        "end": 7854
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_17/19990615",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Crédits budgétaires"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les crédits budgétaires ne peuvent être utilisés que pour payer des dépenses engagées pendant l’exercice pour lequel ils sont votés.\n\n**(2)** Par dérogation à ce principe des articles budgétaires peuvent porter les mentions «restant d’exercices antérieurs» ou «crédit sans distinction d’exercice».\n\n**(3)** Les crédits portant la mention «restant d’exercices antérieurs» sont inscrits au budget pour pouvoir payer des dépenses engagées au cours d’exercices antérieurs et dont le règlement est resté en souffrance ou pour régulariser les ordonnances provisoires prévues à l’article 67, alinéa (1).\n\n**(4)** Les crédits peuvent porter la mention «sans distinction d’exercice» lorsqu’ils concernent des dépenses pour lesquelles l’engagement et le paiement ne peuvent être réalisés à charge d’un même exercice budgétaire.\n\n**(5)** La somme des engagements à contracter au cours d’un exercice et des engagements reportés d’exercices antérieurs ne peut dépasser de plus d’un tiers le montant du crédit voté pour l’exercice en cours et portant la mention «sans distinction d’exercice». Dans des cas exceptionnels dûment motivés, cette limite peut être dépassée sur autorisation préalable du ministre ayant le budget dans ses attributions.",
+      "text_sha256": "f1a935a13a7c7e58cfd79bf2a8b1e42225370dee77dc2aa7d709884a4173e156",
+      "md_span": {
+        "start": 7891,
+        "end": 9130
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_18/20250101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Crédits budgétaires"
+      ],
+      "article_valid_from": "2025-01-01",
+      "text_md": "**(1)** Aucun transfert de crédit d’une section du budget à l’autre ne peut être effectué qu’en vertu d’une loi, à l’exception des transferts de crédits d’une section du budget des dépenses courantes à la section correspondante du budget des dépenses en capital.\n\n**(2)** Les transferts de crédits d’un article à l’autre dans la même section et les transferts visés au paragraphe 1er peuvent être opérés au cours de l’exercice sans l’autorisation du ministre ayant le Budget dans ses attributions.\n\n**(3)** Les crédits non limitatifs, les restants d’exercices antérieurs et les crédits spécifiquement libellés comme tels ne sont pas susceptibles d’être transférés à d’autres articles.\n\n**(4)** Quel que soit leur libellé, les crédits pour l’allocation de subventions à caractère bénévole ne sont pas susceptibles d’être majorés moyennant des transferts d’excédents de crédit d’autre nature.\n\n**(5)** Les membres du Gouvernement transmettent au ministre ayant le budget dans ses attributions et au contrôleur financier copie des arrêtés de transfert, indiquant la raison justificative de chaque transfert.\n\n**(6)** Les membres du Gouvernement transmettent copie des arrêtés de transfert précités à la Chambre des députés.",
+      "text_sha256": "bb8401a0e401b1f7013873953c68dd693d9433fb6b3b4a10b8123168c608be05",
+      "md_span": {
+        "start": 9167,
+        "end": 10387
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_19/19990615",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — Engagement, liquidation, ordonnancement, paiement et recouvrement"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** L’engagement d’une dépense est l’acte par lequel l’Etat, représenté par un membre du Gouvernement ou son délégué, crée ou constate à son encontre une obligation dont résultera une dépense à charge du budget.\n\n**(2)** La liquidation d’une dépense est l’acte par lequel l’ordonnateur vérifie et certifie:\n\n- l’existence des droits du créancier,\n- la réalité et le montant de la créance,\n- la date d’exigibilité de la créance.\n\n**(3)** L’ordonnancement d’une dépense est l’acte par lequel l’ordonnateur donne, par l’émission d’un ordre de paiement au comptable public chargé du paiement, l’ordre de payer une dépense dont il a effectué la liquidation.\n\n**(4)** Le paiement d’une dépense est l’acte par lequel le comptable public compétent libère l’Etat de ses obligations envers ses créanciers.",
+      "text_sha256": "a674473f1ea30cafaec295b678269a5c63ee7952d22e0cfd132908b326aafcf5",
+      "md_span": {
+        "start": 10508,
+        "end": 11307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_20/19990615",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — Engagement, liquidation, ordonnancement, paiement et recouvrement"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** La liquidation d’une recette a pour objet de déterminer le montant de la créance de l’Etat.\n\n**(2)** L’ordonnancement d’une recette est l’acte par lequel l’ordonnateur donne ordre au comptable public, par l’émission d’un titre de perception, de procéder au recouvrement conformément au résultat de la liquidation.\n\n**(3)** Le recouvrement constitue l’ensemble des opérations par lesquelles un comptable public encaisse les sommes dues à l’Etat.",
+      "text_sha256": "55bb4caeb476e186289cea9c1b44f67c341ba5ac41c38cc8055cbf4de130b5c4",
+      "md_span": {
+        "start": 11344,
+        "end": 11796
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_21/19990615",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 8. — Ordonnateurs, contrôleurs financiers et comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** L’exécution du budget est assurée suivant le principe de la séparation des ordonnateurs, des contrôleurs financiers et des comptables publics.\n\n**(2)** Les fonctions d’ordonnateur, de contrôleur financier et de comptable public sont incompatibles entre elles.",
+      "text_sha256": "b34253b757f0bf1527c75455a78e003053f1f690829a5d7b130027fc73a00480",
+      "md_span": {
+        "start": 11910,
+        "end": 12177
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_22/19990615",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.1. — Ordonnateurs"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** L’ordonnateur a seul compétence pour engager, liquider et ordonnancer les dépenses, constater les droits à recouvrer et émettre les ordres de recouvrement.\n\n**(2)** L’ordonnateur engage, liquide et ordonnance sous sa responsabilité les dépenses à charge des crédits budgétaires mis à sa disposition. Il doit s’assurer de la légalité et de la régularité de ses actes et respecter les plafonds des crédits budgétaires.\n\n**(3)** Ont la compétence d’ordonnateur, pour les dépenses et les recettes relevant de leur département, les membres du Gouvernement, qui peuvent déléguer le pouvoir de signature à des fonctionnaires conformément à des modalités fixées par règlement grand-ducal. En matière de recettes fiscales cette compétence est exercée par les administrations fiscales conformément aux lois et règlements en vigueur.\n\n**(4)** Par arrêté grand-ducal un ou plusieurs membres du Gouvernement peuvent être autorisés soit exclusivement, soit conjointement avec le ministre compétent à engager et à ordonnancer des dépenses à charge de crédits budgétaires de départements ministériels ne relevant pas de leur compétence.",
+      "text_sha256": "9776a8e7001c88aad9695d766954ff45c8ae3b714f1529d837f910a470f24c72",
+      "md_span": {
+        "start": 12247,
+        "end": 13375
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_23/19990615",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.1. — Ordonnateurs"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "L’ordonnateur doit utiliser les crédits budgétaires conformément aux principes de bonne gestion financière.",
+      "text_sha256": "dd06f0b5cd8a818ba2c6cdcedc7efcf509d7e9f18e054c21d61e06b94c76bd6a",
+      "md_span": {
+        "start": 13412,
+        "end": 13519
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_24/19990615",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.2. — Contrôleurs financiers"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le contrôleur financier est chargé du contrôle de l’engagement et de l’ordonnancement de toutes les dépenses ainsi que du contrôle de la liquidation de toutes les recettes non fiscales relevant du ou des départements ministériels placés sous son contrôle.\n\n**(2)** Il exerce son contrôle sur pièces et pour autant que de besoin sur place.\n\n**(3)** En matière de dépenses le contrôle a pour objet de constater:\n\n1. la disponibilité des crédits;\n2. l’exactitude de l’imputation budgétaire et comptable;\n3. la conformité de la dépense aux lois, règlements, conventions et décisions gouvernementales ou ministérielles afférentes;\n4. la régularité des pièces justificatives;\n5. l’exécution correcte des contrôles internes par l’administration et le respect des procédures.\n\n**(4)** En matière de recettes non fiscales le contrôle a pour objet de constater:\n\n1. l’exactitude de l’imputation budgétaire et comptable;\n2. la conformité de la recette aux lois, règlements, conventions et décisions gouvernementales ou ministérielles afférentes;\n3. la régularité des pièces justificatives;\n4. l’exécution correcte des contrôles internes par l’administration et le respect des procédures.",
+      "text_sha256": "27ad9bdf188a81dbfc23fa1f8a338e0e310eb4a7eb9a3bda03c982f244c0606b",
+      "md_span": {
+        "start": 13599,
+        "end": 14783
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_25/19990615",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Sont comptables publics les agents de la trésorerie chargés des paiements et des recouvrements, les receveurs de l’administration des contributions directes, de l’administration de l’enregistrement et des domaines, de l’administration des douanes et des accises, les comptables extraordinaires ainsi que les comptables des services de l’Etat à gestion séparée.\n\n**(2)** Les comptables publics sont nommés par le ministre ayant le budget dans ses attributions et sont responsables envers lui de leur gestion.\n\n**(3)** Les comptables publics sont seuls habilités, dans la limite de leurs compétences et des délégations qui leur sont accordées par le ministre ayant le budget dans ses attributions à effectuer les actes de paiement des dépenses de l’Etat et les opérations de recouvrement des recettes de l’Etat et, à cette fin, à manier les fonds et à mouvementer les comptes de l’Etat. Ils sont seuls habilités à procéder à la restitution de recettes conformément à des modalités à fixer par la trésorerie.\n\n**(4)** Les agents compétents de la trésorerie de l’Etat sont chargés du paiement de toutes les dépenses de l’Etat. Toutefois, les comptables extraordinaires et les comptables des services de l’Etat à gestion séparée effectuent eux-mêmes le paiement des dépenses relevant de leur compétence.",
+      "text_sha256": "c1b61cdae62c54fbfb9a423c3b549752f7e3a1e6c832c692a427bfad1c71538b",
+      "md_span": {
+        "start": 14859,
+        "end": 16165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_26/19990615",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les comptables publics sont responsables du recouvrement, aux époques déterminées, des recettes dont la perception leur est confiée.",
+      "text_sha256": "c742fa3d6311cf9e96f27dfd1331f9cc94bc5177db880acb85c627baf6eaa942",
+      "md_span": {
+        "start": 16202,
+        "end": 16334
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_27/19990615",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Toute somme due à l’Etat peut être récupérée par voie de contrainte.\n\n**(2)** La contrainte est décernée par le comptable public en charge du recouvrement; elle est visée et rendue exécutoire par le directeur de l’administration fiscale concernée ou son délégué. Elle est notifiée par voie d’huissier ou par un fonctionnaire d’une administration fiscale dûment autorisé à cet effet.",
+      "text_sha256": "d4f241323c3ec8d201394abfaeefd6f150e5542ba0a6663a6f9edf3a9f949597",
+      "md_span": {
+        "start": 16371,
+        "end": 16761
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_28/19990615",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les comptables publics sont personnellement et pécuniairement responsables des opérations dont ils sont chargés aux termes de la présente loi.\n\n**(2)** Les comptables publics fournissent des cautionnements dont la nature et le montant sont fixés par règlement grand-ducal.\n\n**(3)** Aucun comptable public ne peut être installé dans l’exercice de ses fonctions, qu’après avoir justifié de sa prestation de serment et du versement de son cautionnement, dans les formes et devant les autorités à déterminer par les lois et règlements.\n\n**(4)** Les fonctionnaires chargés spécialement et directement du contrôle des comptables publics et du contrôle de leur comptabilité sont responsables de tout déficit irrécouvrable occasionné par un défaut de vérification de la gestion.\n\n**(5)** Le ministre ayant le budget dans ses attributions établit par un arrêté motivé la responsabilité de l’agent de contrôle et fixe le montant du préjudice à lui imputer.",
+      "text_sha256": "2f3c1f2e9c4135e5b90028d813c619c1d834c343cc4cfc504afa598fd1d0a3ef",
+      "md_span": {
+        "start": 16798,
+        "end": 17752
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_29/19990615",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les comptables publics doivent, sous les peines fixées par les articles 240 et suivants du code pénal, justifier de l’emploi légal des fonds recouvrés à toute réquisition du ministre ayant le budget dans ses attributions.",
+      "text_sha256": "ec4d953086991d00950001fd404bb0adc5fdcb6f30905b83d6ed6f5ade6ca369",
+      "md_span": {
+        "start": 17789,
+        "end": 18010
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_30/19990615",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les comptables publics chargés de la perception des recettes sont tenus de rendre compte de leur gestion au ministre ayant le budget dans ses attributions à la fin du mois et à la clôture définitive de l’exercice conformément aux prescriptions fixées par règlement grand-ducal.",
+      "text_sha256": "9c6cf34d607fd92ef1f827afc843f5c9756f13d09ff17dcd21ec37b7c76785de",
+      "md_span": {
+        "start": 18047,
+        "end": 18324
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_31/20231101",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-11-01",
+      "text_md": "**(1)** Avant d’obtenir décharge par le ministre ayant le budget dans ses attributions des recettes non recouvrées, le comptable public doit établir que le non-recouvrement ne provient pas de sa négligence, et qu’il a fait en temps opportun toutes les diligences et poursuites nécessaires.\n\n**(2)** Les comptables publics ne peuvent obtenir décharge d’un vol ou d’une perte de fonds, s’il n’est justifié qu’il est l’effet d’un cas de force majeure, et que les précautions prescrites par les règlements ont été prises.\n\n**(3)** Les receveurs des administrations fiscales sont déchargés de plein droit de la responsabilité du recouvrement des créances fiscales n’ayant pas pu être recouvrées suite à l’application de la loi du 7 août 2023 relative à la préservation des entreprises et la modernisation du droit de la faillite.",
+      "text_sha256": "5493010075076ce5c0d52e1c4967557106f95ce5cd7a83c398c5d82e2f0a9c52",
+      "md_span": {
+        "start": 18361,
+        "end": 19185
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2023/08/07/a521/jo",
+          "text": "loi du 7 août 2023"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_32/19990615",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Le ministre ayant le budget dans ses attributions peut accorder décharge des erreurs ou omissions de perceptions quelconques au préjudice de la trésorerie, tant aux comptables publics qu’aux fonctionnaires de la trésorerie.",
+      "text_sha256": "df9f72103987ef3e3798ed490ba565ce8c9af66b90d2d535837d151ab24b1ea7",
+      "md_span": {
+        "start": 19222,
+        "end": 19445
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_33/19990615",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Le ministre ayant le budget dans ses attributions donne décharge au titre d’un exercice, au plus tard le 31 décembre de l’exercice suivant, aux comptables publics sur base des rapports annuels des administrations fiscales et de la trésorerie et sur base de l’avis de la Cour des comptes.",
+      "text_sha256": "64b1b24cf574e21deddad096391416c7846274828d470458f760a9cd1292391b",
+      "md_span": {
+        "start": 19482,
+        "end": 19769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_34/19990615",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre 8.3. — Comptables publics"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le comptable public qui cesse ses fonctions rend un compte de fin de gestion, pour la partie de l’exercice antérieur à la cessation, au ministre ayant le budget dans ses attributions.\n\n**(2)** En cas de décès d’un comptable public, le compte est rendu par son successeur dans les délais déterminés par règlement grand-ducal.",
+      "text_sha256": "f06be1f46e136a2ee1e9017079ee47f574ccdf4bc312519525359c8c486d8e1a",
+      "md_span": {
+        "start": 19806,
+        "end": 20138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_35/19990615",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Comptes bancaires de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Tous les recouvrements et tous les paiements de l’Etat sont effectués et imputés sur des comptes de l’Etat.\n\n**(2)** Pour chaque comptable public, la trésorerie ouvre un ou plusieurs comptes sur lesquels s’imputent et s’effectuent les recettes et les dépenses dont il est chargé.\n\n**(3)** Les modalités d’ouverture, d’utilisation et de gestion de ces comptes sont arrêtées par le ministre ayant le budget dans ses attributions sur proposition de la trésorerie de l’Etat.\n\n**(4)** Les comptes de l’Etat sont détenus auprès du service des comptes chèques postaux gérés par l’entreprise des postes et télécommunications ou auprès d’établissements bancaires agréés à cet effet par le ministre ayant le budget dans ses attributions.\n\n**(5)** Les comptes de l’Etat sont spécialisés en fonction de la nature des recettes et des dépenses.",
+      "text_sha256": "b6746e4dd883f3bb36fadb43c4d39b47080084477cb615128b8e7a1c48c16141",
+      "md_span": {
+        "start": 20221,
+        "end": 21059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_36/19990615",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Comptes bancaires de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La trésorerie de l’Etat peut effectuer les paiements par l’entremise du service des chèques postaux ou d’établissements bancaires agréés à cet effet par le ministre ayant le budget dans ses attributions, et au besoin, en faisant ouvrir d’office un compte aux créanciers de l’Etat auprès du service des comptes chèques postaux. L’inscription de la somme due au crédit de ce compte éteint la dette de l’Etat.",
+      "text_sha256": "0a69991b949ab71c3bb1f5860e687200065fb3ae37baa3e1b3ec81cc1409555a",
+      "md_span": {
+        "start": 21096,
+        "end": 21502
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_37/19990615",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Comptes bancaires de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les recouvrements et les paiements au profit ou à charge de l’Etat sont effectués par virement bancaire ou postal et par tous les modes de paiement acceptés par la trésorerie.\n\n**(2)** Pour des catégories de recettes et de dépenses déterminées, le ministre ayant le budget dans ses attributions peut autoriser le paiement et le recouvrement en espèces.",
+      "text_sha256": "9f7047f31ab2dfdd393c922b9158a28dddab8da7a13530a47348294a30c74322",
+      "md_span": {
+        "start": 21539,
+        "end": 21899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_38/19990615",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. — Recettes de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Toutes les recettes de l’Etat doivent être encaissées pour compte de l’Etat, attribuées à un article du budget et inscrites dans la comptabilité de l’Etat.",
+      "text_sha256": "6bc30ae8781627b27f01447ab585172d4c42c869e49cfbc781cd74b922624858",
+      "md_span": {
+        "start": 21974,
+        "end": 22129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_39/19990615",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. — Recettes de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les recettes non encore attribuées le sont par le ministre ayant le budget dans ses attributions qui fixe l’exercice ainsi que l’article du budget auquel l’imputation est faite.",
+      "text_sha256": "6f4ba05aa009e84099fdabfe0bcaeda80a18b4ad7f9d1a6f4b62591f23ba7705",
+      "md_span": {
+        "start": 22166,
+        "end": 22343
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_40/19990615",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre 10.1. — Recettes fiscales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les recettes fiscales comprennent les produits d’impôts, de taxes et de droits.",
+      "text_sha256": "0b5772fb38e2213dc1863af41a81d1296d093e363b0b7a14537ca7e185d8347d",
+      "md_span": {
+        "start": 22419,
+        "end": 22498
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_41/19990615",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Chapitre 10.1. — Recettes fiscales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les conditions et modalités de l’assiette, de la liquidation, du contrôle et du recouvrement des recettes fiscales sont déterminées par les législations propres à chaque catégorie de recette fiscale.\n\n**(2)** Toute créance liquidée fait l’objet d’un titre de perception émis par les services d’imposition des administrations fiscales.\n\n**(3)** Le recouvrement des créances fiscales est confié aux receveurs des administrations fiscales compétentes.\n\n**(4)** Les receveurs effectuent les imputations budgétaires et comptables immédiatement lors du recouvrement des recettes fiscales.",
+      "text_sha256": "e6e9a4d3efc37a8d2f4a6252d8a01b14f8067b888cd2899443d1b007996973b3",
+      "md_span": {
+        "start": 22535,
+        "end": 23125
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_42/19990615",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Chapitre 10.2. — Recettes non fiscales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les conditions et les modalités de tarification et de perception des recettes non fiscales sont arrêtées par décision conjointe du ministre compétent et du ministre ayant le budget dans ses attributions.\n\n**(2)** Toute mesure susceptible d’engendrer une recette au profit de l’Etat doit être signalée par le ministre ordonnateur au ministre ayant le budget dans ses attributions.",
+      "text_sha256": "b5d463ac3049f11ce46997b7dd193aae23a08ad9f503fa62533b020d47e3bd5d",
+      "md_span": {
+        "start": 23205,
+        "end": 23592
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_43/19990615",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Chapitre 10.2. — Recettes non fiscales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Le ministre ordonnateur compétent constate et liquide la créance au profit de l’Etat. Il établit le titre de recette qu’il soumet avec toutes les pièces justificatives au visa du contrôleur financier.",
+      "text_sha256": "e7fa9ce917bfaa3d61150cb4c1ca2ce4278ac6e584f64298899087f41815541d",
+      "md_span": {
+        "start": 23629,
+        "end": 23829
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_44/19990615",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Chapitre 10.2. — Recettes non fiscales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Après avoir accordé son visa le contrôleur financier transmet le titre de recette au comptable public compétent aux fins de recouvrement.\n\n**(2)** Le contrôleur financier refuse son visa si à son avis les conditions prévues au paragraphe (4) de l’article 24 ne sont pas remplies. Ce refus dûment motivé est signifié par écrit à l’ordonnateur.\n\n**(3)** En cas de refus de visa, l’ordonnateur peut saisir le ministre ayant le budget dans ses attributions qui par une décision motivée peut autoriser l’ordonnateur à passer outre au refus du visa du contrôleur financier.\n\n**(4)** La décision motivée du ministre ayant le budget dans ses attributions est communiquée au contrôleur financier pour exécution ainsi qu’à l’ordonnateur.",
+      "text_sha256": "0514e22002b85082f4d0ea9a80f26e9968c5b6afa61fdb143d6b8aeb294e1601",
+      "md_span": {
+        "start": 23866,
+        "end": 24601
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_45/19990615",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Chapitre 10.2. — Recettes non fiscales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les receveurs de l’administration fiscale compétente et les agents compétents de la trésorerie de l’Etat procèdent au recouvrement des recettes non fiscales sur la base des titres de recettes.\n\n**(2)** Ils procèdent à la restitution des montants versés au-delà du montant inscrit au titre de recette.\n\n**(3)** Ils effectuent les imputations budgétaires et comptables relatives aux opérations de recouvrement et de restitution.",
+      "text_sha256": "b474d0ec62d6343817f217127b5263bef79b2605c2bfed80ee4b362d3094e3d4",
+      "md_span": {
+        "start": 24638,
+        "end": 25072
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_46/19990615",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Chapitre 10.2. — Recettes non fiscales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les droits constatés au profit de l’Etat pendant l’exercice budgétaire qui, au 31 mars suivant, n’ont pas fait l’objet d’un recouvrement ou d’une annulation, sont reportés à l’exercice suivant.",
+      "text_sha256": "61f9657d87a7a111767903301dd3a44ae3c3d21dc34f6a53e2e9f50c3a43f8e2",
+      "md_span": {
+        "start": 25109,
+        "end": 25302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_47/19990615",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Toutes les dépenses de l’Etat doivent être prévues au budget et inscrites dans la comptabilité de l’Etat.",
+      "text_sha256": "c6d161bc87346e67e77557e976cc1755f71b22296f8d77b9e9a7ee2afa285939",
+      "md_span": {
+        "start": 25377,
+        "end": 25482
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_48/19990615",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Toute demande de crédit faite en dehors du budget annuel doit indiquer les voies et moyens de couvrir la dépense.",
+      "text_sha256": "8b5fb26f19604125dfe0feaf619013435492b4cdaf8c01095fdc563bb96ecf0a",
+      "md_span": {
+        "start": 25519,
+        "end": 25632
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_49/19990615",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les dépenses ne peuvent être payées que si elles ont été préalablement engagées, liquidées et ordonnancées.",
+      "text_sha256": "89c03dc1a9ccf93116cf83716be4a220035814601a4223d7925ea36e18139129",
+      "md_span": {
+        "start": 25669,
+        "end": 25776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_50/19990615",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les dépenses courantes comprennent notamment les dépenses de fonctionnement de l’Etat, les transferts de revenus ainsi que les intérêts et frais accessoires de la dette publique.\n\n**(2)** Les dépenses en capital se composent notamment des dépenses d’investissements effectuées directement par l’Etat, des transferts en capital, des prises de participation de l’Etat dans le capital d’entreprises privées ou publiques, du remboursement du principal de la dette publique, ainsi que de l’octroi de crédits aux secteurs public et privé.",
+      "text_sha256": "907ffe076dc61e510c2dfd92dde812803169e6f0a2762cedcb585788e3dc88ba",
+      "md_span": {
+        "start": 25813,
+        "end": 26353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_51/19990615",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Toute mesure susceptible d’entraîner une dépense à charge du budget doit faire l’objet d’une proposition d’engagement de la part de l’ordonnateur.",
+      "text_sha256": "e3c6697a3db6fc24b35eba27a8d75e21b32c649daf0a5a679677ea864f246d2b",
+      "md_span": {
+        "start": 26390,
+        "end": 26536
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_52/19990615",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les dépenses ne peuvent être engagées et ordonnancées que dans la limite des crédits votés sans préjudice des dispositions prévues aux articles 16, 17 et 18.",
+      "text_sha256": "06610dbfe34b9b7047a9a2b5e972d92dccd107c9daf13981e91475ad4c29e5b1",
+      "md_span": {
+        "start": 26573,
+        "end": 26730
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_53/19990615",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les dépenses courantes qui reviennent régulièrement à des échéances fixes peuvent faire l’objet d’une proposition d’engagement provisionnel. Les engagements individuels couverts par de tels engagements provisionnels ne sont pas à soumettre séparément au contrôle du contrôleur financier.\n\n**(2)** Les engagements individuels effectués par l’ordonnateur ne peuvent pas dépasser le montant de l’engagement provisionnel qui les couvre.",
+      "text_sha256": "f98619b1ced01794f92c9d5e6fecd2ef5068ea71418cb145b84ccfc4ab4b2805",
+      "md_span": {
+        "start": 26767,
+        "end": 27207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_54/19990615",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Pour des dépenses déterminées, le ministre ayant le budget dans ses attributions peut fixer des seuils en-dessous desquels l’engagement ne doit pas faire l’objet d’une proposition d’engagement.",
+      "text_sha256": "bf5d1432f4983de129f08440825843b2722960205f7694974611a4ca20b65118",
+      "md_span": {
+        "start": 27244,
+        "end": 27437
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_55/19990615",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** La proposition d’engagement accompagnée des pièces justificatives est transmise au contrôleur financier qui effectue les contrôles prévus au paragraphe 3 de l’article 24.\n\n**(2)** Le contrôleur financier refuse son visa à l’égard d’une proposition d’engagement si à son avis les conditions prévues au paragraphe (3) de l’article 24 sub a) à e) ne sont pas remplies. Ce refus dûment motivé est signifié par écrit à l’ordonnateur et transmis pour information au ministre ayant le budget dans ses attributions.",
+      "text_sha256": "8fa44630272b0e8a56755fb900ee208384ca31b8538ef4954d0bf9af2bbfbbdf",
+      "md_span": {
+        "start": 27474,
+        "end": 27989
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_56/19990615",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Lorsque le contrôleur financier a accordé son visa, l’ordonnateur engage et liquide la dépense, établit l’ordonnance de paiement et transmet celle-ci accompagnée des pièces justificatives au contrôleur financier.",
+      "text_sha256": "f6e4dfcaccae198555c9be8a2d6c14d2ed563808f38e0df3be5b39911ef80839",
+      "md_span": {
+        "start": 28026,
+        "end": 28238
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_57/19990615",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le contrôleur financier effectue les contrôles prévus au paragraphe (3) de l’article 24 et s’assure que la dépense est conforme à l’engagement préalablement autorisé.\n\n**(2)** Le contrôleur financier refuse son visa si à son avis les conditions prévues au paragraphe (3) de l’article 24 sub a) à e) ne sont pas remplies ou si la dépense n’est pas conforme à l’engagement préalablement autorisé. Le refus de visa dûment motivé est signifié à l’ordonnateur et transmis pour information au ministre ayant le budget dans ses attributions.",
+      "text_sha256": "85a3fad83d44f3dd0d009105b57a5704f3b997273ca6947a3591c02e8e30f93d",
+      "md_span": {
+        "start": 28275,
+        "end": 28817
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_58/19990615",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les propositions d’engagement et les ordonnances de paiement doivent être soumises au contrôleur financier dans les meilleurs délais et accompagnées de toutes les pièces nécessaires pour lui permettre d’effectuer les contrôles prévus par la présente loi.\n\n**(2)** Le contrôleur financier accorde ou refuse son visa respectivement dans un délai maximal de dix jours ouvrables à partir du jour de la réception de la proposition d’engagement et dans un délai maximal de huit jours ouvrables à partir de la réception de l’ordonnance de paiement.",
+      "text_sha256": "9ba85bf05a5f61679348b4d25cad2fa8847a9128bca0cfe74ef67b2c7a6decf9",
+      "md_span": {
+        "start": 28854,
+        "end": 29403
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_59",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_59/19990615",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Lorsqu’en cas de refus de visa, l’ordonnateur maintient respectivement la proposition d’engagement ou l’ordonnance de paiement, il transmet ses observations au contrôleur financier qui accorde ou refuse son visa dans un délai maximum de six jours ouvrables à partir du jour de la réception de ces observations.\n\nSi le contrôleur financier réitère son refus, le ministre du département ordonnateur peut, par un arrêté motivé, passer outre au refus du visa. Toutefois, l’ordonnancement ne peut être effectué en cas d’insuffisance de crédits.\n\nLa décision du ministre du département ordonnateur est transmise au ministre ayant le budget dans ses attributions, au contrôleur financier pour exécution ainsi qu’à la Cour des comptes.",
+      "text_sha256": "e73ae38a5ea7227f8b6f45b295ebf396221fe48bc87c697d225a9de40be9d358",
+      "md_span": {
+        "start": 29440,
+        "end": 30167
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_60",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_60/19990615",
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Si une ordonnance de paiement doit être annulée avant le paiement, l’annulation a lieu suite à une demande d’annulation motivée de l’ordonnateur adressée à la trésorerie, et dont une copie est transmise au contrôleur financier.",
+      "text_sha256": "9f6a866f75b505db0510148f19fe1dddd9a6c787d41cdf0fa5f37c887b3e697f",
+      "md_span": {
+        "start": 30204,
+        "end": 30431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_61",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_61/19990615",
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Sont prescrites et définitivement éteintes au profit de l’Etat, sans préjudice des déchéances prononcées par d’autres dispositions légales, réglementaires ou conventionnelles en la matière, les créances qui, selon les modalités fixées par la loi ou le règlement, n’ont pas été produites dans le délai de cinq ans à partir du premier janvier de l’exercice budgétaire au cours duquel elles sont nées.",
+      "text_sha256": "965e5948e92270cf71171e299d348aba3bf5442eaeb35088a3760da49c82fdaf",
+      "md_span": {
+        "start": 30468,
+        "end": 30866
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_62",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_62/19990615",
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** L’ordonnance de paiement établie par l’ordonnateur ne peut être exécutée par le comptable public qu’à condition d’être munie du visa du contrôleur financier.\n\n**(2)** Le comptable public chargé du paiement doit suspendre tout paiement en cas de contestation relative à la validité de l’acquit libératoire et en cas d’erreur matérielle. Avant paiement il exécute les cessions, les sommations à tiers détenteur et les saisies qui lui sont notifiées conformément aux procédures légales prescrites.\n\n**(3)** En cas de suspension d’un paiement, le comptable public en informe immédiatement l’ordonnateur et le contrôleur financier.\n\n**(4)** Le comptable public effectue les imputations budgétaires et comptables relatives aux opérations de paiement qui lui sont confiées.",
+      "text_sha256": "e760b83509df713d39273ba09cabcd9792c1814142c5d84516f3137b0d4575d3",
+      "md_span": {
+        "start": 30903,
+        "end": 31677
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_63",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_63/19990615",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Dans des cas exceptionnels ou inhérents au mode de paiement et suivant des conditions et modalités à déterminer par règlement grand-ducal, le ministre ayant le budget dans ses attributions peut autoriser l’octroi d’avances temporaires de fonds.",
+      "text_sha256": "b71bff9e172e8b5057a18b743aefb6d4ceeb99a3284d971769113ad2f9fae859",
+      "md_span": {
+        "start": 31714,
+        "end": 31958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_64",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_64/19990615",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Sauf en cas d’expropriation pour cause d’utilité publique, une avance à valoir sur le prix de vente peut être consentie au vendeur, sous les conditions et modalités suivantes, en vue de la cession au profit de l’Etat de tout ou partie d’un immeuble, libre de toutes charges, dans l’intérêt de la réalisation de travaux publics:\n\n1. l’avance ne peut pas dépasser quatre-vingts pour cent du prix de vente estimé et doit être stipulée dans une promesse de vente écrite, à approuver par le ministre compétent et le ministre ayant le budget dans ses attributions;\n2. le budget de l’exercice, au cours duquel la promesse de vente est approuvée définitivement, doit prévoir les crédits nécessaires au paiement de l’avance.\n\n**(2)** Lorsque l’avance stipulée dans la promesse de vente est égale ou supérieur à 7.500 euros, les droits de la trésorerie sont garantis, jusqu’à concurrence du montant de l’avance, par une hypothèque légale sur l’ensemble de l’immeuble en question. L’inscription de cette hypothèque est requise par le ministre compétent et avant le paiement de l’avance. Sa radiation est faite par le conservateur des hypothèques sur une requête à l’acte de vente. Les formalités relatives à l’inscription et à la radiation de l’hypothèque ne donnent lieu à aucune perception au profit de la trésorerie, sauf le paiement des formalités hypothécaires.\n\n**(3)** Les dispositions prévues au paragraphe précédent sont applicables pareillement, lorsque la promesse de vente concerne plusieurs immeubles ou parties d’immeubles et que le total des avances consenties atteint ou dépasse la somme indiquée.",
+      "text_sha256": "e526ec35d2fa1709aa4d1ace07cc5f2466e77ded7034e3073face3dfb76a38c1",
+      "md_span": {
+        "start": 31995,
+        "end": 33605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_65",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_65/19990615",
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. — Dépenses de l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les paiements indûment effectués donnent en principe lieu à l’établissement de rôles de restitution par l’ordonnateur. Les rôles de restitution sont soumis au visa du contrôleur financier et recouvrés par les comptables publics chargés de la perception de ces recettes.\n\n**(2)** Les paiements indûment effectués à titre de rémunération du personnel de l’Etat peuvent être régularisés par l’administration du personnel de l’Etat moyennant l’imputation des sommes en question sur les rémunérations futures. La régularisation est soumise au visa préalable du contrôleur financier.",
+      "text_sha256": "4820374685b62770fbb52cff8d92fa65524ed109b0e7815721fa1096fe5e703a",
+      "md_span": {
+        "start": 33642,
+        "end": 34227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_66",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_66/19990615",
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "Chapitre 12. — Procédures d’exception"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "En cas d’insuffisance de crédits à l’endroit d’un article libellé «Crédit non limitatif», pour des dépenses imprévisibles, indispensables et dont le règlement ne peut être différé, le ministre ayant le budget dans ses attributions peut autoriser préalablement à l’engagement un dépassement de crédit sur demande motivée du ministre ordonnateur.",
+      "text_sha256": "12974d6d65f7c2c3cf984a8aa10502d99bee82b1e147fb852e52a8330ddea0b0",
+      "md_span": {
+        "start": 34306,
+        "end": 34650
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_67",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_67/19990615",
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "Chapitre 12. — Procédures d’exception"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** En cas d’absence ou d’insuffisance de crédits, et lorsque l’urgence est extrême et telle que tout retard de paiement pourrait compromettre le service de l’Etat et porter atteinte à l’ordre public, le ministre ayant le budget dans ses attributions peut autoriser, sur demande motivée du ministre ordonnateur l’engagement des dépenses et leur paiement par ordonnance provisoire.\n\n**(2)** Les ordonnances provisoires sont à régulariser à charge de crédits portant la mention «Restants d’exercices antérieurs» et ce au plus tard au cours du deuxième exercice budgétaire qui suit l’époque de leur émission.",
+      "text_sha256": "4811c7259a81390ff4dcb662faae04f9139849083c78a20bd244f986e967693b",
+      "md_span": {
+        "start": 34687,
+        "end": 35296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_68",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_68/19990615",
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Comptables extraordinaires"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les comptables extraordinaires sont nommés par décision du ministre ayant le budget dans ses attributions sur proposition du ministre ordonnateur pour effectuer la constatation, la liquidation et le recouvrement ainsi que le paiement de recettes et de dépenses déterminées, qui en raison de leur nature, de leur exiguïté, de leur urgence ou en raison du grand nombre de parties prenantes, justifient un procédé plus simple ou plus rapide que la procédure ordinaire.\n\nCette décision détermine notamment:\n\n1. la durée du mandat;\n2. les modalités de la comptabilité;\n3. les modalités du contrôle périodique par le contrôleur financier et par la trésorerie de l’Etat;\n4. la nature des dépenses à effectuer ainsi que le montant maximum des fonds à mettre à la disposition du comptable extraordinaire;\n5. les catégories de recettes à recouvrer.",
+      "text_sha256": "20d6f775471091bd0e013149d276d8a3c8389ef3f5a354eca8f68d837e076ad9",
+      "md_span": {
+        "start": 35379,
+        "end": 36217
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_69",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_69/19990615",
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Comptables extraordinaires"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les recettes d’un comptable extraordinaire ne peuvent être affectées au paiement de ses dépenses. Il inscrit les opérations de recettes et de dépenses dans des comptes distincts.",
+      "text_sha256": "05ae50cc8ef6d7eadb7810f3980ca5505f9e7b15d750f150e2821b87884b9cd1",
+      "md_span": {
+        "start": 36254,
+        "end": 36432
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_70",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_70/19990615",
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Comptables extraordinaires"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le comptable extraordinaire ne peut effectuer des paiements que sur base et dans la limite des engagements ou des engagements provisionnels préalables signés par l’ordonnateur.\n\n**(2)** Le comptable extraordinaire est responsable vis-à-vis de l’ordonnateur du paiement des dettes de l’Etat et vis-à-vis de la trésorerie de l’Etat de l’exécution correcte des paiements.",
+      "text_sha256": "095f6d2563643bb16de7dbc965cc97b0f5acbc1a5dd924404f12b240e07787fb",
+      "md_span": {
+        "start": 36469,
+        "end": 36845
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_71",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_71/19990615",
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Comptables extraordinaires"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le comptable extraordinaire en poste à l’étranger peut être autorisé par décision du ministre ayant le budget dans ses attributions et conformément aux directives de la trésorerie de l’Etat à placer temporairement les fonds disponibles. Par dérogation aux dispositions de l’article 69, les intérêts provenant de ces placements peuvent être affectés au paiement de dépenses.\n\n**(2)** Le comptable extraordinaire rend compte périodiquement du placement de ces fonds à la trésorerie.",
+      "text_sha256": "d2aa258682dc51aa248c31eb56904a1cea9730878753291581c538532925eb09",
+      "md_span": {
+        "start": 36882,
+        "end": 37370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_72",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_72/20250101",
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Comptables extraordinaires"
+      ],
+      "article_valid_from": "2025-01-01",
+      "text_md": "Les fonds dont il n’a pas été fait emploi au 31 janvier de l’année qui suit celle qui donne sa dénomination à l’exercice sur lequel ils sont imputables sont reversés à la trésorerie de l’Etat pour le 15 février de l’année subséquente au plus tard.",
+      "text_sha256": "bd13541ec37c0a5661ea46b64ac5f36030a9518b467d95cdb1a8b5ea1767add9",
+      "md_span": {
+        "start": 37407,
+        "end": 37654
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_73",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_73/20250101",
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. — Comptables extraordinaires"
+      ],
+      "article_valid_from": "2025-01-01",
+      "text_md": "**(1)** Le comptable extraordinaire rend compte de l’emploi de ses fonds à l’ordonnateur dans un délai indiqué dans la décision d’allocation des fonds et qui ne peut être postérieur dernier jour du mois de février qui suit l’exercice sur lequel ils sont imputables.\n\n**(2)** Au plus tard le 15 avril, l’ordonnateur transmet le compte accompagné de ses observations au contrôleur financier.\n\n**(3)** Le contrôleur financier transmet le compte accompagné de ses observations au ministre ayant le budget dans ses attributions en vue d’accorder la décharge au comptable extraordinaire.\n\n**(4)** A défaut de présentation du compte dans ce délai, il sera procédé contre les retardataires par l’émission d’un rôle de restitution, sauf réordonnancement à leur profit des fonds dont l’emploi serait justifié dans la suite. Le même procédé sera suivi à l’égard des comptables en défaut de régulariser leurs comptes dans les prédits délais. Dans les différents cas rappelés ci-dessus, aucun nouveau crédit ne pourra être liquidé au profit du même comptable, avant la régularisation définitive de l’arriéré.",
+      "text_sha256": "793c1ba18d3129cbfc61ab93538665f8f221e0266802dd9dc495baa39b5e3467",
+      "md_span": {
+        "start": 37691,
+        "end": 38786
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_74",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_74/19990615",
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Services de l’Etat à gestion séparée"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** La loi budgétaire peut constituer une administration, un établissement ou un service comme service de l’Etat à gestion séparée.\n\n**(2)** Un règlement grand-ducal à prendre sur avis du Conseil d’Etat fixe, le cas échéant par dérogation aux principes de l’unité, de l’universalité et de l’annualité et aux règles de comptabilité tels que prévus par la présente loi, les règles de la gestion financière et comptable applicables au service à gestion séparée ainsi que les modalités du contrôle de cette gestion par le ministre ayant le service concerné dans ses attributions.",
+      "text_sha256": "78e5760358f11a251ac8b7f98a2a20956c343687ca7a85ab4e7554aeb6bd2640",
+      "md_span": {
+        "start": 38879,
+        "end": 39458
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_75",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_75/19990615",
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. — Services de l’Etat à gestion séparée"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les ressources du service sont constituées notamment par:\n\n- la dotation globale à charge du budget de l’Etat;\n- le solde reporté de l’exercice précédent;\n- les recettes pour prestations de services et autres recettes d’exploitation;\n- les dons et legs reçus conformément à l’article 910 du Code civil.",
+      "text_sha256": "a37b0eb158dc7a2cd4870e3e8f0513c430e3f0429c8a83459de5f6702a8123dc",
+      "md_span": {
+        "start": 39495,
+        "end": 39797
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_76",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_76/19990615",
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "Chapitre 15. — Fonds spéciaux"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Des crédits budgétaires spécifiés comme tels peuvent être ordonnancés au profit de comptes spécifiques de l’Etat dénommés «fonds spéciaux».\n\n**(2)** La création d’un fonds spécial est autorisée par la loi, laquelle précise en particulier la nature des dépenses imputables à charge de ce fonds.\n\n**(3)** Les dépenses à charge ainsi que les recettes au profit de ces fonds spéciaux sont soumises aux règles de la présente loi, sauf les exceptions ci-après:\n\n1. Les fonds spéciaux sont renseignés dans la comptabilité sous un titre particulier.\n2. Peuvent être payées dans la limite des avoirs disponibles les dépenses engagées au cours de l’année qui donne sa dénomination à l’exercice ainsi que les dépenses engagées au cours d’années précédentes.\n3. La somme des engagements à contracter au cours d’un exercice et «des» engagements reportés d’exercices antérieurs peuvent dépasser le total des avoirs disponibles pour cet exercice.\n4. l’avoir disponible à la clôture de l’exercice budgétaire est reporté à l’exercice suivant.",
+      "text_sha256": "0356914a233d3d262ed08a69013dac5d7bebeb370cb029fd53292d3e9e9bfead",
+      "md_span": {
+        "start": 39868,
+        "end": 40901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_77",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_77/19990615",
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "Chapitre 15. — Fonds spéciaux"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les départements ministériels communiquent à la fin de chaque trimestre à l’inspection générale des finances un état exhaustif des engagements contractés au cours de l’exercice et des engagements à prévoir pour l’exercice en cours et pour les exercices suivants ainsi qu’un relevé des dépenses liquidées à charge des fonds spéciaux et relevant de leur compétence.",
+      "text_sha256": "c34d494c0fb928b1bb897adcb6feaa779ae1e68c790a84c5c47a17dae7ff16d8",
+      "md_span": {
+        "start": 40938,
+        "end": 41301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_78",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_78/19990615",
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "Chapitre 16. — Recettes et dépenses pour ordre"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les recettes encaissées par l’Etat pour compte de tiers sont portées au budget des recettes et des dépenses pour ordre.\n\n**(2)** Si, à la clôture définitive de l’exercice, les recettes excèdent les dépenses, le surplus peut être reporté à l’exercice suivant.\n\n**(3)** Les dépenses pour ordre ne peuvent pas dépasser le montant des recettes correspondantes.",
+      "text_sha256": "5cef3089e8e9490c8557420a1046dbf464621c022015a84fa9ec9d48f3b064e6",
+      "md_span": {
+        "start": 41389,
+        "end": 41753
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_79",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_79/19990615",
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "Chapitre 17. — Dispositions diverses"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Lorsque des projets ou propositions de loi, des projets d’amendement d’initiative parlementaire ou ministérielle ainsi que des projets de règlement comportent des dispositions dont l’application est susceptible de grever le budget, ils sont obligatoirement accompagnés d’un exposé des recettes et des dépenses nouvelles ou des modifications de recettes et de dépenses à prévoir au budget.\n\nCet exposé comprend une fiche financière renseignant sur l’impact budgétaire prévisible à court, moyen et long terme. La fiche financière doit comporter tous les renseignements permettant d’identifier la nature et la durée des dépenses proposées, leur impact sur les dépenses de fonctionnement et de personnel.\n\n**(2)** Tout projet ou proposition accompagnés d’une telle fiche sera soumis pour avis au ministre ayant le budget dans ses attributions.\n\n**(3)** Toutes les lois, tous les règlements entraînant des dépenses ou des recettes, respectivement à charge ou au profit de l’Etat, doivent porter le contreseing du ministre ayant le budget dans ses attributions.",
+      "text_sha256": "eff2d5cfd3f19ddd65889c0acac67821d3617fab747887e7c1bc700db62505d2",
+      "md_span": {
+        "start": 41831,
+        "end": 42894
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_80",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_80/19990615",
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "Chapitre 17. — Dispositions diverses"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Doivent être autorisés par la loi:\n\n1. toute aliénation d’une propriété immobilière ou mobilière appartenant à l’Etat dont la valeur globale dépasse la somme de 60.000.000 euros ;\n2. toute acquisition par l’Etat d’une propriété immobilière ou mobilière dont la valeur globale dépasse la somme de 60.000.000 euros ;\n3. toute réalisation au profit de l’Etat d’un projet d’infrastructure ou d’un bâtiment dont le coût total dépasse la somme de 60.000.000 euros ;\n4. tout autre engagement financier, y compris les garanties de l’Etat, dont le montant dépasse la somme de 60.000.000 euros ;\n5. toute acquisition par l’Etat d’une propriété immobilière ou mobilière par enchères publiques où le prix d’acquisition dépasse la somme de 60.000.000 euros ;\n6. (abrogé)\n\n**(2)** Ces montants correspondent à la valeur 1037,72 de l’indice annuel des prix à la construction. Ils peuvent être adaptés périodiquement par règlement grand-ducal sans que cette adaptation ne puisse dépasser la variation constatée de l’indice annuel des prix à la construction.",
+      "text_sha256": "2aa9e617dccd589daa109d4ea2cef418fe100a2c957af1209a08c4e13a116832",
+      "md_span": {
+        "start": 42931,
+        "end": 43980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80bis",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_80bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_80bis/20230902",
+      "type": "article",
+      "num": "Art. 80bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 17. — Dispositions diverses"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le Gouvernement est autorisé à imputer à charge et dans la limite des crédits budgétaires les frais pour financer les travaux préparatoires nécessaires et en relation directe avec les dépenses visées à l’article 80, paragraphe 1er.\n\n**(2)** L’autorisation visée au paragraphe 1er concerne les travaux préparatoires dans leur ensemble par projet.\n\n**(3)** Par projet, les dépenses pour financer les travaux préparatoires ne peuvent pas dépasser le montant plafond fixé à l’article 80, paragraphe 1er, lettre d).",
+      "text_sha256": "876b645cb4d77ebac244404f9da2e6e85b79786070ad28551f5d17df0a6123c3",
+      "md_span": {
+        "start": 44023,
+        "end": 44541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_81",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_81/19990615",
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "Chapitre 18. — Contrôle de l’utilisation des concours financiers accordés par l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Tous les concours financiers de l’Etat, que ce soit sous forme de participation en capital, de mise à disposition de terrains ou de bâtiments, de subvention, de prêt, d’avance, de garantie ou sous toute autre forme doivent être utilisés aux fins desquelles ils ont été accordés.\n\n**(2)** Les bénéficiaires de ces concours financiers doivent justifier de l’utilisation du concours reçu.\n\n**(3)** Les décisions portant allocation des concours financiers de la part de l’Etat doivent indiquer clairement la nature, les conditions et modalités des justifications à fournir par les bénéficiaires.",
+      "text_sha256": "203098b5754590edf77a6f0b53d24f9d1b02df4e71920ed85489df466458e47b",
+      "md_span": {
+        "start": 44667,
+        "end": 45266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_82",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_82/19990615",
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "Chapitre 18. — Contrôle de l’utilisation des concours financiers accordés par l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** En raison du seul fait de l’acceptation d’un concours financier quelle qu’en soit la forme, le bénéficiaire consent à ce que les agents ou services mandatés à cet effet par le ministre ordonnateur et/ou le ministre ayant le budget dans ses attributions procèdent sur pièces et sur place au contrôle de l’emploi du concours financier.\n\n**(2)** Les conditions et modalités de ces contrôles font l’objet d’un règlement grand-ducal.",
+      "text_sha256": "d1094c0bbba4536d961c50210bfd0d5ccd276656f06f57534bb0978ad78ed451",
+      "md_span": {
+        "start": 45303,
+        "end": 45739
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_83",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_83/19990615",
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "Chapitre 18. — Contrôle de l’utilisation des concours financiers accordés par l’Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les concours financiers doivent être restitués à l’Etat:\n\n- dans le cas où les déclarations se révèlent être inexactes ou incomplètes;\n- dans le cas où l’utilisation du concours financier ne correspond pas à la fin pour laquelle il a été accordé;\n- dans le cas où les agents ou services chargés du contrôle sont entravés dans l’exercice de leurs missions par le fait du bénéficiaire.\n\n**(2)** Dans tous ces cas le bénéficiaire doit, outre la restitution du concours financier reçu, payer des intérêts au taux légal, à calculer à partir du jour du versement de l’aide par l’Etat jusqu’au jour de la restitution du montant de l’aide par le bénéficiaire à l’Etat.",
+      "text_sha256": "6904e2bf1fb78a41c4769802825ec8117c1fb536f3d3c98cb6741da27b0e2866",
+      "md_span": {
+        "start": 45776,
+        "end": 46444
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_84",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_84/19990615",
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "Chapitre 19. — Missions de l’inspection générale des finances"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "L’alinéa 1 de l’article 2 de la loi modifiée du 10 mars 1969 portant institution d’une inspection générale des finances est remplacé par les dispositions ci-après:",
+      "text_sha256": "01c964b719c3111165d089858c789fc75c418a4697c315713e6ba041496fd289",
+      "md_span": {
+        "start": 46547,
+        "end": 46710
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1969/03/10/n1/jo",
+          "text": "loi modifiée du 10 mars 1969"
+        }
+      ]
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_85",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_85/19990615",
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "Chapitre 19. — Missions de l’inspection générale des finances"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "L’alinéa 1 de l’article 3 de la loi modifiée du 10 mars 1969 précitée est remplacé par le texte suivant:",
+      "text_sha256": "13949e7173183a84ed09d49578c1359477d0639c654b06b5ba135d403236ccc2",
+      "md_span": {
+        "start": 46747,
+        "end": 46851
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1969/03/10/n1/jo",
+          "text": "loi modifiée du 10 mars 1969 précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_86",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_86/19990615",
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "Chapitre 19. — Missions de l’inspection générale des finances"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La loi modifiée du 10 mars 1969 portant institution d’une inspection générale des finances est modifiée comme suit:\n\n«(1) A l'article 9, paragraphe (2), le deuxième alinéa est modifié comme suit:\n\n«onze» au lieu de «huit».\n\n(2) La première phrase de l'alinéa (1) de l'article 11 de la loi modifiée du 10 mars 1969 portant institution d'une inspection générale des finances est modifiée comme suit:Des fonctionnaires des carrières supérieure, moyenne ou inférieures peuvent être recrutés parmi les fonctionnaires de l'administration gouvernementale et des autres administrations publiques pour être adjoints à l'inspection générale des finances suivant les besoins du service et dans les limites des crédits budgétaires.",
+      "text_sha256": "72f14303b34798736ff97d4ad683b57d46f8534b96e6f015609e597abf16d5a6",
+      "md_span": {
+        "start": 46888,
+        "end": 47607
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1969/03/10/n1/jo",
+          "text": "loi modifiée du 10 mars 1969"
+        }
+      ]
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_87",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_87/19990615",
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": null,
+      "path": [
+        "Chapitre 20. — Direction du contrôle financier"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Il est institué une direction du contrôle financier qui relève de l’autorité du ministre ayant le budget dans ses attributions. Elle est placée sous la responsabilité d’un directeur qui a sous ses ordres le personnel.\n\nLe directeur du contrôle financier est chargé de la coordination et de la surveillance des missions des contrôleurs financiers telles que prévues dans la présente loi.\n\nLes missions de contrôleur financier sont exercées par des fonctionnaires, relevant de l’administration gouvernementale ou d’autres administrations, qui sont affectés ou détachés à la direction du contrôle financier. Ils sont habilités à porter le titre de contrôleur financier sans que leur carrière et leur classement n’en soient modifiés. Ils sont placés auprès des différents départements ministériels par décision conjointe du ministre ayant le budget dans ses attributions et le ministre du ressort.\n\n**(2)** Dans l’exercice des missions prévues par la présente loi, le contrôleur financier ne peut recevoir aucune instruction relative à une ordonnance ou un engagement particuliers.",
+      "text_sha256": "6aa8ded264c23ad1a6838bd9dfde2afe70a64251605eabc967284949caa5752f",
+      "md_span": {
+        "start": 47695,
+        "end": 48780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_88",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_88/19990615",
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": null,
+      "path": [
+        "Chapitre 20. — Direction du contrôle financier"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les pouvoirs conférés par la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat et par la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat au ministre du ressort et au chef d’administration sont exercés à l’égard des contrôleurs financiers par respectivement le ministre ayant le budget dans ses attributions et le directeur du contrôle financier.",
+      "text_sha256": "fbbe73c124bd800cc0e4ae384bb5cd589e15592a401ccda7010b6c275cf0343a",
+      "md_span": {
+        "start": 48817,
+        "end": 49239
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_89",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_89/19990615",
+      "type": "article",
+      "num": "Art. 89.",
+      "heading": null,
+      "path": [
+        "Chapitre 20. — Direction du contrôle financier"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le cadre spécial de la direction du contrôle financier comprend, dans la carrière supérieure de l’administration, grade de computation de la bonification d’ancienneté: grade 12, un directeur.\n\n**(2)** En dehors du directeur et des contrôleurs financiers visés à l’article 87 de la présente loi, la direction du contrôle financier disposera de fonctionnaires de la carrière moyenne et des carrières inférieures de l’administration gouvernementale.\n\n**(3)** La direction du contrôle financier peut faire appel en outre, suivant les besoins du service et dans la limite des crédits budgétaires, à des employés et des ouvriers de l’Etat.",
+      "text_sha256": "0ed5bcd8e94c716897ebf9845391104a8d20c74a3c08b5d2f315311560f666b6",
+      "md_span": {
+        "start": 49276,
+        "end": 49917
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_90",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_90",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_90/19990615",
+      "type": "article",
+      "num": "Art. 90.",
+      "heading": null,
+      "path": [
+        "Chapitre 20. — Direction du contrôle financier"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La fonction du directeur du contrôle financier est classée au grade 17 de la rubrique I «Administration générale» de l’annexe A «Classifications des fonctions» de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.\n\nLa loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifiée et complétée comme suit:\n\n1. - direction du contrôle financier - directeur\n2. directeur du contrôle financier\n3. loi du 22 juin 1963",
+      "text_sha256": "62947fe452a43f52e4068b39bce8c96addb13cebaba51a586492f7ce9bd9cb94",
+      "md_span": {
+        "start": 49954,
+        "end": 50452
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_91",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_91",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_91/19990615",
+      "type": "article",
+      "num": "Art. 91.",
+      "heading": null,
+      "path": [
+        "Chapitre 21. — Trésorerie de l'Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** La trésorerie de l’Etat est chargée :\n\n- du paiement de toutes les dépenses de l’Etat autres que celles payées directement par les comptables extraordinaires et les comptables des services de l’Etat à gestion séparée, du recouvrement des recettes provenant de la gestion de la trésorerie et des recettes non fiscales spécifiques dont le ministre ayant le budget dans ses attributions peut la charger ainsi que de la centralisation de toutes les autres recettes de l’Etat;\n- de la gestion des avoirs financiers de l’Etat et des engagements financiers de l’Etat ainsi que des fonds et des biens dont les lois ou règlements attribuent la conservation à l’Etat;\n- de la tenue de la comptabilité générale et budgétaire de l’Etat ainsi que du contrôle de la comptabilité des comptables extraordinaires et des comptables des services de l’Etat à gestion séparée.\n\n**(2)** Les fonctions définies aux trois tirets du paragraphe précédent sont exercées par des sections distinctes au sein de la trésorerie, à savoir la section «paiements et recouvrements», la section «gestion financière» et la section «comptabilité».",
+      "text_sha256": "5ee376a5bd7f553519663ba6162cc8128bf04d35443768ca347142ca3986701e",
+      "md_span": {
+        "start": 50529,
+        "end": 51645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_92",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_92",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_92/19990615",
+      "type": "article",
+      "num": "Art. 92.",
+      "heading": null,
+      "path": [
+        "Chapitre 21. — Trésorerie de l'Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** La trésorerie de l’Etat est placée sous la responsabilité du directeur du trésor et sous les compétences du ministre ayant la trésorerie de l’Etat dans ses attributions.\n\n**(2)** L’article C de la loi modifiée du 16 août 1966 portant organisation des cadres de la trésorerie de l’Etat, de la caisse générale de l’Etat et du service de contrôle de la comptabilité des communes et de certains établissements publics est modifié comme suit:\n\n1. - ère\n- des conseillers de direction\n- des conseillers de direction adjoints\n- er\n- des attachés de gouvernement».\n2. de la caisse générale de l’Etat et\n3. Les quatrième, cinquième et sixième alinéas sont abrogés.\n4. à la caisse générale de l’Etat",
+      "text_sha256": "5e2f43b80cf3a4340b16681b5b00b5c87f01f9a5c3b57f90837c5ba088028589",
+      "md_span": {
+        "start": 51682,
+        "end": 52379
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1966/08/16/n1/jo",
+          "text": "loi modifiée du 16 août 1966"
+        }
+      ]
+    },
+    {
+      "anchor": "art_92bis",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_92bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_92bis/20230902",
+      "type": "article",
+      "num": "Art. 92bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 21. — Trésorerie de l'Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La section «paiements et recouvrements» vérifie la conformité des versements effectués à la trésorerie de l’Etat par les comptables publics de l’administration des contributions directes, de l’administration de l’enregistrement et des domaines et de l’administration des douanes et accises avec les chiffres comptabilisés dans les comptes mensuels de ces comptables.",
+      "text_sha256": "3e77a0d800d10ea85415197ff813394ec06d947b8f0e28c2636bf449b484b217",
+      "md_span": {
+        "start": 52422,
+        "end": 52788
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_93",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_93",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_93/19990615",
+      "type": "article",
+      "num": "Art. 93.",
+      "heading": null,
+      "path": [
+        "Chapitre 21. — Trésorerie de l'Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** La section «gestion financière» place les fonds disponibles de la trésorerie de l’Etat dans des titres ou instruments financiers de première qualité. La politique d’investissement à un an au plus est décidée par le ministre ayant la trésorerie dans ses attributions sur avis du directeur du trésor. La politique d’investissement à plus d’un an est arrêtée par le Gouvernement en conseil sur proposition du ministre ayant la trésorerie dans ses attributions. Un règlement grand-ducal peut établir les modalités et les conditions selon lesquelles s’opèrent les opérations de placement.\n\n**(2)** Elle doit être informée de toute émission d’une garantie financière par l’Etat et de toute prise de participation de l’Etat dans le capital d’un établissement, d’une société ou d’une institution de droit public ou privé, nationale ou internationale. Elle conserve les titres constatant les participations de l’Etat.\n\n**(3)** La gestion des fonds et biens reçus en dépôt par la section «gestion financière» répond aux mêmes règles que celle des fonds de l’Etat, sauf les exceptions déterminées par la présente loi. Les paiements à charge de fonds déposés n’ont lieu que jusqu’à concurrence du montant des dépôts. Les sommes qui, à la clôture d’un exercice, restent disponibles sur fonds déposés sont reportées à l’exercice suivant en conservant leur destination spéciale.\n\n**(4)** La section «gestion financière» tient les registres des garanties accordées par l’Etat, de ses participations et de ses autres avoirs financiers. Le registre des garanties émarge notamment l’encours ainsi que l’échéancier des garanties accordées.\n\n**(5)** La section «gestion financière» dresse, à l’intention du ministre ayant la trésorerie dans ses attributions, des états mensuels et annuels des placements effectués et de leurs rendements ainsi que de l’évolution et du coût de la dette publique. Elle fait rapport sur sa gestion des fonds et biens reçus en dépôt ainsi que sur l’état et l’évolution des registres visés au paragraphe précédent.",
+      "text_sha256": "37bccae4b981e761790a32fc4242ba5f49c500ef5e86ec7ece76e85b649e35e2",
+      "md_span": {
+        "start": 52825,
+        "end": 54854
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_94",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_94",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_94/19990615",
+      "type": "article",
+      "num": "Art. 94.",
+      "heading": null,
+      "path": [
+        "Chapitre 21. — Trésorerie de l'Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** La section «comptabilité» centralise l’intégralité des opérations de recettes et de dépenses de l’Etat ainsi que tous les mouvements de fonds sur les comptes de l’Etat et les variations du patrimoine financier de l’Etat aux fins d’établir la comptabilité budgétaire et la comptabilité générale de l’Etat.\n\n**(2)** Elle peut se faire délivrer toutes pièces comptables nécessaires à l’exécution de sa mission.\n\n**(3)** Elle établit le compte général de l’Etat et dresse, à l’intention du ministre ayant le budget dans ses attributions, des comptes mensuels, et le compte annuel de la trésorerie.\n\n**(4)** Elle assure l’exécution de la législation sur les saisies, cessions et sommations adressées par des créanciers à l’Etat.",
+      "text_sha256": "3fab601cceaa58bcfe92a2131afc549e6bb6c378fc5e5fb57551ad4f9de86c9f",
+      "md_span": {
+        "start": 54891,
+        "end": 55622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_95",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_95",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_95/19990615",
+      "type": "article",
+      "num": "Art. 95.",
+      "heading": null,
+      "path": [
+        "Chapitre 21. — Trésorerie de l'Etat"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Le ministre ayant le budget dans ses attributions émet les emprunts autorisés par la loi. Les conditions et les modalités d’émission sont fixées par règlement grand-ducal.\n\n**(2)** Pour faire face aux besoins de la trésorerie, le ministre ayant le budget dans ses attributions peut émettre des certificats de trésorerie dont l’échéance ne dépasse pas un an.",
+      "text_sha256": "a9273fef83852738ac5d516d4de8ef104806cd396f0e10c3cf70849285a29102",
+      "md_span": {
+        "start": 55659,
+        "end": 56024
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_96",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_96",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_96/19990615",
+      "type": "article",
+      "num": "Art. 96.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Par dérogation aux dispositions de la loi budgétaire concernant les engagements nouveaux de personnel dans les différents services de l’Etat, l’administration gouvernementale peut procéder en 1999 à l’engagement de cinq fonctionnaires en dehors du contingent annuel autorisé pour être affectés ou détachés à la direction du contrôle financier conformément à l’article 87.\n\n**(2)** Par dérogation aux dispositions de la loi budgétaire concernant les engagements nouveaux de personnel dans les différents services de l’Etat, la direction du contrôle financier peut procéder en 1999 à l’engagement d’un directeur en dehors du contingent annuel autorisé.\n\n**(3)** Par dérogation aux dispositions de la loi budgétaire concernant les engagements nouveaux de personnel dans les différents services de l’Etat, l’administration gouvernementale peut procéder en 1999 à l’engagement d’un fonctionnaire en dehors du contingent annuel autorisé pour être adjoint à l’inspection générale des finances conformément à l’article 11 de la loi modifiée du 10 mars 1969 portant institution d’une inspection générale des finances.",
+      "text_sha256": "b93519f81040ee7eacfa352ea5ab98a428a02b263f25432e96e3c37799ec8882",
+      "md_span": {
+        "start": 56117,
+        "end": 57233
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/12/21/n1/jo",
+          "text": "loi budgétaire"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1969/03/10/n1/jo",
+          "text": "loi modifiée du 10 mars 1969"
+        }
+      ]
+    },
+    {
+      "anchor": "art_97",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_97",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_97/19990615",
+      "type": "article",
+      "num": "Art. 97.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "**(1)** Les fonctionnaires de la caisse générale de l’Etat en service au moment de l’entrée en vigueur de la présente loi sont intégrés dans le cadre de la trésorerie, dont l’effectif total des différentes carrières, outre deux postes à pourvoir dans la carrière supérieure de l’attaché de gouvernement, est porté au total résultant de l’addition des effectifs totaux des cadres respectifs de la trésorerie et de la caisse générale de l’Etat à ce moment.\n\n**(2)** L’application du paragraphe précédent ne modifie en rien, pour les fonctionnaires de la trésorerie et pour les anciens fonctionnaires de la caisse générale de l’Etat intégrés à la trésorerie, leur grade, y compris le grade de substitution, et leur traitement de base, tel qu’il est défini à l’article 29ter de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.\n\n**(3)** L’application du paragraphe premier ne doit pas avoir pour effet, par rapport à la situation existante au moment de l’entrée en vigueur de la présente loi, d’empêcher ou de retarder les avancements et les substitutions de grade ultérieurs dans le cadre fermé des fonctionnaires de la trésorerie et des anciens fonctionnaires de la caisse générale de l’Etat intégrés à la trésorerie. Au besoin, il peut être procédé à cet effet à un dépassement temporaire des pourcentages prévus.",
+      "text_sha256": "3f53da736f32f07df31b1e7f1dfa43ae8ea31f5bbcb9e251735be6782c98cd3a",
+      "md_span": {
+        "start": 57270,
+        "end": 58627
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_98",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_98",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_98/19990615",
+      "type": "article",
+      "num": "Art. 98.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les articles 23 à 30, 32, 40 et 45 dernier alinéa de la loi modifiée du 27 juillet 1936 concernant la comptabilité de l’Etat sont abrogés avec effet au 1er janvier 2001 pour toutes les opérations de dépenses et de recettes de l’exercice budgétaire 2001 et suivants.",
+      "text_sha256": "4dbf3d50b9dbafe24559c83abd8fc048cdd61eabc648278f4e8668a5a1e38785",
+      "md_span": {
+        "start": 58664,
+        "end": 58929
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1936/07/27/n2/jo",
+          "text": "loi modifiée du 27 juillet 1936"
+        }
+      ]
+    },
+    {
+      "anchor": "art_99",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_99",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_99/19990615",
+      "type": "article",
+      "num": "Art. 99.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Les articles 21, 24(1) à (3), 51, 53 à 60, 62(1), 62(3), 65, 68 alinéa 2 point 3), 73(2) et (3) de la loi du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’Etat entrent en vigueur au 1er janvier 2001 pour l’exécution du budget des exercices 2001 et suivants.",
+      "text_sha256": "fab4aa1c2206e729e6f39b7fdf873d122eca699266335ca14523261efd4a622f",
+      "md_span": {
+        "start": 58966,
+        "end": 59242
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_100",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_100",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_100/19990615",
+      "type": "article",
+      "num": "Art. 100.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La référence à la présente loi pourra se faire sous une forme abrégée en utilisant les termes «loi du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’Etat».",
+      "text_sha256": "df057d0bb8a2e48f93de33b4b764956fd69296483531c2c379cbddf3943be57b",
+      "md_span": {
+        "start": 59281,
+        "end": 59454
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_101",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_101",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_101/20230902",
+      "type": "article",
+      "num": "Art. 101.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Pour l’exécution du budget de l’exercice 2000, les alinéas (1) et (2) de l’article 9 ci-avant prennent la teneur suivante:\n\n1. les opérations relatives à l’ordonnancement des dépenses peuvent se prolonger jusqu’au dernier jour du mois d’avril 2001.\n2. Les opérations relatives au paiement des dépenses et au recouvrement des recettes peuvent se prolonger jusqu’au 31 mai 2001.",
+      "text_sha256": "d7422defa347c270c2ccd7c74a85293bfe5e723ec6a08e0e6ca87cb1a579c5ec",
+      "md_span": {
+        "start": 59493,
+        "end": 59869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_102",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_102",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_102/20230902",
+      "type": "article",
+      "num": "Art. 102.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Pour l’exécution du budget de l’exercice 2000, les articles 11 et 12 ci-avant prennent la teneur suivante:\n\n1. Pour le 31 juillet 2001 au plus tard le projet de loi portant règlement du compte général de l’exercice 2000 est déposé à la Chambre des députés et transmis à la Cour des comptes.\n2. Pour le 30 novembre 2001 au plus tard, la Cour des comptes communique ses observations relatives au compte général de l’exercice 2000 à la Chambre des députés.",
+      "text_sha256": "fa943cb203f2b2a6b368d94032580feef35817df9a0a0ff78385a522036c3f7f",
+      "md_span": {
+        "start": 59908,
+        "end": 60361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_103",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_103",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_103/20230902",
+      "type": "article",
+      "num": "Art. 103.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "La loi du 31 août 1989 portant exécution de l’article 99, troisième et quatrième phrases, de la Constitution est abrogée.",
+      "text_sha256": "a7b0eaf375892b00dc008a178af5c6308c5c740cd912ab8064d2dff2a900b397",
+      "md_span": {
+        "start": 60400,
+        "end": 60521
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1989/08/31/n1/jo",
+          "text": "loi du 31 août 1989"
+        },
+        {
+          "href": "/eli/etat/leg/constitution/1868/10/17/n1/jo",
+          "text": "Constitution"
+        }
+      ]
+    },
+    {
+      "anchor": "art_104",
+      "provision_id": "lu-legilux:loi-1999-06-08-n2:2025-01-01#art_104",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/art_104/20230902",
+      "type": "article",
+      "num": "Art. 104.",
+      "heading": null,
+      "path": [
+        "Chapitre 22. — Dispositions transitoires et finales"
+      ],
+      "article_valid_from": "2023-09-02",
+      "text_md": "Pour l’élaboration du projet de loi concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 2001, l’article 6 n’est pas applicable.",
+      "text_sha256": "7bf4cd7a4a19797a14609c8569ddd845b9a688315f185a626b269800802dd20d",
+      "md_span": {
+        "start": 60560,
+        "end": 60711
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

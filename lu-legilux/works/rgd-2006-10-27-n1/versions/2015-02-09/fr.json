@@ -1,0 +1,222 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 27 octobre 2006 pris en exécution de l’article 4 de la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur.",
+  "valid_from": "2015-02-09",
+  "valid_to": "2016-07-10",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2006-10-27-n1/versions/2015-02-09/fr.xml",
+    "sha256": "3c1d82d94f5a81216c14589af22a7e08ec84e6fa1406eac1c99e69b0ab80cea3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20150209/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_1er/20061119",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-11-19",
+      "text_md": "La reconnaissance d’équivalence au diplôme luxembourgeois de fin d’études secondaires ou de fin d’études secondaires techniques ou de technicien des diplômes étrangers correspondants délivrés par des pays qui n’ont pas adhéré à la Convention Européenne relative à l’équivalence des diplômes donnant accès aux établissements universitaires, signée à Paris le 11 décembre 1953 et approuvée par la loi du 13 décembre 1954, respectivement à la\n\nConvention sur la reconnaissance des qualifications relatives à l’enseignement supérieur dans la région européenne, ouverte à la signature à Lisbonne le 11 avril 1997 et approuvée par la loi du 14 août 2000, est régie par les dispositions qui suivent.",
+      "text_sha256": "9c18d47046c54f132621799b0edb1a16f0831a22710a6676196038d65abc380a",
+      "md_span": {
+        "start": 740,
+        "end": 1432
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1954/12/13/n6/jo",
+          "text": "loi du 13 décembre 1954"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2000/08/14/n7/jo",
+          "text": "loi du 14 août 2000"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_2/20061119",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-11-19",
+      "text_md": "La reconnaissance d’équivalence est prononcée de cas en cas par un arrêté du Ministre ayant l’Éducation nationale dans ses attributions, pris sur avis obligatoire d’une commission d’experts composée de cinq membres, nommés par le Ministre pour un terme renouvelable de quatre ans.",
+      "text_sha256": "372c6dc960eb6864d503b6f26ad970ba2ff00e538e3085080f523029147017af",
+      "md_span": {
+        "start": 1467,
+        "end": 1747
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_3/20150209",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-02-09",
+      "text_md": "A la demande d’équivalence doivent être joints les documents suivants:\n\n1. l’acte de naissance ou un autre document d’identité du postulant;\n2. le diplôme pour lequel la reconnaissance d’équivalence est demandée;\n3. le curriculum scolaire du postulant, exposant avec précision les études accomplies par lui jusqu’à l’obtention du diplôme en cause;\n4. - soit un diplôme délivré par un institut d’enseignement supérieur reconnu et situé dans un Etat membre de l’Union Européenne sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années;\n- soit un certificat d’inscription à des études supérieures émanant des autorités nationales ou académiques d’un Etat membre de l’Union Européenne complété par le tableau des matières d’examen et le tableau des matières d’enseignement obligatoires et facultatives figurant au programme de l’année d’études précédant l’examen à l’issue duquel le diplôme à reconnaître équivalent a été délivré.\n- soit un diplôme délivré par un institut d’enseignement supérieur reconnu par un État tiers, sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années et s’il peut se prévaloir d’un certificat de langues d’un niveau B2 dans le cadre européen commun de référence pour les langues, pour la langue luxembourgeoise, française ou allemande.\n\nLa demande et le curriculum scolaire doivent être rédigés en français, en allemand ou en anglais. Au cas où les pièces énumérées ci-dessus sous 1, 2 et 4 ne seraient pas établies en français, allemand ou anglais, il devra être joint de chacune d’elles une traduction dans une de ces langues, certifiée fidèle par un traducteur agréé auprès des tribunaux luxembourgeois.\n\nLes pièces requises sous 1, 2 et 4 peuvent être produites sous forme d’une copie ou d’une photocopie. La copie ou la photocopie doit être certifiée conforme à l’original par l’autorité qui a délivré la pièce ou par une administration communale luxembourgeoise.\n\nToutefois, le Ministre ayant l’Éducation nationale dans ses attributions ou la commission d’experts, s’ils le jugent nécessaire, pourront exiger la production des originaux.",
+      "text_sha256": "f74ca1eef22bd990e7d9e43a4f26b6a852d20128aa811089f13308a155827224",
+      "md_span": {
+        "start": 1782,
+        "end": 3889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_4/20150209",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-02-09",
+      "text_md": "L’équivalence au diplôme luxembourgeois de fin d’études secondaires ou de fin d’études secondaires techniques ou de technicien ne sera reconnue aux diplômes visés à l’article 1er que dans les deux cas suivants:\n\n1. si le postulant est détenteur d’un diplôme délivré par un institut d’enseignement supérieur reconnu et situé dans un Etat membre de l’Union Européenne sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années,\n2. - - sciences humaines et sociales\n- sciences naturelles\n- mathématiques\n- technologie\n- beaux-arts et musique;\n- le diplôme doit se situer au terme d’une scolarité s’étendant sur au moins 12 années d’études primaires et secondaires progressives.\n3. si le postulant est détenteur d’un diplôme délivré par un institut d’enseignement supérieur reconnu par un État tiers, sanctionnant un cycle d’études supérieures d’une durée d’au moins 3 années et s’il peut se prévaloir d’un certificat de langues d’un niveau B2 dans le cadre européen commun de référence pour les langues, pour la langue luxembourgeoise ou française ou allemande.",
+      "text_sha256": "c588d4a5b0424612e59770360b58714ab07dd54537f94bbf4e4470d500e3aa7f",
+      "md_span": {
+        "start": 3924,
+        "end": 4998
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_5/20061119",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-11-19",
+      "text_md": "Si la commission estime que le postulant n’a pas rapporté la preuve que le diplôme à reconnaître remplit les critères définis à l’article précédent, elle émet un avis négatif.\n\nSi elle est saisie d’un dossier incomplet ou si elle estime que des documents complémentaires peuvent étayer les renseignements fournis dans la demande initiale, elle sursoit à la continuation de l’examen de la demande, en informe le postulant et lui demande de compléter le dossier présenté initialement par les documents ou renseignements que la commission indiquera.\n\nLes avis de la commission sont motivés.",
+      "text_sha256": "4a0eb2a5d41305483acc5dd8e0d4897e35b6b4d3043c9f7e53dd769af47f21fd",
+      "md_span": {
+        "start": 5033,
+        "end": 5620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_6/20061119",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-11-19",
+      "text_md": "Le ministre désigne le président de la commission parmi les membres de celle-ci. Le président convoque la commission aussi souvent qu’il l’estime nécessaire. Les réunions sont convoquées par écrit. Le président fixe l’ordre du jour de chaque réunion qui est à joindre à la convocation. La commission élit un secrétaire qu’elle choisit parmi ses membres; les responsabilités de président et de secrétaire ne peuvent pas être cumulées par une même personne.\n\nLa commission ne peut délibérer valablement que si trois de ses membres sont présents. Les décisions de la commission sont prises à la majorité des voix, la voix du président étant prépondérante en cas d’égalité de voix.\n\nLes membres de la commission sont tenus de garder le secret des délibérations.",
+      "text_sha256": "b51a567fa03c5231e26b14f189bb57109b52c42cb7a905678c10276f99d4a21d",
+      "md_span": {
+        "start": 5655,
+        "end": 6412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_7/20130701",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Les membres de la commission d’experts bénéficient d’une indemnité de 6 € par séance. Cette indemnité correspond au nombre indice 100 et subit la même adaptation au coût de la vie que les traitements des fonctionnaires d’Etat.",
+      "text_sha256": "6df62e18d0b9ccee37681de430d36ce6ce564096521e25de819e3a80322025f9",
+      "md_span": {
+        "start": 6447,
+        "end": 6673
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_8/20061119",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-11-19",
+      "text_md": "Les demandes d’équivalence introduites à la date d’entrée en vigueur du présent règlement grand-ducal devant la commission d’experts nommée en vertu du règlement grand-ducal du 4 avril 2005 pris en exécution de l’article 4 de la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur, seront traitées par la commission d’experts à nommer en vertu de l’article 2 du présent règlement grand-ducal qui appliquera à leur égard les règles établies par le règlement grand-ducal du 4 avril 2005 mentionné ci-dessus.",
+      "text_sha256": "fcc5ca01e669c78dfb59f604d6f9b4cabd3625fbb52384b18717ae80b53c9744",
+      "md_span": {
+        "start": 6708,
+        "end": 7293
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2005/04/04/n1/jo",
+          "text": "règlement grand-ducal du 4 avril 2005"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1969/06/18/n1/jo",
+          "text": "loi modifiée du 18 juin 1969"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_9/20061119",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-11-19",
+      "text_md": "Le présent règlement abroge le règlement grand-ducal du 4 avril 2005 pris en exécution de l’article 4 de la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur.",
+      "text_sha256": "2fa41dbafbb72041700a68ff5676c97915d1f0a0b7f0b5ae14a5f63acb4b42c9",
+      "md_span": {
+        "start": 7328,
+        "end": 7568
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2005/04/04/n1/jo",
+          "text": "règlement grand-ducal du 4 avril 2005"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1969/06/18/n1/jo",
+          "text": "loi modifiée du 18 juin 1969"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2006-10-27-n1:2015-02-09#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/art_10/20061119",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2006-11-19",
+      "text_md": "Notre Ministre de l’Éducation nationale et de la Formation professionnelle, Notre Ministre de la Culture, de l’Enseignement supérieur et de la Recherche et Notre Ministre du Trésor et du Budget sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement, qui sera publié au Mémorial.",
+      "text_sha256": "d35e03fc274671ef9fd1a6e51fb35a072973c71e27f5c75d121b494d1590b336",
+      "md_span": {
+        "start": 7605,
+        "end": 7908
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

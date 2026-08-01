@@ -1,0 +1,394 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13",
+  "language": "fr",
+  "title": "Version consolidée applicable au 13/02/2004 : Règlement grand-ducal du 12 mars 1982 déterminant les conditions d'admission, de nomination et de promotion des fonctionnaires de la carrière de l'artisan dans les administrations et services de l'Etat.",
+  "valid_from": "2004-02-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1982-03-12-n5/versions/2004-02-13/fr.xml",
+    "sha256": "dcc63a280dd670c1efd24a319173e421fa9acad8de87e04ac702b27b653d7090",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/consolide/20040213/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_1er/20040213",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Champ d’application.",
+      "path": [],
+      "article_valid_from": "2004-02-13",
+      "text_md": "Sans préjudice de l’application des règles générales relatives au statut général des fonctionnaires de l’Etat, les conditions d’admission, de nomination et de promotion des fonctionnaires de la carrière de l’artisan sont déterminées ci-après.",
+      "text_sha256": "217d52f8e47bcd8a14563153050c48c92fb306f25898a98fcb276e54470a5dde",
+      "md_span": {
+        "start": 745,
+        "end": 987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_2/20040213",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**I.** — **Admission au stage**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1058,
+        "end": 1058
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_3/20040213",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**I.** — **Admission au stage**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1093,
+        "end": 1093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_4/20040213",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**I.** — **Admission au stage**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1128,
+        "end": 1128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_5/20040213",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**I.** — **Admission au stage**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1163,
+        "end": 1163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_6/20040213",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**I.** — **Admission au stage**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1198,
+        "end": 1198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_7/20040213",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Conditions.",
+      "path": [
+        "**II .** — **Nomination définitive**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "La nomination définitive dans la carrière de l’artisan est subordonnée à l’accomplissement du stage légalement prévu et à la réussite à l’examen d’admission définitive.",
+      "text_sha256": "5abd9310efc6327c37a9d5c98077b063dbed043ea6184107bcf6413d9084bc3b",
+      "md_span": {
+        "start": 1286,
+        "end": 1454
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_8/20040213",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Programme de l’examen d’admission définitive.",
+      "path": [
+        "**II .** — **Nomination définitive**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "L’examen d’admission définitive porte sur les matières suivantes:\n\n| - | langue française: dictée | 60 points |\n| --- | --- | --- |\n| - | rédaction d’un rapport de services en langue allemande | 60 points |\n| - | notions sur les droits et devoirs des fonctionnaires de l’Etat | 60 points |\n| - | questions concernant la pratique professionnelle | 60 points |\n| - | technologie professionnelle | 120 points |",
+      "text_sha256": "fde087a1d10d3b6ca90a5ba4103d32d3e84307a6eb62a44d9be586fcbc2aefb5",
+      "md_span": {
+        "start": 1535,
+        "end": 1942
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_9/20040213",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Déroulement des épreuves.",
+      "path": [
+        "**II .** — **Nomination définitive**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "**1.** L’examen d’admission définitive est organisé au sein de l’administration même dans laquelle les candidats ont accompli leur stage; il a lieu devant la commission d’examen prévue au chapitre IV. du présent règlement. Cette commission statue sur l’admissibilité des candidats à cet examen.\n\n**2.** La commission classe les candidats dans l’ordre des résultats obtenus aux épreuves conformément aux taux fixés à l’article 8.\n\n**3.** Cet examen est éliminatoire pour les candidats qui ont obtenu moins des trois cinquièmes du maximum total des points.\n\n**4.** Les candidats qui ont obtenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum des points dans l’une ou l’autre branche subissent un examen oral ou un examen par écrit supplémentaire dans cette branche. Cette épreuve complémentaire aura lieu dans un délai d’un mois; elle décide de leur admission définitive, sans que le classement établi soit pour autant modifié.\n\n**5.** En cas d’insuccès à l’examen d’admission définitive, la durée du stage peut être prolongée d’une année. A l’expiration de ce délai, le candidat devra se présenter une nouvelle fois à cet examen. Un nouvel échec entraînera l’élimination définitive du candidat",
+      "text_sha256": "1fe5d0476e956df22dcdca8090577fbd00db3436e2dbfaea297b950f97d96730",
+      "md_span": {
+        "start": 2003,
+        "end": 3236
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_10/20040213",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Conditions.",
+      "path": [
+        "**III.** — **Promotion aux fonctions supérieures**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "**1.** La nomination à la fonction de premier artisan est déterminée par le classement obtenu à l’examen d’admission définitive.\n\n**2.** La nomination aux fonctions supérieures à celle de premier artisan est subordonnée à la réussite à l’examen de promotion. Elle est déterminée par le classement au dit examen.\n\n**3.** Toutes les nominations aux fonctions de la carrière de l’artisan sont faites par le ministre du ressort, dans les limites des emplois vacants.",
+      "text_sha256": "173b086d3bde9c51aa463bd0740208b91bca6c653bd2a4d03c7abc11996d5e07",
+      "md_span": {
+        "start": 3340,
+        "end": 3802
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_11/20040213",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Programme de l’examen de promotion.",
+      "path": [
+        "**III.** — **Promotion aux fonctions supérieures**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "L’examen de promotion porte sur les matières suivantes:\n\n| - | langues française et allemande: rapports de service | 120 points |\n| --- | --- | --- |\n| - | notions de droit public | 60 points |\n| - | mesures préventives contre les accidents | 60 points |\n| - | questions approfondies sur la technologie professionnelle | 120 points |",
+      "text_sha256": "68a1b19977357b1e1fa93dd5e9096afefbc05ec0a9a35a78b952b9f704dc520d",
+      "md_span": {
+        "start": 3875,
+        "end": 4208
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_12/20040213",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Déroulement des épreuves.",
+      "path": [
+        "**III.** — **Promotion aux fonctions supérieures**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "**1.** L’examen de promotion est organisé au sein de l’administration même dans laquelle les candidats exercent leurs fonctions; il a lieu devant la commission prévue au chapitre IV. du présent règlement. Cette commission statue sur l’admissibilité des candidats à cet examen.\n\n**2.** La commission classe les candidats dans l’ordre des résultats obtenus aux épreuves conformément aux taux fixés à l’article 11 du règlement grand-ducal prévu au paragraphe 3 de l’article 5 de la loi du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.\n\n**3.** L’ examen de promotion est éliminatoire pour les candidats qui ont obtenu moins des trois cinquièmes du maximum total des points.\n\nLes candidats qui ont obtenu les trois cinquièmes du maximum total des points sans avoir atteint la moitié du maximum des points dans l’une ou l’autre branche subissent un examen oral ou un examen par écrit supplémentaire dans cette branche. Cette épreuve complémentaire aura lieu dans un délai d’un mois; elle décide de leur admission, sans que le classement soit modifié.\n\nEn cas d’insuccès à l’examen de promotion, le candidat pourra se présenter une deuxième fois à cet examen après l’expiration du délai d’une année. Un second échec entraînera l’élimination définitive du candidat à cet examen.",
+      "text_sha256": "c725437de98825669fa13e5cf5404555c204dbffadcf05737262cc3f72feef57",
+      "md_span": {
+        "start": 4271,
+        "end": 5564
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_13/20040213",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Composition.",
+      "path": [
+        "**IV.** — **Composition de la commission de l’examen d’admission définitive et de l’examen de promotion et procédure à suivre**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "**1.** Les épreuves des examens d’admission définitive et de promotion ont lieu devant une commission composée de trois membres au moins nommés par le ministre compétent.\n\n**2.** L’arrêté de nomination désigne le président et le secrétaire de la commission.\n\n**3.** Nul ne peut être membre d’une commission d’examen auquel participe un parent ou allié jusqu’au quatrième degré inclusivement.",
+      "text_sha256": "620ea2f8378ae9dfb9a320b69d69f01a61a48df94a9ad071662f5e22cd842085",
+      "md_span": {
+        "start": 5746,
+        "end": 6137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_14/20040213",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Procédure à suivre.",
+      "path": [
+        "**IV.** — **Composition de la commission de l’examen d’admission définitive et de l’examen de promotion et procédure à suivre**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "**1.** Le président réunit la commission au préalable pour régler en détail l’organisation des examens.\n\n**2.** A la suite de cette réunion préliminaire, chaque examinateur présente au choix du président, sous pli fermé et dans un délai antérieurement fixé, un sujet ou une série de questions pour l’épreuve qu’il est appelé à apprécier.\n\n**3.** Le secret relatif aux questions ou sujets présentés doit être observé.\n\n**4.** Les sujets ou questions des épreuves sont choisis par le président parmi les sujets ou questions qui lui ont été soumis; ces sujets ou questions sont gardés sous pli cacheté, séparément pour chaque épreuve. Les plis ne sont ouverts qu’en présence des candidats et au moment même où les sujets ou les questions sont communiqués aux candidats.\n\n**5.** Les réponses des candidats aux épreuves écrites doivent être rédigées sur des feuilles estampillées, paraphées par le président ou un membre de la commission.\n\n**6.** Durant les épreuves les candidats sont constamment surveillés par au moins deux des personnes énumérées à l’article 13.\n\n**7.** Au cours des épreuves, toute communication entre les candidats et avec le dehors, de même que toute utilisation d’ouvrages ou de notes autres que ceux qui ont été autorisés préalablement par le jury sont interdites.\n\nLes candidats fautifs sont exclus du concours. Ils ne peuvent se présenter à nouveau que lors d’une session ultérieure.\n\n**8.** Dès l’ouverture de l’examen, les candidats sont prévenus des suites que toute fraude comportera.\n\n**9.** Le président de la commission remet les copies à apprécier aux examinateurs. L’appréciation des copies se traduit par la communication au président des notes établies conformément aux échelles fixées respectivement aux articles 8 et 11 du présent règlement.\n\n**10.** Le procès-verbal que la commission transmet au ministre compétent renseigne, outre le classement des candidats, les résultats que chacun d’eux a obtenus aux différentes épreuves. Le ministre informe chaque candidat de ses classement et résultats obtenus à l’examen, et, lorsqu’il s’agit de l’examen de promotion, de son classement définitif.",
+      "text_sha256": "ccf45b1e7f2433c35a0e83076da2d7d772fd427835999651b0ff6de8e101b602",
+      "md_span": {
+        "start": 6194,
+        "end": 8322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_15/20040213",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Programmes détaillés des matières.",
+      "path": [
+        "**IV.** — **Composition de la commission de l’examen d’admission définitive et de l’examen de promotion et procédure à suivre**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "Les programmes détaillés des matières des différents examens sont fixés pour chaque épreuve et chaque administration par règlement ministériel.",
+      "text_sha256": "5d43db1796325dc6ab09c9b5658d8aad4358487a7c20c4e8b5045ed1d81db852",
+      "md_span": {
+        "start": 8394,
+        "end": 8537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_16/20040213",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Exemption de certaines matières d’examen.",
+      "path": [
+        "**IV.** — **Composition de la commission de l’examen d’admission définitive et de l’examen de promotion et procédure à suivre**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "Dans des cas déterminés, le ministre du ressort est habilité à dispenser un artisan physiquement handicapé de certaines branches des examens prévus au présent règlement, s’il se trouve hors d’Etat d’y subir une épreuve à cause de son infirmité, le ministre de la Fonction Publique entendu en son avis.",
+      "text_sha256": "8192c8d5d9d952e8a8a1d7befadcfc970aaa3a7dd0edb9c94db16337c481381c",
+      "md_span": {
+        "start": 8616,
+        "end": 8917
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_17/20040213",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Disposition transitoire.",
+      "path": [
+        "**V.** — ** Dispositions transitoire, abrogatoire et finale**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "Par dérogation aux dispositions de l’article 6 paragraphe 4 du présent règlement, l’admission au stage pour les emplois vacants dans la spécialité d'électricien en courant faible auprès de l’administration des P. et T. se fait prioritairement parmi les candidats qui au terme de leur apprentissage effectué auprès de cette administration y ont été maintenus en qualité de «candidats-artisans provisoirement sous le contrat collectif des ouvriers de l’Etat.»",
+      "text_sha256": "5bead04e48467ec38f05f87b5f13ca236cf56bef269674d35af7b3c12c66d1d2",
+      "md_span": {
+        "start": 9045,
+        "end": 9502
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_18/20040213",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Disposition abrogatoire.",
+      "path": [
+        "**V.** — ** Dispositions transitoire, abrogatoire et finale**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "Le règlement grand-ducal modifié du 9 mars 1971 déterminant les conditions d’admission, de nomination et de promotion des fonctionnaires de la carrière de l’artisan dans les administrations et services de l’Etat est abrogé.",
+      "text_sha256": "38d65fad241c2abc27b309651bb7adaacb7ca47820edb172d6a36feca0edc4b3",
+      "md_span": {
+        "start": 9564,
+        "end": 9787
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1971/03/09/n1/jo",
+          "text": "règlement grand-ducal modifié du 9 mars 1971"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1982-03-12-n5:2004-02-13#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/art_19/20040213",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Disposition finale.",
+      "path": [
+        "**V.** — ** Dispositions transitoire, abrogatoire et finale**"
+      ],
+      "article_valid_from": "2004-02-13",
+      "text_md": "Les Membres du Gouvernement sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "d2bcdb432908ab2b4e952bcc2e1120849cab566e76112d78f53ab60965a66ee2",
+      "md_span": {
+        "start": 9844,
+        "end": 9980
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

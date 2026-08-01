@@ -1,0 +1,183 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 27 juin 2018 fixant le montant des droits d’inscription aux cours organisés par l’Institut national des langues.",
+  "valid_from": "2020-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2018-06-27-a563/versions/2020-01-01/fr.xml",
+    "sha256": "b8e904ee2b3e36aa0c829a7cbea4c0eff412e0e3b75d6ec96b692b307f73e641",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/consolide/20200101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_1er/20180917",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Au sens du présent règlement, on entend par :\n\n1. « cours » : un cycle d’apprentissage qui est composé d’un nombre déterminé de leçons ;\n2. « leçon » : une unité d’enseignement d’un cours d’une durée de cinquante minutes ;\n3. « bilan de compétences acquises » : un document établi par l’Institut national des langues à la fin de chaque cours qui renseigne sur les progrès réalisés et le niveau de l’apprenant ;\n4. « Institut » : l’Institut national des langues.",
+      "text_sha256": "4355e098b90f32af43ddc555eb59ffca3630b4140c06a02e2306c3cb4b09c370",
+      "md_span": {
+        "start": 663,
+        "end": 1124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_2/20180917",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Les apprenants sont inscrits aux cours de l’Institut en fonction de leur niveau de compétence en langues.",
+      "text_sha256": "ea8a471ee97a6a5846ce0152c97c2436f5fa97f18748ad2d2740a9790d8fb39c",
+      "md_span": {
+        "start": 1159,
+        "end": 1264
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_3/20180917",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "L’inscription à un cours donne lieu au paiement, par l’apprenant, d’un montant de droits d’inscription.\n\nIl est introduit deux catégories de droits d’inscription, à savoir :\n\n1. 1. 410 euros pour un cours de dix leçons par semaine ;\n2. 350 euros pour un cours de huit leçons par semaine ;\n3. 280 euros pour un cours de six leçons par semaine ;\n4. 200 euros pour un cours de quatre leçons par semaine ;\n5. 110 euros pour un cours de deux leçons par semaine ;\n2. les droits d’inscription « tarif B », fixés à 4,50 euros par leçon, dus lorsque la durée du cours est inférieure à un semestre.\n\nLe montant des droits d’inscription ne couvre pas les frais d’acquisition de manuels didactiques, de photocopies ou d’autres fournitures, nécessaires à la participation au cours.",
+      "text_sha256": "3ba0e812562b27a48cee4a524973a7a2ba393474ede4e12853b7b214854bfd77",
+      "md_span": {
+        "start": 1299,
+        "end": 2067
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_4/20200101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-01-01",
+      "text_md": "**(1)** Par dérogation à l’article 3, l’inscription à un cours peut donner lieu au paiement, par l’apprenant, d’un montant de droits d’inscription réduits « tarif C » fixé à 10 euros.\n\n**(2)** Bénéficient du « tarif C » :\n\n1. les demandeurs d’emploi indemnisés, sur présentation, au moment de l’inscription, d’une convocation établie par l’Agence pour le développement de l’Emploi ;\n2. loi modifiée du 29 avril 1999\n3. les personnes reconnues nécessiteuses, sur présentation, au moment de l’inscription, d’une attestation établie au nom du bénéficiaire, par le département de l’intégration du Ministère de la famille, de l’intégration et à la Grande Région ou l’Office national de l’accueil ou les offices sociaux communaux ;\n4. les élèves de l’enseignement secondaire, sur présentation, au moment de l’inscription, d’une lettre de recommandation dûment motivée du directeur de l’établissement qu’ils fréquentent ;\n5. loi modifiée du 16 décembre 2008 règlement grand-ducal modifié du 2 septembre 2011 règlement grand-ducal du 15 mai 2001 règlement grand-ducal du 31 mars 2000 règlement grand-ducal du 3 août 2010\n\n**(3)** Pour les apprenants visés au paragraphe 2, points 1° à 4°, l’inscription à un cours au « tarif C » ne peut avoir lieu que pour l’apprentissage d’une des trois langues administratives du Grand-Duché de Luxembourg et de l’anglais, à l’exception des dérogations accordées par le directeur de l’Institut.\n\nPour les apprenants visés au paragraphe 2, point 5°, l’inscription à un cours au « tarif C » ne peut avoir lieu que pour l’apprentissage d’une des trois langues administratives du Grand-Duché de Luxembourg.\n\n**(4)** Pour pouvoir bénéficier d’une nouvelle inscription à un cours au « tarif C », subséquemment à une première inscription ayant donné lieu au paiement de droits d’inscription au tarif réduit, l’apprenant doit d’une part, prouver un taux de participation au cours d’au moins 70 pour cent moyennant présentation d’un certificat de participation établi par l’Institut, et d’autre part, il doit présenter le bilan des compétences acquises.\n\n**(5)** Le montant des droits d’inscription à un cours au « tarif C » ne couvre pas les frais d’acquisition de manuels didactiques, de photocopies ou d’autres fournitures, nécessaires à la participation au cours.",
+      "text_sha256": "115539a8cdfb7e9d0489c44984ecfb89e9e8e9277aa0f2dde5240baac4318619",
+      "md_span": {
+        "start": 2102,
+        "end": 4388
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_5/20180917",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "L’apprenant ayant adressé la preuve du paiement du montant des droits d’inscription dans le délai indiqué dans la publication de l’offre des cours à l’Institut, se voit délivrer une confirmation d’inscription, valant inscription définitive.\n\nL’inscription ne peut pas faire l’objet de modifications à l’initiative de l’apprenant, à l’exception des cas limitativement énumérés à l’article 6, paragraphe 5.",
+      "text_sha256": "7dab3419c86055634d70a997a853bcc7a0a0b425f8c461086de24ddb8a5b5e7e",
+      "md_span": {
+        "start": 4423,
+        "end": 4827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_6/20180917",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "**(1)** Si le cours ne peut pas être organisé aux conditions et selon les modalités fixées par l’Institut, le montant des droits d’inscription est remboursé.\n\n**(2)** Le montant des droits d’inscription est également remboursé dans les cas de figure suivants :\n\n1. lorsque l’apprenant se désiste du cours, au moins dix jours avant le début du cours, cachet de la poste faisant foi ;\n2. lorsqu’en raison du paiement tardif des droits d’inscription, l’apprenant n’a pas été définitivement inscrit.\n\n**(3)** La moitié du montant des droits d’inscription est remboursée en cas d’annulation par l’Institut de plus de 30 pour cent des leçons prévues.\n\n**(4)** Si, à l’initiative de l’Institut, l’apprenant est inscrit dans un cours à tarif moins élevé, la différence entre les montants des droits d’inscription respectifs lui est remboursée.\n\n**(5)** Le changement d’un cours durant un semestre n’est possible que dans les trois cas de figure suivants :\n\n1. en cas d’interférence imprévisible entre les horaires des cours auxquels l’apprenant s’est définitivement inscrit à l’Institut ;\n2. lorsque des raisons professionnelles imprévisibles empêchent l’apprenant à participer au cours auquel il s’est définitivement inscrit. Dans ce cas, l’apprenant adresse une demande motivée, certifiée par son employeur, à l’Institut ;\n3. lorsqu’au cours des seize premières leçons, il s’avère que le niveau de compétence en langue ne correspond pas au niveau du cours auquel l’apprenant s’est inscrit. Dans ce cas, l’apprenant ne peut plus participer au cours auquel il s’est inscrit et l’Institut l’inscrit à un cours correspondant à son niveau de compétence en langue.\n\nS’il y a lieu, l’Institut procède au remboursement de la différence entre les montants des droits d’inscription respectifs ou demande à l’apprenant de payer le montant des droits d’inscription supplémentaire engendré par le changement de cours.",
+      "text_sha256": "60634ef162539fef9c4cf8d4645284a72b25912a165322aed9eaa5b72306a0e2",
+      "md_span": {
+        "start": 4862,
+        "end": 6760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_7/20180917",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Le règlement grand-ducal modifié du 3 août 2010 fixant les montants des droits d’inscription à payer lors de l’admission à un cours organisé par l’Institut national des langues est abrogé.",
+      "text_sha256": "f5ae8e3ac7ca06e4dd6bd63624ea18a29bcb547dd2888267eb55df8b8f9d648f",
+      "md_span": {
+        "start": 6795,
+        "end": 6983
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2010/08/03/n11/jo",
+          "text": "règlement grand-ducal modifié du 3 août 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_8/20180917",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Le présent règlement est applicable à partir de la rentrée scolaire 2018/2019.",
+      "text_sha256": "a3ad462bcc9716849c9abf9203f76989acf968e0545f322fd25e346dd67ce774",
+      "md_span": {
+        "start": 7018,
+        "end": 7096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2018-06-27-a563:2020-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/art_9/20180917",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-09-17",
+      "text_md": "Notre ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse et Notre ministre des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "c4a72fd130b5300b2dae080a80a7c5257656b10a15b6d9e893bfc1454274ab58",
+      "md_span": {
+        "start": 7131,
+        "end": 7379
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

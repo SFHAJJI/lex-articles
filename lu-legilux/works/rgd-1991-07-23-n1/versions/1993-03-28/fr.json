@@ -1,0 +1,193 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/03/1993 : Règlement grand-ducal du 23 juillet 1991 déterminant les conditions de commercialisation des substances chimiques à activité thérapeutique.",
+  "valid_from": "1993-03-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1991-07-23-n1/versions/1993-03-28/fr.xml",
+    "sha256": "c15d1f0752cd47b2e1144dc7252023e16310975be6931a45889cae665a3f2494",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/consolide/19930328/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_1er/19910806",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-08-06",
+      "text_md": "En vue d’obtenir l’autorisation générale d’importer, de commercialiser et d’exporter des substances chimiques à activité thérapeutique le demandeur doit annexer à sa demande en double exemplaire un plan au 1/50e des locaux de stockage.\n\nCes locaux doivent être inaccessibles au public. Ils doivent être salubres et ne peuvent servir en même temps de lieux de stockage pour denrées alimentaires ou médicaments.\n\nLes locaux font l'objet d’une inspection par un pharmacien-inspecteur de la Division de Ia pharmacie et des médicaments de la Direction de la Santé, qui fait rapport au ministre de la Santé.\n\nL'autorisation indique les locaux agréés pour le stockage.",
+      "text_sha256": "f2e33724fd7d684077014f0de9f6c3ac895f175744c90682d1f273d55be7040a",
+      "md_span": {
+        "start": 661,
+        "end": 1322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_2/19910806",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-08-06",
+      "text_md": "Sans préjudice des dispositions de la loi du 18 mai 1984 concernant la classification, l’emballage et l’étiquetage des substance dangereuses, Ies substances chimiques à activité thérapeutique doivent être clairement identifiables tant pendant le stockage que pendant les opérations de transport, de distribution et de délivrance.\n\nA cet effet Ieur emballage doit indiquer, de manière lisible et indélébile, le nom chimique et, si elle existe, la dénomination commune internationale de la su bstance et son origine, ainsi que le numéro du lot de fabrication.\n\nUne modification du conditionnement n' est pas permise sans nécessité. En cas de modification du conditionnement les bonnes pratiques de fabrication émises par I’Organisation Mondiale de la Santé doivent être suivies.",
+      "text_sha256": "aea6a75d2d4f190b69ebdb8b91e237681b4665268c6c23141c3f7c057a4370a4",
+      "md_span": {
+        "start": 1357,
+        "end": 2133
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1984/05/18/n1/jo",
+          "text": "loi du 18 mai 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_3/19910806",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-08-06",
+      "text_md": "Le titulaire de l’autorisation doit détenir pour tout produit stocké ou faisant l’objet d’une opération de commerce ou de cession un certificat d’identification renseignant sur le nom chimique et/ou la dénomination commune internationale du produit et sur le numéro du lot établi par le fabricant ou par un commerçant intermédiaire.",
+      "text_sha256": "190ba277a5e2433eb687dc5436c3fd35481d8a4e17c820cac78cae058973a355",
+      "md_span": {
+        "start": 2168,
+        "end": 2500
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_4/19910806",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-08-06",
+      "text_md": "Le titulaire de l’autorisation doit tenir et garder quotidiennement à jour un registre d’entrée et de sortie des substances avec indication des quantités importées, vendues, exportées et cédées ainsi que d’une référence des documents dont question à I’alinéa ci-dessous.\n\nPour chaque opération de commercialisation il doit garder pendant au moins cinq ans une copie de la facture ainsi que, pour chaque opération de vente ou de cession, un accusé de réception établi par le destinataire du produit. L’accusé de réception peut être remplacé par toute autre pièce renseignant sur l’identité du destinataire et documentant que ce dernier a effectivement reçu la marchandise.",
+      "text_sha256": "a8a97a4c3e383ae7cbb33e288db251c294a4a0781afacfa582be071f34bb3993",
+      "md_span": {
+        "start": 2535,
+        "end": 3206
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_5/19910806",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-08-06",
+      "text_md": "Le titulaire de l’autorisation doit fournir chaque année pour le 15 janvier au plus tard un relevé des entrés et des sorties de substances chimiques de l’année précédente à la Division de la pharmacie et des médicaments de la Direction de la Santé.",
+      "text_sha256": "c99215d63c66cf95876d9ab53a530f041b7e3c372ccb3269434712ac6e1878cf",
+      "md_span": {
+        "start": 3241,
+        "end": 3489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_6/19910806",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-08-06",
+      "text_md": "Les dispositions du présent règlement ne s’appliquent pas au pharmacien tenant une officine, pour autant qu’il n’importe et ne commercialise après transformation les substances chimiques qu’en quantités normalement nécessaire à l’exploitation d’une pharmacie.",
+      "text_sha256": "7e43c0bb1924dad9a0a422b96dd216674e8d4199782051bd9104751177271800",
+      "md_span": {
+        "start": 3524,
+        "end": 3783
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_7/19930328",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-03-28",
+      "text_md": "Les dispositions de la loi du 11 janvier 1989 réglant la commercialisation des substances chimiques à activité thérapeutique sont étendues aux substances à actitété β-agoniste.",
+      "text_sha256": "b48bc24262758d9ce74e663cc8fce48aa9a568a6f16d349fae16390a31c1e88f",
+      "md_span": {
+        "start": 3818,
+        "end": 3994
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1989/01/11/n1/jo",
+          "text": "loi du 11 janvier 1989"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_8/19910806",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-08-06",
+      "text_md": "Les infractions aux dispositions du présent règlement sont punies des prévues par la loi du 11 janvier 1989 réglant la commercialisation des substances chimiques à activité thérapeuthique.",
+      "text_sha256": "21546d4dc4023caa0e3e22a13c384ae0041d22a939348a16d967f76ee997efa7",
+      "md_span": {
+        "start": 4029,
+        "end": 4217
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1989/01/11/n1/jo",
+          "text": "loi du 11 janvier 1989"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1991-07-23-n1:1993-03-28#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/art_9/19910806",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1991-08-06",
+      "text_md": "Notre Ministre de la Santé et Notre Ministre de Ia Justice sont chargés, chacun en ce qui le concerne, l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "c2bdd601ad2bb48ce57327b2b4a736bd4f3af3e798c88c1d0fa2c1e22c6456e7",
+      "md_span": {
+        "start": 4252,
+        "end": 4416
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

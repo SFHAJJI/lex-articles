@@ -1,0 +1,222 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/08/2023 : Loi du 30 décembre 1981 portant indemnisation en cas de détention préventive inopérante.",
+  "valid_from": "2023-08-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1981-12-30-n1/versions/2023-08-22/fr.xml",
+    "sha256": "566473e80829f2f5e96086c11666e3db0919297c467837c21ac24b293ac3d322",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/consolide/20230822/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_1er/19820103",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "Un droit à réparation est ouvert à toute personne qui a été privée de sa liberté dans des conditions incompatibles avec les dispositions de l'article 5 de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950, approuvée par la loi du 29 août 1953.",
+      "text_sha256": "c79a4886eeaf51c24b7a125693add39e69722fb3ed7c0dfe307cc0f760f99540",
+      "md_span": {
+        "start": 610,
+        "end": 902
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1953/08/29/n1/jo",
+          "text": "loi du 29 août 1953"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_2/20230822",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-22",
+      "text_md": "Un droit réparation est ouvert dans les limites de la présente loi à toute personne qui a été détenue préventivement pendant plus de trois jours sans que cette détention ou son maintien ait été provoqué par sa propre faute.\n\n1. si elle a bénéficié d'une ordonnance ou d'un arrêt de non-lieu;\n2. si elle a été acquittée par une décision judiciaire définitive ou si elle a été mise hors cause indirectement par une décision judiciaire définitive;\n3. Afin de pouvoir apprécier la recevabilité de la demande du requérant, la commission chargée d’émettre un avis dans les conditions de la présente loi peut se faire communiquer par le procureur général d’État les procès-verbaux de comparution du requérant, des ordonnances ou arrêts de non-lieu et des décisions de justice en relation avec la requête du requérant. La commission peut également demander à l’administration pénitentiaire de lui communiquer les certificats renseignant les périodes de détention du requérant.",
+      "text_sha256": "438175ffa13675f350a769c0e5092f255343c115d8f8917d169435756eeecd41",
+      "md_span": {
+        "start": 937,
+        "end": 1905
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_3/19820103",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "L'indemnité à allouer dans les cas prévus aux articles 1er et 2 est fixée en tenant compte du préjudice moral et matériel subi par le demandeur.\n\nElle est à charge de l'Etat, sauf le recours de celui-ci contre le dénonciateur de mauvaise foi ou le faux témoin dont la faute aurait provoqué la détention ou sa prolongation. Elle est payée comme frais de justice criminelle.\n\nSi l'action publique est reprise après une décision de non-lieu et qu'elle aboutisse à une condamnation du chef des infractions qui avaient motivé la détention, le jugement ou l'arrêt de condamnation ordonne, d'office la restitution des indemnités perçues.",
+      "text_sha256": "a8d9b1027ffac7bc09185354f924cde5d2f9a280d5deb2cad1c9d410ade43a4d",
+      "md_span": {
+        "start": 1940,
+        "end": 2570
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_4/19820103",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "La demande en réparation est introduite auprès du ministre de la Justice qui statue dans les six mois. L'instruction de la demande se fait par une commission composée d'un magistrat, d'un fonctionnaire supérieur du ministère de la Justice et d'un membre de l'Ordre des avocats. La commission doit convoquer le demandeur et, s'il comparaît, l'entendre en ses observations. Elle se prononce dans son avis sur le principe et le montant de l'indemnité à allouer.\n\nL'instruction et la décision se feront selon la procédure tracée par le règlement grand-ducal du 8 juin 1979. La demande doit être introduite dans le délai d'un an à compter du jour des ordonnances et arrêts de non lieu, visés à l'article 2 sub a) ou à compter du jour où la décision d'acquittement visée à l'article 2 sub b) est devenue définitive ou à compter du jour de l'élargissement dans le cas de la mise hors cause indirecte ou de la prescription de l'action publique.\n\nLa demande introduite après le délai d'un an sera déclarée recevable si le demandeur justifie de circonstances morales ou matérielles sérieuses qui l'ont empêché de présenter sa demande en temps utile.",
+      "text_sha256": "877631d2775b325fbf8681231acb919f78b8c14e7a5b380b20651beeac530b11",
+      "md_span": {
+        "start": 2605,
+        "end": 3744
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1979/06/08/n7/jo",
+          "text": "règlement grand-ducal du 8 juin 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_5/19820103",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "Il est ouvert aux intéressés qui n'acceptent pas la décision du ministre de la Justice visée à l'article qui précède une action en fixation de la créance contre l'Etat représenté par le ministre de la Justice, devant les tribunaux d'arrondissement qui en connaissent en dernier ressort.",
+      "text_sha256": "046ef85dd226120a190b1472c4e2f18eb4ee1c863cc28a3a3cff32e11ab54952",
+      "md_span": {
+        "start": 3779,
+        "end": 4065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_6/19820103",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "L'action est à intenter, sous peine de déchéance, dans les trois mois à partir de la réception de la décision du ministre de la Justice. Si le ministre a omis de statuer dans le délai de six mois imparti par l'article 4, l'intéressé peut se pourvoir à partir de l'expiration dudit délai.\n\nIl est statué d'après la procédure applicable en matière commerciale.",
+      "text_sha256": "0c6b261b255b0fd47fb7c33d2f66f3c2cd12ddc6d6e96a12bc306b9cd417bde5",
+      "md_span": {
+        "start": 4100,
+        "end": 4458
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_7/19820103",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "Un recours en cassation est ouvert aux intéressés contre les décisions des tribunaux d'arrondissement, dans les cas, les délais et suivant les formes prévues pour les pourvois en cassation en matière civile.\n\nEn cas de cassation donnant lieu à un nouvel examen du fond, la cause est obligatoirement renvoyée pour être instruite et jugée de nouveau devant une autre juridiction de même nature que celle dont le jugement a été cassé.",
+      "text_sha256": "a080790de5f657116de32e1cd8c424322cb2faf5c3862640c214cd5da07e2ab7",
+      "md_span": {
+        "start": 4493,
+        "end": 4924
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_8/19820103",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "Les minutes, expéditions, extraits et copies des décisions et en général tous les actes de procédure auxquels donne lieu l'application de la présente loi, sont dispensés des formalités du timbre et de l'enregistrement. Ils portent la mention expresse qu'ils sont faits en exécution de la présente loi.",
+      "text_sha256": "ad57395e57f83aff464f91606fc5cc54c21ba367385930b882ecd279a4a815b6",
+      "md_span": {
+        "start": 4959,
+        "end": 5260
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_9/19820103",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "Toutes les actions ouvertes sur la base des dispositions qui précèdent sont portées, au choix du demandeur, soit devant le tribunal d'arrondissement de Luxembourg, soit devant celui de Diekirch.",
+      "text_sha256": "1b242c7c983ca03adbec9f2bbfa7bd86d9f278040be57e11169aa90b1d939f68",
+      "md_span": {
+        "start": 5295,
+        "end": 5489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_10/19820103",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "Le ministre peut excpetionnellement, après délibération du Gouvernement en Conseil, accorder des indemnités pour éviter des cas de rigueur.\n\nContre la décision de refus une action est ouverte au réclamant dans les conditions des articles 5 à 9 qui précédent.",
+      "text_sha256": "3bf012f06379b3b7038fbbf9c1ddcf019208c23414f19734b3e6646410c3fa9f",
+      "md_span": {
+        "start": 5526,
+        "end": 5784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1981-12-30-n1:2023-08-22#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/30/n1/art_11/19820103",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1982-01-03",
+      "text_md": "La présente loi s'applique aux cas d'arrestation susceptibles d'indemnisation pour lesquels le point de départ du délai prévu à l'article 4 alinéa 2 remonte à moins d'un an à compter de la date d'entrée en vigueur de la présente loi.\n\nLa demande en réparation doit, pour ces cas d'indemnisation, être introduite dans le délai de six mois à compter de la date d'entrée en vigueur de la présente loi.",
+      "text_sha256": "8656ee663f14092b7b93311418ab5befa4c49699a5ae5ec26e53dd7ab9ed4ad0",
+      "md_span": {
+        "start": 5821,
+        "end": 6219
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

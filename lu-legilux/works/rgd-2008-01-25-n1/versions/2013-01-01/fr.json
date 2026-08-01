@@ -1,0 +1,472 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2013 : Règlement grand-ducal du 25 janvier 2008 fixant les modalités pour l’obtention d’un passeport biométrique, titre de voyage biométrique pour étrangers, apatrides et réfugiés ainsi que pour l’obtention de légalisations.",
+  "valid_from": "2013-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2008-01-25-n1/versions/2013-01-01/fr.xml",
+    "sha256": "57aa1841d24db5c51b7f9f6fb9eb67c9708c9579898aca108b53f420ef045398",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/consolide/20130101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "article_1",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_1/20130101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "**(1)** Le passeport biométrique est formé d’un carnet contenant une carte en plastique composée de deux pages non numérotées et de trente-deux pages numérotées. Il est relié d’un couvercle souple de couleur bordeaux-rouge portant l’inscription: Union Européenne, Grand-Duché de Luxembourg, Passeport. Y figurent également les petites armoiries flanquées d’un lion stylisé et d’un symbole représentant une puce électronique, signe distinctif du passeport biométrique.\n\n**(2)** A la première page de garde figurent une typographie de la Salle de Concerts Grande-Duchesse Joséphine-Charlotte, un lion stylisé de couleur bleue ainsi que l’inscription Grand-Duché de Luxembourg, le tout imprimé sur un arrière-fond de couleurs pastelles.\n\n**(3)** A la dernière page de garde figurent la carte géographique du Grand-Duché de Luxembourg incluant une reproduction des stèles commémorant la signature des Accords de Schengen, une étoile rouge symbolisant cette même localité ainsi qu’un lion stylisé de couleur blanche, le tout imprimé sur un arrière-fond de couleurs pastelles.\n\n**(4)** Au recto de la carte en plastique figurent dans l’ordre les mentions suivantes:\n\nUnion Européenne,\n\nGrand-Duché de Luxembourg,\n\nPasseport.\n\nCes mentions sont rédigées dans les langues officielles des Etats membres de l’Union européenne.\n\n**(5)** En bas de page figure le numéro du passeport, composé d’une lettre et de six chiffres.\n\nCe même numéro est perforé en haut de page en une seule fois à travers les trente-deux pages et le couvercle de fond.\n\n**(6)** Au verso de la carte en plastique dotée d’une zone de lecture optique, figure en langues française et anglaise la mention suivante: Grand-Duché de Luxembourg. Y figurent également en langues luxembourgeoise, française et anglaise les mentions suivantes: Passeport, type, code du pays, numéro de passeport, nom, prénoms, taille, nationalité, date de naissance, sexe, lieu de naissance, autorité, date de délivrance, date d’expiration et la signature du titulaire. La photo numérisée de ce dernier est engravée sur cette page.\n\n**(7)** A la première page numérotée est imprimée en langue française une notice d’information relative au contrôle de certains éléments de sécurité de la page des données.\n\n**(8)** A la deuxième page numérotée, réservée aux autorités compétentes pour délivrer le passeport, figurent le numéro de registre ainsi que l’information que le passeport est valable pour tous les pays. Les mentions précitées sont traduites dans les langues luxembourgeoise, française et anglaise.\n\n**(9)** Aux troisième et quatrième pages numérotées sont traduits dans les langues officielles des Etats membres de l’Union européenne les paramètres relatifs aux données personnelles du titulaire. Y est également fait référence à l’administration qui délivre le document et à la durée de validité de ce dernier.\n\n**(10)** Les pages numérotées suivantes sont réservées à l’apposition de visas. Sur un arrière-fond de couleurs pastelles figurent aux pages paires une reproduction géographique du Grand-Duché de Luxembourg et aux pages impaires une représentation du Musée d’Art Moderne Grand-Duc Jean.\n\n**(11)** A l’avant-dernière page et à la dernière page numérotées sont imprimées des informations utiles en relation avec le passeport.\n\nLa dernière page comporte en bas, dans les langues luxembourgeoise, française et anglaise la mention suivante:\n\nDëse Pass huet 32 Säiten\n\nCe passeport contient 32 pages\n\nThis passport contains 32 pages.",
+      "text_sha256": "26b0075bec9022002a9b744788a5cba1a13ea8865e2135b831099b700f89c8de",
+      "md_span": {
+        "start": 789,
+        "end": 4272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_2",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_2/20130101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Est incorporé dans le passeport une puce électronique stockant l’image faciale et les données alphanumériques de son détenteur comme énumérées à l’article 1, paragraphe 6. Trente-six mois après l’adoption par la Commission des spécifications techniques prévues à l’article 2 du règlement (CE) n° 2252/2004 les empreintes digitales seront également stockées dans la puce électronique.",
+      "text_sha256": "0361cbe692628a66217154d3fce6ba8725cd862feb228c7bd41a73431e60a61e",
+      "md_span": {
+        "start": 4311,
+        "end": 4694
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2004/2252/jo",
+          "text": "règlement (CE) n° 2252/2004"
+        }
+      ]
+    },
+    {
+      "anchor": "article_3",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_3/20130101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Toute demande de passeport doit être introduite auprès du Ministre ayant les Affaires étrangères dans ses attributions.\n\nLa demande de passeport pour une personne mineure non émancipée est introduite par un parent exerçant l’autorité parentale ou le cas échéant par le tuteur légal.\n\nLe passeport délivré à un majeur et à un mineur de quatre ans révolus est valable pour une durée de cinq ans.\n\nLes mineurs de moins de quatre ans révolus se voient délivré un passeport valable pour une durée de deux ans.\n\nLe passeport n’est délivré qu’aux personnes de nationalité luxembourgeoise.",
+      "text_sha256": "23a725ec9ebcbaa1601892125fdb8de0d77bf9b04335910a49801b24883e8a38",
+      "md_span": {
+        "start": 4733,
+        "end": 5314
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_4",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_4/20130101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Aucun passeport ne peut être prorogé au-delà des durées de validité définies à l’article 3.",
+      "text_sha256": "7a0c9fe1e2c4ec12023483098117215146127b1edf62955a946bbde870249802",
+      "md_span": {
+        "start": 5353,
+        "end": 5444
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_5",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_5/20130101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "La photo à fournir pour l’établissement du passeport doit être récente et conforme aux normes établies par l’Organisation de l’Aviation Civile Internationale (OACI).",
+      "text_sha256": "9c38023d3f1002455f9b0cea9b5058981b4ebda4b48e06ae587653d7fbf30228",
+      "md_span": {
+        "start": 5483,
+        "end": 5648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_6",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_6/20130101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Le montant à régler pour la délivrance d’un passeport est fixé à 50 (cinquante) euros. Pour les passeports d’une validité de deux ans, ce montant est de 30 (trente) euros.",
+      "text_sha256": "f86d59dfe1a78e1d536e54878e0e0e4dc01c10fc07342a42e10f509aeb889952",
+      "md_span": {
+        "start": 5687,
+        "end": 5858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_7",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_7/20130101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Nul ne peut être en possession de deux passeports, même si l‘un d’eux est périmé. Aucun nouveau passeport ne sera délivré avant la restitution de celui antérieurement obtenu ou en cas de perte ou de vol, avant la production d’une déclaration de perte ou de vol faite auprès de l’autorité compétente.",
+      "text_sha256": "a9a53001732c6fa1fc4a94913fd93f884b0d8ab860d7667fcb7fccf166a405b2",
+      "md_span": {
+        "start": 5897,
+        "end": 6196
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_8",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_8/20130101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Par dérogation à l’article 7 dans des cas exceptionnels et pour des motifs dûment justifiés, un deuxième passeport peut être délivré aux ressortissants luxembourgeois qui en font la demande. La durée de validité est de deux ans. Le montant à régler est de 50 (cinquante) euros.",
+      "text_sha256": "a8dd1eba01f39f7d590eeeee736c7b9fea782e58ea4970c5de80b1156bdf6a07",
+      "md_span": {
+        "start": 6235,
+        "end": 6512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_9",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_9/20130101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Des passeports biométriques"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Le passeport devra être retiré dans un délai de 6 mois, à partir de l’introduction de la demande.",
+      "text_sha256": "f4bcbb5c90d059bae8a54a8388684436c2b3276053f38084999155fba41ba068",
+      "md_span": {
+        "start": 6551,
+        "end": 6648
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_10",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_10/20130101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des passeports biométriques diplomatiques et de service"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "**(1)** L’émission de passeports biométriques diplomatiques et de service est de la compétence du Ministre ayant les Affaires étrangères dans ses attributions. Ces derniers sont délivrés sans frais et la durée de validité dépend des besoins du service sans pour autant que cette dernière ne puisse être supérieure à cinq ans.\n\n**(2)** Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 1:\n\n- le couvercle du passeport diplomatique est de couleur bleu foncé portant l’inscription: Grand-Duché de Luxembourg, passeport diplomatique;\n- le couvercle du passeport de service est de couleur bordeaux-rouge portant l’inscription: Grand-Duché de Luxembourg, passeport de service.\n\n**(3)** Par rapport aux passeports biométriques décrits à l’article 1 paragraphe 4:\n\n- figurent au recto de la carte en plastique du passeport diplomatique dans l’ordre les mentions suivantes: Grand-Duché de Luxembourg Passeport diplomatique ainsi qu’un texte se référant à la libre circulation et à la protection des détenteurs de ces passeports par les autorités civiles et militaires des Etats étrangers. Ces mentions sont rédigées en langues française et anglaise;\n- figurent au recto de la carte en plastique du passeport de service dans l’ordre les mentions suivantes: Grand-Duché de Luxembourg Passeport de service ainsi qu’un texte se référant à la libre circulation et à la protection des détenteurs de ces passeports par les autorités civiles et militaires des Etats étrangers. Ces mentions sont rédigées en langues française et anglaise.",
+      "text_sha256": "eea1aee29cce2036e57052661ef4b4d64efc473920a589bec219af1a91455896",
+      "md_span": {
+        "start": 6764,
+        "end": 8308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_11",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_11/20130101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Des passeports biométriques diplomatiques et de service"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Toutes les autres dispositions du Chapitre I s’appliquent au Chapitre II à l’exception des articles 3, 4, 6, 7, 8 et 9.",
+      "text_sha256": "6e631f05dcbdce8d162005212b8a45b21b1ada45b85f7d506812db50a730a62b",
+      "md_span": {
+        "start": 8349,
+        "end": 8468
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_12",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_12/20130101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Des titres de voyage pour apatrides et réfugiés"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Des titres de voyage peuvent être délivrés par le Ministre ayant l’Immigration dans ses attributions:\n\n- aux apatrides et aux personnes de nationalité indéterminée résidant régulièrement au Grand-Duché de Luxembourg et bénéficiant des dispositions de la Convention sur le statut des apatrides signée à New York le 28 septembre 1954 et\n- aux personnes qui ont été reconnues par le Gouvernement luxembourgeois comme réfugiés politiques et ceci au sens de la Convention de Genève du 28 juillet 1951.",
+      "text_sha256": "de14aa33215c45dd8e0887b11d29c3796c364b58ce83f0a402f47b5308ecf9bf",
+      "md_span": {
+        "start": 8577,
+        "end": 9073
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_13",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_13/20130101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Des titres de voyage pour apatrides et réfugiés"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "**(1)** Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 1:\n\n- le couvercle du titre de voyage pour apatrides est de couleur rouge portant l’inscription: Titre de Voyage, Convention du 28 septembre 1954, Grand-Duché de Luxembourg. La version anglaise de ces inscriptions y figure également;\n- le couvercle du titre de voyage pour réfugiés est de couleur bleu ciel portant une double barre en haut à gauche et l’inscription: Titre de Voyage, Convention du 28 juillet 1951, Grand-Duché de Luxembourg. La version anglaise de ces inscriptions y figure également.\n\nLes petites armoiries ne figurent plus sur le couvercle des titres de voyage pour apatrides et réfugiés.\n\n**(2)** Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 4:\n\n- figurent au recto de la carte en plastique des titres de voyages pour apatrides dans l’ordre les mentions suivantes: Titre de Voyage Convention du 28 septembre 1954 ainsi qu’un texte reprenant les conditions à respecter en cas de délivrance de ce document. Ces mentions sont rédigées en langues française et anglaise.\n- figurent au recto de la carte en plastique des titres de voyage pour réfugiés dans l’ordre les mentions suivantes: Titre de Voyage Convention du 28 juillet 1951 ainsi qu’un texte reprenant les conditions à respecter en cas de délivrance de ce document. Ces mentions sont rédigées en langues française et anglaise.\n\n**(3)** Par rapport aux passeports biométriques décrits à l’article 1 paragraphe 6 figure, au verso de la carte en plastique dotée d’une zone de lecture optique des titres de voyage pour apatrides et pour réfugiés, en langues française et anglaise, la mention suivante: Grand-Duché de Luxembourg. Y figurent également en langues française et anglaise les mentions suivantes: Titre de voyage, type, code du pays, numéro de passeport, nom, prénoms, taille, nationalité, date de naissance, sexe, lieu de naissance, autorité, date de délivrance, date d’expiration et la signature du titulaire. La photo numérisée de ce dernier est engravée sur cette page.\n\n**(4)** Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 8, figurent à la deuxième page numérotée en langues française et anglaise, les mentions suivantes:\n\nDocument ou documents sur la base duquel ou desquels le présent titre est délivré: ...,\n\nCe titre de voyage est valable pour tous les pays sauf: ...\n\n**(5)** Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 9, figurent à la troisième page numérotée, en langues française et anglaise, les mentions suivantes:\n\nPage réservée aux autorités compétentes pour délivrer le titre de voyage,\n\nNuméro de registre ...\n\nLa quatrième page numérotée est réservée à l’apposition d’un visa.\n\n**(6)** Par rapport aux passeports biométriques décrits à l’article 1, paragraphe 11, figurent à la dernière page numérotée, en langues française et anglaise, des informations utiles en relation avec le passeport.\n\nLa même page comporte en bas, en langues française et anglaise, la mention suivante:\n\nCe passeport contient 32 pages.",
+      "text_sha256": "06236d8be7d60c9d5df112673dff95d4d1ded34ff2220b68cab6b46cde79b2af",
+      "md_span": {
+        "start": 9114,
+        "end": 12196
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_14",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_14/20130101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Des titres de voyage pour apatrides et réfugiés"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Toutes les autres dispositions du Chapitre I s’appliquent au Chapitre III à l’exception du dernier alinéa de l’article 3 et de l’article 8.",
+      "text_sha256": "388eb72f7285b761f162fd73f82f0fdcf136bddafd270b875f65c24033c4ef5f",
+      "md_span": {
+        "start": 12237,
+        "end": 12376
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_15",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_15/20130101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. — De la validité des passeports et des titres de voyage pour étrangers, apatrides et réfugiés en circulation"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Les passeports et les titres de voyage pour étrangers, apatrides et réfugiés en circulation et émis avant l’introduction du passeport biométrique resteront valables jusqu’à leur première date d’expiration.",
+      "text_sha256": "3f8b4aa17281ed99c36ccbd2ab31d1aaf4775e0be1cdab791eddb44a0c50ea4c",
+      "md_span": {
+        "start": 12543,
+        "end": 12748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_16",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_16/20130101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des légalisations"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Les légalisations d’actes par le Ministre ayant les Affaires étrangères dans ses attributions ou par les chancelleries diplomatiques ou consulaires du Grand-Duché de Luxembourg sont assujetties au paiement d’une taxe de 15 (quinze) euros.",
+      "text_sha256": "b0290a2b70339a9931a8940211068d1948012e020189059202ac64dafd789cf7",
+      "md_span": {
+        "start": 12825,
+        "end": 13063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_17",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_17/20130101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des légalisations"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Les agents non rétribués par l’Etat toucheront une indemnité qui ne pourra pas dépasser 20% du montant des taxes de légalisations. Cette indemnité, imputable sur les crédits prévus au Budget des dépenses pour «Légations et Consulats» leur sera allouée sur présentation d’un extrait du registre spécial prévu par l’article 43 des règlements consulaires.",
+      "text_sha256": "3ecc9a2630f5f269f635044c784f1f00c934781575d8b37d0d86a63ada2ef875",
+      "md_span": {
+        "start": 13104,
+        "end": 13456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_18",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_18/20130101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des légalisations"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "La légalisation d’actes destinés aux indigents et celle de documents réclamés par le Gouvernement dans un intérêt public ou administratif ne donne pas lieu à perception d’un droit de légalisation.",
+      "text_sha256": "b89057b4e453500a4cb9aed98d61a13b4026beed2e38a71e26425ae8b6f2ca3c",
+      "md_span": {
+        "start": 13497,
+        "end": 13693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "article_19",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_19/20130101",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre V. — Des légalisations"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "L’article 42 de l’arrêté grand-ducal du 29 juin 1923, portant règlement du service consulaire et introduction de certaines taxes à percevoir par les agents du corps consulaire, en tant qu’il concerne les taxes pour légalisations (n° 8, 9, 10 et 11 du Tarif consulaire) n’est plus applicable aux droits de légalisation qui seront perçus d’après les dispositions fixées à l’article 16 ci-dessus.",
+      "text_sha256": "50b144f3fab8111f86a8058da8d6ed90cc3e47db5913247c747b02f7bca1747c",
+      "md_span": {
+        "start": 13734,
+        "end": 14127
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1923/06/29/n1/jo",
+          "text": "arrêté grand-ducal du 29 juin 1923"
+        }
+      ]
+    },
+    {
+      "anchor": "article_20",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_20/20130101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Des dispositions finales"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Le règlement grand-ducal du 31 juillet 2006 portant règlement d’exécution de la loi du 14 avril 1934, concernant les passeports biométriques, les titres de voyage pour étrangers, apatrides et réfugiés et l’établissement d’un droit de chancellerie pour légalisations d’actes est abrogé.",
+      "text_sha256": "c4000e33cfb5ff88a2555619a7c75e47d7210f580afe82281046646f98ecfbca",
+      "md_span": {
+        "start": 14212,
+        "end": 14497
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2006/07/31/n1/jo",
+          "text": "règlement grand-ducal du 31 juillet 2006"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1934/04/14/n3/jo",
+          "text": "loi du 14 avril 1934"
+        }
+      ]
+    },
+    {
+      "anchor": "article_21",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_21/20130101",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Des dispositions finales"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Les paragraphes 2 et 3 de l’article 3 du règlement grand-ducal du 26 janvier 2005 fixant les modalités pour l’obtention d’un titre de voyage pour étrangers sont remplacés par les dispositions suivantes:",
+      "text_sha256": "bc17f81044090fa264589fd8a4c0ddf801eedbdc9b39a72d371f0ae2e1e7e7f8",
+      "md_span": {
+        "start": 14538,
+        "end": 14740
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2005/01/26/n1/jo",
+          "text": "règlement grand-ducal du 26 janvier 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "article_22",
+      "provision_id": "lu-legilux:rgd-2008-01-25-n1:2013-01-01#article_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/article_22/20130101",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. — Des dispositions finales"
+      ],
+      "article_valid_from": "2013-01-01",
+      "text_md": "Le règlement grand-ducal du 26 janvier 2005 fixant les modalités pour l’obtention d’un titre de voyage pour étrangers, est complété par l’article 1 bis libellé comme suit:",
+      "text_sha256": "d3cfad683b653ffecbbe542bdb2cbb7b2711b4f1a2b3c76917e649b09cd4908b",
+      "md_span": {
+        "start": 14781,
+        "end": 14952
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2005/01/26/n1/jo",
+          "text": "règlement grand-ducal du 26 janvier 2005"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

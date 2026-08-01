@@ -1,0 +1,167 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:amin-2020-03-16-a149:2020-05-04",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/05/2020 : Arrêté ministériel du 16 mars 2020 portant sur diverses mesures relatives à la lutte contre la propagation du virus covid-19.",
+  "valid_from": "2020-05-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/amin-2020-03-16-a149/versions/2020-05-04/fr.xml",
+    "sha256": "5468b30fe487cc5d86ca9cf066de3d46003f62b524c2b32e5cf3ae24fcce0b32",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/consolide/20200504/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er_20200504",
+      "provision_id": "lu-legilux:amin-2020-03-16-a149:2020-05-04#art_1er_20200504",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/art_1er/20200323",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Limitation de déplacement pour le public"
+      ],
+      "article_valid_from": "2020-03-23",
+      "text_md": "La circulation sur la voie publique de toute personne physique est limitée aux seules activités suivantes :\n\n- acquisition de denrées alimentaires, de produits pharmaceutiques et de produits de première nécessité,\n- déplacement vers les structures de santé,\n- déplacement vers le lieu de travail pour l’exercice de l’activité professionnelle ou commerciale,\n- assistance et soins aux personnes âgées, aux mineurs d’âge, aux personnes dépendantes, aux personnes handicapées et aux personnes particulièrement vulnérables,\n- déplacement vers les institutions financières et d’assurance en cas d’urgence,\n- en raison d’un cas de force majeure ou d’une situation de nécessité,\n- les activités de loisirs (promenade, jogging, aires de jeux,…), sous condition de respecter une distance interpersonnelle de 2 mètres.",
+      "text_sha256": "13ca24c7b14170d1925c50f3964bb593959d7b8c875779a9c7d3c412055d5c7e",
+      "md_span": {
+        "start": 722,
+        "end": 1530
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2_20200504",
+      "provision_id": "lu-legilux:amin-2020-03-16-a149:2020-05-04#art_2_20200504",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/art_2/20200323",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — **Mesures concernant les établissements recevant du public**"
+      ],
+      "article_valid_from": "2020-03-23",
+      "text_md": "Les activités de nature culturelle, sociale, festive, sportive et récréative sont suspendues.\n\nLes établissements relevant des secteurs culturel, récréatif, sportif et HORECA restent fermés.\n\nL’interdiction ne vise pas les services de take out, de drive in et de livraison à domicile.\n\nLes hôtels restent ouverts. Les restaurants et les bars d’hôtel, à l’exception du room-service, restent fermés.",
+      "text_sha256": "e3dbeac5b0657eff81abd46417303e8445ae7d09b5740a560137b4985e7f7636",
+      "md_span": {
+        "start": 1652,
+        "end": 2049
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:amin-2020-03-16-a149:2020-05-04#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/art_3/20200504",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Mesures concernant le secteur hospitalier"
+      ],
+      "article_valid_from": "2020-05-04",
+      "text_md": "**(1)** Les établissements hospitaliers affectent leur personnel principalement aux activités urgentes, non-déprogrammables et aigues. Les patients infectés au COVID-19 qui ne présentent pas de complications graves (symptômes légers) sont maintenus à domicile.\n\nL’exécution de cette mesure ainsi que la mise en place d’un système de tri des patients devant être hospitalisés se font sur base d’une concertation entre la Direction de la santé et le secteur hospitalier.\n\n**(2)** Les établissements hospitaliers communiquent quotidiennement à la Direction de la santé :\n\n- le nombre de lits total exploitables et le nombre de lits disponibles (soins normaux) ;\n- le nombre de lits total exploitables et le nombre de lits disponibles (soins intensifs) ;\n- le nombre de lits réservés au traitement de malades atteints du COVID-19 ;\n- le nombre de lits occupés pour le traitement des patients COVID-19 ;\n- le nombre de lits occupés pour le traitement de patients suspects COVID-19 ;\n- le nombre de lits en soins intensifs occupés pour le traitement des patients COVID-19 ;\n- le nombre de lits en soins intensifs occupés pour le traitement de patients suspects COVID-19 ;\n- le nombre et le matricule de patients atteints du COVID-19 admis à l’hôpital ;\n- le nombre et le matricule de patients atteints du COVID-19 ayant quitté l’hôpital ;\n- le nombre de patients sous respirateur en soins intensifs ;\n- le nombre de patients décédés suite au COVID-19 ;\n- les matricules de patients décédés suite au COVID-19 ;\n- le nombre total de respirateurs (dédiés soins intensifs) disponibles ;\n- le nombre total de respirateurs (dédiés soins intensifs) en cours d’installation ;\n- le nombre de respirateurs additionnels (respirateurs d’anesthésie, respirateurs de transport) en cours d’installation ;\n- le nombre de passages au service d’urgence par la filière COVID-19 ;\n- le nombre de passages au service d’urgence hors filière COVID-19 le matériel de protection personnelle disponible, notamment les masques d’hygiène, les masques de protection respiratoire, les masques chirurgicaux, les masques FFP2, les gants, les surblouses, les lunettes de protection, les combinaison de protection Tyvek, les circuits respiratoires de rechange pour les respirateurs, les systèmes fermés d’aspiration bronchique, les filtres HME, la quantité en oxygène médical (litres) ;\n- le suivi des effectifs médico-soignants.",
+      "text_sha256": "dacd821a047f62c443ad0fb7f4eb6ef5b433d6002591bd96737545f08e92e00e",
+      "md_span": {
+        "start": 2143,
+        "end": 4532
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:amin-2020-03-16-a149:2020-05-04#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/art_4/20200323",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Mesures concernant le secteur extrahospitalier"
+      ],
+      "article_valid_from": "2020-03-23",
+      "text_md": "Le détenteur d’un agrément délivré sur base de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ainsi que le prestataire de soins exerçant légalement sa profession en dehors du secteur hospitalier visé par l’alinéa second de l’article 61 du Code de la sécurité sociale déploie son personnel principalement aux prestations et interventions les plus urgentes et indispensables.\n\nLes personnes et prestataires visés à l’alinéa 1 communiquent quotidiennement à la Direction de la santé :\n\n- Pour les structures d’hébergement : - le nombre de lits totaux ;\n- le nombre de lits totaux occupés ;\n- le nombre de lits occupés par résidents en isolement (avec infection COVID-19 confirmée) ;\n- le cas échéant, les matricules de résidents atteints du COVID-19 (infection confirmée) ;\n- le nombre de lits occupés par résidents en auto-isolement (symptômes compatibles avec la maladie Covid-19 mais infection COVID-19 non confirmée) ;\n- le nombre de lits occupés par résidents en auto-quarantaine (personnes ayant eu un contact intime avec une personne dont l’infection Covid-19 est confirmée) ;\n- le nombre de lits occupés par résidents guéris du COVID-19 ;\n- le cas échéant, les matricules de résidents guéris du COVID-19.\n- Pour les réseaux de soins : - le nombre de clients ;\n- le nombre et, le cas échéant le matricule, de clients en isolement (clients avec infection Covid-19 confirmée) ;\n- le nombre de clients en auto-isolement (clients ayant des symptômes compatibles avec la maladie Covid-19 mais sans infection COVID-19 confirmée) ;\n- le nombre de clients en auto-quarantaine (personnes ayant eu un contact intime avec une personne dont l’infection Covid-19 est confirmée) ;\n- le nombre et, le cas échéant le matricule, de clients guéris du COVID-19.\n- Le matériel de protection personnelle disponible, notamment les masques chirurgicaux, les masques FFP2, les gants, les blouses de protection perméables, les lunettes de protection, les combinaisons de protection Tyvek, les solutions hydroalcooliques (litres) ;\n- Personnel soignant (infirmiers et aides-soignants) disponible en nombre de personnes physiques ;\n- Personnel soignant (infirmiers et aides-soignants) absent (maladie ou autre), en nombre de personnes physiques ;\n- Pays de résidence du personnel soignant : LU, FR, DE, BE.",
+      "text_sha256": "b2db16a6a0cadd88b3b163c6ceeb04d43bcf5f182e10f23aab948b2bcfd945bc",
+      "md_span": {
+        "start": 4631,
+        "end": 7016
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/09/08/n4/jo",
+          "text": "loi modifiée du 8 septembre 1998"
+        },
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5_20200504",
+      "provision_id": "lu-legilux:amin-2020-03-16-a149:2020-05-04#art_5_20200504",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/art_5/20200316",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5** — **Maintien des activités essentielles**"
+      ],
+      "article_valid_from": "2020-03-16",
+      "text_md": "Sont maintenues les activités qui sont essentielles pour le maintien des intérêts vitaux de la population et du pays. Il s’agit notamment des activités et des secteurs suivants :\n\n- la production et la distribution d’énergie et de produits pétroliers,\n- le secteur de la santé et des soins, y compris les activités hospitalières et les laboratoires d’analyses médicales,\n- le secteur de l’alimentation,\n- la distribution de l’eau,\n- la collecte et le traitement des eaux usées,\n- l’enlèvement et la gestion des déchets,\n- les transports publics,\n- les services administratifs qui participent à l’exercice de prérogatives de puissance publique,\n- les systèmes d’échange, de paiement et de règlements des instruments.",
+      "text_sha256": "89fcb640ec7ca609ca13363d72a07e9e117ec7d5a7e8418292c9779b06c899cb",
+      "md_span": {
+        "start": 7121,
+        "end": 7836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:amin-2020-03-16-a149:2020-05-04#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/art_6/20200316",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2020-03-16",
+      "text_md": "Le présent arrêté entre en vigueur le 16 mars 2020.",
+      "text_sha256": "944fe2ebfaed7447df4c9769b6453ecaf64d179e267ba7841c2bb967c7ae37a9",
+      "md_span": {
+        "start": 7918,
+        "end": 7969
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:amin-2020-03-16-a149:2020-05-04#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/art_7/20200316",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6 ** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2020-03-16",
+      "text_md": "Le présent arrêté sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "5f5efd69c8504c5815ead87d1063d74459e3920077a1a4908cb0671334a4565b",
+      "md_span": {
+        "start": 8004,
+        "end": 8083
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

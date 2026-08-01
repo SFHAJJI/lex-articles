@@ -1,0 +1,283 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 27/12/2022 : Règlement grand-ducal du 3 février 2006 fixant les règles de la gestion financière et comptable applicables aux services de l'Etat à gestion séparée ainsi que les modalités du contrôle de cette gestion.",
+  "valid_from": "2008-01-01",
+  "valid_to": "2011-04-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2006-02-03-n3/versions/2008-01-01/fr.xml",
+    "sha256": "c868270334cee1231613f2f05e0aef649cd7b0b07ae5f71344230a92b8462a28",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20080101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_1er/20060227",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1 — Budget du service"
+      ],
+      "article_valid_from": "2006-02-27",
+      "text_md": "Le service de l'Etat à gestion séparée, désigné dans la suite par le terme «le service» établit au plus tard le 1er mars de chaque exercice budgétaire un projet de budget de toutes les recettes et de toutes les dépenses à effectuer par lui pendant l'exercice suivant.",
+      "text_sha256": "0de2709adf937af2290e438832a3e0d190a19f00be8c38fb2da9455f8f1dde3b",
+      "md_span": {
+        "start": 765,
+        "end": 1032
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_2/20060227",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1 — Budget du service"
+      ],
+      "article_valid_from": "2006-02-27",
+      "text_md": "**(1)** Le projet de budget du service est transmis au ministre ayant le service dans ses attributions pour faire partie intégrante de ses propositions budgétaires à transmettre au ministre ayant le budget dans ses attributions dans le cadre de la procédure d'élaboration du budget de l'Etat pour l'exercice à venir.\n\n**(2)** Le montant de la dotation financière de l'Etat au profit du service est inscrit à un article budgétaire spécifique libellé «Dotation financière de l'Etat au profit du service (...)».\n\n**(3)** Dès l'entrée en vigueur de la loi sur le budget des recettes et des dépenses de l'Etat pour l'exercice suivant, le ministre ayant le service dans ses attributions approuve le budget définitif du service pour cet exercice et il détermine le calendrier de l'ordonnancement des crédits suivant les besoins du service.",
+      "text_sha256": "dac801435c31bde6b77392d246c5d39c4f8cb427a4b0d62ac76e0d52fcaad9cb",
+      "md_span": {
+        "start": 1067,
+        "end": 1899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_3/20080101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Gestion administrative, financière et comptable"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Le service ne peut pas recourir à l'emprunt, ni à des avances en compte courant pour assurer le financement de ses dépenses.\n\n**(2)** Le service procède moyennant ses ressources au financement des dépenses liées à ses activités, à l'exclusion des dépenses suivantes:\n\n- les rémunérations à verser aux fonctionnaires, employés ou ouvriers de l'Etat, y compris primes ou autres avantages, à l'exception de celles des élèves ou étudiants engagés pendant les vacances scolaires;\n- les frais d'investissements immobiliers.\n\n**(3)** Le montant des dépenses ne peut dépasser à aucun moment les ressources financières du service.\n\n**(4)** Le service n'a pas le droit de donner des garanties ou des cautionnements au profit de tiers.\n\n**(5)** Par dérogation aux dispositions de l'alinéa (4) les missions diplomatiques luxembourgeoises et les autres services de l'Etat établis à l'étranger constitués services de l'Etat à gestion séparée peuvent au moyen de leur ressources procéder en outre au financement des dépenses suivantes:\n\n- les rémunérations aux agents recrutés sur place, y compris primes et autres avantages;\n- les indemnités de poste et de logement versées aux fonctionnaires et employés de l'Etat détachés auprès des missions diplomatiques;\n- les frais d'investissements immobiliers.\n- les frais de scolarité pour les enfants des fonctionnaires et employés de l'Etat détachés auprès des missions diplomatiques;\n\n**(6)** Par dérogation aux dispositions de l'alinéa (4) les missions diplomatiques luxembourgeoises et les autres services de l'Etat établis à l'étranger constitués services de l'Etat à gestion séparée peuvent en outre accorder des garanties locatives aux fonctionnaires et employés détachés auprès des missions diplomatiques si les besoins du service le justifient.\n\nLe produit des taxes perçues par les missions diplomatiques est à verser intégralement à la trésorerie de l'Etat.\n\n**(7)** Par dérogation aux dispositions du paragraphe (2), l'Administration de la Navigation Aérienne peut procéder moyennant ses ressources au financement des rémunérations à verser aux fonctionnaires, employés ou ouvriers de l'Etat, y compris primes ou autres avantages ainsi qu'aux investissements immobiliers.",
+      "text_sha256": "00e18dc9b436a6da45bc556e2e45ba1bfbb68963d3e97611ecf39f6e8adcdbe1",
+      "md_span": {
+        "start": 1999,
+        "end": 4219
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_4/20060227",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Gestion administrative, financière et comptable"
+      ],
+      "article_valid_from": "2006-02-27",
+      "text_md": "**(1)** Les comptes bancaires du service sont ouverts par la trésorerie, conformément aux dispositions de l'alinéa (2) de l'article 35 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l'Etat.\n\n**(2)** Sont imputées sur ces comptes toutes les opérations de recettes et de dépenses du service.\n\n**(3)** Les services situés à l'étranger peuvent être autorisés par décision du ministre ayant le budget dans ses attributions et conformément aux directives de la trésorerie de l'Etat à placer temporairement les fonds disponibles.\n\nLes intérêts provenant de ces placements sont à considérer comme ressources propres du service.\n\nLes décisions de placement des fonds sont prises par l'ordonnateur désigné à cet effet par le ministre ayant le budget dans ses attributions et exécutées par le comptable du service.",
+      "text_sha256": "91aed80db1640df5ae30f9682088168fa6ca9f8d7d063603e291bace6b81e784",
+      "md_span": {
+        "start": 4254,
+        "end": 5095
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_5/20060227",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Gestion administrative, financière et comptable"
+      ],
+      "article_valid_from": "2006-02-27",
+      "text_md": "**(1)** L'imputation comptable des dépenses est effectuée au plus tard au moment de leur paiement.\n\n**(2)** L'imputation comptable des recettes est effectuée au plus tard au moment de leur perception.",
+      "text_sha256": "318a81478f46e05a7173fa99901e23d38d0e1d3973ac4d7b17b6eb193babf8ba",
+      "md_span": {
+        "start": 5130,
+        "end": 5330
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_6/20060227",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Gestion administrative, financière et comptable"
+      ],
+      "article_valid_from": "2006-02-27",
+      "text_md": "**(1)** Le service soumet pour approbation au ministre ayant le service dans ses attributions une proposition relative aux délégations de signature en matière financière à conférer aux agents du service conformément aux dispositions de la section III de l'arrêté grand-ducal du 22 décembre 2000 concernant les délégations de signature par le Gouvernement.\n\nLes ordonnateurs du service sont nommés par le Ministre ayant le service dans ses attributions.\n\nIls sont responsables des opérations d'engagement, de liquidation et d'ordonnancement des dépenses ainsi que de la constatation et de la liquidation des recettes.\n\n**(2)** Les comptables du service sont nommés par le ministre ayant le budget dans ses attributions sur proposition du ministre ayant le service dans ses attributions.\n\n**(3)** Les comptables sont seuls habilités dans la limite de leurs compétences et des délégations qui leur sont accordées par le ministre ayant le budget dans ses attributions sur proposition du ministre ayant le service dans ses attributions, à effectuer les opérations de recouvrement des recettes ainsi que les actes de paiement des dépenses du service à l'exception de l'exécution des ordres de paiement qui sont effectués par le biais des comptes bancaires.\n\nEn outre, ils sont chargés de la gestion des caisses du service.\n\nPar dérogation aux dispositions de l'alinéa premier du présent paragraphe, les comptables publics des missions diplomatiques luxembourgeoises et des autres services de l'Etat établis à l'étranger constitués services de l'Etat à gestion séparée sont également chargés de l'exécution des ordres de paiement qui sont effectués par le biais des comptes bancaires ouverts sur des places financières non luxembourgeoises.\n\n**(4)** Le rattachement des recettes et des dépenses du service à un exercice donné se fait conformément aux dispositions des articles 7 et 8 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l'Etat.\n\nToutefois les opérations relatives au paiement des dépenses et au recouvrement des recettes se terminent le 31 décembre de l'année en cours.\n\n**(5)** La tenue de la comptabilité du service s'effectue dans le système comptable informatique central de l'Etat.",
+      "text_sha256": "d9d9bea0923c2f6a787e34d318c95a874968d6354d365c2549b876aefac3d8cc",
+      "md_span": {
+        "start": 5365,
+        "end": 7593
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_7/20060227",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Gestion administrative, financière et comptable"
+      ],
+      "article_valid_from": "2006-02-27",
+      "text_md": "Dans le respect de la disposition de l'article 3 (3) ci-dessus, les limites et conditions prévues à l'endroit des chapitres 6 et 12 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l'Etat en ce qui concerne les transferts et dépassements de crédits ne s'appliquent pas au budget interne du service.",
+      "text_sha256": "7c1b7d1d4e6f2744a7da535f4e9979041421a02ce8ed36d820e8cc6ba74f07b3",
+      "md_span": {
+        "start": 7628,
+        "end": 7962
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_8/20060227",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Gestion administrative, financière et comptable"
+      ],
+      "article_valid_from": "2006-02-27",
+      "text_md": "Par dérogation aux dispositions des premier et deuxième tirets de l'article 1 du règlement grand-ducal du 21 février 1983 portant fixation des attributions et de l'organisation du Service Central des Imprimés et des Fournitures de bureau de l'Etat, les services de l'Etat à gestion séparée ont pour mission, dans le cadre des lois et règlements, de procéder à l'acquisition et le stockage du matériel de bureau et des imprimés qui leur sont destinés ainsi qu'à l'acquisition de machines de bureau suivant les besoins du service.\n\nLes services de l'Etat à gestion séparée procèdent également à la négociation et l'établissement de contrats de location et d'entretien relatifs à ces machines et en dressent l'inventaire.",
+      "text_sha256": "e4c53fb11f75fbe6871c2bfddcba0452f9c0ab2a457d761745ab958e94f3f879",
+      "md_span": {
+        "start": 7997,
+        "end": 8715
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1983/02/21/n3/jo",
+          "text": "règlement grand-ducal du 21 février 1983"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_9/20080101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Modalités du contrôle de la gestion"
+      ],
+      "article_valid_from": "2008-01-01",
+      "text_md": "**(1)** Les dépenses du service sont engagées, liquidées et payées sans intervention du contrôleur financier, à l'exception des dépenses en matière de rémunérations dont question à l 'article 3, paragraphe (7).\n\n**(2)** Le ministre ayant le service dans ses attributions peut, en fonction de la nature des activités du service, compléter les règles à observer en matière d'exécution du budget du service figurant au présent règlement grand-ducal.",
+      "text_sha256": "05c2110d2b6bfcf96d79625a85115a420077606cd8b2acb4cc5d7e9305103dcd",
+      "md_span": {
+        "start": 8803,
+        "end": 9249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_10/20070306",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Modalités du contrôle de la gestion"
+      ],
+      "article_valid_from": "2007-03-06",
+      "text_md": "**(1)** Le service communique à la fin de chaque trimestre au ministre ayant le service dans ses attributions l'état détaillé de l'ensemble des recettes perçues et des dépenses effectuées se rapportant à l'exercice en cours.\n\n**(2)** Le ministre ayant le service dans ses attributions désigne des agents chargés du contrôle interne de la gestion financière et comptable du service et décide des modalités et des méthodes du contrôle interne.\n\n**(3)** Les agents mandatés par le ministre ayant le service dans ses attributions peuvent prendre connaissance et se faire présenter tous les pièces et documents qu'ils jugent indispensables à l'accomplissement de leur mission.\n\n**(4)** A chaque contrôle, les agents du contrôle interne établissent un rapport de mission contradictoire et le transmettent au ministre ayant le service dans ses attributions qui décide des suites à lui réserver.\n\n**(5)** La direction du contrôle financier est chargée du contrôle externe semestriel des opérations effectuées par le service suivant les modalités arrêtées par le ministre ayant le budget dans ses attributions.\n\nA cette fin elle peut prendre connaissance des documents mis à la disposition du contrôle interne et généralement de toutes les écritures du service.\n\nA la demande de la direction du contrôle financier le ministre ayant le service dans ses attributions lui communique les rapports de contrôle internes.\n\nLe rapport de contrôle semestriel effectué par la direction du contrôle financier accompagné de la prise de position du ministre ayant le service dans ses attributions est transmis au ministre ayant le budget dans ses attributions.\n\n**(6)** Les décomptes annuels présentés par le service sont soumis, en exécution de l'article 91(1) de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l'Etat, à un premier contrôle par la Trésorerie de l'Etat qui est chargée de vérifier la conformité de ces décomptes avec les soldes des comptes bancaires et de l'encaisse du service. La Trésorerie de l'Etat peut demander au service copie de toutes les pièces comptables nécessaires à ce contrôle.",
+      "text_sha256": "a3a12b9010355e997f41a7c3e8dcfd17d73123aaa7262ca3d657db6150a5033f",
+      "md_span": {
+        "start": 9286,
+        "end": 11408
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_11/20070306",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Comptes"
+      ],
+      "article_valid_from": "2007-03-06",
+      "text_md": "Le rapport sur la situation financière du service au sens de l'article 6 de la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l'Etat comprend notamment le compte d'exécution de l'exercice écoulé, le budget de l'exercice en cours ainsi que le projet de budget pour l'exercice à venir.\n\nLe service établit le compte d'exécution du budget à la clôture de chaque exercice.\n\nAu plus tard le 31 mars de l’exercice suivant, ce document, accompagné des rapports de contrôle semestriels établis par la direction du contrôle financier ainsi que du rapport de contrôle annuel de la Trésorerie de l'Etat, est soumis à l’approbation conjointe des ministres ayant respectivement le service et le budget dans ses attributions et qui doivent décider de leur approbation avant le 30 avril de l’exercice en question.\n\nDans les cas où les positions respectives du ministre ayant le service dans ses attributions et du ministre ayant le budget dans ses attributions divergent, le Gouvernement en conseil décide de l’approbation définitive des états financiers du service pour le 25 mai de l’exercice suivant au plus tard.",
+      "text_sha256": "053e0c739539010135f26c5382076778e313004bd2933767590de36939e4f822",
+      "md_span": {
+        "start": 11470,
+        "end": 12603
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2006-02-03-n3:2008-01-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/art_12/20060227",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Comptes"
+      ],
+      "article_valid_from": "2006-02-27",
+      "text_md": "Notre Ministre du Trésor et du Budget est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "23916919bfdb3cbf5e6df1dd98f39ccd2a3ecb49b2c8a5229815d7b59bed5f98",
+      "md_span": {
+        "start": 12640,
+        "end": 12753
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

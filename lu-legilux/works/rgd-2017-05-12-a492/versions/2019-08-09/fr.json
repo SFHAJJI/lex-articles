@@ -1,0 +1,835 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/08/2019 : Règlement grand-ducal du 12 mai 2017 instituant un ensemble de régimes d’aides pour l’amélioration de la protection et de la gestion durable des écosystèmes forestiers.",
+  "valid_from": "2019-08-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2017-05-12-a492/versions/2019-08-09/fr.xml",
+    "sha256": "5e26d7ee829308df39a3a60b2141d7cb28ac2a883d35c42531d902555355d676",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/consolide/20190809/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_1er/20170520",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objet",
+      "path": [
+        "**Chapitre Ier** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "Il est institué un ensemble de régimes d'aides destinées:\n\n1. à améliorer et à renforcer les écosystèmes forestiers, et notamment par l’amélioration de leur diversité biologique, de leur structure ainsi que des infrastructures forestières;\n2. à inciter les activités de planification et à assurer le transfert de connaissances en matière sylvicole et biologique.",
+      "text_sha256": "a1538b580f53c0c8bfcd0358b82ff377949c889b584ab76010172401d62beb2d",
+      "md_span": {
+        "start": 750,
+        "end": 1112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_2/20170520",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Champ d’application",
+      "path": [
+        "**Chapitre Ier** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Les régimes d’aides sont limités aux fonds situés en zone verte au sens de l’article 5 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles.\n\n**(2)** Sont exclus de l’allocation d’aides les fonds forestiers sur lesquels sont utilisés des pesticides ou sur lesquels sont réalisés des travaux du sol dégradant la structure du sol, tels que le labourage et le dessouchage.",
+      "text_sha256": "875b86dec5e0af9a28e6df88d0774009ff802d66f8965364cf0cb60621195068",
+      "md_span": {
+        "start": 1167,
+        "end": 1596
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/01/19/n1/jo",
+          "text": "loi modifiée du 19 janvier 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_3/20170520",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Autorités compétentes",
+      "path": [
+        "**Chapitre Ier** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "Sont compétentes pour l’application du présent règlement grand-ducal le membre du Gouvernement ayant la Gestion durable des forêts, y compris la sylviculture et les forêts en libre évolution dans ses attributions, ci-après appelé «le ministre», et l’Administration de la nature et des forêts, ci-après appelée «l’administration».",
+      "text_sha256": "622a983f4a8916c0d3fe2b1a493c8de0302eafa276a618acded01a59ba5fe44e",
+      "md_span": {
+        "start": 1653,
+        "end": 1982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_4/20170520",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Document actuel de planification forestière",
+      "path": [
+        "**Chapitre Ier** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Les propriétaires possédant plus de vingt hectares de forêts et qui désirent profiter des régimes d’aide du présent règlement, doivent remettre à l’administration un document actuel de planification forestière en vigueur, couvrant l’ensemble de leur propriété forestière et validé par l’administration en ce qui concerne la conformité au paragraphe (2).\n\n**(2)** Le document actuel de planification forestière doit être établi selon les modalités fixées à l’annexe I.\n\n**(3)** Les mesures fixées au document actuel de planification forestière doivent respecter les principes du développement durable et ne pas porter préjudice aux propriétés contiguës. Dans le document actuel de planification forestière les mesures planifiées sur des fonds situés dans une zone Natura 2000 ne doivent pas être contraires aux objectifs fixés dans les documents de gestion relatifs au réseau Natura 2000 arrêtés.",
+      "text_sha256": "eb646cbf2bac88ff5c11e1296ee4600b21b5314bda0866ceff80f88ad15e48c8",
+      "md_span": {
+        "start": 2061,
+        "end": 2964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_5/20170520",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Préservation, restauration et renforcement des écosystèmes forestiers",
+      "path": [
+        "**Chapitre II ** — **Aides en vue de la préservation, de la restauration et du renforcement des écosystèmes forestiers**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Il est institué un régime d’aides qui porte sur les mesures suivantes de préservation, de restauration et de renforcement des écosystèmes forestiers:\n\n1. la restauration de l’écosystème forestier par le reboisement;\n2. le renforcement de l’écosystème forestier par la régénération naturelle;\n3. la préservation de l’écosystème forestier par des travaux de protection contre le gibier, y compris des dispositifs de contrôle de la pression du grand gibier;\n4. le renforcement de l’écosystème forestier par des soins aux jeunes peuplements;\n5. le renforcement de l’écosystème forestier par la première éclaircie sélective;\n6. la préservation de l’écosystème forestier par le débardage à l’aide du cheval;\n7. la préservation de l’écosystème forestier par le débardage à l’aide du téléphérage.\n\n**(2)** Le régime d’aides est applicable aux propriétaires de fonds forestiers, y compris les collectivités publiques autres que l’Etat.\n\n**(3)** Les montants des aides visées aux articles 11 et 12 du présent régime d’aides sont majorés de 10 % si les mesures sont réalisées sur des fonds situés dans une zone de protection autour d’un captage d’eau souterraine du niveau I ou II.",
+      "text_sha256": "df718368dc55417fe72352afc6a6dd7c7972421ef00dcd955f78c339d934ab64",
+      "md_span": {
+        "start": 3194,
+        "end": 4372
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_6/20190809",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Restauration de l’écosystème forestier par le reboisement",
+      "path": [
+        "**Chapitre II ** — **Aides en vue de la préservation, de la restauration et du renforcement des écosystèmes forestiers**"
+      ],
+      "article_valid_from": "2019-08-09",
+      "text_md": "**(1)** La mesure visée à l’article 5, paragraphe 1er, sous a) porte sur la restauration de l’écosystème forestier par le reboisement d’un peuplement à essences principales feuillues ou résineuses adaptées à la station.\n\n**(2)** Sont exclus de la mesure:\n\n1. les reboisements en vue de la production d’arbres de Noël ou d’ornement;\n2. les boisements ligneux à courte rotation réalisés sur les terres agricoles;\n3. les reboisements sous abri si les vieux peuplements présentent un recouvrement supérieur à 0,5;\n4. les reboisements exécutés en compensation de défrichements;\n5. loi modifiée du 30 janvier 1951 loi modifiée du 19 janvier 2004\n\nLa transformation de peuplements feuillus en peuplements résineux n’est pas subventionnée.\n\n**(3)** La surface à reboiser doit comporter 40 ares au moins et concerner un même peuplement. La surface à reboiser peut être divisée en plusieurs éléments surfaciques de minimum 10 ares éparpillés dans le peuplement. Le reboisement doit respecter une distance minimale de plantation de deux mètres par rapport aux routes forestières empierrées.\n\n**(4)** En ce qui concerne les travaux de préparation au reboisement, le bénéficiaire est tenu:\n\n1. de maintenir les rémanents de coupe constitués de branches d’un diamètre inférieur à 5 cm au gros bout sur le parterre de la surface à reboiser;\n2. de ne pas réaliser de broyage en plein du recrû naturel d’essences forestières;\n3. de ne pas réaliser de broyage dans le sol.\n\n**(5)** En ce qui concerne les travaux de reboisement et d’entretien, le bénéficiaire est tenu:\n\n1. de réaliser les reboisements dans l’intérêt de la sauvegarde de la surface boisée et de respecter les critères écologiques des colonnes 1 à 4 figurant à l’annexe III;\n2. de maintenir le recrû naturel non-concurrentiel pour les essences plantées, sauf en cas de transformation du peuplement en vue de réduire une essence qui n’est pas en station;\n3. de dégager le reboisement seulement si son développement est compromis; seule la végétation adventice compromettant directement le bon développement des plants doit être enlevée; pour combattre la fougère-aigle, le genêt et les ronces, un dégagement en plein est autorisé;\n4. d’enlever dans le cas d’une plantation sous abri progressivement les arbres du vieux peuplement;\n5. de conserver dans le cas de la transformation d’un taillis en futaie feuillue un certain nombre de tiges du taillis pour garantir le bon développement des jeunes plants; les tiges de l’ancien peuplement doivent être enlevées au fur et à mesure du développement de la nouvelle plantation;\n6. de ne pas réduire intentionnellement la proportion d’essences feuillues plantées lors des entretiens et des interventions subséquentes;\n7. 1. loi du 30 novembre 2005\n2. un schéma de plantation comprenant les distances, les essences et la répartition spatiale des plants mis en place, ainsi que la localisation des bouquets et des bandes le cas échéant.\n\n**(6)** Les travaux de plantation doivent être conformes aux critères suivants:\n\n1. 1. la plantation doit être réalisée par bouquets;\n2. chaque bouquet doit comprendre au minimum 25 plants;\n3. les bouquets, au nombre minimum de 10, doivent être positionnés dans les trouées de la régénération naturelle présentant une mise en lumière suffisante au développement des plants;\n4. les bouquets doivent être espacés de minimum 10 mètres, bord à bord, et leur centre doit être matérialisé par un piquet colorié;\n5. les essences autorisées pour les plantations d’enrichissement sont le chêne sessile, le chêne pédonculé, le hêtre commun, l’érable sycomore, l’érable plane, l’aulne glutineux, le sorbier domestique, l’alisier torminal, l’orme de montagne, l’orme champêtre, l’orme lisse, le peuplier noir, l’if, le poirier commun, le pommier sauvage, le merisier, le tilleul à grandes feuilles, le tilleul à petites feuilles, le mélèze;\n2. 1. la densité de plantation d’essences principales doit être au minimum de 2.500 plants par ha;\n2. la plantation doit comporter 70 % d’une ou de plusieurs essences principales autorisées;\n3. les essences principales autorisées sont le chêne sessile, le chêne pédonculé, le hêtre commun, l’érable sycomore, l’érable plane, l’aulne glutineux, le douglas, l’épicéa, le mélèze et le pin sylvestre;\n4. la plantation doit comporter 30 % d’une ou de plusieurs autres essences adaptées à la station que les essences principales choisies pour cette plantation;\n5. dans une plantation à essences principales feuillues, la proportion d’autres essences résineuses ne peut pas dépasser 10 % réparties en groupes d’au moins 10 plants;\n6. dans une plantation à essences principales résineuses, il faut au minimum 30 % d’autres essences feuillues réparties en groupes d’au moins 50 plants;\n7. pour une plantation à essences principales de hêtre commun ou de chêne, la plantation doit être réalisée par bouquets de minimum 25 plants ou par bandes de minimum 4 lignes de plants. La surface cumulée des bouquets ou des bandes effectivement plantée doit se situer entre 35 % et 50 % de la surface à reboiser. Les bouquets et les bandes doivent être répartis uniformément sur la surface du peuplement. Le recrû naturel entre les bouquets et les bandes doit être initié.\n\n**(7)** Les montants de l’aide sont fixés comme suit:\n\n1. 50 euros par bouquet pour les plantations d’enrichissement d’une régénération existante;\n2. 50 euros l’are de la surface à reboiser pour les autres plantations à essences principales feuillues;\n3. 30 euros l’are de la surface à reboiser pour les autres plantations à essences principales résineuses.\n\nLes montants des aides peuvent être doublés pour des travaux de reboisement exécutés à la suite d’un chablis ou d’une attaque par le bostryche. Les dégâts de chablis ou de bostryche doivent être constatés par l’administration. Le ministre doit arrêter la situation de calamité naturelle.\n\nL’aide est versée en deux tranches. La première moitié de l’aide est versée après l’achèvement des travaux de plantation au vu d’un procès-verbal de réception provisoire. La seconde moitié est versée dans un délai de 3 ans après le paiement de la première tranche au vu d’un procès-verbal de réception définitive, constatant une reprise minimale de 80 % des plants et donnant l’assurance que l’entretien des nouvelles plantations est garanti. Le regarnissage en vue d’assurer une reprise minimale de 80 % n’est pas subventionné.",
+      "text_sha256": "e7fe9ca9ad5c95efe53914b01b922f6d31608af239a11f5f76257aadd924fae7",
+      "md_span": {
+        "start": 4465,
+        "end": 10849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_7/20170520",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Renforcement de l’écosystème forestier par la régénération naturelle",
+      "path": [
+        "**Chapitre II ** — **Aides en vue de la préservation, de la restauration et du renforcement des écosystèmes forestiers**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 5, paragraphe 1er, sous b) porte sur le renforcement de l’écosystème par la régénération naturelle d’essences forestières adaptées à la station.\n\n**(2)** La transformation par régénération naturelle de peuplements feuillus en peuplements résineux n’est pas subventionnée.\n\n**(3)** La surface régénérée doit comporter 40 ares au moins et concerner un même peuplement.\n\nLa régénération naturelle doit respecter les critères écologiques figurant à l’annexe III. Elle doit être assurée en présentant une hauteur comprise entre 0,5 et 3 mètres.\n\nLa régénération naturelle doit présenter un recouvrement d’au moins 70 % de la surface du peuplement.\n\nLe cas échéant, les spots de régénération naturelle:\n\n1. doivent être supérieurs à 10 ares;\n2. peuvent être éparpillés dans le peuplement.\n\nDans la régénération naturelle de résineux, les essences forestières feuillues présentes naturellement ne peuvent pas être réduites. Lorsqu’il n’y a pas d’essences feuillues présentes naturellement à raison de minimum 30 %, la régénération naturelle doit être enrichie par des essences principales autorisées feuillues plantées en groupes d’au moins 50 plants afin d’atteindre le seuil minimum de 30 % de la surface.\n\nAfin de ne pas compromettre le bon développement de la régénération naturelle, des interventions sylvicoles consécutives doivent être réalisées dans le vieux peuplement.\n\n**(4)** Le montant de l’aide est fixé à 15 euros l’are.",
+      "text_sha256": "d7e419326a029a82ea704cd88000bcc18472695b8ae03b80f8ec6c1763c8ec5b",
+      "md_span": {
+        "start": 10953,
+        "end": 12417
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_8/20170520",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Préservation de l’écosystème forestier par des travaux de protection contre le gibier, y compris des dispositifs de contrôle de la pression du grand gibier",
+      "path": [
+        "**Chapitre II ** — **Aides en vue de la préservation, de la restauration et du renforcement des écosystèmes forestiers**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Les mesures relatives à la préservation de l’écosystème forestier par des travaux de protection visée à l’article 5, paragraphe 1er, sous c) portent sur:\n\n1. l’installation d’une clôture d’une hauteur de 1,5 à 1,8 mètres;\n2. l’installation d’une clôture de 2 mètres;\n3. l’installation d’une clôture en lattis de bois d’une hauteur de minimum 1,5 mètres;\n4. l’installation de protections individuelles sous forme de manchons grillagés non décomposables ou de tubes arbis-serres;\n5. l’installation de dispositifs de contrôle de la pression du grand gibier.\n\n**(2)** Pour les travaux de protection visés au paragraphe 1er, de a) à d), les installations doivent protéger des plantations ou régénérations naturelles de feuillus ou de résineux autres que l’épicéa ou le pin. L’installation d’une clôture peut précéder la régénération naturelle seulement si une fructification importante est avérée et si le vieux peuplement a été préparé pour accueillir la régénération.\n\nLa longueur minimale d’une clôture doit être de 250 mètres. Elle peut cependant être de minimum 100 mètres s’il s’agit d’une régénération naturelle ou d’un reboisement réalisé par bouquets.\n\nLa surface maximale d’un seul tenant à clôturer ne peut pas dépasser 1 ha. Des clôtures adjacentes doivent être séparées l’une de l’autre par un couloir non clôturé d’une largeur de minimum 25 mètres.\n\nLa clôture doit être enlevée lorsque le peuplement a atteint une hauteur de 1,5 mètre, sauf si la présence de cerfs est avérée, et au plus tard lorsque sa fonction n’est plus assurée. Le non-respect de cette disposition entraîne l’obligation de remboursement intégral de l’aide par le bénéficiaire.\n\nLa quantité minimale requise de protections individuelles doit être supérieure à 100 unités sans que le coût de celles-ci ne puisse dépasser le coût de l’installation d’une clôture continue.\n\nLe bénéficiaire est tenu d’entretenir les clôtures et les protections individuelles de façon régulière.\n\n**(3)** Les dispositifs de contrôle de la pression du grand gibier doivent être implantés sur avis de l’administration et ne pas dépasser 1 unité par 100 ha de forêts indépendamment du droit de propriété. Ils sont à chaque fois composés de deux placettes de douze par douze mètres chacune. Une des placettes est située dans un enclos empêchant tout passage de grand gibier, tandis que l’autre, qui constitue la placette de comparaison, est matérialisée sur le terrain, mais le gibier y aura librement accès. Le bénéficiaire autorise l’accès au dispositif de contrôle pour le monitoring par l’administration.\n\n**(4)** Les montants de l’aide sont fixés comme suit:\n\n1. 5 euros le mètre courant pour les clôtures de 1,5 à 1,8 mètres;\n2. 6 euros le mètre courant pour les clôtures de 2 mètres;\n3. 8 euros le mètre courant pour les clôtures en lattis de bois;\n4. 50 % du coût total pour les protections individuelles, les coûts des travaux d’installation et les coûts des tuteurs inclus;\n5. 400 euros pour l’installation d’un dispositif de contrôle de la pression du grand gibier.",
+      "text_sha256": "dd88d494003545b63e06661be844414e4a5d0839b7cb3f1ea6e096348644b4a3",
+      "md_span": {
+        "start": 12608,
+        "end": 15647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_9/20170520",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Renforcement de l’écosystème forestier par des soins aux jeunes peuplements",
+      "path": [
+        "**Chapitre II ** — **Aides en vue de la préservation, de la restauration et du renforcement des écosystèmes forestiers**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 5, paragraphe 1er, sous d) porte sur le renforcement de l’écosystème forestier par des soins aux jeunes peuplements.\n\n**(2)** Sont exclus de l’aide les fonds forestiers ayant déjà fait l’objet d’une aide pour la régénération naturelle conformément à l’article 2 du règlement grand-ducal du 10 octobre 1995 concernant les aides aux mesures forestières en agriculture et en forêt.\n\n**(3)** Les travaux de soins aux jeunes peuplements doivent porter sur des surfaces de 40 ares au moins et concerner un même peuplement.\n\nLe peuplement doit contenir plus de 50 % d’essences feuillues, sauf si les essences résineuses présentes sont en station et issues de régénération naturelle.\n\nLa hauteur moyenne des tiges du peuplement doit être comprise entre 5 et 10 mètres, sauf pour les peuplements de chênes, où elle doit être supérieure à 3 mètres.\n\nLe bénéficiaire est tenu:\n\n1. d’aménager un système de cloisonnements culturaux;\n2. d’intervenir pour maintenir la dominance apicale des arbres d’avenir destinés à produire du bois de qualité;\n3. de maintenir la diversité des essences.\n\n**(4)** Le montant de l’aide est fixé à 10 euros l’are.",
+      "text_sha256": "60d93dd8fd3420911e31dd5005c1749ab53bb1ade3b7b8eb15fe252d22f21bec",
+      "md_span": {
+        "start": 15758,
+        "end": 16926
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1995/10/10/n1/jo",
+          "text": "règlement grand-ducal du 10 octobre 1995"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_10/20170520",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Renforcement de l’écosystème forestier par la première éclaircie sélective",
+      "path": [
+        "**Chapitre II ** — **Aides en vue de la préservation, de la restauration et du renforcement des écosystèmes forestiers**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 5, paragraphe 1er, sous e) porte sur le renforcement de l’écosystème par la première éclaircie sélective réalisée par abattage manuel ou mécanisé.\n\n**(2)** Les travaux d’éclaircie doivent porter sur des surfaces de 40 ares au moins et concerner un même massif forestier.\n\nLa hauteur moyenne des tiges du peuplement doit être comprise entre 10 et 15 mètres.\n\n**(3)** Le bénéficiaire est tenu:\n\n1. de réaliser les travaux d’éclaircie en faveur des arbres d’avenir du peuplement;\n2. d’aménager un système de layons de débardage avec des layons d’une largeur d'environ 4 mètres et d’un espacement de minimum 30 mètres. Les layons de débardage doivent être marqués de façon durable;\n3. dans le cas de l’abattage manuel, de débarder les bois à l’aide du cheval selon les modalités telles que définies à l’article 11 vers les layons de débardage ou de débarder les bois par téléphérage;\n4. de ne pas réaliser un abattage mécanisé sur un terrain avec une pente supérieure à 35 %;\n5. de ne pas circuler avec les tracteurs de débardage ou autres engins lourds en dehors des layons de débardage;\n6. de laisser les cimes et branches coupées sur le parterre de la coupe.\n\n**(4)** Les montants de l’aide sont fixés comme suit:\n\n1. 10 euros l’are pour l’éclaircie réalisée par abattage manuel;\n2. 5 euros l’are pour l’éclaircie réalisée par abattage mécanisé.\n\nLes montants de l’aide sont majorés de 25 % pour des travaux exécutés par un groupe de propriétaires sur des fonds forestiers totalisant au moins 1 ha et situés dans le même massif forestier.\n\nL’aide pour l’éclaircie réalisée par abattage manuel est cumulable avec les aides définies aux articles 11 et 12.",
+      "text_sha256": "e06e5bcd69c576a15fd18a486823a865ba1e27a5c80877ba3d3c50d89d738a03",
+      "md_span": {
+        "start": 17038,
+        "end": 18726
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_11/20170520",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Préservation de l’écosystème forestier par le débardage à l’aide du cheval",
+      "path": [
+        "**Chapitre II ** — **Aides en vue de la préservation, de la restauration et du renforcement des écosystèmes forestiers**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 5, paragraphe 1er, sous f) porte sur la préservation de l’écosystème forestier par le débardage à l’aide du cheval des bois abattus de façon manuelle.\n\n**(2)** La quantité minimale de bois requise pour être subventionnée est de 50 m3, à moins que le débardage ne soit effectué dans le cadre d’une première éclaircie subventionnée.\n\n**(3)** Le bénéficiaire est tenu:\n\n1. d’aménager un système de layons de débardage avec des layons d’une largeur de maximum 4 mètres et un espacement entre les layons de minimum 30 mètres;\n2. de débarder les bois avec les chevaux vers les layons de débardage, de manière à permettre la prise en charge des bois à partir du layon;\n3. de laisser les cimes et les branches coupées sur le parterre de la coupe;\n4. de ne pas circuler avec les tracteurs de débardage en dehors des layons de débardage.\n\n**(4)** Le montant de l’aide est fixé à 16 euros par m3.\n\nLe montant de l’aide est majoré de 25 % pour des travaux exécutés par un groupe de propriétaires sur des fonds forestiers totalisant au moins 1 ha et situés dans le même massif forestier.",
+      "text_sha256": "88fd4538dd3ab7f650c79797414922b844afd78b62abc3a2744cf5f3f996a0bf",
+      "md_span": {
+        "start": 18838,
+        "end": 19948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_12/20170520",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Préservation de l’écosystème forestier par le débardage à l’aide du téléphérage",
+      "path": [
+        "**Chapitre II ** — **Aides en vue de la préservation, de la restauration et du renforcement des écosystèmes forestiers**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 5, paragraphe 1er, sous g) porte sur la préservation de l’écosystème forestier par le débardage à l’aide du téléphérage des bois abattus de façon manuelle.\n\n**(2)** La quantité minimale de bois requise pour être subventionnée est de 50 m3, à moins que le débardage ne soit effectué dans le cadre d’une première éclaircie subventionnée.\n\n**(3)** Le bénéficiaire est tenu:\n\n1. de débarder les bois à l’aide du système de téléphérage jusqu’à la hauteur du mât terminal installé sur un chemin forestier ou une piste de débardage où les bois sont pris en charge pour une manipulation ultérieure;\n2. de laisser les branches de la cime d’un diamètre inférieur à 5 cm sur le parterre de la coupe;\n3. de ne pas circuler avec des tracteurs de débardage ou autres engins mécaniques sur le parterre de la coupe.\n\n**(4)** Le montant de l’aide est fixé à 25 euros par m3.\n\nLe montant de l’aide est majoré de 25 % pour des travaux exécutés par un groupe de propriétaires sur des fonds forestiers totalisant au moins 1 ha et situés dans le même massif forestier.",
+      "text_sha256": "49ea7424d7ef7801d5a82a5d8dfee3ff96d16fd7a9be90b4f58e4b1e49ec0f2e",
+      "md_span": {
+        "start": 20065,
+        "end": 21147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_13/20170520",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Services écosystémiques",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Il est institué un régime d’aides qui porte sur les mesures suivantes de maintien et d’amélioration des services écosystémiques:\n\n1. la forêt en libre évolution;\n2. la préservation d’arbres-habitats;\n3. la conservation d’îlots de vieillissement;\n4. la restauration et l’amélioration de l’état de conservation favorable des micro-stations particulières en milieu forestier, ainsi que de leurs biocénoses associées;\n5. la restauration et l’amélioration de l’état de conservation favorable d’associations phytosociologiques forestières rares et remarquables (forêts alluviales, riveraines et de ravin, aulnaies marécageuses, boulaies tourbeuses);\n6. l’amélioration de l’état de conservation des taillis de chêne par le recépage;\n7. la protection spécifique d’espèces animales et végétales très sensibles, menacées en milieu forestier;\n8. la création et la restauration de lisières forestières;\n9. la restauration des zones rivulaires des cours d’eau en forêt.\n\n**(2)** Le régime d’aides est applicable aux propriétaires de fonds forestiers. Les propriétaires des collectivités publiques autres que l’Etat ne peuvent bénéficier que des mesures a), d), e), f), g) et i) de l’article 13, paragraphe 1er.\n\n**(3)** Les montants des aides visées respectivement aux articles 16, 17, 18, 20, 21 et 22 du présent régime d’aides sont majorés de 10 % si les mesures sont réalisées sur des fonds situés dans une zone Natura 2000, dans une zone protégée d’intérêt national ou dans une zone de protection autour d’un captage d’eau souterraine du niveau I ou II.",
+      "text_sha256": "3523437bef31040c6b290935f079e73dd3c17903098455ba5962d61b2b558461",
+      "md_span": {
+        "start": 21331,
+        "end": 22883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_14/20170520",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Forêt en libre évolution",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous a) est destinée à conserver dans un état naturel et en libre évolution des forêts naturelles et semi-naturelles représentatives des forêts du Luxembourg. Cette mesure d’aide est limitée à une surface forestière nationale totale de 2.500 hectares.\n\n**(2)** Le ministre autorise préalablement les forêts à intégrer au réseau national de forêts naturelles et semi-naturelles en libre évolution sur base de critères écologiques, de la distribution spatiale ainsi que de la représentativité des types de forêts naturelles et semi-naturelles.\n\n**(3)** Seules sont éligibles les forêts classées par voie de règlement grand-ducal en zone protégée d’intérêt national.\n\nLes forêts éligibles doivent être des forêts feuillues naturelles ou semi-naturelles présentant sur 75 % au moins de leur surface des peuplements en futaie ou des taillis convertis par vieillissement, soit naturel, soit par intervention sylvicole. Elles seront caractérisées par un cortège typique d’espèces des associations forestières suivantes: hêtraies acidophiles à luzule blanche, hêtraies riches à mélique et aspérule, ainsi que leurs chênaies de substitution, chênaies-charmaies naturelles et frênaies-chênaies du Primulo-Carpinetum, chênaies xérophiles, érablières de ravin, forêts marécageuses et forêts riveraines. Les 25 % restants de la surface peuvent être constitués de coupes rases récentes, de peuplements jeunes de feuillus autochtones issus de franc pied et âgés de 20 ans au plus ou de peuplements de résineux.\n\nLes forêts éligibles doivent en outre présenter une aire d’un seul tenant, d’au moins 50 hectares, composée d’un ou de plusieurs peuplements et appartenant à un ou plusieurs propriétaires. Des dérogations par rapport à la surface minimale de 50 hectares peuvent être données par le ministre pour les forêts présentant des associations phytosociologiques rares telles les chênaies xérophiles, les forêts de ravin, les forêts marécageuses et les forêts riveraines.\n\n**(4)** Le propriétaire s’engage pour une période de 30 ans au moins. Il est tenu de signer une convention de gestion avec le ministre, dans laquelle sont définies les conditions spécifiques de gestion, garantissant l’objectif de protection recherché, ainsi que le montant de l’aide correspondante.\n\n**(5)** La surface forestière ayant bénéficiée de la présente aide n’est plus éligible pour d’autres aides des régimes d’aides du chapitre II « Préservation, restauration et renforcement des écosystèmes forestiers » et du chapitre III « Maintien et amélioration des services écosystémiques ».\n\n**(6)** Le bénéficiaire s’engage:\n\n1. à abandonner l’écosystème à la libre évolution;\n2. loi modifiée du 19 janvier 2004\n3. à renoncer à l’aménagement de toute infrastructure nouvelle, le dégagement et l’entretien de chemins existants restant autorisés.\n\n**(7)** L’aide visée au présent article consiste dans l’octroi de six primes quinquennales.\n\nLa prime quinquennale à allouer est fonction:\n\n1. de l’espèce dominante des différents peuplements constituant la forêt à mettre en libre évolution;\n2. de la classe d’âge des différents peuplements constituant cette forêt.\n\nElle est calculée à partir des primes par hectare indiquées dans le tableau ci-dessous, multipliées par les surfaces individuelles des différents peuplements et pondérée selon les classes d’âge constituant la forêt à mettre en libre évolution. La détermination des types de peuplements se fait sur base d’un inventaire d’aménagement établi suivant la méthodologie de l’administration.\n\n| *Peuplement à prédominance de (en surface terrière)* | *Prime quinquennale**par hectare (en EUR)* | *Déductions par rapport**à la prime quinquennale > 140 ans* |  |  |\n| --- | --- | --- | --- | --- |\n|  | > 140 ans | < 60 ans | 61-100 ans | 101-140 ans |\n| Chênes | 2.200 | -45 % | -40 % | -30 % |\n| Hêtres communs | 2.000 | -45 % | -40 % | -30 % |\n| Autres essences feuillues | 2.100 | -45 % | -40 % | -30 % |\n\nLes indemnités à allouer aux peuplements de résineux à convertir en forêts naturelles sont fixées comme suit:\n\n| *Age du peuplement* | *Prime quinquennale par hectare en EUR* |  |\n| --- | --- | --- |\n|  | Douglas | Epicéas ou autres |\n| < 20 ans | 1.600 | 1.400 |\n| 20 – 55 ans | 1.700 | 1.900 |\n| > 55 ans | 800 | 750 |\n\nLes primes quinquennales à verser sont réduites de 50 % pour les forêts soumises au régime forestier.\n\nLe versement des primes est réalisé à la fin des périodes quinquennales, la première fois après cinq ans suivant la signature de la convention.",
+      "text_sha256": "d921f7a9b3aec925633e7df871f6d88bd977f81289245addaf2742cd90c82740",
+      "md_span": {
+        "start": 22945,
+        "end": 27496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_15/20170520",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Préservation d’arbres-habitats",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous c) est destinée à conserver les biocénoses menacées liées aux vieux arbres et aux arbres morts. Elle vise à maintenir, au-delà de leur terme d’exploitabilité économique, les vieux arbres et les arbres dépérissants, et à les laisser se décomposer en forêt.\n\n**(2)** La forêt dans laquelle sont conservés les arbres-habitats doit avoir une surface d’un seul tenant de 50 ares au moins et remplir les conditions suivantes:\n\n1. être composée d’essences adaptées à la station pour favoriser les espèces floristiques et faunistiques propres au site.\n\nLes arbres-habitats doivent remplir les critères suivants:\n\n1. être distants d’au moins 30 mètres des chemins de randonnée ou d’autres lieux de grande fréquentation;\n2. être vivant au moment de la sélection et présenter de préférence au moins deux caractéristiques écologiques telles que les pourritures de tronc, les cavités de pic, les grosses branches mortes, les fissures;\n3. être dominants et présenter un diamètre à hauteur de poitrine supérieur à 60 cm pour les chênes et les hêtres communs et 50 cm pour les autres essences, à l’exception de la région de l’Oesling pour laquelle un diamètre à hauteur de poitrine supérieure à 40 cm toutes essences confondues est éligible.\n\n**(3)** Le propriétaire s’engage pour une période de 15 ans. Il est tenu de signer une convention de gestion avec le ministre, dans laquelle sont définies les conditions spécifiques de gestion, garantissant l’objectif de protection recherché, ainsi que le montant de l’aide correspondante.\n\n**(4)** Le bénéficiaire s’engage:\n\n1. à conserver au moins 4 et au maximum 8 arbres-habitats par hectare jusqu’à leur complète décomposition;\n2. à ne pas porter préjudice aux arbres-habitats lors de travaux de bucheronnage dans les environs;\n3. à marquer les arbres-habitats de façon permanente et de fournir à l’administration leurs coordonnées géographiques.\n\n**(5)** L’aide visée au présent article consiste dans l’octroi d’une prime unique de 450 euros par arbre pour les chênes, 210 euros par arbre pour les hêtres communs et 150 euros par arbre pour les autres essences feuillues ou résineuses.\n\nLa prime est versée en trois tranches. Chaque tranche comporte un tiers du montant total de l’aide et est versée à la fin de chaque période quinquennale.",
+      "text_sha256": "ce20872ed2d58313291bca41146932ddc45a255b378e401d0e69462e65dc94b8",
+      "md_span": {
+        "start": 27564,
+        "end": 29898
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_16/20170520",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Conservation d’îlots de vieillissement",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous d) est destinée à conserver les biocénoses menacées liées aux vieux arbres et aux arbres morts regroupés au sein de parties de peuplement formant des îlots de vieillissement. Elle vise à maintenir au-delà de leur terme d’exploitabilité économique, l’ensemble des arbres des îlots, y compris les arbres morts, debout ou couchés.\n\n**(2)** Les îlots de vieillissement doivent porter sur une surface d’un seul tenant de 30 ares au moins et de 2 hectares au maximum, sans dépasser 10 % de la surface forestière totale du peuplement, et remplir les conditions suivantes:\n\n1. comprendre au moins 30 vieux arbres ou arbres morts debout par hectare avec un diamètre à hauteur de poitrine supérieur à 50 cm pour les chênes, les hêtres communs et les épicéas, 60 cm pour les douglas et 40 cm pour les autres essences, à l’exception de la région de l’Oesling pour laquelle un diamètre à hauteur de poitrine supérieure à 40 cm toutes essences confondues est éligible;\n2. être composé d’essences adaptées à la station pour favoriser les espèces floristiques et faunistiques propres au site;\n3. ne pas être situés à une distance inférieure à 30 mètres des chemins de randonnée ou d’autres lieux de grande fréquentation.\n\n**(3)** Le propriétaire s’engage pour une période de quinze ans au moins. Il est tenu de signer une convention de gestion avec le ministre, dans laquelle sont définies les conditions spécifiques d’exploitation ou de gestion, garantissant l’objectif de protection recherché, ainsi que le montant de l’aide correspondante. Les îlots de vieillissement doivent être délimités dans cette convention.\n\n**(4)** La surface forestière ayant bénéficiée de la présente aide n’est plus éligible pour d’autres aides des régimes d’aides du chapitre II « Préservation, restauration et renforcement des écosystèmes forestiers » et du chapitre III « Maintien et amélioration des services écosystémiques ».\n\n**(5)** Le bénéficiaire s’engage:\n\n1. à renoncer à toute intervention sylvicole ou aménagement d’infrastructures dans les îlots de vieillissement;\n2. à ne pas porter préjudice aux îlots de vieillissement lors de travaux de bucheronnage dans les environs;\n3. à marquer les arbres périphériques des îlots de façon permanente et de fournir à l’administration les coordonnées géographiques de leurs périmètres.\n\n**(6)** L’aide visée au présent article consiste dans l’octroi de trois primes quinquennales. Le montant de l’aide s’élève à 4 euros par are et par an.\n\nLe versement des primes est réalisé à la fin des périodes quinquennales, la première fois après cinq ans qui suivent la signature de la convention.",
+      "text_sha256": "29fdcea8d5cedb9027379773c04e4026f23e9a0dbd564337ae88c3b43e2ec114",
+      "md_span": {
+        "start": 29974,
+        "end": 32639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_17/20170520",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Restauration et amélioration de l’état de conservation favorable des micro-stations particulières en milieu forestier, ainsi que de leurs biocénoses associées",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous e) est destinée à restaurer et à améliorer l’état de conservation favorable des micro-stations particulières suivantes, situées en forêt, avec leurs biocénoses associées:\n\n1. les zones de sources pétrifiantes avec formation de tuf;\n2. les zones de sources et zones de suintements des eaux;\n3. les mardelles;\n4. les gisements de tourbe;\n5. les blocs de pierre isolés ou éperons rocheux;\n6. les falaises et éboulis des pentes;\n7. les grottes et cavernes;\n8. les diaclases;\n9. les carrières abandonnées.\n\n**(2)** L’aide ne peut être allouée que sur présentation d’un plan de gestion qui définit les conditions spécifiques de gestion et les mesures à exécuter, garantissant l’objectif de protection recherché. Le plan de gestion doit être autorisé par le ministre.\n\nPour bénéficier de l’aide, le propriétaire s’engage à respecter les conditions et les mesures de gestion du plan de gestion.\n\n**(3)** L’aide visée au présent article consiste en la prise en charge d’une partie des coûts selon les taux suivants:\n\n1. loi modifiée du 19 janvier 2004\n2. loi modifiée du 19 janvier 2004",
+      "text_sha256": "3837c3d484f60b9ecb73881c897d3916732a6980975f0f8cbed32677a8b0cd8b",
+      "md_span": {
+        "start": 32835,
+        "end": 33973
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_18/20170520",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Restauration et amélioration de l’état de conservation favorable d’associations phytosociologiques forestières rares et remarquables",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous f) est destinée à restaurer et à améliorer l’état de conservation favorable des associations phytosociologiques forestières rares et remarquables présentant un cortège caractéristique de plantes permettant de les caractériser comme des forêts de ravin (Tilio-Acerion), des forêts riveraines ou alluviales (Salicion, Alno-Padion), des aulnaies marécageuses (Alnion glutinosae) ou des boulaies tourbeuses (Betulion pubescentis). Ce régime peut s’appliquer aussi aux hêtraies naturelles (Fagion) résiduelles des régions où dominent des forêts fortement artificialisées, ainsi qu’à des forêts naturelles de hêtre commun ou de chêne présentant des faciès rares ou remarquables sur des surfaces réduites.\n\n**(2)** Lors de l’amélioration de l’état de conservation des associations phytosociologiques susmentionnées, les forêts éligibles doivent présenter une surface minimale d’un seul tenant d’au moins 40 ares, dont plus de 75 % sont constitués d’une des associations mentionnées ci-dessus.\n\nLors de la restauration de l’état de conservation des associations phytosociologiques susmentionnées, les forêts éligibles doivent faire partie des sites potentiels définis dans le plan d’action « forêt alluviale » ou le plan d’action « forêt de ravin », ou bien remplir les conditions stationnelles garantissant une transformation vers une des associations phytosociologiques susmentionnées.\n\n**(3)** L’aide ne peut être allouée que sur présentation d’un plan de gestion. Dans le cas des forêts de ravin, des forêts riveraines et alluviales, des aulnaies marécageuses et des boulaies tourbeuses, le plan de gestion doit être autorisé par le ministre. Dans le cas des boulaies tourbeuses toute intervention est soumise à autorisation du ministre.\n\n**(4)** Le bénéficiaire s’engage:\n\n1. en cas de besoin de plantation, à planter que des sauvageons des essences caractéristiques de l’association à conserver, prélevés dans des peuplements naturels situés à proximité de la forêt à protéger;\n2. lors de travaux périodiques de transformation progressive, à favoriser les essences caractéristiques de l’association à conserver et à éliminer les essences non caractéristiques;\n3. à renoncer à l’introduction d’essences autres que les essences caractéristiques de l’association à conserver;\n4. à renoncer à toute coupe rase;\n5. à renoncer à l’enlèvement, au déplacement et à l’incinération des bois renversés ou cassés, ainsi que des rémanents de coupes d’exploitation.\n\n**(5)** L’aide visée au présent article consiste en la prise en charge d’une partie des coûts selon les taux suivants:\n\n1. loi modifiée du 19 janvier 2004\n2. loi modifiée du 19 janvier 2004",
+      "text_sha256": "6d8f40fe8e8afd5f279d0a21a1ee7c7d8bace2451e95905c5aaa4aac4a5b81db",
+      "md_span": {
+        "start": 34143,
+        "end": 36844
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_19/20170520",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Amélioration de l’état de conservation favorable des taillis de chêne par le recépage",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous g) est destinée à préserver le régime sylvicole du taillis de chêne en pratiquant des petites coupes rases afin de protéger et de sauvegarder les biocénoses associées à ce type de régime.\n\n**(2)** Les taillis de chêne éligibles doivent être situés dans la région de l’Oesling et le diamètre à hauteur de poitrine moyen des tiges à couper doit être inférieur à 30 cm pour garantir un rejet satisfaisant des souches.\n\nLa surface maximale de la coupe rase du taillis ne doit pas dépasser 50 ares. La prochaine opération de coupe rase ne peut être réalisée qu’après une période de 2 années au moins. La coupe rase de toute surface contiguë supérieure à 50 ares ne peut être réalisée que sur présentation d’un plan de coupe multi-annuel approuvé par l’administration.\n\n**(3)** Le bénéficiaire s’engage:\n\n1. de couper les bois par abattage manuel;\n2. d’installer des layons de débardage fixes;\n3. de débusquer les bois par débardage au cheval ou par câblage jusqu’aux layons ou chemins forestiers;\n4. de ne pas circuler avec les tracteurs de débardage ou autres engins lourds en dehors des layons de débardage;\n5. de préserver le parterre de coupe pour ne pas empêcher le rejet;\n6. de laisser les rémanents de coupe sur le parterre de la coupe.\n\nSi le rejet n’est pas assuré, le demandeur d’aide doit réaliser un reboisement à l’aide d’essences principales autorisées feuillues, pour lequel il peut introduire une demande d’aide selon les dispositions de l’article 6.\n\n**(4)** Le montant de l’aide s’élève à 20 euros par are pour les opérations de coupe et de vidange des bois.\n\nUne majoration de 10 euros par are est attribuée, si la mesure est réalisée dans une zone de protection spéciale ayant comme finalité le maintien du régime du taillis de chêne pour la conservation des espèces y associées.\n\nL’aide est versée en deux tranches. La première moitié de l’aide est versée après l’achèvement des travaux de coupe au vu d’un procès-verbal de réception provisoire. La seconde moitié est versée dans un délai de 3 ans après le paiement de la première tranche au vu d’un procès-verbal de réception définitive, à condition que le rejet des souches soit assuré à 80 %.",
+      "text_sha256": "ed14e11c39919ee467f44e177804a074b25054f4555b5770a5d32f10352318be",
+      "md_span": {
+        "start": 36967,
+        "end": 39189
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_20/20170520",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Protection spécifique d’espèces animales et végétales rares et menacées en milieu forestier",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous h) est destinée à protéger et sauvegarder les espèces animales et végétales menacées, fortement menacées ou menacées d’extinction en milieu forestier.\n\n**(2)** Pour bénéficier de l’aide, le propriétaire s’engage à respecter les mesures de protection ou de sauvegarde définies dans la convention de gestion mentionnée à l’alinéa suivant. En ce qui concerne la création d’habitats nouveaux, la demande en aide doit être accompagnée d’une note technique démontrant qu’il s’agit d’une mesure s’inscrivant dans une démarche écologique cohérente, poursuivant un objectif de réhabilitation et de gestion durables de la diversité biologique.\n\nLe propriétaire s’engage pour une période de 5 ans au moins. Il est tenu de signer une convention de gestion avec le ministre, dans laquelle sont définies les mesures de protection et de restauration, les conditions spécifiques d’exploitation ou de gestion, garantissant l’objectif de protection recherché, ainsi que le montant de l’aide correspondante et l’échéancier des versements.\n\n**(3)** L’aide visée au présent article consiste en la prise en charge d’une partie des coûts de gestion selon les taux suivants:\n\n1. 50 % du coût total des mesures de protection, restauration, gestion ou de création d’habitats abritant des espèces menacées;\n2. loi modifiée du 19 janvier 2004\n\n**(4)** L’aide est versée après l’achèvement des travaux au vu d’un procès-verbal de réception.",
+      "text_sha256": "40db2234700cd0151e3dae29a8fa28fa634ab6e02dedb635181b22b3691334a7",
+      "md_span": {
+        "start": 39318,
+        "end": 40790
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_21/20170520",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Restauration et entretien de lisières forestières structurées",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous i) porte sur la restauration ou l’entretien de lisières forestières structurées en vue de créer des zones de transition entre le milieu ouvert et la forêt.\n\n**(2)** La lisière forestière à restaurer ou à entretenir doit s’étendre sur une profondeur de maximum 15 mètres. La profondeur de la lisière ne doit pas dépasser un tiers de la profondeur du massif forestier. La lisière doit se trouver dans la zone de contact entre le milieu ouvert et la forêt et doit comporter une strate arborescente, une strate arbustive et une strate herbacée. La distance entre les arbres de la strate arborescente ne doit pas être supérieure à 6 mètres.\n\n**(3)** La mise sur souche sélective d’arbres individuels ou par groupes dans le cadre de la restauration ou de l’entretien d’une lisière forestière doit se faire au fur et à mesure. Les zones de mise sur souche ne doivent pas dépasser une longueur de 35 mètres et une profondeur de 15 mètres. L’intervalle de temps entre des interventions sur des zones contiguës doit être au minimum de dix années.\n\n**(4)** Lors de la mise en place de nouveaux plants dans la lisière, le choix des essences arborescentes et arbustives doit s’orienter aux essences autochtones présentes dans les lisières de la région en question.\n\n**(5)** L’aide ne peut être allouée que sur présentation d’un plan des zones d’intervention à approuver par l’administration.\n\n**(6)** Les montants de l’aide sont fixés à:\n\n1. 1 euro par plant pour la mise en place de nouveaux plants dans la lisière forestière;\n2. 40 euros l’are de zone d’intervention pour la mise sur souche sélective dans le cadre de la restauration ou de l’entretien d’une lisière forestière.",
+      "text_sha256": "99e7baebaea21c3e75734f7ed49c43d4657a3ac73c584258f06b46e79ef0fccd",
+      "md_span": {
+        "start": 40889,
+        "end": 42616
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_22/20170520",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Restauration des zones rivulaires des cours d’eau en forêt",
+      "path": [
+        "**Chapitre III** — **Aides en vue du maintien et de l’amélioration des services écosystémiques rendus par les forêts**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 13, paragraphe 1er, sous j) est destinée à aménager et à restaurer les zones rivulaires des cours d’eau à débit permanent en forêt. Les travaux peuvent concerner la restauration des zones rivulaires constituées au départ de peuplements d’essences résineuses non autochtones ou non adaptées à la station avec des associations forestières naturelles autochtones adaptées à la station ou l’aménagement de prairies humides gérées de façon extensive.\n\n**(2)** Pour les travaux de restauration des zones rivulaires avec des associations forestières naturelles autochtones adaptées à la station, le bénéficiaire de l’aide est tenu de constituer un cordon rivulaire feuillu naturel d’au moins 5 mètres de largeur le long du cours d’eau en enlevant toute végétation résineuse, en assurant le reboisement par plantation ou par régénération naturelle et en abandonnant ensuite ce cordon à la libre évolution. Dans la zone contiguë au cordon rivulaire et se trouvant à une distance de moins de 30 mètres du bord du cours d’eau, le bénéficiaire est tenu d’enlever au fur et à mesure toute végétation résineuse et d’installer des forêts feuillues composées d’essences autochtones adaptées à la station, telles que l’aulne glutineux, l’érable sycomore et le chêne pédonculé. Les travaux d’exploitation sont à réaliser de façon à éviter toute circulation sur le cordon rivulaire et en préservant au maximum les sols sur le restant de la zone à restaurer.\n\n**(3)** Pour les travaux d’aménagement de prairies humides gérées de façon extensive, le bénéficiaire est tenu de procéder à une coupe rase des peuplements résineux se trouvant sur les parcelles destinées à un changement d’affectation. Les travaux d’exploitation des bois doivent se faire en adoptant un code des bonnes pratiques en ce qui concerne la protection des sols de la zone déboisée, des berges, des cours d’eau et des biotopes rares.\n\nLe bénéficiaire de l’aide est tenu d’être en possession d’une autorisation de changement d’affectation du ministre.\n\nLes fonds réaffectés sont à exploiter comme prairie humide extensive selon les modalités prévues au règlement grand-ducal du 10 septembre 2012 instituant un ensemble de régimes d’aides pour la sauvegarde de la diversité biologique.\n\n**(4)** L’aide est constituée des composantes suivantes:\n\n1. classe de productivité Iclasse de productivité IIclasse de productivité IIIclasse de productivité IV(30 m3 / 50 ans)(27 m3 / 50 ans)(24 m3 / 50 ans)(21 m3 / 50 ans)QualitéQualitéQualitéQualitéâge1234123412341234104.9244.7124.5094.275155.9335.5435.1774.767207.9257.2886.7046.067259.5508.5737.6976.7643016.20714.25812.3109.38713.54411.98810.4328.09910.9739.7898.6056.8299.2208.3287.4366.0983518.70315.15011.5986.26815.28412.4169.5485.24711.8939.6877.4814.1729.1927.5335.8753.3874014.32711.5858.8434.73111.7679.5367.3063.9608.9757.3025.6283.1197.2795.9404.6022.593458.2476.7045.1602.8447.0435.7264.4092.4345.6484.5983.5491.9754.9764.0523.1291.743503.4302.8122.1941.2682.9862.4431.9001.0862.3281.9091.4908622.2931.8681.444807Qualité 1 (<20 % bois d'industrie)Qualité 2 (20-40 % bois d'industrie)Qualité 3 (40-60 % bois d'industrie)Qualité 4 (60-100 % bois d'industrie)\n2. l’allocation d’un montant de 35 euros l’are pour les travaux de reboisement réalisés dans les zones rivulaires avec des associations forestières naturelles autochtones adaptées à la station.",
+      "text_sha256": "72a1c94ac8f758d5723534ec8697fac791ab1201b31e171bf76afb4689de9e8d",
+      "md_span": {
+        "start": 42712,
+        "end": 46102
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/09/10/n1/jo",
+          "text": "règlement grand-ducal du 10 septembre 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_23/20170520",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "Amélioration et développement de la structure, de la planification et des infrastructures forestières",
+      "path": [
+        "**Chapitre IV** — **Aides en vue de l’amélioration et du développement de la structure, de la planification et des infrastructures forestières**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Il est institué un régime d’aides qui porte sur les mesures d’amélioration et de développement de la structure, de la planification et des infrastructures forestières suivantes:\n\n1. le plan simple de gestion;\n2. le remboursement des frais d’acte;\n3. la desserte en forêt.\n\n**(2)** Le régime d’aides est applicable aux propriétaires de fonds forestiers, y compris les collectivités publiques autres que l’Etat. Les collectivités publiques sont exclues du bénéfice des aides visées au paragraphe 1er sous a) et b).",
+      "text_sha256": "0e08ff17d40ee1cf3d4a17a8a813cfea0faf6ed3ecb1ca447fc1d87fa3052d15",
+      "md_span": {
+        "start": 46390,
+        "end": 46910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_24/20170520",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "Plan simple de gestion",
+      "path": [
+        "**Chapitre IV** — **Aides en vue de l’amélioration et du développement de la structure, de la planification et des infrastructures forestières**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 23, paragraphe 1er, sous a) porte sur la prise en charge d’une partie des frais de l’élaboration d’un plan simple de gestion.\n\n**(2)** L’aide est limitée aux propriétés boisées, groupées ou non en syndicat, d’une étendue forestière d’au moins dix hectares.\n\n**(3)** Le plan simple de gestion doit être établi par un homme de l’art agréé par le ministre selon les modalités fixées à l’annexe II et doit être validé par l’administration.\n\nUn exemplaire du plan simple de gestion est à remettre à l’administration avant le paiement de l’aide.\n\n**(4)** Les mesures fixées au plan simple de gestion doivent respecter les principes du développement durable et ne pas porter préjudice aux propriétés contiguës.\n\nLe plan simple de gestion doit tenir compte des mesures fixées dans les documents de gestion relatifs au réseau Natura 2000 arrêtés. Le plan simple de gestion ne peut être validé par l’administration qu’à condition d’être conforme aux objectifs du présent règlement grand-ducal.\n\n**(5)** Le montant de l’aide s’élève à 80 % du montant du coût total ou du devis dûment approuvé, si celui-ci est inférieur au coût total, taxe sur la valeur ajoutée comprise.",
+      "text_sha256": "94b5d94588bc1303ba95fd76516c355e31e31ed1df9f588cf8d5b3cd4b58e271",
+      "md_span": {
+        "start": 46970,
+        "end": 48166
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_25/20170520",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": "Participation aux frais d’acte",
+      "path": [
+        "**Chapitre IV** — **Aides en vue de l’amélioration et du développement de la structure, de la planification et des infrastructures forestières**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 23, paragraphe 1er, sous b) porte sur une participation aux frais de l’acte notarié lors de la vente ou de l’échange d’un ou de plusieurs fonds forestiers d’une superficie ne pouvant dépasser 1 ha.\n\n**(2)** La participation aux frais d’acte s’élève à 250 euros.\n\nDans le cas d’un échange de fonds forestiers, le montant est divisé à parts égales entre les parties à l’échange.",
+      "text_sha256": "afe160ccb26715e507e5530361c0770582e0de453d36a8a9136a111b2782acbf",
+      "md_span": {
+        "start": 48234,
+        "end": 48646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_26/20170520",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Desserte forestière",
+      "path": [
+        "**Chapitre IV** — **Aides en vue de l’amélioration et du développement de la structure, de la planification et des infrastructures forestières**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 23, paragraphe 1er, sous c) porte sur la construction et la consolidation de routes forestières, de pistes de débardage et l’aménagement de places de stockage.\n\n**(2)** Les propriétaires possédant plus de 20 ha de forêts doivent présenter avec leur demande un document actuel de planification forestière.\n\n**(3)** La longueur des routes forestières doit être supérieure à 250 mètres. Elle peut être réduite jusqu’à 100 mètres, à condition que la tranche de route à exécuter fasse partie d’un système de voirie forestière d’au moins 250 mètres, projetée dans le cadre d’un plan d’aménagement, d’un plan simple de gestion ou d’un plan particulier auquel ont souscrit les propriétaires fonciers concernés. La pente des routes forestières ne doit pas être supérieure à 10 %.\n\nL’ouverture de pistes de débardage n’est soutenue que dans le cadre de la présentation d’un plan de desserte forestière faisant partie intégrante d’un plan de gestion. Le tracé de la piste doit être approuvé par le ministre. La longueur des pistes de débardage doit être supérieure à 100 mètres. Les cloisonnements ne sont pas subventionnés.\n\n**(4)** Le bénéficiaire est tenu de réaliser les travaux d’entretien des infrastructures subventionnées. Les travaux d’entretien courants ne donnent pas lieu à l’allocation d’aides.\n\n**(5)** Le montant de l’aide s’élève à 80 % du montant du coût total ou du devis dûment approuvé, si celui-ci est inférieur au coût total, taxe sur la valeur ajoutée comprise.",
+      "text_sha256": "c1ed66db03985b78ce009a88cf9153e31c85fc18ebc7ea5cb3f9bac0d3febcf4",
+      "md_span": {
+        "start": 48703,
+        "end": 50212
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_27/20170520",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": "Amélioration de la qualification professionnelle et transfert de connaissances",
+      "path": [
+        "**Chapitre V** — **Aides en vue de l’amélioration de la qualification professionnelle et du transfert de connaissances**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Il est institué un régime d’aides qui porte sur les mesures suivantes de transfert de connaissances en matière de gestion forestière durable:\n\n1. les cours ou stages de formation continue et de perfectionnement professionnel;\n2. les activités de vulgarisation, d’information et de promotion.\n\n**(2)** Le régime d’aides est applicable aux groupements de propriétaires forestiers, aux syndicats de communes ayant comme objet la gestion de parcs naturels et aux syndicats de communes ou établissements d’utilité publique ayant comme objet la protection de l’environnement naturel.",
+      "text_sha256": "58ef49e0e17a29f31ddac4b46c286981b533c64c73c98eb4c334c415e212e8a5",
+      "md_span": {
+        "start": 50453,
+        "end": 51038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_28/20170520",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": "Cours ou stages de formation et de perfectionnement professionnel",
+      "path": [
+        "**Chapitre V** — **Aides en vue de l’amélioration de la qualification professionnelle et du transfert de connaissances**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 27, paragraphe 1er, sous a) porte sur l’organisation de cours ou de stages destinées à améliorer les aptitudes professionnelles des personnes occupées dans le domaine forestier.\n\n**(2)** L’aide est accordée pour l’organisation de cours ou stages de formation et de perfectionnement professionnels d’exploitants, d’ouvriers forestiers, de salariés et de personnes engagées dans des activités sylvicoles. Ces cours et stages ne couvrent pas les cycles normaux d’études forestières réalisés dans le cadre de l’enseignement secondaire ou supérieur.\n\n**(3)** Les aides portent sur les dépenses suivantes:\n\n1. les frais du formateur y compris les frais de déplacement;\n2. les frais de location d’une salle de formation;\n3. les frais d’organisation;\n4. les frais de reproduction des documents des cours;\n5. les frais de location de matériel didactique;\n6. le cas échéant, les frais de déplacement des participants en bus.\n\n**(4)** Pour pouvoir bénéficier d’une aide, les cours ou stages visés au présent article doivent, sur présentation d’un plan de financement détaillé et du contenu du cours ou du stage, être approuvés, suite à l’avis de l’administration, par le ministre.\n\n**(5)** Les aides sont versées après approbation par le ministre du décompte auquel sont à joindre toutes pièces comptables utiles, ainsi que pour chaque cours ou stage les informations permettant une évaluation et un suivi de la formation.\n\n**(6)** Le taux des aides applicable à un cours ou stage de formation approuvé est fixé à 50 % du coût total des dépenses approuvées par le ministre, taxe sur la valeur ajoutée comprise.",
+      "text_sha256": "994b4f904433fca17f33f3235648596581829aaa52661ed6cc6fe79a583bbbed",
+      "md_span": {
+        "start": 51141,
+        "end": 52776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_29/20170520",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": "Activités de vulgarisation, d’information ou de promotion",
+      "path": [
+        "**Chapitre V** — **Aides en vue de l’amélioration de la qualification professionnelle et du transfert de connaissances**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** La mesure visée à l’article 27, paragraphe 1er, sous b) porte sur l’organisation d’activités de vulgarisation, d’information et de promotion en faveur de la gestion forestière durable. Les organismes qui désirent réaliser un projet doivent introduire au préalable un dossier de candidature.\n\n**(2)** En vue de leur approbation, les projets doivent satisfaire aux exigences suivantes:\n\n1. être de nature à promouvoir des pratiques de gestion forestière durable compatibles avec les exigences de la protection de l’environnement et des ressources naturelles;\n2. comporter des indications précises concernant leur objet, leur durée prévisible, leur coût financier, les propriétaires ou exploitants forestiers pouvant, le cas échéant, en bénéficier, ainsi que le mode de financement de la partie de dépenses non couverte par une subvention de l’Etat;\n3. porter sur une durée minimale de deux ans et maximale de cinq ans;\n4. désigner les personnes physiques ou morales chargées d’assurer leur exécution pratique. Ces personnes doivent posséder la qualification professionnelle et l’expérience requises en fonction de la nature du projet à exécuter.\n\n**(3)** La coordination de ces projets est assurée par l’administration. Les organismes dont les projets ont été retenus doivent fournir à l’administration dans les délais à fixer par celle-ci tous les documents permettant de superviser l’exécution des projets et les dépenses engagées, ainsi qu’un rapport relatif aux résultats obtenus.\n\n**(4)** Après avoir fait contrôler par l’administration la réalité et le bien-fondé des dépenses effectuées, les aides sont versées à la fin des projets au vu d’un procès-verbal de réception.\n\n**(5)** Le taux des aides applicable à un projet de vulgarisation, d’information ou de promotion approuvé est fixé à 50 % du coût total des dépenses approuvées par le ministre, taxe sur la valeur ajoutée comprise.",
+      "text_sha256": "d1eb42f68f6b4ac734369fccf3691f35a39c5395c65f3ee31278cb12e9ee7c23",
+      "md_span": {
+        "start": 52871,
+        "end": 54769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_30/20170520",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": "Instruction des demandes d’aide",
+      "path": [
+        "**Chapitre VI** — **Procédure et exécution**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** L’administration est chargée du contrôle technique et administratif des régimes d’aides du présent règlement.\n\n**(2)** Dans le cadre de l’instruction des demandes, l’administration est en droit de demander la production de toute pièce nécessaire à la vérification du respect des conditions d’allocation des aides prévues par le présent règlement.",
+      "text_sha256": "955482c67558ff67739eff40d4fc21fe4ce16528c6cd45b57294d6b8c2aa35f9",
+      "md_span": {
+        "start": 54887,
+        "end": 55241
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_31/20170520",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": "Demande d’aide",
+      "path": [
+        "**Chapitre VI** — **Procédure et exécution**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** En vue d’obtenir une ou plusieurs aides prévues par le présent règlement, l'intéressé présente avant le début des travaux une demande écrite au ministre. Celui-ci transmet les demandes pour instruction au directeur de l’administration qui, dès réception du dossier, adresse un accusé de réception au demandeur.\n\n**(2)** La demande d’aide doit être introduite sur le formulaire de demande dressé par l’administration à cette fin. Elle doit être accompagnée d’un extrait du plan cadastral et d’un extrait de la carte topographique avec indication exacte de la surface concernée par les travaux de gestion ou du trajet s’il s’agit d’un projet de construction d’une route forestière.\n\nDans le cas de la construction d’une route forestière ou de travaux de gestion à réaliser sur des micro-stations ou dans des boulaies tourbeuses, l’autorisation requise en vertu de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles est à joindre à la demande.",
+      "text_sha256": "540f7462e785d62c1f2bdcffdc795c27d61e89b7686d83a6d84b3802a110a8c5",
+      "md_span": {
+        "start": 55293,
+        "end": 56292
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/01/19/n1/jo",
+          "text": "loi modifiée du 19 janvier 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_32/20170520",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "Devis pour mesures de gestion",
+      "path": [
+        "**Chapitre VI** — **Procédure et exécution**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "Les mesures prévues aux articles 17, 18, 20, 24 et 26 (micro-stations, associations phytosociologiques forestières rares, espèces animales et végétales rares, plan simple de gestion, desserte en forêt) ne sont subventionnées que sur présentation d'un devis estimatif approuvé préalablement par le ministre. Le paiement de l’aide se fait à l’achèvement des travaux sur présentation d’une facture, d’une preuve de paiement de celle-ci ou d’autres pièces d’appui endéans un délai de deux ans suite à l’accord initial.",
+      "text_sha256": "1933feac5926444b08d2d8b86de79b91830a8c7566456376e4ad68bc18338560",
+      "md_span": {
+        "start": 56359,
+        "end": 56873
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_33/20170520",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": "Convention de gestion",
+      "path": [
+        "**Chapitre VI** — **Procédure et exécution**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "Pour les mesures prévues aux articles 14, 15, 16 et 20 (forêt en libre évolution, arbres-habitats, îlots de vieillissement, espèces animales et végétales rares) une convention de gestion est à conclure entre le propriétaire et le ministre. La convention définit les conditions spécifiques d'exploitation ou de gestion, garantissant l'objectif de protection recherché, ainsi que le montant de l'aide correspondante.",
+      "text_sha256": "b1c754c0899c7657352833e9a9fdf4d6bc9e883060ca9de5ac96c5201e298ebd",
+      "md_span": {
+        "start": 56932,
+        "end": 57346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_34/20170520",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": "Instructions à suivre",
+      "path": [
+        "**Chapitre VI** — **Procédure et exécution**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "Le demandeur d’aide est tenu de suivre les instructions conformes au présent règlement qui lui ont été communiquées par écrit par le directeur de l’administration ou son délégué.",
+      "text_sha256": "c50c40f542904afce9c04ff38f805c087110b936232929225cc245c53bc9111a",
+      "md_span": {
+        "start": 57405,
+        "end": 57583
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_35/20170520",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": "Versement des aides",
+      "path": [
+        "**Chapitre VI** — **Procédure et exécution**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Les aides sont versées après l’exécution et la vérification des travaux selon les modalités de paiement retenus dans le présent règlement au vu d’un procès-verbal dressé par le directeur de l’administration ou son délégué et transmis au ministre pour liquidation.\n\n**(2)** Pour les aides énumérées aux articles 24 (plan simple de gestion) et 26 (desserte forestière), le bénéficiaire de l’aide peut demander la cession du montant de l’aide au profit de l’entreprise qui a réalisé les travaux pour toute aide dépassant le montant de 15.000 euros.",
+      "text_sha256": "ecec0deb76d26e5717af9012fee9ac404d68e4356e5c62f5ee80aa70b71db245",
+      "md_span": {
+        "start": 57640,
+        "end": 58193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_36/20170520",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": "Restitution des aides",
+      "path": [
+        "**Chapitre VI** — **Procédure et exécution**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "**(1)** Les aides accordées en application du présent règlement doivent être restituées à la Trésorerie de l’Etat lorsqu’elles ont été obtenues au moyen de déclarations que le bénéficiaire savait inexactes ou incomplètes.\n\nElles doivent également être restituées lorsque les conditions d’attribution des aides n’ont pas été observées par le bénéficiaire dans les cas où de telles conditions sont prescrites par le présent règlement. Dans ces cas, le bénéficiaire doit, outre la restitution des aides, payer des intérêts au taux légal, à calculer à partir du jour du paiement jusqu’au jour de restitution.\n\n**(2)** En cas de constatation d’une fausse déclaration faite par négligence grave ou de non-respect des principes de bonne pratique sylvicole, le demandeur est exclu pour l’année civile considérée de tous les régimes d’aides du présent règlement. En cas de fausse déclaration faite délibérément, il en est exclu également pour l’année qui suit.",
+      "text_sha256": "b10b1b435a6badc17c165d520bd869d4ddcbcddd3490e8da66d929680c76a963",
+      "md_span": {
+        "start": 58252,
+        "end": 59203
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_37/20170520",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": "Dispositions transitoires et abrogatoires",
+      "path": [
+        "**Chapitre VII** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "Le règlement grand-ducal du 13 mars 2009 concernant les aides aux mesures forestières en agriculture et en forêt est abrogé. Il reste cependant applicable aux travaux entamés avant l´entrée en vigueur du présent règlement.\n\nLes articles 15 à 32 concernant la sauvegarde des espèces animales et végétales menacées en milieu forestier du chapitre III du règlement grand-ducal du 10 septembre 2012 instituant un ensemble de régimes d’aides pour la sauvegarde de la diversité biologique en milieu rural, viticole et forestier sont abrogés. Ils restent cependant applicables aux travaux entamés avant l'entrée en vigueur du présent règlement.\n\nLes dispositions sur les lisières forestières et la coupe rase des taillis de l’article 2 du règlement grand-ducal du 18 mars 2008 abrogeant et remplaçant le règlement grand-ducal du 22 octobre 1990 concernant les aides pour l’amélioration de l’environnement naturel sont abrogées. Elles restent cependant applicables aux travaux entamés avant l'entrée en vigueur du présent règlement.",
+      "text_sha256": "a5ae626041cf20e24122e46af1553eb6f51d921898bfb23dffd31ae1c0b85b0c",
+      "md_span": {
+        "start": 59330,
+        "end": 60354
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2009/03/13/n1/jo",
+          "text": "règlement grand-ducal du 13 mars 2009"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2012/09/10/n1/jo",
+          "text": "règlement grand-ducal du 10 septembre 2012"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2008/03/18/n12/jo",
+          "text": "règlement grand-ducal du 18 mars 2008"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1990/10/22/n1/jo",
+          "text": "règlement grand-ducal du 22 octobre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/12/a492/art_38/20170520",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": "Exécution",
+      "path": [
+        "**Chapitre VII** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2017-05-20",
+      "text_md": "Notre Ministre de l’Environnement et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "9e89424db21344b513f97c63d4283ccecca2edceec861343f5e80ef394670bf9",
+      "md_span": {
+        "start": 60401,
+        "end": 60611
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IModalités relatives à l’établissement d’un document actuel de planification forestière",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’établissement d’un document actuel de planification forestière comprend les étapes suivantes:\n\n1. les informations générales sur la propriété;\n2. la description des peuplements;\n3. - objectifs de gestion;\n- calendrier des travaux et carte de gestion.\n\n*Ad 1) Informations générales sur la propriété*\n\nUne liste est à établir avec les noms et adresses du ou des propriétaire(s) (au cas où il s’agit d’une copropriété ou d’un groupement).\n\nUne liste est à établir avec toutes les parcelles cadastrales. Cette liste comprend pour chaque parcelle cadastrale:\n\n- le numéro cadastral;\n- la contenance;\n- la commune;\n- la section de commune;\n- le(s) nom(s) du/des propriétaire(s).\n\nDes renseignements généraux sont à fournir concernant:\n\n- la certification de gestion forestière durable;\n- les obligations environnementales.\n\nUne carte est à établir avec la situation géographique de la propriété.\n\n*Ad 2) Description des peuplements*\n\nLa propriété est à délimiter en peuplements, à numéroter et à reporter sur fonds topographique à l’échelle 1:5.000 ou 1:10.000.\n\nTous les peuplements forestiers font l’objet d’un inventaire détaillé sur le terrain. Les données de l’inventaire sont dressées sur des fiches recueillant les informations suivantes:\n\n| les caractéristiques du peuplement: | mode de traitement, essence(s), composition du mélange, âge, surface, surface terrière; |\n| --- | --- |\n| l’appréciation du peuplement: | qualité, état sanitaire, chablis. |\n\n*Ad 3) Planification de la gestion*\n\nLe document actuel de planification forestière, dont la durée de validité doit se situer entre 10 et 20 ans, est établi sur base des résultats de l’inventaire de terrain, et comprend:\n\n1. Les objectifs de gestion assignés à la forêt\n\nLa détermination des objectifs de gestion pour chaque peuplement doit comprendre:\n\n- le choix du traitement;\n- le choix des essences;\n- le choix du diamètre d’exploitabilité.\n\n1. Le calendrier des travaux\n\nUn calendrier des travaux est à dresser sous forme d’un tableau indicatif pour la période de planification. Il doit comprendre pour chaque peuplement les informations suivantes:\n\n- l’intervalle de temps fixé pour l’intervention (années);\n- le type d’intervention proposé;\n- l’indication de la priorité;\n- l’envergure de l’intervention de coupe ou d’éclaircie (volume ou surface terrière);\n- la surface de l’intervention.",
+      "text_sha256": "b428aa8c8f5636b7abfb566d4bd3d1277cda9a2d5357768598a66eb7c02f58e5",
+      "md_span": {
+        "start": 60740,
+        "end": 63096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IIModalités relatives à l’établissement d’un plan simple de gestion pour propriétés, groupées ou non en syndicat, d’une étendue forestière de 10 hectares au minimum",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’établissement d’un plan simple de gestion comprend les étapes suivantes:\n\n1. les informations générales sur la propriété;\n2. la description des peuplements;\n3. - objectifs de gestion;\n- calendrier des travaux et carte de gestion.\n\n*Ad 1) Informations générales sur la propriété*\n\nUne liste est à établir avec les noms et adresses du ou des propriétaire(s) (au cas où il s’agit d’une copropriété ou d’un groupement).\n\nUne liste est à établir avec toutes les parcelles cadastrales. Cette liste comprend pour chaque parcelle cadastrale:\n\n- le numéro cadastral;\n- la contenance;\n- la commune;\n- la section de commune;\n- le(s) nom(s) du/des propriétaire(s).\n\nDes renseignements sont à fournir concernant:\n\n- la certification forestière de gestion durable;\n- les obligations environnementales.\n\nUne carte est à établir avec la situation géographique de la propriété.\n\n*Ad 2) Description des peuplements*\n\nLa propriété est à délimiter en parcelles forestières et en peuplements, à numéroter et à reporter sur fonds topographique à l’échelle 1:5.000 ou 1:10.000.\n\nTous les peuplements forestiers font l’objet d’un inventaire détaillé sur le terrain. Les données de l’inventaire sont dressées sur des fiches recueillant les informations suivantes:\n\n| les facteurs de station: | situation topographique, pente, exposition, géologie, type de sol; |\n| --- | --- |\n| les facteurs d’exploitation: | accessibilité, voirie; |\n| les caractéristiques du peuplement: | mode de traitement, essence(s), composition du mélange, âge, surface, surface terrière; |\n| l’appréciation du peuplement: | qualité, état sanitaire, chablis. |\n\nLes parcelles forestières sont à délimiter en types de peuplements en fonction du mode de traitement, des essences principales et des classes d’âge. Elles sont à numéroter et à reporter sur fonds topographique à l’échelle 1:5.000 ou 1:10.000. Les infrastructures de voirie forestière sont à intégrer dans cette carte.\n\n* Ad 3) Planification de la gestion*\n\nLe plan de gestion, dont la durée de validité doit se situer entre 10 et 20 ans, est établi sur base des résultats de l’inventaire de terrain, et comprend:\n\n1. Les objectifs assignés à la forêt\n\nLes objectifs de gestion retenus par le propriétaire doivent comprendre:\n\n- les objectifs généraux et la durée de planification choisie;\n- les objectifs sylvicoles, y compris les considérations cynégétiques;\n- les objectifs environnementaux.\n\nLa description des objectifs sylvicoles doit comprendre pour chaque type de peuplement au moins:\n\n- le choix du traitement;\n- le choix des essences;\n- le choix du diamètre d’exploitabilité.\n\n1. Le calendrier des travaux et la carte de gestion\n\nUn calendrier des travaux est à dresser sous forme d’un tableau indicatif pour la période de planification. Il doit comprendre les informations suivantes par parcelle forestière et par peuplement:\n\n- l’intervalle de temps fixé pour l’intervention (années);\n- le type d’intervention proposé;\n- l’indication de la priorité;\n- l’envergure de l’intervention de coupe ou d’éclaircie (volume ou surface terrière);\n- la surface de l’intervention.\n\nUne carte de gestion pluriannuelle situant et différenciant les différents types de travaux à réaliser pour l’ensemble de la propriété est à établir sur fonds topographique à l’échelle 1:5.000 ou 1:10.000.",
+      "text_sha256": "df3b477414a77a9a1e375f0b18af428e221a754a8e27b1600b2682848846ead6",
+      "md_span": {
+        "start": 63302,
+        "end": 66600
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2017-05-12-a492:2019-08-09#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IIIListe des critères écologiques des essences principales subventionnées",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les subventions sont refusées si les fonds à reboiser comportent un ou plusieurs critères non retenus dans le tableau ci-après pour les essences choisies (art. 6)\n\n| Essence(nom commun) | Essence(nom latin) | 1. Altitude | 2. Géologie | 3. Exposition | 4. Pente | 5. Texture | 6. Drainage | 7. Profil | 8. Prof. | 9. Comp. | 10. Aérat. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Aulne glutineux | Alnus glutinosa Gaertn. | < 500 m | Dév | Bu | Mu | Ma |  | Do | Al | N |  | C | P | V | 1 |  |  | PLA | EU | G |  |  |  | d |  | I | F | ab |  |  |  | p | 1 | 2 |  | 1 | 2 | 3 | 1 | 2 |\n| Chêne pédonculé | Quercus robur L. | < 400 m | Dév | Bu | (Mu) | Ma | Sa | Do | Al |  | S | C | P | V | 1 | 2 |  | PLA | EU | G |  | b | c | d |  | I |  | ab |  | B |  | p | 1 | 2 |  | 1 | 2 | 3 | 1 | 2 |\n| Chêne sessile | Quercus petraea Liebl. | < 450 m | Dév | Bu | Mu | Ma | Sa | Do |  |  | S | C | P |  | 1 | 2 | S | PLA | EU | G |  | b | c | d | D | I |  | ab | c | B |  | p | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 |\n| Érable plane | Acer platanoides L. | sans limit. | Dév | Bu | Mu |  | Sa | Do | Al | N | (S) | C | P | V | 1 | 2 | S | PLA |  | G |  | b | c | d |  |  |  | ab |  | B |  | p | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 |\n| Érable sycomore | Acer pseudoplantanus L. | sans limit. | Dév | Bu | Mu |  | Sa | Do | Al | N | (S) | C | P | V | 1 | 2 | S | PLA |  | G |  | b | c | d |  |  |  | ab |  | B |  | p | 1 | 2 | 3 | 1 | 2 | 3 | 1 | (2) |\n| Hêtre commun | Fagus sylvatica L. | sans limit. | Dév | Bu | Mu | (Ma) | Sa | Do |  | N | (S) | C | P | V | 1 | 2 | S | PLA | (E) | G |  | b | c |  |  |  |  | ab | c | B |  | p | 1 | 2 |  | 1 |  |  | 1 |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | p |  |  |  |  |  |  |  |  |\n| Douglas | Pseudotsuga menziesii F. | sans limit. | Dév | Bu | Mu |  | Sa | Do | Al | (N) | S | C | P |  | 1 | 2 | S | PLA |  | G |  | b | c | (d) |  |  |  | ab |  | B |  | p | 1 | 2 |  | 1 |  |  | 1 |  |\n| Épicéa commun | Picea abies Karst. | > 450 m | Dév |  |  |  |  |  |  | N |  | C |  |  | 1 | 2 |  |  |  | G |  | b | c |  |  |  |  | ab |  |  |  | p | 1 | 2 |  | 1 | (2) |  | 1 |  |\n| Mélèze d'Europe | Larix decidua Mill. | sans limit. | Dév | Bu | Mu |  | Sa | Do | Al | N |  | (C) | P |  | 1 | 2 | S | PLA |  | G |  | b | c | (d) |  |  |  | ab |  | B |  | p | 1 | 2 | 3 | 1 |  |  | 1 |  |\n| Pin sylvestre | Pinus sylvestris L. | < 400 m |  | Bu |  |  | Sa |  |  |  | S | C | P |  | 1 | 2 | ZS | PLA | EU | G | a | b | c | d |  |  |  | ab | c |  | f | p | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 |\n\n**LÉGENDE**\n\n| **2. Géologie**Dév : DévonienBu : BuntsandsteinMu : MuschelkalkMa : Keuper\" : Marnes et calcaires de Strassen\" : Lias moyen et supérieur\" : Tertiaire\" : QuaternaireSa : Grès à roseaux\" : Grès de Luxembourg\" : Limons du LiasDo : DoggerAl : Alluvions | **3. Exposition**N : NO-ES : E-NOP : plateauV : fond de valléeC : combe**4 : Pente / Inclinaison**1 : 0 - 30 %2 : 31 – 50 %3 : supérieur à 50 % | **5. Texture**ZS : sable (Z) et sable limoneux (S)PLA : limon sableux léger, limon sableux et limonEU : argile légère (E) et argile lourde (U)G : limon caillouteux et sols ardennais**6. Drainage / classes de drainage**a : sols à drainage excessifb : sols à drainage favorable (pas de traces < à 80 cmc : sols à drainage modéré (traces entre 60 et 80 cm)d : sols à drainage imparfait (traces entre 30 et 60 cm)D : sols alternativement humides, alternativement secs (texture E et U)I : drainage pauvre (traces < à 30 cm), sols humides à très humidesF : sols réduits en surface (gley)**7. Profil**ab : sols bruns et sols bruns lessivésc : sols lessivés et dégradésB : sols bruns et sols bruns lessivés sur assise calcairef : sols podzolisés et podzolsp : sols sans développement de profil ou à profil non défini (par exemple pélosol, alluvions, colluvions) | **8. Profondeur du sol**1. phase profonde et modérément profonde : supérieur à 80 cm2. 2 : phase peu profonde : 40 -80 cm3. phase superficielle : 20 – 40 cm4. phase extrêmement superficielle : inférieure à 20 cm**9. Compacité du sol**1. faible2. prononcée3. très prononcée**10. Aération du sol**1. normale2. déficiente |\n| --- | --- | --- | --- |",
+      "text_sha256": "d10fb55ee039cc606ba503ddec3713d41b48bf337357c0613bc2934b79c9faec",
+      "md_span": {
+        "start": 66715,
+        "end": 71185
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

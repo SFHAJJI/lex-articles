@@ -1,0 +1,356 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18",
+  "language": "fr",
+  "title": "Version consolidée applicable au 18/03/2020 : Règlement grand-ducal du 4 novembre 2014 portant exécution de la loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel, et portant fixation des indemnités revenant aux membres du conseil d'administration et du comité de sélection du Fonds national de soutien à la production audiovisuelle.",
+  "valid_from": "2020-03-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2014-11-04-n1/versions/2020-03-18/fr.xml",
+    "sha256": "b04dc28b7c8339e8861ed845aa5b38c067ab68c93e00bb238e918a61e0a3b442",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/consolide/20200318/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_1er/20141209",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Champ d'application",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Le présent règlement détermine les conditions, les critères et les modalités d'intervention du Fonds national de soutien à la production audiovisuelle, désigné ci-après par le «Fonds», en exécution des dispositions de la loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel, et destinée à promouvoir la création cinématographique et audiovisuelle au Grand-Duché de Luxembourg et à encourager le développement de la production et de la coproduction d'oeuvres dans ce domaine, ci-après désignée par la «Loi».\n\nLes oeuvres et projets susceptibles d'être pris en considération pour l'octroi d'une Aide financière sélective créée par la Loi, désignée ci-après par l'«Aide» doivent être des oeuvres de fiction ou d'animation ou expérimentales, ou des documentaires de création, de nature cinématographique ou audiovisuelle, sans destination ni utilisation publicitaire.",
+      "text_sha256": "f7f26f70bf3f90fe7c7bc6f9a6fa41afe2e48df1dbcb0a201b141f79dd8e90d5",
+      "md_span": {
+        "start": 1116,
+        "end": 2265
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/09/22/n1/jo",
+          "text": "loi du 22 septembre 2014"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1988/12/13/n2/jo",
+          "text": "loi modifiée du 13 décembre 1988"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/09/22/n1/jo",
+          "text": "Loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_2/20141209",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Critères d'attribution",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "**1.** Peuvent bénéficier d'une Aide à l'écriture et au développement, les projets de scénarios, traitements, concepts:\n\n- qui font l'objet d'un intérêt manifesté par une société de production luxembourgeoise qui en envisage la réalisation cinématographique ou audiovisuelle ultérieure, ou\n- qui font ou ont fait l'objet d'un concours public.\n\nOutre les frais d'écriture proprement dits, l'Aide à l'écriture et au développement peut servir à financer des frais préliminaires à la mise en production effective d'une oeuvre cinématographique ou audiovisuelle, comme les frais: d'acquisition de droits, de traduction en une ou plusieurs langues d'un scénario - traitement - concept, de consultant - co-auteur - co-scénariste, de formation continue en écriture, de recherches, de documentation, de premiers repérages, d'identification de comédiens - techniciens - artistes, de frais liés à la budgétisation, et de tentatives de montage financier. Pour un projet d'oeuvre d'animation, elle peut également servir à financer la réalisation d'un pilote.\n\n**2.** Peuvent bénéficier d'une Aide à la production ou à la coproduction, les scénarios ou concepts d'oeuvres cinématographiques ou audiovisuelles à produire ou à coproduire par une société de production luxembourgeoise.\n\nSans préjudice des dispositions du droit international et des réglementations nationales applicables dans le ou les Etats dont relèvent le ou les coproducteurs éventuels, les oeuvres cinématographiques ou audiovisuelles doivent, pour pouvoir bénéficier de l'Aide créée par la Loi, remplir notamment les conditions cumulatives suivantes:\n\n- la part de financement de la société bénéficiaire ne peut être inférieure à dix pour cent (10%) du coût total de la production de l'oeuvre concernée, et celle d'un éventuel coproducteur minoritaire étranger ne peut, en principe, être inférieure à ce même pourcentage;\n- la propriété du négatif original image et son de l'oeuvre coproduite ou du support de fixation originale de l'oeuvre coproduite, permettant d'en reproduire des exemplaires d'exploitation, doit être la propriété indivisée des coproducteurs. Les droits appartenant à la société bénéficiaire dans la répartition des droits d'exploitation de l'oeuvre doivent au moins être proportionnels à sa contribution dans le financement de l'oeuvre concernée;\n- lors de la réalisation de l'oeuvre coproduite, la participation artistique et technique de la société bénéficiaire doit être effective.\n\n**3.** Peuvent bénéficier d'une des Aides énumérées ci-avant, les oeuvres de création cinématographique ou audiovisuelle pour l'exécution desquelles le Fonds a passé une commande ou conclu un partenariat avec des personnes physiques ou morales, conformément à l'article 19 de la Loi.",
+      "text_sha256": "2397047a74e455a4840c4425963e1d3a62e86611556df4d1615248af7e424a74",
+      "md_span": {
+        "start": 2323,
+        "end": 5070
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/09/22/n1/jo",
+          "text": "Loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_3/20141209",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Présentation des demandes d'Aide",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Les demandes d'Aide sont à adresser au Fonds dans les formes et délais qu'il a fixés et qui sont portés à la connaissance des requérants de façon appropriée. Toute omission ou fausse indication volontaire dans les informations ou pièces justificatives renseignés par la société de production requérante entraîne le rejet de la demande, sans préjudice de l'application éventuelle des sanctions de droit commun.\n\nEn cas de coproduction entre plusieurs sociétés de production établies au Grand-Duché de Luxembourg, la demande est à adresser par le partenaire disposant de la part de financement la plus importante par rapport à l'ensemble des coûts de l'oeuvre objet de la demande et qui est mandaté à cet effet par l' (les) autre(s) partenaire(s) concerné(s).",
+      "text_sha256": "8f923d6a4c5e8a82892222c7a5d5129649864dd5cad9a3920319eeb6dd46a171",
+      "md_span": {
+        "start": 5138,
+        "end": 5895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_4/20141209",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Recevabilité d'une demande d'Aide",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Pour être recevable, la demande d'Aide doit être accompagnée des informations et des documents utiles à l'appréciation de l'oeuvre cinématographique ou audiovisuelle à laquelle elle se rapporte, notamment:\n\n- le scénario et/ou le traitement et/ou le concept, et/ou le synopsis;\n- le budget et le plan de financement;\n- les informations artistiques et techniques.\n\nLa société requérante doit également joindre à sa demande toutes les informations concernant sa structure, ses organes de gérance, ses dirigeants, ses actionnaires directs et indirects, les éventuels bénéficiaires économiques, son organisation comptable, et ses procédures de contrôle interne.\n\nLe Fonds dresse la liste complète et détaillée des informations et des documents qu'il souhaite recevoir dans le cadre d'une demande d'Aide.\n\nAprès avoir constaté la complétude et la recevabilité «prima facie» de la demande d'Aide au regard des dispositions de la Loi, du présent règlement et des autres mesures d'exécution qu'ils permettent, le directeur du Fonds la transmet au Comité de sélection institué par l'article 11 de la Loi et dénommé ci-après le «Comité», ceci pour décision.",
+      "text_sha256": "4ec5d3170c4ac3f7b38700c5ef2c76d4bf1f385fe3d34761c5b18180024a0e46",
+      "md_span": {
+        "start": 5964,
+        "end": 7111
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/09/22/n1/jo",
+          "text": "Loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_5/20141209",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Instruction et avis du Comité",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Le Comité instruit les demandes et évalue les projets en considérant:\n\n- - la valeur du scénario: histoire et sujet, genre, originalité du contenu, personnages et dialogues, structure narrative, style (vision cinématographique, atmosphère globale),\n- la contribution de l'équipe de création: auteur, scénariste, réalisateur, artistes, acteurs,\n- la contribution de l'équipe technique: techniciens, studio de production, studio de postproduction,\n- la contribution de l'équipe de production et administrative;\n- - la stratégie de production (coopération artistique et technique),\n- le budget et le financement: cohérence du budget et niveau de financement confirmé,\n- les capacités et compétences de la société de production requérante;\n- - l'accès aux recettes (acquisition de droits effectifs) et le potentiel commercial,\n- le potentiel de circulation, de distribution et de diffusion, la stratégie d'exploitation et de marketing défini en fonction du projet, de son contenu et de son public cible (festivals, exploitation, distribution);\n- - l'intérêt du projet pour le rayonnement de l'image de marque du pays et la promotion de son patrimoine socio-culturel, son histoire, ses sites historiques et touristiques, sa langue.",
+      "text_sha256": "a04d7792b8f7aef8017adb5eee59b6bbc5704180b88b21b1fd4ea4d14b6e750c",
+      "md_span": {
+        "start": 7176,
+        "end": 8402
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_6/20141209",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Montant de l'Aide",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Le montant de l'Aide est calculé en se basant sur l'ensemble des coûts exposés dans le cadre d'une production cinématographique ou audiovisuelle, et en tenant compte de la participation financière de la société bénéficiaire auxdits coûts, ceci conformément aux dispositions de l'article 13 de la Loi. Partant, il ne peut être supérieur à la participation financière de ladite société. Il est fixé en fonction des retombées culturelles, sociales et économiques de l'oeuvre cinématographique ou audiovisuelle. Ces retombées et leurs effets sont évalués et quantifiés notamment à l'Aide d'une grille d'évaluation à points.\n\nSur proposition de l'administration du Fonds, le Conseil d'administration arrête la grille d'évaluation à points compte tenu de la disposition de la Loi relative à la proportionnalité entre l'avantage consenti et les retombées culturelles, sociales et économiques, et arrête les montants maxima des différentes Aides, par genre, par durée et par type de production ou coproduction cinématographique ou audiovisuelle, ceci dans le respect de la politique générale du Fonds telle que fixée par le Conseil d'administration du Fonds.\n\nLe Fonds fixe les définitions et les modalités de la structure budgétaire des coûts envisagés dans le cadre d'une production cinématographique ou audiovisuelle.",
+      "text_sha256": "ca221425ea2d0550aaadf9461e7bc0cde3bdfa5d150b7155d91c06029b28c889",
+      "md_span": {
+        "start": 8455,
+        "end": 9767
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/09/22/n1/jo",
+          "text": "Loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_7/20141209",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Détermination des coûts exposés",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Par coûts exposés au sens de la Loi, on entend les charges effectivement décaissées figurant dans la comptabilité de l'oeuvre concernée et qui est tenue dans l'une des langues administratives et dans la monnaie ayant cours légal au Grand-Duché de Luxembourg. Plus précisément, il s'agit de l'ensemble des charges qui ont fait l'objet d'un décaissement effectif à partir du (des) compte(s) bancaire(s) ouvert(s) par la société bénéficiaire et éventuellement le(s) coproducteur(s) pour les besoins de la production et/ou pour la phase d'écriture et de développement de l'oeuvre concernée. Ces charges doivent figurer dans la comptabilité de l'oeuvre de la société bénéficiaire et dans le cadre d'une coproduction dans la comptabilité de l'oeuvre de(s) (la) société(s) coproductrice(s). Dans le cadre d'une coproduction, la consolidation de l'ensemble des comptabilités de l'oeuvre représente les coûts exposés au sens de la Loi.\n\nLes charges doivent être enregistrées dans la comptabilité par nature de charge et par activité pour laquelle elles sont réalisées et dont l'affectation à la production de l'oeuvre concernée et le décaissement effectif au titre de cette production sont dûment justifiés par la société bénéficiaire et dans le cas d'une coproduction par la (les) société(s) de coproduction, ceci par tous moyens reconnus par les lois comptables et fiscales en vigueur au Grand-Duché de Luxembourg et dans le (les) pays de la (des) société(s) de production étrangères.\n\nCes principes s'appliquent également aux «sociétés liées» au sens de la loi du 1er juin 1992 relative aux comptes annuels et comptes consolidés des établissements de crédit de droit luxembourgeois et notamment son article 109, dont la société bénéficiaire utilise le cas échéant les biens et/ou les services pour les besoins de l'oeuvre cinématographique et/ou audiovisuelle, objet de l'Aide.",
+      "text_sha256": "b363ba6986aac3ab83ee599802c1aaf75587430c6ca35bdb7aa2a4f246308029",
+      "md_span": {
+        "start": 9834,
+        "end": 11705
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/09/22/n1/jo",
+          "text": "Loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1992/06/17/n1",
+          "text": "loi du 1er juin 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_8/20141209",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Catégories de dépenses",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Dans le cadre de la détermination des coûts exposés:\n\n1. Les émoluments du producteur et des éventuels coproducteurs ne peuvent être supérieurs à 10% du total des coûts exposés. Ces émoluments peuvent être facturés sous la forme d'un (de) forfait(s). Par émoluments du producteur - coproducteur, on entend la rémunération ainsi que tous les avantages fixes ou variables qui reviennent à l'ensemble des personnes assumant des fonctions de producteur, à savoir le producteur délégué, ou le coproducteur, et le producteur associé. Par ailleurs, les émoluments du producteur de la société bénéficiaire ne peuvent dépasser 10% de sa participation financière aux coûts de production. La société bénéficiaire est tenue de réinvestir dans des productions futures une partie raisonnable des émoluments facturés. La société bénéficiaire tient une comptabilité qui doit permettre le suivi de ce réinvestissement qui est vérifié annuellement par le Fonds.\n2. Les frais généraux du producteur et des éventuels coproducteurs sont facturés sous la forme d'un forfait qui ne peut être supérieur à 7,5% du total des coûts exposés. Par frais généraux, on entend les frais se rapportant à la structure administrative permanente de la société de production - de coproduction. Ils représentent les frais que la société de production - de coproduction engage sans qu'ils soient directement occasionnés ou imputables à la production d'une oeuvre audiovisuelle précise. Les frais généraux de la société bénéficiaire ne peuvent dépasser 7,5% de sa participation financière aux coûts de production. Le cas échéant, la différence financière entre le forfait facturé à la production de l'oeuvre par la société bénéficiaire et les frais généraux qui figurent dans sa comptabilité générale, doit être réinvestie dans une production future. La société bénéficiaire tient une comptabilité qui doit permettre le suivi de ce réinvestissement qui est vérifié annuellement par le Fonds.",
+      "text_sha256": "784679588673dafa98a6c704f6f3f11ab5c7d98f14e64e280a64b6079373479b",
+      "md_span": {
+        "start": 11763,
+        "end": 13713
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_9/20141209",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Modalités de versement de l'Aide",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "L'Aide allouée peut être liquidée en un ou plusieurs versements ou tranches qui sont fixées par le Fonds, la dernière tranche ne pouvant être inférieure à vingt pour cent (20%) du montant total de l'Aide.\n\nCes versements sont effectués sur base et en proportion du décaissement effectif des charges de la société bénéficiaire, et figurant dans la comptabilité de l'oeuvre concernée.\n\nL'Aide ou son solde ou la dernière tranche est liquidée sur présentation du décompte final des coûts exposés au sens de l'article 13 de la Loi. (art. 8). Ce décompte final doit être certifié par un réviseur d'entreprises agrée au Grand-Duché de Luxembourg, tous frais étant à charge de la société bénéficiaire. Lorsqu'il s'agit d'une coproduction impliquant un ou plusieurs producteurs étrangers, les dépenses qui ne figurent pas dans la comptabilité de la société bénéficiaire doivent également faire l'objet d'une attestation ou certification émise par un auditeur habilité à exercer sa profession selon les dispositions légales en vigueur dans chaque pays concerné. Toute demande de dérogation doit être introduite auprès du Fonds et doit être dûment motivée.\n\nLors du décompte final, le montant de l'Aide sera recalculé de manière définitive sur base des coûts réels exposés dans le cadre de la production cinématographique ou audiovisuelle concernée et en tenant compte de l'assiette déterminée par la grille d'évaluation à points ainsi que de la part de financement de la société bénéficiaire.\n\nLe Fonds dresse la liste des documents et du matériel qui doivent accompagner le décompte final des coûts de production, et en fixe le délai de dépôt.",
+      "text_sha256": "d3dc02cb60909d0dba039b9ba3936d9adbc37f387254577d56828a8f2029da3e",
+      "md_span": {
+        "start": 13781,
+        "end": 15416
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/09/22/n1/jo",
+          "text": "Loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_10/20141209",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Conventions",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Les Aides accordées font l'objet de conventions à conclure entre le Fonds et le ou les bénéficiaires de ces Aides.\n\nLe directeur du Fonds dresse ces conventions en exécution des décisions y afférentes et des dispositions légales et réglementaires applicables, et signe ces conventions pour compte du Fonds.\n\nOutre les critères d'attribution, les modalités de remboursement et la caducité et restitution des Aides, les conventions précisent:\n\n- Le titre du projet\n- Les collaborateurs de l'oeuvre - auteur(s), réalisateur(s) - producteur(s) étranger(s)\n- Les dispositions en cas de modifications importantes du projet concerné et de force majeure\n- Les modalités de versement de l'Aide · Le montant de l'Aide à rembourser et le taux de remboursement\n- Les dispositions en matière de communication relative à l'Aide obtenue, comme les mentions aux génériques (début et fin)\n- Le matériel à fournir en fin de réalisation du projet\n- Les modalités de dénonciation de la convention\n- Les modalités en cas de litiges\n- Toute autre disposition particulière en relation avec l'Aide et le projet concerné.",
+      "text_sha256": "19c99926f193b1cdc2cd111c8d866723a856b18dc3abf2a3582e9944683db3a5",
+      "md_span": {
+        "start": 15465,
+        "end": 16561
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_11/20141209",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Modalités de remboursement des Aides",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Les Aides sont en principe intégralement remboursables. Le Fonds peut cependant moduler la somme à rembourser, en différer ou suspendre les échéances, y adjoindre des intérêts de retard, voir y renoncer en tout ou en partie, avec ou sans condition.\n\nLe remboursement est à effectuer par prélèvement «pari passu» sur les recettes nettes générées par l'exploitation de l'oeuvre, en fonction d'un pourcentage ne pouvant être ni inférieur à 0,5 fois, ni supérieur à 1,5 fois le pourcentage de la part proportionnelle que représente l'Aide du Fonds dans le financement des coûts exposés. On entend par recettes nettes celles revenant à la société bénéficiaire de l'Aide, après déduction des taxes et frais de commercialisation de l'oeuvre concernée.\n\nLes recettes nettes à prendre en considération aux fins du présent article sont renseignées par la société bénéficiaire sur des états récapitulatifs transmis régulièrement au Fonds, le cas échéant, les sommes à verser au Fonds au titre du remboursement de l'Aide sur base des états récapitulatifs des recettes nettes doivent être virées d'initiative sur le compte bancaire du Fonds.\n\nLe Fonds définit plus amplement les recettes nettes, la forme des états récapitulatifs ainsi que leurs échéances.\n\nLes remboursements sont capitalisés sur un compte courant ouvert au nom de la société bénéficiaire dans la comptabilité générale du Fonds pour être réinvestis dans des projets futurs de ladite société. Le Fonds fixe les modalités d'utilisation et de réinvestissement des sommes ainsi capitalisées.\n\nLe Fonds est habilité à se faire consentir notamment des gages sur les droits et/ou supports matériels du bénéficiaire d'une Aide, en garantie du remboursement de l'Aide accordée.",
+      "text_sha256": "2e842f8c0e8cb0a6903312866cbd3a49e0c491af659f8f3823496c9d387be50a",
+      "md_span": {
+        "start": 16635,
+        "end": 18358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_12/20200318",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Caducité et restitution des Aides",
+      "path": [],
+      "article_valid_from": "2020-03-18",
+      "text_md": "L'Aide allouée par le Fonds est caduque si la concrétisation de l'oeuvre cinématographique ou audiovisuelle objet de l'Aide n'intervient pas effectivement endéans le délai fixé par le Fonds au moment de l'octroi de l'Aide. Il en est de même au cas où une des conditions liées à l'octroi de l'Aide n'était plus remplie.\n\nLorsque l'Aide est déclarée caduque, le (les) versement(s) déjà effectué(s) à la société bénéficiaire est (sont) à restituer intégralement au Fonds à la première demande de celui-ci.\n\nLe Fonds renonce toutefois à la restitution du ou des versement(s) qui ont déjà été déboursés par la société bénéficiaire si les raisons pour lesquelles l’œuvre cinématographique ou audiovisuelle objet de l’Aide ne s’est pas effectivement concrétisée endéans le délai fixé par le Fonds, sont indépendantes de la volonté de la société de production et que ces montants déboursés par la société de production sont irrécupérables.\n\nÀ cet effet, la société de production doit soumettre au Fonds :\n\n1. la liste du ou des versement(s) effectué(s) à la société bénéficiaire pour la production de l’œuvre qui sont irrécupérables et non couvert(s) par une assurance de bonne fin ;\n2. la description des raisons indépendantes de la volonté de la société de production requérante qui sont à la base de la non-concrétisation de l’œuvre audiovisuelle ou cinématographique ainsi que leur lien de causalité direct avec celle-ci.",
+      "text_sha256": "4390003d025b218407e4de3401c906693014c761098f8899d3fee9d140c5d2ae",
+      "md_span": {
+        "start": 18429,
+        "end": 19846
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_13/20141209",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Obligation particulière",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Le générique et le matériel de promotion de l'oeuvre cinématographique ou audiovisuelle ayant bénéficié d'une Aide doivent comporter, sur tous supports de reproduction et de promotion et lors de toute communication publique, une mention indiquant l'obtention de l'Aide, suivant un énoncé et des modalités à définir par le Fonds, sans frais pour celui-ci.",
+      "text_sha256": "5c0ab855c353baabd1d1df819209016a27373c30b2afdc184f17909c347e5b45",
+      "md_span": {
+        "start": 19907,
+        "end": 20261
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_14/20141209",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Contrôle",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Dans le cadre de sa mission, le Fonds est habilité à demander aux sociétés requérantes et aux sociétés bénéficiaires d'une Aide ainsi qu'à la (aux) société(s) coproductrice(s), tous documents et renseignements complémentaires et qu'elle jugerait utiles à l'appréciation de l'exécution de l'Aide faisant objet de la demande ou de l'Aide allouée, ceci aux fins de vérification. Ces demandes peuvent porter notamment:\n\n- sur la moralité et l'honorabilité des actionnaires ou associés directs ou indirects y compris les bénéficiaires économiques, ainsi que des membres des organes de gérance de la société requérante ou de la société bénéficiaire;\n- sur la comptabilité et les contrats conclus par la société requérante ou la société bénéficiaire en relation avec l'objet de l'Aide et éventuellement par la (les) sociétés coproductrice(s);\n- sur le financement des coûts de production;\n- sur l'exécution de l'oeuvre cinématographique ou audiovisuelle concernée;\n- sur la promotion, la distribution et l'exploitation de l'oeuvre concernée;\n- sur la détention effective de droits d'exploitation cinématographique ou audiovisuelle et leur comptabilisation à l'actif de la société bénéficiaire, et sur l'accès aux recettes d'exploitation de l'oeuvre objet de l'Aide;\n- de manière générale sur toutes les données susceptibles d'alimenter les statistiques que le Fonds doit établir.\n\nLe Fonds est par ailleurs autorisé à accéder aux lieux de tournage et aux locaux de travail de ces mêmes sociétés et ceci dans le cadre de sa mission de surveillance et de contrôle.",
+      "text_sha256": "87d858ea743e58d8e17c965ebaa0aa03c26cd8537b68849561f7ec21d26492fc",
+      "md_span": {
+        "start": 20307,
+        "end": 21862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_15/20141209",
+      "type": "article",
+      "num": "Art 15.",
+      "heading": "Jetons de présence et indemnités",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Les membres du Conseil d'administration du Fonds national de soutien à la production audiovisuelle bénéficient dès leur nomination d'un jeton de présence de dix (10) points indiciaires par présence aux réunions. Le secrétaire touche un jeton de présence de cinq (5) points indiciaires par réunion.\n\nLes membres du Comité de sélection du Fonds bénéficient dès leur nomination d'une indemnité de cinquante-cinq (55) points indiciaires par mois ainsi que d'une indemnité de vingt-cinq (25) points indiciaires par jour de réunion. Le secrétaire du Comité de sélection bénéficie d'une indemnité de vingt-cinq (25) points indiciaires par réunion.\n\nConformément à l'article 11 de la Loi, les agents du Fonds en charge de l'examen des demandes en obtention d'une Aide financière sélective bénéficient d'une indemnité de vingt (20) points indiciaires par réunion du Comité de sélection.\n\nLa valeur du point indiciaire applicable aux jetons de présence et indemnités prévues ci-avant est celle fixée par la lettre B de l'article 1er de la loi modifiée du 22 juin 1963 portant fixation de la valeur numérique des traitements des fonctionnaires de l'Etat ainsi que des modalités de mise en vigueur de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat.",
+      "text_sha256": "acaaefe7a3c870c316ba008df801a2aad031da1d7f1b965e41ebac9306f2dcdf",
+      "md_span": {
+        "start": 21931,
+        "end": 23214
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/09/22/n1/jo",
+          "text": "Loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n2",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2014-11-04-n1:2020-03-18#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/art_16/20141209",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Exécution du règlement",
+      "path": [],
+      "article_valid_from": "2014-12-09",
+      "text_md": "Notre Ministre des Communications et des Médias et Notre Ministre de la Culture, chacun en ce qui le concerne, sont chargés de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "9a372ee16af64e44e1cf4896be81f5cef8afb509a616ad5ad058edf04c47ca2d",
+      "md_span": {
+        "start": 23274,
+        "end": 23462
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

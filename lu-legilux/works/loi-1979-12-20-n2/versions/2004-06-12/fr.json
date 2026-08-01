@@ -1,0 +1,93 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1979-12-20-n2:2004-06-12",
+  "language": "fr",
+  "title": "Version consolidée applicable au 12/06/2004 : Loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste.",
+  "valid_from": "2004-06-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1979-12-20-n2/versions/2004-06-12/fr.xml",
+    "sha256": "bcd4051164c5bb7079ff0a26f501d6f4b8848960ce98e1e5e29bc7bb5364de89",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/consolide/20040612/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er_20040612",
+      "provision_id": "lu-legilux:loi-1979-12-20-n2:2004-06-12#art_1er_20040612",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/art_1er/19800101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1980-01-01",
+      "text_md": "Le droit de porter le titre professionnel de journaliste est subordonné aux conditions suivantes:\n\n1. loi du 11 mars 1976\n2. avoir l´âge de la majorité;\n3. l´article 31 code pénal\n4. justifier d´une pratique professionnelle de deux ans au moins;\n5. n´exercer aucun commerce ni aucune activité ayant pour objet principal la publicité, si ce n´est en qualité de dirigeant d´un organe de presse.",
+      "text_sha256": "d3f0e55c77f03527b8c609e5ecda5d7caa9750b96718354919176d5c5d10268d",
+      "md_span": {
+        "start": 641,
+        "end": 1033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_1bis_20040612",
+      "provision_id": "lu-legilux:loi-1979-12-20-n2:2004-06-12#art_1bis_20040612",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/art_1bis/19980923",
+      "type": "article",
+      "num": "Art. 1bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1998-09-23",
+      "text_md": "Les personnes remplissant toutes les conditions énumérées à l'article 1er à l'exception de la condition prévue au point d) ont le droit de porter le titre professionnel de journaliste stagiaire.",
+      "text_sha256": "d36db4aed6814bde0d77f5c2490d2f77a198b737479cbbad64156e2c5b8aa582",
+      "md_span": {
+        "start": 1083,
+        "end": 1277
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1979-12-20-n2:2004-06-12#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/art_2/19980923",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1998-09-23",
+      "text_md": "Il est institué un Conseil de Presse chargé de statuer sur l'existence ou la perte éventuelle dans le chef des intéressés, des conditions exigées par l'article 1er ou l'article 1bis pour l'admission au titre de journaliste ou de journaliste stagiaire.\n\nAu cas où l´intéressé aurait été condamné à l´étranger à une peine entraînant les déchéances visées à l´article 1er, alinéa c de la présente loi, le Conseil de Presse appréciera si, dans les circonstances de la cause, la condamnation à l´étranger doit être prise en considération.\n\nLe Conseil de Presse comprend:\n\n1. er\n2. un nombre égal de journalistes.\n\nLes membres du Conseil de Presse, proposés par les milieux professionnels, sont nommés par le Grand-Duc.\n\nLe Conseil de Presse règle la procédure qui sera suivie devant lui, un recours contre ses décisions est ouvert devant une commission d´appel, composée d´un magistrat faisant fonction de président et de représentants des journalistes et des éditeurs. Le président de la commission d´appel est nommé par le Grand-Duc.\n\nLes modalités relatives à l´établissement des documents et insignes d´identification délivrés par le Conseil de Presse seront déterminées par règlement grand-ducal.",
+      "text_sha256": "41148e846a945447d1bf18b1d8e929b5c386700020471535f6c7b46f1082e023",
+      "md_span": {
+        "start": 1312,
+        "end": 2508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3_20040612",
+      "provision_id": "lu-legilux:loi-1979-12-20-n2:2004-06-12#art_3_20040612",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/art_3/20040612",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-06-12",
+      "text_md": "Quiconque s´attribue publiquement le titre de journaliste sans y avoir été admis par le Conseil de Presse sera puni d´une amende de 2.501 à 20.000 francs. Les décisions portant condamnation pourront être publiées dans un ou plusieurs quotidiens luxembourgeois à désigner par la juridiction prononçant condamnation.",
+      "text_sha256": "9175036d85ba0ce04ece6942af574038962ca17e5d00ca8cef844694aba83d98",
+      "md_span": {
+        "start": 2552,
+        "end": 2866
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

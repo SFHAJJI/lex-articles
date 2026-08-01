@@ -1,0 +1,217 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20",
+  "language": "fr",
+  "title": "Version consolidée applicable au 20/09/1993 : Loi du 23 juin 1972 sur les emblèmes nationaux.",
+  "valid_from": "1993-09-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1972-06-23-n1/versions/1993-09-20/fr.xml",
+    "sha256": "4c2f6465578bdb6bcdac454172b34a5a21bc77c7803f2abdd937cb7efc3fe176",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/consolide/19930920/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_1er/19720820",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1972-08-20",
+      "text_md": "Les armoiries du Grand-Duché de Luxembourg sont à trois échelons:\n\n1. petites armoiries,\n2. moyennes armoiries,\n3. grandes armoiries.",
+      "text_sha256": "89ae31d4b473baf92852bddd9d5daaa80ff5fe5051d66a8b1589bc62dde81ae6",
+      "md_span": {
+        "start": 569,
+        "end": 702
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_2/19720820",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1972-08-20",
+      "text_md": "Les armoiries désignées à l’article 1er ci-dessus se composent des éléments héraldiques suivants:\n\n1. petites armoiries: Burelé d’argent et d’azur de dix pièces au lion rampant de gueules, couronné, armé et lampassé d’or, la queue fourchue et passée en sautoir. Timbre: La couronne grand-ducale non doublée.\n2. moyennes armoiries: Les petites armoiries augmentées des supports: Deux lions d’or et couronnés du même, la tête contournée (regardants), armés et lampassés de gueules, la queue fourchue et passée en sautoir.\n3. grandes armoiries: Les moyennes armoiries augmentées du ruban et de la croix de l’Ordre national de la couronne de chêne passés autour de l’écu; le tout posé sur un manteau: de gueules doublé d’hermine, bordé, frangé, cordonné et houppé d’or, sommé de la couronne grand-ducale non doublée.",
+      "text_sha256": "1a1161c637c621e1ef421adb83011d8173717703336d856b3acac271d8db54e7",
+      "md_span": {
+        "start": 737,
+        "end": 1549
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_3/19720820",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1972-08-20",
+      "text_md": "Le drapeau national se compose d’une laize de tissus aux proportions de 5 à 3 ou de 2 à 1, comportant trois bandes égales de couleurs rouge, blanche, bleue disposées horizontalement.",
+      "text_sha256": "d863fce4f1468e9cf0e4989a09d44c58f94b05cb9fe48bcd5f5b23946165ff42",
+      "md_span": {
+        "start": 1584,
+        "end": 1766
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_4/19720820",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1972-08-20",
+      "text_md": "Le pavillon de la batellerie et de l’aviation se compose d’une laize de tissus aux proportions de 7 à 5 comportant un burelé d’argent et d’azur de dix pièces au lion rampant de gueules, orienté vers la hampe, couronné, armé et lampassé d’or, la queue fourchue et passée en sautoir. La description du revers correspond à celle de l’avers.",
+      "text_sha256": "8e932eb4ac8887beba4cd40a58e5aeacae05fbf8cc8c71bc1e5635b1bd77d811",
+      "md_span": {
+        "start": 1801,
+        "end": 2138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_5/19930920",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-09-20",
+      "text_md": "Un arrêté grand-ducal précise la composition chromatique du drapeau national et du pavillon de la batellerie et de l’aviation définis aux articles 3 et 4 de la présente loi.\n\nLes armoiries du Grand-Duché de Luxembourg, le drapeau national et le pavillon de la batellerie et de l’aviation sont reproduits en annexe à la présente loi, le texte seul faisant foi.\n\nLes originaux des planches, ainsi que les modèles du drapeau national et du pavillon de la batellerie et de l’aviation, sont déposés aux Archives Nationales.",
+      "text_sha256": "52628e36804630fad14c9c5b11a5f73f349330966756d6edbc2f773d3d56ded3",
+      "md_span": {
+        "start": 2173,
+        "end": 2691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_6/19930920",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-09-20",
+      "text_md": "La première et la dernière strophes du chant «Ons Heemecht» (1859), texte de Michel Lentz, musique de Jean-Antoine Zinnen, tels qu’ils sont publiés en annexe à la présente loi, constituent l’hymne national du Grand-Duché de Luxembourg.",
+      "text_sha256": "58410cb984afdac710ffe7d949cd260187ed01b57a9256218c6ea4f4a89fb478",
+      "md_span": {
+        "start": 2726,
+        "end": 2961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_6/19930920",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-09-20",
+      "text_md": "Le livre II, titre III, chapitre VI du code pénal est complété par un article 232*bis* libellé comme suit:",
+      "text_sha256": "d7bf11238d225e6fe5fdd4dadc0d0577831544205df7d9a674b57575ff365bb7",
+      "md_span": {
+        "start": 2996,
+        "end": 3102
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_7/19930920",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-09-20",
+      "text_md": "Les nouvelles armoiries à créer par des autorités publiques et la modification des armoiries existantes doivent être agréées au préalable par le Premier Ministre, Ministre d’Etat.",
+      "text_sha256": "5aa0b28a5923ff2bfbd6cb335d12b420d101d19d5c3f2e81c19fd67b63bdd58f",
+      "md_span": {
+        "start": 3137,
+        "end": 3316
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/art_8/19930920",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1993-09-20",
+      "text_md": "Il est institué une commission héraldique de l’Etat chargée de conseiller le Premier Ministre, Ministre d’Etat, en toutes matières concernant l’héraldique, ainsi que d’émettre son avis sur toutes les questions y relatives qui lui sont soumises par le Premier Ministre, Ministre d’Etat.\n\nLa commission peut également de sa propre initiative saisir le Premier Ministre, Ministre d’Etat, de toutes propositions et suggestions relatives à l’héraldique.\n\nUn règlement grand-ducal détermine la composition et le fonctionnement de la commission.",
+      "text_sha256": "e72f6bdd815df93260f8ac8ba8ee89ab7c65e23b3d5973b3d507e34f2ae8f01e",
+      "md_span": {
+        "start": 3351,
+        "end": 3889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe à la loi du 23 juin 1972 sur les emblèmes nationaux",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Grandes armoiries\n\nMoyennes armoiries\n\nPetites armoiries\n\nDrapeau national\n\nPavillon de la batellerie et de l´aviation",
+      "text_sha256": "8ec61be9b7d8c0659fb12dbe4c396fcb11c5d9b3038965995136462de952d761",
+      "md_span": {
+        "start": 3982,
+        "end": 4100
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "HYMNE NATIONAL",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 4149,
+        "end": 4149
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

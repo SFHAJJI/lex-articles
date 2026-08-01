@@ -1,0 +1,64 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2019-03-01-a126:2020-03-13",
+  "language": "fr",
+  "title": "Version consolidée applicable au 13/03/2020 : Règlement grand-ducal du 1er mars 2019 fixant pour l’année 2019 le montant annuel de référence 2019 tel que prévu à l’article 3 de la loi modifiée du 3 août 1998 sur la promotion de la presse écrite. ",
+  "valid_from": "2020-03-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2019-03-01-a126/versions/2020-03-13/fr.xml",
+    "sha256": "0ca3fb6048d39d1db61f4096b8c82ac13ddb2554063f39bdaddb01d4e7db6787",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a126/consolide/20200313/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a126:2020-03-13#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a126/art_1er/20200313",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-03-13",
+      "text_md": "Le montant annuel de référence prévu à l’article 3 de la loi modifiée du 3 août 1998 sur la promotion de la presse écrite est fixé comme suit pour l’an 2019 :\n\n5 x 84 274 + 120 x 515 = 483 170 €.",
+      "text_sha256": "4d3dd9cd16bd72d42e3153827c6ad99df182460dbc8c196332ade4d935baec58",
+      "md_span": {
+        "start": 726,
+        "end": 921
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/08/03/n13/jo",
+          "text": "loi modifiée du 3 août 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2019-03-01-a126:2020-03-13#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a126/art_2/20190311",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-03-11",
+      "text_md": "Notre Ministre des Communications et des Médias et notre Ministre des Finances sont chargés de l'exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "06ca9f9a0c26d5bdcc719e8c685221b1dbf8b4237ada4a2bb06be399edc2e053",
+      "md_span": {
+        "start": 956,
+        "end": 1149
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

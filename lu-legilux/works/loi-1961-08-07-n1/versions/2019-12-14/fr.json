@@ -1,0 +1,828 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14",
+  "language": "fr",
+  "title": "Version consolidée applicable au 21/04/2026 : Loi du 7 août 1961 relative à la création d’un fonds d’urbanisation et d’aménagement du plateau de Kirchberg.",
+  "valid_from": "2019-12-14",
+  "valid_to": "2026-04-20",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1961-08-07-n1/versions/2019-12-14/fr.xml",
+    "sha256": "f7598a11971a89c10bec2865e620f91530986313761cc8c4fc37b728f15cb55f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/consolide/20191214/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_1er/20191214",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Sont reconnus d'utilité publique et autorisés:\n\nla construction d'un pont au-dessus de la vallée de l'Alzette entre le Rond-point près de la Fondation Pescatore et le plateau de Kirchberg;\n\nl'urbanisation et l'aménagement du plateau de Kirchberg;\n\nl'établissement de la voirie d'accès et de desserte nécessaire ainsi que les accessoires éventuels;\n\nl'acquisition des terrains du plateau de Kirchberg dans la mesure du plan des lieux annexé à la présente loi.",
+      "text_sha256": "140cde9cd60dbc83beae6e22b8f0206bd75f3746752f5fea7873cf5afbb2ba58",
+      "md_span": {
+        "start": 637,
+        "end": 1095
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_2/20191214",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Il est créé sous la dénomination de «fonds d'urbanisation et d'aménagement du plateau de Kirchberg» un organe spécial constitué en personne juridique distincte de l'Etat, chargé de réaliser, pour compte de l'Etat, les projets visés à l'article premier. Il aura le caractère d'un établissement public.",
+      "text_sha256": "90d43b6b46a64e386676e21a55539d6ba7a17d63b2a76715018599760db1d8f8",
+      "md_span": {
+        "start": 1130,
+        "end": 1430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_3/20191214",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Ce fonds supporte les dépenses relatives à sa mission. Il est autorisé à se faire ouvrir sous la garantie de l'Etat auprès de la caisse d'épargne de l'Etat un crédit jusqu'à concurrence de 9.915.740,99 euros. Les conditions et modalités de l'ouverture de crédit sont soumises à l'approbation du ministre du trésor et du budget.\n\nLe fonds est autorisé à sa procurer de nouveaux moyens financiers jusqu’à concurrence de 9.915.740,99 euros par la voie d’un emprunt aussi bien que par l’augmentation du crédit dont il dispose auprès de la caisse d’épargne de l’Etat. Ces opérations financières se font sous la garantie de l’Etat qui en assumera les charges d’amortissement et d’intérêts en ce qui concerne l’emprunt et les charges d’intérêts en ce qui concerne la totalité du crédit dont disposera le fonds auprès de la caisse d’épargne de l’Etat.\n\nLes modalités de l’emprunt, sa durée, sa date d’émission, les conditions de remboursement, le taux d’intérêt, la forme et la coupure des obligations à émettre, l’époque et le mode de la souscription et du paiement des coupons, ainsi que toutes les autres conditions de l´emprunt feront l’objet d´un règlement du Ministre du Trésor. Ce règlement pourra prévoir que les intérêts de l’emprunt seront exempts, en tout ou en partie, des impôts présents et futurs. Les conditions et modalités de l’ouverture du nouveau crédit auprès de la caisse d’épagne de l’Etat sont soumises à l’approbation du Ministre du Trésor et du Ministre du Budget.",
+      "text_sha256": "18dc6fc4921f8c81ea02db8a97d521439a44a20c393ab4add30ce63a386d66c5",
+      "md_span": {
+        "start": 1465,
+        "end": 2946
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_4/20191214",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les acquisitions des emprises feront l'objet d'actes administratifs à recevoir par l'Administration de l’enregistrement, des domaines et de la TVA.\n\nLes parties sont dispensées de recourir à la vente publique dans les cas visés par la loi du 12 juin 1816, qui détermine les formalités à observer à l'égard de la vente des immeubles appartenant à des mineurs, à des successions acceptées sous bénéfice d'inventaire etc., loi qui reste applicable pour le surplus.\n\nLe Fonds poursuivra l'expropriation des emprises comprises dans le plan des lieux annexé à la présente loi d'après la procédure prévue ci-après.",
+      "text_sha256": "c575f95e574c41af9b70db543bd13a28daa47e52f965a01605c03e3cd7d30958",
+      "md_span": {
+        "start": 2981,
+        "end": 3588
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1816/06/12/n1/jo",
+          "text": "loi du 12 juin 1816"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_5/20191214",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Le Fonds convoquera les propriétaires individuellement, quinze jours au moins à l'avance, d'après la procédure réglée par l'article 7 de la loi du 26 juin 1914 sur les significations judiciaires en matière civile et commerciale, aux jour, heure et lieu par lui déterminés, pour constater si la propriété à emprendre est située à l'intérieur du périmètre d'expropriation figurant au plan de situation annexé à la présente loi et pour discuter de l'indemnité d'expropriation.\n\nAux termes de la convocation, les propriétaires seront avertis qu'il sera procédé tant en leur absence qu'en leur présence.\n\nUn procès-verbal des opérations sera dressé relatant l'accord intervenu ou les difficultés divisant les parties.\n\nLe procès-verbal sera signé par les comparants. En cas de refus de signer le procès-verbal et en cas de non-comparution, le procès-verbal sera notifié aux propriétaires par exploit d'huissier.",
+      "text_sha256": "2218a0e47267fb7c721a2c0ed80cd6facfb293a96a0a79b7f4b48ec36d74e057",
+      "md_span": {
+        "start": 3623,
+        "end": 4529
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1914/06/26/n1/jo",
+          "text": "loi du 26 juin 1914"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_6/20191214",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "A défaut d'accord écrit passé entre parties sur l'applicabilité à l'emprise de la présente loi et sur l'indemnité offerte, le litige sera déféré au tribunal d'arrondissement de Luxembourg.\n\nL'ajournement sera donné à jour fixe et à un délai de quinzaine. En cas d'absolue nécessité, le délai d'ajournement pourra être abrégé par ordonnance du président rendue sur requête.\n\nLes pièces invoquées de part et d'autre seront déposées au greffe avant l'audience.",
+      "text_sha256": "fa72b10bf9cb31ef4e5b691020bb8416e007ba97cce8be079271194407cdd69a",
+      "md_span": {
+        "start": 4564,
+        "end": 5021
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_7/20191214",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "La cause sera appelée à l'audience indiquée par l'ajournement. Si la partie assignée a constitué ou constitue avoué, il sera procédé, toutes affaires cessantes. S'il n'y a pas constitution d'avoué, le défaillant sera réassigné par un huissier commis au jour fixé par le tribunal, sans qu'il soit besoin de lever le jugement. Le délai pour la comparution ne pourra dépasser la quinzaine.",
+      "text_sha256": "74da79cfeb8729133bd7de9591fae86b97d0aeea189f8d46cf580d1a6ada9d43",
+      "md_span": {
+        "start": 5056,
+        "end": 5442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_8/20191214",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "A l'audience indiquée, le tribunal examinera si les formalités prévues aux articles 5 et 6 ont été régulièrement remplies. Le propriétaire sera tenu de déclarer si et, le cas échéant, pour quel motif il conteste l'existence ou la régularité des formalités remplies et s'il accepte les offres d'indemnité faites par le Fonds. Aucune nullité pour vice de forme ne pourra être opposée que s'il est justifié que l'inobservation de la formalité même substantielle aura eu pour effet de porter atteinte aux intérêts de la partie qui l'invoque.\n\nSi, sans contester la régularité de la procédure, le propriétaire n'accepte pas les offres d'indemnité faites par le Fonds, il sera tenu de faire connaître le montant de ses prétentions définitives. Le tribunal donnera acte de ces prétentions et statuera sur le tout par un seul jugement à l'une des prochaines audiences, qu'il indiquera.",
+      "text_sha256": "250bc01bc960a15e90afd989144d04916d849905d6854413b03903fe90422a3c",
+      "md_span": {
+        "start": 5477,
+        "end": 6354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_9/20191214",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Si le tribunal décide soit que l'action n'a pas été intentée régulièrement, soit que les formalités prévues aux articles 5 et 6 n'ont pas été dûment observées et que cette violation a eu pour effet de porter atteinte aux intérêts de la partie qui l'invoque, soit que la parcelle à entreprendre n'est pas située à l'intérieur du périmètre figurant au plan des lieux annexé à la présente loi, il déclarera qu'il n'y a pas lieu de procéder plus loin.\n\nToutefois, le tribunal pourra passer outre, si le propriétaire à exproprier consent à la cession et s'il n'y a désaccord que sur le prix. Le tribunal donnera acte du consentement du propriétaire.",
+      "text_sha256": "7e6a069901334786a01ad7f2a1129610537e890b93e6a6103ed57c5f79e72623",
+      "md_span": {
+        "start": 6389,
+        "end": 7033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_10/20191214",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Le jugement rendu en conformité de l'article précédent et celui qui aura décidé qu'il y a lieu de passer outre au règlement de l'indemnité ne sont susceptibles d'aucun recours.",
+      "text_sha256": "c8866dbdadb74a7c6e8c14a9deb3dcab7f9e0e97ca1a6ed6cc0cfb21e04baad7",
+      "md_span": {
+        "start": 7070,
+        "end": 7246
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_11/20191214",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Si le tribunal décide que les formalités prévues aux articles 5 et 6 ont été observées ou que la violation alléguée n'a pas porté atteinte aux intérêts de la partie qui l'invoque ou si, à la suite du consentement du propriétaire, il a été décidé de passer outre, il fixe par le même jugement le montant de l'indemnité, eu égard aux baux actuels, aux contrats de vente passés antérieurement et néanmoins aux époques les plus récentes, soit des mêmes fonds, soit de fonds voisins et de même qualité, et à tous autres documents qu'il pourra réunir.\n\nS'il n'a pas été produit de documents propres à déterminer ce montant ou si une partie le demande, le tribunal déclarera par le même jugement qu'il sera procédé dans un délai fixe, qui ne pourra pas dépasser un mois, à la visite et à la juste évaluation des terrains ou édifices par trois experts, qui seront désignés de commun accord par les parties, sinon d'office.\n\nIl commettra un juge pour faire rapport et pour se rendre sur les lieux avec les parties et les experts aux jour, heure et lieu qui seront indiqués par le même jugement.\n\nAvant l'évaluation de l'indemnité, le tribunal ordonnera provisoirement, si la partie poursuivante le demande, la mise en possession de celle-ci, à charge par elle de consigner préalablement la somme que le tribunal fixera par le même jugement, qui sera exécutoire nonobstant appel ou opposition.",
+      "text_sha256": "08e59693bbcc53d91fc7c4194a8ae2811076892c0494e53aa7861f46b745c6e9",
+      "md_span": {
+        "start": 7283,
+        "end": 8666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_12/20191214",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "La prononciation du jugement prévue à l'article 11 vaudra signification tant à avoué qu'à partie. Dans les trois jours de cette prononciation, le greffier sera tenu de délivrer à la partie demanderesse un extrait du jugement, contenant les conclusions des parties, les motifs et le dispositif, sans qu'il soit besoin d'enregistrement préalable.\n\nDans les trois jours suivants, cet extrait sera signifié aux experts, avec sommation de se rendre sur les lieux aux jour, heure et lieu indiqués par le jugement.",
+      "text_sha256": "0b262c51755e4d16669d1ac595ebe70a7edd7159d5741e19c8e43e4165dd54eb",
+      "md_span": {
+        "start": 8703,
+        "end": 9210
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_13/20191214",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les experts prêteront serment sur les lieux contentieux, ès mains du juge délégué, qui remplacera ceux qui feraient défaut ou contre lesquels il admettrait des causes de récusation, par les personnes dont les parties conviennent entre elles ou qu'à leur défaut il désigne d'office.\n\nLes parties lui remettront les documents qu'elles croiront utiles à l'appréciation de l'indemnité. Il pourra au surplus s'entourer de tous renseignements propres à éclairer les experts et même, soit d'office, soit à la demande de l'une ou de l'autre des parties, procéder à une information. Dans ce cas, les personnes qu'il trouvera convenable d'entendre seront interrogées en présence des experts et des parties.\n\nIl sera dressé procès-verbal par le juge délégué. Il y sera fait mention du résultat des déclarations des personnes qui auront concouru à l'information, du délai dans lequel les experts seront tenus d'achever leur travail et de le transmettre au juge délégué et enfin du jour auquel le tout sera déposé au greffe du tribunal, où les parties pourront en prendre inspection sans frais.",
+      "text_sha256": "0ebfd4cb4a111b86022331a830476819257cd178e9a4ec27c7b3645325c14962",
+      "md_span": {
+        "start": 9247,
+        "end": 10328
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_14/20191214",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les formalités prescrites par le code de procédure civile pour le rapport des experts et les enquêtes ne sont pas applicables aux opérations et informations dont il s'agit à l'article qui précède.\n\nDans leurs appréciations, les experts se conformeront, le cas échéant, aux articles 16 à 19 ci-après. Ils motiveront leur avis.\n\nLe rapport des experts ne liera pas le tribunal et ne vaudra que comme renseignement.",
+      "text_sha256": "9f0f2d4e32bbd5e4721bb8885dba303b59c0fe226a11e07f16304470dcad72f4",
+      "md_span": {
+        "start": 10365,
+        "end": 10777
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_15/20191214",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "La cause sera appelée et plaidée à la première audience civile qui suivra le dépôt au greffe, sans qu'il y ait lieu à signification du procès-verbal et de l'avis des experts.\n\nIl ne pourra être accordé qu'une seule remise.\n\nIl sera fait rapport par le juge commis, les parties seront entendues et le jugement qui déterminera l'indemnité sera prononcé dans la quinzaine des plaidoiries.",
+      "text_sha256": "d2cf43aed0f36c311f868732bd0368cdca901d50c99f7c4b340e02505d34daac",
+      "md_span": {
+        "start": 10814,
+        "end": 11199
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_16/20191214",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Dans le cas où il y aurait des tiers intéressés à titre de bail, d'usage ou d'habitation, le propriétaire sera tenu de les appeler avant la fixation de l'indemnité, pour concourir, s'ils le trouvent bon, en ce qui les concerne, aux opérations des évaluations; sinon il restera seul chargé envers eux des indemnités qu'ils pourraient réclamer. Les indemnités des tiers intéressés, ainsi appelés ou intervenants, seront reglées en la même forme que celles dues aux propriétaires.\n\nDans le cas d'usufruit, une seule indemnité est fixée par le tribunal, eu égard à la valeur totale de l'immeuble. Le nu-propriétaire et l'usufruitier exercent leur droit sur le montant de l'indemnité au lieu de l'exercice sur la chose.\n\nL'usufruitier sera tenu de donner caution. Les père et mère ayant l'usufruit légal des biens de leurs enfants en seront seuls dispensés.",
+      "text_sha256": "4017d016b942daec68953e450a19f273b1e47b7066edda41861f37a4dbfce8eb",
+      "md_span": {
+        "start": 11236,
+        "end": 12088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_17/20191214",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les bâtiments dont il est nécessaire d'acquérir une portion en exécution des dispositions de l'article premier seront achetés en entier, si les propriétaires l'ont requis avant le jugement qui ordonne qu'il sera procédé au règlement de l'indemnité.\n\nIl en sera de même de toute parcelle de terrain qui, par suite du morcellement, se trouvera réduite au quart de la contenance totale, si toutefois le propriétaire ne possède aucun terrain immédiatement contigu, et si la parcelle ainsi réduite est inférieure à dix ares.",
+      "text_sha256": "98a8412139e6acd99096fd3bffeb6d7714d8ebf6f5601970a0048ab036213cee",
+      "md_span": {
+        "start": 12125,
+        "end": 12644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_18/20191214",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Si l'exécution des travaux doit procurer une augmentation de valeur immédiate et spéciale au restant de la propriété, cette augmentation peut être prise en considération dans l'évaluation du montant de l'indemnité.\n\nL'indemnité ne tiendra pas compte de la plus-value pouvant découler des travaux entrepris en vue de l'urbanisation et de l'aménagement du plateau de Kirchberg, et notamment de la construction du pont Grande-Duchesse Charlotte ainsi que des travaux en vue desquels l'expropriation est poursuivie.",
+      "text_sha256": "10c1c43f02a61d36f2553e344bab52d9e93f01ba6fc5eb31912d76f7be469159",
+      "md_span": {
+        "start": 12681,
+        "end": 13192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_19/20191214",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les constructions, plantations, ouvertures de carrières et améliorations ne donneront lieu à aucune indemnité, lorsque, à raison de l'époque où elles auront été faites ou de toutes autres circonstances, le tribunal acquiert la conviction qu'elles ont été faites en vue d'obtenir une indemnit plus élevée.",
+      "text_sha256": "546a1a2bceeb6001022546d49e8be01233174a3ef1af1675e245d420d49ae759",
+      "md_span": {
+        "start": 13229,
+        "end": 13533
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_20/20191214",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "En vertu du jugement qui adjuge l'indemnité, et sans qu'il soit besoin de le faire signifier au préalable, le montant de cette indemnité, déduction faite des dépens, s'il y a lieu, sera déposé dans la caisse des consignations à Luxembourg; et sur le vu de la signification faite à avoué ou à partie, du certificat du dépôt, la partie poursuivante sera envoyée en possession par ordonnance du président rendue sur requête. Cette ordonnance du président sera exécutoire provisoirement, nonobstant opposition ou appel et sans caution.\n\nLes dispositions qui précèdent sont applicables au cas prévu au dernier alinéa de l'article 11 de la présente loi.",
+      "text_sha256": "c4d53572e9a3447ec36d6d21547e1ca1713b8be20c6ba3f62abd049d393bcfa9",
+      "md_span": {
+        "start": 13570,
+        "end": 14217
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_21/20191214",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Si l'indemnité réglée par le tribunal ne dépasse pas l'offre du Fonds, les parties qui l'auront refusée seront condamnées aux dépens. Si l'indemnité est égale à la demande des parties, le Fonds sera condamné aux dépens. Si l'indemnité est à la fois supérieure à l'offre du Fonds et inférieure à la demande des intéressés, le tribunal arbitrera le partage des frais entre les parties.\n\nToute partie qui ne se trouvera pas dans le cas de l'article 29 sera condamnée aux dépens, quelle que soit l'estimation ultérieure du tribunal, si elle n'a pas indiqué le montant de ses prétentions avant le jugement rendu conformément aux articles 8, 9 et 11.",
+      "text_sha256": "e99222a4d3c3e508572c6ac08a27f99c05a06f3c0b60f0bbf11e4f6e30d65505",
+      "md_span": {
+        "start": 14254,
+        "end": 14898
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_22/20191214",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les dépens seront taxés comme en matière sommaire. La taxe ne comprendra que les actes faits postérieurement à l'offre du Fonds. Les frais des actes antérieurs demeurent dans tous les cas à charge de ce dernier.",
+      "text_sha256": "06baa6707bf398716a2c56e309092aae97cc434ec0c302de7c38e655cad5797d",
+      "md_span": {
+        "start": 14935,
+        "end": 15146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_23/20191214",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les parties assignées, non domiciliées dans le lieu où siège le tribunal, seront tenues d'y faire élection de domicile; à défaut de cette élection, toutes significations, même celles du jugement définitif ainsi que d'offres réelles et d'appel seront valablement faites au greffe.",
+      "text_sha256": "2824ab0978f2811690b1e3fb26939d9051de5adc2c0b4c5c48133f1fde21b29e",
+      "md_span": {
+        "start": 15183,
+        "end": 15462
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_24/20191214",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les délais fixés par la présente loi pour les ajournements et autres actes de procédure sont applicables, quels que soient le domicile ou la résidence des intéressés.",
+      "text_sha256": "ce3016c2b2c651bb51ec503808724692c3925729597861acead578c606f0b826",
+      "md_span": {
+        "start": 15499,
+        "end": 15665
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_25/20191214",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Le jugement sera réputé contradictoire à l'égard des parties qui n'auraient pas constitué avoué sur les assignations dont il s'agit aux articles 6 et 7 ou qui, après avoir constitué avoué, ne se trouveraient pas représentées aux audiences ou actes de procédure ultérieurs.",
+      "text_sha256": "5df9fc42f1f21353d6d64f770b3bcc033fb794fb9c0c233597a9c431d11c0c9a",
+      "md_span": {
+        "start": 15702,
+        "end": 15974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_26/20191214",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Tout incident non prévu par les dispositions qui précèdent sera jugé sans désemparer, ou au plus tard à l'audience qui suivra les plaidoiries. Le tribunal peut aussi joindre l'incident au fond.",
+      "text_sha256": "e4b1039a83bfe6217d123994a105a89a72897f1b95f754a821f7990409e02180",
+      "md_span": {
+        "start": 16011,
+        "end": 16204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_27/20191214",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les jugements qui interviendront dans l'instruction de la procédure, telle qu'elle est réglée par les articles précédents, ne sont rendus qu'après avoir entendu le ministère public; ils seront exécutoires provisoirement contre le défendeur, nonobstant opposition ou appel et sans caution.\n\nLa cour supérieure de justice ne pourra en aucun cas accorder des défenses tendant à arrêter directement ou indirectement l'exécution des jugements.\n\nElle statuera d'urgence dès la mise au rôle de l'affaire. Il ne pourra être accordé qu'une seule remise.",
+      "text_sha256": "0553b1fdb556e7db74202e4c5b3921f45da9aa936a537fab2473595af2f50b9a",
+      "md_span": {
+        "start": 16241,
+        "end": 16785
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_28/20191214",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Si l'indemnité fixée par le jugement ou par l'arrêt est supérieure à la somme consignée par le Fonds, celui-ci sera tenu de consigner le supplément de l'indemnité dans la huitaine de la signification de la décision judiciaire; sinon le propriétaire pourra, en vertu de la même décision, faire suspendre les travaux.",
+      "text_sha256": "e83aa0047685e2b555dac0384f35696282ba881c281cb9e3f73150807229cb8d",
+      "md_span": {
+        "start": 16822,
+        "end": 17137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_29/20191214",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Si des biens de mineurs, d'interdits, d'aliénés internés, de personnes présumées ou déclarées absentes sont compris dans le périmètre figurant au plan annexé à la présente loi, les représentants des incapables, les mineurs émancipés assistés de leurs curateurs, les notaires représentant des présumés absents et les envoyés en possession provisoire des biens d'un absent peuvent, après autorisation du tribunal donnée sur simple requête en la chambre du conseil, le ministère public entendu, consentir amiablement à l'aliénation desdits biens et accepter les montants offerts.\n\nLe tribunal ordonne les mesures de conservation ou de remploi qu'il juge nécessaires.\n\nLes collèges de bourgmestres et échevins ainsi que les administrateurs des établissements publics pourront de même consentir à l'aliénation amiable des biens communaux ou des biens des établissements publics, s'ils y sont autorisés par une délibération dûment approuvée du conseil communal ou de l'organe à ce compétent.",
+      "text_sha256": "040aab336244421943d95d116fbfc53fd8d603d30b0fbbf2c933fbcc3b562d2f",
+      "md_span": {
+        "start": 17174,
+        "end": 18159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_30/20191214",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Le jugement par lequel il est décidé que les formalités des articles 5 et 6 ont été remplies sera immédiatement transcrit au bureau de la conservation des hypothèques. Un extrait contenant la date du jugement ou de la transcription, les noms des parties, la désignation de la nature et de la situation des biens dont l'expropriation est poursuivie, sera inséré dans un journal et restera affiché dans l'auditoire jusqu'au règlement de l'indemnité.\n\nDans la quinzaine de la date de l'affiche et de l'insertion au journal seront inscrits les privilèges indiqués à l'article 4 de la loi du 18 avril 1910 sur le régime hypothécaire et les hypothèques occultes instituées par la loi du 27 novembre 1933 sur le recouvrement des contributions directes, des droits d'accise sur l'eau-de-vie et des cotisations d'assurances sociales, telle qu'elle se trouve modifiée et étendue par les lois postérieures, antérieures au jugement.\n\nL'immeuble sera affranchi de tous privilèges et hypothèques, de quelque nature qu'ils soient, non inscrits dans ce délai ou antérieurement, sans préjudice des recours contre les personnes qui auraient dû requérir les inscriptions.",
+      "text_sha256": "aac449664f4fa770e5753462a3d4c60245aecb9e383cca562a1a7a6100c890a7",
+      "md_span": {
+        "start": 18196,
+        "end": 19348
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1910/04/18/n1/jo",
+          "text": "loi du 18 avril 1910"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1933/11/27/n1/jo",
+          "text": "loi du 27 novembre 1933"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_31/20191214",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les actions en résolution, en revendication ou toutes autres actions réelles ne pourront arrêter l'expropriation ni en empêcher l'effet.\n\nLe droit des réclamants sera transporté sur le prix et l'immeuble en demeurera affranchi.\n\nToute saisie-arrêt ou opposition à faire par les intéressés, ainsi que par tous créanciers, sera faite entre les mains du préposé à la caisse des consignations à Luxembourg.",
+      "text_sha256": "7f5ce3e11e36099f222c555976cde663eaa653473f433601b847c64ccae2c6f6",
+      "md_span": {
+        "start": 19385,
+        "end": 19787
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_32/20191214",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Sur le vu du jugement et du certificat délivré après le délai fixé à l'article 30 constatant que l'immeuble exproprié est libre de privilèges et hypothèques, le préposé à la caisse des consignations sera tenu de remettre aux ayants droit, sans frais ni retenue, le montant de l'indemnité adjugée, s'il n'existe aucune saisie-arrêt ou opposition sur les deniers consignés.\n\nA défaut par les ayants droit de produire ce certificat ou de rapporter mainlevée des saisies-arrêts ou oppositions, le préposé à la caisse des consignations ne pourra vider ses mains que sur ordonnance de justice.\n\nIl en sera de même dans les cas où les droits respectifs du propriétaire et de l'usufruitier ne se trouveraient pas réglés par le jugement qui a ordonné la consignation.\n\nLe créancier qui, par le résultat d'un ordre ouvert pour la distribution de l'indemnité, n'obtiendrait pas collocation utile pour la totalité de sa créance, ne pourra, pour cause du morcellement de son hypothèque ou de la division de son capital, exiger le remboursement du surplus de sa créance, si elle n'est d'ailleurs exigible en vertu de son titre ou pour tout autre motif.",
+      "text_sha256": "866d6ecd8c948a310164351b201b60f5345dda59899005525ec296f4d7ff4ac4",
+      "md_span": {
+        "start": 19824,
+        "end": 20962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_33/20191214",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Le Fonds est exempt de tous droits, taxes et impôts généralement quelconques au profit de l'Etat et des communes. Cette exemption ne s'applique pas toutefois aux salaires des greffiers et conservateurs des hypothèques.",
+      "text_sha256": "337c0f6c0c15a20436665cbf03014a0b22185caece656970b2559373bde8cc68",
+      "md_span": {
+        "start": 20999,
+        "end": 21217
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_34/20191214",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "La revente des immeubles non occupés par la voie publique ou par des services ou des édifices d'utilité générale se fera par le Fonds aux enchères ou avec autorisation spéciale du Gouvernement en conseil par marché de gré à gré.\n\nLe Fonds peut être autorisé par le Gouvernement en conseil à procéder à l'échange volontaire des immeubles non occupés prédits avec des immeubles même non compris dans les limites fixées par le plan annexé à la présente loi.\n\nLe produit de la revente ou la soulte de l'échange seront portés au compte visé à l'article 3.\n\nLa revente ou l'échange prédits se feront par acte administratif par les soins de l'Administration de l’enregistrement, des domaines et de la TVA soit par acte notarié.",
+      "text_sha256": "2c48aad10f5ed5beb7eba00f658211bdefc0737bdf549e3dba1430d027eb3f93",
+      "md_span": {
+        "start": 21254,
+        "end": 21974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_35/20191214",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Les lois du 17 décembre 1859 sur l'expropriation pour cause d'utilité publique et du 4 mars 1896 sur l'expropriation par zone pour cause d'utilité publique ne sont pas applicables en la présente matière.",
+      "text_sha256": "a12a52111ac4f90977876d49ff720335cd42b431d739f91d64ab478ce2784852",
+      "md_span": {
+        "start": 22011,
+        "end": 22214
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1859/12/17/n5/jo",
+          "text": "lois du 17 décembre 1859"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1896/03/04/n1/jo",
+          "text": "4 mars 1896"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_36/20191214",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Le fonds est soumis à l’autorité du ministre ayant les travaux publics dans ses attributions.",
+      "text_sha256": "afea161eae5867b0bc76319226aedcdf75e9778f93f91381ca11d4eb5e33338e",
+      "md_span": {
+        "start": 22251,
+        "end": 22344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_37/20191214",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "**(1)** Le Fonds est géré par un conseil d'administration composé de neuf membres au plus, nommés par le Grand-Duc sur proposition du Gouvernement en conseil.\n\n**(2)** Ne peuvent devenir membres du conseil d'administration le ou les fonctionnaires qui, en vertu de leurs fonctions, sont appelés à surveiller ou à contrôler le Fonds ou qui, en vertu des pouvoirs leur délégués, approuvent des actes administratifs du Fonds ou signent des ordonnances de paiement ou toute autre pièce administrative entraînant une dépense de l'Etat en faveur du Fonds.\n\n**(3)** Le président du conseil d'administration est désigné parmi les membres du conseil d'administration par le Gouvernement en conseil sur proposition du ministre de tutelle. En cas d'absence du président, ce dernier est remplacé par le doyen d'âge du conseil d'administration.",
+      "text_sha256": "0e9ae98b9d289c40c0ee4cb7f1c917069dd8e34b446f4e01dd5f10b769c70c78",
+      "md_span": {
+        "start": 22381,
+        "end": 23212
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_38/20191214",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "**(1)** Les membres du conseil sont nommés pour une durée de cinq ans renouvelable à son terme.\n\n**(2)** Le conseil d'administration peut à tout moment être révoqué par le Grand-Duc. Un membre peut être révoqué avant l'expiration de son mandat, le conseil d'administration entendu en son avis.\n\n**(3)** En cas de démission, de décès ou de révocation avant terme du mandat d'un membre du conseil, il est pourvu à son remplacement par la nomination d'un nouveau membre qui achève le mandat de celui qu'il remplace.\n\n**(4)** Le conseil d'administration se réunit sur convocation de son président aussi souvent que les intérêts du Fonds l'exigent. Il doit être convoqué au moins une fois tous les trois mois ou à la demande de deux de ses membres.\n\n**(5)** Le conseil d'administration ne peut valablement délibérer que si la majorité de ses membres est présente et il décide à la majorité simple des voix des membres présents. En cas d'égalité des voix, le vote de celui qui assure la présidence est prépondérant.\n\n**(6)** Le fonctionnement du conseil d'administration est réglé dans le règlement d'ordre intérieur du Fonds. Ce règlement est soumis à l'approbation du ministre de tutelle.\n\n**(7)** Les indemnités et jetons de présence des membres et participants aux réunions du conseil d'administration sont fixés par le Gouvernement en conseil et sont à charge du Fonds.",
+      "text_sha256": "71b510a1b162a768fed3d7cb8e41a31310ddd35420aae8427a32632e747167db",
+      "md_span": {
+        "start": 23249,
+        "end": 24617
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_39/20191214",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "**(1)** Le conseil d'administration décide sur les points suivants, sous réserve de l'approbation du ministre de tutelle pour les points sous a):\n\n1. - la politique générale du Fonds, notamment le concept global d'urbanisation et d'aménagement du plateau de Kirchberg,\n- la politique de vente des terrains appartenant au Fonds,\n- le budget d'exploitation ainsi que les comptes de fin d'exercice,\n- les programmes d'investissements annuels et les programmes d'investissements pluriannuels,\n- les emprunts à contracter,\n- l'organigramme, la grille des emplois et leur classification ainsi que les conditions et modalités de rémunération et le volume des tâches du personnel,\n- l’engagement et le licenciement d’un directeur,\n2. - l'exécution et la mise en oeuvre de la politique générale,\n- les règles d'exécution du budget,\n- le rapport général d'activités,\n- les actions judiciaires à intenter et les transactions à conclure,\n- les conventions à conclure,\n- l'engagement du personnel du Fonds.\n\n**(2)** Le président du conseil d'administration ou celui qui le remplace représente le Fonds dans tous les actes publics et privés. Les actions judiciaires sont intentées et défendues au nom du Fonds par le président du conseil d'administration ou par son remplaçant.\n\n**(3)** Les budgets d'investissement et d'exploitation de l'année à venir sont soumis au ministre de tutelle avant le 1er avril de l'année précédant l'exercice en question.\n\n**(4)** Il est institué un Bureau chargé d’organiser, de suivre et de contrôler les travaux, de proposer l’ordre du jour pour les réunions du conseil d’administration et d’accompagner la gestion journalière des travaux du Fonds. Il peut être chargé par le conseil d’administration de toute autre mission, à charge de lui en rendre compte régulièrement.\n\nLe Bureau est composé de quatre membres du conseil d’administration, y compris le président du conseil d’administration, désignés par le Gouvernement en conseil.\n\nLe Bureau est présidé par le président du conseil d’administration et assisté par le directeur.",
+      "text_sha256": "286e7cb881ad3413577d3d6f62a6dd26a959d46e92bd7241d93b86c2bc68b021",
+      "md_span": {
+        "start": 24654,
+        "end": 26705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39bis",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_39bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_39bis/20191214",
+      "type": "article",
+      "num": "Art. 39bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "La gestion journalière du Fonds est assurée par un directeur dont les attributions sont définies dans le détail par le conseil d’administration.\n\nLe directeur est chargé d’exécuter les décisions du conseil d’administration. Il répond de sa gestion devant le conseil d’administration.\n\nLe directeur participe avec voix consultative aux délibérations du conseil d’administration. Il assiste le Bureau.\n\nLe personnel du Fonds est placé sous ses ordres.",
+      "text_sha256": "a4597d2dbeb7edc0744e764d618cbeb36b2f6994d93389af802dbcf01e78318e",
+      "md_span": {
+        "start": 26748,
+        "end": 27197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_40/20191214",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Le Fonds est assisté par du personnel engagé sur la base d'un contrat de louage de service de droit privé, sans préjudice des droits acquis des personnes engagées antérieurement.",
+      "text_sha256": "dd163267a003a8e08597282d7ed85bd3a0af33d485bd5d613efee0ad318df643",
+      "md_span": {
+        "start": 27234,
+        "end": 27412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_41/20191214",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "**(1)** Dans la mesure de ses moyens, l'Etat met à la disposition du Fonds les services, l'équipement et les installations nécessaires. Le Fonds peut, sur autorisation préalable du ministre des travaux publics, s'assurer tous autres concours pour lui permettre d'exécuter sa mission.\n\n**(2)** Tous les marchés pour travaux et fournitures au nom du Fonds sont soumis aux dispositions de la loi du 30 juin 2003 sur les marchés publics.",
+      "text_sha256": "483e5e3bffb1a70477e9ad42bf7509c47f556f9f0caf6be71ac27624595943bf",
+      "md_span": {
+        "start": 27449,
+        "end": 27882
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/06/30/n1/jo",
+          "text": "loi du 30 juin 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_42/20191214",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "**(1)** Les comptes du Fonds sont tenus selon les principes et les modalités de la comptabilité commerciale. L'exercice coïncide avec l'année civile. A la clôture de chaque exercice, le conseil d'administration arrête le bilan et le compte de profits et pertes.\n\n**(2)** Un réviseur d'entreprises, désigné par le ministre de tutelle, est chargé de contrôler les comptes du Fonds et la régularité des opérations effectuées et des écritures comptables. Le réviseur d'entreprises doit remplir les conditions requises par la loi du 28 juin 1984 portant organisation de la profession de réviseur d'entreprises. Son mandat est d'une durée de trois ans et il est renouvelable. Sa rémunération est à charge du Fonds. Il remet son rapport au conseil d'administration pour le 15 mars. Il peut être chargé par le conseil d'administration de procéder à des vérifications spécifiques.\n\n**(3)** Pour le 1er mai au plus tard, le conseil d'administration présente au Gouvernement en conseil les comptes de fin d'exercice accompagnés d'un rapport circonstancié sur la situation et le fonctionnement du Fonds ainsi que du rapport du réviseur d'entreprises.\n\n**(4)** La décharge du conseil d'administration est donnée par le Gouvernement en conseil et elle est acquise de plein droit si ce dernier n'a pas pris de décision dans le délai de deux mois.\n\n**(5)** La gestion financière du Fonds est soumise au contrôle de la Cour des Comptes.",
+      "text_sha256": "6b974214bc1a106cc2dfb926e674c063550c007b7264489bc2c7f5b19989eb81",
+      "md_span": {
+        "start": 27919,
+        "end": 29338
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1984/06/28/n2/jo",
+          "text": "loi du 28 juin 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/art_43/20191214",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2019-12-14",
+      "text_md": "Le fonds sera dissous par décision du comité-directeur approuvée par le ministre des travaux publics et le ministre du trésor et du budget ; son actif et son passif seront repris par l'Etat.",
+      "text_sha256": "0c8b1aae432eef275b5464028dac52893c440221a1c57f50a8141f4b6827e8e1",
+      "md_span": {
+        "start": 29375,
+        "end": 29565
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-1961-08-07-n1:2019-12-14#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 29606,
+        "end": 29606
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

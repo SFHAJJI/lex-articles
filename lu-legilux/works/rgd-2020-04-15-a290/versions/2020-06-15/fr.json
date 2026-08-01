@@ -1,0 +1,85 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-04-15-a290:2020-06-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/06/2020 : Règlement grand-ducal du 15 avril 2020 portant prorogation de délais prévus par le règlement grand-ducal modifié du 16 novembre 1998 fixant les mesures d’exécution relatives aux logements locatifs, aux aides à la pierre ainsi qu’aux immeubles cédés sur la base d’un droit d’emphytéose et d’un droit de superficie, prévus par la loi modifiée du 25 février 1979 concernant l’aide au logement.",
+  "valid_from": "2020-06-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-04-15-a290/versions/2020-06-15/fr.xml",
+    "sha256": "c6fbdc8e79139a2c635a539545ac4bb280be78e50d38398b3e6a19e2a4d686a8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/15/a290/consolide/20200615/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-04-15-a290:2020-06-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/15/a290/art_1er/20200615",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-15",
+      "text_md": "Les délais qui gouvernent l’introduction, l’instruction et le suivi des dossiers relatifs à la location de logements locatifs subventionnés prévus par le règlement grand-ducal modifié du 16 novembre 1998 fixant les mesures d’exécution relatives aux logements locatifs, aux aides à la pierre ainsi qu’aux immeubles cédés sur la base d’un droit d’emphytéose et d’un droit de superficie, prévus par la loi modifiée du 25 février 1979 concernant l’aide au logement, sont prorogés jusqu’au 31 octobre 2020.",
+      "text_sha256": "9ba51cf0c3c0c0e4d3930ad6cecd9be8a2c4c2078bdb53b69a4aeb0bad61b4e0",
+      "md_span": {
+        "start": 916,
+        "end": 1417
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1998/11/16/n2/jo",
+          "text": "règlement grand-ducal modifié du 16 novembre 1998"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi modifiée du 25 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-04-15-a290:2020-06-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/15/a290/art_2/20200415",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-15",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "727c86324f983968ecdf17b3a5758e07b073772171306c03dcc95eec77eb2de3",
+      "md_span": {
+        "start": 1452,
+        "end": 1565
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-04-15-a290:2020-06-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/15/a290/art_3/20200415",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-04-15",
+      "text_md": "Notre ministre du Logement est chargé de l’exécution du présent règlement, qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "a2013631b2768fbfeff0ace72e74e27ee010d92c6a0f268d435cf5f54ba1465b",
+      "md_span": {
+        "start": 1600,
+        "end": 1740
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}
