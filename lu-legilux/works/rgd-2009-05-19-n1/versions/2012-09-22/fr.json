@@ -1,0 +1,339 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/12/2011 : Règlement grand-ducal du 19 mai 2009 déterminant les mesures de protection spéciale et les programmes de surveillance de l'état des eaux de baignade.",
+  "valid_from": "2012-09-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-05-19-n1/versions/2012-09-22/fr.xml",
+    "sha256": "0d099851a6ddf1ef7be256c30b1d9e899f426ae6b7725277ccf9e973fee0acfc",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n1/consolide/20120922/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La baignade dans les eaux de surface autres que les piscines et les bassins de cure, et identifiées comme sites de baignade, s’exerce dans les conditions définies par le présent règlement grand-ducal.\n\nLa liste des sites de baignade est fixée et tenue à jour par l’Administration de la gestion de l’eau dans le registre des zones protégées prévu à l’article 20 de la loi du 19 décembre 2008 relative à l’eau. Dans ces sites, la baignade est ouverte entre le 1er mai et le 31 août. Cette période est appelée «saison balnéaire».\n\nDans les autres eaux de surface, la baignade est interdite.",
+      "text_sha256": "041d3d2daaf7f228c9ebe0f9ada840a86f6ef9bd066d6ec76009a7740b80fb73",
+      "md_span": {
+        "start": 671,
+        "end": 1258
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/12/19/n17/jo",
+          "text": "loi du 19 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Dans les sites de baignade, l’eau, appelée par la suite «eau de baignade», fait l’objet d’une surveillance par l’Administration de la gestion de l’eau.\n\nLes paramètres analysés, la fréquence et les modalités d’échantillonnage et d’analyse sont précisés à l’annexe I.\n\nLors de la prise d’échantillons, il est également procédé à un contrôle de pollution visuel, visant à détecter la présence de déchets, tels que les résidus goudronneux, le verre, le plastique ou le caoutchouc.",
+      "text_sha256": "61ed4ef806f954fd17204d4ba69f6d14604357356a12231adda55f01c03d97f6",
+      "md_span": {
+        "start": 1293,
+        "end": 1770
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "A la fin de chaque saison balnéaire, l’Administration de la gestion de l’eau procède à une évaluation de la qualité des eaux de baignade sur la base des échantillons analysés pendant la saison balnéaire de l’année en cours et les trois saisons balnéaires précédentes et dont le nombre ne peut être inférieur à seize.\n\nCompte tenu de cette évaluation, elle procède au classement des eaux de baignade en eau de qualité «excellente», «bonne», «suffisante» ou «insuffisante», sur la base des critères figurant à l’annexe II. Les résultats de la surveillance et l’évaluation de la qualité des eaux de baignade sont communiqués aux bourgmestres des communes sur le territoire desquelles se situent les sites de baignade dès qu’ils sont disponibles.",
+      "text_sha256": "7d078e33f706e28d243cb4bf0f996f06e35231a8dbe4db928f16e7133066a493",
+      "md_span": {
+        "start": 1805,
+        "end": 2547
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "A la fin de la saison balnéaire 2015, toutes les eaux de baignade doivent être au moins de qualité suffisante.\n\nPour les eaux de baignade classées comme étant de qualité insuffisante, le membre du gouvernement qui a la gestion de l’eau dans ses attributions, ci-après «le ministre»\n\n- prononce une interdiction de baignade pour la saison suivante et ordonne l’avertissement des usagers par un avis affiché de manière visible sur le site, ainsi que par un signal clair;\n- charge l’Administration de la gestion de l’eau de rechercher les causes pour lesquelles une qualité suffisante n’a pas pu être atteinte;\n- veille à ce que les usagers soient informés sur les causes de la pollution et les mesures adoptées pour y remédier par un avis affiché de manière visible sur le site;\n- ordonne toute autre mesure adéquate pour éviter, réduire ou éliminer les sources de pollution ou pour prévenir l’exposition des usagers à la pollution.\n\nLorsque l’eau a été classée comme étant de qualité insuffisante pendant cinq années consécutives, le ministre prononce une interdiction permanente de baignade.\n\n*(Règl. g.-d. du 23 août 2012)*\n\n«Le ministre prend des mesures réalistes et proportionnées qu’il considère comme appropriées en vue d’accroître le nombre d’eaux de baignade dont la qualité est «excellente» ou «bonne».»",
+      "text_sha256": "a5501fbfcb34d26b7d757687d3942b6d578c0065c7a055a04823797b245f5ea3",
+      "md_span": {
+        "start": 2582,
+        "end": 3894
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/08/23/n12/jo",
+          "text": "Règl. g.-d. du 23 août 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour chaque eau de baignade, l’Administration de la gestion de l’eau établit un profil des eaux de baignade selon les modalités prévues à l’annexe III.\n\nIl est réexaminé\n\n- tous les quatre ans pour les eaux de baignade classées comme étant de bonne qualité;\n- tous les trois ans pour les eaux de baignade classées comme étant de qualité suffisante;\n- tous les deux ans pour les eaux de baignade classées comme étant de qualité insuffisante.\n\nLe profil n’a pas à être réexaminé tant que l’eau de baignade est classée comme étant de qualité excellente.\n\nEn cas de travaux importants réalisés sur le site ou à proximité du site, le profil doit en tout état de cause être réexaminé avant le début de la saison suivante.",
+      "text_sha256": "2cd535a3ff6edd7c8534a43bd8f961c6b44acfad73f040308776e435f71391de",
+      "md_span": {
+        "start": 3929,
+        "end": 4644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le bourgmestre de la commune sur le territoire de laquelle se situe le site de baignade ou une partie de celui-ci, informe l’Administration de la gestion de l’eau de toute situation susceptible d’altérer la qualité de l’eau de baignade ou de porter atteinte à la santé des usagers.\n\nL’Administration de la gestion de l’eau prend toute mesure nécessaire pour améliorer la qualité de l’eau, éviter, réduire ou éliminer le risque de pollution ou pour prévenir l’exposition des usagers à la pollution, y compris une interdiction temporaire de la baignade.",
+      "text_sha256": "4d58db9bf13b71705d6f548f09113519ce84c8be4fe619f383f94d4bac5b41a8",
+      "md_span": {
+        "start": 4679,
+        "end": 5230
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lorsque le profil des eaux de baignade indique un risque de prolifération de cyanobactéries, une surveillance appropriée est effectuée afin de permettre d’identifier en temps utile les risques sanitaires.\n\n*(Règl. g.-d. du 23 août 2012)*\n\n«Lorsqu’une pollution par la prolifération de cyanobactéries est constatée et lorsqu’un risque sanitaire est présumé, a été identifié ou se concrétise, le ministre prend immédiatement les mesures prévues à l’article 4, alinéa 2, 3e et 4e tirets.»",
+      "text_sha256": "c12487dd25ad21e9a7bdd4bf15e25c9fe6e58761491fd95e06d57ee8967f2c39",
+      "md_span": {
+        "start": 5265,
+        "end": 5750
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/08/23/n12/jo",
+          "text": "Règl. g.-d. du 23 août 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lorsque le profil des eaux de baignade indique une tendance à la prolifération de macroalgues ou de phytoplancton marin, une surveillance est instaurée afin de permettre d’identifier en temps utile les risques sanitaires.\n\nLe cas échéant, le ministre prend les mesures prévues à l’article 4, alinéa 2, 3e et 4e tirets.",
+      "text_sha256": "ec29afa0287a5c8335644dc5aee0884b77faef591d680038eaea9b60fc1bf1d0",
+      "md_span": {
+        "start": 5785,
+        "end": 6103
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La surveillance, l’évaluation de la qualité des eaux de baignade, ainsi que la liste des sites de baignade font l’objet d’une publicité sur support électronique. Un avis y relatif en informant sur le début de la publicité, qui est d’un mois au moins, est inséré dans quatre journaux quotidiens imprimés au Grand-Duché. Au cours de ladite période, les intéressés peuvent émettre toute observation, suggestion ou réclamation relative à la gestion de la qualité des eaux de baignade ou à la désignation des sites de baignade par le biais dudit support ou transmettre ces dernières directement à l’Administration de la gestion de l’eau.",
+      "text_sha256": "dd26d8777a5ae7256515a09bb434a9593c6b3981a694906758ad1a216fb89f53",
+      "md_span": {
+        "start": 6138,
+        "end": 6770
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pendant la saison balnéaire, la commune sur le territoire de laquelle se situe le site de baignade met en place sur le site, à un endroit visible et d’accès facile, un panneau d’affichage avec les informations suivantes:\n\n- le classement actuel de l’eau de baignade et, le cas échéant, toute interdiction de baignade au moyen d’un signal clair;\n- une description en termes non techniques du profil de baignade;\n- le cas échéant, l’indication que l’eau de baignade est exposée à des pollutions à court terme au sens du point 2 de l’annexe I, le nombre de jours pendant lesquels la baignade a été interdite au cours de la saison précédente en raison d’une telle pollution et un avertissement chaque fois qu’une telle pollution est prévue ou se produit pendant la saison balnéaire;\n- le cas échéant, des informations sur la nature et la durée prévue de situations anormales au sens du point 3 de l’annexe I;\n- le cas échéant, la radiation d’un site précédemment recensé comme site de baignade;\n- les endroits où des informations plus complètes peuvent être consultées.\n\nLes informations énumérées au paragraphe 1er ainsi que les informations suivantes sont également rendues publiques sur le site internet de l’Administration de la gestion de l’eau:\n\n- la liste des sites de baignade, qui est disponible avant le début de la saison balnéaire;\n- le classement des eaux de baignade au cours des trois dernières années, leur profil et les résultats de la surveillance effectuée depuis le classement précédent, qui est disponible dès l’achèvement des analyses;\n- pour les eaux de baignade classées comme étant de qualité insuffisante, des informations sur les sources de pollution et les mesures prises pour y remédier et pour protéger les usagers;\n- pour les eaux de baignade présentant des pollutions à court terme, des informations concernant les conditions susceptibles de conduire à de telles pollutions, la probabilité de survenance d’une telle pollution et sa durée probable ainsi que les sources de pollution et les mesures prises pour y remédier et pour protéger les usagers.",
+      "text_sha256": "5f50dd91af0b356f5f26260c7db0f37441283ad9b4b7045f2597f9a4b4dc7ee8",
+      "md_span": {
+        "start": 6807,
+        "end": 8884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’Administration de la gestion de l’eau adresse chaque année avant le 15 décembre au ministre, aux fins de rapport à la Commission européenne, les résultats de la surveillance et l’évaluation de la qualité des eaux de baignade ainsi qu’une description des mesures de gestion importantes qui ont été prises.",
+      "text_sha256": "afeab48d3a4174e15a43d2165fa5069c33d3f9244f0ed1ed2010bd1c89c05a07",
+      "md_span": {
+        "start": 8921,
+        "end": 9227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le premier classement des eaux de baignade est établi avant le 1er septembre 2015.\n\nLe profil des eaux de baignade est établi avant le 1er mars 2011.",
+      "text_sha256": "c4e1a73003c3954148f59b2ca80e90cdbd072eca2ea1f5cd5efe2b22ac6d3cba",
+      "md_span": {
+        "start": 9264,
+        "end": 9413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le règlement grand-ducal modifié du 17 mai 1979 concernant la qualité des eaux de baignade est abrogé.",
+      "text_sha256": "24d5edb4a6dfd270e3b8e93fb6880d7024eca07fe57e3437ea809f54d708888e",
+      "md_span": {
+        "start": 9450,
+        "end": 9552
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1979/05/17/n1/jo",
+          "text": "règlement grand-ducal modifié du 17 mai 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de l’Intérieur et à la Grande Région est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ef1681f84e20706f16cd09be1bf5fc50ca09fab23f510af0bc02f81359bfe17f",
+      "md_span": {
+        "start": 9589,
+        "end": 9716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Pour chaque eau de baignade, il est procédé à la diligence de l’Administration de la gestion de l’eau à cinq prélèvements effectués selon le calendrier suivant:\n\n- le premier le lundi de la semaine qui précède l’ouverture de la baignade;\n- le deuxième le troisième lundi du mois de mai;\n- le troisième le troisième lundi du mois de juin;\n- le quatrième le troisième lundi du mois de juillet;\n- le cinquième le troisième lundi du mois d’août;\n\net avec une tolérance de quatre jours.\n\n**2.** Le calendrier peut être suspendu en cas de situations anormales.\n\n*(Règl. g.-d. du 23 août 2012)*\n\n«Après la fin de la situation anormale, le calendrier de surveillance est rétabli dès que possible et de nouveaux échantillons sont prélevés afin de remplacer les échantillons qui n’ont pu être prélevés pendant la situation anormale.»\n\nUne situation anormale est un événement affectant la qualité de l’eau de baignade qui ne se produit généralement pas plus qu’une fois tous les quatre ans.\n\n*(Règl. g.-d. du 23 août 2012)*\n\n**«3.** En cas de pollution à court terme, un échantillon supplémentaire est prélevé afin de confirmer la fin de l’incident. Cet échantillon n’est pas utilisé pour l’évaluation de la qualité des eaux de baignade.\n\nEn outre, un échantillon prélevé pendant la durée de la pollution à court terme peut être écarté; dans ce cas il sera remplacé par un échantillon supplémentaire prélevé sept jours après la fin de la pollution à court terme.\n\nUne pollution à court terme est une contamination microbiologique portant sur les paramètres Escherichia coli ou entérocoques intestinaux qui a des causes aisément identifiables et qui ne devrait normalement pas affecter la qualité des eaux de baignade pendant plus de soixante-douze heures environ à partir du moment où la qualité des eaux a commencé à être affectée.»\n\n**4.** Sont à contrôler les paramètres suivants:\n\n- entérocoques intestinaux (UFC/100 ml);\n- Escherichia coli (UFC/100 ml).\n\n**5.** Les échantillons sont prélevés:\n\n- à l’endroit le plus représentatif ou à l’endroit le plus sensible à la pollution;\n- de préférence à 30 centimètres en dessous de la surface de l’eau à un endroit où l’eau a une profondeur minimale de 100 centimètres.\n\n**6.** La quantité minimale à prélever est de 250 ml au moins.\n\n**7.** Les récipients destinés à recevoir les échantillons doivent soit:\n\n- subir une stérilisation en autoclave à 121 °C pendant au moins quinze minutes;\n- subir une stérilisation sèche à 160 - 170 °C pendant au moins une heure;\n- être des récipients d’échantillonnage irradiés provenant directement du fabricant.\n\n**8.** Ils doivent être de verre, de polyéthylène ou de polypropylène, transparents et incolores.\n\n**9.** Les conditions de stérilité doivent être assurées tout au long du processus de prélèvement.\n\n**10.** Les échantillons doivent être identifiés à l’encre indélébile sur le récipient et sur le formulaire d’échantillonnage.\n\n**11.** Jusqu’à l’arrivée au laboratoire, les échantillons ne doivent pas être exposés au soleil et être conservés à une température d’environ 4 °C.\n\n**12.** Il ne doit pas s’écouler plus de 24 heures entre le prélèvement et le début de l’analyse.",
+      "text_sha256": "b20a3944a5cdc0d8aa0b6c19733295a0ab2c2d72619c9dfc88fe833ea704383f",
+      "md_span": {
+        "start": 9759,
+        "end": 12929
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/08/23/n12/jo",
+          "text": "Règl. g.-d. du 23 août 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les eaux de baignade sont classées comme étant soit d’excellente qualité, soit de bonne qualité, soit de qualité suffisante, soit de qualité insuffisante, selon les critères ci-après:\n\n1. Une eau est classée comme étant d’excellente qualité si, sur la base des données collectées au cours des quatre dernières saisons balnéaires, les valeurs numériques du percentile pour les dénombrements bactériens sont inférieures ou égales aux valeurs indiquées dans la colonne B du tableau ci-dessous.\n2. Une eau est classée comme étant de bonne qualité si sur la base des données collectées au cours des quatre dernières saisons balnéaires, les valeurs numériques du percentile pour les dénombrements bactériens sont inférieures ou égales aux valeurs indiquées dans la colonne C du tableau ci-dessous.\n3. Une eau est classée comme étant de qualité suffisante si sur la base des données collectées au cours des quatre dernières saisons balnéaires, les valeurs numériques du percentile pour les dénombrements bactériens sont inférieures ou égales aux valeurs indiquées dans la colonne D du tableau ci-dessous.\n4. Une eau est classée comme étant de qualité insuffisante si sur la base des données collectées au cours des quatre dernières saisons balnéaires, les valeurs numériques du percentile pour les dénombrements bactériens sont supérieures aux valeurs indiquées dans la colonne D du tableau ci-dessous.\n\n| A | B | C | D | E |\n| --- | --- | --- | --- | --- |\n| Paramètre | excellente qualité | bonne qualité | qualité suffisante | méthodes deréférence pourl’analyse |\n| entérocoquesintestinaux(UFC/100 ml) | 200 | 400 | 330 | ISO 7899-1ouISO 7899-2 |\n| Escherichia coli(UFC/100 ml) | 500 | 1.000 | 900 | ISO 9308-3ouISO 9308-4 |\n\nPour les colonnes B et C l’évaluation se fait au 95e percentile.\n\nPour la colonne D l’évaluation se fait au 90e percentile.\n\nFondée sur l’évaluation du percentile de la fonction normale de densité de probabilité log10 des données microbiologiques obtenues pour l’eau de baignade concernée, la valeur du percentile est calculée de la manière suivante:\n\n- prendre la valeur log10 de tous les dénombrements bactériens de la séquence de données à évaluer (si une valeur égale à zéro est obtenue, il convient de prendre la valeur log10 du seuil minimal de détection de la méthode analytique utilisée)\n- calculer la moyenne arithmétique des valeurs log10 (μ)\n- calculer l’écart type des valeurs log10 (σ).\n\nLa valeur au 90e percentile supérieur de la fonction de densité de probabilité des données est tirée de l’équation suivante: 90e percentile supérieur = antilog (μ + 1,282 σ).\n\nLa valeur au 95e percentile supérieur de la fonction de densité de probabilité des données est tirée de l’équation suivante: 95e percentile supérieur = antilog (μ + 1,65 σ).\n\n**2.** La classification d’une eau dans l’une des catégories a), b) ou c) du point 1 n’est pas affectée par le fait que l’eau présente une pollution à court terme à condition que:\n\n- des mesures adéquates, comme l’alerte précoce, l’avertissement des baigneurs, ou, le cas échéant, une interdiction de baignade, ont été prises pour protéger la santé des baigneurs,\n- des mesures de gestion adéquates sont prises pour prévenir, réduire ou éliminer les sources de pollution, et que\n- le nombre d’échantillons écartés en vertu du point 3 de l’annexe I n’est pas supérieur à un par année, ni ne représente plus de 15% du nombre total d’échantillons prélevés au cours des quatre dernières années.",
+      "text_sha256": "f7bef9ffa55c2d5ef20299c2c52ad5207d48ca8c6598909e033ca4b7fc6350d7",
+      "md_span": {
+        "start": 12973,
+        "end": 16444
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2009-05-19-n1:2012-09-22#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le profil des eaux de baignade comprend les éléments suivants:\n\n1. la localisation du point de surveillance;\n2. une description des caractéristiques physiques, géographiques et hydrologiques des eaux de baignade et des autres eaux de surface du bassin des eaux de baignade concernées, qui pourraient être des sources de pollution;\n3. une identification et une évaluation des sources de pollution de nature à affecter les eaux de baignade ou à altérer la santé des baigneurs;\n4. une évaluation du potentiel de prolifération des cyanobactéries;\n5. une évaluation du potentiel de prolifération des macroalgues et du phytoplancton;\n6. - à la nature, la fréquence et la durée prévisibles de la pollution;\n- aux mesures prises pour éviter, réduire ou éliminer les sources de pollution et leur calendrier de mise en œuvre;\n- aux mesures prises durant la pollution et à l’autorité responsable de leur mise en œuvre.\n\nDans la mesure du possible, les points b) et c) sont représentés sur une carte.",
+      "text_sha256": "fb7acd69e5765ddab558ede3eca5494f7e344539612151a8655806ccaf9691fa",
+      "md_span": {
+        "start": 16489,
+        "end": 17477
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

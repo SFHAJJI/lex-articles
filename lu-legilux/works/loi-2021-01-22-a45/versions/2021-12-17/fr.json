@@ -1,0 +1,204 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/03/2022 : Loi du 22 janvier 2021 portant :\\n1° modification des articles L. 234-51, L. 234-52 et L. 234-53 du Code du travail ;\\n2° dérogation temporaire aux dispositions des articles L. 234- 51, L. 234-52 et L. 234-53 du Code du travail.\\n",
+  "valid_from": "2021-12-17",
+  "valid_to": "2022-02-28",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2021-01-22-a45/versions/2021-12-17/fr.xml",
+    "sha256": "7b22f2eb795b3ee0d77cf498ec0154271a5fb44d5667086a8d1cfc2afde3b92d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/20211217/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/art_1er/20210121",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-21",
+      "text_md": "À l’article L. 234-51 du Code du travail est inséré un alinéa 2 nouveau de la teneur suivante :II en est de même en cas de mise en quarantaine de l’enfant de moins de treize ans accomplis et de mesure d’isolement, d’éviction, d’éloignement, de mise à l’écart ou de maintien à domicile de l’enfant de moins de treize ans accomplis, pour des raisons impérieuses de santé publique, décidées ou recommandées par l’autorité nationale ou étrangère compétente, en vue de limiter la propagation d’une épidémie.",
+      "text_sha256": "c48e627223261d6c400bc944682f81d5048eb93120469d2b28c1f28b7f4420b5",
+      "md_span": {
+        "start": 760,
+        "end": 1262
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/art_2/20210121",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-21",
+      "text_md": "À l’article L. 234-52, alinéa 5, du même code, les termes , sur avis conforme du Contrôle médical de la sécurité sociale, sont supprimés et les termes pour tous les cas visés à l’article L. 234-51, alinéa 2, ainsi que sont insérés entre les termes prorogée et les termes pour les enfants.",
+      "text_sha256": "e09b513382309f08f6b15785ba3d11a1f182e220ea22a4089a2048e9e616803a",
+      "md_span": {
+        "start": 1297,
+        "end": 1585
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/art_3/20210121",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-21",
+      "text_md": "À l’article L. 234-53 du même code, l’alinéa 1er est remplacé comme suit :Pour les cas visés à l’article L. 234-51, alinéa 1er, l’absence du bénéficiaire lors d’un congé pour raisons familiales est justifiée moyennant un certificat médical attestant la maladie, l’accident ou d’autres raisons impérieuses de santé de l’enfant, la nécessité de la présence du bénéficiaire et la durée de celle-ci. Pour les cas visés à l’article L. 234-51, alinéa 2, l’absence du bénéficiaire est justifiée par un certificat de l’autorité nationale ou étrangère compétente attestant la décision ou la recommandation.",
+      "text_sha256": "c67c2989b2545486be7ad5c93a96c7407db6eba475b9da0ac02d6da2184824fa",
+      "md_span": {
+        "start": 1620,
+        "end": 2217
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/art_4/20210121",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-21",
+      "text_md": "Par dérogation à l’article L. 234-51, alinéa 1er, du même code, peut également prétendre au congé pour raisons familiales le salarié ou le travailleur indépendant ayant à charge :\n\n1. un enfant vulnérable au Covid-19 à condition de produire un certificat médical attestant cette vulnérabilité et la contre-indication de fréquenter l’école ou une structure d’accueil pour enfants, à savoir un service d’éducation et d’accueil pour jeunes enfants, un service d’éducation et d’accueil pour enfants scolarisés, une mini-crèche ou un accueil auprès d’un assistant parental ;\n2. er\n3. er\n4. un enfant de moins de treize ans accomplis fréquentant une école ou une structure d’accueil définie au point 1° qui, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, a dû être fermée de façon isolée par l’autorité publique compétente à condition de produire un certificat attestant la situation donnée émis par l’autorité publique compétente.\n\nEn cas de fermeture totale ou partielle ou de façon isolée, avec ou sans enseignement à distance des écoles ou des structures d’accueil pour enfants situées en dehors du territoire luxembourgeois, pour des raisons liées à la crise sanitaire due à la pandémie du Covid-19, un document officiel émanant de l’autorité compétente du pays concerné attestant la situation donnée est à joindre à la demande par le bénéficiaire.\n\nLa limite d’âge de moins de treize ans accomplis ne s’applique pas aux enfants qui bénéficient de l’allocation spéciale supplémentaire au sens de l’article 274 du Code de la sécurité sociale.",
+      "text_sha256": "4dfec87a5232bc260b70fd66d38a8fba4752734fa4e74340f1fd9a95bd5fe0dc",
+      "md_span": {
+        "start": 2252,
+        "end": 3820
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        },
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/art_5/20210121",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-21",
+      "text_md": "Par dérogation à l’article L. 234-52, alinéa 5, du même code, la durée du congé pour raisons familiales peut également être prorogée dans les cas visés à l’article 4.",
+      "text_sha256": "b6038fdf2a7f20751b6cbf1637a4554def06837c688a45b81f6d428506689071",
+      "md_span": {
+        "start": 3855,
+        "end": 4021
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/art_6/20210121",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-21",
+      "text_md": "Par dérogation à l’article L. 234-53 du même code, l’absence du salarié bénéficiaire d’un congé pour raisons familiales pris par dérogation à l’article L. 234-51, alinéa 1er, du Code du travail est justifiée par un certificat médical pour les cas visés à l’article 4, point 1°, et par un certificat émanant du Ministère de l’éducation nationale, de l’enfance et de la jeunesse ou de l’autorité publique compétente, ou bien par un document officiel émanant de l’autorité compétente du pays concerné dans les cas visés à l’article 4, points 2° à 4°.\n\nDans tous ces cas le bénéficiaire du congé pour raisons familiales est considéré comme couvert par un certificat médical tel que prévu à l’article L. 121-6, paragraphe 2, du Code du travail à l’égard de l’employeur et de la Caisse nationale de santé.",
+      "text_sha256": "08aad516770743487722b1296a0522cb6da42408666f0698a3dd936cf97d5161",
+      "md_span": {
+        "start": 4056,
+        "end": 4855
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "code"
+        },
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/art_7/20210121",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-01-21",
+      "text_md": "Les salariés en situation effective de chômage partiel prévu aux articles L. 511-1 à L. 511-15 et L. 512-7 à L. 512-10 du Code du travail ne sont pas éligibles à la dérogation prévue à l’article 4.",
+      "text_sha256": "a3c75635f1147f30a7aa6951ae072f8f30b2db50e3f901a06d8bb61c8e389249",
+      "md_span": {
+        "start": 4890,
+        "end": 5087
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/travail",
+          "text": "Code du travail"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2021-01-22-a45:2021-12-17#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/art_8/20211217",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-12-17",
+      "text_md": "Les articles 4 à 7 produisent leurs effets au 21 janvier 2021 et restent applicables jusqu’au 28 février 2022 inclus.",
+      "text_sha256": "a7d405dd2856f5ae04e063afbfc7d6f72d484b6204a9f91eade4fd66ae7e1b2b",
+      "md_span": {
+        "start": 5122,
+        "end": 5239
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

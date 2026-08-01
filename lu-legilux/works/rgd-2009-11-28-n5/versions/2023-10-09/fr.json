@@ -1,0 +1,247 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/10/2023 : Règlement grand-ducal du 28 novembre 2009 portant tarif des frais de justice de toute nature.",
+  "valid_from": "2023-10-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-11-28-n5/versions/2023-10-09/fr.xml",
+    "sha256": "b6dd13cb846acd2ea50aa586f16241fe9fd2cbcdc797be964073376e9e3d9f34",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20231009/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_1er/20120117",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-01-17",
+      "text_md": "Le présent règlement a pour objet la fixation des indemnités à allouer en toutes matières aux experts, témoins, interprètes et techniciens chaque fois que ceux-ci font l’objet d’une réquisition, convocation ou désignation par une autorité judiciaire ou par des officiers de police judiciaire ou des personnes ayant cette qualité pour l’exercice de leurs missions légales ou des agents exerçant des missions de police judiciaire.\n\nToute réquisition, convocation ou désignation doit préciser la personne physique ou morale à qui elle s’applique et qui seule peut être indemnisée de ce fait.",
+      "text_sha256": "55b7282c1d57669e420a1de408e89a4cdc652755860b680c18a056d8c98dbcd5",
+      "md_span": {
+        "start": 615,
+        "end": 1203
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_2/20231009",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-09",
+      "text_md": "Les témoins reçoivent à leur demande une indemnité fixée à 12,50 euros par demi-jour de comparution. Cette indemnité est également due à toute personne appelée à accompagner un témoin si celui-ci a besoin d’une assistance en raison de son jeune âge ou de son infirmité. L’indemnité de comparution n’est pas due aux agents de l’Etat, des communes et des établissements publics qui sont appelés à témoigner en cette qualité.",
+      "text_sha256": "ae41014acd27d6b9c4b1fdb508bbfb3882cd6816676341d7ac23d28f104992a1",
+      "md_span": {
+        "start": 1238,
+        "end": 1660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_3/20231009",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-09",
+      "text_md": "En cas de réquisition de justice comportant obligation d’une prestation professionnelle immédiate, il est alloué aux médecins, médecins-dentistes et médecins-vétérinaires\n\n1. 145 euros pour une consultation ou une visite, y compris la rédaction d’un rapport;\n2. 46 euros pour une prise de sang.\n\nCes montants constituent une indemnisation forfaitaire couvrant tous les frais liés au déplacement et à l’activité tant médicale qu’administrative du médecin, médecin-dentiste ou médecin-vétérinaire.\n\nLorsque d'autres prestations médicales s'avèrent nécessaires, liées à une prestation professionnelle immédiate, celles-ci sont remboursées sur présentation d'une déclaration motivée.\n\nLes mémoires d'honoraires, accompagnés de la réquisition, sont transmis par le médecin, médecin-dentiste ou médecin-vétérinaire au Ministre de la Justice aux fins de liquidation.\n\nUne copie de la réquisition est envoyée par l'agent requérant directement aux autorités judiciaires concernées.\n\nEn cas de rectification éventuelle du mémoire d'honoraire par l'ordonnateur, le médecin, médecin-dentiste ou médecin-vétérinaire est entendu en ses explications.",
+      "text_sha256": "2113b6e3c86daa9256e0020c90aecc7f04becfa9829e590f42f5466cc1e28367",
+      "md_span": {
+        "start": 1695,
+        "end": 2830
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_4/20231009",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-09",
+      "text_md": "Les indemnités des experts, interprètes et techniciens, autres que celles couvertes par l’article 3 ci-avant, y compris les comparutions devant les juridictions, sont calculées sur base horaire et fixées à 71 euros par vacation horaire.\n\nLa fraction de vacation obtenue après addition des différentes prestations partielles, à l’intérieur d’une même mission globale, est comptée pour une vacation horaire entière.\n\nL'autorité judiciaire, auteur de la désignation, a la faculté de dépasser le taux des honoraires prévu par le présent règlement et de fixer l'indemnité à un niveau correspondant à la complexité des prestations fournies.\n\nLes prix des fournitures et frais de bureau qui ont un rapport direct, nécessaire et exclusif avec la prestation résultant d’une réquisition, convocation ou désignation sont remboursés sur présentation d’une déclaration motivée.\n\nLorsque l'expert ou le technicien le juge nécessaire, il peut prendre l'avis d'autres experts ou techniciens pour l'accomplissement de sa mission en informant préalablement l'autorité judiciaire qui a procédé à la réquisition, convocation ou désignation initiales.",
+      "text_sha256": "12460a9b0bf0f1d6602aa20f879b3f886030998ed179eff301433e40266cd6c6",
+      "md_span": {
+        "start": 2865,
+        "end": 3995
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_5/20120117",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-01-17",
+      "text_md": "Le prestataire assujetti à la taxe sur la valeur ajoutée est autorisé à majorer le montant des indemnités et tarifs à hauteur du montant de la taxe que l'assujetti doit acquitter. Les règles de l’échelle mobile des salaires ne leur sont pas applicables.",
+      "text_sha256": "a19e852d3ac1ad665859b094953e0ed3e3693e65bd29ca84c3cd2f163dc5971a",
+      "md_span": {
+        "start": 4030,
+        "end": 4283
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_6/20120117",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-01-17",
+      "text_md": "Les indemnités de déplacement et de séjour accordées dans les cas visés par les articles 2 à 4 ci-avant sont calculées conformément à la réglementation portant fixation des frais de route et de séjour des fonctionnaires et employés de l’Etat.\n\nTout déplacement à l’étranger dans le contexte d’une prestation relevant de l’article 4 ci-avant doit être autorisé au préalable par l’autorité qui a procédé à la réquisition, convocation ou désignation. Cette autorisation doit également porter sur le moyen de transport à utiliser.",
+      "text_sha256": "ecbb3cf4f18fd9f6501165015f0e020875b7271b06c204e9a68b312acf2a6561",
+      "md_span": {
+        "start": 4318,
+        "end": 4844
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_7/20231009",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-10-09",
+      "text_md": "Les tarifs des entreprises de dépannage et de pompes funèbres et autres prestataires de services techniques, non visés par les articles 3 et 4, réquisitionnés, convoqués ou désignés par une autorité judiciaire et par la Police grandducale, sont calculés par rapport à la durée des prestations qui en découlent dans une situation donnée et fixés à 71 euros par heure de travail.\n\nL'indemnité kilométrique est fixée à 3,00 euros.\n\nLorsque des prestations spécifiques s'avèrent nécessaires, celles-ci sont remboursées sur présentation d'une déclaration motivée.\n\nLes factures accompagnées de la réquisition indiquant de façon détaillée la prestation à réaliser sont transmises par le prestataire au Ministre de la Justice aux fins de liquidation.\n\nUne copie de la réquisition est envoyée par l'agent requérant directement aux autorités judiciaires concernées.\n\nEn cas de rectification éventuelle de la facture par l'ordonnateur, le prestataire est entendu en ses explications.",
+      "text_sha256": "6e4468ca111cf7b698e7bb6dbf0d2dd8badbd182d731ba93514eea556e1230ed",
+      "md_span": {
+        "start": 4879,
+        "end": 5852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_8/20120117",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-01-17",
+      "text_md": "Les prestations dont le coût ne peut être calculé selon le système des vacations horaires et dont la durée sera supérieure à un mois sont acceptées par le Ministre de la Justice sur base d'un devis que présente le prestataire endéans les quinze jours à partir de la date de la réquisition, dont une copie est envoyée par l'agent requérant directement aux autorités judiciaires concernées.",
+      "text_sha256": "167eeae88553a0d9a9b16385139c61b0e52daf02439b70f6fc2ee100cb434841",
+      "md_span": {
+        "start": 5887,
+        "end": 6275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_9/20120117",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-01-17",
+      "text_md": "Les montants figurant aux articles 2 à 4 et 7, alinéa 1er ci-avant sont majorés de 50% s’ils portent sur des comparutions ou prestations qui, en raison de la réquisition, convocation ou désignation qui est à leur origine, ont dû avoir lieu entre 22 heures et 7 heures ou un dimanche ou un jour férié.",
+      "text_sha256": "e8000dea68cf45fb2ad5002b5022721c7f13eae78f10c43957d2c8719f75b2de",
+      "md_span": {
+        "start": 6310,
+        "end": 6610
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_10/20120117",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-01-17",
+      "text_md": "Les déclarations, notes de frais, mémoires d’honoraires et analogues, dont le payement est régi par l'article 4 ci-avant, y compris le nombre de vacations mis en compte, sont certifiés exacts, le cas échéant après rectification, par l’auteur de la réquisition, convocation ou désignation, le prestataire ayant été entendu en ses explications, et transmis dans les meilleurs délais au Ministre de la Justice. Il est procédé à leur payement conformément à la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l’Etat.",
+      "text_sha256": "fdb328dabda05b4f12a2be1acd03f25987c15a694480c7a58dab21595d77659f",
+      "md_span": {
+        "start": 6647,
+        "end": 7190
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/08/n2/jo",
+          "text": "loi modifiée du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_11/20091212",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-12-12",
+      "text_md": "Le règlement grand-ducal modifié du 23 décembre 1972 portant nouvelle fixation des indemnités à allouer en toutes matières aux témoins, experts et interprètes, le règlement grand-ducal du 14 octobre 2005 portant fixation des tarifs médicaux en cas de réquisition de justice et les articles 137 à 142, 149 et 152 à 155 du décret du 18 juin 1811 contenant règlement pour l’administration de la justice en matière criminelle, de police correctionnelle et de simple police, et tarif général des frais, sont abrogés.",
+      "text_sha256": "884c2be80a7115b1b403df6cfd7c40f1917b9bec2867c7657bf53371f120cc77",
+      "md_span": {
+        "start": 7227,
+        "end": 7738
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1972/12/23/n3/jo",
+          "text": "règlement grand-ducal modifié du 23 décembre 1972"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2005/10/14/n1/jo",
+          "text": "règlement grand-ducal du 14 octobre 2005"
+        },
+        {
+          "href": "/eli/etat/leg/dec/1811/06/18/n1/jo",
+          "text": "décret du 18 juin 1811"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/art_12/20091212",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-12-12",
+      "text_md": "Notre Ministre de la Justice est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "b1bf10b9feb7af6afe51e6bc7ef5479296f3c0f28abfddb22071dc3e0ac54eba",
+      "md_span": {
+        "start": 7775,
+        "end": 7879
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

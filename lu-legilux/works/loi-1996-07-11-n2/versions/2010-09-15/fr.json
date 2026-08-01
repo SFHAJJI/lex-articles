@@ -1,0 +1,220 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2015 : Loi du 11 juillet 1996 portant organisation d'une formation menant au brevet de maîtrise et fixation des conditions d'obtention du titre et du brevet de maîtrise.",
+  "valid_from": "2010-09-15",
+  "valid_to": "2014-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1996-07-11-n2/versions/2010-09-15/fr.xml",
+    "sha256": "98cb6d56cfe1d08f0876a235fbaad01bfe5b473faa4279bcaaa11973ca42e017",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/consolide/20100915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_1er/19960811",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre I – Du champ d'application"
+      ],
+      "article_valid_from": "1996-08-11",
+      "text_md": "Dans le secteur de l'artisanat, il est organisé une formation menant au brevet de maîtrise habilitant à s'établir à titre d'indépendant et à former des apprentis conformément aux dispositions légales en matière de droit d'établissement et d'apprentissage, sans préjudice des dispositions y relatives dans d'autres lois.",
+      "text_sha256": "e08441eeb1c0a66ab7ab1c6b65df4034f9d035dc7bad504d61abb241226b23c0",
+      "md_span": {
+        "start": 730,
+        "end": 1049
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_2/19960811",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre I – Du champ d'application"
+      ],
+      "article_valid_from": "1996-08-11",
+      "text_md": "Le contrôle général de la formation menant au brevet de maîtrise et des examens de maîtrise est assuré par le directeur à la formation professionnelle, assisté du directeur adjoint à la formation professionnelle.",
+      "text_sha256": "11947cfd779a4b96f4702f12481e412e9671425f8b4ed0f187b6305e8ee13ae7",
+      "md_span": {
+        "start": 1084,
+        "end": 1296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_3/20100915",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre II – De l'organisation des cours"
+      ],
+      "article_valid_from": "2010-09-15",
+      "text_md": "Les cours préparatoires au brevet de maîtrise, dénommés dans la suite «les cours», sont organisés sous forme modulaire par la Chambre des Métiers.\n\nLes cours portent sur les domaines suivants:\n\n- l'organisation et la gestion d'entreprise;\n- la pédagogie appliquée;\n- la technologie;\n- la pratique professionnelle.\n\nLes cours de pratique professionnelle sont organisés à la demande d'un candidat.\n\nChaque année, une liste des métiers dans lesquels des cours sont organisés est publiée par le ministre ayant la Formation professionnelle dans ses attributions, désigné dans la suite par le terme «le ministre».\n\nLes cours de l'organisation et de la gestion d'entreprise et les cours de la pédagogie appliquée sont communs à tous les métiers.\n\nIls sont organisés soit au Centre de formation de la Chambre des Métiers, soit dans les lycées techniques, soit dans les centres de formation professionnelle continue.\n\nLes cours de technologie peuvent comprendre des modules communs à plusieurs métiers et des modules spécifiques à chaque métier.\n\nLa participation aux cours est soumise à un droit d'inscription fixé par règlement grand-ducal sans pouvoir dépasser le montant de 1.250 € par an.\n\nLes modalités d'application technique du présent article sont fixées par règlement grand-ducal.",
+      "text_sha256": "7188021591472e2b338c2fed00e7038109a3141d1a11edca0004ceb6291b22f9",
+      "md_span": {
+        "start": 1377,
+        "end": 2658
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_4/20100915",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre II – De l'organisation des cours"
+      ],
+      "article_valid_from": "2010-09-15",
+      "text_md": "Pour être inscrit aux cours relatifs à un métier, le candidat doit être détenteur du certificat d'aptitude technique et professionnelle (CATP) ou du diplôme d'aptitude professionnelle (DAP) du métier en question. Tout autre diplôme ou certificat doit être soumis au ministre qui décidera de l'inscription.\n\nLa fréquentation des cours est obligatoire. Le candidat absent sans motivation à un cinquième des cours est écarté d'office des examens de maîtrise pour la session en cours par le directeur à la formation professionnelle.\n\nToutefois des dispenses de fréquentation des cours peuvent être accordées par le directeur à la formation professionnelle sur présentation de pièces justificatives.\n\nDans la mesure des places disponibles, les cours préparatoires au brevet de maîtrise sont accessibles également à des personnes qui désirent compléter leurs connaissances dans le cadre de la formation continue ou de perfectionnement professionnel et qui ne tombent pas sous la présente législation.",
+      "text_sha256": "63fb24e82a30a8614e92b768f2bf753d3f12c69b2c3d3453e80802c0884ebfa0",
+      "md_span": {
+        "start": 2693,
+        "end": 3687
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_5/20100915",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre III – De l'organisation des examens"
+      ],
+      "article_valid_from": "2010-09-15",
+      "text_md": "Il y a deux sessions d'examen par an, l'une au printemps, l'autre en automne.\n\nLes examens sont organisés par la Chambre des Métiers.\n\nIls portent sur:\n\n- l'organisation et la gestion d'entreprise;\n- la pédagogie appliquée;\n- la technologie;\n- la pratique professionnelle.\n\nLe candidat définit les modules auxquels il veut se soumettre lors de la session dans laquelle il s'inscrit. Pour être admis aux épreuves de pratique professionnelle, le candidat doit être âgé de 21 ans, avoir exercé le métier en question pendant 3 ans après l'obtention du certificat d'aptitude technique et professionnelle (CATP) et avoir réussi aux modules de la théorie professionnelle.\n\nPour pouvoir participer aux épreuves de la pratique professionnelle, le candidat doit avoir réussi les modules de la technologie. A la date des épreuves pratiques, il doit avoir exercé le métier en question pendant une année au moins après l'obtention du certificat ou du diplôme correspondant.\n\nTout candidat qui ne répond pas à ces conditions peut adresser une demande d'inscription aux épreuves de pratique professionnelle dûment motivée accompagnée de pièces justificatives au directeur à la formation professionnelle, qui statuera.\n\nDes limitations quant à la durée pour passer l'ensemble des modules prévus ainsi qu'à la possibilité de répéter les différents modules sont introduites par règlement grand-ducal.\n\nDes dispenses relatives aux modules à examiner peuvent être accordées par le directeur à la formation professionnelle sur présentation de pièces jusitificatives.\n\nLa participation aux épreuves d'examen est soumise à un droit d'inscription fixé par règlement grand-ducal sans pouvoir dépasser le montant de 1.250 € par session d'examen.\n\nLes modalités d'organisation des examens sont fixées par règlement grand-ducal.",
+      "text_sha256": "b5b9207500c393df0684e4c074dabedbd2104defb47505846cd83bc9d8911028",
+      "md_span": {
+        "start": 3771,
+        "end": 5571
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_6/20100915",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre III – De l'organisation des examens"
+      ],
+      "article_valid_from": "2010-09-15",
+      "text_md": "Il est institué une commission d'examen pour les modules des cours de l'organisation et de la gestion d'entreprise et de la pédagogie appliquée composée d'un membre effectif et d'un membre suppléant différents par module examiné.\n\nLes membres de cette commission sont nommés par le ministre pour un terme de trois ans sur proposition de la Chambre des Métiers.",
+      "text_sha256": "451fd72b778474ebfac68125bebfe04bcd559e3059decfc89949e3e03e5dd53a",
+      "md_span": {
+        "start": 5606,
+        "end": 5966
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_7/20100915",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre III – De l'organisation des examens"
+      ],
+      "article_valid_from": "2010-09-15",
+      "text_md": "Il est institué par métier une seule et même commission d'examen pour les modules des cours de la technologie et de la pratique professionnelle.\n\nChaque commission comprend trois membres effectifs et trois membres suppléants qui sont nommés par le ministre pour un terme de trois ans.\n\nDeux membres effectifs, dont le président, et deux membres suppléants sont proposés par la Chambre des Métiers.\n\nLes membres de la commission doivent être en possession du brevet de maîtrise dans le métier ou dans un métier à connexité technique arrêté par le ministre sur proposition de la Chambre des Métiers, ou présenter des pièces justificatives reconnues équivalentes par le ministre compétent.\n\nSur proposition conjointe de la Chambre des Métiers et du directeur à la formation professionnelle, le ministre peut nommer des membres supplémentaires dans les commissions visées par le présent article. Sur demande de la commission, le ministre peut y adjoindre également des experts.",
+      "text_sha256": "1dd8e88794c9065805d4cc276b965b11876f7b6c2da2f3de4c2dce30e6336c3f",
+      "md_span": {
+        "start": 6001,
+        "end": 6974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_8/19960811",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre IV – Du brevet et du titre de maîtrise"
+      ],
+      "article_valid_from": "1996-08-11",
+      "text_md": "Le ministre délivre aux candidats ayant réussi aux épreuves de l'examen, le brevet de maîtrise qui sera contresigné par le président de la Chambre des Métiers.\n\nLe modèle du brevet est fixé par le ministre.\n\nLe détenteur du brevet de maîtrise porte le titre de maître-artisan dans son métier.",
+      "text_sha256": "69403fd29c5a4c7f0ba3d1fb726c92f7ee91b2db57ae918f14c4766b32fb0014",
+      "md_span": {
+        "start": 7061,
+        "end": 7353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_9/19960811",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre IV – Du brevet et du titre de maîtrise"
+      ],
+      "article_valid_from": "1996-08-11",
+      "text_md": "La loi du 2 juillet 1935 portant réglementation des conditions d'obtention du titre et du brevet de maîtrise dans l'exercice des métiers est abrogée. Toutefois, les règlements grand-ducaux pris sur la base de cette loi restent en vigueur et ne sont abrogés qu'au fur et à mesure qu'ils sont remplacés par des règlements grand-ducaux basés sur la présente loi.",
+      "text_sha256": "ecaa5db78caedd35c1c76b6592caceb05f7898c6784a6021a9dd811de27845c6",
+      "md_span": {
+        "start": 7388,
+        "end": 7747
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 2 juillet 1935"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1996-07-11-n2:2010-09-15#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/art_10/19960811",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre IV – Du brevet et du titre de maîtrise"
+      ],
+      "article_valid_from": "1996-08-11",
+      "text_md": "La présente loi entrera en vigueur à partir de la session 1997/1998 du brevet de maîtrise.",
+      "text_sha256": "850d37c2a3b80bfce4e0de4985df1223194dee9f84ef8d9cd5bdd0d79eb7b801",
+      "md_span": {
+        "start": 7784,
+        "end": 7874
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

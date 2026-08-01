@@ -1,0 +1,67 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2019-05-28-a415",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2024-06-21",
+        "valid_to": null,
+        "text_sha256": "db2aede50c7a15092de786ba0dc1b70750300fc06ba6f3e4151b5db77d763a22",
+        "in_version": "lu-legilux:rgd-2019-05-28-a415:2024-06-21",
+        "article_valid_from": "2019-06-18",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2024-06-21",
+        "valid_to": null,
+        "text_sha256": "8dce7b1c1aabfc3e6254b141646171d194ab7ab9ff2ef618967966c14c03d462",
+        "in_version": "lu-legilux:rgd-2019-05-28-a415:2024-06-21",
+        "article_valid_from": "2019-06-18",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2024-06-21",
+        "valid_to": null,
+        "text_sha256": "5b59931e07e15ed42e62abf66a72743bfba10ddf7c8a175ddc1b809dfe061b51",
+        "in_version": "lu-legilux:rgd-2019-05-28-a415:2024-06-21",
+        "article_valid_from": "2019-06-18",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2024-06-21",
+        "valid_to": null,
+        "text_sha256": "4ca4fca885fcc201725622a2b605acef9085b4a8bf05b1e4f04169b9ca27c979",
+        "in_version": "lu-legilux:rgd-2019-05-28-a415:2024-06-21",
+        "article_valid_from": "2019-06-18",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2024-06-21",
+        "valid_to": null,
+        "text_sha256": "0161efb74b52d949828bfcd203f5987d4f22f54fd5deee193a0e7cbef96cf62d",
+        "in_version": "lu-legilux:rgd-2019-05-28-a415:2024-06-21",
+        "article_valid_from": "2024-06-21"
+      }
+    ],
+    "attachment_1": [
+      {
+        "valid_from": "2024-06-21",
+        "valid_to": null,
+        "text_sha256": "34eed85a491357a97281fe6dc7b2d2d617568ae7ed1596b4b5886bf50c11dd4e",
+        "in_version": "lu-legilux:rgd-2019-05-28-a415:2024-06-21"
+      }
+    ]
+  },
+  "anchor_events": []
+}

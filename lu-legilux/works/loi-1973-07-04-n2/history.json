@@ -1,0 +1,89 @@
+{
+  "lex_work_id": "lu-legilux:loi-1973-07-04-n2",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "95783be0f48009e8e9f0f3854f89acbc44fb4c3d916144c44ed2be6bcbaa1e6f",
+        "in_version": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+        "article_valid_from": "2015-01-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "453b81dca82b70017569e0597634368e79d4cca9732538fcd70df2c1abaae435",
+        "in_version": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+        "article_valid_from": "1973-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "45244cc8bb26bcc17c8e399580950abe69ba113a18348a78e6c512f4b7a5c7d3",
+        "in_version": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+        "article_valid_from": "1973-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "34aec5dcd5615546b30fb6739f5ec0a3fa7c04d2d8bfb2993c330f8e8cfcb07f",
+        "in_version": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+        "article_valid_from": "1973-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "d5d12e0c96230c924983932f3ac2c113bfdeaf80c534d96bb5bd3fe71bdbf56d",
+        "in_version": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+        "article_valid_from": "1973-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "c18999212b9d4dcb91be13fecb8a311908816c9a7bb32f2817aafa114167dd83",
+        "in_version": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+        "article_valid_from": "1973-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "f212954663e6f406e8aa4d71c58d6e48d7d5c89a81b52ab2aea602e10d67e6b1",
+        "in_version": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+        "article_valid_from": "1973-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2015-01-01",
+        "valid_to": null,
+        "text_sha256": "77ae1e3c7d34b7a4ba353740f29e974d62c12115045f2184ff4d65664c7e60a5",
+        "in_version": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+        "article_valid_from": "1973-08-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

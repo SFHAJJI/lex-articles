@@ -1,0 +1,2051 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/07/2024 : Loi du 22 mars 2004 relative à la titrisation et portant modification de\\n - la loi modifiée du 5 avril 1993 relative au secteur financier\\n - la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier\\n - la loi du 27 juillet 2003 sur le trust et les contrats fiduciaires\\n - la loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu\\n - la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune\\n - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée.",
+  "valid_from": "2009-01-01",
+  "valid_to": "2010-02-22",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2004-03-22-n1/versions/2009-01-01/fr.xml",
+    "sha256": "da764898d40b9e7c245d03cdeab625af575097ed899ba1074f96dc8030791211",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/consolide/20090101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_1er/20040402",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "TITRE I — **Définitions**"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** La «titrisation», au sens de la présente loi, est l’opération par laquelle un organisme de titrisation acquiert ou assume, directement ou par l’intermédiaire d’un autre organisme, les risques liés à des créances, à d’autres biens, ou à des engagements assumés par des tiers ou inhérents à tout ou partie des activités réalisées par des tiers en émettant des valeurs mobilières dont la valeur ou le rendement dépendent de ces risques.\n\n**(2)** Sont des «organismes de titrisation», au sens de la présente loi, les organismes qui accomplissent entièrement la titrisation et ceux qui participent à une telle opération par la prise en charge de tout ou partie des risques titrisés – les organismes d’acquisition – ou par l’émission des valeurs mobilières destinées à en assurer le financement – les organismes d’émission, et dont les statuts, le règlement de gestion ou les documents d’émission prévoient qu’ils sont soumis aux dispositions de la présente loi.",
+      "text_sha256": "12bf16a8e6844b916f620a459f7ff6dd0e2f561f569cc5ccbdfbf4638a16204f",
+      "md_span": {
+        "start": 1104,
+        "end": 2068
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_2/20040402",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les organismes de titrisation peuvent être constitués sous la forme d’une société ou d’un fonds géré par une société de gestion.",
+      "text_sha256": "ee5c8440d419b132e3a9c11ad12da7a7c963915c0f9fd3564af74af4242d8d71",
+      "md_span": {
+        "start": 2213,
+        "end": 2341
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_3/20040402",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La présente loi s’applique aux seuls organismes de titrisation situés au Luxembourg. Sont situés au Luxembourg, au regard de la présente loi, les sociétés de titrisation qui y ont leur siège statutaire ainsi que les fonds de titrisation dont la société de gestion a son siège statutaire au Luxembourg.",
+      "text_sha256": "c5e1d91131bfe6902adc56c1f5d7e8e688afb9d1502f901d433c613a1aa24059",
+      "md_span": {
+        "start": 2376,
+        "end": 2677
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_4/20040402",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 1 — Les sociétés de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les sociétés de titrisation doivent prendre la forme d’une société anonyme, d’une société en commandite par actions, d’une société à responsabilité limitée ou d’une société coopérative organisée comme une société anonyme.\n\n**(2)** L’article 137 de la loi modifiée du 10 août 1915 sur les sociétés commerciales n’est pas applicable aux sociétés de titrisation constituées sous la forme d’une société coopérative organisée comme une société anonyme.",
+      "text_sha256": "648d2ff3a9af8e493e3e90b7e34c4753b243b25a3e1453a7ed22e42bf1b8d38a",
+      "md_span": {
+        "start": 2758,
+        "end": 3213
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_5/20040402",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 1 — Les sociétés de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les statuts d’une société de titrisation peuvent habiliter le conseil d’administration à créer un ou plusieurs compartiments correspondant chacun à une partie distincte de son patrimoine.",
+      "text_sha256": "ccc854f0e1be3c0314a3d0e1d873834c20f337d70596d24485e6c21394092cf8",
+      "md_span": {
+        "start": 3248,
+        "end": 3435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_6/20040402",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 1 — Les fonds de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les fonds de titrisation sont formés d’une ou de plusieurs copropriétés ou d’un ou de plusieurs patrimoines fiduciaires. Le règlement de gestion du fonds stipule expressément si le fonds est soumis au régime de la copropriété ou à celui du trust et de la fiducie.\n\n**(2)** Les fonds de titrisation n’ont pas la personnalité morale. Ils sont gérés par une société de gestion.\n\n**(3)** Les fonds de titrisation consistant en un ou plusieurs patrimoines fiduciaires sont soumis à la législation sur le trust et les contrats fiduciaires.\n\n**(4)** Les dispositions du code civil relatives à l’indivision ne s’appliquent pas aux fonds de titrisation.",
+      "text_sha256": "129a8608cd09488c07370e7566d455f5afe7665bfc5e5d108d4810d848967d12",
+      "md_span": {
+        "start": 3591,
+        "end": 4243
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_7/20040402",
+      "type": "article",
+      "num": "Art. 7.-",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 1 — Les fonds de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les droits des investisseurs sur le fonds, qu’ils interviennent en qualité de copropriétaires ou de fiduciants, sont représentés par des valeurs mobilières émises conformément au règlement de gestion.\n\n**(2)** La propriété des titres nominatifs s’établit par une inscription sur le registre tenu à cette fin par la société de gestion. Leur cession s’opère par une déclaration de transfert inscrite sur ce registre, datée et signée par le cédant et le cessionnaire ou établie conformément au règlement de gestion du fonds. La cession des titres au porteur s’opère par simple tradition.\n\n**(3)** Le règlement de gestion peut également autoriser la société de gestion à émettre des valeurs mobilières dématérialisées représentées par une inscription en compte auprès de la société de gestion ou d’un professionnel agréé du secteur financier agissant pour elle.",
+      "text_sha256": "6672492a1a180cc8c476127288eead51070a943709fb4690cad831f335e7470d",
+      "md_span": {
+        "start": 4279,
+        "end": 5144
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_8/20040402",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 1 — Les fonds de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "A condition que son règlement de gestion le prévoie, un fonds de titrisation peut consister en plusieurs compartiments correspondant chacun à une copropriété ou un patrimoine fiduciaire distincts.",
+      "text_sha256": "8deaa265e54317a85156b8a8e0a5dbe40408f78f41bb76373a84cd2ff919d0a0",
+      "md_span": {
+        "start": 5179,
+        "end": 5375
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_9/20040402",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 1 — Les fonds de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Des titres de créance peuvent être émis à la charge d’un fonds de titrisation ou de l’un de ses compartiments.",
+      "text_sha256": "557236d88fee750a2fe0f96df6d102136d665eeec6d6c4160106a9d72fa3ddc4",
+      "md_span": {
+        "start": 5410,
+        "end": 5520
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_10/20040402",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 1 — Les fonds de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Le règlement de gestion du fonds de titrisation contient au moins les indications suivantes:\n\n- l’indication si le fonds est constitué sous la forme d’une copropriété ou d’un patrimoine fiduciaire,\n- la dénomination, l’objet et la durée limitée ou illimitée du fonds de titrisation,\n- la dénomination de la société de gestion,\n- les règles particulières d’administration et de gestion qui lui sont applicables,\n- la possibilité pour les fonds de titrisation de comporter plusieurs compartiments,\n- les cas dans lesquels le fonds ou l’un de ses compartiments se trouve ou peut être placé en état de liquidation,\n- les droits et obligations respectifs de la société de gestion et, le cas échéant, des investisseurs,\n- les règles de prise en charge des risques et/ou d’émission des valeurs mobilières,\n- les procédures de modification du règlement de gestion.\n\n**(2)** Les fonds de titrisation composés de plusieurs compartiments peuvent arrêter par un règlement de gestion distinct les caractéristiques et les règles applicables à chaque compartiment.\n\n**(3)** Le règlement de gestion ainsi que ses modifications ultérieures doivent être déposés auprès du Registre de commerce et des sociétés, conformément aux dispositions de la loi modifiée du 10 août 1915 concernant les sociétés commerciales.\n\n**(4)** Les clauses de ce règlement sont considérées comme acceptées par les investisseurs du fonds de titrisation du fait même de l’acquisition de valeurs mobilières émises par le fonds.",
+      "text_sha256": "575fb8b98d37a8a80c03df5c763fca44f305c2360bb118a63a872c4cec9e51a8",
+      "md_span": {
+        "start": 5557,
+        "end": 7048
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_11/20040402",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 1 — Les fonds de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Sous réserve de l’article 62 les investisseurs dans un fonds de titrisation ne sont tenus des dettes du fonds de titrisation qu’à concurrence de l’actif du fonds et au prorata de leur participation.",
+      "text_sha256": "2333424a161e9ef83115b05b7f17eb719b150c60a4946fadddab73246446661a",
+      "md_span": {
+        "start": 7085,
+        "end": 7283
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_12/20040402",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 1 — Les fonds de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Le fonds de titrisation ne répond que des obligations mises expressément à sa charge par son règlement de gestion ou souscrites en conformité avec ce dernier. Il ne répond pas des dettes de la société de gestion ou des investisseurs.",
+      "text_sha256": "ca2995d1ba2c60d9008989b2d245b0a33caf3aa235b1e29630be7d35f489285e",
+      "md_span": {
+        "start": 7320,
+        "end": 7553
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_13/20040402",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 1 — Les fonds de titrisation"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** La mise en liquidation d’un fonds de titrisation est publiée dans un délai de quinze jours par les soins de la société de gestion. Cette publication se fait par l’insertion au Mémorial, Recueil des Sociétés et Associations, et dans au moins deux journaux à diffusion adéquate, l’un de ces journaux étant nécessairement luxembourgeois.\n\n**(2)** Dès la mise en liquidation du fonds de titrisation, et sous peine de nullité, l’émission de toute valeur mobilière est interdite sauf pour les besoins de la liquidation.\n\n**(3)** Sous réserve du paragraphe précédent, la liquidation n’est opposable aux tiers qu’à partir du jour de sa publication au Mémorial, sauf si le fonds de titrisation prouve que ces tiers en avaient connaissance antérieurement. Les tiers peuvent néanmoins se prévaloir de la liquidation non encore publiée.",
+      "text_sha256": "cc9652c9418700d7d0b372681ea180db2aea62fd900f5919a4642afb52228ca7",
+      "md_span": {
+        "start": 7590,
+        "end": 8422
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_14/20040402",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 2 — Les sociétés de gestion"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La société de gestion est une société commerciale ayant pour objet de gérer des fonds de titrisation et, le cas échéant, d’agir en qualité de fiduciaire des fonds constitués sous la forme d’un ou de plusieurs patrimoines fiduciaires.",
+      "text_sha256": "f7500138dc0fc3a462ca3abe77dfbfd2eaad82abd0a4f0f2fb7662d53185ecdd",
+      "md_span": {
+        "start": 8507,
+        "end": 8740
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_15/20040402",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 2 — Les sociétés de gestion"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** La société de gestion établit le règlement de gestion du fonds de titrisation.\n\n**(2)** Sous réserve des pouvoirs confiés, le cas échéant, à un représentant-fiduciaire, la société de gestion agit pour le compte du fonds de titrisation et de ses investisseurs à l’égard des tiers. Elle les représente, dans toute action en justice, tant en demande qu’en défense, sans avoir à révéler l’identité des investisseurs, la seule indication que la société de gestion intervient ès qualités étant suffisante. Tant qu’ils sont représentés, les investisseurs ne peuvent plus exercer individuellement les actions relevant de la compétence de la société de gestion.",
+      "text_sha256": "46c0b87c6a40cdadbb23297bb63c5e4bf3377095ecfef27b368c0a02ef5da297",
+      "md_span": {
+        "start": 8777,
+        "end": 9437
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_16/20040402",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 2 — Les sociétés de gestion"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La société de gestion doit accomplir sa mission de façon indépendante et dans l’intérêt exclusif du fonds de titrisation et des investisseurs. Elle ne peut pas utiliser les actifs du fonds de titrisation pour ses besoins propres et répond envers les investisseurs et les tiers de la bonne exécution de sa mission.",
+      "text_sha256": "a24ae330e879470659d5dd4cab87689215ff70094b10d4b7a2cfe6c3deea7cb8",
+      "md_span": {
+        "start": 9474,
+        "end": 9787
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_17/20040402",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 2 — Les sociétés de gestion"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les créanciers de la société de gestion ou des investisseurs n’ont pas de recours sur les actifs du fonds de titrisation.",
+      "text_sha256": "a298cbd6f1951728f266841b2ecfe1a18890d55a9ee5d4061727f13fd3ccb656",
+      "md_span": {
+        "start": 9824,
+        "end": 9945
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_18/20040402",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 1 — *Les sociétés et les fonds de titrisation*",
+        "Section 2 — Les fonds de titrisation et leurs sociétés de gestion",
+        "Sous-section 2 — Les sociétés de gestion"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les fonctions de la société de gestion à l’égard du fonds de titrisation prennent fin:\n\n- en cas de démission ou de révocation de la société de gestion, à la condition qu’elle soit remplacée par une autre société de gestion, le cas échéant agréée conformément à la présente loi;\n- lorsque la société de gestion a été déclarée en faillite, admise au bénéfice du concordat, du sursis de paiement, de la gestion contrôlée ou d’une mesure analogue ou mise en liquidation;\n- lorsque, dans le cadre d’un organisme agréé, la Commission de surveillance du Secteur Financier retire son agrément à la société de gestion;\n- dans tous les autres cas prévus par le règlement de gestion.",
+      "text_sha256": "2fd908633031a0e9fcb2d5b2c6a9ae9b3beda53a0774ad040f4fa3fec77aa013",
+      "md_span": {
+        "start": 9982,
+        "end": 10655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_19/20040402",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 1 — Obligation et conditions d’agrément"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les organismes de titrisation qui émettent en continu des valeurs mobilières à destination du public («organismes de titrisation agréés») doivent être agréés par la Commission de surveillance du Secteur Financier (ci-après, la «CSSF») pour exercer leurs activités.",
+      "text_sha256": "4651d96129f17709fb1f6f97eb1ff77f4f6ba9a08ae5a369fa53e4980477019e",
+      "md_span": {
+        "start": 10803,
+        "end": 11067
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_20/20040402",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 1 — Obligation et conditions d’agrément"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Un organisme de titrisation n’est agréé que si la CSSF approuve les statuts ou le règlement de gestion de l’organisme de titrisation et agrée, le cas échéant, sa société de gestion. Les sociétés de titrisation et les sociétés de gestion des fonds de titrisation doivent disposer d’une organisation et de moyens adéquats pour l’exercice de leur activité et la surveillance par la CSSF.\n\n**(2)** Les membres des organes d’administration, de gestion et de surveillance d’une société de titrisation ou d’une société de gestion d’un organisme de titrisation agréé ainsi que leurs actionnaires et les associés, directs ou indirects, en mesure d’exercer une influence significative sur la conduite des affaires d’une telle société doivent avoir l’honorabilité ainsi que l’expérience ou les moyens requis pour l’exercice de leurs fonctions. A cette fin l’identité de ces personnes, ainsi que tout remplacement, doivent être notifiés immédiatement à la CSSF.\n\n**(3)** Toute modification du contrôle de la société de titrisation ou de la société de gestion, tout remplacement de la société de gestion ainsi que toute modification du règlement de gestion ou des statuts sont soumis à l’approbation préalable de la CSSF.",
+      "text_sha256": "0aa37021e244ac18ed2024848096b3841438e7253eb7ecc98f8270471c7dbfe6",
+      "md_span": {
+        "start": 11104,
+        "end": 12320
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_21/20040402",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 1 — Obligation et conditions d’agrément"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les organismes de titrisation agréés sont inscrits par la CSSF sur une liste. Cette inscription vaut agrément et est notifiée à l’organisme de titrisation. La liste ainsi que les modifications qui y sont apportées sont publiées par les soins de la CSSF.\n\n**(2)** L’inscription et le maintien sur la liste visée au paragraphe ci-dessus, sont soumis à la condition que soient respectées toutes les dispositions législatives, réglementaires et conventionnelles qui régissent l’organisme de titrisation, le fonctionnement de ses organes et la distribution, le placement ou la vente des valeurs mobilières qu’il émet.\n\n**(3)** Le fait qu’un organisme de titrisation soit inscrit sur la liste visée à l’article précédent ne doit en aucun cas et sous quelque forme que ce soit, être présenté comme une appréciation positive faite par la CSSF de la qualité des valeurs mobilières émises par celui-ci.",
+      "text_sha256": "1aa93567de6608d9adb84bd5fa9511e36e5c0eb1f592493ae0fc2fd38f3050a0",
+      "md_span": {
+        "start": 12357,
+        "end": 13257
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_22/20040402",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 2 — Surveillance des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les organismes de titrisation agréés doivent confier la garde de leurs avoirs liquides et de leurs valeurs mobilières à un établissement de crédit établi ou ayant son siège statutaire au Luxembourg.",
+      "text_sha256": "ee59ee318f10e9a2e597c839d1bd50cde38a0fae139a43f67d63d503037e55ac",
+      "md_span": {
+        "start": 13347,
+        "end": 13545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_23/20040402",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 2 — Surveillance des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les organismes de titrisation agréés sont surveillés par la CSSF qui s’assure en particulier qu’ils respectent la législation ainsi que leurs obligations.\n\n**(2)** La CSSF assure sa mission jusqu’à la clôture de la liquidation de l’organisme de titrisation.",
+      "text_sha256": "9db0cf576ac2b470defddff8787ef739027fed13f9b92230903de4e9e2d6653a",
+      "md_span": {
+        "start": 13582,
+        "end": 13847
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_24/20040402",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 2 — Surveillance des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** La CSSF peut demander aux organismes de titrisation agréés un état périodique de leurs actifs et passifs et de leurs résultats.\n\n**(2)** Elle peut se faire communiquer toute information ou procéder à des enquêtes sur place et prendre connaissance de tous les documents d’une société de titrisation, d’une société de gestion ou d’un établissement de crédit chargé de conserver les actifs d’un organisme de titrisation agréé, relatifs à l’organisation, à l’administration, à la gestion, au fonctionnement et aux opérations de cet organisme ainsi qu’à l’évaluation et à la rentabilité des actifs en vue de vérifier le respect des dispositions de la présente loi et des règles fixées par le règlement de gestion ou les statuts de l’organisme de titrisation et les contrats d’émission de valeurs mobilières ainsi que l’exactitude des informations qui lui sont communiquées.",
+      "text_sha256": "0b896339c63f18d613f4e4306f9dd4e72ebf54e27d84a67649d6a085df36d76a",
+      "md_span": {
+        "start": 13884,
+        "end": 14760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_25/20040402",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 2 — Surveillance des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Si la CSSF constate qu’un organisme de titrisation agréé n’observe pas les dispositions de la présente loi, du règlement de gestion, des statuts ou des contrats d’émission de valeurs mobilières ou que les droits attachés aux valeurs mobilières émises par celui-ci risquent d’être compromis, elle peut mettre l’organisme de titrisation en demeure de remédier à la situation constatée dans le délai qu’elle fixe.\n\n**(2)** S’il n’est pas donné suite à cette mise en demeure, elle peut:\n\n- rendre publique sa position quant aux constatations faites en vertu du paragraphe 1;\n- interdire toute émission de valeurs mobilières;\n- demander la suspension de la cotation des valeurs mobilières émises par l’organisme de titrisation;\n- demander au magistrat présidant la chambre du tribunal d’arrondissement siégeant en matière commerciale de désigner un administrateur provisoire pour l’organisme de titrisation;\n- révoquer son agrément.",
+      "text_sha256": "8bdb5de98a08c0785f5ff3944a14ce50e883e0b2ef82858a97c221ad5871be17",
+      "md_span": {
+        "start": 14797,
+        "end": 15732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_26/20040402",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 2 — Surveillance des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Lorsqu’un organisme de titrisation agréé ou sa société de gestion ne publient pas sa mise en liquidation conformément à l’article 13, cette publication est entreprise par la CSSF, aux frais de l’organisme de titrisation.",
+      "text_sha256": "aa17ea60cab32a901c17d44330f8bf252c9c59c0275de735dfef4a877fd466ba",
+      "md_span": {
+        "start": 15769,
+        "end": 15989
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_27/20040402",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 3 — Décisions de la CSSF"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les décisions de la CSSF prises en exécution de la présente loi sont motivées, et sauf péril en la demeure, interviennent après instruction contradictoire. Elles sont notifiées par lettre recommandée ou signifiées par voie d’huissier.\n\n**(2)** Les décisions prises par la CSSF peuvent être déférées au tribunal administratif. Le recours doit être introduit sous peine de forclusion dans le délai d’un mois à partir de la notification de la décision attaquée. Il est dispensé de tous droits de timbre et d’enregistrement. Le tribunal administratif statue comme juge du fond.",
+      "text_sha256": "be17023f5a4b983a76ab6e2b4e4137a789c85e6bd5bd6a8436692fa3c1e2bc4f",
+      "md_span": {
+        "start": 16065,
+        "end": 16646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_28/20040402",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 3 — Décisions de la CSSF"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La décision de la CSSF portant retrait de la liste prévue à l’article 21 d’un organisme de titrisation entraîne de plein droit, à partir de sa notification à l’organisme concerné et à charge de celui-ci, jusqu’au jour où la décision sera devenue définitive, le sursis à tout paiement par cet organisme et interdiction sous peine de nullité de procéder à tous actes autres que conservatoires, sauf autorisation du commissaire de surveillance.",
+      "text_sha256": "be67066174046e5135bcf44cbd03a5ac1662befaa7796607e9f789a825bb3f46",
+      "md_span": {
+        "start": 16683,
+        "end": 17124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_29/20040402",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 3 — Décisions de la CSSF"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** La CSSF exerce de plein droit la fonction de commissaire de surveillance, à moins qu’à sa requête, le tribunal d’arrondissement siégeant en matière commerciale en nomme un ou plusieurs autres.\n\n**(2)** La requête motivée, appuyée des documents justificatifs est déposée à cet effet au greffe du tribunal dans l’arrondissement duquel l’organisme a son siège statutaire. Le tribunal statue à bref délai. S’il s’estime suffisamment renseigné, il prononce immédiatement en audience publique sans entendre les parties. S’il l’estime nécessaire, il convoque les parties au plus tard dans les trois jours du dépôt de la requête, par les soins du greffier. Il entend les parties en chambre du conseil et prononce en audience publique.\n\n**(3)** Le tribunal arbitre les frais et honoraires des commissaires de surveillance; il peut leur allouer des avances.",
+      "text_sha256": "7ff95f00ef46b4d18fd6a0c81f56ae044f42193976da6d7dc2390bc048f9369f",
+      "md_span": {
+        "start": 17161,
+        "end": 18016
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_30/20040402",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 3 — Décisions de la CSSF"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** A peine de nullité, l’autorisation écrite des commissaires de surveillance est requise pour tous les actes et décisions de l’organisme. Le tribunal peut toutefois limiter le champ des opérations soumises à l’autorisation.\n\n**(2)** Les commissaires peuvent soumettre à la délibération des organes sociaux toutes propositions qu’ils jugent opportunes. Ils peuvent assister aux délibérations des organes d’administration, de direction, de gestion ou de surveillance de l’organisme.",
+      "text_sha256": "d6b0eeb107d6b3eadda96ec4b4c9e8a3eba1df0157a6661fb7a48210282f4647",
+      "md_span": {
+        "start": 18053,
+        "end": 18539
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_31/20040402",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 2 — *Les organismes de titrisation agréés*",
+        "Section 3 — Décisions de la CSSF"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Le jugement prévu par le paragraphe (1) de l’article 39 de la présente loi met fin aux fonctions du commissaire de surveillance qui devra, dans le mois à compter de son remplacement, faire rapport aux liquidateurs nommés par le jugement sur l’emploi des valeurs de l’organisme et leur soumettre les comptes et pièces à l’appui.\n\n**(2)** Lorsque la décision de retrait est réformée par le tribunal, le commissaire de surveillance est réputé démissionnaire.",
+      "text_sha256": "18bc7312d069db7d3788731d650392b9a927aa304609f09b2fc2c56eedb443fc",
+      "md_span": {
+        "start": 18576,
+        "end": 19039
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_32/20040402",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 1 — Dispositions communes aux organismes de titrisation agréés et non agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les organismes de titrisation sont, après leur dissolution, réputés exister pour les besoins de leur liquidation. Tous les documents émanant d’un organisme de titrisation en liquidation mentionnent cet état.",
+      "text_sha256": "3eed2a6433348f83769610bdcc597bc9f6d24d2bfebd8ab1f75a132f9ba84945",
+      "md_span": {
+        "start": 19232,
+        "end": 19439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_33/20040402",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 1 — Dispositions communes aux organismes de titrisation agréés et non agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Chaque compartiment d’un organisme de titrisation peut être liquidé séparément sans qu’une telle liquidation ait pour effet d’entraîner la liquidation d’un autre compartiment.",
+      "text_sha256": "c00856a1319f653fe3b86d3bbc408b92c8cec568554701d7dd7eebc78bb2909b",
+      "md_span": {
+        "start": 19476,
+        "end": 19651
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_34/20040402",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 1 — Dispositions communes aux organismes de titrisation agréés et non agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Le liquidateur peut intenter et soutenir toutes actions pour l’organisme de titrisation, recevoir tous paiements, donner mainlevée avec ou sans quittance, réaliser tous les actifs de l’organisme et en faire le réemploi, créer ou endosser tous effets de commerce, transiger ou compromettre sur toutes contestations.",
+      "text_sha256": "c8bc4d4b55f05d18df6e436a5712f0cf02d2a3660b671c7ff43da1434e169296",
+      "md_span": {
+        "start": 19688,
+        "end": 20002
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_35/20040402",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 1 — Dispositions communes aux organismes de titrisation agréés et non agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les sommes et valeurs revenant à des investisseurs qui ne se sont pas présentés lors de la clôture des opérations de liquidation sont déposées à la Caisse de Consignation au profit de qui il appartiendra.",
+      "text_sha256": "7f7af287e2934a370985e7bf880da63d78159dc3fdedc75c6c8f80a83b40befe",
+      "md_span": {
+        "start": 20039,
+        "end": 20243
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_36/20040402",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 1 — Dispositions communes aux organismes de titrisation agréés et non agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les liquidateurs sont responsables tant envers les tiers qu’envers l’organisme de titrisation de l’exécution de leur mandat et des fautes commises dans leur gestion.\n\n**(2)** Les actions en responsabilité contre les liquidateurs se prescrivent par cinq ans à partir de ces faits ou, s’ils ont été celés par dol, à partir de la découverte de ces faits.",
+      "text_sha256": "09dc3ba0fd2c6f694a6e01b591d4816e44138d80030af711face9782e37416d8",
+      "md_span": {
+        "start": 20280,
+        "end": 20639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_37/20040402",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 1 — Liquidation volontaire des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Le liquidateur d’un organisme de titrisation agréé doit présenter toutes les garanties d’honorabilité et de qualification professionnelles et être agréé par la CSSF.",
+      "text_sha256": "61eca661bc2b11977f7df1593078c0217e077d9d1f83cc155c2c57302d72352c",
+      "md_span": {
+        "start": 20827,
+        "end": 20992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_38/20040402",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 1 — Liquidation volontaire des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Durant la procédure de liquidation, les organismes de titrisation agréés restent soumis à la surveillance de la CSSF.",
+      "text_sha256": "fefc7127567ed4d6fc4d6ded27eedc4a26ee464b2848018880afe710e334ef77",
+      "md_span": {
+        "start": 21029,
+        "end": 21146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_39/20040402",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 2 — Liquidation forcée des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Le tribunal d’arrondissement siégeant en matière commerciale prononce sur la demande du procureur d’Etat, agissant d’office ou à la requête de la CSSF, la dissolution et la liquidation des organismes de titrisation agréés, dont l’inscription à la liste prévue à l’article 21 aura été définitivement refusée ou retirée.\n\n**(2)** En ordonnant la liquidation, le tribunal nomme un juge-commissaire ainsi qu’un ou plusieurs liquidateurs, sous réserve de l’article 75 ci-après.\n\n**(3)** Le tribunal arrête le mode de liquidation. Il peut rendre applicables dans la mesure qu’il détermine les règles régissant la liquidation de la faillite. Le mode de liquidation peut être modifié par décision ultérieure, soit d’office, soit sur requête du ou des liquidateurs.\n\n**(4)** Le jugement prononçant la dissolution et ordonnant la liquidation est exécutoire par provision.\n\n**(5)** Les décisions judiciaires prononçant la dissolution et ordonnant la liquidation d’un organisme de titrisation sont publiées au Mémorial et dans deux journaux à diffusion adéquate dont au moins un journal luxembourgeois, désignés par le tribunal. Ces publications sont faites à la diligence du liquidateur.",
+      "text_sha256": "e3e48cfa6a68f81bcfb0bbbc46467a7cf00ba0131370af35c3dd9c6714a27df2",
+      "md_span": {
+        "start": 21248,
+        "end": 22432
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_40/20040402",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 2 — Liquidation forcée des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "A partir du jugement, toutes actions mobilières ou immobilières, toutes voies d’exécution sur les meubles ou les immeubles ne pourront être suivies, intentées ou exercées que contre le liquidateur.\n\nLe jugement de mise en liquidation arrête toutes saisies, à la requête des créanciers chirographaires et non privilégiés sur les meubles et immeubles.",
+      "text_sha256": "ed6d93720326f827fe93b9257ae5f5260d1b5c5ae8fdfdc0260f0a2741d89b42",
+      "md_span": {
+        "start": 22469,
+        "end": 22818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_41/20040402",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 2 — Liquidation forcée des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Le liquidateur ne peut constituer des sûretés sur les biens de l’organisme de titrisation ou les donner en garantie qu’avec l’autorisation du tribunal. Le tribunal peut donner cette autorisation au liquidateur à tout moment de la procédure de liquidation pour tout ou partie des biens de l’organisme de titrisation.",
+      "text_sha256": "793c8e9045b2719f5e8b10d870d7e169b6a623765c301555b91fcf66fa68655b",
+      "md_span": {
+        "start": 22855,
+        "end": 23170
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_42/20040402",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 2 — Liquidation forcée des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Après le paiement ou la consignation des sommes nécessaires au paiement des dettes, le liquidateur distribue aux investisseurs les sommes ou valeurs qui leur reviennent.",
+      "text_sha256": "40aaab4f3ed68af6a5023a0a070bc158d2a1d2fb3b29e88fd5d6569b0be0dbd9",
+      "md_span": {
+        "start": 23207,
+        "end": 23376
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_43/20040402",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 2 — Liquidation forcée des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Le tribunal peut à tout moment demander au liquidateur de lui faire rapport sur l’état de la liquidation. Il arbitre les frais et honoraires des liquidateurs et peut leur allouer des avances.",
+      "text_sha256": "8312f8a7d04b81eedb51ead455447f2f20565a5312c6a88a0a13088abe0db4ca",
+      "md_span": {
+        "start": 23413,
+        "end": 23604
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_44/20040402",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 2 — Liquidation forcée des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "En cas d’absence ou d’insuffisance d’actif, constatée par le juge-commissaire, les actes de procédure sont exempts de tous droits de greffe et d’enregistrement et les frais et honoraires du liquidateur sont à charge du Trésor et liquidés comme frais judiciaires.",
+      "text_sha256": "ecd1b069315461d4f3bd6096b950b8b8c93361f4ae7df01052e440f1a251bcee",
+      "md_span": {
+        "start": 23641,
+        "end": 23903
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_45/20040402",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 2 — Liquidation forcée des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Lorsque la liquidation est terminée, le liquidateur fait rapport au tribunal sur l’emploi des valeurs de l’organisme et soumet les comptes et pièces à l’appui.\n\n**(2)** Le tribunal nomme un ou plusieurs réviseurs d’entreprises pour examiner les documents. Il statue, après le rapport du réviseur, sur la gestion du liquidateur et sur la clôture de la liquidation.\n\n**(3)** Sa décision est publiée conformément à l’article 39 ci-dessus et comprend, en outre:\n\n- l’indication de l’endroit désigné par le tribunal où les livres et documents sociaux doivent être déposés pendant cinq ans au moins;\n- l’indication des mesures prises conformément à l’article 35 en vue de la consignation des sommes et valeurs revenant aux créanciers et aux investisseurs dont la remise n’a pu leur être faite.",
+      "text_sha256": "b7a804a92918aa360bce4bcf528a2e75d25188cd023ab189ea77e289a58de70a",
+      "md_span": {
+        "start": 23940,
+        "end": 24735
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_46/20040402",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 3 — *La liquidation des organismes de titrisation*",
+        "Section 2 — Dispositions particulières aux organismes de titrisation agréés",
+        "Sous-section 2 — Liquidation forcée des organismes agréés"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les actions contre les liquidateurs, pris en cette qualité, se prescrivent par cinq ans à partir de la publication de la clôture des opérations de liquidation.",
+      "text_sha256": "e1ddd77217a998fe6d81224b7fca6b0a57341a8a70e42b7bc6014b7b2f40321c",
+      "md_span": {
+        "start": 24772,
+        "end": 24931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_47/20040402",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 4 — *Les comptes, la révision des comptes et la fiscalité applicable aux organismes de titrisation*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les sociétés de titrisation doivent respecter les prescriptions de la section XIII de la loi modifiée du 10 août 1915 concernant les sociétés commerciales et, à compter du 1er janvier 2005, celles des chapitres II et IV du titre II de la loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises. Leurs rapports de gestion doivent contenir toute information significative relative à leur situation patrimoniale susceptible d’affecter les droits des investisseurs.",
+      "text_sha256": "4a14022027ccad0d16be701a2531f86340c8f19a60dd4b6aa33878861be432b2",
+      "md_span": {
+        "start": 25082,
+        "end": 25627
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_48/20040402",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 4 — *Les comptes, la révision des comptes et la fiscalité applicable aux organismes de titrisation*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les comptes d’un organisme de titrisation sont contrôlés par un ou plusieurs réviseurs d’entreprises désignés, selon le cas, par l’organe d’administration de la société de titrisation ou par la société de gestion du fonds de titrisation.\n\n**(2)** Les réviseurs d’un organisme de titrisation agréé doivent être agréés par la CSSF.\n\n**(3)** Les réviseurs chargés de contrôler les comptes d’un organisme de titrisation signalent aux dirigeants de la société de titrisation ou de la société de gestion et, s’agissant des organismes de titrisation agréés, également à la CSSF et le cas échéant au représentant des investisseurs les irrégularités et inexactitudes qu’ils relèvent dans l’accomplissement de leur mission.",
+      "text_sha256": "ea60004277807b132e8f4247a2b6abdb2e0939327e74629b9c372a56381bf5f7",
+      "md_span": {
+        "start": 25664,
+        "end": 26385
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_49/20040402",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 4 — *Les comptes, la révision des comptes et la fiscalité applicable aux organismes de titrisation*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "L’institution des commissaires prévue par la loi modifiée du 10 août 1915 concernant les sociétés commerciales est supprimée pour les sociétés de titrisation luxembourgeoises.",
+      "text_sha256": "b80e27e861d1bcfa8c47d751e114568a321b46b3d77265b47ba8d5b124ba1a94",
+      "md_span": {
+        "start": 26422,
+        "end": 26597
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_50/20040402",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 4 — *Les comptes, la révision des comptes et la fiscalité applicable aux organismes de titrisation*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les fonds de titrisation sont soumis au régime comptable et fiscal des fonds communs de placement, tel qu’il résulte des lois du 30 mars 1988 et du 20 décembre 2002 concernant les organismes de placement collectif, à l’exception de la taxe d’abonnement qui n’est pas due.",
+      "text_sha256": "bd23d9fd94f90458266ba5f1d234215868026b93e7b8307a0f06086d46c948fd",
+      "md_span": {
+        "start": 26634,
+        "end": 26905
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/03/30/n1/jo",
+          "text": "lois du 30 mars 1988"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2002/12/20/n3/jo",
+          "text": "20 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_51/20090101",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 4 — *Les comptes, la révision des comptes et la fiscalité applicable aux organismes de titrisation*"
+      ],
+      "article_valid_from": "2009-01-01",
+      "text_md": "**(1)** Par dérogation à la loi du 29 décembre 1971 concernant l’impôt frappant les rassemblements de capitaux dans les sociétés civiles et commerciales et portant révision de certaines dispositions législatives régissant la perception des droits d’enregistrement, le droit sur les apports lors de la constitution d’un organisme régi par la présente loi, ou ultérieurement, notamment lors d’apports nouveaux, lors de la transformation d’un organisme régi par la présente loi en un autre organisme régi par la présente loi, et lors de la fusion d’organismes régis par la présente loi, est liquidé à un droit fixe dont le montant sera déterminé pour chaque type d’opération imposable. Les modalités et le montant du droit fixe sont déterminés par règlement grand-ducal sans que ce montant ne puisse dépasser mille deux cent cinquante euros.\n\n**(2)** Le droit sur les apports faits postérieurement à leur constitution à des sociétés de titrisation n’est dû que dans la mesure où le montant du fonds social nouveau excède celui qui a été imposé précédemment.",
+      "text_sha256": "a5c5e2be0ba37ce01b58cb66590a8183e5c9d5da6c4b0255ca052017e4774c7d",
+      "md_span": {
+        "start": 26942,
+        "end": 27996
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1971/12/29/n2/jo",
+          "text": "loi du 29 décembre 1971"
+        }
+      ]
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_52/20040402",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "TITRE II — **Les organismes de titrisation**",
+        "Chapitre 4 — *Les comptes, la révision des comptes et la fiscalité applicable aux organismes de titrisation*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Toutes conventions conclues dans le cadre d’une opération de titrisation ainsi que tous autres actes relatifs à une telle opération sont dispensés des formalités de l’enregistrement, même lorsqu’il en est fait usage, par acte public, en justice ou devant toute autre autorité constituée, toutes les fois qu’ils n’ont pas un effet translatif de droits devant être transcrits, immatriculés ou enregistrés portant sur un immeuble situé au Luxembourg, des aéronefs, des navires ou des bateaux de navigation intérieure immatriculés au Luxembourg. Toutefois, ils peuvent être présentés à la formalité de l’enregistrement, auquel cas ils sont enregistrés au droit fixe.\n\n**(2)** Par dérogation aux dispositions de l’arrêté du 24 prairial, an XI, lorsque des actes conclus dans le cadre d’une opération de titrisation ou d’autres actes relatifs à une telle opération sont présentés à la formalité de l’enregistrement, l’obligation de joindre à ces actes lorsqu’ils sont passés en d’autres langues que les langues officielles une traduction certifiée par un notaire ou un autre traducteur juré ne s’applique pas si ces actes sont passés en langue anglaise.\n\n**(3)** L’article 44 paragraphe 1 sous d) de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée est complété par l’ajout des mots suivants: «ainsi que d’organismes de titrisation situés au Luxembourg;».",
+      "text_sha256": "f6103a3d51efd79bd1b2b97295e145470f46416875ef805ac959e15b9b548342",
+      "md_span": {
+        "start": 28033,
+        "end": 29417
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/a/1803/06/13/n1/jo",
+          "text": "arrêté du 24 prairial, an XI"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi modifiée du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_53/20040402",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 1 — *La prise en charge des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Sont susceptibles de faire l’objet d’une titrisation, les risques liés à la détention de tous biens, mobiliers ou immobiliers, corporels ou incorporels ainsi que ceux résultant d’engagements assumés par des tiers ou inhérents à tout ou partie des activités réalisées par des tiers.\n\n**(2)** L’organisme de titrisation peut prendre en charge ces risques en acquérant les biens, en garantissant les engagements ou en s’obligeant de toute autre manière.\n\n**(3)** Les opérations de titrisation régies par la présente loi ne constituent pas des activités soumises à la loi du 6 décembre 1991 sur le secteur des assurances.",
+      "text_sha256": "f6c18d5d96019b46fd709304752f877acf2a2def02be6ef11cfe7df7a467fea5",
+      "md_span": {
+        "start": 29546,
+        "end": 30171
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/12/06/n2/jo",
+          "text": "loi du 6 décembre 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_54/20040402",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 1 — *La prise en charge des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les organismes de titrisation peuvent acquérir et, sous les conditions de l’article 61 ci-après, transférer des créances et d’autres biens, existants ou futurs, en une ou plusieurs fois ou de façon continue.",
+      "text_sha256": "d7f8e15db29d87b2f70ef0602194f88997c8301ea182bc094751c764e27db202",
+      "md_span": {
+        "start": 30208,
+        "end": 30415
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_55/20040402",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 1 — *La prise en charge des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** La cession d’une créance existante à un organisme de titrisation ou par celui-ci prend effet entre parties et devient opposable aux tiers au moment de l’accord de cession, sauf stipulation contraire de celui-ci.\n\n**(2)** Une créance future qui naîtra d’un contrat actuel ou futur peut être cédée à un organisme de titrisation ou par celui-ci à condition qu’elle puisse être identifiée comme faisant partie de la cession au moment où elle viendra à exister ou à tout autre moment convenu entre les parties.\n\n**(3)** La cession d’une créance future est subordonnée à sa naissance, mais, lorsque celle-ci survient, elle prend effet entre parties et devient opposable aux tiers dès le moment de l’accord de cession, sauf stipulation contraire de celui-ci, et ce nonobstant l’ouverture d’une faillite ou de toute autre procédure collective à l’encontre du cédant avant sa naissance.",
+      "text_sha256": "757013f68de8cecb9cdf00dcd543f1fcc3b4a8d2ec1c045ffa4349160012c307",
+      "md_span": {
+        "start": 30452,
+        "end": 31337
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_56/20040402",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 1 — *La prise en charge des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** La créance cédée à un organisme de titrisation entre dans son patrimoine dès que la cession devient effective, nonobstant tout engagement pris par l’organisme de titrisation de la recéder ultérieurement. La cession n’est pas susceptible d’être requalifiée en raison d’un tel engagement.\n\n**(2)** La cession à un organisme de titrisation ou par celui-ci entraîne, sauf convention contraire, le transfert des garanties et des sûretés garantissant cette créance et son opposabilité de plein droit aux tiers, sans autres formalités.\n\n**(3)** Le débiteur cédé peut se libérer valablement entre les mains du cédant tant qu’il n’a pas eu connaissance de la cession.\n\n**(4)** L’article 1699 du code civil n’est pas applicable aux créances cédées à un organisme de titrisation.",
+      "text_sha256": "d3e4cacc72757e98407b751cbd9ed596a6585964a5a954023c4a4a4b994af6eb",
+      "md_span": {
+        "start": 31374,
+        "end": 32150
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_57/20040402",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 1 — *La prise en charge des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La cession interdite par le contrat dont est issue la créance cédée ou qui n’y est pas conforme pour d’autres raisons est inopposable au débiteur cédé à moins que\n\n- celui-ci y ait consenti,\n- le cessionnaire ait ignoré la non-conformité ou n’ait pas dû la connaître,\n- la cession concerne une créance de somme d’argent.",
+      "text_sha256": "f320e5646431bd92640073059b28d92235635e09675ca02b5faec9ff7f37fb86",
+      "md_span": {
+        "start": 32187,
+        "end": 32507
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_58/20040402",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 1 — *La prise en charge des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La loi qui régit la créance cédée détermine le caractère cessible de celle-ci, les rapports entre cessionnaire et débiteur, les conditions d’opposabilité de la cession au débiteur et le caractère libératoire de la prestation faite par le débiteur.\n\nLa loi de l’Etat dans lequel est situé le cédant régit les conditions d’opposabilité de la cession aux tiers.",
+      "text_sha256": "84599231173309339336ce838205b688c4d156fc38c7658f02e4568964cb60b6",
+      "md_span": {
+        "start": 32544,
+        "end": 32902
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_59",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_59/20040402",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 1 — *La prise en charge des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les statuts, le règlement de gestion de l’organisme de titrisation, une convention de cession ou toute autre convention peuvent accorder au cédant un droit sur tout ou partie des actifs de l’organisme de titrisation disponibles après le paiement de tous les autres créanciers.",
+      "text_sha256": "6287fcb3899eb1eba73bace073e38315ef9133ced04a7eb7971d7c9fb08753f5",
+      "md_span": {
+        "start": 32939,
+        "end": 33215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_60",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_60/20040402",
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 2 — *La gestion des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "L’organisme de titrisation peut charger le cédant ou un tiers du recouvrement des créances qu’il détient ainsi que de toutes autres tâches relatives à leur gestion, sans que ceux-ci soient tenus de requérir un agrément au titre de la législation relative au secteur financier.",
+      "text_sha256": "30ac666cb6af1edccbd920f4b85d391fbaf6f0f0ecc4e9aa20ffb3ba08dabab9",
+      "md_span": {
+        "start": 33295,
+        "end": 33571
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_61",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_61/20040402",
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "TITRE III — **Les risques titrisés**",
+        "Chapitre 2 — *La gestion des risques*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Un organisme de titrisation n’est autorisé à céder ses biens que selon les modalités prévues par ses statuts ou son règlement de gestion.\n\n**(2)** Au cas où le cédant ou le tiers chargé du recouvrement des créances est soumis à une procédure collective, telle une faillite, une gestion contrôlée, une liquidation judiciaire ou toute autre procédure instaurant un concours entre ses créanciers, l’organisme de titrisation est en droit de réclamer les sommes encaissées pour son compte avant l’ouverture de cette procédure en échappant à tout concours avec les autres créanciers et nonobstant les prétentions du curateur de faillite, du commissaire à la gestion contrôlée ou du liquidateur.\n\n**(3)** Il ne peut constituer de sûreté ou donner en garantie, de quelque manière que ce soit, ses biens qu’en couverture des engagements qu’il a souscrits en vue de réaliser leur titrisation ou en faveur de ses investisseurs, de leur représentant-fiduciaire ou de l’organisme d’émission participant à la titrisation.\n\nLes sûretés et garanties constituées en violation du présent article sont nulles de plein droit.\n\n**(4)** Sauf stipulation contraire, les sûretés et garanties s’étendent de plein droit aux revenus des biens cédés ou affectés de la sûreté, aux fonds reçus en paiement et aux biens dans lesquels ils sont investis.\n\nSans préjudice de la loi du 1er août 2001 relative au transfert de propriété à titre de garantie, l’article 445 paragraphe 4 du code de commerce ne s’applique pas à la sûreté constituée au plus tard au moment de l’émission des valeurs mobilières ou de la conclusion de contrats garantis nonobstant son extension à de nouveaux biens ou créances en conformité avec le présent article et la convention constituant la sûreté.\n\n**(5)** Les bénéficiaires d’un nantissement portant sur des créances sont mis en possession de celles-ci par la convention de garantie ou de nantissement. Les débiteurs des créances nanties peuvent cependant se libérer valablement entre les mains de l’organisme de titrisation tant qu’ils n’ont pas eu connaissance du nantissement.",
+      "text_sha256": "ee9e5e9772b452754c004f8c95ca02ad56a96d2875ae0ecd2362dbd5e65e7927",
+      "md_span": {
+        "start": 33608,
+        "end": 35693
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2001/08/01/n10/jo",
+          "text": "loi du 1er août 2001"
+        },
+        {
+          "href": "/eli/etat/leg/code/commerce",
+          "text": "code de commerce"
+        }
+      ]
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_62",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_62/20040402",
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 1 — *Les droits des investisseurs et des créanciers*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les droits des investisseurs et des créanciers sont limités aux actifs de l’organisme de titrisation. Lorsqu’ils sont relatifs à un compartiment ou nés à l’occasion de la constitution, du fonctionnement ou de la liquidation d’un compartiment ils sont limités aux actifs de ce compartiment.\n\n**(2)** Les actifs d’un compartiment répondent exclusivement des droits des investisseurs relatifs à ce compartiment et ceux des créanciers dont la créance est née à l’occasion de la constitution, du fonctionnement ou de la liquidation de ce compartiment.\n\n**(3)** Dans les relations entre investisseurs, chaque compartiment est traité comme une entité à part, sauf clause contraire des documents constitutifs.",
+      "text_sha256": "1041843a1af6980b41f2321edfa1a6fe1038059d35d66452bd6287edb8ba6426",
+      "md_span": {
+        "start": 35852,
+        "end": 36561
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_63",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_63/20040402",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 1 — *Les droits des investisseurs et des créanciers*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** A condition que les statuts, le règlement de gestion ou le contrat d’émission le prévoient, un organisme de titrisation peut émettre des valeurs mobilières dont la valeur ou le rendement sont fonction de compartiments, d’actifs ou de risques déterminés ou dont le remboursement est subordonné au remboursement d’autres titres, de certaines créances ou de certaines catégories d’actions. En présence d’un organisme d’acquisition distinct de l’organisme d’émission, la valeur, le rendement et les conditions de remboursement peuvent également dépendre des actifs et des dettes de l’organisme d’acquisition.\n\n**(2)** Nonobstant toute stipulation contraire, le droit de vote attaché aux actions de valeur inégale est proportionnel à la quotité du capital que représentent ces actions. Celui attaché aux obligations et autres titres de créance est toujours proportionnel à la quotité du montant de l’emprunt qu’elles représentent.",
+      "text_sha256": "194e09aefacb687202da4bdc13c8959673bd9e81d289fdc7fe51656abe6b5c48",
+      "md_span": {
+        "start": 36598,
+        "end": 37531
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_64",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_64/20040402",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 1 — *Les droits des investisseurs et des créanciers*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les statuts, le règlement de gestion d’un organisme de titrisation ainsi que tout contrat conclu par l’organisme de titrisation peuvent contenir des clauses par lesquelles des investisseurs et des créanciers acceptent de subordonner l’exigibilité ou le recouvrement de leurs droits au paiement d’autres investisseurs ou créanciers ou s’engagent à ne pas saisir les biens de l’organisme de titrisation ni, le cas échéant, de l’organisme d’acquisition ou d’émission et à ne pas les assigner en faillite ou requérir à leur encontre l’ouverture de toute autre procédure collective ou d’assainissement.\n\n**(2)** Les poursuites engagées en violation de telles clauses sont irrecevables.",
+      "text_sha256": "372c2839c70038ac2239b274bee131b3878406bdb3827aeb25aae56fd6e98851",
+      "md_span": {
+        "start": 37568,
+        "end": 38256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_65",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_65/20040402",
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 1 — *Les droits des investisseurs et des créanciers*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les conditions d’émission et de remboursement des valeurs mobilières émises par un organisme de titrisation s’imposent à ce dernier ainsi qu’aux investisseurs et sont opposables à toute autre personne y compris en cas de liquidation d’un ou plusieurs compartiments, de faillite et plus généralement de toute situation de concours entre ses créanciers, sous réserve de ne pas porter atteinte aux droits des créanciers qui n’y ont pas consenti.\n\n**(2)** Il en va de même des conditions particulières acceptées par des créanciers pour le paiement de leurs créances.",
+      "text_sha256": "08e3838e159a1c3119bfa6893be861523a45032e512fad7763837c2ed7a1ea9a",
+      "md_span": {
+        "start": 38293,
+        "end": 38863
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_66",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_66/20040402",
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 1 — *Les droits des investisseurs et des créanciers*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Sous réserve de l’article 70 ci-après, les articles 86 à 97 de la loi modifiée du 10 août 1915 concernant les sociétés commerciales sont applicables aux porteurs de tous titres de créance émis par un organisme de titrisation. Les contrats d’émission de tels titres peuvent cependant déroger à ces dispositions.\n\n**(2)** En cas d’émission de titres de créance par un fonds de titrisation, la société de gestion du fonds exerce les droits et assume les obligations qui appartiennent à la société émettrice ou à son conseil d’administration en vertu des articles 86 à 95 de la loi précitée.",
+      "text_sha256": "aa93e086412502e207bd99e52afc90f84f84795fc060d8c8795512846e3d8e4a",
+      "md_span": {
+        "start": 38900,
+        "end": 39495
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_67",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_67/20040402",
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les investisseurs et les créanciers d’un organisme de titrisation peuvent confier la gestion de leurs intérêts à un ou plusieurs représentants-fiduciaires. La présente loi s’applique aux seuls représentants-fiduciaires dont le siège statutaire est au Luxembourg.",
+      "text_sha256": "afe39191317946da157d558de7ac6089a062d8cfa121e1ad926f752f14e87ec4",
+      "md_span": {
+        "start": 39649,
+        "end": 39911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_68",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_68/20040402",
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** L’acte par lequel un représentant-fiduciaire accepte sa mission doit préciser ses droits et ses pouvoirs, en particulier de représentation, désigner les groupes d’investisseurs ou de créanciers pour le compte desquels il intervient et prévoir une procédure pour pourvoir à son remplacement.\n\n**(2)** Cet acte engage, sans autre formalité, tous les investisseurs et créanciers qui ont accepté le représentant-fiduciaire. La souscription ou l’acquisition d’une valeur mobilière d’un organisme de titrisation, désignant un représentant-fiduciaire, vaut acceptation de celui-ci et de sa mission.",
+      "text_sha256": "b7ef17303b8db114c9be924536fd9298d62332e192e41dddbf0f79a047203571",
+      "md_span": {
+        "start": 39948,
+        "end": 40547
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_69",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_69/20040402",
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Sauf disposition contraire, les investisseurs et les créanciers, qui ont nommé un représentant-fiduciaire, sont représentés par celui-ci dans toutes leurs relations avec l’organisme de titrisation et les tiers liés à la titrisation. Tant qu’ils sont représentés, ils ne peuvent plus exercer individuellement les droits dont ils ont confié la gestion au représentant-fiduciaire.\n\n**(2)** Dans la limite des pouvoirs que les investisseurs et les créanciers lui ont confiés, le représentant-fiduciaire peut intenter pour leur compte toutes actions et défendre leurs intérêts, y compris en justice, sans avoir à révéler leur identité, la seule indication qu’il intervient ès qualités étant suffisante.",
+      "text_sha256": "03b21f1bcfcaf684584b6b946070601d39e1731345f2e80a3077af204dc34b4c",
+      "md_span": {
+        "start": 40584,
+        "end": 41289
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_70",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_70/20040402",
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Lorsqu’un organisme de titrisation émet des titres de créances, il peut confier à un représentant-fiduciaire les fonctions de représentant de la masse des porteurs de ces titres en définissant librement ses pouvoirs, nonobstant l’article 88 de la loi modifiée du 10 août 1915 sur les sociétés commerciales.\n\n**(2)** Les articles 86 à 97 de la loi modifiée du 10 août 1915 sur les sociétés commerciales ne sont applicables à l’émission que pour autant que le contrat d’émission ou l’acte de nomination du représentant-fiduciaire n’y dérogent pas.",
+      "text_sha256": "60c4c4daa0adae8c380dff82cfce8c61ac7a361a0cff425d7758d409e81ac17f",
+      "md_span": {
+        "start": 41326,
+        "end": 41879
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi modifiée du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_71",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_71/20040402",
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Le représentant-fiduciaire peut également se voir reconnaître par des investisseurs et des créanciers le pouvoir d’agir dans leur intérêt en qualité de fiduciaire, conformément à la législation sur les trusts et les contrats fiduciaires. Les droits et les biens qu’il acquiert au bénéfice des investisseurs et des créanciers forment un patrimoine fiduciaire distinct du sien, comme de tout autre patrimoine fiduciaire dont il serait titulaire.\n\n**(2)** Le représentant-fiduciaire peut notamment, en cette qualité, accepter, prendre, détenir et exercer toutes sûretés et garanties et recevoir tous paiements destinés aux investisseurs et aux créanciers qui lui ont conféré ce pouvoir, comme s’il était lui-même titulaire des créances de ces derniers, tous paiements faits entre ses mains étant libératoires pour le débiteur. Les articles 445, 446, 447 alinéa 2 et 448 du code de commerce ne sont pas applicables à ces sûretés, garanties ou paiements.",
+      "text_sha256": "dc415f929f32c5ea95024302c41839e4775ced68dac5454037bcfaa2512761be",
+      "md_span": {
+        "start": 41916,
+        "end": 42873
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/commerce",
+          "text": "code de commerce"
+        }
+      ]
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_72",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_72/20040402",
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "L’organisme de titrisation peut céder au représentant-fiduciaire, sous les modalités convenues avec lui, tout ou partie des droits et actions nées d’un contrat conclu avec un tiers. La cession est opposable au cocontractant ainsi qu’à tous les autres tiers dès sa conclusion et n’est pas susceptible d’être remise en cause sur le fondement des articles 445, 446, 447 alinéa 2 et 448 du code de commerce.\n\nLe cocontractant peut cependant se libérer valablement de toutes dettes entre les mains de l’organisme cédant, tant qu’il n’a pas eu connaissance de la cession.",
+      "text_sha256": "4867b3c8ead9022742f301f4db72fb578a7b32edd2cf6759413bc716270a5f9e",
+      "md_span": {
+        "start": 42910,
+        "end": 43475
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/commerce",
+          "text": "code de commerce"
+        }
+      ]
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_73",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_73/20040402",
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Le représentant-fiduciaire qui se substitue un tiers pour exercer les droits et actions qui lui ont été cédés ne répond des dommages causés par celui-ci qu’à condition qu’il n’ait pas reçu le pouvoir de se substituer quelqu’un ou qu’il ait fait le choix d’une personne notoirement incapable ou insolvable.\n\nL’organisme cédant et, nonobstant leur représentation par le représentant-fiduciaire, les investisseurs et les créanciers peuvent agir directement contre la personne que celui-ci s’est substituée.",
+      "text_sha256": "1a8b681f15436dbef7f39291bf75ab9c02d2596e36363a4e96dac172f3f9a62c",
+      "md_span": {
+        "start": 43512,
+        "end": 44015
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_74",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_74/20040402",
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les statuts ou le règlement intérieur d’un organisme de titrisation peuvent permettre à un représentant-fiduciaire de demander en justice, pour motifs graves, le remplacement, provisoire ou définitif, de ses organes d’administration, de ceux, le cas échéant, de la société de gestion comme de celle-ci elle-même.",
+      "text_sha256": "f02bd8b13f276c0a73cf211e74a53e1817c158619ed0107705f8f7a581e413e2",
+      "md_span": {
+        "start": 44052,
+        "end": 44364
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_75",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_75/20040402",
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "En cas de liquidation volontaire ou forcée d’un organisme de titrisation ou de l’un de ses compartiments et sauf disposition contraire dans l’acte de nomination, le représentant-fiduciaire exerce les fonctions de liquidateur pour le compte des investisseurs et des créanciers qui l’ont nommé.",
+      "text_sha256": "f6ca2d3b3af0a6c08c6c6b9ef8242cab9274000b9eca3b46f8a59a52d3046283",
+      "md_span": {
+        "start": 44401,
+        "end": 44693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_76",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_76/20040402",
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "A défaut de disposition contraire dans l’acte de nomination, la responsabilité d’un représentant-fiduciaire vis-à-vis des investisseurs et des créanciers pour le compte desquels il intervient s’apprécie comme celle d’un mandataire salarié.",
+      "text_sha256": "ce302de81d595888122a60a05838b56eba5385a54cddd1829d25399b9e49e700",
+      "md_span": {
+        "start": 44730,
+        "end": 44969
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_77",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_77/20040402",
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** En cas de remplacement d’un représentant-fiduciaire tous les droits et toutes les actions que celui-ci détient dans l’intérêt des investisseurs et des créanciers sont transmis de plein droit et sans autre formalité au nouveau représentant-fiduciaire.\n\n**(2)** La démission d’un représentant-fiduciaire ne prend effet qu’à partir de l’instant ou un nouveau représentant-fiduciaire a été désigné.",
+      "text_sha256": "3118642ba83e4a28ee87e63123276f055cd40f68ad523005dceaccf7d0b0402c",
+      "md_span": {
+        "start": 45006,
+        "end": 45408
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_78",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_78/20040402",
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 1 — Droits et pouvoirs des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Sur demande motivée d’un investisseur ou d’un créancier représenté, justifiant d’un motif grave, la CSSF peut remplacer provisoirement ou définitivement un représentant-fiduciaire.\n\n**(2)** Sauf disposition contraire dans l’acte de nomination, toute autre voie de révocation ou de remplacement est exclue.",
+      "text_sha256": "de7074b9a36697092849656e0d1a4aa909cdf808979c69bcfdfd52c3705c212f",
+      "md_span": {
+        "start": 45445,
+        "end": 45758
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_79",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_79/20040402",
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 2 — Agrément obligatoire des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Les représentants-fiduciaires soumis à la présente loi doivent être agréés par le Ministre ayant dans ses attributions la CSSF.\n\n**(2)** Ils ne peuvent exercer des activités étrangères à leur fonction principale que de manière accessoire et auxiliaire à celle-ci.",
+      "text_sha256": "703de012484cb79a6e076b0b6b3e0b5cf507b3fd0fb0e967b5d684775372f1f3",
+      "md_span": {
+        "start": 45864,
+        "end": 46135
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_80",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_80/20040402",
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 2 — Agrément obligatoire des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** L’agrément pour l’activité de représentant-fiduciaire ne peut être accordé qu’à des sociétés de capitaux justifiant d’un capital social et de fonds propres d’une valeur au moins égale à quatre cent mille euros.\n\n**(2)** Il est subordonné à la communication à la CSSF de l’identité des actionnaires ou associés, directs ou indirects, personnes physiques ou morales, qui détiennent dans le représentant-fiduciaire à agréer une participation qualifiée, au sens de l’article 18 de la loi modifiée du 5 avril 1993 sur le secteur financier, et du montant de ces participations.\n\n**(3)** En vue de l’obtention de l’agrément, les membres des organes d’administration, de gestion et de surveillance ainsi que les actionnaires ou associés visés à l’article précédent, doivent justifier de leur honorabilité professionnelle. L’honorabilité s’apprécie sur base des antécédents judiciaires et de tous les éléments susceptibles d’établir que les personnes visées jouissent d’une bonne réputation et présentent toutes les garanties d’une activité irréprochable.\n\n**(4)** Les personnes chargées de la gestion doivent posséder une expérience professionnelle adéquate.",
+      "text_sha256": "c87777283da2247ad9fa9c5043a4a300e02756d1bbca49b706c0f12fcb7d5c8e",
+      "md_span": {
+        "start": 46172,
+        "end": 47330
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/04/05/n1/jo",
+          "text": "loi modifiée du 5 avril 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_81",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_81/20040402",
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 2 — Agrément obligatoire des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La demande d’agrément doit être adressée par écrit au Ministre ayant dans ses attributions la CSSF et être accompagnée de tous les renseignements nécessaires à son appréciation, en particulier, des informations précises sur la structure administrative et comptable du demandeur.",
+      "text_sha256": "a30d7247bf15781dd25500d57baf87a7b60587b557caf79229fab3058920ffe0",
+      "md_span": {
+        "start": 47367,
+        "end": 47645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_82",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_82/20040402",
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 2 — Agrément obligatoire des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** L’agrément est accordé après instruction par la CSSF portant sur les conditions exigées par la présente loi.\n\n**(2)** La décision prise sur une demande d’agrément doit être motivée et notifiée au demandeur dans les six mois de la réception de la demande ou, si celle-ci est incomplète, dans les six mois de la réception des renseignements nécessaires à la décision. Il est en tout cas statué dans les douze mois de la réception de la demande, faute de quoi l’absence de décision équivaut à la notification d’une décision de refus. La décision peut être déférée, dans le délai d’un mois sous peine de forclusion, au tribunal administratif, qui statue comme juge du fond.\n\n**(3)** La durée de l’agrément est illimitée.",
+      "text_sha256": "230118957a909bc2f129e11bfefbe12ca1e48cb612e31311dbe5ed8ca7a5eedb",
+      "md_span": {
+        "start": 47682,
+        "end": 48406
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_83",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_83/20040402",
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 2 — Agrément obligatoire des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** Toute modification dans le chef de personnes devant remplir les conditions légales d’honorabilité et d’expérience professionnelles, doit être autorisée au préalable par la CSSF. A cet effet, la CSSF peut demander tous renseignements nécessaires sur les personnes susceptibles de devoir remplir les conditions légales. La décision de la CSSF peut être déférée, dans le délai d’un mois sous peine de forclusion, au tribunal administratif, qui statue comme juge du fond.\n\n**(2)** Un nouvel agrément est requis avant toute modification de l’objet, de la dénomination ou de la forme juridique.",
+      "text_sha256": "f8e0712a85b0f4a34eeb6753e1962e873fa191c8b0eced8e153a8da6357f949d",
+      "md_span": {
+        "start": 48443,
+        "end": 49039
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_84",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_84/20040402",
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "TITRE IV — **Les investisseurs et les créanciers**",
+        "Chapitre 2 — *Les représentants-fiduciaires*",
+        "Section 2 — Agrément obligatoire des représentants-fiduciaires"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "**(1)** L’agrément devient caduc s’il n’en est pas fait usage pendant une période ininterrompue de plus de douze mois.\n\n**(2)** L’agrément est retiré si les conditions pour son octroi ne sont plus remplies.\n\n**(3)** L’agrément est retiré si l’agrément a été obtenu au moyen de fausses déclarations ou par tout autre moyen irrégulier.\n\n**(4)** La décision sur le retrait de l’agrément peut être déférée, dans le délai d’un mois, sous peine de forclusion, au tribunal administratif, qui statue comme juge du fond.",
+      "text_sha256": "191ed3c5d0b2e80dd7a6e80c57c08fff94ce364cbe78e65814df997c705eaa34",
+      "md_span": {
+        "start": 49076,
+        "end": 49587
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_85",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_85/20040402",
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "TITRE V — **Sanctions**"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Les administrateurs, gérants et directeurs des organismes de titrisation agréés ou d’un représentant-fiduciaire ainsi que les liquidateurs en cas de liquidation volontaire d’un organisme de titrisation agréé peuvent être frappés par la CSSF d’une amende d’ordre de 125 à 12.500 euros au cas où ils refuseraient de fournir les rapports financiers et les renseignements demandés ou lorsque ceux-ci se révéleraient incomplets, inexacts ou faux, ainsi qu’en cas de constatation de toute autre irrégularité grave.",
+      "text_sha256": "ca65e8c32c24e19cd9574881d679abfa8b6ccb28ce479a64f16aa9c199d91ded",
+      "md_span": {
+        "start": 49652,
+        "end": 50160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_86",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_86/20040402",
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "TITRE VI — **Dispositions modificatives et transitoire**",
+        "Chapitre 1 — *Dispositions modificatives*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "L’article 13 (2) de la loi modifiée du 5 avril 1993 relative au secteur financier est complété par le tiret suivant, placé comme avant-dernier tiret:aux organismes de titrisation et aux représentants-fiduciaires intervenant auprès d’un tel organisme",
+      "text_sha256": "74cf920f7146bb180ecbe1e41bcbc11ebd4cb3923c633f8a4eeaaa89731c6551",
+      "md_span": {
+        "start": 50305,
+        "end": 50554
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/04/05/n1/jo",
+          "text": "loi modifiée du 5 avril 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_87",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_87/20040402",
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": null,
+      "path": [
+        "TITRE VI — **Dispositions modificatives et transitoire**",
+        "Chapitre 1 — *Dispositions modificatives*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "Le premier alinéa du paragraphe (1) de l’article 2 de la loi modifiée du 23 décembre 1998 portant création d’une Commission de Surveillance du Secteur Financier est remplacé par le texte suivant:La Commission est l’autorité compétente pour la surveillance prudentielle des établissements de crédit, des PSF au sens de la loi modifiée du 5 avril 1993 relative au secteur financier, des organismes de placement collectif, des fonds de pension sous forme de sepcav ou d’assep, des organismes de titrisation agréés, des représentants-fiduciaires intervenant auprès d’un organisme de titrisation ainsi que des personnes exerçant l’activité de bourse.",
+      "text_sha256": "bdf27f35970da048f99a491e1fc6e7a0b20be032c475fbd7aced9cd27dfc1d95",
+      "md_span": {
+        "start": 50591,
+        "end": 51236
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/12/23/n2/jo",
+          "text": "loi modifiée du 23 décembre 1998"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1993/04/05/n1/jo",
+          "text": "loi modifiée du 5 avril 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_88",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_88/20040402",
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": null,
+      "path": [
+        "TITRE VI — **Dispositions modificatives et transitoire**",
+        "Chapitre 1 — *Dispositions modificatives*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "L’article 4 de la loi du 27 juillet 2003 sur le trust et les contrats fiduciaires est modifié de la manière suivante: «Le présent titre ne s’applique qu’aux contrats fiduciaires dans lesquels le fiduciaire est un établissement de crédit, une entreprise d’investissement, une société d’investissement à capital variable ou fixe, une société de titrisation, un représentant-fiduciaire agissant dans le cadre d’une opération de titrisation, une société de gestion de fonds commun de placement ou de fonds de titrisation, un fonds de pension, une entreprise d’assurance ou de réassurance ou un organisme national ou international à caractère public opérant dans le secteur financier.»",
+      "text_sha256": "829d4b9378b603892da56f02930834542905779b4a33fbb672abccde952b5570",
+      "md_span": {
+        "start": 51273,
+        "end": 51953
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2003/07/27/n4/jo",
+          "text": "loi du 27 juillet 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_89",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_89/20040402",
+      "type": "article",
+      "num": "Art. 89.",
+      "heading": null,
+      "path": [
+        "TITRE VI — **Dispositions modificatives et transitoire**",
+        "Chapitre 1 — *Dispositions modificatives*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu est modifiée comme suit:\n\n1. L’article 22bis est complété par l’ajout d’un alinéa 5 libellé comme suit: «(5) Les valeurs mobilières émises par un organisme de titrisation sont exclues du bénéfice des dispositions de l’alinéa 2 du présent article.»\n2. L’article 25 est complété par l’ajout d’un alinéa 3 libellé comme suit: «(3) Le prix d’acquisition d’un bien acquis par un organisme de titrisation doit correspondre à la valeur estimée de réalisation de ce bien.»\n3. L’article 46 est complété par l’ajout d’un numéro 14 libellé comme suit: «14. les engagements assumés vis-à-vis des investisseurs et de tout autre créancier par une société de titrisation.»\n4. er\n5. **«(5)** Les organismes de titrisation sont exclus du champ d’application du présent article.» Les autres alinéas sont renumérotés en conséquence.",
+      "text_sha256": "62c07c97f2458a93223d9839bb7bb2ed78111d00921d93dc81f14a1c1d5adcb7",
+      "md_span": {
+        "start": 51990,
+        "end": 52871
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi modifiée du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_90",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_90",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_90/20040402",
+      "type": "article",
+      "num": "Art. 90.",
+      "heading": null,
+      "path": [
+        "TITRE VI — **Dispositions modificatives et transitoire**",
+        "Chapitre 1 — *Dispositions modificatives*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "L’alinéa 1er du paragraphe 3 de la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune est complété par la réinsertion d’un numéro 4 libellé comme suit: «4. les sociétés de titrisation.»",
+      "text_sha256": "2be0d47b3e0c8091bb26ece3e108e4ea53d97b9db6127e2d7b33c6407145d619",
+      "md_span": {
+        "start": 52908,
+        "end": 53108
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1934/10/16/n1/jo",
+          "text": "loi modifiée du 16 octobre 1934"
+        }
+      ]
+    },
+    {
+      "anchor": "art_91",
+      "provision_id": "lu-legilux:loi-2004-03-22-n1:2009-01-01#art_91",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/art_91/20040402",
+      "type": "article",
+      "num": "Art. 91.",
+      "heading": null,
+      "path": [
+        "TITRE VI — **Dispositions modificatives et transitoire**",
+        "Chapitre 2 — *Disposition transitoire*"
+      ],
+      "article_valid_from": "2004-04-02",
+      "text_md": "La présente loi ne s’applique pas aux opérations et organismes de titrisation mis en place avant son entrée en vigueur, à moins que les parties en cause n’en décident autrement par une déclaration de volonté expresse en modifiant les documents constitutifs de l’organisme de titrisation concerné en y incluant une disposition expresse en ce sens.",
+      "text_sha256": "b470f81d8e31754406ecd9b613f91774eadd2d2a74f44ea258a9c085c9fc54d7",
+      "md_span": {
+        "start": 53189,
+        "end": 53535
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

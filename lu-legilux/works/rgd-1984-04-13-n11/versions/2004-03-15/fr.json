@@ -1,0 +1,132 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1984-04-13-n11:2004-03-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/03/2004 : Règlement grand-ducal du 13 avril 1984 déterminant les pièces contenues dans le dossier personnel des fonctionnaires de l'Etat.",
+  "valid_from": "2004-03-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1984-04-13-n11/versions/2004-03-15/fr.xml",
+    "sha256": "aea0f48a1bc3636d710a76a042e095476f20f3e60ffa1694b39ad59bc177f566",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/consolide/20040315/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1984-04-13-n11:2004-03-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/art_1er/20040315",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-03-15",
+      "text_md": "Il est constitué pour chaque fonctionnaire et au bureau du personnel de chaque administration et service un dossier personnel comprenant toutes les pièces à usage administratif ou d’origine administrative et les documents relatifs à la situation personnelle et professionnelle ainsi qu’à la carrière de l’intéressé.",
+      "text_sha256": "d19193cc989d5eac26ec4b4fae2fdc7129f6148d4961cf45e66ad4357bac3e08",
+      "md_span": {
+        "start": 651,
+        "end": 966
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1984-04-13-n11:2004-03-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/art_2/20040315",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-03-15",
+      "text_md": "Sont à verser à ce dossier toutes les pièces concernant la situation statutaire, la situation de carrière ainsi que la situation familiale du fonctionnaire et notamment:\n\n- l’autorisation d’engagement du Gouvernement en Conseil\n- le certificat de nationalité\n- l’extrait du casier judiciaire\n- le certificat médical\n- la correspondance relative aux congés pour raisons de santé\n- l’extrait de l’acte de naissance\n- les certificats d’études et les diplômes\n- l’arrêté d'admission au stage\n- les arrêtés de nomination et de promotion\n- les décisions relatives à l’affectation de l’agent\n- l’arrêté de démission\n- l’arrêté de l’allocation de la pension.",
+      "text_sha256": "575e90e1d48ad4b0bb8df9c9639be4615cd8157fd10329049281c5ca4c62b4d4",
+      "md_span": {
+        "start": 1001,
+        "end": 1651
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1984-04-13-n11:2004-03-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/art_3/20040315",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-03-15",
+      "text_md": "**1.** Sont à insérer de même dans le dossier personnel tous les documents relatifs à des ordres de justification, à des décisions infligeant une peine disciplinaire ainsi que les décisions émises par le Conseil de discipline.\n\n**2.** Pour les peines de l’avertissement, de la réprimande et de l’amende ne dépassant pas le cinquième d’une mensualité brute du traitement de base, les dispositions de l’article 54, paragraphe 5 de la loi modifiée du 16 avril 1979 précitée sont applicables.",
+      "text_sha256": "d6de74f2f79d8f7fe6b4653e674dc83a3692ffb2eef161a67fd0010020b4a03d",
+      "md_span": {
+        "start": 1686,
+        "end": 2174
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n5/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1984-04-13-n11:2004-03-15#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/art_4/20040315",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-03-15",
+      "text_md": "Le dossier personnel doit suivre le fonctionnaire pour tout changement d’administration.",
+      "text_sha256": "b35bffaf25c9fcbeaa1b994f49fd8128e04dd8d51042d7175a1a1a176b731891",
+      "md_span": {
+        "start": 2209,
+        "end": 2297
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1984-04-13-n11:2004-03-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/art_5/20040315",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-03-15",
+      "text_md": "En dehors du dossier personnel du fonctionnaire visé à l’article 1er du présent règlement un dossier est constitué au ministère de la Fonction Publique avec toutes les pièces nécessaires au calcul et à l’établissement de la rémunération et de la pension du fonctionnaire et notamment:\n\n- l’autorisation d’engagement du Gouvernement en Conseil\n- l’extrait de l’acte de naissance\n- le certificat de réussite à l’examen-concours, à l’examen de fin de stage, à l’examen de promotion\n- l’arrêté d’admission au stage\n- les arrêtés de nomination et de promotion\n- la feuille de renseignement\n- la déclaration d’entrée à la Caisse de maladie\n- la déclaration de sortie de la Caisse de maladie\n- les décisions relatives aux peines disciplinaires ayant une incidence sur la rémunération\n- l’arrêté de démission.",
+      "text_sha256": "444c3e51c0c180d52d0c29d7a0033b8c5ab4e854c533982521dbfbe7b5a0a9d6",
+      "md_span": {
+        "start": 2332,
+        "end": 3133
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1984-04-13-n11:2004-03-15#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/art_6/20040315",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-03-15",
+      "text_md": "Les Membres du Gouvernement sont chargés, chacun pour ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "237e3f373e5e40400e2cc758caf7aa5b5b85a5e0e05e5c060de5d95471d75b1d",
+      "md_span": {
+        "start": 3168,
+        "end": 3306
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

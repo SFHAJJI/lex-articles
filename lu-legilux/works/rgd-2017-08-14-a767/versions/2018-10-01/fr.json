@@ -1,0 +1,253 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/07/2023 : Règlement grand-ducal du 14 août 2017 déterminant pour les fonctionnaires et employés communaux : I. les cas d’exception ou de tempérament aux conditions du service provisoire ; II. la bonification d’ancienneté de service pour la fixation du traitement initial ; III. la procédure d’attribution d’une prime pour les détenteurs d’un doctorat.",
+  "valid_from": "2018-10-01",
+  "valid_to": "2023-06-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2017-08-14-a767/versions/2018-10-01/fr.xml",
+    "sha256": "f6f44461976f51015c0651fe00cac2a46509c0da21c92afeb175e1ad62853412",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/consolide/20181001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_1er/20170901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er. ** — ** Champ d’application**"
+      ],
+      "article_valid_from": "2017-09-01",
+      "text_md": "Les dispositions du chapitre 2 s’appliquent aux fonctionnaires communaux en service provisoire des rubriques « Administration générale » et « Enseignement » et aux employés communaux considérés comme étant en période de service provisoire, désignés ci-après par « agents en service provisoire ».\n\nLes dispositions du chapitre 3 s’appliquent aux fonctionnaires communaux en service provisoire des rubriques « Administration générale » et « Enseignement ».\n\nLes dispositions du chapitre 4 s’appliquent aux fonctionnaires et employés communaux respectivement au moment de la nomination définitive et au moment du début de carrière.",
+      "text_sha256": "b5c3deb2b9ae8d2cf9c74616d80056b23514726562d0b28e736619eed4e79f43",
+      "md_span": {
+        "start": 923,
+        "end": 1551
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_2_dispositions_communes/20170901",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Dispositions communes",
+      "path": [
+        "**Chapitre 2. ** — ** Réduction du service provisoire**"
+      ],
+      "article_valid_from": "2017-09-01",
+      "text_md": "L'agent admis au service provisoire dans un groupe de traitement ou d’indemnité supérieur à son groupe initial bénéficie d’une réduction du service provisoire qui est calculée à raison d’un mois de réduction pour quatre mois de service dans le groupe de traitement ou d’indemnité initial. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.\n\nLa réduction du service provisoire ne peut être supérieure à un an. Elle est calculée au prorata du degré d’occupation pendant le service dans le groupe de traitement ou d’indemnité initial.",
+      "text_sha256": "1db08649d960b8343f1e960b1f6707552907a5a9f1cdbbe41e8afc22b083b353",
+      "md_span": {
+        "start": 1668,
+        "end": 2228
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_3_dispositions_specifiques_aux_agents_de_la_categorie_a_groupes_a1_et_a2/20181001",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Dispositions spécifiques aux agents de la catégorie A (groupes A1 et A2)",
+      "path": [
+        "**Chapitre 2. ** — ** Réduction du service provisoire**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Dans la catégorie de traitement ou d’indemnité A, groupes de traitement ou d’indemnité A1 et A2, la période de service provisoire est réduite d’une durée maximale d’un an :\n\n1. pour l'agent en service provisoire ayant passé l’examen de fin de stage judiciaire ;\n2. pour l'agent en service provisoire qui, en dehors des diplômes requis pour l’admission au service d'une commune, d'un syndicat de communes ou d'un établissement public placés sous la surveillance des communes est titulaire d’un diplôme universitaire supplémentaire dans une matière qui concerne spécialement la fonction ou l’emploi occupé.\n\nPour l'agent en service provisoire qui a acquis une formation pratique par une activité professionnelle correspondant à sa formation universitaire, autre que le stage judiciaire, exercée à plein temps, la réduction du service provisoire est calculée à raison d’un mois de réduction pour quatre mois d’activité professionnelle accomplis. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.",
+      "text_sha256": "95933b3e1d892baac19e9cec021f07acd89055fbebb2dd2cf1098f7d9db34051",
+      "md_span": {
+        "start": 2336,
+        "end": 3358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_4_dispositions_specifiques_aux_agents_de_la_categorie_b/20181001",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Dispositions spécifiques aux agents de la catégorie B",
+      "path": [
+        "**Chapitre 2. ** — ** Réduction du service provisoire**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Dans la catégorie de traitement ou d’indemnité B, la période de service provisoire est réduite d’une durée maximale d’un an en faveur de l'agent en service provisoire qui peut se prévaloir d’une expérience professionnelle à plein temps dans un domaine qui concerne spécialement la fonction ou l’emploi occupé. La réduction du service provisoire est calculée à raison d’un mois de réduction pour quatre mois d’activité professionnelle accomplis. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.",
+      "text_sha256": "aac87c17e2393bfee1f21f94079480e17bd5fd70272e491f7d9b65f5e2082f9b",
+      "md_span": {
+        "start": 3447,
+        "end": 3971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_5_dispositions_specifiques_aux_agents_des_categories_c_et_d/20181001",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Dispositions spécifiques aux agents des catégories C et D",
+      "path": [
+        "**Chapitre 2. ** — ** Réduction du service provisoire**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Dans les catégories de traitement ou d’indemnité C et D, la période de service provisoire est réduite d’une durée maximale d’un an en faveur de l'agent en service provisoire qui peut se prévaloir d’une expérience professionnelle à plein temps dans un domaine qui concerne spécialement la fonction ou l’emploi occupés. La réduction du service provisoire est calculée à raison d’un mois de réduction pour quatre mois d’activité professionnelle accomplis. Ne sont pas prises en compte les périodes de service inférieures à quatre mois.\n\nL'agent en service provisoire qui peut se prévaloir d’une période de volontariat à l’Armée d’au moins trente-six mois bénéficie d’une réduction du service provisoire d’une année.",
+      "text_sha256": "e3041ac495b00f247bcaad6d787f1fda257d550444dd97c336e26afaa8608af5",
+      "md_span": {
+        "start": 4064,
+        "end": 4776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_6/20170901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **Cas d’exception ou de tempérament aux conditions de formation pendant le service provisoire et d’examen d'admission définitive**"
+      ],
+      "article_valid_from": "2017-09-01",
+      "text_md": "Pour le fonctionnaire en service provisoire ayant bénéficié d’une réduction du service provisoire en exécution des dispositions du présent règlement, un programme individuel de formation est établi à l’Institut national d’administration publique par le chargé de direction, en fonction de la durée du service provisoire réduit ainsi que des besoins de formation du candidat.",
+      "text_sha256": "f3527ee187393ac385ed5a5b47c2961e72e99430527388e8f7ff4b943afcf021",
+      "md_span": {
+        "start": 4964,
+        "end": 5338
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_7/20170901",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **Cas d’exception ou de tempérament aux conditions de formation pendant le service provisoire et d’examen d'admission définitive**"
+      ],
+      "article_valid_from": "2017-09-01",
+      "text_md": "Pour le fonctionnaire en service provisoire qui bénéficie d’une réduction du service provisoire et qui fait partie des sous-groupes pour lesquels un examen de fin de formation générale est prévu à l’Institut national d’administration publique, l’examen de fin de formation générale est organisé conformément au règlement grand-ducal modifié du 27 octobre 2000 portant organisation à l’Institut national d’administration publique de la division de la formation pendant le service provisoire des fonctionnaires des communes, des syndicats de communes et des établissements publics des communes.\n\nLa partie de l’examen d'admission définitive sanctionnant la formation générale à l’Institut national d’administration publique porte sur les matières figurant au programme individuel.\n\nLa partie de l’examen d'admission définitive sanctionnant la formation spéciale respectivement l'examen d'admission définitive prévu par le règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d'admission et d'examen des fonctionnaires communaux est organisée par le ministre de l'Intérieur.",
+      "text_sha256": "39e9bfd84f6802f2a48067e6178b845ebf649675b78a28f94bd1cedafaa856a5",
+      "md_span": {
+        "start": 5373,
+        "end": 6473
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2000/10/27/n4/jo",
+          "text": "règlement grand-ducal modifié du 27 octobre 2000"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1990/12/20/n1/jo",
+          "text": "règlement grand-ducal modifié du 20 décembre 1990"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_8_activite_professionnelle_autre_que_dans_le_secteur_public/20181001",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Activité professionnelle autre que dans le secteur public",
+      "path": [
+        "**Chapitre 4.** — ** Bonification d’ancienneté**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "La bonification d’ancienneté de service prévue à l’article 5, paragraphe 1er, alinéa 2, du règlement grand-ducal modifié du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux est accordée à raison de cent pour cent pour les périodes où le degré d’occupation correspondait à une tâche supérieure à la moitié d’une tâche complète. Cette bonification est de cinquante pour cent lorsque le degré d’occupation correspond à une tâche inférieure ou égale à la moitié d’une tâche complète.",
+      "text_sha256": "c1fe79922b85c531a2bd420ee58ab887daab5e05009a9d6441fb282231651cd1",
+      "md_span": {
+        "start": 6619,
+        "end": 7171
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2017/07/28/a678/jo",
+          "text": "règlement grand-ducal modifié du 28 juillet 2017"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_9/20170901",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5.** — **Procédure**"
+      ],
+      "article_valid_from": "2017-09-01",
+      "text_md": "Les décisions de réduction du service provisoire et de bonification d’ancienneté de service sont prises par le conseil communal sous l'approbation du ministre de l'Intérieur. Le fonctionnaire ou employé concerné joint à sa demande les certificats de travail ou autres pièces documentant la nature, la durée et le degré des occupations professionnelles antérieures.\n\nLes décisions d’octroi de la prime de doctorat, prévue à l’article 22, paragraphe 2 du règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux, sont prises par le conseil communal, sur demande du fonctionnaire ou employé concerné et sous l'approbation du ministre de l'Intérieur, accompagnée d’une description de poste et du diplôme de doctorat.",
+      "text_sha256": "e1bc3173737908cfd5c0acefe3df19a00e319182237054362a892c4dc43493c6",
+      "md_span": {
+        "start": 7242,
+        "end": 8044
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2017/07/28/a678/jo",
+          "text": "règlement grand-ducal du 28 juillet 2017"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_10/20170901",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6.** — ** Dispositions abrogatoire et finales**"
+      ],
+      "article_valid_from": "2017-09-01",
+      "text_md": "Le présent règlement entre en vigueur le premier jour du premier mois qui suit sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "a26f4397052d39d6257d6cd42de761c97bd8d88c99246553b3cf22bec6413eeb",
+      "md_span": {
+        "start": 8144,
+        "end": 8287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2017-08-14-a767:2018-10-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/art_11/20170901",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 6.** — ** Dispositions abrogatoire et finales**"
+      ],
+      "article_valid_from": "2017-09-01",
+      "text_md": "Notre Ministre de l'Intérieur est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "65bd21ad5a72faaba9f05d8cc75c58ff65cc0497beb86cf27c8f0c0ef9449810",
+      "md_span": {
+        "start": 8324,
+        "end": 8466
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

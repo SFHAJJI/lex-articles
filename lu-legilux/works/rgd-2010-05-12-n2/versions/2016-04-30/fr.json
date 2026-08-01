@@ -1,0 +1,81 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2010-05-12-n2:2016-04-30",
+  "language": "fr",
+  "title": "Version consolidée applicable au 30/04/2016 : Règlement grand-ducal du 12 mai 2010 déterminant les emplois dans les administrations de l'Etat et les établissements publics comportant une participation directe ou indirecte à l'exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l'Etat ou des autres personnes morales de droit public.",
+  "valid_from": "2016-04-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2010-05-12-n2/versions/2016-04-30/fr.xml",
+    "sha256": "7443cc731527071b47138eabc03742465ece82e7c7feec1f1d5dd6b99ae8476a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n2/consolide/20160430/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2010-05-12-n2:2016-04-30#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n2/art_1er/20160430",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-04-30",
+      "text_md": "Sont désignés comme emplois comportant une participation directe ou indirecte à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public:\n\n1. Arrêté royal grand-ducal modifié du 9 juillet 1857\n2. loi modifiée du 22 juin 1963\n3. les emplois du Corps diplomatique;\n4. les emplois de l’administration gouvernementale, des administrations et services créés en son sein, de la Trésorerie de l’Etat et de la Direction du contrôle financier;\n5. les emplois au sein des administrations des Contributions directes, de l’Enregistrement, des Douanes et Accises, du Cadastre et de la Topographie;\n6. loi modifiée du 22 juin 1963\n7. loi modifiée du 22 juin 1963\n8. les emplois relevant du Service de renseignement de l’Etat et du Haut-commissariat à la protection nationale et en ce qui concerne l’Administration des services de secours, les postes de chef de division;\n9. les postes de chef de division au sein du Centre des technologies de l’information de l’Etat;\n10. er loi modifiée du 9 décembre 2005\n11. les emplois comportant la qualité d’officier de la police judiciaire ou le pouvoir de requérir la force publique, à condition que cette qualité ou ce pouvoir soit exercé habituellement.",
+      "text_sha256": "f49dbd9acd98ea9ee945fdfeded5fa1a2e1e108da6bd68817c87b48704f6bd04",
+      "md_span": {
+        "start": 866,
+        "end": 2157
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2010-05-12-n2:2016-04-30#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n2/art_2/20160430",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-04-30",
+      "text_md": "Le règlement grand-ducal du 5 mars 2004 déterminant les emplois dans les administrations de l’Etat et les établissements publics comportant une participation directe ou indirecte à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public est abrogé.",
+      "text_sha256": "ce7feee0623514c3336e534338e2ce63fa85bdf4b6875240ddb2ec4bc7888fcb",
+      "md_span": {
+        "start": 2192,
+        "end": 2550
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2004/03/05/n6/jo",
+          "text": "règlement grand-ducal du 5 mars 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2010-05-12-n2:2016-04-30#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n2/art_3/20160430",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-04-30",
+      "text_md": "Notre Ministre déléguée à la Fonction publique et à la Réforme administrative est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "c4451df7629ea1acf63ef96cc3cd4a2d7641dd5c7578e91a10d4dce185b02a0c",
+      "md_span": {
+        "start": 2585,
+        "end": 2739
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

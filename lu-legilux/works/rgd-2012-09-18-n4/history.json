@@ -1,0 +1,66 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2012-09-18-n4",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "e67f6778e697dbad01dab06c0cadae1c894de845ec510d70ba7bcdb8ae4b548c",
+        "in_version": "lu-legilux:rgd-2012-09-18-n4:2013-07-01",
+        "article_valid_from": "2012-10-05",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "f2bba03b2f303ad57cc194fe790a2afbaecf40f3b17245ef166b17a3bb57d04b",
+        "in_version": "lu-legilux:rgd-2012-09-18-n4:2013-07-01",
+        "article_valid_from": "2012-10-05",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "afc00d004aebc9595576ce54b6884e3dbf228215982b9ad58406e4aeea12af41",
+        "in_version": "lu-legilux:rgd-2012-09-18-n4:2013-07-01",
+        "article_valid_from": "2012-10-05",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2023-12-31",
+        "text_sha256": "ea0aa81748fb1ad66a0a742fec2c6b52d95b871e499424418f6da9476ca03801",
+        "in_version": "lu-legilux:rgd-2012-09-18-n4:2013-07-01",
+        "article_valid_from": "2013-07-01"
+      },
+      {
+        "valid_from": "2024-01-01",
+        "valid_to": null,
+        "text_sha256": "f6949845826ee645fa0e7966dd16b953dd57a0b0d5e6d79f80966e53c0b65ad0",
+        "in_version": "lu-legilux:rgd-2012-09-18-n4:2024-01-01",
+        "article_valid_from": "2024-01-01"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "3aeaca1f9e5bda2ae4da203e69e9c64d0e55fca1e6ab386698b7a933d96a991d",
+        "in_version": "lu-legilux:rgd-2012-09-18-n4:2013-07-01",
+        "article_valid_from": "2012-10-05",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

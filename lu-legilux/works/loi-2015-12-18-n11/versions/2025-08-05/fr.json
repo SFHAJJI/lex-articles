@@ -1,0 +1,64 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2015-12-18-n11:2025-08-05",
+  "language": "fr",
+  "title": "Version consolidée applicable au 05/08/2025 : Loi du 18 décembre 2015 autorisant le Gouvernement à acquérir des capacités de communications satellitaires au profit du programme «Alliance Ground Surveillance» (AGS) de l'OTAN.",
+  "valid_from": "2025-08-05",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2015-12-18-n11/versions/2025-08-05/fr.xml",
+    "sha256": "6b6e3861da9d2eecb87511a7adfb629d71da18d70994e281bade4e9bf5058c8a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n11/consolide/20250805/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2015-12-18-n11:2025-08-05#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/12/18/n11/art_1er/20250805",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-08-05",
+      "text_md": "Le Gouvernement est autorisé à acquérir des capacités de communications satellitaires (fréquences Ku) à mettre à disposition du programme «Alliance Ground Surveillance» (AGS) de l’OTAN sous forme d’une contribution nationale volontaire pour un montant ne pouvant dépasser 120.000.000 d’euros (TVA non comprise) sur une période de 14 ans allant jusqu’au 31 décembre 2029, y inclus les frais liés à l’acquisition et à la gestion des capacités de communications satellitaires.",
+      "text_sha256": "86fda88cadfb59ad79c950d97e0433e85d6db98a7b0130328d05cc5b8544e685",
+      "md_span": {
+        "start": 702,
+        "end": 1175
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2015-12-18-n11:2025-08-05#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/12/18/n11/art_2/20151228",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-12-28",
+      "text_md": "Les dépenses occasionnées par la présente loi sont imputées sur le fonds d’équipement militaire créé par l’article 2 de la loi modifiée du 16 décembre 1997 concernant la programmation financière militaire.",
+      "text_sha256": "8b9a6c51e52afc0b8bcbcef7948b94666c88141b67f4f974b6fdf51b9e70497a",
+      "md_span": {
+        "start": 1210,
+        "end": 1415
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1997/12/16/n1",
+          "text": "loi modifiée du 16 décembre 1997"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

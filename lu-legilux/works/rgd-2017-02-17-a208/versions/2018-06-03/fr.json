@@ -1,0 +1,367 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/06/2018 : Règlement grand-ducal du 17 février 2017 fixant les modalités d’application de l’indemnité compensatoire annuelle à allouer aux agriculteurs dans les zones défavorisées.",
+  "valid_from": "2018-06-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2017-02-17-a208/versions/2018-06-03/fr.xml",
+    "sha256": "120cf10965cbe2c41ec0307b847efddd63279c2579e8bd621dd60465f3f90407",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/consolide/20180603/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_1er/20170226",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er.** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "Dans les zones soumises à des contraintes naturelles ou à d’autres contraintes spécifiques une indemnité compensatoire annuelle destinée à indemniser les agriculteurs pour tout ou partie des coûts supplémentaires et de la perte de revenu résultant de ces contraintes pour la production agricole dans la zone concernée est accordée :\n\n- règlement modifié (CE) n° 1698/2005 loi modifiée du 18 avril 2008\n- règlement (UE) n° 1305/2013 règlement (CE) n° 1698/2005\n- dans les conditions et limites prévues par le présent règlement.",
+      "text_sha256": "e3a66fa3a61a0c34e534ade171932d700ed3ae160c408cef49eabe8082069704",
+      "md_span": {
+        "start": 746,
+        "end": 1272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_2/20170226",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er.** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "L’indemnité compensatoire se rapporte à une année calendaire et est calculée sur base des données fournies par l’exploitant agricole dans sa demande de paiements à la surface introduite au titre de cette même année. Elle est allouée au cours de l’année subséquente.",
+      "text_sha256": "8a6b974ec311d5ab78eeebefa6639ff2e6c67a0bf18af5d5d12e475f13ac06f7",
+      "md_span": {
+        "start": 1307,
+        "end": 1572
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_3/20170226",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre** **2.** — **Conditions d’allocation de l’indemnité compensatoire**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "Sont éligibles à l’indemnité compensatoire les surfaces répondant aux conditions définies aux articles 2, 3 et 4, paragraphe 1er du règlement grand-ducal du 30 juillet 2015 portant application, au Grand-Duché de Luxembourg, de règles communes relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique agricole commune et au soutien au développement rural, à l’exception :\n\n1. règlement grand-ducal du 30 juillet 2015\n2. des vignobles,\n3. des plantations fruitières intensives,\n4. des pépinières,\n5. des cultures maraîchères de plein air,\n6. des surfaces de floriculture de plein air; et\n7. des cultures sous serre.",
+      "text_sha256": "00a1f9b135d0b829a0581663cc81d3dbcb81cb2bbd0fc3ed580cc26a7791e2b5",
+      "md_span": {
+        "start": 1690,
+        "end": 2362
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2015/07/30/n4/jo",
+          "text": "règlement grand-ducal du 30 juillet 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_4/20170226",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre** **2.** — **Conditions d’allocation de l’indemnité compensatoire**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "L‘indemnité compensatoire est accordée aux exploitants agricoles :\n\n1. règlement (UE) n° 1307/2013 règlement (CE) n° 637/2008 règlement (CE) n° 73/2009 règlement grand-ducal du 30 juillet 2015\n2. règlement grand-ducal du 30 juillet 2015\n3. dont l’exploitation a une dimension économique correspondant à une marge brute standard totale d’au moins 9.600 euros et une taille d‘au moins 3 hectares de surface agricole éligible situés sur le territoire du Grand-Duché de Luxembourg;\n4. qui s’engagent à poursuivre leur activité agricole dans une zone défavorisée pendant une période minimale de cinq ans à partir du premier paiement de l’indemnité compensatoire; et\n5. qui s’engagent à respecter les exigences de la conditionnalité.",
+      "text_sha256": "d6ebb12b288a353478d9cfa79ca469b873ee67ba398b73c6ffa9e2a2e4fb718d",
+      "md_span": {
+        "start": 2397,
+        "end": 3124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_5/20170226",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre** **2.** — **Conditions d’allocation de l’indemnité compensatoire**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "La dimension économique de l’exploitation est calculée selon la méthode fixée à l’article 3 du règlement grand-ducal du 27 juin 2016 concernant la détermination du revenu professionnel agricole cotisable en matière d’assurance maladie et d’assurance pension.",
+      "text_sha256": "2e22458940b3fe190da827dd6eca2142e111eea45cc7afd8d539f2a8ab823df0",
+      "md_span": {
+        "start": 3159,
+        "end": 3417
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2016/06/27/n5/jo",
+          "text": "règlement grand-ducal du 27 juin 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_6/20170226",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre** **2.** — **Conditions d’allocation de l’indemnité compensatoire**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "**(1)** Il n’est alloué qu’une seule indemnité compensatoire par exploitation agricole, même si elle est gérée par plusieurs exploitants.\n\n**(2)** En cas d‘association de deux ou plusieurs exploitations, les exploitations associées sont considérées comme constituant une seule unité technico-économique et elles sont à réunir dans une seule demande de paiements à la surface.\n\n**(3)** Les plafonds fixés à l’article 7, paragraphe 2, relatifs aux hectares éligibles sont multipliés par un coefficient déterminé en fonction des unités de travail annuel des exploitations conformément au tableau de l’annexe II.\n\nLes unités de travail annuel sont obtenues en divisant par 2.200 heures le produit de la multiplication des données relatives aux différentes productions déclarées dans la demande de paiements à la surface par les valeurs moyennes reprises au tableau de l’annexe I.\n\nPar dérogation au paragraphe 3, alinéa 2, les différentes productions animales bovines fixées à l’annexe I sont multipliées par le cheptel bovin moyen détenu pendant la période du 1er novembre au 31 octobre de l’année précédant celle à laquelle l’indemnité compensatoire se rapporte en utilisant la base centrale de données informatiques visée à l’article 13 du règlement grand-ducal du 22 avril 1999 portant mesures d’application du règlement (CE) n° 820/97 du Conseil du 21 avril 1997 en ce qui concerne l’identification et l’enregistrement des bovins.",
+      "text_sha256": "fe6d62eccc2c6d1114ee8b96edd12a008be33672ba6ce36c771fe0536b472fbb",
+      "md_span": {
+        "start": 3452,
+        "end": 4883
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1999/04/22/n1/jo",
+          "text": "règlement grand-ducal du 22 avril 1999"
+        },
+        {
+          "href": "/eli/reg_ue/1997/820/jo",
+          "text": "règlement (CE) n° 820/97"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_7/20170226",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre** **2.** — **Conditions d’allocation de l’indemnité compensatoire**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "**(1)** Le montant unitaire de l’indemnité compensatoire s‘élevant à 150 euros/hectare pour les 60 premiers hectares de l‘exploitation et à 75 euros/hectare pour les hectares suivants s’applique aux exploitants agricoles affiliés au régime agricole auprès du Centre commun de la sécurité sociale et :\n\n1. dont la part du temps de travail consacré aux activités extérieures à l’exploitation agricole est inférieure à la moitié du temps de travail total de l’exploitant, tout en ne dépassant pas 20 heures par semaine;\n2. qui ne sont pas bénéficiaires d’une pension de vieillesse; et\n3. qui n’ont pas atteint l’âge de 65 ans.\n\nLe nombre maximal d’hectares éligibles s’élève à 120 hectares.\n\n**(2)** Le montant unitaire de l’indemnité compensatoire s‘élevant à 100 euros/hectare pour les 15 premiers hectares et à 62 euros/hectare pour les hectares suivants s’applique aux exploitants agricoles affiliés au régime agricole auprès du Centre commun de la sécurité sociale et qui ne remplissent pas les conditions prévues au paragraphe 2.\n\nLe nombre maximal d’hectares éligibles s’élève à 25 hectares.\n\nToutefois, lorsqu’une personne qui remplit les conditions prévues au paragraphe 2, travaille sur l’exploitation concernée, les montants et plafonds fixés au paragraphe 2 sont applicables.\n\n**(3)** Si pendant la période de l’engagement, l’exploitant agricole change de statut, la prime est adaptée au nouveau statut à partir de l’année culturale suivant le changement.",
+      "text_sha256": "1b2c2d0915e8ca2547d58b5183b1503665d4cf819bef5470e4a837cd3079258c",
+      "md_span": {
+        "start": 4918,
+        "end": 6382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_8/20170226",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **Dispositions administratives et de contrôle**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "L’exploitant agricole qui souhaite bénéficier de l‘indemnité compensatoire en fait la demande dans le cadre de la demande de paiements à la surface qu’il présente au Service d‘économie rurale.",
+      "text_sha256": "d7c3cbd9e59c320773029370328713eb596b880f2e77f76a9924c39803106d2e",
+      "md_span": {
+        "start": 6487,
+        "end": 6679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_9/20170226",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **Dispositions administratives et de contrôle**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "Le Service d’économie rurale et l’Unité de contrôle sont chargés respectivement du contrôle administratif et du contrôle sur place du respect des conditions prévues au présent règlement.",
+      "text_sha256": "93a15ebd96c2a37d1b478db891f0e88e8d83e5790c68897dd1c4e656e0555380",
+      "md_span": {
+        "start": 6714,
+        "end": 6900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_10/20170226",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **Dispositions administratives et de contrôle**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "Complémentairement aux dispositions du règlement (UE) n° 1305/2013, le règlement (UE) n°1306/2013 du Parlement européen et du Conseil du 17 décembre 2013 relatif au financement, à la gestion et au suivi de la politique agricole commune et abrogeant les règlements (CEE) n° 352/78, (CE) n° 165/94, (CE) n° 2799/98, (CE) n° 814/2000, (CE) n° 1200/2005 et (CE) n° 485/2008 du Conseil, les dispositions adoptées conformément à celui-ci ainsi que les dispositions du règlement grand-ducal du 30 juillet 2015 portant application, au Grand-Duché de Luxembourg, de règles communes relatives aux paiements directs en faveur des agriculteurs au titre des régimes de soutien relevant de la politique agricole commune et au soutien au développement rural s’appliquent au régime prévu par le présent règlement.",
+      "text_sha256": "4dd83068f686f540daae4cb834d2b3deae6facc1c1b0136b0d38db1520320c92",
+      "md_span": {
+        "start": 6937,
+        "end": 7734
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2013/1305/jo",
+          "text": "règlement (UE) n° 1305/2013"
+        },
+        {
+          "href": "/eli/reg_ue/2013/1306/jo",
+          "text": "règlement (UE) n°1306/2013"
+        },
+        {
+          "href": "/eli/reg_ue/1978/352/jo",
+          "text": "n° 352/78"
+        },
+        {
+          "href": "/eli/reg_ue/1994/165/jo",
+          "text": "n° 165/94"
+        },
+        {
+          "href": "/eli/reg_ue/1998/2799/jo",
+          "text": "n° 2799/98"
+        },
+        {
+          "href": "/eli/reg_ue/2000/814/jo",
+          "text": "n° 814/2000"
+        },
+        {
+          "href": "/eli/reg_ue/2005/1200/jo",
+          "text": "n° 1200/2005"
+        },
+        {
+          "href": "/eli/reg_ue/2008/485/jo",
+          "text": "n° 485/2008"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2015/07/30/n4/jo",
+          "text": "règlement grand-ducal du 30 juillet 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_11/20170226",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **Dispositions administratives et de contrôle**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "Si l’exploitant cesse l’activité agricole avant l’échéance de la période minimale de cinq ans, il doit, sauf cas de force majeure au sens de l’article 2, paragraphe 2 du règlement (UE) n° 1306/2013, rembourser la totalité des montants perçus.",
+      "text_sha256": "3fb3570ef5d66e0dd1a2cd9147860ab680b7112b08acf0c54dd041df439012d3",
+      "md_span": {
+        "start": 7771,
+        "end": 8013
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2013/1306/jo",
+          "text": "règlement (UE) n° 1306/2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_12/20180603",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **Dispositions administratives et de contrôle**"
+      ],
+      "article_valid_from": "2018-06-03",
+      "text_md": "Le présent règlement est applicable à l’indemnité compensatoire à allouer au titre des années 2016, 2017 et 2018",
+      "text_sha256": "7effa85c896d3f04ebd0d8dab86f9df0a9e8fe8a361fbbf5222972d397334910",
+      "md_span": {
+        "start": 8050,
+        "end": 8162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/art_13/20170226",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3.** — **Dispositions administratives et de contrôle**"
+      ],
+      "article_valid_from": "2017-02-26",
+      "text_md": "Notre Ministre de l‘Agriculture, de la Viticulture et de la Protection des consommateurs et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui est publié au Mémorial.",
+      "text_sha256": "ceb9bb60daffef6e3ef1a70e6d205d08b3a2e3001c75a8e6b3f9d55d35c5724e",
+      "md_span": {
+        "start": 8199,
+        "end": 8426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe I : Heures de travail annuelles en fonction des productions végétales et des productions animales",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **Productions végétales** | **Heures de travail annuelles / hectare** |\n| --- | --- |\n| Céréales, oléagineux, protéagineux | 16 |\n| Plantes sarclées (pommes de terre) | 30 |\n| Terres mises en jachère sans production | 3 |\n| Cultures fourragères | 22 |\n| Prairies permanentes | 14 |\n| **Productions animales** | **Heures de travail annuelles / unité de bétail** |\n| Bovins de moins de 1 an | 15,0 |\n| Vaches laitières | 50,0 |\n| Vaches allaitantes | 20,0 |\n| Autres bovins | 10,0 |\n| Truies reproductrices de 50 kg et plus (porcelets inclus) | 22,0 |\n| Autres porcs (sans porcelets) | 2,3 |\n| Ovins/caprins (femelles reproductrices) | 8,1 |\n| Autres ovins/caprins | 4,5 |\n| Poules pondeuses | 0,3 |\n| Autres poules | 0,1 |\n| Poulets de chair | 0,1 |\n| Autres volailles | 0,8 |\n| Chèvres laitières | 26,0 |\n| Brebis laitières | 26,0 |\n| Cuniculiculture | 7,0 |\n| Apiculture (en heures par ruche) | 7,0 |",
+      "text_sha256": "4ac259471c9f6e6dce86b1aae448c45c362c36062f2a67e9e032e043086c788b",
+      "md_span": {
+        "start": 8565,
+        "end": 9468
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe II : Tableau de correspondance entre UTA et coefficient",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **UTA (calculées)** | **Coefficient** |\n| --- | --- |\n| 0.00-1.49 | 1.00 |\n| 1.50-1.99 | 1.15 |\n| 2.00-2.49 | 1.30 |\n| 2.50-2.99 | 1.40 |\n| 3.00-3.49 | 1.50 |\n| 3.50-3.99 | 1.60 |\n| 4.00-4.49 | 1.70 |\n| 4.50-4.99 | 1.80 |\n| 5.00-5.49 | 1.90 |\n| 5.50-5.99 | 2.00 |\n| 6.00-6.49 | 2.10 |\n| 6.50-6.99 | 2.20 |\n| 7.00-7.49 | 2.30 |\n| 7.50-7.99 | 2.40 |\n| 8.00-8.49 | 2.50 |\n| 8.50-8.99 | 2.60 |\n| 9.00-9.49 | 2.70 |\n| 9.50-9.99 | 2.80 |\n| 10.00-10.49 | 2.90 |\n| 10.50-10.99 | 3.00 |\n| 11.00-11.49 | 3.10 |\n| 11.50-11.99 | 3.20 |\n| 12.00-12.49 | 3.30 |\n| 12.50-12.99 | 3.40 |\n| 13.00-13.49 | 3.50 |\n| 13.50-13.99 | 3.60 |\n| 14.00-14.49 | 3.70 |\n| 14.50-15.99 | 3.80 |\n| ... | ... |",
+      "text_sha256": "902b024a74fea10793663768f0ba790f8c4e1c09959437b20182008af8c1860b",
+      "md_span": {
+        "start": 9565,
+        "end": 10242
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

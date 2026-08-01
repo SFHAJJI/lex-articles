@@ -1,0 +1,154 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2014-01-22-n1:2014-12-23",
+  "language": "fr",
+  "title": "Version consolidée applicable au 23/12/2014 : Règlement grand-ducal du 22 janvier 2014 portant autorisation de la mise en oeuvre d’un système de cartes de jeu électroniques en matière de jeux de casino.",
+  "valid_from": "2014-12-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2014-01-22-n1/versions/2014-12-23/fr.xml",
+    "sha256": "6ed35a4cda038e7a704d3502bf2431e8f3e30a8718cc99fc679fa8f14d0fd72a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/consolide/20141223/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2014-01-22-n1:2014-12-23#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/art_1er/20140128",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-01-28",
+      "text_md": "Le jeu de hasard sur les appareils à sous des jeux de casino peut être pratiqué par un système de cartes de jeu électroniques qui correspond aux conditions et modalités déterminées par le présent règlement.",
+      "text_sha256": "a0b045c6bbddec4969fe6e9df61183e748801624ebaf78c38e850c198693e3e2",
+      "md_span": {
+        "start": 678,
+        "end": 884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2014-01-22-n1:2014-12-23#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/art_2/20140128",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-01-28",
+      "text_md": "Le système de cartes de jeu électroniques mis en oeuvre doit remplir les conditions suivantes:\n\n1. Les cartes de jeu électroniques permettent de comptabiliser les montants prépayés par le client ainsi que les crédits et les gains réalisés sur les appareils à sous sans qu’aucune valeur pécuniaire ne soit chargée sur les cartes elles-mêmes.\n2. Les cartes de jeu électroniques ne sont valables qu’au sein du casino qui les a émises. Une mention y relative doit figurer sur chaque carte émise.\n3. Les cartes de jeu électroniques ne sont valables que pour les appareils à sous des jeux de casino et ne peuvent être utilisées pour d’autres services offerts ou prestés par le casino.\n4. Les cartes de jeu électroniques sont dépourvues de toutes fonctions de carte de paiement, de crédit ou de débit.\n5. Si une carte de jeu électronique indique un solde au profit du client, la somme correspondante lui est payée à sa demande.\n6. Les cartes de jeu électroniques ont une limite maximale de 2.000 euros par personne.\n7. Les cartes de jeu électroniques sont nominatives. Sur demande du client, une carte de jeu électronique journalière non nominative peut être émise dont la limite maximale est de 250 euros.\n8. Le transfert d’argent entre deux cartes de jeu électroniques doit être impossible.\n9. Le système des cartes de jeu électroniques est soutenu par un dispositif informatique comportant une composante de sauvegarde permettant de récupérer les données informatiques même en cas de dysfonctionnement du système informatique principal.\n10. règlement grand-ducal modifié du 12 février 1979 loi modifiée du 20 avril 1977 règlement grand-ducal du 12 février 1979",
+      "text_sha256": "946d0f3172c1bbf9be5fcaee95ef47679d567b0b9c8ffd8bff14a5eb4625deda",
+      "md_span": {
+        "start": 919,
+        "end": 2575
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2014-01-22-n1:2014-12-23#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/art_3/20140128",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-01-28",
+      "text_md": "Le producteur ou le fournisseur du système de cartes de jeu électroniques fournit aux autorités de contrôle compétentes aux termes du règlement grand-ducal du 12 février 1979 un certificat duquel il résulte que le système est conforme aux conditions et modalités prévues par le présent règlement. Le système de cartes de jeu électroniques ne peut être mis en service avant la production de ce certificat.",
+      "text_sha256": "5f73c09988cc212b85382494ae30f4e15070f80b2edc2b6a24775434e856256a",
+      "md_span": {
+        "start": 2610,
+        "end": 3014
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1979/02/12/n1/jo",
+          "text": "règlement grand-ducal du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2014-01-22-n1:2014-12-23#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/art_4/20140128",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-01-28",
+      "text_md": "L’exploitation du système de cartes de jeu électroniques est sans préjudice quant aux obligations du casino relatives à l’identification de ses clients et aux règles applicables en matière de lutte contre le blanchiment d’argent et le financement du terrorisme.",
+      "text_sha256": "c0e95dcc4c8f6c8d089fe51461b55472ef23c67ab70dd9ce5b9283acd8a61ea1",
+      "md_span": {
+        "start": 3049,
+        "end": 3310
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2014-01-22-n1:2014-12-23#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/art_5/20140128",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-01-28",
+      "text_md": "Les dispositions du règlement grand-ducal du 12 février 1979 s’appliquent au système des cartes de jeu électroniques, sous réserve des dispositions suivantes:\n\n1. Sur les appareils à sous visés à l’article 3 dudit règlement, les enjeux peuvent également être représentés par des cartes de jeu électroniques.\n2. même règlement\n3. même règlement\n4. même règlement\n5. même règlement\n6. même règlement\n7. même règlement\n8. même règlement\n9. même règlement\n10. même règlement\n11. même règlement",
+      "text_sha256": "f8d77dd043714319f53e34fc6342ca118b0848f11d7456e4c58e45c524598044",
+      "md_span": {
+        "start": 3345,
+        "end": 3834
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1979/02/12/n1/jo",
+          "text": "règlement grand-ducal du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2014-01-22-n1:2014-12-23#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/art_6/20141223",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-12-23",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Mémorial et cessera d’être en vigueur le 31 décembre 2015.",
+      "text_sha256": "5356c85cde71c1b4b16290e3175952c000f88489aaca10a84ce84c1e3966200d",
+      "md_span": {
+        "start": 3869,
+        "end": 3994
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2014-01-22-n1:2014-12-23#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/art_7/20140128",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-01-28",
+      "text_md": "Notre Ministre des Finances et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "beef682be538bb294c5a26b7833665553516ae14050120f392109a86ef00af8f",
+      "md_span": {
+        "start": 4029,
+        "end": 4197
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

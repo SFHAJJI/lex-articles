@@ -1,0 +1,291 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2002 : Ordonnance de simplification du 31 mars 1943 (Verordnung über die Erhebung der Gewerbesteuer in vereinfachter Form).",
+  "valid_from": "2002-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/ord-1943-03-31-n1/versions/2002-01-01/fr.xml",
+    "sha256": "1c4f0c46699e00925503f0dea1a74b6f78c2ed01c7c49f445e2581367f096033",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/consolide/20020101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_p_1",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_1/20020101",
+      "type": "article",
+      "num": "§ 1",
+      "heading": null,
+      "path": [
+        "Abschnitt I. — **Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Die Festsetzung und die Erhebung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital auf Grund des Gewerbesteuergesetzes vom 1. Dezember 1936 obliegen vorbehaltlich des Absatzes 2 ab 1. April 1943 den Steuerkontrollstellen. Vorschriften, die dieser Regelung entgegenstehen, sind ab 1. April 1943 nicht mehr anzuwenden.\n\n**(2)** Den Gemeindebehörden obliegen für Erhebungszeiträume (§14 Absatz 2 des Gewerbesteuergesetzes), die vor dem 1. April 1943 enden, auch nach dem 31. März 1943 noch die Festsetzung und die Erhebung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital:\n\n1. bei erstmaliger Festsetzung des einheitlichen Steuermessbetrags (§ 14 Absatz 1 des Gewerbesteuergesetzes) oder des Zerlegungsanteils (§28 Absatz 1 des Gewerbesteuergesetzes),\n2. bei einer Änderung des einheitlichen Steuermessbetrags oder des Zerlegungsanteils, wenn die Änderung vor dem 1. April 1943 durchgeführt worden ist. Die Gemeindebehörde hat den Steuerbescheid, der der Änderung entspricht, spätestens am 15. Mai 1943 dem Steuerschuldner bekanntzugeben.",
+      "text_sha256": "c84ef1b4891aa66dcbd174c8180856405e4848924083e5ba9070ffd0048488ee",
+      "md_span": {
+        "start": 756,
+        "end": 1828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_2",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_2/20020101",
+      "type": "article",
+      "num": "§ 2",
+      "heading": null,
+      "path": [
+        "Abschnitt I. — **Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Der einheitliche Steuermessbetrag (§ 14 des Gewerbesteuergesetzes) wird ab dem Kalenderjahr 1943 jeweils für ein Kalenderjahr (Erhebungszeitraum) nach dessen Ablauf festgesetzt. Fällt die Steuerpflicht im Laufe des Kalenderjahres weg, so kann der einheitliche Steuermessbetrag sofort festgesetzt werden.\n\n**(2)** Massgebend ist der Gewerbeertrag des Kalenderjahres, für das der einheitliche Steuermessbetrag festgesetzt wird. Bei Gewerbetreibenden, die Bücher nach den Vorschriften des Handelsgesetzbuches zu führen verpflichtet sind und solche tatsächlich führen, gilt der Gewerbeertrag als in dem Kalenderjahr bezogen, in dem das Wirtschaftsjahr geendet hat oder die Wirtschaftsjahre geendet haben.",
+      "text_sha256": "edf84d8d8d199e98aafcf5af4c9504ea23ce6dc4c4adf053361fefd14d99841e",
+      "md_span": {
+        "start": 1861,
+        "end": 2569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_3",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_3/20020101",
+      "type": "article",
+      "num": "§ 3",
+      "heading": null,
+      "path": [
+        "Abschnitt I. — **Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Die Gewerbesteuer wird auf Grund des einheitlichen Steuermessbetrags (§ 2 Absatz I) nach dem Hebesatz festgesetzt und erhoben, der für das Rechnungsjahr festgesetzt ist (§ 16 des Gewerbesteuergesetzes), das in dem Erhebungszeitraum beginnt. Es ist der Hebesatz der Gemeinde massgebend, in der der Gewerbebetrieb am Ende des Kalenderjahres betrieben wird. Ist die Steuerpflicht im Laufe des Kalenderjahres weggefallen, so ist der Hebesatz der Gemeinde massgebend, in der der Gewerbebetrieb zuletzt betrieben worden ist.\n\n**(2)** Die Gemeinden haben als Hebesatz für die Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital für das Rechnungsjahr 1943 und die folgenden Rechnungsjahre denjenigen Hundertsatz festzusetzen, der sich ergibt, wenn der für das Rechnungsjahr 1942 festgesetzte allgemeine Hebesatz für die Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital auf den nächsten vollen, durch fünf teilbaren Betrag aufgerundet wird. Der Minister des Innern kann im Einvernehmen mit dem Finanzminister eine abweichende Festsetzung zulassen.\n\n**(3)** Befinden sich am Ende des Kalenderjahres oder im Zeitpunkt des Wegfalls der Steuerpflicht Betriebstätten desselben Gewerbebetriebs in mehreren Gemeinden oder erstreckt sich eine Betriebstätte über mehrere Gemeinden, so wird die Gewerbesteuer auf Grund des einheitlichen Steuermessbetrags (§ 2 Absatz 1) nach dem Hebesatz festgesetzt und erhoben, der sich als gewogener Durchschnitt (Absatz 4) aus den Hebesätzen ergibt die von den beteiligten Gemeinden für das Rechnungsjahr 1942 festgesetzt waren. Dabei ist die Zweigstellensteuer (§ 17 des Gewerbesteuergesetzes) zu berücksichtigen. Mehrbelastungen (§ 3 des Einführungsgesetzes zu den Realsteuergesetzen vom 1. Dezember 1936) bleiben ausser Betracht. Der danach ermittelte Hebesatz ist auf den nächsten vollen, durch fünf teilbaren Hundertsatz aufzurunden. Der Minister des Innern kann im Einvernehmen mit dem Minister der Finanzen den Hebesatz ändern.\n\n**(4)** Gewogener Durchschnitt im Sinn des Absatzes 3 ist der Durchschnitt der Hebesätze, gewogen nach den Anteilen am einheitlichen Steuermessbetrag, die auf die beteiligten Gemeinden (Absatz 5) entfallen. Für die Ermittlung dieser Anteile sind die Vorschriften der §§ 28 bis 33 des Gewerbesteuergesetzes entsprechend anzuwenden. Anteile am einheitlichen Steuermessbetrag von, nicht mehr als (einhundert RM) eintausend Franken sind dabei auszuscheiden.\n\n**(5)** Beteiligte Gemeinden im Sinn des Absatzes 4 sind:\n\n1. wenn der einheitliche Steuermessbetrag für das Rechnungsjahr 1942 nach den Vorschriften des Gewerbesteuergesetzes zu zerlegen war: die Gemeinden, die an dieser Zerlegung zu beteiligen waren;\n2. in allen anderen Fällen: die Gemeinden, in denen am Ende des Erhebungszeitraums (§ 2 Absatz 1) Betriebstätten sich befinden oder auf die an diesem Zeitpunkt eine Betriebstätte sich erstreckt. Massgebend ist der Erhebungzeitraum, in dem diese Voraussetzung erstmals erfüllt ist.",
+      "text_sha256": "83856755ce2ddcff5411196d75fc95fe2b411c174940e8a2ae53b4abffb39245",
+      "md_span": {
+        "start": 2602,
+        "end": 5571
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_4",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_4/20020101",
+      "type": "article",
+      "num": "§ 4",
+      "heading": null,
+      "path": [
+        "Abschnitt I. — **Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Der Steuerschuldner hat am 10. Februar, 10. Mai, 10. August und 10. November Vorauszahlungen zu entrichten.\n\n**(2)** Jede Vorauszahlung beträgt grundsätzlich ein Viertel der Steuer, die sich bei der letzten Veranlagung ergeben hat. Die Steuerverwaltung kann die Vorauszahlung der Steuer anpassen, die sich für das laufende Kalenderjahr voraussichtlich ergeben wird.\n\n**(3)** Die einzelne Vorauszahlung ist auf volle ein Euro nach unten abzurunden. Sie wird nur festgesetzt, wenn sie mindestens zehn Euro beträgt.",
+      "text_sha256": "89b001c52f1f5aaf6d936bb5df56afac1f961dfe73d276ebca173bbfb39a109f",
+      "md_span": {
+        "start": 5604,
+        "end": 6124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_5",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_5/20020101",
+      "type": "article",
+      "num": "§ 5",
+      "heading": null,
+      "path": [
+        "Abschnitt I. — **Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Die nach § 4 für ein Kalenderjahr entrichteten Vorauszahlungen werden auf die Steuerschuld für dieses Kalenderjahr angerechnet.\n\n**(2)** Ist die Steuerschuld grösser als die Summe der anzurechnenden Vorauszahlungen, so ist der Unterschiedsbetrag innerhalb eines Monats nach Bekanntgabe des Steuerbescheids zu entrichten (Abschlusszahlung). Der Teil der Abschlusszahlung, der den im Kalenderjahr fällig gewordenen, aber nicht entrichteten Vorauszahlungen entspricht, ist sofort zu entrichten.\n\n**(3)** Ist die Steuerschuld kleiner als die Summe der anzurechnenden Vorauszahlungen, so wird der Unterschiedsbetrag nach Bekanntgabe des Steuerbescheids durch Aufrechnung oder Zurückzahlung ausgeglichen.",
+      "text_sha256": "f7087676e6a11a3a77782237934008c36095538630dd229db0e30040f0ac500b",
+      "md_span": {
+        "start": 6157,
+        "end": 6863
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_6",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_6/20020101",
+      "type": "article",
+      "num": "§ 6",
+      "heading": null,
+      "path": [
+        "Abschnitt I. — **Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Vereinbarungen auf Grund des § 5 des Einführungsgesetzes zu den Realsteuergesetzen über die Höhe der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital treten für die Geltungsdauer dieser Verordnung ausser Kraft. Die Laufzeit der Steuervereinbarungen wird dadurch nicht unterbrochen.\n\n**(2)** Die Vorschrift des § 3 des Einführungsgesetzes zu den Realsteuergesetzen (Mehrbelastung) ist ab 1. April 1943 auf die Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital nicht mehr anzuwenden.",
+      "text_sha256": "b0df1b6648127f30d5a99ba067495413f4be237c5136b7a0d6ff1afb2f5a91ce",
+      "md_span": {
+        "start": 6896,
+        "end": 7406
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_7",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_7/20020101",
+      "type": "article",
+      "num": "§ 7",
+      "heading": null,
+      "path": [
+        "Abschnitt I. — **Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Das Aufkommen der Gewerbesteuer (§ 1 Absatz 1) wird auf die einzelnen Gemeinden verteilt. Der Verteilung wird das Aufkommen 1942 zugrunde gelegt. Die Gewerbesteuerausgleichzuschüsse (§§ 12 bis 21 des Einführungsgesetzes zu den Realsteuergesetzen) werden in die Verteilung einbezogen. Der Minister des Innern regelt im Einvernehmen mit dem Minister der Finanzen die Verteilung im Verwaltungsweg.",
+      "text_sha256": "b91ff20b05f0d9102518fa075c74aa8824e477d08e5e17566f24a1b36ef9e1f1",
+      "md_span": {
+        "start": 7439,
+        "end": 7833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_8",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_8/20020101",
+      "type": "article",
+      "num": "§ 8",
+      "heading": null,
+      "path": [
+        "Abschnitt II. — **Vereinfachungen bei der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital für Erhebungszeifräume, die vor dem 1. April 1943 enden **"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Steuerfestsetzungen für Erhebungszeiträume, die vor dem 1. April 1943 enden, werden bei Änderung des einheitlichen Steuermessbetrags nicht mehr berichtigt, wenn die Änderung des Steuermessbetrags nach dem 31. März 1943 durchgeführt worden ist. Führt die Änderung des Steuermessbetrags zu einer Erhöhung gegenüber dem ursprünglichen Steuermessbetrag, so ist der Unterschiedsbetrag dem einheitlichen Steuermessbetrag für das Kalenderjahr 1943 zuzuschlagen. Führt die Änderung des Steuermessbetrags zu einer Herabsetzung gegenüber dem ursprünglichen Steuermessbetrag, so ist der Unterschiedsbetrag von dem einheitlichen Steuermessbetrag für das Kalenderjahr 1943 abzuziehen.\n\n**(2)** Ist der einheitliche Steuermessbetrag für das Kalenderjahr 1943 bereits festgesetzt, so ist der Zuschlag oder der Abzug bei der Festsetzung des einheitlichen Steuermessbetrags zu berücksichtigen, die als nächste für ein späteres Kalenderjahr vorzunehmen ist.\n\n**(3)** Ist der Zuschlag oder der Abzug weder nach Absatz 1 noch nach Absatz 2 möglich, so setzt die Steuerverwaltung auf Grund des Unterschiedsbetrags zwischen dem zuletzt festgesetzten und dem neuen Steuermessbetrag den Steuerbetrag fest, der gegenüber der letzten Steuerfestsetzung mehr oder weniger zu entrichten ist. Massgebend ist der Hebesatz, der für den betreffenden Erhebungszeitraum von der Gemeinde festgesetzt war, in der zu Beginn dieses Erhebungszeitraums die Geschäftsleitung des Gewerbebetriebs sich befunden hat. Befand sich die Geschäftsleitung im Ausland, so ist der Hebesatz der Gemeinde massgebend, in der sich die wirtschaftlich bedeutendste der inländischen Betriebstätten befand.\n\n**(4)** Steuerfestsetzungen für Erhebungszeiträume, die vor dem 1. April 1943 enden, werden bei Änderung der Zerlegung des einheitlichen Steuermessbetrags (§§ 28 bis 34 des Gewerbesteuergesetzes) nicht mehr berichtigt, wenn die Änderung der Zerlegung nach dem 31. März 1943 durchgeführt worden ist. Die Steuerverwaltung setzt den Steuerbetrag fest, der auf Grund der neuen Zerlegung an alle beteiligten Gemeinden zusammen mehr oder weniger zu entrichten wäre als auf Grund der vorangegangenen Zerlegung.\n\n**(5)** Mehrbeträge nach den Absätzen 3 und 4 sind innerhalb eines Monats nach Bekanntgabe des Bescheids an das Steueramt zu zahlen. Zuviel gezahlte Beträge werden vom Steueramt durch Zurückzahlung oder Aufrechnung ausgeglichen.",
+      "text_sha256": "90b6d06e74f0a6db1718dd782675e80025026749fefc5cdab4e83daea6a0025b",
+      "md_span": {
+        "start": 8031,
+        "end": 10419
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_9",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_9/20020101",
+      "type": "article",
+      "num": "§ 9",
+      "heading": null,
+      "path": [
+        "Abschnitt II. — **Vereinfachungen bei der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital für Erhebungszeifräume, die vor dem 1. April 1943 enden **"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Die Steuerbeträge, die der Steuerschuldner in den Fällen des § 8 vor der Steuerfestsetzung durch die Steuerverwaltung an die Gemeinde gezahlt hat, verbleiben in voller Höhe der Gemeinde, an die die Zahlung geleistet worden ist.",
+      "text_sha256": "7435d3f0ce44cdbc9c23e9bc9a497f4d0782f9dcc5df16b59866534735405584",
+      "md_span": {
+        "start": 10452,
+        "end": 10679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_10",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_10/20020101",
+      "type": "article",
+      "num": "§ 10",
+      "heading": null,
+      "path": [
+        "Abschnitt III. — **Wegfall der Wandergewerbesteuer**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Das Gesetz über die Besteuerung des Wandergewerbes vom 10. Dezember 1937 tritt für die Zeit ab 1. Januar 1943 ausser Kraft.\n\n**(2)** Die Wandergewerbebetriebe unterliegen, soweit sie im Inland betrieben werden, ab 1. Januar 1943 der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital auf Grund des Gewerbesteuergesetzes vom 1. Dezember 1936.\n\n**(3)** Unter einem Wandergewerbebetrieb ist ein gewerbliches Unternehmen im Sinn des Einkommensteuergesetzes zu verstehen, zu dessen Ausübung es nach den Vorschriften der Gewerbeordnung und den Ausführungsbestimmungen dazu eines Wandergewerbescheins bedarf. Wird im Rahmen eines einheitlichen Gewerbebetriebs sowohl ein stehendes Gewerbe als auch ein Wandergewerbe betrieben, so ist der Betrieb in vollem Umfang als stehendes Gewerbe zu behandeln.\n\n**(4)** Die Festsetzung und die Erhebung der Gewerbesteuer für die Wandergewerbebetriebe obliegen, abweichend von der Vorschrift des § 1, schon ab 1. Januar 1943 der Steuerverwaltung.\n\n**(5)** Der Hebesatz für die Gewerbesteuer der Wandergewerbebetriebe beträgt 240 vom Hundert des einheitlichen Steuermessbetrags. § 3 Absatz 3 letzter Satz gilt entsprechend.",
+      "text_sha256": "803504054559bad18fc627b9b7533267a6c11a6e8151b6c3de291265fbad4d8e",
+      "md_span": {
+        "start": 10771,
+        "end": 11940
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_11",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_11/20020101",
+      "type": "article",
+      "num": "§ 11",
+      "heading": null,
+      "path": [
+        "Abschnitt IV. — **Vereinfachung der Lohnsummensteuer**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Abweichend von der Vorschrift des § 23 Absatz 1 des Gewerbesteuergesetzes ist ab 1. April 1943 Besteuerungsgrundlage die Lohnsumme, die in jedem Kalendervierteljahr an die Arbeitnehmer der in der Gemeinde belegenen Betriebstätte gezahlt worden ist. Die Lohnsummensteuer für ein Kalendervierteljahr ist spätestens am fünfzehnten Tag nach Ablauf des Kalendervierteljahres zu entrichten.\n\n**(2)** Eine Erklärung über die Berechnungsgrundlagen der Lohnsummensteuer (§ 26 Satz 2 des Gewerbesteuergesetzes) ist der Gemeindebehörde nur noch jeweils für ein Kalendervierteljahr, und zwar spätestens am fünfzehnten Tag nach Ablauf des Kalender Vierteljahres abzugeben.",
+      "text_sha256": "6ebe5ded7495481502f11e59cedb8ff04f9716e79aa9d8040e97a4ae5e20cab0",
+      "md_span": {
+        "start": 12034,
+        "end": 12701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_12",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_12/20020101",
+      "type": "article",
+      "num": "§ 12",
+      "heading": null,
+      "path": [
+        "Abschnitt IV. — **Vereinfachung der Lohnsummensteuer**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Die Vorschriften des § 24 Absatz 3 Ziffern 1 und 2 des Gewerbesteuergesetzes sind ab 1. April 1943 nicht mehr anzuwenden.",
+      "text_sha256": "3d8077dc376e1b5712d7fad953eb7d8a5f321aca57cd92b50bd2ab3d88f8e453",
+      "md_span": {
+        "start": 12736,
+        "end": 12857
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_13",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_13/20020101",
+      "type": "article",
+      "num": "§ 13",
+      "heading": null,
+      "path": [
+        "Abschnitt V. — **Übergangs- und Schlussvorschriften**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Die Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital bemisst sich für die Zeit vom 1. April bis 31. Dezember 1943 bei stehenden Gewerbebetrieben nach neun Zwölfteln des einheitlichen Steuermessbetrags für das Kalenderjahr 1943. Die Zuschläge oder Abzüge § 8 Absatz 1 gemäss sind daneben in voller Höhe zu berücksichtigen.",
+      "text_sha256": "a0186514190de003eaf29efd7d960a99f316da061b19dbbc8e3b4cd085101741",
+      "md_span": {
+        "start": 12950,
+        "end": 13282
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_p_14",
+      "provision_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01#art_p_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/art_p_14/20020101",
+      "type": "article",
+      "num": "§ 14",
+      "heading": null,
+      "path": [
+        "Abschnitt V. — **Übergangs- und Schlussvorschriften**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Der Steuerschuldner hat bis zur Bekanntgabe des ersten Steuerbescheids auf Grund dieser Verordnung an das Steueramt zu den im § 4 Absatz 1 bezeichneten Zeitpunkten, erstmals zum 10. Mai 1943, Vorauszahlungen auf die Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital zu entrichten. Die Höhe der Vorauszahlungen bestimmt sich nach § 4 Absatz 2. Waren bei der letzten Veranlagung mehrere Gemeinden hebeberechtigt, so bemessen sich die Vorauszahlungen nach der Steuer, die sich für alle hebeberechtigten Gemeinden zusammen bei der letzten Veranlagung ergeben hat. Die einzelne Vorauszahlung wird nur erhoben, wenn sie mindestens 10 Euro beträgt.\n\n**(2)** Bei Wandergewerbebetrieben setzt die Steuerverwaltung die Vorauszahlungen fest. Die Vorauszahlungen bemessen sich nach der Steuer, die sich für das Kalenderjahr 1943 voraussichtlich ergeben wird.",
+      "text_sha256": "d3b7909e7a2d2ff51c94658586c1466b0752cce9b2718bc3f423bc84bcae4515",
+      "md_span": {
+        "start": 13317,
+        "end": 14181
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

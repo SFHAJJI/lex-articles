@@ -1,0 +1,90 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-12-04-n1:2018-05-27",
+  "language": "fr",
+  "title": "Version consolidée applicable au 06/06/2022 : Règlement grand-ducal du 4 décembre 2009 fixant un nombre limite pour le cadre du personnel de l'Institut Luxembourgeois de Régulation.",
+  "valid_from": "2018-05-27",
+  "valid_to": "2022-06-05",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-12-04-n1/versions/2018-05-27/fr.xml",
+    "sha256": "15023bf888613bcddb47fd2d79070d8c1db12002be75fc2da4b6852e5d74713b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/consolide/20180527/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-12-04-n1:2018-05-27#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/art_1er/20180527",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-05-27",
+      "text_md": "Le nombre limite des emplois dans les différentes carrières du personnel de l'Institut Luxembourgeois de Régulation, telles que définies à l'article 13 de la loi modifiée du 30 mai 2005 portant: 1) organisation de l'Institut Luxembourgeois de Régulation 2) modification de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, est fixé comme suit:\n\n1. Dans la catégorie de traitement A, groupe de traitement A1, le nombre des emplois est fixé à quarante.\n2. Dans la catégorie de traitement A, groupe de traitement A2, le nombre des emplois est fixé à dix-sept.\n3. Dans la catégorie de traitement B, groupe de traitement B1, le nombre des emplois est fixé à treize.\n4. Dans la catégorie de traitement C, groupe de traitement C1, le nombre des emplois est fixé à six.",
+      "text_sha256": "44d3298245bcf57402b2262684a3168f4552bb1ab3a9d473a5be8b1288e6d273",
+      "md_span": {
+        "start": 663,
+        "end": 1469
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/05/30/n3/jo",
+          "text": "loi modifiée du 30 mai 2005"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-12-04-n1:2018-05-27#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/art_2/20091219",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-12-19",
+      "text_md": "Le règlement grand-ducal du 31 octobre 2001 fixant un nombre limite pour le cadre du personnel de l'Institut Luxembourgeois de Régulation est abrogé.",
+      "text_sha256": "2e35baa6551b2457293945195a189bd8b49ec480827a4ceaa87c89e643e08ac2",
+      "md_span": {
+        "start": 1504,
+        "end": 1653
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2001/10/31/n2",
+          "text": "règlement grand-ducal du 31 octobre 2001"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-12-04-n1:2018-05-27#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/art_3/20091219",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-12-19",
+      "text_md": "Notre Ministre des Communications et des Médias est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ec7c7911090d0b2df2f5a99f1dca288781a438c17af3093344604240a15f2350",
+      "md_span": {
+        "start": 1688,
+        "end": 1811
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

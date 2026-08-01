@@ -1,0 +1,163 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24",
+  "language": "fr",
+  "title": "Version consolidée applicable au 24/10/2023 : Loi du 19 décembre 2014 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière.",
+  "valid_from": "2023-10-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2014-12-19-n7/versions/2023-10-24/fr.xml",
+    "sha256": "85c662fbec00d066139f860ca5e62255ce94ba1a1fa0b9bcaa46fef02aba2d14",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/consolide/20231024/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/art_1er/20141227",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": "2014-12-27",
+      "text_md": "Au sens de la présente loi on entend par:\n\n1. «véhicule», tout véhicule motorisé, y compris les motocycles, normalement utilisé pour le transport routier de personnes ou de marchandises;\n2. «Etat membre de l'infraction», l'Etat membre de l'Union européenne où l'infraction a été commise;\n3. «Etat membre d'immatriculation», l'Etat membre de l'Union européenne où est immatriculé le véhicule avec lequel l'infraction a été commise;\n4. «requête automatisée», une procédure d'accès en ligne permettant de consulter les bases de données d'un, de plusieurs ou de tous les Etats membres de l'Union européenne ou pays tiers participants;\n5. «point de contact national», autorité compétente désignée pour l'échange de données relatives à l'immatriculation des véhicules;\n6. «détenteur du véhicule», la personne au nom de laquelle le véhicule est immatriculé, au sens du droit de l'Etat membre d'immatriculation;\n7. «excès de vitesse», le dépassement des limites de vitesse en vigueur dans l'Etat membre de l'infraction, en fonction de la route et du type de véhicule concernés;\n8. 91/671/CEE\n9. «franchissement d'un feu rouge», le fait de ne pas s'arrêter à un feu rouge, ou à tout autre signal d'arrêt équivalent, au sens du droit de l'Etat membre de l'infraction;\n10. «conduite en état d'ébriété», le fait de conduire un véhicule sous l'emprise de l'alcool, au sens du droit de l'Etat membre de l'infraction;\n11. «conduite sous l'influence de drogues», le fait de conduire un véhicule sous l'emprise de drogues ou d'autres substances ayant des effets similaires, au sens du droit de l'Etat membre de l'infraction;\n12. «non-port du casque», le fait de ne pas porter de casque, au sens du droit de l'Etat membre de l'infraction;\n13. «circulation sur une voie interdite», le fait de circuler illicitement sur une partie de la chaussée, par exemple une bande d'arrêt d'urgence, une voie réservée aux transports publics ou une voie temporairement fermée en raison de congestions ou de travaux, au sens du droit de l'Etat membre de l'infraction;\n14. «usage illicite d'un téléphone portable ou de tout autre équipement de communication en conduisant un véhicule», le fait d'utiliser illicitement un téléphone portable ou tout autre équipement de communication en conduisant un véhicule, au sens du droit de l'Etat membre de l'infraction.",
+      "text_sha256": "16a73b64286e690bfe7aecb5f7caca5957de9d559a7e8d1dfea36026e785cd05",
+      "md_span": {
+        "start": 669,
+        "end": 2993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/art_2/20160301",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Infractions susceptibles de donner lieu à l'échange d'informations",
+      "path": [],
+      "article_valid_from": "2016-03-01",
+      "text_md": "**(1)** Pour autant que le Grand-Duché de Luxembourg est l'Etat membre de l'infraction, les infractions suivantes sont susceptibles de donner lieu à une communication de données intervenant dans les conditions et selon les modalités de l'article 4, paragraphe 2:\n\n1. loi modifiée du 14 février 1955\n2. loi précitée du 14 février 1955\n3. loi précitée du 14 février 1955\n4. loi précitée du 14 février 1955\n5. loi précitée du 14 février 1955\n6. loi précitée du 14 février 1955\n7. loi précitée du 14 février 1955\n8. loi précitée du 14 février 1955\n\n**(2)** Pour autant que les infractions définies aux points g) à n) de l'article 1er sont commises sur le territoire d'un autre Etat membre ou d'un pays tiers participant au moyen d'un véhicule immatriculé au Luxembourg, elles sont susceptibles de donner lieu à une communication de données intervenant dans les conditions et selon les modalités de l'article 4, paragraphe 1er.\n\n**(3)** La présente loi ne porte pas préjudice à la recherche, par d'autres moyens légaux, d'informations relatives aux infractions en matière de sécurité routière, commises dans un Etat membre de l'Union européenne ou dans un pays tiers participant, autre que celui où le véhicule est immatriculé.",
+      "text_sha256": "ee9d057b8cd5e4c0a885d16879d654b0a6e80bd366c61ffa31404307494e798c",
+      "md_span": {
+        "start": 3095,
+        "end": 4317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/art_3/20141227",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Point de contact national",
+      "path": [],
+      "article_valid_from": "2014-12-27",
+      "text_md": "Les fonctionnaires affectés ou détachés à l'unité désignée à cet effet par le directeur général de la Police grand-ducale assument la fonction de point de contact national, sans préjudice des attributions dévolues par la loi au procureur général d'Etat et aux procureurs d'Etat.",
+      "text_sha256": "f30f1efc34f9e60847a96ccfba487f88fffe94ea034c43f5bcb65e6ff630b542",
+      "md_span": {
+        "start": 4378,
+        "end": 4656
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/art_4/20231024",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Procédure pour l'échange d'informations entre Etats membres",
+      "path": [],
+      "article_valid_from": "2023-10-24",
+      "text_md": "**(1)** Pour l’application de la présente loi, les points de contact nationaux des autres États membres de l’Union européenne, et des pays tiers participants, sont autorisés à accéder au fichier des véhicules routiers et de leurs propriétaires, détenteurs ou du titulaire du certificat d’immatriculation du véhicule routier, exploité pour le compte du ministre ayant les Transports dans ses attributions, et à y effectuer des requêtes automatisées en temps réel et par lots concernant :\n\n1. les données relatives aux véhicules ;\n2. les données relatives aux propriétaires, détenteurs des véhicules routiers ou du titulaire du certificat d’immatriculation du véhicule routier.\n\nLes éléments des données visées aux points a) et b) nécessaires pour effectuer la requête respectent l'annexe I de la directive 2015/413/UE du Parlement européen et du Conseil du 11 mars 2015 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière, telle que modifiée par les actes de la Commission européenne pris en application des articles 9 et 10 de cette directive.\n\nPour être recevables, les requêtes en question doivent comporter le numéro d'immatriculation complet du véhicule.\n\n**(2)** Les requêtes effectuées par le point de contact luxembourgeois visé à l'article 3 auprès du point de contact national de l'Etat membre ou du pays tiers participant, où le véhicule ayant servi à commettre l'infraction est immatriculé, se font à l'aide du numéro d'immatriculation complet du véhicule en question.\n\nCes requêtes sont effectuées dans le respect de l'annexe I de la directive 2015/413/UE du Parlement européen et du Conseil du 11 mars 2015 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière, telle que modifiée par les actes de la Commission européenne pris en application des articles 9 et 10 de cette directive et des procédures décrites au chapitre 3, points 2 et 3 de l'annexe de la décision 2008/616/\n\nJAI du Conseil du 23 juin 2008 concernant la mise en oeuvre de la décision 2008/615/JAI relative à l'approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme et la criminalité transfrontalière.\n\nLes données obtenues dans le cadre de ces requêtes sont utilisées aux seules fins d'identifier le responsable d'une ou de plusieurs des infractions visées à l'article 2.\n\n**(3)** La transmission des données effectuée par le point de contact luxembourgeois visé à l'article 3 au point de contact national de l'Etat membre, ou du pays tiers participant où l'infraction a été commise, est faite à partir du «Système d'Information Européen concernant les Véhicules et les Permis de conduire» (EUCARIS) conformément à la loi du 19 février 2004 portant approbation du Traité sur un système d'information européen concernant les véhicules et les permis de conduire (EUCARIS), signé à Luxembourg, le 29 juin 2000.",
+      "text_sha256": "09369c2c580b2657ee50639a594c71512af7acfa2856892354778031a95aad0b",
+      "md_span": {
+        "start": 4751,
+        "end": 7702
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2015/413",
+          "text": "2015/413/UE"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/02/19/n2",
+          "text": "loi du 19 février 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/art_5/20231024",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Lettre de notification relative à l'infraction",
+      "path": [],
+      "article_valid_from": "2023-10-24",
+      "text_md": "Le propriétaire, le détenteur ou le titulaire du certificat d’immatriculation du véhicule ayant servi à commettre, sur le territoire du Grand-Duché de Luxembourg, une ou plusieurs des infractions visées à l’article 2, ou toute autre personne identifiée présumée d’avoir commis une ou plusieurs de ces infractions sur le territoire du Grand-Duché de Luxembourg, est informé par lettre recommandée.\n\nLes informations communiquées comprennent, conformément au droit national, les conséquences juridiques de ladite infraction sur le territoire du Grand-Duché de Luxembourg en vertu du droit luxembourgeois.\n\nCette information est donnée par le procureur d'Etat territorialement compétent dans la langue utilisée dans le document d'immatriculation du véhicule, s'il est disponible, ou dans une des langues officielles de l'Etat membre de l'Union européenne ou du pays tiers participant, où le véhicule ayant servi à commettre l'infraction est immatriculé.\n\nElle doit comprendre toutes les informations pertinentes, notamment la nature de l'infraction, le lieu, la date et l'heure de l'infraction, la disposition légale non respectée, la sanction et, le cas échéant la procédure judiciaire, correspondante ainsi que, s'il y a lieu, des informations sur l'appareil utilisé pour détecter l'infraction.",
+      "text_sha256": "60e2000d773a777638e404602191f829c12664f745b7b9fab5ca9bac72c57c15",
+      "md_span": {
+        "start": 7784,
+        "end": 9077
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/art_6/20231024",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Données à caractère personnel",
+      "path": [],
+      "article_valid_from": "2023-10-24",
+      "text_md": "**(1)** Le traitement des données à caractère personnel dans le cadre de la présente loi est effectué à des fins de prévention, de recherche et de constatation des infractions pénales ou administratives relevant de son champ d'application et se fait conformément aux articles 24 à 32 de la décision 2008/615/JAI précitée et aux dispositions, y non contraires, de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.\n\n**(2)** Toute personne concernée a le droit d'obtenir des informations sur les données à caractère personnel transmises dans le cadre de la présente loi, y compris la date de la demande et l'autorité compétente de l'État membre de l'infraction, conformément aux articles 11 à 17 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.",
+      "text_sha256": "aea233ac86208915f6a3b4b50ee6fb6bd7ef56caed3e3f8ba72f482f933287d0",
+      "md_span": {
+        "start": 9142,
+        "end": 10171
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/08/01/a689/jo",
+          "text": "loi du 1er août 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/art_7/20160301",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Adaptations de l'annexe de la directive 2011/82/UE",
+      "path": [],
+      "article_valid_from": "2016-03-01",
+      "text_md": "Les modifications de l'annexe I de la directive 2015/413/UE s'appliquent avec effet au jour de la date de l'entrée en vigueur des actes modificatifs afférents de l'Union européenne.\n\nLe ministre ayant les Transports dans ses attributions publie un avis au Mémorial, renseignant sur les modifications ainsi intervenues, en y ajoutant une référence à l'acte délégué publié au Journal officiel de l'Union européenne.",
+      "text_sha256": "f62893377825ed8371bfd7fb90f778403481b28e24465a9ab3b3c59ea16d990d",
+      "md_span": {
+        "start": 10257,
+        "end": 10670
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2015/413/jo",
+          "text": "directive 2015/413/UE"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,2092 @@
+{
+  "lex_work_id": "lu-legilux:recueil-accessibilite_lieux_publics",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_N10033": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "938bbe3ae0a711704f4ce808542665c2f7cd1519f828a1969136f22188bb6063",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      },
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "424831cd26d67e3ead65b555e8fd799ae3e66e164522425580743b4d00cf151e",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1005A": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "810ed72ab6f25edcc2f63a72ea6d4061f9444dff0931f385fdf67f7cec2aecaa",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1007A": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "ab4cd0fb7884ae7971f3fdbc2209f0bcbf789b981f02f3f0698c56f666895bc6",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10084": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "a8dea5f6eb8478cdde5bf167f3e18c177e231c72347f499f7477c7c4b0ebbe3e",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1009B": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "de6b0751326e06ee1c04e30ccb746557c423578f1aaf04bb7de7845326d2d3c4",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N100A5": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "10b1ee4e3479e19e1ffecc451cdee7002576b902c5ff3f90cf14fa9343d726b0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N100C7": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "8146c6b45ac706d4c00a60efe733b4455e63a3401db9d4159388772affdd81a5",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2001-12-24",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10121": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "7ee1651344495087aaebec663770315c0aca4ec0dcd0a616a2557a33805b892d",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2001-12-24",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10140": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "ddd741ef272e6da33cedab82625b914b6b944e791c341d9da2923e3a48510ec1",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2001-12-24",
+        "validity_conflict": true
+      }
+    ],
+    "art_N1015D": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "091f2e5d83ad6a9c6d8ac267e2464d9e5d7df359af599b8270cf9172741e01d3",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1015F": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "af833057c0a31df8b694635cd41ee75f4a5e51851c1e85c11cb5e52dc4b14275",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10215": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "1cf3e3afa35d8b22071901d9afdd761303f683c34774807beb493abe629eba97",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10262": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "451cc6757122703f9c57ca03a3cdbe434b8fe5a2d50c2370b42f16bd3f77ab49",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N1029F": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "1ee02b5d8d81f77c40843b61ae2d7fa867b1169c642004a8076d30ecd7b8a816",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N102CB": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "5d353b99807eb6c5c8fd1c94ede88e4c905b56e6d658517efe22bcf80cbc7699",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10304": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "3bdac842b18f5593f0a75798fd748f87d59c82d85d2fd4432ca0d0153c5126f3",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10341": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "699f1f75ced2b5faba6811ac9f93879fb87dba167ea57c897dcb753748c28dfb",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1037E": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "f128ac7fc37bd51a4f638c750a1902bdc37302e34e4c65781c704acbcd2d4929",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10393": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "60079badcc040df74b80f3acfe906783c80ac0e423e86c91fe22ec83c7600b59",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N103D2": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "1126b6e6db35b7e0518ba796d2182ec1c948f7ba05b0996d9aca6a0c10cb69aa",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10402": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "009b62c57b7cc7547e869f5a275732ecc771903e993da7f7154aca4f4d9737bf",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10436": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "63c5180e9ec961e998bfb1513e3a852f2972b9aa46650ef339bba3eb662912f0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10450": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "837f8ada68eea437cb87e2a869fb20b43ba244f8b5c4341344c44f8fecb0e469",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1046C": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "49eb4bbae139bf2a3afe0baad78f73c5dd985f6c6d71994563cfd23f5f61eb9d",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2001-12-24",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10494": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "9cc7af09e86990e6595034c8b8c0414c2ddac69ff47af7c21adb39151805c4bf",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2008-04-11",
+        "validity_conflict": true
+      }
+    ],
+    "art_N104C3": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "69ded1d3b1d40ede0a1117da36bb0ac4f29eac205f106ecdc6020e3a738de670",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N104E1": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "da710bfc0b6f817726bd4033e42f28cf772cb901c04962a825067bef23251627",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2001-12-24",
+        "validity_conflict": true
+      }
+    ],
+    "art_N10509": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "eca88010cd8f6e7f57e166c58c6c51f177d1915ef4eb88c1ffab5d9507cb661a",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28",
+        "article_valid_from": "2001-12-24",
+        "validity_conflict": true
+      }
+    ],
+    "art_N1052C": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "dbcaa86db8a2b51f75efe44e479f8eb14020f781500480536e18ea4af1238fd4",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1053B": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "28ffda68cc0eec4acfddd01947d784183f3eee0b4767bf3e4d341bddd0ac761c",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1054C": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "525c56251a43f8f96fbb2ce105f8e4a77fea0881d5d611454b3f8203c163c24c",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10570": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "e43c320a692ed543be943b2ae10ec0c58741c40fbe5f9e4471ed22023f7a6c60",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1057E": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "d3a1f20d4b236d53a5dddca37bc418133c0eef694b3cc22e32a6a2d67d644a33",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10588": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "06ee4467c041c0fbe276869f4b9b5d08e77c58e7adf8a90a5f2b05cbf9dad466",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1059F": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "b11c092e184ffc9d9e213fbad80a94b778ed6056a064307b80c76360a2786697",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N105A9": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "d7b616f210d92d93967d2fd7b996b3bc9a20eca74bf0c92a552a110009700958",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N105AE": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "c68382a1460eb5dba02e54d6ecf030ab28d03ad646b583a0ad1786813e051407",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N105E3": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "b37198c7406719ba98634ae5368c3a6461c7140fb48661188794320239792485",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10605": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "55cf799c1098081abb451c62433d760090743f7e47fc173e80d8cae8a95422f5",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10612": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "fd930f01d32bfc821e1f3fad611f4fa20b9116dc4d7482271e65e2b9cdaf9748",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1061C": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "f07601048d86acb2a7c55fab51e022cce6537eecb17f2f9b43fd10a33e35a0ed",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10633": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "27875e7b474c3bc3a32aaf7f74316f85398ad72fc71ea11c23ec82d44af679a2",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1065B": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "83d379f6e2abb913682a8e9b2168a0cbc214c4e0e6dbd5c02d18f5f3282e61f9",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10675": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "4fa021fe88bef1b3609cc4542510dab7160afc7ad206a581644e938861f1314d",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1067B": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "bcec3b331bb3f688210e35d72b4e886507ae1424d14373599fe1e4175fe0a841",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1069B": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "19d21f994cd4b79447c63bc8f58b9c3adb21de499f93504041aa22b4b4d0bdfc",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N106A5": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "3fe81103c78efef0a294d65dee34720c6974535fca5c2b0861baefebbc2b530d",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N106BC": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "880aa8f0d304a5addff5d3851f596bd0773fd9ffa38e7e4eac813f8ba4dd8ffe",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N106C6": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "a4ccf4f0ced85a498a9ffa376fe17cee54174d6aafe25665daac762b98886531",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N106EE": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "cbbd1dada8affc571633334c0cc7d5e530d26c87b3eb19fc201e88d0e0bf06f4",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10703": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "a7756f2024e0ec1acb519669186ebeea1fefcbf65340617d71854f6f4189c536",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1070E": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "882f4c3400fe7196b38060ee9aa22c79930d825e958bddb8e757f44caff7e3d0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1072E": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "8640be72b3f3928a591313b76e6f493c8c46292bf2a76ebeed575862f2945bac",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1074C": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "718cddd3f205e7b34d2c11741b933f7e8708b72ea87ec74f1b86e39410fdfa5f",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N1075C": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "368e231bdf6acca73fccb4b81b23507b6426f2a98d360e9fe4ee50c59d8f61ee",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10766": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "dc5bb9ebd3caea02c91a3ea3bddb7bd115bdcc8632d7ef06ee9058eba9c360c5",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10770": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "df189e0e2ec0d67d844028ce747781e3151f1da2e2e57d36c30abd1cc4a96922",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10787": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "89fa3e9be61a195dc05af0b93080bf00bb34dfce3d8497df166ac406992dbbcc",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N10798": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "5b223e0128e40377fbad5d65cd93b9a1b0a1e95f314e7cb06af7a72668851c00",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N107A8": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "e402c05757ea3d1402d090f3bbde4e21b113e53adee7fa862e128451173410de",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N107B2": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "c0686560e7f74ba6eb2903b0c7120a676812fd6c6190daa942cf1aefe33605ca",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N107CA": [
+      {
+        "valid_from": "2008-12-28",
+        "valid_to": "2023-06-30",
+        "text_sha256": "8640be72b3f3928a591313b76e6f493c8c46292bf2a76ebeed575862f2945bac",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28"
+      }
+    ],
+    "art_N107DE": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "89686c96eaa61bcdde05635991d2b412b5e365a4f0914d87971965ae0daf6b51",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N108B8": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "c1df408793f8c60899ac636e3e83fc4a05dc136edd0efae734343e2a5cb066ab",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N108D4": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "f13bc004a92ae81e7fbcae26aa89b4226cbfa912ff09551aaf46542f80a547cf",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N108EA": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "4b2536f24534b38572663d9aecf44e0cc9e5254322596836c86fe62619d6e3e9",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1097E": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "28ffda68cc0eec4acfddd01947d784183f3eee0b4767bf3e4d341bddd0ac761c",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10991": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "525c56251a43f8f96fbb2ce105f8e4a77fea0881d5d611454b3f8203c163c24c",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N109C5": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "e43c320a692ed543be943b2ae10ec0c58741c40fbe5f9e4471ed22023f7a6c60",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N109D5": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "d3a1f20d4b236d53a5dddca37bc418133c0eef694b3cc22e32a6a2d67d644a33",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N109E5": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "06ee4467c041c0fbe276869f4b9b5d08e77c58e7adf8a90a5f2b05cbf9dad466",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10A0A": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "b11c092e184ffc9d9e213fbad80a94b778ed6056a064307b80c76360a2786697",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10A1A": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "d7b616f210d92d93967d2fd7b996b3bc9a20eca74bf0c92a552a110009700958",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10A78": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "b37198c7406719ba98634ae5368c3a6461c7140fb48661188794320239792485",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10AA4": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "55cf799c1098081abb451c62433d760090743f7e47fc173e80d8cae8a95422f5",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10AB7": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "fd930f01d32bfc821e1f3fad611f4fa20b9116dc4d7482271e65e2b9cdaf9748",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10AC7": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "f07601048d86acb2a7c55fab51e022cce6537eecb17f2f9b43fd10a33e35a0ed",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10AEC": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "27875e7b474c3bc3a32aaf7f74316f85398ad72fc71ea11c23ec82d44af679a2",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10B2C": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "83d379f6e2abb913682a8e9b2168a0cbc214c4e0e6dbd5c02d18f5f3282e61f9",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10B60": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "bcec3b331bb3f688210e35d72b4e886507ae1424d14373599fe1e4175fe0a841",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10B94": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "19d21f994cd4b79447c63bc8f58b9c3adb21de499f93504041aa22b4b4d0bdfc",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10BA4": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "3fe81103c78efef0a294d65dee34720c6974535fca5c2b0861baefebbc2b530d",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10BC9": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "880aa8f0d304a5addff5d3851f596bd0773fd9ffa38e7e4eac813f8ba4dd8ffe",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10BD9": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "a4ccf4f0ced85a498a9ffa376fe17cee54174d6aafe25665daac762b98886531",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10C19": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "cbbd1dada8affc571633334c0cc7d5e530d26c87b3eb19fc201e88d0e0bf06f4",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10C4D": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "882f4c3400fe7196b38060ee9aa22c79930d825e958bddb8e757f44caff7e3d0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10C81": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "8640be72b3f3928a591313b76e6f493c8c46292bf2a76ebeed575862f2945bac",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10CA4": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "718cddd3f205e7b34d2c11741b933f7e8708b72ea87ec74f1b86e39410fdfa5f",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10CBA": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "368e231bdf6acca73fccb4b81b23507b6426f2a98d360e9fe4ee50c59d8f61ee",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10CCA": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "dc5bb9ebd3caea02c91a3ea3bddb7bd115bdcc8632d7ef06ee9058eba9c360c5",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10CDA": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "df189e0e2ec0d67d844028ce747781e3151f1da2e2e57d36c30abd1cc4a96922",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10CFF": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "89fa3e9be61a195dc05af0b93080bf00bb34dfce3d8497df166ac406992dbbcc",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10D16": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "5b223e0128e40377fbad5d65cd93b9a1b0a1e95f314e7cb06af7a72668851c00",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10D2C": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "e402c05757ea3d1402d090f3bbde4e21b113e53adee7fa862e128451173410de",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10D3C": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "c0686560e7f74ba6eb2903b0c7120a676812fd6c6190daa942cf1aefe33605ca",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10D5B": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "8640be72b3f3928a591313b76e6f493c8c46292bf2a76ebeed575862f2945bac",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10D7E": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "5b1969b798691426928b6c43bec72285369d99e297cd5d2a2e546f6a9e30a191",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10DA9": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "95706b80be581332f2498d7cffce735f5f5fdc6f63e2058d58815b083979407f",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10E62": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "eacd0905eba92cc50db37972c00bd9ed57c121d8a9865444096a3c6c493f422a",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10F40": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "d92d261f9efd5b491a84fc7d15a37098e63989eba7c45043b99dfb9b202a29b0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N10FA8": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "bd9279c6bbe4ca8393460e76eee55f6cd7527f67193d52b615addd3867514b7a",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11029": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "36e0cd1259be3eb9aef870359df0f2799f3c019d2e24028e2e1f5f519731f897",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11046": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "675e0aba934c13b5ebb30c5223e8df2f3abd3a8fde122fc449727df02a666afa",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N110E1": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "2146c7fc666f33519e88a287ff7017616e40ebf28d828200b1e8a53506083f1e",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N111C6": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "ca5685e2faa9ad01c2c65da69a217a8ba9e92bdc493e566e47cb530abab1830a",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N111E3": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "a9332f2660174e5f4611376e16056a3ee1af2ce64db0a0c99c39b53ea968f230",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11264": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "1676e762edf26146c24d3384ed0a796705f6716cd7907c71ccaef1699b33cf6a",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11331": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "b063cd079f9de24e8077174aaa8f4cf668b52acd17212d0d9af84bfa962147df",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11396": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "58754d1842b4dd024537fe8994f4f5c27f52ed8e6139d8864ecdaac3b9b1dc68",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N113BC": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "813d3f721c603e17576ec8857fb000d9637f26b5ebc463effa1a5cc1bbf4957c",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11493": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "7438ceafeed885c8b3bcfb86aa865ef9796db5a240a6f6a8af6e1e344a684334",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N114AC": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "190794a7a1b605835124b3a535af1a6dcab145e7199b6df0865d1cdc121778da",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N114D1": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "a3fcb648f7789097d6ff6c9aaa40d78097970509acd6786a95777362e6418dc2",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11547": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "c098493eecf56115f12dfadd9637ec9d6b849ceacccaa039daa28b132fd9174e",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11560": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "dd88306baecb183afb80ecf49ad034e7d7d90ae6dccc8dbffc258a399bf78c29",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11577": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "7e7dc0eff7fecdaa65f51dcc45ed85fc313445379dcd05254fc197368f9d27c0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1159E": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "80deb219318311866613dc54d0ba79c6b6b4bdf0f4a07d810e904fcb9c48d5ea",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1161F": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "8b14a9131ab0b2418de7e34e672eb84e9b9562a7dbb32454cacf1139885fd412",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1168F": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "9ea81ed78157b782e66bee1d71d76b7fabe203e9171aa95b62b650e6c1c6447b",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11712": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "0dfc1ccc68f999a8ffc15dc4b835171378c540f2411db5656471bcefc1026127",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1174F": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "1231ffdd419cda0c314cf832ec63e918c9f316a498c8feef7e194e2069cb9cc0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1178C": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "567ab25db156ac81d6bf6515e4c4b0cc6fc209a40eac8378bb4eb0f5a2916463",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11811": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "7d50a769569e40096f2e3a25864fa2f6333dc010c3a7139111cc8c4345e26ead",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1182A": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "dd88306baecb183afb80ecf49ad034e7d7d90ae6dccc8dbffc258a399bf78c29",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11841": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "7e7dc0eff7fecdaa65f51dcc45ed85fc313445379dcd05254fc197368f9d27c0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11877": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "73f21708012d5ded30f5ca3425584ce02bf1118b80765b98b673c4a28c0f4804",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N118B5": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "f845e5b5dbb325dacbb4767c1ad3bab417bc9e65a11983a4f598cea344998c66",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11967": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "db01702793105110d9810c4b9f622ef5a6bd4c8b0c2d98f18a54f4d3d3b395c3",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N119FD": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "f0cc7564055450ed492322ccafff2494490eff016247129ffdd65d56a1c1ac9c",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11A89": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "1c27ce64f3e233a09a1339b9eb4d7de7402b564b106c44e02a9d0544b8d591fb",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11AF7": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "16df336570d3d47c6b3e89dd28f38167dcf28d76a803f45af47f8026807b95ef",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11B5B": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "73e414ee9405eb852e304c571dbff4f317b486401d4e184de8497277052f12de",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11B83": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "144ebd5773ee3cc2a70fb84215117bb7d3e1ecd23002290625926f00b2c85950",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11BA7": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "443b2459479725a0f83c70b0e604ac04ebdba6a472556aa3e2ef46fb06efdf22",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11C45": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "45cc6291f6b4f1578f8c4e9f3ab3a7e50ec38212f3d342efcf8044ef254155c6",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11D07": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "5ad1979f471aa157a8c2b330f109ce8546573171208ab14158dd8ca82908efc4",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11D64": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "fdf90cd8a6e95b1512249c96aff8ac2252c8dd4c6cb43ea43e711591df0abe75",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11DAA": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "5cc4ed586ce883c54a568af291ecc8fd2dbbce253817138e4207042bc3bcd476",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11E3B": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "0920d2618f651aa7584644dbf10818df36f7ae685dd299c1c19a04076854994d",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11F0C": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "a6f4925f5b807fb4593d5d858241fd729c75c34ada300b3172fcc978c8955d04",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N11F7D": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "9a5d93de8f92314287e4960ca472dbf404a09ac9e846631c94e20ee7f5720a63",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12019": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "907b15ce73adb070c7a5c3a9e2f867cabee77910aa7582ebb7b45ca5e099bf4d",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1203A": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "0d6dd2bccf96dea5aa37dfd4137cadafeb619cfc76ae4af7042a6e39e98b03a1",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12062": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "287edf15e8492c59288bd3ce731f4cc9c448150153d5f867b49697aee8674b9a",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12089": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "6b4c418d8a00a92bd6b595a0310add84491b34edeb4ba719bd1cc8f20a114a0f",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1217F": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "6fd27c0b4d5b90881a9764f6dd3313811ea48bda9d5b778844dce806755b30e3",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1220D": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "d8e9b8b7dda022de48c4e4146e1343a0c1191909d195e1079ff286c77c361f10",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12246": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "c2bf807641579c76a2e2a355af0cf35ff13824906cd13bfe6575506df1bccda1",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N122AE": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "9048e9b4b2fd2a31fd5616f0a803b77136dc199bfce274caf39a1e16d02eaf4b",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12302": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "c75aab88a1da6d67e6759383bc7a1f187c16f5cdc8569beb6bc325d1a0de48d8",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12318": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "59967efd6bc0a662efe12c3a9c13b9594828044fb45ad411a1677aab761289aa",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N123E8": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "e50cb7764cbed10d861ff4e239b1ab85fe93922e0fe87dc9ed113ce636e6cde8",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1244F": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "4a04ddd9cf51025e612b3d535024bf7190a70a9f502eafb518facfd31a4fa403",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12465": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "a4a581f29b35baa7bd64e9bc2d2068fcc40d8c1cebfd8049790fa6e88228e62b",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N124AA": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "cdca7bf0e2cfd14bae2f9fa7b8e801ff1da2a0d4828e870324e21a47b9bdaecb",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12522": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "188c3a1e42708350796657b54bd9839c29d70ce436d86ff92bb1c3a10f483395",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N125E6": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "8cdc14f4dedeb229ac26a6fd3649762759c4e585eccf7d580f4bc4bf246a7828",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N12634": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "f3f9cded02b56a73490ca51a6ed377ce1f25311947fbb3e75b05f4a2526c33e1",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N1268E": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "999d1268eaa9a0138932a708a2ffc866987fe828014c3d388d072d9780fb97e5",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N126B3": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "5528a1004d5a20093d16c7b2431acbc480e7d07b0e8109d6b87972bcf2847536",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N126CE": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "dd88306baecb183afb80ecf49ad034e7d7d90ae6dccc8dbffc258a399bf78c29",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ],
+    "art_N126E7": [
+      {
+        "valid_from": "2023-07-01",
+        "valid_to": null,
+        "text_sha256": "7e7dc0eff7fecdaa65f51dcc45ed85fc313445379dcd05254fc197368f9d27c0",
+        "in_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "renumbered",
+      "from": "art_N1053B",
+      "to": "art_N1097E",
+      "text_sha256": "28ffda68cc0eec4acfddd01947d784183f3eee0b4767bf3e4d341bddd0ac761c",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1054C",
+      "to": "art_N10991",
+      "text_sha256": "525c56251a43f8f96fbb2ce105f8e4a77fea0881d5d611454b3f8203c163c24c",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10570",
+      "to": "art_N109C5",
+      "text_sha256": "e43c320a692ed543be943b2ae10ec0c58741c40fbe5f9e4471ed22023f7a6c60",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1057E",
+      "to": "art_N109D5",
+      "text_sha256": "d3a1f20d4b236d53a5dddca37bc418133c0eef694b3cc22e32a6a2d67d644a33",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10588",
+      "to": "art_N109E5",
+      "text_sha256": "06ee4467c041c0fbe276869f4b9b5d08e77c58e7adf8a90a5f2b05cbf9dad466",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1059F",
+      "to": "art_N10A0A",
+      "text_sha256": "b11c092e184ffc9d9e213fbad80a94b778ed6056a064307b80c76360a2786697",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N105A9",
+      "to": "art_N10A1A",
+      "text_sha256": "d7b616f210d92d93967d2fd7b996b3bc9a20eca74bf0c92a552a110009700958",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N105E3",
+      "to": "art_N10A78",
+      "text_sha256": "b37198c7406719ba98634ae5368c3a6461c7140fb48661188794320239792485",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10605",
+      "to": "art_N10AA4",
+      "text_sha256": "55cf799c1098081abb451c62433d760090743f7e47fc173e80d8cae8a95422f5",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10612",
+      "to": "art_N10AB7",
+      "text_sha256": "fd930f01d32bfc821e1f3fad611f4fa20b9116dc4d7482271e65e2b9cdaf9748",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1061C",
+      "to": "art_N10AC7",
+      "text_sha256": "f07601048d86acb2a7c55fab51e022cce6537eecb17f2f9b43fd10a33e35a0ed",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10633",
+      "to": "art_N10AEC",
+      "text_sha256": "27875e7b474c3bc3a32aaf7f74316f85398ad72fc71ea11c23ec82d44af679a2",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1065B",
+      "to": "art_N10B2C",
+      "text_sha256": "83d379f6e2abb913682a8e9b2168a0cbc214c4e0e6dbd5c02d18f5f3282e61f9",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1067B",
+      "to": "art_N10B60",
+      "text_sha256": "bcec3b331bb3f688210e35d72b4e886507ae1424d14373599fe1e4175fe0a841",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1069B",
+      "to": "art_N10B94",
+      "text_sha256": "19d21f994cd4b79447c63bc8f58b9c3adb21de499f93504041aa22b4b4d0bdfc",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N106A5",
+      "to": "art_N10BA4",
+      "text_sha256": "3fe81103c78efef0a294d65dee34720c6974535fca5c2b0861baefebbc2b530d",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N106BC",
+      "to": "art_N10BC9",
+      "text_sha256": "880aa8f0d304a5addff5d3851f596bd0773fd9ffa38e7e4eac813f8ba4dd8ffe",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N106C6",
+      "to": "art_N10BD9",
+      "text_sha256": "a4ccf4f0ced85a498a9ffa376fe17cee54174d6aafe25665daac762b98886531",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N106EE",
+      "to": "art_N10C19",
+      "text_sha256": "cbbd1dada8affc571633334c0cc7d5e530d26c87b3eb19fc201e88d0e0bf06f4",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1070E",
+      "to": "art_N10C4D",
+      "text_sha256": "882f4c3400fe7196b38060ee9aa22c79930d825e958bddb8e757f44caff7e3d0",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1074C",
+      "to": "art_N10CA4",
+      "text_sha256": "718cddd3f205e7b34d2c11741b933f7e8708b72ea87ec74f1b86e39410fdfa5f",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N1075C",
+      "to": "art_N10CBA",
+      "text_sha256": "368e231bdf6acca73fccb4b81b23507b6426f2a98d360e9fe4ee50c59d8f61ee",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10766",
+      "to": "art_N10CCA",
+      "text_sha256": "dc5bb9ebd3caea02c91a3ea3bddb7bd115bdcc8632d7ef06ee9058eba9c360c5",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10770",
+      "to": "art_N10CDA",
+      "text_sha256": "df189e0e2ec0d67d844028ce747781e3151f1da2e2e57d36c30abd1cc4a96922",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10787",
+      "to": "art_N10CFF",
+      "text_sha256": "89fa3e9be61a195dc05af0b93080bf00bb34dfce3d8497df166ac406992dbbcc",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N10798",
+      "to": "art_N10D16",
+      "text_sha256": "5b223e0128e40377fbad5d65cd93b9a1b0a1e95f314e7cb06af7a72668851c00",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N107A8",
+      "to": "art_N10D2C",
+      "text_sha256": "e402c05757ea3d1402d090f3bbde4e21b113e53adee7fa862e128451173410de",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_N107B2",
+      "to": "art_N10D3C",
+      "text_sha256": "c0686560e7f74ba6eb2903b0c7120a676812fd6c6190daa942cf1aefe33605ca",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N1005A",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N1007A",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10084",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N1009B",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N100A5",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N100C7",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10121",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10140",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N1015F",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10262",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N1029F",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10304",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10393",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N103D2",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10402",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10436",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N1046C",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10494",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N104E1",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N10509",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N1072E",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_N107CA",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1015D",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10215",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N102CB",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10341",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1037E",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10450",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N104C3",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1052C",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N105AE",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10675",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10703",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N107DE",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N108B8",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N108D4",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N108EA",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10C81",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10D5B",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10D7E",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10DA9",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10E62",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10F40",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N10FA8",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11029",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11046",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N110E1",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N111C6",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N111E3",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11264",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11331",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11396",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N113BC",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11493",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N114AC",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N114D1",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11547",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11560",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11577",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1159E",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1161F",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1168F",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11712",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1174F",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1178C",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11811",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1182A",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11841",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11877",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N118B5",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11967",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N119FD",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11A89",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11AF7",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11B5B",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11B83",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11BA7",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11C45",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11D07",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11D64",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11DAA",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11E3B",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11F0C",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N11F7D",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12019",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1203A",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12062",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12089",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1217F",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1220D",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12246",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N122AE",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12302",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12318",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N123E8",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1244F",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12465",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N124AA",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12522",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N125E6",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N12634",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N1268E",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N126B3",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N126CE",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_N126E7",
+      "at_version": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01"
+    }
+  ]
+}

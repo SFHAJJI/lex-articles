@@ -1,0 +1,110 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1997-07-27-n6:2016-09-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/09/2016 : Règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail des chargés d'éducation à durée déterminée des lycées et lycées techniques publics.",
+  "valid_from": "2016-09-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1997-07-27-n6/versions/2016-09-15/fr.xml",
+    "sha256": "93fdc6a01efd7b417541778460ccb72144c1e6a91094559ca6565d60c05e8a29",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/consolide/20160915/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1997-07-27-n6:2016-09-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/art_1er/20160915",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "Le présent règlement définit le statut des chargés d’éducation engagés à durée déterminée et à tâche complète ou partielle sous le régime de l’employé de l’Etat dans les lycées et lycées techniques publics.",
+      "text_sha256": "74d9c435e81c5e606837e60b12c03b80c47a742e512a1305c6b800c8270cf4ca",
+      "md_span": {
+        "start": 729,
+        "end": 935
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1997-07-27-n6:2016-09-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/art_2/20160915",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Conditions d’engagement",
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "Peuvent être engagés en qualité de chargé d’éducation à durée déterminée et à tâche complète ou partielle, les candidats qui remplissent les conditions suivantes:\n\n1. être ressortissant d’un pays de l’Union Européenne,\n2. jouir des droits civils et politiques,\n3. offrir les garanties de moralité requises,\n4. satisfaire aux conditions d’aptitude requises pour l’exercice de leur emploi,\n5. loi du 24 février 1984 règlement grand-ducal du 9 décembre 1994",
+      "text_sha256": "df82b92a4712ebd554853c1a42cb80b4aa97e4b1a94b4b62bd48a6438e750abb",
+      "md_span": {
+        "start": 994,
+        "end": 1448
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1997-07-27-n6:2016-09-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/art_3/20160915",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1483,
+        "end": 1483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1997-07-27-n6:2016-09-15#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/art_4/20160915",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "Le présent règlement sort ses effets à partir de l’année scolaire 1997/1998.",
+      "text_sha256": "6b622edff0bdcc9f90530da9ecd79222cbd12f45235424c4a36254dea1705f7f",
+      "md_span": {
+        "start": 1536,
+        "end": 1612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1997-07-27-n6:2016-09-15#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/art_5/20160915",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Disposition finale",
+      "path": [],
+      "article_valid_from": "2016-09-15",
+      "text_md": "Notre Ministre de l’Education Nationale et de la Formation Professionnelle et Notre Ministre de la Fonction Publique et de la Réforme Administrative sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "278f1da97919ba7b44b6bd8b51cc4afd84558b5767d89879addee85092de59dd",
+      "md_span": {
+        "start": 1666,
+        "end": 1923
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,171 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16",
+  "language": "fr",
+  "title": "Version consolidée applicable au 16/11/2023 : Règlement grand-ducal du 26 octobre 2021 relatif à la participation de l’Armée luxembourgeoise à la mission EUTM au Mozambique.",
+  "valid_from": "2023-11-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2021-10-26-a754/versions/2023-11-16/fr.xml",
+    "sha256": "8612b85b74c6ca8838be215929aff3d798db0f153f6ddc82d83aaaf1f3a7c617",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/consolide/20231116/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/art_1er/20231116",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-11-16",
+      "text_md": "Le Grand-Duché de Luxembourg contribue à la mission de formation militaire de l’Union européenne au Mozambique (EUTM Mozambique) pendant la période du 16 novembre 2023 au 15 novembre 2025 au plus tard, sous réserve de la prolongation du mandat de la mission.",
+      "text_sha256": "d1aa25baba164d83307d21720b55be5de0e912a6fa0391892f83b91deec4cd80",
+      "md_span": {
+        "start": 653,
+        "end": 911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/art_2/20211031",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-10-31",
+      "text_md": "La contribution luxembourgeoise comprend au maximum cinq membres de l’Armée luxembourgeoise.",
+      "text_sha256": "fcfb6f013793d360314f9cae0c64c1862175a83ef43a19c8e829e8a83b60236b",
+      "md_span": {
+        "start": 946,
+        "end": 1038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/art_3/20211031",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-10-31",
+      "text_md": "Sur proposition du chef d’état-major de l’Armée luxembourgeoise, le ministre ayant la Défense dans ses attributions désigne les membres de l’Armée luxembourgeoise participant à la mission parmi les militaires de carrière et les soldats faisant partie d’une unité de disponibilité opérationnelle.",
+      "text_sha256": "356cef2bf18cbfe3816e7edad64ed66aafc78c73e7de34053f31570f24138602",
+      "md_span": {
+        "start": 1073,
+        "end": 1368
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/art_4/20211031",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-10-31",
+      "text_md": "La mission consiste en la contribution de capacité de communication satellitaire et en l’intervention ponctuelle des membres de l’Armée luxembourgeoise pour l’installation, la mise en œuvre et la maintenance de cette capacité satellitaire.",
+      "text_sha256": "e47625e1c3d15d690aa3cb1defa1a579ff0dd2df5c73c1d8657ae4338418b275",
+      "md_span": {
+        "start": 1403,
+        "end": 1642
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/art_5/20211031",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-10-31",
+      "text_md": "Pour la durée de leur mission, les membres de l’Armée luxembourgeoise appliquent les directives de la mission et restent placés sous l’autorité hiérarchique nationale.",
+      "text_sha256": "3368bb41e5bec0a4e3c805535c90ea0fd4327b12243f4bc99c5728193e8ebe8f",
+      "md_span": {
+        "start": 1677,
+        "end": 1844
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/art_6/20211031",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-10-31",
+      "text_md": "Les membres de l’Armée luxembourgeoise ont droit à l’indemnité mensuelle spéciale non imposable et non pensionnable, prévue à l’article 9 de la loi modifiée du 27 juillet 1992 relative aux opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.",
+      "text_sha256": "3bdae541e18febc554a2dd69b9e48900ba10383c6ef5ed2d4e48e149201d507c",
+      "md_span": {
+        "start": 1879,
+        "end": 2170
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/07/27/n5/jo",
+          "text": "loi modifiée du 27 juillet 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/art_7/20211031",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-10-31",
+      "text_md": "Les membres de l’Armée luxembourgeoise bénéficient d’un congé spécial de fin de mission conformément à l’article 17*bis* de la loi modifiée du 27 juillet 1992 relative aux opérations pour le maintien de la paix et des opérations de prévention, ainsi que de gestion de crise.",
+      "text_sha256": "ed93415e19ddeffa453aec4a64a5e0ea58eca955dc1f439b3949d9b5f689f8df",
+      "md_span": {
+        "start": 2205,
+        "end": 2479
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/07/27/n5/jo",
+          "text": "loi modifiée du 27 juillet 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2021-10-26-a754:2023-11-16#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/art_8/20211031",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-10-31",
+      "text_md": "Notre ministre ayant les Affaires étrangères et européennes dans ses attributions, Notre ministre ayant les Finances dans ses attributions et Notre ministre ayant la Défense dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "a4056975677327cb624b5b9e0729f655b68c6a9cb8af35f6faf8805ecc9946a8",
+      "md_span": {
+        "start": 2514,
+        "end": 2855
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

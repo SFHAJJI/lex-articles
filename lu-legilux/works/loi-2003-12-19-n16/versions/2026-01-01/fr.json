@@ -1,0 +1,69 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2003-12-19-n16:2026-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2026 : Loi du 19 décembre 2003 portant réactivation du fonds d'équipement militaire.",
+  "valid_from": "2026-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2003-12-19-n16/versions/2026-01-01/fr.xml",
+    "sha256": "4e6288747af9d87e32dbb28ec88d6bd4ead335f1d9359f72d6ee679440e161e0",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n16/consolide/20260101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2003-12-19-n16:2026-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n16/art_1er/20040104",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-01-04",
+      "text_md": "Le fonds d'équipement militaire créé par l'article 2 de la loi du 16 décembre 1997 concernant la programmation financière militaire peut servir au paiement de dépenses occasionnées par les investissements dans les capacités et moyens militaires à définir par une ou plusieurs lois spéciales.\n\nLe fonds est placé sous l'autorité du ministre ayant dans ses attributions la défense.",
+      "text_sha256": "fac175a22034fd86f9aff54b3f217a6bee631111a30d0e51d93f98df3c58c217",
+      "md_span": {
+        "start": 601,
+        "end": 980
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1997/12/16/n1/jo",
+          "text": "loi du 16 décembre 1997"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2003-12-19-n16:2026-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/12/19/n16/art_2/20260101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-01-01",
+      "text_md": "Le fonds est alimenté par:\n\n1. des dotations budgétaires annuelles;\n2. des emprunts.\n3. des recettes, remboursements, contributions ou participations financières versés par des États partenaires, l’Union européenne, des organisations internationales ou tout autre tiers. Les sommes en question sont portées directement en recettes au fonds.\n\nL'avoir au 31 décembre 2001 pourra servir à la liquidation des dépenses prévues à l'article 1er de la présente loi ainsi qu'au paiement des dépenses engagées avant le 31 décembre 2001 en application de l'article 1er de la loi du 16 décembre 1997 concernant la programmation financière militaire.",
+      "text_sha256": "77657273da77c26a628ea1bf5b1559083cefafc54ce10df25758b0607f3e3989",
+      "md_span": {
+        "start": 1015,
+        "end": 1652
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1997/12/16/n1/jo",
+          "text": "loi du 16 décembre 1997"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

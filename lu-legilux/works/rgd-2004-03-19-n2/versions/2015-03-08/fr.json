@@ -1,0 +1,161 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/03/2024 : Règlement grand-ducal du 19 mars 2004 portant fixation des jetons de présence et des indemnités des personnes composant les bureaux de vote lors des élections législatives, européennes et communales.",
+  "valid_from": "2015-03-08",
+  "valid_to": "2024-03-14",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2004-03-19-n2/versions/2015-03-08/fr.xml",
+    "sha256": "1fdcf09fe429b0374f754aae72cf79d6cc445baed2c18ffeab216f7a1f2287df",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/consolide/20150308/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/art_1er/20040401",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-04-01",
+      "text_md": "Les jetons de présence revenant aux présidents, secrétaires et secrétaires adjoints des bureaux de vote chargés des opérations électorales le jour des élections législatives, européennes et communales sont fixés forfaitairement à 30 euros, ceux revenant aux assesseurs et calculateurs à 25 euros.",
+      "text_sha256": "9d227a2a4ea2c7e8f81cfaeb7d3d38f8b4e74816447f7d411dcdc9d9aa6f76d9",
+      "md_span": {
+        "start": 727,
+        "end": 1023
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/art_2/20040401",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-04-01",
+      "text_md": "Pour l'ensemble des opérations antérieures au jour des élections, les indemnités suivantes sont allouées:\n\n1. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont droit à une indemnité forfaitaire de 30 euros et les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes à une indemnité forfaitaire de 15 euros.\n2. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont en outre droit pour les élections législatives ou européennes à une indemnité de 4,50 euros par commune de leur circonscription et à une indemnité de 3 euros par bureau de vote de la commune chef-lieu de circonscription, et pour les élections communales à une indemnité de 4,50 euros par bureau de vote de la commune chef-lieu de circonscription.\n3. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes ont en outre droit pour les élections législatives ou européennes à une indemnité de 3 euros par bureau de vote de leur commune et pour les élections communales à une indemnité de 4,50 euros par bureau de vote de leur commune.\n4. Pour les élections européennes, le président du premier bureau de vote de la Ville de Luxembourg, qui fonctionne comme bureau principal de la circonscription unique, a droit à une indemnité de 9 euros par commune de la circonscription, et les secrétaire et secrétaire adjoint du même bureau ont droit à une indemnité de 4,50 euros par commune de la circonscription.",
+      "text_sha256": "eeb7ae2586460624e7bd349dd6a3488fd643c9749f414a9b66a6e46fbc4b4260",
+      "md_span": {
+        "start": 1058,
+        "end": 2596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/art_3/20051004",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2005-10-04",
+      "text_md": "Les présidents, secrétaires, secrétaires adjoints, assesseurs et calculateurs des bureaux principaux appelés après le jour des élections au recensement général des votes et à l'attribution des sièges ont droit à des jetons de présence de 6 euros pour chaque vacation d'une heure.",
+      "text_sha256": "4b8633737a0434ffc3c907f4847957062a1356d7f4579554eb5d39d0c6070486",
+      "md_span": {
+        "start": 2631,
+        "end": 2910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/art_4/20040401",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-04-01",
+      "text_md": "En cas d'élections législatives et européennes simultanées, les jetons de présence et indemnités revenant aux personnes composant les bureaux de vote sont fixés comme suit:\n\n1. Pour les opérations électorales du jour des élections, les jetons de présence revenant aux présidents, secrétaires et secrétaires adjoints des bureaux de vote sont fixés forfaitairement à 60 euros, ceux revenant aux assesseurs et calculateurs à 50 euros.\n2. 1. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont droit à une indemnité forfaitaire de 45 euros et les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes à une indemnité forfaitaire de 25 euros;\n2. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des circonscriptions ont en outre droit à une indemnité de 9 euros par commune de leur circonscription et à une indemnité de 6 euros par bureau de vote de la commune chef-lieu de circonscription.\n3. Les présidents, secrétaires et secrétaires adjoints des bureaux principaux des autres communes ont en outre droit à une indemnité de 6 euros par bureau de vote de leur commune.\n4. Pour les élections européennes, le président du premier bureau de vote de la Ville de Luxembourg, qui fonctionne comme bureau principal de la circonscription unique, a droit à une indemnité de 9 euros par commune de la circonscription, et les secrétaire et secrétaire adjoint du même bureau ont droit à une indemnité de 4,50 euros par commune de la circonscription.\n3. Les présidents, assesseurs, secrétaires, secrétaires adjoints et calculateurs des bureaux principaux appelés à procéder après le jour des élections au recensement général des votes et à l'attribution des sièges ont droit à des jetons de 6 euros pour chaque vacation d'une heure.",
+      "text_sha256": "200446773b51b85c23e166ceb99f158d828c4b81740fd1c77a2023940968b210",
+      "md_span": {
+        "start": 2945,
+        "end": 4772
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/art_5/20150308",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-08",
+      "text_md": "L’indemnité forfaitaire revenant pour leur disponibilité aux assesseurs-suppléants des bureaux de vote le jour des élections législatives, européennes, communales ou en cas d’élections législatives et européennes simultanées est fixée à 20 euros. Cette indemnité n’est pas due au cas où le président du bureau de vote fait appel à l’assesseur suppléant pour assister comme assesseur aux opérations de vote de son bureau.",
+      "text_sha256": "e157a0ffd01af69701b3a9ce3314e44eac610bb921620044df15463d2ffabd07",
+      "md_span": {
+        "start": 4807,
+        "end": 5227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/art_6/20150308",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-08",
+      "text_md": "Les jetons de présence et indemnités prévus aux articles 1er, 2, 3 et 4 du présent règlement correspondent au nombre-indice 100 et sont adaptés périodiquement au coût de la vie conformément aux dispositions régissant l’adaptation au coût de la vie des traitements des fonctionnaires de l’Etat.\n\nA l’exception de l’indemnité forfaitaire visée à l’article 5 du présent règlement, le montant total respectif des jetons et indemnités revenant aux personnes composant les bureaux de vote sont réduits de vingt pour cent.",
+      "text_sha256": "7938d66d4cff747456ea9cd24a626b62755bac87b87713396bb122fe2c583294",
+      "md_span": {
+        "start": 5262,
+        "end": 5777
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/art_7/20040401",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-04-01",
+      "text_md": "Les jetons de présence et indemnités sont payés sur le vu de déclarations, établies en double exemplaire, certifiées sincères par les intéressés et visées par le président du bureau principal de la commune. Les jetons de présence et indemnités revenant aux différents membres des bureaux de vote lors des élections législatives ou européennes sont avancés par les communes qui sont remboursées par l'Etat.",
+      "text_sha256": "e42718367822fdeaf16bdba75851b6d09c355301263bd0906f50693d608bb8b2",
+      "md_span": {
+        "start": 5812,
+        "end": 6217
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2004-03-19-n2:2015-03-08#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/art_8/20040401",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-04-01",
+      "text_md": "Notre Premier Ministre, Ministre d'Etat, Notre Ministre de l'Intérieur et Notre Ministre du Trésor et du Budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ece74c632fbb74d98138f8171f5220a63971040ba8e3cb559e0577dfce99602a",
+      "md_span": {
+        "start": 6252,
+        "end": 6472
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

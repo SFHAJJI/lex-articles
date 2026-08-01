@@ -1,0 +1,334 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/07/2022 : Règlement grand-ducal du 5 mai 2011 fixant les mesures d'exécution relatives aux aides individuelles au logement promouvant l'accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l'aide au logement.",
+  "valid_from": "2022-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-05-05-n2/versions/2022-07-01/fr.xml",
+    "sha256": "3e910011e72957b5ed4dc47cd381fc1767e9eea84db3cce7d3c32529229eebc6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/consolide/20220701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_38/20220701",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 1.* — *Subvention d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "La subvention d’intérêt prévue à l’article 14 de la loi est accordée au demandeur qui remplit les conditions suivantes:\n\n1. avoir contracté un prêt hypothécaire en vue de la construction, de l’acquisition, de l’amélioration ou de l’assainissement énergétique d’un logement auprès d’un établissement de crédit, agréé dans l’Union Européenne et dans l’Espace Economique Européen, ou auprès d’un organisme de pension relevant de la sécurité sociale,\n2. remplir les conditions prévues aux articles 2 à 16,\n3. produire un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande, et\n4. être titulaire unique dudit prêt, sauf dans l’hypothèse prévue par l’article 44, alinéa 3.",
+      "text_sha256": "ca3ae87b5d47a295bdde8097bc653db8acd2e1e04e51547aef1b42a43f39c91c",
+      "md_span": {
+        "start": 832,
+        "end": 1537
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_39/20220701",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 1.* — *Subvention d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "Le taux de la subvention d’intérêt est fixé suivant le revenu et la situation de famille du demandeur, conformément aux tableaux annexés au présent règlement, sans que le taux de la subvention d’intérêt puisse dépasser le taux plafond fixé à 3,00%\n\nToutefois, lorsque le taux d’intérêt auquel s’applique la subvention d’intérêt est inférieur à un taux de référence fixé à 1,50%, le taux de la subvention d’intérêt est réduit de la moitié de la différence entre le taux de base et le taux effectif arrondie au huitième de point inférieur, sans que le taux de la subvention d’intérêt puisse excéder le taux effectif.",
+      "text_sha256": "862c9be6a93b16512887d59fcf33b49ab6ab482ad8782bd9010880a2f92b1e22",
+      "md_span": {
+        "start": 1574,
+        "end": 2188
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_40/20220701",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 1.* — *Subvention d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "Pour le calcul de la subvention d’intérêt, les prêts hypothécaires sont pris en considération jusqu’à concurrence de 175.000 euros par logement. Ce montant s’amortit à partir du premier paiement de l’aide conformément au tableau d’amortissement annexé au présent règlement.",
+      "text_sha256": "d10a0922f41e8af1cda1d863d5299fa262c838702fe32547e489f3cdb2e3403a",
+      "md_span": {
+        "start": 2225,
+        "end": 2498
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_41/20220701",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 1.* — *Subvention d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "(abrogé)",
+      "text_sha256": "bacdf9b5b46da658415464223161159669a8f22bde0c788aa9eda978b80d3274",
+      "md_span": {
+        "start": 2535,
+        "end": 2543
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_42/20220701",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 1.* — *Subvention d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "La subvention d’intérêt est versée pour le compte du bénéficiaire entre les mains de l’organisme de pension relevant de la sécurité sociale ou de l’établissement de crédit, agréé dans l’Union Européenne et dans l’Espace Economique Européen, qui a consenti le prêt hypothécaire pour le financement du logement.\n\nA l’exception des prêts hypothécaires à taux fixe, la subvention d’intérêt doit être portée au crédit du compte débiteur du bénéficiaire.\n\nLorsque le prêt hypothécaire consenti en principe n’est pas accordé définitivement ou que le prêt hypothécaire liquidé n’est pas utilisé par le bénéficiaire, l’établissement prêteur en informe dans les plus brefs délais le ministre.\n\nTous les frais de transfert de l’aide opérés sont à charge du bénéficiaire.",
+      "text_sha256": "946515e06cbdced47ce2d681b0d45ec110db9b78f668cb3cdd81b79a04650d55",
+      "md_span": {
+        "start": 2580,
+        "end": 3339
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_43/20220701",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 1.* — *Subvention d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "Aucune subvention d’intérêt n’est accordée si le montant total annuel est inférieur à 25 euros.",
+      "text_sha256": "c068cc5b7e47996b384f4ba791c8245df65ecaab931927b2096f8f7e0eb67d07",
+      "md_span": {
+        "start": 3376,
+        "end": 3471
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_44/20220701",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 1.* — *Subvention d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "Dans les cas où une prime prévue à l’article 11 de la loi est à rembourser à l’Etat, la subvention d’intérêt n’est pas due et doit également être remboursée, avec effet rétroactif.\n\nLa subvention d’intérêt n’est également pas due en tout ou en partie à partir du moment où une ou plusieurs des conditions d’octroi ou de maintien de la subvention d’intérêt ne sont plus remplies ou se sont modifiées.\n\nEn cas de départ d’un bénéficiaire du logement avant le délai de 10 ans prévu à l’article 8, que ce soit pour cause de divorce, de séparation ou pour toute autre cause, le ministre peut, sur demande écrite et motivée, accorder au bénéficiaire restant dans le logement une continuation provisoire de la subvention d’intérêt pour une durée maximale de 2 ans. Le bénéficiaire continuant à habiter dans le logement après ce délai de 2 ans et ayant repris à lui seul le prêt hypothécaire peut introduire une demande en obtention d’une continuation de la subvention d’intérêt. Dans ce cas, le demandeur doit avoir la pleine et exclusive propriété du logement.\n\nSi, avant le délai prescrit de 10 ans, un bénéficiaire part du logement et achète un nouveau logement, celui-ci peut, en cas de dispense totale de remboursement accordée conformément à l’article 9, demander au ministre une continuation de la subvention d’intérêt sur base de l’ancien plan de financement, et ceci pour des raisons de santé, de force majeure, familiales et/ou financières. Dans ce cas, le délai prévu par l’article 8, paragraphe (1), alinéas 1 et 2, court à nouveau.",
+      "text_sha256": "00a863f7cda416b586578a6f5df75531313e742b37c394b924dc5aadf3901c07",
+      "md_span": {
+        "start": 3508,
+        "end": 5045
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_45/20220701",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 1.* — *Subvention d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "La subvention d’intérêt est calculée sur base des intérêts à échoir en fonction du plan d’amortissement établi par l’établissement prêteur. Elle est convertie en un montant d’aide périodique, constant sur l’ensemble de la période d’amortissement du prêt hypothécaire.",
+      "text_sha256": "92e401741c9dbf2a792f141a73ceb96779169ce7cf718ff04363fa8ca31e9884",
+      "md_span": {
+        "start": 5082,
+        "end": 5349
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_46/20220701",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 2.* — *Bonification d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "La bonification d’intérêt prévue à l’article 14bis de la loi est accordée au demandeur qui remplit les conditions suivantes:\n\n1. habiter le logement pour lequel la bonification est demandée, et avoir au moins un enfant à charge;\n2. avoir contracté auprès d’un établissement de crédit, agréé dans l’Union Européenne et dans l’Espace Economique Européen ou auprès des organismes de pension relevant de la sécurité sociale, un prêt hypothécaire en vue de la construction, de l’acquisition ou de l’amélioration d’un logement sis sur le territoire du Grand-Duché de Luxembourg et occupé d’une façon effective et permanente par le demandeur;\n3. ne pas être propriétaire, copropriétaire ou usufruitier d’un autre logement;\n4. produire un certificat du bordereau d’inscription hypothécaire dûment enregistré, sur première demande;\n5. fournir la preuve qu’il est propriétaire du logement, qu’en cas de construction ou d’amélioration les travaux de construction ou d’amélioration ont commencé et que le prêt hypothécaire est utilisé;\n6. être titulaire unique du prêt.\n\nPour l’octroi, le maintien, la modification, la suppression ou la restitution de la bonification d’intérêt, les conditions prévues par les articles 2, 6, 8 paragraphe (1) alinéas 3 et 4, 9 paragraphe (2), 10, 12, 13, 14, 15 et 16 s’appliquent.\n\nSous réserve de l’article 16, paragraphe (2), alinéa 2, la bonification d’intérêt est accordée à partir de la date de la 1ère demande. Toutefois, une période de 6 mois, antérieure à la date de la demande et pendant laquelle les conditions énoncées sous les points 1. à 6. étaient remplies, peut être prise en considération.",
+      "text_sha256": "c80295cdac90cab476e4665c97426b8adcc258fc1ebb0f549ab49742d35740be",
+      "md_span": {
+        "start": 5431,
+        "end": 7058
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_47/20220701",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 2.* — *Bonification d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "La bonification d’intérêt est calculée de façon à réduire le taux d’intérêt débiteur de 0,50% par enfant à charge. La bonification d’intérêt ne peut en aucun cas dépasser le taux effectif du prêt respectivement le taux plafond fixé à l’article 39, alinéa 1.\n\nElle est calculée sur la base des intérêts à échoir en fonction du plan d’amortissement établi par l’établissement prêteur.\n\nElle ne peut donner droit à un taux d’intérêt débiteur restant à la charge de l’emprunteur inférieur au taux de référence visé à l’article 39, alinéa 2 diminué de 0,50% par enfant à charge. Cette disposition ne s’applique pas au bénéficiaire d’une subvention d’intérêt, respectivement au demandeur ayant contracté un prêt hypothécaire sur base d’un contrat d’épargne-logement contracté auprès des caisses d’épargne-logement agréées dans l’Union Européenne et dans l’Espace Economique Européen.",
+      "text_sha256": "c3072295303ce3a07f6cddbf5f20d3dca170bfa11f0158de50ae970868fbe9f8",
+      "md_span": {
+        "start": 7095,
+        "end": 7972
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_48/20220701",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 2.* — *Bonification d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "**(1)** Pour le calcul de la bonification d’intérêt, les prêts hypothécaires sont pris en considération jusqu’à un montant maximum de 175.000 euros. Ce montant s’amortit à partir du premier paiement de l’aide conformément au tableau d’amortissement annexé au présent règlement.\n\nUne bonification n’est pas versée si son montant reste inférieur à 25 euros par an.",
+      "text_sha256": "aeda7d906f1a545753c574d289d74b6472ef4c5340332d01d721449d16beef3d",
+      "md_span": {
+        "start": 8009,
+        "end": 8371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_49/20220701",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 2.* — *Bonification d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "La bonification d’intérêt est virée mensuellement ou semestriellement selon les obligations retenues dans le contrat de prêt hypothécaire entre le demandeur et l’établissement prêteur\n\nA l’exception des prêts hypothécaires à taux fixe, la bonification d’intérêt doit être portée au crédit du compte prêt hypothécaire du bénéficiaire, afin de réduire la charge financière supportée par le demandeur.\n\nLes frais de transfert de l’aide opérés par l’organisme prêteur sont à charge du bénéficiaire de l’aide.",
+      "text_sha256": "0915d26d2a8c433ce1b26f87dcdd863e0fb04befc28aae877b1568a00032d528",
+      "md_span": {
+        "start": 8408,
+        "end": 8912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/art_50/20220701",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3** — **Aides en intérêt**",
+        "*Section 2.* — *Bonification d'intérêt*"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "La bonification d’intérêt n’est plus due si le bénéficiaire:\n\n1. n’habite plus le logement pour lequel la bonification est payée; dans ce cas, que ce soit pour cause de divorce, de séparation ou pour toute autre cause, le ministre peut, sur demande motivée, accorder au bénéficiaire restant dans le logement une continuation provisoire de la bonification d’intérêt pour une durée maximale de 2 ans; le bénéficiaire continuant à habiter dans le logement après ce délai de 2 ans et ayant repris à lui seul le prêt hypothécaire peut introduire une demande en obtention d’une continuation de la bonification d’intérêt; dans ce cas, le demandeur doit avoir la pleine et exclusive propriété du logement;\n2. a remboursé intégralement le prêt hypothécaire concerné;\n3. ne remplit plus une des conditions prévues à l’article 46.\n\nSi un bénéficiaire a indûment touché une bonification d’intérêt, il doit la rembourser à l’Etat, avec effet rétroactif.",
+      "text_sha256": "7b6f16c7688c878ca0c2a80f1958821b3df3ec1123e6496e311f69f9b3a7b5f2",
+      "md_span": {
+        "start": 8949,
+        "end": 9889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Subvention d’intérêt en faveur de la construction ou de l’acquisition d’un logement**\n\n| *Situation de famille* | *Revenu en euros (indice 100)* |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| *2750* | *3000* | *3250* | *3500* | *3750* | *4000* | *4250* | *4500* | *4750* | *5000* | *5250* | *5500* |  |\n| Personne seule | 2.450 | 2.450 | 2.450 | 1.950 | 1.575 | 1.200 | 0.950 | 0.825 | 0.825 | 0.825 | 0.575 |  |\n| Ménage sans enfant | 2.450 | 2.450 | 2.450 | 2.450 | 1.950 | 1.700 | 1.450 | 1.200 | 1.075 | 0.950 | 0.825 | 0.825 |\n| Ménage avec 1 enfant | 2.450 | 2.450 | 2.450 | 2.450 | 2.325 | 2.200 | 1.700 | 1.575 | 1.450 | 1.325 | 1.200 | 1.075 |\n| Ménage avec 2 enfants | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.325 | 2.200 | 1.700 | 1.575 | 1.450 | 1.325 | 1.200 |\n| Ménage avec 3 enfants | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.325 | 2.200 | 1.700 | 1.575 | 1.450 | 1.325 |\n| Ménage avec 4 enfants 2 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.325 | 2.200 | 1.700 | 1.575 | 1.450 |\n| Ménage avec 5 enfants | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.325 | 2.200 | 1.950 |\n| Ménage avec 6 enfants | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.450 | 2.325 | 2.200 |\n\n| *Situation de famille* | *Revenu en euros (indice 100)* |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| *5750* | *6000* | *6250* | *6500* | *6750* | *7000* | *7250* | *7500* | *7750* | *8000* | *8250* |  |\n| Personne seule |  |  |  |  |  |  |  |  |  |  |  |\n| Ménage sans enfant | 0.575 |  |  |  |  |  |  |  |  |  |  |\n| Ménage avec 1 enfant | 0.950 | 0.825 | 0.825 | 0.825 | 0.575 |  |  |  |  |  |  |\n| Ménage avec 2 enfants | 1.075 | 0.950 | 0.825 | 0.825 | 0.825 | 0.575 |  |  |  |  |  |\n| Ménage avec 3 enfants | 1.200 | 1.075 | 0.950 | 0.825 | 0.825 | 0.825 | 0.825 | 0.575 |  |  |  |\n| Ménage avec 4 enfants | 1.325 | 1.200 | 1.075 | 0.950 | 0.950 | 0.825 | 0.825 | 0.825 | 0.575 |  |  |\n| Ménage avec 5 enfants | 1.700 | 1.450 | 1.325 | 1.200 | 1.075 | 0.950 | 0.825 | 0.825 | 0.825 | 0.575 |  |\n| Ménage avec 6 enfants | 1.950 | 1.700 | 1.575 | 1.450 | 1.200 | 1.075 | 0.950 | 0.825 | 0.825 | 0.825 | 0.575 |\n\nLes classes de revenu s’entendent borne inférieure comprise et borne supérieure non comprise.",
+      "text_sha256": "3d21c62eb9dcf4e07a8f9565e5e66a61364e2765f5488b0524766e5688ef40ad",
+      "md_span": {
+        "start": 9930,
+        "end": 12341
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2011-05-05-n2:2022-07-01#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tableau d’amortissement relatif à la subvention d’intérêt et à la bonification d’intérêt prévu par l’article 40 respectivement par l’article 48, paragraphe (1), du règlement:\n\n| Montant du solde théorique | Mois |\n| --- | --- |\n| 175 000 | 0 |\n| 165 284 | 24 |\n| 154 972 | 48 |\n| 144 027 | 72 |\n| 132 410 | 96 |\n| 120 080 | 120 |\n| 106 994 | 144 |\n| 93 105 | 168 |\n| 78 364 | 192 |\n| 62 717 | 216 |\n| 46 111 | 240 |\n| 28 486 | 264 |\n| 9 780 | 288 |\n| 0 | 300 |\n\nTableau d’amortissement relatif à la subvention d’intérêt et à la bonification d’intérêt en matière d’investissements visés par l’article 41 respectivement par l’article 48, paragraphe (2), du règlement:\n\n| Montant du solde théorique | Mois |\n| --- | --- |\n| 50 000 | 0 |\n| 46 231 | 24 |\n| 42 230 | 48 |\n| 37 984 | 72 |\n| 33 478 | 96 |\n| 28 695 | 120 |\n| 23 618 | 144 |\n| 18 230 | 168 |\n| 12 512 | 192 |\n| 6 442 | 216 |\n| 0 | 240 |",
+      "text_sha256": "f902d9c16bc7aaaf70f283d8918fa39c11a61a5501808c3540e6776d53dbcd0b",
+      "md_span": {
+        "start": 12382,
+        "end": 13275
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

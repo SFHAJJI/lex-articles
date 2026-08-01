@@ -1,0 +1,81 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-amin-2021-11-22-b4529:2021-11-22",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/11/2021 : Arrêté ministériel du 22 novembre 2021 relatif au plan de gestion Natura 2000 du site «\u00A0Machtum - Pellembierg/Froumbierg/Greivenmaacherbierg\u00A0».",
+  "valid_from": "2021-11-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/http_--data.legilux.public.lu-eli-etat-adm-amin-2021-11-22-b4529/versions/2021-11-22/fr.xml",
+    "sha256": "32eb5596b35556a8206274e472966bbc8d1021f9a65b524fa0d7fe052082e912",
+    "source_uri": "https://legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/consolide/20211122/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-amin-2021-11-22-b4529:2021-11-22#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/art_1er/20211122",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-11-22",
+      "text_md": "Est arrêté le plan de gestion « Machtum - Pellembierg/Froumbierg/Greivenmaacherbierg » concernant la zone spéciale de conservation « Machtum – Pellembierg/Froumbierg/Greivenmaacherbierg », codée LU0001024, qui figure en annexe.",
+      "text_sha256": "720fb2a312eb00c57e76c0c093c18c17ce68fc59a42df6d211215bc3f3f386b3",
+      "md_span": {
+        "start": 716,
+        "end": 943
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-amin-2021-11-22-b4529:2021-11-22#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/art_2/20211122",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-11-22",
+      "text_md": "Le présent arrêté, ainsi que le plan visé à l’article 1er et ses annexes seront publiés au Journal officiel du Grand-Duché de Luxembourg et sur un site électronique installé à cet effet.",
+      "text_sha256": "024b15eb987eca0d8f8f6348fd3f8d388561fc6cd29d3c4843ff1d6fcc379982",
+      "md_span": {
+        "start": 978,
+        "end": 1164
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-amin-2021-11-22-b4529:2021-11-22#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour visualiser les annexes, veuillez consulter la version pdf du Journal officiel.",
+      "text_sha256": "1d4b6f1b3484e4f634ec9881d51b9c62811222edd6d98b08a289b1ee29117d1d",
+      "md_span": {
+        "start": 1206,
+        "end": 1289
+      },
+      "citations": [
+        {
+          "href": "http://data.legilux.public.lu/filestore/eli/etat/adm/amin/2021/11/22/b4529/consolide/20211122/fr/pdf/eli-etat-adm-amin-2021-11-22-b4529-consolide-20211122-fr-pdf.pdf",
+          "text": "version pdf du Journal officiel"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

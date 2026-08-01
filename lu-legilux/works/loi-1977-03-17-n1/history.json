@@ -1,0 +1,49 @@
+{
+  "lex_work_id": "lu-legilux:loi-1977-03-17-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2021-03-22",
+        "valid_to": null,
+        "text_sha256": "474b7ba481fe36a2d0736cfac2ec907433609e9f6848d471b675bd8a18505ea5",
+        "in_version": "lu-legilux:loi-1977-03-17-n1:2021-03-22",
+        "article_valid_from": "2021-03-22"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2021-03-22",
+        "valid_to": null,
+        "text_sha256": "75ea346eb381acdd223e30a587c694b7150698e7f9eb31f51ef76391fb6d52a4",
+        "in_version": "lu-legilux:loi-1977-03-17-n1:2021-03-22",
+        "article_valid_from": "1977-03-21",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2021-03-22",
+        "valid_to": null,
+        "text_sha256": "2739648f0f59569e06d6069d6bdaecbde8e444b53ba2aac4b29efe35c639207c",
+        "in_version": "lu-legilux:loi-1977-03-17-n1:2021-03-22",
+        "article_valid_from": "1977-03-21",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2021-03-22",
+        "valid_to": null,
+        "text_sha256": "e0b579da16eb989e1075144d143fb77e5115fe06d9e1f315d350ed7a89bf26d4",
+        "in_version": "lu-legilux:loi-1977-03-17-n1:2021-03-22",
+        "article_valid_from": "1977-03-21",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

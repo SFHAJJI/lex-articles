@@ -1,0 +1,65 @@
+{
+  "lex_work_id": "lu-legilux:loi-1958-11-17-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "1982-12-07",
+        "valid_to": null,
+        "text_sha256": "f402f5bde524b66dab8d6f1d2d7a0ff5f53f8fe8b2dc60b74f77063e9ad908db",
+        "in_version": "lu-legilux:loi-1958-11-17-n1:1982-12-07",
+        "article_valid_from": "1958-12-08",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1982-12-07",
+        "valid_to": null,
+        "text_sha256": "69355d20fc11408da3a0d245d3f05e6229b85f5e30da806ffd80005e373488aa",
+        "in_version": "lu-legilux:loi-1958-11-17-n1:1982-12-07",
+        "article_valid_from": "1982-12-07"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "1982-12-07",
+        "valid_to": null,
+        "text_sha256": "bfdc427535764417aea4fecd5b93efed796ee832f04066853df0dbc6e769572d",
+        "in_version": "lu-legilux:loi-1958-11-17-n1:1982-12-07",
+        "article_valid_from": "1982-12-07"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "1982-12-07",
+        "valid_to": null,
+        "text_sha256": "a34561f75edf1f58caf80db5fc264fdb342daa92ef2290d6baf375ffdbcdd933",
+        "in_version": "lu-legilux:loi-1958-11-17-n1:1982-12-07",
+        "article_valid_from": "1982-12-07"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "1982-12-07",
+        "valid_to": null,
+        "text_sha256": "dcd9b183907b18af42f5127efe79783ccaabff3b40cacd9d4804297f558585ce",
+        "in_version": "lu-legilux:loi-1958-11-17-n1:1982-12-07",
+        "article_valid_from": "1982-12-07"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "1982-12-07",
+        "valid_to": null,
+        "text_sha256": "bcab6a9d57f3e288d5573a680a76db7557f003f1368f263aee5e7be1c6816301",
+        "in_version": "lu-legilux:loi-1958-11-17-n1:1982-12-07",
+        "article_valid_from": "1982-12-07"
+      }
+    ]
+  },
+  "anchor_events": []
+}

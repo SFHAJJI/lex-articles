@@ -1,0 +1,76 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-09-02-n9:2011-11-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/11/2011 : Règlement grand-ducal du 2 septembre 2011 fixant la période de l'heure légale d'été pour les années 2012, 2013, 2014, 2015 et 2016.",
+  "valid_from": "2011-11-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-09-02-n9/versions/2011-11-15/fr.xml",
+    "sha256": "5a8b9599f35794dea787183a9366c4a9c387d121d1568ffe483b2730a7678071",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9/consolide/20111115/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-09-02-n9:2011-11-15#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9/art_1er/20111115",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-15",
+      "text_md": "Dans les nuits du 24 au 25 mars 2012, du 30 au 31 mars 2013, du 29 au 30 mars 2014, du 28 au 29 mars 2015 et du 26 au 27 mars 2016, à 2h temps local (à 1 htemps universel), le temps sera avancé d'une heure.",
+      "text_sha256": "168ebd3e8257401a5cb7a2e3b63ef837b80e0437c1b1c4350ad0628a66621552",
+      "md_span": {
+        "start": 653,
+        "end": 859
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-09-02-n9:2011-11-15#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9/art_2/20111115",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-15",
+      "text_md": "Dans les nuits du 27 au 28 octobre 2012, du 26 au 27 octobre 2013, du 25 au 26 octobre 2014, du 24 au 25 octobre 2015 et du 29 au 30 octobre 2016, à 3h temps local (à 1h temps universel), le temps sera retardé d'une heure.",
+      "text_sha256": "e027e2f89ff3093b60013ec2bb953e7ff7ddce2be1e81d5ac1544236f5cb697a",
+      "md_span": {
+        "start": 894,
+        "end": 1116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-09-02-n9:2011-11-15#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9/art_3/20111007",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-10-07",
+      "text_md": "Notre Premier Ministre, Ministre d'Etat, est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5c590ff6962447456b899f0cc409b9a15bcd6cc93fb5193cc4b5eb4f2891ffb9",
+      "md_span": {
+        "start": 1151,
+        "end": 1267
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

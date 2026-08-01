@@ -1,0 +1,51 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1999-05-31-n7:2013-09-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/12/2012 : Loi du 31 mai 1999 portant création d'un corps de police grand-ducale et d'une inspection générale de la police et modifiant\n a) le code d'instruction criminelle,\n b) la loi modifiée du 23 juillet 1952 concernant l'organisation militaire,\n c) la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat,d) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat,\n e) la loi modifiée du 16 avril 1979 ayant pour objet la discipline dans la Force publique,\n f) la loi modifiée du 28 mars 1972 concernant\n    1. l'entrée et le séjour des étrangers \n    2. le contrôle médical des étrangers \n    3. l'emploi de la main d'oeuvre étrangère\n g) la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l'Etat,\n h) la loi communale du 13 décembre 1988 telle que modifiée par la suite,\n i) la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d'organisations internationales.",
+  "valid_from": "2013-09-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1999-05-31-n7/versions/2013-09-01/fr.xml",
+    "sha256": "0b4cbf07841e5f868fa5184b3496224e73e29488883266deee30bf27abe0371b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n7/consolide/20130901/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1999-05-31-n7:2013-09-01#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Dans l’exercice de ses missions de police administrative, la Police veille au maintien de l’ordre public, à l’exécution des lois et règlements de police généraux et communaux, à la prévention des infractions et à la protection des personnes et des biens.\n\n*(Loi du 30 juillet 2013)*\n\n«A cet effet, elle assure une surveillance générale et des contrôles dans les lieux qui lui sont légalement accessibles, exerce les attributions définies par les articles I à III de la loi modifiée du 8 septembre 2003 sur la violence domestique, exécute des mesures de police administrative et prend des mesures matérielles de police administrative de sa compétence.»",
+      "text_sha256": "4db32b5318bec49c540716925e78564a3b3c49f76b1a1234d763915f657cb669",
+      "md_span": {
+        "start": 1653,
+        "end": 2304
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2013/07/30/n1/jo",
+          "text": "Loi du 30 juillet 2013"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/09/08/n1/jo",
+          "text": "loi modifiée du 8 septembre 2003"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

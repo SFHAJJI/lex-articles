@@ -1,0 +1,39 @@
+{
+  "lex_work_id": "lu-legilux:loi-2023-06-28-a333",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2026-06-29",
+        "valid_to": null,
+        "text_sha256": "63238bef01691da84bc749f48a9332bf10651e811b12acbc197b1041cc698c75",
+        "in_version": "lu-legilux:loi-2023-06-28-a333:2026-06-29",
+        "article_valid_from": "2026-06-29"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2026-06-29",
+        "valid_to": null,
+        "text_sha256": "46370d7d74715f1c0d9336dab24f118e0ec1cbd5bd93810fa59662e11de7e0ad",
+        "in_version": "lu-legilux:loi-2023-06-28-a333:2026-06-29",
+        "article_valid_from": "2023-06-29",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2026-06-29",
+        "valid_to": null,
+        "text_sha256": "3c981a9fefbd2c13e983f8a7b8097853247eff1564d698ac6e8e3078a0979896",
+        "in_version": "lu-legilux:loi-2023-06-28-a333:2026-06-29",
+        "article_valid_from": "2023-06-29",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

@@ -1,0 +1,68 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2020-06-20-a517:2020-12-22",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/12/2020 : Loi du 20 juin 2020 portant dérogation à l’article 3, paragraphe 5, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil.",
+  "valid_from": "2020-12-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2020-06-20-a517/versions/2020-12-22/fr.xml",
+    "sha256": "b0b25c54f1bd1e8f0107e9130dd88dad45a3209551d366fa5d0faa8acdb46422",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a517/consolide/20201222/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2020-06-20-a517:2020-12-22#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a517/art_1er/20201222",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-22",
+      "text_md": "Par dérogation à l’article 3, paragraphe 5, de la loi modifiée du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil, toute adaptation du loyer dans le sens d’une augmentation du loyer d’un logement à usage d’habitation visée au prédit article 3 est interdite jusqu’au 30 juin 2021.",
+      "text_sha256": "a1dcad9961262082930839e75b25fcaacb8a263d99ad4f330fbebdd7739e708f",
+      "md_span": {
+        "start": 717,
+        "end": 1049
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/09/21/n1/jo",
+          "text": "loi modifiée du 21 septembre 2006"
+        },
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2020-06-20-a517:2020-12-22#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a517/art_2/20200625",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "La présente loi entre en vigueur le jour après celui qui suit sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "1ecbdc23cf3a3fd13335f6138b22d02072472c6cf60ff8a92f754b11a426f929",
+      "md_span": {
+        "start": 1084,
+        "end": 1210
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

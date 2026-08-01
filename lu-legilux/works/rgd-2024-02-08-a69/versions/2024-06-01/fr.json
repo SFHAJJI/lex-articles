@@ -1,0 +1,358 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 01/06/2024 : Règlement grand-ducal du 8 février 2024 modifiant :\\n1° le règlement grand-ducal modifié du 10 mai 2012 portant nouvelles nomenclature et classification des établissements classés ;\\n2° le règlement grand-ducal du 26 juillet 1999 fixant les prescriptions générales pour les établissements du secteur agricole qui relèvent de la classe 4 en matière d’établissements classés ;\\n3° le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz ;\\n4° le règlement grand-ducal du 30 décembre 2010 concernant les aspects techniques du programme directeur de gestion des risques d’inondation ;\\n5° le règlement grand-ducal modifié du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés ;\\n6° le règlement grand-ducal modifié du 21 décembre 2018 concernant une réduction de la teneur en soufre de certains combustibles liquides ;\\n7° le règlement grand-ducal modifié du 9 juin 2021 concernant la performance énergétique des bâtiments fonctionnels.\\n",
+  "valid_from": "2024-06-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2024-02-08-a69/versions/2024-06-01/fr.xml",
+    "sha256": "2a9af6f482cc99bcbf0c7a8d882532ee4af1510fef6b23cf4a5175826b997fd1",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/consolide/20240601/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_1er/20240601",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Modification du règlement grand-ducal modifié du 10 mai 2012 portant nouvelles nomenclature et classification des établissements classés"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "À l’annexe du règlement grand-ducal modifiée du 10 mai 2012 portant nouvelles nomenclature et classification des établissements classés sont apportées les modifications suivantes :\n\n1. DECH E. ind.\n2. d’une capacité de consommation de solvant de plus de 30 t par an\n3. Déjections animales et digestat, à l’exception de ceux faisant partie intégrante d’un établissement relevant du point 050704 ou du point 500204 et servant à la biométhanisation\n4. Silos à fourrages verts ou pour plantes énergétiques, y compris les balles à fourrages, à l’exception de ceux faisant partie intégrante d’un établissement relevant du point 050704 ou du point 500204 et servant à la biométhanisation\n5. Production et transformation de produits organiques\n6. | « 030102 | Alcools (Boissons contenant de l’alcool), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | Brasseries |  |  |  |  |  |  |  |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 400 l | 3 |  |  |  | x |  |\n|  | 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  |  | 01 | supérieure à 400 l et inférieure ou égale à 2.000 l | 3 |  |  |  | x |\n|  |  | 02 | supérieure à 2.000 l | 1 |  |  |  | x |\n| 02 | Distillation |  |  |  |  |  |  |  |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production annuelle est supérieure à 400 l | 3 |  |  |  | x |  |\n|  | 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production annuelle est |  |  |  |  |  |  |\n|  |  | 01 | supérieure à 400 l et inférieure ou égale à 4.000 l | 3 |  |  |  | x |\n|  |  | 02 | supérieure à 4.000 l | 1 |  |  |  | x |\n| 03 | Vins (production, préparation ou conditionnement) lorsque la capacité de production annuelle est supérieure à 200 m3 par an |  |  |  |  |  |  |  |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés | 3 |  |  |  |  |  |\n|  | 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés | 1 |  |  |  |  |  |\n| 04 | Fabrication de cidre et d’autres vins de fruits |  |  |  |  |  |  |  |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 400 l | 3 |  |  |  | x |  |\n|  | 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  |  | 01 | supérieure à 400 l et inférieure ou égale à 2.000 l | 3 |  |  |  | x |\n|  |  | 02 | supérieure à 2.000 l | 1 |  |  |  | x |\n| 05 | Fabrication de liqueur et d’autres boissons fermentées |  |  |  |  |  |  |  |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 400 l | 3 |  |  |  |  |  |\n|  | 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  |  | 01 | supérieure à 400 l et inférieure ou égale à 2.000 l | 3 |  |  |  |  |\n|  |  | 02 | supérieure à 2.000 l | 1 |  |  |  | X » |\n7. | « 030103 | Alimentation : Traitement et transformation*, à l’exclusion du seul conditionnement (voir 030111) des matières premières ci-après, qu’elles aient été ou non préalablement transformées, en vue de la fabrication de produits alimentaires ou d’aliments pour animaux issus : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | uniquement de matières premières animales (autres que le lait exclusivement), avec une capacité de production supérieure à 75 tonnes de produits finis par jour | 1 |  | 6.4.b.i |  | x |  |\n| 02 | uniquement de matières premières végétales, avec une capacité de production supérieure à 300 tonnes de produits finis par jour ou 600 tonnes par jour lorsque l’installation fonctionne pendant une durée maximale de 90 jours consécutifs en un an | 1 |  | 6.4.b.ii |  | x |  |\n|  | 03 | matières premières animales et végétales, aussi bien en produits combinés qu’en produits séparés, avec une capacité de production, exprimée en tonnes de produits finis par jour, supérieure à : 75 si A est égal ou supérieur à 10, ou[300- (22,5 × A)] dans tous les autres casoù « A » est la proportion de matière animale (en pourcentage de poids) dans la quantité entrant dans le calcul de la capacité de production de produits finis. | 1 |  | 6.4.b.iii |  | x |\n|  | *L’emballage n’est pas compris dans le poids final du produit.Ce point ne s’applique pas si la seule matière première animale est le lait, dans ce cas le point 030118 est d’application. |  |  |  |  | » |  |\n8. | « 030104 | Amidon et fécule (fabrication de), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  |  |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés, lorsque la capacité de production journalière est | 1 |  |  |  | x |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  |  |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | X » |\n9. | « 030105 | Boissons (Fabrication de toutes boissons sauf celles contenant de l’alcool), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 400 l | 3 |  |  |  | x |  |\n| 02 |  | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés, lorsque la capacité de production journalière est |  |  |  |  |  |\n|  | 01 | supérieure à 400 l et inférieure ou égale à 2.000 l | 3 |  |  |  | x |\n|  | 02 | supérieure à 2.000 l | 1 |  |  |  | X » |\n10. | « 030106 | Boucheries et charcuteries (préparation ou conservation par découpage, cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, salage, séchage, saurage et fumage de produits à base de viandes), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  | x |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 500 kg | 3B |  |  |  |  |\n|  | 02 | supérieure à 500 kg | 3 |  |  |  |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 500 kg | 3B |  |  |  |  |\n|  | 02 | supérieure à 500 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 03 | supérieure à 2 t | 1 |  |  |  | X » |\n11. | « 030107 | Boulangeries et pâtisseries (Fabrication de produits de)*, à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 500 kg | 3 |  |  |  | x |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 500 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x |\n|  | * Les points de vente qui ne font que cuire les produits semi-finis ne sont pas visés par ce point. |  |  |  |  | » |  |\n12. | « 030108 | Broyage, mouture, concassage, criblage, déchiquetage, ensachage, pulvérisation, trituration, tamisage de matières végétales, à l’exception des produits visés au point 030103, des activités visées au point 030129 et des établissements opérant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  |  |  |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |  |\n|  |  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  |  |\n|  |  | 02 | supérieure à 2 t | 1 |  |  |  | » |\n13. | « 030109 | Chocolateries et confiseries (Fabrication de produits de), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  | x |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n14. Le point 030110 est modifié comme suit : | « 030110 | Cigares, cigarettes et tabac (manufactures de), à l’exception des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 50 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 50 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n15. | « 030111 | Conserveries de produits animaux et végétaux, à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  | x |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | X » |\n16. | « 030112 | Extraits alimentaires (Fabrication d’), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  | x |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | X » |\n17. | « 030114 | Fumoirs, à l’exception de ceux visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 100 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 100 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | X » |\n18. | « 030115 | Graines (Traitement en grand des) à l’aide d’appareils mécaniques, à l’exception des établissements visés au point 030103, des activités visées au point 030108 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | X » |\n19. Le point 030116 est supprimé.\n20. | « 030117 | Corps gras d’origine animale ou végétale (fabrication de), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 50 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 50 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n21. | « 030118 | Lait : Traitement et transformation du lait exclusivement, la quantité journalière de lait reçue étant : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | pour des établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés |  |  |  |  |  |\n|  | 01 | supérieure à 200 kg et inférieure ou égale à 200 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 200 t | 1 |  | 6.4.c |  | x |\n| 02 | pour des établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés, à l’exception des établissements produisant pendant un maximum de 10 journées par an |  |  |  |  |  |  |\n|  | 01 | supérieure à 200 kg et inférieure ou égale à 10 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 10 t et inférieure ou égale à 200 t | 1 |  |  |  | x |\n|  | 03 | supérieure à 200 t (valeur moyenne sur une base annuelle) | 1 |  | 6.4.c |  | x » |\n22. | « 030119 | Levure (Fabrication de), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n23. | « 030120 | Malteries, à l’exception de celles visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n24. | « 030121 | Margarine (Fabrication de) , à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 50 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 50 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n25. | « 030122 | Poisson (Fabrication de la farine ou d’huile de), à l’exception des produits visés au point 030103 : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n26. | « 030123 | Poissonneries (préparation ou conservation par découpage, cuisson, appertisation, surgélation, congélation, lyophilisation, déshydratation, salage, séchage, saurage et fumage de produits à base de poissons), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 100 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 100 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n27. | « 030124 | Sucre et sirop de glucose (fabrication du), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n28. Le point 030125 est supprimé\n29. | « 030126 | Torréfaction (du café, de la chicorée et de produits similaires), à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est supérieure à 100 kg | 3 |  |  |  | x |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 100 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n30. | « 030127 | Vinaigre (Fabrication de) à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés | 3 |  |  |  | x |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production est journalière |  |  |  |  |  |  |\n|  | 01 | supérieure à 400 l et inférieure ou égale à 2.000 l | 3 |  |  |  | x |\n|  | 02 | supérieure à 2.000 l | 1 |  |  |  | x » |\n31. | « 030128 | Fabrication d’aliments non spécifiée ailleurs, à l’exception des produits visés au point 030103 et des établissements produisant pendant un maximum de 10 journées par an : |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | établissements se situant dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés la capacité de production journalière est supérieure à 250 kg | 3 |  |  |  | x |  |\n| 02 | établissements ne se situant pas dans une zone d’activités autorisée au titre de la loi modifiée du 10 juin 1999 relative aux établissements classés lorsque la capacité de production journalière est |  |  |  |  |  |  |\n|  | 01 | supérieure à 250 kg et inférieure ou égale à 2 t | 3 |  |  |  | x |\n|  | 02 | supérieure à 2 t | 1 |  |  |  | x » |\n32. | « 030129 | Broyage, mouture, criblage, déchiquetage, pulvérisation, tamisage et opérations analogues de matières végétales issues de travaux ponctuels temporaires, à l’exception des sites d’exploitation permanents visés aux points 030103 et 030108 et des opérations courantes liées à la moisson et des activités domestiques |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | d’une durée inférieure ou égale à 6 mois | 4 |  |  |  |  |  |\n| 02 | d’une durée supérieure à 6 mois |  |  |  |  |  |  |\n|  | 01 | situés à une distance supérieure à 100 m des propriétés dans lesquelles séjournent des personnes, soit de façon continue, soit à des intervalles réguliers | 3 |  |  |  |  |\n|  | 02 | Autres | 1 |  |  |  |  |\n| La durée est déterminée par la période entre le premier et le dernier jour de l’activité ici visée. |  |  |  |  | » |  |  |\n33. | « 040505 | Broyage, concassage, criblage, pulvérisation, tamisage et opérations analogues de produits minéraux issues de travaux ponctuels temporaires, à l’exception des sites permanents visés sous 040519, |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | d’une durée inférieure ou égale à 6 mois | 4 |  |  |  |  |  |\n| 02 | d’une durée supérieure à 6 mois |  |  |  |  |  |  |\n|  | 01 | situés à une distance supérieure à 100 m des propriétés dans lesquelles séjournent des personnes, soit de façon continue, soit à des intervalles réguliers | 3 |  |  |  |  |\n|  | 02 | autres | 1 |  |  |  |  |\n| La durée est déterminée par la période entre le premier et le dernier jour de l’activité ici visée. |  |  |  |  | » |  |  |\n34. | « 040519 | Broyage, concassage, criblage, pulvérisation, tamisage et opérations analogues de produits minéraux sur des sites permanents avec une capacité |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | inférieure ou égale à 100 t par jour | 4 |  |  |  |  |\n|  | 02 | supérieure à 100 t et inférieure ou égale à 1.000 t par jour | 3 |  |  |  |  |\n|  | 03 | supérieure à 1.000 t par jour | 1 |  |  |  | x » |\n35. Le point 040520 devient le point 040521. »\n36. | « 040523 | Stockage de produits minéraux à dimension granulaire inférieure ou égale à 2 mm ou composés e.a. de particules de cette dimension, à l’exception de stockages conditionnés et de stockages à l’abri d’intempéries |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  | 01 | supérieure à 50 m3 et inférieure ou égale à 1.500 m3 | 4 |  |  |  |  |\n|  | 02 | supérieure à 1.500 m3 | 3B |  |  |  | » |\n37. 1. iii\n2. (stockage temporaire)\n38. iii\n39. iii\n40. | « 050204 | Broyage, concassage, criblage, pulvérisation, tamisage et opérations analogues de déchets minéraux de construction et d’excavation dangereux issus de travaux ponctuels temporaires d’une capacité inférieure ou égale à 10 t par jour, à l’exception des sites permanents visés sous 050206, |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | d’une durée inférieure ou égale à 6 mois | 4 |  |  |  |  |  |\n| 02 | d’une durée supérieure à 6 mois |  |  |  |  |  |  |\n|  | 01 | situés à une distance supérieure à 100 m des propriétés dans lesquelles séjournent des personnes, soit de façon continue, soit à des intervalles réguliers | 3 |  |  |  |  |\n|  | 02 | autres | 1 |  |  |  |  |\n| La durée est déterminée par la période entre le premier et le dernier jour de l’activité ici visée. |  |  |  |  | » |  |  |\n41. | « 050205 | Broyage, concassage, criblage, pulvérisation, tamisage et opérations analogues de déchets minéraux de construction et d’excavation dangereux issus de travaux ponctuels temporaires d’une capacité supérieure 10 t par jour à l’exception des sites permanents visés sous 050206 | 1 |  | 5.1.f |  | » |\n| --- | --- | --- | --- | --- | --- | --- |\n42. | « 050206 | Broyage, concassage, criblage, pulvérisation, tamisage et opérations analogues de déchets minéraux de construction et d’excavation dangereux sur des sites permanents avec une capacité |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 | inférieure ou égale à 10 t par jour | 3 |  |  |  |  |\n| 02 | supérieure à 10 t par jour | 1 |  | 5.1.f |  | » |\n43. | « 050304 | Prétraitement non spécifié à un autre point, en vue d’une opération de valorisation par incinération ou coïncinération, avec une capacité |  |  |  | R12 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 | inférieure ou égale à 10 t par jour | 4 |  |  |  |  |\n| 02 | supérieure à 10 t et inférieure ou égale à 75 t par jour | 3 |  |  |  |  |\n| 03 | supérieure à 75 t par jour | 1 |  | 5.3b.iii |  | x » |\n44. | « 050305 | Prétraitement non spécifié à un autre point, en vue d’une opération d’élimination par incinération ou coïncinération, avec une capacité |  |  |  | D14 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 | inférieure ou égale à 10 t par jour | 4 |  |  |  |  |\n| 02 | supérieure à 10 t et inférieure ou égale à 50 t par jour | 3 |  |  |  |  |\n| 03 | supérieure à 50 t par jour | 1 |  | 5.3a.iii |  | x » |\n45. | « 050308 | Traitement en vue d’une opération de valorisation du laitier et de cendres, avec une capacité |  |  |  | R12 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 | inférieure ou égale à 15 t par jour, à l’exception des activités visées aux points 050312 et 050313 | 4 |  |  |  |  |\n| 02 | supérieure à 15 t et inférieure ou égale à 75 t par jour, à l’exception des activités visées aux points 050312 et 050313 | 3 |  |  |  |  |\n| 03 | supérieure à 75 t par jour | 1 |  | 5.3.b.iii |  | x » |\n46. | « 050309 | Traitement en vue d’une opération d’élimination du laitier et de cendres avec une capacité |  |  |  | D13 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 | inférieure ou égale à 15 t par jour, à l’exception des activités visées aux points 050312 et 050313 | 4 |  |  |  |  |\n| 02 | supérieure à 15 t et inférieure ou égale à 50 t par jour, à l’exception des activités visées aux points 050312 et 050313 | 3 |  |  |  |  |\n| 03 | supérieure à 50 t par jour | 1 |  | 5.3.aiv |  | x » |\n47. | « 050310 | Broyage, mouture, criblage, déchiquetage, pulvérisation, tamisage et opérations analogues de déchets végétaux issus de travaux ponctuels temporaires, à l’exception des activités visées sous 050304 et 050305 et des activités domestiques |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | d’une durée inférieure ou égale à 6 mois | 4 |  |  |  |  |  |\n| 02 | d’une durée supérieure à 6 mois |  |  |  |  |  |  |\n|  | 01 | situés à une distance supérieure à 100 m des propriétés dans lesquelles séjournent des personnes, soit de façon continue, soit à des intervalles réguliers | 3 |  |  |  |  |\n|  | 02 | autres | 1 |  |  |  |  |\n| La durée est déterminée par la période entre le premier et le dernier jour de l’activité ici visée. |  |  |  |  | » |  |  |\n48. | « 050311 | Broyage, concassage, criblage, pulvérisation, tamisage et opérations analogues de déchets végétaux sur des sites permanents, à l’exception des activités visées aux points 050304 et 050305, avec une capacité |  |  |  | D14 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 | inférieure ou égale à 100 t par jour | 4 |  |  |  |  |\n| 02 | supérieure à 100 t et inférieure ou égale à 1.000 t par jour | 3 |  |  |  |  |\n| 03 | supérieure à 1.000 t par jour | 1 |  |  |  | x » |\n49. | « 050312 | Broyage, concassage, criblage, pulvérisation, tamisage et opérations analogues de déchets minéraux de construction et d’excavation issus de travaux ponctuels temporaires, à l’exception des activités visées aux points 050308 03 et 050309 03 et à l’exception des sites permanents visés sous 050313 |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| 01 | d’une durée inférieure ou égale à 6 mois | 4 |  |  |  |  |  |\n| 02 | d’une durée supérieure à 6 mois |  |  |  |  |  |  |\n|  | 01 | situés à une distance supérieure à 100 m des propriétés dans lesquelles séjournent des personnes, soit de façon continue, soit à des intervalles réguliers | 3 |  |  |  |  |\n|  | 02 | autres | 1 |  |  |  |  |\n| La durée est déterminée par la période entre le premier et le dernier jour de l’activité ici visée. |  |  |  |  | » |  |  |\n50. | « 050313 | Broyage, concassage, criblage, pulvérisation, tamisage et opérations analogues de déchets minéraux de construction et d’excavation sur des sites permanents, à l’exception des activités visées aux points 050308 03 et 050309 03, avec une capacité |  |  |  | D14 |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 | inférieure ou égale à 100 t par jour | 4 |  |  |  |  |\n| 02 | supérieure à 100 t et inférieure ou égale à 1.000 t par jour | 3 |  |  |  |  |\n| 03 | supérieure à 1.000 t par jour | 1 |  |  |  | x » |\n51. Le point 050702 est supprimé.\n52. supérieure à 15 t et inférieure ou égale à 75 t par jour\n53. Le point 050707 est supprimé.\n54. | « 060205 | Immeubles à caractère hospitalier, social, familial ou thérapeutique : |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 | Cliniques et hôpitaux | 1 |  |  |  |  |\n| 02 | Centres intégrés pour personnes âgées (CIPA), maisons de soins ou autres établissements de ce genre | 3 |  |  |  | x |\n| 03 | Structures d’accueil de nuit telles que définies dans le cadre de la législation réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique, à partir d’une capacité d’hébergement de 12 personnes, non repris à un autre point | 3A |  |  |  | x |\n| 04 | Centres neuropsychiatriques, sanatoriums, centresde réhabilitation | 1 |  |  |  | x |\n| 05 | Centres psycho-gériatriques pour personnes âgées tels que définis dans le cadre de la législation réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique | 3A |  |  |  |  |\n| 06 | Services d’activités de jour pour personnes en situation de handicap tels que définis dans le cadre de la législation réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique | 3A |  |  |  | » |\n55. | « 060208 | Crèches – structures d’éducation et d’accueil des enfants en bas âge et des enfants scolarisés (à l’exception des mini-crèches telles que définies dans le règlement grand-ducal du 19 octobre 2018 concernant l’agrément à accorder aux gestionnaires des mini-crèches) | 3A |  |  |  | » |\n| --- | --- | --- | --- | --- | --- | --- |\n56. | « 060305 | Structures d’hébergement réservées au logement provisoire de demandeurs de protection internationale (DPI) et d’autres ressortissants de pays tiers pris en charge par l’Office national de l’accueil (ONA) ou par toute autre entité, à partir d’une capacité d’hébergement de 12 personnes | 3A |  |  |  | » |\n| --- | --- | --- | --- | --- | --- | --- |\n57. 1. Biogaz : installations de production de biogaz, y inclus le stockage des substrats sur le site même, avec une capacité de traitement biologique de substrats\n2. EtRi x\n58. supérieure à 1 t et inférieure ou égale à 15 t par jour",
+      "text_sha256": "4137424c5b526843cc81f7ecd4ebc9af4904e0498682eba43a0fbe2212a39e9f",
+      "md_span": {
+        "start": 1694,
+        "end": 37917
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/05/10/n2/jo",
+          "text": "règlement grand-ducal modifiée du 10 mai 2012"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/06/10/n5/jo",
+          "text": "loi modifiée du 10 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2018/10/19/a984/jo",
+          "text": "règlement grand-ducal du 19 octobre 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_2/20240601",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Modification du règlement grand-ducal du 26 juillet 1999 fixant les prescriptions générales pour les établissements du secteur agricole qui relèvent de la classe 4 en matière d’établissements classés"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "À l’article 4 du règlement grand-ducal du 26 juillet 1999 fixant les prescriptions générales pour les établissements du secteur agricole qui relèvent de la classe 4 en matière d’établissements classés, le titre du point A est remplacé comme suit : *A. Conditions concernant les écuries, les dépôts de fumier ainsi que les réservoirs à purin et/ou lisier*.",
+      "text_sha256": "e3cded109df43236d95dcd127aeb6734c59d271bda3d2455e285f12a18545cb1",
+      "md_span": {
+        "start": 38169,
+        "end": 38524
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1999/07/26/n1/jo",
+          "text": "règlement grand-ducal du 26 juillet 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_3/20240601",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Modification du règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "À l’article 8, paragraphe 2, du règlement grand-ducal modifiée du 27 février 2010 concernant les installations à gaz sont apportées les modifications suivantes :\n\n1. loi modifiée du 10 juin 1999 sauf en ce qui concerne les dispositions de l’article 7 ;\n2. -aux installations de cogénération qui ont une puissance électrique supérieure à 100 kW\n3. - aux installations destinées à la production de vapeur ou de chauffage de fluides caloporteurs autres que l’eau ;",
+      "text_sha256": "55c1bfaf630de52574403b229ed08d8e4bcdea1fbce9c7ff7036b1ff2bf80c79",
+      "md_span": {
+        "start": 38676,
+        "end": 39137
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2010/02/27/n2/jo",
+          "text": "règlement grand-ducal modifiée du 27 février 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_4/20240601",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Modification du règlement grand-ducal modifié du 9 juin 2021 concernant la performance énergétique des bâtiments fonctionnels"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "À l’article 15, paragraphe 2, point 3, les termes ou d’établissements classés sont supprimés ;",
+      "text_sha256": "439e9a9bb6380d3fa73adc28f8c3139f66317cc27e33c36e0df2b5b10f7c8820",
+      "md_span": {
+        "start": 39315,
+        "end": 39409
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_5/20240601",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Modification du règlement grand-ducal modifié du 9 juin 2021 concernant la performance énergétique des bâtiments fonctionnels"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "À l’article 22 du règlement grand-ducal modifié du 9 juin 2021 concernant la performance énergétique des bâtiments fonctionnels sont apportés les modifications suivantes :\n\n1. er\n2. Le paragraphe 2 est abrogé.",
+      "text_sha256": "fedce82466b630f491e98438a8ed2faa0e203b0a8780b783b2acff3ad50615a7",
+      "md_span": {
+        "start": 39444,
+        "end": 39653
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2021/06/09/a439/jo",
+          "text": "règlement grand-ducal modifié du 9 juin 2021"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_6/20240601",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Modification du règlement grand-ducal du 30 décembre 2010 concernant les aspects techniques du programme directeur de gestion des risques d’inondation"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "L’article 3, lettre c), du règlement grand-ducal du 30 décembre 2010 concernant les aspects techniques du programme directeur de gestion des risques d’inondation est remplacée comme suit : *c)* *les installations visées à l’annexe I de la loi modifiée du 9 mai 2014 relative aux émissions industrielles*.",
+      "text_sha256": "aa5d628ca7dfaeabcf0cfe5703e52d041815480cb39cf6d1098575d301cbecc9",
+      "md_span": {
+        "start": 39856,
+        "end": 40160
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2010/12/30/n8/jo",
+          "text": "règlement grand-ducal du 30 décembre 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/05/09/n1/jo",
+          "text": "loi modifiée du 9 mai 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_7/20240601",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Modification du règlement grand-ducal modifié du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "L’article 1er, paragraphe 2, du règlement grand-ducal modifié du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés est abrogé.",
+      "text_sha256": "8b30b5866b51ec6afa62bc25b6b51ff96b38ad68e8add90483637345b4e1bda8",
+      "md_span": {
+        "start": 40362,
+        "end": 40539
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/09/13/n5/jo",
+          "text": "règlement grand-ducal modifié du 13 septembre 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_8/20240601",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Modification du règlement grand-ducal modifié du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "L’article 2, paragraphe 2, du même règlement, est abrogé.",
+      "text_sha256": "76846dd7b2648917e1ff0783d0756b03935e4e4263c862fdaa5bb71907ebbe61",
+      "md_span": {
+        "start": 40574,
+        "end": 40631
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/09/13/n5/jo",
+          "text": "même règlement"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_9/20240601",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Modification du règlement grand-ducal modifié du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "L’article 3, paragraphe 2, du même règlement, est abrogé.",
+      "text_sha256": "d8054e717635c9e04489cb8c05501e0eee199bd4e0f8c31d2795bc393338be3f",
+      "md_span": {
+        "start": 40666,
+        "end": 40723
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/09/13/n5/jo",
+          "text": "même règlement"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_10/20240601",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Modification du règlement grand-ducal modifié du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "L’article 4 du même règlement est abrogé.",
+      "text_sha256": "3e0660731a7a182826e66dbf544cfc0ae91a0ade560f24c943d3668dad1c2d79",
+      "md_span": {
+        "start": 40760,
+        "end": 40801
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/09/13/n5/jo",
+          "text": "même règlement"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_11/20240601",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Modification du règlement grand-ducal du 15 mai 2018 établissant les listes de projets soumis à une évaluation des incidences sur l’environnement"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "À l’annexe I du règlement grand-ducal du 15 mai 2018 établissant les listes de projets soumis à une évaluation des incidences sur l’environnement sont apportées les modifications suivantes :\n\n1. Élimination des déchets par incinération ou par coïncinération Élimination ou valorisation des déchets par incinération ou par coïncinération\n2. Élimination ou valorisation de déchets non dangereux dans des installations d’incinération ou de coïncinération avec une capacité de plus de 100 t par jour\n3. bis | 28*bis* | Élimination ou valorisation de déchets dangereux |\n| --- | --- |",
+      "text_sha256": "c04c3e5244bf4f4e08ab26b818aad97c24918ed4b6634892cff7860df8011af0",
+      "md_span": {
+        "start": 41001,
+        "end": 41580
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/05/15/a399/jo",
+          "text": "règlement grand-ducal du 15 mai 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_12/20240601",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 8 — Modification du règlement grand-ducal du 21 décembre 2018 concernant une réduction de la teneur en soufre de certains combustibles liquides"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "Au règlement grand-ducal du 21 décembre 2018 concernant une réduction de la teneur en soufre de certains combustibles liquides, le dernier alinéa de l’article 3, paragraphe 2, alinéa 2, est supprimé.",
+      "text_sha256": "23808e469ffad8b350249be9402a97ecc0560c4d85fee8b14ff65ebc690b1072",
+      "md_span": {
+        "start": 41774,
+        "end": 41973
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/12/21/a17/jo",
+          "text": "règlement grand-ducal du 21 décembre 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_13/20240601",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions finales"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur le premier jour du quatrième mois suivant sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "10691d6560a618cd4fc423eaf3e5fd32812d8918f1abe2037e9f111c057a8e98",
+      "md_span": {
+        "start": 42048,
+        "end": 42204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2024-02-08-a69:2024-06-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/art_14/20240601",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — Dispositions finales"
+      ],
+      "article_valid_from": "2024-06-01",
+      "text_md": "Le ministre ayant l’Environnement dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "f3fa7872fda6b35adad01c4667fd24bab54d3a20f6b908fc05eb92e7ed996775",
+      "md_span": {
+        "start": 42241,
+        "end": 42409
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

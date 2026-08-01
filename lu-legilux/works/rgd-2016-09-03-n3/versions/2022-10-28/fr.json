@@ -1,0 +1,188 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/11/2025 : Règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.",
+  "valid_from": "2022-10-28",
+  "valid_to": "2023-11-23",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2016-09-03-n3/versions/2022-10-28/fr.xml",
+    "sha256": "c8e6a0abf808bb15476967c9f2b4956d05f66e3b26c61ebf6faded0903c99b22",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/consolide/20221028/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_1er/20160913",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-13",
+      "text_md": "Les variétés des espèces de plantes agricoles inscrites à la liste nationale et admises à la certification des semences ou plants sont celles reprises à l'annexe I du présent règlement.\n\nLe responsable de la sélection conservatrice est indiqué à l'annexe I, en regard de la dénomination variétale, par un numéro d'ordre; les nom et adresse figurant à l'annexe II.",
+      "text_sha256": "0cf26239498b60d0f1ec3996b827ba46110392006377bf935f908583c8bf95da",
+      "md_span": {
+        "start": 642,
+        "end": 1005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_2/20160913",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-13",
+      "text_md": "En dehors des variétés visées à l'annexe I, peuvent également être certifiées:\n\n1. les semences ou plants des variétés cultivées exclusivement à des fins d'expérimentation;\n2. les semences des variétés appartenant aux espèces relevées à l'annexe III du présent règlement.\n\nDans ce dernier cas, les conditions suivantes doivent toutefois être remplies:\n\n1. règlement grand-ducal modifié du 5 juillet 2004\n2. - soit, sous contrat de multiplication conclu entre un établissement de semences ou un obtenteur, d'une part, et un agriculteur-multiplicateur de semences, d'autre part,\n- soit directement par un établissement de semences ou un obtenteur.\n3. er",
+      "text_sha256": "d9f3410a227a549812928e9805e7a44151077030e91f6d91e8ab16a0765defca",
+      "md_span": {
+        "start": 1040,
+        "end": 1691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_3/20160913",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-13",
+      "text_md": "Les infractions aux dispositions du présent règlement sont punies conformément aux dispositions de l'article 16 de la loi du 18 mars 2008 portant réglementation du commerce des semences et plants.",
+      "text_sha256": "242d36f61de8b5de83315fabd750bc7c83ba1772e53efe16757f8e2428dd8edf",
+      "md_span": {
+        "start": 1726,
+        "end": 1922
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/03/18/n1/jo",
+          "text": "loi du 18 mars 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_4/20160913",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-13",
+      "text_md": "Les annexes font partie intégrante du présent règlement.",
+      "text_sha256": "2f5c067d0a700a8a938d8e01595a898563533cda715d764265409d089a4b27de",
+      "md_span": {
+        "start": 1957,
+        "end": 2013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_5/20160913",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-09-13",
+      "text_md": "Le règlement grand-ducal du 26 novembre 2015 fixant la liste nationale des variétés des espèces de plantes agricoles est abrogé.",
+      "text_sha256": "1c5152f4c69539d5be8c2fc553cb9b26554b88cf063d8814e4c50098e76dd4f2",
+      "md_span": {
+        "start": 2048,
+        "end": 2176
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2015/11/26/n1",
+          "text": "règlement grand-ducal du 26 novembre 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_6/20160913",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-10-28",
+      "text_md": "Notre Ministre de l'Agriculture, de la Viticulture et de la Protection des consommateurs, Notre Ministre de l'Economie et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "a0dbe043ec30ee86e67b63640a7972d5c965ed9a74f6597c595ec4f2659244af",
+      "md_span": {
+        "start": 2211,
+        "end": 2470
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "|  | N° de référence du responsablede la sélection conservatrice(voir annexe II) |\n| --- | --- |\n\nA. CÉRÉALES\n\n1. **Blé tendre **(Triticum aestivum L.)- Blé d’hiver\n\n| Apostel** | 6054 |\n| --- | --- |\n| Asory | 6049 |\n| Axioma | 6049 |\n| Barranco | 6049 |\n| Bernstein | 6056 |\n| Boss** | 12023 |\n| Campesino | 12023 |\n| Chevalier** | 6007 |\n| Chevignon** | 12040 |\n| Colonia | 6043 |\n| Desamo** | 6031 |\n| Elixer** | 6005 |\n| Filon | 12010 |\n| Foxx** | 6046 |\n| Genius ** | 6017 |\n| Govelino | 6063 |\n| Gordian ** | 6031 |\n| Informer | 6006 |\n| Johnny ** | 12023 |\n| Julius ** | 6044 |\n| Kerubino | 6048 |\n| Komponist** | 6049/12023 |\n| KWS Extase** | 12017 |\n| KWS Keitum | 6044 |\n| KWS Talent ** | 6044 |\n| LG Mocca ** | 6015 |\n| Messino ** | 1006 |\n| Moschus ** | 6065 |\n| Nordkap | 6017 |\n| Patras ** | 6039 |\n| Pionier | 6007 |\n| Ponticus | 6030 |\n| RGT Reform | 12022 |\n| Rubisko ** | 12008 |\n| Safari | 6011 |\n| Sheriff ** | 6066 |\n| Skagen** | 6005 |\n| Spontan** | 6049 |\n| SU Ecusson** | 12040 |\n\n- Blé de printemps\n\n| Cornetto ** | 12023 |\n| --- | --- |\n| KWS Mistral | 6044 |\n| KWS Sharki | 6044 |\n| KWS Starlight** | 6044 |\n| Lennox ** | 6030 |\n| Licamero | 6049 |\n| Sonett ** | 6056 |\n| Quintus ** | 6005 |\n| Tybalt ** | 6005 |\n\n2. **Blé dur **(Triticum durum Desf.)\n\n| Nobilis** | 12041 |\n| --- | --- |\n| Wintergold | 6055 |\n\n3. **Épeautre **(Triticum spelta L.)- Épeautre\n\n| Franckenkorn ** | 6042 |\n| --- | --- |\n| Cosmos** | 2002 |\n| Zollernperle** | 6055 |\n| Zollernspelz | 6055 |\n\n4. **Seigle **(Secale cereale L.)- Seigle d’hiver\n\n| Danko Granat | 23001 |\n| --- | --- |\n| Dukato ** | 6037 |\n| Elias** | 1001 |\n| Helltop** | 6064 |\n| KWS Serafino | 6044 |\n| KWS Tayo | 6044 |\n| Protector ** | 6018 |\n| SU Performer | 6037 |\n| Traktor** | 6018 |\n\n- Seigle de printemps\n\n| Arantes ** | 6044 |\n| --- | --- |\n\n5. **Triticale **(X Triticosecale Wittm.)- Triticale d’hiver\n\n| Agostino** | 6062 |\n| --- | --- |\n| Asellus** | 12009/10 |\n| Barolo ** | 6062 |\n| Belcanto** | 23001 |\n| Brehat | 12009 |\n| Cedrico ** | 6062 |\n| Claudius ** | 6017 |\n| Kasyno** | 23001 |\n| Lanetto** | 6062 |\n| Lombardo | 21021 |\n| Lumaco** | 6062 |\n| Massimo ** | 6026 |\n| Ramdam | 6006 |\n| Robinson** | 6042 |\n| Riparo** | 6049 |\n| Tantris ** | 6042 |\n| Temuco** | 21021 |\n| Tender PZO** | 6042 |\n| Torben** | 6054 |\n| Tulus** | 6017 |\n\n- Triticale de printemps\n\n| Dublet** | 23003 |\n| --- | --- |\n| Puzon | 23003 |\n| Team Pzo** | 6042 |\n\n6. **Orge **(Hordeum vulgare L.)- Orge d’hiver\n\n| Bianca** | 6054 |\n| --- | --- |\n| Bordeaux** | 7005 |\n| California | 6043 |\n| Dementiel** | 12023 |\n| Hedwig | 6005 |\n| Heroic** | 12023 |\n| Idilic** | 12023 |\n| KWS Higgins | 6044 |\n| KWS Infinity** | 6044 |\n| KWS Joyau | 12017 |\n| KWS Kosmos** | 6044 |\n| KWS Meridian** | 6044 |\n| KWS Moselle | 6044 |\n| KWS Tonic ** | 6044 |\n| KWS Orbit** | 6044 |\n| LG Veronika** | 6043 |\n| Lottie | 6006 |\n| Paradies** | 6007 |\n| Quadriga** | 12023 |\n| Sandra** | 6046 |\n| Sensation** | 6007 |\n| SU Ruzena** | 6001 |\n| SU Vireni** | 6001 |\n| Teuto | 6049 |\n| Valerie** | 6006 |\n\n- Orge de printemps\n\n| Accordine** | 6001 |\n| --- | --- |\n| Amidala** | 6067 |\n| Avalon** | 6006 |\n| Eunova | 6042 |\n| Greenway | 7005 |\n| Klarinette | 12023 |\n| KWS Jessie** | 6044 |\n| Laureate | 6031/6056 |\n| Milford** | 6006 |\n| Odyssey** | 12026 |\n| Prospect** | 1005 |\n| Quench** | 6031 |\n| RGT Planet ** | 12022 |\n| Salome** | 6017 |\n| Sydney** | 6054 |\n\n7. **Avoine nue **(Avena nuda L.)\n\n| Talkunar** | 6057 |\n| --- | --- |\n\n8. **Avoine **(Avena sativa L.)\n\n| Apollon | 6017 |\n| --- | --- |\n| Bison** | 6017 |\n| Calvaro** | 12017 |\n| Celeste** | 6050 |\n| Delfin** | 6067 |\n| Earl** | 1001 |\n| Elison** | 1001 |\n| Fleuron ** | 6050 |\n| Fritz** | 6002 |\n| Harmony** | 6017 |\n| Ivory** | 6017 |\n| KWS Balios** | 12017 |\n| Lion** | 6017 |\n| Max ** | 6046 |\n| Pinnacle ** | 6042 |\n| Poseidon** | 6017 |\n| Symphony** | 6017 |\n| Vodka** | 12017 |\n| Yukon | 6017 |\n| Zorro ** | 6017 |\n\n9. **Avoine rude **(Avena strigosa Schreb.)\n\n| Luxurial ** | 12038 |\n| --- | --- |\n| Pratex ** | 6018 |\n\n10. **Maïs **(Zea Mays L.)- Variétés très précoces\n\n| Amaizi | 12035 |\n| --- | --- |\n| LG 31205 | 12026 |\n| SY Amboss | 12028 |\n| SY Karthoun | 12028 |\n| SY Nordicstar | 12028 |\n\n- Variétés précoces\n\n| DKC 3352** | 12014 |\n| --- | --- |\n| ES Metronom** | 12032 |\n| Jakleen | 12041 |\n| Mantilla | 6043 |\n| Rancador | 6013 |\n| RGT Oxxford | 12008 |\n| Smoothi CS** | 12035 |\n| SY Skandik | 12028 |\n\n- Variétés mi-précoces à tardives\n\n| Charleen | 12026 |\n| --- | --- |\n| ES Albatros** | 12021 |\n| ES Watson | 12021 |\n| Figaro | 6013 |\n| LG 31276 | 12026 |\n| P8201** | 6061/12020 |\n| P8333 | 12020 |\n| SY Telias | 12028 |\n| P8171 | 12020 |\n\nB. POMMES DE TERRE (Solanum tuberosum L.)\n\n| Annabelle | 21017 |\n| --- | --- |\n| Annalena | 6012 |\n| Anuschka | 6012 |\n| Belana | 6040 |\n| Bintje | X* |\n| Charlotte | X* |\n| Corine | 21020 |\n| Désirée | 21017 |\n| Emanuelle | 21017 |\n| Glorietta | 6012 |\n| Hansa | 18001 |\n| Heideniere | 6059 |\n| Ivetta | 6012 |\n| Jelly | 6012 |\n| Laura | 6012 |\n| Luminella | 18001 |\n| Linda | 6059/28010 |\n| Monalisa | 21017 |\n| Nicola | 6022 |\n| Red Scarlett | 21006/21017 |\n| Ukama | 21007 |\n| Victoria | 21017 |\n\n- Pour l’exportation uniquement :\n\n| Adora | 21017 |\n| --- | --- |\n| Agata | 21023 |\n| Allians | 6012 |\n| Amora | 21028 |\n| Agila | 6041 |\n| Agria | 6012 |\n| Alegria | 6041 |\n| Anosta | 21008 |\n| Bartina | 21017 |\n| Beo | 2004 |\n| Bianchidea | 16003 |\n| Birte | 6041 |\n| Borwina | 6041 |\n| Cara | X*/14001 |\n| Claustar | 12004/12042 |\n| Cleopatra | 21017 |\n| Cilena | 6034 |\n| Diamant | 21004 |\n| Draga | X* |\n| Gala | 6041 |\n| Gloria | 6022 |\n| Golden Queen | 16004 |\n| Forza | 21013 |\n| Hermes | 1004 |\n| Jaerla | 21009 |\n| Jurata | 6012 |\n| Kennebec | X* |\n| Kondor | 21022 |\n| Lady Rosetta | 21025 |\n| Linzer Delikatess | 12043 |\n| Liseta | 21017 |\n| Loreley | 21023 |\n| Marfona | 21022 |\n| Mont Blanc | 21027 |\n| Pirol | 6041 |\n| Première | 21004 |\n| Primura | 21011 |\n| Ratte | 12042 |\n| Red Pontiac | X* |\n| Saturna | 6028 |\n| Sirtema | 21007 |\n| Spunta | 21010 |\n| Tebina | 2006 |\n\nC. PLANTES FOURRAGÈRES\n\n1. GRAMINÉES (Gramineae)a) **Raygrass de Westerwold **(Lolium multiflorum Lvar.Westerwoldicum)\n\n| Barspectra II (T) ** | 21002 |\n| --- | --- |\n| Barsutra (T) ** | 21002 |\n| Barterra** | 21002 |\n| Bartigra (T) | 21002 |\n| Barturbo**(T) | 21002 |\n| Barveloz ** | 21002 |\n| Carexpress | 12033 |\n| Lactimo** | 21002 |\n| Lemnos (T) ** | 2001 |\n| Libonus ** | 6007/6039 |\n| Licherry ** | 6007/6039 |\n| Lifloria ** | 6007/6039 |\n| Liquattro (T) | 6007/6039 |\n| Lolan (T) | 7001 |\n| Melboost** | 2001 |\n| Melspeed** | 2001 |\n| Pollanum (T) ** | 6007/6039 |\n| Suxyl | 12022 |\n| Wesley (T) ** | 6033 |\n| 4IR1 (D)** | 21002 |\n\nb) **Raygrass d’Italie **(Lolium multiflorum L.var.Italicum)\n\n| Aeros** | 21002 |\n| --- | --- |\n| Alamo ** | 6038 |\n| Balance ** | 6007 |\n| Barcrespo (D)** | 21002 |\n| Barelli ** | 21002 |\n| Barextra (T) ** | 21002 |\n| Barmultra II (T) | 21002 |\n| Barnaël (T)** | 21002 |\n| Barprisma ** | 21002 |\n| Barultima (T) ** | 21002 |\n| Danergo (T) | 7001 |\n| Dorike** (T) | 6007 |\n| Fabio ** | 6039/21016 |\n| Hunter** | 6007 |\n| Lascar | 12033 |\n| Liberta (T) ** | 6007/6039 |\n| Lipsos (T) ** | 6007 |\n| Meribel | 2001 |\n| Nabucco (T) ** | 6039 |\n| Oryx | 5001 |\n| Steel (D)** | 12022 |\n| Vogue** | 21002 |\n| Zebu (T) | 5001/6045 |\n| Zorro (T) | 7001 |\n\nc) **Raygrass hybride **(Lolium x hybridum Hausskn.)\n\n| Astoncrusader (T) ** | 6007/6039 |\n| --- | --- |\n| Baradil** | 21002 |\n| Barclamp** | 21002 |\n| Barsenna ** | 21002 |\n| Dorcas (T)** | 5001 |\n| Ibex (T) | 5001 |\n| Melauris | 2001 |\n| Pereneia | 5001 |\n| Pirol | 6019 |\n\nd) **Raygrass anglais **(Lolium perenne L.)\n\n- Variétés précoces à très précoces\n\n| Algira (T) | 5001 |\n| --- | --- |\n| Arcturus (T) | 5001 |\n| Artonis | 5001 |\n| Arvicola (T) | 5001 |\n| Marava | 6068 |\n| Mirtello (T)** | 6007 |\n| Salamandra (T) | 5001/6038 |\n| Salmo (T) | 5001 |\n\n- Variétés mi-précoces à mi-tardives\n\n| Activa(T) | 12033 |\n| --- | --- |\n| Alligator (T) | 6039 |\n| Allodia (T) | 5001 |\n| Arsenal** | 6039 |\n| Barcampo (T) | 21002 |\n| Bartasja** | 21002 |\n| Briant (T)** | 21002 |\n| Cantalou (T) | 12033 |\n| Elixir | 12039 |\n| Euroconquest | 6007 |\n| Indicus 1** | 21026 |\n| Magnificat | 12039 |\n| Massimo | 7001 |\n| Mercedes (T) | 6019 |\n| Soronia | 5001 |\n| Trivos (T) | 6039 |\n\n- Variétés tardives à très tardives (type pâture)\n\n| Alcazar | 5001 |\n| --- | --- |\n| Bareuro ** **** | 21002 |\n| Barflip ** | 21002 |\n| Barganza (T)** | 21002 |\n| Barimero ** | 21002 |\n| Barnewton (D)** | 21002 |\n| Barpasto** | 21002 |\n| Delika | 12039 |\n| Hurricane (T) | 12033 |\n| Kaiman | 6007 |\n| Kentaur (T) | 7001 |\n| Meltador ** | 21002 |\n| Melways (D) | 21002 |\n| Polim (T) | 21026 |\n| Severin | 6019 |\n| Sputnik | 7001 |\n| Toddington | 7001 |\n| Turfgold** **** | 6007/6039 |\n| Valerio | 6007 |\n\ne) **X Festulolium**\n\n| Fedoro | 6007 |\n| --- | --- |\n| Lifema ** | 6039 |\n| Perun | 7001 |\n\nf) **Fétuque des prés **(Festuca pratensis Huds)\n\n- Variétés de type foin\n\n| Barvital | 21002 |\n| --- | --- |\n| Cosima | 6019 |\n| Cosmolit | 6019 |\n| Liherold | 6039 |\n| Pardus | 6045 |\n| Pradel | 5002 |\n| Preval | 5002 |\n\ng) **Fétuque rouge **(Festuca rubra L.)\n\n| Tagera ** | 6016 |\n| --- | --- |\n\nh) **Fléole des prés **(Phleum pratense L.)\n\n- Variétés de type foin\n\n| Aturo ** | 6007/6039 |\n| --- | --- |\n| Barfleo | 21002 |\n| Dolina | 7001 |\n| Lischka | 6007/6039 |\n| Rasant | 6032 |\n\n- Variétés de type intermédiaire\n\n| Barpenta | 21002 |\n| --- | --- |\n| Classic | 21005 |\n| Comtal | 7001/21001 |\n| Erecta | 2001 |\n| Presto | 6039/21016 |\n\n- Variétés de type pâture\n\n| Promesse | 21005/21026 |\n| --- | --- |\n\ni) **Dactyle **(Dactylis glomerata L.)\n\n| Athos** | 7001 |\n| --- | --- |\n| Baraula | 21002 |\n| Intensiv | 21002 |\n| Lidacta | 6007/6039 |\n\nj) **Pâturin des prés **(Poa pratensis L.)\n\n| Lato | 6019 |\n| --- | --- |\n| Likollo** | 6039 |\n| Limagie | 6007/6039 |\n\n2. LÉGUMINEUSES (Leguminosae)\n\na) **Luzerne **(Medicago sativa et Medicago varia Martyn)\n\n| Europe | 7001 |\n| --- | --- |\n| Félicia | 12039 |\n| Fleetwood | 6003 |\n| Galaxie | 12039 |\n| Luzelle | 12018 |\n| Milky-Max | 12039 |\n| Sanditi ** | 21002 |\n\nb) **Trèfle blanc **(Trifolium repens L.)\n\n- Variétés de type giganteum\n\n| Calimero | 21002 |\n| --- | --- |\n\n- Variétés de type hollandicum\n\n| Merida | 2001 |\n| --- | --- |\n| Merlyn | 6045 |\n| Merwi | 2001 |\n| Munida | 5001 |\n| Silvester | 7001 |\n| Violin | 7001 |\n| Vysocan | 6016 |\n\nc) **Trèfle violet **(Trifolium pratense L.)\n\n- Variétés mi-précoces à mi-tardives\n\n| Diplomat | 6016 |\n| --- | --- |\n| Harmonie** | 6016 |\n| Larus (T) | 5001 |\n| Lemmon ** | 2001 |\n| Maro (T) | 6016 |\n| Milonia** | 5001 |\n| Milvus ** | 6007/6039 |\n| Spurt | 21002 |\n\nd) **Féveroles **(Vicia faba L.var. Minor (Peterm.) bull)\n\n| Fanfare | 6016 |\n| --- | --- |\n| Fuego** | 6016 |\n| Nebraska ** | 12003 |\n\ne) **Pois fourrager **(Pisum sativum L. (Partim))\n\n| Alvesta** | 6044 |\n| --- | --- |\n| Astronaute | 6016 |\n| Dolores** | 6016 |\n| Flokon ** | 12003 |\n| Karpate** | 12017 |\n| Kameleon** | 12017 |\n| Susan ** | 13001 |\n\nf) **Lupin blanc **(Lupinus albus)\n\n| Celina** | 6039 |\n| --- | --- |\n\n3. CRUCIFÈRES (Cruciferae)\n\na) **Colza oléagineux** (Brassica napus L.(Partim))- Colza oléagineux d’hiver\n\n| Crome | 6016 |\n| --- | --- |\n| Dariot** | 6007 |\n| DK Exlibris | 12014 |\n| DK Expansion** | 12014 |\n| DK Expectation | 12014 |\n| Dynamic | 6007 |\n| ES Navigo | 12032 |\n| ES Vito | 12032 |\n| King 10 ** | 6007 |\n| LG Architect | 6043 |\n| LG Aviron | 12041 |\n\n- Colza oléagineux de printemps\n\n| Liforum ** | 6007 |\n| --- | --- |\n\nb) **Moutarde blanche** (Sinapis alba L.)\n\n| Litember ** | 6007 |\n| --- | --- |\n\nc) **Radis oléifère **(Raphanus sativus L.))\n\n| Rufus ** | 6007 |\n| --- | --- |\n\n4. AUTRES ESPÈCES\n\na) **Phacelia **(Phacelia tanacetifolia Benth.)\n\n| Lisette ** | 6039 |\n| --- | --- |\n\nb) **Soja** (Glycine max (L.) Merrill)\n\n| Abelina | 1006 |\n| --- | --- |\n\n| pour l’exportation uniquementLa lettre X indique que plusieurs personnes sont responsables de la sélection conservatrice. La liste des noms des responsables est déposée à l’administration des services techniques de l’agriculture.non destinée à la production fourragère |\n| --- |",
+      "text_sha256": "47d0a4afad52cd57d628fba992bdb3c95eabf2e25730332316450df45152b3ec",
+      "md_span": {
+        "start": 2513,
+        "end": 14695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Liste des responsables de la sélection conservatrice**\n\n| N° de référence du responsable de lasélection conservatrice |  |\n| --- | --- |\n\n| 1001 | Landwirtschaftliche Fachschule Edelhof Edelhof, 1A-3910 Zwettl/Niederoesterreich |\n| --- | --- |\n| 1002 | Probstdorfer Saatzucht GmbH, Parking 12 Postfach 592A-1011 Wien |\n| 1003 | Saatzucht Gleisdorf GmbH Am Tieberhof, 33A-8200 Gleisdorf |\n| 1004 | Niederösterreichische Saatbaugenossenschaft Meires, 25A-3841 Windigsteig |\n| 1005 | Saatzuchtgesellschaft Streng’s Erben Aspachhof, 1D-97215 Uffenheim |\n| 1006 | Saatzucht Donau GmbH Saatzuchtgasse, 11A-2301 Probstdorf |\n| 2001 | Department voor plantengenetica en Veredeling (ILVO), Caritasstraat, 39B-9090 Melle |\n| 2002 | Station d’amélioration des plantes rue du Bordia, 4B-5030 Gembloux |\n| 2003 | Département de la lutte biologique rue du Bordia, 4B-5030 Gembloux |\n| 2004 | KWS- SAAT A.G. Grimsehlstraße, 31D-37574 Einbeck |\n| 2005 | V. Jorion & Fils S.A. Chaussée de Leuze, 1B-7911 Hacquegnies |\n| 2006 | Temmermann Jac.Ch.M.J. Spijkerboor, 17NL-1671 PA Medemblik |\n| 2007 | Lochow-Petkus Belgium NV Langstraat, 130B-3350 Neerhespen (Linter) |\n| 5001 | Agroscope ART Reckenholzstraße 191CH-8046 Zürich |\n| 5002 | Station Fédérale de Changins R.A.C. (Agroscope) rte de Duillier, 50CH-1260 Nyon |\n| 5003 | Delley Samen und Pflanzen AG (DSP) rte de Portalban, 40CH-1567 Delley |\n| 6001 | Ackermann Saatzucht GmbH & Co. KG Marienhofstraße 13D-94342 Irlbach |\n| 6002 | Saatzucht Bauer, Hofmarkstraße, 1D-93083 Obertraubling-Niedertraubling |\n| 6003 | Bayer. Pflanzenzucht-Gesellschaft eG & Co. KG Elisabethstraße,38D-80796 München |\n| 6004 | Bezirk Mittelfranken, vertreten durch Landwirtschaftliche Lehranstalten Triesdorf Markgrafenstraße 12D-91746 Weidenbach |\n| 6005 | W. von Borries-Eckendorf, GmbH & Co. KG Postfach 1151 / Hovedisser Straße 94D-33814 Leopoldshöhe / D-33818 Leopoldshöhe |\n| 6006 | Saatzucht Breun Josef, Amselweg, 1D-91074 Herzogenaurach |\n| 6007 | Deutsche Saatveredelung Postfach 1407D-59524 Lippstad |\n| 6008 | Pflanzenzucht DR.H.C.R. Carsten Ihn. Eger, Erhardt Lübecker Straße, 62-66D-23611 Bad Schwartau |\n| 6009 | Gebrüder Dippe Saatzucht GmbHD-4902 Bad Salzufen 3 |\n| 6010 | Hans Schweiger & Co OHG Feldkirchen, 3D-85368 Moosburg |\n| 6011 | Syngenta seeds Postfach 3264D-32076 Bad Salzufen |\n| 6012 | Böhm-Nordkartoffel Agrarproduktion GmbH & Co. OHG Betrieb Hohenbrönzow, Strehlow 19D-17111 Hohenmocker |\n| 6013 | Kleinwanzlebener Saatzucht (KWS) AG Grimsehlstraße, 31D-37574 Einbeck |\n| 6014 | Lochow-Petkus GmbH, F. von Postfach 1197D-29296 Bergen |\n| 6015 | Nickerson Pflanzenzucht GmbH (Limagrain) Postfach 1204D-31232 Edemissen |\n| 6016 | Norddeutsche Pflanzenzucht Hans-Georg Lembke KG, Hohenlieth-Hof 1D-24363 Holtsee |\n| 6017 | \"Nordsaat\" Agrargesellschaft mbH Gut Wittenberg Wittenberger WegD-24238 Martensrade |\n| 6018 | P.H. Petersen Saatzucht Lundsgaard Streichmühler Str. 8A,D-24977 Grundhof |\n| 6019 | Saatzucht Steinach GmbH Wittelsbacher Straße, 15D-94377 Steinach |\n| 6020 | Saka Pflanzenzucht Postfach Kielortallee, 9D-20144 Hamburg |\n| 6021 | Schweiger-Weizen Gbr Hauptstraße, 8D-06408 Biendorf |\n| 6022 | Saatzucht Soltau-Bergen e.G. Raiffeisen Warengenossenschaft Postfach 1464D-29604 Soltau |\n| 6023 | Saatzucht Engelen Büchling e.K. Büchling, 8D-94363 Oberschneiding |\n| 6024 | Saatzucht Firlbeck GmbH & Co.KG Johann-Firlbeck-Straße, 20D-94348 Atting |\n| 6025 | Saatzucht Hadmersleben GmbH Kroppenstedter Straße 4D-39398 Hadmersleben |\n| 6026 | Saatzucht Dr. Hege GmRmbH Domäne HohebuchD-74638 Waldenburg |\n| 6027 | Späth Dr. Hans Rolf Im Rheinfeld 1-13D-76437 Rastatt |\n| 6028 | Stader Saatzucht eG. / RAISA eG, Postfach 2020D-21680 Stade |\n| 6029 | Streng-Wintergersten Gbr Hauptstraße, 8D-06408 Biendorf |\n| 6030 | Strube, Dr. Hermann (in Fa. Fr. Strube Saatzucht KG) Hauptstraße 1D-38387 Söllingen |\n| 6031 | Syngenta Seeds GmbH Postfach 2180 / Postfach 32 64D-47519 Kleve / D-32076 Bad Salzuflen |\n| 6032 | Raiffeisen-Zentralgenossenschaft eG. Lauterbergstraße, 1-5D-76137 Karlsruhe |\n| 6033 | Advanta GmbH Robert-Bosch-Straße, 6D-35305 Grünberg |\n| 6034 | Vereinigte Saatzuchten e.V. Postfach 1 / Bahnhofstraße 51D-3112 Ebstorf / D-29574 |\n| 6035 | Semundo Saatzucht GmbH. Hanredder 19D-25335 Bokholt-Hanredder |\n| 6036 | DSV-Wintergerstengemeinschaft Hauptstraße, 8D-06408 Biendorf |\n| 6037 | Hybro Saatzucht GmbH u. Co. Kleptow, 53D-17291 Schenkenberg |\n| 6038 | Innoseeds GmbH Auestrasse, 5D-29352 Adelheidshof |\n| 6039 | Euro Grass Breeding GmbH & Co (DSV) Weißenburger Straße, 5D-59557 Lippstadt |\n| 6040 | Hergen Berding Am Jadebusen, 36D-26345 Bockhorn |\n| 6041 | Norika Nordring-Kartoffelzucht u. Vermehrungs GmbH Parkweg, 4D-18190 Sanitz |\n| 6042 | Franck Dr. Peter Pflanzenzucht Oberlimpurg Oberlimburg, 2D-74523 Schwäbisch Hall |\n| 6043 | Limagrain GmbH Postfach 1204D-31232 Edemissen |\n| 6044 | KWS Lochow GmbH Postfach 1197D-29296 Bergen |\n| 6045 | Feldsaaten Freudenberger GmbH&Co.KG Postfach 111104D-47812 Krefeld |\n| 6046 | I.G. Pflanzenzucht Gmbh Reichenbachstraße 1D-85737 Ismaning |\n| 6047 | Limagrain Nederland BV Van der Haweg, 2NL-4411 RB Rilland |\n| 6048 | Saatzucht Schmidt Kraftgasse, 60D-76829 Landau-Queichheim |\n| 6049 | Secobra Saatzucht GmbH Feldkirchen, 3D-85368 Moosburg an der Isar |\n| 6050 | Hauptsaaten für die Rheinprovinz GmbH Altenberger Straße, 1AD-50668 Köln |\n| 6051 | Saatzucht Schweiger GbR Feldkirchen, 3D-85368 Moosburg |\n| 6052 | Dr. Berthold Alter Reiffeisenstraße, 9D-34587 Felsberg |\n| 6053 | Landbauschule Dottenfelderhof e.V. Dottenfelder HofD-61118 Bad Vilbel |\n| 6054 | Saatzucht Streng GmbH&Co KG Aspachhof, 1D-97215 Uffenheim |\n| 6055 | Südwestdeutsche Saatzucht GmbH&Co KG Im Rheinfeld, 1-13D-76347 Rastatt |\n| 6056 | Syngenta Hadmersleben Koppenstedter Straße, 4D-39387 Oschersleben |\n| 6057 | Gesellschaft für goetheanistische Forschung e.V. Birkenweg, 3D-37217 Witzenhausen |\n| 6058 | Dagmar Littman Brückenweg, 3D-23714 Timmdorf |\n| 6059 | Karsten Ellenberg Ebstorferstraße, 1D-29576 Barum |\n| 6060 | Dottenfelderhof e.V./ Dr. Hartmut Spieß Holzhausenweg, 7D-61118 Bad Vilbel |\n| 6061 | Pioneer Hi-Bred Northern Europe Apensenerstraße, 198D-21614 Buxtehute |\n| 6062 | Lantmännen SW Seed B.V. Postbus 235NL-8300 EE Emmeloord |\n| 6063 | Dr. Karl-Josef Müller / Cultivari Getreidezüchtungsforschung Darzau Hof Darzau 1D-29490 Neu Darchau |\n| 6064 | Germany GmbH Kirchhorsterstraße, 16D-31688 Nienstädt |\n| 6065 | Dr. Hermann Strube Hauptstraße 1 D-38387 Söllingen |\n| 6066 | InterSaatzucht Gmbh Eichethof 6 D-85411 Hohenkammer |\n| 6067 | Nordsaat mbH Böhnshauser Strasse 1D-38895 Halberstadt OT Langenstein |\n| 6068 | RUDLOFF GmbH Sereetzer Feld 8D-23611 Sereetz |\n| 7001 | DLF-Seeds A/S Hojerupvej 31 BoelshøjDK-4660 Store-Heddinge |\n| 7003 | Sejet Planteforaedling Nørremarkvej, 67 Sejet DK-8700 Horsens |\n| 7004 | Maribo Seed International Hojbygaardvej, 31DK-4960 Holeby |\n| 7005 | Nordic Seed A/S Kornmarken 1DK-8464 Galten |\n| 12002 | Sesvanderhave France Z.I. rte de LavardacF-47600 Nérac |\n| 12003 | Agri-Obtentions B.P. 46 La MinièreF-78285 Guyancourt Cedex |\n| 12004 | Sté Clause L. SA. 24, boulevard Pierre BrossoletteF-91221 Brétigny-sur-Orge |\n| 12007 | Ets. Benoist Claude Ferme de MoyencourtF-78910 Orgerus |\n| 12008 | Groupe RAGT Rue Emile Singla - BP 3331F-12033 RODEZ Cedex 9 |\n| 12009 | Desprez (Florimond) Capelle-en Pévèle B.P. 41F-59242 Templeuve |\n| 12010 | S.A. Florimond Desprez Veuve & Fils B.P. 41/ Ld la wattinesF-59242 Capelle-en Pévèle Templeuve |\n| 12011 | GIE Recherche Européenne Gazon 13, rue A. DucatezF-26200 Montélimar |\n| 12013 | Novartis Seeds S.A. France (Syngenta France SAS) 12 Chemin de l’HobitF-31790 Saint Sauveur |\n| 12014 | SAS 1050 Croix de Pardies B.P. 21F-40305 Peyrehorade Cedex |\n| 12015 | Golden Harvest Zelder SARL Rn 147 les petites buffeteriesF-49124 Saint Barthelemy D’anjou |\n| 12016 | Maïsadour B.P. 27, route de Saint-Sever,F-40001 Mont de Marsan |\n| 12017 | Momont Hennette et fils (KWS Momont SAS) 7, rue du MartinvalF-59246 Mons-en-Pévèle |\n| 12018 | Ministère de l’agriculture INRA 147, rue de l’UniversitéF-75007 Paris |\n| 12019 | Coop de Pau Euralis B.P. 29 Avenue Gaston PhoebusF-64230 Lescar |\n| 12020 | Pioneer Génétique S.a.r.l. 1131 Chemin de l’Enseigure B.P. 6F-31840 Aussonne |\n| 12021 | RAGT 18, rue Séguret-Saincric B.P. 326F-12033 Rodez Cédex 09 -> voir 12008 |\n| 12022 | R2N (Société RAGT 2n) B.P. 3336F-12033 Rodez Cédex 09 |\n| 12023 | Sécobra Recherches Le Bois HenryF-78580 Maule |\n| 12024 | Semences Nickerson S.A. Z.I. route de SaumurF-49160 Longue-Jumelles -> Limagrain, Group LG |\n| 12025 | Serasem 10-12, rue Roger LecerfF-59840 Prémesques -> RAGT à Rodez |\n| 12026 | Limagrain Genetics France Domaine de Mons, B.P. 115F-63203 Riom Cédex |\n| 12027 | Sté des Maïs Européens (SDME) 420, rue de la GaletteF-60710 Chevrières |\n| 12028 | Syngenta Seeds SA B.P. 27F-31790 Saint-Saveur |\n| 12029 | Unisigma 2, rue Petit SorriF-60480 Froissy |\n| 12030 | Verneuil B.P. 3F-77390 Verneuil-l’Etang |\n| 12031 | Zelder Dordogne Bel OrmeF-33350 Flaujagues |\n| 12032 | Euralis Génétique Domaine de SandreauF-31700 Mondonville |\n| 12033 | Semences de France 21 ZAC Carrière Dorée B.P. 20008F-59358 Orchies Cédex |\n| 12034 | Fr. Strube Saatzucht Postfach 1353D-38358 Schöningen |\n| 12035 | Caussade Semences ZI de MeauxF-82300 Caussade |\n| 12036 | KWS/SMDE Postfach 1463D-37555 Einbeck |\n| 12037 | Boehm Nordkartoffel Dorfstrasse, 1D-18334 Boehlendorf |\n| 12038 | Panam France sarl B.P. 33F-37270 Saint-Martin Le Beau |\n| 12039 | GIE Grass La LitiereF-86600 Saint Sauvant |\n| 12040 | Saaten Union Recherche SAS Avenue de Flandre 163 BP 6F-60190 Estrées-Saint-Denis |\n| 12041 | Limagrain Europe Ferme de Loudes BP 1254F-11492 Castelnaudary |\n| 12042 | Fédération Nationale des producteurs de plants de pommes de terre 44, rue d’AlésiaF-75014 Paris |\n| 12043 | Jean Roussineau FL Marketing 8 rue Donadieu de PuycharicF-49100 Angers |\n| 13001 | Kaposvàri Egyetem Takarmànytermesztési Kutatò Intézet, Napraforgò u.1.HU-7095 Iregszemcse |\n| 14001 | Teagasc Oak Park Research CentreIRL-Carlow |\n| 16001 | Roberto Guarnieri Via Monzato 3I-43029 Traversetolo (Pr) |\n| 16002 | Istituto Sperimentale Per Le Colture Foraggere Via Piacenza, 25I-20075 Lodi (Mi) |\n| 16003 | ASTRA Agenzia per la Sperimentazione Tecnologica e la Ricerca Agroambientale Via Tebano, 45I-48018 Faenza |\n| 16004 | Istituto Sperimentale per le Colture industriali Via di Corticella, 133I-40128 Bologna |\n| 16005 | SIS Società Italiana Sementi Via Mirandola, 1I-40068 San Lazzano di Savena (Bo) |\n| 18001 | Synplants route de Bastogne, 4L-9706 Clervaux |\n| 21001 | Advanta Seeds BV. B.P. 127NL-5250 AC Vlijmen |\n| 21002 | Barenbrug, Holland B.V. Postbox,NL-6678 ZG Oosterhout |\n| 21003 | O. Braak C.S.Veenendaal |\n| 21004 | F. Brands c.s. Rolde NL |\n| 21005 | Cebeco- Zaden BV,Cebeco & Van Engelen Zaden i.P.ship Postbox 10000NL-5250 Vlijmen |\n| 21006 | Kweeckbedrijf Ropta ZPCNL-91230 Metslawier |\n| 21007 | Landbouw Maatschappij Friesland-FlevolandNL-8901 BK Leeuwarden |\n| 21008 | L.D. StolNL-BAFLO |\n| 21009 | Hettema Zonen B.V.NL-8304 AS Emmeloord |\n| 21010 | J.OldenburgerNL-9406 XG Assen |\n| 21011 | A.D. Mulder c.s.NL-9989 AN Warffum |\n| 21012 | Van der Have, D.J.B.V., Kon Kweeckbedrijf en ZaadhandelNL-4420 AA Kapelle |\n| 21013 | Aardappelkweekbedrijf Ijsselmeerpolders B.V.NL-Emmeloord |\n| 21014 | M. RademakersNL-8303 AA Emmeloord |\n| 21015 | P.J. en P.R. Dijkhuis en A.G. en N.B. Dijkhuis |\n| 21016 | Zelder B.V.NL-6595 NW Ottersum |\n| 21017 | HZPC IPR B.V. Postbus 8NL-8500 AB Joure |\n| 21018 | Limagrain Genetics B.V.NL-9679 ZG Scheemda |\n| 21019 | V.o.f. Nederlandse TetilakwekersNL-3700 AX Zeist |\n| 21020 | Wolf en Wolf B.v.NL-8200 AK Lelystad |\n| 21021 | SW Seed Postbus 235NL-8300 AE Emmeloord |\n| 21022 | Könst Research Aardappelveredelingsbedrijf BVNL-Nieuw-Vennep |\n| 21023 | Agrico Reasearch B.V.NL-Emmeloord |\n| 21024 | Euro Grass B.V. Postbus 26NL-6590 AA Gennep |\n| 21025 | C. Meijer BV P.O. Box 1NL-4416 ZG Kruiningen |\n| 21026 | Innoseeds BV Postbus 1NL-4420 AA Kapelle |\n| 21027 | J.P. van Loon De Meteoor 8NL-8251 AM Dronten |\n| 21028 | B.Schaap BV Oogstweg 7NL-8256 SB Biddinghuizen |\n| 23001 | Danko Plant Breeders ChorynPL-64005 Racot |\n| 23003 | Danko Hodowla Roslin sp. zooPL-64005 Racot |\n| 25001 | Lantmaennen SW Seed ABS-26881 Svalöf |\n| 28001 | Eminence Seeds Ltd. 4 Market Hill, CALNEGB-Wiltshire, SN II OBV |\n| 28003 | Cambridge Plant BreedersGB-Herts SG 87 RE |\n| 28004 | IGER/AFRC Welsh Plant Breeding Station Plas GogerddanGB-Dyfed SY23 3EB |\n| 28005 | Nickerson Seeds Ltd.GB-Lincolnshire LN7 6DT |\n| 28006 | PBI Cambridge Ltd., Maris Lane TrumpingtonGB-Cambridge, CB 22 LQ |\n| 28007 | Seed Potato Promotions (NI) LTDCathedral Buildings, 64 Donegall StreetGB-Belfast BT 1 2GT |\n| 28008 | The Scottish Office Agriculture and Fisheries Department Pentland House, 47 Robbs LoanUK-Edinburgh, EH14 1TW |\n| 28009 | Department of Agriculture for Northern Ireland LoughgallIRL-Armagh |\n| 28010 | TLC Potatoes Ltd., Wardend of Durris BanchoriGB-Kincardineshire AB31 6DA |\n| 28011 | Aberystwyth University Nr Aberystwyth CeredigionUK-SY23 3EB Plas Gogerddan |\n| 29001 | New Zealand Agriseed Ltd.,Old west road RDIChristchurch 8021 N.Z. |\n| 30001 | Pioneer Hi-Bred, Int. Inc. 1206 Mulberry Street Des Moines 9USA-IOWA 50308 |",
+      "text_sha256": "982cde7df50aacd0d1d7cf0fc44b86ffcbeba6c4e9195ce504805699a84d9ffe",
+      "md_span": {
+        "start": 14739,
+        "end": 28047
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2016-09-03-n3:2022-10-28#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Liste des espèces visées à l'article 2, sous b)**\n\nPlantes fourragères:\n\n| Festuca arundinacea Schreb.Vicia spec. | Fétuque élevéeVesces |\n| --- | --- |",
+      "text_sha256": "cbd8b8a4145f355788cb65987916d51e08805d93a0a98f152026a958c347cffc",
+      "md_span": {
+        "start": 28092,
+        "end": 28246
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

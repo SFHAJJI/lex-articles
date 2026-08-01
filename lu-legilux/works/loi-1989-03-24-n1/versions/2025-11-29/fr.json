@@ -1,0 +1,1146 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/07/2026 : Loi du 24 mars 1989 sur la Banque et Caisse d´Epargne de l´Etat, Luxembourg.",
+  "valid_from": "2025-11-29",
+  "valid_to": "2026-05-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1989-03-24-n1/versions/2025-11-29/fr.xml",
+    "sha256": "6e4ef4fa863415cf5ab939e54469bef17fef10aa0869766d69adbe21763e8d47",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/consolide/20251129/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_1er/20251129",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Dispositions générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** La Caisse d’Epargne de l’Etat du Grand-Duché de Luxembourg, instituée par la loi du 21 février 1856 portant entre autres établissement d’une Caisse d’Epargne, est un établissement public autonome, doté de la personnalité juridique. Elle est soumise à la législation régissant l’activité bancaire et commerciale au Luxembourg, sauf dans la mesure où il en est disposé autrement par la présente loi ou par ses règlements.\n\n**(2)** Elle est placée sous la haute surveillance du membre du Gouvernement ayant le département du Trésor dans ses attributions. Dans les dispositions qui suivent, ce dernier est désigné par les termes «le ministre compétent».",
+      "text_sha256": "5a74d4ae9650eda8219985065ba987184ab0ff43b5b7c01dd7287f3b807387a1",
+      "md_span": {
+        "start": 643,
+        "end": 1300
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1856/02/21/n1/jo",
+          "text": "loi du 21 février 1856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_2/20251129",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Dispositions générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Dans toutes ses activités l’établissement est autorisé à porter la dénomination «Banque et Caisse d’Epargne de l’Etat, Luxembourg».\n\nDans les dispositions qui suivent, il est désigné par les termes «la banque».\n\n**(2)** Dans les activités qu’elle exerce sur le territoire du Grand-Duché de Luxembourg, la banque peut également utiliser la dénomination «Spuerkeess».\n\n**(3)** La banque est autorisée à utiliser dans ses activités internationales les dénominations «State and Savings Bank, Luxem-bourg» ou «Staatsbank und Staatssparkasse, Luxemburg».",
+      "text_sha256": "3426774674dbf6a0fd21f72ce66a70f54ed3209499e1a4ef40256febd0697673",
+      "md_span": {
+        "start": 1335,
+        "end": 1891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_3/20251129",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Dispositions générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Le siège de la banque est à Luxembourg.\n\n**(2)** Pour la réalisation de son objet, la banque peut créer des filiales et établir des succursales, des sièges administratifs, notamment régionaux, des agences, des sous-agences ou des bureaux.",
+      "text_sha256": "7cf8f3b6c5c02d38379dbaf345e7af2e81a28bea742ac95eb58d429e5893396a",
+      "md_span": {
+        "start": 1926,
+        "end": 2172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_4/20251129",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Dispositions générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Dans les limites fixées par ou en vertu des lois et règlements applicables aux établissements de crédit, la banque a pour objet de faire, seule ou en participation, soit pour elle-même soit pour compte de tiers, avec toute personne, physique ou juridique, toutes opérations bancaires et financières ainsi que toutes opérations analogues, connexes ou accessoires à celles-ci.\n\n**(2)** Dans le respect des lois et règlements y applicables, la banque peut faire en outre toutes autres opérations se rattachant directement ou indirectement à son objet ou tendant à favoriser la réalisation de celui-ci.\n\n**(3)** Les opérations de la banque sont censées être des actes de commerce.",
+      "text_sha256": "50bbe9be1166bfa1218d93e26ba00e125e3590ce57c8894b1c755a6039106f4c",
+      "md_span": {
+        "start": 2207,
+        "end": 2891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_5/20251129",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Dispositions générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "En tant que banque d’Etat, elle a pour vocation:\n\n1. de contribuer par ses activités, en particulier par ses activités de financement, au développement économique et social du pays dans tous les domaines et,\n2. de promouvoir l’épargne sous toutes ses formes.",
+      "text_sha256": "cb7306384cfb75018a3b52c17ab1abafcfa8a54c0e8984b4149e4b27da99defb",
+      "md_span": {
+        "start": 2926,
+        "end": 3184
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_6/20251129",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Titre Ier — Dispositions générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "La banque accomplit par ailleurs toutes autres missions dont elle est chargée par des lois ou des règlements ou qui lui sont confiées par décision du Gouvernement en conseil. Ces dernières missions peuvent faire l’objet de conventions à conclure entre le Gouvernement et la banque et à approuver par le conseil d’administration de celle-ci.",
+      "text_sha256": "4499ffb5514c498a1c7866d95d188fbceb3a05a84c5295aad627034f7dbc0122",
+      "md_span": {
+        "start": 3219,
+        "end": 3559
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_7/20251129",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "La banque est administrée et gérée par un conseil d’administration et par un comité de direction.\n\nDans les dispositions qui suivent, le conseil d’administration est désigné par les termes «le conseil», le comité de direction par les termes «le comité».",
+      "text_sha256": "32b42ee3a5addc491401e53dca126a624777b3cc670190ea108f444cffb1bc46",
+      "md_span": {
+        "start": 3631,
+        "end": 3884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_8/20251129",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le conseil d’administration définit la politique générale de l’établissement et contrôle la gestion du comité de direction. Tous les actes tant d’administration que de disposition nécessaires ou utiles à la réalisation de l’objet de la banque sont de la compétence du comité de direction, sous réserve des approbations requises en vertu de la présente loi.",
+      "text_sha256": "7d463025c7fca7aa9a6d1a8d5fde93ed06a67b8603bae511aae3f517755416f8",
+      "md_span": {
+        "start": 3919,
+        "end": 4275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_9/20251129",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le conseil exerce les attributions suivantes:\n\n1. il autorise la constitution de filiales et l’établissement de succursales, de sièges administratifs, d’agences, de sous-agences et de bureaux;\n2. il autorise la prise et la cession de participations;\n3. il approuve les acquisitions, aliénations et échanges de biens ou de droits immobiliers;\n4. il accepte les dons et legs faits au profit de la banque;\n5. il approuve les orientations générales concernant les conditions des opérations de la banque, notamment celles relatives aux conditions débitrices et créditrices;\n6. il autorise l’émission publique d’obligations pour le compte de la banque et en approuve les conditions et modalités;\n7. il approuve les directives générales pour le placement des liquidités de la banque;\n8. il approuve les budgets annuels respectivement de fonctionnement et d’investissement;\n9. il approuve les comptes annuels ainsi que le rapport annuel du comité de direction et propose au Gouvernement l’affectation du bénéfice;\n10. il propose au Gouvernement la nomination des réviseurs d’entreprises;\n11. il approuve les structures administratives et fonctionnelles de la banque à proposer par le comité;\n12. il émet un avis sur les modifications du statut des agents de la banque;\n13. il approuve le règlement d’ordre intérieur du comité de direction;\n14. il approuve la liste des signatures de la banque;\n15. il désigne les agents chargés du contrôle interne, définit leurs mandats et reçoit leurs rapports.\n\nLe conseil est en droit d’obtenir du comité tout document et tout renseignement et de procéder à toute vérification nécessaire.",
+      "text_sha256": "f97e953c5656259dce3ca6a6186e7db68c92840b2e84731cea9e01386592111c",
+      "md_span": {
+        "start": 4340,
+        "end": 5957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_10/20251129",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le conseil se compose de neuf membres.\n\nDeux représentants du personnel sont élus au conseil au scrutin direct et secret par et parmi le personnel de la banque. Les règles de désignation de ces membres et les modalités de l’exercice de leurs fonctions sont fixées par règlement grand-ducal.\n\nCinq membres du conseil représentant l’Etat sont nommés par le Gouvernement en conseil.\n\nDeux membres sont nommés par le Gouvernement en conseil sur proposition du ministre compétent parmi les personnalités du secteur privé et qui sont choisies en raison de leur compétence professionnelle.\n\nLe directeur général ou son remplaçant assiste de plein droit avec voix consultative aux réunions du conseil.",
+      "text_sha256": "83b0b9be4d90e2c575f3412a9ae1cbf96881af25727ba052656d99c9b24bea90",
+      "md_span": {
+        "start": 5994,
+        "end": 6687
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_11/20251129",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le Gouvernement désigne parmi les membres nommés par lui un président et un vice-président du conseil.\n\nLe règlement d’ordre intérieur du conseil est soumis à l’approbation du ministre compétent.",
+      "text_sha256": "128a8a9e6071089689efce3a3fb62e955efda33d6a3a5a7d738ce0d1a4ceb615",
+      "md_span": {
+        "start": 6724,
+        "end": 6919
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_12/20251129",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Le mandat de membre du conseil est incompatible:\n\n- avec la qualité de membre du Gouvernement;\n- avec toute fonction salariée auprès de l’institution de surveillance des établissements de crédit;\n- avec tout mandat d’administrateur ou toute fonction rémunérée auprès d’institutions ou d’entreprises privées, qui exercent des activités similaires à celles de la banque ou qui détiennent, directement ou indirectement, une participation de 10% ou plus dans une telle institution ou entreprise;\n- avec la qualité de membre du personnel, sauf les représentants du personnel.\n\n**(2)** Des parents ou alliés jusqu’au troisième degré inclusivement ne peuvent être simultanément membres du conseil.",
+      "text_sha256": "e24b2b2ac4d151a52e253a22e266d99c56527c7796ae88527ee8bcb672a60443",
+      "md_span": {
+        "start": 6956,
+        "end": 7654
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_13/20251129",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "La durée du mandat des membres du conseil est de cinq ans. Leur mandat est renouvelable.",
+      "text_sha256": "91862eec9bcaa3fdf3d7788f87d9233b7594acd842cd9e3e7ee5711c14f2fa13",
+      "md_span": {
+        "start": 7691,
+        "end": 7779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_14/20251129",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Tout mandat de membre du conseil cesse de plein droit lorsque le membre atteint l’âge de soixante-douze ans accomplis.\n\n**(2)** Sur proposition ou avis conforme du conseil, le Gouvernement en conseil peut révoquer tout membre qui se trouve dans une incapacité durable d’exercer son mandat ou qui perd l’honorabilité requise pour l’exercice de son mandat.\n\n**(3)** Le membre du conseil représentant le personnel perd de plein droit son mandat à partir du moment où il n’occupe plus, soit définitivement soit temporairement ou provisoirement, un emploi salarié à plein temps auprès de la banque, ou s’il est appelé à exercer la fonction de membre du comité de direction.\n\n**(4)** En cas de vacance d’un siège de membre par suite de décès, de démission, de révocation ou d’incapacité durable, le nouveau titulaire achève le mandat de celui qu’il remplace.",
+      "text_sha256": "f5e14629d58606df43b0273db7b3e7af5df9dc8f1558293c04c8a264c4015e4d",
+      "md_span": {
+        "start": 7816,
+        "end": 8676
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_15/20251129",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le Gouvernement en conseil peut dissoudre le conseil, notamment au cas où des dissensions graves entravent la bonne administration et gestion de la banque. Cette mesure entraîne le renouvellement de tous les administrateurs; elle ne peut être prise de nouveau avant l’expiration d’un délai d’un an à compter du renouvellement intégral.",
+      "text_sha256": "01e6ebd0585627618d8c1f56158565923785b9d30801b499dd37d70e1de86eb8",
+      "md_span": {
+        "start": 8713,
+        "end": 9048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_16/20251129",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Les réunions du conseil sont convoquées et présidées, les ordres du jour sont fixés et les délibérations sont dirigées par le président ou, en cas d’empêchement de celui-ci, par le vice-président ou, à leur défaut, par le doyen d’âge des membres du conseil présents nommés par le Gouvernement.\n\nLes réunions du conseil doivent être convoquées de façon qu’elles soient tenues dans la huitaine, lorsque le comité de direction ou le commissaire le requièrent par une demande écrite indiquant l’ordre du jour et les motifs de la convocation.\n\nLe secrétariat est assuré par la banque.\n\n**(2)** Le conseil se réunit aussi souvent que l’intérêt de la banque l’exige, mais au moins une fois tous les deux mois.\n\n**(3)** Les délibérations du conseil sont valables si la majorité des membres est présente. Le mandat ne peut être donné qu’à un autre membre du conseil. Un membre du conseil ne peut représenter qu’un seul autre membre.\n\n**(4)** Les indemnités et jetons de présence des membres du conseil sont fixés par le Gouvernement et sont à charge de la banque, de même que les frais de voyage et autres frais engagés par le conseil dans l’intérêt de la banque.",
+      "text_sha256": "ca0be4cee36596bfa70b83e78900de5f28bc9286c12bbe6f495e1839bc09ac03",
+      "md_span": {
+        "start": 9085,
+        "end": 10247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_17/20251129",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 1er.- — Conseil"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Sauf dans les cas où la loi les autorise ou les oblige à relever certains faits, les membres du conseil, le commissaire de surveillance, le secrétaire et toute autre personne appelée à assister aux réunions sont tenus de garder le secret des délibérations et des votes du conseil ainsi que de tous documents et renseignements ayant un caractère confidentiel.",
+      "text_sha256": "827438713ca24c953f8b0c151f8bea6c54a970be3fd19b026cea5e023138d69b",
+      "md_span": {
+        "start": 10284,
+        "end": 10642
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_18/20251129",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 2.- — Comité de direction"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le comité de direction se compose de 3 membres au moins et cinq membres au plus, à savoir: d’un directeur général, d’un directeur général adjoint et de trois directeurs. Il est présidé par le directeur général qui est autorisé à porter le titre de président du comité de direction. Il prend ses décisions en tant que collège.",
+      "text_sha256": "cb5b18d9794422e9658420e29eadc02102979a87e35650072a064d5d4d865c72",
+      "md_span": {
+        "start": 10719,
+        "end": 11044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_19/20251129",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 2.- — Comité de direction"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Les membres du comité de direction sont nommés par arrêté grand-ducal après avis du conseil de la banque.\n\n**(1)** Les fonctions de directeur général, directeur général adjoint et directeur, prévues par la présente loi sont classées au grade S1 de la rubrique VI «Fonctions à indice fixe» et au grade 18 respectivement 17 de la rubrique I «Administration générale» de l’annexe A «classification des fonctions» de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.\n\n**(2)** Les modifications suivantes sont apportées aux annexes de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat:\n\nA. A l’annexe A «classification des fonctions» Rubrique I «Administration générale»:\n\nau grade 17: Caisse d’Epargne, la mention directeur est insérée avant celle de sous-directeur\n\nau grade 18: entre les mentions Bâtiments publics directeur et Contributions directeur est insérée la mention Caisse d’Epargne directeur général adjoint\n\nB. A l’annexe A «classification des fonctions» Rubrique VI «Fonctions spéciales à indice fixe», au grade S1 la mention Caisse d’Epargne de l’Etat directeur est remplacée par la mention Caisse d’Epargne et Banque de l’Etat du Luxembourg directeur général\n\nC. A l’annexe D «Détermination» Rubrique I «Administration générale carrière supérieure de l’administration, grade de computation de la bonification d’ancienneté grade 12»\n\nau grade 17; la mention sous-directeur de la Caisse d’Epargne, est précédée de la mention directeur de la Caisse d’Epargne.\n\nau grade 18: entre les fonctions directeur et ministre plénipotentiaire est intercalée la fonction directeur général adjoint de la Caisse d’Epargne.\n\n**(3)** Le conseil d’administration peut, sous réserve d’approbation du Gouvernement en conseil, allouer aux membres du comité de direction une indemnité spéciale pour frais de représentation.",
+      "text_sha256": "2dc325aec2fc41a3bad1e40bd4e3ee5e6865609efcaf0b1380a5c30432e7b255",
+      "md_span": {
+        "start": 11081,
+        "end": 12982
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_20/20251129",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 2.- — Comité de direction"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le comité informe le conseil à intervalles réguliers et une fois au moins tous les deux mois de la marche générale de la banque. Il lui présente un rapport d’ensemble sur les activités de l’établissement; ce rapport porte notamment sur l’état des effectifs du personnel, la situation des affaires, les principaux postes du bilan et du compte de profits et pertes ainsi que les importants engagements en cours.",
+      "text_sha256": "2fcb059f1668aee97872b65ec98982dab5b8d4a2939b783ff4a025ebb9f91b55",
+      "md_span": {
+        "start": 13019,
+        "end": 13428
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_21/20251129",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 2.- — Comité de direction"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Dans l’intérêt d’une bonne administration et gestion de la banque, le comité répartit ses tâches entre ses membres. A cet effet, il peut déléguer à ses membres, dans les limites et aux conditions de son règlement d’ordre intérieur, les pouvoirs nécessaires pour exercer, soit seuls, soit conjointement, certaines de ses attributions. Les pouvoirs ainsi délégués par le comité ne sont susceptibles de subdélégation que si cette faculté est prévue expressément dans l’acte de délégation qui en fixe les conditions et les limites.\n\n**(2)** Les pouvoirs délégués peuvent être révoqués à tout moment et prennent fin de plein droit avec la cessation des fonctions du ou des délégués. Les pouvoirs subdélégués sont également révocables à tout moment et prennent fin de plein droit avec la cessation des pouvoirs ou fonctions respectivement du ou des subdélégants et du ou des subdélégués.\n\n**(3)** Les délégations et subdélégations de pouvoirs consenties sont sans effet sur la responsabilité collégiale des membres du comité.",
+      "text_sha256": "fbbdac9602b361a5ede69c9608f9f4f900fce8a71af0b961239e3c52c262b92d",
+      "md_span": {
+        "start": 13465,
+        "end": 14492
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_22/20251129",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 2.- — Comité de direction"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Les réunions du comité sont convoquées, les ordres du jour sont fixés et les délibérations sont dirigées par le directeur général ou, en cas d’empêchement de celui-ci, par le directeur général adjoint ou, à leur défaut, par le directeur le plus ancien en rang dans l’ordre des nominations ou, à ancienneté égale, par le doyen d’âge des directeurs de même rang.\n\n**(2)** Le comité se réunit aussi souvent que l’intérêt de la banque l’exige, mais une fois au moins par semaine.",
+      "text_sha256": "d4481137107b5bc09994b3b71df3d883fb26935e9081b52954d8f39624d1a34b",
+      "md_span": {
+        "start": 14529,
+        "end": 15012
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_23/20251129",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 2.- — Comité de direction"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Lorsque les membres du comité ne peuvent pas en temps utile se réunir en nombre suffisant pour délibérer sur une affaire urgente, la décision de caractère conservatoire peut être prise valablement par le ou les membres présents en invoquant les circonstances exceptionnelles, à charge pour lui ou eux d’en référer au comité dans le meilleur délai et au plus tard lors de sa prochaine réunion.\n\nCette urgence ne saurait être invoquée à propos de questions relevant de la compétence du conseil d’administration ou sujettes à approbation ministérielle.",
+      "text_sha256": "25c19d701c26c134961a796278150c207d1c0095f369a8a6c550e56a9cd0b532",
+      "md_span": {
+        "start": 15049,
+        "end": 15598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_24/20251129",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Titre II. — Organes de la banque",
+        "Chapitre 2.- — Comité de direction"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Sauf dans les cas où la loi les autorise ou les oblige à révéler certains faits, les membres du comité, le secrétaire et toute autre personne appelée à assister aux réunions sont tenus de garder le secret des délibérations et des votes du comité ainsi que de tous documents et renseignements ayant un caractère confidentiel.",
+      "text_sha256": "82c2c74be6f10ec64d739b41525f6fe332b30d581b3cec40b822dfd148813ade",
+      "md_span": {
+        "start": 15635,
+        "end": 15959
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_25/20251129",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Titre III — Surveillance de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le ministre compétent exerce la haute surveillance sur les activités d’intérêt général de la banque, notamment celles prévues à l’article 5, d’après les dispositions qui suivent:\n\n1. en se faisant communiquer directement toutes les décisions du conseil;\n2. en statuant sur celles qui sont sujettes à son approbation.\n\nEn outre, il est institué un poste de commissaire de surveillance, désigné ci-après le commissaire, dont les modalités de nomination et les attributions sont fixées à l’article 28.\n\nLe réviseur ou les réviseurs d’entreprises sont nommés pour un terme ne dépassant pas trois ans par le Gouvernement en conseil et sur proposition du conseil de la banque. Leur mandat est renouvelable.",
+      "text_sha256": "42a6f82f4a73f9e811530da8258179f429c73a42f109158a6caa9ed96db87746",
+      "md_span": {
+        "start": 16038,
+        "end": 16738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_26/20251129",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Titre III — Surveillance de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Des copies certifiées conformes des procès - verbaux des réunions du conseil sont transmises, dès leur approbation, au ministre compétent et au commissaire. Les décisions du conseil sont communiquées dans la quinzaine de leur entrée en vigueur.",
+      "text_sha256": "f5d77ece337c755bcb1e077bad44225a8d091c4217e24339499dfbef2d844d72",
+      "md_span": {
+        "start": 16775,
+        "end": 17019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_27/20251129",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Titre III — Surveillance de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Sont sujettes à l’approbation du ministre compétent les décisions du conseil relatives aux matières suivantes:\n\n1. l’approbation des comptes annuels ainsi que l’affectation du bénéfice disponible;\n2. le taux d’intérêt des livrets d’épargne et des prêts hypothécaires pour le financement des logements;\n3. la constitution de filiales et l’établissement de succursales à l’étranger;\n4. la prise de participations dans des sociétés domiciliées à l’étranger;\n5. l’émission de certificats participatifs ainsi que d’emprunts subordonnés.\n\n**(2)** Le ministre compétent exerce son droit d’approbation dans la huitaine de la réception de la décision du conseil. Passé ce délai, il est présumé être d’accord, et la décision peut être mise à exécution.\n\nEn cas de refus d’approbation, à notifier par écrit à la banque avant l’expiration du prédit délai, le conseil délibère à nouveau sur la même affaire. Si le différend persiste, le Gouvernement en conseil tranchera définitivement et sans recours.",
+      "text_sha256": "bc64b89cf74855d08dd7eeb686cb232ae89d216e6d6791f2c91121d3daf9ecfe",
+      "md_span": {
+        "start": 17056,
+        "end": 18053
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_28/20251129",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Titre III — Surveillance de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Le commissaire est nommé par arrêté du Gouvernement en conseil, sur proposition du ministre compétent, pour un terme ne dépassant pas trois ans. Son mandat est renouvelable.\n\n**(2)** La surveillance du commissaire s’étend à tous les services de la banque, y compris les services confiés ou rattachés à l’établissement, sauf la Caisse Générale de l’Etat relevant du Trésor public.\n\n**(3)** Le commissaire est invité à toutes les réunions du conseil. Les avis de convocation, contenant l’ordre du jour des réu- nions, lui sont adressés en même temps qu’aux membres du conseil.\n\n**(4)** Le commissaire a le droit d’assister à toutes les délibérations du conseil et doit être entendu en ses observations chaque fois qu’il le demande. Il peut faire insérer ses observations au procès-verbal. Il obtient tous les documents et renseignements fournis aux membres du conseil.\n\nLe commissaire ne peut cependant être présent lors d’une délibération ou d’un vote sur une affaire dans laquelle il est intéressé à titre personnel. Il doit en prévenir le conseil et faire inscrire cette déclaration au procès-verbal de la réunion.\n\n**(5)** Le commissaire peut suspendre l’exécution de toute décision du conseil concernant les activités d’intérêt général, notamment celles prévues à l’article 5, qu’il juge contraires à la vocation de la banque dans ce domaine. Il fait acter son véto. Si le Gouvernement n’a pas statué dans la huitaine de la suspension, il est présumé avoir levé celle-ci, et la décision peut être mise à exécution.\n\n**(6)** Pour l’exécution de sa mission, le commissaire peut requérir du comité l’assistance des services de la banque.\n\n**(7)** II peut en outre demander des renseignements aux réviseurs d’entreprises de la banque.\n\n**(8)** L’exercice des attributions du commissaire peut être précisé par règlement du ministre compétent, à notifier à la banque.\n\n**(9)** L’indemnité à allouer au commissaire est fixée par le Gouvernement en conseil. Cette indemnité est à charge de la banque.\n\n**(10)** Sur proposition du ministre compétent, le Gouvernement en conseil peut nommer, pour le terme qu’il fixe, un commissaire spécial chargé, soit de remplacer le commissaire en cas d’empêchement, soit d’assister le commissaire dans ses missions, soit de procéder à des inspections extraordinaires, à déterminer dans l’acte de nomination. Son mandat est renouvelable.\n\n**(11)** Les dispositions de la présente loi relatives au commissaire, à l’exception de celle concernant la durée de son mandat, sont d’application correspondante quant au commissaire spécial.",
+      "text_sha256": "4ec5de1add5296984dac70ef5d90cb5f4286b4c6444488ed3c370d491b9269cc",
+      "md_span": {
+        "start": 18090,
+        "end": 20659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_29/20251129",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Titre IV — Statut du personnel",
+        "Chapitre 1er. — Membres du comité de direction"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Le directeur général, le directeur général adjoint et les directeurs formant le comité de direction ont la qualité de fonctionnaires en ce qui concerne leur statut, leur traitement et leur régime de pension.\n\n**(2)** Pour pouvoir être nommé membre du comité il faut:\n\n1. loi modifiée du 16 avril 1979\n2. avoir l’honorabilité professionnelle nécessaire ainsi que l’expérience adéquate pour l’exercice de la fonction.\n\n**(3)** Les membres du comité sont nommés pour une période de six ans. Leurs nominations sont renouvelables.\n\n**(4)** En cas de non-renouvellement du mandat d’un membre du comité de direction, celui-ci devient conseiller général auprès de l’établissement, avec maintien de son statut et de son niveau de rémunération de base, à l’exception des émoluments spéciaux éventuels ou indemnités de représentation attachés à sa fonction antérieure. Il peut faire l’objet d’un changement d’administration dans une autre administration ou dans un autre établissement public conformément à l’article 6 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.\n\n**(5)** La démission d’un membre du comité de direction intervient de plein droit par l’atteinte de la limite d’âge de 65 ans.\n\n**(6)** Les rémunérations et les pensions des membres du comité de direction et, le cas échéant, des conseillers généraux sont à charge de l’établissement.",
+      "text_sha256": "62718a50b6961a3b59ad5a6c3ecd313077874a22a6f42c8d577c01912f1764db",
+      "md_span": {
+        "start": 20783,
+        "end": 22174
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_30/20251129",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Titre IV — Statut du personnel",
+        "Chapitre 2.- — Agents de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Le comité est assisté dans la gestion journalière des affaires par des agents qui sont placés sous son autorité et sur lesquels il exerce les pouvoirs disciplinaires.\n\n**(2)** Les agents de la banque ont un statut de droit public assimilé à celui des employés de l’Etat. Les conditions générales du statut, concernant notamment les droits et devoirs, les conditions d’engagement, d’avancement, de rémunération et de retraite des agents sont fixées par règlement grand-ducal, qui peut exceptionnellement et dans l’intérêt du bon fonctionnement des services bancaires de l’établissement, déroger par rapport au statut général des employés de l’Etat. Ces conditions ne peuvent pas être moins favorables, prises dans leur ensemble, que celles généralement prévues par le contrat de travail des employés non-fonctionnaires appliquées au moment de l’entrée en vigueur de la présente loi.\n\nA titre transitoire, les dispositions qui au moment de l’entrée en vigueur de la présente loi régissent la situation des «employés non-fonctionnaires» restent d’application.\n\nLes agents de l’établissement sont affiliés à la chambre des fonctionnaires et employés publics.\n\n**(3)** Les fonctionnaires qui ont été nommés sur la base d’un régime antérieur à la présente loi et qui sont en activité de service auprès de la banque au moment de l’entrée en vigueur de la présente loi gardent leur statut avec tous les droits et toutes les possibilités de promotion.\n\nLes dispositions légales et réglementaires relatives à ces fonctionnaires peuvent être adaptées par règlement grand-ducal pour rendre applicables à ceux-ci, dans la mesure où elles ne sont pas susceptibles d’application directe, des modifications apportées par des lois ou des règlements respectivement au statut général et au régime des traitements et pensions des fonctionnaires de l’Etat.\n\n**(4)** Les candidats aux carrières administratives et techniques de la banque doivent remplir des conditions d’études et de formation professionnelle identiques ou équivalentes à celles exigées par les lois et règlements pour l’accès à des carrières similaires auprès des administrations de l’Etat et des établissements publics.\n\n**(5)** Pendant la période de leur stage, les prédits candidats suivent des cours de formation générale et spéciale, notamment en matière bancaire et financière, complétés éventuellement par des stages; ces cours et stages sont organisés par l’établissement, le cas échéant en collaboration avec des tiers, et doivent dans leur ensemble être au moins équivalents à ceux prescrits par les lois et règlements pour les candidats aux carrières similaires susmentionnées.\n\nL’admission au stage est révocable; le licenciement du stagiaire peut intervenir à tout moment, l’intéressé entendu en ses explications et la délégation du personnel entendue en son avis.\n\nSauf dans le cas d’un licenciement pour motifs graves, le stagiaire a droit à un préavis de 1 mois.",
+      "text_sha256": "5512bffe367015212b14d747d0346032db27630ef7ec8be014e8fedb2cc4437f",
+      "md_span": {
+        "start": 22251,
+        "end": 25183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_31/20251129",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Titre IV — Statut du personnel",
+        "Chapitre 2.- — Agents de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Par dérogation aux dispositions de l’article précédent, le comité peut engager par contrat spécial de louage de services à approuver par le conseil, pour autant que les besoins du service l’exigent, des personnes disposant d’une formation professionnelle spéciale ou justifiant d’une expérience professionnelle particulière acquise en dehors de la banque dans des domaines concernés par les activités de l’établissement.\n\n**(2)** Suivant les besoins du service, le comité peut en outre engager, par contrat spécial de louage de services, des auxiliaires sous le régime d’employé privé ou d’ouvrier.",
+      "text_sha256": "f645116c885c4fcb11be995a92a0279d40f02ef22f7d39ab44961d30df317abd",
+      "md_span": {
+        "start": 25220,
+        "end": 25826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_32/20251129",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Titre IV — Statut du personnel",
+        "Chapitre 2.- — Agents de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Les grades et titres de tous les agents de la banque sont distincts de leur fonction. En particulier, la nomination des préposés de tous les services de l’établissement, quelle qu’en soit la dénomination, peut se faire au choix, à la suite d’un appel de candidatures.",
+      "text_sha256": "6387499300638911e2bb74d601bbf544f4a30a1e0c54ccf13b946108ec6cdd26",
+      "md_span": {
+        "start": 25863,
+        "end": 26130
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_33/20251129",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Titre IV — Statut du personnel",
+        "Chapitre 2.- — Agents de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le comité peut allouer, sous réserve d’approbation du conseil, les suppléments de rémunération non pensionnables aux agents de l’établissement auxquels sont confiées des fonctions comportant des responsabilités commerciales importantes et exigeant des qualifications bancaires spéciales.",
+      "text_sha256": "ff3e0ccc081fb0314a94f63bdede0e8a32acb122ca99af06aa5b1967cb275f79",
+      "md_span": {
+        "start": 26167,
+        "end": 26454
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_34/20251129",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Titre IV — Statut du personnel",
+        "Chapitre 2.- — Agents de la banque"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Les agents de l’établissement relevant du statut public sont soumis au régime légal de l’assurance pension et de l’assu- rance maladie des employés privés.\n\nL’établissement prend à charge la quote-part de la cotisation à payer par les agents à l’assurance pension des employés privés.\n\nL’agent en activité de service, qui bénéficie d’un contrat à durée indéterminée, a droit pour lui-même et ses survivants à l’application du régime de pension des fonctionnaires de l’Etat dans l’une des conditions suivantes:\n\n- après 20 années de service à compter de l’entrée en vigueur du contrat à durée indéterminée;\n- lorsqu’il atteint l’âge de 55 ans.\n\nLe même droit existe pour l’agent engagé avant l’âge de cinquante-cinq ans à l’essai ou sous contrat à durée déterminée, à partir du moment où il obtient un contrat à durée indéterminée, à la condition que les différentes périodes se succèdent sans interruption.\n\nSeront mises en compte pour l’application des délais prévus au présent article, les périodes passées au service de l’Etat, des établissements publics, des communes, syndicats de communes et de la société nationale des chemins de fer luxembourgeois.\n\n**(2)** Les agents mis à la retraite bénéficient d’un supplément de pension, à charge de l’établissement, s’ils se trouvent dans les conditions ouvrant droit au régime de pension des fonctionnaires de l’Etat.\n\nToutefois le total de la pension découlant de l’application du présent article et des prestations d’autres régimes de pension luxembourgeois et étrangers ne pourra dépasser la pension qui serait due si l’ensemble des périodes d’assurances accomplies par l’employé sous les régimes luxembourgeois et étrangers était pris en considération pour la fixation de la pension des fonctionnaires. Le cas échéant, la pension calculée en vertu de l’alinéa 1er sera réduite en conséquence.\n\n**(3)** Le prélèvement forfaitaire dans l’intérêt de la péréquation des pensions à opérer conformément à la loi modifiée du 22 juin 1963 est applicable aux agents.\n\nLe prélèvement forfaitaire prévu à l’article précédent est affecté à un fonds de pension institué auprès de l’établissement en conformité avec l’article 24 de la loi du 4 décembre 1967 sur l’impôt sur le revenu.",
+      "text_sha256": "00e5631a0a2d4cc77bbc3e531f49c73864f1fa729f8962982189a2e2008a0599",
+      "md_span": {
+        "start": 26491,
+        "end": 28722
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_35/20251129",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Titre IV — Statut du personnel",
+        "Chapitre 3.- — Dispositions communes"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Les membres du comité et les agents de la banque exercent leurs fonctions en pleine indépendance et ne sont responsables qu’envers l’établissement.\n\n**(2)** Le comité peut, sous réserve d’approbation du conseil et du Gouvernement en conseil, accorder chaque année aux membres du personnel de l’établissement, des indemnités pour travaux extraordinaires inhérents à des sujétions spéciales.",
+      "text_sha256": "613cc15a065dd2b2895310b848f6fa5cd0d2416f8384dacacad4848f869df4bf",
+      "md_span": {
+        "start": 28801,
+        "end": 29198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_36/20251129",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Titre V — Dispositions financières et générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "La banque jouit de l’autonomie financière d’administration et de gestion.",
+      "text_sha256": "d511cfd6a6fa332a72a0150db50951c52f9530abfc7a738d403ac92f1f52c2d7",
+      "md_span": {
+        "start": 29287,
+        "end": 29360
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_37/20251129",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Titre V — Dispositions financières et générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Les moyens propres de la banque sont constitués par le capital de dotation, les réserves et les certificats participatifs tels que visés au paragraphe (3). Le capital de dotation appartient à l’Etat.\n\n**(2)** Le montant du capital de dotation à la date d’entrée en vigueur de la présente loi est fixé à 173.525.467,34 euros par prélèvement sur les réserves existantes. Le capital de dotation peut être augmenté par incorporation de réserves ou de dotations budgétaires. Il ne peut être réduit que pour apurer les pertes. Ces décisions sont prises selon le mécanisme prévu à l’article 27, paragraphe 1er.\n\n**(3)** La banque peut émettre des certificats participatifs ainsi que des emprunts subordonnés sous réserve de l’approbation du ministre compétent. Les certificats participatifs respectent les conditions visées à l’article 28 du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d’investissement et modifiant le règlement (UE) n° 648/2012. Les certificats participatifs peuvent être détenus par l’État ou par le public.",
+      "text_sha256": "b1f3eaf98eb507dbd95ccbf29268dcdd6e20995abb751b611b5c4ddcf72309aa",
+      "md_span": {
+        "start": 29397,
+        "end": 30558
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2013/575/jo",
+          "text": "règlement (UE) n° 575/2013"
+        },
+        {
+          "href": "/eli/reg_ue/2012/648/jo",
+          "text": "règlement (UE) n° 648/2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_38/20251129",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Titre V — Dispositions financières et générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** L’exercice de la banque commence le 1er janvier et s’achève le 31 décembre de chaque année.\n\n**(2)** Avant la fin du premier trimestre de chaque année, le comité soumet les comptes annuels, arrêtés au 31 décembre de l’année précédente, à l’approbation du conseil, en y joignant le rapport du ou des réviseurs d’entreprises. Après l’approbation des comptes annuels, le conseil statue sur l’affectation du bénéfice disponible, conformément aux règles prévues par ou en vertu de l’article suivant.\n\n**(3)** Dans le mois qui suit leur approbation par le conseil, les comptes annuels sont soumis à l’approbation du Gouvernement en conseil qui les transmet à la Chambre des députés et les fait publier au Recueil électronique des sociétés et associations, conformément aux dispositions du chapitre Vbis du titre Ier de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.\n\nL’approbation du Gouvernement donne décharge au conseil et au comité de leur administration et gestion pendant l’exercice écoulé.",
+      "text_sha256": "f97a72a31924495709ee21fb3fd8e56c8d566450f60ac2ce59bea5864b950536",
+      "md_span": {
+        "start": 30595,
+        "end": 31699
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_39/20251129",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Titre V — Dispositions financières et générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Le bénéfice disponible de la banque est formé du bénéfice net de l’exercice, augmenté ou diminué selon le cas du report à nouveau, positif ou négatif, du ou des exercices précédents.\n\n**(2)** Sur base du bénéfice disponible, le capital de dotation et les certificats participatifs peuvent être rémunérés en tenant compte de leurs droits économiques respectifs.\n\n**(4)** L’éventuel solde restant du bénéfice disponible est ajouté aux réserves ou reporté à nouveau.",
+      "text_sha256": "130b51078413dcb954d3719df8f96cdff4869721447b56a23e265d198a6bc777",
+      "md_span": {
+        "start": 31736,
+        "end": 32207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_40/20251129",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Titre V — Dispositions financières et générales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Au cours du premier semestre de chaque année, le comité élabore un rapport sur les activités de la banque pendant l’exer- cice écoulé qui sera publié après approbation du conseil.",
+      "text_sha256": "12eada3475f3d1871341e1d9ce4a42423c4492e36000fcb0d72b17f8df62fd64",
+      "md_span": {
+        "start": 32244,
+        "end": 32423
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_43/20251129",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Dispositions diverses"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** La banque est tenue de requérir son immatriculation au registre de commerce et des sociétés. Sont à cet effet d’application correspondante les lois et les règlements sur le registre de commerce applicables aux sociétés commerciales.\n\n**(2)** La banque doit déposer auprès du registre de commerce et des sociétés et publier au Recueil électronique des sociétés et associations, conformément aux dispositions du chapitre Vbis du titre Ier de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises tous actes et documents dans les cas et d’après les formes prescrites par les lois et les règlements pour les dépôts et publications à faire par les établissements de crédit constitués sous forme de sociétés anonymes.",
+      "text_sha256": "2d747739926012a94b2e1cb94f17ce50294268711467f877e5eed97f580d13fb",
+      "md_span": {
+        "start": 32498,
+        "end": 33315
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2002/12/19/n1/jo",
+          "text": "loi modifiée du 19 décembre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_44/20251129",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Dispositions diverses"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** La banque est liée à l’égard des tiers par les actes accomplis par ceux ayant pouvoir d’agir en son nom et pour son compte, même si ces actes excèdent son objet social, à moins qu’elle ne prouve que le tiers savait que l’acte dépassait l’objet ou qu’il ne pouvait l’ignorer, compte tenu des circonstances.\n\n**(2)** Les membres du comité ainsi que ceux ayant pouvoir d’agir au nom et pour le compte de la banque ne contractent cependant aucune obligation personnelle financière relativement aux engagements de la banque sauf les cas prévus par la loi.",
+      "text_sha256": "ec35282eae9f03970f876ab9fec7fcb4e05bcd47aca2486231f7601d3f342286",
+      "md_span": {
+        "start": 33352,
+        "end": 33910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_45/20251129",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Dispositions diverses"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Le règlement d’ordre intérieur précisera les conditions et limites des délégations de signature nécessaires à la gestion journalière des affaires, ainsi que les indications que tous les actes émanant de la banque doivent contenir pour répondre aux exigences du droit commun.",
+      "text_sha256": "dda8bcae4ab7be973022008f76e807f27e1e070896a8a4407d31beda2538aa1e",
+      "md_span": {
+        "start": 33947,
+        "end": 34221
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_46/20251129",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Dispositions diverses"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Dans tous les actes engageant la responsabilité de la banque, la signature de ceux qui ont pouvoir d’agir en son nom et pour son compte doit être précédée ou suivie immédiatement de l’indication de la qualité en vertu de laquelle ils agissent. La banque est valablement engagée en toutes circonstances par la signature conjointe de deux membres du comité.",
+      "text_sha256": "6785365b841f9bfc5dd3fea0f842a96238fc07c1a23b9f659ac56ddd747b8fac",
+      "md_span": {
+        "start": 34258,
+        "end": 34613
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_47/20251129",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Dispositions diverses"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Les mineurs sont admis à faire ouvrir des comptes et livrets d’épargne sans l’intervention de leur représentant légal auprès des établissements de crédit agréés au Luxembourg. Avant l’âge de quinze ans accomplis, les mineurs ne peuvent disposer des sommes figurant sur de tels comptes et livrets sans le consentement de leur représentant légal; après l’âge de quinze ans accomplis, ils peuvent en disposer seuls, sauf opposition de leur représentant légal.\n\n**(2)** L’opposition prévue au paragraphe précédent ext susceptible d’être portée, à la requête du mineur, devant le juge des tutelles. Celui-ci convoque les parties à comparaître devant lui et les entend en leurs explications.\n\nLa décision du juge des tutelles est notifiée au mineur et à son représentant légal. Cette décision peut être frappée d’appel, conformément aux dispositions y relatives du code de procédure civile.",
+      "text_sha256": "720f252d0a96d4ece53ea436b35e32839fdd43598092429b001983e2c96d0dba",
+      "md_span": {
+        "start": 34650,
+        "end": 35542
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_48/20251129",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Dispositions diverses"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Les actions judiciaires à soutenir par la banque, soit en demandant soit en défendant, sont valablement poursuivies et les exploits pour ou contre elle sont valablement faits au nom de la banque seule.\n\nTous assignations, citations, significations, notifications, oppositions, sommations et commandements concernant la banque ainsi que tous autres actes de procédure ne sont valablement faits qu’au siège de la banque.",
+      "text_sha256": "c9deb29674e85a69e72a6a127ac409c6224a7189300f75649971e1d177597781",
+      "md_span": {
+        "start": 35579,
+        "end": 35997
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_49/20251129",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Dispositions diverses"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Les décisions de la banque ne son pas soumises aux lois e règlements relatifs à la procédure administrative non contentieuse.",
+      "text_sha256": "58a799a25168cc63f1a8400f487db42f5f8db0fd9b01364d9e72c18a577db8a9",
+      "md_span": {
+        "start": 36034,
+        "end": 36167
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_50/20251129",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Titre VI. — Dispositions diverses"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Le secret bancaire tel que prévu par ou en vertu des lois et règlements applicables aux établissements de crédit et sanc- tionné par l’article 458 du code pénal est d’application à toutes les personnes qui participent à un titre quelconque au service de la banque.\n\n**(2)** Les dispositions du paragraphe précédent s’appliquent également aux membres du conseil, au commissaire de surveil-lance ainsi qu’aux réviseurs d’entreprises.",
+      "text_sha256": "ffb32d66fbe9cc10f1a36ea301cc6ae01b256a92f0c1183905da2b7ac044d24f",
+      "md_span": {
+        "start": 36204,
+        "end": 36643
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_51/20251129",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Titre VII. — Caisse d’Assurances"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** La banque reste autorisée à faire directement, par le service spécial organisé auprès d’elle sous la dénomination «Caisse d’Assurances», des opérations d’assurances sur la vie ayant pour but de garantir le remboursement total ou partiel, soit à échéance déterminée soit au décès du débiteur, des prêts consentis par la banque.\n\n**(2)** Elle pourra soit transférer à une entreprise d’assurances agréée l’ensemble de son portefeuille d’assurances soit constituer une entreprise d’assurances distincte de la banque, le cas échéant, avec une ou plusieurs autres entreprises d’assurances agréées ayant pour objet les susdites opérations d’assurances.\n\n**(3)** Dans ce dernier cas, l’ensemble du portefeuille d’assurances et les actifs représentatifs de la marge de solvabilité et des réserves techniques sont transférés à cette entreprise.\n\n**(4)** Dans les deux cas, les opérations de transfert ou de cession sont opposables aux preneurs d’assurances.\n\n**(5)** Dès le transfert du portefeuille de la banque à la nouvelle ou à une autre entreprise, la banque n’est plus autorisée à faire directement les opérations d’assurances visées au paragraphe (1) du présent article.\n\n**(6)** La loi modifiée du 6 septembre 1968 concernant le contrôle des entreprises d’assurances est applicable aux activités d’assurances prévues par le présent article.",
+      "text_sha256": "ce6314d66e623e1d90ce3395645e686958ea99e6d6da65c4861faf7e16ef29cf",
+      "md_span": {
+        "start": 36717,
+        "end": 38063
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1968/09/06/n1/jo",
+          "text": "loi modifiée du 6 septembre 1968"
+        }
+      ]
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_52/20251129",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Titre VIII. — Dispositions abrogatoires"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Sont abrogées toutes les dispositions légales et réglementaires contraires à celles prévues par la présente loi.\n\n**(2)** Toutefois les dispositions légales ou réglementaires antérieures restent applicables pour autant qu’elles régissent des situations existantes au moment de l’entrée en vigueur de la présente loi, notamment des relations entre la banque et des tiers, en tant que ces situations ou relations n’auront pas cessé d’exister, à moins que les parties ne consentent à régler leurs rapports par contrat dans les cas où une telle possibilité est donnée. Les dispositions de la présente loi sont d’application correspondante quant aux prédites situations et relations.",
+      "text_sha256": "e496789112280c376dce34823005feff35e936479db23718958048b26c4eb780",
+      "md_span": {
+        "start": 38144,
+        "end": 38830
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_53/20251129",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Titre VIII. — Dispositions abrogatoires"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Restent provisoirement en vigueur, les dispositions de l’arrêté grand-ducal du 10 juin 1901 portant règlement pour la Caisse d’Epargne ainsi que les dispositions de l’arrêté grand-ducal du 28 juin 1930 portant création d’un service spécial près la Caisse d’Epargne et du Crédit Foncier de l’Etat pour les opérations d’assurances à faire en vertu de l’article 19 de la loi du 16 juin 1930 sur la réorganisation du Crédit Foncier de l’Etat, telles que toutes ces dispositions ont été modifiées dans la suite. Les dispositions de la présente loi sont d’application correspondante quant à l’exécution des dispositions des prédits arrêtés grand-ducaux.\n\nLes dispositions visées à l’alinéa précédent pourront être abrogées par règlement du ministre compétent.",
+      "text_sha256": "2dbd26f217da954b48ae83ffe7a9c0e1d15bf044c0eb17aa29f2027857f391d0",
+      "md_span": {
+        "start": 38867,
+        "end": 39620
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1930/06/16/n1/jo",
+          "text": "loi du 16 juin 1930"
+        }
+      ]
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_54/20251129",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Titre IX. — Dispositions transitoires et dispositions finales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "**(1)** Le mandat des membres du conseil d’administration en fonction vient à échéance au moment de l’entrée en vigueur de la présente loi.\n\n**(2)** Par dérogation aux dispositions concernant le conseil de la banque, le directeur en fonction au moment de l’entrée en vigueur de la présente loi fera partie d’office, sur le contingent des membres du conseil relevant de l’Etat, du conseil de la banque à nommer à la suite de l’entrée en vigueur de la présente loi et en assumera la présidence au cours du premier mandat. Ce mandat est renouvelable. Le fonctionnaire en question gardera son statut de fonctionnaire de l’Etat avec tous les droits y attachés quant au traitement et à la pension. Le Gouvernement pourra en outre le charger de missions spéciales. Le paiement de son traitement est avancé par l’Etat et remboursé par la banque. Durant l’exercice de ces fonctions, le fonctionnaire en question bénéficiera en outre, en dehors de son traitement, qui restera identique à celui prévu pour les fonctions spéciales à indice fixe, classées au grade S1 par la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, telle que cette loi a été ou sera modifiée dans la suite, des indemnités pour frais de représentation, auxquelles il aurait eu droit s’il avait assumé la fonction de directeur général. Au cas où le mandat en question ne serait pas renouvelé à échéance, le fonctionnaire en question aura droit à un poste dans l’administration gouvernementale, ceci également dans le respect de son statut de fonctionnaire et du maintien de son traitement et de ses droits à la pension.",
+      "text_sha256": "0a00ce75aaaa8ced270a5b64ec9a2f0a269340d4da30a62a9abdb88d1aaf9434",
+      "md_span": {
+        "start": 39723,
+        "end": 41336
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi du 22 juin 1963"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "cette loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_55/20251129",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Titre IX. — Dispositions transitoires et dispositions finales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "Les mesures d’exécution de la présente loi font l’objet de règlements grand-ducaux, qui déterminent notamment:\n\n1. le statut des membres du conseil représentant le personnel au conseil, ainsi que leur mode d’élection;\n2. les conditions générales du statut des agents de la banque;\n3. les conditions financières, comptables et de gestion concernant la caisse d’assurances.",
+      "text_sha256": "6e633861300620d888ba0af026ec585755fc344c65358462c0e570b63c242d58",
+      "md_span": {
+        "start": 41373,
+        "end": 41744
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-1989-03-24-n1:2025-11-29#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/art_56/20251129",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "Titre IX. — Dispositions transitoires et dispositions finales"
+      ],
+      "article_valid_from": "2025-11-29",
+      "text_md": "La présente loi entre en vigueur le 1er jour du deuxième mois suivant sa promulgation.",
+      "text_sha256": "5547990ec07ebfccc40a64f9053e4d8d59245111a7a978a64c8cf64fcb94ec0a",
+      "md_span": {
+        "start": 41781,
+        "end": 41867
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

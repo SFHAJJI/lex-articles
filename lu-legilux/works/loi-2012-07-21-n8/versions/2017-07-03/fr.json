@@ -1,0 +1,316 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/07/2017 : Loi du 21 juillet 2012 portant création du Sportlycée.",
+  "valid_from": "2017-07-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2012-07-21-n8/versions/2017-07-03/fr.xml",
+    "sha256": "e0916d215b8f2e46e0b9ac8f47340ce8a8dbebdf52166f5a880e59d54b6b4ab2",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/consolide/20170703/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_1er/20120807",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre Ier.** — *****Dispositions générales*****"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "Il est créé sous l'autorité du ministre ayant l'Éducation nationale dans ses attributions un lycée qui a pour mission de mettre en oeuvre de manière intégrée, d'une part, un enseignement et un encadrement éducatif adapté à des élèves sportifs de haut niveau appelé «volet enseignement» par la suite, et, d'autre part, un dispositif de coordination de l'encadrement sportif appelé «volet sports» par la suite. Ce nouveau lycée porte la dénomination de «Sportlycée».\n\nLes services du Sportlycée incluent un internat et un restaurant scolaire.",
+      "text_sha256": "dea0e99a5b6cba597a942cf0bc744e4da06bdaad59c4cfcd5af9fe0742102fd2",
+      "md_span": {
+        "start": 633,
+        "end": 1173
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_2/20120807",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre Ier.** — *****Dispositions générales*****"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "La direction du Sportlycée est assurée par un directeur qui exerce les responsabilités d'un directeur de lycée telles qu'elles figurent à l'article 24 de la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques et celles qui résultent de la présente loi.\n\nIl est secondé dans sa tâche par un ou plusieurs directeurs adjoints.\n\nLe directeur et les directeurs adjoints sont nommés par le Grand-Duc suivant les conditions et modalités de nomination des fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'État. Le directeur représente l'autorité supérieure auprès de la communauté scolaire. Il représente la communauté scolaire envers les tiers.\n\nLe directeur et les directeurs adjoints sont choisis parmi les fonctionnaires appartenant ou ayant appartenu pendant 5 ans au moins au personnel de la carrière supérieure de l'enseignement ou de la carrière supérieure de l'administration. Au moins un directeur adjoint est à recruter suivant proposition du ministre ayant le Sport dans ses attributions.\n\nLa fonction de directeur est classée au grade E8.\n\nLa fonction du directeur adjoint est classée au grade E7*ter* si son titulaire est recruté parmi les enseignants classés au grade E7 ou s'il est recruté parmi la carrière supérieure de l'administration, au grade E6*ter* si son titulaire est recruté parmi les enseignants classés au grade E6 et au grade E5*ter *si son titulaire est recruté parmi les enseignants classés au grade E5.\n\nLe directeur peut se faire assister par des attachés à la direction à tâche complète ou partielle.",
+      "text_sha256": "b812cb428953bb7cf25f9baa326fb00daee673c01fa4f41319062e3bf0a38f0d",
+      "md_span": {
+        "start": 1208,
+        "end": 2808
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_3/20120807",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre Ier.** — *****Dispositions générales*****"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "Le personnel du Sportlycée comprend les fonctions et emplois prévus par la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique.",
+      "text_sha256": "df8efaaaf9d61ff29cc8a0cf0f158dec304302039d757869d81a79e7f30182ea",
+      "md_span": {
+        "start": 2843,
+        "end": 3047
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/06/29/n1/jo",
+          "text": "loi modifiée du 29 juin 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_4/20120807",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre Ier.** — *****Dispositions générales*****"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "**(1)** Il est institué un comité de coordination au Sportlycée.\n\nIl a pour mission:\n\n1. de proposer les orientations spécifiques du Sportlycée;\n2. d'émettre des avis et de réaliser des études sur le fonctionnement et le développement du Sportlycée soit à sa propre initiative, soit à la demande d'un des ministres ayant respectivement l'Éducation nationale ou le Sport dans leurs attributions;\n3. d'aviser les conventions à conclure avec les fédérations sportives et de veiller à leur respect;\n4. de procéder à l'inscription des élèves au Sportlycée conformément aux dispositions prévues à l'article 11 ci-dessous;\n5. de suivre la charge globale des élèves, comprenant la charge scolaire et la charge sportive;\n6. d'aviser les coopérations visées à l'article 5.\n\n**(2)** Le comité de coordination est composé d'un délégué du ministre ayant l'Éducation nationale dans ses attributions, d'un délégué du ministre ayant le Sport dans ses attributions, d'un délégué de l'organisme central du sport, du directeur et du directeur adjoint proposé par le ministre ayant le Sport dans ses attributions. Les membres sont nommés pour un mandat renouvelable de 3 ans par arrêté ministériel du ministre ayant l'Éducation nationale dans ses attributions. Pour chaque membre effectif, à part les membres de la direction du Sportlycée, il est nommé un membre suppléant.\n\n**(3)** Le fonctionnement du comité de coordination est arrêté par règlement grand-ducal.\n\nLa fonction de secrétaire est assurée par un membre de l'administration du Sportlycée.\n\nLe comité de coordination se réunit au moins 3 fois par année scolaire et sur demande d'un de ses membres.",
+      "text_sha256": "d05ed6272ebf65dcdc7bdc02b3ed7395426c33b6c848defdc06448829d41dbc6",
+      "md_span": {
+        "start": 3082,
+        "end": 4722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_5/20120807",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre Ier.** — *****Dispositions générales*****"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "Pour l'accomplissement des missions du Sportlycée, des conventions peuvent être conclues avec des personnes ou organismes de droit public ou privé luxembourgeois ou étrangers.",
+      "text_sha256": "873f1152f75767e93fda8b1dc7729c2f3a4504f1872383398081ea46c3c8faed",
+      "md_span": {
+        "start": 4757,
+        "end": 4932
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_6/20120807",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — ***Le volet enseignement***"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "L'offre scolaire comporte:\n\n1. le cycle inférieur de l'enseignement secondaire technique;\n2. la division inférieure et la division supérieure de l'enseignement secondaire.\n\nUne coopération est mise en place avec un ou plusieurs lycées pour le cycle moyen et supérieur de l'enseignement secondaire technique.",
+      "text_sha256": "b98f52f042fe52a7ed984427c642060abd9343ccab6a237112a07200f77b55c8",
+      "md_span": {
+        "start": 5018,
+        "end": 5325
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_7/20120807",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — ***Le volet enseignement***"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "L'organisation scolaire comprend:\n\n1. des unités d'enseignement, y compris des unités d'éducation physique;\n2. des plages horaires réservées à la préparation physique générale et à la préparation motrice générale;\n3. des plages horaires réservées à l'entraînement fédéral;\n4. des plages horaires réservées aux études surveillées, aux cours d'appui et aux séances de rattrapage;\n5. un dispositif pédagogique qui prend en charge l'élève avant, pendant et après ses déplacements sportifs;\n6. un tutorat des élèves.\n\nL'organisation du volet enseignement est établie conformément aux dispositions de la loi modifiée du 25 juin 2004 portant organisation des lycées et lycées techniques, à l'exception des dispositions de l'article 37 concernant l'inscription.",
+      "text_sha256": "758258962d9e4ce317d2d225c20aa9e038a05a7753b6a8bc8bcf927d3720b589",
+      "md_span": {
+        "start": 5360,
+        "end": 6113
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/25/n9/jo",
+          "text": "loi modifiée du 25 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_8/20120807",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — ***Le volet sports***"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "L'organisation du volet sports comprend:\n\n1. la coordination du programme sportif prévu à l'article 9 de la présente loi qui est adapté aux besoins et capacités des élèves;\n2. la coordination des centres de formation fédéraux en collaboration avec l'École nationale de l'Éducation physique et des Sports;\n3. la coordination de la charge sportive des élèves du Sportlycée et des élèves des centres de formation fédéraux en concertation avec l'organisme central du sport et les fédérations sportives concernées;\n4. la planification de stages interfédéraux.",
+      "text_sha256": "913d0a4ec4869090e968626a1d100c18d35db497f2c6a09c95a0dbeccb0bee1f",
+      "md_span": {
+        "start": 6194,
+        "end": 6748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_9/20120807",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — ***Le volet sports***"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "Le programme sportif se compose:\n\n1. de séances d'éducation physique et sportive;\n2. de cours de préparation physique générale et de préparation motrice générale;\n3. de séances d'entraînement spécifiques;\n4. de compétitions et stages d'entraînement;\n5. d'un programme d'entraînement mental.\n\nLes séances d'entraînement spécifiques ont lieu pendant des plages horaires réservées aux fédérations sportives. Elles se déroulent sous la responsabilité de celles-ci. Les entraîneurs fédéraux sont responsables de la gestion des programmes d'entraînement spécifique, des compétitions et des stages d'entraînement en concertation avec tous les autres intervenants.",
+      "text_sha256": "3ea0c7a17af44b5d544bd7be7514cd0cce58767f31778561ebfdf52d47495156",
+      "md_span": {
+        "start": 6783,
+        "end": 7439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_10/20120807",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — ***Le volet sports***"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "Le Sportlycée organise et coordonne un dispositif de suivi individualisé de l'élève-sportif axé notamment sur:\n\n1. un encadrement médical et paramédical;\n2. la prévention des blessures et la réathlétisation;\n3. les valeurs éthiques, éducatives et psychosociales;\n4. la lutte antidopage;\n5. la mise en place d'un projet de vie pour chaque élève-sportif;\n6. la nutrition du sportif.",
+      "text_sha256": "6755dca08c76fbe7644379c4221feb1b078523bc8fcc71f5d14cd3d66457e27d",
+      "md_span": {
+        "start": 7476,
+        "end": 7856
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_11/20170703",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV.** — ***L'admission au Sportlycée***"
+      ],
+      "article_valid_from": "2017-07-03",
+      "text_md": "Pour être admissible au Sportlycée, l'élève doit respecter les critères d'admission tels qu'ils sont définis par la législation en vigueur pour les lycées et lycées techniques. Par ailleurs, il doit remplir des critères d'admission supplémentaires relatifs à son potentiel et ses performances sportifs. Ces critères sont déterminés par règlement grand-ducal. Les inscriptions se font sur base de propositions des fédérations sportives ayant signé une convention au sens de l'article 5. Elles sont acceptées par le comité de coordination qui peut, en outre et à leur demande, procéder à l'inscription de candidats individuels non proposés par une fédération, sur base des mêmes critères sportifs.\n\nL'élève qui ne satisfait plus aux critères d'admission peut être obligé de quitter le Sportlycée à la fin de l'année scolaire. Le directeur et le service psycho-social et d’accompagnement scolaires assistent l'élève afin qu'il puisse continuer sa scolarité dans un autre lycée.",
+      "text_sha256": "8467d8dcf7290c8037ae6e73eeb6e890a1a4dea20880c362689bc4fb330764ca",
+      "md_span": {
+        "start": 7948,
+        "end": 8922
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_12/20120807",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — ***Le personnel du Sportlycée***"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:\n\n1. 1. 1 rédacteur ou employé de l'État de la carrière D;\n2. 1 bibliothécaire documentaliste;\n3. 2 éducateurs gradués;\n4. 1 éducateur;\n5. 1 concierge;\n6. 1 garçon de salle;\n7. 1 expéditionnaire technique;\n8. 2 ouvriers artisans;\n9. 2 aide-ouvriers.\n2. 1. 1 employé de l'État de la carrière D;\n2. 2 éducateurs gradués;\n3. 2 éducateurs;\n4. 1 aide-ouvrier.\n3. 1. 2 cuisiniers;\n2. 2 aide-cuisiniers;\n3. 4 aide-ouvriers.\n4. 1. 1 rédacteur ou employé de l'État de la carrière D;\n2. 3 employés de l'État de la carrière S;\n3. 1 psychologue.\n\nLes engagements définitifs au service de l'État, résultant des dispositions du présent article, se font par dépassement de l'effectif total du personnel et en dehors du nombre des engagements de renforcement déterminé dans la loi du 17 décembre 2010 concernant le budget des recettes et des dépenses de l'État pour l'année 2011 et dans les lois budgétaires pour les exercices suivants.",
+      "text_sha256": "0a4bd77e53accde35d05d237e653bfc31ec7ca004149d98f5ba0c9d33d40d3e8",
+      "md_span": {
+        "start": 9014,
+        "end": 10033
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/12/17/n15/jo",
+          "text": "loi du 17 décembre 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_13/20120807",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre V.** — ***Le personnel du Sportlycée***"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "La loi du 16 décembre 2011 concernant le budget des recettes et des dépenses de l'État pour l'exercice 2012 est complétée par les articles suivants avec les libellés et les montants suivants:",
+      "text_sha256": "fb815b1c8cd176672a896c022971be2c229ab925d9af94829d39bdc4aecfbad3",
+      "md_span": {
+        "start": 10070,
+        "end": 10261
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2011/12/16/n7/jo",
+          "text": "loi du 16 décembre 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2012-07-21-n8:2017-07-03#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/art_14/20120807",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI.** — ***Disposition transitoire***"
+      ],
+      "article_valid_from": "2012-08-07",
+      "text_md": "Le personnel enseignant engagé au moment de l'entrée en vigueur de la présente loi y compris les agents en congé sans traitement ou en congé parental à l'annexe sports-études du Lycée Aline Mayrisch est affecté au Sportlycée.",
+      "text_sha256": "30d949906161e0c48ae0c86533461fbcc4f096f3da74f89b84fd7657043547cd",
+      "md_span": {
+        "start": 10351,
+        "end": 10576
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

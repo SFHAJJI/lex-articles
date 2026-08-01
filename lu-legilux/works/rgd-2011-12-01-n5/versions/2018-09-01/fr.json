@@ -1,0 +1,518 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/09/2018 : Règlement grand-ducal du 1er décembre 2011 déterminant les critères, les conditions et la procédure relative à la fixation des prix des médicaments à usage humain.",
+  "valid_from": "2018-09-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-12-01-n5/versions/2018-09-01/fr.xml",
+    "sha256": "2bffd8b4bd16b86012e7fdc5fa7ea94c960e8c7e438e165f7509345251cfc15c",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/consolide/20180901/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_1er/20110901",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions générales"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Pour l’application de l’article 22*ter* du Code de la sécurité sociale, on entend par:\n\n1. «médicament»: toute substance ou composition présentée comme possédant des propriétés curatives ou préventives à l’égard des maladies humaines ainsi que toute substance ou composition pouvant être administrée à l’homme en vue d’établir un diagnostic médical ou de restaurer, corriger ou modifier des fonctions physiologiques chez l’homme et disposant d’une autorisation de mise sur le marché conformément aux dispositions légales en vigueur;\n2. «présentation»: unité formée par le médicament avec son conditionnement primaire et l’emballage extérieur;\n3. «pays de provenance»: le pays ayant attribué un code national à la présentation;\n4. «code national»: l’identifiant national attribué à la présentation par l’autorité compétente du pays de provenance;\n5. «numéro national»: le numéro d’identification attribué par le ministre ayant la Santé dans ses attributions à une présentation d’un médicament lors de l’attribution de l’autorisation de mise sur le marché;\n6. «titulaire»: le titulaire de l’autorisation de mise sur le marché d’un médicament ou son représentant dûment mandaté à cet effet;\n7. «grossiste»: toute personne en possession d’une autorisation d’exercer l’activité de grossiste en médicaments conformément aux dispositions légales en vigueur;\n8. «prix ex-usine»: le prix de vente hors taxes du titulaire de l’autorisation de mise sur le marché d’un médicament ou de son représentant dûment mandaté à cet effet;\n9. «prix d’achat du pharmacien»: le prix de vente hors taxes appliqué par le grossiste aux pharmacies hospitalières ou ouvertes au public;\n10. «prix au public»: le prix de vente hors taxes en pharmacie ouverte au public;\n11. «les prix d’une présentation»: le prix ex-usine et le cas échéant, le prix d’achat du pharmacien et le prix au public relatifs à une seule présentation d’un médicament, identifiée par son numéro national.",
+      "text_sha256": "1386a9582680be1c393890abec4dc33a1bde073bbef43af6a7652cfc062d5888",
+      "md_span": {
+        "start": 727,
+        "end": 2675
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_2/20110901",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions générales"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Le titulaire est habilité à commercialiser une présentation dès l’approbation de son prix par le ministre ayant dans ses attributions la Sécurité sociale.\n\nUne présentation ne peut pas être vendue à un prix supérieur au prix approuvé.",
+      "text_sha256": "7ac89400467e8b6be37881d03cc287967dc06dccf5987603f3392daace57c3b7",
+      "md_span": {
+        "start": 2710,
+        "end": 2944
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_3/20180901",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions générales"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Les prix sont exprimés en euros à deux décimales près. Les fractions de cents sont arrondies vers le haut si elles sont supérieures ou égales à cinq millièmes d’euros. Les fractions de cents sont arrondies vers le bas si elles sont strictement inférieures à cinq millièmes d’euros.\n\nLors de la vente au public, le prix au public taxe sur la valeur ajoutée incluse doit être fourni sur le ticket de caisse ensemble avec la dénomination précise de la présentation à laquelle il se rapporte et une indication permettant l’identification de la pharmacie.",
+      "text_sha256": "4b13ec72a2aaf695f6255cc980084ae81eca218b51dabaf60be2c2e254858847",
+      "md_span": {
+        "start": 2979,
+        "end": 3529
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_4/20110901",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Dispositions générales"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Les prix des médicaments approuvés par le ministre ayant dans ses attributions la Sécurité sociale sont publiés au Mémorial chaque année au mois de janvier sur la liste des prix des médicaments commercialisés établie en vertu de l’article 22*ter* du Code de la sécurité sociale. Les modifications apportées aux prix au cours de l’année sont publiées mensuellement au Mémorial.",
+      "text_sha256": "502c840b378592bc88a8ac60f910e3e5a4730d147ce1bd546c98f6d071393778",
+      "md_span": {
+        "start": 3564,
+        "end": 3940
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_5/20110901",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Procédure"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Afin d’être recevable, toute demande relative à la fixation des prix d’une ou de plusieurs présentations d’un médicament devra être obligatoirement soumise au ministre ayant dans ses attributions la Sécurité sociale par le titulaire moyennant le formulaire défini à l’annexe du présent règlement et accompagné des documents y mentionnés.",
+      "text_sha256": "d9913339bd2ec467e60a555599aeaeffc02abac0cbbf4746001bc267ac5d7ca6",
+      "md_span": {
+        "start": 4002,
+        "end": 4339
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_6/20110901",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Procédure"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Un accusé de réception est envoyé au titulaire dès que sa demande est complète quant à la forme et ne requiert plus de renseignement complémentaire. Cet accusé de réception indique qu’une décision relative au prix applicable au médicament en question est adoptée et communiquée au demandeur dans un délai de quatre-vingt-dix jours à compter de la réception.",
+      "text_sha256": "ccb856ad98b941c101be39aa6d2fa1e262ec9d0a8cea3a1cfacdcfbc64faca38",
+      "md_span": {
+        "start": 4374,
+        "end": 4731
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_7/20110901",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Procédure"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Si les informations communiquées à l’appui de la demande sont insuffisantes, le ministre ayant la Sécurité sociale dans ses attributions notifie dans les quinze jours au demandeur les renseignements détaillés qui sont exigés et prend sa décision finale dans un délai de quatre-vingt-dix jours à compter de la réception de ces renseignements complémentaires. Faute par le titulaire de communiquer les renseignements demandés endéans un délai de cent quatrevingt jours, la demande est classée sans suite.",
+      "text_sha256": "ffa1d1aea3757a998fd4e1d1767e6d959a6a79d9d85227343cf0a4e5f2ce84f8",
+      "md_span": {
+        "start": 4766,
+        "end": 5268
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_8/20110901",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Procédure"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "En l’absence d’une décision dans les délais visés aux articles 6 et 7, le titulaire est habilité à commercialiser la présentation aux prix proposés, taxes incluses.",
+      "text_sha256": "40ba2b9e616cf0e0085090696e8ef10934233fbf63a7c29609fded86ab34d83f",
+      "md_span": {
+        "start": 5303,
+        "end": 5467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_9/20110901",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Procédure"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Lorsqu’une demande contient des erreurs matérielles constatées par le titulaire avant l’octroi de la décision, celles-ci doivent être corrigées par le remplacement intégral du formulaire de demande avec indication de la date de la demande à remplacer.\n\nAu cas où la correction est notifiée au ministre ayant dans ses attributions la Sécurité sociale moins de trente jours avant l’échéance du délai communiqué conformément aux articles 7 et 8 et s’il appert que les corrections ont un caractère fondamental au regard des critères à prendre en considération en vue de la décision, le délai est prorogé d’office de trente jours.",
+      "text_sha256": "615a7ce1849aadad2356a6f667dfe0544770bcfba3414feaa09d19d178417b24",
+      "md_span": {
+        "start": 5502,
+        "end": 6127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_10/20110901",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Procédure"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "La décision d’approbation ou de rejet des prix d’une présentation prend effet le premier jour du mois qui suit la date de la décision. Si le ministre ayant la Sécurité sociale dans ses attributions décide de ne pas approuver la commercialisation du médicament en question au prix proposé par le demandeur, la décision comporte un exposé des motifs fondé sur des critères objectifs et vérifiables. En outre, le demandeur est informé des moyens de recours dont il dispose et des délais dans lesquels ces recours doivent être présentés.",
+      "text_sha256": "c1276900ad23617dda3967351c1d73ca0fbba9a34038a96f8d34e55bf4f704c4",
+      "md_span": {
+        "start": 6164,
+        "end": 6697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_11/20110901",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Procédure"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Le titulaire est tenu à signaler au ministre ayant dans ses attributions la Sécurité sociale, au moyen du formulaire de demande, toute modification des prix d’une présentation dans le pays de provenance. Cette communication se fait dans un délai d’un mois suivant la modification.\n\nSi à la suite d’une modification la présentation ne remplit plus les critères ayant été à la base de la décision d’approbation, le titulaire est obligé d’introduire une nouvelle demande relative à la fixation du prix de cette présentation.\n\nEn cas de modification des prix dans le pays de provenance d’une présentation ayant fait l’objet d’une décision d’approbation au Luxembourg non signalée par le titulaire conformément à l’alinéa 1er, le ministre ayant la Sécurité sociale dans ses attributions peut décider d’adapter les prix conformément aux critères fixés à l’article 13, la décision de modification des prix prenant effet le premier du mois qui suit la date de la décision.",
+      "text_sha256": "bd7ae2f8196f2baab8221b239dcc8cd180635577f6e380d38e4215a189568d8a",
+      "md_span": {
+        "start": 6734,
+        "end": 7698
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_12/20180901",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Conditions relatives à la fixation du prix"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "L’approbation des prix des présentations d’un médicament est retirée d’office avec effet immédiat en cas de suspension ou de retrait de l’autorisation de mise sur le marché du médicament ou en cas d’arrêt de la commercialisation d’une présentation. Une nouvelle demande est nécessaire pour une réintégration éventuelle dans la liste des prix des médicaments commercialisés établie en vertu de l’article 22*ter* du Code de la sécurité sociale.\n\nLe prix au public est retiré d’office de la liste des prix susmentionnée lorsque conformément à l’autorisation de mise sur le marché, le médicament est réservé à l’usage hospitalier en vertu du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments.",
+      "text_sha256": "46a116997cb3068efe5d98751180991daba5bd8871beba40c1591da84e2c9792",
+      "md_span": {
+        "start": 7795,
+        "end": 8531
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1992/12/15/n1/jo",
+          "text": "règlement grand-ducal modifié du 15 décembre 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_13/20180901",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Critères de fixation du prix"
+      ],
+      "article_valid_from": "2018-09-01",
+      "text_md": "Le prix hors taxes d’une présentation couverte par une autorisation de mise sur le marché conformément aux dispositions légales en vigueur ne peut pas être supérieur à celui accordé par l’autorité compétente du pays de provenance.\n\nLorsque le titulaire demande pour une présentation un prix inférieur à celui approuvé par l’autorité compétente du pays de provenance, le prix ex-usine et, le cas échéant, le prix d’achat du pharmacien et le prix au public sont réduits dans la même proportion, le pourcentage de réduction le plus élevé appliqué par le titulaire dans sa demande à l’une des composantes du prix de la présentation étant d’office appliqué aux autres composantes du prix.\n\nLorsque la demande concerne une présentation qui est destinée à la vente au public au Luxembourg et qui dispose uniquement d’un prix ex-usine approuvé par l’autorité compétente du pays de provenance, le titulaire doit calculer le prix d’achat du pharmacien et le prix au public suivant les règles de calcul officielles applicables dans le pays de provenance et joindre ces règles de calcul à sa demande.\n\nPar dérogation aux alinéas qui précèdent, lorsque la demande concerne un médicament classé à délivrance exclusivement hospitalière en vertu du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments, le prix au public équivaut au prix ex-usine ou, lorsque le médicament est classé en plus sur prescription médicale spéciale en vertu du règlement grand-ducal précité, au prix d’achat du pharmacien.\n\nPour les médicaments classés à délivrance exclusivement hospitalière et sur prescription médicale spéciale en vertu du règlement grand-ducal précité et qui ne disposent pas d’un prix d’achat du pharmacien approuvé par l’autorité compétente du pays de provenance, le titulaire calcule le prix d’achat du pharmacien suivant les règles de calcul officielles applicables dans le pays de provenance et joint ces règles de calcul à sa demande.",
+      "text_sha256": "e1de17f7ddd9bbd59e8a427af7417a662fada24ad14ff3e8f599c4f1c14363f9",
+      "md_span": {
+        "start": 8614,
+        "end": 10582
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1992/12/15/n1/jo",
+          "text": "règlement grand-ducal modifié du 15 décembre 1992"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1992/12/15/n1/jo",
+          "text": "règlement grand-ducal précité"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_14/20110901",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Critères de fixation du prix"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Le prix d’un médicament dispensé conformément à l’article 5 de la loi modifiée du 11 avril 1983 portant réglementation de la mise sur le marché et la publicité des médicaments est déterminé par référence au prix d’achat du pharmacien, augmenté de la marge commerciale du pharmacien et de la taxe sur la valeur ajoutée. La marge commerciale du pharmacien est fixée à cinquante pour cent par rapport au prix d’achat du pharmacien lorsque celui-ci est inférieur ou égal à cinquante euros et à quinze pour cent sans pouvoir être supérieure à deux cent cinquante euros lorsque le prix d’achat du pharmacien est supérieur à cinquante euros.\n\nPar dérogation aux articles 2 et 4 à 14 du présent règlement, il suffit que le pharmacien informe le ministre ayant dans ses attributions la Sécurité sociale de la vente d’un tel médicament ainsi que du prix d’achat du pharmacien et du prix au public appliqués.",
+      "text_sha256": "3f44de0e003e5fa7688cc4767802f00e980d22b3a1527ccdbd40d1c35633913a",
+      "md_span": {
+        "start": 10619,
+        "end": 11516
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1983/04/11/n4/jo",
+          "text": "loi modifiée du 11 avril 1983"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_15/20110901",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Critères de fixation du prix"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Lorsque les prix peuvent être établis suivant plusieurs critères, la variante la plus économique est retenue.",
+      "text_sha256": "003d3bc97ecc63a530e271d2233bd2c97319ef68363631624b140d7f3b9e1be5",
+      "md_span": {
+        "start": 11553,
+        "end": 11662
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_16/20110901",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Disposition abrogatoire"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Le règlement grand-ducal modifié du 13 décembre 1988 concernant les prix des médicaments et le règlement grand-ducal du 29 juillet 2004 concernant les prix des spécialités pharmaceutiques et des médicaments préfabriqués sont abrogés.",
+      "text_sha256": "f03fe0817f74272c2a73f0fd03358dbd07b669af4e9183c4f2b7dcb3a628ea25",
+      "md_span": {
+        "start": 11740,
+        "end": 11973
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1988/12/13/n2/jo",
+          "text": "règlement grand-ducal modifié du 13 décembre 1988"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2004/07/29/n1/jo",
+          "text": "règlement grand-ducal du 29 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_17/20110901",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Dispositions transitoires"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Les médicaments homologués conformément au règlement grand-ducal du 29 juillet 2004 concernant les prix des spécialités pharmaceutiques et des médicaments préfabriqués au 31 août 2011 ne doivent pas faire l’objet d’une demande au sens du présent règlement et sont inscrits d’office sur la liste des prix des médicaments commercialisés établie en vertu de l’article 22*ter* du Code de la sécurité sociale. En conséquence de l’abrogation du plafond de 98,44% prévu à l’article 6 du règlement grand-ducal du 29 juillet 2004 concernant les prix des spécialités pharmaceutiques et des médicaments préfabriqués, les prix au public des médicaments de provenance belge, valables au 31 août 2011, font l’objet d’un recalcul au 1er septembre 2011. La liste des prix publics modifiés est publiée au Mémorial sans communication de décisions individuelles.",
+      "text_sha256": "f29f91251d25d4ace8801c4f8a593dc8ad62fa802887b902ff33c59814b5ce5b",
+      "md_span": {
+        "start": 12053,
+        "end": 12896
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2004/07/29/n1/jo",
+          "text": "règlement grand-ducal du 29 juillet 2004"
+        },
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_18/20110901",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Dispositions transitoires"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Les demandes d’homologation introduites avant le 1er septembre 2011 auprès du ministre ayant l’Economie dans ses attributions conformément au règlement grand-ducal du 29 juillet 2004 concernant les prix des spécialités pharmaceutiques et des médicaments préfabriqués n’ayant pas encore fait l’objet d’une homologation à cette date sont transférées au ministre ayant la Sécurité sociale dans ses attributions pour être instruites conformément aux dispositions du présent règlement.",
+      "text_sha256": "6cd051a2894f45593d348a93fe9cbb5fc27696384c909947020e3c8dbde706a5",
+      "md_span": {
+        "start": 12933,
+        "end": 13413
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2004/07/29/n1/jo",
+          "text": "règlement grand-ducal du 29 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18bis",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_18bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Dispositions transitoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les médicaments classés à délivrance exclusivement hospitalière, qui à la date d’entrée en vigueur du règlement grand-ducal du 27 février 2018 modifiant le règlement grand-ducal du 1er décembre 2011 déterminant les critères, les conditions et la procédure relative à la fixation des prix des médicaments à usage humain remplissent les conditions pour l’inscription sur la liste positive des médicaments, ne doivent pas faire l’objet d’une demande au sens du présent règlement et sont inscrits d’office sur décision du président de la Caisse nationale de santé conformément à l’article 22, paragraphe 2, alinéa 1er du Code de la sécurité sociale.\n\nPour les médicaments classés à délivrance exclusivement hospitalière au Luxembourg et sur prescription médicale spéciale en vertu du règlement grand-ducal modifié du 15 décembre 1992 relatif à la mise sur le marché des médicaments et qui, à la date d’entrée en vigueur du règlement grand-ducal précité du 27 février 2018, ne disposent pas d’un prix d’achat du pharmacien au Luxembourg, ce prix est fixé d’office sur base du prix d’achat du pharmacien dans le pays de provenance, ou, à défaut d’un prix d’achat du pharmacien dans le pays de provenance, sur base des règles de calcul officielles applicables dans le pays de provenance.\n\nLes alinéas qui précèdent sont applicables aux médicaments dont la demande de prix est en cours au moment de l’entrée en vigueur du règlement grand-ducal précité du 27 février 2018.",
+      "text_sha256": "a95d3219902c9918db85fd4256da91a0315b99ecfe25c8002aa8834673826b9e",
+      "md_span": {
+        "start": 13456,
+        "end": 14919
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/02/27/a167/jo",
+          "text": "règlement grand-ducal du 27 février 2018"
+        },
+        {
+          "href": "???",
+          "text": "règlement grand-ducal du 1er décembre 2011"
+        },
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code de la sécurité sociale"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1992/12/15/n1/jo",
+          "text": "règlement grand-ducal modifié du 15 décembre 1992"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2018/02/27/a167/jo",
+          "text": "règlement grand-ducal précité du 27 février 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_19/20110901",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Mise en vigueur"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Le présent règlement entre en vigueur le 1er septembre 2011.",
+      "text_sha256": "403b7591aa2f1a04c83670f383ce7cfa23125deefdec1a5a82d28346b66d1afd",
+      "md_span": {
+        "start": 14989,
+        "end": 15049
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/art_20/20110901",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Mise en vigueur"
+      ],
+      "article_valid_from": "2011-09-01",
+      "text_md": "Notre Ministre de la Sécurité sociale est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "bf75b593efeb2774950baae0070b7dec0bb91a0b01117fa27a425f8e0d468a0f",
+      "md_span": {
+        "start": 15086,
+        "end": 15199
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2011-12-01-n5:2018-09-01#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **FORMULAIRE DE DEMANDE** |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |\n|  | Nouveaux prix |  |  |  |  |  |\n|  | Modification des prix: |  |  | Baisse des prix |  |  |\n|  |  |  |  | Augmentation des prix (joindre justificatif) |  |  |\n|  | Retrait des prix: |  |  |  |  |  |\n| Numéro national | Désignation – dosage – forme pharmaceutique |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n| Nom du titulaire: |  |  |  |  |  |  |\n| **Les prix officiels et TVA valables dans le pays de provenance** |  |  |  |  |  |  |\n| Tous les prix officiels doivent être renseignés. |  |  |  |  |  |  |\n|  |  | <Présentation à spécifier> | <Présentation à spécifier> | <Présentation à spécifier> | ... |  |\n|  |  |  |  |  |  |  |\n| Code national |  |  |  |  |  |  |\n| Prix ex-usine hors taxes |  |  |  |  |  |  |\n| Prix d’achat du pharmacien hors taxes |  |  |  |  |  |  |\n| Prix au public hors taxes |  |  |  |  |  |  |\n| Prix au public toutes taxes comprises |  |  |  |  |  |  |\n| Taxe sur la valeur ajoutée |  |  |  |  |  |  |\n| **Les prix demandés au Luxembourg** |  |  |  |  |  |  |\n| A indiquer uniquement lorsqu’ils diffèrent des prix valables dans le pays de provenance des présentations |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  |  | <Présentation à spécifier> | <Présentation à spécifier> | <Présentation à spécifier> | ... |  |\n|  |  |  |  |  |  |  |\n| Prix ex-usine hors taxes |  |  |  |  |  |  |\n| Prix d’achat du pharmacien hors taxes |  |  |  |  |  |  |\n| Prix au public hors taxes |  |  |  |  |  |  |\n| Prix au public toutes taxes comprises |  |  |  |  |  |  |\n| Taxe sur la valeur ajoutée |  |  |  |  |  |  |\n\nLe titulaire est tenu à assurer la commercialisation effective de toutes les présentations pour lesquelles une décision d’approbation des prix est intervenue. Le titulaire est tenu de prévenir immédiatement l’autorité compétente de la non commercialisation d’une ou de plusieurs présentations concernées.\n\nLe titulaire est tenu à signaler à l’autorité compétente, au moyen du formulaire de demande, toute modification des prix dans le pays de provenance de la présentation. Cette communication se fait dans un délai d’un mois suivant la modification.\n\nIl y a lieu de faire précéder la signature de la mention manuscrite « lu et approuvé ».\n\n| Fait à | , le |  |\n| --- | --- | --- |\n\nSignature du demandeur:\n\nNom et qualité du signataire:\n\nPièces à joindre au présent formulaire:\n\n- Copie de la décision relative aux prix émise par l’autorité compétente du pays de provenance de la présentation\n- Copie de la décision relative aux codes nationaux émise par l’autorité compétente du pays de provenance de la présentation\n- Justificatif en cas d’une demande d’augmentation des prix",
+      "text_sha256": "45820ffc38404f735c9f038edda77127d2a949aeae5b187556e1e22b134f9364",
+      "md_span": {
+        "start": 15240,
+        "end": 17967
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

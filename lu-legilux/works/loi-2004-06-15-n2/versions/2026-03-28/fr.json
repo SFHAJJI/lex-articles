@@ -1,0 +1,171 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/03/2026 : Loi du 15 juin 2004 portant réorganisation de l’administration des bâtiments publics.",
+  "valid_from": "2026-03-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2004-06-15-n2/versions/2026-03-28/fr.xml",
+    "sha256": "9dcb36cb52a952185f065a8866f2905c6caa92a37666278b13097045ee4da72a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/consolide/20260328/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/art_1er/20170409",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-04-09",
+      "text_md": "L’administration des bâtiments publics, dénommée ci-après «l’administration», est placée sous l’autorité du membre du Gouvernement ayant dans ses attributions le département des Travaux Publics.",
+      "text_sha256": "d1c8e2b350ef3cc0436be7a135f5fecadf869b6a0694798f833ec2f7d4f8d60e",
+      "md_span": {
+        "start": 607,
+        "end": 801
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/art_2/20170409",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-04-09",
+      "text_md": "Sans préjudice des dispositions légales et réglementaires fixant les attributions d’autres organes de l’État, l’administration a les attributions suivantes:\n\n- l’étude et l’exécution des bâtiments publics nouveaux financés par l’Etat, y compris leurs équipements et l’aménagement des alentours;\n- l’étude et l’exécution des bâtiments publics nouveaux réalisés par voie de préfinancement assuré par une institution parastatale, ou un établissement privé, y compris leurs équipements et l’aménagement des alentours;\n- le conseil et l’assistance technique en matière de construction aux institutions parastatales et aux établissements publics sous tutelle d’autres ministères;\n- l’établissement et la gestion de l’inventaire des bâtiments publics;\n- l’établissement et la gestion des programmes de maintenance des bâtiments publics, de leurs équipements, alentours et plantations;\n- la maintenance et la gestion technique des bâtiments publics et de leurs équipements spéciaux;\n- l’étude et la réalisation des travaux de transformation, d’agrandissement et de réhabilitation des bâtiments publics y compris leurs équipements et l’aménagement des alentours;\n- l’établissement et la gestion de l’inventaire des biens meubles équipant les immeubles affectés aux services publics, à l’exception des biens meubles rentrant dans l’attribution des instituts culturels; la gestion, la maintenance et le déménagement de ces biens meubles; les prestations lui incombant dans le cadre des cérémonies officielles et publiques;\n- l’expertise des propriétés bâties à acquérir et à céder par l’État.\n\nDans l’exercice de ses attributions, l’administration peut faire appel à la collaboration des hommes de l’art du secteur privé.",
+      "text_sha256": "03b805feef8b539001d5ad0c6746f1b275dbd8ad92c78dd339f7ef36c9064a44",
+      "md_span": {
+        "start": 836,
+        "end": 2546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/art_3/20260328",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-03-28",
+      "text_md": "L’administration comprend:\n\n- la direction\n- les divisions des travaux neufs et de la gestion du patrimoine\n- le service des ateliers\n\n**1. La direction**\n\nL’administration est placée sous l’autorité d’un directeur.\n\nDeux directeurs adjoints assistent le directeur dans l’accomplissement de ses attributions et le remplacent en cas d’absence d’après leur rang d’ancienneté.\n\nLe directeur et les directeurs adjoints doivent être titulaires d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent.\n\nLedit grade ou diplôme doit être inscrit au registre des titres de formation et être classé au moins au niveau 7 du cadre luxembourgeois des qualifications, conformément aux articles 66 et 69 de la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.\n\nLa direction relève directement de la compétence du directeur. Elle assume la gestion de l’administration. Elle coordonne et surveille les activités des divisions. Elle représente l’administration et établit les relations avec les autorités et le public.\n\nLa direction a pour mission la gestion des comptabilités budgétaire et générale, la numérisation du courrier, le développement du système informatique et le paramétrage du logiciel d’application, la gestion des ressources humaines et la formation du personnel, l’accueil, la supervision des activités des ateliers et des dépôts.\n\n**2. Les divisions**\n\nChaque division est placée sous les ordres d’un fonctionnaire ou d’un employé de l’Etat devant être titulaire d’un diplôme d’architecte ou d’ingénieur délivré par un établissement d’enseignement supérieur reconnu par l’Etat du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent.\n\n***a) La division des travaux neufs***\n\nElle est chargée de l’étude et de l’exécution des bâtiments publics nouveaux financés par l’Etat ou par voie de préfinancement privé, y compris leurs équipements et l’aménagement des alentours.\n\n***b) La division de la gestion du patrimoine***\n\nElle est chargée de l’établissement et de la gestion de l’inventaire des bâtiments publics, de l’établissement et de la gestion des programmes de maintenance et d’entretien préventif des bâtiments publics, de leurs équipements, alentours et plantations, de la maintenance et de la gestion technique des bâtiments publics et de leurs équipements spéciaux, de l’étude et de la réalisation des travaux de transformation, d’agrandissement et de réhabilitation des bâtiments publics, y compris leurs équipements et l’aménagement des alentours, de l’expertise des propriétés bâties à acquérir et à céder par l’Etat.\n\n**3. Le service des ateliers**\n\nIl est chargé de la gestion des dépôts de l’administration, de l’entreposage et de la réparation du mobilier, de l’entretien des alentours des immeubles de l’Etat, des prestations lui incombant dans le cadre des cérémonies officielles et publiques, des travaux de déménagement des ministères et services de l’Etat, de l’entretien du parc automobile, des machines et des équipements de l’administration.",
+      "text_sha256": "1cdaea97aff14b081b68ea056b3f46f5465e3ea081a736c24f67cb527039b0ba",
+      "md_span": {
+        "start": 2581,
+        "end": 5792
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/10/28/n2/jo",
+          "text": "loi modifiée du 28 octobre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/art_4/20260328",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-03-28",
+      "text_md": "Le cadre du personnel comprend un directeur, deux directeurs adjoints et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.",
+      "text_sha256": "64a7165a44cb4f87f2d6d9843e7e9e5e4ed2d9bb4b520aca86361d2e5840706c",
+      "md_span": {
+        "start": 5827,
+        "end": 6112
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/art_5/20170409",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-04-09",
+      "text_md": "Le cadre prévu à l’article 4 peut être complété par des stagiaires, des employés de l’Etat et des salariés de l’Etat suivant les besoins du service et dans les limites des crédits budgétaires.\n\nLe cadre prévu à l’article 4 comprend un chef d’atelier et un magasinier.",
+      "text_sha256": "f1297bbf155866b0808b52ad5cdc9178ba10ccc33349c0e39c42546f4c208eaf",
+      "md_span": {
+        "start": 6147,
+        "end": 6414
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/art_6/20170409",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-04-09",
+      "text_md": "Sans préjudice des conditions générales d’admission au stage ainsi qu’aux examens de fin de stage et de promotion fixées par les lois et règlements, les conditions particulières d’admission au stage, de nomination et d’avancement du personnel des cadres dans l’administration sont déterminées par la présente loi et par règlement grand-ducal.",
+      "text_sha256": "88587535d0d67f7a13a2cfa2fd4b0d392bf9b791daf698224dc13665b2769958",
+      "md_span": {
+        "start": 6449,
+        "end": 6791
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/art_7/20260328",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2026-03-28",
+      "text_md": "Le directeur et les directeurs adjoints sont nommés par le Grand-Duc sur proposition du Gouvernement en conseil.",
+      "text_sha256": "291ae6ef4f6920f50959feda5b04935ea955b3b802a89a658e47927fec230e1e",
+      "md_span": {
+        "start": 6826,
+        "end": 6938
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2004-06-15-n2:2026-03-28#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/art_8/20170409",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-04-09",
+      "text_md": "Les fonctionnaires de l’Administration des bâtiments publics détachés sont réintégrés dans leur administration d’origine sur une vacance de poste budgétaire disponible dans leur groupe de traitement. En cas d’absence de vacance de poste budgétaire, l’effectif du personnel sera augmenté temporairement jusqu’à la survenance de la première vacance de poste dans le groupe de traitement des fonctionnaires réintégrés.",
+      "text_sha256": "389f66a84504389a45f24a2a6bee4f3094a00e7b571ed223174e592a90b14eaf",
+      "md_span": {
+        "start": 6973,
+        "end": 7388
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

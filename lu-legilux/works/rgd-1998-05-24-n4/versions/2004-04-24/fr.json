@@ -1,0 +1,397 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24",
+  "language": "fr",
+  "title": "Version consolidée applicable au 12/12/2022 : Règlement grand-ducal du 24 mai 1998 concernant l'exploitation et la mise dans le commerce des eaux minérales naturelles.",
+  "valid_from": "2004-04-24",
+  "valid_to": "2022-12-11",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1998-05-24-n4/versions/2004-04-24/fr.xml",
+    "sha256": "2d9c3fc41b624a921daa654c6ed01683e152ba47ad0f03f8dcb1974083447dbc",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/consolide/20040424/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_1er/19980613",
+      "type": "article",
+      "num": "Art. 1er -",
+      "heading": "Champ d'application",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Le présent règlement fixe les conditions que devront remplir les eaux extraites du sol pour pouvoir être reconnues comme eaux minérales naturelles et être commercialisées comme telles.",
+      "text_sha256": "02270aa62b09962b740b5717c7fa603b3e9c05f374c45801c6eab26c1a4baf06",
+      "md_span": {
+        "start": 670,
+        "end": 854
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_2/19980613",
+      "type": "article",
+      "num": "Art. 2. -",
+      "heading": "Conditions de commercialisation d'eaux provenant de l'étranger",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "1. Ces eaux ne peuvent faire l'objet d'une reconnaissance au Luxembourg que s'il a été certifié par l'autorité habilitée à cet effet dans le pays d'extraction qu'elles sont conformes à l'annexe I partie I et qu'il est procédé au contrôle permanent de l'application de l'annexe II paragraphe 1. La durée de validité de la certification visée au deuxième alinéa ne peut excéder une durée de cinq ans. Il n'y a pas lieu de procéder à une nouvelle reconnaissance si la certification a été renouvelée avant la fin de ladite période.\n2. Pour pouvoir être commercialisées au Luxembourg les eaux minérales naturelles extraites dans un Etat membre de la Communauté Européenne doivent avoir fait l'objet d'une reconnaissance par l'autorité compétente de cet Etat ainsi que d'une publication officielle dans ce même Etat.\n3. - loi modifiée du 11 avril 1983\n- aux eaux minérales naturelles utilisées à des fins curatives à la source dans les établissements thermaux ou hydrominéraux.",
+      "text_sha256": "882820e8935386ff71e8d9b5e742faae6b09ddd6343168d46acfb9493af0847f",
+      "md_span": {
+        "start": 954,
+        "end": 1925
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_3/19980613",
+      "type": "article",
+      "num": "Art. 3. -",
+      "heading": "Conditions d'exploitation et de commercialisation des eaux minérales naturelles",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "L'exploitation d'une source d'eau minérale naturelle est subordonnée à l'autorisation des ministres de la Santé et de l'Environnement, qui ne l'accordent que si l'eau considérée répond aux dispositions de l'annexe I.\n\nLes sources d'eaux minérales naturelles doivent être exploitées et leurs eaux conditionnées conformément aux prescriptions de l'annexe II du présent règlement.",
+      "text_sha256": "599c047eab35190e1a6b7f70c05c2576f41d95e9fe25ea4766bd01e06b4d7162",
+      "md_span": {
+        "start": 2042,
+        "end": 2419
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_4/19980613",
+      "type": "article",
+      "num": "Art. 4. -",
+      "heading": "Publication de la reconnaissance d'une eau minérale naturelle",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Les eaux extraites du sol sur le territoire du Grand-Duché de Luxembourg et reconnues comme eaux minérales naturelles, conformément à l'article qui précède, feront l'objet d'une publication officielle au Mémorial.",
+      "text_sha256": "1c5f794818de6ba66a68db8e7e0479461627881cbf2ec16b772972a84eaf2527",
+      "md_span": {
+        "start": 2518,
+        "end": 2731
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_5/19980613",
+      "type": "article",
+      "num": "Art. 5. -",
+      "heading": "Prescriptions concernant le traitement des eaux minérales naturelles",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "1. 1. la séparation des éléments instables, tels que les composés du fer et du soufre, par filtration ou décantation, éventuellement précédée d'une oxygénation, dans la mesure où ce traitement ne modifie pas la composition de cette eau quant aux constituants essentiels qui lui confèrent ses propriétés,\n2. la séparation des composés du fer, du manganèse et du soufre, ainsi que de l'arsenic, de certaines eaux minérales naturelles à l'aide d'un traitement par l'air enrichi en ozone, dans la mesure où ce traitement ne modifie pas la composition de l'eau quant aux constituants essentiels qui lui confèrent ses propriétés,\n3. Les traitements énumérés sous b) et c) doivent d'une part être notifiés au ministre de la Santé et faire l'objet d'un contrôle spécifique de la part de celui-ci, et d'autre part, satisfaire aux conditions d'utilisation à déterminer par la Commission conformément à l'article 12 du présent règlement,\n4. l'élimination totale ou partielle du gaz carbonique libre par des procédés exclusivement physiques.\n2. Une eau minérale naturelle, telle qu'elle se présente à l'émergence, ne peut faire l'objet d'aucune adjonction autre que l'incorporation ou la réincorporation de gaz carbonique dans les conditions prévues à l'annexe I point III.\n3. En particulier, tout traitement de désinfection par quelque moyen que ce soit et, sous réserve du paragraphe 2, l'adjonction d'éléments bactériostatiques ou tout autre traitement de nature à modifier le microbisme de l'eau minérale naturelle sont interdits.\n4. er",
+      "text_sha256": "134eae5efa37ca7d9217469a204a44aa267cbb8fc0949d43f28a78b9334691ec",
+      "md_span": {
+        "start": 2837,
+        "end": 4365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_6/19980613",
+      "type": "article",
+      "num": "Art. 6.-",
+      "heading": "Critères microbiologiques",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "1. Après l'embouteillage, cette teneur ne peut dépasser 100 par millilitre à 20-22 degrés Celsius en 72 heures sur agar-agar ou mélange agar-gélatine et 20 par millilitre à 37 degrés Celsius en 24 heures sur agar-agar. Cette teneur doit être mesurée dans les 12 heures suivant l'embouteillage, l'eau étant maintenue à 4 degrés Celsius à environ 1 degré Celsius pendant cette période de 12 heures. A l'émergence, ces valeurs devraient normalement ne pas dépasser respectivement 20 par millilitre à 20-22 degrés Celsius en 72 heures et 5 par millilitre à 37 degrés Celsius en 24 heures, étant entendu que ces valeurs doivent être considérées comme des nombres guides et non comme des concentrations maximales.\n2. 1. de parasites et micro-organismes pathogènes;\n2. d'Eschérichia coli et d'autres coliformes et de streptocoques fécaux, dans 250 millilitres de l'échantillon examiné;\n3. d'anaérobies sporulés sulfito-réducteurs, dans 50 millilitres de l'échantillon examiné;\n4. de Pseudomonas aeruginosa, dans 250 millilitres de l'échantillon examiné.\n3. - la teneur totale en micro-organismes revivifiables de l'eau minérale ne peut résulter que de l'évolution normale de sa teneur en germes à l'émergence,\n- l'eau minérale naturelle ne peut présenter aucun défaut du point de vue organoleptique.",
+      "text_sha256": "7d84cd7418bb78c8f6fb1a70d850dd1dac8468d7f293968c1bd57e7d22169b85",
+      "md_span": {
+        "start": 4427,
+        "end": 5719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_7/19980613",
+      "type": "article",
+      "num": "Art. 7. -",
+      "heading": "Fermeture et état des récipients",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Tout récipient utilisé pour le conditionnement des eaux minérales naturelles doit être muni d'un dispositif de fermeture conçu pour éviter toute possibilité de falsification ou de contamination.\n\nLes récipients et les emballages contenant des eaux minérales naturelles ne doivent présenter aucun signe extérieur d'altération; ils doivent être remis intacts au consommateur.",
+      "text_sha256": "26ba13bea3e7abd3f35a25e30f82054d2be6e1d618d295a43fcf8f8c541f07ec",
+      "md_span": {
+        "start": 5789,
+        "end": 6162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_8/19980613",
+      "type": "article",
+      "num": "Art. 8. -",
+      "heading": "Etiquetage",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "1. La dénomination de vente des eaux minérales naturelles ayant subi un traitement visé à l'article 5 paragraphe 1 sous b) est, selon le cas, complétée par les mentions \"totalement dégazéifiée\" ou \"partiellement dégazéifiée\".\n2. règlement grand-ducal du 16 avril 1992 1. la mention de la composition analytique, précisant les constituants caractéristiques;\n2. le lieu où est exploitée la source et le nom de celle-ci;\n3. l'indication des traitements éventuels visés à l'article 5 paragraphe 1 points b) et c).",
+      "text_sha256": "77cd1efed197620bf6ac86f985136834514e17f45987032ff706e2f8840cdd05",
+      "md_span": {
+        "start": 6210,
+        "end": 6719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_9/19980613",
+      "type": "article",
+      "num": "Art. 9. -",
+      "heading": "Désignations commerciales",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "1. Un nom de localité, de hameau ou de lieu-dit peut entrer dans le libellé d'une désignation commerciale à condition de se rapporter à une eau minérale naturelle dont la source est exploitée à l'endroit indiqué par cette désignation commerciale et à condition que cela n'induise pas en erreur sur le lieu d'exploitation de la source.\n2. La commercialisation sous plusieurs désignations commerciales d'une eau minérale naturelle provenant d'une même source est interdite.\n3. Le premier alinéa est applicable mutatis mutandis et dans le même esprit en ce qui concerne l'importance donnée au nom de la source ou au lieu de son exploitation, par rapport à l'indication de la désignation commerciale dans la publicité, sous quelque forme que ce soit, relative aux eaux minérales naturelles.",
+      "text_sha256": "e08d716bbd080bbe105b607fbe5c089aedb13a6f450fd3f7a65a66a948572be0",
+      "md_span": {
+        "start": 6782,
+        "end": 7568
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_10/20040424",
+      "type": "article",
+      "num": "Art. 10. -",
+      "heading": "Tromperie et référence à la santé",
+      "path": [],
+      "article_valid_from": "2004-04-24",
+      "text_md": "1. 1. concernant une eau minérale naturelle, suggèrent une caractéristique que celle-ci ne possède pas, en ce qui concerne notamment l'origine, la date de l'autorisation d'exploiter, les résultats des analyses ou toutes références analogues aux garanties d'authenticité;\n2. concernant une eau potable conditionnée ne répondant pas aux dispositions de l'annexe I, sont susceptibles de créer une confusion avec une eau minérale naturelle, et notamment la mention \"eau minérale\".\n2. 1. Sont interdites toutes les indications attribuant à une eau minérale naturelle des propriétés de prévention, de traitement ou de guérison d'une maladie humaine.\n2. Sont cependant autorisées les mentions figurant à l'annexe III, pour autant que soient respectés les correspondants qui y sont fixés ou, en leur absence, les critères fixés par le ministre de la Santé, sur base des analyses physico-chimiques et, si nécessaire, des examens pharmacologiques, physiologiques et cliniques opérés selon des méthodes scientifiquement reconnues, en conformité avec l'annexe I partie I paragraphe 2.\n3. Le ministre de la Santé peut autoriser d'autres mentions pour autant qu'elles ne soient pas en contradiction avec les principes énoncés sous a) et qu'elles soient compatibles avec les principes énoncés sous b).\n3. - satisfait aux conditions d'exploitation indiquées à l'annexe II points 1 et 2, qui sont entièrement applicables aux eaux de source,\n- satisfait aux exigences en matière d'étiquetage indiquées à l'article 8 paragraphe 2 points b) et c) et à l'article 9,\n- n'a pas subi de traitement autre que ceux visés à l'article 5. En outre, les eaux de source doivent satisfaire aux dispositions du règlement grand-ducal du 7 octobre 2002 relatif à la qualité des eaux destinées à la consommation humaine.",
+      "text_sha256": "bbb9c298fc72c909e1b4e1bbcdab40f11ae7aad4e507a5875b8f7f38d8122631",
+      "md_span": {
+        "start": 7641,
+        "end": 9425
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2002/10/07/n1/jo",
+          "text": "règlement grand-ducal du 7 octobre 2002"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_11/19980613",
+      "type": "article",
+      "num": "Art. 11. -",
+      "heading": "Modalités concernant les conditions d'exploitation, le prélèvement et les méthodes d'analyse des eaux minérales naturelles",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Des règlements à prendre par le ministre de la Santé, sur avis du ministre de l'Environnement, pourront déterminer les modalités nécessaires à l'application des conditions d'exploitation et de commercialisation des eaux minérales naturelles visées à l'annexe II.",
+      "text_sha256": "a6b4d9075390813b65ca523dc150c82b4ef93de0eb8ec785331d3c2508c34df1",
+      "md_span": {
+        "start": 9587,
+        "end": 9849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_12/19980613",
+      "type": "article",
+      "num": "Art. 12. -",
+      "heading": "Domaine d'attribution de la Commission",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Les mesures arrêtées par la Commission dans les domaines suivants, conformément à l'article 12 de la directive 96/70 CE du Parlement Européen et du Conseil du 28 octobre 1996 modifiant la directive 80/777/CEE du Conseil relative au rapprochement des législations des Etats membres concernant l'exploitation et la mise dans le commerce des eaux minérales naturelles, sont applicables au Luxembourg:\n\n- les limites de concentration des constituants des eaux minérales naturelles, toutes les dispositions nécessaires relatives à l'indication dans l'étiquetage, des concentrations élevées de certains constituants,\n- les conditions de l'utilisation d'air enrichi en ozone visée à l'article 5 paragraphe 1 point b),\n- l'indication des traitements visés à l'article 8 paragraphe 2 point c),\n- les méthodes d'analyse, y compris les limites de détection, destinées à vérifier l'absence de contamination des eaux minérales naturelles,\n- les procédures d'échantillonnage et les méthodes d'analyse nécessaires pour le contrôle des caractéristiques microbiologiques des eaux minérales naturelles.",
+      "text_sha256": "2e345646ad901a7a654fb83e6d658c2219466e26179f8d435cae5c3fded80019",
+      "md_span": {
+        "start": 9927,
+        "end": 11011
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1996/70/jo",
+          "text": "directive 96/70 CE"
+        },
+        {
+          "href": "/eli/dir_ue/1980/777/jo",
+          "text": "directive 80/777/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_13/19980613",
+      "type": "article",
+      "num": "Art. 13. -",
+      "heading": "Interdictions",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Il est interdit de commercialiser et d'introduire au Luxembourg des eaux minérales naturelles non conformes aux prescriptions du présent règlement.\n\nLorsque cette mesure d'interdiction ou de saisie porte sur des eaux minérales naturelles provenant d'un Etat membre de la Communauté Européenne, le ministre de la Santé communique les motifs inhérents à cette décision à la Commission ainsi qu'à à tous les Etats membres de la Communauté européenne.",
+      "text_sha256": "206c3a734f6dfbacb4fe9f0e04a4c449c1617a5e86f4029eaadbbffca210e9be",
+      "md_span": {
+        "start": 11064,
+        "end": 11511
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_14/19980613",
+      "type": "article",
+      "num": "Art. 14. -",
+      "heading": "Dispositions pénales",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Sans préjudice des peines plus fortes comminées par le code pénal ou d'autres lois spéciales et indépendamment des peines édictées à l'article 9 et suivants de la loi modifiée du 25 septembre 1953 ayant pour objet la réorganisation du contrôle des denrées alimentaires, boissons et produits usuels, les infractions aux dispositions du présent règlement seront punies des peines prévues à l'article 2 de la loi précitée.",
+      "text_sha256": "b5528737231b5ebaa39fd442e3cbe49a41f70fb0b29964f5a5209f584413e6a3",
+      "md_span": {
+        "start": 11571,
+        "end": 11990
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1953/09/25/n1/jo",
+          "text": "loi modifiée du 25 septembre 1953"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1953/09/25/n1/jo",
+          "text": "loi précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_15/19980613",
+      "type": "article",
+      "num": "Art. 15. -",
+      "heading": "Annexes",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Les annexes font partie intégrante du présent règlement. Elles peuvent être modifiées par un règlement à prendre par le ministre de la Santé, sur avis de l'Administration de l'Environnement suite à une directive ou décision des instances communautaires.",
+      "text_sha256": "61a2ec431f28a365ce2695a5a3ede635b49bed2988f45b372f79418fdbff9b6d",
+      "md_span": {
+        "start": 12037,
+        "end": 12290
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_16/19980613",
+      "type": "article",
+      "num": "Art. 16. -",
+      "heading": "Dispositions abrogatoires",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Le règlement grand-ducal du 8 octobre 1983 concernant l'exploitation et la mise dans le commerce des eaux minérales est abrogé.\n\nIl reste toutefois applicable aux infractions commises sous son empire. Toute référence faite au prédit règlement s'entend comme étant faite au présent règlement.",
+      "text_sha256": "e00755ed3bd99c6e9e8b055a8e4f85d0e97788a2c8b21f71523b7ee1d3edcd15",
+      "md_span": {
+        "start": 12355,
+        "end": 12646
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1983/10/08/n1/jo",
+          "text": "règlement grand-ducal du 8 octobre 1983"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/art_17/19980613",
+      "type": "article",
+      "num": "Art. 17. -",
+      "heading": "Exécution",
+      "path": [],
+      "article_valid_from": "1998-06-13",
+      "text_md": "Notre ministre de la Santé, Notre ministre de l'Environnement et Notre ministre de la Justice sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial avec ses annexes.",
+      "text_sha256": "dba51c34a4f7b87305983adc8445e90dababd04aa1879df7c9d0cdd25b9b9987",
+      "md_span": {
+        "start": 12695,
+        "end": 12914
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**I. Définition**\n\n1. L’eau minérale naturelle se distingue nettement de l’eau de boisson ordinaire: 1. par sa nature, caractérisée par sa teneur en minéraux, oligo-éléments ou autres constituants et, le cas échéant, par certains effets;\n2. par sa pureté originelle, l’une et l’autre caractéristiques ayant été conservées intactes en raison de l’origine souterraine de cette eau qui a été tenue à l’abri de tout risque de pollution.\n2. 1. 1. géologique et hydrologique,\n2. physique, chimique et physico-chimique,\n3. microbiologique,\n4. si nécessaire, pharmacologique, physiologique et clinique;\n2. selon les critères énumérés à la partie II;\n3. selon les méthodes scientifiquement agréées par l’autorité responsable. Les examens visés sous a) point 4 peuvent être facultatifs lorsque l’eau présente les caractéristiques de composition en fonction desquelles une eau a été considérée comme eau minérale naturelle dans l’Etat membre d’origine antérieurement à l’entrée en application de la présente directive. Tel est le cas, notamment, lorsque l’eau considérée contient, par kilogramme, à l’origine et après embouteillage, au minimum 1.000 mg de solides totaux en solution ou au minimum 250 mg de gaz carbonique libre.\n3. Au sens de l’article 6 paragraphe 1, on entend par microbisme normal d’une eau minérale naturelle la flore bactérienne sensiblement constante constatée à l’émergence avant toute manipulation et dont la composition qualitative et quantitative, prise en considération pour la reconnaissance de cette eau, est contrôlée par des analyses périodiques.\n\n**II. Prescriptions et critères pour l’application de la définition**\n\n| 1.1. | ***Prescriptions applicables aux examens géologiques et hydrologiques*** |\n| --- | --- |\n|  | Doivent être exigés notamment: |\n| 1.1.1. | la situation exacte du captage déterminée par son altitude et, sur le plan topographique, par une carte à l’échelle de un millième au plus; |\n| 1.1.2. | un rapport géologique détaillé sur l’origine et la nature des terrains; |\n| 1.1.3. | la stratigraphie du gisement hydrogéologique; |\n| 1.1.4. | la description des travaux de captage; |\n| 1.1.5. | la détermination de la zone ou d’autres mesures de protection de la source contre les pollutions. |\n| 1.2. | ***Prescriptions applicables aux examens physiques, chimiques et physico-chimiques*** |\n|  | Ces examens comportent notamment la détermination: |\n| 1.2.1. | du débit de la source; |\n| 1.2.2. | de la température de l’eau à l’émergence et de la température ambiante: |\n| 1.2.3. | des rapports existants entre la nature des terrains et la nature et le type de la minéralisation; |\n| 1.2.4. | des résidus secs à 180° C et 260° C; |\n| 1.2.5. | de la conductivité ou de la résistivité électrique, la température de mesure devant être précisée; |\n| 1.2.6. | de la concentratin en ions hydrogène (pH); |\n| 1.2.7. | des anions et cations; |\n| 1.2.8. | des éléments non ionisés; |\n| 1.2.9. | des oligo-éléments; |\n| 1.2.10. | de la radio-actinologie à l’émergence; |\n| 1.2.11. | le cas échéant, des proportions relatives en isotopes des éléments constitutifs de l’eau, oxygène 160 – 180) et hydrogène (protium, deutérium, tritium); |\n| 1.2.12. | de la toxicité de certains des éléments constitutifs de l’eau, compte tenu des limites fixées à cet égard pour chacun d’eux. |\n| 1.3. | ***Critères applicables aux examens microbiologiques à l’émergence*** |\n|  | Ces examens doivent comporter notamment: |\n| 1.3.1. | la démonstration de l’absence de parasites et de micro-organismes pathogènes; |\n| 1.3.2. | la détermination quantitative des micro-organismes revivifiables témoins de contamination fécale: absence d’*Escherichia coli* et d’autres coliformes dans 250 ml à 37° C et 44,5° C;absence de streptocoques fécaux dans 250 ml; absence d’anaérobies sporulés sulfito-réducteurs dans 50 ml; absence de *Pseudomonas aeruginosa* dans 250 ml; |\n| 1.3.3. | la détermination de la teneur totale en micro-organismes revivifiables par millilitre d’eau: à 20° C à 22° C en 72 h sur agar-agar ou mélange agar-gélatine; à 37° C en 24 h sur agar-agar. |\n| 1.4. | ***Prescriptions applicables aux examens cliniques et pharmacologiques*** |\n| 1.4.1. | La nature des examens, auxquels il doit être procédé selon des méhodes scientifiquement reconnues, doit être adaptée aux caractéristiques propres de l’eau minérale naturelle et à ses effets sur l’organisme humain, tels que la diurèse, le fonctionnement gastrique ou intestinal, la compensation des carences en substances minérales. |\n| 1.4.2. | La constatation de la constance et de la concordance d’un grand nombre d’observations cliniques peut, le cas échéant, tenir lieu des examens visés au point 1.4.1. Dans des cas appropriés, les examens cliniques peuvent se substituer aux examens visés au point 1.4.1 à condition que la constance et la concordance d’un grand nombre d’observations permettent d’obtenir les mêmes résultats. |\n\n**III. Qualifications complémentaires relatives aux eaux minérales naturelles effervescentes**\n\nLes eaux minérales naturelles effervescentes dégagent, à l’origine ou après embouteillage, spontanément et de façon nettement perceptible, du gaz carbonique dans les conditions normales de température et de pression. Elles se répartissent en trois catégories auxquelles s’appliquent respectivement les dénominations réservées ci-après:\n\n1. «Eau minérale naturellement gazeuse», qui désigne une eau dont la teneur en gaz carbonique provenant de la source, après décantation éventuelle et embouteillage, est la même qu’à l’émergence, compte tenu, s’il y a lieu, de la réincorporation d’une quantité de gaz provenant de la même nappe ou du même gisement, équivalente à celle du gaz libéré au cours de ces opérations et sous réserve des tolérances techniques usuelles;\n2. «Eau minérale naturelle renforcée au gaz de la source», qui désigne une eau dont la teneur en gaz carbonique provenant de la même nappe ou du même gisement, après décantation éventuelle et embouteillage, est supérieure à celle constatée à l’émergence;\n3. «Eau minérale naturelle avec adjonction de gaz cabonique», qui désigne une eau qui a fait l’objet d’une addition de gaz cabonique d’une autre origine que la nappe ou le gisement dont elle provient.",
+      "text_sha256": "311029c5c303c9425e54e69e226822187c06ef37d9d3b5a7be38b3bab1909cf0",
+      "md_span": {
+        "start": 12957,
+        "end": 19182
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Conditions d’exploitation et de commercialisation des eaux minérales naturelles**\n\n1. A cet effet, et notamment: 1. la source ou le point d’émergence doit être protégé contre les risques de pollution;\n2. le captage, les conduites d’amenée et les réservoirs doivent être réalisés avec des matériaux convenant à l’eau et de façon à empêcher toute modification chimique, physico-chimique et bactériologique de cette eau;\n3. les conditions d’exploitation et, en particulier, les installations de lavage et d’embouteillage doivent satisfaire aux exigences de l’hygiène. En particulier, les récipients doivent être traités ou fabriqués de manière à éviter que les caractéristiques vactériologiques et chimiques des eaux minérales naturelles ne s’en trouvent altérées;\n4. le transport de l’eau minérale naturelle en tous récipients autres que ceux autorisés pour la distribution au consommateur final est interdit.\n2. Lorsqu’il est constaté, en cours d’exploitation, que l’eau minérale naturelle est polluée et ne satisfait plus aux caractéristiques bactériologiques prévues à l’article 6, l’exploitant est tenu de suspendre sans délai toute opération d’exploitation, en particulier l’opération d’embouteillage, jusqu’à ce que la cause de la pollution soit supprimée et que l’eau soit conforme à l’article 6.\n3. 1. de la conformité de l’eau minérale naturelle, dont l’exploitation de la source a été autorisée, avec l’annexe I partie I;\n2. de l’application par l’exploitant des paragraphes 1 et 2.",
+      "text_sha256": "39330a16e58c08d9b89ecbe16fbf3e7fea36d04f350834354485af9dc3c165d2",
+      "md_span": {
+        "start": 19226,
+        "end": 20718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-1998-05-24-n4:2004-04-24#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Mentions et critères prévus à l’article 10 paragraphe 2**\n\n| Mentions | Critères |\n| --- | --- |\n| Oligominérale ou faiblement minéralisée | La teneur en sels minéraux, calculée comme résidu fixe, n’est pas supérieure à 500 mg/l |\n| Très faiblement minéralisée | La teneur en sels minéraux, calculée comme résidu fixe, n’est pas supérieure à 50 mg/l |\n| Riche en sels minéraux | La teneur en sels minéraux, calculée comme résidu fixe, est supérieure à 1.500 mg/l |\n| Bicarbonatée | La teneur en bicarbonate est supérieure à 600 mg/l |\n| Sulfatée | La teneur en sulfates est supérieure à 200 mg/l |\n| Chlorurée | La teneur en chlorure est supérieure à 200 mg/l |\n| Calcique | La teneur en calcium est supérieure à 150 mg/l |\n| Magnésienne | La teneur en magnésium est supérieure à 50 mg/l |\n| Fluorée ou contient du fluor | La teneur en fluor est supérieure à 1 mg/l |\n| Ferrugineuse ou contient du fer | La teneur en fer bivalent est supérieure à 1 mg/l |\n| Acidulée | La teneur en gaz carbonique libre est supérieure à 250 mg/l |\n| Sodique | La teneur en sodium est supérieure à 200 mg/l |\n| Convient pour la préparation des aliments des nourissons | – |\n| Convient pour un régime pauvre en sodium | La teneur en sodium est inférieure à 20 mg/l |\n| Peut être laxative | – |\n| Peut être diurétique | – |",
+      "text_sha256": "4b98bd3817adab261c92e63ab0bc69d8f3764f7f3beb0b267c1452d5a658697d",
+      "md_span": {
+        "start": 20763,
+        "end": 22068
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

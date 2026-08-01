@@ -1,0 +1,115 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-11-24-n1:2013-01-28",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/01/2013 : Règlement grand-ducal du 24 novembre 2009 fixant les quotes-parts des offices sociaux communaux et du Fonds National de Solidarité dans le produit de l'Oeuvre Nationale de Secours Grande-Duchesse Charlotte.",
+  "valid_from": "2013-01-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-11-24-n1/versions/2013-01-28/fr.xml",
+    "sha256": "e5c360044dec9a066ec1731b8216e509df9c6c5ad87ce1982f8569e079b30982",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/24/n1/consolide/20130128/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-11-24-n1:2013-01-28#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/24/n1/art_1er/20091212",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-12-12",
+      "text_md": "La quote-part dans le produit net de l'Œuvre Nationale de Secours Grande-Duchesse Charlotte à prélever au profit des offices sociaux communaux est fixée à un sixième.\n\nElle est répartie entre les différents offices sociaux:\n\n1. pour un tiers de la quote-part en fonction du nombre de personnes ayant leur domicile sur le territoire de la ou des communes où l'office exerce ses missions;\n2. pour deux tiers de la quote-part en fonction du volume de l'aide accordée au cours de l'exercice écoulé.",
+      "text_sha256": "b128f72ecbe230d21c1f4f7a481f40f395db660a271f11da97271d99fcc98bff",
+      "md_span": {
+        "start": 728,
+        "end": 1222
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-11-24-n1:2013-01-28#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/24/n1/art_2/20130128",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-01-28",
+      "text_md": "La quote-part dans le produit net de l'Œuvre Nationale de Secours Grande-Duchesse Charlotte à prélever au profit du Fonds National de Solidarité est fixée à un tiers.",
+      "text_sha256": "51a75016f77cb5cb6255aa799fddfe73e80189443a4393fe5901611c4e9f7644",
+      "md_span": {
+        "start": 1257,
+        "end": 1423
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-11-24-n1:2013-01-28#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/24/n1/art_3/20091212",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-12-12",
+      "text_md": "Le règlement d'administration publique du 13 janvier 1961 fixant la quote-part du Fonds National de Solidarité dans le produit de la Loterie Nationale est abrogé.",
+      "text_sha256": "21fa44408acd6055dbb37f376d35e977edc5f0f3f4ee14bf48c3e421e9110ab8",
+      "md_span": {
+        "start": 1458,
+        "end": 1620
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rap/1961/01/13/n1",
+          "text": "règlement d'administration publique du 13 janvier 1961"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-11-24-n1:2013-01-28#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/24/n1/art_4/20091212",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-12-12",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur le 1er janvier 2010.",
+      "text_sha256": "d51b583d3209d40885b9cf7fe1c2400bdee320008a0c7add7a72c8d49f28f3b6",
+      "md_span": {
+        "start": 1655,
+        "end": 1725
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-11-24-n1:2013-01-28#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/24/n1/art_5/20091212",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-12-12",
+      "text_md": "Notre Premier Ministre, Ministre d'État, est chargé de l'exécution du présent règlement, qui sera publié au Mémorial.",
+      "text_sha256": "bc246584bf7d76aeeda711c4d9dd3d807a5030ae214e49acc4a4e477b32a5220",
+      "md_span": {
+        "start": 1760,
+        "end": 1877
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

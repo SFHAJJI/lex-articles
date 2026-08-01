@@ -1,0 +1,359 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27",
+  "language": "fr",
+  "title": "Version consolidée applicable au 27/07/2025 : Règlement grand-ducal du 20 juin 2022 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive, ainsi que de l’examen de promotion des fonctionnaires auprès de l’Institut national de statistique et des études économiques.",
+  "valid_from": "2025-07-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2022-06-20-a312/versions/2025-07-27/fr.xml",
+    "sha256": "3307bdb96820aa50d3fb039a30c4e6f5784a2c4fb9e2dabde6597060488c2a95",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/consolide/20250727/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_1er/20220701",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Dispositions générales **"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "Les examens prévus par le présent règlement sont organisés conformément aux dispositions du règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen de l’examen de fin de formation spéciale pendant le stage et de l’examen de promotion dans les administrations et services de l’État. Ils ont lieu devant une commission d’examen qui se compose d’un président, d’un membre effectif pour chaque épreuve, et d’un secrétaire, nommés par le ministre ayant l’Économie dans ses attributions sur proposition du directeur de l’Institut national de statistique et des études économiques, ci-après « STATEC ».",
+      "text_sha256": "419a34fc4e3268c65749744bbf5f54f50758cecfb5026263ce1bb1a3cd62202a",
+      "md_span": {
+        "start": 876,
+        "end": 1512
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1984/04/13/n7/jo",
+          "text": "règlement grand-ducal modifié du 13 avril 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_2/20250727",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Programmes de la formation spéciale et organisation**"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "**(1)** Pour les fonctionnaires stagiaires des catégories de traitement A, B et C, la durée de la formation spéciale est fixée à soixante heures. Le contenu des formations et le nombre d’heures de formation y afférents sont fixés comme suit :\n\n| Formation | Durée de la formation (minimale) |  |\n| --- | --- | --- |\n| Matière 1 : | Système statistique luxembourgeois et européen | 12 heures |\n| Matière 2 : | Fonctionnement du STATEC | 22 heures |\n| Matière 3 : | Méthodes statistiques et outils informatiques | 26 heures |\n\n**(2)** Les cours de la formation spéciale au STATEC sont organisés une fois par an et suivant un horaire à déterminer par le délégué à la formation du STATEC.\n\n**(3)** Les fonctionnaires stagiaires sont informés de la nature, des modalités d’organisation, de l’horaire et du lieu de déroulement des sessions de formation au plus tard un mois avant leur début.\n\n**(4)** La durée de la formation spéciale est considérée comme période d’activité de service.\n\n**(5)** La fréquentation des cours de formation prévus par le présent règlement est obligatoire et est attestée par un certificat de participation.\n\n**(6)** Une dispense de formation peut être accordée conformément aux dispositions de l’article 18, alinéas 1er et 2, du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État.",
+      "text_sha256": "804decaa5571cadea885aa001027d172fdbd77bd1b97fc5a729ee7356385bb1f",
+      "md_span": {
+        "start": 1626,
+        "end": 3142
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/10/31/a1199/jo",
+          "text": "règlement grand-ducal modifié du 31 octobre 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_3/20220701",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Modalités de l’examen de fin de formation spéciale **et appréciation des résultats****"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "**(1)** Les présidents des commissions d’examen fixent le lieu, le jour et l’heure de l’examen de fin de formation spéciale.\n\n**(2)** Les modalités d’organisation de l’examen sont communiquées à chaque fonctionnaire stagiaire, au moins trois mois avant le début de l’examen, par le président de la commission d’examen.\n\n**(3)** L’appréciation de la réussite ou de l’échec de l’examen de fin de formation spéciale se fait conformément aux dispositions du règlement grand-ducal du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État.\n\n**(4)** L’ajournement se tient dans les six semaines après les délibérations de la commission d’examen.",
+      "text_sha256": "82171b1352a3ad1bc061c53502f3bbed051c1a97bd7065c475c2849929b78554",
+      "md_span": {
+        "start": 3288,
+        "end": 4103
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2018/10/31/a1199/jo",
+          "text": "règlement grand-ducal du 31 octobre 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_4/20250727",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Modalités de l’examen de fin de formation spéciale **et appréciation des résultats****"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "**(1)** Pour les fonctionnaires stagiaires des catégories de traitement A, B et C, le maximum des points de chaque matière de l’examen de fin de formation spéciale est fixé comme suit :\n\n|  | Matières de cours | Maximum des points |\n| --- | --- | --- |\n| 1° | Système statistique luxembourgeois et européen | 60 |\n| 2° | Fonctionnement du STATEC | 60 |\n| 3° | Méthodes statistiques et outils informatiques | 60 |\n\n**(2)** Les matières visées au paragraphe 1er, points 1° à 3°, sont sanctionnées par un examen qui est organisé sous forme d’épreuves écrites.",
+      "text_sha256": "f0f760efa4121337dbd7713cae53f628e74d93a7c5c925003fe097de23d59d93",
+      "md_span": {
+        "start": 4138,
+        "end": 4694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5_20250727",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_5_20250727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_5/20250727",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Modalités de l’examen de fin de formation spéciale **et appréciation des résultats****"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "**(1)** Pour les fonctionnaires stagiaires du groupe de traitement A2, les matières, la durée des épreuves ainsi que le maximum des points de chaque matière de l’examen de fin de formation spéciale sont fixés comme suit :\n\n| Matières de cours | Maximum des points | Durée de l’épreuve |  |  |\n| --- | --- | --- | --- | --- |\n| **1°** | **Cadre légal du système statistique** | **60** | **2 heures** |  |\n|  | 1.1. | Loi organique du STATEC (Mémorial A N° 156 du 28 juillet 2011) |  |  |\n|  | 1.2. | Exposé des motifs relatif à la loi organique |  |  |\n|  | 1.3. | Protection des données – Confidentialité (document rédigé par le délégué à la protection des données) |  |  |\n|  | 1.4. | Règlement (CE) No 223/2009 du Parlement européen et du Conseil du 11 mars 2009 relatif aux statistiques européennes (version amendée par le Règlement (CE) 2015/759 du Parlement européen et du Conseil du 29 avril 2015) |  |  |\n|  | 1.5. | Chapitre « L’ordre juridique de l’Union européenne », dans « L’ABC du droit communautaire » (Klaus-Dieter Borchardt), Documentation européenne |  |  |\n|  | 1.6. | Comment fonctionne l’UE pp. 1-30.), Documentation européenne |  |  |\n|  | 1.7. | À livre ouvert : Code de bonnes pratiques de la statistique européenne |  |  |\n| **2°** | **Méthodes statistiques** | **60** | **3 heures** |  |\n|  | Bibliographie : |  |  |  |\n|  | 2.1. | Statistique et probabilités pour économistes (PIERETTI Patrice / WEILAND Jean)Chapitre 1 : Éléments de statistiqueChapitre 3 : Section I – Les nombres-indices |  |  |\n|  | 2.2. | Statistique descriptive (Bernard PY)Page 281 : Les coefficients budgétaires |  |  |\n|  | 2.3. | Méthodes et pratiques d’enquête (Statistique Canada)Chapitre 1 - Introduction aux enquêtesChapitre 3 - Introduction au plan d’enquêteChapitre 6 - Plan d’échantillonnage |  |  |\n|  | Pour les parties 2.1 et 2.2 : les questions d’examen doivent être traitées obligatoirement en EXCEL. |  |  |  |\n| **3°** | **Sources et méthodes des principales statistiques économiques et sociales** | **60** | **3 heures** |  |\n|  | 3.1. | Aperçu généralLe STATEC (document interne à disposition des fonctionnaires stagiaires)À livre ouvert : Enrico Giovannini Understanding Economic statistics (OECD). |  |  |\n|  | 3.2. | Sources et méthodes spécifiques au domaine d’activité du fonctionnaire stagiaire : questions sur le manuel de référence des statistiques en vigueur |  |  |\n\n**(2)** Les matières visées au paragraphe 1er, points 1° à 3°, sont sanctionnées par un examen qui est organisé sous forme d’épreuves écrites.",
+      "text_sha256": "00f1d0b13ed88229a6b7804e1eece3510ee9f1543f8f87219caba089771c4dd8",
+      "md_span": {
+        "start": 4738,
+        "end": 7275
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2011/07/10/n5/jo",
+          "text": "Loi organique"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2011/07/10/n5/jo",
+          "text": "Mémorial A N° 156 du 28 juillet 2011"
+        },
+        {
+          "href": "/eli/reg_ue/2009/223/jo",
+          "text": "Règlement (CE) No 223/2009"
+        },
+        {
+          "href": "/eli/reg_ue/2015/759/jo",
+          "text": "Règlement (CE) 2015/759"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6_20250727",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_6_20250727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_6/20250727",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Modalités de l’examen de fin de formation spéciale **et appréciation des résultats****"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "**(1)** Pour les fonctionnaires stagiaires du groupe de traitement B1, les matières, la durée des épreuves ainsi que le maximum des points de chaque matière de l’examen de fin de formation spéciale sont fixés comme suit :\n\n|  | Matières de cours | Maximum des points | Durée de l’épreuve |  |\n| --- | --- | --- | --- | --- |\n| **1°** | **Cadre légal du système statistique** | **60** | **2 heures** |  |\n|  | 1.1. | Loi organique du STATEC (Mémorial A N° 156 du 28 juillet 2011) |  |  |\n|  | 1.2. | Sanctions pénales et disciplinaires (art. 47 du Statut général des fonctionnaires - extrait code administratif) |  |  |\n|  | 1.3. | Protection des données – Confidentialité (document rédigé par le délégué à la protection des données) |  |  |\n|  | 1.4. | Secret statistique dans les relations avec Eurostat : Chapitre V du Règlement (CE) No 223/2009 du Parlement européen et du Conseil du 11 mars 2009 relatif aux statistiques européennes |  |  |\n| **2°** | **Méthodes statistiques** | **60** | **3 heures** |  |\n|  | Bibliographie : |  |  |  |\n|  | 2.1. | Statistique et probabilités pour économistes (PIERETTI Patrice / WEILAND Jean)Chapitre 1 : Éléments de statistiqueChapitre 3 : Section I – Les nombres-indices |  |  |\n|  | 2.2. | Statistique descriptive (Bernard PY)Page 281 : Les coefficients budgétaires |  |  |\n|  | Pour les parties 2.1 et 2.2 : les questions d’examen doivent être traitées obligatoirement en EXCEL. |  |  |  |\n| **3°** | **Sources et méthodes des principales statistiques économiques et sociales** | **60** | **3 heures** |  |\n|  | 3.1. | Sources et méthodes spécifiques au domaine d’activité du fonctionnaire stagiaire : questions sur le manuel de référence des statistiques en vigueur |  |  |\n\n**(2)** Les matières visées au paragraphe 1er, points 1° à 3°, sont sanctionnées par un examen qui est organisé sous forme d’épreuves écrites.",
+      "text_sha256": "d6dab4d5e86c83227248d29d8ba8e9150322ca9b17845d06ceaffa46a472cf63",
+      "md_span": {
+        "start": 7319,
+        "end": 9182
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2011/07/10/n5/jo",
+          "text": "Loi organique"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2011/07/10/n5/jo",
+          "text": "Mémorial A N° 156 du 28 juillet 2011"
+        },
+        {
+          "href": "/eli/reg_ue/2009/223/jo",
+          "text": "Règlement (CE) No 223/2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7_20250727",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_7_20250727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_7/20250727",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Modalités de l’examen de fin de formation spéciale **et appréciation des résultats****"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "**(1)** Pour les fonctionnaires stagiaires du groupe de traitement C1, les matières, la durée des épreuves ainsi que le maximum des points de chaque matière de l’examen de fin de formation spéciale sont fixés comme suit :\n\n|  | Matières de cours | Maximum des points | Durée de l’épreuve |  |\n| --- | --- | --- | --- | --- |\n| **1°** | **Cadre légal du système statistique** | **60** | **2 heures** |  |\n|  | 1.1. | Loi organique du STATEC (Mémorial A N° 156 du 28 juillet 2011) |  |  |\n|  | 1.2. | Sanctions pénales et disciplinaires (art. 47 du Statut général des fonctionnaires - extrait code administratif) |  |  |\n|  | 1.3. | Protection des données – Confidentialité (document rédigé par le délégué à la protection des données) |  |  |\n| **2°** | **Méthodes statistiques** | **60** | **3 heures** |  |\n|  | 2.1. | Méthodes quantitatives (livre de L. Amyotte, pages 239 à 312) |  |  |\n| **3°** | **Sources et méthodes des principales statistiques économiques et sociales** | **60** | **3 heures** |  |\n|  | 3.1. | Sources et méthodes spécifiques au domaine d’activité du fonctionnaire stagiaire : questions sur le manuel de référence des statistiques en vigueur |  |  |\n\n**(2)** Les matières visées au paragraphe 1er, points 1° à 3°, sont sanctionnées par un examen qui est organisé sous forme d’épreuves écrites.",
+      "text_sha256": "bb9fadc17a565e5defdd88be8515ac910cd691f71fc18c1bd4208ba531422f89",
+      "md_span": {
+        "start": 9226,
+        "end": 10543
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2011/07/10/n5/jo",
+          "text": "Loi organique"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2011/07/10/n5/jo",
+          "text": "Mémorial A N° 156 du 28 juillet 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8_20250727",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_8_20250727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_8/20250727",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Modalités de l’examen de fin de formation spéciale **et appréciation des résultats****"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "**(1)** Pour les fonctionnaires stagiaires de la catégorie de traitement D, les matières ainsi que le maximum des points de chaque matière de l’examen de fin de formation spéciale sont fixés comme suit :\n\n|  | Matières de cours | Maximum des points | Durée de l’épreuve |  |\n| --- | --- | --- | --- | --- |\n| **1°** | **Cadre légal du système statistique** | **60** | **2 heures** |  |\n|  | 1.1. | Loi organique du STATEC (Mémorial A N° 156 du 28 juillet 2011) |  |  |\n|  | 1.2. | Sanctions pénales et disciplinaires (art. 47 du Statut général des fonctionnaires - extrait code administratif) |  |  |\n|  | 1.3. | Protection des données – Confidentialité (document rédigé par le délégué à la protection des données) |  |  |\n| **2°** | **Méthodes statistiques** | **60** | **3 heures** |  |\n|  | 2.1. | Méthodes quantitatives (livre de L. Amyotte, pages 239 à début de la page 249) |  |  |\n| **3°** | **Sources et méthodes des principales statistiques économiques et sociales** | **60** | **3 heures** |  |\n|  | 3.1. | Sources et méthodes spécifiques au domaine d’activité du fonctionnaire stagiaire : questions sur le manuel de référence des statistiques en vigueur |  |  |\n\n**(2)** Les matières visées au paragraphe 1er, points 1° à 3°, sont sanctionnées par un examen qui est organisé sous forme d’épreuves écrites.",
+      "text_sha256": "417564e99c63174ee25e537479af6a26847236083a4b6b52a4a0173d480e826b",
+      "md_span": {
+        "start": 10587,
+        "end": 11903
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2011/07/10/n5/jo",
+          "text": "Loi organique"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2011/07/10/n5/jo",
+          "text": "Mémorial A N° 156 du 28 juillet 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_9/20220701",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Modalités de l’examen de promotion et appréciation des résultats**"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "**(1)** ) Les présidents des commissions d’examen fixent le lieu, le jour et l’heure des examens de promotion.\n\n**(2)** Les programmes et les dates dudit examen sont communiqués à chaque candidat, dans le mois qui suit le dépôt de sa candidature, par le président de la commission d’examen.\n\n**(3)** Le candidat, qui à l’examen de promotion prévu par le présent règlement a obtenu au moins les trois cinquièmes du total des points pouvant être obtenus et qui a atteint au moins la moitié du total des points dans chaque matière, a réussi à l’examen correspondant.\n\nLe candidat, qui a obtenu au moins les trois cinquièmes du total des points, et qui n’a pas obtenu la moitié du total des points dans une seule matière, est ajourné dans cette matière. Le candidat a échoué lorsqu’il n’a pas atteint au moins la moitié du total des points dans la matière où il a été ajourné. L’ajournement se tiendra dans les six semaines après les délibérations de la commission d’examen.\n\nLe candidat, qui a obtenu au moins les trois cinquièmes du total des points et qui n’a pas atteint la moitié du total des points dans deux matières ou plus, a échoué à l’examen correspondant.\n\nLe candidat, qui à l’examen de promotion n’a pas obtenu au moins les trois cinquièmes du total des points, a échoué à l’examen correspondant.\n\n**(4)** Le candidat qui ne se présente pas à une ou plusieurs épreuves faisant partie d’une des sessions d’examen de promotion, est obligé de se soumettre à toutes les épreuves de la prochaine session d’examen de promotion à laquelle il participera.",
+      "text_sha256": "19eb99a06fa9efd4d50abd195586c801a436aaeffc47ed55cebf8a82e00088c6",
+      "md_span": {
+        "start": 12029,
+        "end": 13586
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_10/20250727",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Modalités de l’examen de promotion et appréciation des résultats**"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "Pour les fonctionnaires des groupes de traitement B1, C1 et C2, les matières, ainsi que le maximum des points de chaque matière de l’examen de promotion sont fixés comme suit :\n\n|  | Matières de cours | Maximum des points |\n| --- | --- | --- |\n| 1° | Système statistique luxembourgeois et européen | 60 |\n| 2° | Fonctionnement du STATEC | 60 |\n| 3° | Méthodes statistiques et outils informatiques | 60 |",
+      "text_sha256": "2330e5312b9d4ab63ea183b915588f63ec3bbc9fd1fb60a437df5d580bbdd14c",
+      "md_span": {
+        "start": 13623,
+        "end": 14026
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11_20250727",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_11_20250727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_11/20250727",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Modalités de l’examen de promotion et appréciation des résultats**"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "**(1)** Pour les fonctionnaires du groupe de traitement C1, les matières, la durée des épreuves ainsi que le maximum des points de chaque matière de l’examen de promotion sont fixés comme suit :\n\n|  | Matières de cours | Maximum des points | Durée de l’épreuve |  |\n| --- | --- | --- | --- | --- |\n| **1°** | **Cadre légal du système statistique** | **60** | **2 heures** |  |\n|  | 1.1. | À livre ouvert : Code de bonnes pratiques de la statistique européenne |  |  |\n|  | 1.2. | La gouvernance du STATEC |  |  |\n| **2°** | **Méthodes statistiques** | **60** | **2 heures** |  |\n|  | 2.1. | Méthodes et pratiques d’enquête (Statistique Canada)Chapitre 1 - Introduction aux enquêtesChapitre 3 - Introduction au plan d’enquêteChapitre 6 - Plan d’échantillonnage |  |  |\n| **3°** | **Informatique – l’environnement de travail et les principaux outils** | **60** | **3 heures** |  |\n|  | 3.1. | Utilisation de Microsoft ExcelBibliographie : Microsoft Excel 2016 Bible (John Walkenbach)Chapter 1 : Introducing ExcelChapter 2 : Entering and Editing Worksheet DataChapter 3 : Essential Worksheet OperationsChapter 4 : Working with Cells and RangesChapter 6 : Worksheet FormattingChapter 10 : Introducing Formulas and FunctionsChapter 13 : Creating Formulas That Count and SumChapter 18 : Getting Started Making Charts |  |  |",
+      "text_sha256": "d58c6585076871889dc10379f01f48e77d80c631f4573eabe57dba2b71057f05",
+      "md_span": {
+        "start": 14072,
+        "end": 15390
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12_20250727",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_12_20250727",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_12/20250727",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Modalités de l’examen de promotion et appréciation des résultats**"
+      ],
+      "article_valid_from": "2025-07-27",
+      "text_md": "**(1)** Pour les fonctionnaires de la catégorie de traitement D, les matières, la durée des épreuves ainsi que le maximum des points de chaque matière de l’examen de promotion sont fixés comme suit :\n\n|  | Matières de cours | Maximum des points | Durée de l’épreuve |  |\n| --- | --- | --- | --- | --- |\n| **1°** | **Cadre légal du système statistique** | **60** | **2 heures** |  |\n|  | 1.1. | À livre ouvert : Code de bonnes pratiques de la statistique européenne |  |  |\n|  | 1.2. | La gouverance du STATEC |  |  |\n| **2°** | **Méthodes statistiques** | **60** | **2 heures** |  |\n|  | 2.1. | Méthodes et pratiques d’enquête (Statistique Canada)Chapitre 1 - Introduction aux enquêtesChapitre 3 - Introduction au plan d’enquêteChapitre 6 - Plan d’échantillonnage |  |  |\n| **3°** | **Informatique – l’environnement de travail et les principaux outils** | **60** | **3 heures** |  |\n|  | 3.1. | Utilisation de Microsoft ExcelBibliographie : Microsoft Excel 2016 Bible (John Walkenbach)Chapter 1 : Introducing ExcelChapter 2 : Entering and Editing Worksheet DataChapter 3 : Essential Worksheet OperationsChapter 4 : Working with Cells and RangesChapter 6 : Worksheet Formatting |  |  |\n\n**(2)** Les matières visées au paragraphe 1er, points 1° à 3°, sont sanctionnées par un examen qui est organisé sous forme d’épreuves écrites.",
+      "text_sha256": "a9cb7507d5a48e7521e94ee5ff9b3e79fc7ffea09c2a92a5eba78f4da410bf26",
+      "md_span": {
+        "start": 15436,
+        "end": 16764
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_13/20220701",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions abrogatoire et finales**"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "Le règlement grand-ducal du 1er juin 2012 déterminant les conditions d’admission, de nomination et d’avancement du personnel des cadres de l’Institut national de la statistique et des études économiques et fixant les modalités et le programme des examens spéciaux en vue de l’accès au statut de fonctionnaire dans les carrières des employés de l’État de l’Institut national de la statistique et des études économiques est abrogé.",
+      "text_sha256": "698b743f190a02ae651ebdbc6306906dead4d2a1598ef3dd003d4bab16da87c6",
+      "md_span": {
+        "start": 16863,
+        "end": 17292
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/06/01/n2/jo",
+          "text": "règlement grand-ducal du 1er juin 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2022-06-20-a312:2025-07-27#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/art_14/20220701",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5 ** — **Dispositions abrogatoire et finales**"
+      ],
+      "article_valid_from": "2022-07-01",
+      "text_md": "Notre ministre ayant l’Économie dans ses attributions, Notre ministre ayant la Fonction publique dans ses attributions et Notre ministre ayant le Budget dans ses attributions sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "4d4d850b59b0b8eb136a1cf41968ce3c2b56dd7ce1add18cecc97867af625936",
+      "md_span": {
+        "start": 17329,
+        "end": 17649
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

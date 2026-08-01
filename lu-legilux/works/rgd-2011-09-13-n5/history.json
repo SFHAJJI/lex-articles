@@ -1,0 +1,75 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2011-09-13-n5",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2018-05-27",
+        "valid_to": null,
+        "text_sha256": "897ebb88aa831838feee0b4618d66b5d49bffc9915cab455a1df8416d42f1d08",
+        "in_version": "lu-legilux:rgd-2011-09-13-n5:2018-05-27",
+        "article_valid_from": "2018-05-27"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2018-05-27",
+        "valid_to": null,
+        "text_sha256": "c33523b2e6d792c80ffa6381087746720253d09fde5afc0d293653b1848056ff",
+        "in_version": "lu-legilux:rgd-2011-09-13-n5:2018-05-27",
+        "article_valid_from": "2018-05-27"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2018-05-27",
+        "valid_to": null,
+        "text_sha256": "1b628b3a05886368d899354ff58b3f5c8f47996093a1a7cedab1ffb0efbe19a4",
+        "in_version": "lu-legilux:rgd-2011-09-13-n5:2018-05-27",
+        "article_valid_from": "2018-05-27"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2018-05-27",
+        "valid_to": "2024-05-31",
+        "text_sha256": "50bfc4bcdf6fd199aae326780584d211ec4163988520dd19b48c72b333fae473",
+        "in_version": "lu-legilux:rgd-2011-09-13-n5:2018-05-27",
+        "article_valid_from": "2011-12-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_4_20240601": [
+      {
+        "valid_from": "2024-06-01",
+        "valid_to": null,
+        "text_sha256": "50bfc4bcdf6fd199aae326780584d211ec4163988520dd19b48c72b333fae473",
+        "in_version": "lu-legilux:rgd-2011-09-13-n5:2024-06-01",
+        "article_valid_from": "2024-06-01"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2018-05-27",
+        "valid_to": null,
+        "text_sha256": "b135a957ed1dfa6ee01ea73182eb74b6f7e3287e3699dbd9255ddd341e737729",
+        "in_version": "lu-legilux:rgd-2011-09-13-n5:2018-05-27",
+        "article_valid_from": "2011-12-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "renumbered",
+      "from": "art_4",
+      "to": "art_4_20240601",
+      "text_sha256": "50bfc4bcdf6fd199aae326780584d211ec4163988520dd19b48c72b333fae473",
+      "at_version": "lu-legilux:rgd-2011-09-13-n5:2024-06-01",
+      "basis": "identical_text"
+    }
+  ]
+}

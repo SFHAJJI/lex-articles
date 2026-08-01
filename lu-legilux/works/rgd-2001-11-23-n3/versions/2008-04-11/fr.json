@@ -1,0 +1,285 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/04/2008 : Règlement grand-ducal du 23 novembre 2001 portant exécution des articles 1 et 2 de la loi du 29 mars 2001 portant sur l'accessibilité des lieux ouverts au public.",
+  "valid_from": "2008-04-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2001-11-23-n3/versions/2008-04-11/fr.xml",
+    "sha256": "34b09badaaeb0fa18f5dddb4027cbdf980b8f905fd3eb2670f494056f826cc7e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/consolide/20080411/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_1er/20011224",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-12-24",
+      "text_md": "On entend par lieu ouvert au public au sens de l'article 2, paragraphes 1 et 2 de la loi du 29 mars 2001 portant sur l'accessibilité des lieux ouverts au public:\n\n1. les voies et espaces publics affectés à l'usage des piétons ou desservant des lieux visés aux points 2 et 3, y compris le mobilier urbain qui y est implanté;\n2. 1. loi du 8 septembre 1998\n2. les hôpitaux, les centres d'aide, de rééducation ou de réadaptation médicaux, psychiques, familiaux et sociaux;\n3. les bâtiments et espaces destinés aux activités touristiques, récréatives et socioculturelles;\n4. les établissements destinés à la pratique du sport et de la vie en plein air, ainsi que les plaines de jeux;\n5. les établissements destinés à la pratique des cultes, les centres funéraires, ainsi que les cimetières;\n6. les établissements pénitentiaires;\n7. les immeubles abritant les institutions et administrations publiques;\n8. les infrastructures affectées au transport public, notamment les gares et les haltes des chemins de fer, les points de vente de transport public, les arrêts d'autobus, les gares fluviales et les aérogares;\n9. les établissements hôteliers et de restauration relevant du droit public, notamment les maisons de vacances, les auberges de jeunesse et les cantines;\n10. les institutions financières relevant du droit public;\n11. les infrastructures scolaires, universitaires et de formation, les internats et les homes pour étudiants;\n12. les parkings publics;\n3. 1. les toilettes publiques;\n2. les téléphones publics;\n3. les bornes d'information publiques.",
+      "text_sha256": "8146c6b45ac706d4c00a60efe733b4455e63a3401db9d4159388772affdd81a5",
+      "md_span": {
+        "start": 684,
+        "end": 2235
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2001/03/29/n1/jo",
+          "text": "loi du 29 mars 2001"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_2/20011224",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-12-24",
+      "text_md": "Les exigences d'accessibilité telles que définies ci-après s'appliquent à l'ensemble de l'environnement bâti ou aménagé des lieux ouverts au public.",
+      "text_sha256": "7ee1651344495087aaebec663770315c0aca4ec0dcd0a616a2557a33805b892d",
+      "md_span": {
+        "start": 2270,
+        "end": 2418
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_3/20011224",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-12-24",
+      "text_md": "De façon générale, le revêtement de sol est dur, non glissant, non éblouissant et dépourvu de trous ou de fentes de plus de 2 cm de large.",
+      "text_sha256": "ddd741ef272e6da33cedab82625b914b6b944e791c341d9da2923e3a48510ec1",
+      "md_span": {
+        "start": 2453,
+        "end": 2591
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_4/20080411",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les voies et espaces publics, les aires de jeux, les plans verts, les plantations et les jardins, les exigences d'accessibilité sont les suivantes:\n\n1. Il est aménagé un accès sans marches. En cas d'impossibilité technique de garantir un accès sans marches, la différence entre les niveaux est de 3 cm.\n2. - Des dispositifs tactiles et optiques signalent clairement la séparation entre le chemin pour piétons et les autres voies de la circulation.\n- Aux passages pour piétons, la différence de niveau entre la rue et le trottoir est de 3 cm. La pente maximale d'un bateau ou d'un plan incliné reliant le trottoir à la chaussée ne dépasse pas les 6%.\n3. - La largeur minimale des plans inclinés est de 160 cm. Leur pente ne dépasse pas les 6%. Le dévers est nul. Si pour des raisons techniques cela n'est pas possible, le dévers ne dépasse pas les 2%. La largeur des plans inclinés peut exceptionnellement être ramenée à 120 cm à condition de prévoir un palier de repos d'au moins 160 x 160 cm tous les 6 mètres.\n- Une bordure de 10 cm de hauteur au moins est réalisée de part et d'autre du plan incliné sur toute sa longueur.\n- Un palier de repos horizontal d'un diamètre minimal de 160 cm est aménagé tous les 6 mètres du plan incliné, ainsi qu'à ses extrémités.\n- Une main courante double est installée à une hauteur de 70 cm et 90 cm du sol de part et d'autre du plan incliné sur toute sa longueur, y compris le ou les paliers de repos. En présence d'un garde-corps d'une hauteur de 1 m, muni d'une main courante préhensible, celui-ci remplace la main courante de 90 cm.\n4. De façon générale, les mains courantes sont installées à une hauteur de 90 cm du sol. Dans les escaliers, à compter de la première et de la dernière marche ou du premier et du dernier palier et à chaque extrémité d'un plan incliné, elles sont prolongées de 30 cm, sans jamais empiéter sur la zone de circulation. Les mains courantes ne peuvent être interrompues sauf si des moyens alternatifs de guidance et de soutien sont présents.\n5. 2h + I = 60 à 65 cm,\n6. Un éclairage non éblouissant et permanent, voire à déclenchement par détecteurs de mouvement, est installé dans les escaliers, spécialement au début et à la fin des marches. Les nez de la première et dernière marche sont de couleur contrastée.\n7. - Les niveaux qui ne peuvent être atteints à l'aide de plans inclinés sont desservis par au moins un ascenseur ou une plate-forme élévatrice.\n- Une aire de manoeuvre libre de tout obstacle d'un diamètre minimal de 160 cm est aménagée devant les ascenseurs et plates-formes élévatrices.\n- La cabine des ascenseurs a une largeur minimale de 110 cm et une profondeur minimale de 140 cm. Les plateformes élévatrices ont une largeur minimale de 90 cm et une profondeur minimale de 140 cm.\n- La largeur du passage libre au moment où la porte est ouverte est d'au moins 90 cm.\n- Les dispositifs de commande aux portes palières et à l'intérieur de la cabine sont installés à une hauteur ni inférieure à 85 cm, ni supérieure à 110 cm.\n- Les boutons de commande ont un diamètre d'au moins 5 cm.\n- Ils sont en relief et bien contrastés. Ils sont placés à une distance d'au moins 50 cm du coin à l'intérieur de la cabine.\n- Le fond de la cabine est muni d'un miroir couvrant toute sa hauteur à installer à 35 cm du sol sauf si des moyens alternatifs de guidance sont présents. Sont dispensés de cette exigence les ascenseurs disposant d'une aire de manœuvre d'un diamètre d'au moins 160 cm.\n8. Les commandes des signaux lumineux, acoustiques et tactiles se situent à une hauteur ni inférieure à 85 cm, ni supérieure à 110 cm. Les signaux acoustiques doivent avoir une intensité minimale de 65 dB(A) à la source.\n9. Un passage libre d'une largeur d'au moins 100 cm est garanti entre le mobilier urbain et tout autre obstacle, ainsi que le long des chantiers.\n10. Les objets suspendus sont placés à une hauteur d'au moins 220 cm du sol.",
+      "text_sha256": "af833057c0a31df8b694635cd41ee75f4a5e51851c1e85c11cb5e52dc4b14275",
+      "md_span": {
+        "start": 2626,
+        "end": 6552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_5/20080411",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les espaces réservés au parking et au stationnement, ainsi que les garages collectifs, les exigences d'accessibilité sont les suivantes:\n\n1. er\n2. Les emplacements de parking ou de stationnement pour personnes handicapées ont une largeur d'au moins 350 cm. Elles sont marquées au sol et par un panneau à pictogramme.\n3. - Les horodateurs et les dispensateurs de tickets sont placés à proximité directe des places de parking ou de stationnement pour personnes handicapées et doivent être accessibles aux personnes à mobilité réduite.\n- Les commandes des horodateurs, des dispensateurs de tickets et des caisses automatiques sont installées à une hauteur ni inférieure à 85 cm, ni supérieure à 110 cm.",
+      "text_sha256": "451cc6757122703f9c57ca03a3cdbe434b8fe5a2d50c2370b42f16bd3f77ab49",
+      "md_span": {
+        "start": 6587,
+        "end": 7305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_6/20080411",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les entrées et parties communes des bâtiments, les exigences d'accessibilité sont les suivantes:\n\n1. er\n2. Devant la porte ou le sas d'entrée, une aire de manoeuvre plane d'un diamètre minimal de 160 cm est aménagée.\n3. Au cas où l'accès par la porte principale n'est pas possible, une signalisation adéquate telle que définie à l'article 14 doit orienter le visiteur vers l'entrée secondaire accessible au sens des dispositions du présent règlement.\n4. Toute personne doit pouvoir circuler dans le bâtiment et accéder soit de plain-pied soit en utilisant un ascenseur au palier et aux locaux du rez-de-chaussée, ainsi qu'aux locaux à usage collectif situés aux étages du bâtiment.\n5. Les corridors et couloirs ont une largeur minimale de 120 cm. Des mains courantes répondant aux prescriptions de l'article 4. point 4) sont installées le long d'un des mur des corridors et couloirs.\n6. La largeur du passage libre entre les caisses, guichets ou self-services, ainsi qu'entre tout autre obstacle est d'au moins 100 cm.\n7. - Toutes les portes extérieures et intérieures des locaux ouverts au public garantissent un passage libre d'au moins 90 cm.\n- Jusqu'à une hauteur de 2 m du sol, les parois vitrées, les portes en verre et toutes autres surfaces transparentes ou translucides situées dans les aires de circulation et de séjour des personnes doivent être garnis, équipés ou marqués visiblement de manière que les personnes puissent constater leur présence et leur position.\n- Les portes s'ouvrent sans empiéter sur les zones de circulation.\n- En cas d'impossibilité technique d'éviter les seuils, ceux-ci ne dépassent en aucun cas 2,5 cm de hauteur.\n8. Les plans inclinés à aménager à l'intérieur ou à l'extérieur des bâtiments répondent aux prescriptions de l'article 4. point 3).\n9. Les escaliers à l'intérieur ou à l'extérieur des bâtiments répondent aux prescriptions de l'article 4. points 5) et 6).\n10. Les ascenseurs et plate-formes élévatrices à l'intérieur ou à l'extérieur des bâtiments répondent aux prescriptions de l'article 4. point 7).",
+      "text_sha256": "1ee02b5d8d81f77c40843b61ae2d7fa867b1169c642004a8076d30ecd7b8a816",
+      "md_span": {
+        "start": 7340,
+        "end": 9411
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_7/20080411",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les locaux sanitaires, les exigences d'accessibilité sont les suivantes:\n\n1. Les appareils sanitaires sont disposés de façon à garantir une aire de manoeuvre libre de tout obstacle d'un diamètre minimal de 160 cm.\n2. 1. dans la mesure du possible, la cabine WC accessible est munie de portes coulissantes. En cas d'impossibilité technique d'installer de telles portes, le battant des portes conventionnelles s'ouvre vers l'extérieur. La largeur du passage libre entre les montants de la porte est d'au moins 90 cm;\n2. des barres d'appui relevables sont installées de part et d'autre de la cuvette;\n3. l'accès à la cuvette en fauteuil roulant doit pouvoir se faire latéralement des deux côtés lorsque le bâtiment ne dispose que d'une seule cabine WC accessible. S'il en dispose de plusieurs, une cabine WC au moins doit permettre le transfert à gauche et une cabine WC au moins doit permettre le transfert à droite. Elles doivent être spécifiquement signalées en répondant aux prescriptions de l'article 14;\n4. la cabine WC accessible se trouve à un endroit central du bâtiment qui peut être facilement rejoint par toute personne à mobilité réduite et elle est munie d'un dispositif permettant l'appel d'aide en cas de chute, de malaise ou d'autre problème nécessitant l'intervention d'un tiers. Si les interrupteurs d'alarme sont munis de cordes, celles-ci doivent pouvoir être atteintes à partir du sol.\n3. 1. une barre d'appui horizontale est fixée au mur à une hauteur de 90 cm du sol;\n2. au moins une barre d'appui verticale est fixée au mur;\n3. en cas de présence d'un siège de douche, celui-ci a une hauteur d'assise de 48 cm, il est réalisé en matériel antidérapant et muni d'accoudoirs relevables.\n4. le bac receveur de la douche plain pied ne présente ni retombées ni saillies et est réalisé en matériel antidérapant.\n4. - Au cas où des baignoires sont mises à la disposition du public, la hauteur supérieure du bord d'une baignoire au moins doit se situer à 48 cm.\n- Une ou plusieurs barres d'appui horizontales et verticales sont installées.\n5. - L'espace libre en dessous du lave-mains ou lavabo a une largeur d'au moins 90 cm.\n- Le siphon est encastré ou déporté vers l'arrière.\n- Un miroir permettant de se voir assis et debout est installé.",
+      "text_sha256": "3bdac842b18f5593f0a75798fd748f87d59c82d85d2fd4432ca0d0153c5126f3",
+      "md_span": {
+        "start": 9446,
+        "end": 11720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_8/20080411",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les cuisines, les exigences d'accessibilité sont les suivantes:\n\n1. Les cuisines disposent d'une aire de manoeuvre libre de tout obstacle d'un diamètre minimal de 160 cm.\n2. Le niveau supérieur d'au moins un plan de travail se situe à une hauteur ne dépassant pas 80 cm. En dessous d'un des plans de travail, une hauteur libre d'au moins 70 cm est garantie.",
+      "text_sha256": "60079badcc040df74b80f3acfe906783c80ac0e423e86c91fe22ec83c7600b59",
+      "md_span": {
+        "start": 11755,
+        "end": 12131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_9/20080411",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les chambres, les exigences d'accessibilité sont les suivantes:\n\nDans les chambres mises à disposition du public, le mobilier est disposé de telle sorte à assurer une aire de manoeuvre libre de tout obstacle d'un diamètre minimal de 160 cm et un passage libre entre les meubles d'au moins 100 cm.",
+      "text_sha256": "1126b6e6db35b7e0518ba796d2182ec1c948f7ba05b0996d9aca6a0c10cb69aa",
+      "md_span": {
+        "start": 12166,
+        "end": 12481
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_10/20080411",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les installations électriques, de ventilation et de chauffage, les exigences d'accessibilité sont les suivantes:\n\n- Les dispositifs de commande, les interrupteurs de l'éclairage ainsi que des prises électriques, de téléphone, de radio et de télévision sont installés à une hauteur ni inférieure à 85 cm, ni supérieure à 110 cm.\n- Ils sont placés à au moins 50 cm d'un coin.",
+      "text_sha256": "009b62c57b7cc7547e869f5a275732ecc771903e993da7f7154aca4f4d9737bf",
+      "md_span": {
+        "start": 12518,
+        "end": 12910
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_11/20080411",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les cabines téléphoniques, les exigences d'accessibilité sont les suivantes:\n\n1. Les cabines téléphoniques publiques ont à l'intérieur une largeur d'au moins 140 cm et une profondeur d'au moins 160 cm.\n2. La largeur du passage libre au niveau de la porte est d'au moins 90 cm.\n3. Le combiné est placé en face de l'entrée à une hauteur ni inférieure à 85 cm, ni supérieure à 110 cm.\n4. L'écouteur de l'appareil téléphonique est équipé d'un amplificateur de volume atteignant au moins 20 dB et d'un dispositif d'induction.",
+      "text_sha256": "63c5180e9ec961e998bfb1513e3a852f2972b9aa46650ef339bba3eb662912f0",
+      "md_span": {
+        "start": 12947,
+        "end": 13486
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_12/20011224",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-12-24",
+      "text_md": "En ce qui concerne les boîtes aux lettres et compartiments, sonnettes et alarmes, les exigences d'accessibilité sont les suivantes:\n\n1. Les boîtes aux lettres mises à la disposition du public ont une ouverture qui se situe à une hauteur du sol ni inférieure à 85 cm, ni supérieure à 110 cm.\n2. Les sonnettes et sonnettes d'alarme sont installées à une hauteur ni inférieure à 85 cm, ni supérieure à 110 cm. Elles sont placées à au moins 50 cm d'un coin.\n3. Les sonnettes d'alarme sont identifiables moyennant l'emploi d'une couleur vive et grâce à un profil en relief.",
+      "text_sha256": "49eb4bbae139bf2a3afe0baad78f73c5dd985f6c6d71994563cfd23f5f61eb9d",
+      "md_span": {
+        "start": 13523,
+        "end": 14091
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_13/20080411",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-04-11",
+      "text_md": "En ce qui concerne les équipements d'information et de communication, les exigences d'accessibilité sont les suivantes:\n\n1. Les interfaces de communication, les commandes des installations d'interphone et des installations d'appel d'aide ou téléalarmes sont installées à une hauteur ni inférieure à 85 cm, ni supérieure à 110 cm. Ils sont placés à au moins 50 cm d'un coin. Les installations d'appel à l'aide ou téléalarmes doivent également pouvoir être atteintes à partir du sol.\n2. Les interfaces des bornes d'information interactives sont installés à un hauteur ni inférieure à 85 cm, ni supérieure à 110 cm. Les claviers et souris et trackballs sont installés à une hauteur ne dépassant pas 80 cm.\n3. Les écrans sont installés de telle sorte que le milieu de ceux-ci se trouve à une hauteur du sol ne dépassant pas 120 cm.",
+      "text_sha256": "9cc7af09e86990e6595034c8b8c0414c2ddac69ff47af7c21adb39151805c4bf",
+      "md_span": {
+        "start": 14128,
+        "end": 14955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_14/20011224",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-12-24",
+      "text_md": "En ce qui concerne la signalisation et les inscriptions en général, les exigences d'accessibilité sont les suivantes:\n\n1. Les signalisations et inscriptions sont portées sur un support non éblouissant et contrastant clairement avec le support.\n2. Les caractères ont une taille minimale de 10 mm pour une distance de lecture de 40 cm ou proportionnelle à la distance de lecture.\n3. Les caractères sont déliés (sans sérif), ne présentent aucune ligature et ne sont pas en italique.",
+      "text_sha256": "da710bfc0b6f817726bd4033e42f28cf772cb901c04962a825067bef23251627",
+      "md_span": {
+        "start": 14992,
+        "end": 15471
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2001-11-23-n3:2008-04-11#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/art_15/20011224",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-12-24",
+      "text_md": "Notre Ministre de la Famille, de la Solidarité Sociale et de la Jeunesse et Notre Ministre de la Fonction Publique et de la Réforme Administrative sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui est publié au Mémorial.",
+      "text_sha256": "eca88010cd8f6e7f57e166c58c6c51f177d1915ef4eb88c1ffab5d9507cb661a",
+      "md_span": {
+        "start": 15508,
+        "end": 15762
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

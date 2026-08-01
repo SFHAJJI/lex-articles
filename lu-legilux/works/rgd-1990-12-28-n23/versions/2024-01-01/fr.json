@@ -1,0 +1,76 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1990-12-28-n23:2024-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 28 décembre 1990 portant exécution de l’article 104, alinéa 3 de la loi du 4 décembre 1967 concernant l’impôt sur le revenu (fixation de la valeur moyenne des rémunérations en nature en matière d’impôt sur les salaires).",
+  "valid_from": "2024-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1990-12-28-n23/versions/2024-01-01/fr.xml",
+    "sha256": "ebb5bd3908d10c54470b071aca6533369461315a5137a0205bf7c174077671e8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n23/consolide/20240101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n23:2024-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n23/art_1er/20240101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Sans préjudice des dispositions de l’article 3 la valeur moyenne des rémunérations en nature dont l’énumération suit, est fixée à partir du 1er janvier 1998, tant pour les travailleurs masculins que pour les travailleurs féminins, aux taux suivants:\n\n1. entretien complet: cent cinquante euros (150 €) par mois ou cinq euros (5 €) par journée;\n2. pension complète: cent trente euros (130 €) par mois ou quatre euros et cinquante cents (4,50 €) par journée;\n3. pension partielle: soixante-quinze euros (75 €) par mois ou deux euros et cinquante cents (2,50 €) par journée; La pension partielle consiste dans la prestation d’un seul repas principal; la simple prestation d’une collation n’est pas prise en considération;\n4. vingt euros (20 €) par mois et par chambre pour toutes les localités du pays;\n5. 1. pour le conjoint à quatre-vingts pour cent,\n2. pour chaque enfant de moins de six ans à trente pour cent,\n3. pour chaque enfant âgé de six ans au moins à quarante pour cent.",
+      "text_sha256": "e423d54a07eb2992ad885da727ed0aa1eac5f05d50cd70068f47a319a5ea45e0",
+      "md_span": {
+        "start": 769,
+        "end": 1748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n23:2024-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n23/art_2/20240101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "Les taux prévus à l’article 1er sont réduits à soixante-dix pour cent en ce qui concerne les travailleurs agricoles.",
+      "text_sha256": "7c31f20acd208d8d5befaa3cecc8df25d7d95fd0b3e71b877d43e6057d0ec356",
+      "md_span": {
+        "start": 1783,
+        "end": 1899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1990-12-28-n23:2024-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n23/art_3/20240101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2024-01-01",
+      "text_md": "1. er\n2. 1. en ce qui concerne le repas pris dans une cantine d’entreprise installée par l’employeur à deux euros et quatre-vingt cents (2,80 €) par repas principal;\n2. en ce qui concerne le repas offert au salarié dans un restaurant par l’employeur ne disposant pas d’une cantine d’entreprise, à deux euros et quatre-vingt cents (2,80 €) pour le repas principal pris au cours d’une journée de travail. Toutefois, lorsque le prix du repas mis en compte par le restaurateur à charge de l’employeur, dépasse, compte tenu du prix déboursé par le salarié, le montant de huit euros et quarante cents (8,40 €), la valeur fiscale de la rémunération en nature s’établit à deux euros et quatre-vingt cents (2,80 €), augmentés de la différence entre ledit prix et le montant de huit euros et quarante cents (8,40 €);\n3. en ce qui concerne les repas principaux autres que ceux visés sub 1) et 2), respectivement au prix de revient du repas offert par l’employeur ou au prix du repas mis en compte par le restaurateur à charge de l’employeur et le prix déboursé par le salarié.",
+      "text_sha256": "94a7a8f55917ef09c65062394d7da19859d227fc20d456f48bc74827c810815f",
+      "md_span": {
+        "start": 1934,
+        "end": 2999
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

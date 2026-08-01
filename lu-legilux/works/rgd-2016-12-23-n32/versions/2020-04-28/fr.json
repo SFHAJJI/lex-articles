@@ -1,0 +1,380 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28",
+  "language": "fr",
+  "title": "Version consolidée applicable au 12/04/2024 : Règlement grand-ducal du 23 décembre 2016 concernant le contrôle médico-sportif obligatoire des membres licenciés actifs des fédérations sportives agréées.",
+  "valid_from": "2020-04-28",
+  "valid_to": "2021-10-17",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2016-12-23-n32/versions/2020-04-28/fr.xml",
+    "sha256": "d267da4aa6c2bedf6123a7f1fe901d2257b1f607ff7af4b8fe25fd6dd6f3354e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/consolide/20200428/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_1er/20170101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Le contrôle médical obligatoire prévu à l’article 11 de la loi modifiée du 3 août 2005 concernant le sport pour les membres actifs titulaires d’une licence de compétition d’une fédération sportive agréée par le ministre des Sports, désigné ci-après par «le ministre», est organisé conformément aux dispositions du présent règlement.",
+      "text_sha256": "ba73485a4c95ee94cc4d8f9787422fab4197fa08247e33d3a904da97373a1b05",
+      "md_span": {
+        "start": 705,
+        "end": 1037
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/08/03/n2/jo",
+          "text": "loi modifiée du 3 août 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_2/20170101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "But de l’examen",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Le contrôle médico-sportif a pour but:\n\n1. de permettre l’accès aux compétitions sportives aux personnes aptes à les pratiquer;\n2. d’aider à les orienter vers une activité sportive qui leur convient;\n3. d’assurer une surveillance médicale des sportifs détenteurs d’une licence de compétition.",
+      "text_sha256": "8f5e8a90fc1b6df1d25caa6694b0f0593b5fafa3ae8f2ac911da4172e620b4f4",
+      "md_span": {
+        "start": 1088,
+        "end": 1380
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_3/20170101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Catégories d’activités sportives",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "En fonction du degré de nécessité de la surveillance médicale, les activités sportives sont classées dans les trois catégories A, B et C qui figurent en annexe au présent règlement.\n\nLa catégorie A comprend les activités sportives dont les compétiteurs doivent se soumettre à une surveillance médicale périodique.\n\nLa catégorie B comprend les activités dont les compétiteurs doivent se soumettre à une surveillance médicale unique.\n\nLa catégorie C comprend les activités sportives dont les compétiteurs sont dispensés de l’examen médico-sportif.\n\nLe contrôle médico-sportif est obligatoire pour les compétiteurs des activités sportives des catégories A et B.",
+      "text_sha256": "c3722fa9f771de8542d3b158175e9e249981e35482211fb2a9a5bb9610745656",
+      "md_span": {
+        "start": 1448,
+        "end": 2106
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_4/20200428",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Obligation et périodicité",
+      "path": [],
+      "article_valid_from": "2020-04-28",
+      "text_md": "L’examen médico-sportif est prescrit:\n\n1. avant la première délivrance de chaque licence de compétition autorisant la pratique d’une activité sportive des catégories A et B à partir de l’année au cours de laquelle le sportif atteint l’âge de sept ans;\n2. pour tout titulaire d’une licence de compétition autorisant la pratique des activités sportives de la catégorie A pendant l’année de calendrier au cours de laquelle il atteint l’âge de douze, quinze, vingt, trente, quarante, quarante-cinq et cinquante ans, sans préjudice des dispositions de l’article 5;\n3. avant la reprise de la compétition pour tout titulaire d’une licence de compétition suspendue temporairement pour dopage.\n\nLa périodicité prévue au point 2 ci-avant n’est pas requise, si le dernier examen obligatoire a eu lieu moins de douze mois avant la prochaine échéance périodique. Dans cette hypothèse, le sportif est dispensé de la prochaine échéance périodique.\n\nL’examen obligatoire fait pour une des disciplines des catégories A et B est valable également pour une autre discipline de ces mêmes catégories à l’exception de la boxe, de la plongée sous-marine et du sport automobile.\n\nLes prescriptions visées au paragraphe 1er du présent article s’appliquent également aux arbitres de basketball, de football, de handball, de hockey sur glace et de rugby.\n\nLa validité de l’examen médico-sportif pour les sportifs titulaires d’une licence de compétition qui, au cours de l’année 2020, atteignent l’âge de douze, quinze, vingt, trente, quarante, quarante-cinq ou cinquante ans est prolongée jusqu’au 31 décembre de l’année 2021. Cette prolongation vaut également pour les arbitres de basketball, de football, d’handball, de hockey sur glace et de rugby. Cette prolongation exceptionnelle ne concerne pas les sportifs et arbitres susmentionnés ayant passé l’examen périodique obligatoire en 2020.",
+      "text_sha256": "9bf52aeaddac55cc42e862bc98f7ab787567e177693e8ab684090b7fc2663f86",
+      "md_span": {
+        "start": 2167,
+        "end": 4033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_5/20170101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Examens complémentaires",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "En dehors des examens médico-sportifs prévus à l’article 4, les titulaires d’une licence de compétition dans une discipline de la catégorie A peuvent être soumis à des contrôles complémentaires suivant les modalités suivantes:\n\n1. le médecin-examinateur qui, lors d’un examen effectué en vertu de l’article 4, estime que l’état de santé d’un sportif nécessite une surveillance médicale plus suivie, peut prescrire un réexamen obligatoire avant le terme prévu pour le prochain examen périodique;\n2. un médecin attaché au service de l’Etat et désigné à cet effet par le ministre compétent peut à tout moment, de sa propre initiative ou à la demande écrite et motivée d’un médecin agréé visé à l’article 10 ci-dessous, ordonner qu’un titulaire d’une licence se soumette à un contrôle complémentaire.\n\nL’examen de base effectué dans les centres médico-sportifs peut également être complété par une épreuve d’effort avec électrocardiogramme, dénommée ci-après «ECG» et mesure de la pression artérielle à faire réaliser auprès d’un médecin spécialiste si la personne examinée présente un facteur de risque et ceci sur décision soit du médecin examinateur soit du médecin attaché au service de l’Etat.",
+      "text_sha256": "33be3845035a4499ffbcd66afb2ada77b897b132b0582fc8b5fc9080e9be4ac5",
+      "md_span": {
+        "start": 4092,
+        "end": 5286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_6/20200428",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Examen médical",
+      "path": [],
+      "article_valid_from": "2020-04-28",
+      "text_md": "L’examen médical de base à effectuer dans les centres médico-sportifs comprend:\n\n1. 1. l’anamnèse;\n2. les facteurs à risque;\n2. 1. l’état physiologique;\n2. l’acuité visuelle;\n3. les organes auditifs;\n4. la perméabilité nasale;\n5. la cavité buccale;\n6. l’appareil cardio-pulmonaire;\n7. le système neuro-végétatif;\n8. l’appareil locomoteur;\n9. l’état de la croissance et du développement;\n3. 1. le poids;\n2. la taille;\n3. le périmètre abdominal, en cas d’un index de la masse corporelle élevé;\n4. d)la capacité vitale;\n5. le peak flow ou le volume expiratoire maximal par seconde;\n6. la tension artérielle contrôlée aux deux bras;\n7. l’indice de masse corporelle;\n4. la recherche de l’albumine, du glucose et du sang dans les urines à partir de l’âge de trente ans;\n5. un ECG au repos à quinze, vingt et trente ans du sportif et au moment de la délivrance de la première licence, si celle-ci a lieu après l’âge de quinze ans;\n6. des examens complémentaires conformément à l’article 5.\n\nLa périodicité prévue au point 5 ci-avant n’est pas requise, si le dernier examen d’ECG a eu lieu moins de douze mois avant la prochaine échéance périodique. Dans cette hypothèse, le sportif est dispensé de la prochaine échéance périodique.\n\nLa périodicité de l’ECG au repos prévu au chiffre 5 ci-avant est adaptée par analogie aux conditions de prolongation de la validité de l’examen périodique obligatoire prévue au dernier alinéa de l’article 4 du présent règlement.",
+      "text_sha256": "dc2fe6093e5ece4f0aebaf26598c102b9dc99e65e5c493cb81e9b098788a16db",
+      "md_span": {
+        "start": 5336,
+        "end": 6790
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_7/20170101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Frais",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Les frais relatifs aux examens obligatoires sont à charge de l’Etat.\n\nLes examens complémentaires prévus à l’article 5 ainsi que les analyses et examens spéciaux demandés en complément à l’examen médical de base par des fédérations ou des clubs ne sont pas à charge de l’Etat.",
+      "text_sha256": "21455249dc824cbad1c44ad885ae15c9ef07bb5ae70f34c6cff6bb02c3695403",
+      "md_span": {
+        "start": 6831,
+        "end": 7107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_8/20170101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Exclusivité",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen médical est exclusif de tous soins médicaux.",
+      "text_sha256": "93d4f77b7b4c0a27772af65764bc61ac38fa4e9130bf1915445ed4aea34fac3a",
+      "md_span": {
+        "start": 7154,
+        "end": 7207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_9/20170101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Conclusions et communications des résultats",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Les sportifs examinés sont classés dans un des groupes d’aptitude suivants:\n\n1. aptitude générale;\n2. aptitude temporaire;\n3. inaptitude temporaire;\n4. inaptitude générale.\n\nUne attestation, reprenant ce classement, est établie pour chaque sportif examiné par le service médico-sportif et est communiquée aux clubs et aux fédérations sportives concernés.\n\nSur le vu de cette attestation, ces derniers valident ou suspendent les licences conformément aux prescriptions de l’article 4 ci-dessus.\n\nLa personne déclarée inapte en est informée par décision du médecin chef de service du service médico-sportif.",
+      "text_sha256": "e139965868c01aaf5ba34b19157365f76efbfe3d1310775dc013397188663b4f",
+      "md_span": {
+        "start": 7286,
+        "end": 7891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_10/20170101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Agrément des médecins",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "L’examen médico-sportif est assuré par les médecins titulaires du certificat d’études spéciales en médecine du sport ou d’un diplôme reconnu comme équivalent par le ministre ayant la santé dans ses attributions et qui sont agréés par le ministre compétent. Cet agrément est accordé et peut, le cas échéant, être retiré par le ministre compétent sur avis de l’association la plus représentative des médecins diplômés en médecine du sport.",
+      "text_sha256": "c435777a56a6cece66558bfc3f37c470c1da90e87d6a094321a15b0b718e0abc",
+      "md_span": {
+        "start": 7950,
+        "end": 8387
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_11/20170101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Répartition régionale",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Le ministre compétent détermine le nombre et l’implantation géographique des centres médico-sportifs et veille à leur installation et à leur fonctionnement.",
+      "text_sha256": "f855ce466a7992998f914a8cd57f485557fbadf84e9c018aa704dcaae8935526",
+      "md_span": {
+        "start": 8446,
+        "end": 8602
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_12/20170101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Centre pour athlètes de haut niveau",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "La surveillance médicale des athlètes de haut niveau, prévue à l’article 14 de la loi modifiée du 3 août 2005 concernant le sport, est assurée dans un centre médico-sportif spécialisé reconnu compétent par le Comité olympique et sportif luxembourgeois sur base d’une convention à conclure entre le centre et le ministre.\n\nLes examens y assurés valent également comme examen obligatoire prévu à l’article 4.",
+      "text_sha256": "ae60a8e2e57c27275b9babc751119348de0ccf6382fe9d17b1a8e2b4fcc99cce",
+      "md_span": {
+        "start": 8675,
+        "end": 9081
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/08/03/n2/jo",
+          "text": "loi modifiée du 3 août 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_13/20170101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Personnel",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Le personnel des centres médico-sportifs est placé sous l’autorité du ministre compétent et se compose\n\n1. de médecins agréés conformément aux dispositions de l’article 10 ci-dessus;\n2. d’assistants et de secrétaires;\n3. de personnes chargées de la surveillance et de l’entretien du bâtiment et des locaux des centres respectifs.\n\nSans préjudice de l’alinéa 1, le médecin agréé reste soumis aux conditions de responsabilité et d’assurance d’un médecin ayant le statut d’un travailleur indépendant.",
+      "text_sha256": "d5afb5bb701c57a5e200080b017c0c7e0b3612000ec6d98023b6b7725b36bd7d",
+      "md_span": {
+        "start": 9128,
+        "end": 9625
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_14/20170101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Organisation technique des examens et honoraires des médecins",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Les rapports entre le ministère compétent, d’une part, et les médecins, d’autre part, l’organisation technique des examens et les taux des honoraires font l’objet d’une convention à conclure entre le ministre compétent et l’association des médecins et médecins-dentistes du Grand-Duché de Luxembourg.",
+      "text_sha256": "703c9f5b97927e8279c44453eefeeecb678771dfd79dfaa7fbfbfe6e1554da69",
+      "md_span": {
+        "start": 9724,
+        "end": 10024
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_15/20170101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Indemnisation du personnel auxiliaire",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Les indemnités du personnel visé aux points 2 et 3 de l’article 13 sont fixées par le Gouvernement en conseil sur proposition du ministre compétent.",
+      "text_sha256": "9141f8e7828c492042060f6d167f84f59bcfa81a9942002ddd91b382bfed62dd",
+      "md_span": {
+        "start": 10099,
+        "end": 10247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_16/20170101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Réclamation",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Toute personne déclarée inapte à la pratique d’un sport donné, peut réclamer dans un délai de quarante jours contre cette décision devant une commission qui statuera après avoir examiné l’intéressé à nouveau ou sur le vu du dossier médical.\n\nCette commission se compose de trois médecins nommés par le ministre compétent, sur avis de l’association la plus représentative des médecins diplômés en médecine du sport.\n\nUn suppléant est désigné pour chacun des trois médecins de la commission.\n\nLe médecin dont la décision est contestée ne peut pas faire partie de la commission.",
+      "text_sha256": "ccfcb500ea9864f167ee93e5015f1c80aa34d123a60fa145806f138cbf8a8be7",
+      "md_span": {
+        "start": 10296,
+        "end": 10871
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_17/20170101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Disposition abrogatoire",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Le règlement grand-ducal du 8 février 2012 concernant le contrôle médico-sportif obligatoire des membres licenciés actifs des fédérations sportives agréées est abrogé.",
+      "text_sha256": "b2f8c5372ce25b34e4e12ea8760bb934e7cf5a600f04ab7bc6ee83be9c8c5388",
+      "md_span": {
+        "start": 10932,
+        "end": 11099
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/02/08/n9/jo",
+          "text": "règlement grand-ducal du 8 février 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_18/20170101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Mise en vigueur",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Le présent règlement entre en vigueur le 1er janvier 2017.",
+      "text_sha256": "cb2decc2825c9f057c778274f716b4cd5981670ef3258f38d8f744edd99a1177",
+      "md_span": {
+        "start": 11152,
+        "end": 11210
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/art_19/20170101",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Formule exécutoire",
+      "path": [],
+      "article_valid_from": "2017-01-01",
+      "text_md": "Notre Ministre des Sports est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "061a9d8cc2bb219b0e7347e64fcfe4855c214139e3b2ca3f6053a3eaddfc525e",
+      "md_span": {
+        "start": 11266,
+        "end": 11367
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2016-12-23-n32:2020-04-28#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Catégorie A:**\n\n1. les sports aéronautiques à l’exception de l’aéromodélisme,\n2. l’alpinisme, escalade sportive,\n3. l’american football,\n4. les arts martiaux,\n5. l’athlétisme,\n6. l’automobilisme,\n7. l’aviron,\n8. le badminton,\n9. ,\n10. le basketball et le basketball corporatif,\n11. le bodybuilding et la musculation,\n12. la boxe,\n13. le canoë-kayak,\n14. le cricket,\n15. le cyclisme,\n16. l’escrime,\n17. l’équitation (endurance, jumping, military et voltige),\n18. le Flying Disc\n19. le football et le football corporatif,\n20. les Gaelic Sports\n21. la gymnastique,\n22. l’haltérophilie,\n23. le handball,\n24. le hockey,\n25. le hockey sur glace,\n26. l’indiaca,\n27. le korfball,\n28. le Lacrosse,\n29. la lutte,\n30. le motocyclisme,\n31. la natation,\n32. la course d’orientation,\n33. le patinage,\n34. la plongée sous-marine,\n35. le plongeon,\n36. le powerlifting,\n37. le rugby,\n38. le skateboard,\n39. le ski,\n40. le ski nautique,\n41. ,\n42. le sport pour personnes présentant un handicap physique,\n43. le sport pour personnes présentant une déficience intellectuelle,\n44. le squash,\n45. le tennis,\n46. le tennis de table,\n47. le triathlon,\n48. la voile,\n49. le volleyball.\n\n**Catégorie B:**\n\n1. la danse,\n2. les sports équestres (attelage, dressage et western riding),\n3. le tir à l’arc.\n\n**Catégorie C:**\n\n1. l’aéromodélisme,\n2. le billard,\n3. le sport-boules,\n4. la crosse sur glace,\n5. le curling,\n6. le dart,\n7. les échecs,\n8. le golf,\n9. le golf sur piste,\n10. le jeu de quilles,\n11. le kickersport,\n12. la marche populaire,\n13. la pêche sportive,\n14. la pétanque,\n15. le tir aux armes sportives.",
+      "text_sha256": "078895383b66fb2ff7be08dbc48a2c806b64dec3c99bdea59ae38b4db13ba359",
+      "md_span": {
+        "start": 11408,
+        "end": 12999
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

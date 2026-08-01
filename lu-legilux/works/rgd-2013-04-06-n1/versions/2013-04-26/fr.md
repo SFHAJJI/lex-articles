@@ -1,0 +1,49 @@
+---
+lex_id: lu-legilux:rgd-2013-04-06-n1:2013-04-26
+title: Version rectifiée applicable au 26/04/2013 : Règlement grand-ducal du 6 avril 2013 concernant la création et l’usage d’un signe distinctif particulier «Presse».
+valid_from: 2013-04-26
+valid_to: open
+source: https://legilux.public.lu/eli/etat/leg/rgd/2013/04/06/n1/consolide/20130426/fr
+source_sha256: 0f79a690a2b45215121d02d9d5fc0720596c36b82c747fe2abf2320daf1fbaa0
+license: CC-BY-4.0
+attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
+generator: akn-lu/1 · lex derive · dev
+---
+
+<a id="art_1er"></a>
+
+### Art. 1er.
+
+Il est créé un signe distinctif «PRESSE» qui est délivré par le ministre ayant les Transports dans ses attributions sur proposition du Conseil de Presse et conformément aux spécifications de l'annexe et de l'article 2 ci-après.
+
+Le signe distinctif est nominatif et a une durée de validité correspondant à l'année civile indiquée ensemble avec le numéro d'ordre décrit à l'article 2 ci-après.
+
+Sont seuls admis à faire usage de ce signe les journalistes professionnels et les journalistes professionnels stagiaires qui remplissent les conditions prévues à l'article 3 (6) de la loi modifiée du 8 juin 2004 sur la liberté d'expression dans les médias.
+
+<a id="art_2"></a>
+
+### Art. 2.
+
+Le signe distinctif visé à l'article 1er est constitué d'un carton large de 21 cm et haut de 10 cm portant sur un fond gris l'impression continue «Conseil de Presse» en caractère gris pâle et bleu clair. Il est bordé des couleurs nationales luxembourgeoises et barré de ces mêmes couleurs dans le coin supérieur gauche. Il porte superposées les inscriptions «PRESSE» à caractère de 2,5 cm en surimpression noire et «JOURNALISTE PROFESSIONNEL» à caractère de 0,6 cm en surimpression rouge sur un fond blanc. Dans le coin supérieur gauche figure un pictogramme qui est le logo du Conseil de Presse.
+
+Le signe distinctif porte en plus un numéro d'ordre qui doit correspondre à celui de la carte de presse de journaliste professionnel voire à celui de la carte de presse de journaliste professionnel stagiaire de son titulaire, prévues par le règlement grand-ducal du 8 décembre 2010 portant création d'une carte de presse de journaliste professionnel et d'une carte de presse de journaliste professionnel stagiaire.
+
+<a id="art_3"></a>
+
+### Art. 3.
+
+Le titulaire de l'autorisation individuelle visée à l'article 2 peut, en étant en mission journalistique, apposer le signe distinctif au pare-brise du véhicule automoteur qu'il utilise.
+
+Les personnes faisant usage du signe distinctif doivent exhiber sur réquisition leur carte de journaliste respective.
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+Notre Ministre du Développement durable et des Infrastructures et Notre Ministre des Communications et des Médias sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial avec l'annexe qui en fait partie intégrante.
+
+<a id="attachment_1"></a>
+
+### Annexe
+
+

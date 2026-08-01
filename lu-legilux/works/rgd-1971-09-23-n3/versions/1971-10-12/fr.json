@@ -1,0 +1,324 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 12/10/1971 : Règlement grand-ducal du 23 septembre 1971 portant réglementation des établissements cinématographiques.",
+  "valid_from": "1971-10-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1971-09-23-n3/versions/1971-10-12/fr.xml",
+    "sha256": "7fa4cd1e526c479cda6b98c41976a56d23f67d3f17ed76e575c197392642db55",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/consolide/19711012/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_1er/19711011",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "L'exploitation des établissements cinématographiques est soumise à l'exécution des mesures déterminées ci-après, indépendamment des conditions particulières que l'autorité compétente a toujours le droit de prescrire dans chaque cas spécial.",
+      "text_sha256": "bfd19eaa395b12c4b9a5ea7e78133650c39b192fc3f9d901113ae99f7eb6c6c9",
+      "md_span": {
+        "start": 625,
+        "end": 865
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_2/19711011",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Conditions d'implantation.",
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "**2. 1. -** Tout établissement doit ouvrir sur une ou plusieurs voies publiques d'une largeur minimum de 6 mètres, permettant l'évacuation facile du public admis, ainsi que l'accès et la mise en oeuvre du matériel nécessaire pour combattre le feu et opérer les sauvetages.\n\n**2. 2. -** Pour les établissements en sous-sol, la différence de niveau entre le point le plus bas du sol et le seuil extérieur ne peut dépasser 6 mètres.\n\n**2. 3. -** L'établissement doit être isolé des bâtiments contigus par des murs, plafonds ou planchers coupe-feu d'une durée de résistance minimum de 3 heures.\n\n**2. 4. -** La construction ou l'aménagement d'un établissement cinématographique n'est pas autorisé au-dessus ou au-dessous de locaux ne présentant pas toutes les garanties de sécurité et de salubrité.",
+      "text_sha256": "8cc3db2f56edabf8f55a7fa91140c2cc2b7bee81159cb410103db6ea9eb07cee",
+      "md_span": {
+        "start": 927,
+        "end": 1721
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_3/19711011",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Construction.",
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "**3. 1. -** Le gros-oeuvre (murs, planchers, escaliers, balcons, voies d'issues et autres dépendances accessibles au public) doit être construit en maçonnerie ou en béton ou en une autre matière présentant les mêmes garanties de résistance contre l'incendie.\n\n**3. 2. -** Toutes les parties du gros-oeuvre (murs, piliers, planchers, dalles, plafonds, etc.) doivent répondre aux exigences statiques requises. 3. 3. - La hauteur des salles et des locaux doit être calculée en fonction de la surface de l'établissement et du nombre de personnes admises. Le volume d'air ainsi créé doit être tel que l'air ambiant peut être tenu dans l'état de pureté nécessaire pour assurer la santé des spectateurs. La hauteur minimum des salles et locaux doit compter trois mètres.",
+      "text_sha256": "7dae2004a8eaf95a184cf142ca125162293fef584be9cd62ede2c60d4ab17b7f",
+      "md_span": {
+        "start": 1770,
+        "end": 2533
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_4/19711012",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Aménagements intérieurs.",
+      "path": [],
+      "article_valid_from": "1971-10-12",
+      "text_md": "**4. 1. -** Les cloisons intérieures de distribution, les éléments décoratifs en relief et les éléments constitutifs des faux-plafonds doivent offrir une résistance au feu d'une demi-heure.\n\n**4. 2. -** Les revêtements non flottants des murs, plafonds et planchers doivent être difficilement inflammables.\n\n**4. 3. —** Les draperies, les tentures, les éléments de décoration ou d´habillage flottants doivent être ignifugés ou ininflammables.\n\n**4. 4. -** Les rembourages inflammables des sièges doivent être recouverts d'un matériau difficilement inflammable à titre permanent et formant enveloppe bien close.",
+      "text_sha256": "6e7b0202bdb0bf5a48887e78d3c88e7a780b9f64f2c3a91f8bfddfb2176a352c",
+      "md_span": {
+        "start": 2593,
+        "end": 3202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_5/19711012",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Dégagements, portes, sorties, issues, escaliers.",
+      "path": [],
+      "article_valid_from": "1971-10-12",
+      "text_md": "**5. 1. -** Les voies de dégagement, les sorties, les issues, les escaliers, etc., auront une hauteur suffisante pour permettre une circulation aisée et une largeur proportionnée au nombre des personnes qui peuvent être appelées à y passer.\n\n**5. 2. -** Si l'entrée principale donne à une cour, celle-ci devra en outre communiquer avec la voie publique par un passage d'au moins 3 mètres de largeur.\n\n**5. 3. -** La salle ou les dépendances recevant du public ne peuvent avoir moins de deux issues. La largeur des issues ne peut être inférieure à 95 centimètres.\n\n**5. 4. -** Les issues doivent être judicieusement réparties, c.-à-d. de préférence à deux côtés opposés de la salle ou du local.\n\n**5. 5. -** Toutes les portes doivent s'ouvrir vers l'extérieur ou en va-et-vient. Elles doivent s'ouvrir par simple poussée.\n\n**5. 6. -** Toutes les portes intérieures par lesquelles le public peut être amené à passer seront libres ou munies d'un système de fermeture fort léger s'ouvrant au moindre effort de pression sur la porte.\n\n**5. 7. -** La largeur totale des portes, des couloirs et des voies d'évacuation sera d'au moins 1 cm par personne pour les premiers 300 spectateurs et de 7,5 mm par personne pour les nombre de spectateurs supérieur à 300.\n\n**5. 8. -** Les portes tournantes, les tambours tournants, les tourniquets et les portes coulissantes sont interdites dans les voies d'issues.\n\n**5. 9. -** La largeur des couloirs ne peut être inférieure à 1,20 m.\n\n**5.10. -** L'établissement situé à l'étage ou en sous-sol doit toujours être desservi par deux escaliers au moins.\n\n**5.11. -** La largeur totale desescaliers servant de communication sera d'au moins 1 1/4 cm par personne pour les premiers 300 spectateurs et de 1 cm par personne pour le nombre de spectateurs supérieur à 300.\n\n**5.12. -** La largeur des escaliers ne peut être inférieure à 1,10 m.\n\n**5.13. -** Sans préjudice des dispositions qui précédent, le vestibule, les couloirs, les escaliers et les portes devront présenter au minimum les largeurs suivantes:\n\n- couloirs latéraux: 1 mètre\n- couloirs centraux: 1,20 m.\n- accès principal de la rue à la salle (porte, vestibule, corridor, escalier): 2 mètres.\n\nLes largeurs de portes donnant sur un vestibule commun sans intermédiaire de corridor, pourront être additionnées pour le calcul de la largeur minima de l'accès principal. Toutes ces dimensions s'étendent comme largeurs utiles et sont mesurées en conséquence (pour les escaliers p. ex. entre les mains-courantes, etc.).\n\n**5.14. -** Un espace libre d'au moins deux fois deux mètres de surface sera réservé devant chaque sortie à l'intérieur de l'établissement.\n\n**5.15. -** Les escaliers seront munis de chaque côté d'une forte main-courante.\n\n**5. 16. -** Les volées des escaliers seront coupées de paliers de 1 m au moins de manière à n'avoir que 15 marches au plus.\n\n**5.17. -** Les escaliers seront à contre-marches pleines. Chaque marche aura une hauteur maximum de 17 cm et une largeur d'au moins 30 cm. La saillie d'une marche sur la précédente ne pourra être supérieure à 4 cm.\n\n**5.18. -** Les hauteurs et largeurs des marches d'escaliers doivent être régulières dans la même volée.\n\n**5.19. -** En cas d'escaliers tournants, les marches doivent avoir au moins 28 cm sur la ligne de foulée à 50 cm à l'intérieur du limon et dans la partie la plus large, 42 cm au plus.\n\n**5. 20. -** Les escaliers en colimaçon (Wendeltreppen) sont interdits.\n\n**5. 21. -** Si une porte s'ouvre sur un escalier, celui-ci doit être précédé d'un palier d'une profondeur de 1 m au moins.\n\n**5. 22. -** Les escaliers desservant les étages ne doivent pas être en prolongement direct des escaliers menant vers les sous-sols.\n\n**5. 23. -** L'accès vers un sous-sol est à signaler et la porte doit être du type coupe-feu.\n\n**5. 24. -** Dans les cages d'escaliers doivent être aménagées des fenêtres s'ouvrant facilement à l'intérieur et permettant l'évacuation des fumées en cas d'incendie.\n\n**5. 25, -** A l'étage le plus haut, ces cages doivent comporter une ouverture de ventilation munie d'un dispositif d'ouverture facilement maniable depuis le palier de l'escalier.\n\n**5. 26. -** Les ascenseurs, les monte-charges, les tapis ou escaliers roulants ne peuvent justifier une diminution du nombre ou de la largeur des escaliers.\n\n**5. 27. -** Dans les bâtiments abritant plusieurs salles ou locaux recevant du public, ceux-ci doivent être desservis de préférence par des sorties, voies d'issues et escaliers indépendants.\n\n**5. 28. -** Si les sorties, voies d'issues et escaliers de plusieurs établissements sont utilisés en commun, ceux-ci doivent être calculés par rapport au nombre total des personnes admises.\n\n**5.29. -** Toutes les largeurs prescrites (vestibule, dégagements, portes, sorties, escaliers, etc.) doivent être libres de saillies telles que: pilastres, bancs, tableaux d'affiches, vitrines, strapontins, sièges mobiles, vestiaires, extincteurs, robinets d'incendie, etc.\n\n**5. 30. -** II est également interdit de placer des strapontins le long des couloirs de la salle de projection.\n\n**5. 31. -** Les installations de contrôle seront placées de manière à ne pas réduire la largeur des sorties en dessous des dimensions prévues à l'art. 4.13. Elles seront fixées solidement et de préférence placées de manière à ne pas faire saillie dans les couloirs.\n\n**5. 32. -** Toute saillie pouvant accrocher les vêtements est prohibée.\n\n**5. 33. -** II est interdit de déposer et de laisser séjourner dans les voies de dégagement, dans les escaliers et aux abords des sorties des objets quelconques pouvant diminuer les largeurs réglementaires ou gêner la circulation.\n\n**5.34. -** Les dégagements et voies d'issues ne doivent pas comporter des rétrécissements sur leur parcours utilisé par le public pour gagner les sorties.\n\n**5. 35. -** De même ils ne doivent pas présenter de cheminements compliqués ou de coudes brusques ni former de culs-de-sac importants.\n\n**5. 36. -** II est interdit d'aménager des vestiaires ou de placer des porte-manteaux dans la salle de spectacle.\n\n**5. 37. -** Le débit de boissons dans la salle de spectacle est interdit. 5. 38. - II est interdit de fermer à clef les portes de sorties pendant les heures d'exploitation. Toutefois, si pour des raisons de service, une porte doit rester fermée, la clef doit être placée sous verre de façon apparente à proximité de la porte.\n\n**5. 39. -** Pendant les représentations, des indications bien visibles doivent signaler au public les portes, sorties et escaliers et, éventuellement, les chemins et dégagements qui y conduisent.\n\n**5. 40. -** Cette signalisation doit être assurée par des inscriptions ou par des transparents lumineux disposés de façon à rester apparents et à se détacher sur le fond et par rapport aux objets voisins.\n\n**5. 41. -** Toutes les portes des sorties et les sorties de secours seront à signaler de façon apparente comme telles, tandis que les autres portes et dégagements ne conduisant pas vers l'extérieur doivent rester fermées et porter une inscription renseignant sur leur utilité.",
+      "text_sha256": "febcc030d51c77e3fc617586ebc268a12031d4824494333433add9b090a0b013",
+      "md_span": {
+        "start": 3286,
+        "end": 10358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_6/19711011",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Disposition et aménagement des sièges.",
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "**6. 1. -** Chaque spectateur disposera au minimum d'un emplacement de 50 cm de largeur; cette dimension est mesurée d'axe en axe des places.\n\nLes places seront séparées par des appuis-bras ou tout autre dispositif empêchant le placement de plus d'une personne par 50 cm de largeur. L'écartement des bancs sera tel que, entre les parties les plus saillantes de deux rangs consécutifs, un espace d'au moins 50 cm restera libre pour la sortie des spectateurs. La distance du 1er rang de sièges à l'écran sera d'au moins 3 m.\n\n**6. 2. -** Aucun rang de sièges aboutissant à un seul couloir ne peut comprendre plus de 10 places. Ce nombre peut être porté à 20 places, si le rang de sièges aboutit à deux couloirs.\n\n**6. 3. -** Les rangées de sièges et banquettes doivent être solidement fixées au sol.\n\n**6. 4. -** Les sièges mobiles sont admis dans les loges. Le nombre de sièges par loge ne sera pas supérieure à 10, et chaque spectateur y disposera au minimum de 65 cm carrés de surface.\n\n**6. 5. -** Tous les sièges et places seront numérotés d'une façon très visible.\n\n**6. 6. -** Les spectateurs restant debout ne sont tolérés qu'aux places spécialement affectées à cet usage et au nombre maximum de 3 personnes par mètre carré de surface.",
+      "text_sha256": "f0a04fa12fe6664c196cc51af784e39aaab613b8728a7473cc1ef7c66b2872ce",
+      "md_span": {
+        "start": 10432,
+        "end": 11673
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_7/19711012",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Aménagements scéniques.",
+      "path": [],
+      "article_valid_from": "1971-10-12",
+      "text_md": "**7. 1. -** Dans les établissements renfermant une scène, la construction sur laquellerepose le plancher de la scène, de même que les murs d'enceinte et le plafond devront être en matériaux incombustibles.\n\n**7. 2. -** Les décors, rideaux, coulisses, etc., doivent être en matériaux incombustibles ou ignifugés.\n\n**7. 3. -** Les accessoires de scène et les coulisses ne servant pas à la représentation en cours doivent être remisés dans un local spécial affecté à cet usage.\n\n**7. 4. -** La scène et ses dépendances doivent avoir une ou plusieurs sorties permettant l'évacuation rapide et sûre des acteurs et du personnel vers l'extérieur.",
+      "text_sha256": "7183c45078c2c21d1a5d548dd7ba90f6b8012bd945f7460c83b7d070fcdecaa4",
+      "md_span": {
+        "start": 11732,
+        "end": 12371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_8/19711011",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Ventilation et chauffage.",
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "**8. 1. -** Un système de ventilation naturelle, mécanique ou mixte, doit être prévu dans la salle de projection pour empêcher une élévation exagérée de la température et pour renouveler l'air ambiant de façon à ne pas incommoder les spectateurs.\n\n**8. 2. -** Les installations de chauffage doivent être établies et aménagées suivant les règles de l'art et de telle sorte qu'il en résulte ni d'incommodité pour le public ni de risque d'incendie.\n\n**8. 3. -** Les appareils de chauffage comportant des flammes nues en contact direct avec l'atmosphère ainsi que les appareils chauffant par rayonnement sont strictement interdits dans la salle de projection et les dépendances recevant du public.\n\n**8. 4. -** Les dépôts de combustibles liquides ou gazeux sont soumis à autorisation spéciale suivant la législation réglant la matière.",
+      "text_sha256": "ad122b81163e9243046e2af1151d0eb7be54a4f966dbe3cec907f3f87289728c",
+      "md_span": {
+        "start": 12432,
+        "end": 13263
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_9/19711011",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Installations sanitaires.",
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "Tout établissement doit être pourvu d'urinoirs et de cabinets séparés pour les deux sexes. Le nombre des cabinets pour hommes sera de 1 par 200 places assises ou fraction de 200; celui des cabinets pour dames sera de 1 par 100 places ou fraction de 100.\n\nLes urinoirs comporteront un compartiment de 50 cm de large, resp. une cuvette par 50 places ou fraction de 50.\n\nEn tout cas, tout établissement doit disposer d'au moins 1 cabinet pour hommes et 2 cabinets pour dames, ainsi que d'un urinoir de trois compartiments ou cuvettes. La ventilation sera suffisamment active pour empêcher tout échauffement ou toute viciation anormale de l'air.",
+      "text_sha256": "b55a10e6033e4c87f1a15e9d4cf76d64f38dba5b517c3de33a0090a1129720fe",
+      "md_span": {
+        "start": 13324,
+        "end": 13965
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_10/19711011",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Installations électriques.",
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "Les installations électriques seront conçues et réalisées suivant les prescriptions les plus récentes en vigueur au Grand-Duché. Elles doivent être réceptionnées avant la mise en exploitation.",
+      "text_sha256": "044991c234b6e8e6e44bbc4ded42f551b21da46e39d2e826bd527637b4372e03",
+      "md_span": {
+        "start": 14029,
+        "end": 14221
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_11/19711011",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Eclairage.",
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "**11. 1. -** Pendant les heures d'ouverture de l'établissement, le vestibule et les dégagements de la salle accessibles au public, doivent être pourvus d'un éclairage suffisant pour assurer un séjour et une circulation facile à toutes les personnes présentes.\n\n**11. 2. -** Un éclairage de secours sera installé de manière à donner en tout temps, malgré l'interruption de l'éclairage normal, une lumière suffisante dans la salle, dans les locaux, dans les dégagements, au voisinage des sorties, dans les escaliers, etc., afin de permettre la sortie aisée du public et du personnel. Cet éclairage doit fonctionner automatiquement et instantanément en cas de panne de l'éclairage normal.\n\n**11. 3. -** Chaque sortie sera rendue visible par des inscriptions et des flèches lumineuses.",
+      "text_sha256": "8491db085c188075e57421f481b94543fe2ff4a930e24dea6b058b2ee3bee315",
+      "md_span": {
+        "start": 14269,
+        "end": 15050
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_12/19711012",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Moyens de secours contre l'incendie, surveillance et avertissement.",
+      "path": [],
+      "article_valid_from": "1971-10-12",
+      "text_md": "**12. 1. -** L'établissement doit être doté de moyens de secours contre l'incendie appropriés aux risques.\n\n**12. 2. -** Deux bouches d'incendie normalisées et raccordées à la distribution d'eau locale doivent être installées dans un rayon de 80 m de l'établissement.\n\n**12. 3. -** L'établissement doit disposer à proximité de la scène, facilement accessible et bien visible de la salle, d'au moins un robinet d'incendie armé de tuyaux et d'une lance d'incendie.\n\n**12. 4. -** Des extincteurs d'incendie portatifs normalisés et appropriés aux risques doivent être fixés d'une manière bien visible et facilement accessible.\n\n**12. 5. -** Les extincteurs sont à fixer aux piliers ou aux murs à proximité des portes et dégagements de sortie, de la scène et des tableaux de répartition électrique.\n\n**12. 6. -** L'établissement doit disposer:\n\n1. 2\n2. 2\n\nCes extincteurs doivent être appropriés aux risques et être de capacités suffisantes.\n\nS'ajoutent à ce nombre les extincteurs à prévoir pour les locaux et endroits divers présentant des risques spéciaux.\n\n**12. 7. -** Le propriétaire ou le gérant de l'établissement doit veiller à ce que les extincteurs et les autres installations d'extinction se trouvent en bon état de fonctionnement.\n\n**12. 8. -** Les extincteurs sont à vérifier par un spécialiste en la matière au moins une fois par an.\n\n**12. 9. -** Le personnel de l'établissement doit être bien initié à l'emploi des appareils d'extinction contre l'incendie ainsi qu'au fonctionnement des installations de panique.\n\n**12.10 -** L'établissement doit disposer d'un ou de plusieurs postes de téléphone permettant d'alerter dans les meilleurs délais les services de secours.\n\n**12.11. -** Une pancarte sera affichée d'une manière très apparente à proximité des postes de téléphone et indiquera les numéros d'appel des services de secours les plus proches.\n\n**12.12. -** Le matériel d'extinction sera essayé au moins une fois par an par les soins de l'autorité communale.\n\n**12.13. -** II est formellement interdit de fumer dans la salle de projection.\n\n**12.14. -** Le vestibule et les dépendances de la salle de projection où le public est autorisé à fumer, doivent être munis de cendriers judicieusement répartis.\n\n**12.15. -** A l'entrée de toute salle de projection sera affiché un plan, à l'échelle de 2 cm par m (1:50), renseignant la disposition et le nombre de places dans la salle, le nombre et la largeur des couloirs, des sorties, des sorties de secours, l'emplacement des installations d'extinction contre l'incendie et des tableaux électriques.",
+      "text_sha256": "5f887846b5b8f95d6f370cd0c45011461a437fd5550c4a99d432bfeba64a82aa",
+      "md_span": {
+        "start": 15155,
+        "end": 17718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_13/19711012",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Cabine de projection.",
+      "path": [],
+      "article_valid_from": "1971-10-12",
+      "text_md": "**13. 1. -** L'appareil de projection sera installé dans une cabine formant un local distinct de la salle de projection. Le plancher, le plafond et les parois en seront construits en matériaux incombustibles (béton ou maçonnerie en briques).\n\nLa surface du plancher sera de 7,50 m carrés au minimum et aucune des dimensions de la cabine ne pourra être inférieure à 2,50 m.\n\n**13. 2. -** L'accès de la cabine ne peut se faire directement ou indirectement par la salle de projection.\n\n**13. 3. -** La sortie de la cabine sera prévue de façon à pouvoir s'effectuer très aisément et aucun objet, pouvant éventuellement entraver le passage, ne pourra y être déposé.\n\nLa porte de la cabine sera en tôle et s'ouvrira vers l'extérieur. Elle ne sera maintenue fermée qu'à l'aide d'un ressort tant qu'une personne se trouvera à l'intérieur de la cabine.\n\n**13. 4. -** Pendant le fonctionnement de l'appareil de projection aucune personne ne pourra occuper le couloir de dégagement ni entrer dans la cabine, à moins d'y être appelée par des raisons de service\n\n**13. 5. -** La cabine sera pourvue d'une fenêtre donnant vers l'extérieur ou d'un système de ventilation efficace.\n\n**13. 6. -** Une cheminée verticale débouchant à l'air libre sera placée au-dessus de l'adpareil de projection. Elle aura une section libre d'au moins 4 décimètres carrés, sera construite en matériaux incombustibles et suffisamment isolée de toute matière pouvant prendre feu.\n\n**13. 7. -** Toute ouverture vers la salle de projection doit pouvoir s'obturer instantanément et aisément à l'aide d'un volet mécanique manoeuvrable de l'endroit où se tient habituellement l'opérateur\n\n**13. 8. -** Un dispositif assurera d'une manière automatique la fermeture des volets en cas d'incendie de l'appareil de projection.\n\n**13. 9. -** II est formellement interdit de placer du matériel combustible dans la cabine.\n\n**13. 10. -** En dehors du temps strictement nécessaire à leur projection ou à leur bobinage, les films sont conservés dans des boîtes métalliques solides et bien closes.\n\n**13.11. -** Le rebobinage des films pendant les représentations se fera dans la cabine même ou dans un ocal totalement à l'abri du feu; en aucun cas il ne pourra se faire dans la salle de projection ou dans les dépendances accessibles au public.\n\n**13.12. -** II ne doit être fait usage pour la projection que de films de sécurité.\n\n**13.13. -** Les appareils de projection, de conception moderne, posséderont les perfectionnements voulus au point de vue sécurité et doivent répondre aux normes du pays constructeur.\n\n**13.14. -** Les appareils de chauffage comportant des flammes nues en contact direct avec l'atmosphère ainsi que les appareils chauffant par rayonnement sont strictement interdits dans la cabine de projection.\n\n**13.15. -** La cabine sera pourvue d'un extincteur CO2 et d'un extincteur à poudre à effet d'extinction polyvalent.\n\n**13.16. -** Pendant le fonctionnement de l'appareil cinématographique un opérateur se tiendra continuellement dans la cabine près du projecteur.\n\nL'opérateur doit être âgé de 18 ans au moins; il devra être en possession d'un certificat d'aptitude professionnelle.\n\nLe certificat d'aptitude est délivré par l'Inspection du Travail et des Mines sur présentation d'un extrait du casier judiciaire et d'un certificat médical.\n\nLe certificat pourra être refusé à toutes personnes ne présentant pas les connaissances techniques requises ainsi qu'à celles ne possédant pas les qualités physiques et morales nécessaires.",
+      "text_sha256": "58c0ef7c3d7cb4c056156fae33125ff22210cacc94e97ba177bb7faabcf2bf9f",
+      "md_span": {
+        "start": 17777,
+        "end": 21286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_14/19711011",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "Les prescriptions du présent règlement s'appliquent également aux établissements existants et dûment autorisés au moment de la publication du présent rêglement.",
+      "text_sha256": "77fe74d7852b6c10905fac8206209120f2d18185012ae6d40307bdf0e8ab2189",
+      "md_span": {
+        "start": 21323,
+        "end": 21483
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_15/19711012",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1971-10-12",
+      "text_md": "La constatation et la répression des infractions aux dispositions du présent règlement auront lieu conformément à l'arrêté royal grand-ducal du 17 juin 1872 concernant les établissements dangereux, insalubres ou incommodes.",
+      "text_sha256": "c8e7a17eb769ea49d08d4a558b8b731810721d8e2897b3a0efb8b546442f66bd",
+      "md_span": {
+        "start": 21520,
+        "end": 21743
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/argd/1872/06/17/n1/jo",
+          "text": "arrêté royal grand-ducal du 17 juin 1872"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_16/19711011",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "L'arrêté grand-ducal du 12 décembre 1919, portant réglementation des établissements cinématographiques, tel qu'il a été modifié dans la suite, est abrogé.",
+      "text_sha256": "363072a0e9c50f723ad4fb68a672c60b9384dc4419e4b97057e5d9fa90ae1e02",
+      "md_span": {
+        "start": 21780,
+        "end": 21934
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1919/12/12/n2/jo",
+          "text": "arrêté grand-ducal du 12 décembre 1919"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1971-09-23-n3:1971-10-12#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/art_17/19711011",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1971-10-11",
+      "text_md": "Notre Ministre de la Justice et Notre Ministre du Travail et de la Sécurité Sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "08479f218b14fab6b07f7b4048907a1f6c4a2b5ded91b19257dcbd349262cd8c",
+      "md_span": {
+        "start": 21971,
+        "end": 22163
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

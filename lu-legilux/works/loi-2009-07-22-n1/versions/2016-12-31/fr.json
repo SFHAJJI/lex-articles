@@ -1,0 +1,1008 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31",
+  "language": "fr",
+  "title": "Loi du 22 juillet 2009 relative à la sécurité ferroviaire.",
+  "valid_from": "2016-12-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2009-07-22-n1/versions/2016-12-31/fr.xml",
+    "sha256": "1569f3fa141ba76f7de08d23cc1d6b021d6a154c32489e7e53525c05aa79d3f8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20161231/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_1er/20161231",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — **Champ d’application et définitions"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "La présente loi détermine les exigences en matière de sécurité applicables au système ferroviaire luxembourgeois, y compris la gestion sûre de l’infrastructure et du trafic, l’interaction entre les entreprises ferroviaires et le gestionnaire de l’infrastructure, ainsi que les exigences en matière d’accréditation des centres de formation chargés de la formation du personnel affecté à des tâches de sécurité au sein d’une entreprise ferroviaire ou du gestionnaire de l’infrastructure.\n\nSont exclus du champ d’application de la présente loi les tramways et les infrastructures ferroviaires privées qui sont utilisées exclusivement par leur propriétaire pour ses propres opérations de transport de marchandises, de même que les véhicules à caractère patrimonial qui circulent exceptionnellement sur les réseaux nationaux et ceci seulement dans l’intérêt de préserver, de maintenir et de promouvoir le chemin de fer et son histoire, à condition qu’ils respectent les règles et réglementations nationales en matière de sécurité afin de garantir une circulation en toute sécurité de ces véhicules. De même sont exclus les chemins de fer à caractère patrimonial, muséologique et touristique qui disposent de leurs propres réseaux, y compris les ateliers, véhicules et personnels.\n\nEn ce qui concerne les réseaux qui sont séparés sur le plan fonctionnel du reste du système ferroviaire et qui sont destinés exclusivement à l'exploitation de services de transport de voyageurs locaux ainsi que les personnes et associations opérant exclusivement sur ces réseaux, un règlement grand-ducal arrête les conditions de sécurité spécifiques applicables à l'exploitation ferroviaire de ces réseaux.",
+      "text_sha256": "65497273ed5f27a54f89051d566e8d5a4a67493484a2947fc46c9677f0b89378",
+      "md_span": {
+        "start": 590,
+        "end": 2273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_2/20161231",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — **Champ d’application et définitions"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Aux fins de la présente loi, on entend par:\n\n1. «accident»: un événement indésirable ou non intentionnel et imprévu, ou un enchaînement particulier d’événements de cette nature, ayant des conséquences préjudiciables. Les accidents sont ventilés suivant les types ci-après: collisions, déraillements, accidents aux passages à niveau, accidents de personnes causés par le matériel roulant en marche, incendies et autres;\n2. «accident grave»: toute collision de trains ou tout déraillement de train faisant au moins un mort ou au moins cinq personnes grièvement blessées ou d’importants dommages au matériel roulant, à l’infrastructure ou à l’environnement, et tout autre accident similaire ayant des conséquences évidentes sur la réglementation ou la gestion de la sécurité ferroviaire. On entend par «importants dommages» des dommages qui peuvent être immédiatement estimés par un organisme d’enquête à un total d’au moins 2 millions d’euros;\n3. directive modifiée 2004/49/CE\n4. règlement 2004/881/CE\n5. «autorité responsable des licences»: autorité compétente pour délivrer les licences;\n6. «candidat postulant à une fonction de sécurité»: toute personne postulant à l’admission ou au maintien à une fonction de sécurité, ci-après désigné par le terme «le postulant»;\n7. «connaissances linguistiques»: le niveau des connaissances linguistiques requis pour exercer une fonction de sécurité;\n8. «connaissances professionnelles»: les connaissances requises pour exercer une fonction de sécurité;\n9. directives modifiées 96/48/CE 2001/16/CE\n10. «demandeur»: un centre de formation ou une personne ayant établi une société qui sollicite une accréditation aux fins de fournir des services de formation;\n11. «détenteur»: la personne ou l’entité, propriétaire du véhicule ou disposant d’un droit de disposition sur celui-ci, qui exploite ledit véhicule à titre de moyen de transport et est inscrite en tant que telle au registre national des véhicules;\n12. «domaine de compétence»: secteur d’activités relatives à une tâche de sécurité pour laquelle le demandeur souhaite être accrédité;\n13. «entité chargée de l‘entretien»: une entité chargée de l’entretien d’un véhicule et inscrite en tant que telle dans le registre national des véhicules (RNV);\n14. «entreprise ferroviaire»: toute entreprise à statut privé ou public et titulaire d'une licence conformément à la présente loi, dont l'activité principale est la fourniture de prestations de transport de marchandises et de voyageurs par chemin de fer, la traction devant obligatoirement être assurée par cette entreprise; toute entreprise qui assure uniquement la traction;\n15. «formateur»: une personne ayant les qualifications et compétences requises prévues à la présente loi et reconnue apte à préparer, à organiser et à dispenser une formation;\n16. «gestionnaire de l'infrastructure»: toute entité ou entreprise chargée de l'établissement, de la gestion et de l'entretien de l'infrastructure ferroviaire, y compris la gestion du trafic, et du système de signalisation et de contrôle-commande. Les fonctions de gestionnaire de l'infrastructure sur tout ou partie d'un réseau peuvent être attribuées à plusieurs entités ou entreprises;\n17. «incident»: tout événement, autre qu’un accident ou un accident grave, lié à l’exploitation de trains et affectant la sécurité d’exploitation;\n18. «interopérabilité»: l'aptitude du système ferroviaire transeuropéen à permettre la circulation sûre et sans rupture de trains en accomplissant les performances requises pour ces lignes. Cette aptitude repose sur l'ensemble des conditions réglementaires, techniques et opérationnelles qui doivent être remplies pour satisfaire aux exigences essentielles;\n19. «intervenant»: une entité ou toute personne travaillant sous la responsabilité d’un centre de formation accrédité pour fournir des services de formation;\n20. «méthodes de sécurité communes» en abrégé «MSC»: les méthodes élaborées pour procéder à l’évaluation des niveaux de sécurité, de réalisation des objectifs de sécurité et de conformité à d’autres exigences en matière de sécurité;\n21. «mode de communication spécifique»: les différents moyens de communication spécifiques au domaine ferroviaire utilisés sur l’infrastructure ferroviaire nationale;\n22. «objectifs de sécurité communs» en abrégé «OSC»: les niveaux de sécurité que doivent au moins atteindre les différentes parties du système ferroviaire (comme le système ferroviaire conventionnel, le système ferroviaire à grande vitesse, les tunnels ferroviaires de grande longueur ou les lignes uniquement utilisées pour le transport de marchandises) et le système dans son ensemble, exprimés sous forme de critères d’acceptation des risques;\n23. «reconnaissance»: une déclaration formelle attestant les compétences du demandeur à faire passer et à noter des examens:\n24. «registre national des véhicules»: le registre des véhicules autorisés à circuler sur le réseau national;\n25. «services de formation»: processus ou séquences d’activités conçues en vue de permettre l’apprentissage des compétences professionnelles;\n26. «service de maintenance lourde»: les travaux qui ne sont pas effectués de manière régulière et dans le cadre des activités quotidiennes, et qui impliquent que le véhicule soit retiré du service;\n27. directives modifiées 96/48/CE 2001/16/CE\n28. directives modifiées 96/48/CE 2001/16/CE\n29. «système de gestion de la sécurité»: l’organisation et les dispositions établies par un gestionnaire de l’infrastructure ou par une entreprise ferroviaire pour assurer la gestion sûre de ses activités;\n30. directives modifiées 96/48/CE 2001/16/CE\n31. «système ferroviaire transeuropéen»: le système ferroviaire transeuropéen à grande vitesse et le système ferroviaire transeuropéen conventionnel;\n32. «tâches de sécurité»: les fonctions contribuant à la sécurité des trains et à celle des passagers ou marchandises transportées:\n33. «terminologie spécifique»: le langage et le vocabulaire spécifiques au domaine ferroviaire utilisés sur l’infrastructure ferroviaire nationale.\n34. «véhicule»: un véhicule ferroviaire apte à circuler sur ses propres roues sur une ligne ferroviaire, avec ou sans traction. Un véhicule se compose d’un ou plusieurs sous-systèmes de nature structurelle et fonctionnelle ou de parties de ces sous-systèmes.",
+      "text_sha256": "1901a4a6fb77b8aa7c20758d4ff5ccb16958234ffdf9fa47a9950f12767404af",
+      "md_span": {
+        "start": 2308,
+        "end": 8607
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_3/20161231",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des chemins de fer"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Il est créé une Administration des chemins de fer, appelée ci-après «Administration», qui est placée sous l'autorité du membre du gouvernement ayant les Transports dans ses attributions, ci-après désigné par le terme «le ministre». Elle est dirigée par un Directeur de l'Administration des Chemins de Fer qui en est le supérieur hiérarchique.\n\nLe personnel de l'Administration est composé des fonctionnaires et employés recrutés conformément aux articles 9 et 10 de la présente loi. L'Administration peut s'assurer l'assistance technique d'experts selon ses besoins.",
+      "text_sha256": "c08e080199c40f39f8c36e55a83ca931abe63440c55c3420927251b4742d8811",
+      "md_span": {
+        "start": 8693,
+        "end": 9259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_4/20161231",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des chemins de fer"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** L’Administration veille au maintien et à l’amélioration du niveau de sécurité dans le domaine ferroviaire en conformité avec les dispositions nationales et internationales applicables. Dans le respect du cadre légal et règlementaire de l’Union européenne et national, elle accomplit les missions suivantes:\n\n1. veiller à ce que les véhicules soient dûment enregistrés et que les informations relatives à la sécurité figurant dans le registre national soient exactes et tenues à jour;\n2. instruire les dossiers en vue de l’émission, du renouvellement, du réexamen, de la modification, du retrait et de la suspension par le ministre des certificats et agréments de sécurité, ainsi que vérifier l’accomplissement de leurs conditions de validité;\n3. vérifier la conformité des constituants d’interopérabilité aux exigences;\n4. autoriser la mise en service des sous-systèmes de nature structurelle constituant le système ferroviaire implanté ou exploité au Luxembourg et vérifier leur exploitation et entretien conformes aux exigences essentielles les concernant;\n5. autoriser la mise en service du matériel roulant nouveau ou substantiellement modifié qui n’est pas encore couvert par une STI et vérifier l’exploitation et l’entretien conformes aux exigences essentielles le concernant;\n6. accomplir les missions lui dévolues dans le cadre de la formation et de la certification du personnel affecté à des tâches de sécurité sur le réseau national;\n7. vérifier, promouvoir, faire appliquer, développer et publier le cadre réglementaire en matière de sécurité ferroviaire, y compris le système des règles nationales de sécurité;\n8. assister et conseiller le ministre dans l’exécution de ses attributions en matière de sécurité et d’interopérabilité ferroviaires;\n9. apporter son concours à des études et activités en rapport avec la sécurité ferroviaire;\n10. coopérer avec ses homologues, en particulier en vue d’une harmonisation des critères de certification en matière de sécurité ferroviaire;\n11. vérifier, dans le cadre des audits relatifs aux wagons de fret, la certification conforme de l’entité chargée de l’entretien;\n12. tenir, mettre à jour et adapter le registre national des véhicules en veillant à ce que les véhicules y soient dûment inscrits et à ce que les informations relatives à la sécurité y figurant soient exactes et tenues à jour;\n13. adopter des décisions et modifier les éléments essentiels du système concernant la tarification de l'infrastructure, y compris la détermination et le recouvrement des redevances:\n14. coopérer afin de permettre la création et la répartition efficaces de capacités de l'infrastructure impliquant plusieurs réseaux du système ferroviaire au sein de l'Union européenne, y compris en ce qui concerne les accords-cadres prévus par règlement grand-ducal. L’Administration met en place les procédures appropriées et organise en conséquence les sillons qui traversent plus d'un réseau;\n15. directive 2012/34/UE\n16. s’accorder avec les autres organismes nationaux chargés des tâches relatives à la sécurité des chemins de fer concernés sur les sillons internationaux à intégrer dans l'horaire de service, avant de commencer les consultations concernant le projet d'horaire de service. Des ajustements ne sont opérés qu'en cas d'absolue nécessité;\n17. adopter des décisions concernant la tarification de l'infrastructure, y compris la détermination et la facturation des redevances:\n18. tenir, mettre à jour et adapter le registre des cartes de légitimation et des lettres de légitimation;\n19. établir, mettre à jour et publier le document de référence de réseau;\n20. présenter, pour le compte d’un candidat qui l’a dûment mandatée, des demandes d’attribution de sillons auprès d’autres organismes de répartition des capacités d’infrastructure avec lesquels elle coopère.\n\n**(2)** L’Administration garantit en outre à toute entreprise ferroviaire un accès équitable et non discriminatoire à l’infrastructure ferroviaire et évite tout abus de position dominante d’une ou de plusieurs entreprises ferroviaires au détriment des autres. Elle assume les fonctions d’organisme de répartition des sillons et d’organisme de tarification de l’infrastructure ferroviaire, telles que prévues aux articles 22 et 25 de la loi modifiée du 11 juin 1999 relative à l’accès à l’infrastructure ferroviaire et à son utilisation.\n\n**(3)** L’Administration des chemins de fer accomplit ses missions de manière ouverte, non discriminatoire et transparente. En particulier, elle permet à toutes les parties concernées et intéressées, y compris le gestionnaire de l’infrastructure ferroviaire, les entreprises ferroviaires, les fabricants et les fournisseurs de services d’entretien, les usagers et les représentants du personnel, d’être entendues. Elle répond rapidement aux requêtes et demandes, communique ses demandes d’informations sans délai et adopte toutes ses décisions dans un délai de quatre mois après que toutes les informations demandées ont été fournies.",
+      "text_sha256": "bc6ea613116c8814d5f0d8e9700f18ebfd297db86d6d8acc3c481dff22b23501",
+      "md_span": {
+        "start": 9294,
+        "end": 14290
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "loi modifiée du 11 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_5/20161231",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des chemins de fer"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Avant le premier septembre de chaque année, l'Administration rend compte, dans un rapport écrit, au ministre de l'exécution de ses missions au cours de l'année précédente. Le rapport contient:\n\n1. directive 2004/49/CE\n2. les modifications importantes apportées aux règles applicables en matière de sécurité ferroviaire,\n3. l'évolution de la certification et de l'agrément en matière de sécurité, ainsi que\n4. les résultats de la surveillance du gestionnaire de l’infrastructure et des entreprises ferroviaires et les enseignements en découlant;\n5. qui ont été ter\n\nElle publie son rapport annuel et le transmet à l'Agence au plus tard le 30 septembre de l'année suivante.",
+      "text_sha256": "2a654403c247b523a16139f5fcc944f49bfea32e4956014ac0da29096965a162",
+      "md_span": {
+        "start": 14325,
+        "end": 14996
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_6/20161231",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des chemins de fer"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**1.** Dans la mesure où l'Administration ne dispose pas de spécialistes en nombre ou qualité suffisants pour pouvoir effectuer toutes les inspections ou tous les contrôles exigés dans le cadre de l'accomplissement des missions de l'Administration prévues à la présente loi, le Directeur peut, après en avoir été autorisé par le ministre, confier des missions à du personnel qualifié appartenant à des autorités de sécurité étrangères ou à une société privée spécialisée, à condition que:\n\n- la société privée présente toutes les garanties d'indépendance par rapport au gestionnaire de l'infrastructure ou à l'entreprise ferroviaire visés par ses inspections et contrôles;\n- l'assistance procurée par du personnel d'une autorité étrangère fasse l'objet d'un contrat passé avec cette autorité;\n- les procédures pratiquées et les documents utilisés soient conformes au cadre réglementaire luxembourgeois;\n- les éléments recueillis permettent à l'Administration de prendre une décision en toute connaissance de cause.\n\n**2.** Les frais d'inspection et de contrôle sont à arrêter par règlement grand-ducal qui fixe les barèmes.\n\n**3.** Pour l’exécution de sa mission, l’Administration peut demander l’assistance du gestionnaire de l’infrastructure et des entreprises ferroviaires. Dans les limites de ce qui est nécessaire à l’exécution des missions prévues à l’article 4, elle a le droit de demander rapport aux organes de direction et d’accéder à tous les documents appropriés, mais sans les déplacer, ainsi qu’aux locaux, installations et équipements du gestionnaire de l’infrastructure et de l’entreprise ferroviaire.\n\n**4.** Quiconque empêche ou entrave sciemment l'accomplissement des missions incombant à l'Administration, est puni d'un emprisonnement de huit jours à un an et d'une amende de 251 à 125.000 euros ou d'une de ces peines seulement.",
+      "text_sha256": "7d96ef2d757b656103012834f251a7b8ee31d50a88af2b81b622672f55a57a7d",
+      "md_span": {
+        "start": 15031,
+        "end": 16880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_7/20161231",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des chemins de fer"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**1.** En vue d'obtenir le certificat de sécurité et l'agrément de sécurité prévus à la présente loi, le requérant adresse sa demande écrite sous pli recommandé au Directeur de l’Administration des chemins de fer.\n\nLa demande est rédigée en langue française ou allemande. Elle est remise en trois exemplaires. Elle indique notamment l'objet de la demande et le relevé des pièces dont le requérant entend se servir. Elle est accompagnée de tous les pièces et documents exigés par la réglementation.\n\n**2.** Le requérant peut demander des informations sur les modalités d'obtention des certifications. A cette fin, l'Administration dresse notamment un dossier d'information sur les exigences et met gratuitement tous les documents appropriés à la disposition du requérant. Des éléments d'orientation spécifiques sont fournis aux entreprises ferroviaires qui introduisent une demande de certificat de sécurité concernant des services sur une partie limitée du réseau; ils précisent notamment les règles applicables à la partie du réseau en question.\n\n**3.** L'Administration avise les demandes endéans les trois mois à compter du jour où le dossier comportant toutes les pièces utiles au bon déroulement de la procédure lui a été communiqué.",
+      "text_sha256": "d79568e8ef56d289ccfcaa2b82adfdf5bca1e669a27b448738f85e3172ff0d12",
+      "md_span": {
+        "start": 16915,
+        "end": 18153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_8/20161231",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des chemins de fer"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Dans la phase d'élaboration des règles nationales de sécurité, l'Administration consulte toutes les parties concernées et intéressées, y compris le gestionnaire de l’infrastructure, les entreprises ferroviaires, les fabricants et les fournisseurs de services d'entretien, les usagers et les représentants du personnel. Les avis des parties intéressées sont réputés favorables s'ils ne sont pas intervenus dans le mois suivant la transmission du projet.",
+      "text_sha256": "cfb1d49e020d565b579752670984e7404945f7d8191d9b7d52ad42e1659601aa",
+      "md_span": {
+        "start": 18188,
+        "end": 18640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_9/20161231",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des chemins de fer"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**1.** Le cadre du personnel comprend un directeur et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.\n\n**2.** Le directeur doit être titulaire d'un diplôme de fin d'études universitaires représentant la sanction finale d'un cycle complet d'études universitaires, homologué ou reconnu conformément aux dispositions législatives en vigueur.\n\nLa nomination aux fonctions de directeur est faite au gré du Gouvernement.\n\n**3.** Les nominations aux fonctions classées au grade 9 et aux grades supérieures sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le ministre.\n\n**4.** Sans préjudice des conditions générales d'admission au service de l'Etat, et pour autant qu'elles ne sont pas fixées par la présente loi, les conditions particulières d'admission au stage, de nomination et d'avancement du personnel de l'Administration sont fixées par voie de règlement grand-ducal.\n\n**5.** La loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat est modifiée comme suit:\n\n1. - au numéro 9 est ajoutée la mention le directeur de l'Administration des chemins de fer.\n2. - au grade 17 est ajoutée la mention Administration des chemins de fer - directeur.\n3. - à la carrière supérieure de l'administration, au grade 12 de la computation de la bonification d'ancienneté, au grade 17, est ajoutée la mention directeur de l'Administration des chemins de fer.",
+      "text_sha256": "34a9b41a900ae7e09f2167c22df22c62cd6b5b2b8a3f4f7a9df148cb7baca7e8",
+      "md_span": {
+        "start": 18675,
+        "end": 20246
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_10/20161231",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Administration des chemins de fer"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Afin d'assumer les missions, responsabilités et obligations qui sont dévolues à l'Administration par les dispositions de la présente loi, des agents des CFL qui, au moment de l'entrée en vigueur de la présente loi, sont chargés de tâches relevant de la compétence de l'Administration ou qui disposent des qualifications requises, peuvent être transférés sur une base volontaire à l'Administration selon les modalités prévues à l'article 7 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.\n\nL'agent transféré à l'Administration garde son statut de personnel des chemins de fer avec tous les droits et prérogatives que cela implique.\n\nAvant d'entrer en fonctions, l'agent transféré à l'Administration prête devant le ministre ou son délégué le serment qui suit:\n\n«Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’Etat. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité.»\n\nLe Trésor rembourse aux CFL les traitements, indemnités, salaires, charges sociales patronales et la quote-part des pensions des agents en question.",
+      "text_sha256": "0df395b0b519a0d9a39a0c30af43963b87d97e749be8a2f29ed2e35dd5f7e0f5",
+      "md_span": {
+        "start": 20283,
+        "end": 21399
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_11/20161231",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Mise en place et gestion de la sécurité ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**1.** Les règles nationales de sécurité contiennent les exigences en matière de sécurité. Elles évoluent conformément aux spécifications techniques d'interopérabilité (STI), aux objectifs de sécurité communs (OSC) et aux méthodes de sécurité communes (MSC).\n\nTout projet de règle nationale de sécurité qui exige un niveau de sécurité plus élevé que celui des OSC adoptés, ou qui est susceptible d'affecter sur le réseau national les activités effectuées par des entreprises ferroviaires qui sont établies en dehors du Luxembourg en conformité avec les exigences du droit de l’Union européenne, est soumis par l'Administration à l'avis des parties intéressées conformément à l'article 8.\n\nLes règles de sécurité nationales sont publiées par voie de règlement grand-ducal.\n\n**2.** Le gestionnaire de l’infrastructure et chaque entreprise ferroviaire adoptent, chacun en ce qui le concerne, des règles internes de sécurité dans le cadre de leur système de gestion de la sécurité. Les règles internes sont établies dans le respect des règles de sécurité nationales; elles atteignent au moins les OSC, et sont conformes aux exigences de sécurité définies dans les STI et MSC. Elles ne s'appliquent qu'à l'organisme qui les édicte.\n\n**3.** Toute entreprise ferroviaire admise à utiliser le réseau national ainsi que le gestionnaire de l'infrastructure pourvoient aux tâches de sécurité qu'ils assument, du personnel titulaire d'une formation et d'une certification conformes aux exigences de sécurité définies par le droit de l’Union européenne, par les spécifications techniques d'interopérabilité et par les règles de sécurité nationales.\n\n**4.** Chaque année, avant le 30 juin, le gestionnaire de l’infrastructure et les entreprises ferroviaires autorisées à utiliser le réseau national soumettent à l'Administration un rapport annuel sur la sécurité concernant l'année civile précédente. Le rapport de sécurité contient:\n\n1. des informations sur le processus de réalisation par le gestionnaire de l’infrastructure ou l’entreprise ferroviaire de ses propres objectifs de sécurité et les résultats des plans de sécurité;\n2. directive 2004/49/CE\n3. les résultats des audits de sécurité internes;\n4. des observations sur les insuffisances et les défauts de fonctionnement des opérations ferroviaires et de la gestion de l'infrastructure présentant un intérêt pour l'Administration.",
+      "text_sha256": "b6eb004ce8f3e430c79bcb756aa89c3a5fb930d3e4d0d9f7ccb73b5383fe380d",
+      "md_span": {
+        "start": 21505,
+        "end": 23881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_12/20161231",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Mise en place et gestion de la sécurité ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Le gestionnaire de l’infrastructure et les entreprises ferroviaires prennent toutes les mesures requises en vue d'assurer la sécurité de l'exploitation du système ferroviaire et de maîtriser les risques qui en résultent, le cas échéant, en coopération les uns avec les autres. Ils appliquent les règles nationales de sécurité visées à l'article 11, paragraphe 1er et établissent leur système de gestion de la sécurité conformément aux dispositions de l'article 11, paragraphe 2.\n\nSans préjudice de la responsabilité civile établie conformément aux prescriptions légales, le gestionnaire de l'infrastructure et chaque entreprise ferroviaire est responsable de sa partie du système ferroviaire et de la sécurité d'exploitation de celle-ci, y compris la fourniture de matériel et la sous-traitance de services, vis-à-vis des usagers, des clients, des travailleurs concernés et des tiers.\n\nLa responsabilité du gestionnaire de l’infrastructure et de chaque entreprise ferroviaire dans l'exploitation du système ferroviaire n'affecte pas la responsabilité de chaque fabricant, fournisseur de services d'entretien, détenteur, prestataire de services et entité adjudicatrice de livrer du matériel roulant, des installations, des accessoires et des équipements ainsi que des services conformes aux exigences et conditions d'utilisation prescrites, de sorte que ceux-ci puissent être exploités en toute sécurité par l'entreprise ferroviaire respectivement par le gestionnaire de l’infrastructure.",
+      "text_sha256": "925d7b25a6c0bc311612a2d68e905f99f9e3ea0739f9fb24b3120277e84d8d5c",
+      "md_span": {
+        "start": 23918,
+        "end": 25405
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_13/20161231",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Mise en place et gestion de la sécurité ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "La mise en circulation sur le réseau national de trains par une entreprise ferroviaire déterminée n'est admise que dans les conditions prévues par les paragraphes 1 et 2 de l’article 11, paragraphes 1er et 2 de la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.\n\nLa preuve du respect de ces conditions est rapportée soit par le fait d'être titulaire d'une licence luxembourgeoise prévue à l'article 4 de la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation, soit par le rapport d'un réviseur d'entreprises certifiant l'existence de moyens financiers pour couvrir la responsabilité civile dont question à l'alinéa premier.",
+      "text_sha256": "3444f637c82a7c8b64da933845c286b41a818a78c2f0c34318c85754939c43d2",
+      "md_span": {
+        "start": 25442,
+        "end": 26166
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "loi modifiée du 11 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_14/20161231",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — **Certification de l’entreprise ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "L'allocation et l'utilisation d'un sillon exigent de la part de l'entreprise bénéficiaire la détention d'un certificat de sécurité. Le certificat de sécurité confirme l'acceptation du système de gestion de la sécurité de l'entreprise ferroviaire. Il précise le type et la portée des activités ferroviaires couvertes. Il est valable sur l'ensemble du territoire de l'Union européenne pour des activités de transport ferroviaires équivalentes.\n\nLe certificat de sécurité se compose d’une certification générale et d’une certification spéciale.\n\nLa certification générale atteste l’établissement par l’entreprise ferroviaire d’un système de gestion de la sécurité en due forme et sa conformité aux normes et aux règles de sécurité pertinentes du droit de l’Union européenne..\n\nLa certification spéciale atteste l’acceptation par l’entreprise ferroviaire des mesures de sécurité applicables pour atteindre les exigences nationales spécifiques nécessaires pour la fourniture de ses services sur le réseau national en toute sécurité. Les exigences peuvent porter sur l’application des STI et des règles de sécurité nationales, y compris les règles d’exploitation du réseau, l’acceptation des certificats du personnel et l’autorisation de mettre en service les véhicules utilisés par les entreprises ferroviaires. La certification est fondée sur la documentation soumise par l’entreprise ferroviaire conformément à l’annexe IV de la directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 sur la sécurité ferroviaire telle que modifiée par la suite.\n\nLe détail des conditions d’obtention et de validité du certificat de sécurité ainsi que les modalités de son établissement sont arrêtées par règlement grand-ducal qui fixe également le détail des conditions et des modalités de renouvellement, de réexamen et de retrait du certificat de sécurité.",
+      "text_sha256": "6836fa186f4a4b9e5d89b8faee1e41278076ecf2417904fbeb333c116f87fbfe",
+      "md_span": {
+        "start": 26264,
+        "end": 28121
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/2004/49/jo",
+          "text": "directive 2004/49/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_15/20161231",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — **Certification de l’entreprise ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**1.** Le ministre est l'autorité compétente pour la délivrance, le renouvellement, le réexamen et le retrait des certificats de sécurité sur base des dossiers instruits par l'Administration.\n\n**2.** Le certificat de sécurité est valable pour une durée de cinq ans.\n\n**3.** Le ministre procède à l'octroi, au changement ou renouvellement du certificat de sécurité à chaque modification substantielle du type ou de la portée des activités de transport ferroviaires effectuées par l'entreprise ferroviaire.\n\nLe ministre décide de la nécessité de procéder à un réexamen du certificat de sécurité.\n\nLe ministre peut à tout instant procéder à la vérification des certificats de sécurité.\n\nLe ministre procède au retrait de la certification générale et/ou de la certification spéciale en cas de manquement grave ou répété par une entreprise ferroviaire concernant l'utilisation des sillons alloués ou si le titulaire d'un certificat de sécurité délivré par le ministre ne remplit plus les conditions requises.\n\n**4.** Les décisions de refus du ministre sont motivées.\n\nLes décisions du ministre sont susceptibles d'un recours en réformation devant le tribunal administratif.\n\n**5.** Il est institué une commission administrative indépendante qui est composée de trois membres désignés par le ministre et qui a pour mission d'aviser le dossier instruit par l'Administration.\n\nLes avis de la commission sont rendus à la majorité des voix.\n\nLa commission peut demander tous les renseignements nécessaires pour examiner la conformité des dossiers qui lui sont soumis par l’Administration, et le cas échéant, s’assurer à ces fins le concours d’organismes et d’experts indépendants. La commission émet son avis dans un délai de trois mois à partir du moment où l’Administration des Chemins de Fer lui a transmis un dossier complet.",
+      "text_sha256": "6e320fcdc07951523a94e1ea9db32de77b88493de3972c21f6920a5d0801e078",
+      "md_span": {
+        "start": 28158,
+        "end": 29977
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_16/20090731",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — **Certification de l’entreprise ferroviaire"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "L'Administration notifie à l'Agence, dans un délai d'un mois, la délivrance, le renouvellement, la modification et le retrait des certificats de sécurité. La notification mentionne le nom et l'adresse des entreprises ferroviaires, la date de délivrance, le domaine d'application et la validité du certificat de sécurité et, en cas de retrait, les motifs de la décision.",
+      "text_sha256": "a7db57b426bc7d56ea34fcf4c600ff59fcefde80ef2084bc89e9328c70b24d4f",
+      "md_span": {
+        "start": 30014,
+        "end": 30383
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_17/20161231",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — **Certification du gestionnaire de l’infrastructure"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**1.** Pour pouvoir gérer et exploiter l'infrastructure ferroviaire, le gestionnaire de l’infrastructure est titulaire d'un agrément de sécurité. L'agrément confirme l'acceptation des dispositions prises par le gestionnaire de l'infrastructure pour satisfaire aux exigences particulières requises afin de garantir la sécurité de l'infrastructure ferroviaire aux niveaux de la conception, de l'entretien et de l'exploitation du système de contrôle du trafic et de signalisation.\n\nLe détail des conditions d'obtention et de validité de l'agrément de sécurité ainsi que les modalités de son établissement sont arrêtées par règlement grand-ducal qui fixe également le détail des conditions et des modalités de renouvellement, de réexamen et de retrait de l'agrément de sécurité.\n\n**2.** Le ministre est l'autorité compétente pour la délivrance, le renouvellement, le réexamen et le retrait des agréments de sécurité sur base de dossiers instruits par l'Administration.\n\n**3.** L'agrément de sécurité est valable pour une durée de cinq ans.\n\n**4.** Le ministre procède à l'octroi, au changement ou renouvellement de l'agrément de sécurité à chaque modification substantielle de l'infrastructure, de la signalisation, de l'approvisionnement en énergie ou des principes applicables à son exploitation et à son entretien.\n\nLe ministre décide de la nécessité de procéder à un réexamen de l'agrément de sécurité.\n\nLe ministre peut à tout instant procéder à la vérification des agréments de sécurité.\n\nLe ministre procède au retrait de l'agrément de sécurité si le gestionnaire de l'infrastructure agréé ne remplit plus les conditions requises.\n\n**5.** Les décisions de refus du ministre sont motivées.\n\nLes décisions du ministre sont susceptibles d'un recours en réformation devant le tribunal administratif.\n\n**6.** La commission administrative instituée en vertu de l'article 15, paragraphe 5, a pour mission d'aviser le dossier instruit par l'Administration.\n\nLes avis de la commission sont rendus à la majorité des voix.\n\nLa commission peut demander tous les renseignements nécessaires pour examiner la conformité des dossiers qui lui sont soumis par l’Administration, et le cas échéant, s’assurer à ces fins le concours d’organismes et d’experts indépendants. La commission émet son avis dans un délai de trois mois à partir du moment où l’Administration des Chemins de Fer lui a transmis un dossier complet.",
+      "text_sha256": "ddfe4c35ee88b1e7ea3ffbfcdd7eb5639221a09b1a866d3ff7981e9b54605e9a",
+      "md_span": {
+        "start": 30489,
+        "end": 32892
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_18/20090731",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — **Certification du gestionnaire de l’infrastructure"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "L'Administration notifie à l'Agence, dans un délai d'un mois, la délivrance, le renouvellement, la modification et le retrait des agréments de sécurité. La notification mentionne le nom et l'adresse du gestionnaire de l'infrastructure, la date de délivrance, le domaine d'application et la validité de l'agrément de sécurité et, en cas de retrait, les motifs de la décision.",
+      "text_sha256": "6daa24d07007cc89e88b0c7aca3c69a919a910e3ba831a320050309c15d845f1",
+      "md_span": {
+        "start": 32929,
+        "end": 33303
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19/20161231",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — **Accréditation des centres de formation et du personnel de sécurité relevant du secteur ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Toute entreprise ferroviaire admise à utiliser le réseau national ainsi que le gestionnaire de l'infrastructure pourvoient aux tâches de sécurité assumées, du personnel titulaire d’une formation et d’une certification conformes aux exigences de sécurité définies par le droit de l’Union européenne, par les STI et par les règles de sécurité nationales.\n\n**(2)** La formation du personnel affecté à des tâches de sécurité au sein d’une entreprise ferroviaire et au sein du gestionnaire de l'infrastructure est organisée et dispensée par des centres de formation accrédités par le ministre sur instruction des dossiers de candidature par l’Administration.\n\nAvant de fournir des services de formation, le demandeur est en possession d’une autorisation du membre du Gouvernement ayant le droit d’établissement dans ses attributions conformément à l’article 2 de la loi modifiée du 22 juin 1999 ayant pour objet: 1. le soutien et le développement de la formation professionnelle continue; 2. la modification de la loi modifiée du 28 décembre 1988 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales.\n\n**(3)** Le demandeur dispose d’une structure de gestion efficace qui garantit un accès équitable et non discriminatoire à ses services de formation.\n\nLe demandeur fournit ses services de formation en faisant preuve d’impartialité vis-à-vis de tous les participants.\n\n**(4)** Une attestation d’accréditation est délivrée au demandeur dans les conditions suivantes:\n\n1. Il rapporte la preuve qu'il possède une structure effective d'organisation et de gestion répondant aux exigences pour les prestataires de services de formation.\n2. Il met en place un système de gestion équivalant aux éléments pertinents de la version la plus récente de la norme ISO 29990.\n3. Il démontre qu’il possède les compétences techniques et opérationnelles ainsi que les aptitudes requises pour organiser des cours de formation adaptés à la tâche de formation.\n4. Il possède le personnel et l’équipement nécessaires et il travaille dans un environnement adapté à une formation visant à préparer les postulants aux examens de qualification pour l’exercice et le maintien à des fonctions affectées à des tâches de sécurité.\n5. 1. avoir des qualifications et aptitudes physiques et pédagogiques requises pour préparer, organiser et dispenser des services de formation;\n2. avoir une formation générale en pédagogie;\n3. avoir une expérience professionnelle récente de trois ans minimum dans l’exercice ou l’encadrement des fonctions de sécurité permettant une maîtrise complète des compétences professionnelles requises ou une pratique continue de la formation dispensée au personnel affecté à des tâches de sécurité avec actualisation régulière de leurs connaissances.\n6. Il dispose du personnel, des installations, de l’équipement et des locaux adaptés à la formation offerte et au nombre estimé de participants.\n7. Il fournit des systèmes d’enregistrement des activités de formation, y compris des informations relatives aux participants et aux formateurs, ainsi qu’au nombre et à la finalité des cours.\n8. Il met en place un système de gestion de la qualité ou des procédures équivalentes qui garantissent que la formation offerte est exhaustive et en règle.\n9. Il met en place un système de gestion des compétences, des formations continues et des mesures visant à maintenir à jour les compétences professionnelles des formateurs.\n10. Il met en place des procédures visant à maintenir à jour les méthodes, outils et équipements de formation, y compris la documentation, les logiciels et les documents de formation fournis par le gestionnaire de l’infrastructure, tels que les livrets de procédures concernant les règles d’exploitation, les signaux et les systèmes de sécurité.\n11. Il communique la méthode qu’il compte utiliser pour garantir le contenu, l’organisation et la durée des cours de formation, les plans de formation et les programmes de compétence.\n12. Il garantit que la formation pratique du domaine de compétences «conducteurs de train» est dispensée par des formateurs qui ont les qualifications et aptitudes psychologiques et qui possèdent à la fois une licence valide de conducteur de train et une attestation complémentaire harmonisée valide couvrant l’objet de la formation ou un type similaire de ligne ou de matériel roulant, et qui ont une expérience professionnelle de la conduite d’au moins trois ans. Lorsque le formateur n’est pas détenteur d’une attestation valide pour l’infrastructure ou le matériel roulant en question, un conducteur titulaire de l’attestation pour cette infrastructure ou ce matériel roulant doit être présent lors de la formation.\n\n**(5)** Le demandeur adresse la demande d’accréditation par envoi recommandé au ministre. La demande comprend tous les documents conformément à l’annexe I et elle précise les domaines de compétences pour lesquels le demandeur sollicite l’accréditation.\n\nLe silence du ministre gardé pendant un délai de trois mois vaut accréditation. Le ministre décide de:\n\n1. délivrer l’attestation d’accréditation conforme à l’annexe II: ou\n2. bis\n3. communiquer son refus.",
+      "text_sha256": "ba85a7a1f492298b38f83a2998e526ba306c3d224f85cb29b0549b784781369c",
+      "md_span": {
+        "start": 33458,
+        "end": 38646
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1988/12/28/n2/jo",
+          "text": "loi modifiée du 28 décembre 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19bis",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19bis/20151001",
+      "type": "article",
+      "num": "Art. 19bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — **Accréditation des centres de formation et du personnel de sécurité relevant du secteur ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Sans préjudice de l’article 19, paragraphe 5, un centre de formation dont le principal établissement se situe dans un autre Etat membre peut être accrédité par le ministre pour la formation relative à l’infrastructure ferroviaire nationale.\n\nAu cas où une demande d’accréditation ou de reconnaissance de la formation du personnel affecté à des tâches de sécurité a déjà été satisfaite par une autorité compétente d’un autre État membre, le ministre limite son évaluation aux exigences qui sont spécifiques à la formation sur l’infrastructure ferroviaire nationale et s’abstient d’évaluer les points qui ont déjà fait l’objet d’une évaluation au cours de la précédente procédure d’accréditation ou de reconnaissance.\n\nLes documents en provenance d’un autre Etat membre de l’Union européenne sont accompagnés d’une copie certifiée conforme par l’autorité du pays d’origine et, le cas échéant, d’une traduction certifiée conforme à l’original.\n\n**(2)** Sans préjudice de l’article 19, paragraphe 5, le demandeur qui souhaite fournir des services de formation relatifs aux connaissances linguistiques générales, dispose d’une accréditation ministérielle et d’un certificat confirmant son aptitude.\n\nLa certification de l’aptitude à fournir des services de formation relatifs aux connaissances linguistiques générales relève de la compétence d’un organisme conforme aux principes et à la méthode établis par le «Cadre Européen de compétence linguistique» établi par le Conseil de l’Europe.\n\n**(3)** Sans préjudice des articles 19, paragraphe 5, et 19*bis*, paragraphe 2, le demandeur qui souhaite fournir des services de formation relatifs à un mode de communication et à une terminologie spécifiques aux activités ferroviaires et à des procédures d’exploitation et de sécurité ferroviaire, dispose de l’accréditation ministérielle.\n\nLe centre de formation fournit des formations de qualité sur l’apprentissage du mode de communication et de la terminologie spécifiques aux activités ferroviaires et à des procédures d’exploitation et de sécurité ferroviaire.\n\n**(4)** Sans préjudice de l’article 19, paragraphe 5, l’entreprise ferroviaire ou le gestionnaire de l’infrastructure qui souhaite fournir des services de formation, dispose de l’accréditation ministérielle et peut introduire sa requête dans le cadre de la demande de délivrance ou de la demande de renouvellement du certificat de sécurité ou de l’agrément de sécurité en décrivant les dispositions nécessaires dans le dossier accompagnant cette demande.\n\nSi les services de formation ne sont offerts que par une seule entreprise ferroviaire ou un seul gestionnaire de l’infrastructure, les autres entreprises ferroviaires ou gestionnaires de l’infrastructure ont droit à un accès équitable aux services de formation à un prix raisonnable et non discriminatoire qui est en rapport avec les coûts et peut inclure une marge bénéficiaire raisonnable.",
+      "text_sha256": "4655bc8aa6df3943ff3e2e8a65cc14aa848c03b252d2de00603470daa2392348",
+      "md_span": {
+        "start": 38689,
+        "end": 41600
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19ter",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19ter/20151001",
+      "type": "article",
+      "num": "Art. 19ter.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — **Accréditation des centres de formation et du personnel de sécurité relevant du secteur ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** L’accréditation du centre de formation est valable pour une période de cinq ans. L’obtention et le maintien de l’accréditation se fondent sur:\n\n1. le respect des exigences conformément à l’article 19, paragraphe 4;\n2. le respect des obligations conformément au paragraphe 2;\n3. le contenu des documents à joindre conformément à l’annexe I;\n4. quinquies\n\nPour tout centre de formation nouvellement créé, l’accréditation comporte une période probatoire de deux ans. La décision portant prorogation jusqu’à la fin de la première période de cinq ans, suspension ou retrait de l’accréditation est prise sur le vu des constatations arrêtées au plus tard six mois avant le terme de la susdite période probatoire à la suite des contrôles effectués en conformité à l’article 19*quinquies*.\n\nLe centre de formation accrédité peut à tout moment présenter une demande en vue d’une extension de l’accréditation de ses domaines de compétences. L’attestation d’accréditation modifiée doit être délivrée sur la base des documents complémentaires appropriés fournis par le demandeur. Dans ce cas, la date d’expiration de l’attestation d’accréditation précédente reste inchangée.\n\nEn vue du renouvellement de l’accréditation, le centre de formation doit au plus tard trois mois avant l’expiration de la validité adresser une demande en renouvellement au ministre. Le renouvellement est obtenu aux mêmes conditions que l’accréditation initiale. Si des services de formation ont été fournis de manière ininterrompue conformément aux obligations décrites au paragraphe 2, il convient de mettre à jour les éléments du dossier d’accréditation précédent et de produire les éléments et les documents requis conformément à l’annexe I renseignant sur les activités exercées pour le centre de formation.\n\nLorsque les conditions pour l’exécution d’une ou de plusieurs tâches de formation indiquées dans l’attestation d’accréditation ne sont plus respectées, le centre de formation doit immédiatement cesser de dispenser la formation pour ce qui concerne les tâches en question et en informer le ministre. Le ministre analyse les informations et délivre une attestation d’accréditation modifiée. Dans ce cas, la date de validité de l’attestation d’accréditation reste inchangée.\n\n**(2)** Tout centre de formation accrédité est tenu de:\n\n1. s’assurer que les formateurs répondent aux exigences précisées à l’article 19, paragraphe 4;\n2. 1. un bilan annuel des formations réalisées précisant pour chacun les stages considérés, formation initiale, continue ou complémentaire, leur durée et le nombre de postulants inscrits;\n2. une liste des formateurs engagés;\n3. les résultats de l’évaluation annuelle de la qualité interne des formations réalisées et les conclusions des audits et des contrôles auxquels le centre a été soumis;\n4. un aperçu des mesures prévues et réalisées visant à améliorer la qualité des formations dispensées;\n3. s’assurer que chaque formateur dispense annuellement au moins cent heures de services de formation;\n4. s’assurer que les intervenants disposent des moyens adaptés à la formation à fournir;\n5. s’assurer que les intervenants exercent leurs activités sous la responsabilité pédagogique du centre de formation accrédité. Les conditions d’exercice de cette responsabilité font l’objet d’un document contractuel avec le centre de formation accrédité: et\n6. ter er",
+      "text_sha256": "99e5d5f909587b385f081fff2580f7da4e6d7a7293af1b96078fbcd102c1518d",
+      "md_span": {
+        "start": 41643,
+        "end": 45011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19quater",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19quater",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19quater/20151001",
+      "type": "article",
+      "num": "Art. 19quater.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — **Accréditation des centres de formation et du personnel de sécurité relevant du secteur ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** L’Administration des chemins de fer publie et met à jour un registre national des centres de formation disposant de l’accréditation ministérielle.\n\nLe registre contient pour chaque centre de formation:\n\n1. le nom et les coordonnées de l’Administration des chemins de fer;\n2. le nom et les coordonnées du centre de formation et des personnes de contact;\n3. le numéro d’enregistrement individuel constitué par «LU-xx-aaaa-0000» conformément au système de numérotation harmonisé européen, appelé «NIE»;\n4. les domaines de compétences pour lesquels le centre de formation est accrédité: et\n5. la date d’expiration de l’attestation d’accréditation.\n\n**(2)** Le centre de formation informe le ministre de toute modification concernant les données consignées dans le registre. Les modalités de prise de connaissance du registre et d’obtention d’une copie conforme des données sauvegardées sont communiquées par le ministre lors de l’octroi de l’accréditation.",
+      "text_sha256": "e211e6307438e02a2ce5fe9d661c32797f899b6d25c7bea11044db0ce473079e",
+      "md_span": {
+        "start": 45060,
+        "end": 46020
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19quinquies",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19quinquies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19quinquies/20151001",
+      "type": "article",
+      "num": "Art. 19quinquies.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — **Accréditation des centres de formation et du personnel de sécurité relevant du secteur ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** A tout moment, l’Administration peut prendre les mesures nécessaires pour vérifier si les formateurs remplissent les conditions requises pour l’admission et le maintien aux fonctions qu’ils assurent, telles que prévues par la présente loi et procéder à des enquêtes concernant le respect de la présente loi par les centres de formation exerçant leurs activités sur le territoire national.\n\n**(2)** Les contrôles relatifs aux centres de formation visés à l’article 19*ter*, paragraphe 1er, point 4, sont régulièrement assurés par l’Administration. Les contrôles portent sur l’accès équitable et non discriminatoire de tout postulant aux services de formation ainsi que sur le respect des conditions d’accréditation, la conformité des moyens de mise en œuvre avec les clauses y relatives prévues dans l’accréditation ministérielle et le déroulement correct des formations.\n\nAu cas où des irrégularités seraient constatées à l’occasion desdits contrôles, l’accréditation peut être suspendue ou retirée par décision motivée du ministre.\n\n**(3)** Les mesures prises en exécution de l’article 19*quinquies*, paragraphes 1er et 2, comportent la mise à jour du registre prévu à l’article 19*quater*.\n\n**(4)** En cas de litige au sujet d’une mesure ou décision prise en exécution de la présente loi, seules les juridictions luxembourgeoises sont compétentes pour en statuer.",
+      "text_sha256": "a8fae0a0cf2ab0b73b2d1fc75b54219b24694567586c28763dda24f25674aedc",
+      "md_span": {
+        "start": 46075,
+        "end": 47448
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19sexies",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19sexies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19sexies/20151001",
+      "type": "article",
+      "num": "Art. 19sexies.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — **Accréditation des centres de formation et du personnel de sécurité relevant du secteur ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "Par dérogation à l’article 19, paragraphe 4, point 12, le centre de formation accrédité peut organiser une formation pratique se rapportant à une nouvelle ligne ou récemment équipée et au matériel roulant récemment mis en service.\n\nLe recours à cette dérogation est limité strictement au cas dans lequel aucun formateur titulaire d’une attestation couvrant déjà la ligne nouvelle ou récemment équipée ou le nouveau matériel roulant n’est encore disponible. Il incombe au centre de formation de régulariser dans les meilleurs délais les attestations des formateurs en cause.\n\nLe formateur doit satisfaire aux exigences de l’article 19, paragraphe 4, point 12, en ce qui concerne les qualifications et aptitudes, la licence et la durée d’expérience professionnelle.\n\nLe gestionnaire de l’infrastructure et les entreprises ferroviaires prennent les mesures nécessaires afin de garantir la sécurité.",
+      "text_sha256": "0eb606cf2bfdf5e50b4129fb383bd1fe5148dc778d383a0682a89eea11b41ec4",
+      "md_span": {
+        "start": 47497,
+        "end": 48392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19septies",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19septies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19septies/20151001",
+      "type": "article",
+      "num": "Art. 19septies.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — Critères en relation avec l’organisation des examens"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** L’examinateur chargé de l’évaluation du personnel affecté à des tâches de sécurité au sein d’une entreprise ferroviaire ou du gestionnaire de l’infrastructure évalue les compétences professionnelles des postulants en faisant preuve d’éviter tout conflit d’intérêts vis-à-vis de tous les postulants.\n\nAvant d’être reconnu, le demandeur confirme qu’il dirige les examens de manière impartiale et non discriminatoire, libre de toute pression ou incitation qui pourrait influencer son jugement ou les résultats et le déroulement de l’examen. Il est réputé indépendant et impartial s’il satisfait aux conditions suivantes:\n\n1. Absence d’influence d’autrui: l’examinateur est indépendant à l’égard des postulants qu’il examine et réalise les examens sous le critère de «non soumis au contrôle» de la part d’autrui;\n2. loi modifiée du 9 juillet 2004\n\nIl signe la déclaration d’indépendance et d’impartialité requise à l’annexe III.\n\n**(2)** En vue de la délivrance de l’attestation de reconnaissance, le demandeur rapporte la preuve que:\n\n1. il possède les compétences techniques et opérationnelles ainsi que les aptitudes requises à préparer, à faire passer et à noter des examens adaptés à l’objectif attendu;\n2. il est âgé de 26 ans au moins;\n3. ses compétences correspondent à un niveau élevé équivalent aux éléments pertinents de la version la plus récente de la norme EN ISO 17024;\n4. il possède les qualifications et les aptitudes physiques et pédagogiques requises concernant l’objet des examens;\n5. il dispose d’une connaissance approfondie des méthodes d’examen et des documents d’examen;\n6. il a acquis une expérience professionnelle de quatre ans minimum au cours des cinq années précédant la date de la demande de reconnaissance. Cette expérience a été acquise soit dans l’exercice ou l’encadrement des fonctions de sécurité permettant une maîtrise complète des compétences professionnelles requises, soit par une pratique continue de la formation dispensée au personnel affecté à des tâches de sécurité avec actualisation régulière des connaissances;\n7. il a des compétences d’écoute et de conversation dans la langue de l’examen correspondant au moins au niveau B2 du Cadre européen de compétence linguistique (CECL) établi par le Conseil de l’Europe;\n8. il maintient à jour ses compétences professionnelles à l’égard des sujets des examens qu’il réalise;\n9. il établit une procédure de recours autorisant le postulant à voir les résultats de l’examen qu’il a passé et à demander qu’il soit revu en cas d’avis négatif motivé le concernant.\n\n**(3)** En vue de la délivrance de l’attestation de reconnaissance pour le domaine de compétences «conducteurs de train» et sans préjudice du paragraphe 1er, le demandeur rapporte la preuve complémentaire pour les épreuves pratiques que:\n\n1. son expérience professionnelle conformément au point 6 du paragraphe 2 est acquise moyennant l’exercice effectif de la conduite;\n2. il possède les qualifications et aptitudes psychologiques requises et qu’il est titulaire à la fois d’une licence valide de conducteur de train et d’une attestation complémentaire harmonisée valide couvrant l’objet de l’examen ou un type similaire de ligne ou le matériel roulant. Lorsque l’examinateur n’est pas détenteur d’une attestation valide pour l’infrastructure ou le matériel roulant qui fait l’objet de l’examen, un conducteur titulaire de l’attestation pour cette infrastructure ou ce matériel roulant doit être présent lors de l’examen.",
+      "text_sha256": "dd01206cdc2bda4e58ca417ad9ab6b7b5c4455a3aee9fd3613ed96373dd5daaf",
+      "md_span": {
+        "start": 48518,
+        "end": 51997
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19octies",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19octies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19octies/20151001",
+      "type": "article",
+      "num": "Art. 19octies.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — Critères en relation avec l’organisation des examens"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Par dérogation à l’article 19*septies*, paragraphe 3, point 2, l’examinateur peut organiser un examen pratique se rapportant à une nouvelle ligne ou récemment équipée, à du matériel roulant récemment mis en service, au matériel historique récemment remis en service et à un nouveau règlement ou une modification majeure d’un règlement concernant l’attestation.\n\nLe recours à cette dérogation est limité strictement au cas dans lequel aucun examinateur titulaire d’une attestation couvrant déjà la ligne nouvelle ou récemment équipée, le nouveau matériel roulant, le matériel historique et le nouveau règlement ou la modification majeure n’est encore disponible. Il incombe aux examinateurs respectivement à leur employeur de régulariser dans les meilleurs délais les attestations des examinateurs en cause. L’examinateur satisfait aux exigences de l’article 19*septies*, paragraphe 3, point 2, en ce qui concerne les qualifications et aptitudes et la licence.\n\nLe gestionnaire de l’infrastructure et les entreprises ferroviaires prennent les mesures nécessaires afin de garantir la sécurité.\n\n**(2)** En vue d’obtenir la reconnaissance, le demandeur adresse une demande par envoi recommandé à l’Administration. La demande comprend tous les documents conformément à l’annexe IV dont ceux prouvant les exigences visées à l’article 19*septies*, paragraphe 2. Le demandeur précise les domaines de compétences pour lesquels il sollicite la reconnaissance. La demande peut également être soumise par l’employeur du demandeur en son nom. Si l’Administration exige lors de l’examen de la demande un complément d’informations, elle le notifie par écrit au demandeur en l’invitant à adresser les pièces complémentaires.\n\nL’Administration décide dans un délai de trois mois à compter de la réception des documents nécessaires de:\n\n1. délivrer l’attestation de reconnaissance conforme à l’annexe V: ou\n2. communiquer son refus.",
+      "text_sha256": "94c30541d3c8a9baa52147a960885a1ce9ec35344482bd17b2d33b4a2be98258",
+      "md_span": {
+        "start": 52046,
+        "end": 53969
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19nonies",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19nonies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19nonies/20151001",
+      "type": "article",
+      "num": "Art. 19nonies.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — Critères en relation avec l’organisation des examens"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Sans préjudice de l’article 19*octies*, paragraphe 2, un examinateur reconnu par l’autorité compétente d’un autre Etat membre peut être reconnu par l’Administration pour les examens relatifs à l’infrastructure ferroviaire nationale.\n\nAu cas où une demande de reconnaissance a déjà été satisfaite par une autorité compétente d’un autre État membre, l’Administration limite son évaluation aux exigences qui sont spécifiques aux examens sur l’infrastructure ferroviaire nationale et s’abstient d’évaluer les points qui ont déjà fait l’objet d’une évaluation au cours de la précédente procédure de reconnaissance.\n\nLes documents en provenance d’un autre Etat membre de l’Union européenne sont accompagnés d’une copie certifiée conforme par l’autorité du pays d’origine et, le cas échéant, d’une traduction certifiée conforme à l’original.\n\n**(2)** Sans préjudice de l’article 19*octies*, paragraphe 2, le demandeur qui souhaite faire passer et noter des examens relatifs aux connaissances linguistiques générales, dispose également de la reconnaissance d’aptitude aux examens relatifs aux connaissances linguistiques générales. La certification y relative relève de la compétence d’un organisme conforme aux principes et à la méthode établis par le «Cadre Européen de compétence linguistique» établi par le Conseil de l’Europe.\n\nL’examinateur réalise les examens de manière à vérifier que le niveau exigé des connaissances linguistiques est en adéquation avec la fonction de sécurité à exercer.\n\n**(3)** Sans préjudice de l’article 19*octies*, paragraphe 2, et de l’article 19*nonies*, paragraphe 2, le demandeur qui souhaite faire passer et noter des examens relatifs à un mode de communication et à une terminologie spécifiques aux activités ferroviaires et à des procédures d’exploitation et de sécurité ferroviaire, dispose également de la reconnaissance d’aptitude aux examens relatifs au mode de communication et de terminologie spécifique.\n\nL’examinateur réalise les examens de manière à vérifier que le niveau exigé des compétences professionnelles relatives à la communication et à la terminologie spécifiques aux activités ferroviaires et à des procédures d’exploitation et de sécurité ferroviaire est en adéquation avec la fonction de sécurité à exercer.",
+      "text_sha256": "6698ad3f6a53fb3de033ab25bd858669f1b7efa80c3d65f110e525e0f18e5649",
+      "md_span": {
+        "start": 54018,
+        "end": 56287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19decies",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19decies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19decies/20151001",
+      "type": "article",
+      "num": "Art. 19decies.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — Critères en relation avec l’organisation des examens"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La reconnaissance de l’examinateur est valable pour une période de cinq ans. L’obtention et le maintien de la reconnaissance se fondent sur:\n\n1. septies\n2. le respect des obligations conformément au paragraphe 2;\n3. le contenu des documents à joindre conformément à l’annexe IV;\n4. duodecies\n\nL'examinateur peut à tout moment présenter une demande en vue d’une extension de la reconnaissance de ses domaines de compétences. L’attestation de la reconnaissance modifiée doit être délivrée sur la base des documents complémentaires fournis par le demandeur. Dans ce cas, la date d’expiration de l’attestation de reconnaissance précédente reste inchangée.\n\nEn vue du renouvellement de la reconnaissance, l’examinateur adresse au plus tard trois mois avant l’expiration de la validité une demande en renouvellement à l’Administration. Le renouvellement est obtenu aux mêmes conditions que la reconnaissance initiale. Si des examens ont été réalisés de manière ininterrompue conformément aux obligations décrites au paragraphe 2, il convient de mettre à jour les éléments du dossier de reconnaissance précédent et de produire les éléments et les documents requis conformément à l’annexe IV renseignant sur les activités exercées par l’examinateur.\n\nLorsque les conditions pour l’exécution d’une ou de plusieurs tâches indiquées dans l’attestation de reconnaissance ne sont plus respectées, l’examinateur cesse immédiatement de préparer, de faire passer et de noter des examens en ce qui concerne les tâches en question et en informe l’Administration. L’Administration analyse les informations et délivre une attestation de reconnaissance modifiée. Dans ce cas, la date de validité de l’attestation de reconnaissance reste inchangée.\n\n**(2)** Tout examinateur est tenu de:\n\n1. présenter chaque année à l’Administration un bilan annuel des examens réalisés par domaine de compétences précisant le nombre d’examens réalisés, le nombre de postulants et le nombre de certificats délivrés aux postulants, ainsi que le barème tarifaire énonçant le système de tarification des services fournis;\n2. réaliser annuellement au moins dix examens par domaine de compétence pour lequel il est reconnu;\n3. decies er",
+      "text_sha256": "907339b9892fae259e96c2c29aedd7adc5b66f088dde5b454d7d557ab542c0b2",
+      "md_span": {
+        "start": 56336,
+        "end": 58537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19undecies",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19undecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19undecies/20151001",
+      "type": "article",
+      "num": "Art. 19undecies.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — Critères en relation avec l’organisation des examens"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** L’Administration veille à l’établissement, à la mise à jour et à la publication d’un registre national des examinateurs disposant de la reconnaissance.\n\n**(2)** Le registre contient pour chaque examinateur:\n\n1. le nom, l’adresse et la date de naissance;\n2. le nom et l’adresse de l’employeur s’il présente une demande au nom de l’examinateur;\n3. le numéro d’enregistrement individuel constitué par «LU-xx-aaaa-0000» conformément au système de numérotation harmonisé européen «NIE»;\n4. les domaines de compétences pour lesquels il est reconnu;\n5. la ou les langues pour lesquelles il est reconnu;\n6. la date d’expiration de l’attestation de reconnaissance;\n7. les coordonnées de personnes de contact.\n\n**(3)** En vue de la mise à jour du registre, l’examinateur ou l’employeur qui agit en son nom, informe l’Administration de toute modification concernant les données consignées dans le registre. Les modalités de prise de connaissance du registre et d’obtention d’une copie conforme des données sauvegardées sont communiquées par l’Administration lors de l’octroi de la reconnaissance.",
+      "text_sha256": "b8eef9403a09a7a6dd06082a30d54bc1c9885da92e6e8bd1c50684b0daf52245",
+      "md_span": {
+        "start": 58590,
+        "end": 59683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19duodecies",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_19duodecies",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19duodecies/20151001",
+      "type": "article",
+      "num": "Art. 19duodecies.",
+      "heading": null,
+      "path": [
+        "Chapitre 6*bis* — Critères en relation avec l’organisation des examens"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Sans préjudice de l’alinéa 2 et dans l’hypothèse où l’examinateur ne dispose pas des compétences particulières pour préparer, faire passer et noter des examens relatifs à du matériel ferroviaire, l’examinateur peut demander l’assistance d’un gestionnaire de l’infrastructure, d’une entreprise ferroviaire ou d’une société spécialisée.\n\nAu cas où l’examen est organisé par plusieurs examinateurs, l’examen est dirigé par un examinateur selon les dispositions de la présente loi.\n\n**(2)** Le postulant présente une demande d’inscription sous la forme écrite à l’examinateur dirigeant l’examen. L’inscription peut être réalisée au nom du postulant par son employeur moyennant un cahier des charges à envoyer à l’examinateur.\n\nL’examinateur qui dirige l’examen communique au préalable par écrit le règlement de l’examen au postulant qui comprend:\n\n1. les documents requis pour l’inscription à l’examen et la ou les dates d’inscription;\n2. le déroulement et les règles de conduite à observer par le postulant pendant l’examen;\n3. les principes d’évaluation et d’attribution des points;\n4. les conditions de réussite et les suites en cas d’une ou plusieurs notes insuffisantes;\n5. les délais de réexamen en cas d’une ou plusieurs notes insuffisantes;\n6. les méthodes et délais de communication des résultats;\n7. septies\n\nL'examinateur communique au postulant le ou les lieux et la ou les dates d’examen dans un délai raisonnable.\n\n**(3)** Les examens sont réalisés de manière transparente et ont une durée adéquate pour démontrer que tous les sujets pertinents relatifs à la fonction de sécurité sont couverts. A cet effet, les méthodes d’examen doivent être adaptées selon l’objectif attendu de chaque domaine de compétences à examiner.\n\nL’examinateur qui dirige l’examen est responsable:\n\n1. du choix des méthodes d’examen;\n2. du contenu des questions à poser;\n3. de la vérification de l’identité du postulant préalablement à l’examen;\n4. de l’évaluation des réponses;\n5. de la confidentialité des questions.\n\nLes méthodes d’évaluation sont harmonisées. La confidentialité des questions est garantie moyennant un système de gestion informatisé.\n\nLes examens peuvent être réalisés sur ordinateur. Des simulateurs peuvent être utilisés dans le cadre des examens dans des situations particulièrement difficiles.\n\n**(4)** Les examens font l’objet d’un bilan d’examen à délivrer au postulant. Les données intéressant le bilan d’examen sont conservées pendant dix ans par l’examinateur par tous moyens et consultables à tout moment par l’Administration, sans préjudice des dispositions de la législation relative à la protection des personnes à l’égard du traitement des données à caractère personnel.\n\n**(5)** A tout moment, l’Administration peut prendre les mesures nécessaires pour vérifier si les examinateurs remplissent les conditions requises aux fonctions qu’ils assurent, telles que prévues par la présente loi, et procéder à des enquêtes concernant le respect de la présente loi par les examinateurs exerçant leurs activités sur le territoire national.\n\n**(6)** Les contrôles visés à l’article 19*decies*, paragraphe 1er, point 4 sont régulièrement assurés par l’Administration. Les contrôles portent sur la réalisation des examens de manière indépendante et impartiale, ainsi que sur le respect des conditions de reconnaissance, la conformité des moyens de mise en œuvre avec les clauses y relatives prévues dans la reconnaissance et le déroulement correct des examens.\n\nL’Administration peut exiger:\n\n1. l’accès à tous les documents utiles;\n2. l’adoption d’une procédure selon laquelle certaines informations sont fournies régulièrement;\n3. la désignation par elle d’observateurs lors des examens.\n\nAu cas où des irrégularités sont constatées lors desdits contrôles, la reconnaissance peut être suspendue ou retirée par décision motivée de l’Administration.\n\nLes mesures prises en exécution du présent paragraphe et du paragraphe 6 comportent la mise à jour du registre prévu à l’article 19*undecies*.\n\n**(7)** En cas de litige au sujet d’une mesure ou décision prise en exécution de la présente loi, seules les juridictions luxembourgeoises sont compétentes pour en statuer.",
+      "text_sha256": "29691f0ed6b40af07659a94c3f53533a98dc54ab3865c47b03b596d7f20bd4dd",
+      "md_span": {
+        "start": 59738,
+        "end": 63923
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20/20161231",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — **Certification du matériel roulant ferroviaire"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**1.** Toute entreprise ferroviaire admise à utiliser le réseau national ne fait circuler sur ce réseau national que des trains composés de matériel roulant couvert par les STI et les règles nationales pertinentes ou dont la mise en service a été autorisée par l’Administration ou dont l’autorisation de mise en service accordée par les autorités compétentes d’un autre Etat est reconnue par l’Administration.\n\n**2.** Le dossier à soumettre à l’Administration contient les informations suivantes:\n\n1. la preuve de l’autorisation dans un autre Etat de la mise en service du matériel roulant et des registres faisant apparaître l'historique de son exploitation, de son entretien et les modifications techniques apportées après l'autorisation;\n2. les données techniques, le programme d'entretien et les caractéristiques opérationnelles appropriés requis par l’Administration et nécessaires pour son autorisation;\n3. les caractéristiques techniques et opérationnelles prouvant la compatibilité du matériel roulant avec le système d'alimentation en énergie, le système de signalisation et de contrôle-commande, l'écartement des voies et les gabarits de l'infrastructure, la charge maximale à l'essieu et d'autres contraintes du réseau;\n4. des informations sur les dérogations aux règles de sécurité nationales nécessaires pour accorder l'autorisation, et la preuve, basée sur l'évaluation des risques, que l'acceptation du matériel roulant ne crée pas de risque sur le réseau.\n\n**3.** Le détail des conditions d'obtention et de validité de l'autorisation de mise en service du matériel roulant ferroviaire circulant sur le réseau national ainsi que les modalités de sa délivrance sont arrêtés par règlement grand-ducal qui détermine également les conditions selon lesquelles l'autorisation de mise en service délivrée dans un autre Etat peut être intégralement ou partiellement reconnue.\n\n**4.** Le détail des conditions d'obtention et de validité de l'autorisation de mise en service du matériel roulant ferroviaire historique circulant sur le réseau national ainsi que les modalités de sa délivrance sont définies par l'Administration.",
+      "text_sha256": "886467d0735cf1be9f949c0d886929be4f880a87922241f8f6931bba7b5389b1",
+      "md_span": {
+        "start": 64025,
+        "end": 66157
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20bis",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_20bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20bis/20111231",
+      "type": "article",
+      "num": "Art. 20bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 7*bis* — Entretien des véhicules"
+      ],
+      "article_valid_from": "2011-12-31",
+      "text_md": "Il est créé un registre national des véhicules géré selon des modalités à fixer par règlement grand-ducal.",
+      "text_sha256": "274b3e344773f78fbd59442eda39b4b94f4c2acebbb510dc95f07fc8a15d63c2",
+      "md_span": {
+        "start": 66246,
+        "end": 66352
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20ter",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_20ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20ter/20161231",
+      "type": "article",
+      "num": "Art. 20ter.",
+      "heading": null,
+      "path": [
+        "Chapitre 7*bis* — Entretien des véhicules"
+      ],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**1.** Chaque véhicule, avant qu’il ne soit mis en service ou utilisé sur le réseau national, se voit assigner une entité chargée de l’entretien qui est inscrite dans le registre national des véhicules.\n\n**2.** Une entreprise ferroviaire, un gestionnaire d’infrastructure ou un détenteur peut être entité chargée de l’entretien.\n\n**3.** Sans préjudice de la responsabilité des entreprises ferroviaires et des gestionnaires d’infrastructure pour l’exploitation d’un train en toute sécurité prévue à l’article 12, paragraphe 3, l’entité veille, au moyen d’un système d’entretien, à ce que les véhicules dont elle assure l’entretien soient dans un état de marche assurant la sécurité. Les véhicules sont entretenus par l’entité chargée de l’entretien conformément:\n\n1. au carnet d’entretien de chaque véhicule;\n2. L’entité chargée de l’entretien effectue l’entretien elle-même ou le sous-traite à des ateliers d’entretien.\n\n**4.** Lorsqu’il s’agit de wagons de fret, chaque entité chargée de l’entretien est certifiée par un organe accrédité ou reconnu. Les processus d’accréditation et de reconnaissance se fondent sur des critères d’indépendance, de compétence et d’impartialité. L’accréditation et la reconnaissance sont prononcées par le Ministre après avoir demandé l’avis de l’Administration.\n\nLorsque l’entité chargée de l’entretien est une entreprise ferroviaire ou un gestionnaire d’infrastructure, la conformité aux exigences est contrôlée par l’Administration conformément aux procédures en vigueur pour la certification et l’agrément en matière de sécurité. Cette certification n’est applicable qu’aux véhicules dont l’entreprise ferroviaire ou le gestionnaire de l’infrastructure est le détenteur.\n\n**5.** Les obligations d’identification et de certification de l’entité chargée de l’entretien sont remplies par d’autres mesures, dans les cas suivants:\n\n1. véhicules immatriculés dans un pays tiers et entretenus conformément à la législation de ce pays;\n2. ferré\n3. er Dans ce cas\n\nCes autres mesures sont mises en œuvre par le biais de dérogations accordées par l’Administration des Chemins de Fer:\n\n1. lors de l’immatriculation des véhicules, en ce qui concerne l’identification de l’entité chargée de l’entretien;\n2. lors de la délivrance des autorisations et des certificats de sécurité aux entreprises ferroviaires et aux gestionnaires d’infrastructure, conformément aux procédures en vigueur pour la certification et l’agrément en matière de sécurité, en ce qui concerne l’identification ou la certification de l’entité chargée de l’entretien.\n\nCes dérogations sont identifiées et justifiées dans le rapport annuel sur la sécurité visé à l’article 5.",
+      "text_sha256": "8afab30eae03e543518e54ec5f5abb350eab11b6f7260ee8ed4e25c9672ac986",
+      "md_span": {
+        "start": 66395,
+        "end": 69062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_21/20090731",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 8 — **Dispositions pénales"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "La violation des obligations découlant des articles 14, 17, 19 et 20 est punie d'un emprisonnement d'un mois à trois ans et d'une amende de 251 à 5000 euros ou d'une de ces peines seulement.",
+      "text_sha256": "0532d54c33b95fe688372ec6e2da40bf36f00a4c891f6d2df9af3474404d23d8",
+      "md_span": {
+        "start": 69139,
+        "end": 69329
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_22/20090731",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "Le deuxième alinéa de l'article 10 de la loi modifiée du 11 juin 1999 précitée est abrogé.",
+      "text_sha256": "0977f62b52c137b57eca3060ecdbd11350942870b3a380862484fb763f156441",
+      "md_span": {
+        "start": 69428,
+        "end": 69518
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "loi modifiée du 11 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_23/20090731",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "Dans le Chapitre III - La répartition des sillons de la même loi - il est inséré derrière l'article 20 un article 20bis nouveau, libellé comme suit:",
+      "text_sha256": "51a2681f4ced19b1206ca6dff7d6eb537570b7983bb3ff32c403191946847632",
+      "md_span": {
+        "start": 69555,
+        "end": 69703
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_24/20090731",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "A l'article 22 de la même loi sont apportées les modifications suivantes:\n\n1. er loi modifiée du 29 juin 2004 loi du 22 juillet 2009\n2. article 26 article 20bis\n3. Le paragraphe 3 est abrogé.\n4. la cellule «accès réseau» de la Communauté des Transports l'Administration des Chemins de Fer\n5. **9.** Sans préjudice des dispositions de l’article 22bis, lorsqu’une entreprise ferroviaire qui demande l’allocation d’un sillon ou qui utilise le réseau ferré luxembourgeois trouve mal fondée une décision de l’organisme de répartition prise à son égard dans le cadre de la répartition des sillons, elle peut déférer celle-ci au Ministre qui, après avoir entendu les parties, la confirme ou la réforme dans un délai de dix jours ouvrables.",
+      "text_sha256": "3db973f38a9205a229f2eacc16ba93d8a578303b91f794607c935589bc7e8a62",
+      "md_span": {
+        "start": 69740,
+        "end": 70472
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_25/20090731",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "L'article 24 de la même loi est remplacé par le texte suivant:",
+      "text_sha256": "d5931c17cf0ed82bb88e78bffc9a786a2d5bff0836bad547d1d8e54888f33cd0",
+      "md_span": {
+        "start": 70509,
+        "end": 70571
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_26/20090731",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "Au paragraphe 1er de l'article 25 de la même loi, le terme la cellule «accès réseau» de la Communauté des Transports, instituée en vertu de la loi modifiée du 29 juin 2004 sur les transports publics est remplacé par l'Administration des Chemins de Fer, instituée en vertu de la loi du 22 juillet 2009 relative à la sécurité ferroviaire.",
+      "text_sha256": "d3c9c8edeb03e13cf7814b5247aa7ba45d9954284d42d8141bd23c48b398de2d",
+      "md_span": {
+        "start": 70608,
+        "end": 70944
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "même loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/06/29/n1/jo",
+          "text": "loi modifiée du 29 juin 2004"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2009/07/22/n1/jo",
+          "text": "loi du 22 juillet 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_27/20090731",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "Le Chapitre V - Les règles de sécurité relatives à l'utilisation du réseau de la même loi - est abrogé.",
+      "text_sha256": "f5184c43a5c813957ffb8f4444b91afdae68d1c36eeef37a6133086523faee91",
+      "md_span": {
+        "start": 70981,
+        "end": 71084
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_28/20090731",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "A l'article 31 de la même loi, la référence aux articles 20 à 29 est remplacée par la référence aux articles 20 à 25.",
+      "text_sha256": "dc098cec4a7048cec7f428aa7a768cf98614952cab87beeab6da34d7f283542d",
+      "md_span": {
+        "start": 71121,
+        "end": 71238
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_29/20090731",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "L'article 7quater de la loi modifiée du 29 juin 2004 sur les transports publics est abrogé.",
+      "text_sha256": "b13423989ee50b7673b3dcaa1187e4ccda01b1823312cee448a2b62efadef69f",
+      "md_span": {
+        "start": 71275,
+        "end": 71366
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/06/29/n1/jo",
+          "text": "loi modifiée du 29 juin 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_30/20090731",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre 9 — **Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "L'alinéa 2 de l'article 30 de la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation est abrogé.",
+      "text_sha256": "cc9e97e19fb3e50eea083473a3a96ea86460ecd7f8a57d919ef2af9b4c5ef667",
+      "md_span": {
+        "start": 71403,
+        "end": 71547
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/11/n1/jo",
+          "text": "loi modifiée du 11 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_31/20090731",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre 10 — **Dispositions finales"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en recouvrant à l'intitulé suivant: «loi du 22 juillet 2009 relative à la sécurité ferroviaire».",
+      "text_sha256": "20d613dddf5744581abbbe53f5b0050ea869146858cbbce6a1019efe9c145549",
+      "md_span": {
+        "start": 71625,
+        "end": 71789
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "loi du 22 juillet 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31bis",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_31bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_31bis/20111231",
+      "type": "article",
+      "num": "Art. 31bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 10 — **Dispositions finales"
+      ],
+      "article_valid_from": "2011-12-31",
+      "text_md": "Les références faites à la directive 96/48/CE et à la directive 2001/16/CE, telles qu’abrogées par la directive 2008/57/CE, s’entendent faites à la directive 2008/57/CE précitée et sont à lire selon le tableau de correspondance figurant à son annexe XI.",
+      "text_sha256": "c2542aa00cbd7a36dc31c02227b1dd40990a83077aa444f344bd1a94994fb02f",
+      "md_span": {
+        "start": 71832,
+        "end": 72085
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1996/48/jo",
+          "text": "directive 96/48/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2001/16/jo",
+          "text": "directive 2001/16/CE"
+        },
+        {
+          "href": "/eli/dir_ue/2008/57/jo",
+          "text": "directive 2008/57/CE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_32/20090731",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre 10 — **Dispositions finales"
+      ],
+      "article_valid_from": "2009-07-31",
+      "text_md": "La présente loi entre en vigueur le premier jour du mois qui suit celui de sa publication au Mémorial.",
+      "text_sha256": "0960a9917eb909cf674ddedcc868f99fb24599578138266fb37a8ef6fc05e853",
+      "md_span": {
+        "start": 72122,
+        "end": 72224
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

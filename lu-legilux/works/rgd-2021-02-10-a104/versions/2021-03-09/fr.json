@@ -1,0 +1,193 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09",
+  "language": "fr",
+  "title": "Règlement grand-ducal du 10 février 2021 fixant les conditions de réalisation des tests de dépistage ou diagnostique de l’infection par virus SARS-CoV-2.",
+  "valid_from": "2021-03-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2021-02-10-a104/versions/2021-03-09/fr.xml",
+    "sha256": "0dd008f867929a0383a209604a89840cd693e6fe9650d085b516b300ddef184a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/consolide/20210309/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/art_1er/20210309",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-03-09",
+      "text_md": "Au sens du présent règlement, on entend par :\n\n1. « prélèvement », le prélèvement nasopharyngé, oropharyngé, buccal ou salivaire à des fins de dépistage ou diagnostiques du virus SARS-CoV-2 ;\n2. « test rapide », un test manuel à orientation diagnostique de l’infection au virus SARS-CoV-2 et utilisant une technique d’analyse simplifiée consistant en un prélèvement qui sera ensuite déposé sur une bandelette ou un tube contenant un réactif.\n\nLe présent règlement ne s’applique pas aux dispositifs d’autodiagnostic servant au dépistage du SARS-CoV-2 et que le fabriquant destine à être utilisés par une personne profane.",
+      "text_sha256": "95c53647d5e9520b24672cb00396bba1343c02e1865c52dffbd910384e6ba77f",
+      "md_span": {
+        "start": 633,
+        "end": 1253
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/jo",
+          "text": "présent règlement"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/art_2/20210215",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-02-15",
+      "text_md": "Un prélèvement peut être réalisé chez toute personne, soit dans son intérêt et pour son seul bénéfice, soit dans un objectif de santé publique, après l’avoir informée et avoir recueilli son consentement libre et éclairé.\n\nL’information visée à l’alinéa 1er porte sur l’objectif et le déroulement du test, ainsi que sur la méthode de communication du résultat et la procédure qui sera suivie en cas de test positif.",
+      "text_sha256": "fbbc7539583b3c547e824ac0d17cc42f2746bb460f8357a1b4e4343109ba7064",
+      "md_span": {
+        "start": 1288,
+        "end": 1702
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/art_3/20210309",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-03-09",
+      "text_md": "**(1)** Sont autorisés à réaliser un prélèvement au sens de l’article 1er, point 1°, nécessaire pour réaliser l’examen de détection du génome du SARS-CoV-2 par le test RT-PCR :\n\n1. les médecins ;\n2. loi modifiée du 26 mars 1992\n3. les pharmaciens ;\n4. les psychothérapeutes ;\n5. les psychologues ;\n6. les pompiers volontaires ou professionnels affectés au Corps grand-ducal d’incendie et de secours.\n\n**(2)** Préalablement à la réalisation d’un prélèvement, les personnes visées à l’article 3, points 2° à 5° doivent avoir subi une formation validée par le ministre ayant la Santé dans ses attributions. Le contenu de cette formation est fixé à l’annexe I du présent règlement grand-ducal.",
+      "text_sha256": "b71bfc7a7f57d884075df2542c59560f5d0748b27845508f5fad2550abe8363f",
+      "md_span": {
+        "start": 1737,
+        "end": 2426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/art_4/20210215",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-02-15",
+      "text_md": "**(1)** Les tests rapides au sens de l’article 1er, point 2°, peuvent être réalisés par toute personne physique à condition qu’elle ait reçu une formation validée par le ministre ayant la Santé dans ses attributions, et dont le contenu est fixé à l’annexe II du présent règlement grand-ducal.\n\nLa validation de la formation vaut habilitation à réaliser les tests rapides dans un intérêt de santé publique et pour le compte de la Direction de la santé.\n\n**(2)** Par dérogation à l’article 2, alinéa 1er, les personnes visées au paragraphe 1er ne peuvent réaliser des prélèvements dans le cadre des tests rapides pour détecter une infection au virus SARS.CoV-2 que sur des mineurs de 15 ans accomplis ou plus au moment de la réalisation du test.\n\n**(3)** Les tests rapides au sens de l’article 1er, point 2°, sont des tests nominatifs.\n\n**(4)** Toute personne qui, lors de la réalisation d’un test rapide au sens de l’article 1er, point 2°, constate un résultat positif, est tenue d’en faire la déclaration le jour même au directeur de la santé ou à son délégué. Cette déclaration comprend au moins les données individuelles suivantes :\n\n1. nom, prénom et adresse du patient ;\n2. date de naissance du patient ;\n3. date du test ;\n4. date des premiers symptômes ;\n5. source d’infection, si celle-ci est connue.",
+      "text_sha256": "091ea3afd11dc7aad3187794f6ca1151082dba1736c7d70bb5c5c264554edd13",
+      "md_span": {
+        "start": 2461,
+        "end": 3767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/art_5/20210215",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-02-15",
+      "text_md": "Le règlement grand-ducal du 3 novembre 2020 fixant les conditions de réalisation de prélèvements nasopharyngés, oropharyngés, buccaux ou salivaires afin de réaliser des tests diagnostiques ou de dépistage de l’infection par virus SARS-CoV-2, est abrogé.",
+      "text_sha256": "eafad4a2d87765fde4b5f7f3b51fd4d8c47c24bed34dcd16ea4899182c7a51ff",
+      "md_span": {
+        "start": 3802,
+        "end": 4055
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2020/11/03/a882/jo",
+          "text": "règlement grand-ducal du 3 novembre 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/art_6/20210215",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-02-15",
+      "text_md": "La référence au présent règlement grand-ducal se fait sous la forme suivante : « règlement grand-ducal du 10 février 2021 fixant les conditions de réalisation des tests de dépistage ou diagnostique de l’infection par virus SARS-CoV-2 ».",
+      "text_sha256": "4bf878024eabf6a7e17c0da62cd4b1a3ad35dc7899f8bdb5e0b7736fd250fe4b",
+      "md_span": {
+        "start": 4090,
+        "end": 4326
+      },
+      "citations": [
+        {
+          "href": "???",
+          "text": "règlement grand-ducal du 10 février 2021"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/art_7/20210215",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-02-15",
+      "text_md": "Le ministre ayant la Santé dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "79301abb85a6e2fdc05dac86ecf2e6a215d508cec5ce6b4bda138c8f3547eb27",
+      "md_span": {
+        "start": 4361,
+        "end": 4522
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "***Formation théorique***\n\n- Notions d’anatomie et de physiologie de la sphère ORL (20 minutes)\n- Notions de prévention des maladies infectieuses et d’hygiène (20 minutes)\n- Notions de virologie et de biologie moléculaire (20 minutes)\n\n***Formation pratique***\n\n- Apprentissage pratique du geste de prélèvement sous supervision par une personne expérimentée (3 heures)",
+      "text_sha256": "d87e53ab50714bb31836c3b680fb2d7c8f0887ae2614603cfc2835e6500d9a53",
+      "md_span": {
+        "start": 4565,
+        "end": 4933
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2021-02-10-a104:2021-03-09#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "***Formation en six modules thématiques***, à savoir :\n\n- La base réglementaire et les recommandations\n- La mise en place et la gestion d’un espace de test\n- Les étapes avant le test (EPI)\n- Le contenu et l’utilisation du kit\n- La logistique après le test\n- La lecture et l’interprétation des résultats (60 minutes en tout)",
+      "text_sha256": "e47dc05f6490550932e79d7336f97c42f04152f44a8d20d7c0fb2904716bd2d4",
+      "md_span": {
+        "start": 4977,
+        "end": 5300
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

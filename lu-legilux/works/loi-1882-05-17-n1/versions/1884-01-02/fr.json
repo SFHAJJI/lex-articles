@@ -1,0 +1,239 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02",
+  "language": "fr",
+  "title": "Version consolidée applicable au 27/12/2022 : Loi du 17 mai 1882 sur les poids et mesures.",
+  "valid_from": "1884-01-02",
+  "valid_to": "2008-05-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1882-05-17-n1/versions/1884-01-02/fr.xml",
+    "sha256": "aa75431a4f87f815a54746bba21bfc8d57b0d8a7e7f281e69a7dc6d8700363af",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/18840102/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_1er/18820607",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Le système métrique décimal des poids et mesures, établi par la loi du 21 août 1816 et les arrêtés subséquents, continue d'être appliqué dans le Grand-Duché de Luxembourg, avec les modifications ci-après concernant les valeurs et les dénominations admises comme mesures d'unité.",
+      "text_sha256": "1b36794f74e61a8152f0f21fdb3df2902dcd2a4408d7f5028ac452cd7de0a2c5",
+      "md_span": {
+        "start": 572,
+        "end": 850
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1816/08/21/n1/jo",
+          "text": "loi du 21 août 1816"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_2/18820607",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les mesures d'unité admises pour les transactions, annonces et prix-courants sont:\n\n1. Pour les mesures de longueur: loi du 14 octobre 1842\n2. Pour les mesures de surface et agraires:\n3. Pour les mesures de capacité:\n4. Pour les mesures de poids:",
+      "text_sha256": "1a2d4123d0bdbeb3431d7a64d3f685e3ea9f0ddbc535aa4959e6700d06445f16",
+      "md_span": {
+        "start": 885,
+        "end": 1131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_3/18820607",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "On pourra néanmoins se servir des dénominations suivantes comme mesure d'une valeur fixe:\n\n- livre\n- tonne\n- cord\n- lieu\n- maldre",
+      "text_sha256": "0d5dc8cdc0e45ee50fadf1f4bffd965b31699dc14e282b1ba4559692f687b2b1",
+      "md_span": {
+        "start": 1166,
+        "end": 1295
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_4/18820607",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les dénominations indiquées aux articles précédents seront exclusivement employées dans les affiches et annonces, dans les actes publics et sous seing privé, dans les registres de commerce et autres écritures produites en justice.",
+      "text_sha256": "2388de65ea68d55dd7495422e5b88a6ddb5cc124d32bfa01a2df6a93a4913ee5",
+      "md_span": {
+        "start": 1330,
+        "end": 1560
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_5/18820607",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Il est défendu de posséder ou d'employer dans le commerce des poids et mesures autres que ceux établis par la loi, d'apposer sur les mesures des signes quelconques pouvant se rapporter à des mesures anciennes et de faire usage de celles-ci dans les ventes, annonces et prix-courants sous d'antres dénominations ou par l'indication de la fraction du mètre ou d'un nombre de centimètres correspondant aux dites mesures abolies.",
+      "text_sha256": "feb5f3e5bf57256032fc1925d0ee6d41ce9fd6a4fc0529e100ec6262986d8e41",
+      "md_span": {
+        "start": 1595,
+        "end": 2020
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_6/18820607",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les poids et mesures sont avant leur emploi vérifiés et poinçonnés par des fonctionnaires spéciaux ou autres, qui portent pour ces opérations le titre de vérificateur ou de vérificateur adjoint.\n\nIls sont de plus soumis à une vérification périodique.\n\nII en est de même pour les balances, bascules et autres instruments de pesage dans les délais à fixer par les arrêtés d'exécution.",
+      "text_sha256": "43b190bf95d1b5467317a8610d1ea304c4560f8aaf714f4ee898f57258546e51",
+      "md_span": {
+        "start": 2055,
+        "end": 2437
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_7/18840102",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1884-01-02",
+      "text_md": "Les tonneaux et futailles employés à la vente des boissons, liquides ou autres matières porteront clairement l'indication de la contenance en litres et valeurs décimales, en caractères lisibles et indélébiles.\n\nLes vases à l'usage des consommateurs dans les lieux où l'on vend à boire, à l'exception des bouteilles et cruches fortement bouchées et des vases dont la capacité n'excède pas le demi-décilitre, doivent également porter, au moyen de gravures, d'incisions ou d'autres marques indélébiles, l'indication apparente de leur contenance.\n\nNous Nous réservons de déterminer les conditions de capacité auxquelles seront assujettis les vases qui doivent être marqués.",
+      "text_sha256": "1c66e50c9a8b1bc505a8e9d1d18529da45827311ffcd82e3b8bda5dd3fcd6694",
+      "md_span": {
+        "start": 2472,
+        "end": 3141
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_8/18820607",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les mesures dont mention dans l'article qui précède ne seront pas poinçonnées; mais elles seront fréquemment vérifiées, soit par les vérificateurs et commis des accises, soit par les officiers et agents de la police générale et locale.\n\nA cet effet, chaque débitant de boissons et de liquides est tenu de posséder les mesures légales prescrites et de les tenir toujours à la disposition des agents vérificateurs, comme à celle des acheteurs ou des consommateurs.\n\nLes vases, verres ou litres qui ne portent pas une inscription conforme à la contenance réelle, seront saisis pour être brisés, après que leur insuffisance aura été reconnue par jugement.",
+      "text_sha256": "6c8ad0450e2338532248df23efb42da741d2bc8fc30d0336d40b4cd1e7af9db8",
+      "md_span": {
+        "start": 3176,
+        "end": 3827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_9/18820607",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les commis des accises et vérificateurs constatent, concurremment avec les employés de l'enregistrement, les officiers et les agents de la police judiciaire, les infractions à la loi et aux règlements sur les poids et mesures, sous la foi du serment qu'ils ont prêté.\n\nLes procès-verbaux des fonctionnaires, agents ou employés dénommés ci-dessus font foi en justice jusqu'à preuve du contraire.",
+      "text_sha256": "b10fd27f4d5b03c8d387c8201d71fe79d273208665ee5648746bb07d84420dd3",
+      "md_span": {
+        "start": 3862,
+        "end": 4256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_10/18820607",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les lieux où se font habituellement soit des perceptions à charge des particuliers, soit des transactions ou des débits pour lesquels on emploie des poids et mesures, sont soumis à la visite des dits fonctionnaires, agents et employés, pendant tout le temps qu'ils sont ouverts au public.\n\nLes lieux affectés à la même destination, dont l'accès n'est pas ouvert au public, sont également soumis à cette visite après le lever et avant le coucher du soleil, lorsque les vérificateurs, commis ou autres agents sont accompagnés du commissaire de police ou d'un membre de l'administration communale, qui signera le procès-verbal.",
+      "text_sha256": "fc862458be02c52b7558d646876d4dc96696e35386e8da948f3ce6359d9785c7",
+      "md_span": {
+        "start": 4293,
+        "end": 4917
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_11/18820607",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Des arrêtés royaux grand-ducaux décréteront foutes les dispositions nécessaires pour assurer l'application régulière et complète de la loi; ils régleront la forme et la composition des poids et mesures et détermineront les conditions que doivent remplir ces instruments, de même que les instruments de pesage.\n\nLes autres mesures d'exécution seront prises par le membre du Gouvernement du service afférent.",
+      "text_sha256": "755c1f83e0308701438da3288cf8c15737a755a29b327757fe1ac3195295da1e",
+      "md_span": {
+        "start": 4954,
+        "end": 5360
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_12/18820607",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Toutes les contraventions à la présente loi et aux arrêtés pris pour son exécution seront punies des peines édictées par les art. 561 et 562 du Code pénal, sans préjudice aux peines plus élevées s'il a été fait usage de poids ou de mesures insuffisants.\n\nLes art. 59, 565 et 566 du Code pénal seront applicables en cette matière.",
+      "text_sha256": "3bef5366d80e8f4791b5eb4f947753663c974c3ee1228ef3cff197399673d0b5",
+      "md_span": {
+        "start": 5397,
+        "end": 5726
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,307 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/07/2023 : Loi du 27 février 2011 sur les enquêtes parlementaires.",
+  "valid_from": "2023-07-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2011-02-27-n3/versions/2023-07-03/fr.xml",
+    "sha256": "219a65b67f389b1fc3d85ba84722dd24a42556b6a6f772cc74344dff9023b1cb",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/consolide/20230703/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_1er/20230703",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-07-03",
+      "text_md": "La Chambre des Députés exerce le droit d’enquête prévu par l’article 81 de la Constitution par une commission formée dans son sein.\n\nL’enquête ne peut porter que sur une question d’intérêt public, à l’exception de toute question d’ordre individuel ou privé.\n\nLes faits à la base de l’enquête et la mission de la commission d’enquête doivent être ceux figurant dans la demande d’institution de la commission d’enquête, adressée au Président de la Chambre des Députés.\n\nLa durée des travaux de la commission ne peut pas dépasser une période de six mois. Cette durée peut toutefois être prolongée de trois mois sur la base d’une résolution adoptée par la Chambre des Députés. Aucune commission d’enquête ne peut être instituée moins de six mois avant la date fixée pour la tenue des élections législatives conformément aux dispositions de la loi électorale modifiée du 18 février 2003. Une commission ne peut être reconstituée avec le même objet avant l’expiration d’un délai de douze mois à compter de la fin de sa mission.\n\nSi elle n’est pas en mesure de présenter le rapport visé à l’article 12 dans le délai visé à l’alinéa 4 ou avant la fin de la législature, la commission d’enquête soumet en temps utile à la Chambre des Députés un rapport d’étape sur l’état d’avancement de la procédure et les résultats de l’enquête menée jusqu’alors.",
+      "text_sha256": "2b9253a1aa1429f0485164bd3e17982c509bd0edaf59fb04f869f09fa31008d5",
+      "md_span": {
+        "start": 577,
+        "end": 1917
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/constitution/1868/10/17/n1/jo",
+          "text": "Constitution"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/02/18/n2/jo",
+          "text": "loi électorale modifiée du 18 février 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_2/20110322",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-22",
+      "text_md": "La création, la composition et les délibérations de la commission d’enquête se font selon les dispositions applicables aux commissions de la Chambre des Députés.",
+      "text_sha256": "8dbe54862e5847011ee24a8ddb0f85ebe8350f96185d9023e58734c9f845d7d0",
+      "md_span": {
+        "start": 1952,
+        "end": 2113
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_3/20141213",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-12-13",
+      "text_md": "Les députés non membres de la commission ont le droit d’assister à l’enquête de la commission à moins que la commission n’en décide autrement. Les réunions de la commission sont publiques. La commission peut à tout moment décider le huis clos. Elle peut également décider la retransmission des réunions. La retransmission en images de l'audition d'un témoin n'est possible qu'avec son accord.\n\nLes membres de la Chambre des Députés sont tenus au secret en ce qui concerne les informations recueillies à l’occasion des réunions non publiques de la commission. Toute violation de ce secret sera sanctionnée conformément au Règlement de la Chambre des Députés.\n\nLa commission peut lever l’obligation de secret sauf si elle s’est expressément engagée à le préserver.\n\nL’enquête parlementaire est contradictoire.\n\nToute personne qui estime que l’enquête pourrait lui porter préjudice a le droit de demander à y être entendue et à voir ordonner des mesures d’instruction. La commission d’enquête statuera sur l’admissibilité et le bien-fondé de cette demande. Les travaux de la commission se font dans le respect des droits de la défense.",
+      "text_sha256": "bfc2438255ae4bc385f35d6acb9d189bcbf4dbd2cc6b04ca789b4e7c6a343da5",
+      "md_span": {
+        "start": 2148,
+        "end": 3280
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/ri/2007/03/15/n1/jo",
+          "text": "Règlement de la Chambre des Députés"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_4/20141213",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-12-13",
+      "text_md": "La commission ainsi que son président ou un autre de ses membres, pour autant que celui-ci y soit habilité par la commission, peut procéder à tous les actes d'instruction prévus par le Code d’instruction criminelle.\n\nLa commission d'enquête a, dans l'exercice de ses fonctions, le droit de requérir directement la force publique.\n\nL'instruction menée par la commission d'enquête ne saurait porter sur des faits ayant donné lieu à des poursuites judiciaires et aussi longtemps que ces poursuites sont en cours. Si une commission a déjà été créée, sa mission prend fin dès l'ouverture d'une instruction préparatoire. Une enquête préliminaire à laquelle procède le parquet ne met pas fin à l'enquête parlementaire en cours.\n\nEn cas de poursuites judiciaires sur des faits qui font l’objet d’une enquête parlementaire, le Procureur d’Etat territorialement compétent est tenu d’en informer la Chambre des Députés.\n\nLa commission peut poursuivre ses travaux d’instruction pour des faits non directement visés par l’instruction judiciaire.\n\nLa commission d’enquête peut prendre connaissance et copie des pièces et documents utiles à l’exécution de sa mission détenus par des autorités ou établissements publics. Si ces pièces sont détenues par des autorités judiciaires, l’inspection peut se faire si elle n’est pas de nature à compromettre le secret et le déroulement de l’instruction judiciaire.",
+      "text_sha256": "93b05471dbadfe1e8fe9c9fa9f1dde12e6bb1a294ce6a35ac28ffcb6f91df767",
+      "md_span": {
+        "start": 3315,
+        "end": 4705
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_5/20110322",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-22",
+      "text_md": "Les citations sont faites par le ministère d’huissier ou par tout autre moyen d’information équivalent, à la requête du président de la commission; le délai sera de deux jours au moins, sauf en cas d’urgence.",
+      "text_sha256": "5003c1946466b3d34142fd17b7962c9becd89cbfdae44bc31d4d83a414e11fa2",
+      "md_span": {
+        "start": 4740,
+        "end": 4948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_6/20110322",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-22",
+      "text_md": "Le président de la commission aura la police des séances. Il l’exerce dans les limites des pouvoirs attribués aux présidents des cours et tribunaux.",
+      "text_sha256": "c218bb3c48f8b8660c52cb9a5172ffc94200386bd80ca9c9831648f6f483c8d7",
+      "md_span": {
+        "start": 4983,
+        "end": 5131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_7/20110322",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-22",
+      "text_md": "Les outrages et les violences envers les membres de la Chambre des Députés qui procèdent ou assistent à l’enquête sont punis conformément aux dispositions du chap. II, titre V. livre II du Code pénal, concernant les outrages et les violences envers les ministres, les membres de la Chambre des Députés et les dépositaires de l’autorité et de la force publique.",
+      "text_sha256": "8352f69255c55a6288138a7074e4c4210775a683507808681dec38ad0be6c0fd",
+      "md_span": {
+        "start": 5166,
+        "end": 5526
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_8/20230703",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-07-03",
+      "text_md": "Les témoins, les interprètes et les experts sont soumis, devant la commission, aux mêmes obligations que devant le juge d’instruction; en cas de refus ou de négligence d’y satisfaire, ils sont passibles des mêmes peines déterminées par le Code pénal.\n\nLe serment sera prêté d’après la formule usitée devant les tribunaux répressifs. Tout témoin qui, en faisant une déclaration conforme à la vérité, pourrait s’exposer à des poursuites pénales, peut refuser de témoigner.\n\nUne personne faisant l’objet d’une instruction judiciaire peut être citée comme témoin pour être entendue sur des faits, pratiques et procédures qui ne font pas l’objet de son inculpation.\n\nLa commission peut décider d'entendre une personne à titre de simple renseignement sans que sa déposition ait lieu sous serment.\n\nLes personnes entendues par la commission d’enquête peuvent prendre connaissance du verbatim de leur audition. Aucune correction ne peut être apportée au verbatim. Toutefois, l’intéressé peut faire part de ses observations par écrit. Ces observations sont soumises à la commission, qui peut décider d’en faire état dans son rapport.",
+      "text_sha256": "a6c886cad5ab9f6aa49b4e7dbe190d8f2a1c27d3735aeb7c9151e71bd05b3edb",
+      "md_span": {
+        "start": 5561,
+        "end": 6685
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_9/20110322",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-22",
+      "text_md": "Les dispositions du Code pénal relatives au faux témoignage et à la subornation de témoins, sont applicables aux témoins, interprètes et experts entendus par la commission d’enquête.",
+      "text_sha256": "4a9dd8a72fe1ccf4df35cd2d770fa1df66a5e4bf69e1c64b4a297898e6402211",
+      "md_span": {
+        "start": 6720,
+        "end": 6902
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_10/20110322",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-22",
+      "text_md": "Les indemnités dues aux personnes dont le concours a été requis dans l’enquête, sont réglées conformément au tarif des frais en matière civile.",
+      "text_sha256": "bbac914939a44b5adef59d078748555c32b82e5ce3e2ae4a03425bda187f4efb",
+      "md_span": {
+        "start": 6939,
+        "end": 7082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_11/20110322",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-22",
+      "text_md": "Les dépenses résultant de l’enquête sont imputées sur le budget de la Chambre des Députés.",
+      "text_sha256": "e4fbc0aab324179f23647558edee55b12a07e0c2cc282ca525c70018410c949e",
+      "md_span": {
+        "start": 7119,
+        "end": 7209
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_12/20230703",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-07-03",
+      "text_md": "Les procès-verbaux ou extraits de procès-verbaux contenant des indices d'infraction sont soumis au Procureur d'État territorialement compétent pour y être donnée telle suite que de droit. Il en est de même des documents et pièces dont la commission a pu prendre connaissance.\n\nLa commission d'enquête présente un rapport public sur ses travaux. Elle y acte ses conclusions et formule, le cas échéant, ses observations quant aux responsabilités que l'enquête révèle et ses propositions sur une modification de la législation. Ce rapport donne lieu à un débat en séance publique à la Chambre des Députés, qui en tire les conclusions.\n\nSi la commission d’enquête ne parvient pas à un rapport consensuel, les avis minoritaires sont intégrés dans le rapport.\n\nLa mission de la commission d’enquête prend fin par le dépôt de son rapport.",
+      "text_sha256": "1da6d36545e7130ef83381daf23c343413812b50eb39421d018d2d40845c84ed",
+      "md_span": {
+        "start": 7246,
+        "end": 8077
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_13/20230703",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-07-03",
+      "text_md": "La mission de la commission d’enquête prend fin au moment où la Chambre des Députés se réunit conformément à l’article 67 de la Constitution.",
+      "text_sha256": "b3ad18b39226969a31d76f5dcfd48ef74b30340c1cf5ebae253db677592a73d4",
+      "md_span": {
+        "start": 8114,
+        "end": 8255
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo",
+          "text": "Constitution"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2011-02-27-n3:2023-07-03#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/art_14/20110322",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-03-22",
+      "text_md": "La loi du 18 avril 1911 sur les enquêtes parlementaires est abrogée.",
+      "text_sha256": "f97a571faaffefc371254e67d324f86fc23a92e6ad16a1aeb7f5e1df6e2f3b10",
+      "md_span": {
+        "start": 8292,
+        "end": 8360
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1911/04/18/n1",
+          "text": "loi du 18 avril 1911"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

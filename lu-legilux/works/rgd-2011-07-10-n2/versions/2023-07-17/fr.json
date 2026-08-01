@@ -1,0 +1,98 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-07-10-n2:2023-07-17",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/07/2025 : Règlement grand-ducal du 10 juillet 2011 fixant la liste des spécialités en médecine et médecine dentaire reconnues au Luxembourg.",
+  "valid_from": "2023-07-17",
+  "valid_to": "2025-07-21",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-07-10-n2/versions/2023-07-17/fr.xml",
+    "sha256": "f6f1fa6b01ea2370c3cec2c8ca9274a9b744f71d49b597adfb23c9fe18f93b8a",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/10/n2/consolide/20230717/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-07-10-n2:2023-07-17#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/07/10/n2/art_1er/20230717",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-07-17",
+      "text_md": "Les disciplines reconnues comme spécialités en médecine sont les suivantes:\n\n1. Anesthésiologie\n2. Allergologie\n3. Anatomie pathologique\n4. Biologie clinique\n5. Cardiologie\n6. Chimie biologique\n7. 6*bis*.\n8. Chirurgie dentaire, orale et maxillo-faciale (formation médicale de base et formation dentaire)\n9. Chirurgie des vaisseaux\n10. Chirurgie plastique\n11. Chirurgie gastro-entérologique\n12. Chirurgie générale\n13. Chirurgie maxillo-faciale (formation de base de médecine)\n14. Chirurgie pédiatrique\n15. Chirurgie thoracique\n16. Dermatologie\n17. Dermato-vénérologie\n18. Endocrinologie\n19. Gastro-entérologie\n20. Gériatrie\n21. Gynécologie et obstétrique\n22. Hématologie biologique\n23. Hématologie générale\n24. Immunologie\n25. Maladies contagieuses\n26. Médecine génétique\n27. Médecine interne\n28. Médecine du travail\n29. Médecine nucléaire\n30. Médecine physique et de réadaptation\n31. Médecine tropicale\n32. Microbiologie-bactériologie\n33. Néphrologie\n34. Neurochirurgie\n35. Neurologie\n36. Neurophysiologie clinique\n37. Neuropsychiatrie\n38. Oncologie médicale\n39. Ophtalmologie\n40. Orthopédie\n41. Oto-rhino-laryngologie\n42. Pédiatrie\n43. Pharmacologie\n44. Pneumologie\n45. Psychiatrie\n46. Psychiatrie infantile\n47. Radiodiagnostic\n48. Radiologie\n49. Radiothérapie\n50. Rhumatologie\n51. Santé publique et médecine sociale\n52. Stomatologie\n53. Médecine d’urgence\n54. Urologie\n55. Vénérologie.",
+      "text_sha256": "458ddd61ab761fdb27d0a8fe36f67a92166ace076dcd62658f4a1234f53488b9",
+      "md_span": {
+        "start": 658,
+        "end": 2045
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-07-10-n2:2023-07-17#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/07/10/n2/art_2/20110718",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-07-18",
+      "text_md": "Les disciplines reconnues comme spécialités en médecine dentaire sont les suivantes:\n\n1. Orthodontie\n2. Chirurgie buccale.",
+      "text_sha256": "ba29a4cb23ce1e5bed5d9689f8438cf130009f57fd54a9e46f4efef948039c9d",
+      "md_span": {
+        "start": 2080,
+        "end": 2202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-07-10-n2:2023-07-17#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/07/10/n2/art_3/20110718",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-07-18",
+      "text_md": "Le règlement grand-ducal modifié du 10 juin 1997 portant fixation de la liste des spécialités en médecine reconnues au Luxembourg ainsi que détermination des conditions de formation à remplir en vue de la reconnaissance de ces titres est abrogé.",
+      "text_sha256": "2951b7320f991f01bc4b2ff6fc146b226e4173eece2f6920e2f698afc58bbd2a",
+      "md_span": {
+        "start": 2237,
+        "end": 2482
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1997/06/10/n2",
+          "text": "règlement grand-ducal modifié du 10 juin 1997"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-07-10-n2:2023-07-17#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/07/10/n2/art_4/20110718",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-07-18",
+      "text_md": "Notre Ministre de la Santé est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "23b3101002f17b434fc74094b84cfa7b84db02c4899afccb22a717b0d7b440e7",
+      "md_span": {
+        "start": 2517,
+        "end": 2619
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

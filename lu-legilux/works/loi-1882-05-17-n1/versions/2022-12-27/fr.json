@@ -1,0 +1,261 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27",
+  "language": "fr",
+  "title": "Version consolidée applicable au 27/12/2022 : Loi du 17 mai 1882 sur les poids et mesures.",
+  "valid_from": "2022-12-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1882-05-17-n1/versions/2022-12-27/fr.xml",
+    "sha256": "ed036c28732885afda37319006002046ab487ac4bc134d8b75b74fca9b0412e8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/20221227/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_1er/18820607",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Le système métrique décimal des poids et mesures, établi par la loi du 21 août 1816 et les arrêtés subséquents, continue d'être appliqué dans le Grand-Duché de Luxembourg, avec les modifications ci-après concernant les valeurs et les dénominations admises comme mesures d'unité.",
+      "text_sha256": "1b36794f74e61a8152f0f21fdb3df2902dcd2a4408d7f5028ac452cd7de0a2c5",
+      "md_span": {
+        "start": 566,
+        "end": 844
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1816/08/21/n1/jo",
+          "text": "loi du 21 août 1816"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_2/18820607",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les mesures d'unité admises pour les transactions, annonces et prix-courants sont:\n\n1. Pour les mesures de longueur: loi du 14 octobre 1842\n2. Pour les mesures de surface et agraires:\n3. Pour les mesures de capacité:\n4. Pour les mesures de poids:",
+      "text_sha256": "1a2d4123d0bdbeb3431d7a64d3f685e3ea9f0ddbc535aa4959e6700d06445f16",
+      "md_span": {
+        "start": 879,
+        "end": 1125
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_3/18820607",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "On pourra néanmoins se servir des dénominations suivantes comme mesure d'une valeur fixe:\n\n- livre\n- tonne\n- cord\n- lieu\n- maldre",
+      "text_sha256": "0d5dc8cdc0e45ee50fadf1f4bffd965b31699dc14e282b1ba4559692f687b2b1",
+      "md_span": {
+        "start": 1160,
+        "end": 1289
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_4/18820607",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les dénominations indiquées aux articles précédents seront exclusivement employées dans les affiches et annonces, dans les actes publics et sous seing privé, dans les registres de commerce et autres écritures produites en justice.",
+      "text_sha256": "2388de65ea68d55dd7495422e5b88a6ddb5cc124d32bfa01a2df6a93a4913ee5",
+      "md_span": {
+        "start": 1324,
+        "end": 1554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_5/18820607",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Il est défendu de posséder ou d'employer dans le commerce des poids et mesures autres que ceux établis par la loi, d'apposer sur les mesures des signes quelconques pouvant se rapporter à des mesures anciennes et de faire usage de celles-ci dans les ventes, annonces et prix-courants sous d'antres dénominations ou par l'indication de la fraction du mètre ou d'un nombre de centimètres correspondant aux dites mesures abolies.",
+      "text_sha256": "feb5f3e5bf57256032fc1925d0ee6d41ce9fd6a4fc0529e100ec6262986d8e41",
+      "md_span": {
+        "start": 1589,
+        "end": 2014
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_6/18820607",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les poids et mesures sont avant leur emploi vérifiés et poinçonnés par des fonctionnaires spéciaux ou autres, qui portent pour ces opérations le titre de vérificateur ou de vérificateur adjoint.\n\nIls sont de plus soumis à une vérification périodique.\n\nII en est de même pour les balances, bascules et autres instruments de pesage dans les délais à fixer par les arrêtés d'exécution.",
+      "text_sha256": "43b190bf95d1b5467317a8610d1ea304c4560f8aaf714f4ee898f57258546e51",
+      "md_span": {
+        "start": 2049,
+        "end": 2431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_7/18840102",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1884-01-02",
+      "text_md": "Les tonneaux et futailles employés à la vente des boissons, liquides ou autres matières porteront clairement l'indication de la contenance en litres et valeurs décimales, en caractères lisibles et indélébiles.\n\nLes vases à l'usage des consommateurs dans les lieux où l'on vend à boire, à l'exception des bouteilles et cruches fortement bouchées et des vases dont la capacité n'excède pas le demi-décilitre, doivent également porter, au moyen de gravures, d'incisions ou d'autres marques indélébiles, l'indication apparente de leur contenance.\n\nNous Nous réservons de déterminer les conditions de capacité auxquelles seront assujettis les vases qui doivent être marqués.",
+      "text_sha256": "1c66e50c9a8b1bc505a8e9d1d18529da45827311ffcd82e3b8bda5dd3fcd6694",
+      "md_span": {
+        "start": 2466,
+        "end": 3135
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_8/18820607",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Les mesures dont mention dans l'article qui précède ne seront pas poinçonnées; mais elles seront fréquemment vérifiées, soit par les vérificateurs et commis des accises, soit par les officiers et agents de la police générale et locale.\n\nA cet effet, chaque débitant de boissons et de liquides est tenu de posséder les mesures légales prescrites et de les tenir toujours à la disposition des agents vérificateurs, comme à celle des acheteurs ou des consommateurs.\n\nLes vases, verres ou litres qui ne portent pas une inscription conforme à la contenance réelle, seront saisis pour être brisés, après que leur insuffisance aura été reconnue par jugement.",
+      "text_sha256": "6c8ad0450e2338532248df23efb42da741d2bc8fc30d0336d40b4cd1e7af9db8",
+      "md_span": {
+        "start": 3170,
+        "end": 3821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_9/20140801",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Le directeur de l'Institut luxembourgeois de la normalisation, de l'accréditation, de la sécurité et qualité des produits et services, ci-après désigné le directeur est habilité à faire contrôler et rechercher les infractions aux dispositions légales et réglementaires relevant de la métrologie légale.\n\n**(2)** Outre les officiers de police judiciaire, les fonctionnaires de la Police grand-ducale et les agents de l'Administration des douanes et accises, les agents du Institut luxembourgeois de la normalisation, de l'accréditation, de la sécurité et qualité des produits et services, de la carrière supérieure de l'administration et ceux de la carrière moyenne de l'administration, ayant au moins la fonction d'inspecteur ou d'ingénieur technicien inspecteur, désignés par le directeur, sont habilités à rechercher et à constater les infractions relevant de la métrologie légale. Dans l'exercice de leurs fonctions, les agents ainsi désignés ont la qualité d'officiers de police judiciaire. Leur compétence s'étend à tout le territoire du Grand-Duché. Leurs procès-verbaux font foi jusqu'à preuve du contraire.\n\nL'article 458 du code pénal leur est applicable.\n\nAvant d'entrer en fonction ils prêtent, devant le tribunal d'arrondissement de leur domicile, le serment suivant: «Je jure de remplir mes fonctions avec intégrité, exactitude et impartialité et de garder le secret des faits qui sont venus à ma connaissance dans ou à l'occasion de l'exercice de mes fonctions.",
+      "text_sha256": "58b923ea91fd5ec84eb850d48ec18d9ee9f2607a8cecb4e371d544c5ad19b470",
+      "md_span": {
+        "start": 3856,
+        "end": 5339
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_10/20140801",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Sans préjudice des articles 31 à 39 du Code d'Instruction criminelle, les officiers de police judiciaire ainsi que les fonctionnaires visés à l'article 9 ont libre accès aux locaux, terrains, magasins, boutiques, halles, foires, marchés, lieux de production et de stockage et autres lieux où se font habituellement des transactions pour lesquelles des poids, mesures ou d'autres instruments de mesure sont employés, s'il existe des indices suffisants ou des motifs légitimes de considérer qu'un contrôle du respect des dispositions de la présente loi ou des règlements pris en son exécution s'impose. Les actions de contrôle en question doivent respecter le principe de proportionnalité par rapport aux motifs invoqués.\n\n**(2)** Dans les mêmes conditions, les fonctionnaires enquêteurs sont autorisés:\n\n1. à organiser, pour tout instrument de mesure relevant de la métrologie légale, les vérifications de conformité aux dispositions légales et réglementaires sur une échelle suffisante;\n2. à prélever à leur choix des échantillons de produits en préemballage ou d'instruments de mesure pour les soumettre à des vérifications de leur conformité aux dispositions en vigueur en matière de métrologie légale et à procéder ou à faire procéder aux étalonnages requis;\n3. à demander communication de tous livres, registres et fichiers relatifs aux instruments de mesures en vue d'en vérifier la conformité, à les copier et à en établir des extraits;\n4. à saisir et, au besoin, à mettre sous séquestre les produits et instruments de mesure qui sont de nature à comporter une non-conformité par rapport aux prescriptions de la présente loi.\n\n**(3)** Les fonctionnaires visés signalent leur présence à la ou aux personnes concernées par le contrôle, responsables des lieux visités. Ces dernières peuvent les accompagner lors de la visite.\n\nIls dressent un procès-verbal relatif aux vérifications et contrôles opérés. Une copie de ce procès-verbal est remise à la ou aux personnes visées à l'alinéa précédent.\n\n**(4)** Les personnes responsables de lieux visités ainsi que toute personne responsable de travaux ou d'une activité généralement quelconque, susceptibles de tomber sous les dispositions de la présente loi ou de ses règlements d'exécution, sont tenues, à la réquisition des fonctionnaires chargés du contrôle, de ne pas entraver les opérations auxquelles ceux-ci procèdent en vertu de la présente loi.\n\n**(5)** En cas de constatation d'un manquement aux dispositions de la législation applicable, les frais de contrôle qui ont été à la base de cette constatation de nonconformité sont mis à charge des prévenus.",
+      "text_sha256": "69ba9fd23db1451b1ec5ace9d89239bd3cb2eff9a5741f09504c5a10b38f635d",
+      "md_span": {
+        "start": 5376,
+        "end": 7996
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d'Instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10bis_20221227",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_10bis_20221227",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_10bis/20221227",
+      "type": "article",
+      "num": "Art. 10bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-27",
+      "text_md": "**(1)** Est punie d'une amende de 251 euros à 25.000 euros, d'une peine d'emprisonnement de huit jours à un an ou d'une de ces peines seulement, toute personne qui aura mis en vente, vendu, acquis, importé, détenu, utilisé, placé, appliqué ou transporté à un titre quelconque un instrument de mesure ou un produit non conforme aux prescriptions de la présente loi ou qui aura adapté un tel instrument en vue d'en altérer sa conformité aux prescriptions de la présente loi.\n\n**(2)** Toute personne qui aura entravé les opérations de contrôle dont question au paragraphe 4 de l'article 10 sera punie d'une amende de 25 euros à 250 euros.",
+      "text_sha256": "b62d968ab4ebc0807d94a823d77d11005a0535260e02772911d35f6a64c22094",
+      "md_span": {
+        "start": 8048,
+        "end": 8683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_11/18820607",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1882-06-07",
+      "text_md": "Des arrêtés royaux grand-ducaux décréteront foutes les dispositions nécessaires pour assurer l'application régulière et complète de la loi; ils régleront la forme et la composition des poids et mesures et détermineront les conditions que doivent remplir ces instruments, de même que les instruments de pesage.\n\nLes autres mesures d'exécution seront prises par le membre du Gouvernement du service afférent.",
+      "text_sha256": "755c1f83e0308701438da3288cf8c15737a755a29b327757fe1ac3195295da1e",
+      "md_span": {
+        "start": 8720,
+        "end": 9126
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/art_12/20221227",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-12-27",
+      "text_md": "Des règlements grand-ducaux déterminent:\n\n1. les méthodes de contrôle métrologique et de vérification pour les produits en préemballages et pour les instruments de mesure fabriqués neufs, transformés, réparés et ceux en usage, de même que les conditions techniques et caractéristiques métrologiques auxquelles doivent satisfaire les produits en préemballages et les instruments de mesure lors des opérations de contrôle et de vérification;\n2. les modalités relatives à l'organisation des contrôles métrologiques et des vérifications primitives et ultérieures des instruments de mesure, en ce qui concerne l'assujettissement, la périodicité, les marques de contrôle et de scellement ainsi que les conditions selon lesquelles certaines tâches relevant du service de métrologie peuvent être déléguées à des organismes tiers et les critères à observer par ces organismes;\n3. le tarif des rémunérations à percevoir pour les diverses opérations de contrôle et vérifications opérées par le service de métrologie ainsi que pour la mise à disposition de poids et masses étalons et autres prestations accessoires.",
+      "text_sha256": "2691ec5fae5f83a4f65276896789521a76c06ff40e9c2f5a02582987cbb49556",
+      "md_span": {
+        "start": 9163,
+        "end": 10266
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

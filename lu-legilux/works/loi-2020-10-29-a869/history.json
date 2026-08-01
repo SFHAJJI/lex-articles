@@ -1,0 +1,63 @@
+{
+  "lex_work_id": "lu-legilux:loi-2020-10-29-a869",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2021-07-15",
+        "valid_to": "2021-12-19",
+        "text_sha256": "53d74edd59ffa11253cb0741c1eb7bc6dd96c896b128e53b2eac582ff4005527",
+        "in_version": "lu-legilux:loi-2020-10-29-a869:2021-07-15",
+        "article_valid_from": "2021-07-15"
+      },
+      {
+        "valid_from": "2021-12-20",
+        "valid_to": "2022-03-31",
+        "text_sha256": "759a8ac107d5777ee2d623e8af1a5a8e531abc909841e213e5cf0dac290ddd47",
+        "in_version": "lu-legilux:loi-2020-10-29-a869:2021-12-20",
+        "article_valid_from": "2021-12-20"
+      },
+      {
+        "valid_from": "2022-04-01",
+        "valid_to": null,
+        "text_sha256": "3837597f5401e1b236dc9b3c4612c9f98fda38f2b7aaaac26de026fe15f9b591",
+        "in_version": "lu-legilux:loi-2020-10-29-a869:2022-04-01",
+        "article_valid_from": "2022-04-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2021-07-15",
+        "valid_to": null,
+        "text_sha256": "9de5d1dbd4873c71d42937f6138c143aa94000dd1bfa6c102c0ee69f82f0e5e5",
+        "in_version": "lu-legilux:loi-2020-10-29-a869:2021-07-15",
+        "article_valid_from": "2020-10-29",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2021-07-15",
+        "valid_to": null,
+        "text_sha256": "6a3f20d3b98747efc077a793212fc9855534fe5d174af251e0b2e04fadcb97fe",
+        "in_version": "lu-legilux:loi-2020-10-29-a869:2021-07-15",
+        "article_valid_from": "2020-10-29",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2021-07-15",
+        "valid_to": null,
+        "text_sha256": "3c981a9fefbd2c13e983f8a7b8097853247eff1564d698ac6e8e3078a0979896",
+        "in_version": "lu-legilux:loi-2020-10-29-a869:2021-07-15",
+        "article_valid_from": "2020-10-29",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

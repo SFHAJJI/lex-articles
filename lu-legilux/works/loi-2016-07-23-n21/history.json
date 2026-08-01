@@ -1,0 +1,67 @@
+{
+  "lex_work_id": "lu-legilux:loi-2016-07-23-n21",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2018-08-20",
+        "valid_to": null,
+        "text_sha256": "d39554dfdcc0a3f61773f8ccc3910371c5a760949ac2938eaed7b56f7bd2b60f",
+        "in_version": "lu-legilux:loi-2016-07-23-n21:2018-08-20",
+        "article_valid_from": "2016-11-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2018-08-20",
+        "valid_to": null,
+        "text_sha256": "29bccb753a91f5dd335015572be72fe8fd20cdd0035d3c780d597db9698c656a",
+        "in_version": "lu-legilux:loi-2016-07-23-n21:2018-08-20",
+        "article_valid_from": "2016-11-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2018-08-20",
+        "valid_to": null,
+        "text_sha256": "e03464768fcd216c758e0b670f6e050f4f7ac55ce99b4bbc7883209a00db2e39",
+        "in_version": "lu-legilux:loi-2016-07-23-n21:2018-08-20",
+        "article_valid_from": "2018-08-20"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2018-08-20",
+        "valid_to": null,
+        "text_sha256": "d240b4ccdb366e12d4184da88c094b1c630d0190500bd3f67e0d051f79d56013",
+        "in_version": "lu-legilux:loi-2016-07-23-n21:2018-08-20",
+        "article_valid_from": "2018-08-20"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2018-08-20",
+        "valid_to": null,
+        "text_sha256": "6adcd5a9562af9028866aada062e39a8ba89ee3ddce7df42a1e5c19d9d33c3e6",
+        "in_version": "lu-legilux:loi-2016-07-23-n21:2018-08-20",
+        "article_valid_from": "2018-08-20"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2018-08-20",
+        "valid_to": null,
+        "text_sha256": "08c6b4e5a8787eb6e3a39278238772e4ba860e78abde8656ed1afa5e3a7b9f56",
+        "in_version": "lu-legilux:loi-2016-07-23-n21:2018-08-20",
+        "article_valid_from": "2016-11-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

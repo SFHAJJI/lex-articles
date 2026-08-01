@@ -1,0 +1,322 @@
+{
+  "lex_work_id": "lu-legilux:loi-2020-06-20-a542",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_10": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "014b406f683e81b1ffa4700cfe0c833b692332912184634e78d637fdcba2078d",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-06-25",
+        "validity_conflict": true
+      }
+    ],
+    "art_10_20201222": [
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": "2021-08-17",
+        "text_sha256": "014b406f683e81b1ffa4700cfe0c833b692332912184634e78d637fdcba2078d",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      }
+    ],
+    "art_10_20210818": [
+      {
+        "valid_from": "2021-08-18",
+        "valid_to": "2021-12-19",
+        "text_sha256": "014b406f683e81b1ffa4700cfe0c833b692332912184634e78d637fdcba2078d",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2021-08-18",
+        "article_valid_from": "2020-12-22",
+        "validity_conflict": true
+      }
+    ],
+    "art_10_20211220": [
+      {
+        "valid_from": "2021-12-20",
+        "valid_to": null,
+        "text_sha256": "014b406f683e81b1ffa4700cfe0c833b692332912184634e78d637fdcba2078d",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2021-12-20",
+        "article_valid_from": "2020-12-22",
+        "validity_conflict": true
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "08dcd21f5e511aff4389a0126e86b87a93a2c347919e3be887cc0e3061b1be51",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-06-25",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": null,
+        "text_sha256": "f793c1b7c032df5f287e7800634902e4e1cf546c733d7e8155c7d13957bd8733",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      }
+    ],
+    "art_11bis": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": null,
+        "text_sha256": "38c5c3d1f7c6c38c8bf33a23608df44cba1fa5bd3743a93613eb4d8689734a6a",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-07-28"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": null,
+        "text_sha256": "3c981a9fefbd2c13e983f8a7b8097853247eff1564d698ac6e8e3078a0979896",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-06-25",
+        "validity_conflict": true
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "5ecca546e313e0ab8f35e16deae24ff833aa676a541e166047c50cda031b1f1c",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-06-25",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": "2021-08-17",
+        "text_sha256": "e85ab7ab1b1ca713a7e7590af1b13eec8c5ec66c81654a2bec52063577f3256d",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      },
+      {
+        "valid_from": "2021-08-18",
+        "valid_to": "2021-12-19",
+        "text_sha256": "10476a1c0c8f4138af6e4bcbaec9c45373b80baf7a60b1766b67fbe511920a16",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2021-08-18",
+        "article_valid_from": "2021-08-18"
+      },
+      {
+        "valid_from": "2021-12-20",
+        "valid_to": null,
+        "text_sha256": "284994017b5bd9716034cfcf141f24ca2d986f95ea21f0f1252ee672e78e2a20",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2021-12-20",
+        "article_valid_from": "2021-12-20"
+      }
+    ],
+    "art_1er": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "52b4a1a33ad5b3b1f3e58a320d6b036e73823c1d21398adbbf2e27f9c4e760b4",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-07-28"
+      },
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": null,
+        "text_sha256": "853ae02dff4539f52de6f90b24fb63778d53c86e6603deaf96c77e01c213594d",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "3149ab44c4766e29273a950d8cc0f291e9a4a0d6af8bf919f221b79a1142a7ce",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-06-25",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": null,
+        "text_sha256": "7f0440119cb1d6898477acb74863a5787ee3705b79648c13e1e3cc1122019344",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": null,
+        "text_sha256": "c46006f4cf9bf1fb1202e5e5a84459f4545279991d2a238cb06d4ced1afa01a7",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-06-25",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": null,
+        "text_sha256": "52ba324860146a21ec9627c02de4cd4c06d1d29f2a1638fe7f230985c83a5f86",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-06-25",
+        "validity_conflict": true
+      }
+    ],
+    "art_5_20200728": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "7e8f8c89698d3374bfbdc7605c8b359cfa64307f8983b5d08ef830296c86263b",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-07-28"
+      }
+    ],
+    "art_5_20201222": [
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": "2021-08-17",
+        "text_sha256": "7e8f8c89698d3374bfbdc7605c8b359cfa64307f8983b5d08ef830296c86263b",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-07-28",
+        "validity_conflict": true
+      }
+    ],
+    "art_5_20210818": [
+      {
+        "valid_from": "2021-08-18",
+        "valid_to": "2021-12-19",
+        "text_sha256": "7e8f8c89698d3374bfbdc7605c8b359cfa64307f8983b5d08ef830296c86263b",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2021-08-18",
+        "article_valid_from": "2020-07-28",
+        "validity_conflict": true
+      }
+    ],
+    "art_5_20211220": [
+      {
+        "valid_from": "2021-12-20",
+        "valid_to": null,
+        "text_sha256": "7e8f8c89698d3374bfbdc7605c8b359cfa64307f8983b5d08ef830296c86263b",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2021-12-20",
+        "article_valid_from": "2020-07-28",
+        "validity_conflict": true
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "e4f50110af5fbe698b54754d67164905d1c6aa3b3f81c9360c3a803c976f717e",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-07-28"
+      },
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": null,
+        "text_sha256": "89e1d6d1403024b09d747e0714b27318d7a9733ca2895b3d84ac9602c97e1bf0",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "019be4f16add016e05430f91bdd3373d094e149d5d8914075451171ab25ee269",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-07-28"
+      },
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": null,
+        "text_sha256": "e24035228f4bbc8e07ae5ffb4a3b6bb45dd709ed3bb55ed8a6ef7d9fcdc8ff65",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "925d814cfcb3b8b605f40887f18eed4a07ff23a1b3a86fdb9161958a9f7f4299",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-07-28"
+      },
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": null,
+        "text_sha256": "0cda6a4a35f7b0d1910edf871ccde4d05706b59a7daf9259b2244099dc215b7e",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2020-07-28",
+        "valid_to": "2020-12-21",
+        "text_sha256": "fd03e43ae9758adb3a3cbb7e71d43d48e3316c3def0e3c2de9a16802ae4081f3",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+        "article_valid_from": "2020-06-25",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2020-12-22",
+        "valid_to": null,
+        "text_sha256": "4cb3842e93a8428bf3e957f3ebfa0f03bacb7199d849dd93b5d15595848ce926",
+        "in_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+        "article_valid_from": "2020-12-22"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "renumbered",
+      "from": "art_10",
+      "to": "art_10_20201222",
+      "text_sha256": "014b406f683e81b1ffa4700cfe0c833b692332912184634e78d637fdcba2078d",
+      "at_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_5_20200728",
+      "to": "art_5_20201222",
+      "text_sha256": "7e8f8c89698d3374bfbdc7605c8b359cfa64307f8983b5d08ef830296c86263b",
+      "at_version": "lu-legilux:loi-2020-06-20-a542:2020-12-22",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_10_20201222",
+      "to": "art_10_20210818",
+      "text_sha256": "014b406f683e81b1ffa4700cfe0c833b692332912184634e78d637fdcba2078d",
+      "at_version": "lu-legilux:loi-2020-06-20-a542:2021-08-18",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_5_20201222",
+      "to": "art_5_20210818",
+      "text_sha256": "7e8f8c89698d3374bfbdc7605c8b359cfa64307f8983b5d08ef830296c86263b",
+      "at_version": "lu-legilux:loi-2020-06-20-a542:2021-08-18",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_10_20210818",
+      "to": "art_10_20211220",
+      "text_sha256": "014b406f683e81b1ffa4700cfe0c833b692332912184634e78d637fdcba2078d",
+      "at_version": "lu-legilux:loi-2020-06-20-a542:2021-12-20",
+      "basis": "identical_text"
+    },
+    {
+      "type": "renumbered",
+      "from": "art_5_20210818",
+      "to": "art_5_20211220",
+      "text_sha256": "7e8f8c89698d3374bfbdc7605c8b359cfa64307f8983b5d08ef830296c86263b",
+      "at_version": "lu-legilux:loi-2020-06-20-a542:2021-12-20",
+      "basis": "identical_text"
+    }
+  ]
+}

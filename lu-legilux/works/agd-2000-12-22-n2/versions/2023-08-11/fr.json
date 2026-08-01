@@ -1,0 +1,144 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:agd-2000-12-22-n2:2023-08-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/08/2023 : Arrêté grand-ducal du 22 décembre 2000 portant création d'une Médaille de reconnaissance pour mission à l'étranger.",
+  "valid_from": "2023-08-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/agd-2000-12-22-n2/versions/2023-08-11/fr.xml",
+    "sha256": "0ee1a5497dd190ae138b4e89d08be2a93729a6962eaaca89ed136bc0db8938e4",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/consolide/20230811/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:agd-2000-12-22-n2:2023-08-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/art_1er/20010116",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-01-16",
+      "text_md": "Il est institué une distinction honorifique militaire sous la dénomination de «Médaille de reconnaissance» pour mission à l'étranger.",
+      "text_sha256": "6da2d92618da03fbada1481b4dd558b0f3c43542b524834c6518609a565e2377",
+      "md_span": {
+        "start": 637,
+        "end": 770
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:agd-2000-12-22-n2:2023-08-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/art_2/20230811",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-11",
+      "text_md": "La Médaille de reconnaissance pour mission à l'étranger est accordée au membre de l'Armée ayant participé à une mission militaire à l'étranger d'après les critères suivants:\n\n1. la mission doit être clairement définie et arrêtée en tant que telle par règlement grand-ducal ou décision du Gouvernement en conseil;\n2. l'intéressé doit avoir séjourné en zone d'opération pendant au moins trente jours consécutifs, ou soixante jours non-consécutifs endéans une période maximale de trois ans;\n3. l'intéressé doit avoir manifesté un comportement irréprochable, n'ayant pas donné lieu à des sanctions disciplinaires importantes.\n\nUne exception au délai de 90 jours peut être faite si, pour des raisons impérieuses de service ou en cas de force majeure, la mission est interrompue ou prend fin avant le délai de 90 jours ou si la période fixée pour une mission a été, dès le départ, inférieure au délai de 90 jours.\n\nDans des cas particuliers, la Médaille de reconnaissance pour mission à l'étranger peut également être décernée à d'autres personnes de nationalité luxembourgeoise ou étrangère ayant participé à la mission militaire.\n\nDans l'ordre de préséance, la Médaille de reconnaissance en question est portée entre la Médaille des Volontaires Luxembourgeois de guerre de 1940 à 1945 et les Rubans de Campagne.",
+      "text_sha256": "39a57d271a7e7108a63e9c06eca878be56f8c19933870ab99bc216c36417894b",
+      "md_span": {
+        "start": 805,
+        "end": 2112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:agd-2000-12-22-n2:2023-08-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/art_3/20230811",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-11",
+      "text_md": "L'insigne est en argent. Il a une forme octogonale présentant à l'avers une croix avec au centre l'insigne de l'Armée et au revers l'inscription: «ARMEE LUXEMBOURGEOISE – POUR LA PAIX».\n\nUne plaquette en argent mentionnant le nom de la mission est attachée sur le ruban de la médaille pour tout séjour en zone d’opération pendant au moins trente jours consécutifs. Une plaquette avec le nom d'une nouvelle mission est ajoutée sur le ruban de la médaille en dessous de celle ou celles de la ou des missions précédentes.",
+      "text_sha256": "00d1b42116e7e00c7952b9af716141dddfdf5c95243e4d47ef0123ff23e84c45",
+      "md_span": {
+        "start": 2147,
+        "end": 2665
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:agd-2000-12-22-n2:2023-08-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/art_4/20230811",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-08-11",
+      "text_md": "Il est institué des barrettes aux couleurs nationales mentionnant le nombre total de participations en vue de récompenser les mérites de celui qui a participé à une ou plusieurs missions pendant au moins trente jours consécutifs.\n\nSeule la barrette avec un chiffre romain correspondant à la dernière participation est décernée.\n\nLe chiffre romain affichant le nombre de missions effectuées n'est porté que sur la barrette.",
+      "text_sha256": "f3bc9190d83d575ed7ffce6dcade7750ef0b9f86f784217807b6b42926f5d310",
+      "md_span": {
+        "start": 2700,
+        "end": 3122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:agd-2000-12-22-n2:2023-08-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/art_5/20010116",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-01-16",
+      "text_md": "Le membre de l'Armée reste propriétaire de la dernière Médaille de reconnaissance pour mission à l'étranger qui lui a été décernée même après la cessation du service militaire.",
+      "text_sha256": "c319c80e566135c95523525a55a16937413c8eab386646d3ba1b535f1c5a6a35",
+      "md_span": {
+        "start": 3157,
+        "end": 3333
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:agd-2000-12-22-n2:2023-08-11#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/art_6/20010116",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-01-16",
+      "text_md": "Les distinctions sont conférées par arrêté grand-ducal sur proposition de Notre ministre de la Défense.",
+      "text_sha256": "62625396fc4e45fbb2df2e2da1d639f6358ceabcfa3892462339d4332d7f5e64",
+      "md_span": {
+        "start": 3368,
+        "end": 3471
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:agd-2000-12-22-n2:2023-08-11#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/art_7/20010116",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2001-01-16",
+      "text_md": "Notre ministre de la Défense est chargé de l'exécution du présent arrêté qui sera publié au Mémorial.",
+      "text_sha256": "d1a4adde41a1f74ebb90c6b775920788c301bb5468395233ecb24be19eb0477b",
+      "md_span": {
+        "start": 3506,
+        "end": 3607
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

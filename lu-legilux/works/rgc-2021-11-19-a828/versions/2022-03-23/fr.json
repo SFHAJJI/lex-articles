@@ -1,0 +1,248 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23",
+  "language": "fr",
+  "title": "Version consolidée applicable au 12/09/2022 : Règlement du Gouvernement en Conseil du 19 novembre 2021 relatif à l’octroi d’une allocation de vie chère au titre de l’année 2022.",
+  "valid_from": "2022-03-23",
+  "valid_to": "2022-09-11",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgc-2021-11-19-a828/versions/2022-03-23/fr.xml",
+    "sha256": "b30404bbea2fbafe0770798e2ea285b9994f4a7dd7aaf05d51782d7be3f1e712",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/consolide/20220323/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_1er/20220323",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "Le Fonds national de solidarité accordera pour l’année 2022, sur demande du requérant majeur, une allocation de vie chère et une prime énergie sous forme d’un complément à l’allocation de vie chère, ci-après « le complément ».",
+      "text_sha256": "bfc24c9361314af3a68036445c3957a04c8912a3d650e83236e6e2faf5b6c9c0",
+      "md_span": {
+        "start": 663,
+        "end": 889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_2/20220323",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "**(1)** Peut prétendre à l’allocation de vie chère et au complément, toute personne qui remplit les conditions suivantes :\n\n1. bénéficier d’un droit de séjour, être inscrite au registre principal du registre national des personnes physiques et résider effectivement au lieu où est établi sa résidence habituelle ;\n2. avoir résidé au Grand-Duché de Luxembourg pendant une période de référence de 12 mois en continu précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité ;\n3. disposer seule ou ensemble avec les personnes qui vivent avec elle en communauté domestique au moment de l’introduction de la demande, d’un revenu annuel global inférieur aux limites fixées à l’article 3 ci-après.\n\nSont présumées faire partie d’une communauté domestique, toutes les personnes qui vivent dans le cadre d’un foyer commun et dont il faut admettre qu’elles disposent d’un budget commun. Les dispositions de l’article 4 (1) et (4) de la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale sont applicables.\n\nToutes les personnes faisant partie de la communauté domestique à la date du dépôt de cette demande, sont considérées comme demandeurs de l’allocation et du complément pour l’année en cours. Le requérant, au nom duquel la demande est déposée, est le demandeur principal.\n\n**(2)** L’allocation et le complément ne peuvent être demandés qu’une seule fois par année. Cette limitation s’applique également en cas de changement de la composition de ménage ou de la situation de revenu du demandeur.\n\n**(3)** Ne peut prétendre à l’allocation de vie chère et au complément :\n\n1. la personne qui a bénéficié de l’aide financière de l’État pour études supérieures au courant des 12 mois précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité ;\n2. loi modifiée du 29 août 2008\n3. la personne qui fait l’objet d’une mesure de détention préventive ou d’une peine privative de liberté, sauf pendant la période où elle est soumise au régime de la semi-liberté, qu’elle bénéficie d’une suspension de l’exécution d’une peine, d’une libération conditionnelle ou d’un placement sous surveillance électronique.",
+      "text_sha256": "4b6ea5e463a188589f0b0969e5ce08167a58ca0f954d00bb2c5ae4959d0e49d5",
+      "md_span": {
+        "start": 924,
+        "end": 3188
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/07/28/a630/jo",
+          "text": "loi modifiée du 28 juillet 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_3/20220323",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "**(1)** Pour avoir droit à l’allocation de vie chère, le revenu annuel global visé à l’article 2, paragraphe 1er, lettre c) ci-avant ne doit pas dépasser trois mille cent soixante-huit euros pour une personne seule. Cette limite de revenu est augmentée de :\n\n- mille cinq cent quatre-vingt-quatre euros pour la deuxième personne ;\n- neuf cent cinquante euros et quarante cents pour chaque personne supplémentaire dans le ménage.\n\n**(2)** Pour avoir droit au complément, le revenu annuel global visé à l’article 2, paragraphe 1er, lettre c) ci-avant ne doit pas dépasser trois mille neuf cent soixante euros pour une personne seule. Cette limite de revenu est augmentée de :\n\n- mille neuf cent quatre-vingt euros pour la deuxième personne ;\n- mille cent quatre-vingt-huit euros pour chaque personne supplémentaire dans le ménage.\n\n**(3)** Les montants prévus aux paragraphes 1 et 2 correspondent au nombre cent de l’indice pondéré du coût de la vie au 1er janvier 1948.\n\nIls sont adaptés annuellement\n\n- er\n- à toute variation du salaire social minimum.",
+      "text_sha256": "f9b7f7173af3c1a3634d5e9a2ad0d28b21585942b310dac8976c06c0ed8b9117",
+      "md_span": {
+        "start": 3223,
+        "end": 4275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_4/20220323",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "Est considéré comme revenu annuel global au sens de l’article 3 ci-dessus, l’ensemble des revenus bruts dont la communauté domestique a disposé pour une période de référence de 12 mois précédant le mois de l’introduction de la demande en obtention de l’allocation et du complément auprès du Fonds national de solidarité.\n\nSont notamment pris en compte pour la détermination des revenus de la communauté domestique :\n\n- le revenu provenant d’un travail régulier ou généralement d’une activité professionnelle quelconque ;\n- les revenus de remplacement dus au titre de la législation luxembourgeoise ou étrangère ;\n- les revenus de biens mobiliers et immobiliers ;\n- les rentes et pensions ;\n- les allocations ou prestations touchées de la part d’un organisme public ou privé, à l’exception des allocations familiales, de l’allocation de rentrée scolaire et de l’allocation de naissance ;\n- les pensions alimentaires.",
+      "text_sha256": "fc9a19a7d2fcd93a8188c9052a5f540c9c14687efd426800ea2887f02c650b2d",
+      "md_span": {
+        "start": 4310,
+        "end": 5225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_5/20220323",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "**(1)** L’allocation de vie chère est fixée à :\n\n- mille six cent cinquante-deux euros pour une personne seule ;\n- deux mille soixante-cinq euros pour une communauté de deux personnes ;\n- deux mille quatre cent soixante-dix-huit euros pour une communauté de trois personnes ;\n- deux mille huit cent quatre-vingt-onze euros pour une communauté de quatre personnes ;\n- trois mille trois cent quatre euros pour une communauté de cinq personnes et plus.\n\nLes personnes qui disposent d’un revenu qui dépasse les limites visées à l’article 3, paragraphe 1er ont droit à une allocation réduite correspondant à la différence entre les montants de l’allocation fixés à l’alinéa qui précède et la part du montant du revenu annuel adapté à l’indice qui dépasse les limites de revenu visées à l’article 3, paragraphe 1er.\n\n**(2)** Le complément est fixée à :\n\n- deux cent euros pour une personne seule ;\n- deux cent cinquante euros pour une communauté de deux personnes ;\n- trois cent euros pour une communauté de trois personnes ;\n- trois cent cinquante euros pour une communauté de quatre personnes ;\n- quatre cent euros pour une communauté de cinq personnes et plus.\n\nLes personnes qui disposent d’un revenu qui dépasse les limites visées à l’article 3, paragraphe 2 ont droit à un complément réduit correspondant à la différence entre les montants du complément fixé à l’alinéa qui précède et la part du montant du revenu annuel adapté à l’indice qui dépasse les limites de revenu visées à l’article 3, paragraphe 2.",
+      "text_sha256": "cedaf575da68834801c94cd0d7709ffbcd852598347aa2242e7a75eec7434b9d",
+      "md_span": {
+        "start": 5260,
+        "end": 6768
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_6/20220323",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "L’allocation et le complément ne sont pas portés en compte pour la détermination du revenu global annuel servant de base au calcul des prestations créées par la loi modifiée du 28 juillet 2018 relative au revenu d’inclusion sociale et par la loi modifiée du 12 septembre 2003 relative aux personnes handicapées.",
+      "text_sha256": "ebcf0c0da9a048bbb2c70f7b7bd05f59c8f4a601fdb5181bf3ded252e2492e39",
+      "md_span": {
+        "start": 6803,
+        "end": 7114
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/07/28/a630/jo",
+          "text": "loi modifiée du 28 juillet 2018"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2003/09/12/n1/jo",
+          "text": "loi modifiée du 12 septembre 2003"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_7/20220323",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "L’allocation et le complément sont exempts d’impôts et de cotisations d’assurance sociale.",
+      "text_sha256": "ac3742238001ca388f80a9670da6184c249c18f4e76c5a9066290be94b22baa3",
+      "md_span": {
+        "start": 7149,
+        "end": 7239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_8/20220323",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "**(1)** Les demandes sont à présenter sur des formulaires mis à la disposition des intéressés par le Fonds national de solidarité, par les communes et par la Ville de Luxembourg. Ainsi, le Fonds national de solidarité communique, à la fin de l’année, les données des ménages bénéficiaires de l’année en cours au Syndicat Intercommunal de Gestion Informatique afin que celui-ci mette à disposition des communes, par outil informatique, un formulaire pré-rempli complété des données communales pour les demandeurs d’une allocation de vie chère de l’année suivante. Les données des ménages bénéficiaires sont communiquées aux communes de résidence aux fins de l’attribution éventuelle d’une allocation de vie chère, suivant les règlements communaux respectifs. En cas de reconduction de la prestation, l’envoi des formulaires pré-remplis aux bénéficiaires actuels est assuré par le Fonds national de solidarité à la fin de l’année. Les demandes complétées sont à signer par tous les demandeurs majeurs d’âge, ou par leur représentant légal. En cas de signature par le représentant légal, une copie du jugement est à joindre.\n\nLes demandes en obtention de l’allocation de vie chère valent dépôt de la demande en obtention du complément.\n\n**(2)** Les demandes complètes doivent parvenir au Fonds national de solidarité entre le 1er janvier 2022 et le 30 septembre 2022 au plus tard. Le cachet de la poste fait foi.\n\n**(3)** Est obligatoirement à joindre à la demande un relevé d’identité bancaire du demandeur principal.\n\n**(4)** Une demande incomplète ne peut être considérée par le Fonds national de solidarité et sera renvoyée par envoi recommandé au demandeur. Les demandes renvoyées doivent parvenir dûment complétées au Fonds national de solidarité endéans un délai de 30 jours. Le cachet de la poste fait foi. Passé ce délai, l’allocation de vie chère et le complément sont refusés.\n\n**(5)** Tout renseignement ou document demandé par le Fonds national de solidarité lors du traitement du dossier doit parvenir de manière complète au Fonds national de solidarité endéans un délai de 30 jours. Le cachet de la poste fait foi. Passé ce délai, l’allocation de vie chère et le complément sont refusés.\n\n**(6)** Tous les actes dont la production sera la suite du présent règlement seront délivrés gratuitement avec exemption de tous droits et taxes.",
+      "text_sha256": "7a979f88c27a18a44a5451bb52b5d8855166a29b31fe8efc34646bd718dda349",
+      "md_span": {
+        "start": 7274,
+        "end": 9620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_9/20220323",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "L’allocation et le complément sont versés au requérant. Ils ne sont accordés qu’une fois par année de calendrier. L’allocation et le complément ne peuvent être ni cédés, ni mis en gage, ni saisis. L’allocation de vie chère peut être retenue jusqu’à concurrence de la moitié pour la compensation des créances que possède le Fonds national de solidarité envers les bénéficiaires.",
+      "text_sha256": "431ab597cc1545b802648e608c52a8ba971ba5d83a9d2f3b85421b595845f11a",
+      "md_span": {
+        "start": 9655,
+        "end": 10032
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_10/20220101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "Pour l’instruction de la demande, le Fonds national de solidarité a accès aux fichiers relatifs aux bénéficiaires de l’aide financière de l’État pour études supérieures qui sont résidents sur le territoire du Grand-Duché de Luxembourg ainsi qu’aux fichiers relatifs aux étrangers de la Direction de l’immigration en vue de la vérification du droit de séjour.",
+      "text_sha256": "4670bb7fc9a59db0dfb483117fd5ace8138b2d96c46388568978c8a8f85e976b",
+      "md_span": {
+        "start": 10069,
+        "end": 10427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_11/20220323",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-03-23",
+      "text_md": "Les articles 17, 17*bis*, 21 (1), 21 (4), 21 (5), 28, 29 et 30 de la loi modifiée du 30 juillet 1960 concernant la création d’un Fonds national de solidarité sont applicables sauf adaptation de la terminologie s’il y a lieu. La charge de l’allocation de vie chère et du complément incombe au Fonds national de solidarité. Lorsque, pendant la période de référence à la base du calcul de l’allocation de vie chère et du complément, un ménage a disposé de ressources qui auraient dû être prises en considération, les sommes payées en trop peuvent être récupérées à charge du demandeur principal. La restitution est obligatoire si le bénéficiaire a provoqué son attribution en alléguant des faits inexacts, ou en dissimulant des faits importants. Le Fonds national de solidarité ne peut prendre une décision concernant la restitution qu’après avoir entendu l’intéressé ou ses ayants droits soit verbalement, soit par écrit.\n\nLes décisions prises par le président du Fonds national de solidarité concernant l’octroi ou le rejet de l’allocation et du complément sont susceptibles d’une opposition dans les 40 jours qui suivent la notification de cette décision devant le comité-directeur du Fonds national de solidarité.",
+      "text_sha256": "a2bca7e21c3fc9e57f0cb237eb0e12fc892407bcfecabf5b839cb1b8920e7f4b",
+      "md_span": {
+        "start": 10464,
+        "end": 11678
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/07/30/n2/jo",
+          "text": "loi modifiée du 30 juillet 1960"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgc-2021-11-19-a828:2022-03-23#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/art_12/20220101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2022-01-01",
+      "text_md": "Le présent règlement, qui sera publié au Journal officiel du Grand-Duché de Luxembourg, entre en vigueur le 1er janvier 2022.",
+      "text_sha256": "a62ac1780491397d80aba1d61f12e4bcb60d395e31edf8d14f61e4878c687249",
+      "md_span": {
+        "start": 11715,
+        "end": 11840
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

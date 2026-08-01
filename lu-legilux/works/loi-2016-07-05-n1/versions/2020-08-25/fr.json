@@ -1,0 +1,81 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2016-07-05-n1:2020-08-25",
+  "language": "fr",
+  "title": "Version consolidée applicable au 25/08/2020 : Loi du 5 juillet 2016 autorisant le Gouvernement à participer au programme multinational «Multi-Role Tanker Transport» (MRTT).",
+  "valid_from": "2020-08-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2016-07-05-n1/versions/2020-08-25/fr.xml",
+    "sha256": "e64b86cb25aed1323772a06c6ec693d6426b8f8c7abcd5d14449dd08057aee3d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n1/consolide/20200825/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2016-07-05-n1:2020-08-25#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/05/n1/art_1er/20160709",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-09",
+      "text_md": "Le Gouvernement est autorisé à participer au programme multinational «Multi-Role Tanker Transport», qui consiste dans l'acquisition et l'opération en commun par plusieurs pays partenaires d'une capacité européenne mutualisée et multi-rôle de ravitaillement en vol, de transport et d'évacuation médicale stratégiques, sur une durée de trente ans.",
+      "text_sha256": "88e0f62cab124ac1cc7b5e9eabb09d66580298784c89c49f1ee0fd8434d8a939",
+      "md_span": {
+        "start": 648,
+        "end": 993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2016-07-05-n1:2020-08-25#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/05/n1/art_2/20200825",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-08-25",
+      "text_md": "Les dépenses occasionnées en vertu de l’article 1er ne peuvent dépasser le montant de 598 400 000 euros à prix constants aux conditions économiques de 2019 sans préjudice d’une adaptation des paiements annuels en fonction de l’évolution des conditions économiques telle que déterminée par l’évolution du déflateur PIB applicable à la zone euro.\n\nCe montant ne comprend pas la taxe sur la valeur ajoutée.",
+      "text_sha256": "1dc3d72e46ff241877b44bf360e36096c305b21e965d221b7ff5dafe43ebe60b",
+      "md_span": {
+        "start": 1028,
+        "end": 1431
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2016-07-05-n1:2020-08-25#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/05/n1/art_3/20160709",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-07-09",
+      "text_md": "Les dépenses occasionnées par la présente loi sont imputées sur le Fonds d'équipement militaire créé par l'article 2 de la loi modifiée du 16 décembre 1997 concernant la programmation financière militaire.",
+      "text_sha256": "c1de32dcad52bf410b087eaaf52e0a283d83642ef12b592eab293e58f3c92dc1",
+      "md_span": {
+        "start": 1466,
+        "end": 1671
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1997/12/16/n1",
+          "text": "loi modifiée du 16 décembre 1997"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

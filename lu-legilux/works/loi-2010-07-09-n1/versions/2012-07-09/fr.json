@@ -1,0 +1,76 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2010-07-09-n1:2012-07-09",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/07/2012 : Loi relative au Fonds européen de stabilité financière.",
+  "valid_from": "2012-07-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2010-07-09-n1/versions/2012-07-09/fr.xml",
+    "sha256": "fcff2927fedd64c9b1e1e11f4c87d5d4534378ffa6b1195397889f46549f983e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/consolide/20120709/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2010-07-09-n1:2012-07-09#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/art_1er/20110929",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-09-29",
+      "text_md": "Le Gouvernement est autorisé à accorder la garantie de l'Etat pour un montant maximal de 2 milliards d'euros à la société de droit luxembourgeois «European Financial Stability Facility S.A.», créée dans le cadre de l'instrument européen de stabilisation de la zone euro.",
+      "text_sha256": "bd24d7dfa0f1219bda19e9c87ccdad66aa30369f2b32a43312d8a888fb59017b",
+      "md_span": {
+        "start": 577,
+        "end": 847
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2010-07-09-n1:2012-07-09#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/art_2/20100718",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-07-18",
+      "text_md": "La société, mentionnée à l'article 1er, est exempte de tous droits, impôts et taxes directs, droits de timbre, d'enregistrement, de transcription et autres impôts et taxes indirects, prélevés au profit de l'Etat et des communes.",
+      "text_sha256": "cbf43e24a6cc6eac199802d4079b4ac950119978804edf37050531d44b87971c",
+      "md_span": {
+        "start": 882,
+        "end": 1110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2010-07-09-n1:2012-07-09#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/art_3/20120709",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-07-09",
+      "text_md": "Les biens, les financements et les avoirs de la société, où qu'ils soient situés et quel qu'en soit le détenteur, utilisés aux fins des opérations de financement des États membres de l'Union européenne en difficultés financières dont la devise est l'euro, ne peuvent faire l'objet d'aucune forme de saisie ou de mainmise.",
+      "text_sha256": "13ed509fca7d0816861dd322109fc9a1c2a434fd801e0706825df300d7320892",
+      "md_span": {
+        "start": 1145,
+        "end": 1466
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

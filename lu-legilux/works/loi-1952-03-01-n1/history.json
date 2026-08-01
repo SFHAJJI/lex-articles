@@ -1,0 +1,203 @@
+{
+  "lex_work_id": "lu-legilux:loi-1952-03-01-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": "1991-12-31",
+        "text_sha256": "0baace185718f0a34aba93a00f4f1559f6c8fe38745d48b54fd2d9d3701ca82d",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+        "article_valid_from": "1952-03-05"
+      },
+      {
+        "valid_from": "1992-01-01",
+        "valid_to": null,
+        "text_sha256": "9e907d7605bed5a7b5e07b9a73e02f500eba5809273db6177175631185f942ef",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1992-01-01",
+        "article_valid_from": "1952-03-05",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": null,
+        "text_sha256": "69d8405e5872075e21c22b281cb676a6a9ce23fff8668d81460fb43dff955f09",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+        "article_valid_from": "1952-03-05"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": null,
+        "text_sha256": "bb27b831e0200afa5b218f8f86d401396bdfb4c9a3dc6e1109ddff5447f780e6",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+        "article_valid_from": "1952-03-05"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": null,
+        "text_sha256": "45994abd2ab298c78655f8d13c069f4cbe5f685d0ad2f4be91e073ea74968cad",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+        "article_valid_from": "1952-03-05"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": null,
+        "text_sha256": "c6e1a6dbbfa10103c8ed6d9b616ffc1e2237831a67efaed2b6022fd5e734132e",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+        "article_valid_from": "1952-03-05"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": "1991-12-31",
+        "text_sha256": "e697852af9ee4b0d8b76d6624357c568d2603a7bfb8003abe398a963a6d7cadb",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+        "article_valid_from": "1952-03-05"
+      },
+      {
+        "valid_from": "1992-01-01",
+        "valid_to": "1992-12-31",
+        "text_sha256": "9541218e92d8738ca5a52b6fd8393b9ce5bb953bc18d3e518fbddf844908ffe0",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1992-01-01",
+        "article_valid_from": "1992-01-01"
+      },
+      {
+        "valid_from": "1993-01-01",
+        "valid_to": "2002-12-31",
+        "text_sha256": "9408edf24dea8ccf949ebc235111b122f05af3e4f415f03af8586f4fcee5d5d6",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1993-01-01",
+        "article_valid_from": "1993-01-01"
+      },
+      {
+        "valid_from": "2003-01-01",
+        "valid_to": "2007-12-31",
+        "text_sha256": "9d5fcd069e65eb37086cea267b200aae5a9ca8a0f2a1be29aacd241dbf2f5647",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:2003-01-01",
+        "article_valid_from": "1993-01-01",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2008-01-01",
+        "valid_to": null,
+        "text_sha256": "05cacc997669b9407d81eb59643a2363fb410edcbd2e7e03ec218947130004f7",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:2008-01-01",
+        "article_valid_from": "2008-01-01"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": "1991-12-31",
+        "text_sha256": "a35efae64879c286cc6592550ac6834ba25b3b5b0957c3426f8a312eb21261f4",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+        "article_valid_from": "1952-03-05"
+      },
+      {
+        "valid_from": "1992-01-01",
+        "valid_to": "1992-12-31",
+        "text_sha256": "007d36a17d1082f56f270b0af1f47bf76db5ab8e1b3f0bc773fcb7d501255d3b",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1992-01-01",
+        "article_valid_from": "1992-01-01"
+      },
+      {
+        "valid_from": "1993-01-01",
+        "valid_to": "1996-12-31",
+        "text_sha256": "cfecbc64bed25d07ed2f5231c51284bc28d8325bd1707cb3ec465288fceb75f6",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1993-01-01",
+        "article_valid_from": "1993-01-01"
+      },
+      {
+        "valid_from": "1997-01-01",
+        "valid_to": "1999-09-15",
+        "text_sha256": "f98efaac8cfb8f7d4e0ab26592b2e0a2b5a5dd848878306bb3be37d826662690",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1997-01-01",
+        "article_valid_from": "1997-01-01"
+      },
+      {
+        "valid_from": "1999-09-16",
+        "valid_to": "2016-12-31",
+        "text_sha256": "09426c6a3f19ca427f43505fc9003d7132ba3fa44fced077c7bc818b268739ca",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1999-09-16",
+        "article_valid_from": "1999-09-16"
+      },
+      {
+        "valid_from": "2017-01-01",
+        "valid_to": null,
+        "text_sha256": "a55e08208c14e5a6e28d7c9a68f77604f22038b5b30baba34a1c3444a63f7760",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:2017-01-01",
+        "article_valid_from": "2017-01-01"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": "2002-12-31",
+        "text_sha256": "014fe1cc316db4263c9977e51280c6d2b214b9083cf75ca1e11a924dbb78a0df",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+        "article_valid_from": "1952-03-05"
+      },
+      {
+        "valid_from": "2003-01-01",
+        "valid_to": "2016-12-31",
+        "text_sha256": "26866307c7852ee23154a51330fed84f5a678579afa0c2792f5a015765088732",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:2003-01-01",
+        "article_valid_from": "2003-01-01"
+      },
+      {
+        "valid_from": "2017-01-01",
+        "valid_to": null,
+        "text_sha256": "4c0ad1c357a646581ae387fd3f43d1c3fee7850561917dbc67becbd792c44ed7",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:2017-01-01",
+        "article_valid_from": "2017-01-01"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2017-01-01",
+        "valid_to": null,
+        "text_sha256": "45944a007c1ca31e0cad2f78ebf782187b2fd8946c49e1a0676876fa01af96cb",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:2017-01-01",
+        "article_valid_from": "2017-01-01"
+      }
+    ],
+    "attachment_1": [
+      {
+        "valid_from": "1952-03-05",
+        "valid_to": "1992-12-31",
+        "text_sha256": "9b66274e4bf95b300c79c9766c1958af0937d4fe0ba77e5d5f9d23705fa263b7",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1952-03-05"
+      },
+      {
+        "valid_from": "1993-01-01",
+        "valid_to": "2002-12-31",
+        "text_sha256": "f7786580089d7203d57c71f3d2a63c6836f3a827ee17e2a396bbbc44bd083ce8",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:1993-01-01"
+      },
+      {
+        "valid_from": "2003-01-01",
+        "valid_to": null,
+        "text_sha256": "cb73757cb3c6803c4249f6552e26fd6309b502243c3b7be98ef66931ba69b460",
+        "in_version": "lu-legilux:loi-1952-03-01-n1:2003-01-01"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "art_9",
+      "at_version": "lu-legilux:loi-1952-03-01-n1:2017-01-01"
+    }
+  ]
+}

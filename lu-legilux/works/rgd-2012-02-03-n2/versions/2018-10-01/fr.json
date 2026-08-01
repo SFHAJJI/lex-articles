@@ -1,0 +1,700 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/10/2018 : Règlement grand-ducal du 3 février 2012 fixant le régime des congés des fonctionnaires et employés de l'Etat.",
+  "valid_from": "2018-10-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2012-02-03-n2/versions/2018-10-01/fr.xml",
+    "sha256": "6df3205ef86c137e6acc28b4396e017af364109e6a72882353df5da13593bc26",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/consolide/20181001/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_1er/20181001",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er. ** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Les dispositions du présent règlement s’appliquent aux fonctionnaires et employés de l’État ainsi qu’aux fonctionnaires stagiaires conformément à l’article 1er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État, dénommée ci-après «le statut général».\n\nElles s’appliquent sous réserve des dispositions légales ou réglementaires existantes plus favorables. Elles ne portent notamment pas préjudice à l’application des dispositions légales ou réglementaires concernant le congé annuel des magistrats de l’ordre judiciaire, du personnel enseignant et du personnel des services extérieurs du Ministère des Affaires étrangères, du Commerce extérieur et de la Coopération en fonctions à l’étranger.\n\nLe personnel soumis aux dispositions du présent règlement est dénommé par la suite «agent».\n\nDans le cadre du présent règlement, les termes «partenaire» et «partenariat» sont à comprendre dans le sens de la loi modifiée du 9 juillet 2004 relative aux effets légaux de certains partenariats.",
+      "text_sha256": "f6312c924bc5349e1adde35e23e25555e311d3cb045ab2e3bc9f3d885d14b084",
+      "md_span": {
+        "start": 683,
+        "end": 1705
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2004/07/09/n3/jo",
+          "text": "loi modifiée du 9 juillet 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_2/20181001",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er. ** — **Dispositions générales**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1740,
+        "end": 1740
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_3/20181001",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**2.** L’année de congé est l’année de calendrier.",
+      "text_sha256": "4f674c00c729c3251ff4701e718a15b810fe6d755b013ed6cfb90e934d21abc6",
+      "md_span": {
+        "start": 1828,
+        "end": 1878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_4/20181001",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1913,
+        "end": 1913
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_5/20181001",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1948,
+        "end": 1948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_6/20181001",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "L’agent qui quitte le service ou qui entre en service au courant de l’année a droit au congé de récréation proportionnellement à la durée de son activité de service pendant l’année en cours, à raison d’un douzième par mois de service.\n\nLes fractions de mois dépassant quinze jours de calendrier sont comptées comme mois de service entier. Les fractions de mois en-dessous de quinze jours de calendrier sont comptées comme demi-mois.\n\nLes fractions de congé supérieur à la demi-journée sont considérées comme jours entiers. Les fractions de congé inférieures à la demi-journée sont considérées comme demi-journée.",
+      "text_sha256": "7e9445284ece0c89bb4b2ac3b6c850261bc6f0f7b0479965ea9ec7329ae8fe07",
+      "md_span": {
+        "start": 1983,
+        "end": 2595
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_7/20181001",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Lorsque la durée d’un congé sans traitement se prolonge au-delà de l’année en cours, la partie du congé de récréation correspondant à vingt-cinq jours qui n’a pu être accordée à l’agent durant l’année en cours est reportée sur l’année au cours de laquelle l’agent reprend ses fonctions au service de l’État.",
+      "text_sha256": "5c2f3ef660f46decf328aa09f8fb145a81d26858cd0398c54637d7df7e63fbfe",
+      "md_span": {
+        "start": 2630,
+        "end": 2937
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_8/20181001",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Si durant son congé annuel, l’agent est atteint d’une maladie qui l’aurait mis dans l’impossibilité d’assurer son service s’il ne s’était pas trouvé en congé, la période de maladie n’est pas imputée sur le congé de récréation, à la condition que l’intéressé ait sollicité immédiatement - le cas échéant par téléphone - un congé de maladie auprès de son supérieur hiérarchique. La demande en question, qui doit mentionner l’adresse exacte du séjour de l’agent malade, est à compléter par une attestation médicale justifiant l’incapacité de travail de l’intéressé.",
+      "text_sha256": "b68141e0b4baffcc080cab510e25f1acfe87dd8e46deb176da08fc7fb6501739",
+      "md_span": {
+        "start": 2972,
+        "end": 3534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_9/20181001",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le chef d’administration ou son délégué accordent le congé de récréation.\n\nPour les chefs d’administration, cette décision est prise par le ministre du ressort.",
+      "text_sha256": "2a006a0225b8c48f6215ee00dbb67c8c3ad5c165c2bc2ede22f2154e16b68e70",
+      "md_span": {
+        "start": 3569,
+        "end": 3729
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_10/20181001",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le congé de récréation est accordé en principe selon le désir de l’agent à moins que les nécessités du service ou les désirs justifiés d’autres agents ne s’y opposent.\n\nSous réserve d’une nécessité impérieuse de service, est notamment à considérer comme désir justifié dans le sens de l’alinéa qui précède celui de l’agent ayant ses enfants en âge scolaire et ayant demandé de prendre tout ou partie de son congé de récréation pendant la période des vacances scolaires.",
+      "text_sha256": "32a5fafcf1a9f7fcd732231e100f500abba3d44059216d0786b2924fb60496e6",
+      "md_span": {
+        "start": 3766,
+        "end": 4235
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_11/20181001",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le congé annuel de récréation peut être pris en une seule ou en plusieurs fois et peut être fractionné en heures selon les convenances de l’agent et compte tenu des nécessités du service.\n\nSi le solde négatif dans le cadre de l’horaire de travail mobile est imputé sur le congé de récréation de l’année en cours, celui-ci peut, s’il y a lieu, être fractionné en minutes.\n\nDans tous les cas, le congé annuel de récréation doit comporter au moins une période de deux semaines consécutives.",
+      "text_sha256": "c9698af4c92836aed4fbec762d6f12c72847a50f6499e171a4bce81df89dd4fd",
+      "md_span": {
+        "start": 4272,
+        "end": 4759
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_12/20181001",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "L’agent qui a décidé de ne pas affecter sur son compte épargne-temps la partie du congé de récréation visée à l’article 5, point 1°, de la loi du 1er août 2018 portant fixation des conditions et modalités d’un compte épargne-temps dans la Fonction publique, peut se voir accorder ce congé jusqu’au 31 mars de l’année suivante.",
+      "text_sha256": "3421cff962bfc88e5ab357cb907d06e07cc45fdfa808ad1ef91942e5b347a56c",
+      "md_span": {
+        "start": 4796,
+        "end": 5122
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2018/08/01/a681/jo",
+          "text": "loi du 1er août 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_13/20181001",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Exceptionnellement, le congé accordé à l’agent peut être différé pour des raisons impérieuses de service.",
+      "text_sha256": "a49649cc902d1f9f28875aee0b10de51e458fe94583eb9d37132a106d48fbfec",
+      "md_span": {
+        "start": 5159,
+        "end": 5264
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_14/20181001",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2.** — **Congé annuel de récréation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Si l’agent est rappelé ou ne peut partir en congé pour des raisons impérieuses de service, ses frais encourus de ce fait, dûment justifiés, lui sont remboursés.\n\nEn outre son congé restant sera majoré d’un délai de route adéquat.",
+      "text_sha256": "3030df64e1e7da64c353bf0e79774b911fac606f14c5587bcc422f07a6cb163d",
+      "md_span": {
+        "start": 5301,
+        "end": 5530
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_16/20181001",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5622,
+        "end": 5622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_17/20181001",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5659,
+        "end": 5659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_18/20181001",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5696,
+        "end": 5696
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_19/20181001",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le décompte des congés pour raisons de santé est communiqué en copie:\n\n- à la commission des pensions en cas de demande visant à la mise à la retraite prématurée d’un agent pour cause d’infirmité;\n- au médecin de contrôle lors d’un examen de contrôle.\n\nLa correspondance relative aux congés pour raisons de santé est confidentielle; seuls les fonctionnaires qui y sont appelés par leurs fonctions peuvent en prendre connaissance.",
+      "text_sha256": "0f817e517f772d99cf6d38965d4e641516f1e4ec09219430b9ca966332c1c9c6",
+      "md_span": {
+        "start": 5733,
+        "end": 6162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_20/20181001",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "L’agent porté malade est obligé de reprendre son service dès que son état de santé lui permet de s’acquitter de sa tâche d’une manière satisfaisante, alors même que le congé de maladie lui accordé ne serait pas encore expiré.",
+      "text_sha256": "afa1efd7ec7f19111d176d4b2e91155616f09d2a95e8ebf92e740af2cdc20326",
+      "md_span": {
+        "start": 6199,
+        "end": 6424
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_21/20181001",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 6461,
+        "end": 6461
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_22/20181001",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**1.** Durant son congé pour raisons de santé, l’agent est soumis aux règles prévues aux paragraphes suivants.\n\n**2.** Par sortie de l’agent en congé pour raisons de santé, on entend l’éloignement de son domicile ou du lieu de séjour indiqué.\n\nSauf les dérogations prévues par le présent article et nonobstant indication contraire figurant sur le certificat médical d’incapacité de travail, aucune sortie de l’agent en dehors de son domicile ou de son lieu de séjour indiqué n’est permise pendant le congé pour raisons de santé.\n\n**3.** Par dérogation au paragraphe 2, l’agent peut s’éloigner de son domicile ou du lieu de séjour indiqué dans les cas suivants :\n\n1. 1. pour les sorties indispensables pour donner suite aux convocations auprès du médecin de contrôle, pour l’obtention de soins, d’actes diagnostiques, de médicaments ou de dispositifs médicaux, à condition que l’agent concerné puisse en justifier, par tous les moyens de preuve, sur demande du chef d’administration ou de son délégué ;\n2. pour les sorties nécessaires pour la prise d’un repas ;\n2. à partir du cinquième jour révolu du congé pour raisons de santé dépassant en continu cinq jours de service, pour les sorties non médicalement contre-indiquées d’après le certificat médical d’incapacité de travail, uniquement entre 10.00 et 12.00 heures et entre 14.00 et 18.00 heures.\n\n**4.** Sauf autorisation spécifique accordée par le médecin de contrôle et dans les conditions visées ci-après, le pays de séjour indiqué pendant le congé pour raisons de santé ne peut être différent de celui où l’agent concerné est domicilié.\n\nCette règle ne vaut pas dans l’hypothèse où l’incapacité de travail pour raisons de santé survient pendant un séjour dans un pays différent de celui où l’agent concerné est domicilié.\n\n**5.** Les dispositions du présent article ne s’appliquent pas aux agents bénéficiant d’un congé de maternité, d’un congé d’accueil, d’une dispense de travail pour femmes enceintes ou allaitantes, d’un congé pour raisons familiales ou d’un congé d’accompagnement.\n\n**6.** Dans les cas où le congé pour raisons de santé se prolonge au-delà d’une période de six semaines consécutives, le médecin de contrôle peut, à partir du quarante-troisième jour, sur demande écrite de l’agent et avec l’accord du chef d’administration ou de son délégué, dispenser d’une ou de plusieurs restrictions de sortie prévues au présent article.",
+      "text_sha256": "966c298fc15dff5117428d5a3e2ea4de664e743f7d779fb0de688e71d51b03b3",
+      "md_span": {
+        "start": 6498,
+        "end": 8901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_23/20181001",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**1.** S’expose à une peine disciplinaire l’agent qui est convaincu\n\n- d’avoir simulé une incapacité de travail ou d’avoir fait prolonger son congé pour raisons de santé alors que sa santé était rétablie;\n- de ne pas avoir repris son service dès que son état de santé le lui permettait;\n- d’avoir enfreint les prescriptions édictées à l’article 22 ci-dessus;\n- de s’être soustrait à un contrôle ordonné par le chef d’administration ou son délégué.\n\n**2.** Les dispositions reprises à l’article 12 du statut général sont applicables dans les cas visés au paragraphe 1er du présent article.",
+      "text_sha256": "ff41a2b4c7792ceecbd90c21cf00a221bd8c580dca088c88b586b41904ca13c9",
+      "md_span": {
+        "start": 8938,
+        "end": 9526
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_24/20181001",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Si l’agent cohabite avec une personne atteinte d’une maladie contagieuse et qu’il doit être éloigné de son service et confiné par mesure prophylactique dans sa demeure, suivant décision de l’Inspection sanitaire, il est considéré comme étant atteint d’incapacité de travail.",
+      "text_sha256": "3c604a30656b800fd85a0df8b9cfd39c8ad52a7259d91d0d61da44aecf2144d8",
+      "md_span": {
+        "start": 9563,
+        "end": 9837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_25/20181001",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4. ** — **Congé pour raisons de santé**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le séjour de cure dans une station thermale ou climatique, pris en charge par l’assurance maladie est considéré comme congé pour raisons de santé.\n\nSi la cure n’est pas prise en charge par l’assurance maladie, la demande de congé de cure est à assimiler à une demande de congé de récréation.",
+      "text_sha256": "8a81fe1ff28d34f1c065ee9e4f51e5367102b05067087a6e583db645619dffaf",
+      "md_span": {
+        "start": 9874,
+        "end": 10165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_26/20181001",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5. ** — **Congé de compensation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**3.** Le congé de compensation est accordé à l’agent sur sa demande qui est à adresser au chef d’administration ou à son délégué.\n\n**4.** Le Conseil de Gouvernement peut fixer des jours de congé de compensation collectifs, en précisant les catégories d’agents auxquels ils s’appliquent.",
+      "text_sha256": "d553349829cb2e16da6da5df243e42823ab8ed74d8b73d4f04016ee7d7ba0e18",
+      "md_span": {
+        "start": 10251,
+        "end": 10538
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_27/20181001",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre 5. ** — **Congé de compensation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 10575,
+        "end": 10575
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_31/20181001",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Chapitre 9. ** — **Congés sans traitement**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**1.** Les congés sans traitement sont réglés par l’article 30 du statut général.\n\n**2.** Le congé sans traitement visé à l’article 30, paragraphe 1er du statut général est demandé et accordé par années entières ou par mois entiers, et en une seule fois pour toute la période pour laquelle il est désiré. La demande relative à ce congé doit parvenir au chef d’administration au moins un mois avant l’expiration du congé de maternité, du congé d’accueil ou du congé parental.\n\nEntre le congé de maternité, le congé d’accueil ou le congé parental, d’une part, et le congé sans traitement visé par le présent paragraphe d’autre part, ne peut être intercalée aucune période d’activité de service, à l’exception d’un congé de récréation.\n\n**3.** Le congé sans traitement visé à l’article 30, paragraphe 2 du statut général est demandé et accordé par années entières ou par mois entiers, et en une seule fois pour toute la période pour laquelle il est désiré. La demande relative au congé sans traitement visé par le présent paragraphe doit parvenir au chef d’administration au moins deux mois avant la date à partir de laquelle il est sollicité.\n\nLa décision relative à l’octroi du congé doit être notifiée à l’agent par le chef d’administration au plus tard deux semaines avant la date à partir de laquelle le congé est sollicité. En cas de rejet total ou partiel de la demande, la décision doit être motivée, l’agent ayant le droit d’être entendu en ses explications.\n\nLorsque la durée du congé sans traitement est supérieure à deux ans, le droit à la réintégration peut être subordonné à la participation, pendant le congé sans traitement, à des cours de formation continue organisés par l’Institut national d’administration publique en collaboration avec les administrations et services de l’État ou par un autre organisme de formation reconnu par le ministre ayant la Fonction publique dans ses attributions. Les cours visés peuvent revêtir un caractère de formation théorique ou d’initiation pratique auquel cas ils peuvent se dérouler dans l’administration dans laquelle sera réintégré l’agent. La durée de la formation que l’agent est tenu de suivre préalablement à sa réintégration est de quinze jours minimum. La détermination de la durée effective de la période de formation, qui varie en fonction de la durée du congé sans traitement dont bénéficie l’agent ainsi que des fonctions qu’il se propose de réintégrer, de même que le choix des cours auxquels il doit participer, incombe au chef de l’administration que va réintégrer l’agent.\n\n**4.** Les congés sans traitement visés par le présent article peuvent prendre fin avant leur terme ou être renouvelés, une fois au maximum, à la demande de l’agent et si l’intérêt du service le permet. La demande relative au renouvellement respectivement à la fin anticipée du congé sans traitement doit parvenir au chef d’administration au moins un mois avant la date initialement prévue pour la fin du congé respectivement avant la date souhaitée de l’interruption.\n\nPour les agents de l’enseignement, les congés sans traitement visés par le présent article sont accordés de façon à ce que leur fin coïncide avec le début d’un trimestre scolaire, le cas échéant par prorogation au-delà de la limite fixée aux alinéas 1 des paragraphes 2 et 3 ci-dessus.\n\n**5.** Les décisions relatives à l’octroi, au renouvellement et à la fin anticipée des congés sans traitement sont prises par le ministre du ressort, sur avis du chef d’administration.",
+      "text_sha256": "7f854f8610313d61eb29811c9a5a5e3ee326c134ab9fba58d7f8859455e6e5fd",
+      "md_span": {
+        "start": 10662,
+        "end": 14147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_33/20181001",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11.** — **Congés pour activité syndicale ou politique**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Pour être prise en considération au titre de l’article 28-8 du statut général des fonctionnaires de l’État, une organisation syndicale doit remplir les critères respectivement définis à l’article 2, paragraphe 2, alinéa 1 et 2, de la loi du 16 avril 1979 portant réglementation de la grève dans les services de l’État et des établissements publics placés sous le contrôle de l’État.\n\nTous les cinq ans, le Gouvernement en conseil fixe le volume des congés et dispenses de service qui sera mis annuellement à la disposition des organisations professionnelles visées ci-dessus, désigne les organisations bénéficiaires et arrête la répartition du congé et des dispenses de service entre elles.",
+      "text_sha256": "3bd68183676e002a1da27d6983c798195ff66b51984f192c0491e1cf55e00ae5",
+      "md_span": {
+        "start": 14255,
+        "end": 14945
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n2/jo",
+          "text": "loi du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_34/20181001",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "**Chapitre 11.** — **Congés pour activité syndicale ou politique**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 14982,
+        "end": 14982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_39/20181001",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "**Chapitre 16.** — **Congé individuel de formation**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**1.** L’agent peut participer à des cours, préparer des examens et y participer, rédiger des mémoires ou accomplir tout autre travail en relation avec une formation professionnelle éligible d’après le paragraphe 2.\n\n**2.** Sont éligibles pour l’obtention du congé-formation, les formations dispensées ou organisées soit au Grand-Duché de Luxembourg, soit à l’étranger:\n\n- par le Ministère de l’Éducation nationale et de la Formation professionnelle, l’Institut national d’administration publique et par les administrations et établissements publics de l’État dans le cadre de la formation continue des agents de l’État,\n- par les institutions bénéficiant du statut d’école publique ou privée reconnues par les autorités publiques et délivrant des certificats reconnus par ces mêmes autorités;\n- par les chambres professionnelles.\n\n**3.** Le congé peut être fractionné, la durée minimale du congé-formation étant d’une demi-journée.\n\nLa durée du congé-formation ne peut pas être imputée sur le congé annuel de récréation tel qu’il est prévu au chapitre 2 du présent règlement.\n\nLe nombre total de jours de congé-formation auquel peut prétendre le bénéficiaire est fonction du nombre d’heures investies dans la formation. Ce nombre d’heures est soit défini par l’organisme de formation, soit déterminé sur base des horaires de cours des écoles et instituts de formation. Le nombre d’heures investies est converti en nombre de journées de travail en divisant le nombre de ces heures par huit.\n\n**4.** Le congé-formation est sollicité par l’agent concerné et accordé par le chef d’administration ou son délégué, le cas échéant, sur avis du supérieur hiérarchique. Toutefois, le chef d’administration peut exiger la participation d’un agent à une formation à chaque fois qu’il estime que celle-ci est en relation étroite avec les missions de l’administration ou avec les attributions de l’agent.\n\nLa demande en obtention du congé est à établir par l’agent et doit parvenir au chef d’administration ou à son délégué au moins six semaines avant la date à partir de laquelle il est sollicité.\n\nCette demande doit indiquer\n\n- les motifs à la base de la demande,\n- les objectifs visés par la formation,\n- l’institution en charge de la formation,\n- la nature et le contenu de la formation à suivre,\n- la durée de la formation,\n- le nombre d’heures de formation prévues,\n- le lieu et la période du déroulement effectif de la formation ainsi que\n- la date de début et la date de la fin de la formation.\n\nLa décision relative à l’octroi du congé doit être notifiée à l’agent par le chef d’administration ou son délégué au plus tard quatre semaines avant la date à partir de laquelle le congé est sollicité.\n\nAvant de prendre la décision, le chef d’administration ou son délégué apprécient si la demande répond aux critères du paragraphe 1er ci-dessus, si elle est conforme aux critères énumérés à l’alinéa 3 du présent paragraphe et si elle est compatible avec l’intérêt du service.\n\nEn cas de rejet de la demande par le chef d’administration ou par son délégué, la décision doit être motivée. Dans ce cas, l’agent peut en référer au ministre du ressort qui prend position dans les huit jours qui suivent la réception de la demande.\n\nEn cas de rejet de la demande par le ministre du ressort, la décision doit être motivée, l’agent ayant le droit d’être entendu en ses explications.\n\n**5.** Par dérogation au paragraphe 3 ci-dessus, et dans des cas exceptionnels dûment motivés, notamment dans des cas de formation de longue durée à effectuer dans l’intérêt du service, la durée totale du congé-formation peut être prolongée au-delà des quatre-vingts jours prévus par une décision du chef d’administration.\n\nSi la prolongation est due au fait que l’agent est susceptible de suivre un cycle de formation de longue durée à l’étranger dans l’intérêt du service, le congé-formation correspondant est accordé par le ministre du ressort dont relève l’agent concerné, sur avis conforme du ministre ayant la Fonction publique dans ses attributions. La décision du ministre du ressort fixe la durée exacte du congé-formation à mettre en compte.\n\n**6.** A la fin de la formation, l’agent est tenu de fournir au chef d’administration ou à son délégué la preuve qu’il a bien utilisé le congé à la finalité pour laquelle il a été sollicité en présentant notamment une certification établie par l’institution ayant assuré la formation dont il ressort que l’agent a effectivement suivi pendant sa période de congé-formation l’intégralité de la formation prévue et qu’il s’est soumis à toutes les conditions de formation et, le cas échéant, de contrôles des connaissances prescrites.\n\n**7.** L’agent qui bénéficie d’un congé-formation et qui pour des raisons personnelles ou indépendantes de sa volonté décide de mettre un terme à ce congé avant même le délai d’expiration normal est tenu d’en informer immédiatement son chef d’administration en lui fournissant les motifs à la base de sa décision.\n\nDans ce cas, seul le nombre de journées de travail effectivement presté dans le cadre du congé-formation initialement accordé est imputé sur les quatre-vingts jours de congé-formation tels qu’ils sont définis au paragraphe 3 ci-dessus.\n\n**8.** L’agent qui bénéficie d’un congé-formation ne touche pas d’allocation de frais de route et de séjour du chef de sa participation à des formations nécessitant des déplacements de sa part et ceci pour toute la durée du congé visé.\n\nToutefois si le congé individuel concerne une formation qui est suivie dans l’intérêt du service et que le déplacement hors du lieu de résidence officielle de l’agent a été ordonné par le chef d’administration ou par le ministre du ressort, les frais de route et de séjour sont dus conformément aux dispositions du règlement grand-ducal modifié du 5 août 1993 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.",
+      "text_sha256": "1fe4d77f4b3b026b3c78cd610c8f6fb12763adf9a0c628ea4d650f0386f4a9f7",
+      "md_span": {
+        "start": 15076,
+        "end": 21002
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1993/08/05/n5/jo",
+          "text": "règlement grand-ducal modifié du 5 août 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_40/20181001",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "**Chapitre 17.** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "**2.** Sauf les cas où la décision est réservée au ministre du ressort, tous les congés sont accordés par le chef d’administration ou son délégué dans le cadre des dispositions du présent règlement.\n\n**3.** Lorsque l’intérêt du service l’exige, les présentes dispositions peuvent être complétées par des instructions plus détaillées par décision du ministre du ressort sur avis conforme du ministre ayant la Fonction publique dans ses attributions.",
+      "text_sha256": "b106b87c743898aa2f4539c15905dd753bba65a597c41eaa3368b3b2ae785398",
+      "md_span": {
+        "start": 21087,
+        "end": 21535
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_41/20181001",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "**Chapitre 17.** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le règlement grand-ducal modifié du 22 août 1985 fixant le régime des congés des fonctionnaires et employés de l’État est abrogé.",
+      "text_sha256": "3fb6ea8a181da8deb1c93e3485faff921144b6f64cd5079b4e3b0d223c06dc93",
+      "md_span": {
+        "start": 21572,
+        "end": 21701
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1985/08/22/n2/jo",
+          "text": "règlement grand-ducal modifié du 22 août 1985"
+        }
+      ]
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_42/20181001",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "**Chapitre 17.** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Le présent règlement entre en vigueur le premier jour du mois qui suit celui de sa publication au Mémorial.",
+      "text_sha256": "aad0b46acda6e12f04559aeae04e51e005d71a5396fdc933aff3c966a53f4f34",
+      "md_span": {
+        "start": 21738,
+        "end": 21845
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:rgd-2012-02-03-n2:2018-10-01#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/art_43/20181001",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "**Chapitre 17.** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2018-10-01",
+      "text_md": "Notre Ministre déléguée à la Fonction publique et à la Réforme administrative est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "c4451df7629ea1acf63ef96cc3cd4a2d7641dd5c7578e91a10d4dce185b02a0c",
+      "md_span": {
+        "start": 21882,
+        "end": 22036
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

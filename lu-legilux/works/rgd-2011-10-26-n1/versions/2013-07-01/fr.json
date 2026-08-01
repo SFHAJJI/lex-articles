@@ -1,0 +1,161 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 26 octobre 2011 instituant un Conseil scientifique du domaine de la santé.",
+  "valid_from": "2013-07-01",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-10-26-n1/versions/2013-07-01/fr.xml",
+    "sha256": "277271f1c91649691c8b8cd98d263a0f95737c68f1bf42ac4b69cda7d128c5fd",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/consolide/20130701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/art_1er/20111110",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-10",
+      "text_md": "Le Conseil scientifique se compose de huit membres, désignés par arrêté conjoint des ministres ayant dans leurs attributions la Santé et la Sécurité sociale comme suit:\n\n1. deux représentants de la Direction de la santé;\n2. deux représentants du Contrôle médical de la sécurité sociale;\n3. quatre médecins sur proposition du groupement représentatif des médecins et médecins-dentistes.\n\nLes agents affectés ou détachés à la Cellule d'expertise médicale ne peuvent pas être membres du Conseil scientifique.\n\nSi le Conseil scientifique traite de sujets relevant de la médecine dentaire, deux des membres médecins visés à l'alinéa 1, point 3) sont des médecins dentistes.\n\nPour chaque membre effectif du Conseil scientifique un membre suppléant est désigné d'après les modalités prévues ci-dessus.\n\nLes membres effectifs du Conseil scientifique désignent par vote secret à la majorité qualifiée et pour une durée de deux ans un président et un vice-président en leur sein.",
+      "text_sha256": "1db9a6e95a9298d1f94657fa558c796cb848fbfe987177243af5a1dc4a80ca84",
+      "md_span": {
+        "start": 627,
+        "end": 1596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/art_2/20111110",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-10",
+      "text_md": "Le Conseil scientifique peut, dans la limite des disponibilités budgétaires et en étroite collaboration avec la Cellule d'expertise médicale, s'appuyer sur le concours scientifique d'instituts de recherche, dans le cadre de conventions conclues par le Gouvernement, en vue de la recherche des données scientifiques requises et, éventuellement, de la diffusion des recommandations élaborées.\n\nLe Conseil scientifique peut recourir aux services de la Direction de la santé, du Laboratoire national de la santé, du Contrôle médical de la sécurité sociale, de la Caisse nationale de santé et de l'Inspection générale de la sécurité sociale, qui lui fournissent notamment les données statistiques nécessaires à l'accomplissement de sa mission.",
+      "text_sha256": "9c52effc7a47e2bcdc8dfdc881367ee514c969794f528bf2f4ab35999e24dd26",
+      "md_span": {
+        "start": 1631,
+        "end": 2369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/art_3/20111110",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-10",
+      "text_md": "Les ministres ayant dans leurs attributions la Santé et la Sécurité sociale peuvent soumettre au Conseil scientifique des sujets devant utilement faire l'objet d'une recommandation de bonne pratique médicale.\n\nLe Conseil scientifique établit annuellement un programme de travail déterminant les sujets qui feront l'objet d'une recommandation ainsi qu'un rapport d'activité. Il communique et présente ces documents aux ministres ayant dans leurs attributions la Santé et la Sécurité sociale.",
+      "text_sha256": "ad40373de62691ca20262b0bba144e7ebb4d6021d4ff7a839c25ecbc69f6a5d2",
+      "md_span": {
+        "start": 2404,
+        "end": 2894
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/art_4/20111110",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-10",
+      "text_md": "Le Conseil scientifique peut instituer des groupes de travail pour examiner des sujets spécifiques. Ces groupes de travail se constituent de membres du Conseil scientifique et de membres externes.\n\nPour chaque recommandation de bonne pratique médicale à élaborer, le Conseil scientifique désigne un coordinateur parmi les membres du groupe de travail en charge.\n\nLes décisions du Conseil scientifique sont prises par consensus.\n\nLes recommandations de bonnes pratiques élaborées sont portées à la connaissance des médecins et des professionnels de la santé par l'intermédiaire de tout vecteur de diffusion approprié.",
+      "text_sha256": "f337b0c5be006cc3065956c793cf4b5062dac6a895092ccdeeaa16b72784cdee",
+      "md_span": {
+        "start": 2929,
+        "end": 3545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/art_5/20130701",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2013-07-01",
+      "text_md": "Le président ou le vice-président du Conseil scientifique touchent pour chaque réunion du Conseil scientifique une indemnité fixée à trente-sept euros et cinquante cents. Ce montant est doublé lorsque le président ou le vice-président exercent une profession libérale. Les membres touchent pour chaque réunion une indemnité fixée à dix-huit euros et soixante-quinze cents, à l'exception des membres exerçant une profession libérale qui touchent pour chaque réunion une indemnité fixée à soixant-quinze euros.\n\nPour les réunions des groupes de travail, les membres du Conseil scientifique et les membres externes touchent une indemnité fixée à dix-huit euros et soixante-quinze cents, à l'exception des membres exerçant une profession libérale qui touchent pour chaque réunion une indemnité fixée à soixant-quinze euros.\n\nPour chaque recommandation de bonne pratique médicale publiée, le coordinateur rédactionnel désigné par le Conseil scientifique touche une indemnité fixée par le Conseil scientifique ne pouvant pas dépasser un montant de trois cents euros.",
+      "text_sha256": "d126a21172b4b95989fe81d1f6fc24cc8c0b096d90f8ed4be5231270ebc6f8b4",
+      "md_span": {
+        "start": 3580,
+        "end": 4640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/art_6/20111110",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-10",
+      "text_md": "Le Conseil scientifique peut adopter un règlement interne qu'il communique aux ministres ayant dans leurs attributions la Santé et la Sécurité sociale.",
+      "text_sha256": "50a4b774fbfd9c25596912a28477fbd5fd99849bc7ab4a0ba8a1400e954dd25c",
+      "md_span": {
+        "start": 4675,
+        "end": 4826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/art_7/20111110",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-10",
+      "text_md": "Les frais de fonctionnement du Conseil scientifique sont à charge du budget de l'Etat.",
+      "text_sha256": "fbbfc5945fc0da00d680cfc302a9f80d50eea8d0d785a60e5f4a5f2353a6b446",
+      "md_span": {
+        "start": 4861,
+        "end": 4947
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2011-10-26-n1:2013-07-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/art_8/20111110",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-11-10",
+      "text_md": "Notre Ministre de la Sécurité sociale, Notre Ministre de la Santé et Notre Ministre des Finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "5c6b24c9ebb65395155b1a84a7e9720968588ac8b3ed6ea53207c7943b95fa38",
+      "md_span": {
+        "start": 4982,
+        "end": 5187
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

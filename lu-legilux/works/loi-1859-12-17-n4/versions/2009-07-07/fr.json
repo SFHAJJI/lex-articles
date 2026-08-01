@@ -1,0 +1,590 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07",
+  "language": "fr",
+  "title": "Version consolidée applicable au 07/07/2009 : Loi du 17 décembre 1859 sur la police des chemins de fer.",
+  "valid_from": "2009-07-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1859-12-17-n4/versions/2009-07-07/fr.xml",
+    "sha256": "9248dc8375bb2d288ebd11d6184b4bfc2bf655b69d9990af2e3d7c02bb5e01fc",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/consolide/20090707/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_1er/18600101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Les chemins de fer construits ou concédés par l'État font partie de la grande voirie.",
+      "text_sha256": "10e2ed8471f3c0cb0310850d62c3f3ac8fd07ed9bf4bfde7754d3f2a200d254c",
+      "md_span": {
+        "start": 655,
+        "end": 740
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_2/18600101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Sont applicables aux chemins de fer les lois et règlements sur la grande voirie, qui ont pour objet d'assurer la conservation des fossés, talus, levées et ouvrages d'art dépendant des routes, et d'interdire, sur toute leur étendue, le pacage des bestiaux et les dépôts de terre et autres objets quelconques.",
+      "text_sha256": "4882c7d4eff6b496e1651e68b0944643d9422e5016169aad664d9bec981d4022",
+      "md_span": {
+        "start": 775,
+        "end": 1082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_3/18600101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Sont applicables aux propriétés riveraines des chemins de fer, les servitudes imposées par les lois et règlements sur la grande voirie, et qui concernent:\n\n- l'alignement,\n- l'écoulement des eaux,\n- l'occupation temporaire des terrains en cas de réparation,– la distance à observer pour les plantatations, et l'élagage des arbres plantés,\n- le mode d'exploitation des mines, minières, tourbières, carrières et sablières, dans la zone déterminée à cet effet.\n\nSont également applicables à la confection et à l'entretien des chemins de fer, les lois et règlements sur l'extraction des matériaux nécessaires aux travaux publics.",
+      "text_sha256": "9262b4acf21aa6f54c7bcbd4c08e4867f618d8b0f98c9429ace7ef7f7ea06ffe",
+      "md_span": {
+        "start": 1117,
+        "end": 1742
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_4/18600101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Tout chemin de fer sera clos des deux côtés et sur toute l'étendue de la voie.\n\nLe Gouvernement pourra néanmoins, a la demande et sous la responsabilité des concessionnaires, les dispenser d'une clôture aussi complète, là où, d'après la position des lieux, la sûreté de la circulation sur le chemin de fer pourra ne pas la rendre indispensable.\n\nLe Gouvernement déterminera, pour chaque ligne, le mode de cette clôture, et, pour ceux des chemins de fer qui n'y ont pas été assujettis, l'époque à laquelle elle devra être effectuée.\n\nPartout où les chemins de fer croiseront de niveau les routes de terre, des barrières seront établies et tenues fermées, conformément aux règlements.",
+      "text_sha256": "121774ca9b4d9cbef24fc64355159199be2ad669ae758c3237dc5142cfde6e60",
+      "md_span": {
+        "start": 1777,
+        "end": 2459
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_5/20020716",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "2002-07-16",
+      "text_md": "A l'avenir, aucune construction autre qu'un mur de clôture ne pourra être établie dans une distance de deux mètres du chemin de fer, sans préjudice à la défense de faire aucune espèce de construction, sans l'autorisation du Gouvernement, au delà de cette distance jusqu'à celle de six mètres au moins fixée par l'art. 5 de la loi du 13 janvier 1843.\n\nCette distance sera mesurée soit de l'arête supérieure du déblai, soit de l'arête inférieure du talus du remblai, soit du bord extérieur des fossés du chemin, et, à défaut d'une ligne tracée, à un mètre cinquante centimètres à partir des rails extérieurs de la voie de fer.\n\nLes constructions existantes au moment de la promulgation de la présente loi, ou lors de l'établissement d'un nouveau chemin de fer, pourront être entretenues dans l'état où elles se trouvent à celte époque.\n\nUn règlement d'administration publique déterminera les formalités à remplir par les propriétaires pour faire constater l'état desdites constructions, et fixera le délai dans lequel ces formalités devront être remplies.\n\nLe mode ci-dessus prescrit de mesurer la distance sera suivi dans tous les autres cas où l'observation de distances sera prescrite par la presente loi, sans détermination d'un autre mode de les mesurer.\n\nPar dérogation aux interdictions prévues à l'alinéa 1 du présent article, tout opérateur de télécommunications, tout gestionnaire de réseaux de transport d'électricité et d'entreprise de transport de gaz naturel exploitant un service public en vertu d'une disposition légale ou réglementaire lui accordant un droit d'usage du domaine public de l'Etat, peut être autorisé à faire usage du domaine public du chemin de fer pour établir des câbles, lignes aériennes et équipements connexes et à exécuter tous les travaux y afférents dans le respect de la destination de ce domaine ainsi que des règles de sécurité et de police qui en régissent l'utilisation.\n\nCe droit d'utilisation de l'infrastructure ferroviaire intervient dans les conditions de l'autorisation prévue au premier alinéa. Cette permission règle les conditions techniques de l'implantation et de la réalisation des travaux ainsi que les conditions de maintien, d'entretien et de modification des câbles, lignes aériennes et équipements connexes.",
+      "text_sha256": "a8542616d34ca0d2cab73ab462bfe34a9d5307229c3b1b9905d2c2f2c368c439",
+      "md_span": {
+        "start": 2494,
+        "end": 4761
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1843/01/13/n1/jo",
+          "text": "loi du 13 janvier 1843"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_6/18600101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Dans les localités où le chemin de fer se trouvera en remblai de plus de trois mètres au-dessus du terrain naturel, il est interdit aux riverains de pratiquer, sans autorisation préalable, des excavations dans une zone de largeur égale à la hauteur verticale du remblai, mesurée à partir du pied du talus.\n\nCette autorisation pourra être accordée sans que les concessionnaires ou fermiers de l'exploitation du chemin de fer aient été entendus ou dûment appelés.",
+      "text_sha256": "a31ec32eccf2ace33f820f576e6f0d800dcce223d865528891740f8353913ac6",
+      "md_span": {
+        "start": 4796,
+        "end": 5257
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_7/18600101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Il est défendu d'établir à une distance de moins de vingt mètres d'un chemin de fer desservi par des machines à feu, des couvertures en chaume des meules de paille, de foin, et aucun autre dépôt de matières inflammables.\n\nCette prohibition ne s'étend pas aux dépôts de récoltes faits seulement pour le temps de la moisson.",
+      "text_sha256": "4c4cce9c06ef393b6f091e27995683d626f70c5125e8e960ed40138743ba24f6",
+      "md_span": {
+        "start": 5292,
+        "end": 5614
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_8/18600101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Dans une distance de moins de cinq mètres d'un chemin de fer, aucun dépôt de pierres ou objets non inflammables ne peut être établi sans l'autorisation préalable du Gouvernement.\n\nCette autorisation sera toujours révocable.\n\nL'autorisation n'est pas nécessaire:\n\n1. Pour former, dans les localités où le chemin de fer est en remblai, des dépôts de matières non inflammables dont la hauteur n'excède pas celle du remblai du chemin;\n2. Pour former des dépôts temporaires d'engrais et autres objets nécessaires à la culture des terres.\n\nIl ne sera permis de planter à l'avenir, sans autorisation du Gouvernement, qu'à la distance de vingt mètres du franc bord des chemins de fer pour les arbres à haute tige, et de six mètres pour les autres arbres.",
+      "text_sha256": "8ca1fd182e6014a157898c54a4602864e94725eb1ab66447216a5b9a5f085888",
+      "md_span": {
+        "start": 5649,
+        "end": 6395
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_9/18600101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Lorsque la sûreté publique, la conservation du chemin et la disposition des lieux le permettront, les distances déterminées par les articles précé dents pourront être diminuées par des arrêtés royaux grand-ducaux, rendus après enquête, dans la forme de règlements d'administration publique.",
+      "text_sha256": "1a7ecd6fdcb2e4930658614c104b8e6dd9e89599aa7858bdc62b92a2839968e3",
+      "md_span": {
+        "start": 6430,
+        "end": 6720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_10/18600101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Si, hors les cas d'urgence prévus par la loi du 16-24 août 1790 et autres sur la matière, la sûreté publique ou la conservation du chemin de fer l'exige, le Gouvernement pourra faire supprimer, moyennant une juste indemnité, les constructions, plantations, excavations, couvertures en chaume, amas de matériaux combustibles où autres, existant, dans les zones ci-dessus spécifiées, au moment de fa promulgation de la présente loi, et pour l'avenir, lors de l'établissement du chemin de fer.\n\nL'indemnité sera réglée, pour la suppression des constructions, conformément à la loi sur l'expropriation pour cause d'utilité publique, et, pour tous les autres cas, conformément aux lois spéciales sur les matières.",
+      "text_sha256": "6149c91540bfdf89a677184429ad1f8f5003927e75be0c1073c05fce7abde066",
+      "md_span": {
+        "start": 6757,
+        "end": 7465
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_11/20020716",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "TITRE 1er.",
+        "Mesures relatives à la conservation des chemins de fer."
+      ],
+      "article_valid_from": "2002-07-16",
+      "text_md": "Les contraventions aux dispositions du présent litre seront constatées, poursuivies et réprimées comme en matière de grande voirie.\n\nElles seront punies d'une amende d'un à huit euros, sans préjudice, s'il y a lieu, des peines portées au Code pénal et au titre III de la présente loi. Les contrevenants sont, en outre, condamnés à supprimer, dans le délai déterminé par le jugement, les excavations, couvertures, meules ou dépôts faits contrairement aux dispositions précédentes.\n\nA défaut par eux de satisfaire à cette condamnation dans le délai fixé, la suppression aura lieu d'office, et le montant de la dépense sera recouvré dents pourront être diminuées par des arrêtés royaux grand-ducaux, rendus après enquête, dans la forme de règlements d'administration publique.",
+      "text_sha256": "c78049af7b10b9b078619587297ee393a4833366718ccc09227b939a5bad339b",
+      "md_span": {
+        "start": 7502,
+        "end": 8275
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_12/18600101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "TITRE II.",
+        "Des contraventions de voirie commises par les concessionnaires ou fermiers de chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Lorsque le concessionnaire ou le fermier de l'exploitation d'un chemin de fer contreviendra aux clauses du cahier des charges, ou aux décisions rendues en exécution de ces clauses, en ce qui concerne le service de la navigation, la viabilité des routes et des chemins publics, ou le libre écoulement des eaux, procès-verbal sera dressé de la contravention par les agents, dûment assermentés, de l'administration de travaux publics.",
+      "text_sha256": "55105991b5544a73ff15720b1bd3944c831e43a34840ca085f6e7d918fe7c176",
+      "md_span": {
+        "start": 8425,
+        "end": 8856
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_13/18600101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "TITRE II.",
+        "Des contraventions de voirie commises par les concessionnaires ou fermiers de chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Les procès-verbaux, dans les quinze jours de leur date, seront notifiés administrativement au domicile élu par le concessionnaire ou le fermier, par le Gouvernement, et transmis dans le même délai au procureur d'État du lieu de la contravention.",
+      "text_sha256": "089e00c291950e3dfba9919f16f062c64c929b00d00d5c62942e8b69b46665f1",
+      "md_span": {
+        "start": 8893,
+        "end": 9138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_14/20020716",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "TITRE II.",
+        "Des contraventions de voirie commises par les concessionnaires ou fermiers de chemins de fer."
+      ],
+      "article_valid_from": "2002-07-16",
+      "text_md": "Les contraventions prévues à l'article 12 seront punies d'une amende de huit euros à soixante-quinze euros.",
+      "text_sha256": "dfc04f4e684b6f3e08dc5f094916607099ab6d47b6857e5cea33d2c86e999d15",
+      "md_span": {
+        "start": 9175,
+        "end": 9282
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_15/18600101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "TITRE II.",
+        "Des contraventions de voirie commises par les concessionnaires ou fermiers de chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Le Gouvernement pourra d'ailleurs prendre immédiatement toutes mesures provisoires pour faire cesser le dommage, ainsi qu'il est procédé en matière de grande voirie.\n\nLes frais qu'entraînera l'exécution de ces mesures seront recouvrés, contre le concessionnaire ou fermier, par voie de contrainte, comme en matière de contributions publiques.",
+      "text_sha256": "8d63de295c81647cb4d85cde65a8d117d8f52b95fcbf02507ca41a240b7a9f72",
+      "md_span": {
+        "start": 9319,
+        "end": 9661
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_16/18600101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Quiconque aura volontairement détruit ou dérangé la voie de fer, placé sur la voie un objet faisant obstacle à la circulation, ou employé un moyen quelconque pour entraver la marche des convois ou les faire sortir des rails, sera puni de la réclusion.\n\nS'il y a eu homicide ou blessures, le coupable sera, dans le premier cas, puni de mort, et dans le second, de la peine des travaux forcés à temps.",
+      "text_sha256": "c196fc07151e759894c4096e7c17d000baf5b2db78a2240363aec5b3bdff2822",
+      "md_span": {
+        "start": 9794,
+        "end": 10193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_17/18600101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Si Je crime prévu par l'art. 16 a été commis en réunion séditieuse, avec rébellion ou pillage, il sera imputable aux chefs, auteurs, instigateurs et provocateurs de ces réunions, qui seront punis comme coupables du crime et condamnés aux mêmes peines que ceux qui l'auront personnellement commis, lors même que la réunion séditieuse n'aurait pas eu pour but direct et principal la destruction de la voie de fer.\n\nToutefois, dans ce dernier cas, lorsque la peine de mort sera applicable aux auteurs du crime, elle sera remplacée, à l'égard des chefs, auteurs, instigateurs et provocateurs de ces réunions, par la peine des travaux forcés à perpétuité.",
+      "text_sha256": "1ba001bec733e5db5b81db3fa296c6e9fced46aaaac3e39e863bd178e9a48f78",
+      "md_span": {
+        "start": 10230,
+        "end": 10880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_18/20020716",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "2002-07-16",
+      "text_md": "Quiconque aura menacé, par écrit anonyme ou signé, de commettre un des crimes prévus par l'art. 16, sera puni d'un emprisonnement de trois a cinq ans, dans le cas où la menace aurait été faite avec ordre de déposer une somme d'argent dans un lieu indiqué, ou de remplir toute autre condition.\n\nSi la menace n'a été accompagnée d'aucun ardre ou condition, la peine sera d'un emprisonnement de trois mois à deux ans, et d'une amende de trois à treize euros.\n\nSi la menace avec ordre ou condition a été verbale, le coupable sera puni d'un emprisonnement de quinze jours à six mois, et d'une amende d'un à huit euros.\n\nDans tous les cas, le coupable pourra être mis par le jugement sous la surveillance de la haute police, pour un temps qui ne pourra être moindre de deux ans ni excéder cinq ans.",
+      "text_sha256": "01e5a481bbeff1261d04720660bed7a8bc56cf5f4f25c23b9d7fedefd0838bcc",
+      "md_span": {
+        "start": 10917,
+        "end": 11709
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_19/20020716",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "2002-07-16",
+      "text_md": "Lorsqu'un convoi sur un chemin de fer aura éprouvé un accident par maladresse, imprudence, inattention, négligence ou inobservation des lois ou règlements, ou des prescriptions ou défenses de l'autorité, le coupable sera puni d'une amende d'un à cinq euros.\n\nSi l'accident ainsi causé involontairement sur un chemin de fer ou dans les gares ou stations, a occasionné des blessures, la peine sera celle de huit jours à six mois d'emprisonnement, et d'une amende de deux à vingt-cinq euros.\n\nSi l'accident a occasionné la mort d'une ou de plusieurs personnes, l'emprisonnement sera de six mois à cinq ans, et l'amende de huit à soixante-quinze euros.",
+      "text_sha256": "f5be7826c6716343ec6bea107b2899f67a8c0bc8e8c8ebf3f726d400a02650cd",
+      "md_span": {
+        "start": 11746,
+        "end": 12394
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_20/18600101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Sera puni d'un emprisonnement de six mois à deux ans tout mécanicien ou conducteur garde frein qui aura abandonné son poste pendant la marche du convoi.",
+      "text_sha256": "933446670a0732d619a2fc33157f79a2bb29034aaf0125e419848ec1303171ee",
+      "md_span": {
+        "start": 12431,
+        "end": 12583
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_21/20020716",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "2002-07-16",
+      "text_md": "Toute contravention aux arrêtés royaux grandsducaux portant règlement d'administration publique sur la police, la sûreté et l'exploitation du chemin de fer, et aux dispositions prises par l'autorité pour l'exécution des dits arrêtés, sera punie d'une amende d'un à soixante-quinze euros.\n\nEn cas de récidive dans l'année, l'amende sera portée au double, et le tribunal pourra, selon les circonstances, prononcer en outre un emprisonnement de trois jours à un mois.",
+      "text_sha256": "c7b797434d9719854569453d1229aa13ce5415a9ae798129ce15a35dfe47ddc8",
+      "md_span": {
+        "start": 12620,
+        "end": 13084
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_22/18600101",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Les concessionnaires ou fermiers d'un chemin de fer seront responsables, soit envers l'État, soit envers les particuliers, du dommage causé par les administrateurs, directeurs ou employés à un litre quelconque au service de l'exploitation du chemin de fer.\n\nL'État sera soumis à la même responsabilité envers les particuliers, si le chemin de fer est exploité à ses frais et pour son compte.",
+      "text_sha256": "931bf3cd655bac983c6caf006601071f1adf2c1766eacb83c6c62ce50f53f83a",
+      "md_span": {
+        "start": 13121,
+        "end": 13512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_23/18600101",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Les crimes, délits ou contraventions prévus dans les titres I et III de la présente loi, pourront être constatés par des procès-verbaux dressés concurremment par les officiers de police judiciaire, les agents de l'administration des travaux publics, et les agents de surveillance du chemin de fer nommés ou agréés par le Gouvernement et dûment assermentés.\n\nLes agents de surveillance du Gouvernement et ceux qu'il aura agréés des concessionnaires ou fermiers, prêteront devant le tribunal de l'arrondissement de leur résidence, le serment suivant:\n\nEn cas de changement de résidence, l'acte de prestation du serment sera transcrit et visé au greffe du tribunal de l'arrondissement de la nouvelle résidence.\n\nAu moyen de ce serment, ces agents pourront verbaliser sur toute la ligne du chemin de fer auquel ils seront attachés, dans les stations et leursdépendances, ainsi que dans les zones déterminées par les art. 5, 6, 7 et 8 de la présente loi.\n\nLes procès-verbaux des délits et contraventions feront foi jusqu'à preuve contraire.",
+      "text_sha256": "5e6af951ad61ed45b964252ef95b1a0219dfb448c24aa93fb36b9cfa2526b61e",
+      "md_span": {
+        "start": 13549,
+        "end": 14584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_24/18600101",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Les procès-verbaux dressés en vertu de l'article précédent par des agents de surveillance et gardes assermentés, devront être affirmés dans les trois jours, à peine de nullité, devant le juge de paix ou l'un de ses suppléants ou le bourgmestre ou l'un des échevins du canton ou de la commune, soit du lieu du délit ou de la contravention, soit de la résidence de l'agent.\n\nL'officier qui aura reçu l'affirmation, sera tenu d'en donner avis dans la huitaine au procureur d'État.",
+      "text_sha256": "d9ae5ef24ff88fe1e7c5226508a06a76c2e074805215e058d8a02059533dc93e",
+      "md_span": {
+        "start": 14621,
+        "end": 15098
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_25/18600101",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "Toute attaque, toute résistance avec violence et voies de fait envers les agents des chemins de fer, dans l'exercice de leurs fonctions, sera punie des peines appliquées à la rébellion, suivant les distinctions faites par le Code pénal.",
+      "text_sha256": "231d229101a64aa35d823603a091a6cb3b187a974bdc4abf856be67c143dce41",
+      "md_span": {
+        "start": 15135,
+        "end": 15371
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_26/18600101",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "L'article 463 du Code pénal et les arrêtés royaux des 9 septembre 1814 et 20 janvier 1815 sont applicables aux condamnations qui seront prononcées en exécution de la présente loi.",
+      "text_sha256": "0c56167dc05b8e35b04fa571393099245dd61ef69ec836dea21ecfb36046777b",
+      "md_span": {
+        "start": 15408,
+        "end": 15587
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1859-12-17-n4:2009-07-07#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/art_27/18600101",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "TITRE III.",
+        "Des mesures relatives à la sûreté de la circulation sur les chemins de fer."
+      ],
+      "article_valid_from": "1860-01-01",
+      "text_md": "En cas de conviction de plusieurs crimes ou délits prévus par la présente loi ou par le Code pénal, la peine la plus forte sera seule prononcée.\n\nLes peines encourues pour des faits postérieurs à la poursuite pourront être cumulées, sans préjudice des peines de la récidive.",
+      "text_sha256": "a56afbebeefe055f402536df9e5a0891e6ae490ec606ebfc4dcad55dc7617e71",
+      "md_span": {
+        "start": 15624,
+        "end": 15898
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

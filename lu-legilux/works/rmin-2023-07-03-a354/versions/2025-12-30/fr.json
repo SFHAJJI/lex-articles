@@ -1,0 +1,115 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rmin-2023-07-03-a354:2025-12-30",
+  "language": "fr",
+  "title": "Version consolidée applicable au 19/05/2026 : Règlement ministériel du 3 juillet 2023 portant publication du plan des zones de sûreté aéroportuaires de l’aéroport de Luxembourg.",
+  "valid_from": "2025-12-30",
+  "valid_to": "2026-03-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rmin-2023-07-03-a354/versions/2025-12-30/fr.xml",
+    "sha256": "6b8dab42870a1222a1f400b02d2bdbf9a0397663372184509ad08d2a6c54924f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/consolide/20251230/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rmin-2023-07-03-a354:2025-12-30#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/art_1er/20230725",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-07-25",
+      "text_md": "Les zones, dépendances et parties critiques de l’aéroport de Luxembourg sont fixées et représentées moyennant le plan publié en annexe.",
+      "text_sha256": "61e8d59f54e9ae8b1cb1495a3d324ba17ad365b651025eeb076a328e4377317a",
+      "md_span": {
+        "start": 665,
+        "end": 800
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rmin-2023-07-03-a354:2025-12-30#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/art_2/20230725",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-07-25",
+      "text_md": "Le règlement ministériel du 11 octobre 2016 portant publication du plan des zones de sûreté aéroportuaires de l’aéroport commercial du Grand-Duché de Luxembourg est abrogé.",
+      "text_sha256": "46eccc091ae9a90491732e56e34eb397173d761a49df123252916f266baa5d35",
+      "md_span": {
+        "start": 835,
+        "end": 1007
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rmin/2016/10/11/n1/jo",
+          "text": "règlement ministériel du 11 octobre 2016"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rmin-2023-07-03-a354:2025-12-30#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/art_3/20230725",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-12-30",
+      "text_md": "Le présent règlement sera publié au Journal officiel du Grand-Duché de Luxembourg et entrera en vigueur le 25 juillet 2023.",
+      "text_sha256": "e06e0c63e6dddcee2d7173ea719d4dc56ac5ddf9c16cb06a755141ed1b943cf6",
+      "md_span": {
+        "start": 1042,
+        "end": 1165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rmin-2023-07-03-a354:2025-12-30#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe A - Plans de la surface à classer et déclasser",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Situation à partir du 30 décembre 2025 :",
+      "text_sha256": "1b3c705162a08407d1ddbf231731131d3931ba6a4a74ab890fed9dff901dc3d8",
+      "md_span": {
+        "start": 1253,
+        "end": 1293
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rmin-2023-07-03-a354:2025-12-30#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe B – Plan des zones aéroportuaires de l’aéroport de Luxembourg",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1396,
+        "end": 1396
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

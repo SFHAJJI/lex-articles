@@ -1,0 +1,62 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2002-07-08-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2007-11-10",
+        "valid_to": "2012-12-31",
+        "text_sha256": "ee0e6d6bfd9539c19d3c65a0581d78b7eff1f71b34506536c7df1eb34625812d",
+        "in_version": "lu-legilux:rgd-2002-07-08-n1:2007-11-10",
+        "article_valid_from": "2007-11-10"
+      },
+      {
+        "valid_from": "2013-01-01",
+        "valid_to": null,
+        "text_sha256": "aceb0fd1fa3692353694296e974abd22c85e9ca08f2e9db77c6570e485ec3d5f",
+        "in_version": "lu-legilux:rgd-2002-07-08-n1:2013-01-01",
+        "article_valid_from": "2013-01-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2007-11-10",
+        "valid_to": "2012-12-31",
+        "text_sha256": "81ba3b9afe34118986a818ae1f30e013975e5590d41fe9fe0126cb436fe3bed6",
+        "in_version": "lu-legilux:rgd-2002-07-08-n1:2007-11-10",
+        "article_valid_from": "2002-08-01",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2013-01-01",
+        "valid_to": null,
+        "text_sha256": "c9c7964d39579e822494b915085adf3ed33dd5295f3dd40e688cce497eb96336",
+        "in_version": "lu-legilux:rgd-2002-07-08-n1:2013-01-01",
+        "article_valid_from": "2002-08-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2007-11-10",
+        "valid_to": "2012-12-31",
+        "text_sha256": "75bfb6c7b08138d58e07bde3aa076674ab96e43c97cf08759aa67fbd52540773",
+        "in_version": "lu-legilux:rgd-2002-07-08-n1:2007-11-10",
+        "article_valid_from": "2002-08-01",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2013-01-01",
+        "valid_to": null,
+        "text_sha256": "ee7454c63ac1d58715524586427078207d56e56a3b065cea8ea550029b7791f3",
+        "in_version": "lu-legilux:rgd-2002-07-08-n1:2013-01-01",
+        "article_valid_from": "2002-08-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

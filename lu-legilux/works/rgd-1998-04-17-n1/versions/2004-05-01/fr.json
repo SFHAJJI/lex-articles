@@ -1,0 +1,174 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/05/2020 : Règlement grand-ducal du 17 avril 1998 déterminant les informations que doivent contenir les demandes d’autorisation de projets de dissémination volontaire d’OGM et de projets de mise sur le marché d’OGM.",
+  "valid_from": "2004-05-01",
+  "valid_to": "2020-04-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1998-04-17-n1/versions/2004-05-01/fr.xml",
+    "sha256": "1074ceaba2dcfda993155a55237a2b82bac3b9873fd5668f7d008c2446e99ab6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/consolide/20040501/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/art_1er/19980502",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1998-05-02",
+      "text_md": "Les demandes d’autorisation de projets de dissémination volontaire d’organismes génétiquement modifiés (OGM) visées à l’article 17 de la loi du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés et celles de projets de mise sur le marché d’OGM visées à l’article 23 de la prédite loi doivent contenir au moins les informations déterminées aux annexes respectivement I et II du présent règlement, qui en font partie intégrante.\n\nLes dispositions du présent règlement s’entendent sans préjudice des dispositions d’ordre général relatives aux dossiers de demandes d’autorisation prévues au titre III de la loi précitée.",
+      "text_sha256": "8bcee5857d7df96c455690be599b4066a401b49faaf72775dad6e8c6164359ab",
+      "md_span": {
+        "start": 732,
+        "end": 1412
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1997/01/13/n1/jo",
+          "text": "loi du 13 janvier 1997"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1997/01/13/n1/jo",
+          "text": "prédite loi"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1997/01/13/n1/jo",
+          "text": "loi précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/art_2/19980502",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1998-05-02",
+      "text_md": "L’annexe I partie A s’applique aux projets de dissémination volontaire de tous les types d’OGM autres que les plantes supérieures.\n\nL’annexe I partie B s’applique aux projets de dissémination de plantes supérieures génétiquement modifiées.\n\nPar «plantes supérieures» on entend les plantes qui appartiennent aux groupes taxonomiques des gymnospermes et des angiospermes.",
+      "text_sha256": "e9c9aa12f1516824a35b696a13217dec5b5dcd17781da5214282ac34521384af",
+      "md_span": {
+        "start": 1447,
+        "end": 1816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/art_3/19980502",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1998-05-02",
+      "text_md": "Tous les points cités à l’annexe I ne s’appliquent pas à chaque cas. Chaque demande d’autorisation n’est donc censée répondre qu’au sous-ensemble particulier de considérations correspondant à une situation donnée.\n\nLe degré de précision avec lequel il est demandé de répondre à chaque sous-ensemble de considérations peut également varier selon la nature et l’ampleur de la dissémination envisagée.",
+      "text_sha256": "746b2db42d3678a04be316a1247ba75170f2f742bf0b19d500b8e731dec94643",
+      "md_span": {
+        "start": 1851,
+        "end": 2249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/art_4/19980502",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1998-05-02",
+      "text_md": "Toute demande d’autorisation de mise sur le marché d’un OGM doit être accompagnée des informations fournies antérieurement, à propos de la demande d’autorisation de dissémination volontaire du même OGM. Elle doit en plus être complétée par les informations reprises à l’annexe II du présent règlement.",
+      "text_sha256": "554104de1baa1b83eeb6f3a53bb559ec9f39ca893e142a87c33efce69233fc7d",
+      "md_span": {
+        "start": 2284,
+        "end": 2585
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/art_5/19980502",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-05-01",
+      "text_md": "Notre ministre de la Santé et Notre ministre de l’Environnement sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "3f7856c6be2680fdf974cd9d9bc486007ec2f6989e44d6e8d6aed51d438cb9aa",
+      "md_span": {
+        "start": 2620,
+        "end": 2792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**ANNEXE I A**\n\n**INFORMATIONS DEVANT FIGURER DANS LA NOTIFICATION CONCERNANT LA DISSÉMINATION DES ORGANISMES GÉNÉTIQUEMENT MODIFIÉS AUTRES QUE LES PLANTES SUPÉRIEURES**\n\n1. INFORMATIONS D’ORDRE GÉNÉRAL 1. Nom et adresse du notifiant (société ou institut).\n2. Nom, qualifications et expérience des scientifiques responsables.\n3. Titre du projet.\n2. INFORMATIONS CONCERNANT LE OU LES OGM 1. 1. Nom scientifique.\n2. Taxinomie.\n3. Autres noms (nom usuel, nom de la souche, etc.).\n4. Caractéristiques phénotypiques et génétiques.\n5. Degré de parenté entre les organismes donneurs et récepteurs ou entre les organismes parentaux.\n6. Description des techniques d’identification et de détection.\n7. Sensibilité, fiabilité (en termes quantitatifs) et spécificité des techniques de détection et d’identification.\n8. Description de la distribution géographique et de l’habitat naturel de l’organisme, y compris des informations sur les prédateurs naturels, les proies, les parasites, les concurrents, les symbiotes et les hôtes.\n9. Organismes avec lesquels on sait que le transfert de matériel génétique se fait dans des conditions naturelles.\n10. Vérification de la stabilité génétique des organismes et facteurs affectant cette stabilité.\n11. 1. classification de la dangerosité selon les règles communautaires en vigueur concernant la protection de la santé humaine et/ou de l’environnement;\n2. temps de génération dans les écosystèmes naturels, cycle de reproduction sexuée et asexuée;\n3. informations sur la survie, y compris le rythme saisonnier et l’aptitude à former des structures de survie;\n4. pathogénicité : infectivité, toxigénicité, virulence, allergénicité, porteurs (vecteurs) d’agents pathogènes, vecteurs possibles, gamme d’hôtes, y compris les organismes non ciblés; activation possible de virus latents (pro-virus); faculté de coloniser d’autres organismes;\n5. résistance aux antibiotiques et utilisation potentielle de ces antibiotiques chez les hommes et les organismes domestiques à des fins prophylactiques et thérapeutiques;\n6. implication dans les processus environnementaux: production primaire, cycle des éléments nutritifs, décomposition de matière organique, respiration, etc.\n12. Nature des vecteurs indigènes: a) séquence; b) fréquence de mobilisation; c) spécificité; d) présence de gènes qui confèrent de la résistance.\n13. Historique des modifications génétiques précédentes.\n2. 1. Nature et provenance du vecteur.\n2. Séquence de transposons, de vecteurs et d’autres segments génétiques non codants utilisés pour construire les OGM et le vecteur introduit et pour rendre l’insert fonctionnel dans l’OGM.\n3. Fréquence de mobilisation du vecteur inséré et/ou capacités de transfert génétique et méthodes de détermination.\n4. Informations sur la mesure dans laquelle le vecteur se limite à l’ADN requis pour réaliser la fonction voulue.\n3. 1. 1. méthodes utilisées pour la modification;\n2. méthodes utilisées pour la construction et l’introduction de l’insert/des inserts dans le récepteur ou pour la suppression d’une séquence :\n3. description de la construction de l’insert et/ou du vecteur,\n4. pureté de l’insert par rapport à toute séquence inconnue et informations sur la mesure dans laquelle la séquence insérée se limite à l’ADN requis pour réaliser la fonction voulue;\n5. méthodes et critères utilisés pour la sélection;\n6. séquence, identité fonctionnelle et localisation du ou des segments d’acide nucléique modifiés, insérés ou supprimés en question, avec indication, en particulier, de toute séquence nocive connue.\n2. 1. description du ou des traits génétiques ou des caractéristiques phénotypiques, et notamment des nouveaux traits et caractéristiques qui peuvent être exprimés ou de ceux qui ne peuvent plus l’être;\n2. structure et quantité de l’acide nucléique vecteur et/ou donneur restant dans la construction finale de l’organisme modifié;\n3. stabilité de l’organisme en termes de caractères génétiques;\n4. taux et niveau d’expression du nouveau matériel génétique. Méthodes et sensibilité de la mesure;\n5. activité de la ou des protéines exprimées;\n6. description des techniques d’identification et de détection, y compris les techniques d’identification et de détection de la séquence et du vecteur insérés;\n7. sensibilité, fiabilité (en termes quantitatifs) et spécificité des techniques de détection et d’identification;\n8. historique des disséminations ou utilisations précédentes de l’OGM;\n9. 1. effets toxiques ou allergisants des OGM et/ou de leurs produits métaboliques;\n2. comparaison entre la pathogénicité de l’organisme modifié et celle de l’organisme donneur, récepteur ou (le cas échéant) parental;\n3. capacité de colonisation;\n4. - maladies provoquées et mécanismes de la pathogénicité, y compris le mode de propagation et la virulence,\n- mode de transmission,\n- dose infectante,\n- gamme d’hôtes, possibilité d’altération,\n- possibilité de survie à l’extérieur de l’hôte humain,\n- présence de vecteurs ou de moyens de dissémination,\n- stabilité biologique,\n- spectre de résistance aux antibiotiques,\n- allergénicité,\n- existence de thérapies appropriées;\n5. autres dangers liés au produit\n3. INFORMATIONS SUR LES CONDITIONS DE LA DISSÉMINATION ET L’ENVIRONNEMENT RÉCEPTEUR 1. Informations sur la dissémination 1. Description de la dissémination volontaire projetée, y compris le ou les buts poursuivis et les produits prévus.\n2. Dates prévues pour la dissémination, calendrier de l’expérience, y compris fréquence et durée des disséminations.\n3. Préparation du site avant la dissémination\n4. Étendue du site.\n5. Méthode(s) de dissémination envisagée(s).\n6. Quantités d’OGM qui seront disséminées.\n7. Perturbations du site (type et méthode de culture, exploitation minière, irrigation ou autres activités).\n8. Mesures de protection des travailleurs prises pendant la dissémination.\n9. Traitement du site après la dissémination.\n10. Techniques prévues pour l’élimination ou l’inactivation des OGM à la fin de l’expérience.\n11. Informations sur de précédentes disséminations de l’OGM, en particulier à différentes échelles et dans des écosystèmes différents et résultats concernant ces disséminations.\n2. Informations sur l’environnement (à la fois sur le site même et sur l’environnement plus étendu) 1. Situation géographique et coordonnées du ou des sites (dans le cas des notifications au titre de la partie C, le ou les sites de dissémination seront les zones prévues pour l’utilisation du produit).\n2. Proximité physique ou biologique d’êtres humains ou d’autres biotes importants.\n3. Proximité de biotopes, de zones protégées ou d’approvisionnements en eau potable importants.\n4. Caractéristiques climatiques de la ou des régions susceptibles d’être affectées.\n5. Caractéristiques géographiques, géologiques et pédologiques.\n6. Flore et faune, y compris les cultures, le bétail et les espèces migratrices.\n7. Description des écosystèmes, cibles ou non, susceptibles d’être affectés.\n8. Comparaison de l’habitat naturel de l’organisme récepteur avec le ou les sites envisagés pour la dissémination.\n9. Toute évolution ou modification de l’utilisation des terrains prévue dans la région et qui pourrait influencer les conséquences de la dissémination pour l’environnement.\n4. INFORMATIONS SUR LES INTERACTIONS ENTRE LES OGM ET L’ENVIRONNEMENT 1. Caractéristiques affectant la survie, la multiplication et la dissémination 1. Caractères biologiques qui affectent la survie, la multiplication et la dispersion.\n2. Conditions environnementales connues ou prévues qui peuvent influer sur la survie, la multiplication et la dissémination (vent, eau, sol, température, pH, etc.).\n3. Sensibilité à des agents spécifiques.\n2. Interactions avec l’environnement 1. Habitat prévisible des OGM.\n2. Études du comportement et des caractéristiques des OGM ainsi que de leur impact écologique, effectuées dans des environnements naturels simulés tels que microcosmes, chambres de croissance ou serres.\n3. 1. transfert, après la dissémination, du matériel génétique des OGM dans des organismes se trouvant dans les écosystèmes affectés;\n2. transfert, après la dissémination, du matériel génétique d’organismes indigènes dans les OGM.\n4. Probabilité, après la dissémination, d’une sélection menant à l’expression de caractères inattendus et/ou indésirables dans l’organisme modifié.\n5. Mesures employées pour assurer et vérifier la stabilité génétique. Description des caractères génétiques qui peuvent empêcher ou réduire au minimum la dispersion du matériel génétique. Méthodes de vérification de la stabilité génétique.\n6. Voies de dispersion biologique, modes connus ou possibles d’interaction avec l’agent disséminateur, y compris l’inhalation, l’ingestion, le contact superficiel, l’enfouissement, etc.\n7. Description des écosystèmes dans lesquels les OGM pourraient se propager.\n8. Possibilité d’accroissement excessif de la population dans l’environnement.\n9. Avantage sélectif des OGM par rapport aux organismes récepteurs ou parentaux non modifiés.\n10. Identification et description des organismes cibles, le cas échéant.\n11. Mécanisme et résultat prévus de l’interaction entre les OGM disséminés et les organismes cibles, le cas échéant.\n12. Identification et description d’organismes non-cibles susceptibles d’être affectés par la dissémination des OGM et mécanismes prévus de toute interaction négative identifiée.\n13. Probabilité de changement, après la dissémination, dans les interactions biologiques ou dans la gamme d’hôtes.\n14. Interactions connues ou prévues avec des organismes non-cibles dans l’environnement, notamment les concurrents, proies, hôtes, symbiotes, prédateurs, parasites et agents pathogènes.\n15. Implications connues ou prévues dans les processus biogéochimiques.\n16. Autres interactions potentielles avec l’environnement.\n5. INFORMATIONS SUR LES PLANS DE SURVEILLANCE, DE CONTRÔLE, DE TRAITEMENT DES DÉCHETS ET D’INTERVENTION D’URGENCE 1. Techniques de surveillance 1. Méthodes de traçage des OGM et de suivi de leurs effets.\n2. Spécificité (pour identifier les OGM et pour les distinguer des organismes donneurs, récepteurs et, le cas échéant, parentaux), sensibilité et fiabilité des techniques de contrôle.\n3. Techniques de détection du transfert à d’autres organismes du matériel génétique donné.\n4. Durée et fréquence de la surveillance.\n2. Contraintes imposées à la dissémination 1. Méthodes et procédures appliquées pour éviter et/ou réduire au minimum la propagation des OGM au-delà du site de dissémination ou de la zone d’utilisation désignée.\n2. Méthodes et procédures appliquées pour protéger le site contre l’intrusion de personnes non autorisées.\n3. Méthodes et procédures appliquées pour empêcher d’autres organismes de pénétrer sur le site.\n3. Traitement des déchets 1. Type de déchets produits.\n2. Quantité de déchets prévue.\n3. Description du traitement envisagé.\n4. Plans d’intervention d’urgence 1. Méthodes et procédures de contrôle des OGM au cas où ils se propageraient de manière inattendue.\n2. Méthodes de décontamination des zones affectées, par exemple éradication des OGM.\n3. Méthodes d’élimination ou d’assainissement des plantes, des animaux, des sols, etc., qui ont été exposés pendant ou après la propagation.\n4. Méthodes d’isolement du site affecté par la propagation.\n5. Plans de protection de la santé humaine et de l’environnement en cas d’apparition d’effets indésirables.\n6. INFORMATION SUR LA COUVERTURE DU RISQUE. - loi",
+      "text_sha256": "bff2c7942d23763b9c03b4b89eb5c3574e972abd8c2e88ae48135311b40285d9",
+      "md_span": {
+        "start": 2835,
+        "end": 14273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I B",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**INFORMATIONS DEVANT FIGURER DANS LA NOTIFICATION DES PROJETS DE DISSÉMINATION DES PLANTES SUPÉRIEURES GÉNÉTIQUEMENT MODIFIÉES (PSGM) (GYMNOSPERMES ET ANGIOSPERMES)**\n\n1. 1. Nom et adresse du notifiant (société ou institut).\n2. Nom, qualifications et expérience des scientifiques responsables.\n3. Titre du projet.\n2. 1. 1. nom de famille;\n2. genre;\n3. espèce;\n4. sous-espèce;\n5. cultivar/lignée;\n6. nom usuel.\n2. 1. mode(s) de reproduction;\n2. le cas échéant, facteurs spécifiques affectant la reproduction;\n3. temps de génération. b) Compatibilité sexuelle avec d’autres espèces végétales sauvages ou cultivées, y compris la répartition en Europe des espèces compatibles.\n3. 1. capacité à former des structures de survie ou de dormance;\n2. le cas échéant, facteurs spécifiques affectant la capacité de survie.\n4. 1. voies et étendue de la dissémination (par exemple, estimation de la manière dont la qualité de pollen viable et/ou des graines décline à mesure que la distance augmente);\n2. le cas échéant, facteurs spécifiques affectant la dissémination.\n5. Distribution géographique de la plante.\n6. Pour les espèces végétales qui ne poussent pas habituellement dans les États membres, description de l’habitat naturel de la plante, y compris les informations sur les prédateurs naturels, les parasites, les concurrents et les symbiotes.\n7. Autres interactions potentielles, pertinentes pour l’OGM, de la plante avec des organismes dans l’écosystème habituel, ou ailleurs, y compris les informations sur sa toxicité pour les hommes, les animaux et d’autres organismes.\n3. INFORMATIONS CONCERNANT LA MODIFICATION GÉNÉTIQUE 1. Description des méthodes utilisées pour la modification génétique.\n2. Nature et source du vecteur utilisé.\n3. Taille, origine (nom) des organismes donneurs et fonction recherchée de chaque fragment constitutif de la région envisagée pour l’insertion.\n4. INFORMATION CONCERNANT LA PLANTE SUPÉRIEURE GÉNÉTIQUEMENT MODIFIÉE 1. Description du ou des caractères et des caractéristiques qui ont été introduits ou modifiés.\n2. 1. taille et structure de l’insert et méthodes utilisées pour sa caractérisation, avec indication des parties de vecteur introduites dans la PSGM ou de tout ADN vecteur ou étranger restant dans la PSGM;\n2. en cas de délétion, taille et fonction des régions supprimées;\n3. nombre de copies de l’insert;\n4. localisation de l’insert dans les cellules de la plante (intégré au chromosome, aux chloroplastes ou aux mitochondries, ou sous forme non intégrée), et méthodes utilisées pour sa détermination.\n3. 1. informations concernant l’expression évolutive de l’insert durant le cycle de vie de la plante et les méthodes utilisées pour sa caractérisation;\n2. parties de la plante où l’insert est exprimé (par exemple les racines, la tige, le pollen, etc.).\n4. 1. mode(s) et/ou vitesse de reproduction;\n2. dissémination;\n3. capacité de survie.\n5. Stabilité génétique de l’insert et stabilité phénotypique de la PSGM.\n6. Toute modification de la capacité de la PSGM à transférer du matériel génétique dans d’autres organismes.\n7. Information concernant les effets toxiques, allergisants ou autres effets nocifs résultant de la modification génétique sur la santé humaine.\n8. Information concernant la sécurité de la PSGM pour la santé des animaux notamment en ce qui concerne tout effet toxique, allergisant ou autre effet nocif résultant de la modification génétique, lorsque la PSGM est destinée à être utilisée dans l’alimentation des animaux.\n9. Mécanisme d’interaction entre la plante génétiquement modifiée et les organismes cibles (le cas échéant).\n10. Modifications potentielles des interactions de la PSGM avec les organismes non-cibles résultant de la modification génétique.\n11. Interactions potentielles avec l’environnement abiotique.\n12. Description des méthodes de détection et d’identification de la plante génétiquement modifiée.\n13. Informations, le cas échéant, sur les précédentes disséminations de la plante génétiquement modifiée.\n5. LOI 1. Localisation et étendue des sites de dissémination.\n2. Description de l’écosystème des sites de dissémination, y compris le climat, la flore et la faune.\n3. Présence d’espèces apparentées sauvages sexuellement compatibles ou d’espèces végétales cultivées sexuellement compatibles.\n4. Proximité des sites de biotopes officiellement reconnus ou de zones protégées susceptibles d’être affectées.\n6. LOI 1. Objectif de la dissémination.\n2. Dates et durée prévues de l’opération.\n3. Méthode de dissémination envisagée.\n4. Méthode de préparation et gestion du site avant, pendant et après la dissémination, y compris les pratiques culturales et les modes de récolte.\n5. Nombre approximatif de plantes (ou de plantes par mètre carré).\n7. LOI ) 1. 1. distances des autres espèces végétales sexuellement compatibles, espèces parentales sauvages et cultivées;\n2. mesures visant à minimiser ou à empêcher la dissémination de tout organe reproducteur de la PSGM (par exemple pollen, graines, tubercules).\n2. Description des méthodes de traitement du site après dissémination.\n3. Description des méthodes de traitement après dissémination pour le matériel issu de plantes génétiquement modifiées, y compris les déchets.\n4. Description des plans et des techniques de surveillance.\n5. Description des plans d’urgence.\n6. Méthodes et procédures de protection du site.\n8. INFORMATION SUR LA COUVERTURE DU RISQUE. - loi",
+      "text_sha256": "908b535ad166941d1302e76a1496987fdd8c7762170f0317499ac9157b4caf24",
+      "md_span": {
+        "start": 14318,
+        "end": 19723
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-1998-04-17-n1:2004-05-01#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**INFORMATIONS COMPLÉMENTAIRES**\n\nLa présente annexe décrit, en termes généraux, les informations complémentaires à fournir en cas de notification en vue de la mise sur le marché et les informations sur les exigences en matière d’étiquetage en ce qui concerne les OGM en tant que produits ou éléments de produit à mettre sur le marché et les OGM décrits dans l’article 2, point 4, deuxième alinéa de la directive. Elle est complétée par des notes explicatives concernant notamment la description de l’usage prévu du produit, qui seront publiées au Journal Officiel de la Communauté Européenne.\n\nL’étiquetage des organismes exemptés fera l’objet de recommandations et restrictions appropriées en matière d’utilisation.\n\n1. 1. Noms commerciaux proposés pour les produits et noms des OGM qu’ils contiennent, ainsi que toute identification, nom ou code spécifique utilisé par le notifiant pour identifier l’OGM. Après autorisation, tout nouveau nom commercial devrait être communiqué à l’autorité compétente.\n2. Nom et adresse complète de la personne établie sur le territoire de la Communauté qui est responsable de la mise sur le marché, qu’il s’agisse du fabricant, de l’importateur ou du distributeur.\n3. Nom et adresse complète du ou des fournisseurs des échantillons de contrôle.\n4. Description de la manière dont le produit et l’OGM en tant que produit ou élément de produit sont destinés à être utilisés. Il conviendrait de mettre en évidence les différences d’utilisation ou de gestion entre l’OGM et des produits similaires non génétiquement modifiés.\n5. Description de la ou des zones géographiques et du ou des types d’environnement dans lesquels le produit est destiné à être utilisé dans la Communauté, y compris, le cas échéant, l’ampleur estimée de l’utilisation dans chaque zone\n6. Catégories prévues des utilisateurs du produit: industrie, agriculture et commerce spécialisé, utilisation de produits par le public en général.\n7. Informations sur la modification génétique aux fins de placer sur un ou plusieurs registres des modifications d’organismes qui peuvent être utilisées pour détecter et identifier des produits OGM particuliers afin de faciliter les contrôles et inspections postérieures à la commercialisation. Ces informations devraient inclure, le cas échéant, la localisation des échantillons de l’OGM ou de son matériel génétique auprès de l’autorité compétente ou des détails de séquences nucléotidiques ou d’autres types d’informations nécessaires pour identifier le produit OGM et sa descendance, par exemple la méthodologie permettant de détecter et d’identifier le produit OGM, y compris les données expérimentales démontrant la spécificité de la méthodologie. Les informations qui ne peuvent être placées, pour des raisons de confidentialité, dans la partie du registre qui est accessible au public devraient être identifiées.\n8. Étiquetage proposé sur une étiquette ou dans un document d’accompagnement. Cette information doit inclure, au moins sous une forme résumée, un nom commercial du produit, une mention indiquant que «le produit contient des organismes génétiquement modifiés», le nom de l’OGM et les informations visées au point 2. L’étiquette devrait indiquer comment accéder aux informations dans la partie du registre qui est accessible au public.\n2. loi 1. les mesures à prendre en cas de dissémination involontaire ou d’utilisation erronée;\n2. les instructions ou recommandations particulières d’entreposage et de manipulation:\n3. les instructions spécifiques permettant d’effectuer la surveillance et d’établir le rapport pour le notifiant et, le cas échéant, à l’autorité compétente, de sorte que les autorités compétentes puissent être dûment informées de tout effet néfaste. Ces instructions devraient être compatibles avec la réglementation déterminant les exigences en matière de surveillance des organismes génétiquement modifiés ayant fait l’objet d’une autorisation. :\n4. les restrictions proposées quant à l’utilisation approuvée de l’OGM, par exemple les circonstances dans lesquelles le produit peut être utilisé et à quelles fins;\n5. l’emballage proposé;\n6. la production et/ou importations prévues dans la Communauté ;\n7. l’étiquetage supplémentaire prévu. Celui-ci peut comprendre, au moins sous une forme résumée, les informations visées aux points A 4, A 5, B 1, B 2, B 3 et B 4.",
+      "text_sha256": "52c85c2338db641279033baebde1d144acf788164472afeaab4c236b27b5c76a",
+      "md_span": {
+        "start": 19767,
+        "end": 24112
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

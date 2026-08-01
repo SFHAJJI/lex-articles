@@ -1,0 +1,375 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24",
+  "language": "fr",
+  "title": "Version consolidée applicable au 24/04/2018 : Loi du 23 février 2010 relative à l'application du principe de reconnaissance mutuelle aux sanctions pécuniaires.",
+  "valid_from": "2018-04-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2010-02-23-n1/versions/2018-04-24/fr.xml",
+    "sha256": "67438596cf2be033b697e4a4f7e4941c99cf2cc2dea03f9fa59b1cc23742d351",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/consolide/20180424/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_1er/20100313",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Principes généraux"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "La reconnaissance et l'exécution au Grand-Duché de Luxembourg d'une sanction pécuniaire infligée dans un autre Etat membre de l'Union européenne et la demande de reconnaissance et d'exécution adressée par le Grand-Duché de Luxembourg à un autre Etat membre de l'Union européenne sont régies par la présente loi.",
+      "text_sha256": "b163f10082045fa5fc3f32708e54c55b2de7a14ff9fdcb8f47fa9def132f87b9",
+      "md_span": {
+        "start": 674,
+        "end": 985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_2/20100313",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Principes généraux"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Par décision au sens de la présente loi, on entend toute décision infligeant à titre définitif une sanction pécuniaire à une personne physique ou morale lorsque la décision a été rendue par:\n\n- une juridiction en raison d'une infraction pénale,\n- une autorité autre qu'une juridiction en raison d'une infraction pénale ou d'un acte punissable à condition que l'intéressé ait eu la possibilité de faire porter l'affaire devant une juridiction ayant compétence notamment en matière pénale.",
+      "text_sha256": "1320f967feceff99df38252453f99fba393d77961c0a9d112a246bd75ad59b3d",
+      "md_span": {
+        "start": 1020,
+        "end": 1507
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_3/20100313",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Principes généraux"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Par sanction pécuniaire au sens de la présente loi, on entend toute obligation de payer:\n\n1. une somme d'argent après condamnation pour une infraction, imposée dans le cadre d'une décision;\n2. une indemnité aux victimes, imposée dans le cadre de la même décision, la victime ne pouvant pas être une partie civile à l'action et la juridiction agissant dans l'exercice de sa compétence pénale;\n3. une somme d'argent au titre des frais afférents à la procédure judiciaire ou administrative ayant conduit à la décision;\n4. une somme d'argent à un fonds public ou à une organisation de soutien aux victimes, imposée dans le cadre de la même décision.",
+      "text_sha256": "4f3285e059dcac2f586ea646b8d58cd108b2c60b87e80fd540c218c7daeaff8b",
+      "md_span": {
+        "start": 1542,
+        "end": 2187
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_4/20100313",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. — Principes généraux"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Le Procureur Général d'Etat est désigné comme autorité centrale:\n\n- pour l'émission de demandes de reconnaissance et d'exécution de décisions au sens de l'article 2 vers un autre Etat membre de l'Union européenne et\n- pour la reconnaissance de décisions au sens de l'article 2 prononcées dans un autre Etat membre et leur exécution sur le territoire national à l'égard d'une personne physique ou morale qui possède des biens ou des revenus au Grand-Duché de Luxembourg, y a sa résidence habituelle ou son siège statutaire.",
+      "text_sha256": "49d4e184c726e86188b1cb199e8206c8ea603ae8bbed9672805ea09047e37717",
+      "md_span": {
+        "start": 2222,
+        "end": 2744
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_5/20100313",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "**(1)** La reconnaissance et l'exécution d'une sanction pécuniaire sont refusées lorsque le ou les faits qui sont à la base de la décision infligeant la sanction ne constituent pas une infraction pénale ou un acte punissable au regard du droit luxembourgeois.\n\n**(2)** Par dérogation au paragraphe (1), une décision de condamnation est reconnue et exécutée sans contrôle de la double incrimination et aux conditions de la présente loi, si le fait constitue une des infractions suivantes:\n\n1. participation à une organisation criminelle;\n2. terrorisme;\n3. traite des êtres humains;\n4. exploitation sexuelle des enfants et pédopornographie;\n5. trafic illicite de stupéfiants et de substances psychotropes;\n6. trafic illicite d'armes, de munitions et d'explosifs;\n7. corruption;\n8. fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la Convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes;\n9. blanchiment du produit du crime;\n10. faux-monnayage et contrefaçon de monnaie, y compris de l'euro;\n11. cybercriminalité;\n12. crimes contre l'environnement, y compris le trafic illicite d'espèces animales menacées, et le trafic illicite d'espèces et d'essences végétales menacées;\n13. aide à l'entrée et au séjour irréguliers;\n14. homicide volontaire, coups et blessures graves;\n15. trafic d'organes et de tissus humains;\n16. enlèvement, séquestration et prise d'otage;\n17. racisme et xénophobie;\n18. vol organisé ou à main armée;\n19. trafic de biens culturels y compris d'antiquités et d'œuvres d'art;\n20. escroquerie;\n21. racket et extorsion de fonds;\n22. contrefaçon et piratage de produits;\n23. falsification de documents administratifs et trafic de faux;\n24. falsification de moyens de paiement;\n25. trafic de substances hormonales et d'autres facteurs de croissance;\n26. trafic de matières nucléaires et radioactives;\n27. trafic de véhicules volés;\n28. viol;\n29. incendie volontaire;\n30. crimes relevant de la Cour pénale internationale;\n31. détournement d'avion ou de navire;\n32. sabotage;\n33. conduite contraire aux normes qui règlent la circulation routière, y compris les infractions aux dispositions en matière de temps de conduite et de repos et aux dispositions relatives au transport des marchandises dangereuses;\n34. contrebande de marchandises;\n35. atteinte aux droits de propriété intellectuelle;\n36. menaces et actes de violence contre des personnes, y compris au cours de manifestations sportives;\n37. vandalisme criminel;\n38. vol;\n39. infractions établies par l'Etat d'émission et couvertes par les obligations d'exécution découlant des instruments adoptés conformément au traité CE ou au titre VI du traité UE.",
+      "text_sha256": "9c5769eef31ec2ae955f82dfca36a85f7277f20bf71a1f9a7ccc2622c21889d8",
+      "md_span": {
+        "start": 2924,
+        "end": 5656
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_6/20150421",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2015-04-21",
+      "text_md": "**(1)** La reconnaissance et l'exécution de la décision sont refusées dans les cas suivants:\n\n1. une décision a été rendue à l'encontre de la personne condamnée en raison des mêmes faits au Luxembourg ou dans un autre Etat membre et cette décision a été exécutée,\n2. la personne condamnée est un mineur de moins de 16 ans accomplis au moment des faits,\n3. la décision inflige une sanction pécuniaire qui est inférieure à 70 euros,\n4. décision-cadre 2005/214/JAI\n5. il y a prescription de la peine selon la loi luxembourgeoise et la décision concerne des faits de la compétence des autorités luxembourgeoises,\n6. il existe une immunité qui rend impossible l'exécution de la décision au Grand-Duché de Luxembourg.\n\n**(2)** La reconnaissance et l'exécution de la décision peuvent être refusées dans les cas suivants:\n\n1. le certificat annexé à la décision est incomplet ou ne correspond manifestement pas à la décision;\n2. la décision porte sur des actes qui ont été commis en tout ou en partie sur le territoire luxembourgeois ou en un lieu assimilé à son territoire;\n3. la décision porte sur des actes qui ont été commis hors du territoire de l'Etat d'émission et la loi luxembourgeoise n'autorise pas la poursuite pour les mêmes infractions commises hors de son territoire;\n4. dans le cas d'une procédure écrite, la personne n'a pas été informée personnellement ou par l'intermédiaire de son mandataire de son droit de former un recours et du délai pour le faire;\n5. - qu'elle a en temps utile été citée à personne et a été informée officiellement et effectivement de la date et du lieu du procès et du fait qu'une décision pouvait être rendue en cas de non-comparution, ou\n- qu'elle a donné mandat à un conseil juridique et a été effectivement défendue par ce conseil pendant le procès, ou\n- qu'après s'être vu signifier la décision et avoir été expressément informée de son droit à une nouvelle procédure de jugement ou à une procédure d'appel, la personne a indiqué expressément qu'elle ne contestait pas la décision ou elle n'a pas demandé une nouvelle procédure de jugement ou une procédure d'appel dans le délai légal.\n\n**(3)** Dans les cas visés au paragraphe (1), points 4) et 5) et paragraphe (2) points 1), 4) et 5) et avant de décider de ne pas reconnaître et de ne pas exécuter la décision, le Procureur général d'Etat consulte l'autorité compétente de l'Etat d'émission et, le cas échéant, lui demande sans délai toute information supplémentaire nécessaire.",
+      "text_sha256": "7f6e791cace15233ea6d2ddf62f5065341b0ae11c60514a08d46058bc9fbb8d4",
+      "md_span": {
+        "start": 5691,
+        "end": 8161
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_7/20100313",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "La décision ou une copie certifiée conforme, accompagnée du certificat prévu à l'annexe de la présente loi, est transmise par l'autorité compétente de l'Etat d'émission par tout moyen laissant une trace écrite, dans des conditions permettant au Procureur général d'Etat d'en vérifier l'authenticité.",
+      "text_sha256": "bc26f65b3234a06d5ac40184c75b9107517ccc1b4a75d77c70cbfd1570afc91d",
+      "md_span": {
+        "start": 8196,
+        "end": 8495
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_8/20150421",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2015-04-21",
+      "text_md": "Le certificat transmis doit être traduit en langue française, allemande ou anglaise.\n\nSi le Procureur général d'Etat qui reçoit une décision accompagnée du certificat estime que le contenu du certificat est insuffisant pour statuer sur l'exécution de la condamnation, il peut demander à l'Etat d'émission que les parties essentielles de la décision fassent l'objet d'une traduction en français ou en allemand.",
+      "text_sha256": "946a43913818f233607b71ea3ae49853229effb5292640f529326ee21b0e5ecb",
+      "md_span": {
+        "start": 8530,
+        "end": 8939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_9/20100313",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Sauf refus motivé sur base des articles 5 ou 6, le Procureur général d'Etat reconnaît la décision et prend sans délai toutes les mesures nécessaires à son exécution.\n\nLorsqu'il est établi que la décision porte sur des faits qui n'ont pas été commis sur le territoire de l'Etat d'émission et que ces faits relèvent de la compétence du Grand-Duché de Luxembourg, il peut être décidé de réduire le montant de la sanction au montant maximal prévu pour des faits de même nature en vertu du droit luxembourgeois.\n\nS'il y a lieu, le montant de la sanction est converti en euros, au taux de change en vigueur au moment où la sanction a été prononcée.\n\nLorsque la personne condamnée est en mesure de fournir la preuve d'un paiement total ou partiel de la sanction pécuniaire dans un Etat membre, le Procureur général d'Etat consulte l'autorité compétente de l'Etat d'émission. Toute partie du montant de la sanction recouvrée est déduite du montant de la sanction faisant l'objet d'une exécution au Luxembourg.",
+      "text_sha256": "c1316865ebfe59df6fbc16a1daeaccfa6f20cdc5019181099a757521b474fe30",
+      "md_span": {
+        "start": 8974,
+        "end": 9975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_10/20180424",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2018-04-24",
+      "text_md": "L’exécution au Luxembourg d’une sanction pécuniaire prononcée par un autre État membre de l’Union européenne est régie par les lois luxembourgeoises.\n\nPour le recouvrement des sanctions pécuniaires, l’Administration de l’enregistrement et des domaines bénéficie du droit de procéder à une sommation à tiers détenteur conformément à l’article 8 de la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes, des droits d’accise sur l’eau-de-vie et des cotisations d’assurance sociale.\n\nLorsqu’il n’est pas possible d’exécuter une décision, en tout ou en partie, le Procureur général d’État peut appliquer des peines de substitution, y compris la contrainte par corps, si l’État d’émission a prévu cette possibilité dans le certificat annexé.",
+      "text_sha256": "fb0846611ba894f80954a0d8776b9828145259caf5cfa894bb4e06ef992d7a3b",
+      "md_span": {
+        "start": 10012,
+        "end": 10783
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1933/11/27/n1/jo",
+          "text": "loi modifiée du 27 novembre 1933"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_11/20100313",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "L'amnistie et la grâce peuvent être accordées selon les dispositions de la loi luxembourgeoise.",
+      "text_sha256": "29e8e07fa93b29f7614fe903d86f0204f240332c59fb4f036c881fd975bc5fed",
+      "md_span": {
+        "start": 10820,
+        "end": 10915
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_12/20100313",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Les sommes obtenues à la suite de l'exécution de la décision reviennent au trésor public, sauf accord exprès contraire conclu avec l'Etat d'émission.",
+      "text_sha256": "1f918a7e8fcff8032f21edbf2270cc7c958a96139b612b4db6eef9461fd07a77",
+      "md_span": {
+        "start": 10952,
+        "end": 11101
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_13/20100313",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Le Grand-Duché de Luxembourg applique le principe de réciprocité à l'égard des Etats membres qui ont fait une déclaration au sens de l'article 20, paragraphe (2) de la décision cadre du 24 février 2005.",
+      "text_sha256": "e7ae44ceb58d3a19f393ddd63d047dc48eaf06ace6f0245b3e7f602c06c5e647",
+      "md_span": {
+        "start": 11138,
+        "end": 11340
+      },
+      "citations": [
+        {
+          "href": "http://data.europa.eu/eli/dec_framw/2005/214/oj",
+          "text": "décision cadre du 24 février 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_14/20100313",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre II. — Demande de reconnaissance et d'exécution adressée au Grand-Duché de Luxembourg par un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Le Procureur général d'Etat informe sans tarder l'autorité compétente de l'Etat d'émission par tout moyen laissant une trace écrite:\n\n- de la transmission de la décision, sous forme d'extrait informatisé, à l'Administration de l'Enregistrement et des Domaines,\n- de toute décision de ne pas reconnaître ou exécuter une décision et des motifs de cette décision de refus,\n- de la non-exécution totale ou partielle de la décision,\n- de l'exécution de la décision dès qu'elle est achevée,\n- de l'application éventuelle de la contrainte par corps.",
+      "text_sha256": "d7ddb65c4dde76e214222642434e3c1bd5313c212bac1f918471baf8e3caf884",
+      "md_span": {
+        "start": 11377,
+        "end": 11919
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_15/20100313",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Demande de reconnaissance et d'exécution adressée par le Grand-Duché de Luxembourg à un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Le Procureur général d'Etat transmet une demande de reconnaissance et d'exécution d'une sanction pécuniaire prononcée au Luxembourg aux autorités compétentes d'un autre Etat membre de l'Union européenne:\n\n- dans lequel la personne physique ou morale à l'encontre de laquelle la décision a été prononcée possède des biens ou des revenus,\n- dans lequel la personne physique a sa résidence habituelle ou,\n- dans lequel la personne morale a son siège statutaire.",
+      "text_sha256": "f54ba84adc034141af5875c7fcedd23cd7b23a22a0a724bfed6c04d30411b5e8",
+      "md_span": {
+        "start": 12104,
+        "end": 12562
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_16/20100313",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Demande de reconnaissance et d'exécution adressée par le Grand-Duché de Luxembourg à un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2010-03-13",
+      "text_md": "Le Procureur général d'Etat, une fois la décision transmise à un autre Etat membre de l'Union européenne, ne peut plus exécuter lui-même la décision en question.\n\nLe Procureur général d'Etat reprend son droit d'exécuter la décision lorsque l'Etat d'exécution l'informe de la non-reconnaissance respectivement de la non-exécution de la décision en vertu de son droit national.\n\nSi, après transmission d'une demande à un autre Etat membre, le Procureur général d'Etat reçoit une somme d'argent que la personne condamnée a payée volontairement, il informe sans tarder les autorités compétentes de cet Etat d'exécution.",
+      "text_sha256": "eba29b28a6402dfb321264b49510c7b6e6a4376ff6246b34c904178be7fcdcba",
+      "md_span": {
+        "start": 12599,
+        "end": 13214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/art_17/20150421",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre III. — Demande de reconnaissance et d'exécution adressée par le Grand-Duché de Luxembourg à un autre Etat membre de l'Union européenne"
+      ],
+      "article_valid_from": "2015-04-21",
+      "text_md": "Le Procureur général d'Etat informe immédiatement l'autorité compétente de l'Etat d'exécution de toute mesure ayant pour objet de retirer à la décision son caractère exécutoire ou de soustraire la décision à l'Etat d'exécution pour toute autre raison.",
+      "text_sha256": "26101c01b1fdf79d6c0b64422aceaf4ee761c9d90a9f3965c551527e64762846",
+      "md_span": {
+        "start": 13251,
+        "end": 13502
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-2010-02-23-n1:2018-04-24#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**CERTIFICAT**\n\n**visé à l’article 4 de la décision-cadre 2005/214/JAI du Conseil concernant**\n\n**l’application du principe de reconnaissance mutuelle aux sanctions pécuniaires**\n\n| a) |  |\n| --- | --- |\n| **•** | État |\n|  | d’émission: |\n|  |  |\n| **•** | État |\n|  | d’exécution: |\n\n| b) Autorité ayant émis la décision imposant la sanction pécuniaire: |\n| --- |\n| Nom officiel: |\n| Adresse: |\n| . |\n| Référence du dossier: |\n| N° de téléphone (indicatif du pays) (indicatif zonal ou urbain): |\n| N° de télécopieur (indicatif du pays) (indicatif zonal ou urbain): |\n| Adresse électronique (si l'information est disponible): |\n| Langues dans lesquelles il est possible de communiquer avec l'autorité d'émission: |\n| . |\n| Coordonnées de la ou des personne(s) à contacter pour obtenir des informations complémentaires aux fins de l'exécution de la décision ou, le cas échéant, aux fins du transfert à l'État d'émission de sommes provenant de l'exécution (nom, titre/grade, n° de téléphone, n° de télécopieur, et, si l'information est disponible, adresse électronique): |\n| . |\n| . |\n| . |\n\n| c) Autorité compétente pour l'exécution de la décision imposant la sanction pécuniaire dans l'État d'émission [si cette autorité est différente de celle indiquée au point b)]: |\n| --- |\n| Nom officiel: |\n| . |\n| Adresse: |\n| . |\n| N° de téléphone (indicatif du pays) (indicatif zonal ou urbain): |\n| N° de télécopieur (indicatif du pays) (indicatif zonal ou urbain): |\n| Adresse électronique (si l'information est disponible): |\n| Langues dans lesquelles il est possible de communiquer avec l'autorité compétente pour l'exécution: |\n| . |\n| Coordonnées de la ou des personne(s) à contacter pour obtenir des informations complémentaires aux fins de l'exécution de la décision ou, le cas échéant, aux fins du transfert à l'État d'émission de sommes provenant de l'exécution (nom, titre/grade, n° de téléphone, n° de télécopieur, et, si l'information est disponible, adresse électronique): |\n| . |\n| . |\n| . |\n\n| d) Si une autorité centrale a été chargée de la transmission des décisions imposant des sanctions pécuniaires dans l'État d'émission: |\n| --- |\n| Nom de l'autorité centrale: |\n| . |\n| Personne à contacter, le cas échéant (titre/grade et nom): |\n| . |\n| Adresse: |\n| . |\n| Référence du dossier: |\n| N° de téléphone (indicatif du pays) (indicatif zonal ou urbain): |\n| N° de télécopieur (indicatif du pays) (indicatif zonal ou urbain): |\n| Adresse électronique (si l'information est disponible): |\n\n| e) L'autorité ou les autorités qui peut (peuvent) être contactée(s) [si le point c) et/ou d) a été complété]: |\n| --- |\n| ▯ L'autorité indiquée au point b) |\n| peut être contactée pour les questions concernant: |\n| ▯ L'autorité indiquée au point c) |\n| peut être contactée pour les questions concernant: |\n| ▯ L'autorité indiquée au point d) |\n| peut être contactée pour les questions concernant: |\n\n| f) Renseignements concernant la personne physique ou morale frappée par la sanction pécuniaire: |\n| --- |\n| 1. Dans l e c a s d' u n e p e r s o n n e p h y s i q u e |\n| Nom: |\n| Prénom(s): |\n| Nom de jeune fille, le cas échéant: |\n| Pseudonymes, le cas échéant: |\n| Sexe: |\n| Nationalité: |\n| Numéro d'identité ou numéro de sécurité sociale (si l'information est disponible): |\n| Date de naissance: |\n| Lieu de naissance: |\n| Dernière adresse connue: |\n| . |\n| Langue(s) que la personne comprend (si l'information est disponible): |\n| . |\n| a) Si la décision est transmise à l'État d'exécution parce que la personne à l'encontre de laquelle la décision a été prononcée y a sa résidence habituelle, ajouter les informations suivantes: |\n| Résidence habituelle dans l'État d'exécution: |\n| . |\n| . |\n\n| b) Si la décision est transmise à l'État d'exécution parce que la personne à l'encontre de laquelle la décision a été prononcée possède des biens dans l'État d'exécution, ajouter les informations suivantes: |\n| --- |\n| Description des biens de la personne: |\n| Localisation des biens de la personne: |\n| c) Si la décision est transmise à l'État d'exécution parce que la personne à l'encontre de laquelle la décision a été prononcée perçoit des revenus dans l'État d'exécution, ajouter les informations suivantes: |\n| Description de la ou des source(s) de revenus de la personne: |\n| Localisation de la ou des source(s) de revenus de la personne: |\n| 2. Dans l e c a s d' u n e p e r s o n n e m o r a l e |\n| Nom: |\n| Forme: |\n| Numéro d'immatriculation (si l'information est disponible) : |\n| Siège statutaire (si l'information est disponible) : |\n| Adresse de la personne morale: |\n| a) Si la décision est transmise à l'État d'exécution parce que la personne morale à l'encontre de laquelle la décision a été prononcée possède des biens dans l'État d'exécution, ajouter les informations suivantes: |\n| Description des biens de la personne morale: |\n| Localisation des biens de la personne morale: |\n| . |\n| b) Si la décision est transmise à l'État d'exécution parce que la personne morale à l'encontre de laquelle la décision a été prononcée perçoit des revenus dans l'État d'exécution, ajouter les informations suivantes: |\n| Description de la ou des source(s) de revenus de la personne morale: |\n| Localisation de la ou des source(s) de revenus de la personne morale: |\n| . |\n\n| g) Décision imposant une sanction pécuniaire: |\n| --- |\n| 1. Nature de la décision imposant la sanction pécuniaire (cochez la case correspondante): |\n| ▯ |\n| i) Décision d'une juridiction de l'État d'émission en raison d'une infraction pénale au regard du droit de l'État d'émission. |\n| ▯ |\n| ii) Décision d'une autorité de l'État d'émission autre qu'une juridiction en raison d'une infraction pénale au regard du droit de l'État d'émission. Il est confirmé que l'intéressé a eu la possibilité de faire porter l'affaire devant une juridiction ayant compétence notamment en matière pénale. |\n| ▯ |\n| iii) Décision d'une autorité de l'État d'émission autre qu'une juridiction en raison d'actes punissables au regard du droit national de l'État d'émission en ce qu'ils constituent des infractions aux règles de droit. Il est confirmé que l'intéressé a eu la possibilité de faire porter l'affaire devant une juridiction ayant compétence notamment en matière pénale. |\n| ▯ |\n| iv) Décision d'une juridiction ayant compétence notamment en matière pénale concernant une décision au sens du point iii). |\n\n| La décision a été rendue le (date): |\n| --- |\n| La décision a été rendue à titre définitif le (date): |\n| Numéro de référence de la décision (si l'information est disponible): |\n| La sanction pécuniaire constitue une obligation de payer [cochez la case correspondante et indiquez le ou les montant(s) et la devise]: |\n| ▯ |\n| i) une somme d'argent après condamnation pour une infraction, imposée dans le cadre d'une décision |\n| Montant: |\n| ▯ |\n| ii) une indemnité aux victimes, imposée dans le cadre de la même décision, la victime ne pouvant pas être une partie civile à l'action et la juridiction agissant dans l'exercice de sa compétence pénale |\n| Montant: |\n| ▯ |\n| iii) une somme d'argent au titre des frais afférents à la procédure judiciaire ou administrative ayant conduit à la décision |\n| Montant: |\n| ▯ |\n| iv) une somme d'argent à un fonds public ou à une organisation de soutien aux victimes, imposée dans le cadre de la même décision |\n| Montant: |\n| Montant total de la sanction pécuniaire et devise: |\n| . |\n| 2. Résumé des faits et description des circonstances dans lesquelles la ou les infractions ont été commises, y compris l'heure et le lieu: |\n| . |\n| . |\n| . |\n| . |\n| . |\n| Nature et qualification légale de l'infraction ou des infractions et disposition légale ou code applicable en vertu de laquelle ou duquel la décision a été rendue: |\n| . |\n| . |\n| . |\n| 3. Dans la mesure où l'infraction ou les infractions visée(s) au point 2 constitue(nt) une ou plusieurs des infractions |\n| ci-après, confirmez-le en cochant la ou les case(s) correspondante(s): |\n| ▯ |\n| participation à une organisation criminelle; |\n| ▯ |\n| terrorisme; |\n| ▯ |\n| traite des êtres humains; |\n| ▯ |\n| exploitation sexuelle des enfants et pédopornographie; |\n| ▯ |\n| trafic de stupéfiants et de substances psychotropes; |\n\n| ▯ |\n| --- |\n| trafic d'armes, de munitions et d'explosifs; |\n| ▯ |\n| corruption; |\n| ▯ |\n| fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes; |\n| ▯ |\n| blanchiment des produits du crime; |\n| ▯ |\n| faux-monnayage, y compris la contrefaçon de l'euro; |\n| ▯ |\n| cybercriminalité; |\n| ▯ |\n| crimes contre l'environnement, y compris le trafic d'espèces animales menacées et le trafic d'espèces et d'essences végétales menacées; |\n| ▯ |\n| aide à l'entrée et au séjour irréguliers; |\n| ▯ |\n| homicide volontaire, coups et blessures graves; |\n| ▯ |\n| trafic d'organes et de tissus humains; |\n| ▯ |\n| enlèvement, séquestration et prise d'otage; |\n| ▯ |\n| racisme et xénophobie; |\n| ▯ |\n| vol organisé ou à main armée; |\n| ▯ |\n| trafic de biens culturels, y compris d'antiquités et d'oeuvres d'art; |\n| ▯ |\n| escroquerie; |\n| ▯ |\n| racket et extorsion de fonds; |\n| ▯ |\n| contrefaçon et piratage de produits; |\n| ▯ |\n| falsification de documents administratifs et trafic de faux; |\n| ▯ |\n| falsification de moyens de paiement; |\n| ▯ |\n| trafic de substances hormonales et d'autres facteurs de croissance; |\n| ▯ |\n| trafic de matières nucléaires ou radioactives; |\n| ▯ |\n| trafic de véhicules volés; |\n| ▯ |\n| viol; |\n| ▯ |\n| incendie volontaire; |\n| ▯ |\n| crimes relevant de la Cour pénale internationale; |\n| ▯ |\n| détournement d'aéronef ou de navire; |\n| ▯ |\n| sabotage; |\n| ▯ |\n| conduite contraire au code de la route, y compris les infractions aux règles en matière de temps de conduite et de repos et aux règles relatives au transport de marchandises dangereuses; |\n| ▯ |\n| contrebande de marchandises; |\n| ▯ |\n| atteinte aux droits de propriété intellectuelle; |\n\n| ▯ |\n| --- |\n| menaces et actes de violence contre des personnes, y compris au cours de manifestations sportives; |\n| ▯ |\n| vandalisme criminel; |\n| ▯ |\n| vol; |\n| ▯ |\n| infractions établies par l'État d'émission et couvertes par les obligations d'exécution découlant des instruments adoptés conformément au traité CE ou au titre VI du traité UE. |\n| Si cette case est cochée, veuillez indiquer les dispositions exactes de l'instrument adopté sur la base du traité CE ou du traité UE auxquelles l'infraction se rapporte: |\n| . |\n| . |\n| 4. Dans la mesure où l'infraction ou les infractions visée(s) au point 2 n'est (ne sont) pas couverte(s) par le point 3, donnez une description complète de l'infraction ou des infractions en question: |\n| . |\n| . |\n| . |\n\n| h) Précisions sur la décision imposant la sanction pécuniaire |\n| --- |\n| 1. Veuillez confirmer que (cochez la case correspondante): |\n| ▯ |\n| a) la décision a été rendue à titre définitif; |\n| ▯ |\n| b) à la connaissance de l'autorité émettrice du certificat, il n'a pas été rendu de décision à l'encontre de la même personne en raison des mêmes faits dans l'État d'exécution et une telle décision n'a pas été exécutée dans un État autre que l'État d'émission ou d'exécution. |\n| 2. Veuillez indiquer si l'affaire a fait l'objet d'une procédure écrite: |\n| ▯ |\n| a) Non. |\n| ▯ |\n| b) Oui. Il est confirmé que l'intéressé a, conformément à la législation de l'État d'émission, été informé personnellement ou par le biais d'un représentant compétent en vertu de la législation nationale, de son droit de former un recours et du délai pour le faire. |\n| 3. Indiquez si l'intéressé a comparu en personne au procès qui a mené à la décision: |\n| 1. ▯ Oui, l'intéressé a comparu en personne au procès qui a mené à la décision. |\n| 2. ▯ Non, l'intéressé n'a pas comparu en personne au procès qui a mené à la décision. |\n| 3. Si vous avez coché la case du point 2, veuillez confirmer si: |\n| ▯ 3.1. a) l'intéressé a été cité à personne le... (jour/mois/année) et a ainsi été informé de la date et du lieu fixés pour le procès qui a mené à la décision, et s'il a été informé qu'une décision pouvait être rendue en cas de non-comparution: |\n| ou |\n| ▯ 3.1. b) l'intéressé n'a pas été cité à personne, mais a été informé officiellement et effectivement par d'autres moyens de la date et du lieu fixés pour le procès qui a mené à la décision, de telle sorte qu'il a été établi de manière non équivoque que l'intéressé a eu connaissance du procès prévu, et a été informé qu'une décision pouvait être rendue en cas de non-comparution: |\n| ou |\n| ▯ 3.2 ayant eu connaissance du procès prévu, l'intéressé a donné mandat à un conseil juridique, qui a été désigné soit par l'intéressé soit par l'Etat, pour le défendre au procès, et a été effectivement défendu par ce conseil pendant le procès: |\n| ou |\n| ▯ 3.3 l'intéressé s'est vu signifier la décision le... (jour/mois/année) et a été expressément informé de son droit à une nouvelle procédure de jugement ou à une procédure d'appel, à laquelle l'intéressé a le droit de participer et qui permet de réexaminer l'affaire sur le fond, en tenant compte des nouveaux éléments de preuve, et peut aboutir à une infirmation de la décision initiale, et |\n| ▯ l'intéressé a indiqué expressément qu'il ne contestait pas la décision; |\n| ou |\n| ▯ l'intéressé n'a pas demandé une nouvelle procédure de jugement ou une procédure d'appel dans le délai imparti; |\n| ou |\n| ▯ 3.4 l'intéressé, après avoir été expressément informé des procédures et de la possibilité de comparaître en personne, a expressément renoncé à son droit à une procédure orale et expressément signalé qu'il ne contestait pas l'affaire |\n| 4. Si vous avez coché la case du point 3.1 b), 3.2, 3.3 ou 3.4 ci-dessus, veuillez indiquer comment la condition concernée a été remplie: |\n\n| i) Peines de substitution, y compris une peine privative de liberté |\n| --- |\n| 1. Veuillez indiquer si l'État d'émission autorise l'application de peines de substitution par l'État d'exécution dans le cas où il est impossible d'exécuter, en tout ou en partie, la décision imposant une sanction pécuniaire: |\n| ▯ oui |\n| ▯ non |\n| 2. Dans l'affirmative, veuillez indiquer les peines qui peuvent être appliquées (nature et niveau maximal des peines): |\n| Détention. Durée maximale: |\n| Travaux d'intérêt général (ou un équivalent). Durée maximale: |\n| Autres sanctions. Description: |\n| . |\n\n| j) Autres circonstances pertinentes en l'espèce (informations facultatives): |\n| --- |\n| . |\n| . |\n\n| k) Le texte de la décision imposant la sanction pécuniaire est joint au certificat. |\n| --- |\n| Signature de l'autorité émettrice du certificat et/ou de son représentant attestant l'exactitude des informations figurant dans le certificat: |\n| . |\n| Nom: |\n| Fonction (titre/grade): |\n| Date: |\n| Cachet officiel (le cas échéant) |",
+      "text_sha256": "a64eea0227064e6bc54bdfd4c73ef38f3571fc03da92b626a5b5dc050a3d7c80",
+      "md_span": {
+        "start": 13543,
+        "end": 28453
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

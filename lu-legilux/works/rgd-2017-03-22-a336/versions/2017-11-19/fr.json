@@ -1,0 +1,64 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2017-03-22-a336:2017-11-19",
+  "language": "fr",
+  "title": "Version consolidée applicable au 19/11/2017 : Règlement grand-ducal du 22 mars 2017 fixant pour l’année 2017 le montant annuel de référence 2017 tel que prévu à l’article 3 de la loi modifiée du 3 août 1998 sur la promotion de la presse écrite.",
+  "valid_from": "2017-11-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2017-03-22-a336/versions/2017-11-19/fr.xml",
+    "sha256": "7a17cb2955702c12e9c6d2a8411add640aa314069e99bea9dcdecb42826c76c0",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/03/22/a336/consolide/20171119/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2017-03-22-a336:2017-11-19#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/03/22/a336/art_1er/20171119",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-11-19",
+      "text_md": "Le montant annuel de référence prévu à l'article 3 de la loi modifiée du 3 août 1998 sur la promotion de la presse écrite est fixé comme suit pour l'an 2017 :\n\n5 x 82.220 + 120 x 455 = 465.700 €.",
+      "text_sha256": "a202a4f036e63c55215603cd7db7d2d312b8c07f7d7cbeb9eb065a29258ffc64",
+      "md_span": {
+        "start": 724,
+        "end": 919
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/08/03/n13/jo",
+          "text": "loi modifiée du 3 août 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2017-03-22-a336:2017-11-19#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/03/22/a336/art_2/20170401",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-04-01",
+      "text_md": "Notre Ministre des Communications et des Médias et notre Ministre des Finances sont chargés de l'exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "06ca9f9a0c26d5bdcc719e8c685221b1dbf8b4237ada4a2bb06be399edc2e053",
+      "md_span": {
+        "start": 954,
+        "end": 1147
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

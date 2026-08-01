@@ -1,0 +1,696 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:recueil-gouvernement:2023-12-18",
+  "language": "fr",
+  "title": "Gouvernement",
+  "valid_from": "2023-12-18",
+  "valid_to": "2024-10-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/recueil-gouvernement/versions/2023-12-18/fr.xml",
+    "sha256": "5aef5a543ce77100166e887bf37d3227ccf11b752ece412e44ee5243ca0ba57d",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20231218/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_N10040",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10040",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 27 novembre 2023 portant approbation et publication du règlement interne du Gouvernement."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le règlement interne du Gouvernement adopté par le Gouvernement en conseil en date du 27 novembre 2023 est approuvé et sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "68d658301d1eb51bd6af50f63186c0dfb6a8c9f67b9ffb5ef3faf68adfa19e3a",
+      "md_span": {
+        "start": 643,
+        "end": 823
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10053",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10053",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 27 novembre 2023 portant approbation et publication du règlement interne du Gouvernement."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent arrêté entre en vigueur le 27 novembre 2023.",
+      "text_sha256": "4c7d42b06623a5d2f0117915b0451a570b5fbeaa7d9aae2da422e0e32c2b25a4",
+      "md_span": {
+        "start": 863,
+        "end": 918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10063",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10063",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 27 novembre 2023 portant approbation et publication du règlement interne du Gouvernement."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Premier ministre est chargé de l’exécution du présent arrêté qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "b4b25a579371f54778649c1eb94778df3253f3ce2f727691a47e03629b3321bd",
+      "md_span": {
+        "start": 958,
+        "end": 1087
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10099",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10099",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 1re — Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement interne détermine l’organisation et le fonctionnement du Gouvernement.",
+      "text_sha256": "41309176ff0250a25deceea58f6cac4de5bca2bd153dd142c2cf579e20b86cf9",
+      "md_span": {
+        "start": 1212,
+        "end": 1303
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N100B7",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N100B7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 2 — Des membres du Gouvernement"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Gouvernement se compose d’un Premier ministre, d’un ou de plusieurs Vice-premiers ministres, de ministres et, le cas échéant, d’un ou de plusieurs ministres délégués et secrétaires d’État.\n\nLe ministre délégué dispose d’une compétence propre dans le domaine d’un département ministériel qu’il s’est vu attribuer par voie d’arrêté grand-ducal. Cette attribution de compétences implique un pouvoir de signature de tous les actes relevant du domaine de ses compétences.\n\nLe Secrétaire d’État est habilité à signer les actes relevant du champ de compétence d’un département ministériel pour lequel le ministre du ressort lui a conféré une délégation de signature, qui est approuvée par voie d’arrêté grand-ducal.",
+      "text_sha256": "f7ecc22dd59b5302022bea1c81974a4030dd765e4f2724b9a32dc1962b195dee",
+      "md_span": {
+        "start": 1389,
+        "end": 2100
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N100D9",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N100D9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 2 — Des membres du Gouvernement"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les membres du Gouvernement exercent leurs attributions, soit en conseil, soit individuellement, conformément aux dispositions qui suivent.",
+      "text_sha256": "809f4db812c6e19f93aac392d8a6d6937b672f000cb88e97a913c485c2936c48",
+      "md_span": {
+        "start": 2140,
+        "end": 2279
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N100E9",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N100E9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 2 — Des membres du Gouvernement"
+      ],
+      "article_valid_from": null,
+      "text_md": "Chaque membre du Gouvernement a la direction d’un ou de plusieurs départements ministériels et exerce, relativement aux affaires de son département, les attributions que la Constitution, les lois et les règlements lui confèrent. L’énumération et la constitution des ministères sont fixées dans l’annexe A, respectivement l’annexe B du présent règlement.",
+      "text_sha256": "99f792f714a0f564c47d258a12f8f59ede1394cd44048b246801eeced004e9f0",
+      "md_span": {
+        "start": 2319,
+        "end": 2672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N100F9",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N100F9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 2 — Des membres du Gouvernement"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les membres du Gouvernement ont la faculté de se remplacer mutuellement. Toutefois, si le remplacement doit durer au-delà de vingt-et-un jours, une délégation de signature doit être accordée par voie d’arrêté grand-ducal au membre du Gouvernement qui assure le remplacement.",
+      "text_sha256": "cb3948d0b7fbddb26506b1ac09937ce146d35d08357a601f589d98c7a9c9a43a",
+      "md_span": {
+        "start": 2712,
+        "end": 2986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N1010D",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N1010D",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 2 — Des membres du Gouvernement"
+      ],
+      "article_valid_from": null,
+      "text_md": "Des délégations de signature peuvent être consenties aux fonctionnaires par les membres du Gouvernement pour les affaires relevant des compétences de ces derniers conformément aux dispositions figurant à l’annexe C du présent règlement.",
+      "text_sha256": "d93a2ee2503ac45b15b9699f92929214e5d40798a58755596fd888a7039a108f",
+      "md_span": {
+        "start": 3026,
+        "end": 3262
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N1011D",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N1011D",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 2 — Des membres du Gouvernement"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les membres du Gouvernement respectent les dispositions du Code de déontologie des membres du Gouvernement figurant à l’annexe D du présent règlement.",
+      "text_sha256": "e84188b0a04066a8538c99dd2f7fddb8080203bdf052d7c78f5ca4ebc6182307",
+      "md_span": {
+        "start": 3302,
+        "end": 3452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10138",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10138",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 3 — Du Premier ministre"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Premier ministre coordonne l’action du Gouvernement et veille au maintien de l’unité de l’action gouvernementale.\n\nIl dirige le Ministère d’État.\n\nDans toutes les dispositions légales, réglementaires ou administratives, la référence au Premier ministre, ministre d’État ou au ministre d‘État, s’entend comme référence au Premier ministre.",
+      "text_sha256": "7de538e0b71940d6cea5997b41830648fd2a554abdca5ca2badc389dfe1e39e7",
+      "md_span": {
+        "start": 3530,
+        "end": 3871
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10165",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10165",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 4 — Du Gouvernement en conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présidence du Conseil est exercée par le Premier ministre.\n\nEn cas d’empêchement du Premier ministre, la présidence du Conseil est exercée par un Vice-premier ministre, sinon par le ministre le plus ancien en rang.",
+      "text_sha256": "8c562f9054e99d14aba7d86dd876f26a3309d340e969a286bb7440b66fcb51df",
+      "md_span": {
+        "start": 3956,
+        "end": 4173
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N1017E",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N1017E",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 4 — Du Gouvernement en conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "Chaque membre du Gouvernement prend directement les décisions qui concernent les affaires de son département, à l’exception de celles qui doivent être décidées en Conseil.\n\nSont délibérées en Conseil :\n\n1. les affaires à soumettre à la signature du Grand-Duc, à l’exception des actes relatifs à l’exercice des droits régaliens ;\n2. les affaires qui concernent à la fois plusieurs départements ;\n3. les affaires qui concernent le Gouvernement sur proposition du Premier ministre ;\n4. les affaires qui concernent le département d’un membre du Gouvernement et pour lesquelles ce dernier propose une décision du Conseil.\n\nEn application des articles 76 et 95, alinéa 1er de la Constitution, les avant-projets de lois qui sont soumis au Conseil de Gouvernement pour approbation font l’objet d’un dépôt à la Chambre des Députés et d’une saisine simultanée du Conseil d’État par voie d’arrêté du Premier ministre.",
+      "text_sha256": "80d498a1e46e34af9180c3f0cfbbbc725524f48f2f22fb4bd20f39cc99bee910",
+      "md_span": {
+        "start": 4214,
+        "end": 5120
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701",
+          "text": "Constitution"
+        }
+      ]
+    },
+    {
+      "anchor": "art_N101B9",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N101B9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 4 — Du Gouvernement en conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les réunions du Conseil se déroulent en présentiel. Si les circonstances le commandent, les réunions peuvent se dérouler de manière virtuelle sur décision du président.\n\nLe Conseil ne peut prendre de décision pour autant que la majorité de ses membres se trouve réunie.\n\nLes décisions du Conseil sont prises par consensus, sinon à la majorité des voix. En cas de partage des voix sur des affaires à décider par le Conseil, la voix du président est prépondérante.\n\nEn cas d’urgence, le président peut soumettre une décision au Conseil par voie de procédure silencieuse. La procédure silencieuse constitue une procédure écrite selon laquelle une décision est adoptée tacitement si aucun des membres n’a fait d’objection avant une date limite fixée par le président.\n\nEn cas d’urgence extrême, le président peut, en l’absence des autres membres du Conseil, décider seul les affaires de la compétence du Conseil, à charge d’en rendre compte à la prochaine séance.",
+      "text_sha256": "48ec0625afeb4966f3eab3d7b25eada5bbd2b0e87ac41e9d2e23f1a9f95e6c7b",
+      "md_span": {
+        "start": 5161,
+        "end": 6120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N101ED",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N101ED",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 4 — Du Gouvernement en conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "La responsabilité de toute mesure arrêtée en Conseil appartient aux membres qui y ont concouru. Le membre qui a fait constater au procès-verbal son vote dissident, est affranchi de toute responsabilité.",
+      "text_sha256": "173808b1ff96742f93d1b8211c2a808e69739d6919f4623a31395239d5b38a76",
+      "md_span": {
+        "start": 6161,
+        "end": 6363
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N101FD",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N101FD",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 4 — Du Gouvernement en conseil"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les décisions du Conseil sont exécutées par le membre du département duquel relève l’affaire. Si ce membre a fait constater son vote dissident, il n’est responsable que des actes d’exécution.",
+      "text_sha256": "20ca658eef32c004fb332d825e951ff7499530a8ad30bb4093fb01cd6c740dcb",
+      "md_span": {
+        "start": 6404,
+        "end": 6595
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10218",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10218",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 5 — Des conseillers qui sont adjoints au Gouvernement"
+      ],
+      "article_valid_from": null,
+      "text_md": "Des conseillers, dont les fonctions et l’effectif maximum sont déterminés par la loi, sont adjoints au Gouvernement. La répartition en catégories des conseillers qui sont adjoints au Gouvernement est fixée dans l’annexe E du présent règlement.\n\nLes conseillers sont nommés par arrêté grand-ducal sur proposition du Premier ministre. Ils sont affectés à un département ministériel par une décision prise par le Gouvernement en conseil.",
+      "text_sha256": "934118737ecaff7a5f963989b9bff14088516e6233944a694f42164336da8290",
+      "md_span": {
+        "start": 6704,
+        "end": 7138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10231",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10231",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 5 — Des conseillers qui sont adjoints au Gouvernement"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les conseillers respectent les dispositions du Code de déontologie des conseillers qui sont adjoints au Gouvernement figurant à l’annexe F du présent règlement.",
+      "text_sha256": "5d06716e3621b35166ab47b5adb2e67223e1dba08d1691f17f8bd73756d1eb94",
+      "md_span": {
+        "start": 7179,
+        "end": 7339
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N1024C",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N1024C",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 6 — Du Secrétariat général"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il est adjoint au Conseil de Gouvernement un Secrétaire général du Gouvernement. Le Conseil de Gouvernement peut également désigner un Secrétaire général adjoint du Gouvernement qui est placé sous l’autorité du Secrétaire général du Gouvernement. Le Secrétaire général et le Secrétaire général adjoint sont désignés parmi les fonctionnaires du groupe de traitement A1.\n\nLe Secrétaire général et le Secrétaire général adjoint sont révocables à tout moment. Leurs fonctions cessent de plein droit à la fin du mandat du Gouvernement.",
+      "text_sha256": "0505519c9910109a9e2da14c36d7a2cf1653dd1497e67c20beeee85ba772e58e",
+      "md_span": {
+        "start": 7421,
+        "end": 7951
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10265",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10265",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 6 — Du Secrétariat général"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Secrétaire général et le Secrétaire général adjoint préparent les séances du Conseil, assistent à celles-ci, rédigent le procès-verbal et veillent à l’exécution des décisions du Conseil. Ils peuvent être chargés d’autres attributions par le Gouvernement.",
+      "text_sha256": "9b0e7217e4d0b595f338b65501e41c072c4127f35e5129228eeb6266ed27555f",
+      "md_span": {
+        "start": 7992,
+        "end": 8249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N10275",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10275",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 6 — Du Secrétariat général"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Secrétaire général et le Secrétaire général adjoint touchent une indemnité à fixer par décision du Gouvernement en conseil, conformément à l’article 23 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État.",
+      "text_sha256": "a76955d4c29bc17b758c67baf6730e9ad120cc94f9cae6644bdfbdd9ee314bf5",
+      "md_span": {
+        "start": 8290,
+        "end": 8535
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/04/16/n1/jo",
+          "text": "loi modifiée du 16 avril 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_N10295",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N10295",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "ORGANISATION DU GOUVERNEMENT",
+        "Règlement interne du Gouvernement.",
+        "Section 7 — Des comités interministériels"
+      ],
+      "article_valid_from": null,
+      "text_md": "Des comités interministériels peuvent être créés, sur proposition du ministre du ressort, par arrêté du Gouvernement en Conseil, qui détermine en même temps la composition, l’organisation et le fonctionnement dudit comité et qui fixe, le cas échéant, le principe d’une indemnisation de ses membres.",
+      "text_sha256": "a07a13c142fcbd71da53a05f9098f9d79a74c9fbfbcd11107c282f570a5f20f6",
+      "md_span": {
+        "start": 8624,
+        "end": 8922
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_a_enumeration_des_ministeres",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#annexe_a_enumeration_des_ministeres",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe A – Énumération des Ministères",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 9017,
+        "end": 9017
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N122C4",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N122C4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 17 novembre 2023 portant nomination de Monsieur Luc Frieden à la fonction de Premier ministre."
+      ],
+      "article_valid_from": null,
+      "text_md": "Monsieur Luc FRIEDEN, avocat, est nommé Premier ministre.",
+      "text_sha256": "0bba78555e8f55efa2a3d8e46664a8886d38a4396ac76de1f0c8a3c9fc30bc89",
+      "md_span": {
+        "start": 9224,
+        "end": 9281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N122D7",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N122D7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 17 novembre 2023 portant nomination de Monsieur Luc Frieden à la fonction de Premier ministre."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse est chargé de l’exécution du présent arrêté qui sortira ses effets au 17 novembre 2023.",
+      "text_sha256": "b8df1d3c7aee70f2af83a15d8bf51ad41930127e7eaa84d38ac8ec26f827a602",
+      "md_span": {
+        "start": 9321,
+        "end": 9477
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N122FC",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N122FC",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 17 novembre 2023 portant a) nomination de Monsieur Xavier BETTEL à la fonction de Vice-Premier ministre ; b) reconduction dans leur fonction de Ministre de Monsieur Claude MEISCH, Monsieur Lex DELLES, Madame Yuriko BACKES et Monsieur Max HAHN ; c) nomination de Madame Martine HANSEN, Monsieur Gilles ROTH, Madame Martine DEPREZ, Monsieur Léon GLODEN, Madame Stéphanie OBERTIN, Monsieur Georges MISCHO, Monsieur Serge WILMES, Madame Elisabeth MARGUE, Monsieur Eric THILL."
+      ],
+      "article_valid_from": null,
+      "text_md": "Est nommé à la fonction de Vice-Premier ministre : Monsieur Xavier BETTEL, avocat.",
+      "text_sha256": "c988e1088c7016626677cf3ebdec658a54c4c8d373a52dad1ab1969582997906",
+      "md_span": {
+        "start": 10018,
+        "end": 10100
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N1230F",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N1230F",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 17 novembre 2023 portant a) nomination de Monsieur Xavier BETTEL à la fonction de Vice-Premier ministre ; b) reconduction dans leur fonction de Ministre de Monsieur Claude MEISCH, Monsieur Lex DELLES, Madame Yuriko BACKES et Monsieur Max HAHN ; c) nomination de Madame Martine HANSEN, Monsieur Gilles ROTH, Madame Martine DEPREZ, Monsieur Léon GLODEN, Madame Stéphanie OBERTIN, Monsieur Georges MISCHO, Monsieur Serge WILMES, Madame Elisabeth MARGUE, Monsieur Eric THILL."
+      ],
+      "article_valid_from": null,
+      "text_md": "Sont reconduits dans leur fonction de Ministre : Monsieur Claude MEISCH, Monsieur Lex DELLES, Madame Yuriko BACKES et Monsieur Max HAHN.",
+      "text_sha256": "8ad69143e7004c2dc3b7effe3e4095fb0c7568cdecb0bcea80e83f287b778306",
+      "md_span": {
+        "start": 10140,
+        "end": 10276
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N1231F",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N1231F",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 17 novembre 2023 portant a) nomination de Monsieur Xavier BETTEL à la fonction de Vice-Premier ministre ; b) reconduction dans leur fonction de Ministre de Monsieur Claude MEISCH, Monsieur Lex DELLES, Madame Yuriko BACKES et Monsieur Max HAHN ; c) nomination de Madame Martine HANSEN, Monsieur Gilles ROTH, Madame Martine DEPREZ, Monsieur Léon GLODEN, Madame Stéphanie OBERTIN, Monsieur Georges MISCHO, Monsieur Serge WILMES, Madame Elisabeth MARGUE, Monsieur Eric THILL."
+      ],
+      "article_valid_from": null,
+      "text_md": "Sont nommés Ministres : Madame Martine HANSEN, professeur-ingénieur, Monsieur Gilles ROTH, juriste, Madame Martine DEPREZ, professeur de sciences, spécialité mathématiques, Monsieur Léon GLODEN, avocat, Madame Stéphanie OBERTIN, médecin-généraliste, Monsieur Georges MISCHO, professeur d’éducation physique et sportive, Monsieur Serge WILMES, historien, Madame Elisabeth MARGUE, avocat et Monsieur Eric THILL, politologue.",
+      "text_sha256": "018b828d6452bcb4a577264221b788a1fbe110a53518e6334876b343378a5e66",
+      "md_span": {
+        "start": 10316,
+        "end": 10738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N1232F",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N1232F",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Arrêté grand-ducal du 17 novembre 2023 portant a) nomination de Monsieur Xavier BETTEL à la fonction de Vice-Premier ministre ; b) reconduction dans leur fonction de Ministre de Monsieur Claude MEISCH, Monsieur Lex DELLES, Madame Yuriko BACKES et Monsieur Max HAHN ; c) nomination de Madame Martine HANSEN, Monsieur Gilles ROTH, Madame Martine DEPREZ, Monsieur Léon GLODEN, Madame Stéphanie OBERTIN, Monsieur Georges MISCHO, Monsieur Serge WILMES, Madame Elisabeth MARGUE, Monsieur Eric THILL."
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Premier ministre est chargé de l’exécution du présent arrêté qui sortira ses effets au 17 novembre 2023.",
+      "text_sha256": "0b17d1c825ac3eae55b443eab0e9dd1681c87b8a75b5a7536c7410f3a2f2299a",
+      "md_span": {
+        "start": 10778,
+        "end": 10885
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N12354",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N12354",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/art_1er/20231218",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Version consolidée applicable au 18/12/2023 : Arrêté grand-ducal du 17 novembre 2023 portant attribution des compétences ministérielles."
+      ],
+      "article_valid_from": "2023-12-18",
+      "text_md": "Les compétences ministérielles sont attribuées comme suit :\n\n- Monsieur Luc FRIEDEN : Premier ministre ;\n- Monsieur Xavier BETTEL : Vice-Premier ministre ; Ministre des Affaires étrangères et du Commerce extérieur ; Ministre de la Coopération et de l’Action humanitaire ;\n- Madame Martine HANSEN : Ministre de l’Agriculture, de l’Alimentation et de la Viticulture ; Ministre de la Protection des consommateurs ;\n- Monsieur Claude MEISCH : Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse ; Ministre du Logement et de l’Aménagement du territoire ;\n- Monsieur Lex DELLES : Ministre de l’Économie, des PME, de l’Énergie et du Tourisme ;\n- Madame Yuriko BACKES : Ministre de la Défense ; Ministre de l’Égalité des genres et de la Diversité ; Ministre de la Mobilité et des Travaux publics ;\n- Monsieur Max HAHN : Ministre de la Famille, des Solidarités, du Vivre ensemble et de l’Accueil ;\n- Monsieur Gilles ROTH : Ministre des Finances ;\n- Madame Martine DEPREZ : Ministre de la Santé et de la Sécurité sociale ;\n- Monsieur Léon GLODEN : Ministre des Affaires intérieures ;\n- Madame Stéphanie OBERTIN : Ministre de la Digitalisation ; Ministre de la Recherche et de l’Enseignement supérieur ;\n- Monsieur Georges MISCHO : Ministre des Sports ; Ministre du Travail ;\n- Monsieur Serge WILMES : Ministre de l’Environnement, du Climat et de la Biodiversité ; Ministre de la Fonction publique ;\n- Madame Elisabeth MARGUE : Ministre de la Justice ; Ministre déléguée auprès du Premier ministre, chargée des Médias et de la Connectivité ; Ministre déléguée auprès du Premier ministre, chargée des Relations avec le Parlement ;\n- Monsieur Eric THILL : Ministre de la Culture ; Ministre délégué au Tourisme.",
+      "text_sha256": "bf8cc01cde5fb8c2e78d9c785454926bdf362fa4fff8651200caccc1c7bd2ff0",
+      "md_span": {
+        "start": 11069,
+        "end": 12780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_N123E7",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N123E7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/art_2/20231117",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Version consolidée applicable au 18/12/2023 : Arrêté grand-ducal du 17 novembre 2023 portant attribution des compétences ministérielles."
+      ],
+      "article_valid_from": "2023-11-17",
+      "text_md": "L’arrêté du 16 novembre 2023 portant attribution des compétences ministérielles aux membres du Gouvernement est abrogé.",
+      "text_sha256": "67aeea1fa4f7fdb56f6077ae11f5f1bc40f0508431ae110aea7f6f4c5d763da7",
+      "md_span": {
+        "start": 12820,
+        "end": 12939
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/2023/11/16/a739/jo",
+          "text": "arrêté du 16 novembre 2023"
+        }
+      ]
+    },
+    {
+      "anchor": "art_N1241E",
+      "provision_id": "lu-legilux:recueil-gouvernement:2023-12-18#art_N1241E",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/art_3/20231117",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "NOMINATION DES MEMBRES DU GOUVERNEMENT",
+        "Version consolidée applicable au 18/12/2023 : Arrêté grand-ducal du 17 novembre 2023 portant attribution des compétences ministérielles."
+      ],
+      "article_valid_from": "2023-11-17",
+      "text_md": "Le Premier ministre est chargé de l’exécution du présent arrêté qui sortira ses effets au 17 novembre 2023.",
+      "text_sha256": "0b17d1c825ac3eae55b443eab0e9dd1681c87b8a75b5a7536c7410f3a2f2299a",
+      "md_span": {
+        "start": 12979,
+        "end": 13086
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

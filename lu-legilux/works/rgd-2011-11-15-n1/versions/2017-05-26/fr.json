@@ -1,0 +1,668 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 15 novembre 2011 portant détermination des modalités de désignation des représentants des étrangers au Conseil national pour étrangers, ainsi que leur répartition par nationalités.",
+  "valid_from": "2017-05-26",
+  "valid_to": "2019-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2011-11-15-n1/versions/2017-05-26/fr.xml",
+    "sha256": "c628be795818729e31baa9572203b6e6be39eb4ffe49be5e84cd46db18445ac6",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20170526/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_1er/20111126",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Répartition des représentants des étrangers au Conseil national pour étrangers**"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "**(1)** Sur base de l’importance proportionnelle des diverses nationalités présentes dans la population de résidence la plus récente du Grand-Duché de Luxembourg calculée par\n\ne service central de la statistique et des études économiques, le nombre de représentants de pays qui font partie de l’Union européenne est fixé à 15.\n\n**(2)** Le nombre des représentants de pays ne faisant pas partie de l’Union européenne est fixé à 7.",
+      "text_sha256": "49ceb618d1a900e87c1e25ce43e4d0cb24e069ee4837a647747754cdfc4507ca",
+      "md_span": {
+        "start": 838,
+        "end": 1267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_2/20170526",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Répartition des représentants des étrangers au Conseil national pour étrangers**"
+      ],
+      "article_valid_from": "2017-05-26",
+      "text_md": "**(1)** Les représentants des Etats membres de l’Union européenne se répartissent comme suit:\n\n**(2)** Pour le Portugal, la France, l’Italie, la Belgique, l’Allemagne, le Royaume-Uni et les Pays-Bas, il y a autant de membres suppléants que de membres effectifs.\n\n**(3)** Pour l’ensemble des autres Etats membres de l’Union européenne, il y a 5 membres effectifs et 5 membres suppléants qui sont proposés dans l’ordre du nombre de voix obtenues, étant donné que les 5 candidats ayant obtenu le plus de voix sont proposés comme membres effectifs, sans qu’il ne puisse y avoir plus d’un membre effectif ou suppléant proposé par Etat.",
+      "text_sha256": "2cbeb3369e98340d3758e59431d0d7141ed675e99f8d02fd25eb14fd20a7fb4d",
+      "md_span": {
+        "start": 1302,
+        "end": 1932
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_3/20111126",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Répartition des représentants des étrangers au Conseil national pour étrangers**"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Pour l’ensemble des Etats hors Union européenne, il y a 7 membres effectifs et 7 membres suppléants qui sont proposés dans l’ordre du nombre de voix obtenues, étant donné que les 7 candidats ayant obtenu le plus de voix sont proposés comme membres effectifs, sans qu’il ne puisse y avoir plus d’un membre effectif ou suppléant proposé par Etat.",
+      "text_sha256": "8b773e78be96bd6d5ea4721128e70d850d49d5c3448a0eba684b8bf3f39ac1c6",
+      "md_span": {
+        "start": 1967,
+        "end": 2311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_4/20111126",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre I.** — **Répartition des représentants des étrangers au Conseil national pour étrangers**"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "**(1)** Pour chaque membre du Conseil national pour étrangers, ci-après désigné «le conseil», il est nommé un suppléant. Le suppléant siège en lieu et place du membre effectif en cas d’empêchement de ce dernier. Des jetons de présence sont accordés aux membres effectifs et suppléants. Les membres suppléants ne touchent de jetons que pour les réunions auxquelles ils assistent en remplacement d’un membre effectif empêché. Une indemnité est versée au secrétaire du conseil.\n\n**(2)** Les membres effectifs du conseil peuvent décider de se réunir en présence des membres suppléants pour des questions qui revêtent une importance particulière. Dans ces réunions, seuls les membres effectifs ou les membres qui siègent en lieu et place d’un membre effectif ont le droit de vote.\n\nEn cas de décès ou de démission d’un membre du conseil, son suppléant le remplace jusqu’au renouvellement du conseil.\n\n**(3)** Le mandat individuel d’un représentant des étrangers prend fin, hormis le cas de décès ou de démission, dès qu’il acquiert la nationalité luxembourgeoise. Il en est de même en cas de transfert du domicile en dehors du territoire du Grand-Duché de Luxembourg. Dans ces cas, un membre suppléant remplace d’office le membre effectif. Le membre suppléant est remplacé suivant les dispositions prévues aux articles 25 et suivants, de façon à respecter les modalités de représentation fixées aux articles précédents.",
+      "text_sha256": "03db0e75e4d5e7438bab60f3633ffeef69643be86aa243f2e39f7623207f5949",
+      "md_span": {
+        "start": 2346,
+        "end": 3760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_5/20111126",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Associations admises à proposer les représentants des étrangersau ministre ayant dans ses attributions l’Intégration**"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions l’Intégration, désigné par la suite «le ministre», d’après les modalités ci-après désignées:\n\n1. les associations des étrangers ayant une activité sociale, culturelle ou sportive, l’association des étrangers étant celle dont soit la majorité des membres fondateurs, soit la majorité des membres actuels, sont d’une nationalité autre que luxembourgeoise;\n2. les associations œuvrant, à titre principal, en faveur des étrangers.\n\nLes associations visées à l’alinéa qui précède doivent être inscrites auprès de l’Office luxembourgeois de l’accueil et de l’intégration au plus tard le quinzième jour avant le jour du scrutin et avoir produit le rapport d’activité annuel de l’exercice précédant le vote du nouveau conseil ainsi que la liste actuelle des membres.",
+      "text_sha256": "873a90e19ddc47548e1738995e152cce4f3f420d9661018ea62f1a242a38b881",
+      "md_span": {
+        "start": 3939,
+        "end": 4793
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_6/20111126",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre II.** — **Associations admises à proposer les représentants des étrangersau ministre ayant dans ses attributions l’Intégration**"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Sont inscrites auprès de l’Office luxembourgeois de l’accueil et de l’intégration en vue d’exercer le droit de vote pour le conseil, les associations visées à l’article 5 ci-dessus, à condition qu’elles soient constituées conformément aux dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif et que les statuts aient été publiés selon les dispositions de la même loi.\n\nLa demande d’inscription se fait sur papier libre, adressée à l’Office luxembourgeois de l’accueil et de l’intégration en joignant:\n\n1. une copie de l’acte de constitution\n2. une copie attestant la publication des statuts au Mémorial, Recueil des Sociétés et Associations\n3. la liste des administrateurs désignés en conformité des statuts pour l’exercice en cours.\n\nL’Office luxembourgeois de l’accueil et de l’intégration donne acte à l’association de son inscription en cas de décision positive.\n\nLe refus d’inscription est dûment motivé.\n\nLa liste des inscriptions est révisée annuellement.",
+      "text_sha256": "c00e917468dacd56b02baf5523be2dacd7e1d304a8c5e4b76994c0041c013cad",
+      "md_span": {
+        "start": 4828,
+        "end": 5843
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1928/04/21/n2/jo",
+          "text": "loi modifiée du 21 avril 1928"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_7/20111126",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les représentants des étrangers à proposer au ministre sont élus parmi les personnes figurant sur les listes de candidats déclarés, sauf ce qui est prévu aux articles 26 et suivants.",
+      "text_sha256": "3e3e2301b7ef06fe1b59844f7c9ec38d8d6905abf1f0e6d0b89b7de2e9ddc6f3",
+      "md_span": {
+        "start": 5945,
+        "end": 6127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_8/20111126",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "1. — Les candidatures"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Pour être candidat sur une liste électorale, il faut:\n\n1. être d’une nationalité autre que luxembourgeoise\n2. être âgé de 18 ans accomplis le jour du scrutin\n3. être domicilié au Grand-Duché de Luxembourg\n4. ne pas être placé sous un régime de tutelle des majeurs\n5. ne pas avoir subi de condamnation à une peine criminelle ou une condamnation en matière correctionnelle emportant privation du droit de vote.\n\nLa candidature peut être posée par la personne concernée elle-même ou par une ou plusieurs associations inscrites auprès de l’Office luxembourgeois de l’accueil et de l’intégration avec l’accord écrit du concerné.",
+      "text_sha256": "d758d8ab314d6a469de23bb7eeba3d2398ba6b6601cba1da8d008572f3b2ae93",
+      "md_span": {
+        "start": 6189,
+        "end": 6812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_9/20111126",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "1. — Les candidatures"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Au moins 40 jours avant la date fixée pour le scrutin, l’Office luxembourgeois de l’accueil et de l’intégration fait un appel aux candidatures par publication dans les principaux quotidiens paraissant au Grand-Duché de Luxembourg, ainsi que dans les principaux journaux étrangers édités au Luxembourg et, en cas de besoin, par radio ou télédiffusion sur les chaînes s’adressant spécialement aux étrangers résidant au Luxembourg.\n\nL’appel aux candidatures paraît également sur le site internet de l’Office luxembourgeois de l’accueil et de l’intégration et sur le guichet en ligne du Grand-Duché de Luxembourg.",
+      "text_sha256": "1a8c86af12c57f1726ee85813fb95040e859acc1ebcd3ca23c575aa8e7f76d21",
+      "md_span": {
+        "start": 6847,
+        "end": 7456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_10/20111126",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "1. — Les candidatures"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les candidats figurant sur les listes doivent se déclarer ou être déclarés auprès de l’Office luxembourgeois de l’accueil et de l’intégration au moins huit jours avant la date fixée pour le scrutin. La déclaration marque les nom, prénom, nationalité, date de naissance, domicile et profession du candidat. Elle porte engagement de sa part de ne pas retirer sa candidature. Elle est datée et signée.\n\nLa déclaration de candidature est accompagnée:\n\n1. d’un acte de naissance\n2. d’une pièce documentant la nationalité du candidat\n3. d’un extrait du casier judiciaire.\n\nLa liste des candidats déclarés est affichée à l’Office luxembourgeois de l’accueil et de l’intégration du quinzième jour précédant les élections jusqu’au jour fixé pour les élections. Elle est provisoire jusqu’au huitième jour précédant les élections où elle est arrêtée définitivement. Elle peut être consultée par tout intéressé.",
+      "text_sha256": "41ca12aa6cf48739218c7d4504753d893bd87dd05b584cab113cc8d105c40e01",
+      "md_span": {
+        "start": 7493,
+        "end": 8392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_11/20111126",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "1. — Les candidatures"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Celui qui ne remplit pas les conditions des articles 8 et 10 ci-dessus n’est pas éligible.\n\nSi l’éligibilité d’un candidat, du point de vue des condamnations encourues, paraît être douteuse, le directeur de l’Office luxembourgeois de l’accueil et de l’intégration fait réviser d’urgence les conditions d’éligibilité par le Parquet et invite le candidat à présenter ses observations. Lorsque sur le vu des extraits de casier judiciaire ou de tout autre renseignement produit par le Parquet, l’inéligibilité est constatée, le directeur doit rayer le candidat en question de la liste.",
+      "text_sha256": "05f5338d9fad822be29ebb7fc2551a764a0ec58e21c4f9ad0ae16d77db8a47c8",
+      "md_span": {
+        "start": 8429,
+        "end": 9010
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_12/20111126",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "2. — Constitution du bureau de vote"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Le bureau de vote est nommé par le ministre.\n\nIl est composé de 5 membres, à savoir:\n\n- 3 fonctionnaires ou employés de l’Office luxembourgeois de l’accueil et de l’intégration\n- 2 représentants des étrangers à proposer par les membres sortants du conseil.\n\nNi les candidats, ni leurs parents ou alliés jusqu’au deuxième degré inclusivement, ne peuvent siéger comme membre du bureau de vote.\n\nLe président du bureau de vote est désigné par le ministre.\n\nLe bureau de vote établit une proposition de règlement d’ordre relatif au déroulement des opérations électorales pouvant contenir des instructions pour les électeurs.\n\nCe règlement est arrêté par le ministre.",
+      "text_sha256": "39dd30ffd32a3f2f3a8676b720bbc7f86f5372a0b2d3c44c4c9e03ca53b50aae",
+      "md_span": {
+        "start": 9088,
+        "end": 9750
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_13/20111126",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Le jour du scrutin est fixé par le ministre.",
+      "text_sha256": "a983d713e2fb4d31c0ce4f6d66899d3a29d159edafaeee660d9803e784f144bf",
+      "md_span": {
+        "start": 9805,
+        "end": 9849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_14/20111126",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Chaque association inscrite auprès de l’Office luxembourgeois de l’accueil et de l’intégration a le droit de vote et dispose d’autant de voix qu’il y a de représentants à désigner.",
+      "text_sha256": "17fc7f370ce26644368a3c87169107ce39507c50915d7e2177dff1f8cf4b38ce",
+      "md_span": {
+        "start": 9886,
+        "end": 10066
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_15/20111126",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Chacune des associations désigne par information écrite à faire parvenir à l’Office luxembourgeois de l’accueil et de l’intégration au plus tard le quinzième jour avant la date du scrutin, les nom, prénom, profession, nationalité et domicile de son mandataire ayant qualité de voter en son nom. Ce dernier ne peut pas figurer sur la liste des candidatures.",
+      "text_sha256": "cabc7ec55db7307dd29b72bbf2925bcf7f9d684983c32bc71c00e636071866f8",
+      "md_span": {
+        "start": 10103,
+        "end": 10459
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_16/20111126",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les mandataires visés à l’article 15 sont convoqués par les soins de l’Office luxembourgeois de l’accueil et de l’intégration au moins huit jours avant le scrutin.",
+      "text_sha256": "f73083eb401a80ef683e5a5f24c83f10e0d2a6accbefc5bf304ff11fa5520960",
+      "md_span": {
+        "start": 10496,
+        "end": 10659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_17/20111126",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Le jour du scrutin, l’assemblée des mandataires représentant les associations inscrites auprès de l’Office luxembourgeois de l’accueil et de l’intégration est présidée par le président du bureau de vote.",
+      "text_sha256": "5c52b792e450d47586c380bfabcc4c5809a30f7d3ec18a6a03317df7c11cb730",
+      "md_span": {
+        "start": 10696,
+        "end": 10899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_18/20111126",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les bulletins de vote comportant les nom, prénom, nationalité et domicile de tous les candidats éligibles sont distribués aux mandataires.",
+      "text_sha256": "ce0a9cc298a7f316dc5055ef3635131071bca78dd6daafb47adfb5c88d324513",
+      "md_span": {
+        "start": 10936,
+        "end": 11074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_19/20111126",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les candidats ont le droit d’assister et de se présenter aux mandataires des associations durant un laps de temps prédéfini ne pouvant excéder 5 minutes par personne.",
+      "text_sha256": "9981f6c1a31c6555e5278c2d8baad39a11a4b93c7a7fdd85e5b98054ce976a70",
+      "md_span": {
+        "start": 11111,
+        "end": 11277
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_20/20111126",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les présentations faites, il est procédé au vote. Les opérations de vote sont secrètes et s’effectuent dans un cadre adapté à garantir le secret des votes.",
+      "text_sha256": "7e34f5c2a2a3383c146008ba7fb2fdace42f4178dd5d1be37ab15023a235951a",
+      "md_span": {
+        "start": 11314,
+        "end": 11469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_21/20111126",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Le vote s’effectue au scrutin majoritaire plurinominal à un tour.",
+      "text_sha256": "4101e066a94a4a66a8d825a82f65cb33256a05d4548192a59190e2b592e310f3",
+      "md_span": {
+        "start": 11506,
+        "end": 11571
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_22/20111126",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Chaque mandataire dispose de 22 voix conformément à l’article 14.\n\nNul ne peut être mandataire de plus d’une association.\n\nChaque candidat ne peut obtenir qu’une seule voix.",
+      "text_sha256": "532ad87a389a5237c8c59da5f62b9746291d7875ca1e5ae5f75ce2d025892bda",
+      "md_span": {
+        "start": 11608,
+        "end": 11781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_23/20111126",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Sont nuls:\n\n1. les bulletins qui expriment plus de suffrages qu’il n’y a de représentants à élire\n2. les bulletins qui ne contiennent l’expression d’aucun suffrage\n3. les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque quelconque.",
+      "text_sha256": "27ac1f32497e00b04e43a9dd48cc807a6b43f9beffca466c8ffad61ba880e809",
+      "md_span": {
+        "start": 11818,
+        "end": 12220
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_24/20111126",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les membres du bureau de vote recueillent tous les bulletins exprimés dans une urne spécialement destinée à ces fins.",
+      "text_sha256": "8ba6dfbd5700e205bcaf05590297133b6f19241b03b2499913fcd3052c804f69",
+      "md_span": {
+        "start": 12257,
+        "end": 12374
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_25/20111126",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Le dépouillement des bulletins est public et se fait par proclamation orale en assemblée à la suite du vote. Les candidats ayant obtenu le plus de voix dans chacun des compartiments définis aux articles 1 à 4 sont représentants effectifs proposés, les suivants sont représentants suppléants proposés.\n\nEn cas d’égalité des voix, le départage se fait par tirage au sort.",
+      "text_sha256": "82e5f084466a850ddd679c2bb612d30aef965d6ab3f8271d644bd8117f5d12a0",
+      "md_span": {
+        "start": 12411,
+        "end": 12780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_26/20111126",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Pour autant que le scrutin ne dégage pas le nombre de représentants effectifs et suppléants visés aux articles 1 à 4, soit par manque de candidats, soit par défaut de voix obtenues, le ministre, après avoir consulté les associations d’étrangers ayant participé au vote et sur leur proposition, nomme les représentants manquants.",
+      "text_sha256": "20a5349dbfb978948b5c0553451208b5e800587b64041d2e371eb11e10fc51c8",
+      "md_span": {
+        "start": 12817,
+        "end": 13145
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_27/20111126",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les représentants effectifs et suppléants désignés selon les articles qui précèdent sont proposés au nom des associations ayant participé au vote par l’intermédiaire de l’Office luxembourgeois de l’accueil et de l’intégration au ministre.",
+      "text_sha256": "72a2977d1d53fee1a019c0938ca55bb99aca67b82f0fdd3e17b30378ef01ad62",
+      "md_span": {
+        "start": 13182,
+        "end": 13420
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_28/20111126",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Les représentants effectifs et suppléants des étrangers sont nommés respectivement membres effectifs et membres suppléants du conseil pour une durée de cinq ans par le ministre au vu des propositions lui transmises conformément à l’article 27.",
+      "text_sha256": "9db3a48419fca00b67b8f642a561496b531b529cb46bef57bb2b9953ed976691",
+      "md_span": {
+        "start": 13457,
+        "end": 13700
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_29/20111126",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "En cas de démission, de décès ou d’acquisition de la nationalité luxembourgeoise par des représentants effectifs et suppléants ainsi proposés et sous réserve de nomination par le ministre compétent, les candidats venant après ceux qui ont été désignés membres effectifs et membres suppléants, sont appelés, suivant le rang des voix obtenues, à prendre la place des membres défaillants, jusqu’à épuisement des candidatures. En cas d’épuisement d’icelles, il est procédé conformément aux dispositions de l’article 26.\n\nLes membres ainsi nommés achèveront le mandat de leur prédécesseur.",
+      "text_sha256": "30f067ac9ab6075909a7fe70bf706e19cff39cb31f5d9bf61b8281a89c09bb42",
+      "md_span": {
+        "start": 13737,
+        "end": 14321
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_30/20111126",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Le règlement grand-ducal modifié du 29 mars 1995 portant détermination des modalités de désignation des représentants des étrangers au Conseil national pour étrangers, ainsi que leur répartition par nationalités est abrogé.",
+      "text_sha256": "f3df117063add0c08d2210fada26b03616f203c49e79770fd60e56b21f1a57b3",
+      "md_span": {
+        "start": 14358,
+        "end": 14581
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1995/03/29/n1/jo",
+          "text": "règlement grand-ducal modifié du 29 mars 1995"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_31/20111126",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Mémorial.",
+      "text_sha256": "9bc048237d4740b7bc29a9a244631275f4ee089e5485b34e1d48b4cd65daab16",
+      "md_span": {
+        "start": 14618,
+        "end": 14694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-2011-11-15-n1:2017-05-26#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/art_32/20111126",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "**Chapitre III.** — **Modalités de désignation des candidats**",
+        "3. — Scrutin"
+      ],
+      "article_valid_from": "2011-11-26",
+      "text_md": "Notre Ministre de la Famille et de l’Intégration est chargée de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "fdeb467f93139e36aee27c38782878329fab57ffe5f041dbf5fda2e9c3178758",
+      "md_span": {
+        "start": 14731,
+        "end": 14856
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

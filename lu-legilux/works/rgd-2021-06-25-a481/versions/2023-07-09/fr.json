@@ -1,0 +1,394 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/07/2023 : Règlement grand-ducal du 25 juin 2021 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive, ainsi que de l’examen de promotion des différentes catégories de traitement auprès de l’administration judiciaire.",
+  "valid_from": "2023-07-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2021-06-25-a481/versions/2023-07-09/fr.xml",
+    "sha256": "89139250260669fa4c369da8f98d521be463c4faf608cd9fd13327f8595bc941",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/consolide/20230709/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_1er/20230709",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 1 ** — ** Formation spéciale**",
+        "**Sous-section 1 ** — ** Durée et matières faisant l’objet de la formation spéciale**"
+      ],
+      "article_valid_from": "2023-07-09",
+      "text_md": "Pour les stagiaires des catégories de traitement A, B et C, la durée de la formation spéciale visée à l’article 6, paragraphe 3 de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 60 heures. Les cours et le nombre des heures de formation y afférentes sont fixés comme suit :\n\n**a) ****Juridictions, parquets de première instance et Cellule de renseignement financier (20 heures)**\n\nFormation théorique :\n\n| Juridiction | Matière : | Heures |\n| --- | --- | --- |\n| Tribunaux | Explications des procédures internes / organisation des services / acheminement des dossiers / fonctionnement du greffe / termes juridiques courants | 5 |\n| Parquetset Cellule de renseignement financier | Explications des procédures internes / organisation des services / acheminement des dossiers / fonctionnement du secrétariat / termes juridiques courants | 5 |\n|  |  | Total : 10 |\n\nStages pratiques auprès des services :\n\n| Juridiction | Matière : | Heures |\n| --- | --- | --- |\n| Tribunaux | civil / commercecorrectionnelcabinet d’instruction | 5 |\n| Parquets et Cellule de renseignement financier | affaires généralescommissions rogatoires pénales internationalesjeunesse | 5 |\n|  |  | Total : 10 |\n\n**b)** **Juridiction et parquet d’instance d’appel (20 heures)**\n\nFormation théorique :\n\n| Juridiction | Matière : | Heures |\n| --- | --- | --- |\n| Cour | Explications des procédures internes / organisation des services / acheminement des dossiers / fonctionnement du greffe / termes juridiques courants | 5 |\n| Parquet général | Explications des procédures internes / organisation des services / acheminement des dossiers / fonctionnement du secrétariat / termes juridiques courants | 5 |\n|  |  | Total : 10 |\n\nStages pratiques auprès des services :\n\n| Juridiction | Matière : | Heures |\n| --- | --- | --- |\n| Cour | civilcorrectionnel et chambre du conseil | 5 |\n| Parquet général | secrétariatcasier judiciaire / exécution des peines | 5 |\n|  |  | Total : 10 |\n\n**c) ****Formation informatique (20 heures)**\n\nFormation pratique :\n\n| Formation |  | Heures |\n| --- | --- | --- |\n|  | Outils bureautiques | 10 |\n|  | Applications informatiques spécifiques de l’administration judiciaire | 10 |\n|  |  | Total : 20 |",
+      "text_sha256": "e7b9a47667d9d3337f187a26d59f4c53e88a39d9a0d58b4a555bf6a236bc4a51",
+      "md_span": {
+        "start": 1024,
+        "end": 3287
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_2/20210704",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 1 ** — ** Formation spéciale**",
+        "**Sous-section 1 ** — ** Durée et matières faisant l’objet de la formation spéciale**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "Pour les stagiaires de la catégorie de traitement D, la durée de la formation spéciale visée à l’article 6, paragraphe 3 de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique, est fixée à 60 heures. Les cours et le nombre des heures de formation y afférentes sont fixés comme suit :\n\n| Formation |  | Heures |\n| --- | --- | --- |\n| Théorie | Organisation et gestion de l’administration | 20 |\n| Pratique | Initiation aux devoirs de base de l’agent de salle | 20 |\n|  | Initiation aux spécificités des bâtiments de l’administration judiciaire | 20 |\n|  |  | Total : 60 |",
+      "text_sha256": "c2c6837d10b6f722232857062691f0d0d7733246185f61196498bd3bdb371a33",
+      "md_span": {
+        "start": 3322,
+        "end": 3942
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/15/n1/jo",
+          "text": "loi modifiée du 15 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2-1",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_2-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_2_1/20230709",
+      "type": "article",
+      "num": "Art. 2-1.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 1 ** — ** Formation spéciale**",
+        "**Sous-section 2 ** — ** Examen de fin de formation spéciale**"
+      ],
+      "article_valid_from": "2023-07-09",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale des stagiaires de la catégorie de traitement A comporte deux épreuves écrites et un travail de réflexion :\n\n|  | Matière examinée | Nature de l’épreuve | Nombre maximumde points |\n| --- | --- | --- | --- |\n| 1 | Rédaction de correspondances de service dans les langues allemande et française sur des matières de l’administration judiciaire | épreuve écrite | 60 |\n| 2 | Procédures internes / organisation des services | épreuve écrite | 60 |\n| 3 | Travail de réflexion en relation avec la fonction occupée au choix du fonctionnaire et validé par la commission d’examen |  | 60 |\n|  |  |  | 180 |\n\nLe travail de réflexion est remis au plus tard un mois avant la date de l’examen de fin de formation spéciale.\n\nIl fait l’objet d’une présentation orale d’une durée de vingt minutes suivie d’une discussion de dix minutes avec les membres de la commission d’examen.\n\nIl comporte 30 pages au moins et une bibliographie des sources.",
+      "text_sha256": "1c45624c2ffaf2eee05da84a9951a6a4ed705ee94862f52a16217f147ac9737d",
+      "md_span": {
+        "start": 4050,
+        "end": 5027
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_3/20210704",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 1 ** — ** Formation spéciale**",
+        "**Sous-section 2 ** — ** Examen de fin de formation spéciale**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale des stagiaires des catégories de traitement B et C comporte deux épreuves écrites et une épreuve pratique :\n\n|  | Matière examinée | Nature de l’épreuve | Nombre maximum de points |\n| --- | --- | --- | --- |\n| 1 | Rédaction de correspondances de service dans les langues allemande et française sur des matières de l’administration judiciaire | épreuve écrite | 60 |\n| 2 | Procédures internes/ organisation des services / | épreuve écrite | 60 |\n| 3 | Outils bureautiques / Application informatiques spécifiques de l’administration judiciaire | épreuve pratique sur ordinateur | 60 |\n|  |  |  | 180 |",
+      "text_sha256": "d67ac6e344323789a37d702754fb6f6585436b195bd9ed9eedf816cbb6545f7a",
+      "md_span": {
+        "start": 5062,
+        "end": 5712
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_4/20210704",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 1 ** — ** Formation spéciale**",
+        "**Sous-section 2 ** — ** Examen de fin de formation spéciale**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "L’examen sanctionnant la fin de formation spéciale des stagiaires de la catégorie de traitement D comporte trois épreuves :\n\n|  | Matière examinée | Nature de l’épreuve | Nombre maximum de points |\n| --- | --- | --- | --- |\n| 1 | Sécurité dans la fonction publique - législation | épreuve écrite | 60 |\n| 2 | Notions élémentaires sur le statut général des fonctionnaires de l’État | épreuve écrite | 60 |\n| 3 | Surveillance des bâtiments | épreuve écrite | 60 |\n|  |  |  | 180 |",
+      "text_sha256": "05f2763792adee3f41ce013240fb32d57076f0a803f78c18aa031ad77fa1c8a0",
+      "md_span": {
+        "start": 5747,
+        "end": 6225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_5/20210704",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 2** — ** Formation de promotion**",
+        "**Sous-section 1 ** — ** Formation de promotion**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "Pour les fonctionnaires des catégories de traitement B et C, la durée de la formation de promotion est fixée à 60 heures. Le contenu des formations et le nombre d’heures sont fixés comme suit :\n\n|  | Matière |  | Heures |\n| --- | --- | --- | --- |\n| 1 | Procédures internes spécifiques |  | 20 |\n| 2 | Compétences linguistiques françaises / rédactions |  | 40 |\n|  |  |  | 60 |",
+      "text_sha256": "f7f66c15b171b49579ef3cdcde264e4a5f6713d1057aa0b8fb1265daf0c39ccd",
+      "md_span": {
+        "start": 6365,
+        "end": 6742
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_6/20210704",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 2** — ** Formation de promotion**",
+        "**Sous-section 1 ** — ** Formation de promotion**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "Pour les fonctionnaires de la catégorie de traitement D, la durée de la formation de promotion est fixée à 60 heures. Le contenu des formations et le nombre d’heures sont fixés comme suit :\n\n|  | Matière |  | Heures |\n| --- | --- | --- | --- |\n| 1 | Organisation du travail |  | 20 |\n| 2 | Compétences digitales – traitement de texte – digitalisation de documents |  | 20 |\n| 3 | Compétences linguistiques françaises |  | 20 |\n|  |  |  | 60 |",
+      "text_sha256": "ccd9eb14384c623edd3ddf7cb70e3412b2849c8f7855e4ddcfc9e4356946aebe",
+      "md_span": {
+        "start": 6777,
+        "end": 7219
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_7/20210704",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 2** — ** Formation de promotion**",
+        "**Sous-section 2 ** — ** Examen de promotion**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "L’examen de promotion des fonctionnaires des catégories de traitement B et C comporte des épreuves dans les matières suivantes :\n\n|  | Matière examinée | Nature de l’épreuve | Nombre maximum de points |\n| --- | --- | --- | --- |\n| 1 | Rédaction de correspondances de service dans les langues allemande / française et anglaise | épreuve écrite | 60 |\n| 2 | Rédaction d’une dissertation sur un sujet concernant l’administration | épreuve écrite | 60 |\n| 3 | Procédures internes/ organisation des services / - approfondissement des matières étudiées pour l’examen de fin de formation spéciale | épreuve écrite | 60 |\n|  |  |  | 180 |",
+      "text_sha256": "fc08c746bda69dc62cd08b730714ef2d49a01819a00c57f619514b005d4203ee",
+      "md_span": {
+        "start": 7307,
+        "end": 7937
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art8",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_17/20210704",
+      "type": "article",
+      "num": "Art.8.",
+      "heading": null,
+      "path": [
+        "**Chapitre 1er ** — ** Formation spéciale et formation de promotion**",
+        "**Section 2** — ** Formation de promotion**",
+        "**Sous-section 2 ** — ** Examen de promotion**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "L’examen de promotion des fonctionnaires de la catégorie de traitement D comporte des épreuves dans les matières suivantes :\n\n|  | Matière examinée | Nature de l’épreuve | Nombre maximum de points |\n| --- | --- | --- | --- |\n| 1 | Organisation du travail – mise en situation | épreuve écrite | 60 |\n| 2 | Utilisation des outils bureautiques courants | épreuve écrite | 60 |\n| 3 | Rédaction d’un rapport de service | épreuve écrite | 60 |\n|  |  |  | 180 |",
+      "text_sha256": "38708bda964f785e6d94991ebae83e333f6269e1131c412cdfef92b64fe4dbb5",
+      "md_span": {
+        "start": 7970,
+        "end": 8424
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_9/20210704",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Dispositions générales**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "**(1)** Les matières sont enseignées sous forme de sessions de formation suivant un horaire à déterminer par le chef d’administration.\n\n**(2)** Les formations figurant au programme de plusieurs groupes de traitement peuvent être organisées en commun pour tous les stagiaires des groupes de traitement concernés.\n\n**(3)** Les sessions de formation peuvent comprendre des cours présentiels, des cours en ligne, des cours alternant des phases présentielles ou en ligne ou des phases d’autoapprentissage, des cours de travaux dirigés ou des séances d’apprentissage accompagné sur le lieu du travail.\n\nElles peuvent être organisées pour des périodes à temps plein ou en alternance avec des plages de travail effectif.\n\nLa nature des sessions de formation et les modalités d’organisation sont déterminées par le chef d’administration.\n\n**(4)** Les stagiaires sont informés de la nature, des modalités d’organisation, de l’horaire et du lieu de déroulement des sessions de formation au plus tard un mois avant leur début.\n\n**(5)** Le temps de formation spéciale est pris en compte comme période d’activité de service.",
+      "text_sha256": "82301eab74f71a76190a1439fe36e9335e665aa4ca28d8db6d6fde9ae02f0c50",
+      "md_span": {
+        "start": 8509,
+        "end": 9619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_10/20210704",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre 2 ** — ** Dispositions générales**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "**(1)** La fréquentation des cours de formation prévus par le présent règlement est obligatoire.\n\n**(2)** Une dispense de la fréquentation de certains cours de formation peut être accordée au stagiaire s’il bénéficie d’un congé pour raisons de santé ou d’un congé extraordinaire conformément au règlement grand-ducal modifié du 3 février 2012 fixant le régime des congés des fonctionnaires et employés de l’État.\n\n**(3)** Sur demande et pour des raisons exceptionnelles dûment motivées, le stagiaire peut bénéficier d’une dispense de la fréquentation de certains cours de formation.\n\n**(4)** Le stagiaire qui, à la suite d’un premier échec à l’un des examens prévus par le présent règlement, doit se représenter à l’examen en question et peut bénéficier d’une dispense de la fréquentation des cours de formations correspondants.\n\n**(5)** Les dispenses sont accordées sur demande écrite au stagiaire concerné par le chef d’administration.\n\n**(6)** Lorsque le candidat est absent lors d’une formation, il est tenu de transmettre au président de la commission d’examen au plus tard le jour ouvré suivant le début de son absence un certificat indiquant la raison dûment justifiée de son absence.\n\nEn cas d’absence justifiée, le président de la commission d’examen en informe le chef d’administration dont relève le candidat qui doit lui permettre une nouvelle inscription à cette formation dans le cadre d’une prochaine session de formation lorsqu’il le souhaite.",
+      "text_sha256": "6e8be81f99623d1489b68df87bdb2f11bbc18979731f0304127f97474527dd6a",
+      "md_span": {
+        "start": 9656,
+        "end": 11115
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2012/02/03/n2/jo",
+          "text": "règlement grand-ducal modifié du 3 février 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_11/20210704",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Organisation des examens**",
+        "**Section 1 ** — **E****xamen de fin de formation spéciale**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "**(1)** La participation du stagiaire à l’intégralité des formations donne lieu à l’établissement d’un certificat de fréquentation.\n\n**(2)** À la fin du cycle de formation spéciale, les stagiaires des différents groupes de traitement doivent passer un examen de fin de formation spéciale portant sur les matières théoriques et pratiques des programmes de formation des différents groupes de traitement.\n\nL’examen de fin de formation spéciale est organisé dans les trois mois qui suivent la fin de la période des cours.\n\nLe programme et les dates de l’examen sont communiqués à chaque candidat au moins six semaines avant la date de l’examen. Dans des circonstances exceptionnelles, ce délai peut être réduit en accord avec le candidat.\n\nLe stagiaire adresse sa demande d’admissibilité à l’examen de fin de formation spéciale au chef d’administration.\n\nLe chef d’administration informe le stagiaire de sa décision.\n\nL’examen a lieu, selon les distinctions qui suivent, devant des commissions d’examen qui se composent d’un président, de deux membres effectifs, d’un secrétaire et de secrétaires adjoints, ainsi que d’un nombre concordant de membres suppléants.\n\nLes commissions d’examen de fin de formation spéciale connaissent également des examens de promotion de l’administration judiciaire.\n\nLes membres des commissions d’examen sont nommés pour une durée de trois ans par le ministre de la Justice sur proposition du procureur général d’État.",
+      "text_sha256": "6c2bc79c61174af16331ac38d5d49dd7931b60f36ebdedd0ba1627fd8ce9a8eb",
+      "md_span": {
+        "start": 11269,
+        "end": 12715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_12/20230709",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Organisation des examens**",
+        "**Section 1 ** — **E****xamen de fin de formation spéciale**"
+      ],
+      "article_valid_from": "2023-07-09",
+      "text_md": "Les commissions d’examen visées à l’article 11 sont composées comme suit :\n\n1. La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement A ou B comprend un magistrat et deux fonctionnaires de l’administration judiciaire de la catégorie de traitement A ou B.\n2. La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement C comprend trois fonctionnaires de l’administration judiciaire de la catégorie de traitement A, B ou C.\n3. La commission d’examen compétente pour les stagiaires relevant de la catégorie de traitement D comprend deux fonctionnaires de l’administration judiciaire du groupe de traitement B1 et un fonctionnaire de l’administration judiciaire du groupe de traitement D3.",
+      "text_sha256": "9bd1ec112bd481703e9580e4f8f0f3587e3b67c8c445756378b2585d5e88de34",
+      "md_span": {
+        "start": 12752,
+        "end": 13508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_13/20210704",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Organisation des examens**",
+        "**Section 1 ** — **E****xamen de fin de formation spéciale**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "La commission d’examen propose au chef d’administration l’admission, le refus ou l’ajournement des candidats se présentant aux différents examens prévus par le présent règlement.\n\nLa commission d’examen peut être complétée par des experts.\n\nL’examen est organisé conformément aux dispositions du règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d’examen du concours d’admission au stage, de l’examen de fin de stage et de l’examen de promotion dans les administrations et services de l’État.\n\nL’appréciation de la réussite ou de l’échec à l’examen se fait conformément aux l’articles 17 à 20 du règlement grand-ducal modifié du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l’État et des établissements publics de l’État ainsi que du cycle de formation de début de carrière des employés de l’État.\n\nLe résultat final de l’examen de fin de formation spéciale doit être constitué définitivement au cours du troisième mois qui précède la fin du stage. Il est arrêté sous forme d’un procès-verbal établi par la commission d’examen respective.",
+      "text_sha256": "9477be3384df5f7c80ce96b1dd66befd91646e19026c7618f1db1119f727516f",
+      "md_span": {
+        "start": 13545,
+        "end": 14684
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1984/04/13/n7/jo",
+          "text": "règlement grand-ducal modifié du 13 avril 1984"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2018/10/31/a1199/jo",
+          "text": "règlement grand-ducal modifié du 31 octobre 2018"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_14/20210704",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre 3 ** — **Organisation des examens**",
+        "**Section 2 ** — ** E****xamen de promotion**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "**(1)** Les dates de l’examen de promotion sont publiées au Journal officiel du Grand-Duché de Luxembourg. Les dates de l’examen de promotion sont communiquées à chaque candidat, dès le dépôt de sa candidature, par le président des commissions d’examen respectives définies à l’article 12.\n\nPour être admis à l’examen de promotion les candidats doivent adresser une demande d’admission au procureur général d’État.\n\n**(2)** L’examen de promotion porte d’office sur les matières des programmes de formation des différentes catégories de traitement.\n\n**(3)** La commission d’examen prononce l’admission, le rejet ou l’ajournement des candidats se présentant à l’examen de promotion.\n\nLe candidat qui a obtenu au moins trois cinquièmes du total des points et au moins la moitié des points de chaque branche est admis.\n\nLe candidat qui a obtenu trois cinquièmes des points sans avoir obtenu la moitié des points dans au moins une branche est ajourné dans cette branche.\n\nLes examens d’ajournement ont lieu dans les trois mois de la proclamation du résultat de l’examen.\n\nLe candidat qui n’a pas obtenu au moins la moitié des points à l’examen d’ajournement, a échoué à l’examen.\n\nA également échoué à l’examen, sans pouvoir participer à une examen d’ajournement, le candidat qui a obtenu au moins trois cinquièmes du total des points mais n’a pas obtenu la moitié au moins des points dans deux ou plusieurs branches.\n\nLe candidat qui a subi un échec à l’examen de promotion peut se présenter une nouvelle fois à l’examen. En cas de second échec, le candidat peut se présenter une troisième et dernière fois à l’examen de promotion après un délai minimum de cinq ans et à condition d’avoir suivi une formation spéciale à l’Institut national d’administration publique ou auprès d’un autre organisme de formation, reconnu par le ministre ayant la Fonction publique dans ses attributions.\n\nLa non-participation sans motif valable du candidat à une ou plusieurs des épreuves de la session d’examen équivaut à un échec.\n\nLe candidat qui, pour des raisons indépendantes de sa volonté et reconnues valables par la commission d’examen, ne se présente pas à une ou plusieurs épreuves faisant partie de la session d’examen de promotion, n’est pas considéré comme ayant échoué à l’examen de promotion. Il est autorisé à se présenter à une prochaine session d’examen de promotion. Le candidat qui, pour la deuxième fois, ne se présente pas à une ou plusieurs épreuves faisant partie de la session d’examen de promotion, est considéré comme ayant échoué.",
+      "text_sha256": "7bd708e0b71bc3c3f6389f923daf46ee7fbf7a8cae5eb089324dad97ba9af605",
+      "md_span": {
+        "start": 14772,
+        "end": 17308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_15/20210704",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Dispositions abrogatoires et finales**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "Sont abrogés :\n\n1. règlement grand-ducal du 23 avril 1981\n2. règlement grand-ducal du 7 mars 1986\n3. règlement grand-ducal du 17 mai 1990",
+      "text_sha256": "e57d01cbdc9cd4d4f15010d4b1a34760aeba1934c34e6ab665fa4ef3770f9282",
+      "md_span": {
+        "start": 17408,
+        "end": 17545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2021-06-25-a481:2023-07-09#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/art_16/20210704",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre 4 ** — **Dispositions abrogatoires et finales**"
+      ],
+      "article_valid_from": "2021-07-04",
+      "text_md": "Notre ministre de la Justice est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "c6df074498c9a69f652d73445da96eb369f50c96e0f09b501116aaf6df6e1385",
+      "md_span": {
+        "start": 17582,
+        "end": 17723
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

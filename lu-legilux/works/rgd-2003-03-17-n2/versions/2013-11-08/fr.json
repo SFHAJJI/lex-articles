@@ -1,0 +1,370 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/11/2012 : Règlement grand-ducal du 17 mars 2003 relatif aux véhicules hors d'usage.",
+  "valid_from": "2013-11-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2003-03-17-n2/versions/2013-11-08/fr.xml",
+    "sha256": "ab6e0b2c2851209f0d168b99cec5a62a5b88b67ff2bcd37389f4c9d9a6c395fe",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/03/17/n2/consolide/20131108/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Objectifs",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement fixe des mesures visant en priorité la prévention des déchets en provenance des véhicules et en outre, la réutilisation, le recyclage et d’autres formes de valorisation des véhicules hors d’usage ainsi que de leurs composants aux fins d’en réduire la quantité de déchets à éliminer et d’assurer la protection de l’environnement par tous les opérateurs économiques en charge de véhicules et plus particulièrement par ceux intervenant directement dans leur traitement.",
+      "text_sha256": "5ec4b3947f2a05b865a27407df64cc498b80565e33c76bc4f9302fad1e393b56",
+      "md_span": {
+        "start": 605,
+        "end": 1092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n1. directive modifiée 70/156/CEE directive 2002/24/CE\n2. loi modifiée du 17 juin 1994 loi modifiée du 17 juin 1994\n3. «producteur»: le constructeur d’un véhicule ou l’importateur professionnel d’un véhicule au Luxembourg;\n4. «prévention»: les mesures visant à la réduction de la quantité et de la nocivité pour l’environnement des véhicules hors d’usage, de leurs matériaux et de leurs substances;\n5. «traitement»: toute activité intervenant après que le véhicule hors d’usage a été remis à une installation de dépollution, de démontage, de découpage, de broyage, de valorisation ou de préparation à l’élimination des déchets broyés ainsi que toute autre opération effectuée en vue de la valorisation et/ou de l’élimination du véhicule hors d’usage et de ses composants;\n6. «réutilisation»: toute opération par laquelle les composants de véhicules hors d’usage servent au même usage que celui pour lequel ils ont été conçus;\n7. «recyclage»: le retraitement, dans un processus de production, des déchets, soit en vue de la même utilisation que celle d’origine, soit à d’autres fins, mais à l’exclusion de la valorisation énergétique; par «valorisation énergétique», on entend l’utilisation de déchets combustibles en tant que moyen de production d’énergie, par incinération directe avec ou sans autres déchets, mais avec récupération de la chaleur;\n8. loi modifiée du 17 juin 1994\n9. loi modifiée du 17 juin 1994\n10. «opérateurs économiques»: les producteurs, les distributeurs, les collecteurs, les compagnies d’assurances automobiles, les démonteurs, les broyeurs, les récupérateurs, les recycleurs de véhicules et les autres intervenants dans le traitement des véhicules hors d’usage, y compris celui de leurs composants et matériaux;\n\n*(Règl. g.-d. du 3 décembre 2010)*\n\n1. règlement (CE) n° 1272/2008 1. les classes de danger 2.1 à 2.4, 2.6 et 2.7, 2.8 types A et B, 2.9, 2.10, 2.12, 2.13 catégories 1 et 2, 2.14 catégories 1 et 2, 2.15 types A à F;\n2. les classes de danger 3.1 à 3.6, 3.7 effets néfastes sur la fonction sexuelle et la fertilité ou sur le développement, 3.8 effets autres que des effets narcotiques, 3.9 et 3.10;\n3. la classe de danger 4.1;\n4. la classe de danger 5.1.»;\n2. «broyeur»: tout dispositif utilisé pour couper en morceaux ou fragmenter les véhicules hors d’usage, y compris en vue d’obtenir des ferrailles directement réutilisables;\n3. «dépollution»: la collecte sélective de tous les liquides, composants polluants, nocifs ou dangereux, tels que les batteries, filtres airbags (parties pyrotechniques) catalyseurs, en vue de leur traitement;\n4. «point de reprise»: un établissement ou une entreprise qui est autorisé(e) à reprendre les véhicules hors d’usage en vue de leur acheminement vers une installation de traitement et qui est habilité(e) à délivrer un certificat de destruction;\n5. «installation de traitement»: un établissement ou une entreprise qui est autorisé(e) à traiter les véhicules hors d’usage et qui est habilité(e) à délivrer un certificat de destruction;\n6. «information concernant le démontage»: toutes les informations requises pour permettre le traitement approprié et compatible avec l’environnement des véhicules hors d’usage. Ces informations sont mises à la disposition des installations de traitement autorisées par les constructeurs de véhicules et par les producteurs de composants sous forme de manuels ou par le canal des médias électroniques;\n7. er\n8. «administration»: l’Administration de l’Environnement;\n9. «Ministre»: le membre du Gouvernement ayant l’environnement dans ses attributions.",
+      "text_sha256": "12aeed4ed69fe5a67c74f2e1737a977966f12d8d44c06391bfbe43c3a027048c",
+      "md_span": {
+        "start": 1139,
+        "end": 4746
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2010/12/03/n4/jo",
+          "text": "Règl. g.-d. du 3 décembre 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent règlement s’applique aux véhicules, aux véhicules hors d’usage ainsi qu’à leurs composants et matériaux quelle qu’ait été la manière dont ils ont été entretenus ou réparés pendant leur utilisation et qu’ils soient équipés de composants originaux ou montés comme pièces de rechange ou équipements supplémentaires.\n\n**2.** Le présent règlement s’applique sans préjudice des dispositions pertinentes en particulier en ce qui concerne les normes de sécurité, les émissions atmosphériques, la lutte contre le bruit ainsi que la protection des sols et des eaux.\n\n**3.** Les véhicules à usages spéciaux visés à l’article 4, paragraphe 1, point a) deuxième tiret de la directive 70/156/CEE sont exclus du champ d’application de l’article 8 du présent règlement.",
+      "text_sha256": "279b3c0b1c63ad77cfbf41982d4f020ce623a9e9bccb8dda46970439eee1894a",
+      "md_span": {
+        "start": 4801,
+        "end": 5572
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1970/156/jo",
+          "text": "directive 70/156/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Annexes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Font partie intégrante du présent règlement les annexes suivantes:\n\nAnnexe I: Exigences techniques minimales en matière de collecte et de traitement\n\nAnnexe II: Matériaux et composants exemptés des mesures visées à l’article 5, paragraphe 2\n\nAnnexe III: Accord environnemental\n\n*(Règl. g.-d. du 17 novembre 2011)*\n\n«Annexe IV: Certificat de destruction».",
+      "text_sha256": "d587cf80a29714468d05275c24230e370bc25dfe583d508e9b36f3e9ec75071b",
+      "md_span": {
+        "start": 5615,
+        "end": 5969
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2011/11/17/n3/jo",
+          "text": "Règl. g.-d. du 17 novembre 2011"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Prévention",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Règl. g.-d. du 7 janvier 2009)*\n\n**«1.** Afin de promouvoir la prévention des déchets, des accords environnementaux encouragent en particulier:»\n\n1. les constructeurs de véhicules, en liaison avec les fabricants de matériaux et d’équipements, à limiter l’utilisation de substances dangereuses dans les véhicules et à la réduire autant que possible dès la conception des véhicules, en particulier afin de prévenir le rejet de ces substances dans l’environnement, de faciliter le recyclage et d’éviter d’avoir à éliminer des déchets dangereux;\n2. la conception et la construction de nouveaux véhicules qui prennent pleinement en considération et facilitent le démontage, la réutilisation et la valorisation, en particulier le recyclage, des véhicules hors d’usage, de leurs composants et matériaux;\n3. les constructeurs de véhicules, en liaison avec les fabricants de matériaux et d’équipements, à intégrer une part croissante de matériaux recyclés dans les véhicules et autres produits afin de développer les marchés des matériaux recyclés.\n\n**2.** Les matériaux et les composants des véhicules mis sur le marché après le 1er juillet 2003 ne contiennent plus de plomb, de mercure, de cadmium ou de chrome hexavalent sauf dans les cas énumérés et dans les conditions précisées à l’annexe II du présent règlement.",
+      "text_sha256": "ca28db7ab49118d400f20b82115622704d0ae8790a2f039b3793b25c3100405a",
+      "md_span": {
+        "start": 6015,
+        "end": 7327
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2009/01/07/n3/jo",
+          "text": "Règl. g.-d. du 7 janvier 2009"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Reprise",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les producteurs ou les tiers agissant pour leur compte sont tenus, sur une base individuelle ou collective,\n\n- de mettre en place des systèmes de collecte de tous les véhicules hors d’usage ainsi que, dans la mesure où cela est techniquement possible, des pièces usagées qui constituent des déchets et qui sont retirées des voitures lorsqu’elles sont réparées ou entretenues,\n- de s’assurer la disponibilité d’installations de traitement.\n\nLe coût de la mise en œuvre de ces dispositions est supporté individuellement ou solidairement par les producteurs ou les tiers agissant pour leur compte.\n\n**2.** Le propriétaire d’un véhicule qu’il destine à l’abandon ou le détenteur d’un véhicule hors d’usage, dûment mandaté par le propriétaire, est tenu de remettre ou de faire remettre le véhicule/véhicule hors d’usage soit à un point de reprise, en vue de son acheminement vers une installation de traitement, soit directement à une installation de traitement.\n\n**3.** Les véhicules hors d’usage remis à un point de reprise sont transférés dans un délai maximum de 45 jours à partir de leur remise vers une installation de traitement dûment autorisée.\n\nUn certificat de destruction est délivré au propriétaire ou au dernier détenteur du véhicule hors d’usage par les responsables du point de reprise ou de l’installation de traitement selon les formulaires délivrés par l’administration.\n\n*(Règl. g.-d. du 11 octobre 2013)*\n\n«Une copie du certificat, accompagnée de l’original du certificat d’immatriculation, est transmise par le point de reprise ou l’installation de traitement à la Société Nationale de Circulation Automobile.» Cette dernière communique à l’administration un relevé périodique des certificats de destruction.\n\nLes exigences minimales applicables au certificat de destruction sont fixées par décision de la Commission européenne. Les certificats de destruction délivrés dans un autre État membre de l’Union européenne sont reconnus et acceptés.\n\nLe traitement d’un véhicule hors d’usage peut être successivement effectué dans une ou plusieurs installations de traitement.\n\n**4.** L’annulation de l’immatriculation d’un véhicule hors d’usage se fait sur base du certificat de destruction.\n\n**5.** La reprise d’un véhicule hors d’usage est sans frais pour le propriétaire ou le dernier détenteur, à condition que le véhicule hors d’usage:\n\n- contienne encore les composants essentiels à son fonctionnement, notamment le moteur, la carrosserie, la boîte de vitesses, la direction, les composants électriques principaux et, le cas échéant, le pot catalytique;\n- ne contienne pas de déchets étrangers qui lui ont été ajoutés.\n- règl. g.-d. du 30 mai 2005\n\nLes producteurs ou les tiers agissant pour leur compte peuvent récupérer une partie des frais de reprise d’un véhicule hors d’usage qui est remis par des personnes qui ont importé à titre privé le véhicule au Luxembourg.",
+      "text_sha256": "7992a66b1556d3fdf882b2e2d3f5013cfc7c2ba9313572c2599702393f46056d",
+      "md_span": {
+        "start": 7370,
+        "end": 10264
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2013/10/11/n2/jo",
+          "text": "Règl. g.-d. du 11 octobre 2013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Stockage et traitement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Règl. g.-d. du 7 avril 2006)*\n\n«Les établissements ou entreprises effectuant des opérations de traitement ainsi que des opérations de stockage temporaires ou à demeure doivent disposer d’une autorisation au titre de la loi modifiée du 17 juin 1994 et, le cas échéant, de la loi modifiée du 10 juin 1999 relative aux établissements classés. L’autorisation doit comprendre toutes les conditions nécessaires au respect des exigences visées aux alinéas 2 et 3.\n\nSans préjudice d’autres dispositions en matière de santé et d’environnement, ces établissements ou entreprises doivent se conformer aux exigences de la loi modifiée du 17 juin 1994 et satisfaire aux obligations suivantes, conformément à l’annexe I:»\n\n1. les véhicules hors d’usage sont démontés avant tout autre traitement, ou des dispositions équivalentes sont prises afin de réduire toute incidence négative sur l’environnement. Les composants ou matériaux visés à l’annexe II qui sont étiquetés ou rendus identifiables par d’autres moyens appropriés sont également retirés avant tout autre traitement;\n2. les matériaux et composants dangereux sont retirés et isolés de manière sélective afin qu’ils ne contaminent pas les déchets broyés ultérieurement des véhicules hors d’usage;\n3. les opérations de démontage et de stockage sont effectuées de manière à garantir que les composants pourront être réutilisés et valorisés, et en particulier recyclés.\n\nLe traitement en vue de la dépollution des véhicules hors d’usage visé à l’annexe I, point 3, est effectué dans les meilleurs délais.\n\n*(Règl. g.-d. du 30 mai 2005)*\n\n«Les opérateurs économiques qui effectuent le traitement veillent à introduire des systèmes agréés de gestion environnementale.»",
+      "text_sha256": "36d385d37f594c03925d2e9732de8629ec2f0b4644e9af65382f16113c471da8",
+      "md_span": {
+        "start": 10322,
+        "end": 12031
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2006/04/07/n5/jo",
+          "text": "Règl. g.-d. du 7 avril 2006"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1994/06/17/n4/jo",
+          "text": "loi modifiée du 17 juin 1994"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1999/06/10/n5/jo",
+          "text": "loi modifiée du 10 juin 1999"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2005/05/30/n2/jo",
+          "text": "Règl. g.-d. du 30 mai 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Réutilisation et valorisation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*(Règl. g.-d. du 30 mai 2005)*\n\n**«1.** Le Ministre, l’administration et les secteurs économiques concernés prennent les mesures nécessaires, y compris, le cas échéant, des accords environnementaux, pour encourager la réutilisation des composants qui s’y prêtent et la valorisation des composants qui ne peuvent être réutilisés, en donnant la préférence au recyclage, lorsqu’il est viable du point de vue écologique, sans préjudice des exigences en matière de sécurité des véhicules et d’environnement, et notamment de pollution de l’air et de lutte contre le bruit.»\n\n**2.** Les objectifs suivants doivent être atteints par les opérateurs économiques:\n\n1. er\n2. er\n\n**3.** Les producteurs ou les tiers agissant pour leur compte sont tenus de fournir à l’administration, annuellement et au plus tard pour le 31 mars qui suit l’année de référence, les informations suivantes en relation avec la réalisation des taux visés au paragraphe 2:\n\n- la quantité de véhicules hors d’usage produits\n- les véhicules hors d’usage repris aux points de reprise et aux installations de traitement\n- les véhicules hors d’usage traités dans les installations de traitement\n- la quantité et la nature des déchets enlevés lors du démontage et de la dépollution des véhicules hors d’usage\n- la quantité et la nature des déchets après le broyage des véhicules hors d’usage\n- la quantité et la nature des composants et matériaux récupérés et réutilisés\n- les destinataires des déchets résultant du traitement.\n\nLe cas échéant, l’administration établit des formulaires type.\n\nLes données en question peuvent être validées par un réviseur d’entreprise agréé.",
+      "text_sha256": "ea941ca1e4ae721e8f747dca1d4f743dfa40222434764c458e1be1aa3b970b78",
+      "md_span": {
+        "start": 12096,
+        "end": 13729
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2005/05/30/n2/jo",
+          "text": "Règl. g.-d. du 30 mai 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Normes concernant la codification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les producteurs, en liaison avec les fabricants de matériaux et d’équipements, utilisent des normes concernant la codification des composants et des matériaux, en particulier afin de faciliter l’identification des composants et des matériaux réutilisables et valorisables. Les normes sont établies par décision de la Commission européenne.\n\nDes accords environnementaux peuvent préciser les modalités d’application du présent article.",
+      "text_sha256": "fc3ff2946bd6052612117fe6f374c443f2a3897fba64bb161017cc5a27ddb1b8",
+      "md_span": {
+        "start": 13798,
+        "end": 14232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Informations concernant le démontage",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les producteurs fournissent, pour chaque type de véhicule neuf mis sur le marché, des informations concernant le démontage, dans un délai de six mois après cette mise sur le marché. Ces informations indiquent, dans la mesure des besoins des installations de traitement, eu égard à leurs obligations au titre du présent règlement, les différents composants et matériaux des véhicules ainsi que l’emplacement de toutes les substances dangereuses dans les véhicules, en vue notamment, d’atteindre les objectifs visés à l’article 8, paragraphe 2.\n\n**2.** Sans préjudice du secret en matière commerciale et industrielle, les producteurs de composants utilisés dans les véhicules fournissent aux installations de traitement autorisées, dans la mesure où ces installations les demandent, les informations appropriées concernant le démontage, le stockage et la vérification des composants pouvant être réutilisés.\n\n**3.** Des accords environnementaux peuvent préciser les modalités d’application du paragraphe 1 du présent article.",
+      "text_sha256": "022e3d230a856d10b106f4c8549d277a3cf96423fa6303e48842531d7469e28c",
+      "md_span": {
+        "start": 14306,
+        "end": 15336
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Informations aux acheteurs de véhicules",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les opérateurs économiques concernés sont tenus de publier des informations sur:\n\n- la conception des véhicules et de leurs composants, en vue de leur capacité de valorisation et de recyclage\n- le traitement des véhicules hors d’usage, respectueux de l’environnement, notamment en ce qui concerne l’extraction de tous les fluides et le démontage\n- le développement et l’optimalisation des méthodes de réutilisation, de recyclage et de valorisation des véhicules hors d’usage et de leurs composants\n- les progrès réalisés dans le domaine de la valorisation et du recyclage en vue de réduire la quantité de déchets à éliminer et d’augmenter le taux de valorisation et de recyclage.\n\nEn outre, les informations en question sont tenues à la disposition des acheteurs potentiels des véhicules; elles sont insérées dans la documentation promotionnelle publiée lors de la mise sur le marché d’un nouveau véhicule.",
+      "text_sha256": "06628705c9a78c70ee9abc6f414d34e30edec09ba2e7e2296d8480ef0614de38",
+      "md_span": {
+        "start": 15413,
+        "end": 16319
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le premier jour du mois qui suit celui de sa publication au Mémorial.\n\nL’article 6 paragraphe 5 s’applique\n\n- er\n- er",
+      "text_sha256": "85abf40f494986caf00d25c57f3e0059e22f5ed036e9e92c15583ee5bef4166a",
+      "md_span": {
+        "start": 16374,
+        "end": 16529
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Exécution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre Ministre de l’Environnement et Notre Ministre des Transports sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "8064053926be5c709c7fe30ae9c2f33a681907db3bda332b04b7da6b2a944898",
+      "md_span": {
+        "start": 16576,
+        "end": 16751
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Exigences techniques minimales en matière de collecte et de traitement**\n\n**1.** Sites de stockage\n\nLes opérations de stockage temporaire ou à demeure des véhicules hors d’usage, préalables à tout traitement, sont à effectuer:\n\n- en veillant à ne pas endommager les composants contenant des fluides ni les composants valorisables et les pièces de rechange,\n- de manière à ne pas entraver le traitement ultérieur des véhicules, dont plus particulièrement la dépollution et le démontage,\n- de manière à ne pas empiler les véhicules les uns sur les autres, ni sur leur flanc, ni sur leur toit.\n\nLes sites de stockage doivent être aménagés de la façon suivante:\n\n- surfaces imperméables pour les zones appropriées avec dispositifs de collecte des fuites, décanteurs et épurateurs-dégraisseurs,\n- équipement de traitement de l’eau, y compris des eaux de pluie, conformément à la réglementation en matière de santé et d’environnement.\n\nLes sites de stockage doivent être aménagés de façon à éviter l’accès à toute personne non autorisée.\n\n**2.** Sites de traitement.\n\nL’intérieur du site de traitement doit être subdivisé dans les zones suivantes:\n\n1. une zone de chargement et de déchargement des véhicules hors d’usage et de leurs composants;\n2. une zone de contrôle des véhicules hors d’usage avec un pont bascule ou un appareil de pesage;\n3. une zone réservée au stockage exclusif des véhicules hors d’usage non dépollués;\n4. une zone couverte pour la dépollution des véhicules hors d’usage;\n5. une zone de stockage pour les véhicules dépollués;\n6. une zone couverte pour le démontage des véhicules dépollués;\n7. une zone pour le stockage séparé des déchets solides et fluides;\n8. une zone de dépôt pour le stockage des pièces récupérées des véhicules hors d’usage;\n9. une zone de dépôt pour les carcasses de véhicules.\n\nToutes les zones sur lesquelles des véhicules hors d’usage non-dépollués ou des composants graisseux sont manipulés doivent être aménagées de surfaces imperméables avec dispositifs de collecte des fuites, décanteurs et épurateurs-dégraisseurs. Les zones doivent être clairement identifiables. Le stockage ou le traitement ne peut avoir lieu que dans les zones expressément prévues à cet effet. En particulier, les équipements suivants doivent être disponibles sur le site:\n\n- installations appropriées de stockage des pièces démontées, y compris le stockage imperméable pour les pièces graisseuses,\n- conteneurs appropriés pour le stockage des batteries (avec neutralisation de l’électrolyte sur site ou hors site), des filtres et des condensateurs contenant du PCB/PCT,\n- réservoirs appropriés pour le stockage séparé des fluides extraits des véhicules hors d’usage: carburants, huiles de carter, huiles de boîte de vitesse, huiles de transmission, huiles hydrauliques, liquides de refroidissement, antigel, liquides de frein, acides de batteries, fluides de circuits d’air conditionné et tout autre fluide contenu dans les véhicules hors d’usage,\n- équipement de traitement de l’eau, y compris des eaux de pluie, conformément à la réglementation en matière de santé et d’environnement,\n- installations appropriées de stockage des pneus usés, notamment en ce qui concerne la prévention des risques d’incendie et de stockage excessif.\n\n**3.** Conditions et modalités de traitement\n\nLa dépollution des véhicules hors d’usage doit être effectuée selon la meilleure technologie disponible et en enlevant un maximum des fluides et des composants polluants, nocifs ou dangereux:\n\n- retrait des batteries et des réservoirs de gaz liquéfié,\n- retrait du catalyseur,\n- retrait ou neutralisation des composants susceptibles d’exploser [par exemple: coussins gonflables de sécurité (air bags)],\n- retrait, collecte et stockage séparés des carburants, des huiles de carter, des huiles de boîte de vitesse, des huiles de transmission, des huiles hydrauliques, des liquides de refroidissement, de l’antigel, des liquides de frein et des fluides de circuits d’air conditionné ainsi que de tout autre fluide présent dans le véhicule hors d’usage,\n- retrait, dans la mesure du possible, de tous les composants recensés comme contenant du mercure,\n- retrait des éléments contenant de l’amiante,\n- retrait des pièces étrangères au fonctionnement du véhicule,\n- retrait des pièces contaminées par des substances dangereuses.\n\nAu cas où certaines pièces du véhicule sont récupérées afin d’être réutilisées (p.ex. moteur, boîtes de vitesses), les fluides de ces pièces ne sont pas à enlever. Ces pièces sont alors à démonter sans retard du véhicule et sont à entreposer dans la zone spécialement aménagée à cet effet.\n\nLes éléments suivants sont à enlever en vue de leur recyclage:\n\n- pneus,\n- composants métalliques contenant du cuivre, de l’aluminium et du magnésium si ces métaux ne sont pas séparés au cours du broyage,\n- masses d’équilibrage,\n- jantes en aluminium,\n- verre.\n\nL’équipement technique pour effectuer le démontage des véhicules conformément aux informations de démontage dont question à l’article 10 doit être disponible.\n\nLa dépollution et le démontage des véhicules hors d’usage sont à effectuer par du personnel spécialement qualifié à cette fin.",
+      "text_sha256": "dd92e14c511a88a6903b841e1504a0b710a78edb472ba350e9a2f16c05c61449",
+      "md_span": {
+        "start": 16794,
+        "end": 21961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_2",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#attachment_2",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "(Règl. g.-d. du 11 octobre 2013)«ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "***Matériaux et composants exemptés des mesures visées à l’article 5 paragraphe 2***\n\n| **Matériaux et composants** | **Portée et date d’expiration de l’exemption** | **Etiquetés ou rendus identifiables par d’autres moyens appropriés** |  |  |\n| --- | --- | --- | --- | --- |\n| *Plomb comme élément d’alliage* |  |  |  |  |\n| 1. | a) | Acier destiné à l’usinage et composants en acier galvanisé à chaud par lots contenant jusqu’à 0,35% de plomb en poids |  |  |\n| 1. | b) | Tôles d’acier galvanisées en continu contenant jusqu’à 0,35% de plomb en poids | Véhicules réceptionnés avant le 1er janvier 2016 et pièces de rechange pour ces véhicules |  |\n| 2. | a) | Aluminium destiné à l’usinage contenant jusqu’à 2% de plomb en poids | Comme pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2005 |  |\n| 2. | b) | Aluminium contenant jusqu’à 1,5% de plomb en poids | Comme pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2008 |  |\n| 2. | c) | Aluminium contenant jusqu’à 0,4% de plomb en poids | (1) |  |\n| 3. |  | Alliage de cuivre contenant jusqu’à 4% de plomb en poids | (1) |  |\n| 4. | a) | Coussinets et bagues | Comme pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2008 |  |\n| 4. | b) | Coussinets et bagues utilisés dans les moteurs, les transmissions et les compresseurs de climatisation | 1er juillet 2011 et pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2011 |  |\n| *Plomb et composés de plomb dans des composants* |  |  |  |  |\n| 5. |  | Piles | (1) | X |\n| 6. |  | Amortisseurs | Véhicules réceptionnés avant le 1er janvier 2016 et pièces de rechange pour ces véhicules | X |\n| 7. | a) | Agents de vulcanisation et stabilisants pour élastomères utilisés dans les tuyaux de frein, les tuyaux pour carburant, les tuyaux de ventilation d’air, les pièces en élastomère/métal dans les châssis et les bâtis de moteur | Comme pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2005 |  |\n| 7. | b) | Agents de vulcanisation et stabilisants pour élastomères utilisés dans les tuyaux de frein, les tuyaux pour carburant, les tuyaux de ventilation d’air, les pièces en élastomère/métal dans les châssis et les bâtis de moteur contenant jusqu’à 0,5% de plomb en poids | Comme pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2006 |  |\n| 7. | c) | Liants pour élastomères utilisés dans les applications de transmission, contenant jusqu’à 0,5% de plomb en poids | Comme pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2009 |  |\n| 8. | a) | Plomb dans les soudures servant à unir des composants électriques et électroniques à des cartes de circuits imprimés et plomb dans les finitions des extrémités de composants (autres que des condensateurs électrolytiques à l’aluminium), des fiches de composants et des cartes de circuits imprimés | Véhicules réceptionnés avant le 1er janvier 2016 et pièces de rechange pour ces véhicules | X(2) |\n| 8. | b) | Plomb dans les soudures utilisées dans les applications électriques autres que les soudures des cartes de circuits imprimés ou sur verre | Véhicules réceptionnés avant le 1er janvier 2011 et pièces de rechange pour ces véhicules | X(2) |\n| 8. | c) | Plomb utilisé dans les finitions des bornes des condensateurs électrolytiques à l’aluminium | Véhicules réceptionnés avant le 1er janvier 2013 et pièces de rechange pour ces véhicules | X(2) |\n| 8. | d) | Plomb dans les soudures sur verre dans des capteurs de flux de masse d’air | Véhicules réceptionnés avant le 1er janvier 2015 et pièces de rechange pour ces véhicules | X(2) |\n| 8. | e) | Plomb dans les soudures à haute température de fusion (alliages de plomb contenant au moins 85% en poids de plomb) | (3) | X(2) |\n| 8. | f) | Plomb utilisé dans les systèmes à connecteurs à broches conformes | (3) | X(2) |\n| 8. | g) | Plomb dans les soudures visant à réaliser une connexion électrique durable entre la puce et le substrat du semi-conducteur dans les boîtiers de circuits intégrés à puce retournée | (3) | X(2) |\n| 8. | h) | Plomb dans les soudures servant à unir des dissipateurs de chaleur au radiateur dans les assemblages de semi-conducteurs de puissance avec un circuit intégré d’au moins 1 cm2 d’aire de projection et une densité de courant nominal d’au moins 1 A/mm2 de la superficie du circuit intégré | (3) | X(2) |\n| 8. | i) | Plomb dans les soudures dans les applications électriques sur verre, à l’exception des soudures sur verre feuilleté | Véhicules réceptionnés avant le 1er janvier 2013 et pièces de rechange pour ces véhicules (4) | X(2) |\n| 8. | j) | Plomb dans les soudures sur verre feuilleté | (3) | X(2) |\n| 9. |  | Sièges de soupape | Comme pièces de rechange pour les types de moteurs mis au point avant le 1er juillet 2003 |  |\n| 10. | a) | Composants électriques et électroniques contenant du plomb, insérés dans du verre ou des matériaux céramiques, dans une matrice en verre ou en céramique, dans des matériaux vitrocéramiques ou dans une matrice vitrocéramique. |  | X(4) (pour composants autres que piézo électriques dans les moteurs) |\n| Cette exemption ne couvre pas l’utilisation de plomb dans:le verre des ampoules et la glaçure des bougies,les matériaux céramiques diélectriques des composants énumérés aux points 10 b), 10 c) et 10 d) |  |  |  |  |\n| 10. | b) | Plomb dans les matériaux céramiques diélectriques de type PZT de condensateurs faisant partie de circuits intégrés ou de semi-conducteurs discrets |  |  |\n| 10. | c) | Le plomb dans les matériaux céramiques diélectriques de condensateurs ayant une tension nominale inférieure à 125 V CA ou 250 V CC | Véhicules réceptionnés avant le 1er janvier 2016 et pièces de rechange pour ces véhicules |  |\n| 10. | d) | Plomb dans les matériaux céramiques diélectriques de condensateurs compensant les variations des capteurs liées à la température dans les systèmes de sonars à ultrasons | (3) |  |\n| 11. |  | Initiateurs pyrotechniques | Véhicules réceptionnés avant le 1er juillet 2006 et pièces de rechange pour ces véhicules |  |\n| 12. |  | Matériaux thermoélectriques contenant du plomb utilisés dans les applications électriques des composants automobiles permettant de réduire les émissions de CO2 par récupération de la chaleur d’échappement | Véhicules réceptionnés avant le 1er janvier 2019 et pièces de rechange pour ces véhicules | X |\n| *Chrome hexavalent* |  |  |  |  |\n| 13. | a) | Revêtements anticorrosion | Comme pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2007 |  |\n| 13. | b) | Revêtements anticorrosion des ensembles boulons-écrous dans les châssis | Comme pièces de rechange pour les véhicules mis sur le marché avant le 1er juillet 2008 |  |\n| 14. |  | Comme anticorrosif pour les systèmes de refroidissement en acier au carbone dans les réfrigérateurs à absorption des autocaravanes, (jusqu’à 0,75% en poids dans la solution de refroidissement), sauf s’il est possible d’utiliser d’autres technologies de refroidissement (c’est-à-dire disponibles sur le marché en vue d’une utilisation dans les autocaravanes) n’ayant pas d’incidences négatives sur l’environnement, la santé et/ ou la sécurité du consommateur |  | X |\n| *Mercure* |  |  |  |  |\n| 15. | a) | Lampes à décharge dans les phares | Véhicules réceptionnés avant le 1er juillet 2012 et pièces de rechange pour ces véhicules | X |\n| 15. | b) | Tubes fluorescents utilisés dans les écrans d’affichage | Véhicules réceptionnés avant le 1er juillet 2012 et pièces de rechange pour ces véhicules | X |\n| *Cadmium* |  |  |  |  |\n| 16. |  | Batteries pour véhicules électriques | Comme pièces de rechange pour les véhicules mis sur le marché avant le 31 décembre 2008 |  |\n\n|  |  |\n| --- | --- |\n| (1) | Cette exemption sera réexaminée en 2015. |\n| (2) | Démontage requis si, compte tenu des quantités visées à la rubrique 10 a), le seuil moyen de 60 grammes de plomb par véhicule est dépassé. Pour l’application de cette clause, il n’est pas tenu compte des dispositifs électroniques qui ne sont pas installés par le constructeur dans la chaîne de production. |\n| (3) | Cette exemption sera réexaminée en 2014. |\n| (4) | Démontage requis si, compte tenu des quantités visées aux rubriques 8 a) à 8 j), le seuil moyen de 60 grammes de plomb par véhicule est dépassé. Pour l’application de cette clause, il n’est pas tenu compte des dispositifs électroniques qui ne sont pas installés par le constructeur dans la chaîne de production. |\n\n*Remarques:*\n\n- une valeur maximale de concentration de 0,1% en poids de plomb, de chrome hexavalent et de mercure et de 0,01% en poids de cadmium est tolérée dans un matériau homogène.\n- la réutilisation de parties de véhicules qui étaient déjà sur le marché à la date d’expiration d’une exemption est autorisée sans limitation puisque cette réutilisation n’est pas couverte par les dispositions de l’article 5, paragraphe 2 du présent règlement.\n- er er\n\n|  |  |\n| --- | --- |\n| (*) | Cette clause ne s’applique pas aux masses d’équilibrage de roues, aux balais à charbon pour les moteurs électriques et aux garnitures de freins.» |",
+      "text_sha256": "e86ec135f026fc0f78f4ea674d00b16a2e4776b6e5e4d6c068ce048c248aa58e",
+      "md_span": {
+        "start": 22038,
+        "end": 31211
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_3",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#attachment_3",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "***Accord environnemental***\n\nLes accords environnementaux prévus au présent règlement sont soumis aux règles suivantes:\n\n1. 1. les accords doivent préciser leurs objectifs et leur durée;\n2. les accords et les résultats atteints par leur application sont à la disposition du public et communiqués à la Commission européenne;\n3. l’application des accords fait l’objet d’un contrôle régulier de la part de l’administration;\n4. les accords contiennent des mesures et sanctions en cas de non respect de leurs dispositions.\n2. Les accords sont conclus pour une période déterminée qui ne peut excéder cinq ans. Ils ne sont pas renouvelables par tacite reconduction.\n3. Les accords prennent fin soit à l’échéance du terme pour lequel ils ont été conclus, soit à la réalisation de leurs objectifs, soit d’un commun accord des parties.",
+      "text_sha256": "b9a102a154d7a8f3f9d818c01daab9eb43721c063d8f66925671bd2cc52fec91",
+      "md_span": {
+        "start": 31256,
+        "end": 32082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_4",
+      "provision_id": "lu-legilux:rgd-2003-03-17-n2:2013-11-08#attachment_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "(Règl. g.-d. du 17 novembre 2011)«ANNEXE IV:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Certificat de destruction**\n\n|  |  |\n| --- | --- |\n|  |  |\n|  |  |\n| Case réservée à la (*Règl. g.-d. du 11 octobre 2013*) «SNCA» |  |\n|  |  |\n\n| Certificat de destruction |\n| --- |\n| Certificat de destruction conformément à l’article 6.3 du Règlement grand-ducal du 17 mars 2003 relatif aux véhicules hors d’usage |\n\n| Numéro: / |  |\n| --- | --- |\n\n****1.**** **Entreprise délivrant le certificat de destruction**\n\n|  | Nom |  |\n| --- | --- | --- |\n|  | Numéro |  |\n|  | Rue |  |\n|  | Code postal |  |\n|  | Commune |  |\n|  | Pays |  |\n|  | Numéro téléphone |  |\n|  | Numéro télécopieur |  |\n|  | Adresse électronique |  |\n|  | Numéro autorisation loi commodo/incommodo |  |\n|  | Numéro autorisation loi déchets |  |\n\n****2.**** **Données du véhicule**\n\n|  | Marque |  |\n| --- | --- | --- |\n|  | Modèle |  |\n|  | Catégorie |  |\n|  | Nr. d’immatriculation |  |\n|  | Nr. châssis |  |\n|  | Code pays |  |\n\n****3.**** **Données du dernier détenteur/propriétaire**\n\n|  | Nom, prénom |  |\n| --- | --- | --- |\n|  | Numéro |  |\n|  | Rue |  |\n|  | Code postal |  |\n|  | Localité |  |\n|  | Nationalité |  |\n\n|  | Localité et date de délivrance |  |\n| --- | --- | --- |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  | Cachet et signature responsable de l’entreprise | Signature détenteur/propriétaire |",
+      "text_sha256": "d84a72d6812e1936fb541c66ed810c2c247fcc22633047ce9412b1f838c1c5d7",
+      "md_span": {
+        "start": 32161,
+        "end": 33444
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2013/10/11/n2/jo",
+          "text": "Règl. g.-d. du 11 octobre 2013"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2003/03/17/n2/jo",
+          "text": "Règlement grand-ducal du 17 mars 2003"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

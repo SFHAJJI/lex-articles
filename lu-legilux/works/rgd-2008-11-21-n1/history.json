@@ -1,0 +1,46 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2008-11-21-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2023-12-31",
+        "text_sha256": "22ee6057958d329a19e648c61326453b4ac170cc4d7ae85b6450972fa40da8aa",
+        "in_version": "lu-legilux:rgd-2008-11-21-n1:2013-07-01",
+        "article_valid_from": "2013-07-01"
+      },
+      {
+        "valid_from": "2024-01-01",
+        "valid_to": null,
+        "text_sha256": "09d6225eeab9df25c7ef5b9b89bd5045222c6e4e46891f5d97ea1302eb95698f",
+        "in_version": "lu-legilux:rgd-2008-11-21-n1:2024-01-01",
+        "article_valid_from": "2024-01-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "e9117db91ae99cad2facba78a9af758ab69a9d527edf8c651d5fb9ea5862f8a7",
+        "in_version": "lu-legilux:rgd-2008-11-21-n1:2013-07-01",
+        "article_valid_from": "2008-12-14",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "b64aeda31a48fee8cdb27638ef1be00f5e0725567e23f6f0038e8517319ddec5",
+        "in_version": "lu-legilux:rgd-2008-11-21-n1:2013-07-01",
+        "article_valid_from": "2008-12-14",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

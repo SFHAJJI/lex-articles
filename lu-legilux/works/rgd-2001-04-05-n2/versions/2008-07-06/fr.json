@@ -1,0 +1,188 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06",
+  "language": "fr",
+  "title": "Version consolidée applicable au 12/03/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de communications commerciales dans les services de médias audiovisuels.",
+  "valid_from": "2008-07-06",
+  "valid_to": "2010-12-27",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2001-04-05-n2/versions/2008-07-06/fr.xml",
+    "sha256": "ca9f7741a159dd032491d1c7cb1c9ae1e5e7924304bbbd9aaae66271941f6fa7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/consolide/20080706/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_1er/20010421",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": "2001-04-21",
+      "text_md": "Les dispositions du présent règlement grand-ducal s’appliquent aux programmes de télévision visés par le paragraphe (1) de l’article 26 modifié de la loi du 27 juillet 1991 sur les médias électroniques, à l’exception de ceux visés à l’article 26 (3).",
+      "text_sha256": "0029fce95fbb48a35196969624759eb25eafd65755d6420a4fbbabc15c106487",
+      "md_span": {
+        "start": 699,
+        "end": 949
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi du 27 juillet 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_2/20080706",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Insertion de la publicité et du télé-achat",
+      "path": [],
+      "article_valid_from": "2008-07-06",
+      "text_md": "**(1)** En cas d'insertion de publicité télévisée ou de télé-achat pendant les programmes, il ne doit pas être porté atteinte à l'intégrité des émissions, compte tenu de leurs interruptions naturelles, de leur durée et de leur nature, ni aux droits des ayants droit.\n\n**(2)** La diffusion des films conçus pour la télévision (à l'exclusion des séries, feuilletons et documentaires), des œuvres cinématographiques et des journaux télévisés peut être interrompue par de la publicité télévisée et/ou du téléachat une fois par tranche programmée de trente minutes au moins. La diffusion des programmes pour enfants peut être interrompue par de la publicité télévisée et/ou du télé-achat une fois par tranche programmée de trente minutes au moins, à condition que la durée programmée de l'élément de programme soit supérieure à trente minutes. La publicité télévisée ou le télé-achat ne peuvent être insérés pendant la diffusion des services religieux.",
+      "text_sha256": "9d8c1b632a7a5623767f29551e287bd42bf2ca62e26c4db255f5b60d62a23c6d",
+      "md_span": {
+        "start": 1027,
+        "end": 1974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_3/20010421",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Contenu de la publicité et du télé-achat",
+      "path": [],
+      "article_valid_from": "2001-04-21",
+      "text_md": "**(1)** La publicité télévisée ne doit pas porter un préjudice moral ou physique aux mineurs et doit, de ce fait, respecter les critères suivants pour leur protection :\n\n1. elle ne doit pas inciter directement les mineurs à l'achat d'un produit ou d'un service, en exploitant leur inexpérience ou leur crédulité;\n2. elle ne doit pas inciter directement les mineurs à persuader leurs parents ou des tiers d'acheter les produits ou les services concernés;\n3. elle ne doit pas exploiter la confiance particulière que les mineurs ont dans leurs parents, leurs enseignants ou d'autres personnes;\n4. elle ne doit pas, sans motif, présenter des mineurs en situation dangereuse.\n\n**(2)** Le télé-achat doit respecter les obligations visées au paragraphe (1) et, en outre, il ne doit pas inciter les mineurs à conclure des contrats pour la vente ou la location de biens et de services.",
+      "text_sha256": "91d8d712fb949e55e4783bba4a960451a7b68cd4a3ae2e017f9dde7779b90aef",
+      "md_span": {
+        "start": 2050,
+        "end": 2926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_4/20010421",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Publicité et télé-achat pour certains produits",
+      "path": [],
+      "article_valid_from": "2001-04-21",
+      "text_md": "**(1)** La publicité télévisée pour les médicaments et les traitements médicaux qui au Grand-Duché de Luxembourg sont seulement disponibles sur prescription médicale est interdite.\n\n**(2)** Le télé-achat concernant des médicaments faisant l'objet d'une autorisation de mise sur le marché au sens de la directive 65/65/CEE du Conseil, du 26 janvier 1965, concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives aux médicaments, ainsi que le télé-achat concernant des traitements médicaux, sont interdits.\n\n**(3)** La publicité télévisée et le télé-achat pour les boissons alcooliques doivent respecter les critères suivants :\n\n1. elle ne peut pas être spécifiquement adressée aux mineurs et, en particulier, présenter des mineurs consommant ces boissons;\n2. elle ne doit pas associer la consommation d'alcool à une amélioration des performances physiques ou à la conduite automobile;\n3. elle ne doit pas susciter l'impression que la consommation d'alcool favorise la réussite sociale ou sexuelle;\n4. elle ne doit pas suggérer que les boissons alcooliques sont dotées de propriétés thérapeutiques ou ont un effet stimulant, sédatif ou anti-conflictuel;\n5. elle ne doit pas encourager la consommation immodérée de boissons alcooliques ou donner une image négative de l'abstinence ou de la sobriété;\n6. elle ne doit pas souligner comme qualité positive des boissons leur forte teneur en alcool.",
+      "text_sha256": "1635cbb2c254d6dac63ec15b69f335c49898032377267b18ebd51da7bc7f8e4c",
+      "md_span": {
+        "start": 3008,
+        "end": 4445
+      },
+      "citations": [
+        {
+          "href": "/eli/dir_ue/1965/65/jo",
+          "text": "directive 65/65/CEE"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_5/20080706",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Parrainage",
+      "path": [],
+      "article_valid_from": "2008-07-06",
+      "text_md": "**(1)** Les programmes télévisés parrainés doivent répondre aux exigences suivantes :\n\n1. le contenu et la programmation d'une émission parrainée ne peuvent, en aucun cas, être influencés par le parrain de manière à porter atteinte à la responsabilité et à l'indépendance éditoriale de l'organisme de radiodiffusion télévisuelle à l'égard des émissions;\n2. ils n'incitent pas directement à l'achat ou à la location de biens ou de services, notamment en faisant des références promotionnelles spécifiques à ces produits ou services;\n3. les téléspectateurs sont clairement informés de l'existence d'un accord de parrainage. Les éléments de programme parrainés doivent être clairement identifiés en tant que tels par le nom, le logo et/ou un autre symbole du parraineur, par exemple au moyen d'une référence à ses produits ou services ou d'un signe distinctif, d'une manière adaptée à l'élément de programme au début, à la fin ou pendant celui-ci.\n\n**(2)** Les programmes télévisés ne peuvent être parrainés par des entreprises qui ont pour activité principale la fabrication ou la vente de cigarettes et d'autres produits du tabac.\n\n**(3)** Le parrainage de programmes télévisés par des entreprises qui ont pour activité, entre autres, la fabrication ou la vente de médicaments et de traitements médicaux peut promouvoir le nom ou l'image de l'entreprise, mais ne peut promouvoir des médicaments ou des traitements médicaux spécifiques disponibles uniquement sur ordonnance dans l'Etat membre de la compétence duquel relève l'organisme de radiodiffusion télévisuelle.\n\n**(4)** Les journaux télévisés et les émissions d'information politique ne peuvent pas être parrainés.",
+      "text_sha256": "347f1b0842a6c14e2a09def403493838e046b4608f10f126cbed6680722f0e31",
+      "md_span": {
+        "start": 4491,
+        "end": 6160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_6/20080706",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Temps de transmission consacré à la publicité et au télé-achat",
+      "path": [],
+      "article_valid_from": "2008-07-06",
+      "text_md": "**(1)** Le pourcentage de temps de transmission de spots de publicité télévisée et de spots de télé-achat à l'intérieur d'une heure d'horloge donnée ne doit pas dépasser 20 %.\n\n**(2)** Le paragraphe (1) ne s'applique pas aux messages diffusés par l'organisme de radiodiffusion télévisuelle en ce qui concerne ses propres programmes et les produits connexes directement dérivés de ces programmes, aux annonces de parrainage et aux placements de produits.\n\n**(3)** Les fenêtres de télé-achat doivent être clairement identifiées comme telles grâce à des moyens optiques et acoustiques et avoir une durée minimale ininterrompue de quinze minutes.",
+      "text_sha256": "a1eceb389c3aa1f1d9972c2e1bc110a61b366b0b8ed2298b7a38637d46d28abe",
+      "md_span": {
+        "start": 6258,
+        "end": 6900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_7/20080706",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Chaînes consacrées exclusivement au télé-achat",
+      "path": [],
+      "article_valid_from": "2008-07-06",
+      "text_md": "Des chaînes de télévision peuvent être consacrées exclusivement au télé-achat. La publicité est autorisée sur ces chaînes. L'article 2 et le paragraphe (1) de l'article 6 du présent règlement ne s'appliquent pas à ces chaînes. L'article 6 paragraphe (2) ne s'applique pas.",
+      "text_sha256": "290e9d76495c072472774153480969c317ee9b4742c47578043e8b1090c15bf9",
+      "md_span": {
+        "start": 6982,
+        "end": 7254
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_8/20080706",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Chaînes consacrées exclusivement à l’autopromotion",
+      "path": [],
+      "article_valid_from": "2008-07-06",
+      "text_md": "Des chaînes de télévision peuvent être consacrées exclusivement à l'autopromotion. D'autres formes de publicité sont autorisées sur ces chaînes. L'article 2 et le paragraphe (1) de l'article 6 du présent règlement ne s'appliquent pas à ces chaînes.",
+      "text_sha256": "58ef404dae3c71525a5d38bba27adb7e25ee53f21f0e36a7d42fc96ee6110687",
+      "md_span": {
+        "start": 7340,
+        "end": 7588
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2001-04-05-n2:2008-07-06#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/art_9/20010421",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Exécution",
+      "path": [],
+      "article_valid_from": "2001-04-21",
+      "text_md": "Notre Premier Ministre, Ministre d’Etat est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "2cf24f4d22eca95c9260ac13dc4aa0de8491342f7179ef0235f29472007d356f",
+      "md_span": {
+        "start": 7633,
+        "end": 7748
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,0 +1,47 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1981-03-11-n1:2001-04-03",
+  "language": "fr",
+  "title": "Version consolidée applicable au 04/12/2000 : Loi du 11 mars 1981 portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses.",
+  "valid_from": "2001-04-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1981-03-11-n1/versions/2001-04-03/fr.xml",
+    "sha256": "2170d894afdb84f884c85f726de34c676a43b24ea0918f300a345a02f9d7b435",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1981/03/11/n1/consolide/20010403/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:loi-1981-03-11-n1:2001-04-03#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Annexe",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour visualiser l'annexe, veuillez consulter la version pdf du mémorial.",
+      "text_sha256": "bc35d72728d0e92c6be2e5c7fcc4192a2bb2ee10b7d82bee70dd675747b76ac9",
+      "md_span": {
+        "start": 659,
+        "end": 731
+      },
+      "citations": [
+        {
+          "href": "https://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2002/a33/fr/pdf/eli-etat-leg-memorial-2002-a33-fr-pdf.pdf",
+          "text": "version pdf du mémorial"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

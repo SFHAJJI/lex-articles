@@ -1,0 +1,27 @@
+{
+  "lex_work_id": "lu-legilux:loi-1979-02-27-n2",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "article_unique": [
+      {
+        "valid_from": "1979-03-18",
+        "valid_to": null,
+        "text_sha256": "c8f98e56ad067050728930d15bf57ac8df042e60dd208a974761b9c59eae9095",
+        "in_version": "lu-legilux:loi-1979-02-27-n2:1979-03-18",
+        "article_valid_from": "1979-03-18"
+      }
+    ],
+    "attachment_1": [
+      {
+        "valid_from": "1979-03-18",
+        "valid_to": null,
+        "text_sha256": "016a5f7593a28cdf8a9d245cdb67a8c777a33de4e095327bbcfc1833d6f4dd96",
+        "in_version": "lu-legilux:loi-1979-02-27-n2:1979-03-18"
+      }
+    ]
+  },
+  "anchor_events": []
+}

@@ -1,0 +1,123 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1999-11-19-n1:2025-07-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 19 novembre 1999 portant exécution de l’article 106, alinéas 3 et 4 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu. (base d’amortissement forfaitaire et taux d’amortissement pour immeubles locatifs).",
+  "valid_from": "2025-07-01",
+  "valid_to": "2025-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1999-11-19-n1/versions/2025-07-01/fr.xml",
+    "sha256": "4bef07e509fd29b408a6a370a82f9d625f163a5e8e7f49d92a06e70d4c6739c3",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n1/consolide/20250701/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1999-11-19-n1:2025-07-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n1/art_1er/19991214",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-12-14",
+      "text_md": "**(1)** La base de l’amortissement pour usure des immeubles et parties d’immeubles bâtis acquis à titre onéreux est fixée:\n\n1. au triple de la valeur unitaire au 1.1.1941 pour les immeubles acquis avant le 1.1.1941;\n2. au prix d’acquisition ou de revient, diminué de la quote-part relative au terrain, pour les immeubles acquis après le 31.12.1940.\n\n**(2)** La base de l’amortissement pour usure des immeubles et parties d’immeubles bâtis acquis à titre gratuit est fixée comme s’il n’y avait pas eu de transmission, à savoir:\n\n1. au triple de la valeur unitaire au 1.1.1941 si le détenteur antérieur, ayant acquis l’immeuble en dernier lieu à titre onéreux, a acquis l’immeuble avant le 1.1.1941;\n2. au prix d’acquisition ou de revient, diminué de la quote-part relative au terrain, payé après le 31.12.1940 par le détenteur antérieur ayant acquis l’immeuble en dernier lieu à titre onéreux.",
+      "text_sha256": "b11321347e8dd452ff4a32d0e48c6fe0eb091a4baff5855d75a902c83ed2dab1",
+      "md_span": {
+        "start": 776,
+        "end": 1668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1999-11-19-n1:2025-07-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n1/art_2/20250701",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2025-07-01",
+      "text_md": "**(1)** Les taux d’amortissement fixés ci-après s’appliquent à la base respective telle qu’elle est déterminée par l’article 1er. Les taux se différencient selon l’âge, l’affectation et la base d’amortissement des immeubles ou le nombre limité d’acquisitions conformément au tableau de l’alinéa 2.\n\n**(2)** Taux d’amortissement\n\n| 1. | immeubles ou parties d’immeubles bâtis, non visés sub 2., 3. et 4. ci-dessous, dont l’achèvement remonte au 1er janvier de l’année d’imposition à | Taux |  |\n| --- | --- | --- | --- |\n|  |  | Usure normale | Usure plus forte dûment justifiée |\n|  | moins de 30 ans | 1,5 % | 2 % |\n|  | 30 ans jusqu’à 60 ans inclus | 2 % | 2,5 % |\n|  | plus de 60 ans | 3 % | 4 % |\n| 2. | immeubles ou parties d’immeubles bâtis pour lesquels la base d’amortissement est constituée par le triple de la valeur unitaire | 2,5 % | 3 % |\n| 3. | 6 pour cent pour les dépenses d’investissement effectuées relatives à une rénovation énergétique durable, dont l’achèvement remonte au 1er janvier de l’année d’imposition à moins de 9 ans, d’un immeuble ou d’une partie d’immeuble bâti, affecté au logement locatif. |  |  |\n|  | Par rénovation énergétique durable, il y a lieu de comprendre les mesures d’assainissement énergétique durable d’un logement locatif pour lesquelles une aide financière visée à l’article 4 de la loi modifiée du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement est accordée. |  |  |\n|  | 2 pour cent à appliquer à des immeubles ou parties d’immeubles bâtis affectés au logement locatif. |  |  |\n| 4. | Par dérogation à la disposition qui précède, le taux d’amortissement de 4 pour cent est à appliquer à deux immeubles ou parties d’immeubles bâtis affectés au logement locatif au maximum pendant toute la période d’assujettissement du contribuable à l’impôt au Grand-Duché de Luxembourg lorsque l’achèvement desdits immeubles ou parties d’immeubles remonte au 1er janvier de l’année d’imposition à moins de 5 ans. |  |  |\n|  | Par période d’assujettissement du contribuable à l’impôt au Grand-Duché de Luxembourg, il y a lieu de comprendre l’intégralité des années d’imposition au titre desquelles le contribuable y est imposable en tant que résident ou non-résident et indépendamment d’années d’imposition au titre desquelles ce contribuable n’y est pas imposable. |  |  |\n|  | L’immeuble ou partie d’immeuble bâti à prendre en compte en premier est celui ou celle dont la date de l’achèvement est la plus ancienne à partir du 1er janvier 2023. L’immeuble ou partie d’immeuble bâti à prendre en compte en deuxième est celui ou celle dont la date de l’achèvement suit immédiatement celle retenue pour l’immeuble ou la partie d’immeuble pris en compte en premier. |  |  |\n|  | Si deux immeubles ou parties d’immeubles bâtis ont respecté les conditions des trois paragraphes qui précèdent et que l’amortissement au taux de 4 pour cent leur a été accordé, le contribuable n’a plus droit à l’amortissement au taux de 4 pour cent pour un immeuble ou une partie d’immeuble bâti supplémentaire, même si au moment de l’acquisition de cet immeuble ou de cette partie d’immeuble supplémentaire, sa date d’achèvement se situe avant ou entre celle des deux premiers immeubles ou parties d’immeubles bâtis. |  |  |\n|  | La disposition du présent numéro est d’application correspondante aux dépenses d’investissement effectuées en cas de rénovation d’un logement ancien à condition qu’elles dépassent 20 pour cent du prix d’acquisition du bâtiment. |  |  |\n|  | Toutefois, les dispositions des cinq paragraphes qui précèdent ne s’appliquent pas à des immeubles ou parties d’immeubles bâtis, affectés au logement locatif acquis par le contribuable entre le 1er janvier 2024 et le 30 juin 2025 par un acte de vente en état futur d’achèvement, pour lesquels le taux d’amortissement à appliquer est toujours de 2 pour cent. Les mêmes dispositions ne s’appliquent pas à des immeubles ou parties d’immeubles bâtis, affectés au logement locatif acquis par le contribuable entre le 1er juillet 2025 et le 30 septembre 2025, par un acte de vente en état futur d’achèvement, sous condition que le contrat préliminaire visé à l’article 1601-13 du Code civil et afférent à l’acquisition de l’immeuble a été enregistré au plus tard le 30 juin 2025 auprès de l’Administration de l’enregistrement, des domaines et de la TVA, pour lesquels le taux d’amortissement à appliquer est toujours de 2 pour cent. La phrase qui précède s’applique sans préjudice des dispositions du paragraphe 8*bis* de la loi modifiée du 16 octobre 1934 concernant l’évaluation des biens et valeurs (« Bewertungsgesetz »). |  |  |",
+      "text_sha256": "54491c6a4800d56c30fef9069923db9d0f8fb2fc03605bfd74eeaa2594751a07",
+      "md_span": {
+        "start": 1703,
+        "end": 6447
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2016/12/23/n20/jo",
+          "text": "loi modifiée du 23 décembre 2016"
+        },
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1934/10/16/n3/jo",
+          "text": "loi modifiée du 16 octobre 1934"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1999-11-19-n1:2025-07-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n1/art_3/20230101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2023-01-01",
+      "text_md": "**(1)** Les dispositions des articles 1er et 2 s’appliquent uniquement aux immeubles et parties d’immeubles bâtis faisant intégralement partie du patrimoine privé du contribuable.\n\n**(2)** Ne tombent pas sous le champ d’application de l’article 2, alinéa 2, numéros 3. et 4. les immeubles ou parties d’immeubles bâtis affectés à une activité commerciale, industrielle, minière ou artisanale, à une exploitation agricole ou forestière ou à l’exercice d’une profession libérale.\n\n**(3)** Les taux d’amortissement prévus à l’article 2, alinéa 2, ne s’appliquent pas aux bâtiments hôteliers, bâtiments ou halls industriels et autres constructions aménagées à des fins spéciales.\n\n**(4)** Par dérogation au numéro 4. du tableau de l’article 2, alinéa 2 :\n\n1. er er er\n2. er er er",
+      "text_sha256": "ef4463c9cd52980edca8f6851f4490f715b5b8e1efee417f452f7ac379b29bce",
+      "md_span": {
+        "start": 6482,
+        "end": 7256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1999-11-19-n1:2025-07-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n1/art_4/19991214",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-12-14",
+      "text_md": "Sont abrogés:\n\n- ordonnance d’exécution du 7 décembre 1941\n- règlement grand-ducal du 17 décembre 1991 L.I.R.",
+      "text_sha256": "62832365807a42d3579ecddb081d2346496bd8956e56b3e8a4c9451230d71b19",
+      "md_span": {
+        "start": 7291,
+        "end": 7400
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1999-11-19-n1:2025-07-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n1/art_5/19991214",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1999-12-14",
+      "text_md": "Notre Ministre des Finances est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ee7454c63ac1d58715524586427078207d56e56a3b065cea8ea550029b7791f3",
+      "md_span": {
+        "start": 7435,
+        "end": 7538
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

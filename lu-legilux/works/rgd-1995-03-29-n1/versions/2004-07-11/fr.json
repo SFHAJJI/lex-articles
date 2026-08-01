@@ -1,0 +1,600 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/07/2007 : Règlement grand-ducal du 29 mars 1995 portant détermination des modalités de désignation des représentants des étrangers au Conseil National pour Etrangers, ainsi que leur répartition par nationalités.",
+  "valid_from": "2004-07-11",
+  "valid_to": "2007-07-01",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1995-03-29-n1/versions/2004-07-11/fr.xml",
+    "sha256": "438a47720838f3ba999adca01d1dd0f091eada3f28bd1eb50783a0f339cffd61",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20040711/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_1er/19950403",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Sur base de l’importance proportionnelle des diverses nationalités présentes au Grand-Duché de Luxembourg, constatée par le dernier recensement de la population effectué par le service central de la statistique et des études économiques (STATEC), le nombre de représentants de pays qui font partie de l’Union européenne est fixé à 12; celui de représentants de pays ne faisant pas partie de l’Union européenne est fixé à 2.",
+      "text_sha256": "bfd25dc4fef788cdfe83cae4e462580833418cd702bd5a42f6f9e41810734ea0",
+      "md_span": {
+        "start": 729,
+        "end": 1152
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_2/20040711",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-07-11",
+      "text_md": "Les représentants des pays qui font partie de l’Union européenne se répartissent comme suit, étant entendu que pour le Portugal, l’Italie, la France, la Belgique, l’Allemagne, les Pays-Bas et la Grande-Bretagne il y a autant de membres suppléants que de membres effectifs.\n\nPour l’ensemble des autres pays de l’Union européenne il y a deux membres effectifs et deux membres suppléants, qui sont proposés dans l’ordre du nombre de voix obtenues, les deux candidats ayant obtenu le plus de voix étant proposés comme membres effectifs, sans qu’il ne puisse y avoir plus d’un membre effectif ou suppléant proposé par pays.",
+      "text_sha256": "6076c841caa096e192f9e807c8423444fab03b19b24ede7db4dbea85a83ef161",
+      "md_span": {
+        "start": 1187,
+        "end": 1805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_3/20040711",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-07-11",
+      "text_md": "Les 2 membres effectifs et les 2 membres suppléants représentant les pays qui ne font pas partie de l’Union européenne se répartissent comme suit, dans l’ordre du nombre de voix obtenues, étant entendu que les 2 candidats ayant obtenu le plus de voix sont proposés comme membres effectifs:\n\n- 1 ressortissant du Cap-Vert\n- 1 ressortissant de la République fédérale de la Serbie et du Monténégro\n- 2 ressortissants d’autres pays non membres.",
+      "text_sha256": "d6e87df3a4482573475ea349f9589df61d3371078f862c4c7b4f93dcd6494f28",
+      "md_span": {
+        "start": 1840,
+        "end": 2280
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_4/19950403",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Pour chaque membre du conseil il est nommé un suppléant. Le suppléant siège en lieu et place du membre effectif en cas d’empêchement de ce dernier.\n\nLes membres effectifs du conseil peuvent décider de se réunir en présence des membres suppléants pour des questions qui revêtent une importance particulière. Dans ces réunions, seuls les membres effectifs ou les membres qui siègent en lieu et place d’un membre effectif ont le droit de vote.\n\nEn cas de décès ou de démission d’un membre du conseil, son suppléant le remplace jusqu’au renouvellement du conseil.\n\nLe mandat individuel d’un représentant des étrangers prend fin, hormis le cas de décès ou de démission, dès qu’il acquiert la nationalité luxembourgeoise. Il en est de même en cas de transfert du domicile en dehors du territoire du Grand-Duché. Dans ces cas le membre suppléant est remplacé, suivant les dispositions prévues aux articles 29 et suivants, de façcon à respecter les modalités de représentation fixées aux articles précédents.",
+      "text_sha256": "a21a37d9aaeaef90a2f2068789096ccb823a2ab1b3b462fd42a3a1746e4c6480",
+      "md_span": {
+        "start": 2315,
+        "end": 3315
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_5/19950403",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions la famille, d’après les modalités ci-après désignées:\n\n1. les associations des étrangers ayant une activité sociale, culturelle ou sportive, l’association des étrangers étant celle dont soit la majorité des membres fondateurs, soit la majorité des membres actuels, sont d’une nationalité autre que luxembourgeoise;\n2. les associations oeuvrant, à titre principal, en faveur des étrangers.\n\nLes associations visées à l’alinéa qui précède doivent être inscrites au Commissariat du Gouvernement aux étrangers au plus tard le quinzième jour avant le jour du scrutin défini à l’article 15.",
+      "text_sha256": "c46b9630cdf777113f942b26edcc20a30edb5a5bb218660118261dbd0e0ea5f1",
+      "md_span": {
+        "start": 3350,
+        "end": 4030
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_6/19950403",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Sont inscrites au Commissariat du Gouvernement aux étrangers en vue d’exercer le droit de vote pour le conseil national pour étrangers, les associations visées à l’article 5 ci-dessus, à condition qu’elles soient constituées conformément aux dispositions de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif et que les statuts aient été publiés selon les dispositions de la même loi.\n\nPour les premières élections il suffit que les statuts de l’association aient été dûment déposés aux fins de publication.",
+      "text_sha256": "4e4796bbf7e0a1d294df41163dc175b68c292172c8ac1b9e14bd237679d6e8ee",
+      "md_span": {
+        "start": 4065,
+        "end": 4611
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1928/04/21/n2/jo",
+          "text": "loi modifiée du 21 avril 1928"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1928/04/21/n2/jo",
+          "text": "même loi"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_7/19950403",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "La demande d’inscription se fait sur papier libre, adressée au Commissariat du Gouvernement aux étrangers en joignant:\n\n1. une copie conforme de l’acte de constitution\n2. une copie conforme attestant la publication des statuts au Mémorial C, recueil spécial des sociétés et associations. Pour les premières élections une copie conforme attestant le dépôt des statuts aux fins de publication suffit.\n3. la liste des administrateurs désignés en conformité des statuts pour l’exercice en cours.\n\nAfin d’examiner la conformité de l’association aux articles 5 et 6, le Commissariat du Gouvernement aux étrangers peut exiger la production de la liste des membres, établie conformément à l’article 10 de la loi du 21 avril 1928 précitée.\n\nLe Commissariat du Gouvernement aux étrangers donne acte à l’association de son inscription en cas de décision positive.\n\nLe refus d’inscription est dûment motivé.",
+      "text_sha256": "0eacb58c4d1897daa315f71e4c35da132550c36dd7af6e9beef73c94771ee23e",
+      "md_span": {
+        "start": 4646,
+        "end": 5541
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1928/04/21/n2/jo",
+          "text": "loi du 21 avril 1928"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_8/19950403",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "La liste des inscriptions est révisée annuellement avec effet au 1er juillet.",
+      "text_sha256": "8fe4d93e8db641daa234df986ea16bcad32db667d268461dcf7a0e40abb75248",
+      "md_span": {
+        "start": 5576,
+        "end": 5653
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_9/19950403",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Toutes les associations inscrites auprès du Commissariat du Gouvernement aux étrangers sont admises à proposer les représentants des étrangers au ministre ayant dans ses attributions la famille.",
+      "text_sha256": "938b8ce9e7e1c46813dd0f9eaca9600cf1c535e5c129283991239175186aa6c0",
+      "md_span": {
+        "start": 5688,
+        "end": 5882
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_10/19950403",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les représentants des étrangers à proposer au ministre compétent sont élus parmi les personnes figurant sur la liste des candidats déclarés, sauf ce qui est prévu aux articles 30 et suivants.",
+      "text_sha256": "d155cc730ebe2c12bf2b5286c0e31608f1336acee0acd4c7a7ff67db9b725bbb",
+      "md_span": {
+        "start": 5919,
+        "end": 6110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_11/20040711",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2004-07-11",
+      "text_md": "Pour être candidat, il faut:\n\n- être d’une nationalité autre que luxembourgeoise\n- être âgée de 18 ans accomplis le jour du scrutin\n- être domicilié au Grand-Duché de Luxembourg\n- ne pas être placé sous un régime de tutelle des majeurs\n- ne pas avoir subi de condamnation à une peine criminelle ou une condamnation en matière correctionnelle emportant privation du droit de vote.\n\nLa candidature peut être posée par la personne concernée elle-même ou par une ou plusieurs associations inscrites auprès du Commissariat du Gouvernement aux étrangers avec l’accord écrit du concerné.",
+      "text_sha256": "97a095da24b52969ac59683435369d53d21a5cc9f944e2224c6078c40c298205",
+      "md_span": {
+        "start": 6147,
+        "end": 6727
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_12/19950403",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Le Commissariat du Gouvernement aux étrangers fait un appel aux candidatures au moins 40 jours avant la date fixée pour le scrutin, par publication dans les principaux quotidiens paraissant au Grand-Duché de Luxembourg, ainsi que dans les principaux journaux étrangers édités au Luxembourg et, en cas de besoin, par radio ou télédiffusion sur les chaînes s’adressant spécialement aux étrangers résidant au Luxembourg.",
+      "text_sha256": "9dd96189d3a8636443e53a501264af7e75c997237fb0202799f130ceb7eb8ddb",
+      "md_span": {
+        "start": 6764,
+        "end": 7181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_13/19950403",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les candidats doivent se déclarer ou être déclarés auprès du Commissariat du Gouvernement aux étrangers au moins huit jours avant la date fixée pour le scrutin. La déclaration marque les nom, prénom, nationalité, date de naissance, domicile et profession du candidat. Elle porte engagement de sa part de ne pas retirer sa candidature. Elle est datée et signée.\n\nLa déclaration de candidature est accompagnée:\n\n1. d’un acte de naissance\n2. d’une pièce documentant la nationalité du candidat\n3. d’un extrait du casier judiciaire.\n\nLa liste des candidats déclarés est affichée au Commissariat du Gouvernement aux étrangers du quinzième jour précédant les élections jusqu’au jour fixé pour les élections. Elle est provisoire jusqu’au huitième jour précédant les élections, où elle est arrêtée définitivement. Elle peut être consultée par tout intéressé.",
+      "text_sha256": "4ae73c0ea4167fb32877983ef302e0c5ae70ea92fdad1db747c9e09df3c4782a",
+      "md_span": {
+        "start": 7218,
+        "end": 8067
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_14/19950403",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Celui qui ne remplit pas les conditions des articles 11 et 13 ci-dessus n’est pas éligible. Il ne peut se porter candidat et peut retirer sa candidature.\n\nSi l’éligibilité d’un candidat, du point de vue des condamnations encourues, paraît être douteuse, le Commissaire du Gouvernement aux étrangers fait réviser d’urgence les conditions d’éligibilité par le Parquet et invite le candidat à présenter ses observations. Lorsque sur le vu des extraits de casier judiciaire ou de tous autres renseignements produits par le Parquet, l’inéligibilité est constatée, le Commissaire doit rayer le candidat en question.",
+      "text_sha256": "90127d4f9a1cb9aae6c54e80e4128c29ab40075f12c6622efcf81d5eb1362ca8",
+      "md_span": {
+        "start": 8104,
+        "end": 8713
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_15/19950403",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Le jour du scrutin est fixé par le ministre ayant dans ses attributions la famille de façon à se situer au moins deux mois avant l’expiration du mandat des représentants sortants.\n\nLe premier scrutin se déroule dans les deux mois suivant l’entrée en vigueur du présent règlement grand-ducal.",
+      "text_sha256": "e591e3c0bc57da093bc29e4e044dd04f130e3c105af9a5f461a0606934c45db1",
+      "md_span": {
+        "start": 8750,
+        "end": 9041
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_16/19950403",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Le bureau de vote est nommé par le ministre ayant dans ses attributions la famille.\n\nIl est composé de cinq membres, à savoir:\n\n- trois fonctionnaires ou employés du Commissariat du Gouvernement aux étrangers\n- deux représentants des étrangers à proposer par les membres sortants du conseil national pour étrangers.\n\nPour les premières élections ces représentants sont proposés par les membres sortants du conseil national de l’immigration.\n\nNi les candidats, ni leurs parents ou alliés jusqu’au deuxième degré inclusivement, ne peuvent siéger comme membre du bureau de vote.\n\nLe président du bureau de vote est désigné par le ministre ayant dans ses attributions la famille.\n\nLe bureau de vote établit une proposition de règlement d’ordre relatif au déroulement des opérations électorales pouvant contenir des instructions pour les électeurs.\n\nCe règlement est arrêté par le ministre ayant dans ses attributions la famille.",
+      "text_sha256": "e8589004887996883b698d5ad28c29ac7eb1a088999054ecdf265be8540dc3cc",
+      "md_span": {
+        "start": 9078,
+        "end": 10002
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_17/19950403",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Chaque association inscrite auprès du Commissariat du Gouvernement aux étrangers a le droit de vote et dispose d’autant de voix qu’il y a de représentants à désigner.",
+      "text_sha256": "5d3ccb6d0cef9fc8610bc74f487d78f667606b0e33a5f8c746b0b5977169f2a4",
+      "md_span": {
+        "start": 10039,
+        "end": 10205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_18/19950403",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Chaque association désigne par information écrite à faire parvenir au Commissariat du Gouvernement aux étrangers au plus tard le quinzième jour avant la date du scrutin, les nom, prénom, profession, nationalité et domicile de son mandataire ayant qualité de voter en son nom. Ce dernier ne peut pas figurer sur la liste des candidatures.",
+      "text_sha256": "16125960222a57c1cb68c06da0480dfde0ed9affebaea25a4fce75be28e1f264",
+      "md_span": {
+        "start": 10242,
+        "end": 10579
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_19/19950403",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les mandataires représentant les associations sont convoqués par les soins du Commissariat du Gouvernement aux étrangers au moins huit jours avant le scrutin.",
+      "text_sha256": "d78b59e62e6e1bf7e0eed16f988ec20118adc7a48ce7a2a74a1d1ea5560a8d12",
+      "md_span": {
+        "start": 10616,
+        "end": 10774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_20/19950403",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Le jour du scrutin, l’assemblée des mandataires représentant les associations inscrites auprès du Commissariat du Gouvernement aux étrangers est présidée par le président du bureau de vote.",
+      "text_sha256": "de3cb028b5df881581ff9e2ef37c241f7c094df0791d5fc35994a7f7cf6ab832",
+      "md_span": {
+        "start": 10811,
+        "end": 11000
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_21/19950403",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les bulletins de vote comportant les nom, prénom, nationalité et domicile de tous les candidats éligibles et déclarés dans les délais prévus à l’article 13, sont distribués à tous les mandataires dûment déclarés.",
+      "text_sha256": "01142832211b6a1c8a9d7d43b347d235fcbd2bca076c2bcdfa6d5f721e90698c",
+      "md_span": {
+        "start": 11037,
+        "end": 11249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_22/19950403",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les candidats ont le droit d’assister et de se présenter aux mandataires des associations durant un laps de temps prédéfini ne pouvant excéder 5 minutes par personne.",
+      "text_sha256": "9981f6c1a31c6555e5278c2d8baad39a11a4b93c7a7fdd85e5b98054ce976a70",
+      "md_span": {
+        "start": 11286,
+        "end": 11452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_23/19950403",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les présentations faites, il est procédé au vote. Les opérations de vote sont secrètes et s’effectuent dans un cadre adapté à garantir le secret des votes.",
+      "text_sha256": "7e34f5c2a2a3383c146008ba7fb2fdace42f4178dd5d1be37ab15023a235951a",
+      "md_span": {
+        "start": 11489,
+        "end": 11644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_24/19950403",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Le vote s’effectue au scrutin simple à un tour.",
+      "text_sha256": "9685b05470f92b71ac8cb160e929cea0f224af26cc79204fab3e6ae6a755c4f7",
+      "md_span": {
+        "start": 11681,
+        "end": 11728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_25/19950403",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Chaque mandataire dispose de 14 voix conformément à l’article 17.\n\nNul ne peut être mandataire de plus d’une association.\n\nChaque candidat ne peut obtenir qu’une seule voix.",
+      "text_sha256": "14da946a5462b1fde11475c0692bacb52dd82b7846972d2bcb86c819286d58c8",
+      "md_span": {
+        "start": 11765,
+        "end": 11938
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_26/19950403",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Sont nuls:\n\n- les bulletins comportant plus de 14 votes exprimés\n- les bulletins comportant plus d’un vote exprimé pour le même candidat\n- les bulletins rendus manifestement reconnaissables par leur auteur.",
+      "text_sha256": "578491fdeadd3704d87f6fffc51ee041ce83b58d7bb0b41586a9efcf650b9da4",
+      "md_span": {
+        "start": 11975,
+        "end": 12181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_27/19950403",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les membres du bureau de vote recueillent tous les bulletins exprimés dans une urne spécialement destinée à ces fins.",
+      "text_sha256": "8ba6dfbd5700e205bcaf05590297133b6f19241b03b2499913fcd3052c804f69",
+      "md_span": {
+        "start": 12218,
+        "end": 12335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_28/19950403",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Le dépouillement des bulletins est public et se fait par proclamation orale en assemblée à la suite du vote.",
+      "text_sha256": "a3720a5c97dcd4a01037635111be0f1d46b871a2dd150e883f49de9e3817ad59",
+      "md_span": {
+        "start": 12372,
+        "end": 12480
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_29/19950403",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "En suivant la répartition définie par nationalité aux articles 2, 3 et 4, les représentants proposés par les associations se dégagent à partir des votes obtenus. Celui qui a obtenu le plus de voix dans le compartiment de nationalité(s) considéré(s), est représentant effectif proposé, le suivant de même, sinon en cas d’unicité de représentant effectif, il est suppléant et ainsi de suite.\n\nEn cas d’égalité des voix, le bénéfice d’âge joue en faveur du plus âgé.",
+      "text_sha256": "c47da5b012e1087a8a6fce956edc1aaf700e9e3b0385d67241eeb086775521e8",
+      "md_span": {
+        "start": 12517,
+        "end": 12980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_30/19950403",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Pour autant que le scrutin ne dégage point de représentant effectif ou suppléant pour une ou plusieurs nationalités, soit par manque de candidats, soit par défaut de voix obtenues, le président du bureau de vote y supplée après avoir consulté la ou les associations d’étrangers représentant la nationalité qui n’est pas représentée.",
+      "text_sha256": "490cfcf10d52627b256053d445962faa63b1f162d460dbad4d65ff41a6b2ff0a",
+      "md_span": {
+        "start": 13017,
+        "end": 13349
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_31/19950403",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les représentants désignés selon les articles qui précèdent sont proposés au nom des associations désignatrices par l’intermédiaire du Commissariat du Gouvernement aux étrangers au ministre qui a dans ses attributions la famille.",
+      "text_sha256": "706fa5e0cfe2b432298ad0c23d167c301d0edabc58924278bbb17c7b3118b341",
+      "md_span": {
+        "start": 13386,
+        "end": 13615
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_32/19950403",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "Les représentants des étrangers sont nommés respectivement membres effectifs et membres suppléants du conseil national pour étrangers pour une durée de trois ans par le ministre au vu des propositions lui transmises conformément à l’article 31.",
+      "text_sha256": "9c1a5b938f0dbbc0353fa58bd5a125e77960b55c2038ecb9830f47f7370a7312",
+      "md_span": {
+        "start": 13652,
+        "end": 13896
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/art_33/19950403",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1995-04-03",
+      "text_md": "En cas de démission, de décès ou d’acquisition de la nationalité luxembourgeoise par des représentants ainsi proposés et sous réserve de nomination par le ministre compétent, les candidats venant après ceux qui ont été désignés membres effectifs et membres suppléants, sont appelés, suivant le rang des voix obtenues, à prendre la place des membres défaillants, jusqu’à épuisement des candidatures. En cas d’épuisement d’icelles, il est procédé conformément aux dispositions de l’article 30.\n\nLes membres ainsi nommés achèveront le mandat de leur prédécesseur.\n\nNotre ministre de la Famille est chargée de l’exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur le premier jour du troisième mois qui suit sa publication.",
+      "text_sha256": "249828c2ce9badd1395e47c95d70645adda50981ede911ceb719a66a51f4236b",
+      "md_span": {
+        "start": 13933,
+        "end": 14681
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

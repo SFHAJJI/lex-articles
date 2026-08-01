@@ -1,0 +1,1800 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2002 : Loi du 1er août 2001 relative au basculement en euro le 1er janvier 2002 et modifiant certaines dispositions législatives.",
+  "valid_from": "2002-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2001-08-01-n16/versions/2002-01-01/fr.xml",
+    "sha256": "d609056fd6d905bcb952504dc1539cdf6a40746cb2129588aab5240b4a643227",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/consolide/20020101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_1er/20020101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "**Chapitre I :** — **Dispositions d’ordre général**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Dans tous les instruments juridiques, à savoir les dispositions législatives et réglementaires, les actes administratifs, les décisions de justice, les contrats, les actes juridiques unilatéraux, les instruments de paiement autres que les billets et les pièces, et tous les autres instruments ayant des effets juridiques, les montants monétaires exprimés en franc au 31 décembre 2001 sont convertis au moment de l’entrée en vigueur de la présente loi en euro suivant les règles de conversion définies par le règlement (CE) n° 1103/97 du Conseil du 17 juin 1997 fixant certaines dispositions relatives à l'introduction de l'euro, pour autant qu’il n’en est pas autrement disposé par la présente loi ou par le règlement grand-ducal pris en son exécution.",
+      "text_sha256": "c728b9f6ded32990c399fe699f213208fbed39606d8f2710e2a3d7c89980df61",
+      "md_span": {
+        "start": 702,
+        "end": 1454
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/1997/1103/jo",
+          "text": "règlement (CE) n° 1103/97"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_2/20020101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre I :** — **Dispositions d’ordre général**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Dans tout instrument juridique au sens de l'article 1er de la présente loi, les montants indexés sont déterminés en procédant d’abord à la conversion en euro des montants de base, et en appliquant l’indexation par la suite. Le résultat de la conversion en euro sur lequel est appliqué l’indexation doit comporter au moins deux décimales de plus que le montant de base en franc.",
+      "text_sha256": "eb38c7eaec021af4f55b4fa5c4d22e0f573b9ff1ba199c9b3d286a96d0431b92",
+      "md_span": {
+        "start": 1489,
+        "end": 1866
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_3/20020101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre I :** — **Dispositions d’ordre général**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Dans le cadre des déclarations faites par l'administré à l'administration publique, les différences éventuelles se rapportant à la période transitoire et résultant de la comparaison du calcul réalisé par le déclarant ayant opté pour l’euro sur base des montants convertis en euro, et du même calcul réalisé par l’administration publique sur base de montants en franc, ne peuvent donner lieu à contestation de la part de l'administration publique, même si les différences sont supérieures à la marge de tolérance prévue à l’article 6 de la loi du 10 décembre 1998 relative aux différences résultant de l’application des règles d’arrondi, pour autant que les règles communautaires de conversion et d’arrondi soient respectées.",
+      "text_sha256": "298eabd84dbedf224975800e893ae50961dceaefaedb794e2140ed6eb391fc4f",
+      "md_span": {
+        "start": 1901,
+        "end": 2625
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/12/10/n1/jo",
+          "text": "loi du 10 décembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_4/20020101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre I :** — **Dispositions d’ordre général**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Lors de la conversion par l'administration publique de données statistiques, historiques ou similaires, les différences éventuelles résultant de la conversion en euro d’au moins deux montants monétaires exprimés à l’origine dans une monnaie nationale participante à l’euro et la conversion en euro de la somme de ces mêmes montants monétaires ne peuvent faire l’objet d’aucune contestation, pour autant que les règles communautaires de conversion et d’arrondi soient respectées.",
+      "text_sha256": "168bc49f499f4dbd6f4628af361327443a88a4a4538cf0a42f41f3e22515774d",
+      "md_span": {
+        "start": 2660,
+        "end": 3138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_5/20020101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre I :** — **Dispositions d’ordre général**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Le Grand-Duc est habilité à procéder par règlement grand-ducal à l’adoption des mesures nécessaires à l’adaptation au passage à l’euro des montants exprimés en francs figurant dans les textes réglementaires.",
+      "text_sha256": "27311bcd649b2cb3d6e3dc18c5aa64c2f7377afc25c5d5f874910e77ba9e1528",
+      "md_span": {
+        "start": 3173,
+        "end": 3380
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_6/20020101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre II :** — **Dispositions relatives aux amendes**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Le taux des amendes libellées en franc à prononcer par les tribunaux répressifs de droit commun en euro est multiplié par 0,025, sauf en ce qui concerne les amendes de droit spécial dont le taux est déterminé d’après le chiffre des droits fraudés ou d’après la valeur de l’objet de l’infraction. Dans les cas où la multiplication précitée aboutit à un montant comprenant des décimales, le montant est arrondi à l’euro supérieur.",
+      "text_sha256": "aad6775ef51ee1a7aa045a5b144fe2fba5590c199d61cc2523a6f3e45ccdabf0",
+      "md_span": {
+        "start": 3478,
+        "end": 3906
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_7/20020101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre II :** — **Dispositions relatives aux amendes**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Les articles 9, 16, 26, 30(1), 76, 77, 78 et 566 du code pénal sont modifiés comme suit :\n\n1. L’amende en matière criminelle est de 251 euros au moins. »\n2. L’amende en matière correctionnelle est de 251 euros au moins. »\n3. L’amende en matière de police est de 25 euros au moins et de 250 euros au plus, sauf les cas où la loi en dispose autrement. »\n4. **(1).** La durée de la contrainte par corps est d’un jour par 50 euros d’amende. Pour les amendes inférieures à 50 euros, la contrainte par corps sera d’un jour. »\n5. L’amende en matière criminelle peut être réduite, sans qu’elle puisse être en aucun cas inférieure à 251 euros. »\n6. Les coupables dont la peine criminelle a été commuée en un emprisonnement peuvent être condamnés à une amende de 251 à 10.000 euros. »\n7. S’il existe des circonstances atténuantes, la peine d’emprisonnement peut ne pas être prononcée et l’amende peut être réduite au-dessous de 251 euros, sans qu’elle puisse être inférieure à 25 euros. »\n8. Lorsque, dans les cas prévus par les quatre chapitres qui précèdent, il existe des circonstances atténuantes, l’amende peut être réduite, sans qu’elle puisse en aucun cas, être inférieure à 25 euros ».",
+      "text_sha256": "062080c78cc6c1139a11f83f9a5429d43fed48086daa49e9fa7a8913080a5999",
+      "md_span": {
+        "start": 3941,
+        "end": 5124
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_8/20020101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre II :** — **Dispositions relatives aux amendes**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Les articles 8 et 9, alinéa 3 de la loi du 14 avril 1992 instituant un code disciplinaire et pénal pour la marine sont modifiés comme suit :\n\n1. Les peines correctionnelles sont l’emprisonnement de huit jours à cinq ans et l’amende de 251 euros au moins » ;\n2. à l’article 9 alinéa 3, le montant de 3000 francs est remplacé par celui de 75 euros.",
+      "text_sha256": "a4ddb72166e34704023b5bf5546003fa0c20d2a56c39a2bb6c98438304a36f2a",
+      "md_span": {
+        "start": 5159,
+        "end": 5505
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/04/14/n3/jo",
+          "text": "loi du 14 avril 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_9/20020101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre II :** — **Dispositions relatives aux amendes**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Sauf disposition en sens contraire, les amendes administratives, civiles, fiscales et disciplinaires prévues par la loi sont à convertir de la même manière que les amendes pénales.",
+      "text_sha256": "eeba431790373bc287109f0df3028d19141c70340045e5c22669c2360e47f730",
+      "md_span": {
+        "start": 5540,
+        "end": 5720
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_10/20020101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre III :** — **Dispositions relatives aux timbres**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** Les taxes ou les droits dont le paiement ou l’acquittement se font au moyen de timbres sont arrondis, après conversion stricte, à l’euro inférieur le plus proche à l’exception des dérogations prévues par la présente loi et ses dispositions d’exécution.\n\n**(2)** Lorsque après conversion stricte la taxe ou le droit à payer ou à acquitter est inférieur à un euro, la taxe ou le droit est arrondi à 10 cents pour les montants strictement inférieurs à 50 cents et à 50 cents pour les montants supérieurs à 50 cents.",
+      "text_sha256": "415f8bbe0469b9f7915c5432acb4a8630365d631702235e0ac2612d303455d10",
+      "md_span": {
+        "start": 5821,
+        "end": 6341
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_11/20020101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre III :** — **Dispositions relatives aux timbres**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Les valeurs d’affranchissement marquées en francs luxembourgeois sur les timbres ordinaires et sur les timbres spéciaux sont remplacées par des montants en euro suivant des règles d’arrondissement décrites à l’article précédent.",
+      "text_sha256": "2b2533e19598b4c8fc4d364a6200bd433a9168c5913188b270ab1cda60a4e134",
+      "md_span": {
+        "start": 6378,
+        "end": 6606
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_12/20020101",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre III :** — **Dispositions relatives aux timbres**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Les timbres ordinaires et les timbres spéciaux qui comptent des valeurs d’affranchissement en francs luxembourgeois pourront encore être utilisés pendant une période de six mois après l’entrée en vigueur de la présente loi.",
+      "text_sha256": "5d35aa90267bd43a9fde0a09507c5712a9978a7c22279244be888b906e71e626",
+      "md_span": {
+        "start": 6643,
+        "end": 6866
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_13/20020101",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre III :** — **Dispositions relatives aux timbres**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Les dispositions légales et réglementaires concernant le timbre sont abrogées en ce qu’elles sont contraires à la présente loi.",
+      "text_sha256": "20a6a22599b55eefc39addb431541bc54cd054284a0a448775f56b69911f2660",
+      "md_span": {
+        "start": 6903,
+        "end": 7030
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_14/20020101",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section I : *** — ***Finances***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 39 paragraphe 2 de la loi modifiée du 5 avril 1993 relative au secteur financier, les termes de 500.000 francs sont remplacés par les termes de 10.000 euros.",
+      "text_sha256": "e49681775a54040a623216a3484662740af9aaeafa790ff7828638619315ddb2",
+      "md_span": {
+        "start": 7188,
+        "end": 7357
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/04/05/n1/jo",
+          "text": "loi modifiée du 5 avril 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_15/20020101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section I : *** — ***Finances***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** La date d’échéance fixée au 31 décembre 2001 de toute obligation contractuelle incombant à un professionnel du secteur financier au sens de l’alinéa 3 du présent paragraphe est avancée au 28 décembre 2001. Ces obligations contractuelles seront exécutées selon les conditions applicables le 28 décembre 2001. La présente disposition s’applique aux obligations contractuelles tant en principal qu’en accessoires, notamment aux intérêts qui cesseront de courir le 28 décembre 2001.\n\nLes autres débiteurs d’une obligation contractuelle venant à échéance le 31 décembre 2001 et dont l’exécution requiert l’intervention d’un professionnel du secteur financier ne seront pas en défaut du seul fait de l’impossibilité d’exécuter cette obligation à l’échéance ; ils pourront valablement se libérer aux conditions initialement convenues le premier jour ouvrable suivant le 31 décembre 2001.\n\nLa notion de professionnel du secteur financier est étendue aux établissements de crédit, aux autres professionnels du secteur financier au sens du chapitre 2 de la partie I de la loi modifiée du 5 avril 1993 relative au secteur financier, aux organismes de placement collectif, aux sociétés de gestion de fonds communs de placement, aux fonds de pension sous forme de sepcav ou d’assep, aux établissements commerciaux bénéficiant d’un accès professionnel au marché financier, aux organismes internationaux à caractère public opérant dans le secteur financier ainsi qu’aux organismes à caractère public et aux professionnels du secteur financier chargés de la compensation et du règlement de paiement ou d’opérations financières.\n\n**(2)** Nonobstant le paragraphe 1er, les contrats qui prévoient une date d’échéance de rechange autre que le 28 décembre 2001 en remplacement du 31 décembre 2001 sont valables.\n\n**(3)** Le paragraphe 1er ne fait pas obstacle à ce que, après l’entrée en vigueur des présentes dispositions, des parties conviennent, avec l’accord du professionnel du secteur financier dont l’intervention est requise, de maintenir ou de fixer l’échéance de leurs obligations contractuelles au 31 décembre 2001.\n\n**(4)** Les dispositions de l’article 15 qui précèdent entrent en vigueur le 1er jour après la publication au Mémorial de la présente loi.",
+      "text_sha256": "ebbb6c639b7f7a4579fbd3551fe5cdce0b351c99b7ae9ba0bb0c54a89d65b5d0",
+      "md_span": {
+        "start": 7394,
+        "end": 9647
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/04/05/n1/jo",
+          "text": "loi modifiée du 5 avril 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_16/20020101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section II :*** — ***Contributions Directes***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi du 4 décembre 1967 concernant l’impôt sur le revenu est modifiée comme suit:\n\n1. à l’article 32bis (4), le montant de 100.000 francs est remplacé par celui de 2.400 euros;\n2. à l’article 34, la limite de trente-cinq mille francs est remplacée par celle de 870 euros;\n3. aux articles 99 n° 3, 99bis, alinéa (3), 131 (1) et 141, le montant de dix mille francs est remplacé par celui de 250 euros;\n4. francs euros\n5. à l’article 105bis (3), les montants de 3.900 et 117.000 sont remplacés respectivement par ceux de 99 et 2.970 euros;\n6. à l’article 107 (1) et (2), les montants de vingt et un mille, mille sept cent cinquante, douze mille, mille et quatre-vingts francs sont remplacés respectivement par ceux de 540, 45, 300, 25 et 2 euros;\n7. 15.600 et 1.300 francs 396 et 33 euros\n8. à l’article 109 (1), les montants de 27.000 francs et de vingt millions de francs sont remplacés respectivement par ceux de 672 et 500.000 euros;\n9. à l’article 109bis (2), le montant de 768.000 francs est remplacé par celui de 19.080 euros;\n10. à l’article 110 (3), le montant de 48.000 francs est remplacé par celui de 1.200 euros;\n11. à l’article 111 (5), le montant de 27.000 francs est remplacé par celui de 672 euros;\n12. à l’article 111bis (1), les montants de 48.000 et 96.000 francs sont remplacés respectivement par ceux de 1.200 et 2.400 euros;\n13. dix-huit mille francs quatre cent quatre-vingts euros\n14. à l’article 115 n° 9 et 10, le montant de 500.000 francs est remplacé par celui de 12.500 euros;\n15. à l’article 115 n° 13, les montants de 90.000, 135.000, 180.000 et 45.000 sont remplacés respectivement par 2.250, 3.400, 4.500 et 1.120 euros;\n16. à l’article 115 n° 15, le montant de 60.000 francs est remplacé par celui de 1.500 euros;\n17. au franc inférieur au multiple inférieur d’un euro\n18. à l’article 124 (2), le montant de 300 francs est remplacé par celui de 10 euros;\n19. à l’article 126 (2), le montant de mille francs est remplacé par celui de 100 euros;\n20. à l’article 127 (4), les montants de 400.000, 800.000, 1.200.000, 1.600.000, 2.000.000 et 2.400.000 francs sont remplacés respectivement par 10.000, 20.000, 30.000, 40.000, 50.000 et 60.000 euros;\n21. à l’article 127bis (2) et (3), le montant de 139.200 francs est remplacé par celui de 3.480 euros;\n22. à l’article 127ter (2), les montants de 77.400 et 6.450 francs sont remplacés respectivement par ceux de 1.920 et 160 euros;\n23. à l’article 128 (1), le montant de 90.000 francs est remplacé par celui de 2.250 euros;\n24. à l’article 128bis, le montant de 3.000.000 francs est remplacé par celui de 75.000 euros;\n25. aux articles 129 et 129a, les montants de 24.000 et 2.000 francs sont remplacés respectivement par ceux de 600 et 50 euros;\n26. à l’article 129b, les montants de 180.000 et 15.000 francs sont remplacés respectivement par ceux de 4.500 et 375 euros;\n27. à l’article 129c paragraphe 4 (2), le montant de 60.000 francs est remplacé par celui de 1.500 euros;\n28. à l’article 130, les montants de 400.000, 1.000.000, 2.000.000, 3.000.000 et 4.000.000 de francs sont remplacés respectivement par ceux de 10.000, 25.000, 50.000, 75.000 et 100.000 euros;\n29. à l’article 131 (1), le montant de dix mille francs est remplacé par celui de 250 euros ;\n30. à l’article 137 (3), le montant de 24.000 francs est remplacé par celui de 600 euros;\n31. à l’article 141, le montant de dix mille francs est remplacé par celui de 250 euros ;\n32. °\n33. à l’article 153, les montants de 18.000, 60.000 et 36.000 francs sont remplacés respectivement par ceux de 450, 1.500 et 900 euros;\n34. à l’article 154 (2), le montant de dix francs est remplacé par celui d’un euro;\n35. à l’article 166 (1), le montant de 50 millions de francs est remplacé par celui de 1.200.000 euros;\n36. à l’article 167 (1) 3a, le montant de 200.000 francs est remplacé par celui de 5.000 euros;\n37. à l’article 173, le montant de mille francs est remplacé par celui de 100 euros.",
+      "text_sha256": "36bfcc04aeaeb53e13b371471bf8cba1b9129a9688622eb31d87d30db23fd188",
+      "md_span": {
+        "start": 9739,
+        "end": 13672
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1967/12/04/n1/jo",
+          "text": "loi du 4 décembre 1967"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_17/20020101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section II :*** — ***Contributions Directes***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Au paragraphe 11 (3) de la loi modifiée du 1er décembre 1936 concernant l’impôt commercial communal, les montants de mille, un million deux cent mille et sept cent mille francs sont remplacés respectivement par ceux de 100, 30.000 et 17.500 euros.",
+      "text_sha256": "f1799c694297774e6b358a1a4f797b15794fc0c15ce1b52ffd6ff5efbf8bd731",
+      "md_span": {
+        "start": 13709,
+        "end": 13956
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1936/12/01/n2/jo",
+          "text": "loi modifiée du 1er décembre 1936"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_18/20020101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section II :*** — ***Contributions Directes***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi du 16 octobre 1934 concernant l’impôt sur la fortune est modifiée comme suit:\n\n1. à l’alinéa (2) du paragraphe 4, le montant de 20.000 francs est remplacé par celui de 1.000 euros ;\n2. au paragraphe 5, les montants de 100.000, 150.000 et 1.000.000 de francs sont remplacés respectivement par 2.500, 3.800 et 25.000 euros;\n3. aux paragraphes 6 et 7, les montants de 100.000, 200.000 et 500.000 francs sont remplacés respectivement par les montants de 2.500, 5.000 et 12.500 euros;\n4. au paragraphe 13, le montant de 3.000.000 francs est remplacé par celui de 75.000 euros.",
+      "text_sha256": "cf5620f820d10fc3362e9565146cbea86a8f3a90b0308e8fc3964a52561a4c41",
+      "md_span": {
+        "start": 13993,
+        "end": 14571
+      },
+      "citations": [
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1934/10/16/n1/jo",
+          "text": "loi du 16 octobre 1934"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_19/20020101",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section II :*** — ***Contributions Directes***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi générale des impôts est modifiée comme suit:\n\n1. hundert Franken 10 Euro\n2. au paragraphe 161, alinéa (1) numéro 1. les montants de 2.000.000, 500.000, 1.000.000, et 60.000 francs sont remplacés respectivement par ceux de 50.000, 12.500, 25.000 et 1.500 euros;\n3. hunderttausend Franken 2.500 Euro",
+      "text_sha256": "2a05f8e95a4391f5531b442b5d216c64edab9607161bc82a17b82b04fbf8d1f9",
+      "md_span": {
+        "start": 14608,
+        "end": 14912
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1931/05/22/n1/jo",
+          "text": "loi générale des impôts"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_20/20020101",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section II :*** — ***Contributions Directes***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi modifiée du 16 octobre 1934 sur l’évaluation des biens et valeurs – Bewertungsgesetz (BewG) est modifiée comme suit :\n\n1. au paragraphe 22, alinéa (1) numéro 1, les montants de 200.000 et 1.000 francs sont remplacés respectivement par ceux de 5.000 et 25 euros ;\n2. au paragraphe 22, alinéa (1) numéro 2, les montants de 100.000 et 2.000.000 francs sont remplacés respectivement par ceux de 2.500 et 50.000 euros ;\n3. au paragraphe 60, alinéa (1) numéro 4, le montant de 50 millions de francs est remplacé par 1.200.000 euros ;\n4. au paragraphe 67, alinéa (1) numéros 2. et 8, le montant de 100.000 francs est remplacé par celui de 2.500 euros;\n5. au paragraphe 67, alinéa (1) numéro 6, le montant de 200.000 francs est remplacé par celui de 5.000 euros ;\n6. au paragraphe 67, alinéa (1) numéro 9, le montant de 50.000 francs est remplacé par celui de 1.250 euros ;\n7. au paragraphe 67, alinéa (1) numéro 10, le montant de 500.000 francs est remplacé par celui de 12.500 euros;\n8. au paragraphe 67, alinéa (1) numéro 11. point b), le montant de 1.000.000 de francs est remplacé par celui de 25.000 euros ;\n9. au paragraphe 67, alinéa (2), le montant de 1.400.000 francs est remplacé par celui de 35.000 euros ;\n10. « Les valeurs unitaires des propriétés foncières sont arrondies au multiple inférieur de 25 euros, celles des capitaux et des droits d’exploitation au multiple inférieur de 250 euros. »",
+      "text_sha256": "4a318f6570aa888441c2f5d46ae58e1fdea949116674d517303f23af4b44a1e8",
+      "md_span": {
+        "start": 14949,
+        "end": 16356
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1934/10/16/n3/jo",
+          "text": "loi modifiée du 16 octobre 1934"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_21/20020101",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section II :*** — ***Contributions Directes***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi sur l’impôt foncier – Grundsteuergesetz (GrStG) vom 1. Dezember 1936 est modifiée comme suit:\n\n1. au paragraphe 21quater, points a) et b), le montant de 1.000 francs est remplacé chaque fois par celui de 25 euros ;\n2. au paragraphe 22, alinéa (2) numéros 1 et 2, les montants de 2.200 et 4.400 francs sont remplacés respectivement par ceux de 55 et 110 euros.",
+      "text_sha256": "e5bd3f3916b3966226d527d3fd1de725c943f7fd0f5b1837df9ee7696ee25c2d",
+      "md_span": {
+        "start": 16393,
+        "end": 16759
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1936/12/01/n1/jo",
+          "text": "loi sur l’impôt foncier"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_22/20020101",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section II :*** — ***Contributions Directes***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 4, chiffre 3°, 2ème phrase de la loi du 20 avril 1977 relative à l’exploitation des jeux de hasard et des paris relatifs aux épreuves sportives, est modifié comme suit:« les taxes fixes ne pourront dépasser la somme de six cents euros ».",
+      "text_sha256": "7afb11946ec8db6e95aed996da7cec1b387c981dab42c8b7f2535e1ede82249a",
+      "md_span": {
+        "start": 16796,
+        "end": 17043
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1977/04/20/n7/jo",
+          "text": "loi du 20 avril 1977"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_23/20020101",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section III :*** — ***Douanes et Accises***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi du 29 juin 1989 portant réforme du régime des cabarets est modifiée comme suit :\n\n1. er 2.500 francs dans les communes de moins de 1000 habitants 60 euros dans les communes de moins de 1000 habitants 5.000 francs dans les communes de 1000 à moins de 5.000 habitants 120 euros dans les communes de 1000 à moins de 5.000 habitants 10.000 francs dans les communes de 5.000 habitants et plus 240 euros dans les communes de 5.000 habitants et plus\n2. à l’article 6 paragraphes 3 et 7, le montant de 90.000 francs est remplacé par celui de 2.200 euros ;\n3. au paiement d’une taxe d’établissement variant de 100.000 à 200.000 francs suivant l’importance de l’établissement projeté et de la localité où le débit sera établi au paiement d’une taxe d’établissement variant de 2.400 à 4.900 euros suivant l’importance de l’établissement projeté et de la localité où le débit sera établi\n4. - 1.000 francs dans les communes de moins de 1.000 habitants\n- 2.000 francs dans les communes de 1.000 à moins de 5.000 habitants ;\n- 3.000 francs dans les communes de 5.000 habitants et plus. » sont remplacés par ceux de « L’exploitation d’un débit de boissons alcooliques est subordonnée au paiement au mois de janvier de chaque année ou au plus tard avant l’ouverture d’une taxe annuelle de :\n- 24 euros dans les communes de moins de 1.000 habitants ;\n- 49 euros dans les communes de 1.000 à moins de 5.000 habitants ;\n- 74 euros dans les communes de 5.000 habitants et plus ».",
+      "text_sha256": "c5391b3ac9bb9a56f242fe9d44e645e4ac666b5d2ad8c8bd1562b4b9376620d2",
+      "md_span": {
+        "start": 17132,
+        "end": 18598
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1989/06/29/n1/jo",
+          "text": "loi du 29 juin 1989"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_24/20020101",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi du 7 août 1920, portant majoration des droits d’enregistrement, de timbre, de succession, etc est modifiée comme suit :\n\n1. d’une manière générale, les taux en matière de droits d’enregistrement, de droits d’hypothèques et de droit de succession, exprimés en centimes par francs ou francs par francs sont à remplacer par des pourcentages ;\n2. les droits de 20 centimes par 100 francs sont remplacés par 0,2% les droits de 25 centimes par 100 francs sont remplacés par 0,25% les droits de 50 centimes par 100 francs sont remplacés par 0,5% les droits de 1 franc par 100 francs sont remplacés par 1% les droits de 1.50 francs par 100 francs sont remplacés par 1,5% les droits de 2 francs par 100 francs sont remplacés par 2% les droits de 2.50 francs par 100 francs sont remplacés par 2,5% les droits de 4 francs par 100 francs sont remplacés par 4% les droits de 5 francs par 100 francs sont remplacés par 5% les droits de 7 francs par 100 francs sont remplacés par 7% les droits de 8 francs par 100 francs sont remplacés par 8% les droits de 12 francs par 100 francs sont remplacés par 12% les droits d’hypothèques sont fixés comme suit : les droits de 50 centimes par 1000 francs sont remplacés par 0,05% les droits de 50 centimes par 100 francs sont remplacés par 0,5% les droits de 1 francs par 100 francs sont remplacés par 1%.",
+      "text_sha256": "d89b48849367fe96de35161a83ba7b552b06fb4be0a8d1d320dd4a962b20fcb8",
+      "md_span": {
+        "start": 18694,
+        "end": 20032
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1920/08/07/n3/jo",
+          "text": "loi du 7 août 1920"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_25/20020101",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi du 13 juin 1984 portant révision de certaines dispositions législatives régissant la perception des droits d’enregistrement, de succession et de timbre est modifiée comme suit :\n\n1. « Pour la computation des dixièmes prévus par les lois des 18 août 1916 et 31 janvier 1921, le barème tel qu’il résulte des dispositions des lois des 18 août 1916, 31 janvier 1921 et 13 juin 1984 est remplacé par le barème suivant: | 10.000 € | sans dépasser | 20.000 € | 1/10 |  |\n| --- | --- | --- | --- | --- |\n| 20.000 € | sans dépasser | 30.000 € | 2/10 |  |\n| 30.000 € | sans dépasser | 40.000 € | 3/10 |  |\n| 40.000 € | sans dépasser | 50.000 € | 4/10 |  |\n| 50.000 € | sans dépasser | 75.000 € | 5/10 |  |\n| 75.000 € | sans dépasser | 100.000 € | 6/10 |  |\n| 100.000 € | sans dépasser | 150.000 € | 7/10 |  |\n| 150.000 € | sans dépasser | 200.000 € | 8/10 |  |\n| 200.000 € | sans dépasser | 250.000 € | 9/10 |  |\n| 250.000 € | sans dépasser | 380.000 € | 12/10 |  |\n| 380.000 € | sans dépasser | 500.000 € | 13/10 |  |\n| 500.000 € | sans dépasser | 620.000 € | 14/10 |  |\n| 620.000 € | sans dépasser | 750.000 € | 15/10 |  |\n| 750.000 € | sans dépasser | 870.000 € | 16/10 |  |\n| 870.000 € | sans dépasser | 1.000.000 € | 17/10 |  |\n| 1.000.000 € | sans dépasser | 1.250.000 € | 18/10 |  |\n| 1.250.000 € | sans dépasser | 1.500.000 € | 19/10 |  |\n| 1.500.000 € | sans dépasser | 1.750.000 € | 20/10 |  |\n| 1.750.000 € | - |  | 22/10 | » ; |\n2. à l’art. 9, le montant de 50.000 francs est remplacé par celui de 1.250 euros ;\n3. à l’art. 10, le montant de 1.500.000 francs est remplacé par celui de 38.000 euros.",
+      "text_sha256": "c38450c572eece29f35fb48a87ea47e5308d2e31720e8759bb2f9c10affce736",
+      "md_span": {
+        "start": 20069,
+        "end": 21676
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1984/06/13/n1/jo",
+          "text": "loi du 13 juin 1984"
+        },
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1916/08/18/n1/jo",
+          "text": "lois des 18 août 1916"
+        },
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1921/01/31/n1/jo",
+          "text": "31 janvier 1921"
+        },
+        {
+          "href": "https://legilux.public.lu/eli/etat/leg/loi/1984/06/13/n1/jo",
+          "text": "13 juin 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_26/20020101",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 1er de la loi du 31 juillet 1929 sur le régime fiscal des sociétés de participations financières (Holding Companies), les termes de deux francs par mille francs et 25 centimes par mille francs sont remplacés respectivement par les termes 0,2 pour cent et 0,025 pour cent.",
+      "text_sha256": "3300a57aef8895ee55770500647c2db19a0440065170d3acb500d87860825c6e",
+      "md_span": {
+        "start": 21713,
+        "end": 21996
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1929/07/31/n1/jo",
+          "text": "loi du 31 juillet 1929"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_27/20020101",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 5 de la loi du 30 novembre 1978 modifiant certaines dispositions de l’impôt sur le revenu, de l’impôt de fonctionnement des sociétés de participations financières et du droit de timbre, les termes 20 centimes pour cent francs sont remplacés par les termes 0,2 pour cent .",
+      "text_sha256": "daf57688821f89d08d37e24631507d8e6d06287a1d8ee22f448ded8117fc749b",
+      "md_span": {
+        "start": 22033,
+        "end": 22316
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1978/11/30/n1/jo",
+          "text": "loi du 30 novembre 1978"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_28/20020101",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 5 de la loi du 24 décembre 1996 portant modification de certaines dispositions en matière des impôts directs et indirects, les termes de six centimes par cent francs, deux centimes par cent francs et un centime par cent francs sont remplacés respectivement par les termes de 0,06 pour cent , 0,02 pour cent et 0,01 pour cent.",
+      "text_sha256": "ae9a15afa3b79747f3b34b3564c3054f28374d2ed6ce2c0e19f2ba4166f5e033",
+      "md_span": {
+        "start": 22353,
+        "end": 22690
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1996/12/24/n2/jo",
+          "text": "loi du 24 décembre 1996"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_29/20020101",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée est modifiée comme suit :\n\n1. à l'article 14, paragraphe 4, le montant de quatre millions deux cent mille francs est remplacé par le montant de cent mille euros ;\n2. à l'article 18, paragraphe 2, le montant de quatre cent mille francs est remplacé par le montant de dix mille euros ;\n3. à l'article 55, paragraphe 1, sous a) et b), les montants de cinquante mille francs et de cent francs sont remplacés respectivement par les montants de mille deux cents euros et de deux euros quarante cents ;\n4. à l'article 56ter, paragraphes 7 et 9, le montant de dix mille francs est remplacé par le montant de deux cent cinquante euros ;\n5. à l'article 57, paragraphes 1 et 2, les montants de quatre cent mille francs, un million de francs et six mille francs sont remplacés respectivement par les montants de dix mille euros, vingt-cinq mille euros et cent cinquante euros ;\n6. à l'article 77, paragraphes 1 et 2, les montants de deux mille francs, quatre mille francs et deux cent mille francs sont remplacés respectivement par les montants de cinquante euros, cent euros et cinq mille euros.",
+      "text_sha256": "f346ac375819338b6084efd5b8167086180878fe2a559257a0bf9330df064c2a",
+      "md_span": {
+        "start": 22727,
+        "end": 23887
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/12/n1/jo",
+          "text": "loi modifiée du 12 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_30/20020101",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Le troisième alinéa de l’article 109 de la loi modifiée du 30 mars 1988 relative aux organismes de placement collectif est modifié comme suit : En outre, il peut être perçu par l’administration de l’enregistrement une amende fiscale de 0,2% sur le montant intégral des avoirs des organismes .",
+      "text_sha256": "2fdd474838e0c26d62a45feeb9bb2e1fd042a573ac5b0f5feecb1b0ea08462c5",
+      "md_span": {
+        "start": 23924,
+        "end": 24216
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/03/30/n1/jo",
+          "text": "loi modifiée du 30 mars 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_31/20020101",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 13, Titre 1, article 1er de la loi du 23 décembre 1994 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1995 est modifié comme suit :« Le droit fixe d’enregistrement est porté à douze euros. Il peut être porté au-delà par règlement grand-ducal sans cependant dépasser vingt-quatre euros. Le montant du droit proportionnel ne peut pas être inférieur au droit fixe. »",
+      "text_sha256": "893af43aab6d9289acdea15568cae9a5c0edf932de6d6935bbe880c162c786ce",
+      "md_span": {
+        "start": 24253,
+        "end": 24655
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1994/12/23/n1/jo",
+          "text": "loi du 23 décembre 1994"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_32/20020101",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 1er troisième alinéa sub 2° de la loi du 31 juillet 1929 sur le régime fiscal des sociétés de participations financières (holding companies), les termes de deux mille francs sont remplacés par ceux de 48 euros.",
+      "text_sha256": "b6b37a1ccca261b4b9b239a70806a2487da3a1203b7776f623b8481d209b691a",
+      "md_span": {
+        "start": 24692,
+        "end": 24914
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1929/07/31/n1/jo",
+          "text": "loi du 31 juillet 1929"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_33/20020101",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 1er alinéa 1er de la loi du 12 juillet 1977 modifiant et complétant\n\n1. loi du 31 juillet 1929 loi du 29 décembre 1971\n2. arrêté grand-ducal du 17 décembre 1938 loi du 29 décembre 1971\n\nles termes de un million de francs et de dix millions de francs sont remplacés par ceux de 24.000 euros respectivement par 240.000 euros.",
+      "text_sha256": "378342e15008286bc1e0a47bdbf00b7cb605518e1b066b16e4b1615082979894",
+      "md_span": {
+        "start": 24951,
+        "end": 25286
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1977/07/12/n2/jo",
+          "text": "loi du 12 juillet 1977"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_34/20020101",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 106 de la loi modifiée du 30 mars 1988 relative aux organismes de placement collectif, les termes de cinquante mille (50.000.-) francs sont remplacés par ceux de 1.200 euros.",
+      "text_sha256": "55553766f03cec3059e0f68cb500b06feb379121925b06d2e84c5ea1e5378ca4",
+      "md_span": {
+        "start": 25323,
+        "end": 25509
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/03/30/n1/jo",
+          "text": "loi modifiée du 30 mars 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_35/20020101",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IV :*** — ***Enregistrement et Domaines***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 86 de la loi du 8 juin 1999 créant les fonds de pension à capital variable (sepcav) et d’association d’épargne-pension (assep), les termes de cinquante mille (50.000.-) francs sont remplacés par ceux de 1.200 euros.",
+      "text_sha256": "527ab8121782f2b3bb35833ce9bacfe321dc621aaf969b60d8d6a020e717bdc9",
+      "md_span": {
+        "start": 25546,
+        "end": 25773
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/06/08/n3/jo",
+          "text": "loi du 8 juin 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_36/20020101",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section V :*** — ***Economie***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 6 paragraphe 1 point d) de la loi du 22 décembre 1993 ayant pour objet la relance de l’investissement dans l’intérêt du développement économique, le montant de cinq cent millions de francs est remplacé par celui de douze millions cinq cent mille euros.",
+      "text_sha256": "5876b31efb3e475d0ee01caacd67544e6fb35f39f49ba147c0276fccaf0c53e8",
+      "md_span": {
+        "start": 25850,
+        "end": 26114
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/12/22/n2/jo",
+          "text": "loi du 22 décembre 1993"
+        }
+      ]
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_37/20020101",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section V :*** — ***Economie***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 12 de la loi du 27 juillet 1993 ayant pour objet le développement et la diversification économiques et l’amélioration de la structure générale de l’équilibre régional de l’économie telle qu’elle a été modifiée par la loi du 21 février 1997, les termes de 600 (six cents) millions de francs sont remplacés par ceux de 15 (quinze) millions d’euros.",
+      "text_sha256": "9d9de66ae2fc5309356133f37905fb0eea6a1808f539cbf8001e8c277c49b30b",
+      "md_span": {
+        "start": 26151,
+        "end": 26509
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1993/07/27/n2/jo",
+          "text": "loi du 27 juillet 1993"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1997/02/21/n1/jo",
+          "text": "loi du 21 février 1997"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_38/20020101",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section V :*** — ***Economie***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 8, alinéa 8 de la loi du 7 juillet 1983 modifiant la loi du 30 juin 1961 ayant pour objet, entre autres, d’abroger et de remplacer l’arrêté grand-ducal du 8 novembre 1944 portant création d’un office des prix, le montant de cinquante mille francs est remplacé par le montant de mille deux cent cinquante euros.",
+      "text_sha256": "d879b08ac448ec6bb58ea3613ee1d80a7f8c4c969ec05c3fc67e127a080f427a",
+      "md_span": {
+        "start": 26546,
+        "end": 26868
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1983/07/07/n1/jo",
+          "text": "loi du 7 juillet 1983"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1961/06/30/n1/jo",
+          "text": "loi du 30 juin 1961"
+        },
+        {
+          "href": "/eli/etat/leg/agd/1944/11/08/n1/jo",
+          "text": "arrêté grand-ducal du 8 novembre 1944"
+        }
+      ]
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_39/20020101",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VI :*** — ***Environnement***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 13 alinéa 6 de la loi du 20 juillet 1925 sur l’amodiation de la chasse et l’indemnisation des dégâts causés par le gibier telle qu’elle a été modifiée par la loi du 22 décembre 1997, les montants de 7.500 francs, 2.800 francs et 900 francs sont remplacés par ceux de 185 euros, 69 euros et 22 euros.",
+      "text_sha256": "13e9e01813174c996ca67460f10f1c085941c34ccb773e30a5ec5a1dd4315a51",
+      "md_span": {
+        "start": 26951,
+        "end": 27262
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1925/07/20/n1/jo",
+          "text": "loi du 20 juillet 1925"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1997/12/22/n1/jo",
+          "text": "loi du 22 décembre 1997"
+        }
+      ]
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_40/20020101",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VI :*** — ***Environnement***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’alinéa 8 de l’article 13 de la loi du 20 juillet 1925 sur l’amodiation de la chasse et l’indemnisation des dégâts causés par le gibier telle qu’elle a été modifiée par la loi du 24 août 1956 est abrogé et remplacé comme suit :« Si la recette annuelle et le fonds de réserve ne suffisent pas au paiement intégral des indemnités et des frais, l’Etat fera l’avance des fonds nécessaires et les droits supplémentaires prévus ci-avant pourront être augmentés par règlement grand-ducal ».",
+      "text_sha256": "53b17ec6093f50b0132be52a04896f0fac4342c6f5967a23f41f6dd8fa8d375e",
+      "md_span": {
+        "start": 27299,
+        "end": 27783
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1925/07/20/n1/jo",
+          "text": "loi du 20 juillet 1925"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1956/08/24/n1/jo",
+          "text": "loi du 24 août 1956"
+        }
+      ]
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_41/20020101",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VI :*** — ***Environnement***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 5 de la loi du 19 mai 1885 sur la chasse telle qu’elle a été modifiée et complétée par la suite est abrogé et remplacé comme suit :« Les permis de chasse valables pour un an seront passibles d’un droit de 19 euros. Les avis requis sont dispensés des droits de timbre et d’enregistrement.Pour les permis de chasse de cinq jours, il sera perçu un droit de 4 euros.Pour les permis de chasse d’un jour, il sera perçu un droit de chasse de 2 euros ».",
+      "text_sha256": "892b9ddf1f2107467105c9ed74317f871e33344b7bef3aabdcdae050827218ff",
+      "md_span": {
+        "start": 27820,
+        "end": 28275
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1885/05/19/n3/jo",
+          "text": "loi du 19 mai 1885"
+        }
+      ]
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_42/20020101",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VI :*** — ***Environnement***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 2 de la loi modifiée du 24 novembre 1988 concernant les taxes à percevoir sur les demandes en obtention des formules prescrites pour le transfert de déchets est remplacé comme suit : « Aucune des taxes prévues à l’article 1er ne pourra être ni inférieure à 2 euros ni supérieure à 12 euros. »",
+      "text_sha256": "12470399f5fe700cc6bb9331013450f13c74ad76bdd4a3a92a93db5805c2bc17",
+      "md_span": {
+        "start": 28312,
+        "end": 28614
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/11/24/n1/jo",
+          "text": "loi modifiée du 24 novembre 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_43/20020101",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VII :*** — ***Fonction Publique :***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 9 bis paragraphe 1er de la loi du 28 juillet 2000 modifiant et complétant la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit :« Le fonctionnaire en activité de service bénéficie d’une allocation de repas dont le montant net, déduction faite d’un impôt forfaitaire libératoire de quatorze pour cent, est fixé à cent dix euros par mois. L’allocation n’est pas cumulable avec tout autre avantage en nature ou en espèces, analogue ou comparable. L’allocation de repas, non pensionnable, est exempte de cotisations d’assurance sociale. »",
+      "text_sha256": "794a39d5798b619e873d553c63afbfffe4623ca53a5a628c3e6ce22d9ad6ee46",
+      "md_span": {
+        "start": 28704,
+        "end": 29312
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2000/07/28/n1/jo",
+          "text": "loi du 28 juillet 2000"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        }
+      ]
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_44/20020101",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VII :*** — ***Fonction Publique :***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 11 paragraphe 6 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat prend la teneur suivante :« Les chiffres résultant de l’application de la présente loi et de celle visée à l’article 2, paragraphe 2 ci-dessus sont établis en euros à deux décimales près, l’arrondi étant pratiqué conformément aux règles prévues à l’article 5 du règlement (CE) N° 1103/97 du Conseil du 17 juin 1997 fixant certaines dispositions relatives à l’introduction de l’euro».",
+      "text_sha256": "83f8e626399faa51bc9be5f37640a59ca0291a326c81d179d85a4df01bd0f09f",
+      "md_span": {
+        "start": 29349,
+        "end": 29855
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1963/06/22/n1/jo",
+          "text": "loi modifiée du 22 juin 1963"
+        },
+        {
+          "href": "/eli/reg_ue/1997/1103/jo",
+          "text": "règlement (CE) N° 1103/97"
+        }
+      ]
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_45/20020101",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VII :*** — ***Fonction Publique :***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 37 première phrase de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat prend la teneur suivante :« Les pensions sont établies en euros à deux décimales près, l’arrondi étant pratiqué conformément aux règles prévues à l’article 5 du règlement (CE) N° 1103/97 du Conseil du 17 juin 1997 fixant certaines dispositions relatives à l’introduction de l’euro ».",
+      "text_sha256": "5a8161cc3b6a9e6aaae7675f87adfc072b190935125e5f6eaa9b6820b4cd3bba",
+      "md_span": {
+        "start": 29892,
+        "end": 30288
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1954/05/26/n2/jo",
+          "text": "loi modifiée du 26 mai 1954"
+        },
+        {
+          "href": "https://legilux.public.lu/eli/reg_ue/1997/1103/jo",
+          "text": "règlement (CE) N° 1103/97"
+        }
+      ]
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_46/20020101",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VII :*** — ***Fonction Publique :***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 65 première phrase de la loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois prend la teneur suivante :« Les pensions sont établies en euros à deux décimales près, l’arrondi étant pratiqué conformément aux règles prévues à l’article 5 du règlement (CE) N° 1103/97 du Conseil du 17 juin 1997 fixant certaines dispositions relatives à l’introduction de l’euro ».",
+      "text_sha256": "a62810d17930d9b0158aa791ca6246828c1a34b173f1e15e4f87142d1187049c",
+      "md_span": {
+        "start": 30325,
+        "end": 30839
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/08/03/n10/jo",
+          "text": "loi du 3 août 1998"
+        },
+        {
+          "href": "https://legilux.public.lu/eli/reg_ue/1997/1103/jo",
+          "text": "règlement (CE) N° 1103/97"
+        }
+      ]
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_47/20020101",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section VIII : *** — ***Intérieur :***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 106 de la loi communale du 13 décembre 1988 telle qu’elle a été modifiée par la suite, le montant de 300.000 francs qui figure aux points 1°, 2°, 4°, 10° et 11° est remplacé par celui de 7.500 euros et le montant de 150.000 francs qui figure au point 3° est remplacé par celui de 3.800 euros.",
+      "text_sha256": "583016ab869f828840127d29cf6ed4c47a66f511a9f9c42a5ce827bbd284d491",
+      "md_span": {
+        "start": 30923,
+        "end": 31227
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/12/13/n1/jo",
+          "text": "loi communale du 13 décembre 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_48/20020101",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 1834 du Code civil, le montant de cent cinquante francs est remplacé par le montant de 3,75 euros.",
+      "text_sha256": "f901a8f446f4084932bbeb8226fc3b787fff53fe9e94120d73362bba951b4fc5",
+      "md_span": {
+        "start": 31304,
+        "end": 31414
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_49/20020101",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi modifiée du 15 mars 1983 sur les armes et munitions est modifiée comme suit :\n\n1. à l’article 23, alinéa 2, le montant de cent francs est remplacé par celui de deux euros et quarante cents et celui de mille francs par celui de vingt-quatre euros ;\n2. à l’article 25, le montant de cinq cents francs est remplacé par celui de douze euros et celui de cinq mille francs par celui de cent vingt euros.",
+      "text_sha256": "81f07ca350b36901fa0445515dee7f35e81ecaf80997aa0c6a042786ec9dd849",
+      "md_span": {
+        "start": 31451,
+        "end": 31855
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1983/03/15/n2/jo",
+          "text": "loi modifiée du 15 mars 1983"
+        }
+      ]
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_50/20020101",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 16 de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif telle que modifiée, le montant de cinq cent mille francs est remplacé par le montant de douze mille cinq cents euros.",
+      "text_sha256": "3a081385a01574291a5e6909ebe4e7878beca2da50150cafb3c8e663e344cdee",
+      "md_span": {
+        "start": 31892,
+        "end": 32117
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1928/04/21/n2/jo",
+          "text": "loi modifiée du 21 avril 1928"
+        }
+      ]
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_51/20020101",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 39 de la loi du 22 février 1968 sur la nationalité luxembourgeoise est modifié comme suit : « Les certificats sont passibles d'un droit dont le montant est fixé par règlement grand-ducal et qui ne pourra être supérieur à douze euros ».",
+      "text_sha256": "00f2b9957312c4670860b6ef8a28a89b68d77a141cdec8794101d37d34f45267",
+      "md_span": {
+        "start": 32154,
+        "end": 32399
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1968/02/22/n1/jo",
+          "text": "loi du 22 février 1968"
+        }
+      ]
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_52/20020101",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 1er de la loi du 15 février 1882 sur les loteries, le montant de deux cent cinquante mille francs est remplacé par le montant de six mille deux cent cinquante euros.",
+      "text_sha256": "4df9fb441f8710a48c95ff8234c9055baf95326d6393a587a802193f0f5dd656",
+      "md_span": {
+        "start": 32436,
+        "end": 32613
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1882/02/15/n1/jo",
+          "text": "loi du 15 février 1882"
+        }
+      ]
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_53/20020101",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 27 de la loi modifiée du 14 février 1955 portant modification et coordination des dispositions légales et réglementaires en matière de baux à loyer, le montant de trente mille francs est remplacé par le montant de sept cent cinquante euros.",
+      "text_sha256": "bbb99bbb1c79833d777596fd22aed490205ae8548c81a88d744a2a36e961c867",
+      "md_span": {
+        "start": 32650,
+        "end": 32902
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1955/02/14/n1/jo",
+          "text": "loi modifiée du 14 février 1955"
+        }
+      ]
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_54/20020101",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 2 de la loi modifiée du 10 juin 1898 concernant les dégâts accidentels causés à la propriété superficiaire par les travaux d’exploitation des mines, minières et carrières, le montant de trente mille francs est remplacé par le montant de sept cent cinquante euros.",
+      "text_sha256": "56cfb465de70864b78a9d858d8386c841bec0fdeb614500c1000a00db08c3512",
+      "md_span": {
+        "start": 32939,
+        "end": 33214
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1898/06/10/n3/jo",
+          "text": "loi modifiée du 10 juin 1898"
+        }
+      ]
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_55/20020101",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 14 de la loi modifiée du 21 avril 1908 concernant les vices rédhibitoires des animaux domestiques, le montant de trente mille francs est remplacé par le montant de sept cent cinquante euros.",
+      "text_sha256": "87799983b4b87c0e84f9e13502775287dad96bb37b146cbf36d8720d78df4064",
+      "md_span": {
+        "start": 33251,
+        "end": 33453
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1908/04/21/n3/jo",
+          "text": "loi modifiée du 21 avril 1908"
+        }
+      ]
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_56/20020101",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Aux articles 2, 3, 25 et 129 du Nouveau Code de procédure civile, le montant de 30.000 francs est remplacé par celui de sept cent cinquante euros et le montant de 400.000 francs par celui de dix mille euros.",
+      "text_sha256": "92deb729d3da78b6236c6f099b6ecfbbd2ddfb97f0c26ed4297f7c70edcbac4f",
+      "md_span": {
+        "start": 33490,
+        "end": 33697
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_57/20020101",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Aux articles 2, 3 et 22 du titre préliminaire du Code de procédure civile et à l’article 48 du Code de procédure civile, le montant de trente mille francs est remplacé par celui de sept cent cinquante euros et le montant de quatre cent mille francs par celui de dix mille euros.",
+      "text_sha256": "69112a6cf1e18e6848ebce7f969bf2b1331ad0ef2d83c3a3d0c46f1fde0f0829",
+      "md_span": {
+        "start": 33734,
+        "end": 34012
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_58/20020101",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Les dispositions des articles 40 à 44 de la présente loi sont applicables aux instances de premier degré ainsi qu’aux instances d’appel qui sont introduites à partir de la date d’entrée en vigueur de la présente loi, à condition toutefois, en ce qui concerne les instances d’appel, que le jugement attaqué n’ait pas été lui-même rendu antérieurement à cette date.",
+      "text_sha256": "909262dbacb9bdc85a5a5d39aac71996f89c69dd0c328bc25cf6424e372713fe",
+      "md_span": {
+        "start": 34049,
+        "end": 34412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_59",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_59/20020101",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Les affaires civiles et commerciales contradictoires pendantes devant les tribunaux d’arrondissement qui tombent sous la compétence des juges de paix d’après les dispositions de la présente loi seront transférées aux justices de paix territorialement compétentes par les soins des greffes respectifs, si les mandataires de toutes les parties en cause en font la demande par lettre conjointe sur papier libre.\n\nSi la demande est faite par le mandataire d’une seule partie, les autres parties ou leurs mandataires seront convoqués avec lui au cabinet du président de la chambre concernée qui statuera par note au plumitif après avoir entendu les comparants.\n\nLe greffier de la justice de paix convoquera les parties à l’audience, conformément à l’article 74-2 du Code de procédure civile et l'article 170 du Nouveau Code de procédure civile.",
+      "text_sha256": "69fd5b93eb07625abd1460519e3a9b0f767d1379eb22d4386b92d75790dd5784",
+      "md_span": {
+        "start": 34449,
+        "end": 35288
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Code de procédure civile"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_60",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_60/20020101",
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 1er de la loi du 26 juin 1953 portant fixation des taxes à percevoir en matière de cartes d’identité pour étrangers, le montant de 1.200 fr. est remplacé par le montant de 29 euros, le montant de 1.080 fr. par celui de 26 euros, celui de 120 fr. par celui de 3 euros, celui de 400 fr. par celui de 9 euros, celui de 320 fr. par celui de 7 euros et celui de 80 fr. par celui de 2 euros.",
+      "text_sha256": "da9d00656b81c19ea10924d82c82e700be80554553fc1a9ba237430fba9b9a3f",
+      "md_span": {
+        "start": 35325,
+        "end": 35722
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1953/06/26/n2/jo",
+          "text": "loi du 26 juin 1953"
+        }
+      ]
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_61",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_61/20020101",
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "A l’article 3 de la loi du 18 mars 1982 relative aux changements de noms et de prénoms et modifiant l’article 10 de l’arrêté grand-ducal du 12 mai 1945 portant nouvelle fixation de certains droits de timbre et des droits de chancellerie, l’expression de 2.500 à 7.500 francs est remplacée par l’expression de 61 à 185 euros.",
+      "text_sha256": "33916aa4956b3a2ccf651187e274614e9f5b3d63beba931a653895320f02ddd0",
+      "md_span": {
+        "start": 35759,
+        "end": 36083
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1982/03/18/n5/jo",
+          "text": "loi du 18 mars 1982"
+        },
+        {
+          "href": "/eli/etat/leg/agd/1945/05/12/n2/jo",
+          "text": "arrêté grand-ducal du 12 mai 1945"
+        }
+      ]
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_62",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_62/20020101",
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section IX :*** — ***Justice***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 1er de la loi du 10 décembre 1998 relative- à la conversion par les sociétés commerciales de leur capital en euros et modifiant la loi du 10 août 1915 concernant les sociétés commerciales telle que modifiée- aux différences résultant de l’application des règles d’arrondi est complétée comme suit : « Par dérogation à l’article 1er, paragraphe (1), le conseil d’administration ou le ou les gérants peuvent être autorisés à procéder jusqu’au 30 juin 2002 au plus tard à une augmentation de capital dans les limites prévues au paragraphe (1) par décision, actée sous seing privé, de l’assemblée générale, ou, dans le cas des sociétés à responsabilité limitée n’ayant pas plus de 25 associés, des associés, prise avant cette date. »",
+      "text_sha256": "ffe24606d2f77b116ac8073f07d776a28774366faeca945aec544e5580f78f3b",
+      "md_span": {
+        "start": 36120,
+        "end": 36859
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/12/10/n1/jo",
+          "text": "loi du 10 décembre 1998"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1915/08/10/n1/jo",
+          "text": "loi du 10 août 1915"
+        }
+      ]
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_63",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_63/20020101",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section X : *** — ***Logement***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi modifiée du 25 février 1979 concernant l’aide au logement est modifiée comme suit :\n\n1. à l’article 9 alinéa 2, le montant de cinq cent mille francs est remplacé par celui de douze mille cinq cents euros;\n2. à l’article 12bis, le montant de 75.000 francs est remplacé par celui de 1.900 euros ;\n3. à l’article 56 alinéa 2, le montant de quatre milliards cinq cent millions de francs est remplacé par celui de cent douze millions d’euros ;\n4. à l’article 57, le montant de 1 milliard de francs est remplacé par celui de vingt-cinq millions d’euros ;\n5. à l’article 65 alinéa 3, le montant d’un million de francs est remplacé par celui de vingt-cinq mille euros.",
+      "text_sha256": "193258e69229c3f5a72afcb37c54556710c49aca33ef619c66baf7e1dd662ac9",
+      "md_span": {
+        "start": 36937,
+        "end": 37604
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1979/02/25/n3/jo",
+          "text": "loi modifiée du 25 février 1979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_64",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_64/20020101",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section X : *** — ***Logement***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La loi du 10 décembre 1998 portant création de l’établissement public dénommé « Fonds d’assainissement de la cité Syrdall » est modifiée comme suit :\n\n1. er\n2. à l’article 9, le montant de dix millions de francs est remplacé par celui de deux cent cinquante mille euros.",
+      "text_sha256": "b4405b23ae52afe49f0fd6f3991f5a81696d803f9dba60b1d939521259e779fd",
+      "md_span": {
+        "start": 37641,
+        "end": 37911
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/12/10/n2/jo",
+          "text": "loi du 10 décembre 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_65",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_65/20020101",
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "**Chapitre IV :** — **Modification de certaines dispositions législatives**",
+        "***Section XI :*** — ***Sécurité Sociale***"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "Le Code des assurances sociales est modifié comme suit :\n\n1. à l’article 83, alinéa 2, le montant de trente mille francs est remplacé par celui de 750 euros ;\n2. er « Les paiements sont effectués en euros à deux décimales près. Les fractions de cents sont arrondies vers le haut si elles sont supérieures ou égales à cinq millièmes d’euros. Les fractions de cents sont arrondies vers le bas si elles sont strictement inférieures à cinq millièmes d’euros » ;\n3. « Les paiements sont effectués en euros à deux décimales près. Les fractions de cents sont arrondies vers le haut si elles sont supérieures ou égales à cinq millièmes d’euros. Les fractions de cents sont arrondies vers le bas si elles sont strictement inférieures à cinq millièmes d’euros » ;\n4. à l’article 278, alinéa 1, le montant de trente mille francs est remplacé par celui de 750 euros ;\n5. à l’article 294, alinéa 3, le montant de trente mille francs est remplacé par celui de 750 euros ;\n6. à l’article 312, alinéa 1, le montant de dix mille francs est remplacé par celui de 251 euros ;\n7. « Sont punis d’un emprisonnement d’un mois à cinq ans et d’une amende de 251 euros à 15.000 euros, à moins qu’une peine plus forte ne résulte d’une autre disposition légale, ceux qui ont frauduleusement amené les organismes de sécurité sociale à fournir des prestations, une pension, des secours ou d’autres avantages qui n’étaient pas dus ou n’étaient dus qu’en partie. La tentative de ce délit sera punie d’un emprisonnement de huit jours à deux ans et d’une amende de 251 euros à 10.000 euros. »\n8. « La cotisation individuelle est comptée en euros à deux décimales près. Les fractions de cents sont arrondies vers le haut si elles sont supérieures ou égales à cinq millièmes d’euros. Les fractions de cents sont arrondies vers le bas si elles sont strictement inférieures à cinq millièmes d’euros. » ;\n9. à l’article 382, alinéa 3, le montant de trente mille francs est remplacé par celui de 750 euros.",
+      "text_sha256": "b63b2afc4528c19bedda79079980229b9a055b4947e28fe4cd74d6a4b1552c3b",
+      "md_span": {
+        "start": 37997,
+        "end": 39963
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "Code des assurances sociales"
+        }
+      ]
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_66",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_66/20020101",
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "**Chapitre V :** — **Dispositions transitoires :**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "« Pour les unités économiques relevant de la propriété foncière dont la valeur unitaire a été fixée avant le 1er janvier 2002, la contrevaleur en euros des valeurs unitaires sera déterminée par application du taux de change à la valeur arrondie de ces mêmes valeurs unitaires. La contrevaleur en euros est arrondie à l’euro inférieur. »",
+      "text_sha256": "f2deb266b95b665ec07d8135ba25ce49f0633a946d4116f6ad63442d8fa0bd80",
+      "md_span": {
+        "start": 40055,
+        "end": 40391
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_67",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_67/20020101",
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI :** — **Dispositions abrogatoires**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** L’article 2 de la loi du 27 ventôse an IX relative à la perception des droits d’enregistrement est abrogé.\n\n**(2)** L’article 3 de la loi du 27 ventôse an IX relative à la perception des droits d’enregistrement est abrogé.",
+      "text_sha256": "11e0a19447b407f727ea11ffd2a58527c0fafffa8693f5db8449d741e75213ee",
+      "md_span": {
+        "start": 40482,
+        "end": 40712
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1801/03/18/n1/jo",
+          "text": "loi du 27 ventôse an IX"
+        }
+      ]
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_68",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_68/20020101",
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI :** — **Dispositions abrogatoires**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "**(1)** L’article 6 de la loi du 26 décembre 1848 réduisant en francs les droits de timbre, d’enregistrement, de greffe, d’hypothèques ainsi que les amendes y relatives, fixés en florins est abrogé.\n\n**(2)** L’article 8 de la loi du 26 décembre 1848 réduisant en francs les droits de timbre, d’enregistrement, de greffe, d’hypothèques ainsi que les amendes y relatives fixés en florins est abrogé.",
+      "text_sha256": "4f2f33937487109ea272d034af0bd14a7a101e373098ffa081b590c38b188056",
+      "md_span": {
+        "start": 40749,
+        "end": 41146
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1848/12/26/n5/jo",
+          "text": "loi du 26 décembre 1848"
+        }
+      ]
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_69",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_69/20020101",
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI :** — **Dispositions abrogatoires**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 5 de la loi du 22 frimaire an VII, organique de l’enregistrement est abrogé.",
+      "text_sha256": "801d58108faee548dca8cc17e917954877f3e44e7962919658023cb0ac08762c",
+      "md_span": {
+        "start": 41183,
+        "end": 41269
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1798/12/12/n1/jo",
+          "text": "oi du 22 frimaire an VII"
+        }
+      ]
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_70",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_70/20020101",
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "**Chapitre VI :** — **Dispositions abrogatoires**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "L’article 137 du Code d’instruction criminelle est abrogé.",
+      "text_sha256": "71e96318bc9fae1a6ae42ece85769576742129a984aed1e7d2fca7009f386da5",
+      "md_span": {
+        "start": 41306,
+        "end": 41364
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_71",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_71/20020101",
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "**Chapitre VII : ** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La référence à la présente loi pourra se faire sous une forme abrégée en utilisant les termes « loi relative au basculement en euro ».",
+      "text_sha256": "88428c458a86977f350694c037368db8498ecde4b894434f1ad2af8462bbcef5",
+      "md_span": {
+        "start": 41452,
+        "end": 41586
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-2001-08-01-n16:2002-01-01#art_72",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/art_72/20020101",
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "**Chapitre VII : ** — **Dispositions finales**"
+      ],
+      "article_valid_from": "2002-01-01",
+      "text_md": "La présente loi entre en vigueur le 1er janvier 2002.\n\nPar dérogation aux dispositions de la présente loi, les montants monétaires exprimés en francs dans des textes légaux et réglementaires relevant de la compétence de l’Administration des contributions directes, sont – pour autant que de besoin – convertis en euro par application du taux de change strict (1 euro = 40,3399 francs) dans la mesure où ces montants sont en relation avec une imposition de l’année d’imposition 2001 ou d’une année d’imposition antérieure.",
+      "text_sha256": "bca2afe4daef541dd67b4f0c0b15bbc16530ca031bd2156234b907a02a6b52dd",
+      "md_span": {
+        "start": 41623,
+        "end": 42144
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

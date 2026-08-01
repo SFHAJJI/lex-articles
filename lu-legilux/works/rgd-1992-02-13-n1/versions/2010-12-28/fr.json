@@ -1,0 +1,115 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1992-02-13-n1:2010-12-28",
+  "language": "fr",
+  "title": "Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 13 février 1992 fixant les limites à imposer au volume des messages publicitaires pouvant être contenus dans les services de radio locale.",
+  "valid_from": "2010-12-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1992-02-13-n1/versions/2010-12-28/fr.xml",
+    "sha256": "5418cbca53ea36cb42e82cce23d790d034008134c5eb833f7104c7b27a133b01",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/consolide/20101228/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1992-02-13-n1:2010-12-28#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/art_1er/20101228",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "Les services de radio locale visés à l’article 17 de la loi du 27 juillet 1991 sur les médias électroniques sont autorisés à contenir des messages publicitaires dans les limites suivantes:\n\n1. les recettes publicitaires ne peuvent dépasser ni les frais réels occasionnés par le service, y compris l’amortissement de l’émetteur et des autres équipements techniques, ni un montant de 12.394,68 euros par an;\n2. le temps d’antenne consacré à la publicité ne peut pas être retenu à raison de plus de 10 % par un seul commerçant, une seule firme ou un seul groupe de firmes;\n3. les messages publicitaires ne peuvent au total dépasser ni 6 minutes par heure d’antenne en moyenne journalière, ni 8 minutes pour une quelconque tranche horaire.",
+      "text_sha256": "50f7cfae15a1702a50f3a5dc5a7797a4e6107f000c7ce6ea81a16333856bf1e8",
+      "md_span": {
+        "start": 685,
+        "end": 1420
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/07/27/n1/jo",
+          "text": "loi du 27 juillet 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1992-02-13-n1:2010-12-28#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/art_2/20101228",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-12-28",
+      "text_md": "L’acquisition des messages publicitaires contenus dans les services de radio locale doit être assurée par l’association bénéficiaire de la permission elle-même et ne peut être confiée à une régie, une agence publicitaire ou un autre intermédiaire professionnel.",
+      "text_sha256": "a6f47cec3e70dc46279be03791f786d55af5121960fe87942c7402bf28576c4e",
+      "md_span": {
+        "start": 1455,
+        "end": 1716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1992-02-13-n1:2010-12-28#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/art_3/19920225",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-02-25",
+      "text_md": "Une association ayant renoncé, lors de la présentation de sa candidature, à la faculté de diffuser des messages publicitaires, ne peut diffuser de tels messages qu’après avoir obtenu une nouvelle permission prévoyant cette faculté.",
+      "text_sha256": "692952e371c45fd9d0db4fb238bee63418c5490d046aff929271c1fed836da28",
+      "md_span": {
+        "start": 1751,
+        "end": 1982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1992-02-13-n1:2010-12-28#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/art_4/19920225",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-02-25",
+      "text_md": "Le montant inscrit à l’article 1er, lettre a), peut être adapté par règlement grand-ducal.",
+      "text_sha256": "a31d28da3723d6aefe76e3a729e326016e7d9d644a43a0aa11ba505767303890",
+      "md_span": {
+        "start": 2017,
+        "end": 2107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1992-02-13-n1:2010-12-28#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/art_5/19920225",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1992-02-25",
+      "text_md": "Notre Premier Ministre, Ministre d’Etat, est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "28f635422c5aeeba33d5dee7fcf825445c77eb743b0d962021306726351c8ef6",
+      "md_span": {
+        "start": 2142,
+        "end": 2258
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

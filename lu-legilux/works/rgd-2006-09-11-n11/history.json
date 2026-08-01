@@ -1,0 +1,67 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2006-09-11-n11",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2007-12-15",
+        "valid_to": null,
+        "text_sha256": "5ac9aba2c1f774cce559742425bd6307a203c7515c1812a0d5d04dac0b801724",
+        "in_version": "lu-legilux:rgd-2006-09-11-n11:2007-12-15",
+        "article_valid_from": "2006-10-09",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2007-12-15",
+        "valid_to": null,
+        "text_sha256": "ba3f212155253abff147b684a298ac3bba1b708fa0bca81ebe65832869f4c415",
+        "in_version": "lu-legilux:rgd-2006-09-11-n11:2007-12-15",
+        "article_valid_from": "2006-10-09",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2007-12-15",
+        "valid_to": null,
+        "text_sha256": "c6680f0ab1a5738f58ab97cc9e669f7844f07c99170d0835b2f665a3e23fabbe",
+        "in_version": "lu-legilux:rgd-2006-09-11-n11:2007-12-15",
+        "article_valid_from": "2006-10-09",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2007-12-15",
+        "valid_to": null,
+        "text_sha256": "b45337b8d630aa7c2f2a21389ba2f8ffccd990cfb0aaabb6e1443a7b66ab5930",
+        "in_version": "lu-legilux:rgd-2006-09-11-n11:2007-12-15",
+        "article_valid_from": "2006-10-09",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2007-12-15",
+        "valid_to": null,
+        "text_sha256": "d350ba69e7380f72d2277f645fda0173aa77f95e033f4c69899d7f01e7c5cec3",
+        "in_version": "lu-legilux:rgd-2006-09-11-n11:2007-12-15",
+        "article_valid_from": "2007-12-15"
+      }
+    ],
+    "attachment_1": [
+      {
+        "valid_from": "2007-12-15",
+        "valid_to": null,
+        "text_sha256": "dd1dc86b0dbf43d427061aae4ea75712cbe6dc2bd65667ff9180232f9e6d7986",
+        "in_version": "lu-legilux:rgd-2006-09-11-n11:2007-12-15"
+      }
+    ]
+  },
+  "anchor_events": []
+}

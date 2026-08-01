@@ -1,0 +1,59 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2010-07-09-n1:2011-09-29",
+  "language": "fr",
+  "title": "Version consolidée applicable au 09/07/2012 : Loi relative au Fonds européen de stabilité financière.",
+  "valid_from": "2011-09-29",
+  "valid_to": "2012-07-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2010-07-09-n1/versions/2011-09-29/fr.xml",
+    "sha256": "7b671bdb9ad3b7612103c3bb3b15f17bce730e42f6d6d59b1ada451165b9c5a2",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/consolide/20110929/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2010-07-09-n1:2011-09-29#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/art_1er/20110929",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2011-09-29",
+      "text_md": "Le Gouvernement est autorisé à accorder la garantie de l'Etat pour un montant maximal de 2 milliards d'euros à la société de droit luxembourgeois «European Financial Stability Facility S.A.», créée dans le cadre de l'instrument européen de stabilisation de la zone euro.",
+      "text_sha256": "bd24d7dfa0f1219bda19e9c87ccdad66aa30369f2b32a43312d8a888fb59017b",
+      "md_span": {
+        "start": 583,
+        "end": 853
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2010-07-09-n1:2011-09-29#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/art_2/20100718",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2010-07-18",
+      "text_md": "La société, mentionnée à l'article 1er, est exempte de tous droits, impôts et taxes directs, droits de timbre, d'enregistrement, de transcription et autres impôts et taxes indirects, prélevés au profit de l'Etat et des communes.",
+      "text_sha256": "cbf43e24a6cc6eac199802d4079b4ac950119978804edf37050531d44b87971c",
+      "md_span": {
+        "start": 888,
+        "end": 1116
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

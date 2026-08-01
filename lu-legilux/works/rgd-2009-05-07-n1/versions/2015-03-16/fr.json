@@ -1,0 +1,110 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-05-07-n1:2015-03-16",
+  "language": "fr",
+  "title": "Version consolidée applicable au 16/03/2015 : Règlement grand-ducal du 7 mai 2009 fixant les modalités pour l’établissement d’un laissez-passer.",
+  "valid_from": "2015-03-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-05-07-n1/versions/2015-03-16/fr.xml",
+    "sha256": "c2ed5c99969fdea7bb7931c636c9e5bcb7ae31989990a998720681a708db6531",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/consolide/20150316/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-05-07-n1:2015-03-16#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/art_1er/20090516",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-16",
+      "text_md": "**(1)** Le laissez-passer peut être délivré:\n\n1. dans des cas de perte ou de vol de titres de voyage délivrés par les autorités luxembourgeoises;\n2. à toute personne dont la présence sur le territoire du Grand-Duché de Luxembourg est explicitement autorisée par les autorités luxembourgeoises compétentes.\n\n**(2)** Seuls le Bureau des Passeports, Visas et Légalisations du Ministère des Affaires étrangères et européennes, les ambassades et les consulats généraux et, par délégation, les consulats honoraires sont habilités à délivrer des laissez-passer.\n\n**(3)** En cas d’émission d’un laissez-passer pour raison de perte ou de vol d’un passeport luxembourgeois, la décision sur l’émission d’un laissez-passer est de la compétence du Bureau des Passeports, Visas et Légalisations du Ministère des Affaires étrangères et européennes, des ambassades ou des consulats généraux.\n\n**(4)** Dans tous les autres cas, la décision sur l’émission d’un laissez-passer est de la compétence de la Direction de l’Immigration du Ministère des Affaires étrangères.",
+      "text_sha256": "ed1771f3df1def2e7164ce9edbd8862980dc6aba029a86e6cfc2ee9ddb21d6f8",
+      "md_span": {
+        "start": 620,
+        "end": 1669
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-05-07-n1:2015-03-16#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/art_2/20090516",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-16",
+      "text_md": "Le laissez-passer est formé d’un feuillet sécurisé et composé de quatre pages non numérotées portant les inscriptions suivantes en langues française et anglaise:\n\nau recto à la page de droite\n\n«Grand-Duché de Luxembourg\n\nLaissez-passer»\n\nau recto à la page de gauche\n\n«Vignette visa»\n\nau verso à la page de droite\n\n«Date de délivrance, Autorité, Sceau de l’autorité.»\n\nsuivies de\n\n«Ce laissez-passer est délivré pour un voyage à Luxembourg. Il devra être remis aux autorités compétentes à l’expiration.»\n\nau verso à la page de gauche\n\n«N° document, N° d’enregistrement, Date d’expiration, Nom, Prénoms, Nationalité, Date de naissance, Lieu de naissance, Taille, Sexe, Signature du titulaire».\n\nUn lion stylisé de couleurs bleue et rouge ainsi que l’inscription Grand-Duché de Luxembourg, le tout imprimé sur un arrière-fond de couleurs pastelles, figurent à la fois sur le recto et le verso du feuillet.",
+      "text_sha256": "143b4cb02b0e8d2e3c4dbe4c1030f5ccc9b43d4cab7cca5057daec3c1d008bc8",
+      "md_span": {
+        "start": 1704,
+        "end": 2607
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-05-07-n1:2015-03-16#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/art_3/20090516",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-16",
+      "text_md": "La photo à fournir pour l’établissement du laissez-passer doit être récente et conforme aux normes établies par l’Organisation de l’Aviation Civile Internationale (OACI).",
+      "text_sha256": "0d97756a72280a481d2bb0032b8dc9b640cdb59e5efa39515a7a4d4bce3fd8c7",
+      "md_span": {
+        "start": 2642,
+        "end": 2812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-05-07-n1:2015-03-16#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/art_4/20090516",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2015-03-16",
+      "text_md": "Le laissez-passer est délivré gratuitement.",
+      "text_sha256": "e1dacb33aec9204dc10da19e3d76bebadbe825e129f2e7c3fbb407cfd769c866",
+      "md_span": {
+        "start": 2847,
+        "end": 2890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-05-07-n1:2015-03-16#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/art_5/20090516",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-05-16",
+      "text_md": "Notre Ministre des Affaires étrangères et de l’Immigration est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ca20b732f5baa5433bf02f23ce0e8907fc6ff20619f4f7c99916343eb5a49f1b",
+      "md_span": {
+        "start": 2925,
+        "end": 3059
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

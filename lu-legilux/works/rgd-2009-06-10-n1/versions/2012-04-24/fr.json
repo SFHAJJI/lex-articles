@@ -1,0 +1,851 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24",
+  "language": "fr",
+  "title": "Version consolidée applicable au 17/07/2026 : Règlement grand-ducal du 10 juin 2009 portant organisation du stage judiciaire et règlementant l’accès au notariat.",
+  "valid_from": "2012-04-24",
+  "valid_to": "2013-03-21",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-06-10-n1/versions/2012-04-24/fr.xml",
+    "sha256": "f49db7f02aa4acbc7c219b210dbcd87963445f9a750e20ab584c1a5eaa953842",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/consolide/20120424/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_1er/20120424",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2012-04-24",
+      "text_md": "**(1)** Pour être admis à la profession d'avocat l'accomplissement d'un stage professionnel, tel que prévu par le présent règlement, est une des conditions auxquelles les stagiaires et candidats doivent se soumettre sans préjudice des conditions prévues dans d'autres dispositions légales ou règlementaires.\n\n**(2)** Pour être admis à la fonction de notaire l'accomplissement d'un stage professionnel, tel que prévu par le présent règlement, est une des conditions auxquelles les stagiaires et candidats ressortissants d'un pays membre de l'Union européenne doivent se soumettre sans préjudice des conditions prévues dans d'autres dispositions légales ou règlementaires.",
+      "text_sha256": "420fb12cbaa6910bce2489261e570cfdf49aff0b432536ed54838cbccbda9dc2",
+      "md_span": {
+        "start": 643,
+        "end": 1313
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_2/20090621",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le stage professionnel comprend:\n\n1. une période de cours complémentaires pour tous les stagiaires,\n2. le stage judiciaire pour l'accès au barreau,\n3. le stage notarial pour l'accès à la fonction du notaire.",
+      "text_sha256": "77f6c7853fd5c5c8071a8e4ea73f985de896734e0a63ca693c5e0b5c41575485",
+      "md_span": {
+        "start": 1348,
+        "end": 1555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_3/20090621",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 1. — Dispositions générales:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "**(1)** Les cours complémentaires et le stage judiciaire sont placés sous la surveillance d'un Comité de pilotage dont les membres sont nommés par le Ministre de la Justice selon les modalités qui suivent:\n\n- les deux représentants des Barreaux luxembourgeois sont désignés par le Bâtonnier du Barreau de Luxembourg;\n- le représentant du Jeune Barreau est désigné par le Président du Jeune Barreau;\n- le représentant des notaires est désigné par le Président de la Chambre des notaires;\n- le représentant des huissiers de justice est désigné par le Président de la Chambre des huissiers de justice;\n- le représentant du personnel enseignant est élu par le collège des enseignants des cours complémentaires en droit;\n- le représentant du Ministère de la Justice est nommé par le Ministre de la Justice;\n- le Directeur des études est nommé par le Ministre de la Justice.\n\n**(2)** Le représentant des notaires, le représentant des huissiers de justice et le représentant du personnel élu par le collège des enseignants des cours complémentaires en droit disposent d'une voix consultative pour les questions relevant de la Section 3 du Chapitre I du présent règlement.\n\nLes membres du Comité de pilotage sont nommés pour une durée de trois ans. En cas de cessation de fonction en cours de mandat, le remplaçant désigné achève le mandat de son prédécesseur.\n\nIls ont droit à un jeton de présence dont le montant est fixé par le Gouvernement en Conseil.",
+      "text_sha256": "0c10c84d3ebdc717ea36a07f725adfcdc9bb43c2c2156849cd2890296f6786be",
+      "md_span": {
+        "start": 1687,
+        "end": 3134
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_4/20090621",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 1. — Dispositions générales:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le Comité de pilotage est notamment chargé:\n\n- de formuler des propositions d'orientations générales sur l'ensemble de la formation;\n- des missions qui lui sont déléguées par le Ministre de la Justice;\n- de proposer les enseignants;\n- de sanctionner les cas de fraude constatés lors d'un contrôle des connaissances;\n- d'autoriser les stagiaires à pouvoir effectuer une partie de leur stage judiciaire dans une étude d'avocat située dans un Etat membre de l'Union européenne.\n\nIl se réunit au moins quatre fois par an.",
+      "text_sha256": "fcfe0b5292062889144baede0a5db6bad54576011241d24012241a767a947990",
+      "md_span": {
+        "start": 3169,
+        "end": 3686
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_5/20090621",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 1. — Dispositions générales:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "**(1)** Les cours complémentaires et le stage judiciaire sont placés sous la direction du Directeur des études, assisté du Comité de pilotage.\n\nLe Directeur des études a droit à une indemnité annuelle fixée par le Gouvernement en Conseil.\n\n**(2)** Il est chargé:\n\n- de l'organisation des cours complémentaires en droit luxembourgeois et du stage judiciaire sous l'autorité du Ministre de la Justice;\n- de mettre en oeuvre les décisions prises par le Ministre de la Justice;\n- de convoquer et de présider le Comité de pilotage;\n- de convoquer et de présider le jury d'examen pour les cours complémentaires en droit luxembourgeois ainsi que le jury d'examen pour l'examen de fin de stage judiciaire;\n- de formuler des propositions d'orientations générales sur l'ensemble de la formation.",
+      "text_sha256": "94dc56d489d25cf9ea8eb8ab73b7d58a35793da367a33657c358c5f21f249150",
+      "md_span": {
+        "start": 3721,
+        "end": 4506
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_6/20090621",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 1. — Dispositions générales:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Les cours complémentaires en droit luxembourgeois et le stage judiciaire se déroulent sous l'autorité du Ministre de la Justice.\n\nLe Ministre de la Justice décide notamment du programme à enseigner et à contrôler. Il nomme les enseignants sur avis du Comité de pilotage.\n\nLes enseignants ont droit à une indemnité fixée par le Gouvernement en Conseil.",
+      "text_sha256": "68f8551e3fbd4d838e7c241711988be28c43b56b076dc87f6c387c095c567386",
+      "md_span": {
+        "start": 4541,
+        "end": 4892
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_7/20090621",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 2. — Les cours complémentaires:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Les cours complémentaires sont enseignés intégralement avant le stage judiciaire et comprennent des cours théoriques portant essentiellement sur les particularités du droit luxembourgeois.\n\nIls comprennent des matières obligatoires et des matières optionnelles. Le programme de l'enseignement est établi au plus tard le 1er juillet précédant le début des cours.\n\nLes cours commencent le 1er octobre de chaque année et prennent fin au plus tard le 15 avril de l'année suivante.\n\nCette période inclut la première session des examens.\n\nLes inscriptions se font auprès du ministère de la Justice.",
+      "text_sha256": "a1b0a77e069a9be9dfc7ab219f9c00485131ddbb81ff3c39a7c9a75639ab6970",
+      "md_span": {
+        "start": 4972,
+        "end": 5564
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_8/20090621",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 2. — Les cours complémentaires:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Pour accéder aux cours complémentaires, il faut:\n\n- règlement grand-ducal du 10 septembre 2004\n- soit être détenteur d'un grade de master en droit émis par l'Université du Luxembourg.",
+      "text_sha256": "e4a7342aaadeaf08022d474990201a461dfd29c3c8ccc0862a2aebada6583e75",
+      "md_span": {
+        "start": 5599,
+        "end": 5782
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_9/20090621",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 2. — Les cours complémentaires:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Les cours complémentaires sont sanctionnés par un certificat de formation complémentaire en droit luxembourgeois qui est délivré par le Ministre de la Justice.\n\nLe certificat à délivrer au candidat reçu est rédigé dans les termes suivants: «II est certifié que Madame/Monsieur……. a subi avec succès les épreuves de la formation complémentaire en droit luxembourgeois.»\n\nLe stagiaire qui s'est vu refuser le certificat de formation complémentaire peut se présenter à une session d'examen de rattrapage qui a lieu dans les deux mois après la clôture des cours.",
+      "text_sha256": "860adb11760a13e55722f14c1900c7a582c9e467870bd9aa991d796276107e88",
+      "md_span": {
+        "start": 5817,
+        "end": 6375
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_10/20090621",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 2. — Les cours complémentaires:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "**(1)** Le contrôle des connaissances a lieu sous forme d'épreuves écrites. Chacune des épreuves est notée sur 20 points.\n\nLe contrôle des connaissances se fait en langues française et allemande.\n\nIl se déroule sous le couvert de l'anonymat.\n\n**(2)** Le certificat de formation complémentaire en droit luxembourgeois est délivré lors de la session ordinaire au stagiaire qui a obtenu dans chaque matière une note au moins égale à 10 points.\n\nLe stagiaire peut se présenter à la session de rattrapage dans les matières dans lesquelles il n'a pas obtenu une note au moins égale à 10 points.\n\nLe certificat de formation complémentaire en droit luxembourgeois est délivré lors de la session de rattrapage au stagiaire qui a obtenu dans chacune des matières interrogées au cours de cette session une note au moins égale à 10 points.\n\nAucune compensation n'est possible ni lors de la session ordinaire ni lors de la session de rattrapage.\n\n**(3)** Le stagiaire ayant conservé une note inférieure à 10 points dans une ou plusieurs matières après la session de rattrapage est admis à se réinscrire aux cours complémentaires en droit luxembourgeois, auquel cas il conserve le bénéfice des matières validées par une note au moins égale à 10 points.\n\nEn cas d'échecs successifs, il est admis à se réinscrire sans limites. Toutefois, il ne conserve le bénéfice des matières validées que pour une période maximale de deux années suivant son échec initial.",
+      "text_sha256": "28ca60756f8905518e3704166ea8e454420edf9e19871de6b862c2854abef003",
+      "md_span": {
+        "start": 6412,
+        "end": 7854
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_11/20090621",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 2. — Les cours complémentaires:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le jury d'examen se compose des enseignants des cours complémentaires en droit luxembourgeois. Il comprend en outre le Directeur des études qui assure la présidence. En cas d'empêchement du Directeur des études, le jury d'examen est présidé par le membre le plus âgé.\n\nIl ne peut siéger valablement que si la moitié au moins de ses membres sont présents.\n\nNul ne peut, en qualité de membre du jury, prendre part à l'examen lorsqu'il est parent ou allié d'un des récipiendaires jusque et y compris le quatrième degré.\n\nA la fin des épreuves, le jury délibère et décide à l'égard de chaque candidat de son admission, de son refus ou de son ajournement.",
+      "text_sha256": "00e0e269669534020ac64a579698b4ea6b513d6d28ab6af783e464502cdd18ec",
+      "md_span": {
+        "start": 7891,
+        "end": 8541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_12/20090621",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 3. — Le stage judiciaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le stage judiciaire a pour but de préparer à l'exercice de la profession d'avocat.\n\nPour être admis au stage judiciaire, le candidat doit présenter le certificat de formation complémentaire en droit luxembourgeois.",
+      "text_sha256": "4c4e0020ed52f01d7701c030058d391fa77bf92f713a824f944d46768c4efaa3",
+      "md_span": {
+        "start": 8617,
+        "end": 8831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_13/20090621",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 3. — Le stage judiciaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "L'admission au stage judiciaire, auprès de l'un des barreaux, a lieu en vertu d'une décision du Conseil de l'Ordre des avocats; elle emporte insertion sur la liste des avocats visée à l'article 8, paragraphe (3), point 2 de la loi modifiée du 10 août 1991 sur la profession d'avocat après prestation du serment d'avocat prévu à l'article 6 de la même loi.\n\nL'avocat inscrit à la liste 2 est guidé dans la plaidoirie et la conduite des affaires par son patron de stage, qui doit être avocat inscrit à la liste visée à l'article 8, paragraphe (3), point 1 de la loi du 10 août 1991 précitée depuis au moins cinq ans.\n\nTout changement de patron de stage doit être communiqué par le stagiaire, dans un délai d'un mois, au Bâtonnier compétent, certificat à l'appui. A défaut de cette communication durant le stage, l'admissibilité à l'examen de fin de stage peut être refusée.",
+      "text_sha256": "c0c8af2513d37aceec3304b7ecc2ced2fa16ff6fad26fe88f9768a287132b94c",
+      "md_span": {
+        "start": 8868,
+        "end": 9739
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/08/10/n3/jo",
+          "text": "loi modifiée du 10 août 1991"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1991/08/10/n3/jo",
+          "text": "loi du 10 août 1991 précitée"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_14/20090621",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 3. — Le stage judiciaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "**(1)** Le stage judiciaire a une durée minimale de deux ans.\n\nSur demande motivée et justifiée, le stagiaire peut être autorisé par le Comité de pilotage à effectuer au moins 3 mois et au maximum 6 mois de son stage judiciaire dans une étude d'avocat située dans un Etat membre de l'Union européenne. Cette période de stage dûment autorisée est prise en compte pour la durée du stage judiciaire déterminée dans l'alinéa premier.\n\n**(2)** Pendant le stage judiciaire, le stagiaire doit suivre des cours obligatoires et assister à des conférences à déterminer par le Ministre de la Justice.\n\nLes cours obligatoires font l'objet d'un contrôle des connaissances écrit dont la réussite conditionne l'accès à l'examen de fin de stage.\n\n**(3)** Chacune des épreuves est notée sur 20 points et le stagiaire doit avoir obtenu dans chaque matière une note au moins égale à 10 points.\n\nLe stagiaire peut se présenter à la session de rattrapage dans les matières dans lesquelles il n'a pas obtenu une note au moins égale à 10 points.\n\nAucune compensation n'est possible ni lors de la session ordinaire ni lors de la session de rattrapage.\n\nLe stagiaire ayant conservé une note inférieure à 10 points dans une ou plusieurs épreuves après la session de rattrapage doit se réinscrire pour la totalité des épreuves lors de la prochaine session. En cas d'échecs successifs, il est admis à se réinscrire trois fois pour la totalité des épreuves.\n\n**(4)** Le programme des cours obligatoires est établi au plus tard le 1er avril précédant le début du stage judiciaire. Les conférences auxquelles les stagiaires doivent assister sont communiquées en cours de stage.",
+      "text_sha256": "0774dca6aa43880cf474280b1bdd8e015ce7d6630e2d7504dcc5c423cb5d729c",
+      "md_span": {
+        "start": 9776,
+        "end": 11422
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_15/20090621",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 3. — Le stage judiciaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le stage est sanctionné par un examen de fin de stage. La session de printemps a lieu au cours de la première moitié de l'année. La session d'automne a lieu au cours de la seconde moitié de l'année.\n\nLa date de l'ouverture des sessions est fixée par le Ministre de la Justice et portée à la connaissance des stagiaires au moins trois mois avant cette date par lettre simple.",
+      "text_sha256": "cd3d7f44ca850395d9f7d2c643b2f177ffcf3483920360f3a55809e9a1dc89cc",
+      "md_span": {
+        "start": 11459,
+        "end": 11833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_16/20090621",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 3. — Le stage judiciaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Pour être admis à l'examen de fin de stage judiciaire, le candidat adresse une demande au Ministre de la Justice dans le délai prescrit chaque année en y joignant:\n\n1. un certificat du greffe attestant la prestation du serment d'avocat;\n2. un certificat du ou des patron(s) de stage attestant que le stagiaire y a effectué son stage avec assiduité pendant la durée totale du stage;\n3. - lorsque le candidat est luxembourgeois ou ressortissant de l'Union européenne: une copie de la carte d'identité\n- un candidat ressortissant d'un Etat non-membre de l'Union Européenne ou un candidat qui a le statut de réfugié reconnu au sens de la Convention de Genève du 28 juillet 1951 ou d'apatride au sens de la Convention de New York du 28 septembre 1954 se trouvant régulièrement au pays, peut être dispensé de cette condition; il verse une pièce officielle attestant la nationalité de l'Etat tiers ou à défaut une copie certifiée conforme du passeport ou du titre de séjour;\n4. les certificats d'assistance aux conférences obligatoires délivrées par l'organisateur de ces conférences;\n5. un certificat de réussite des cours obligatoires suivis pendant le stage judiciaire.\n\nSi un candidat n'a pas déposé dans le délai prescrit une demande complète, l'admissibilité à l'examen de fin de stage peut être refusée.",
+      "text_sha256": "ed1ded5452adf63d7e6835a3729eedf6b4095ded12303c166be5aaccff99e559",
+      "md_span": {
+        "start": 11870,
+        "end": 13173
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_17/20090621",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 3. — Le stage judiciaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "**(1)** L'examen de fin de stage comporte au moins deux épreuves écrites.\n\nLe programme et les modalités des épreuves sont établis au plus tard trois mois avant le début de l'examen de fin de stage.\n\nChacune des épreuves est notée sur 20 points.\n\n**(2)** Le diplôme visé à l'article 19 du présent règlement, est délivré lors de la première inscription soit à la session de printemps soit à la session d'automne au candidat ayant reçu une note au moins égale à 10 points dans toutes les épreuves écrites.\n\nDans les épreuves dans lesquelles le stagiaire n'a pas obtenu une note au moins égale à 10 points, il peut se présenter à la prochaine session.\n\nLe diplôme est délivré lors de la prochaine session au stagiaire qui a obtenu dans chacune des épreuves auxquelles il doit se soumettre au cours de cette session une note au moins égale à 10 points.\n\nAucune compensation n'est possible ni lors de la session de printemps ni lors de la session d'automne.\n\n**(3)** Le stagiaire ayant conservé une note inférieure à 10 points dans une ou plusieurs épreuves après la deuxième session doit se réinscrire pour la totalité des épreuves lors de la prochaine session.\n\nEn cas d'échecs successifs, il est admis à se réinscrire trois fois pour la totalité des épreuves.",
+      "text_sha256": "4d335ee2b7effd8e0fc2c35a367df308ac8373e542cbbf68d6f11850f3bd251e",
+      "md_span": {
+        "start": 13210,
+        "end": 14467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_18/20090621",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 3. — Le stage judiciaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le jury d'examen se compose de 4 à 6 membres qui sont nommés par le Ministre de la Justice sur proposition du Comité de pilotage pour une durée de deux années. Il comprend en outre le Directeur des études qui assure la présidence. En cas d'empêchement du Directeur des études, le jury d'examen est présidé par le membre le plus âgé.\n\nNul ne peut, en qualité de membre du jury, prendre part à l'examen lorsqu'il est parent ou allié d'un des récipiendaires jusque et y compris le quatrième degré.\n\nLes membres du jury d'examen ont droit à une indemnité dont le montant est fixé par le Gouvernement en Conseil.",
+      "text_sha256": "74efdd642682233edf1945f44fae5415627840fbc5df34741bc0d7df5fc38779",
+      "md_span": {
+        "start": 14504,
+        "end": 15111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_19/20090621",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 1. — De l'accès à la profession d'avocat:",
+        "Section 3. — Le stage judiciaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le diplôme à délivrer au candidat reçu est rédigé dans les termes suivants: «Le jury d'examen pour le stage judiciaire, sur la production des pièces exigées et au vu du résultat des épreuves subies délivre à Madame/Monsieur né(e) le …à…» le certificat de fin de stage exigé pour se faire inscrire «en tant qu'avocat inscrit à la liste visée à l'article 8, paragraphe (3), point 1 de la loi modifiée du 10 août 1991 sur la profession d'avocat» exerçant auprès de l'un des corps judiciaires du Grand-Duché de Luxembourg.\n\nLe diplôme est signé par les membres du jury et visé par le Ministre de la Justice.",
+      "text_sha256": "47cac5d72d84756d6c769f68cb4ba4bb5a2c938954206a07aebb27bda877d218",
+      "md_span": {
+        "start": 15148,
+        "end": 15751
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1991/08/10/n3/jo",
+          "text": "loi modifiée du 10 août 1991"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_20/20090621",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le stage notarial est organisé à Luxembourg sous la direction de la commission du stage prévue à l'article 9 du règlement grand-ducal modifié du 21 janvier 1978 portant organisation du stage judiciaire et réglementant l'accès au notariat.",
+      "text_sha256": "c13d483bc9547dae746ad38c93b3ab476cd13e28df2646aaf0672d951ab9ab61",
+      "md_span": {
+        "start": 15843,
+        "end": 16081
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1978/01/21/n1",
+          "text": "l'article 9 du règlement grand-ducal modifié du 21 janvier 1978"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_21/20090621",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "En dehors des attributions particulières qui lui sont dévolues par les articles suivants, la commission exerce une surveillance générale sur les stagiaires.\n\nLe stage notarial s'effectue pendant la première année du stage judiciaire, sous réserve de la réussite à la première session des cours complémentaires. Il peut également avoir lieu après l'examen de fin de stage judiciaire.",
+      "text_sha256": "c12f0773b6d0755cabc8a6bf01a575037f188bccc5b7b9133126439c30d86476",
+      "md_span": {
+        "start": 16118,
+        "end": 16500
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_22/20090621",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le stage a pour but de faire acquérir aux candidats les connaissances nécessaires pour exercer les fonctions de notaire.",
+      "text_sha256": "5c2ee53f87df5ba239f2da43ab71c451d7e23dca63233c57197c73e898893297",
+      "md_span": {
+        "start": 16537,
+        "end": 16657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_23/20090621",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le stage, accompli à plein temps dans une étude de notaire, a une durée de douze mois. Il comprend en outre des cours théoriques et des travaux pratiques sous forme de conférences et de séminaires.\n\nLes cours et travaux pratiques sont organisés par la commission du stage visée à l'article 20 du présent règlement grand-ducal.",
+      "text_sha256": "1b58ce9ac32ac666185d827a7ef1c4399de4ea9f1d13603c6ca61f73db30741f",
+      "md_span": {
+        "start": 16694,
+        "end": 17020
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_24/20090621",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "L'enseignement et les travaux pratiques portent plus particulièrement sur l'organisation du notariat, les liquidations et partages de communautés et de successions, certaines lois et matières présentant un intérêt particulier pour le notariat (régimes matrimoniaux, successions, donations, testaments, transcription des droits réels immobiliers, régime hypothécaire, copropriété des maisons à appartements, remembrement rural, urbanisme), le droit des sociétés, le droit fiscal (impôt sur le revenu, impôt sur les collectivités, droit de timbre, d'enregistrement, d'hypothèque, de successions et mutations par décès, pour autant qu'ils intéressent le notariat), la comptabilité notariale et la rédaction en français et en allemand d'actes notariés.",
+      "text_sha256": "8f3a8f6e2f3e0933c005e3ae6942378a054c839d0893b0d88a5e384fcc0d4562",
+      "md_span": {
+        "start": 17057,
+        "end": 17805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_25/20090621",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "L'année de stage commence le 1er mai de chaque année et se termine le 30 avril de l'année suivante.\n\nLa demande d'admission au stage est adressée à la commission du stage visée à l'article 20 du présent règlement grand-ducal avant le 15 avril de chaque année; elle indique le nom du patron en l'étude duquel le stage est effectué, certificat à l'appui.",
+      "text_sha256": "babc61a42073f9660856afb256237370c46cd76f3e88d352d5e570e3da960f22",
+      "md_span": {
+        "start": 17842,
+        "end": 18194
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_26/20090621",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le stage notarial est considéré comme équivalent à une année de stage judiciaire, sous réserve des dispositions de l'article 23 du présent règlement grand-ducal.",
+      "text_sha256": "36c82bed3b311c4c027280c730e7175e3788bbb5af966515fdbab96a1a87a1f0",
+      "md_span": {
+        "start": 18231,
+        "end": 18392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_27/20090621",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Un certificat d'assiduité est délivré par la commission du stage visée à l'article 20 du présent règlement grand-ducal sur proposition du patron de stage et des chargés de cours.\n\nLe certificat d'assiduité est refusé au cas où le stage n'est pas accompli à plein temps en l'étude du patron ou si le stagiaire ne participe pas régulièrement aux cours et travaux pratiques.",
+      "text_sha256": "49924d26f6c6942d2097729f8d3f6f16bff014e2a91affb5e49bbedb9d2434ff",
+      "md_span": {
+        "start": 18429,
+        "end": 18800
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_28/20090621",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le stage est sanctionné par un examen de fin de stage dont la session a lieu entre le 1er juin et le 15 juillet de chaque année.\n\nLe stagiaire ne peut pas se présenter la même année à l'examen de fin de stage judiciaire et à l'examen de fin de stage notarial.",
+      "text_sha256": "1240e2121f1a27746ce10e51243041a0e1c6d47fbabb4c276dfb0f843c39c2e3",
+      "md_span": {
+        "start": 18837,
+        "end": 19096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_29/20090621",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Les dispositions des alinéas 2 et 3 de l'article 18 du règlement grand-ducal modifié du 21 janvier 1978 portant organisation du stage judiciaire et réglementant l'accès au notariat sont applicables au stage notarial.",
+      "text_sha256": "5e8adb37eecb33974e7600c201ecad345165a788723ac46f8b360e04b95d7187",
+      "md_span": {
+        "start": 19133,
+        "end": 19349
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1978/01/21/n1/jo",
+          "text": "règlement grand-ducal modifié du 21 janvier 1978"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_30/20090621",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Les épreuves écrites portent principalement sur les matières suivantes:\n\n1. la rédaction d'actes notariés en français et en allemand;\n2. la rédaction d'une liquidation;\n3. le droit fiscal pour autant qu'il intéresse le notariat;\n4. les matières de droit civil intéressant plus particulièrement le notariat;\n5. l'organisation du notariat.",
+      "text_sha256": "3752c8e82a02f1403938d773c9c258455b7d7604914f81106d90c89bbdc9cd52",
+      "md_span": {
+        "start": 19386,
+        "end": 19723
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_31/20090621",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Les épreuves orales peuvent porter sur toutes les matières prévues à l'article 24 du présent règlement.\n\nCes épreuves ont lieu partiellement en langue luxembourgeoise.",
+      "text_sha256": "7f7425094650ae7591ad155efe48e0834caa5c71021fb173d240102dee57673c",
+      "md_span": {
+        "start": 19760,
+        "end": 19927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_32/20090621",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le jury d'examen, qui siège à Luxembourg, se compose de cinq membres effectifs, dont un magistrat et quatre notaires, et de cinq membres suppléants.",
+      "text_sha256": "28a35e95840972ecea99043fb5b575908a5eb0639f6ced225369a17d8b6cdab9",
+      "md_span": {
+        "start": 19964,
+        "end": 20112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_33/20090621",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Les membres effectifs et suppléants sont nommés par le Ministre de la Justice pour une durée de trois ans.\n\nLe jury désigne parmi ses membres son président et son secrétaire.",
+      "text_sha256": "eb56369f5587c5f8c0d0cdceb3805628d0da6d710690b115117405ce9be8102b",
+      "md_span": {
+        "start": 20149,
+        "end": 20323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_34/20120424",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2012-04-24",
+      "text_md": "Pour être admis à l'examen, le candidat adresse une demande au Ministre de la Justice dans le délai prescrit chaque année en y joignant:\n\n1. un certificat de stage de la commission du stage,\n2. un certificat du patron du stage notarial,\n3. une copie de la carte d'identité du candidat prouvant la nationalité luxembourgeoise ou la nationalité d'un autre Etat membre de l'Union européenne.",
+      "text_sha256": "066a764eff163645dc5a93e43dabb0cc72af74171ae25a2bac37ce122f740f48",
+      "md_span": {
+        "start": 20360,
+        "end": 20748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_35/20090621",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Les dispositions des articles 15, 22, 24 et 25 du règlement grand-ducal du 21 janvier 1978 portant organisation du stage judiciaire et réglementant l'accès au notariat sont applicables au stage notarial. Toutefois, dans tous les cas, le candidat ne peut se représenter qu'après un an.",
+      "text_sha256": "4a7564564bc1e782ffc4191797026c0d507ef634e4b6ee23cd3bdb4c6126cb51",
+      "md_span": {
+        "start": 20785,
+        "end": 21069
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1978/01/21/n1/jo",
+          "text": "règlement grand-ducal du 21 janvier 1978"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_36/20090621",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le diplôme à délivrer au candidat reçu est rédigé dans les termes suivants:\n\nLes diplômes sont signés par les membres du jury et visés par le Ministre de la Justice.",
+      "text_sha256": "f0a266d9e49a9a8b66920bff637b676461a0577a93abf685d6efe93eb85b6184",
+      "md_span": {
+        "start": 21106,
+        "end": 21271
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_37/20090621",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre 2: — De l'accès à la fonction de notaire:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Pour pouvoir être nommé notaire, il faut présenter soit le certificat de fin de stage, branche droit notarial, soit le diplôme de candidat notaire.",
+      "text_sha256": "b0ec64e7fd707de86adc081c0eb08d1778fdf0c3e761b495e0ff835d693bcdef",
+      "md_span": {
+        "start": 21308,
+        "end": 21455
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_38/20090621",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre 3: — Des indemnités de stage:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Pendant la durée normale des cours complémentaires, du stage judiciaire et du stage notarial les stagiaires touchent une indemnité mensuelle dont le montant est fixé par le Gouvernement en Conseil.",
+      "text_sha256": "ff786b06e8f03d974e81933cf93403486a8ec802020687a2660516217cdaf665",
+      "md_span": {
+        "start": 21535,
+        "end": 21732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_39/20090621",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions abrogatoires, transitoires et entrée en vigueur:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "**(1)** Le règlement grand-ducal modifié du 21 janvier 1978 portant organisation du stage judiciaire et réglementant l'accès au notariat est abrogé à l'exception des dispositions prévues aux articles 9, 15, 18 (alinéas 2 et 3), 22, 24 et 25 pour les besoins du stage notarial et des articles 9 à 26 pour les besoins du stage judiciaire pour l'exécution des dispositions transitoires prévues à l'article 39 (2) du présent règlement grand-ducal.\n\n**(2)** Le présent règlement grand-ducal est applicable aux stagiaires s'inscrivant aux cours complémentaires en droit luxembourgeois à partir de la rentrée 2009/2010 et aux stagiaires s'inscrivant pour la première fois à un des barreaux à partir du 1er mai 2010 peu importe la date d'obtention du certificat de formation complémentaire.",
+      "text_sha256": "a121d4efea9a05906d4214b8b85e364a4ec9145cfbc1c77bd4ab23b47d08e97b",
+      "md_span": {
+        "start": 21849,
+        "end": 22631
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1978/01/21/n1",
+          "text": "règlement grand-ducal modifié du 21 janvier 1978"
+        }
+      ]
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_40/20090621",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions abrogatoires, transitoires et entrée en vigueur:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur le 1er juillet 2009.",
+      "text_sha256": "1ee32d0cabbac8117fddab48bec5a1ebc5fb65d91ed1ad78c385c35596f12b1e",
+      "md_span": {
+        "start": 22668,
+        "end": 22738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:rgd-2009-06-10-n1:2012-04-24#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/art_41/20090621",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Chapitre 4: — Dispositions abrogatoires, transitoires et entrée en vigueur:"
+      ],
+      "article_valid_from": "2009-06-21",
+      "text_md": "Notre Ministre de la Justice est chargé de l'exécution du présent règlement grand-ducal qui sera publié au Mémorial.",
+      "text_sha256": "d1d05e37e043122d625b2c5d5ec5e4bfb6c52e78c780724ff5bd29ae3b6c3101",
+      "md_span": {
+        "start": 22775,
+        "end": 22891
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

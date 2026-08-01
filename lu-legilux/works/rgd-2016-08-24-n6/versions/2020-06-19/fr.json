@@ -1,0 +1,343 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19",
+  "language": "fr",
+  "title": "Version consolidée applicable au 22/12/2025 : Règlement grand-ducal du 24 août 2016 concernant le statut du personnel de la Caisse nationale d'assurance pension.",
+  "valid_from": "2020-06-19",
+  "valid_to": "2025-12-21",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2016-08-24-n6/versions/2020-06-19/fr.xml",
+    "sha256": "4c44d59daa2608925971527a963d9743983afd3dada1e9b070d1974cd47bf0a7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/consolide/20200619/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_1er/20151001",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er — Catégories du personnel"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Le personnel de la Caisse nationale d'assurance pension comprend:\n\n1. Code de la sécurité sociale\n2. les fonctionnaires assimilés aux fonctionnaires de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des fonctionnaires de l'Etat;\n3. les employés assimilés aux employés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur sont applicables les lois et les règlements fixant le régime des employés de l'Etat et\n4. les salariés assimilés aux salariés de l'Etat. Pour autant qu'il n'en est pas autrement disposé par le présent règlement, leur situation est régie par le contrat collectif applicable aux ouvriers de l'Etat.",
+      "text_sha256": "2580fc67ac93fef6b79586326b50fe48eeeb4a87ad7e5550285c685d1f39943d",
+      "md_span": {
+        "start": 686,
+        "end": 1443
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_2/20200619",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 2 — Cadre du personnel"
+      ],
+      "article_valid_from": "2020-06-19",
+      "text_md": "**(1)** Le cadre du personnel de la Caisse nationale d'assurance pension comprend les catégories de traitement énumérées aux paragraphes suivants.\n\n**(2)** Le personnel de la Caisse nationale d'assurance pension ayant le statut de fonctionnaire de l'Etat ou de fonctionnaire assimilé aux fonctionnaires de l'Etat est classé dans les quatre catégories de traitement A, B, C et D.\n\nLa catégorie de traitement A comprend le groupe de traitement A1 et le groupe de traitement A2. Dans le groupe de traitement A1, dans lequel sont également classées la fonction de président et la fonction de premier conseiller de direction auprès de la Caisse nationale d'assurance pension, fixée à deux unités, le nombre total de l'effectif ne peut pas dépasser vingt-deux unités. Le nombre total de l'effectif dans le groupe de traitement A2 ne peut pas dépasser sept unités.\n\nLe nombre total de l'effectif dans la catégorie de traitement B, groupe de traitement B1 ne peut pas dépasser cent trente-neuf unités.\n\nLe nombre total de l'effectif dans la catégorie de traitement C, groupe de traitement C1 ne peut pas dépasser douze unités.\n\nDans la catégorie de traitement D, le nombre total de l'effectif ne peut pas dépasser une unité.\n\n**(3)** Le cadre prévu au paragraphe 2 peut être complété par des employés assimilés aux employés de l'Etat et par des salariés assimilés aux salariés de l'Etat sans que l'effectif total de la Caisse nationale d'assurance pension ne puisse dépasser deux cent vingt-six unités.\n\n**(4)** Pour l'application de l'article 16 de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'Etat et de l'article 29 de la loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l'Etat, l'effectif des agents pour le calcul du nombre des postes à responsabilités particulières est vérifié annuellement au 1er janvier.",
+      "text_sha256": "7539b1ee7684f87b8824c29c7f2b0881179305e451a6aac5371c1455d037f5fe",
+      "md_span": {
+        "start": 1514,
+        "end": 3433
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3",
+          "text": "loi modifiée du 25 mars 2015"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n8",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_3/20151001",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 3 — Compétences des organes"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "L'application au personnel de la Caisse nationale d'assurance pension des dispositions légales et réglementaires applicables au personnel des administrations et services de l'Etat se fait conformément aux dispositions suivantes:\n\n1. le terme «administration» désigne la Caisse nationale d'assurance pension;\n2. les termes «au service de l'Etat» sont à remplacer par les termes «au service de la Caisse nationale d'assurance pension»;\n3. les termes «Etat luxembourgeois» sont à remplacer par les termes «la Caisse nationale d'assurance pension»;\n4. les termes «fonctionnaires de l'Etat» sont à remplacer par les termes «fonctionnaires assimilés aux fonctionnaires de l'Etat»;\n5. les termes «stagiaires-fonctionnaires» sont à remplacer par les termes «stagiaires-fonctionnaires assimilés aux fonctionnaires de l'Etat»;\n6. les termes «employés de l'Etat» sont à remplacer par les termes «employés assimilés aux employés de l'Etat»;\n7. les termes «salariés de l'Etat» sont à remplacer par les termes «salariés assimilés aux salariés de l'Etat»;\n8. er\n9. loi du 25 mars 2015\n10. les compétences dévolues au ministre ayant dans ses attributions la Fonction publique, autres que celles visées au point 9 concernant les employés de l'Etat et excepté celles concernant les examens-concours pour l'admission au stage, le changement d'administration et la commission d'appréciation des performances professionnelles, sont exercées par le ministre ayant dans ses attributions la Sécurité sociale;\n11. les attributions dévolues au chef d'administration sont exercées par le président de la Caisse nationale d'assurance pension;\n12. loi du 25 mars 2015\n13. loi modifiée du 16 avril 1979\n14. par dérogation au point 10°, les fonctionnaires assimilés aux fonctionnaires de l'Etat adressent leur demande de changement d'administration, lorsque celle-ci a pour objet le changement d'une institution de sécurité sociale vers une autre institution de sécurité sociale, aux ministres du ressort des deux institutions concernées, qui accordent ou refusent le changement sur avis des présidents des deux institutions concernées;\n15. loi modifiée du 3 août 1998",
+      "text_sha256": "7eae74969f833a13fb1d6a4755037b9f0c3bb0f89a6cbdadf9b91c80a6966595",
+      "md_span": {
+        "start": 3509,
+        "end": 5646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_4/20151001",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Engagement, avancements et cessation des fonctions"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les employés assimilés aux employés de l'Etat et les salariés assimilés aux salariés de l'Etat sont engagés par le comité directeur de la Caisse nationale d'assurance pension sur contrat écrit signé par le président du comité directeur.",
+      "text_sha256": "977b8d931bb0dff72a7745b8f95bb5b7113d6f60a5d7a93a16416d6499205645",
+      "md_span": {
+        "start": 5749,
+        "end": 5985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_5/20151001",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 4 — Engagement, avancements et cessation des fonctions"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Toute admission au stage, toute nomination définitive, toute promotion ainsi que toute démission et toute mise à la retraite des fonctionnaires assimilés aux fonctionnaires de l'Etat de la Caisse nationale d'assurance pension sont documentées par un titre signé par le président du comité directeur.",
+      "text_sha256": "c2713601ad0fd7b8f87e3befc13e8fe6aa1a07bc8f392e61a30a74a690d301f9",
+      "md_span": {
+        "start": 6020,
+        "end": 6319
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_6/20151001",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Examens"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les membres effectifs et suppléants des commissions d'examen sont nommés par le président du comité directeur parmi les agents d'une institution de sécurité sociale ou du département de la sécurité sociale ayant un rang supérieur à celui des candidats à examiner.\n\nPour chacun des examens visés par le présent règlement et afin de représenter le personnel concerné, un observateur est nommé à chaque fois par le président du comité directeur sur proposition de la Chambre des fonctionnaires et employés publics.",
+      "text_sha256": "378b153ea97f058761cadbd1054acfcab45d2f6a53cd046d2300b0311afaf2a4",
+      "md_span": {
+        "start": 6379,
+        "end": 6890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_7/20151001",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Examens"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** Les examens de fin de stage sanctionnant la formation spéciale des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant du groupe de traitement A1 de la catégorie de traitement A portent sur les matières suivantes:\n\n1. Epreuves portant sur les connaissances du pouvoir exécutif et des procédures administratives, ainsi que sur la règlementation de l'Union européenne (60 points);\n2. Rédaction et soutenance d'un mémoire sur un sujet fixé par la commission d'examen (120 points).\n\n**(2)** Les examens de fin de stage sanctionnant la formation spéciale des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant du groupe de traitement A2 de la catégorie de traitement A portent sur les matières suivantes:\n\n1. Epreuves portant sur la législation de la sécurité sociale (60 points);\n2. Epreuves portant sur la législation professionnelle du candidat (60 points);\n3. Epreuves portant sur le droit public et administratif et le statut général des fonctionnaires de l'Etat (30 points).",
+      "text_sha256": "e3e9b7f861b64b5b22303d348986dd64a2322c77db443616ea06d957f0f25fdc",
+      "md_span": {
+        "start": 6925,
+        "end": 7931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_8/20151001",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Examens"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les examens des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant de la catégorie de traitement B, groupe de traitement B1 portent sur les matières suivantes:\n\n1. 1. Epreuves portant sur les connaissances générales en matière de sécurité sociale (60 points);\n2. Epreuves portant sur les connaissances détaillées sur la législation et la réglementation nationales et internationales en matière d'assurance pension (120 points);\n3. Rédaction de textes administratifs (60 points).\n2. 1. Rédaction d'une note administrative (120 points);\n2. Gestion administrative (60 points).",
+      "text_sha256": "5c555b8933c59ae2bc0f96088e5c50a382c1dec4f2f2781fbf46507f5bc56d4b",
+      "md_span": {
+        "start": 7966,
+        "end": 8551
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_9/20151001",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Examens"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les examens des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant de la catégorie de traitement C, groupe de traitement C1 portent sur les matières suivantes:\n\n1. 1. Epreuves portant sur les connaissances générales en matière de sécurité sociale (60 points);\n2. Epreuves portant sur les connaissances détaillées sur la législation et la réglementation nationales en matière d'assurance pension (120 points).\n2. 1. Epreuves portant sur les connaissances générales en matière de sécurité sociale (60 points);\n2. Epreuves portant sur les connaissances détaillées sur la législation et la réglementation nationales et internationales en matière d'assurance pension (120 points);\n3. Rédaction de textes administratifs (60 points).",
+      "text_sha256": "d62d6cf6aaee4f90bb462dfce3d0dba22d074cb4f4e28421e3b77995a1870559",
+      "md_span": {
+        "start": 8586,
+        "end": 9324
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_10/20151001",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Examens"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les examens des fonctionnaires assimilés aux fonctionnaires de l'Etat relevant de la catégorie de traitement D portent sur les matières suivantes:\n\n1. 1. Epreuves portant sur la législation de la sécurité sociale (60 points);\n2. Connaissances de l'organisation de l'administration publique luxembourgeoise et du statut des fonctionnaires de l'Etat (30 points);\n3. Pratique professionnelle (60 points).\n2. 1. Epreuves portant sur la législation en matière de sécurité sociale (60 points);\n2. Rapports en relation avec les missions du candidat (60 points).",
+      "text_sha256": "b4e8a856bd3e017dc3493724b39b7e23363b9f27d807f9bd3ee5e416ffb7f654",
+      "md_span": {
+        "start": 9361,
+        "end": 9915
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_11/20151001",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Examens"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les examens de carrière des employés assimilés aux employés de l'Etat relevant de la catégorie d'indemnité B, groupe d'indemnité B1, portent sur les matières suivantes:\n\n1. Epreuves portant sur les connaissances générales en matière de sécurité sociale (60 points);\n2. Epreuves portant sur les connaissances détaillées sur la législation et la réglementation nationales et internationales en matière d'assurance pension (120 points);\n3. Rédaction de textes administratifs (60 points).",
+      "text_sha256": "7ba55cb7678cbae942a46f9db0df88281a97d3ab5241b371d996c39fc873ed4d",
+      "md_span": {
+        "start": 9952,
+        "end": 10436
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_12/20151001",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Examens"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les examens de carrière des employés assimilés aux employés de l'Etat relevant de la catégorie d'indemnité C, groupe d'indemnité C1, portent sur les matières suivantes:\n\n1. Epreuves portant sur les connaissances générales en matière de sécurité sociale (60 points);\n2. Epreuves portant sur les connaissances détaillées sur la législation et la réglementation nationales en matière d'assurance pension (120 points).",
+      "text_sha256": "5751ff35ff4dfe0c6f7b89e1e847d2d698f006df581664b8ee300c6b08c282b6",
+      "md_span": {
+        "start": 10473,
+        "end": 10887
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_13/20151001",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 5 — Examens"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Les examens de carrière des employés assimilés aux employés de l'Etat relevant de la catégorie d'indemnité D portent sur les matières suivantes:\n\n1. Notions indispensables sur l'organisation de la sécurité sociale (60 points);\n2. Rapports en relation avec les missions des candidats (60 points);\n3. Connaissances de l'organisation de l'administration publique luxembourgeoise et du statut des fonctionnaires de l'Etat (30 points).",
+      "text_sha256": "beee326244cba095369012de589e69333516639761437fc218e23f7a86863834",
+      "md_span": {
+        "start": 10924,
+        "end": 11354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_14/20151001",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 6 — Disposition abrogatoire"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Le règlement grand-ducal du 11 décembre 2008 concernant le statut du personnel de la Caisse nationale d'assurance pension est abrogé.",
+      "text_sha256": "f09397ad9f99f1452a0f05fe64bc14e49059a6258ea22883b2b641ba59921dae",
+      "md_span": {
+        "start": 11432,
+        "end": 11565
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2008/12/11/n2",
+          "text": "règlement grand-ducal du 11 décembre 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_15/20151001",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Mise en vigueur"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur le premier jour du mois qui suit sa publication au Mémorial, à l'exception des dispositions concernant les modifications nécessaires suite aux réformes de la Fonction publique intervenues par les lois du 25 mars 2015, dispositions qui entrent en vigueur le 1er octobre 2015.",
+      "text_sha256": "0259450c57726e2755a232f71a0f0c04dad47c6b96b0a6ece7ad6ae55afeb5ea",
+      "md_span": {
+        "start": 11635,
+        "end": 11959
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2016-08-24-n6:2020-06-19#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/art_16/20151001",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 7 — Mise en vigueur"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "Notre Ministre de la Sécurité sociale et Notre Ministre de la Fonction publique et de la Réforme administrative sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "730234bfacc56d463bea682d395a9cd462dd205704e8bb73923695241b4a2be4",
+      "md_span": {
+        "start": 11996,
+        "end": 12216
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

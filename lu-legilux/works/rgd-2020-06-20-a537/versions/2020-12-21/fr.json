@@ -1,0 +1,150 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-06-20-a537:2020-12-21",
+  "language": "fr",
+  "title": "Version consolidée applicable au 30/06/2022 : Règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.",
+  "valid_from": "2020-12-21",
+  "valid_to": "2021-01-10",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-06-20-a537/versions/2020-12-21/fr.xml",
+    "sha256": "ca3a3914c2291c356b19b38b4c29cad9c310e2d729c09c01da80d5f661086d68",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20201221/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a537:2020-12-21#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_1er/20201221",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-12-21",
+      "text_md": "En application de l’article 2 de loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration, les ressortissants de pays tiers ne peuvent plus entrer sur le territoire du Grand-Duché jusqu’au 31 mars 2021 inclus.",
+      "text_sha256": "62c2ee6377f76baaf10b4da95d7d1be622dfa05715a006e5b6bfbfa00272ed1e",
+      "md_span": {
+        "start": 856,
+        "end": 1199
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2020/06/20/a536/jo",
+          "text": "loi du 20 juin 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2008/08/29/n1/jo",
+          "text": "loi modifiée du 29 août 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a537:2020-12-21#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_2/20200807",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-08-07",
+      "text_md": "En application de l’article 2 de la loi précitée du 20 juin 2020, sont autorisées à entrer sur le territoire du Grand-Duché de Luxembourg, sous réserve des dispositions de l’article 2*ter* du présent règlement, les catégories de ressortissants de pays tiers suivantes :\n\n1. Directive européenne 2003/109/CE\n2. professionnels de santé, chercheurs dans le domaine de la santé et professionnels des soins pour personnes âgées ;\n3. travailleurs frontaliers ;\n4. travailleurs saisonniers dans le domaine agricole ;\n5. personnes occupées dans le secteur des transports ;\n6. membres du corps diplomatique, personnel des organisations internationales et les personnes invitées par ces organisations internationales dont la présence physique est requise pour le bon fonctionnement de ces organisations, personnel militaire, personnel du domaine de la coopération au développement et de l’aide humanitaire, et le personnel de protection civile dans l’exercice de leurs fonctions respectives ;\n7. passagers en transit ;\n8. passagers voyageant pour des raisons familiales urgentes et dûment justifiées ;\n9. marins ;\n10. personnes désirant solliciter la protection internationale au Grand-Duché de Luxembourg ou pour d’autres raisons humanitaires ;\n11. ressortissants de pays tiers voyageant à des fins d’études ;\n12. travailleurs de pays tiers hautement qualifiés si leur emploi est nécessaire d’un point de vue économique et que leur travail ne peut être reporté ou effectué depuis l’étranger.",
+      "text_sha256": "d19adbe56a94ccc467283115b235dcac7218c0d631f34167b6011770fe8ce2bc",
+      "md_span": {
+        "start": 1234,
+        "end": 2716
+      },
+      "citations": [
+        {
+          "href": "http://legilux.lu/eli/etat/leg/loi/2020/06/20/a536/jo",
+          "text": "loi précitée du 20 juin 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2bis",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a537:2020-12-21#art_2bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_2bis/20201109",
+      "type": "article",
+      "num": "Art. 2bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-11-09",
+      "text_md": "En application de l’article 2 de loi précitée du 20 juin 2020, sont autorisés à entrer sur le territoire du Grand-Duché de Luxembourg les ressortissants de pays tiers ayant leur résidence dans un des pays suivants :\n\n- Algérie\n- Australie\n- Canada\n- Chine (sous réserve de réciprocité au niveau de l’Union européenne)\n- Géorgie\n- Japon\n- Monténégro\n- Maroc\n- Nouvelle-Zélande\n- Rwanda\n- Serbie\n- Corée du Sud\n- Thaïlande\n- Tunisie\n- Uruguay\n\nLa preuve de la résidence est à charge du ressortissant de pays tiers.\n\nEn application de l’article 2 de loi précitée du 20 juin 2020, sont autorisés à entrer sur le territoire du Grand-Duché de Luxembourg les ressortissants de pays tiers ayant leur résidence dans un des pays tiers et régions administratives spéciales suivants :\n\n| i. |  | États |\n| --- | --- | --- |\n|  | - | Australie |\n|  | - | Chine (sous réserve de confirmation de la réciprocité au niveau de l’Union européenne) |\n|  | - | Corée du Sud |\n|  | - | Japon |\n|  | - | Nouvelle-Zélande |\n|  | - | Rwanda |\n|  | - | Singapour |\n|  | - | Thaïlande |\n|  | - | Uruguay |\n| ii. |  | Régions administratives spéciales de la République populaire de Chine (sous réserve de confirmation de la réciprocité au niveau de l’Union européenne) |\n|  | - | RAS de Hong Kong |\n|  | - | RAS de Macao |\n\nLa preuve de la résidence est à charge du ressortissant de pays tiers.",
+      "text_sha256": "34481e3c972609d4546de66da101dcdac881ef003770ea0160cd18b043201792",
+      "md_span": {
+        "start": 2757,
+        "end": 4123
+      },
+      "citations": [
+        {
+          "href": "http://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a536/jo",
+          "text": "loi précitée du 20 juin 2020"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2020/06/20/a536/jo",
+          "text": "loi précitée du 20 juin 2020"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2ter",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a537:2020-12-21#art_2ter",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_2ter/20200821",
+      "type": "article",
+      "num": "Art. 2ter.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-08-21",
+      "text_md": "Sous peine de se voir refuser l’entrée sur le territoire, tout ressortissant de pays tiers de onze ans ou plus souhaitant se déplacer par transport aérien à destination du Grand-Duché de Luxembourg depuis un pays tiers ne figurant pas sur la liste de l’article 2*bis* du présent règlement doit présenter obligatoirement à l’embarquement le résultat d’un examen biologique à la recherche de l’ARN viral du SARS-CoV-2 réalisé moins de 72 heures avant le vol ne concluant pas à une contamination par le SARS-CoV-2. Le résultat de l’examen biologique devra être présenté, le cas échéant accompagné d’une traduction, dans l’une des langues administratives du Luxembourg ou en anglais.\n\nLes dispositions du présent article ne s’appliquent pas aux personnes visées par les points 5°, 6° et 7°, ainsi qu’aux membres de famille des personnes visées par le point 6° de l’article 2 du présent règlement.",
+      "text_sha256": "eb38fd916575de3b45710fac3cedbab3268af0d45f195c7194911779139462bd",
+      "md_span": {
+        "start": 4164,
+        "end": 5056
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a537:2020-12-21#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_3/20200625",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "727c86324f983968ecdf17b3a5758e07b073772171306c03dcc95eec77eb2de3",
+      "md_span": {
+        "start": 5091,
+        "end": 5204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2020-06-20-a537:2020-12-21#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_4/20200625",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-06-25",
+      "text_md": "Notre ministre des Affaires étrangères et européennes et Notre ministre de l’Immigration et de l’Asile sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "91dfedcbdefaa9093f757520dff860d284a2a38f2415f675da93ae7e04a8ea09",
+      "md_span": {
+        "start": 5239,
+        "end": 5487
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

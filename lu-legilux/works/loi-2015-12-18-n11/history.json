@@ -1,0 +1,29 @@
+{
+  "lex_work_id": "lu-legilux:loi-2015-12-18-n11",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2025-08-05",
+        "valid_to": null,
+        "text_sha256": "86fda88cadfb59ad79c950d97e0433e85d6db98a7b0130328d05cc5b8544e685",
+        "in_version": "lu-legilux:loi-2015-12-18-n11:2025-08-05",
+        "article_valid_from": "2025-08-05"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2025-08-05",
+        "valid_to": null,
+        "text_sha256": "8b9a6c51e52afc0b8bcbcef7948b94666c88141b67f4f974b6fdf51b9e70497a",
+        "in_version": "lu-legilux:loi-2015-12-18-n11:2025-08-05",
+        "article_valid_from": "2015-12-28",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

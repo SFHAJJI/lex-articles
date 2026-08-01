@@ -1,0 +1,1795 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07",
+  "language": "fr",
+  "title": "Version consolidée applicable au 07/04/2020 : Loi du 25 mai 2011 relative à la chasse.",
+  "valid_from": "2020-04-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2011-05-25-n1/versions/2020-04-07/fr.xml",
+    "sha256": "2b43ff3b4e084dd01796f5a5360ff6be929abf93999bb6a3e2f1a3135d031de7",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20200407/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_1er/20110604",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Généralités"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "La présente loi a pour objet de régler l'exercice de la chasse dans le respect de la gestion durable et écologique des populations de la faune sauvage classée gibier dans l'intérêt de la protection de la nature, de la diversité biologique et de la conservation de la faune et de la flore sauvage, ainsi que de la prévention des épizooties.",
+      "text_sha256": "24570e98c5df6181e814df40a5939b95d50b594ee8784bd40f434618b162dccb",
+      "md_span": {
+        "start": 592,
+        "end": 931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_2/20110604",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Généralités"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'exercice de la chasse doit répondre à l'intérêt général et aux exigences d'un développement durable. Il doit contribuer à garantir la pérennité de la faune et de la flore sauvage et de leurs habitats naturels et garantir les activités sylvicoles et agricoles, en permettant une gestion des forêts proche de la nature et en prévenant les dégâts de gibier aux surfaces agricoles et sylvicoles.",
+      "text_sha256": "8a02935360ace28a91dc934fd61a53c107b4035596d7b2569dd6b4bd04a81405",
+      "md_span": {
+        "start": 966,
+        "end": 1359
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_3/20110604",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. Généralités"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le droit de chasse est un accessoire indissociable du droit de propriété portant sur un fonds non bâti, rural ou forestier.",
+      "text_sha256": "3f190089fb3a9b0118c3eaadbaa71765e05525cfc300a66e48ed144cc594bd96",
+      "md_span": {
+        "start": 1394,
+        "end": 1517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_4/20110604",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. Définitions"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Pour l'application de la présente loi, l'on entend par:\n\n1. administration: l'Administration de la nature et des forêts;\n2. agents de l'administration: les fonctionnaires de l'administration de la carrière de l'ingénieur, du préposé de la nature et des forêts et du cantonnier;\n3. caution: notion collective qui couvre à la fois la caution, le cautionnement ou la garantie établi par un établissement bancaire agréé sur le territoire communautaire, fourni en application de l'article 34 par le locataire en garantie du paiement du loyer et du droit spécial;\n4. fonds non bâti: propriété non bâtie, rurale ou forestière;\n5. fonds retiré: fonds non bâti appartenant à un propriétaire opposant éthique à la pratique de la chasse qui a notifié sa décision de ne pas faire partie du syndicat de chasse et sur les fonds duquel l'exercice du droit de chasse est suspendu pendant la durée du bail de chasse;\n6. ministre: le membre du gouvernement ayant dans ses attributions la chasse.",
+      "text_sha256": "5215ef87b415d63f460f5602cb6c95e6f1e08499de01e201d3e0bb0d31db0102",
+      "md_span": {
+        "start": 1580,
+        "end": 2557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_5/20110604",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Constitue un acte de chasse: tout acte volontaire lié à la recherche, à la poursuite ou à l'attente du gibier ayant pour but ou pour résultat la mort de celui-ci.\n\nNe constitue pas un acte de chasse le fait pour un conducteur de chien de sang de procéder à la recherche d'un animal blessé ou de contrôler le résultat d'un tir sur un animal.\n\nNe constitue pas non plus un acte de chasse, le fait, à la fin de l'action de chasse, de récupérer sur le terrain d'autrui ses chiens perdus.\n\nLe passage des chiens courants sur les terrains sur lesquels la chasse est interdite, suspendue ou limitée, ne constitue pas non plus un acte de chasse, sauf si le chasseur a poussé les chiens à le faire.",
+      "text_sha256": "7aae934616bde72d18e6199646aae23782a70bdd0d8e4768607d77a5c89ffbc0",
+      "md_span": {
+        "start": 2638,
+        "end": 3327
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_6/20110604",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'exercice du droit de chasse comporte le droit exclusif de chasser les animaux sauvages considérés comme gibier et de s'approprier le gibier blessé ou mis à mort à la suite d'un acte de chasse.\n\nLe droit de chasse ne peut être exercé que sur les fonds où le détenteur du permis de chasser et d'une autorisation de port d'armes de chasse est locataire du droit de chasse ou a obtenu le consentement du locataire du droit de chasse, sans préjudice des dispositions réglementant la chasse administrative.",
+      "text_sha256": "8551fbe7ccaa746f563132dc48bae1df60e7e53488ef64564a5b13d3e6ccc724",
+      "md_span": {
+        "start": 3362,
+        "end": 3864
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_7/20110604",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'exercice du droit de chasse est interdit:\n\n1. dans les enclos à gibier, sans préjudice des dispositions réglementaires autorisant l'abattage par leur détenteur d'animaux classés gibier, lorsque cette détention a été autorisée conformément à la législation afférente;\n2. dans les parcs, jardins et potagers attenant aux immeubles habités de façon permanente, ainsi que dans les infrastructures de sport;\n3. sur les routes nationales, la voirie reprise par l'Etat et les voies ferrées.\n\nL'exercice du droit de chasse est suspendu sur les fonds appartenant à des personnes qui pour des convictions éthiques personnelles sont opposées à la pratique de la chasse et qui ont notifié une déclaration écrite et motivée conformément aux dispositions de l'article 24 de la présente loi.\n\nPour des raisons d'intérêt général, l'exercice du droit de chasse peut être interdit ou limité dans le temps et dans l'espace par règlement grand-ducal.",
+      "text_sha256": "11ae21283969d63ebf41b6e1469d99d81e2330ece1df5d734c301e87e28b6d8d",
+      "md_span": {
+        "start": 3899,
+        "end": 4831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_8/20110604",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Sont classées gibier, les espèces appartenant à la faune sauvage énumérées à l'annexe de la présente loi qui en fait partie intégrante.\n\nL'annexe pourra être amendée par un règlement grand-ducal.\n\nSont également considérés comme gibier les animaux issus de croisements entre espèces classées gibier et espèces domestiques, à condition qu'ils vivent à l'état sauvage.",
+      "text_sha256": "d8877d9d72b24c14a69868fbcdaa1746cdc1eeaed86b02b65fe8044c028f810a",
+      "md_span": {
+        "start": 4866,
+        "end": 5232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_9/20110604",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'année cynégétique commence le 1er avril et se termine le 31 mars de l'année suivante.\n\nUn règlement grand-ducal fixe pour une période déterminée, pour l'ensemble ou une partie du territoire, les dates de l'ouverture et de la fermeture de la chasse selon l'espèce, le type ou le sexe du gibier chassable et selon chaque mode et procédé de chasse, de même que les mesures de sécurité à respecter par les chasseurs et les tiers.\n\nLe règlement grand-ducal déterminant l'ouverture et la fermeture de la chasse est publié au Mémorial au moins huit jours avant le début de la période concernée.\n\nPendant la période d'ouverture de la chasse nul ne peut exercer la chasse, s'il n'est porteur d'un permis de chasser valable délivré conformément aux articles 58 et suivants.",
+      "text_sha256": "65aed08acab78efaba5c6d69b09a4fc9c784cdd8ff8139768de043940c139c77",
+      "md_span": {
+        "start": 5267,
+        "end": 6032
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_10/20110604",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "La chasse n'est autorisée que pendant le jour. Est considérée comme jour, la période comprise entre une heure avant le lever officiel et une heure après le coucher officiel du soleil.\n\nLa chasse n'est autorisée qu'au moyen de fusils et de carabines. Tous les autres moyens de chasse, y compris le recours au piégeage et aux rapaces, sont interdits.\n\nLe tir à balle est obligatoire pour la chasse aux espèces cerf, chevreuil, sanglier, mouflon et daim. Pour la chasse à l'affût et à l'approche, seul le tir à balle avec une arme à canon rayé est permis. Pour la chasse en battue, le tir à balle avec un fusil à canon lisse est également autorisé.\n\nUn règlement grand-ducal détermine l'emploi des armes, munitions, calibres, projectiles, l'emploi du chien de chasse, ainsi que les autres moyens accessoires et auxiliaires autorisés.\n\nDans l'intérêt de la conservation de la faune sauvage, un règlement grand-ducal peut limiter certains modes et procédés de chasse.\n\nUn règlement grand-ducal peut interdire ou réglementer la chasse pour des raisons climatiques ou pour d'autres raisons pouvant mettre en danger la conservation du gibier ou de la faune sauvage en général.\n\nUn règlement grand-ducal peut interdire et réglementer la chasse sur les ouvrages construits spécialement pour permettre le passage du gibier et aux alentours de ces ouvrages.\n\nLes personnes rabatteurs, auxiliaires à la chasse, ont le droit de porter et d'utiliser une arme blanche lors des battues, sans avoir besoin d'une autorisation de port d'arme. Elles sont également autorisées à les détenir à domicile et à les transporter sur le chemin vers le lieu de la battue, ainsi que sur le chemin du retour.",
+      "text_sha256": "3b0813e948cd952cfe3a92eff57f881e09c54a9c4f4f261086a15eb38ac61d3c",
+      "md_span": {
+        "start": 6069,
+        "end": 7745
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_11/20110604",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le nourrissage qui consiste dans l'apport d'une alimentation supplémentaire au gibier est interdit.",
+      "text_sha256": "8b89a04833c2fef34461e04cf99bc2d91f61b0dd47dae05a25aa7b703d3ef8db",
+      "md_span": {
+        "start": 7782,
+        "end": 7881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_12/20110604",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "En vue d'assurer la gestion durable et écologique du gibier, l'appâtage qui consiste dans l'apport d'une alimentation d'attrait non transformée en petites quantités dans le seul et unique but d'un tir immédiat ou rapproché dans le temps est autorisé. Un règlement grand-ducal détermine les espèces de gibier qui peuvent faire l'objet d'un tel appâtage, les conditions et modalités de cet appâtage ainsi que les mesures de contrôle y afférentes.\n\nEn cas de risque d'épizootie ou lorsqu'une vaccination de certaines espèces du gibier est décidée, l'apport d'une alimentation d'attrait du gibier en petites quantités peut être autorisé par le ministre dans un but sanitaire.",
+      "text_sha256": "6903712ce69de07e67c1a937da8f0fcb90700bbafa7db6cda426af87e948638f",
+      "md_span": {
+        "start": 7918,
+        "end": 8589
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_13/20110604",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. L'exercice du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "La chasse aux espèces de cerf, sanglier, chevreuil, daim et mouflon, peut faire l'objet d'un plan de tir. Ce plan détermine le nombre d'animaux, répartis en fonction de leur espèce, de leur type, de leur âge ou de leur sexe, qui doivent ou peuvent être tirés sur un territoire déterminé au cours d'une période déterminée.\n\nUn règlement grand-ducal détermine les modalités d'établissement du plan de tir, les espèces de gibier qui en font l'objet, la durée du plan, ainsi que les mesures de contrôle y afférentes.",
+      "text_sha256": "3ebad286a7ed8737350a6d620d52cfff4b0b489f7a7fda865ecb0aa1a64efc24",
+      "md_span": {
+        "start": 8626,
+        "end": 9138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_14/20110604",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. Protection et conservation du gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "La recherche du gibier blessé lors de l'exercice de la chasse est obligatoire. Cette recherche doit être effectuée par le locataire du droit de chasse ou, sous sa responsabilité, par les personnes désignées par lui.\n\nLe gibier blessé à mort par le chasseur doit être recherché et tué selon les règles de l'art. La recherche et la mise à mort peuvent se faire sur tous les fonds, même sur ceux où l'exercice de la chasse est interdit, suspendu ou limité.\n\nLe locataire doit garantir la disponibilité d'un chien de sang.\n\nToute personne armée se livrant à la recherche d'un gibier blessé doit être porteur d'un permis de chasser.",
+      "text_sha256": "cc10e829e8ee41860afce2ff7e17d0b932854aa06aa4643279de7b3bfd789016",
+      "md_span": {
+        "start": 9228,
+        "end": 9855
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_15/20110604",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. Protection et conservation du gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Les locataires de chasse sur leurs lots de chasse ou leurs mandataires, ainsi que les agents de l'administration de la nature et des forêts, sont autorisés à tirer le gibier blessé également en dehors des périodes d'ouverture de la chasse. De tels tirs doivent être immédiatement signalés à l'administration.",
+      "text_sha256": "cb478675dad9deff1dac2c832bb50c71e348bbde5971078e2bda58ba46942560",
+      "md_span": {
+        "start": 9892,
+        "end": 10200
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_16/20110604",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. Protection et conservation du gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le locataire du droit de chasse est tenu de signaler à l'administration des services vétérinaires tout indice d'épizootie décelé chez le gibier sur son terrain de chasse.",
+      "text_sha256": "44a95b3b9213e945ab4234b426f6f835f0f89ddf785b0e236fd3a8edec40ce8b",
+      "md_span": {
+        "start": 10237,
+        "end": 10407
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_17/20110604",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. Protection et conservation du gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le lâcher d'animaux appartenant aux espèces classées gibier ou d'autres espèces animales en milieu naturel est interdit.\n\nL'introduction ou la réintroduction dans la vie sauvage d'espèces d'animaux classés gibier, destinée à conserver ou à rétablir l'équilibre faunique, fait l'objet d'une décision du ministre, le conseil supérieur de la chasse et l'observatoire de l'environnement naturel demandés en leurs avis.",
+      "text_sha256": "e593be09f418a2253ea8f449b4325d73f162b7648041f0850085ee81e629a1ae",
+      "md_span": {
+        "start": 10444,
+        "end": 10858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_18/20110604",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. Protection et conservation du gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "La tenue en captivité et l'élevage d'animaux appartenant à des espèces classées gibier sont interdits sauf autorisation du ministre, sans préjudice d'autres dispositions légales concernant la détention d'animaux d'espèces non domestiques.",
+      "text_sha256": "8dba1645a19800de438e8d26d5dc618acfe01034fc61a9d96a1a362ef2593b7c",
+      "md_span": {
+        "start": 10895,
+        "end": 11133
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_19/20110604",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. Transport et commerce du gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Préalablement à tout transport, les animaux appartenant aux espèces relevant de la catégorie grand gibier, tels que définis à l'annexe de la présente loi sont, sur le territoire de la chasse où ils ont été tués, munis d'un dispositif de marquage à la diligence et sous la responsabilité du locataire.\n\nUn règlement grand-ducal arrête les modalités du marquage.",
+      "text_sha256": "030e393fed8ab3867b317efc3fea3dcb8499338866a242eedc232066e48faa2b",
+      "md_span": {
+        "start": 11218,
+        "end": 11578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_20/20110604",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. Transport et commerce du gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "La détention, le transport, la mise sur le marché, la vente et l'achat du gibier à partir du 11e jour après la fermeture de la chasse jusqu'à son ouverture sont soumis à une autorisation du ministre, sauf à prouver que le gibier provient d'un territoire où l'exercice de la chasse est légalement permis.\n\nAucune autorisation du ministre n'est nécessaire en cas de gibier congelé.\n\nL'interdiction de transporter, de mettre sur le marché, de vendre ou d'acheter s'applique en tout temps au gibier pris au moyen d'engins prohibés.",
+      "text_sha256": "82e0184745f09a3c7123953bbf250b41feacbd74ffe3140db45296e3d89583f3",
+      "md_span": {
+        "start": 11615,
+        "end": 12142
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_21/20110604",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Pour permettre une gestion durable et écologique des espèces classées gibier par les moyens de la chasse, le territoire national est subdivisé en lots de chasse.\n\nUn règlement grand-ducal arrête les limites des lots de chasse. A cet effet, le ministre élabore un plan de lotissement répondant à des critères cynégétiques et écologiques. Sont notamment à prendre en considération pour la constitution des différents lots des éléments biogéographiques, topographiques et hydrologiques, ainsi que des infrastructures importantes.\n\nTout lot de chasse doit avoir une contenance d'au moins 300 hectares. Pour le calcul de cette superficie minimale sont inclus les fonds bâtis, les fonds retirés, ainsi que les fonds où le droit de chasse est interdit, limité ou suspendu.\n\nLa délimitation des lots de chasse ne peut être modifiée que tous les neuf ans à l'expiration des contrats de bail de chasse.",
+      "text_sha256": "68183184e06d13ba95c57c59fa20e5ae99a38a81c1fe0236c2a0287dfe2a756f",
+      "md_span": {
+        "start": 12226,
+        "end": 13118
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_22/20110604",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Les propriétaires des fonds non bâtis et non retirés compris dans le territoire d'un lot de chasse et sur lesquels peut s'exercer le droit de chasse sont constitués en syndicat de chasse. Les membres du syndicat se réunissent en assemblée générale. Chaque membre dispose d'une voix.\n\nL'organe représentant le syndicat est le collège des syndics élu conformément à l'article 25, qui est compétent pour tout ce que la présente loi ne soumet pas à l'assemblée générale.",
+      "text_sha256": "9f9fe417eff688cb5f8aa1eed43c2def21abce81c77e5c4175ffb355d0a288e2",
+      "md_span": {
+        "start": 13155,
+        "end": 13621
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_23/20110604",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le collège des syndics convoque tous les propriétaires de fonds non bâtis compris dans le territoire d'un lot de chasse, et sur lesquels peut s'exercer le droit de chasse, à une assemblée générale qui se tient, au plus tôt au mois de janvier et au plus tard au mois de mars de l'année précédant la date d'expiration des contrats de bail de chasse.\n\nLa convocation pour cette assemblée se fait par voie de publication dans deux quotidiens nationaux.\n\nIl y a entre la date de la convocation et celle de la réunion un délai d'un mois.\n\nLa convocation contient l'ordre du jour et énonce expressément que les propriétaires qui veulent retirer leurs fonds de l'exercice de la chasse en doivent faire une déclaration conformément aux dispositions de l'article 24.\n\nLa présence des intéressés, ainsi que le résultat des délibérations sont constatés par un procès-verbal signé par le président et le secrétaire-trésorier.\n\nA cette assemblée nul ne peut représenter comme mandataire plus de trois propriétaires.",
+      "text_sha256": "610bde4527d3bb2730a61aa8969e962d70a20a6ee0fe9c1a9587782c5c5496be",
+      "md_span": {
+        "start": 13658,
+        "end": 14659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23bis",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_23bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_23bis/20200407",
+      "type": "article",
+      "num": "Art. 23bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2020-04-07",
+      "text_md": "En 2020, et par dérogation à l’article 23, alinéa 1er, les assemblées générales des propriétaires des fonds non bâtis et non retirés d’un syndicat de chasse se tiennent au plus tôt au mois de janvier et au plus tard le 31 août.",
+      "text_sha256": "a926f86389275850a0a1b20eaefee831c47466e079f25a842b8b5d7e0d4cd833",
+      "md_span": {
+        "start": 14702,
+        "end": 14929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_24/20110604",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Les propriétaires qui pour des convictions éthiques personnelles sont opposés à la pratique de la chasse sur leurs fonds ne font pas partie d'un syndicat de chasse. A cette fin, les intéressés présentent au moins huit jours avant l'assemblée générale des syndicats, sous peine de forclusion, une déclaration de retrait écrite et motivée à la partie qui convoque, accompagnée d'un extrait cadastral et d'un plan topographique de tous leurs fonds non bâtis. Cette déclaration est recevable à la condition qu'elle porte sur l'ensemble de leurs fonds non bâtis sur le territoire national.\n\nL'exercice de la chasse est alors suspendu sur ces fonds pendant la durée du bail, sans préjudice des dispositions des articles 14, 15 et 55.\n\nUne nouvelle déclaration est notifiée avant l'expiration du contrat de bail de chasse à conclure selon les formes et délais décrits ci-dessus.\n\nEn cas de copropriété, la déclaration de retrait doit être signée par tous les copropriétaires.",
+      "text_sha256": "3d79a6b93d20b803c3f10a92395cc11b8099312e84038b0c2b813922edfe741f",
+      "md_span": {
+        "start": 14966,
+        "end": 15934
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_25/20110604",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'assemblée générale procède à l'élection de trois syndics qui forment le collège des syndics et de trois syndics suppléants parmi les propriétaires des fonds non bâtis et non retirés composant le lot de chasse sur lequel s'exercera le droit de chasse.\n\nCette élection est faite à la majorité des membres présents ou représentés. Le vote a lieu au scrutin secret.\n\nLe collège des syndics élit en son sein parmi les membres effectifs le président.\n\nEn cas d'empêchement du président, ses fonctions sont exercées par le syndic effectif le plus âgé.\n\nLes membres suppléants remplacent les syndics décédés, démissionnaires, absents ou empêchés.\n\nAu cas où le nombre des membres effectifs et suppléants réunis tombe en dessous de trois, une assemblée générale est convoquée qui élit les remplaçants. La convocation pour cette assemblée se fait dans les formes prévues à l'article 23. L'assemblée délibère suivant les modalités de l'alinéa 2 du présent article. Les nouveaux membres terminent le mandat de leurs prédécesseurs.\n\nSi l'assemblée générale néglige de procéder à la nomination ou au remplacement des syndics, ceux-ci sont nommés par le ministre.\n\nLes noms des syndics et de leurs suppléants sont communiqués au ministre dans un délai d'un mois après leur élection.",
+      "text_sha256": "d73514becc2e478ea6d44975fd7ae41f1360d41ed01be97dcb021c6fd5058184",
+      "md_span": {
+        "start": 15971,
+        "end": 17240
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_26/20110604",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Les syndics sont élus pour une durée de neuf années. Le mandat du nouveau collège des syndics commence le 1er avril de la dernière année du bail en cours. Les fonctions des syndics ne sont pas rémunérées.",
+      "text_sha256": "ed602494ca2593f42a1e2fcecff8829b05b53e6d531282e070e391bdcdbf2565",
+      "md_span": {
+        "start": 17277,
+        "end": 17481
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26bis",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_26bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_26bis/20200407",
+      "type": "article",
+      "num": "Art. 26bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2020-04-07",
+      "text_md": "En 2020, et par dérogation à l’article 26, le mandat du nouveau collège des syndics commence le 1er septembre.",
+      "text_sha256": "ae0f878c7fdaba5fc15568abd94cf9dc9ce7c3dedf9fd7faa4d9267ba4a3a4b3",
+      "md_span": {
+        "start": 17524,
+        "end": 17634
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_27/20151003",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2015-10-03",
+      "text_md": "Le collège des syndics est chargé sous le contrôle du directeur de l’Administration de la nature et des forêts de toutes les affaires qui ne sont pas de la compétence de l'assemblée générale. Les syndics décident à la majorité des membres présents. En cas de parité de voix, celle du président l'emporte.\n\nLe collège des syndics fournit les avis, renseignements et explications que le ministre peut lui demander.\n\nLes syndics sont autorisés à ester en justice pour le syndicat et sont représentés dans les instances par le président.\n\nAucun syndic ne peut être présent à une délibération sur les objets auxquels il a un intérêt direct, soit personnellement, soit comme chargé d'affaires ou fondé de pouvoirs ou qui concerne ses parents ou alliés jusqu'au 3ème degré inclusivement. L'inobservation de cette disposition entraîne l'annulation de la décision par le ministre.",
+      "text_sha256": "9f7916f293bb979648ab4315d7d3852a96e5022569339bc68ae13acf500846d5",
+      "md_span": {
+        "start": 17671,
+        "end": 18542
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_28/20110604",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le collège des syndics nomme un secrétaire-trésorier, membre ou non du syndicat. La nomination du secrétaire-trésorier se fait par scrutin secret. Ses fonctions expirent en même temps que celles des syndics.\n\nLe collège des syndics fixe le montant de l'indemnité de gestion du secrétaire-trésorier. Cette indemnité est prélevée sur le droit spécial tel que défini à l'article 42 et ne peut être supérieure à 8% du prix de location.",
+      "text_sha256": "75ce655f3ea06ff683c9c9eac998a485a8bc3f5911207b25100ae0bad6730b3d",
+      "md_span": {
+        "start": 18579,
+        "end": 19010
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_29/20110604",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le mode de fonctionnement du collège des syndics est déterminé par règlement grand-ducal.",
+      "text_sha256": "591bbabe2a301d71174e4d5f989e787e33d45e9938cd51f78ac44631fa23c881",
+      "md_span": {
+        "start": 19047,
+        "end": 19136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_30/20110604",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'assemblée générale décide si le droit de chasse sur les fonds non bâtis et non retirés composant le lot est donné en location par voie d'adjudication publique ou si le contrat de bail est prorogé pour un terme supplémentaire.\n\nCette décision est prise à la majorité des membres présents ou représentés.\n\nLa location est consentie pour une période de neuf années. Elle commence le 1er avril et se termine le 31 mars.\n\nLe collège des syndics exécute la décision prise par l'assemblée générale.",
+      "text_sha256": "6361f7404deee014ecd81e43ab945f1bb612eef3d86dce9e25a2dcab532888e9",
+      "md_span": {
+        "start": 19173,
+        "end": 19666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_31/20110604",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Lorsque l'assemblée générale s'est prononcée pour le principe de la location par adjudication publique, le collège des syndics cède le droit de chasse et ce sans mettre en compte des frais, sauf le droit spécial prévu à l'article 42, au plus tard le 15 septembre de la dernière année du bail en cours.\n\nLe locataire est choisi par le collège des syndics parmi les trois derniers offrants. Les offrants non sélectionnés parmi les trois derniers ne peuvent plus devenir cessionnaires ou colocataires pendant la durée du bail conclu.\n\nLe collège des syndics qui estime insuffisantes les offres faites, procède au plus tard dans le mois qui suit à une nouvelle mise aux enchères. Le lot de chasse est alors définitivement adjugé quels que soient les prix offerts.\n\nAucune surenchère n'est admissible sur un lot une fois adjugé par le collège des syndics.\n\nLa procédure et les modalités de l'adjudication publique sont déterminées par voie de règlement grand-ducal.",
+      "text_sha256": "d43be95ab05d019f26fcf034bc0edc9bdfe8539c044610ff6582e5d2ddc7a79b",
+      "md_span": {
+        "start": 19703,
+        "end": 20663
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31bis",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_31bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_31bis/20200407",
+      "type": "article",
+      "num": "Art. 31bis.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2020-04-07",
+      "text_md": "Pour les baux qui seront conclus pour la période allant du 1er avril 2021 au 31 mars 2030, et par dérogation à l’article 31, alinéa 1er, le collège des syndics cède le droit de chasse et ce sans mettre en compte des frais, sauf le droit spécial prévu à l’article 42, au plus tard le 31 janvier 2021.",
+      "text_sha256": "8f98efa7ed18d6969eaffdb20bfaebfb078800ba131aaa0fc63cd38a9d2b34db",
+      "md_span": {
+        "start": 20706,
+        "end": 21005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_32/20110604",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Lorsque l'assemblée générale s'est prononcée pour la prorogation du contrat de bail de chasse pour un nouveau terme de neuf années, elle mandate le nouveau collège des syndics de négocier les prix, clauses et conditions avec le locataire sortant. Si un nouveau contrat n'a pu être conclu jusqu'au 1er mai de la dernière année du bail en cours, il sera de plein droit procédé à l'adjudication publique du droit de chasse conformément aux dispositions à l'article 31.\n\nA l'expiration d'un contrat de location prorogé, il doit de nouveau être procédé à la location par voie d'adjudication publique.",
+      "text_sha256": "1fbc30453956082b8738033fb9a94ff4da0e968194bd3bef91ee71ee97d43c10",
+      "md_span": {
+        "start": 21042,
+        "end": 21637
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_33/20110604",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le collège des syndics signe le contrat de location avec le locataire et veille dans l'intérêt du syndicat à l'exécution de la part du locataire des clauses du bail de chasse. En cas d'inexécution des clauses par une partie, l'autre partie peut demander la résiliation judiciaire du contrat de location. Le droit de chasse sera alors cédé par voie d'adjudication publique pour la période restante jusqu'à la date d'expiration du terme de neuf ans.",
+      "text_sha256": "1c050916cd684805b278cfc9fad4616df7f32513306ca36b507639a76f9fa91e",
+      "md_span": {
+        "start": 21674,
+        "end": 22121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_34/20110604",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Pour pouvoir se porter locataire d'un lot de chasse, soit par adjudication publique, soit par prorogation du bail de chasse en cours, il faut remplir les conditions suivantes:\n\n1. être une personne physique;\n2. posséder un permis de chasser annuel luxembourgeois valable;\n3. fournir caution pour garantir le paiement du loyer et du droit spécial pour toute la durée du bail.\n\nLa caution est tenue solidairement avec le locataire de l'exécution de toutes les clauses, conditions et charges du contrat de location.\n\nEn cas d'adjudication publique, les amateurs du lot de chasse mis en location sont invités par le collège des syndics à justifier qu'ils remplissent les conditions 1 à 3 dès le commencement des enchères ou dès leur première mise. Si une des conditions n'est pas remplie la mise est écartée.",
+      "text_sha256": "325054bcd4c2da76fab96e92ebb6ac3f040c0433eafce9b8f4b8e2044ecf15ea",
+      "md_span": {
+        "start": 22158,
+        "end": 22962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_35/20110604",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Pour des raisons d'intérêt général, et par dérogation aux dispositions de l'article 34, l'Etat et les communes peuvent prendre en location en leur nom et à leurs frais un ou plusieurs lots de chasse dont l'exploitation sera réglée par le ministre, respectivement par le collège des bourgmestre et échevins.",
+      "text_sha256": "49ab5b74fc2957b5e809a68f119fc48216b734ab38a565d08936b56d18dc54a5",
+      "md_span": {
+        "start": 22999,
+        "end": 23305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_36/20110604",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le contrat de bail de chasse établi conformément au cahier de charge-type arrêté par règlement grand-ducal, ne devient définitif qu'après l'approbation du ministre.\n\nMention de l'approbation est faite par voie d'affichage aux lieux usités pour les publications officielles dans les communes comprises dans le lot. L'approbation peut être refusée pour cause d'inobservation des règles de la présente loi et de ses règlements d'exécution.\n\nContre la décision du ministre, un recours en réformation est ouvert devant le Tribunal administratif. Il doit être introduit sous peine de forclusion dans les quinze jours de la publication.\n\nDès l'approbation du contrat de location, la chasse est louée aux risques et périls du locataire. Ce dernier ne pourra présenter aucune réclamation ni faire valoir aucun droit vis-à-vis du syndicat tendant à obtenir une réduction du loyer ou une allocation de dommages et intérêts pour cause d'entrave ou d'empêchement à l'exercice de la chasse, alors même que ces entraves ou empêchements sont dus à des cas fortuits. Il en sera de même en cas d'exécution de travaux de culture ou de changement de nature de culture sur les fonds loués. En cas de circonstances exceptionnelles ayant des répercussions majeures sur l'exercice de la chasse, le locataire de chasse peut demander la résiliation judiciaire du contrat de bail.",
+      "text_sha256": "5e989cd3b77033f002bdbd86b569ed8f9131a5d35d1504f1e37a5bbc1b56d784",
+      "md_span": {
+        "start": 23342,
+        "end": 24695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_37/20110604",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Plusieurs personnes, mais au maximum une par 100 hectares et une pour la fraction restante de terrains bâtis et non bâtis compris dans le lot, peuvent se réunir pour devenir colocataires d'un même lot de chasse. Elles doivent chacune remplir les conditions énumérées à l'article 34, mais peuvent cumuler les montants cautionnés respectifs afin d'atteindre le montant total nécessaire. Leur engagement à l'égard du syndicat de chasse est solidaire et indivisible.",
+      "text_sha256": "a4ea51ef53e6fe00dd5e8adcae9586f4a6281da121f59056a6bac98152e8568f",
+      "md_span": {
+        "start": 24732,
+        "end": 25194
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_38/20110604",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Pendant la durée du bail, celui-ci peut faire l'objet d'une cession totale ou partielle à condition que les cessionnaires remplissent les conditions énumérées à l'article 34 et trouvent l'approbation du collège des syndics et du ministre. Les cessionnaires jouissent des mêmes droits et devoirs que les locataires. Leur engagement à l'égard du syndicat est solidaire et indivisible. Ils peuvent de même cumuler les montants cautionnés.\n\nLe nombre total des locataires et des cessionnaires ne peut être supérieur au nombre maximum fixé à l'article 37.",
+      "text_sha256": "b051b51c3a7d2f6ed0bf798bff334bed7d97a7f1cd6f5539cdf14667401ad1ee",
+      "md_span": {
+        "start": 25231,
+        "end": 25781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_39/20110604",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "En cas de décès du seul locataire, le bail est résilié de plein droit à partir du jour du décès. Ses héritiers sont tenus au paiement du loyer et des dommages causés par le gibier selon les dispositions légales afférentes jusqu'au jour du décès du de cujus. Le cas échéant ils ont droit au remboursement proportionnel de la part du loyer visant la période postérieure au décès.\n\nLes dégâts occasionnés par le gibier entre le jour du décès et la date officielle de la reprise du bail de chasse sont supportés par les propriétaires des fonds respectifs.\n\nLe droit de chasse visant le restant de la période primitive à courir est cédé par voie d'adjudication publique organisée par le collège des syndics dans les 30 jours à partir du jour du décès.\n\nLes héritiers ne sont pas tenus à une indemnisation pour moins-value au cas où le nouveau loyer obtenu après la réadjudication est inférieur à celui stipulé dans le bail primitif.",
+      "text_sha256": "aa04ad1c70b4a4be61e3c82d70d998d356dd68394f26502c32d720ddce7a2f17",
+      "md_span": {
+        "start": 25818,
+        "end": 26745
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_40/20110604",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Au cas où le seul locataire tombe en faillite, le bail est résilié de plein droit à partir du jour de la déclaration de faillite. Une nouvelle adjudication est organisée par le collège des syndics dans les 30 jours à partir de la date de déclaration en faillite pour louer le droit de chasse pour le restant de la période primitive à courir.\n\nLa caution est tenue vis-à-vis du syndicat pour toute la période du bail primitif restant à courir de la moins-value résultant de la réadjudication du droit de chasse ainsi que des frais de cette réadjudication, sans cependant avoir droit à l'excédent du prix de relocation sur le loyer stipulé dans l'ancien bail. L'engagement de la caution au paiement de ces montants est immédiatement exigible.",
+      "text_sha256": "a91ed9c161fb5366ae1e7aba4edcd9e5a8aa0bef49ebf8436b6c34f76301bba0",
+      "md_span": {
+        "start": 26782,
+        "end": 27522
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_41/20110604",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "En cas de location à plusieurs colocataires, le décès ou la déclaration en faillite de l'un d'eux met fin à la relation contractuelle le concernant. Le contrat continue normalement avec les colocataires survivants ou solvables qui restent tenus de manière solidaire et indivisible vis-à-vis du syndicat jusqu'à la date d'échéance du contrat de location.\n\nVis-à-vis du syndicat de chasse et dans leurs relations internes, les héritiers du colocataire décédé et sa caution ne sont tenus du loyer et des dégâts causés par le gibier que jusqu'au jour du décès du de cujus.\n\nLa caution du colocataire en faillite reste en outre tenue de manière solidaire et indivisible vis-à-vis du syndicat de chasse des loyers jusqu'à la date d'échéance du contrat de bail de chasse. Dans les relations internes, cette caution reste tenue des loyers jusqu'à la date d'échéance du contrat de bail et ce proportionnellement à la part incombant au colocataire en faillite.",
+      "text_sha256": "092c56454c9a7b7a767a802a007cf95203323dbc501e663fd06f4ef4ad9bd7d8",
+      "md_span": {
+        "start": 27559,
+        "end": 28509
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_42/20110604",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Il est perçu annuellement sur le prix de location au profit du syndicat de chasse et à charge du locataire un droit spécial de quinze pour cent.\n\nLes dépenses syndicales sont financées au moyen de ce droit spécial.\n\nLe prix de location annuel, augmenté du droit spécial, est perçu par les soins du collège des syndics, la première année dans le mois qui suit l'approbation du contrat de bail de chasse par le ministre, et les années suivantes, chaque fois au plus tard le 1er avril.",
+      "text_sha256": "bd5e92867d5c6343e14651b2589f0e6209e6cfef64ec0e6b0a58a0a3296893ef",
+      "md_span": {
+        "start": 28546,
+        "end": 29028
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_43/20151003",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. La location du droit de chasse"
+      ],
+      "article_valid_from": "2015-10-03",
+      "text_md": "Le collège des syndics répartit le prix de location entre les membres du syndicat au prorata de la superficie des terrains loués qu'ils possèdent dans le lot de chasse.\n\nLe décompte se fait sur la base des indications cadastrales.\n\nLes sommes pour lesquelles l'Etat figure au rôle de répartition sont versées au receveur de l'administration de l'enregistrement et des domaines.\n\nLes sommes qui n'ont pas pu être transférées ou qui n'ont pas été retirées par les membres du syndicat après un délai de trois ans sont réparties parmi les autres membres du syndicat au prorata de la superficie des terrains loués qu'ils possèdent dans le lot de chasse.\n\nLe collège des syndics est chargé du contrôle et de l'approbation du rôle de répartition et du compte définitif qui sont établis par le secrétaire-trésorier et publiés par voie d'affichage aux lieux usités pour les publications officielles dans les communes comprises dans le lot. Cette publication, qui dure quinze jours, se fait au plus tard pour le rôle de répartition le 15 juillet de chaque année d'exercice et pour le compte définitif le 31 mars suivant. Elle est portée immédiatement à la connaissance du directeur de l’Administration de la nature et des forêts.\n\nTout intéressé a le droit d'introduire par lettre recommandée une réclamation motivée dans le mois de sa publication contre le rôle de répartition et le compte définitif auprès du ministre. La décision du ministre est susceptible d'un recours en réformation à introduire devant le Tribunal administratif dans les quinze jours à partir de sa notification.",
+      "text_sha256": "ffefe35164007f58dfc23d0137a367ef335a97bd95c8c2dedbe324fbeff15134",
+      "md_span": {
+        "start": 29065,
+        "end": 30640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_44/20110604",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le locataire de chasse ainsi que l'opposant sont présumés responsables du dommage causé par le gibier aux cultures agricoles et viticoles, ainsi qu'à la forêt, sur les fonds non bâtis loués et ce proportionnellement à la surface des fonds chassables et des fonds retirés composant le lot.\n\nLe dommage causé par le gibier sur les fonds où l'exercice du droit de chasse est interdit ou suspendu en application de l'article 7, alinéas 1er et 2 est supporté entièrement par le propriétaire des fonds.\n\nLe dommage causé par le gibier sur les fonds où l'exercice du droit de chasse est interdit ou limité par une disposition réglementaire en application de l'article 7, alinéa 3, est supporté entièrement par l'Etat, si le dégât est le résultat de cette interdiction ou limitation.\n\nLes alinéas qui précèdent n'empêchent pas la preuve d'une cause d'exonération et l'introduction d'un recours selon les dispositions du droit commun.",
+      "text_sha256": "0312e6b58a934ae6b0b92ed45ce45f044e24f1218d2c0d368291aa42c45a25a3",
+      "md_span": {
+        "start": 30724,
+        "end": 31649
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_45/20110604",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "En cas de dommage causé par les espèces cerf et sanglier sur un fonds chassable, la part incombant au locataire de chasse est finalement supportée de l'ordre de neuf dixièmes par lui-même et pour un dixième par le syndicat de chasse sur les fonds duquel le dommage a été constaté.\n\nA l'issue de l'année cynégétique, les sommes avancées par le locataire de chasse lui sont remboursées par un fonds spécial, dénommé fonds spécial d'indemnisation des dégâts causés par le gibier. Ce fonds est alimenté par un droit supplémentaire perçu sur le permis de chasser tel que détaillé à l'article 67. Un règlement grand-ducal fixe la quotepart maximale annuelle à rembourser, ainsi que les modalités et la procédure de fonctionnement du fonds spécial. Le droit au remboursement des fonds avancés par l'adjudicataire du droit de chasse se prescrit par cinq ans à compter du 31 mars de l'année cynégétique à laquelle se rapporte le montant à rembourser.\n\nLa part à supporter par le syndicat est prélevée sur le produit du droit spécial de 15% perçu annuellement sur le prix de location prévu à l'article 42. En cas d'insuffisance de fonds dans la caisse syndicale, le solde est supporté par le locataire de chasse.",
+      "text_sha256": "7c8b17e3ea5ee6b6944419153564f1e77a1159c19d35c093def6ddf1867811c3",
+      "md_span": {
+        "start": 31686,
+        "end": 32888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_46/20110604",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "En cas de dégâts causés aux cultures agricoles, l'indemnité comprend la perte de récolte, ainsi que les frais occasionnés par le remblaiement et le réensemencement des cultures endommagées.\n\nL'estimation des dégâts tient compte de la possibilité de limiter ces derniers par la remise en état des cultures endommagées dans l'année même.\n\nSi deux locataires d'un lot de chasse ou deux opposants se succèdent dans le courant d'une même année cynégétique et si le dommage n'a pu être constaté et évalué contradictoirement, ils sont tenus solidairement à l'égard du syndicat de chasse pour le dommage total et entre eux, proportionnellement à la durée du droit de chasse ou droit de propriété dont chacun d'eux a été titulaire pendant l'année en question.\n\nLorsqu'un fonds endommagé, ayant donné lieu à indemnisation calculée sur la récolte, est remis en culture avant la date normale d'enlèvement de la récolte endommagée, les dégâts constatés dans la nouvelle culture n'ouvrent pas droit à indemnisation.",
+      "text_sha256": "937aef5a288d7f1c6cc157ee2a0219fcb4d6b972f460ef14864b4662fe8cbb6f",
+      "md_span": {
+        "start": 32925,
+        "end": 33926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_47/20110604",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Aucune indemnité ne sera allouée pour les dégâts causés par le gibier, lorsqu'il résulte des circonstances que les fruits ou récoltes ont été cultivés ou laissés sur le terrain après l'époque de la récolte dans le but d'obtenir une indemnité; l'indemnité pourra être réduite de moitié, lorsqu'il est établi que le dommage n'a été causé que par le fait que les fruits et récoltes ont été abandonnés, par négligence grave du propriétaire, sur le terrain après la rentrée de tous les autres produits similaires des autres propriétaires du lot de chasse.\n\nDe même, aucune indemnité ne sera allouée pour le dommage causé par le gibier aux vergers, pépinières ou même aux arbres isolés, et plus généralement à toutes autres cultures spéciales, à l'exception de la viticulture, lorsque le propriétaire, possesseur, fermier ou exploitant, a négligé de prendre les précautions qui, dans les circonstances ordinaires, auraient suffi pour écarter le dommage.\n\nEn cas de dégâts causés aux forêts, aucune indemnité ne sera allouée pour le dommage causé à des forêts dont la situation ne respecte pas les dispositions de l'article 16 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles.",
+      "text_sha256": "ae5e141681b8afacdb80fb71489ca2d216fe7c060589319302135fc3933c4469",
+      "md_span": {
+        "start": 33963,
+        "end": 35188
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/01/19/n1/jo",
+          "text": "loi modifiée du 19 janvier 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_48/20110604",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Quiconque dans un lot de chasse loué a subi un dommage sur un fonds chassable causé par le gibier chassable est tenu d'en informer dans les meilleurs délais le collège des syndics. Cette information se fait par déclaration écrite ou verbale au secrétaire-trésorier. Cette déclaration doit préciser la nature du dommage, donner une estimation de la surface endommagée, ainsi qu'une évaluation du dommage.\n\nLe secrétaire informe de suite le locataire de chasse, ainsi que le cas échéant l'opposant.",
+      "text_sha256": "74730c2c3c84156c6c4496cdedc148e454233782ddf4816730bbfc28530ed9df",
+      "md_span": {
+        "start": 35225,
+        "end": 35721
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_49/20110604",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le collège des syndics doit en vue d'un arrangement à l'amiable convoquer le déclarant, le locataire de chasse et l'opposant à comparaître en personne ou par mandataire sur les lieux du dommage. Le représentant de l'Etat est convoqué chaque fois que le fonds spécial est mis à contribution. La visite des lieux doit avoir lieu endéans un délai de quinze jours à partir de la déclaration du dommage.",
+      "text_sha256": "ac1c1cc76bf3a5bde21d3943ac8f1f50b793fbfae3586d7ed70520d5b185c8f5",
+      "md_span": {
+        "start": 35758,
+        "end": 36156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_50/20110604",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'estimation des dégâts faite lors de la visite des lieux par le collège des syndics doit préciser la nature du dommage, la superficie endommagée, les quantités estimées comme étant détruites, les prix d'unité à appliquer, ainsi que l'espèce de gibier chassable ayant causé le dommage.\n\nSi dans le mois à partir de la déclaration faite par le lésé, un arrangement à l'amiable n'est pas intervenu, le secrétairetrésorier transmet au nom du syndicat copie de la déclaration, avec estimation des dégâts faite par le collège des syndics, au juge de paix du lieu où le dommage a été constaté. Le secrétaire-trésorier y annexe un procès-verbal, signé par lui et par le président du syndicat, lequel contient l'énoncé des qualités du locataire, et le cas échéant du représentant de l'Etat, de l'opposant et des autres parties intéressées.",
+      "text_sha256": "00a2fdc386383e9659b410c39ce9e2f8baf892b7147c62527d531c556e932407",
+      "md_span": {
+        "start": 36193,
+        "end": 37024
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_51/20110604",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Sur base de l'estimation faite par le collège des syndics, le juge de paix rend une ordonnance conditionnelle de paiement au bénéfice du syndicat et à charge de celui ou de ceux qui ont à supporter le dommage.\n\nLe juge de paix est compétent pour rendre cette ordonnance quel que soit le montant du dommage.\n\nLes notifications, les recours et la procédure subséquente, sont régis par les articles 131 et suivants du Nouveau Code de Procédure civile, pour autant qu'il n'y soit pas dérogé par la présente loi.\n\nLe produit des paiements effectués par ceux qui ont à supporter le dommage est distribué par le collège des syndics aux parties lésées et ce proportionnellement par rapport à leur préjudice subi.",
+      "text_sha256": "1bafc71f04afc0cf127261e75c69bd7ab9fe64f2d07f9ee56861089782cc1c10",
+      "md_span": {
+        "start": 37061,
+        "end": 37765
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "Nouveau Code de Procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_52/20110604",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Si une partie intéressée forme dans le délai de quinze jours contredit à l'ordonnance conditionnelle de paiement, le juge de paix peut soit convoquer les parties à l'audience, soit désigner un expert-taxateur.\n\nL'expert-taxateur convoque par lettre recommandée le collège des syndics, le déclarant, le locataire, l'opposant et le cas échéant le représentant de l'Etat à date et heure fixes pour une nouvelle visite des lieux.\n\nLes convocations énoncent qu'à défaut de comparution, la visite des lieux et l'évaluation du dommage sont réputées contradictoires.\n\nLes intéressés peuvent s'y faire représenter par un mandataire.\n\nLors de la visite des lieux, les intéressés peuvent demander que l'évaluation du dommage ne se fasse que lors d'une seconde visite devant avoir lieu peu avant la récolte ou dans un délai fixé par l'expert. Il est toujours fait droit à cette demande.\n\nDans cette hypothèse, l'expert-taxateur envoie au juge de paix un état sommaire des lieux avec l'information que son rapport ne lui sera adressé qu'après cette seconde visite pour laquelle l'expert-taxateur convoque les intéressés par lettre recommandée.\n\nLe déroulement de l'expertise est régi par les articles 462 à 480 du Nouveau Code de Procédure Civile pour autant qu'il n'y est pas dérogé par la présente loi.",
+      "text_sha256": "ed1b2d85acbf81bc1ff9ca07ebff34f7d106a99beb219fbd37063a14ed38ab57",
+      "md_span": {
+        "start": 37802,
+        "end": 39093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_53/20110604",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'expert vérifie la situation des lieux, recueille tous les renseignements utiles et donne son avis écrit motivé dans le délai fixé par le juge.\n\nUne copie du rapport est notifiée par le greffier aux parties par lettre recommandée, avec invitation d'y contredire, s'il y a lieu, dans les quinze jours de la date de l'expédition.\n\nSi le rapport est contesté, le juge de paix convoque les parties, soit sur les lieux, soit à l'audience pour présenter leurs observations.",
+      "text_sha256": "57906db7064e1aff0867109d069c48fff518c770c89e7376572c76f09c8506e5",
+      "md_span": {
+        "start": 39130,
+        "end": 39598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_54",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_54/20110604",
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. Le dommage causé par le gibier"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le juge de paix rend son jugement sur base du rapport et le cas échéant sur base des moyens soulevés par les parties à l'audience.",
+      "text_sha256": "a5b95a267159e60faf96503018a71b24796f3c87e8e4c1cb373f6d77cf0ff501",
+      "md_span": {
+        "start": 39635,
+        "end": 39765
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_55",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_55/20110604",
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": null,
+      "path": [
+        "Chapitre 8. Les chasses administratives"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le ministre peut ordonner l'organisation de chasses administratives dans un intérêt général, soit à la demande écrite et motivée de tout intéressé, soit de sa propre initiative, sur tous les fonds, même sur ceux où l'exercice du droit de chasse est interdit, suspendu ou limité et ce dans les conditions suivantes:\n\n- en cas de trop forte concentration de gibier causant ou risquant de causer des dommages excessifs;\n- en cas de lâchers non autorisés de gibier ou d'autres espèces animales en milieu naturel;\n- en vue de prévenir des épizooties.\n\nLe ministre peut autoriser ces mesures même en temps de fermeture de la chasse.",
+      "text_sha256": "41040f6f563d741033d6e03f911ce863c82f6428bbdf62c4521e82a766f61356",
+      "md_span": {
+        "start": 39846,
+        "end": 40472
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_56",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_56/20110604",
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": null,
+      "path": [
+        "Chapitre 8. Les chasses administratives"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Avant d'ordonner une chasse administrative, le ministre informe le locataire et le cas échéant les propriétaires des fonds retirés ou ceux des fonds sur lesquels le droit de chasse est interdit, limité ou suspendu, de ses intentions et les invite à prendre les mesures qui s'imposent dans un délai déterminé.\n\nFaute par les parties concernées d'obtempérer ou si les mesures prises sont jugées insuffisantes, le ministre ordonne l'organisation de chasses administratives après en avoir préalablement informé les parties concernées et demandé l'avis du Conseil supérieur de la chasse.",
+      "text_sha256": "0e24ca19ec24594e0fb630553dbf10c85e70ae4ef93be9656a2d0f4902d8bbb4",
+      "md_span": {
+        "start": 40509,
+        "end": 41091
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_57",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_57/20110604",
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": null,
+      "path": [
+        "Chapitre 8. Les chasses administratives"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'administration détermine les modalités des chasses administratives et en assure l'exécution, la direction et la surveillance.\n\nL'administration désigne les participants aux chasses administratives qui doivent être porteurs d'un permis de chasser valable.\n\nLes frais occasionnés par les chasses administratives sont à charge:\n\n- du locataire de la chasse lorsqu'il s'agit de fonds chassables loués,\n- er\n- de l'Etat lorsque l'exercice de la chasse a été interdit ou limité par une disposition réglementaire en application de l'article 7 alinéa 3.\n\nEn cas de lâchers non autorisés d'animaux appartenant aux espèces gibier ou non, les frais occasionnés par les chasses administratives sont à la charge des responsables de ces lâchers s'ils sont identifiés, sinon à charge du Trésor public. Les frais des chasses administratives organisées en vue de prévenir des épizooties restent à charge du Trésor public.\n\nLe gibier tiré est vendu publiquement par les soins de l'administration, au profit du Trésor public. Les frais occasionnés par les chasses sont avancés par le Trésor public sur un état établi par l'administration et le solde, après déduction du prix de vente du gibier, reste à charge des débiteurs précisés ci-dessus, le cas échéant au prorata des terrains concernés.",
+      "text_sha256": "9233bbdf318721139e2909cd2bce244b04f6bc5ad9eb3d6e7df65b26bbb0e0a2",
+      "md_span": {
+        "start": 41128,
+        "end": 42404
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_58",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_58/20110604",
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le permis de chasser donne à son titulaire le droit d'exercer la chasse conformément aux dispositions de la présente loi et à ses règlements d'exécution.",
+      "text_sha256": "cfab0869685d41ce45af2ac6692ec34c26c3ab9ef21c3e988404f8793f450309",
+      "md_span": {
+        "start": 42478,
+        "end": 42631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_59",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_59/20110604",
+      "type": "article",
+      "num": "Art. 59.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le certificat d'aptitude à la chasse est délivré aux candidats ayant subi avec succès l'examen d'aptitude à la chasse. L'inscription à l'examen est subordonnée au paiement d'un droit d'inscription qui ne peut être ni inférieur à 50 euros ni supérieur à 150 euros.\n\nNul ne peut s'inscrire à l'examen d'aptitude s'il n'a pas 17 ans accomplis ou s'il est un majeur protégé. Les mineurs ne peuvent s'inscrire sans autorisation écrite de leur représentant légal.\n\nUn règlement grand-ducal fixe les matières et les modalités de l'organisation des cours, les conditions et modalités de l'examen, le montant du droit d'inscription, le mode de nomination des membres de la commission d'examen, ainsi que leur indemnisation.",
+      "text_sha256": "ad427c6cd7caadfd41d0cbd12655d19f81842458a5e1da79950155932ceba0ec",
+      "md_span": {
+        "start": 42668,
+        "end": 43382
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_60",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_60/20110604",
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le ministre peut assimiler au certificat luxembourgeois d'aptitude à la chasse nécessaire à la délivrance d'un permis annuel luxembourgeois conformément à l'article 63, les certificats délivrés par une autorité étrangère si les conditions suivantes sont réalisées:\n\n1. le détenteur du certificat étranger s'est soumis à des épreuves similaires à celles que comporte l'examen luxembourgeois;\n2. le pays qui a délivré le certificat reconnaît l'équivalence du certificat luxembourgeois d'aptitude à la chasse, certificat donnant droit à la délivrance d'un permis de chasser dans ce pays.",
+      "text_sha256": "d4d14652ffe8cc44f6f31f549f618b927c9b9770acd80b4317b7917b76854fca",
+      "md_span": {
+        "start": 43419,
+        "end": 44003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_61",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_61/20110604",
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Il y a trois catégories de permis de chasser, à savoir:\n\n1. le permis annuel\n2. le permis de trois jours, appelé permis d'invité\n3. le permis de service.",
+      "text_sha256": "f36d7532c1539a83afd8a820c9b65437c35caeeb1e15b35f803c58b83536dae6",
+      "md_span": {
+        "start": 44040,
+        "end": 44193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_62",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_62/20110604",
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Les permis de chasser, dont les modèles sont déterminés par règlement grand-ducal, sont délivrés par le ministre.\n\nTout permis de chasser est strictement personnel.\n\nLe permis annuel et le permis de service sont valables pour une année cynégétique.\n\nLe permis d'invité est valable pour trois jours consécutifs.",
+      "text_sha256": "cefe5579d309ee3a5c4011c176c6e5f89c68df8a9025b9c4229cfecb4e2b0728",
+      "md_span": {
+        "start": 44230,
+        "end": 44540
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_63",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_63/20110604",
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le permis annuel est délivré sur production:\n\n1. d'un extrait récent du casier judiciaire;\n2. d'une attestation d'assurance conforme aux dispositions de l'article 66;\n3. d'une quittance attestant le paiement entre les mains d'un receveur de l'administration de l'enregistrement et des domaines des droits prévus par les lois et règlements en vigueur, et notamment par l'article 67.\n\nA la demande du premier permis annuel, doit en outre être joint un certificat d'aptitude à la chasse valable délivré conformément à l'article 59 ou une justification d'équivalence conformément à l'article 60.\n\nLe permis annuel est valable sur tout le territoire du pays.",
+      "text_sha256": "d5f970eeded79d60aed9b115881f8ef275c70311c7b06257fd68fd2de01f1a25",
+      "md_span": {
+        "start": 44577,
+        "end": 45230
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_64",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_64/20110604",
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Sur demande écrite d'une personne résidant à l'étranger et détentrice d'un permis annuel de son pays de résidence encore valide, le ministre peut délivrer à l'intéressé un permis d'invité.\n\nLe permis d'invité est délivré sur production:\n\n1. d'une attestation d'assurance par la compagnie d'assurance du demandeur qui doit avoir son siège social dans un Etat membre de l'Union européenne conforme aux dispositions de l'article 66 et couvrant le territoire national;\n2. d'une quittance attestant le paiement entre les mains d'un receveur de l'administration de l'enregistrement et des domaines des droits prévus par les lois et règlements en vigueur, et notamment par l'article 67; et\n3. d'une copie conforme du permis de chasser étranger valide de l'invité pour la période pour laquelle le permis d'invité est demandé.\n\nLes permis d'invité sont valables sur tout le territoire du pays pour les lots de chasse où l'intéressé est invité à chasser. Par année cynégétique, la durée maximale des permis d'invité délivrés à la même personne résidant à l'étranger ne peut dépasser les douze jours. Pour un même lot de chasse, il ne peut être demandé plus de dix permis d'invité par année cynégétique.",
+      "text_sha256": "ee06ee0f1915191cfa08290c17f1154c161e82975be76f3e3f392b7d47da8e0f",
+      "md_span": {
+        "start": 45267,
+        "end": 46459
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_65",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_65/20110604",
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Un permis de service peut être délivré aux fonctionnaires de l'administration qui exercent des missions de police en matière de chasse.\n\nLe permis de service est délivré sur proposition du directeur de l'administration et sur production d'une attestation d'assurance conforme aux dispositions de l'article 66.\n\nA la demande du premier permis de service, doit en outre être joint un certificat d'aptitude à la chasse valable délivré conformément à l'article 59 ou une justification d'équivalence conformément à l'article 60, à moins que le demandeur n'ait déjà présenté ce document lors d'une demande antérieure en vue de l'obtention d'un permis annuel.\n\nLe permis de service est valable sur tout le territoire du pays.\n\nIl peut être retiré à tout moment par le ministre sur demande motivée du directeur de l'administration.",
+      "text_sha256": "bd2a4d7567d5680ff5c79e68ec0deb3e23322eac0ef3061eb6baa8aa0c784614",
+      "md_span": {
+        "start": 46496,
+        "end": 47319
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_66",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_66/20110604",
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'attestation d'assurance requise pour la délivrance d'un permis de chasser doit couvrir toute la période pour laquelle le permis à délivrer est valable.\n\nToute cause susceptible de mettre fin à la validité du contrat d'assurance avant la date inscrite sur l'attestation de l'assurance ne produit ses effets qu'après le trentième jour suivant la notification qui en est faite au ministre par lettre recommandée.\n\nLe contrat d'assurance doit couvrir la responsabilité civile du preneur lors de l'exercice de la chasse ou en sa qualité d'organisateur de chasse.\n\nLes conditions générales auxquelles doivent satisfaire les contrats d'assurance sont fixées par règlement grand-ducal.",
+      "text_sha256": "09422a505b7ca40364a63f1aa9f29a53bf18bbd3ff101dc05dcfdc6d3d99a2c7",
+      "md_span": {
+        "start": 47356,
+        "end": 48035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_67",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_67/20110604",
+      "type": "article",
+      "num": "Art. 67.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le permis annuel et le permis d'invité sont chacun soumis à un droit d'enregistrement et un droit supplémentaire au profit du fonds spécial d'indemnisation des dégâts causés par le gibier, tel que défini à l'article 45.\n\nPour le permis annuel, le droit d'enregistrement n'est ni inférieur à 20 euros, ni supérieur à 50 euros. Le droit supplémentaire n'est ni inférieur à 50 euros, ni supérieur à 300 euros.\n\nPour le permis d'invité, le droit d'enregistrement n'est ni inférieur à 5 euros, ni supérieur à 15 euros. Le droit supplémentaire n'est ni inférieur à 10 euros, ni supérieur à 40 euros.\n\nLes montants du droit d'enregistrement et du droit supplémentaire sont fixés par règlement grand-ducal.",
+      "text_sha256": "2a41087a787596f12534e2efb427311f5cf72ca469aa510881c52b7de29b5817",
+      "md_span": {
+        "start": 48072,
+        "end": 48770
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_68",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_68/20110604",
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le ministre refuse ou retire le permis:\n\n1. à toute personne à laquelle l'autorisation de port d'arme a été refusée ou retirée;\n2. à toute personne condamnée irrévocablement à une peine de prison de neuf mois au moins pour une infraction à la présente loi, pour une infraction à la législation concernant la protection de la nature, la protection des bois, la protection des oiseaux ou la protection de la vie et du bien-être des animaux;\n3. à toute personne qui n'a pas exécuté les condamnations définitivement prononcées contre elle pour un des délits prévus par la présente loi;\n4. à toute personne qui pour des convictions éthiques personnelles a demandé le retrait du syndicat de chasse.",
+      "text_sha256": "78fec1a0318e5fdf04223ef7ba28ba192bc6144702324d0ebe0a3a5f250b726a",
+      "md_span": {
+        "start": 48807,
+        "end": 49499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_69",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_69/20110604",
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le ministre peut encore refuser ou retirer le permis:\n\n1. à toute personne condamnée irrévocablement à une peine correctionnelle pour infraction à la présente loi et ses règlements d'exécution;\n2. à toute personne qui a refusé de présenter son permis de chasser aux agents assermentés chargés de la police de la chasse;\n3. à toute personne qui a tiré ou blessé des animaux non classés gibier, qui a chassé pendant la période de fermeture de la chasse ou qui a chassé avec une arme sur des terrains où elle n'a pas le droit de chasser;\n4. à toute personne qui s'est approprié, a mis en vente, recelé, acquis, détenu ou aidé à écouler des animaux braconnés ou tués pendant une période où la chasse était fermée;\n5. à toute personne qui a exercé la chasse selon un mode ou à l'aide d'un procédé de chasse prohibé;\n6. à toute personne dont la mauvaise conduite, l'état mental ou les antécédents laissent supposer qu'elle fera un mauvais usage de son arme.",
+      "text_sha256": "67df0e130d80ae611403017bd59e217bd507d2594f962011b19e192cda21238c",
+      "md_span": {
+        "start": 49536,
+        "end": 50487
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_70",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_70/20110604",
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le ministre peut refuser ou retirer le permis de celui qui fait l'objet d'une enquête pour homicide ou blessures volontaires ou involontaires à l'occasion d'un fait ou d'un acte de chasse. Le refus ou le retrait peut être maintenu jusqu'au moment où il est certain qu'aucune action publique ne sera engagée ou jusqu'à l'intervention d'une décision de non-lieu ou d'acquittement.",
+      "text_sha256": "d2b5ead855bc7977799689954153cc4bb870704260215342e98201b4058558ec",
+      "md_span": {
+        "start": 50524,
+        "end": 50902
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_71",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_71/20110604",
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le refus ou retrait du permis ne peut être décidé qu'après que l'intéressé ait été mis en mesure de discuter les griefs formulés contre lui.\n\nLes décisions dont il est question aux articles 68 et 69 qui précèdent peuvent également priver les mêmes personnes du droit d'obtenir un permis de chasser pour un temps qui n'excède pas cinq années.",
+      "text_sha256": "c0132624dac5938f65be66b19cca2c95fa255740b902f1aba78ffce1a2e0ae16",
+      "md_span": {
+        "start": 50939,
+        "end": 51280
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_72",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_72/20110604",
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. Le permis de chasser"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Les décisions dont il est question aux articles 68, 69, 70 et 71 alinéa 2 qui précèdent sont notifiées aux intéressés par lettre recommandée.\n\nUn recours administratif en réformation est ouvert contre la décision du ministre endéans un délai de trois mois à partir de sa notification.\n\nL'exercice de la chasse est interdit à l'intéressé à partir de la notification de la décision de retrait d'un permis de chasser.\n\nLe permis de chasser est à remettre au ministre au moment de la notification de la décision de retrait.",
+      "text_sha256": "d1bf2c58aadef4c5c19b70fb04e286e4b8ab810ad9719d9ff4824bc7f068e975",
+      "md_span": {
+        "start": 51317,
+        "end": 51836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_73",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_73/20110604",
+      "type": "article",
+      "num": "Art. 73.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. Dispositions pénales"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Est puni d'une peine d'emprisonnement de huit jours à six mois et d'une amende de 251 euros à 15.000 euros ou une de ces peines seulement:\n\n- toute personne qui par infraction aux articles 6 et 8 a tiré un animal qui n'est pas classé comme gibier;\n- toute personne qui a exécuté un acte de chasse contrairement aux dispositions des articles 5, 6 et 7;\n- toute personne qui a contrevenu aux articles 9 et 10 portant sur l'obligation d'être détenteur d'un permis de chasser, sur la période de chasse, sur le gibier chassable, sur les modes, moyens et procédés de chasse, sur les mesures de sécurité à respecter par les chasseurs et les tiers, sur les interdictions ou limitations de la chasse par voie réglementaire;\n- toute personne qui a procédé au nourrissage du gibier contrairement à l'article 11;\n- er\n- toute personne ayant procédé au lâcher d'animaux appartenant aux espèces classées gibier ou d'autres espèces animales en milieu naturel en infraction aux dispositions de l'article 17;\n- toute personne qui a contrevenu aux dispositions de l'article 18 interdisant la tenue en captivité et l'élevage d'animaux appartenant à des espèces classées gibier;\n- tout locataire qui n'a muni ou fait munir le gibier tué sur son territoire de chasse des dispositifs de marquage prévus à l'article 19 et tous ceux qui ont transporté du gibier non muni de ces dispositifs de marquage;\n- er\n- toute personne, qui par infraction à l'article 20 alinéa 3, a transporté, mis en vente, colporté, vendu, détenu pour les marchands ou acheté pour revendre du gibier pris au moyen d'engins ou d'instruments dont l'usage est interdit.",
+      "text_sha256": "9cb6bcfe8991546caa05440e8f177b3a00671be1ffd07468262cd8ae09dbb408",
+      "md_span": {
+        "start": 51911,
+        "end": 53528
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_74",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_74/20110604",
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. Dispositions pénales"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Ces peines peuvent être portées jusqu'à un emprisonnement de deux ans et jusqu'à une amende de 30.000 euros lorsque les infractions ont été commises dans une des circonstances suivantes:\n\n1. pendant la nuit en temps prohibé;\n2. sur un terrain sur lequel l'exercice de la chasse est interdit ou suspendu, lorsque ce terrain est immédiatement attenant à une maison habitée ou servant d'habitation;\n3. à l'aide d'engins et d'instruments prohibés ou d'autres moyens que ceux autorisés ou en employant des drogues et appâts de nature à enivrer le gibier ou à le détruire;\n4. lorsque l'auteur de l'infraction était masqué;\n5. lorsque l'auteur de l'infraction a pris une fausse identité.",
+      "text_sha256": "def763050b7b4568db55798dc0c8e50e723b718f97a5ecbd28a1e1a3638b17fd",
+      "md_span": {
+        "start": 53565,
+        "end": 54245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_75",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_75/20110604",
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. Dispositions pénales"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Est puni d'une amende de 25 à 250 euros:\n\n1. toute personne qui n'est pas en mesure d'exhiber son permis de chasser ou autorisation de port d'armes aux agents chargés du contrôle de la chasse;\n2. sans préjudice des dispositions de l'article 14, toute personne qui, munie d'une arme, a traversé autrement que par la voie publique des terrains où elle n'a pas le droit de chasse;\n3. le locataire qui reste en défaut de prouver la disponibilité d'un chien de sang en application de l'article 14;\n4. toute personne qui enfreint l'article 12 et son règlement d'exécution;\n5. toute personne qui enfreint les dispositions du règlement grand-ducal pris en exécution de l'article 10, alinéa 4 visant l'emploi du chien de chasse.",
+      "text_sha256": "1ad789cc4192ff7e55c9ac0fdb8b4eab317ad36058be696e1f65f90c6786b5cd",
+      "md_span": {
+        "start": 54282,
+        "end": 55001
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_76",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_76/20110604",
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. Dispositions pénales"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Il y a récidive lorsque, dans les douze mois qui ont précédé l'infraction, l'intéressé a fait l'objet d'une condamnation irrévocable pour une infraction prévue par la présente loi.",
+      "text_sha256": "47d2c569e8f5bf5c64c11bbade05610eb087d7ab69361971f0105ca7e6b800ac",
+      "md_span": {
+        "start": 55038,
+        "end": 55218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_77",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_77/20110604",
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": null,
+      "path": [
+        "Chapitre 10. Dispositions pénales"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le jugement prononce toujours une interdiction de chasser en cas de condamnation à une peine d'emprisonnement pour une infraction prévue par la présente loi.\n\nEn cas de condamnation à une amende correctionnelle, le jugement peut prononcer une interdiction allant d'un à cinq ans. En cas de condamnation à une peine d'emprisonnement, l'interdiction peut être étendue jusqu'à dix ans.\n\nL'interdiction de chasser produit son effet à partir du jour où la décision qui l'a prononcée est devenue irrévocable, sauf en cas de condamnation à une peine d'emprisonnement sans sursis; dans cette hypothèse l'interdiction ne prend effet qu'après exécution de la peine d'emprisonnement.\n\nLe jugement peut ordonner la confiscation des armes, des filets, engins et autres instruments de chasse utilisés pour commettre l'infraction, même si la propriété n'appartient pas au condamné. Il ordonne s'il y a lieu la destruction des instruments de chasse prohibés.\n\nDans tous les cas où le jugement ordonne la confiscation des armes, des filets, engins et autres instruments de chasse, il prononce, pour le cas où celle-ci ne peut pas être exécutée, une amende qui ne dépasse pas la valeur du ou des objets confisqués. Cette amende subsidiaire ne peut pas être inférieure à 500 euros pour une arme à feu.",
+      "text_sha256": "05171ffddb439894309f656bf6e4b033ac2bd757b9296ea9bc58937bda5b20de",
+      "md_span": {
+        "start": 55255,
+        "end": 56537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_78",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_78/20110604",
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. Surveillance de la chasse et poursuite des infractions"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Les infractions à la présente loi et à ses règlements d'exécution sont recherchées et constatées par les officiers de la police judiciaire, les agents de la police grand-ducale, les agents de l'administration des douanes et accises et les fonctionnaires de l'Administration de la nature et des forêts de la carrière de l'ingénieur, du préposé de la nature et des forêts et du cantonnier.",
+      "text_sha256": "2488cfe0d5b05eee9041e45c0364b070d4b7b9559c173017d778e337f828468b",
+      "md_span": {
+        "start": 56646,
+        "end": 57033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_79",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_79/20110604",
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. Surveillance de la chasse et poursuite des infractions"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Le gibier saisi est remis en liberté par les soins des agents de l'administration de la nature et des forêts ou mis à mort par un médecin vétérinaire selon les règles de l'art. Le gibier saisi mort est remis à l'administration communale pour être vendu aux enchères publiques, après contrôle sanitaire et après apposition d'un dispositif de marquage spécial plus amplement défini dans un règlement grand-ducal. Les trophées sont remis à l'administration.",
+      "text_sha256": "40960d91290a471bb98f3617627926ff94e03796aaf27f454d467278c85e70a8",
+      "md_span": {
+        "start": 57070,
+        "end": 57524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_80",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_80/20110604",
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. Surveillance de la chasse et poursuite des infractions"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'infraction prévue à l'article 75 (2) ne peut être poursuivie que sur plainte de la partie lésée. L'action publique est éteinte par le désistement de la partie plaignante et à charge pour le prévenu de rembourser les frais.",
+      "text_sha256": "01c4bbbe4b1911b2b789e045e6f3e8a2e43079cff7b8ca5a30b67bc8bc3c37f7",
+      "md_span": {
+        "start": 57561,
+        "end": 57785
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_81",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_81/20110604",
+      "type": "article",
+      "num": "Art. 81.",
+      "heading": null,
+      "path": [
+        "Chapitre 11. Surveillance de la chasse et poursuite des infractions"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Les associations agréées en application de l'article 63 de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles peuvent exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction au sens de la présente loi et portant un préjudice direct ou indirect aux intérêts collectifs qu'elles ont pour objet de défendre, même si elles ne justifient pas d'un intérêt matériel et même si l'intérêt collectif dans lequel elles agissent se couvre entièrement avec l'intérêt social dont la défense est assurée par le ministère public.\n\nEn aucun cas, les associations agréées ne peuvent poursuivre l'exécution du jugement de condamnation en ce qui concerne le rétablissement des lieux en leur état antérieur.",
+      "text_sha256": "cda40159a4d02ebf2f56ab9a6f3ff95703924ccbf5aba68507271c1f48daac10",
+      "md_span": {
+        "start": 57822,
+        "end": 58606
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2004/01/19/n1/jo",
+          "text": "loi modifiée du 19 janvier 2004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_82",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_82/20110604",
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": null,
+      "path": [
+        "Chapitre 12. Les organes consultatifs"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Il est institué un conseil supérieur de la chasse qui a pour mission:\n\n1. d'adresser de son initiative des propositions au ministre en matière de chasse;\n2. de donner son avis sur toutes les questions et tous les projets que le ministre juge utile de lui soumettre;\n3. de donner son avis sur tous les problèmes ayant trait à la chasse qui lui sont présentés par son président ou par la majorité de ses membres;\n4. d'étudier les mesures législatives et réglementaires à prendre pour améliorer les conditions d'exercice de la chasse.\n\nLe conseil supérieur est composé comme suit:\n\n- un représentant du ministre,\n- deux représentants de l'administration,\n- un représentant du ministre ayant dans ses attributions l'agriculture,\n- trois représentants de la Chambre d'agriculture,\n- un représentant des propriétaires forestiers,\n- quatre représentants des associations de la chasse,\n- deux représentants des associations de la protection de la nature.\n\nLe ministre nomme pour chaque membre effectif du conseil un membre suppléant.\n\nLes représentants et leurs suppléants sont nommés par le ministre pour un terme de trois ans.\n\nLe président du conseil supérieur et le secrétaire sont désignés par le ministre pour une période de trois ans.",
+      "text_sha256": "032bdbe2f11e8b3f9136b0daf69da1efb667fb7b789ffe7629ae9f5e7de5cb18",
+      "md_span": {
+        "start": 58685,
+        "end": 59918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_83",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_83/20110604",
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": null,
+      "path": [
+        "Chapitre 12. Les organes consultatifs"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Sont instituées cinq commissions cynégétiques régionales selon les limites des arrondissements de l'administration de la nature et des forêts.\n\nLeur mission est purement consultative et porte sur l'élaboration et les modifications subséquentes des plans de tir tels que prévus à l'article 13.\n\nChaque commission cynégétique régionale est composée de sept membres nommés par le ministre, comprenant:\n\n- un délégué de l'administration;\n- trois délégués des associations de la chasse;\n- deux représentants de la Chambre d'agriculture;\n- un représentant des propriétaires forestiers.\n\nLe ministre nomme pour chaque membre effectif de chaque commission un membre suppléant.\n\nChaque commission est présidée par le délégué de l'administration.",
+      "text_sha256": "1b5cf563473cdfd88ca1a5da83817e9b7df16b37dde57e9065a65f4cea37d853",
+      "md_span": {
+        "start": 59955,
+        "end": 60691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_84",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_84/20110604",
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": null,
+      "path": [
+        "Chapitre 12. Les organes consultatifs"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "L'organisation et le mode de fonctionnement du conseil et des commissions sont réglés par règlement grand-ducal.",
+      "text_sha256": "54d5656c682ebd73c8281a528936ba56068483e8d4b556dded3c471d47d01866",
+      "md_span": {
+        "start": 60728,
+        "end": 60840
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_85",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_85/20110604",
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": null,
+      "path": [
+        "Chapitre 13. Disposition additionnelle"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Au moment de l'entrée en vigueur de la présente loi, les avoirs éventuels du fonds spécial de la chasse, institué par la loi du 20 juillet 1925, et du fonds cynégétique, institué par la loi du 30 mai 1984, sont transférés au fonds spécial d'indemnisation des dégâts de gibier, institué par l'article 45.",
+      "text_sha256": "6ce59ec4321cdf7066aaacdcc8e4b8dd251973c22167cdd10e0ee83f679da117",
+      "md_span": {
+        "start": 60920,
+        "end": 61223
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1925/07/20/n1",
+          "text": "loi du 20 juillet 1925"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1984/05/30/n1",
+          "text": "loi du 30 mai 1984"
+        }
+      ]
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_86",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_86/20110604",
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "**1.** L'article 2 de la loi du 28 mars 1938 portant majoration de certains droits de timbre et d'enregistrement et création d'une taxe d'exportation et de taxes diverses est abrogé.\n\n**2.** Le dernier alinéa de l'article 5 de la loi du 13 juillet 1949 ayant pour objet de majorer certains droits est abrogé.\n\n**3.** L'article 26 de la loi du 7 avril 1909 sur la réorganisation des eaux et forêts est modifié comme suit:\n\nA l'alinéa 1er les mots de la chasse et sont biffés.\n\nLe dernier alinéa est abrogé.\n\n**4.** L'article 15.1 (1) du Code d'instruction criminelle est modifié et aura la teneur suivante:\n\n«Les gardes particuliers assermentés en matière de pêche constatent par procès-verbal tous délits et contraventions portant atteinte aux propriétés dont ils ont la garde.»",
+      "text_sha256": "1ad61a06c2f081d14a3e2265230dca501d00b74a3c4a8653b54a5ec7b628bda6",
+      "md_span": {
+        "start": 61320,
+        "end": 62098
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1938/03/28/n2/jo",
+          "text": "loi du 28 mars 1938"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1949/07/13/n2",
+          "text": "loi du 13 juillet 1949"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1909/04/07/n1/jo",
+          "text": "loi du 7 avril 1909"
+        },
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d'instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_87",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_87/20110604",
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": null,
+      "path": [
+        "Chapitre 14. Dispositions modificatives et abrogatoires"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "Sont abrogées:\n\n- loi modifiée du 19 mai 1885\n- loi modifiée du 20 juillet 1925\n- loi modifiée du 24 août 1956\n- loi du 2 avril 1993 loi du 7 avril 1909",
+      "text_sha256": "08002caefbb25629a2035d7c86d4a94e2b12d641a661595b53f6debc9c01f431",
+      "md_span": {
+        "start": 62135,
+        "end": 62287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:loi-2011-05-25-n1:2020-04-07#art_88",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/art_88/20110604",
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": null,
+      "path": [
+        "Chapitre 15. Dispositions transitoires"
+      ],
+      "article_valid_from": "2011-06-04",
+      "text_md": "**(1)** Par dérogation à l'article 9, l'année cynégétique 2011/2012 commence le 1er août 2011 et se termine le 31 juillet 2012, alors que l'année cynégétique 2012/2013 commence le 1er août 2012 et se termine le 31 mars 2013.\n\n**(2)** Les plans pour la chasse aux espèces cerf et chevreuil arrêtés par le ministre avant l'entrée en vigueur de la présente loi restent applicables pendant toute la période pour laquelle ils ont été établis.\n\n**(3)**\n\n1. er loi du 25 juillet 1925\n2. er loi du 25 juillet 1925 er loi du 25 juillet 1925\n\n**(4)** Les baux en cours conclus avant l'entrée en vigueur de la présente loi sont maintenus jusqu'à leur date d'échéance conventionnelle. Les nouveaux baux seront conclus pour une période se terminant le 31 mars 2021. Selon le principe énoncé aux articles 30 et 32 alinéa 1er et par dérogation à l'article 32 alinéa 2, tous les baux en cours pourront faire l'objet d'une prorogation.\n\nPour les baux venant à terme le 31 juillet 2012 et en cas de décision de l'assemblée générale pour la prorogation du bail en cours, un nouveau bail de chasse devra être conclu jusqu'au 15 décembre 2011. A défaut de conclusion de contrat dans ce délai, de même qu'en cas de décision de l'assemblée générale pour une adjudication publique, il sera procédé à l'adjudication publique du droit de chasse au plus tard le 31 mars 2012.\n\nPour les baux venant à terme pendant la période allant du 31 juillet 2013 au 31 juillet 2020 y inclus et en cas de décision de l'assemblée générale pour la prorogation du bail en cours, un nouveau bail de chasse devra être conclu jusqu'au 15 août de la dernière année du bail en cours. A défaut de conclusion de contrat dans ce délai, il sera procédé à l'adjudication publique du droit de chasse au plus tard le 15 septembre de la dernière année du bail en cours.\n\nPour les lots où l'assemblée générale avait voté contre le relaissement, le collège des syndics cède le droit de chasse par adjudication publique au plus tard le 15 septembre de la dernière année de la période de non-relaissement.\n\n**(5)** Par dérogation à l'article 23, l'assemblée générale des propriétaires des fonds non bâtis et non retirés d'un syndicat en vue de la décision sur le mode de location pour la prochaine période de location se tient dans les trois mois qui précèdent d'an et de jour l'expiration des contrats de bail en cours. Pour les syndicats dont les baux de chasse viennent à terme le 31 juillet 2012, cette assemblée se tient pendant la période allant du 1er octobre 2011 au 30 novembre 2011 inclus. Toute décision sur le mode de location du droit de chasse pour la prochaine période de location prise par l'assemblée générale avant cette date est nulle et non avenue.\n\n**(6)** Par dérogation à l'article 26, le mandat du prochain collège des syndics commence le 15 mai de l'année de l'expiration des contrats de bail en cours et se termine le 31 mars 2021.\n\n**(7)** Les dispositions suivantes s'appliquent pour la première fois à partir de la procédure de convocation des prochaines assemblées générales décidant sur le mode de location du droit de chasse:\n\n1. formalités de convocation de l'assemblée générale selon l'article 23, sans préjudice du délai de la tenue de l'assemblée générale tel que fixé au paragraphe (5) du présent article;\n2. exercice du droit de vote, objet du vote lors de l'assemblée générale selon les dispositions des articles 25 et 30, sans préjudice de la durée de la location telle que fixée par le paragraphe (4) du présent article;\n3. er\n4. les conditions nécessaires pour devenir locataire ou colocataire de chasse selon les dispositions des articles 34 et 36 à 41;\n5. le paiement par le locataire et la répartition aux propriétaires intéressés du prix de location, ainsi que le contrôle y afférent selon les dispositions des articles 42 et 43;\n6. la location d'un lot par l'Etat et les communes en application de l'article 35.\n\n**(8)** Les baux qui seront conclus pour la période allant du 1er avril 2021 au 31 mars 2030 doivent passer par une adjudication publique. Les dispositions suivantes sont applicables:\n\n1. par dérogation à l'article 23, la convocation à la première assemblée générale des syndicats nouvellement constitués selon l'article 22 se fera par l'administration;\n2. er loi du 25 juillet 1925\n\n**(9)** Les gardes particuliers assermentés en matière de chasse avant l'entrée en vigueur de la présente loi garderont les pouvoirs leur conférés en vertu de l'acte d'assermentation jusqu'à l'expiration des contrats de bail de chasse relatifs aux lots pour lesquels l'assermentation est valable.\n\n**(10)** Par dérogation à l'article 24, pour les baux venant à terme pendant la période allant du 31 juillet 2013 au 31 juillet 2020 inclus, les propriétaires qui pour des convictions éthiques personnelles sont opposés à la pratique de la chasse sur leurs fonds présentent, sous peine de forclusion, pendant la période allant du 22 septembre 2011 au 22 novembre 2011 inclus, au collège des syndics une déclaration de retrait écrite et motivée, accompagnée d'un extrait cadastral et d'un plan topographique de tous leurs fonds non bâtis. Cette déclaration est recevable à la condition qu'elle porte sur l'ensemble de leurs fonds non bâtis sur le territoire national. Si la contenance du lot est réduite par rapport à la contenance initialement mentionnée dans le contrat de location, le locataire peut demander une réduction proportionnelle du loyer.",
+      "text_sha256": "86e16aadcaf6b539deff005422b20a7c0ebb2b2611883ccaa79c5afdac72cdd0",
+      "md_span": {
+        "start": 62367,
+        "end": 67798
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

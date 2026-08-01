@@ -1,0 +1,1096 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26",
+  "language": "fr",
+  "title": "Loi du 10 décembre 2009 relative à l'hospitalisation sans leur consentement de personnes atteintes de troubles mentaux.",
+  "valid_from": "2020-11-26",
+  "valid_to": "2022-08-06",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2009-12-10-n1/versions/2020-11-26/fr.xml",
+    "sha256": "d9d1002bc6b2e348370a756471487313dbd76f4e4718a9b8d40e18d891217987",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/consolide/20201126/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_1er/20100103",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Champ d'application, définitions, généralités"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "La présente loi règle l’admission, le placement et le séjour sans leur consentement de personnes atteintes de troubles mentaux dans un service de psychiatrie d’un hôpital ou dans un établissement psychiatrique spécialisé.",
+      "text_sha256": "ccb4a5f926a2fa505bee6b8c47c61cd6e37297319e752e75cd45924a910a2688",
+      "md_span": {
+        "start": 667,
+        "end": 888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_2/20100103",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Champ d'application, définitions, généralités"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Par admission on entend au sens de la présente loi l’hospitalisation sans son consentement d’une personne atteinte de troubles mentaux.\n\nPar placement on entend au sens de la présente loi la décision judiciaire de maintenir sans son consentement la personne admise en milieu hospitalier au-delà de la période d’observation dont question à l’article 12 ci-dessous, sans préjudice des particularités qui régissent l’hospitalisation des placés judiciaires.\n\nUne personne séjournant sans son consentement dans un service ou établissement visé à l’article qui précède est désignée dans la suite par l’expression «personne admise» depuis le jour de son admission jusqu’à la décision d’élargissement ou de placement visée à l’article ci-après. Elle est désignée par l’expression «personne placée» à partir de la prédite décision de placement jusqu’à ce qu’il soit mis fin au placement.\n\nSi le placement intervient sur ordre d’une juridiction de jugement ou d’instruction en application de l’article 71 du code pénal, la personne concernée est désignée par «placé judiciaire».\n\nDans la suite l’expression «le patient» est employée chaque fois que sont visées indistinctement les personnes admises et placées, ainsi que les placés judiciaires.",
+      "text_sha256": "4405d1534136e940b9e05d2f25bbdc818510b824122e8a42fc48f67556f27937",
+      "md_span": {
+        "start": 923,
+        "end": 2157
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_3/20100103",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Champ d'application, définitions, généralités"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Dans la mesure du possible les personnes atteintes de troubles mentaux doivent être traitées dans le milieu dans lequel elles vivent. Elles ne peuvent faire l’objet d’une admission ou d’un placement que si des troubles psychiques graves les rendent dangereuses pour elles-mêmes ou pour autrui ou si le placement a été ordonné par une juridiction de jugement ou d’instruction en application de l’article 71 du code pénal.\n\nLa diminution des facultés mentales due au vieillissement n’est pas, à elle seule, un motif suffisant pour l’admission ou le placement.\n\nLe défaut d’adaptation aux valeurs morales, sociales, politiques ou autres de la société ne peut être considéré en soi comme un trouble mental.",
+      "text_sha256": "b312c903e9d09a3aa4863ee2870b5f225c70865e7e83120db8d8a7f02e4408d6",
+      "md_span": {
+        "start": 2192,
+        "end": 2894
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_4/20100103",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Champ d'application, définitions, généralités"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** Sans préjudice des dispositions de l’article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé «centre hospitalier neuropsychiatrique», l’admission et le placement d’une personne atteinte de troubles mentaux ne peuvent avoir lieu que dans un service ou établissement visé à l’article 1er.\n\nL’admission, le placement et le séjour sont soumis aux conditions de fond et de forme prévues par la présente loi.\n\nSauf pour les cas visés à l’article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé «centre hospitalier neuropsychiatrique», l’admission ne peut intervenir que dans un service de psychiatrie d’un hôpital.\n\nLes établissements et services psychiatriques visés à l’article 1er sont désignés par le terme «établissement». Par «directeur de l’établissement» on entend dans la suite, suivant le cas, soit le directeur de l’établissement psychiatrique spécialisé, ou, s’il n’est pas médecin, le médecin qui en dirige le département médical, soit le médecin responsable du service de psychiatrie d’un hôpital.\n\n**(2)** Dans chaque arrondissement judiciaire il incombe à un juge spécialement désigné à ces fins par le président du tribunal d’arrondissement, dit ci-après «le juge», de veiller au respect des conditions de fond et de forme auxquelles sont soumis l’admission, le placement et le séjour de personnes atteintes de troubles mentaux et de prendre en matière de mise en observation et de placement les décisions lui spécialement dévolues par la présente loi.",
+      "text_sha256": "3d205637c10c7c1559ca622dafdd49085017526cae0465ffd147805b0b02cb29",
+      "md_span": {
+        "start": 2929,
+        "end": 4486
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/04/17/n1/jo",
+          "text": "loi modifiée du 17 avril 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_5/20100103",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Champ d'application, définitions, généralités"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Les hôpitaux autorisés par le ministre de la Santé à exploiter un service de psychiatrie sont tenus d’y créer une section pour le séjour et le traitement de personnes admises ou placées et d’y hospitaliser aux fins d’admission et de placement, conformément à la présente loi, des personnes atteintes de troubles mentaux.\n\nLes établissements doivent répondre à des normes architecturales, fonctionnelles et d’organisation, à déterminer par règlement grand-ducal. Ce règlement grand-ducal arrête notamment le nombre maximum de lits par chambre, la superficie par lit de chaque chambre, ainsi que les effectifs minima du personnel médical et paramédical.",
+      "text_sha256": "fd12d1b90263ed565db9f2f2f3593b3b8ce77a726a7d7bea4c300aa42400f0f8",
+      "md_span": {
+        "start": 4521,
+        "end": 5172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_6/20100103",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. — Champ d'application, définitions, généralités"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Pendant son hospitalisation tout patient a droit à un traitement médical approprié à son état. Le traitement doit être basé sur un plan de traitement personnalisé, appliqué par un personnel médical et de soins qualifié. Il doit être orienté vers la réintégration du patient dans la société.\n\nSans préjudice des dispositions des articles 43 et 44 ci-après, le traitement doit être appliqué dans le respect de la liberté d’opinion du patient ainsi que de ses convictions religieuses ou philosophiques. Il doit favoriser la santé physique du patient tout comme ses contacts familiaux et sociaux ainsi que son épanouissement culturel.",
+      "text_sha256": "a152fc63aac0f3cea3fb2d516b2f0a7c5bfb924c809b8ccb2b4fa9fb2efefbda",
+      "md_span": {
+        "start": 5207,
+        "end": 5837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_7/20100103",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** Une personne ne peut être admise et le directeur de l’établissement ne peut l’admettre que sur une demande écrite d’admission à présenter par une des personnes ou autorités suivantes :\n\n1. le tuteur ou curateur d’un incapable majeur ;\n2. un membre de la famille de la personne à admettre ou toute autre personne intéressée. La demande indique le degré de parenté ou bien la nature des relations qui existent entre l’auteur de la demande et la personne concernée ;\n3. le bourgmestre de la commune sur le territoire de laquelle se trouve la personne concernée ou celui qui le remplace ;\n4. les chefs des commissariats de la Police grand-ducale et, en leur absence, un officier de police administrative ;\n5. le procureur d’État de l’arrondissement judiciaire dans lequel se trouve la personne concernée.\n\nLes autorités visées sous 3., 4. et 5. ci-dessus ne peuvent intervenir que si la personne compromet l’ordre ou la sécurité publics. Cette condition est légalement présumée remplie dès lors que la personne à placer est détenue dans un centre pénitentiaire.\n\nLa demande est accompagnée dans tous les cas d’un exposé énumérant les principales circonstances de fait qui la motivent.\n\n**(2)** L’admission se fait dans le service de psychiatrie de l’hôpital de la région dans laquelle se situe le domicile de la personne à admettre.\n\nSi plus d’un hôpital est éligible en vertu de l’alinéa qui précède, l’admission se fait à l’hôpital de la région qui est de garde le jour de l’admission.\n\nSi l’admission intervient à la demande d’une des autorités visées au paragraphe qui précède sous 3., 4. et 5., elle se fait, par dérogation à l’alinéa 1er du présent paragraphe, à l’hôpital de la région dans laquelle se trouve la personne à admettre au moment de la demande d’admission.\n\nSi la personne à admettre n’a pas de domicile connu au pays, l’admission se fait à l’hôpital de la région dans laquelle elle se trouve au moment de la demande d’admission.\n\nPar dérogation aux alinéas 1er, 2, 3 et 4, l’hospitalisation de personnes atteintes de troubles mentaux et souffrant de Covid-19 peut avoir lieu dans les services hospitaliers offrant les conditions requises pour une prise en charge adéquate.\n\nSi la personne est détenue dans un centre pénitentiaire, l’admission se fait à l’unité de psychiatrie socio-judiciaire visée à l’article 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé «centre hospitalier neuropsychiatrique.»",
+      "text_sha256": "d103f917e811ff4fbb25638f74aec02ef6e8cdadd6c0d849412af57b8923fce6",
+      "md_span": {
+        "start": 5935,
+        "end": 8401
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1998/04/17/n1/jo",
+          "text": "loi modifiée du 17 avril 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_8/20100103",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "À titre exceptionnel et en cas de péril imminent pour la santé de la personne concernée ou pour la sécurité d’autrui, dûment constaté par un médecin de l’établissement non attaché au service de psychiatrie, le directeur peut, par dérogation aux dispositions de l’article 7 ci-dessus, procéder à l’admission sans être en possession de la demande y prévue.\n\nLa demande visée à l’article 7 doit être versée dans les vingt-quatre heures, faute de quoi le directeur informe la personne concernée qu’elle peut immédiatement quitter l’établissement, sans préjudice du droit de cette dernière de continuer de son propre gré la thérapie proposée.\n\nSi en application de l’alinéa qui précède la personne concernée quitte l’établissement ou poursuit la thérapie proposée de son propre gré, l’inscription au registre prévue à l’article 40 ci-dessous n’est pas faite et l’avis dont question à l’article 11 ci-dessous n’est pas donné.",
+      "text_sha256": "e00060de25bfed2310a3c448cad9f8e903c457be36f06ec711dc3a3aa9892620",
+      "md_span": {
+        "start": 8436,
+        "end": 9355
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_9/20100103",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Un certificat médical n’ayant pas plus de trois jours de date et délivré par un médecin non attaché au service de psychiatrie de l’hôpital d’admission doit être joint à la demande d’admission. Ce certificat qui est établi après un examen de la personne concernée effectué le même jour décrit les symptômes du trouble mental et atteste la nécessité de l’admission.\n\nLe certificat ne peut être délivré ni par le conjoint, ni par un parent ou allié en ligne directe, ni par un héritier présomptif de la personne dont l’admission est demandée.\n\nLe médecin établit le certificat suivant un modèle déterminé par règlement grand-ducal, l’avis du Collège médical ayant été demandé.",
+      "text_sha256": "d814b345c1dab3fe398e05b8555096ce012ab5f1d23d9dfff21fff804b73f3be",
+      "md_span": {
+        "start": 9390,
+        "end": 10063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_10/20100103",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Le directeur de l’établissement qui reçoit la personne à admettre fait transcrire sur le registre visé à l’article 40 ci-dessous les pièces exigées aux termes des articles 7 et 9.",
+      "text_sha256": "eebee5955939b785de8cf4c49ca21cb2c13ea291853f29046343a0b09dd9b7c5",
+      "md_span": {
+        "start": 10100,
+        "end": 10279
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_11/20100103",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Le jour même de l’admission information en est donnée par écrit au juge.\n\nLe juge vérifie si les conditions de fond et de forme de l’admission sont remplies. Il demande, s’il y a lieu, à qui de droit de compléter ou de rectifier les formalités.\n\nDès son admission la personne admise est informée par le directeur ou la personne par lui désignée à cet effet de son droit de s’adresser par écrit au juge.",
+      "text_sha256": "dca10af726159bee2a89e063325d9f0c7b157848b261ec7c98879bb489e365af",
+      "md_span": {
+        "start": 10316,
+        "end": 10718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_12/20100103",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** Après l’admission la personne admise est mise en observation pour une période qui ne peut excéder 30 jours. Pendant cette période le médecin traitant procède aux investigations requises en vue de juger si le maintien dans l’établissement est nécessaire et, dans l’affirmative, d’établir le diagnostic de la maladie.\n\n**(2)** Le sixième jour qui suit celui de l’admission le médecin traitant fait parvenir au juge un rapport motivé dans lequel il s’exprime sur l’opportunité du maintien de la mise en observation.",
+      "text_sha256": "f7e169e2de89950ae2da426d957ab88b6024d3f6f8c6f3bcf1a9cfa8440a5393",
+      "md_span": {
+        "start": 10755,
+        "end": 11275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_13/20100103",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Dans les trois jours de la réception du rapport visé à l’article qui précède, le juge\n\n- soit fait part au médecin traitant de ce que rien ne s’oppose au maintien provisoire de la mise en observation,\n- soit décide que la mise en observation n’est pas ou plus indiquée et ordonne la sortie de la personne admise, en quel cas information en est donnée à la personne qui a demandé l’admission,\n- soit demande au médecin traitant un supplément d’information.",
+      "text_sha256": "c60f180ec974c6f12c3d9f33d8b31be2b0e1dc5a747482c1ae22c5e0f3393765",
+      "md_span": {
+        "start": 11312,
+        "end": 11767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_14/20100103",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Avant de prendre sa décision conformément à l’article qui précède le juge peut se déplacer auprès de la personne admise et entendre toute personne pouvant lui donner des avis ou renseignements utiles pour sa prise de décision.",
+      "text_sha256": "ba62b1ad932977684ba54f1e5fda517c94dca32273a4469deb8eca87063db2fe",
+      "md_span": {
+        "start": 11804,
+        "end": 12030
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_15/20100103",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Si le juge prononce le maintien de la mise en observation, il ne peut le faire que pour un maximum de 21 jours qui suivent sa décision.\n\nSi le juge a demandé un supplément d’information au médecin traitant, le délai couru entre cette demande et la réception des informations supplémentaires est imputé sur la période de 21 jours dont question à l’alinéa qui précède, de façon à ce que la période d’observation ne puisse excéder 30 jours, sans préjudice de l’alinéa 3 de l’article 19 ci-après.\n\nLa décision de maintien de la mise en observation n’est pas susceptible de recours.",
+      "text_sha256": "73c3a5960ac01289acc76a82ac96dd734ed17ead0d8512151b288a444e8428e4",
+      "md_span": {
+        "start": 12067,
+        "end": 12644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_16/20100103",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Avant la fin de la période de mise en observation le médecin traitant fait parvenir au juge un rapport dûment motivé ospitalisation s’impose, il fait de suite parvenir le rapport dont question à l’alinéa 1er du présent article au juge, qui entamera sa procédure de décision.\n\nSi, sans attendre la fin de la période de mise en observation, le médecin traitant a la conviction que le maintien de l'hospitalisation s'impose, il fait de suite parvenir le rapport dont question à l'alinéa 1er du présent article au juge, qui entamera sa procédure de décision.",
+      "text_sha256": "617eec95f41ca8f84eb798f46efd89bd73843f372decc45a664fec170052ca6d",
+      "md_span": {
+        "start": 12681,
+        "end": 13235
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_17/20100103",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. — Procédure d'admission et mise en observation"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Les dispositions des articles 24 à 28 et 30 ci-dessous s’appliquent également à la personne admise.",
+      "text_sha256": "bcb3eb22b1200c90bba1cc2094a9214ad74ed94d45c0c046ecc6d6c53432fbf8",
+      "md_span": {
+        "start": 13272,
+        "end": 13371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_18/20100103",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Procédure de placement"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** La décision de mettre fin à l’admission, soit en ordonnant la sortie de la personne admise, soit en prononçant son placement, relève du juge.\n\n**(2)** Le juge prend sa décision sur base des critères énoncés à l’article 3 ci-dessus.\n\n**(3)** Avant de prendre sa décision, le juge entend dans l’établissement de traitement la personne admise.\n\n**(4)** Le juge communique la date de cette audition trois jours à l’avance à la personne admise et, s’il y a lieu, à son représentant légal. Lors de l’audition la personne admise peut se faire assister par une personne de son choix. Son représentant légal peut également, s’il y a lieu, assister à l’audition.",
+      "text_sha256": "e2f7b1ec3b012036328d497432584d57d8dc4dadd4b5a0cda20b1447491dcd42",
+      "md_span": {
+        "start": 13449,
+        "end": 14109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_19/20100103",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Procédure de placement"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Lors de l’audition le juge donne connaissance à la personne admise des conclusions du rapport de son médecin traitant et il l’entend en ses observations.\n\nLe juge peut, s’il l’estime opportun, entendre la personne admise en présence de son médecin traitant. Il peut aussi entendre ce dernier séparément.\n\nS’il ne s’estime pas suffisamment éclairé par les éléments du dossier et les informations recueillies lors de l’audition, le juge peut ordonner toute mesure supplémentaire qu’il juge utile. Dans ce cas la période d’observation est prorogée jusqu’à l’accomplissement de ladite mesure, sans que cette prorogation puisse excéder 30 jours.",
+      "text_sha256": "d71855b40bb6da44d55dc9e8037bdbc610a7ebc753493dc15c63badc9f7682de",
+      "md_span": {
+        "start": 14146,
+        "end": 14786
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_20/20100103",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Procédure de placement"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** Dans les 48 heures de l’audition ou, le cas échéant, de l’accomplissement de la mesure supplémentaire, le juge rend une ordonnance prononçant soit l’élargissement de la personne admise, soit son placement.\n\n**(2)** L’ordonnance prise en vertu de l’alinéa qui précède n’est pas susceptible de recours, sans préjudice du pourvoi offert à la personne placée à l’article 30 ci-après. L’ordonnance informe la personne placée des droits dont elle jouit en vertu du prédit article. Si la personne placée n’est pas en mesure de saisir la portée de cette information, celle-ci lui est fournie par son médecin traitant dès qu’elle est en mesure d’en comprendre la signification.",
+      "text_sha256": "05ac50404250b7386ca8b6e5f5cbe9c7eefca129ec36200cf30fa2039845208e",
+      "md_span": {
+        "start": 14823,
+        "end": 15499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_21/20100103",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Procédure de placement"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "L’ordonnance est communiquée sans délai par tout moyen utile à la personne concernée et à son médecin traitant. Ce dernier s’assure de la remise effective de l’ordonnance à la personne concernée, lui en explique la teneur et lui fait signer un récépissé qui sera renvoyé au greffe. Si au moment de la remise de l’ordonnance la personne concernée n’est pas en mesure d’en saisir la portée, les diligences dont question ci-avant sont accomplies dès que la personne concernée est en mesure d’en comprendre la signification. Si l’ordonnance a prononcé le placement, celui-ci devient néanmoins effectif à la date de l’ordonnance.",
+      "text_sha256": "1139f5c287a0a881571019f78ada5db1d922e402dc15765e6f73e9793b8a0e3f",
+      "md_span": {
+        "start": 15536,
+        "end": 16160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_22/20100103",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre 3. — Procédure de placement"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Le juge donne avis dans les vingt-quatre heures de sa décision de placement au directeur de l’établissement.\n\nSi l’ordonnance prononce l’élargissement, le directeur ou la personne par lui désignée à cet effet en donne connaissance à la personne admise, qui peut immédiatement quitter l’établissement ou continuer de son propre gré la thérapie proposée.",
+      "text_sha256": "45d7364cd2ac1207d3b428ab2ef1651e173db9342a7d19a6280c37ef398e9b46",
+      "md_span": {
+        "start": 16197,
+        "end": 16549
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_23/20100103",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Du séjour de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Si, après la décision de placement, le médecin traitant est d’avis que l’état de la personne placée nécessite une hospitalisation de longue durée, il la transfère dans un établissement psychiatrique spécialisé.\n\nIl en donne avis trois jours au moins avant le transfert au directeur du prédit établissement. Il lui remet un dossier comprenant copie des pièces dont question aux articles 7 et 9 ci-dessus et de la décision de placement, un rapport médical retraçant l’évolution de l’état de la personne placée depuis son admission, ainsi que copie du dossier social.\n\nMention du transfert est faite tant au registre tenu en vertu de l’article 40 ci-dessous par l’hôpital de départ de la personne placée qu’à celui tenu par l’établissement psychiatrique spécialisé d’arrivée.",
+      "text_sha256": "463fb57be5d30bf0ec53a6514e3073fd914d5e91df9203885849a36409af2db7",
+      "md_span": {
+        "start": 16636,
+        "end": 17408
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_24/20100103",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Du séjour de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Le médecin traitant consigne au moins tous les mois sur le registre tenu en vertu de l’article 40 ci-dessous les changements intervenus dans l’état mental de la personne placée.\n\nEn outre il réexamine la nécessité du maintien dans l’établissement à la fin du troisième mois qui suit la décision de placement dont question à l’article 18 ci-dessus.",
+      "text_sha256": "0c52680e0c09e80e1dda33d7fe514a6c0634454da4514c1e7c559873eea735ed",
+      "md_span": {
+        "start": 17445,
+        "end": 17792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_25/20100103",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. — Du séjour de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "De sa propre initiative ou à la demande de la personne placée ou de toute personne intéressée, le médecin traitant peut, à titre d’essai, accorder à la personne placée l’autorisation de quitter l’établissement. Il fixe la durée de la période d’essai qui ne peut cependant être supérieure à un an, ainsi que, s’il y a lieu, les modalités de résidence et de surveillance médicale.\n\nSi les conditions imposées ne sont pas respectées ou si l’état de la personne placée se modifie au point qu’il devient nécessaire de mettre fin à la période d’essai, le médecin traitant en informe le procureur d’État de la résidence de la personne placée, qui prend toutes les mesures utiles pour la faire rentrer dans l’établissement.\n\nA la fin de la période d’essai le médecin décide si la personne placée peut quitter l’établissement. Le médecin peut également accorder des sorties de courte durée, uniques, journalières ou hebdomadaires, suivant l’état de la personne placée. Information en est donnée au juge.",
+      "text_sha256": "f9b8bccb569381b328bbc6e0f7429d48eace42d5346189d20d481c9e0a1a7c8b",
+      "md_span": {
+        "start": 17829,
+        "end": 18823
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_26/20100103",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — De la sortie de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Si le médecin traitant est d’avis que la personne placée est guérie ou que son état s’est amélioré de telle façon que le placement n’est plus nécessaire, il en fait la déclaration dans le registre tenu en vertu de l’article 40 ci-dessous.\n\nIl en donne connaissance à la personne placée qui peut immédiatement quitter l’établissement ou se faire hospitaliser de son propre gré. Information en est donnée au juge.\n\nSi la personne qui fait l’objet d’une décision de sortie en vertu du présent article ou de l’article 13 est un détenu, elle est remise à l’administration pénitentiaire.",
+      "text_sha256": "d32080b67c789fd1924d775bed3bb81b2d8299d427eb106796e1be82316ac645",
+      "md_span": {
+        "start": 18913,
+        "end": 19494
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_27/20100103",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — De la sortie de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Si la personne placée quitte l’établissement en vertu de l’article qui précède, le médecin peut assortir la sortie de conditions de résidence et/ou de surveillance médicale.\n\nEn cas d’inobservation de ces conditions la personne qui avait requis le placement peut faire réadmettre la personne concernée à l’établissement sur simple demande, sans produire de nouveau certificat médical, mais en versant les pièces qui documentent qu’elle s’est soustraite aux conditions de sortie. Il ne peut être fait usage de cette faculté que pendant une période de trois mois qui prend cours à la date de la sortie de la personne concernée.",
+      "text_sha256": "714ad765d3112cad81da72b6a97d3aeefe9ea4831d256c7b15b13b83da76b546",
+      "md_span": {
+        "start": 19531,
+        "end": 20156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_28/20100103",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — De la sortie de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Si la personne placée quitte l’établissement sans y être autorisée par le médecin traitant ou si elle n’observe pas les conditions dont est assortie sa sortie conformément à l’article qui précède, le procureur d’État de l’arrondissement judiciaire dans lequel se situe l’établissement peut prendre toutes les mesures utiles pour la faire rentrer dans l’établissement.",
+      "text_sha256": "b902f246b024413ebc13400d37516fb779fed2fe29677c5c469307f2405d60d4",
+      "md_span": {
+        "start": 20193,
+        "end": 20560
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_29/20100103",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — De la sortie de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Un an après la date de la décision de placement une commission composée d’un magistrat du siège qui la préside, d’un médecin spécialiste en psychiatrie ou en psychiatrie infantile et d’un assistant d’hygiène sociale ou assistant social non attachés à l’établissement, nommée par le ministre de la Santé pour une durée de trois ans, décide, après avoir pris l’avis du médecin traitant et s’être entourée de tous les renseignements nécessaires, si le maintien du placement reste justifiée. Le directeur de l’établissement est tenu d’aviser la commission deux semaines avant l’expiration de la période annale. Si la commission estime que le placement n’est plus nécessaire, la personne placée est immédiatement élargie. Information en est donnée au juge.\n\nSi le placement est maintenu, ladite commission procède tous les deux ans à un réexamen de la personne placée.\n\nLa commission peut également décider que la personne placée bénéficie d’une sortie en congé d’une durée maximum de trois mois, à l’issue de laquelle une décision définitive est prise.",
+      "text_sha256": "8f86babd3eb4b787fe2fa03979b6798889bd3750768cbb506e1f0e2fcc25391f",
+      "md_span": {
+        "start": 20597,
+        "end": 21645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_30/20100103",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — De la sortie de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "La personne placée peut à tout moment se pourvoir devant le tribunal d’arrondissement du lieu de la situation de l’établissement en sollicitant son élargissement. Le tribunal peut également être saisi par toute personne intéressée, qui indique dans sa demande son degré de parenté avec la personne en question ou la nature de ses relations avec elle. Une demande nouvelle n’est pas recevable tant qu’il n’est pas statué définitivement sur une demande antérieure.\n\nLa demande signée par la partie sera communiquée par le président du tribunal au ministère public qui prend l’avis du directeur de l’établissement et ordonne toute autre vérification utile. La personne placée est entendue par le tribunal en chambre du conseil ou par un juge commis à cet effet. La décision est rendue en audience publique sur rapport, le cas échéant, du juge commis.\n\nLa décision prononçant l’élargissement est exécutoire par provision et nonobstant appel.\n\nAppel peut être interjeté dans le délai de 15 jours à partir de la notification par le greffe de la décision. L’article 1089 du nouveau code de procédure civile est applicable pour ce qui est de la forme dans laquelle l’appel est à interjeter. L’appel est porté devant la Cour d’appel siégeant en chambre du conseil et est jugé dans les mêmes formes que la décision attaquée.\n\nLes ordonnances, arrêts, décisions, procès-verbaux, copies, avertissements et lettres recommandées qui pourront intervenir en exécution du présent article, ainsi que les pièces de toute nature produites en cours d’instance, sont exempts des droits de timbre et dispensés de la formalité d’enregistrement.",
+      "text_sha256": "b9639e67f2cdbd9b03a7a5bcf9a370d17ec5bebc5035dbc5e48e8b56c32b4c0f",
+      "md_span": {
+        "start": 21682,
+        "end": 23302
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "nouveau code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_31/20100103",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre 5. — De la sortie de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Dans chacune des trois régions hospitalières du pays le gouvernement installe ou favorise l’installation de centres de postcure, que les personnes ayant séjourné dans un établissement peuvent consulter gratuitement après leur sortie.\n\nCes centres peuvent se voir confier les missions de surveillance médicale dont question aux articles 25 et 27 ci-dessus.",
+      "text_sha256": "7dafcbca360b3c41861e666a4ffe1d8fdb5df09545a915141b0d5ee3a47c80c4",
+      "md_span": {
+        "start": 23339,
+        "end": 23694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_32/20100103",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des placés judiciaires"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "L’admission de toute personne ordonné par une juridiction de jugement ou d’instruction en application de l’article 71 du Code pénal est effectué dans l’unité de psychiatrie socio-judiciaire, conformément à 2-1 de la loi modifiée du 17 avril 1998 portant création d’un établissement public dénommé «centre hospitalier neuropsychiatrique».",
+      "text_sha256": "0b670ede275256fb56a0222ef0b54184b6e8d709c98cb426eafd71e8b85a699f",
+      "md_span": {
+        "start": 23772,
+        "end": 24109
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1998/04/17/n1/jo",
+          "text": "loi modifiée du 17 avril 1998"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_33",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_33/20100103",
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des placés judiciaires"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Il est institué une commission spéciale chargée de l’exécution des décisions judiciaires de placement.\n\nLa commission spéciale se compose comme suit: un magistrat du siège qui préside la commission, un magistrat du ministère public, ainsi que deux membres désignés sur proposition du ministre de la Santé, dont un médecin spécialiste en psychiatrie ou en psychiatrie infantile. En cas de partage des voix, le président de la commission a voix prépondérante.\n\nUn membre suppléant est désigné pour chacun des quatre membres effectifs.\n\nLes membres titulaires ainsi que leurs suppléants sont nommés par le ministre de la Justice pour une durée de trois ans.\n\nLeur mandat est renouvelable.",
+      "text_sha256": "3717e52972319a12fd2af77ebcbc558738cc73172e7f7b86aafcf44b99c6fee6",
+      "md_span": {
+        "start": 24146,
+        "end": 24831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_34",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_34/20100103",
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des placés judiciaires"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Dans un délai de deux mois à partir de l’admission du placé judiciaire, le médecin traitant établit un rapport sur l’état mental du placé judiciaire ainsi que sur l’opportunité de maintenir le placement et transmet ce rapport à la commission spéciale prévue à l’article qui précède. La commission spéciale est tenue de statuer sur le maintien du placé judiciaire dans l’établissement dans un délai d’un mois à partir de la réception du rapport du médecin traitant prévu ci-avant.\n\nSi le placement judiciaire est maintenu, la commission spéciale procède tous les ans à un réexamen de l’état du placé judiciaire sur avis du médecin traitant.",
+      "text_sha256": "a1a7d86bea5904c111fc821b18c1a86b84d06e0de9e776697d216220f0f33c36",
+      "md_span": {
+        "start": 24868,
+        "end": 25507
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_35",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_35/20100103",
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des placés judiciaires"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Dans les quarante-huit heures de la décision de maintien du placé judiciaire dans l’établissement, le président de la commission spéciale en donne avis par écrit au directeur de l’établissement et au procureur d’État.",
+      "text_sha256": "06fbb239012b4ce5c32b33f9e5741cc71db077965c64f83f7af0b27ebfcbfe3b",
+      "md_span": {
+        "start": 25544,
+        "end": 25761
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_36",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_36/20100103",
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des placés judiciaires"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Si le médecin traitant est d’avis que le placé judiciaire est guéri ou que son état s’est amélioré de telle façon que le placement n’est plus nécessaire, il en informe de suite la commission spéciale qui statue dans un délai d’un mois sur la nécessité de maintenir la mesure de placement.\n\nAfin de se tenir informée de l’état du placé judiciaire, la commission spéciale peut à tout moment se rendre au lieu de son placement ou y déléguer un de ses membres. Après avoir pris l’avis du médecin traitant elle peut ordonner la sortie définitive ou à l’essai du placé judiciaire, lorsque l’état mental de celui-ci s’est suffisamment amélioré et que les conditions de sa réadaptation sociale sont réunies.\n\nLa commission spéciale peut également accorder des sorties de courte durée, uniques, journalières ou hebdomadaires suivant l’état du placé judiciaire et sur avis du médecin traitant.\n\nLe président de la commission spéciale donne immédiatement avis écrit au directeur de l’établissement et aux procureurs d’État de toute autorisation de sortie.",
+      "text_sha256": "866d7d4678494bd8f636cae5ba9dcfa77b17aa03175f6b014e056f39fa7b54ed",
+      "md_span": {
+        "start": 25798,
+        "end": 26842
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_37",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_37/20100103",
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des placés judiciaires"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Le placé judiciaire peut à tout moment se pourvoir devant le tribunal d’arrondissement du lieu de la situation de l’établissement en sollicitant son élargissement. Le tribunal peut également être saisi par toute personne intéressée, qui indique dans sa demande son degré de parenté avec le placé judiciaire ou la nature de ses relations avec lui. Une demande nouvelle n’est pas recevable tant qu’il n’est pas statué sur une demande antérieure.\n\nLa demande signée par la partie sera communiquée par le président du tribunal au ministère public qui prend l’avis du directeur de l’établissement et ordonne toute autre vérification utile. Le placé judiciaire est entendu par le tribunal en chambre du conseil ou par un juge commis à cet effet.\n\nLa décision est rendue en audience publique, sur les conclusions du ministère public et sur le rapport, le cas échéant, du juge commis.\n\nL’élargissement ne peut être accordé que si le tribunal a de sérieuses raisons de conclure que le placé judiciaire ne constitue plus un danger pour lui-même ou pour autrui.\n\nAppel pourra être interjeté par les personnes mentionnées à l’alinéa 1er ci-dessus dans le délai de 5 jours à partir de la notification par le greffe de la décision. La faculté d’appeler, dans les 5 jours à partir du prononcé de la décision, appartient également au procureur d’État. En cas de décision d’élargissement, le placement judiciaire est maintenu pendant ce délai. En cas d’appel du procureur d’État contre la décision d’élargissement, le maintien se poursuit jusqu’à la décision sur l’appel. L’article 1089 du nouveau code de procédure civile est applicable pour ce qui est de la forme dans laquelle appel est à interjeter. L’appel est porté devant la Cour d’appel siégeant en chambre du conseil et est jugé dans les mêmes formes que la décision attaquée.\n\nLe placé judiciaire est informé des droits dont il jouit en vertu du présent article au plus tard dans les douze heures qui suivent son admission. Si pendant toute cette période l’état du placé judiciaire est tel qu’il n’est pas en mesure de saisir la portée de cette information, le délai de douze heures ne commence à courir qu’à partir du moment où l’état du placé judiciaire s’est amélioré au point où il comprend le sens de l’information lui transmise.",
+      "text_sha256": "56509cc027273571e60c780fcbb68615b90f97e84bb7bf2c32da60f849cf15bb",
+      "md_span": {
+        "start": 26879,
+        "end": 29156
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_civile",
+          "text": "nouveau code de procédure civile"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_38",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_38/20100103",
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": null,
+      "path": [
+        "Chapitre 6. — Des placés judiciaires"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Si la sortie est ordonnée à titre d’essai par la commission spéciale, le placé judiciaire est soumis à une tutelle médicopsychosociale dont la durée et les modalités sont fixées par la décision de sortie.\n\nSi son comportement ou son état mental révèle un danger pour sa personne ou pour autrui, ou s’il ne respecte pas les conditions qui lui ont été imposées, la commission spéciale peut décider de mettre fin à la décision de sortie.",
+      "text_sha256": "b46be891d5f063a513b640d6d495c292047afef139d460ed61a58fc1d97f6e00",
+      "md_span": {
+        "start": 29193,
+        "end": 29627
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_39",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_39/20100103",
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — Surveillance des établissements"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Les établissements sont placés sous la surveillance du ministre de la Santé qui les fait visiter par un fonctionnaire spécialement délégué à cet effet.\n\nIl est institué dans chaque arrondissement judiciaire une commission de surveillance chargée de veiller, dans les établissements relevant de sa compétence territoriale, à l’exécution de toutes les mesures prescrites par la présente loi ainsi que de recevoir et de traiter les doléances que des patients peuvent lui adresser. La commission, composée de cinq membres, est nommée pour une période de trois ans par le ministre de la Santé.\n\nLes établissements sont visités à des jours indéterminés, et cela une fois par an au moins, par la commission de surveillance et par le ministre ou son délégué.\n\nLe droit de visite de ces autorités, ainsi que celui du juge, est illimité.",
+      "text_sha256": "d76b05b0774c013c5888f1133c1120d5e2a3cbc4ef927b3cd9054fb3db7135ce",
+      "md_span": {
+        "start": 29714,
+        "end": 30541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_40",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_40/20100103",
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — Surveillance des établissements"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Dans chaque établissement il est tenu un registre coté et paraphé à chaque feuillet par le juge.\n\nLe registre indique les nom, prénoms, âge, lieu de naissance, domicile et profession de chaque patient, ainsi que la date du placement ou du transfert, les nom, profession et demeure de la personne qui l’a demandé ou la mention de l’ordre ou du jugement en vertu duquel il a eu lieu.\n\nLe certificat médical dont question à l’article 9 est transcrit sur ce registre, qui mentionne également la date et la cause de sortie du patient.\n\nCe registre est présenté, à leur demande, aux personnes chargées de la surveillance de l’établissement.",
+      "text_sha256": "59ae33a2214768c600671eab2ea21277d1e2536177d4546504ea95d4d1c24c3c",
+      "md_span": {
+        "start": 30578,
+        "end": 31212
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_41",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_41/20100103",
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — Surveillance des établissements"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Le directeur de l’établissement et la commission de surveillance transmettent annuellement un rapport au ministre de la Santé.",
+      "text_sha256": "8d65ad4769a10f21fa92cda9314a7f173d4e533f08c65cdc93e5df5dda495402",
+      "md_span": {
+        "start": 31249,
+        "end": 31375
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_42",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_42/20100103",
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. — Surveillance des établissements"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Le ministre de la Santé présente tous les trois ans à la Chambre des Députés un rapport sur la situation des établissements et services visés par la présente loi.",
+      "text_sha256": "5ac087a5e045b635b4870660e7302ca2e189e1cf68dd5a78a69f0aa2a44ebe93",
+      "md_span": {
+        "start": 31412,
+        "end": 31574
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_43",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_43/20100103",
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": null,
+      "path": [
+        "Chapitre 8. — De quelques modalités particulières du traitement de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** Un patient ne peut faire l’objet d’un traitement involontaire en rapport avec son trouble mental que si son état présente un risque de dommage grave pour sa santé ou pour autrui.\n\n**(2)** Le traitement involontaire, qui doit répondre à des signes et à des symptômes cliniques spécifiques, doit être proportionné à l’état de santé du patient. A efficacité égale, la préférence doit être donnée au traitement le moins invasif.\n\nAu cours du traitement l’adhésion du patient au traitement appliqué ou à un traitement alternatif doit être recherchée.\n\n**(3)** Le patient ainsi que, le cas échéant, son représentant légal ou, à défaut, une personne de confiance doit être consulté avant l’application du traitement involontaire. L’avis du patient doit être pris en considération.\n\n**(4)** Le traitement involontaire ne peut être appliqué que sous la responsabilité d’un médecin spécialiste en psychiatrie ou en psychiatrie infantile pouvant se prévaloir d’une pratique de deux ans au moins en milieu psychiatrique hospitalier.\n\n**(5)** Le fait de pratiquer un traitement involontaire, les modalités du traitement ainsi que sa durée doivent être consignés au dossier médical du patient.",
+      "text_sha256": "719cdf1b61ce5ba64dec586621667ab87d11d22e530f526475357dcc7487ff22",
+      "md_span": {
+        "start": 31701,
+        "end": 32888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_44",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_44/20100103",
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": null,
+      "path": [
+        "Chapitre 8. — De quelques modalités particulières du traitement de la personne placée"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** Un patient ne peut faire l’objet d’une mesure d’isolement ou de contention que dans le but de prévenir tout dommage imminent pour lui-même ou pour autrui. La mesure doit être appliquée suivant le principe de restriction minimale, de façon à rester proportionnée aux risques courus par le patient ou son entourage.\n\n**(2)** Il ne peut être recouru à des mesures d’isolement ou de contention que sous contrôle médical.\n\n**(3)** Pendant qu’il fait l’objet d’une mesure d’isolement ou de contention le patient doit bénéficier d’un suivi régulier.\n\n**(4)** Les raisons du recours à une mesure d’isolement et de contention ainsi que la durée de leur application doivent être consignées au dossier médical du patient.\n\n**(5)** Le paragraphe (2) ci-dessus ne s’applique pas à la contention momentanée, nécessaire pour faire face à une situation d’urgence.\n\nLe personnel procédant à la contention momentanée en l’absence d’un médecin est tenu d’informer de suite un médecin du service de la contention intervenue.",
+      "text_sha256": "abdab9aa8ab6ff80c45d9918d1dde731dd30ff38c7dd8b1b766251fe804f048f",
+      "md_span": {
+        "start": 32925,
+        "end": 33937
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_45",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_45/20100103",
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** Aucune requête ou réclamation adressée par un patient à une autorité judiciaire ou administrative, aucune lettre adressée par lui à son conseil juridique ou à son représentant légal ni aucune lettre adressée à un particulier ne peut être supprimée ni retenue.\n\n**(2)** Aucune communication faite à un patient par une autorité judiciaire ou administrative, son conseil juridique ou son représentant légal ne peut être supprimée ni retenue.",
+      "text_sha256": "a7a63ee83f2130e21d6a38240a1f29820b601225c8e68f6e7b27e62db5e92788",
+      "md_span": {
+        "start": 34026,
+        "end": 34472
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_46",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_46/20100103",
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "**(1)** Le règlement d’ordre intérieur de l’établissement détermine les modalités des visites que peut recevoir le patient.\n\nCe règlement tiendra compte d’une part de l’intérêt que les visites peuvent présenter pour le patient et d’autre part de la nécessité de protéger les personnes vulnérables et des exigences du service.\n\n**(2)** Si le patient ou la personne qui entend lui rendre visite estime que le droit de visite est indûment limité, il peut en saisir la commission de surveillance et, dans le cas d’un placé judiciaire, la commission spéciale, qui statuent à cet égard.\n\nLa commission de surveillance ou, le cas échéant la commission spéciale, peut étendre le droit de visite d’un patient sur réclamation au-delà des limites tracées par la direction, même nonobstant des dispositions contraires du règlement d’ordre intérieur, si elle estime ces limites disproportionnées.\n\n**(3)** Si la commission de surveillance ou la commission spéciale est d’avis que l’une ou l’autre disposition du règlement d’ordre intérieur limite le droit de visite d’une façon disproportionnée, elle peut formuler des recommandations d’amendement à l’intention de l’organisme gestionnaire de l’hôpital. Si ce dernier ne tient pas compte des recommandations de la commission, celle-ci peut saisir le ministre de la Santé, dont la décision s’impose à l’organisme gestionnaire.",
+      "text_sha256": "84b9a3ca44dc8ce27e1d6f1f793757a4c900e427bde49fa107bd424fbef2f0b7",
+      "md_span": {
+        "start": 34509,
+        "end": 35871
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_47",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_47/20100103",
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Le ministre de la Santé désigne une personne de contact à laquelle les patients peuvent s’adresser s’ils veulent s’informer sur leurs droits, notamment ceux auxquels ils peuvent prétendre en vertu de la présente loi, ou s’ils veulent être conseillés dans des affaires juridiques ou autres qui les concernent.",
+      "text_sha256": "5c27f1ffd7b74f749613a00c8fe91087547994647c8f74e5a885eccd4f43128e",
+      "md_span": {
+        "start": 35908,
+        "end": 36216
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_48",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_48/20100103",
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Un traitement qui n’est pas encore généralement reconnu par la science médicale ou qui présente un risque sérieux d’entraîner des dommages irréversibles au cerveau ou de détériorer la personnalité du patient ne pourra être administré que si le médecin l’estime indispensable et si le patient, dûment informé, y consent expressément.\n\nLorsque le patient n’est pas capable de comprendre la portée du traitement, le médecin doit soumettre la question à un comité de trois experts, dont deux médecins, nommé par le ministre de la Santé. Le traitement ne peut être administré que si le comité, qui prend l’avis du représentant légal du patient, s’il y en a, émet un avis favorable.\n\nIl est interdit de pratiquer sur des patients des essais cliniques de produits ou des essais de techniques médicales qui n’ont pas un but thérapeutique psychiatrique. S’ils ont un but thérapeutique psychiatrique ils sont soumis à une autorisation préalable du ministre de la Santé, qui prend l’avis du comité d’éthique de recherche.",
+      "text_sha256": "c80a5575c3fa30e9c43d1e91a1fb78c8a7a7ffbc7b30f05485fd3cc1670ae599",
+      "md_span": {
+        "start": 36253,
+        "end": 37263
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_49",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_49/20100103",
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "Les infractions aux dispositions des articles 7, 8, 43, 44 et 48 de la présente loi, qui sont commises par le directeur d’un établissement ainsi que par les médecins y occupés, sont punies d’une amende de 251 à 20.000 euros, sans préjudice des dispositions des articles 434 et suivants du code pénal. En cas de récidive dans un délai de cinq années il pourra être prononcé une peine d’emprisonnement de 8 jours à 1 an.\n\nLe médecin qui, dans le cas de l’article 9, a délivré un faux certificat, ainsi que toutes les personnes qui ont fabriqué ou falsifié un certificat de l’espèce prévue audit article, ou qui ont fait usage d’un pareil certificat faux, fabriqué ou falsifié, sont punis d’un emprisonnement de six mois à cinq ans et d’une amende de 251 à 20.000 euros.",
+      "text_sha256": "27b9dc0b469cc8e9da46f81a5e2a5329a2114622be3bd6f34667ed384e24c35c",
+      "md_span": {
+        "start": 37300,
+        "end": 38067
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_50",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_50/20100103",
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "La loi du 26 mai 1988 relative au placement des personnes atteintes de troubles mentaux, telle qu'elle a été modifiée dans la suite, est abrogée.",
+      "text_sha256": "d301a88608bffbb7da9f6cea28b401a6762ab5b54326def4acee513a39ad1ceb",
+      "md_span": {
+        "start": 38104,
+        "end": 38249
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/05/26/n1",
+          "text": "loi du 26 mai 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_51",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_51/20100103",
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "L'article 37 de la loi modifiée du 31 mai 1999 sur la Police et l'Inspection générale de la Police est remplacé par le texte suivant:",
+      "text_sha256": "8c2a7f39452e1c399f9f4fecabc6bd56cabc1e607d61d9f5404f6a6b00bfa469",
+      "md_span": {
+        "start": 38286,
+        "end": 38419
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1999/05/31/n7/jo",
+          "text": "loi modifiée du 31 mai 1999"
+        }
+      ]
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_52",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_52/20100103",
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "L'article 73 de la loi communale modifiée du 13 décembre 1988 est remplacé par le texte suivant:",
+      "text_sha256": "e0a5a7a1d982dc226bd3874b71f5ab59ae21f1f84642b95845db2948db500380",
+      "md_span": {
+        "start": 38456,
+        "end": 38552
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1988/12/13/n1/jo",
+          "text": "loi communale modifiée du 13 décembre 1988"
+        }
+      ]
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26#art_53",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/art_53/20100103",
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": null,
+      "path": [
+        "Chapitre 9. — Dispositions générales et pénales"
+      ],
+      "article_valid_from": "2010-01-03",
+      "text_md": "La référence à la présente loi pourra se faire sous une forme abrégée en utilisant les termes de «loi du 10 décembre 2009 relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux».",
+      "text_sha256": "fd05d2061c1536198ddc33570adf37597ba55c5851ade75beaf866b79371bbcb",
+      "md_span": {
+        "start": 38589,
+        "end": 38807
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/12/10/n1/jo",
+          "text": "loi du 10 décembre 2009"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

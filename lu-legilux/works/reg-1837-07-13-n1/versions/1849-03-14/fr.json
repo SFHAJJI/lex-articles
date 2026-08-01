@@ -1,0 +1,76 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:reg-1837-07-13-n1:1849-03-14",
+  "language": "fr",
+  "title": "Version consolidée applicable au 14/03/1849 : Règlement de la députation permanente du 13 juillet 1837 sur l'exercice du droit d'affouage et autres émoluments communaux.",
+  "valid_from": "1849-03-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/reg-1837-07-13-n1/versions/1849-03-14/fr.xml",
+    "sha256": "7f119cfbd06ce721fc8be66860067d9a1e09a93fd95764fbc96b406517fe4b42",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/reg/1837/07/13/n1/consolide/18490314/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:reg-1837-07-13-n1:1849-03-14#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/reg/1837/07/13/n1/art_1er/18370717",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1837-07-17",
+      "text_md": "Le réglement susmentionné est approuvé tel qu'il se trouve ci-annexé.",
+      "text_sha256": "7bb8562188b072a81555921adc8e481f9f1618646924ac6018cddfc582aa3510",
+      "md_span": {
+        "start": 645,
+        "end": 714
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:reg-1837-07-13-n1:1849-03-14#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/reg/1837/07/13/n1/art_2/18370717",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1849-03-14",
+      "text_md": "Notre Ministre de l'intérieur et des affaires étrangères est chargé de l'exécution du présent arrêté.",
+      "text_sha256": "7b24fdd2f8009424125ab23b3d944338763dd1e7b1e746c4c7f99401dc9a4496",
+      "md_span": {
+        "start": 749,
+        "end": 850
+      },
+      "citations": []
+    },
+    {
+      "anchor": "attachment_1",
+      "provision_id": "lu-legilux:reg-1837-07-13-n1:1849-03-14#attachment_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "RÉGLEMENTsur l'exercice du droit à l'affouage et autres émoluments communaux.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Dans les quinze premiers jours de chaque année, les conseils communaux arrêteront la liste des habitants de la commune ayant droit à l'affouage.\n\nPour être porté sur cette liste, il faut habiter la commune et avoir feu et ménage séparés depuis le 1er janvier de l'année précédente.\n\nToutefois ceux qui quittent une commune pour se fixer dans une autre, et ceux qui, habitant déjà la commune, n'y ont pas encore joui de l'affouage, seront tenus de se faire inscrire sur un registre qui sera ouvert à cet effet au secrétariat communal et de déclarer qu'ils ont l'intention de jouir de l'affouage. Ils n'y participeront qu'après le délai d'un an, à partir du jour de leur déclaration, dont la preuve pourra être reçue par toutes autres voies de droit.\n\nNéanmoins seront également portés sur la liste:\n\n1. er\n2. L'étranger à la commune qui sera venu s'y établir par mariage, si, au premier janvier de l'année de la formation de la liste, sa femme avait dans la commune une année de résidence; à charge néanmoins de justifier par un certificat du conseil échevinal de la commune qu'il a quittée, qu'il n'y jouit pas, pour la même année, de cet émolument;\n3. Celui qui, réunissant les conditions déterminées à l'art. 2, aura quitté la commune depuis moins d'un an.\n\nSera réputé habitant de la commune, tout individu, même mineur, homme ou femme, étranger ou régnicole, fonctionnaire, employé ou particulier, y ayant sa résidence habituelle.\n\nSera considéré comme faisant feu et ménage séparés, celui qui, habitant tout ou partie d'une maison, y aura l'usage exclusif d'un foyer et des ustensils nécessaires à un ménage.\n\nLes femmes non légalement séparées de leurs maris ne pourront prétendre à l'affouage, quand même elles vivraient en ménage à part de celui de leurs époux, si ceux-ci habitent la même commune ou jouissent de l'affouage dans une commune étrangère.\n\nLes enfants non-mariés vivant sous le même toit que leurs parents ou tuteurs, ne pourront non plus réclamer la jouissance de parts distinctes de celles de ces derniers.\n\nAussitôt qu'elle aura été arrêtée, la liste des affouagers sera publiée aux chefs-lieux et dans toutes les sections de communes, un dimanche et dans la forme ordinaire; elle y sera en outre affichée pendant dix jours consécutifs.\n\nLe collège échevinal constatera au pied de la liste ces publications et affiches, et en transmettra un certificat au Gouverneur de la province.\n\nLes réclamations contre la formation de la liste seront présentées au conseil communal, dans les quinze jours à partir du dernier de l'affiche, à peine de déchéance.\n\nToute réclamation sera faite par écrit. Il en sera donné récépissé par le Bourgmestre, qui la soumettra dans les huit jours au plus tard, au conseil, à l'effet d'y statuer.\n\nL'appel contre la décision du conseil ne sera recevable, que lorsqu'il aura été interjeté dans les dix jours à partir de la notification que le réclamant aura reçue de cette décision, et qui devra être attestée par un garde champêtre ou autre agent communal.\n\nL'appel sera porté devant la Députation permanente du Conseil provincial qui statuera sauf recours au Roi.\n\nSi pour l'instruction de cet appel, une enquête était nécessaire, il y sera procédé par un commissaire spécial, à la nomination de la Députation et après seulement que le réclamant aura consigné, entre les mains du receveur communal, les frais éventuels de cette enquête.\n\nL'enquête sera faite contradictoirement entre le collège échevinal et le réclamant.\n\nLa somme consignée sera restituée, si le réclamant est jugé fondé dans sa demande, et les frais de l'enquête seront supportés par la caisse communale.\n\nSi pendant l'instruction des réclamations, il avait dû être procédé au partage de l'affouage, l'affouager reconnu postérieurement par la Députation, recevra immédiatement, en argent, l'équivalant de sa portion. Cette indemnité, fixée par la Députation, sera avancée par la caisse communale et y sera réintégrée au moyen de la vente, jusqu'à due concurrence, de l'affouage de l'année suivante.\n\nIl sera annuellement prélevé sur l'affouage à distribuer et vendu une portion suffisante pour acquitter les frais inhérents aux bois et ceux d'exploitation. Le rachat volontaire ne sera plus admis.\n\nLe droit à la portion d'affouage ne peut se transmettre à titre successif qu'aux héritiers qui continuent dans la commune même, le feu et le ménage établis par l'habitant décédé.\n\nLa remise des portions d'affouage sera faite à l'affouager qui le demandera, sans égard à la vente préalable qu'il pourra en avoir faite.\n\nLes droits reconnus par la liste des affouagers se perdent, si, au moment de la distribution, l'affouager a cessé de faire feu et ménage séparés.\n\nAprès la distribution, tout ce qui ne sera pas commodément partageable, pourra être vendu au profit de la caisse communale.\n\nToutes les dispositions réglementaires ou usages contraires aux présentes sont rapportés.\n\nLe présent réglement, qui est applicable à la jouissance des terres et fruits communaux dont la répartition se fait entre les habitants, sera inséré au Mémorial administratif, publié et affiché dans toutes les communes et sections de communes de la province.",
+      "text_sha256": "49aa700048aebfaad545459ef29eae320850d3f3635533163f2db9312aca7dfa",
+      "md_span": {
+        "start": 962,
+        "end": 6122
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

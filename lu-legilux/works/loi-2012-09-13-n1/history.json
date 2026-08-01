@@ -1,0 +1,69 @@
+{
+  "lex_work_id": "lu-legilux:loi-2012-09-13-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2016-04-24",
+        "valid_to": null,
+        "text_sha256": "a425310b7646814b22ed5440b3a17d891f790ac35c6f8092bc0df50b6fadf1ea",
+        "in_version": "lu-legilux:loi-2012-09-13-n1:2016-04-24",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2016-04-24",
+        "valid_to": null,
+        "text_sha256": "4057532a91126a40c5b791c35e5685a403723fb15435858570914f14a814b427",
+        "in_version": "lu-legilux:loi-2012-09-13-n1:2016-04-24",
+        "article_valid_from": "2016-04-24"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2016-04-24",
+        "valid_to": null,
+        "text_sha256": "17eaf5893bdc5dbf3ad4a1424a3736dc69aa03d0b35ac1a2e6dd4d01a8d01ab0",
+        "in_version": "lu-legilux:loi-2012-09-13-n1:2016-04-24",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2016-04-24",
+        "valid_to": null,
+        "text_sha256": "5efd7ec13de486ff87d131d4a2e1d283360a612f7fab6e199c6b08c0c6d72c1a",
+        "in_version": "lu-legilux:loi-2012-09-13-n1:2016-04-24",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2016-04-24",
+        "valid_to": null,
+        "text_sha256": "d724ff5a8783203a95caf7d72ed7f0c80eb77ae000c1b30a97d6d4bd4b64fb5d",
+        "in_version": "lu-legilux:loi-2012-09-13-n1:2016-04-24",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2016-04-24",
+        "valid_to": null,
+        "text_sha256": "5da1f04d193035fea00c9546da568ce46dd55e9461b397437f59e81690563139",
+        "in_version": "lu-legilux:loi-2012-09-13-n1:2016-04-24",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

@@ -1,0 +1,446 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/02/2020 : Règlement grand-ducal du 30 avril 1991 concernant l'octroi d'un congé sportif.",
+  "valid_from": "2020-02-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1991-04-30-n1/versions/2020-02-11/fr.xml",
+    "sha256": "0832cf5ff295753a91d0e77a110fecbe6491eb6581ef7fd1f81db9ea1500a344",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/consolide/20200211/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_1er/20200211",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Le congé sportif institué par l’article 15 de la loi du 3 août 2005 concernant le sport est octroyé conformément aux conditions et modalités du présent règlement par le ministre ayant dans ses attributions le sport, appelé ci-après le ministre compétent.",
+      "text_sha256": "31c812e5efe5da88c5523016037b13549dfdf80d216d90e2fdc8e6b0e6537dfa",
+      "md_span": {
+        "start": 600,
+        "end": 854
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2005/08/03/n2/jo",
+          "text": "loi du 3 août 2005"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_2/20200211",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "**Chapitre A.** — **Champ d’application**"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Sont pris en considération pour l’octroi du congé sportif\n\n1. - les compétitions figurant au programme officiel des Jeux Olympiques et Jeux Paralympiques d’été et d’hiver ainsi que celles des programmes de démonstration autorisés par le Comité International Olympique;\n- les compétitions mondiales et européennes organisées par les fédérations internationales compétentes ou avec leur coopération et réservées, sur le plan individuel ou collectif, aux sélections ou équipes nationales des catégories d’âge auxquelles elles s’adressent;\n- les compétitions internationales comprenant tant les phases finales que qualificatives et les stages auxquels les sportifs d’élite sont inscrits par le comité olympique et sportif luxembourgeois ou leur fédération et qui ont pour but d’améliorer leurs performances et de parfaire leur préparation;\n2. - les compétitions et stages définis sous A),\n- les formations internationales aux diplômes des degrés supérieurs.\n3. - la participation aux réunions, au plan mondial ou européen, des organes, commissions ou groupes de travail statutaires des fédérations sportives internationales, du mouvement olympique, des instances sportives intergouvernementales et des organisations sportives non gouvernementales;\n- l’organisation au Grand-Duché de Luxembourg des manifestations sportives officielles au plan mondial ou européen et de réunions prévues à l’alinéa précédent;\n- la participation à des cours de perfectionnement pour dirigeants techniques et administratifs organisés au plan mondial ou européen.",
+      "text_sha256": "924137685a6f20a1856a65c5f0a0b1dabf39b3426e3b49f6392a5218c209d567",
+      "md_span": {
+        "start": 935,
+        "end": 2473
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_3/20200211",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "**Chapitre A.** — **Champ d’application**"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Le congé sportif est limité à douze jours par an et par bénéficiaire.\n\nLe Gouvernement peut déroger à la limitation de douze jours sur proposition motivée du ministre compétent pour les membres d’un modèle spécial de préparation des cadres nationaux appuyé par l’État et le C.O.S.L., pour les membres du cadre de sportifs d’élite et pour les sportifs d’élite qui préparent une participation olympique ou paralympique.\n\nLe même principe est applicable aux dirigeants techniques et au personnel d’encadrement des sportifs en question.\n\nIl peut être dérogé à la limitation de 12 jours pour les arbitres appelés par les instances sportives internationales à officier à l’occasion de compétitions internationales officielles ainsi que pour le perfectionnement de leur degré de formation.\n\nLe congé pour dirigeants est par ailleurs limité à cinquante jours ouvrables par an et par organisme auquel les bénéficiaires sont affiliés.",
+      "text_sha256": "c90461a3faf37a733f1e2c0bc87c2cc33eba2411d7c63569889310b294d54a5c",
+      "md_span": {
+        "start": 2508,
+        "end": 3432
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_4/20200211",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "**Chapitre B.** — Détermination des bénéficiaires"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Pour pouvoir bénéficier du congé sportif:\n\n- les sportifs d’élite et les juges ou arbitres doivent être titulaires, en qualité non-professionnelle, d’une licence d’affiliation à une fédération nationale agréée, et être qualifiés, en application des règlements du Comité International Olympique ou de la fédération internationale compétente, pour représenter le Grand-Duché de Luxembourg aux compétitions désignées à l’article 2 ci-avant.\n- les dirigeants doivent exercer au sein du Comité Olympique et Sportif Luxembourgeois ou d’une fédération agréée une fonction bénévole soit en vertu des statuts de l’organisme auquel ils sont affiliés, soit en exécution d’une délégation spéciale donnée à cet effet.",
+      "text_sha256": "0d82da304b43e5b12e36275338bfe725320ef3ea21bb302c71b52999b0d6e43c",
+      "md_span": {
+        "start": 3521,
+        "end": 4225
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_5/20200211",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "**Chapitre B.** — Détermination des bénéficiaires"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Le nombre des sportifs pouvant bénéficier du congé sportif pour la participation aux compétitions et aux stages désignés à l’article 2 ci-avant, est limité au nombre maximum d’engagements, les remplaçants compris, auquel le Comité Olympique et Sportif Luxembourgeois ou la fédération nationale intéressée ont droit d’après les règlements du Comité International Olympique ou de la fédération internationale compétente.",
+      "text_sha256": "ebb06733307a6c698511d228978a86e8b1d2226aaac66ee571faa30d31b1c5eb",
+      "md_span": {
+        "start": 4260,
+        "end": 4678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_6/20200211",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "**Chapitre B.** — Détermination des bénéficiaires"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "A l’occasion de la participation aux compétitions, le personnel d’encadrement pouvant bénéficier du congé sportif ne peut pas dépasser\n\n- quatre personnes pour un groupe de dix sportifs ou moins;\n- cinq personnes pour un groupe de onze sportifs ou plus.\n\nPour autant que des sportifs de sports différents participent aux Jeux Olympiques et aux Jeux Paralympiques, il peut être dérogé à ces limitations.",
+      "text_sha256": "fa11a155c1d53973bf30eb1b4d0fa938c48303081649fb92bdb9262a83ba1133",
+      "md_span": {
+        "start": 4713,
+        "end": 5115
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7-1",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_7-1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_7/20200211",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "**Chapitre C.** — Procédure administrative à suivre en vue de l’octroi du congé sportif"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Les demandes en vue de l’octroi sportif sont introduites auprès du ministère compétent par le Comité Olympique et Sportif Luxembourgeois ou par la fédération nationale compétente.\n\nLorsque la demande émane de la fédération nationale compétente, le Comité Olympique et Sportif Luxembourgeois est appelé à émettre son avis.",
+      "text_sha256": "da09b199cc03c16b83bb8bfb2d455f5b94e3f6a7f16db760a9917edbd9fc3762",
+      "md_span": {
+        "start": 5244,
+        "end": 5565
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_8/20200211",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "**Chapitre C.** — Procédure administrative à suivre en vue de l’octroi du congé sportif"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Les demandes sont à présenter sur une formule mise à la disposition du Comité Olympique et Sportif Luxembourgeois et des fédérations sportives.\n\nCette demande doit contenir\n\n- des données quant à l’état civil et professionnel de l’intéressé;\n- des données concernant l’objet pour lequel le congé est sollicité.\n\nEn outre cette demande doit indiquer\n\n1. - une spécification de ses fonctions techniques ou administratives;\n- une justification de la nécessité de ses services dans l’intérêt d’un ou plusieurs sportifs d’élite;\n2. pour le dirigeant une spécification de ses fonctions administratives ou techniques au sein de l’organisme demandeur.",
+      "text_sha256": "3ca70823bc0223e18617ad94c73d557eae40e59f0a195de836626dfae511b7df",
+      "md_span": {
+        "start": 5600,
+        "end": 6243
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_9/20200211",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "**Chapitre C.** — Procédure administrative à suivre en vue de l’octroi du congé sportif"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Les demandes sont introduites au moins un mois avant la date de l’événement pour lequel le congé est sollicité. Dans le même délai et par les soins de l’organisme demandeur, copie de chaque demande concernant un membre de son personnel est adressée à l’employeur de l’intéressé pour lui permettre de présenter ses observations au ministre compétent.",
+      "text_sha256": "bfe1fa6c6fb31ed97bd6a598699b579de8052d3ad08c203efa228918387511e8",
+      "md_span": {
+        "start": 6278,
+        "end": 6627
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_10/20200211",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "**Chapitre C.** — Procédure administrative à suivre en vue de l’octroi du congé sportif"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Le ministre accepte ou rejette la demande, et fixe, le cas échéant, la durée du congé sportif.",
+      "text_sha256": "d4df77ad2f90ecbcb6abbd3bd378b24ccf5b6fb81117d7dcddeba62603fbb594",
+      "md_span": {
+        "start": 6664,
+        "end": 6758
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_11/20200211",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "**Chapitre C.** — Procédure administrative à suivre en vue de l’octroi du congé sportif"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Le congé sportif accordé en vue de la participation à un stage de préparation peut faire l’objet d’une objection de la part de l’employeur si l’absence de l’intéressé risque d’avoir une répercussion préjudiciable sur l’entreprise ou le service. L’objection motivée doit être notifiée par écrit à l’intéressé, à l’organisme demandeur et au ministre compétent. Celui-ci statue à bref délai.\n\nSi dans les huit jours de la notification prévue par l’article 9 l’employeur n’a pas fait d’objection motivée, la décision ministérielle acceptant la demande est définitive.",
+      "text_sha256": "f56efd88c628455f6aeaad275437aa0a616872c0701011f0dc3093bf536df3cf",
+      "md_span": {
+        "start": 6795,
+        "end": 7358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_12/20200211",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "**Chapitre D.** — Dispositions spéciales"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Le congé sportif est considéré comme temps de travail effectif. Pendant la durée du congé sportif, les dispositions légales en matière de sécurité sociale et de protection du travail restent applicables.",
+      "text_sha256": "efd542150e9c831f2711c8a5b2d9f23754fbcde45db94b95e4e1791a012235ce",
+      "md_span": {
+        "start": 7440,
+        "end": 7643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_13/20200211",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "**Chapitre D.** — Dispositions spéciales"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "La durée du congé sportif ne peut être imputée sur le congé annuel tel qu’il est fixé par la loi ou par une convention spéciale.",
+      "text_sha256": "053d7e347fcd0c357e5c4c40f107acacc72690be65f8f543dc6b50607049e5de",
+      "md_span": {
+        "start": 7680,
+        "end": 7808
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_14/20200211",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "**Chapitre D.** — Dispositions spéciales"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Sauf accord de l’employeur, le congé sportif ne peut pas être cumulé avec une période de congé annuel pour le cas où il en résulterait une absence continue dépassant la durée totale du congé annuel dû.",
+      "text_sha256": "8c700e340bb7be9a125b4b517bbd47f953a70ee5ae9758ea6d8a808e92508ee0",
+      "md_span": {
+        "start": 7845,
+        "end": 8046
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_15/20200211",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "**Chapitre D.** — Dispositions spéciales"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Le congé sportif peut être fractionné.",
+      "text_sha256": "11b031be2f113b32b1f350825aa8507cb951c647ff481cabe21634f63579bc01",
+      "md_span": {
+        "start": 8083,
+        "end": 8121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_16/20200211",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "**Chapitre E.** — Détermination des indemnités et des modalités de paiement"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Dans le secteur public, les bénéficiaires du congé sportif continuent, pendant la durée du congé, à toucher leur rémunération et à jouir des avantages attachés à leur fonction.\n\nSont considérées comme relevant du secteur public au titre du présent règlement les personnes dont la rémunération est à charge du budget de l’État.",
+      "text_sha256": "02c23e86ff4b505f30fe1f41c04331f375596b1653b9b0f718a5a25da8c91f96",
+      "md_span": {
+        "start": 8238,
+        "end": 8564
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_17/20200211",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "**Chapitre E.** — Détermination des indemnités et des modalités de paiement"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Dans les autres secteurs, hormis le secteur public tel que défini à l’article 16, les bénéficiaires du congé sportif ont droit, pour chaque journée de congé, à une indemnisation compensatoire égale au salaire journalier moyen tel qu’il est défini par la législation en vigueur portant réglementation uniforme du congé annuel payé des salariés du secteur privé, sans que le montant puisse dépasser quatre cents pourcent (400%) du salaire social minimum pour travailleurs non-qualifiés.",
+      "text_sha256": "03b8f6f49165a7af698d9e58bb5027009e813a7e6b941fe01847d56713d39c25",
+      "md_span": {
+        "start": 8601,
+        "end": 9085
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_18/20200211",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "**Chapitre E.** — Détermination des indemnités et des modalités de paiement"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Les personnes exerçant une activité professionnelle indépendante bénéficient d’une indemnité compensatoire fixée par analogie avec celle de l’indemnité prévue à l’article 17.",
+      "text_sha256": "c471ef70c12e7040f0a3d21f13de167746a91de5839a0c792b48c7fd9a03c614",
+      "md_span": {
+        "start": 9122,
+        "end": 9296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_19/20200211",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "**Chapitre E.** — Détermination des indemnités et des modalités de paiement"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Aux ayants droit salariés, l’indemnité compensatoire est payée par l’employeur. Celui-ci touche de la part de l’État le montant de l’indemnité et la part patronale des cotisations sociales au vu d’une déclaration afférente. L’indemnité compensatoire revenant aux ayants droit visés à l’article 18 est payée directement par l’État sur base d’une déclaration.",
+      "text_sha256": "6ee6e68feff61de9f8475e36bb86fa32eeb920cdaf9721a2aeabf2b9c2050c05",
+      "md_span": {
+        "start": 9333,
+        "end": 9690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_20/20200211",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "**Chapitre F.** — Dispositions finales"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Dans le mois qui suit la manifestation ou la réunion ayant donné lieu à l’octroi d’un congé sportif ou au paiement d’une indemnité compensatoire, le Comité Olympique et Sportif Luxembourgeois ou la fédération sportive concernée confirme par écrit la participation du bénéficiaire à la compétition ou le stage en question.",
+      "text_sha256": "b173f26ab31622c936fb1b3f25d53dae41da51d5a298e78273bef2ebcdad6011",
+      "md_span": {
+        "start": 9770,
+        "end": 10091
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_23/20200211",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "**Chapitre F.** — Dispositions finales"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 10128,
+        "end": 10128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1991-04-30-n1:2020-02-11#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/art_21/20200211",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "**Chapitre F.** — Dispositions finales"
+      ],
+      "article_valid_from": "2020-02-11",
+      "text_md": "Notre Ministre des Sports et Notre Ministre des Finances seront chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "b662a8beabf978ca4b133dc17305e8714dc2924f9ac1c126dfaa23260ffc8c1e",
+      "md_span": {
+        "start": 10165,
+        "end": 10332
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

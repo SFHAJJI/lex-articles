@@ -1,0 +1,68 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2022-12-23-a662",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2026-01-16",
+        "valid_to": null,
+        "text_sha256": "54c8d4bd215c0f96c6b9ead03a6f279adf835f9a28f682d95d5f44799cc7c6a0",
+        "in_version": "lu-legilux:rgd-2022-12-23-a662:2026-01-16",
+        "article_valid_from": "2026-01-16"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2026-01-16",
+        "valid_to": null,
+        "text_sha256": "9dd9b276299117e6530abe6290a97a32e2caf8e6335e08815e094b6a958b84e9",
+        "in_version": "lu-legilux:rgd-2022-12-23-a662:2026-01-16",
+        "article_valid_from": "2023-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2026-01-16",
+        "valid_to": null,
+        "text_sha256": "bb2bdc19b7d9d009b0c812271af9655abdcac4e8b3bcab06fbbbc4af82a1d157",
+        "in_version": "lu-legilux:rgd-2022-12-23-a662:2026-01-16",
+        "article_valid_from": "2026-01-16"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2026-01-16",
+        "valid_to": null,
+        "text_sha256": "13788731de730249cda84ca606a21f89d4a4a9b4ac5dd8f099a7520402a575a9",
+        "in_version": "lu-legilux:rgd-2022-12-23-a662:2026-01-16",
+        "article_valid_from": "2023-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2026-01-16",
+        "valid_to": null,
+        "text_sha256": "bacbab63347ff0774a7d8b78551da22de9e4e47ad317870ea13135ed159f1647",
+        "in_version": "lu-legilux:rgd-2022-12-23-a662:2026-01-16",
+        "article_valid_from": "2023-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2026-01-16",
+        "valid_to": null,
+        "text_sha256": "82f62435b0d24a50520fecedc186659f6cda47d236c175d767326994f5f9b81e",
+        "in_version": "lu-legilux:rgd-2022-12-23-a662:2026-01-16",
+        "article_valid_from": "2023-01-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

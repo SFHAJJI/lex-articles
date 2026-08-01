@@ -1,0 +1,251 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25",
+  "language": "fr",
+  "title": "Version consolidée applicable au 25/12/2021 : Règlement grand-ducal du 6 novembre 2009 fixant l'organisation de l'administration des contributions directes.",
+  "valid_from": "2021-12-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2009-11-06-n4/versions/2021-12-25/fr.xml",
+    "sha256": "8ef9c5c110a38b11f1fe979e6212adf13e3ab0042e869b440e97fa51b451677b",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/consolide/20211225/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_1er/20171224",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-12-24",
+      "text_md": "L’administration des contributions directes est placée sous les ordres du directeur, assisté de quatre directeurs adjoints. Ceux-ci le remplacent en cas d’absence ou en cas de vacance de poste, d’après leur rang d’ancienneté.",
+      "text_sha256": "ab485175bfd7b459a4bf568208b57348207037970947d667586d30dc94a07269",
+      "md_span": {
+        "start": 632,
+        "end": 857
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_2/20161231",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-12-31",
+      "text_md": "La direction de l'administration des contributions directes comprend les divisions suivantes: 1. juridique, 2. économique, 3. législation, 4. contentieux, 5. gracieux, 6. relations internationales, 7. révisions, 8. retenue d'impôt sur les rémunérations, 9. évaluations immobilières, 10. inspection et organisation du service d'imposition, 11. inspection et organisation du service de recette, 12. affaires générales, 13. informatique, 14. échange de renseignements et retenue d'impôt sur les intérêts,15. secrétariat de direction.",
+      "text_sha256": "a48e76847389d20d6bd43f2fa7f05301c3aea169b7b1fcf89fbeaded161c09aa",
+      "md_span": {
+        "start": 892,
+        "end": 1422
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_3/20171224",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-12-24",
+      "text_md": "**(1)** Les divisions énumérées à l’article 2 sont gérées par des fonctionnaires ou employés de l’État qui portent le titre de chef de division.\n\nIls peuvent être assistés, suivant les besoins du service, d’un ou plusieurs fonctionnaires ou employés de l’État qui portent le titre de chef de division adjoint.\n\n**(2)** En cas de vacance d’un poste de chef de division ou de chef de division adjoint, l’accès au poste vacant se fait respectivement sur proposition ou par désignation du directeur, sur la base des connaissances spécifiques, de l’expérience professionnelle, de l’assiduité au travail et de la valeur personnelle du futur titulaire.",
+      "text_sha256": "a1f7aa1c7fa2b3530569e5a6f7630a536c64483fbabc0f920d5e05b50f95b8bf",
+      "md_span": {
+        "start": 1457,
+        "end": 2102
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_4/20171224",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2017-12-24",
+      "text_md": "Le directeur peut déléguer celles de ses attributions, pour lesquelles une délégation n’est pas prévue par une loi, aux fonctionnaires ou employés de l’État qui font partie de droit de la direction.",
+      "text_sha256": "d2f89d6c8ec18aec3b1bdd3e159f6a0212678b5d422a383ec84dfff546f91c82",
+      "md_span": {
+        "start": 2137,
+        "end": 2335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_5/20161231",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La section des personnes physiques et des sociétés comprend des bureaux d’imposition établis respectivement à Luxembourg et dans chacune des localités suivantes: Capellen, Clervaux, Diekirch, Differdange, Dudelange, Echternach, Esch/Alzette, Ettelbruck, Grevenmacher, Mersch, Pétange, Redange, Remich et Wiltz\n\n**(2)** L’imposition des contribuables exploitant des entreprises commerciales, industrielles, minières ou artisanales ou exerçant une profession libérale peut être centralisée par branches d’activités. Dans ce cas, l’imposition s’étend à l’ensemble des revenus.\n\n**(3)** La gestion des bureaux d’imposition de la section des personnes physiques et des sociétés est confiée à des fonctionnaires de la catégorie A avec les groupes de traitement A1 et A2 et de la catégorie B avec le groupe de traitement B1.\n\n**(4)** Les préposés des bureaux d’imposition de la section des personnes physiques et des sociétés peuvent être assistés pour la gestion de leur bureau d’un ou de plusieurs préposés adjoints dont les attributions sont fixées par le directeur.",
+      "text_sha256": "1d08df356cd4a77213bc6a582fd5da329dca6b394fa450a5e28e37710dc26d4b",
+      "md_span": {
+        "start": 2370,
+        "end": 3440
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6_20211225",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_6_20211225",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_6/20161231",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La section des sociétés comprend huit bureaux d’imposition, dont six sont établis à Luxembourg (Sociétés 1, Sociétés 2, Sociétés 3, Sociétés 4, Sociétés 5 et Sociétés 6) et un dans chacune des localités suivantes: Diekirch et Esch-sur-Alzette.\n\n**(2)** La gestion des bureaux d’imposition de la section des sociétés est confiée à des inspecteurs principaux premiers en rang, à des inspecteurs principaux ou à des inspecteurs.\n\n**(3)** Les préposés des bureaux d’imposition de la section des sociétés peuvent être assistés pour la gestion de leur bureau d’un ou de plusieurs préposés adjoints dont les attributions sont fixées par le directeur.",
+      "text_sha256": "ccfafdda4d3446f401bb6581214a470b2aefa0ffd030cde076ec9e6e30b1c97b",
+      "md_span": {
+        "start": 3484,
+        "end": 4135
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_7/20161231",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** La section de la retenue d’impôt sur les traitements et salaires comprend des bureaux d’imposition établis à Luxembourg et dans les localités suivantes: Esch-sur-Alzette et Ettelbruck.\n\n**(2)** La gestion des bureaux d’imposition de la section de la retenue d’impôt sur les traitements et salaires est confiée à des fonctionnaires de la catégorie A avec les groupes de traitement A1 et A2 et de la catégorie B avec le groupe de traitement B1.\n\n**(3)** Les préposés des bureaux d’imposition de la section de la retenue d’impôt sur les traitements et salaires peuvent être assistés pour la gestion de leur bureau d’un ou de plusieurs préposés adjoints dont les attributions sont fixées par le directeur.",
+      "text_sha256": "627f6b98f59424cb740f4aec8f9bec549ff08241ec4c67b85828a3e23a600140",
+      "md_span": {
+        "start": 4170,
+        "end": 4879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_8/20091120",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-11-20",
+      "text_md": "La section des évaluations immobilières est constituée par un bureau dont le siège est à Luxembourg. Ce bureau est placé sous l’autorité immédiate du chef de la division des évaluations immobilières.",
+      "text_sha256": "93ee307e15e4823acba0a7d018eddbc06b1374dd20a9268d76a47dea8c06e989",
+      "md_span": {
+        "start": 4914,
+        "end": 5113
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_9/20140404",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2014-04-04",
+      "text_md": "La section de la retenue d'impôt sur les intérêts est constituée par un bureau dont le siège est à Luxembourg. Ce bureau est placé sous l'autorité immédiate du chef de la division échange de renseignements et retenue d'impôt sur les intérêts.",
+      "text_sha256": "8007dd2dd53528247056f866ec0db263dd1ce63500d89236e4a447a6169e5191",
+      "md_span": {
+        "start": 5148,
+        "end": 5390
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_10/20211225",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2021-12-25",
+      "text_md": "Le service de révision, dont le siège est à Luxembourg, est composé de fonctionnaires de la catégorie A avec les groupes de traitement A1 et A2, de la catégorie B avec le groupe de traitement B1 et d’employés de l’État.",
+      "text_sha256": "d5bb2e9a3f973e7b0cceb7525d4573a97f00b2eca83f0e341d71238acf6de1cf",
+      "md_span": {
+        "start": 5427,
+        "end": 5646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_11/20161231",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2016-12-31",
+      "text_md": "**(1)** Des bureaux de recette sont établis dans chacune des localités suivantes: Luxembourg, Esch-sur-Alzette et Ettelbruck\n\n**(2)** La gestion des bureaux de recette est confiée à des fonctionnaires de la catégorie A avec les groupes de traitement A1 et A2 et de la catégorie B avec le groupe de traitement B1.\n\n**(3)** La gestion des bureaux de recette est confiée à des inspecteurs principaux premiers en rang, à des inspecteurs principaux ou à des receveurs principaux.\n\n**(4)** Les préposés des bureaux de recette peuvent être assistés pour la gestion de leur bureau d’un ou de plusieurs préposés adjoints dont les attributions sont fixées par le directeur.",
+      "text_sha256": "deed88e531e9d15e6a815f07ca2dc3e248912efa024e5334ec4fcd8fa118ebcc",
+      "md_span": {
+        "start": 5683,
+        "end": 6346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_12/20091120",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-11-20",
+      "text_md": "Le règlement grand-ducal modifié du 19 octobre 1977 fixant l’organisation de l’administration des contributions directes est abrogé.",
+      "text_sha256": "1882273104740093a8de5f2f4acd32d45e0bfe1316fa636d8112f95fdbcf99c1",
+      "md_span": {
+        "start": 6383,
+        "end": 6515
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1977/10/19/n1/jo",
+          "text": "règlement grand-ducal modifié du 19 octobre 1977"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2009-11-06-n4:2021-12-25#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/art_13/20091120",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2009-11-20",
+      "text_md": "Notre Ministre des Finances est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "ee7454c63ac1d58715524586427078207d56e56a3b065cea8ea550029b7791f3",
+      "md_span": {
+        "start": 6552,
+        "end": 6655
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

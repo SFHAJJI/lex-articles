@@ -1,0 +1,80 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2015-02-02-n5",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1bis": [
+      {
+        "valid_from": "2023-01-01",
+        "valid_to": null,
+        "text_sha256": "3e310a66028708c6e3aaf2ed67fe6b024fdbddec6212ede7788f073bbaf68cef",
+        "in_version": "lu-legilux:rgd-2015-02-02-n5:2023-01-01"
+      }
+    ],
+    "art_1er": [
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2021-12-31",
+        "text_sha256": "48445f06dae3a3cb2ad820d71f490e77e7bacb364113729a7dd1544d5b7707d3",
+        "in_version": "lu-legilux:rgd-2015-02-02-n5:2021-01-01",
+        "article_valid_from": "2021-01-01"
+      },
+      {
+        "valid_from": "2022-01-01",
+        "valid_to": null,
+        "text_sha256": "2fbafc12d2981c346b0db146416e611d6b666c1a4703fc7844cac22d2091c694",
+        "in_version": "lu-legilux:rgd-2015-02-02-n5:2022-01-01",
+        "article_valid_from": "2022-01-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "2304386c911057904c396bf9b9ed70a7346d10a4a5af16a4bfde3064f73d88fc",
+        "in_version": "lu-legilux:rgd-2015-02-02-n5:2021-01-01",
+        "article_valid_from": "2015-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "b3f2f59995a4357e179879ac2a3296000ed32330199ef1bc90f19c1d799940c6",
+        "in_version": "lu-legilux:rgd-2015-02-02-n5:2021-01-01",
+        "article_valid_from": "2015-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "d43b18e41d20de0ba078096e3c24adf9b217dd011031cfb9d05ae5cadaff7f86",
+        "in_version": "lu-legilux:rgd-2015-02-02-n5:2021-01-01",
+        "article_valid_from": "2015-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "ec7c7911090d0b2df2f5a99f1dca288781a438c17af3093344604240a15f2350",
+        "in_version": "lu-legilux:rgd-2015-02-02-n5:2021-01-01",
+        "article_valid_from": "2015-01-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "art_1bis",
+      "at_version": "lu-legilux:rgd-2015-02-02-n5:2023-01-01"
+    }
+  ]
+}

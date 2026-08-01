@@ -1,0 +1,127 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2023-10-13-a714:2024-06-10",
+  "language": "fr",
+  "title": "Version consolidée applicable au 10/06/2024 : Règlement grand-ducal du 13 octobre 2023 fixant les mesures d’exécution relatives aux aides à la pierre prévues par la loi relative au logement abordable.",
+  "valid_from": "2024-06-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2023-10-13-a714/versions/2024-06-10/fr.xml",
+    "sha256": "09e0a17e975462036562a2b7caf03b3e27b3f09ece1558be7b0ebc50b37ba629",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/consolide/20240610/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2023-10-13-a714:2024-06-10#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/art_1er/20240610",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Redevances d’emphytéose",
+      "path": [],
+      "article_valid_from": "2024-06-10",
+      "text_md": "L’acquéreur ou ses ayants droit d’un logement destiné à la vente abordable ou à la vente à coût modéré payent une redevance d’emphytéose au moins annuellement.\n\nLa redevance d’emphytéose est de 269 euros par appartement par an. Elle est de 497 euros par maison de type unifamilial par an. Ces montants correspondent à la valeur 855,62 de la cote d’application de l’échelle mobile des salaires.",
+      "text_sha256": "1c60722243bc4a0302fae77483fd712848a7a4358ec6fabbbf3f40a287d946b5",
+      "md_span": {
+        "start": 704,
+        "end": 1097
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2023-10-13-a714:2024-06-10#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/art_2/20231110",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Évaluation des montants plafonds des coûts éligibles aux participations financières",
+      "path": [],
+      "article_valid_from": "2023-11-10",
+      "text_md": "Pour l’évaluation et la fixation des montants plafonds des coûts éligibles aux participations financières, le ministre ayant le Logement dans ses attributions, ci-après « ministre », institue, par voie de règlement ministériel, un cahier des charges pour le développement de logements abordables.",
+      "text_sha256": "7193da5dd727fa6307f8cc90d060447fa034d3b39dc0fed17335dbb0278d28c8",
+      "md_span": {
+        "start": 1216,
+        "end": 1512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2023-10-13-a714:2024-06-10#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/art_3/20231110",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Loyers des emplacements de stationnement de voiture",
+      "path": [],
+      "article_valid_from": "2023-11-10",
+      "text_md": "Les emplacements de stationnement liés à un logement destiné à la location abordable sont loués, en fonction de leur situation géographique, de leur typologie et de leur aménagement, à un loyer mensuel fixé entre 60 et 197 euros par emplacement. Ces montants correspondent à la valeur 855,62 de la cote d’application de l’échelle mobile des salaires.",
+      "text_sha256": "269b0f9fea7b83e0ab5182ebcc608844b66dd13a9b3618b47e513fc6ca7e4a18",
+      "md_span": {
+        "start": 1599,
+        "end": 1949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2023-10-13-a714:2024-06-10#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/art_4/20231110",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Composition de la commission consultative",
+      "path": [],
+      "article_valid_from": "2023-11-10",
+      "text_md": "La commission consultative en matière de participations financières est composée au minimum de trois membres effectifs qui sont des fonctionnaires et employés publics du ministre choisis en fonction de leur attribution.\n\nPour chaque membre effectif de la commission consultative, un membre suppléant est nommé, à choisir selon les mêmes critères que le membre effectif qu’il a vocation à remplacer en cas d’empêchement.\n\nLes membres effectifs et les membres suppléants de la commission consultative sont nommés pour une durée de cinq ans, renouvelable, par le ministre. Parmi ces membres effectifs, le ministre désigne un président et un président suppléant.\n\nLa commission consultative nomme un secrétaire administratif qui peut être choisi en dehors des membres de la commission consultative. Le secrétaire administratif assiste aux réunions de la commission afin d’y prendre des notes et de tenir le procès-verbal. Le secrétaire administratif choisi en dehors des membres de la commission consultative ne participe ni aux discussions ni au vote.",
+      "text_sha256": "554e2a14b4c68b66353a73ada1182d7969af1a7be271ca86626b5bfdc70b9c92",
+      "md_span": {
+        "start": 2026,
+        "end": 3074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2023-10-13-a714:2024-06-10#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/art_5/20231110",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Fonctionnement de la commission consultative",
+      "path": [],
+      "article_valid_from": "2023-11-10",
+      "text_md": "La commission consultative ne délibère valablement que si la majorité de ses membres est présente. Les avis sont adoptés à la majorité des suffrages exprimés. En cas de partage des voix, celle du président est prépondérante.\n\nLes participants aux réunions de la commission consultative gardent le secret des délibérations et des votes de la commission consultative.\n\nUn règlement d’ordre intérieur, approuvé par le ministre, peut fixer les modalités de fonctionnement de la commission consultative.",
+      "text_sha256": "5a60c909a46373f5df8bc460399481c527bcb369b3a287bf31000826cc719259",
+      "md_span": {
+        "start": 3154,
+        "end": 3652
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2023-10-13-a714:2024-06-10#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/art_6/20231110",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Formule exécutoire",
+      "path": [],
+      "article_valid_from": "2023-11-10",
+      "text_md": "Le ministre ayant le Logement dans ses attributions est chargé de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "7e9af7a7a94bb78ca7e62dddc6e3e3bcfe18270a9c6e6be5a60fd79b0b1eb68c",
+      "md_span": {
+        "start": 3706,
+        "end": 3870
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

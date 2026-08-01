@@ -1,0 +1,295 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/11/2018 : Loi du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes.",
+  "valid_from": "2018-11-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1970-11-11-n1/versions/2018-11-01/fr.xml",
+    "sha256": "14a00be74aae6f6b6ccff3b586349752939e8825c617f17d09dccb3306259538",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/consolide/20181101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_1er/20181101",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "La présente loi s’applique aux traitements et appointements des fonctionnaires et employés, aux salaires des ouvriers et gens de service, aux soldes des militaires et d’une façon générale aux sommes dues à titre de rémunération à toutes les personnes salariées et à toutes celles travaillant, à quelque titre ou en quelque lieu que ce soit, pour un ou plusieurs employeurs, quels que soient le montant et la nature de leur rémunération, la forme et la nature de leur contrat ou de leur statut. Elle s’applique également aux indemnités de chômage complet ainsi qu’à l’indemnité pécuniaire de maladie et de maternité.\n\nLes rémunérations comprennent le principal et les accessoires, à l’exception toutefois des sommes allouées à titre de remboursement de frais exposés.",
+      "text_sha256": "de1616fe32d5f19bd4c777aa4b88dd48831fbe327990fd65390373bceba73ca0",
+      "md_span": {
+        "start": 636,
+        "end": 1402
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_2/20181101",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "La présente loi s’applique également aux pensions et aux rentes dérivant de la législation sur la sécurité sociale, à l’exclusion de l’allocation de fin d’année.",
+      "text_sha256": "57c865a8076c1ee7f98d1403a48ac916a6879298bb095af1349698b937bf54e7",
+      "md_span": {
+        "start": 1437,
+        "end": 1598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_3/20181101",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Il n’est pas dérogé aux dispositions spéciales relatives à la cessibilité et à la saisissabilité prévues par la réglementation sur les prestations familiales et le Fonds national de solidarité.",
+      "text_sha256": "5b7a3793e7581ce693798d7239e63f7e01516b16aa9f2ad249674a87b525a673",
+      "md_span": {
+        "start": 1633,
+        "end": 1826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_4/20181101",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Les rémunérations ainsi que les pensions et rentes sont réparties en cinq tranches qui sont fixées par règlement grand-ducal sur proposition du ministre de la justice et qui peuvent être cédées ou saisies comme suit:\n\n1. La première tranche ne peut être cédée ni saisie.\n2. La deuxième tranche peut être cédée jusqu’à concurrence d’un dixième et saisie jusqu’à concurrence d’un dixième.\n3. La troisième tranche peut être cédée jusqu’à concurrence d’un cinquième et saisie jusqu’à concurrence d’un cinquième.\n4. La quatrième tranche peut être cédée jusqu’à concurrence d’un quart et saisie jusqu’à concurrence d’un quart.\n5. La cinquième tranche peut être cédée et saisie sans limitation.\n\nPar dérogation aux dispositions qui précèdent, les rémunérations, pensions et rentes peuvent être cédées comme suit, lorsque la cession est consentie à l’occasion d’un contrat d’épargne ou de prêt destiné à l’acquisition, la construction ou la transformation d’un immeuble ou d’une part immobilière:\n\n- dans la deuxième tranche jusqu’à concurrence de 15%,\n- dans la troisième tranche jusqu’à concurrence de 30%,\n- dans la quatrième tranche jusqu’à concurrence de 40%.\n\nDans le cas d’un contrat d’épargne ou de prêt conclu par un agent jouissant du statut public, un règlement grand-ducal peut augmenter les pourcentages prévisés jusqu’à concurrence de 25% dans la deuxième tranche, de 40% dans la troisième tranche, de 50% dans la quatrième tranche.\n\nLorsque plusieurs saisies-arrêts ont été pratiquées contre le même débiteur et entre les mains de différents tiers saisis, la répartition en tranches prévue ci-dessus est établie sur le total des revenus saisis. Dans cette hypothèse, le juge de paix déterminera les retenues à effectuer proportionnellement au montant des sommes dues par chaque tiers saisi.\n\nLa partie cessible ne se confond pas avec la partie saisissable.\n\nPour la détermination de la quotité saisissable et cessible, les retenues effectuées en application de la législation fiscale et de celle relative à la sécurité sociale sont à déduire de la rémunération.",
+      "text_sha256": "b3d835d2f22d34900074bab29cfe078d7cea656d0b93e9a2eea58990af6a7b8a",
+      "md_span": {
+        "start": 1861,
+        "end": 3929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_5/20181101",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Il ne peut être fait de retenue par l’employeur sur les rémunérations telles qu’elles sont déterminées au dernier alinéa de l’article précédent que:\n\n1. du chef d’amendes encourues par le salarié en vertu de la loi, en vertu de son statut ou en vertu du règlement d’ordre intérieur d’un établissement, régulièrement affiché;\n2. du chef de réparation du dommage causé par la faute du salarié;\n3. 1. d’outils ou d’instruments nécessaires au travail et de l’entretien de ceux-ci;\n2. de matières ou de matériaux nécessaires au travail et dont les salariés ont la charge selon l’usage admis ou aux termes de leur engagement;\n4. du chef d’avances faites en argent.\n\nLes retenues mentionnées ci-dessus ne se confondent ni avec la partie saisissable, ni avec la partie cessible. Celles énumérées sub 1, 2 et 4 ne peuvent dépasser le dixième de la rémunération.\n\nLes acomptes versés pour une période de travail révolue ou en cours pour laquelle un décompte définitif n’a pas encore été établi ne sont pas considérés comme avances.",
+      "text_sha256": "6a49d74305a7fd58d011743553e55deb72e0dca31260b81780c35c359646c267",
+      "md_span": {
+        "start": 3964,
+        "end": 4985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_6/20181101",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Les rentes et pensions dérivant des dispositions du code des assurances sociales peuvent être mises en gage, cédées ou saisies sans limitation pour couvrir:\n\n1. une avance qui a été faite à l’intéressé sur ses droits par son patron ou une institution d’assurance sociale;\n2. code des assurances sociales",
+      "text_sha256": "dfdd34cb02b6f1b952867868be6a9f36d1ba663850e4599cbd030978b2c76b8a",
+      "md_span": {
+        "start": 5020,
+        "end": 5323
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/securite_sociale",
+          "text": "code des assurances sociales"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_7/20181101",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Les pensions autres que celles visées à l’article qui précède peuvent être mises en gage, cédées ou saisies sans limitation pour couvrir:\n\n1. les avances sur ces pensions faites au titulaire par son employeur ou une institution de droit public entre l’échéance et l’ordonnancement de la pension;\n2. les créances qui compètent aux communes et établissements de bienfaisance pour secours fournis depuis que la pension était due.\n\nIl en est de même des indemnités de chômage complet.",
+      "text_sha256": "d6e9e7f630a6f6eb52b48974ac886d74ecca75ae56db04ee3250bbcec8b9e397",
+      "md_span": {
+        "start": 5358,
+        "end": 5838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_8/20181101",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "En cas de cessions ou de saisies faites pour le paiement des dettes alimentaires prévues notamment par les articles 203, 205 à 207, 212, 213, 214, 230, 234, 372-2, 359, 376-2, 385 et 387-14 du Code civil, le terme mensuel courant de la pension alimentaire sera, chaque mois, prélevé sur les portions incessible et insaisissable des rémunérations, pensions, rentes et indemnités de chômage complet.\n\nLes portions cessible et saisissable pourront, le cas échéant, être retenues en sus, soit pour sûreté du terme mensuel courant excédant les portions incessible et insaisissable, soit pour sûreté des termes arriérés de la pension alimentaire et des frais, soit au profit des créanciers ordinaires, opposants ou cessionnaires.",
+      "text_sha256": "caeb3248b92a4c9b0e0cb312edfd6d14a1b8959e2282653797640c1372f26f12",
+      "md_span": {
+        "start": 5873,
+        "end": 6596
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "Code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_9/20181101",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Est compétent pour connaître des saisies-arrêts prévues par la présente loi et pour procéder à la répartition des sommes saisies-arrêtées à quelque valeur que la créance puisse s’élever, le juge de paix du domicile du débiteur saisi ou, à défaut de domicile connu, celui de sa résidence. Si le débiteur n’a au Grand-Duché ni domicile ni résidence connus, le juge compétent est celui du domicile du tiers saisi ou, à défaut de domicile connu, celui de sa résidence.\n\nLe juge de paix qui a autorisé la saisie reste compétent, même lorsque le débiteur ou, le cas échéant, le tiers saisi, aura transporté son domicile ou sa résidence dans le ressort d’une autre justice de paix, tant qu’il n’aura pas été procédé à une saisie dans ce ressort contre le même débiteur, entre les mains du même tiers saisi. Dans ce cas, le juge de paix initialement saisi fait une répartition des sommes retenues en vertu des saisies-arrêts par lui autorisées, répartition qui met fin à la procédure dans ce ressort. Il transmet ensuite le dossier de la saisie-arrêt au juge de paix du nouveau domicile ou de la nouvelle résidence du débiteur ou, le cas échéant, du tiers saisi.\n\nCes règles de compétence sont d’ordre public.\n\nLa décision du juge de paix refusant l’autorisation de saisir-arrêter, celle sur la validité, la nullité ou la mainlevée de la saisie ainsi que celle sur la déclaration que le tiers saisi est tenu de faire sera sans appel dans la limite de sa compétence en dernier ressort et à charge d’appel à quelque valeur que la demande puisse s’élever.\n\nLa décision sur la distribution sera sans appel, lorsque la somme sur laquelle porte la contestation rentre dans la limite de sa compétence en dernier ressort, et à charge d’appel à quelque montant que cette somme puisse s’élever.\n\nLa procédure des saisies ainsi que les émoluments à allouer en cette matière au greffier seront déterminées par règlement grand-ducal.",
+      "text_sha256": "b078df7501b0e3bf20eb37b1aa2594cf7d2f0a6c3e3b2820e56d6e349b9cc769",
+      "md_span": {
+        "start": 6631,
+        "end": 8543
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_10/20181101",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Les ordonnances, jugements, décisions, procès-verbaux, copies, avertissements et lettres recommandées qui pourront intervenir en exécution de la présente loi ainsi que les pièces de toute nature produites en cours d’instance sont exempts des droits de timbre et d’enregistrement avec dispense de la formalité.",
+      "text_sha256": "d728db41ced78cdaa15e8e9effa2a02453de2bf68ea86e1a5f273e470478f923",
+      "md_span": {
+        "start": 8580,
+        "end": 8889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_11/20181101",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Nonobstant toutes dispositions contraires, les administrations publiques et les organismes de sécurité sociale sont tenus de fournir, sur injonction d’un juge de paix, à tout requérant intéressé les renseignements qu’ils possèdent permettant de déterminer l’adresse du débiteur de la créance, ainsi que l’identité et l’adresse de son employeur ou de l’organisme débiteur de la pension ou de la rente.",
+      "text_sha256": "e213bc6e9d420afecca6d4b7bedf0822d2225213a49809fbcd9a34518bce130b",
+      "md_span": {
+        "start": 8926,
+        "end": 9326
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_15/20181101",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Toutes les dispositions incompatibles avec la présente loi sont abrogées, notamment:\n\n- la loi du 19 pluviôse an III portant que les commissaires des guerres et tous autres employés dans les armées seront payés des quatre cinquièmes de leurs appointements nonobstant les oppositions de leurs créanciers;\n- la loi du 21 ventôse an IX qui détermine la portion saisissable du traitement des fonctionnaires publics et des employés civils;\n- l’arrêté du 18 nivôse an XI qui déclare les traitements ecclésiastiques insaisissables dans leur totalité;\n- loi du 16 janvier 1863\n- loi du 8 mai 1872\n- arrêté grand-ducal du 20 février 1895\n- loi du 19 juillet 1895\n- loi du 19 juillet 1895\n- loi du 7 août 1912\n- loi du 15 mai 1934 19 juillet 1895\n- loi du 7 juin 1937 loi du 3 octobre 1919 loi du 20 avril 1962\n- loi du 21 mai 1951\n- loi du 26 mai 1954\n- loi du 3 septembre 1956\n- loi du 22 janvier 1960",
+      "text_sha256": "b4920cbe803ecf1a687bb13f9c1efbdd4a0decc3c9f92a83de1bd5a39d133a99",
+      "md_span": {
+        "start": 9363,
+        "end": 10256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_16/20181101",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "La cession d’une rémunération ou d’une pension ou rente au sens des articles 1er et 2 doit être faite par un acte distinct de celui qui contient l’obligation principale dont elle garantit l’exécution.\n\nCet acte est établi en autant d’exemplaires qu’il y a de parties ayant un intérêt distinct.\n\nLes dispositions du présent article sont prescrites à peine de nullité.",
+      "text_sha256": "eb6b1f7e07c664d57fbccbc3536b483047c07557c9c68412f16b2678ceae29f0",
+      "md_span": {
+        "start": 10293,
+        "end": 10659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_17/20181101",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "Dans les cas prévus à l’article précédent, le cessionnaire n’est saisi à l’égard des tiers que par la notification du transport, faite au débiteur cédé par lettre recommandée.\n\nNéanmoins le cessionnaire peut être également saisi par l’acceptation du transport faite par le débiteur cédé dans un acte ayant date certaine.\n\nL’article 1690 du code civil n’est pas applicable.",
+      "text_sha256": "72065fd851668f43f08f07fa053bbcba71a4d2904eccbb91e9a3d657e26bc63a",
+      "md_span": {
+        "start": 10696,
+        "end": 11068
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "code civil"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1970-11-11-n1:2018-11-01#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/art_18/20181101",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2018-11-01",
+      "text_md": "En cas de contestation, il y sera statué, sur demande de la partie la plus diligente, par le juge de paix du domicile, ou à défaut de domicile connu, par celui de la résidence du cédant. Si le cédant n’a au Grand-Duché ni domicile ni résidence connus, le juge compétent est celui du domicile du débiteur-cédé ou, à défaut de domicile connu, celui de sa résidence.\n\nLa procédure est réglée au règlement grand-ducal prévu à l’article 9.",
+      "text_sha256": "6dba8b9795d767917e0d416831d69545711c8f12f17c77fc1f7192641a3faa5d",
+      "md_span": {
+        "start": 11105,
+        "end": 11539
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

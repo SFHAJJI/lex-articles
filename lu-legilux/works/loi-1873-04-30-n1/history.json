@@ -1,0 +1,65 @@
+{
+  "lex_work_id": "lu-legilux:loi-1873-04-30-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "1991-02-04",
+        "valid_to": null,
+        "text_sha256": "24f6cdef6b546c7e3ab566239c69411f6cab15075aa3eaed1e0f417f89de0070",
+        "in_version": "lu-legilux:loi-1873-04-30-n1:1991-02-04",
+        "article_valid_from": "1991-02-04"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1991-02-04",
+        "valid_to": "2016-08-31",
+        "text_sha256": "940383c14ee6594c4bf66f1867abc53e2128c542341bf16750053cf56865399f",
+        "in_version": "lu-legilux:loi-1873-04-30-n1:1991-02-04",
+        "article_valid_from": "1873-05-10",
+        "validity_conflict": true
+      },
+      {
+        "valid_from": "2016-09-01",
+        "valid_to": null,
+        "text_sha256": "f38324ce48e496b2e9fa8fb7c3053cecf6c8a629cb76062e97bec009844c6eee",
+        "in_version": "lu-legilux:loi-1873-04-30-n1:2016-09-01",
+        "article_valid_from": "1873-05-10",
+        "validity_conflict": true
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "1991-02-04",
+        "valid_to": "2016-08-31",
+        "text_sha256": "f2e64373fc332dba57a5455a863296bc71437d4f1f146a1f44bd6f0d82f90560",
+        "in_version": "lu-legilux:loi-1873-04-30-n1:1991-02-04",
+        "article_valid_from": "1873-05-10",
+        "validity_conflict": true
+      }
+    ],
+    "art_3_20160901": [
+      {
+        "valid_from": "2016-09-01",
+        "valid_to": null,
+        "text_sha256": "f2e64373fc332dba57a5455a863296bc71437d4f1f146a1f44bd6f0d82f90560",
+        "in_version": "lu-legilux:loi-1873-04-30-n1:2016-09-01",
+        "article_valid_from": "2016-09-01"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "renumbered",
+      "from": "art_3",
+      "to": "art_3_20160901",
+      "text_sha256": "f2e64373fc332dba57a5455a863296bc71437d4f1f146a1f44bd6f0d82f90560",
+      "at_version": "lu-legilux:loi-1873-04-30-n1:2016-09-01",
+      "basis": "identical_text"
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05",
+  "language": "fr",
+  "title": "Version consolidée applicable au 31/12/2024 : Loi du 4 juillet 2014\\n- portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits,\\n- modifiant\\n* la loi modifiée du 17 mai 1882 sur les poids et mesures,\\n* la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits,\\n* la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie,\\n* la loi du 25 mars 2009 relative à la compatibilité électromagnétique,\\n* la loi modifiée du 27 mai 2010 relative aux machines,\\n* la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et\\n* la loi du 21 décembre 2012 concernant les équipements sous pression transportables,\\n- abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.",
+  "valid_from": "2017-03-05",
+  "valid_to": "2017-05-15",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-2014-07-04-n2/versions/2017-03-05/fr.xml",
+    "sha256": "27e9db5e6b4b5b74460599553ffc38d01b59e9ea5bb13fbec1593840963a43e9",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/consolide/20170305/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_1er/20140801",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Définitions",
+      "path": [
+        "CHAPITRE Ier — ***Dispositions générales***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Aux fins de la présente loi, l’on entend par:\n\n1. accréditation des organismes d’évaluation de la conformité\n2. audit:\n3. bonnes pratiques de laboratoire\n4. confiance numérique\n5. distributeur\n6. *document normatif:* un document qui donne des règles, des lignes directrices ou des caractéristiques pour des activités ou leurs résultats. L’expression «document normatif» est un terme générique qui recouvre les documents tels que les normes, les spécifications techniques, les codes de bonne pratique et les règlements. On considère comme «document» tout support d’information avec l’information qu’il porte. Les termes relatifs aux différents types de documents normatifs sont définis comme comprenant le document et son contenu considérés comme un tout;\n7. étalon\n8. étalon national\n9. évaluation de la conformité\n10. fabricant\n11. instruments de mesure\n12. importateur\n13. infrastructure métrologique\n14. mandataire\n15. métrologie légale\n16. mise à disposition sur le marché\n17. mise sur le marché\n18. normalisation\n19. norme\n20. norme harmonisée\n21. opérateur économique\n22. organisme national d’accréditation\n23. organisme d’évaluation de la conformité\n24. organisme de normalisation\n25. organisme notifié\n26. prestataire de services électroniques de confiance\n27. produits en préemballages\n28. programme de normalisation\n29. rappel\n30. risque grave\n31. retrait\n32. surveillance du marché:\n33. système international d’unités",
+      "text_sha256": "f45dc792b90daf89ac798d4d4ff75001acb066b9df9ad9682c2c8b81912c0baa",
+      "md_span": {
+        "start": 1689,
+        "end": 3117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_2/20140801",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Organisation",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 1 — *L’ILNAS*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Il est créé une administration appelée «Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services», désignée par son acronyme «ILNAS».\n\nL’ILNAS est placé sous l’autorité du membre du Gouvernement ayant l’Economie dans ses attributions, ci-après dénommé «le ministre».\n\nLe directeur est responsable de la gestion de l’ILNAS. Il en est le chef hiérarchique.\n\n**(2)** L’ILNAS est composé de six départements, à savoir:\n\n1. l’Organisme luxembourgeois de normalisation,\n2. le département de la confiance numérique,\n3. l’Office luxembourgeois d’accréditation et de surveillance, désigné ci-après par l’acronyme «OLAS»,\n4. le département de la surveillance du marché,\n5. le Bureau luxembourgeois de métrologie, et\n6. le département du budget et de l’administration.\n\nLe directeur arrête les détails d’organisation et les modalités de fonctionnement des départements.\n\n**(3)** Dans l’exercice des attributions lui conférées en vertu des articles 3 à 11, l’ILNAS jouit de l’indépendance scientifique.",
+      "text_sha256": "487a44eb25bad71db5cb9f1c524bc04501cc650b2c5ae6bd17847a912756eb23",
+      "md_span": {
+        "start": 3240,
+        "end": 4297
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_3/20140801",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Normalisation",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 2 — *Attributions de l’Organisme luxembourgeois de normalisation*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** L’Organisme luxembourgeois de normalisation est l’organisme national de normalisation, dont les attributions consistent:\n\n1. à exécuter la stratégie normative et les politiques en matière de normalisation définies par le ministre;\n2. à harmoniser les règles sur lesquelles la normalisation doit être basée;\n3. à recenser auprès des acteurs socio-économiques luxembourgeois les besoins en normes et autres documents normatifs nouveaux et à préparer le programme de normalisation en concordance avec la politique de normalisation déterminée par le ministre;\n4. à coordonner au niveau national l’élaboration et l’adoption d’avant-projets de normes et autres documents normatifs inscrits au programme de normalisation, par les principales parties intéressées par leur utilisation;\n5. à adopter et à approuver des normes et autres documents normatifs nationaux élaborés de manière consensuelle entre les parties intéressées et à faire publier leurs références au Mémorial;\n6. à annuler les normes et autres documents normatifs nationaux élaborés au Grand-Duché de Luxembourg, sur avis des parties intéressées par leur utilisation, et à publier une notice renseignant sur cette annulation au Mémorial;\n7. à publier au Mémorial les références des normes et autres documents normatifs nationaux transposant des normes et autres documents normatifs élaborés et adoptés par les organismes de normalisation européens et internationaux;\n8. à annuler des normes et autres documents normatifs nationaux transposant des normes et autres documents normatifs élaborés et adoptés par les organismes de normalisation européens et internationaux et à publier une notice renseignant sur cette annulation au Mémorial;\n9. à centraliser et à garantir la mise à disposition au public de normes et autres documents normatifs, dont les modalités et barèmes de prix sont fixés par le ministre sur proposition de l’Organisme luxembourgeois de normalisation en fonction des obligations en matière de droits de reproduction envers les organismes de normalisation européens et internationaux;\n10. à créer et à dissoudre des comités techniques, sous-comités et groupes de travail de normalisation nationaux;\n11. à faire appel aux acteurs socio-économiques luxembourgeois pour désigner des délégués possédant l’expérience et les compétences nécessaires pour participer aux comités techniques, sous-comités et groupes de travail de l’Organisme luxembourgeois de normalisation et des organismes de normalisation européens et internationaux et de gérer le registre national des délégués en normalisation faisant partie des différents comités techniques, sous-comités et groupes de travail;\n12. à organiser et à coordonner la promotion de la normalisation et la formation volontaire à la normalisation;\n13. à communiquer son programme de travail aux organismes européens de normalisation et aux autres organismes nationaux de normalisation ainsi qu’à la Commission européenne;\n14. à notifier à la Commission européenne tout projet de réglementation technique ou de règle relative aux services de la société de l’information avant que ceux-ci ne soient adoptés en droit national.\n\n**(2)** Les normes et autres documents normatifs validés, adoptés et approuvés par l’Organisme luxembourgeois de normalisation sont d’application volontaire.\n\n**(3)** Un règlement grand-ducal détermine les modalités d’inscription au programme de normalisation, les modalités d’élaboration et d’adoption d’avant-projets de normes et autres documents normatifs, les modalités d’approbation des normes et autres documents normatifs, la procédure d’enquête publique afférente, les critères d’inscription au registre national des délégués en normalisation, ainsi que le mode de fonctionnement des comités techniques, sous-comités et groupes de travail.",
+      "text_sha256": "9dc668f82e164d14e5e81cf042835b6a2a4859aa0b8f1020dadd87c9a8c403b4",
+      "md_span": {
+        "start": 4425,
+        "end": 8222
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_4/20140801",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Confiance numérique",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 3 — *Attributions du département de la confiance numérique*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Les attributions du département de la confiance numérique consistent:\n\n1. à promouvoir les instruments susceptibles de garantir la compétence des prestataires de services de dématérialisation ou de conservation ainsi que les prestataires de services électroniques de confiance en relation avec la qualité et la sécurité des services prestés;\n2. à appliquer de nouveaux schémas de surveillance, de certification, de notification ou d’accréditation de prestataires de services de dématérialisation ou de conservation ainsi que les prestataires de services électroniques de confiance définis dans la législation nationale et européenne;\n3. décision 2009/767/CE directive 2006/123/CE",
+      "text_sha256": "92fe4b39200e3c9b776ad5590da6d91d17e70d23f03e33f7d1516079751b9643",
+      "md_span": {
+        "start": 8350,
+        "end": 9029
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_5/20140801",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Accréditation des organismes d’évaluation de la conformité",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 4 — *Attributions de l’OLAS*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** L’OLAS est l’organisme national d’accréditation des organismes d’évaluation de la conformité dont les attributions consistent:\n\n1. à accréditer les organismes d’évaluation de la conformité sur base de la législation nationale et européenne en vigueur;\n2. à reconnaître comme équivalentes les accréditations délivrées par des organismes d’accréditation d’organismes d’évaluation de la conformité dans le cadre d’accords de reconnaissance mutuelle;\n3. à créer et à gérer un registre des organismes d’évaluation de la conformité accrédités publiés sur le site électronique installé à cet effet par l’ILNAS.\n\n**(2)** Après vérification du respect par l’organisme d’évaluation de la conformité des exigences fixées au point 1° du paragraphe 1er sur base du rapport d’audit, l’OLAS décide de l’accréditation après avoir demandé l’avis du comité d’accréditation, dont la composition et l’organisation sont déterminées par règlement grand-ducal. L’OLAS peut avoir recours à des experts internes pour vérifier le respect de ces exigences.\n\nL’OLAS peut inviter les autorités compétentes concernées par le domaine audité à participer aux audits d’accréditation en tant qu’observateur.\n\nL’accréditation est valable pour cinq ans, sauf disposition contraire arrêtée dans la décision d’accréditation. Elle est soumise à une surveillance périodique et peut être renouvelée, à la demande de l’organisme accrédité, pour de nouveaux termes consécutifs de 5 ans.\n\n**(3)** Un règlement grand-ducal détermine le système d’accréditation des organismes d’évaluation de la conformité.\n\n**(4)** Toute accréditation d’un organisme d’évaluation de la conformité est soumise au payement d’un droit de dossier annuel déterminé par règlement grand-ducal et qui ne peut pas dépasser 3.000 euros.\n\n**(5)** Les membres et le secrétaire du comité d’accréditation ont droit à des jetons de présence dont le montant est fixé par règlement grand-ducal.\n\n**(6)** Les frais relatifs aux audits, à la préparation des audits et à la rédaction du rapport d’audit sont à charge de l’organisme d’évaluation de la conformité accrédité. Le barème tarifaire, approuvé par le ministre, est publié sur le site électronique installé à cet effet par l’ILNAS.\n\n**(7)** L’OLAS informe sans délai les autorités compétentes concernées par le domaine audité lorsqu’il identifie, dans le cadre de ses activités d’accréditation, un risque auprès d’un organisme d’évaluation de la conformité qui met en danger la santé et la sécurité des personnes, la santé et le bien-être des animaux ou l’environnement.",
+      "text_sha256": "301c8f6e9043158a1151bfdf0245e00ed7152218a38bf90b760f52e07087f977",
+      "md_span": {
+        "start": 9165,
+        "end": 11719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_6/20140801",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Bonnes pratiques de laboratoire",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 4 — *Attributions de l’OLAS*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** L’OLAS assure au niveau national la communication et la coordination entre les autorités de vérification en matière de bonnes pratiques de laboratoire.\n\n**(2)** L’OLAS organise les audits des bonnes pratiques de laboratoire au niveau national.",
+      "text_sha256": "fe089e2945456cf3e79b62491d8072baa5355d6a2a567afa440d409c0e483f67",
+      "md_span": {
+        "start": 11786,
+        "end": 12037
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_7/20140801",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Désignation des organismes notifiés",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 4 — *Attributions de l’OLAS*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** L’OLAS est l’autorité chargée de la notification à la Commission européenne et aux autres Etats membres de l’Union européenne d’organismes d’évaluation de la conformité accrédités dans des domaines légaux qui prévoient cette notification.\n\n**(2)** Tout organisme d’évaluation de la conformité qui demande à être notifié doit être établi au Grand-Duché de Luxembourg, posséder la personnalité juridique et être accrédité dans la matière légale dans le cadre de laquelle la notification est demandée.\n\nEn vue de sa notification, l’organisme doit présenter les garanties nécessaires de qualification professionnelle, d’intégrité, d’impartialité, d’indépendance et de confidentialité qui s’apprécient sur base de l’accréditation délivrée en application des dispositions de l’article 5, paragraphe 1er, sous 1°, ou sur base d’une accréditation reconnue équivalente en vertu de l’article 5, paragraphe 1er, sous 2°.\n\nLes ministres ou les représentants des administrations concernés par la matière dont relève la notification sont invités à assister en qualité d’observateurs aux audits d’accréditation.\n\nTout changement susceptible d’affecter les conditions de qualification professionnelle, d’intégrité, d’impartialité, d’indépendance ou de confidentialité oblige le ou les dirigeants de l’organisme notifié d’en informer l’OLAS dans la semaine suivant ce changement et d’indiquer comment le respect des conditions de la notification est assuré à titre provisoire. Dans les trois mois qui suivent, l’organisme est tenu de se mettre en conformité avec les exigences de sa notification.\n\nEn cas de non-respect par l’organisme notifié des conditions de sa notification, l’OLAS peut procéder au retrait temporaire ou définitif de la notification, après avoir demandé l’avis des ministres concernés par la matière dont relève la notification.\n\n**(3)** Avant de lancer la procédure de notification, toute candidature doit être approuvée par le ministre, qui prend sa décision après avoir demandé l’avis des ministres concernés par la matière dont relève la notification.\n\n**(4)** Un règlement grand-ducal détermine les obligations qui incombent aux organismes notifiés en matière de participation aux activités de normalisation et de groupes de coordination, de recours à une filiale ou à un sous-traitant pour certaines tâches d’évaluation de la conformité, d’obligation d’information de l’autorité de notification et de modification de son statut d’organisme notifié.",
+      "text_sha256": "47a649fae61238207de38fb5a1123a922ae9baeb143d4ffae163e84a5f28712f",
+      "md_span": {
+        "start": 12108,
+        "end": 14574
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7bis",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_7bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_7bis/20170305",
+      "type": "article",
+      "num": "Art. 7bis.",
+      "heading": null,
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 4 — *Attributions de l’OLAS*"
+      ],
+      "article_valid_from": "2017-03-05",
+      "text_md": "L’OLAS:\n\n1. est établi de manière à éviter tout conflit d'intérêts avec les organismes d'évaluation de la conformité;\n2. est organisé et fonctionne de façon à garantir l'objectivité et l'impartialité de ses activités;\n3. est organisé de telle sorte que chaque décision concernant la notification d'un organisme d'évaluation de la conformité est prise par des personnes compétentes différentes de celles qui ont réalisé l'évaluation;\n4. ne propose ni ne fournit aucune des activités réalisées par les organismes d'évaluation de la conformité, ni aucun service de conseil sur une base commerciale ou concurrentielle;\n5. garantit la confidentialité des informations qu'il obtient;\n6. dispose d'un personnel compétent en nombre suffisant pour la bonne exécution de ses tâches;\n7. communique à la Commission européenne, sur demande, toutes les informations relatives au fondement de la notification ou au maintien de la compétence de l’organisme d’évaluation de la conformité concerné.",
+      "text_sha256": "1a66f4a1f4a0205c07854568630acde1192fce5b0b19243c9e541f6883743086",
+      "md_span": {
+        "start": 14615,
+        "end": 15595
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_8/20170305",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Surveillance du marché",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 5 — *Attributions du département de la surveillance du marché*"
+      ],
+      "article_valid_from": "2017-03-05",
+      "text_md": "**(1)** Le département de la surveillance du marché établit de façon périodique un programme général de surveillance du marché qui regroupe les programmes sectoriels de surveillance du marché élaborés par les membres du Gouvernement et les administrations compétents pour la surveillance du marché de produits couverts par le règlement (CE) n° 765/2008 du Parlement européen et du Conseil du 9 juillet 2008 fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits et abrogeant le règlement (CEE) n° 339/93, tel que modifié par la suite.\n\nLe programme général est publié sur le site électronique installé à cet effet par l’ILNAS.\n\n**(2)** Le département de la surveillance du marché coordonne la mise en place du programme général visé à l’alinéa précédent.\n\n**(3)** Dans les conditions du paragraphe 1er, le département de la surveillance du marché procède périodiquement à l’évaluation du fonctionnement des activités de surveillance du marché.\n\n**(4)** Le département de la surveillance du marché assure la surveillance du marché dans le cadre de la législation applicable relative:\n\n1. aux appareils à gaz,\n2. aux appareils et systèmes de protection destinés à être utilisés en atmosphères explosibles,\n3. à la mise sur le marché des articles pyrotechniques,\n4. aux ascenseurs,\n5. à la compatibilité électromagnétique,\n6. aux équipements de protection individuelle,\n7. aux équipements sous pression,\n8. aux équipements sous pression transportables,\n9. aux équipements hertziens et aux équipements terminaux de télécommunications,\n10. à l’étiquetage de pneumatiques en relation avec l’efficacité en carburant et d’autres paramètres essentiels,\n11. aux exigences en matière d’écoconception applicables aux produits liés à l’énergie,\n12. à la mise sur le marché et au contrôle des explosifs à usage civil,\n13. à la dénomination des fibres textiles et à l’étiquetage et aux marquages correspondants des produits textiles au regard de leur composition en fibres,\n14. aux générateurs d’aérosols,\n15. à l’indication de la consommation des appareils domestiques en énergie et en autres ressources par voie d’étiquetage et d’informations uniformes relatives aux produits,\n16. aux installations à câbles transportant des personnes,\n17. aux instruments de mesure,\n18. aux instruments de pesage à fonctionnement non automatique,\n19. à la sécurité des jouets,\n20. aux machines,\n21. au matériel électrique destiné à être employé dans certaines limites de tension,\n22. aux produits de construction,\n23. aux produits en préemballages en ce qui concerne les aspects métrologiques,\n24. aux récipients à pression simple, et\n25. à la sécurité générale des produits.\n26. aux bateaux de plaisance et véhicules nautiques à moteur\n27. aux équipements marins\n28. « aux véhicules agricoles et forestiers »;\n29. « aux véhicules à deux ou trois roues et des quadricycles »;\n30. « aux véhicules à moteur et leurs remorques, ainsi que les systèmes composants et entités techniques distincts destinés à ces véhicules ».\n\n**(5)** En cas d’accident entraînant des dommages corporels dû à un produit concerné par les dispositions légales visées aux paragraphes 1er et 4, le département de la surveillance du marché est informé sans délai par l’organisme de la sécurité sociale compétent. Le département de la surveillance du marché transmet cette information au ministre et au directeur de l’administration qui est compétent pour l’application des dispositions légales en question.\n\n**(6)** Le département de la surveillance du marché gère, au niveau national, le système d’alerte rapide de l’Union européenne ainsi que le système général d’aide à l’information conformément aux règlements du Parlement européen et du Conseil fixant les prescriptions relatives à l’accréditation et à la surveillance du marché pour la commercialisation des produits.",
+      "text_sha256": "90237e80d227cd6a588d215aa7d4dcf27b6802bef47c36dc56ad51df9b46188c",
+      "md_span": {
+        "start": 15729,
+        "end": 19613
+      },
+      "citations": [
+        {
+          "href": "/eli/reg_ue/2008/765/jo",
+          "text": "règlement (CE) n° 765/2008"
+        },
+        {
+          "href": "/eli/reg_ue/1993/339/jo",
+          "text": "règlement (CEE) n° 339/93"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_9/20140801",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Métrologie",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 6 — *Attributions du Bureau luxembourgeois de métrologie*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Les missions du Bureau luxembourgeois de métrologie consistent:\n\n1. à proposer au ministre les organismes en charge de la mise en oeuvre de la politique nationale de métrologie, et particulièrement ceux chargés d’établir, de conserver, d’entretenir, d’améliorer et de reproduire les étalons nationaux en fonction des besoins du pays et d’assurer leur traçabilité au système international d’unités;\n2. à organiser la mise en place d’une infrastructure nationale de métrologie, à coordonner et à superviser les activités des organismes désignés, en charge de la mise en oeuvre de la politique nationale de métrologie;\n3. à déterminer, avec les parties intéressées, les besoins en étalons ainsi que les règles qui permettent de reproduire les unités légales;\n4. à définir le système d’étalons nationaux;\n5. à promouvoir et à veiller à une application correcte et uniforme du système international d’unités et des autres unités légales;\n6. à faciliter la reconnaissance internationale des organismes et des systèmes nationaux de métrologie;\n7. à organiser la promotion et la formation volontaire à la métrologie et\n8. - à organiser et à exécuter les contrôles métrologiques et vérifications en rapport avec les instruments de mesure;\n- à organiser et à réaliser la surveillance métrologique des instruments de mesure en usage dans les secteurs réglementés ainsi que de leur utilisation et des méthodes de mesurage appliquées;\n- à organiser et à exécuter le contrôle, en ce qui concerne les aspects métrologiques, des produits en préemballages et des quantités indiquées dans des débits de marchandises;\n- à promouvoir et à veiller à une application correcte et uniforme du système international d’unité de mesure et des autres unités légales.",
+      "text_sha256": "2774d63ecbbaa0510758e5993bd42ba52a301e6719383a3bcb76a2c228086332",
+      "md_span": {
+        "start": 19730,
+        "end": 21468
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_10/20140801",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Etudes et recherche",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 7 — *Autres missions de l’ILNAS*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** L’ILNAS est chargé de réaliser des recherches scientifiques dans le domaine de la normalisation, de la confiance numérique et de la métrologie et d’en publier les résultats.\n\nSous réserve de l’approbation du ministre et après avoir demandé l’avis du comité de coordination interministériel pour la recherche et le développement technologique pour chaque projet, l’ILNAS est autorisé à entreprendre, dans le domaine qui le concerne, des activités de R&D conformément aux dispositions du titre 1 de la loi modifiée du 9 mars 1987 ayant pour objet 1. l’organisation de la recherche et du développement technologique dans le secteur public et 2. le transfert de technologie et la coopération scientifique et technique entre les entreprises et le secteur public.\n\n**(2)** L’ILNAS est autorisé à publier des études ou des travaux de recherche contribuant au développement de la normalisation, de la confiance numérique et de la métrologie.\n\n**(3)** Dans le cadre de ses attributions l’ILNAS peut collaborer, sur décision du ministre, avec des centres de recherche économique et sociale au Luxembourg et à l’étranger. Il peut les charger de travaux de recherches et d’études.",
+      "text_sha256": "11f622ac84ad1bda2f038008a443cbac929277907fbace05c4fdfb6f8efceadb",
+      "md_span": {
+        "start": 21571,
+        "end": 22747
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1987/03/09/n1",
+          "text": "loi modifiée du 9 mars 1987"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_11/20140801",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Autres missions de l’ILNAS",
+      "path": [
+        "CHAPITRE II — ***L’ILNAS et ses missions***",
+        "Section 7 — *Autres missions de l’ILNAS*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Le ministre peut charger l’ILNAS de toute autre mission susceptible de contribuer à la réalisation des attributions reprises aux articles 3 à 9.",
+      "text_sha256": "6b1786440e9398045b8d4b3d317085584dced0e4ec5e88b181815d35cce19154",
+      "md_span": {
+        "start": 22811,
+        "end": 22955
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_12/20140801",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Assistance et délégation",
+      "path": [
+        "CHAPITRE III — ***Assistance par des personnes physiques ou morales***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Le ministre peut agréer des organismes de droit public ou privé en vue de participer aux missions prévues au paragraphe 2. Les organismes agréés exercent leur mission sous la direction et la surveillance de l’ILNAS.\n\nEn vue de son agrément, l’organisme doit présenter les garanties nécessaires de qualification professionnelle, d’intégrité, d’impartialité, d’indépendance et de confidentialité qui s’apprécient sur base d’une accréditation appropriée délivrée par l’OLAS conformément à l’article 5, paragraphe 1er, sous 1° ou sur base d’une accréditation reconnue équivalente par l’OLAS dans le cadre des accords de reconnaissance mutuelle européens ou internationaux. L’organisme doit également garantir la disponibilité des ressources humaines et des infrastructures et équipements requis en vue de l’exécution de la mission pour laquelle il sollicite un agrément.\n\nTout changement susceptible d’affecter les conditions de qualification professionnelle, d’intégrité, d’impartialité, d’indépendance ou de confidentialité oblige le ou les dirigeants de l’organisme agréé d’en informer l’ILNAS dans les huit jours suivant ce changement et d’indiquer comment le respect des conditions de l’agrément est assuré à titre provisoire. Dans les trois mois qui suivent, l’organisme est tenu de se mettre en conformité avec les exigences de son agrément.\n\nEn cas de non-respect par l’organisme agréé des conditions de son agrément, le ministre peut, après avoir entendu l’ILNAS, procéder au retrait temporaire ou définitif de l’agrément.\n\n**(2)** Dans le cadre de la surveillance du marché et de la métrologie légale, le ministre peut charger des organismes agréés de droit public ou privé d’études, de contrôles, de vérifications ainsi que d’autres missions de surveillance destinées à contribuer à la réalisation des missions qui sont confiées à l’ILNAS en vertu des articles 8 et 9.\n\nL’attribution des tâches en question aux organismes agréés se fait par voie conventionnelle.\n\nLes tâches visées portent sur:\n\n1. la recherche de produits non conformes, la vérification des marquages sur les produits ou leurs emballages et le contrôle à l’oeil nu des critères de conformité facilement perceptibles sans altération, destruction ou démontage du produit dans les parties librement accessibles au public d’un établissement de vente dans le cadre de l’article 8, paragraphe 4;\n2. les contrôles métrologiques et les vérifications en rapport avec les instruments de mesure;\n3. la surveillance métrologique des instruments de mesure en usage dans les secteurs réglementés ainsi que de leur utilisation et des méthodes de mesurage appliquées;\n4. le contrôle des aspects métrologiques des produits en préemballages et des quantités indiquées dans les débits de marchandises.\n\n**(3)** Un règlement grand-ducal précise:\n\n1. les modalités d’établissement des rapports et, le cas échéant, les marques d’identification, d’acceptation, de refus et de scellement ainsi que les modalités d’octroi et d’utilisation de celles-ci;\n2. les relations avec l’ILNAS ainsi que les modalités opérationnelles et financières pour chaque domaine d’intervention.",
+      "text_sha256": "f52c002fdb51651a40e98f332a75a59f4b44dc44026c6c16aece055f6609a18c",
+      "md_span": {
+        "start": 23092,
+        "end": 26223
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_13/20140801",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Mesures administratives dans le cadre de la surveillance du marché",
+      "path": [
+        "CHAPITRE IV — ***Pouvoirs d’investigation***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** L’ILNAS et l’Administration des douanes et accises, dénommés ci-après les «autorités compétentes», sont chargés des contrôles de conformité des produits prévus par les législations visées à l’article 8, paragraphe 4.\n\n**(2)** En vue des contrôles visés au paragraphe 1er, les autorités administratives compétentes peuvent:\n\n1. ordonner que les personnes susceptibles d’être exposées au risque découlant d’un produit soient averties de ce risque en temps utile et sous une forme appropriée, y compris par la publication de ces avertissements;\n2. er\n3. er\n4. ordonner, coordonner ou, le cas échéant, organiser avec les opérateurs économiques, le rappel, le retrait ou la modification d’un produit présentant un risque grave, y compris un risque grave dont les effets ne sont pas immédiats, du marché ou auprès des consommateurs et sa destruction dans les conditions adéquates;\n5. interdire d’exposer un produit en vente de façon qui induit ou risque d’induire en erreur sur ses caractéristiques réelles.\n\nLes décisions intervenues en exécution de l’alinéa 1 sont adressées selon le cas:\n\n1. au fabricant ou à son mandataire;\n2. à l’importateur;\n3. dans les limites de leurs activités respectives, aux distributeurs, notamment au responsable de la première distribution sur le marché national;\n4. à toute autre personne, lorsque ceci s’avère nécessaire, en vue de la collaboration aux actions engagées pour éviter des risques découlant d’un produit.\n\n**(3)** Les décisions intervenues dans les conditions du paragraphe 2, points 3° à 5°, sont susceptibles d’un recours en réformation à introduire devant le tribunal administratif dans un délai de trois mois à compter de leur notification.",
+      "text_sha256": "e626472787f4a97488c98cfdb71d77f7cc58e4286766347cd85cc9e017eeb049",
+      "md_span": {
+        "start": 26376,
+        "end": 28070
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_14/20140801",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Personnes compétentes en matière d’investigation dans le cadre de la surveillance du marché",
+      "path": [
+        "CHAPITRE IV — ***Pouvoirs d’investigation***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Sans préjudice de l’article 10 du Code d’instruction criminelle, les infractions à la présente loi et à ses règlements d’exécution sont constatées par les agents de l’Administration des douanes et accises à partir du grade de brigadier principal et des fonctionnaires de l’ILNAS de la carrière supérieure et de la carrière moyenne à partir du grade de rédacteur principal ou du grade d’ingénieur technicien principal.\n\nLes fonctionnaires visés à l’alinéa 1 doivent avoir suivi une formation professionnelle spéciale portant sur la recherche et la constatation des infractions ainsi que sur les dispositions pénales de la présente loi. Le programme et la durée de la formation ainsi que les modalités de contrôle des connaissances sont arrêtés par règlement grand-ducal.\n\nDans l’exercice de leurs fonctions les personnes visées à l’alinéa 1 ont la qualité d’officiers de police judiciaire. Ils constatent les infractions par des procès-verbaux faisant foi jusqu’à preuve du contraire. Leur compétence s’étend à tout le territoire du Grand-Duché de Luxembourg.\n\nAvant d’entrer en fonction ils prêtent, devant le tribunal d’arrondissement de leur domicile, siégeant en matière civile, le serment suivant: «Je jure de remplir mes fonctions avec intégrité, exactitude et impartialité.»\n\nL’article 458 du Code pénal leur est applicable.\n\n**(2)** Les fonctionnaires de la Police grand-ducale visés à l’article 10 du Code d’instruction criminelle et les personnes visées au paragraphe 1er sont autorisés à:\n\n1. er\n2. er\n3. appliquer les mesures administratives, prévues à l’article 13, paragraphe 2, point 2°;\n4. appliquer, s’ils en sont requis par les autorités administratives compétentes, les décisions prises en vertu de l’article 13, paragraphe 2, sous 1°, 3°, 4° et 5°.",
+      "text_sha256": "2a6e655860c4f1e65b7de3eda8894b8580ff86c8afc3c9927582a98000ef6a77",
+      "md_span": {
+        "start": 28199,
+        "end": 29974
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        },
+        {
+          "href": "/eli/etat/leg/code/penal",
+          "text": "Code pénal"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_15/20140801",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Modalités de contrôle",
+      "path": [
+        "CHAPITRE IV — ***Pouvoirs d’investigation***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Les fonctionnaires de la Police grand-ducale visés à l’article 10 du Code d’instruction criminelle et les personnes visées à l’article 14, paragraphe 1er ont accès aux locaux, installations, sites et moyens de transport assujettis à la présente loi et aux règlements pris en son exécution. Ils peuvent pénétrer de jour et de nuit, lorsqu’il existe des indices graves faisant présumer une infraction à la présente loi et à ses règlements d’exécution, dans les locaux, installations, sites et moyens de transport visés ci-dessus. Ils signalent leur présence au chef du local, de l’installation ou du site ou à celui qui le remplace. Celui-ci a le droit de les accompagner lors de la visite.\n\nToutefois, et sans préjudice de l’article 33 du Code d’instruction criminelle, s’il existe des indices graves faisant présumer que l’origine de l’infraction se trouve dans les locaux destinés à l’habitation, il peut être procédé à une visite domiciliaire entre six heures et demie et vingt heures par deux officiers de police judiciaire, membres de la Police grand-ducale ou agents au sens de l’article 14, paragraphe 1er agissant en vertu d’un mandat du juge d’instruction.\n\n**(2)** Dans les mêmes conditions, les fonctionnaires de la Police grand-ducale visés à l’article 10 du Code d’instruction criminelle et les personnes visées à l’article 14, paragraphe 1er sont autorisés à:\n\n1. er\n2. demander communication de tous livres, registres et fichiers relatifs à une installation, activité ou produit au sens de la présente loi, en vue d’en vérifier la conformité, à les copier ou à établir des extraits;\n3. er\n4. er\n\nLes échantillons prélevés conformément au point 3° font l’objet d’une remise ou de l’apposition d’un procès-verbal constatant les prélèvements effectués. Un échantillon, cacheté et scellé, est remis à l’opérateur économique concerné, à moins que celui-ci ne soit pas présent ou y renonce expressément ou que des raisons techniques ne s’y opposent.\n\n**(3)** Les fonctionnaires de la Police grand-ducale visés à l’article 10 du Code d’instruction criminelle et les personnes visées à l’article 14, paragraphe 1er ne sont pas tenus de signaler leur présence lors de vérifications effectuées dans les parties librement accessibles au public d’un établissement de vente lors:\n\n1. de la recherche de produits non conformes;\n2. de la vérification des marquages sur les produits ou leurs emballages, sans pour autant les désemballer;\n3. du contrôle à l’oeil nu de critères de conformité facilement perceptibles sans altération, destruction ou démontage du produit.\n\nLorsque le résultat des contrôles donne lieu à au moins une remarque, ils dressent un procès-verbal relatif aux vérifications et contrôles opérés. Une copie de ce procès-verbal est remise à l’opérateur économique concerné par les installations, locaux, terrains, documents, appareils, dispositifs, produits, matières ou substances contrôlés ou à son représentant ou en cas d’absence de celui-ci au responsable du local, de l’installation ou du site ou à celui qui le remplace.\n\n**(4)** Les opérateurs économiques ainsi que leurs préposés, les propriétaires ou détenteurs des installations, appareils, dispositifs, locaux, terrains, produits, matières ou substances, ainsi que toute personne responsable de travaux ou d’une activité généralement quelconque, susceptibles de tomber sous les dispositions de la présente loi ou de ses règlements d’exécution, sont tenus, à la réquisition des fonctionnaires chargés du contrôle, de ne pas entraver les opérations auxquelles ceux-ci procèdent en vertu de la présente loi.\n\n**(5)** En cas de constatation d’un manquement aux dispositions de la législation applicable, les frais de surveillance du marché qui ont été à la base de cette constatation de non-conformité sont à charge du fabricant ou de son mandataire. Si le fabricant respectivement le mandataire n’est pas établi dans l’Union européenne, ces frais sont à charge de l’importateur dans l’Union européenne ou, à défaut, à charge du revendeur.\n\n**(6)** Lorsque les personnes visées à l’article 14, paragraphe 1er rencontrent des difficultés dans l’exercice de leurs pouvoirs de contrôle, elles peuvent requérir le concours et l’assistance technique de la Police grand-ducale.",
+      "text_sha256": "e674b0cf7231542f0d40c12c2591a7a76e1c42c501c25e4b2bb1135d4d191a46",
+      "md_span": {
+        "start": 30033,
+        "end": 34287
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/procedure_penale",
+          "text": "Code d’instruction criminelle"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_16/20140801",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Coopération internationale",
+      "path": [
+        "CHAPITRE IV — ***Pouvoirs d’investigation***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Dans la mesure nécessaire à l’accomplissement de ses missions légales, l’ILNAS coopère avec les instances, institutions et agences internationales et européennes ainsi qu’avec les autorités compétentes des autres Etats membres de l’Union européenne et de pays tiers ayant signé avec le Grand-Duché de Luxembourg une convention de coopération dans une ou plusieurs des matières visées par la présente loi et procède à l’échange des informations et documentations utiles aux recherches requises effectuées de sa propre initiative ou initiées par une instance, institution ou agence internationale ou européenne ou une autorité étrangère compétente.",
+      "text_sha256": "003be472e330201b8500fec35fb1418f78b80e4df74bb2249a209cac61f66b00",
+      "md_span": {
+        "start": 34351,
+        "end": 34997
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_17/20140801",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Amendes administratives dans le cadre de la surveillance du marché",
+      "path": [
+        "CHAPITRE V — ***Sanctions***",
+        "Section 1 — *Dispositions administratives*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Les autorités compétentes peuvent infliger une amende de 250 euros à 10.000 euros à tout opérateur économique qui a mis sur le marché ou qui a mis à disposition sur le marché un produit ou un lot de produits qui fait partie des attributions de l’ILNAS et:\n\n1. règlement (CE) n° 765/2008\n2. décision n° 768/2008/CE décision 93/465/CEE\n\n**(2)** Les autorités compétentes, chacune dans son domaine de compétence respectif, peuvent infliger une amende de 250 euros à 15.000 euros à tout opérateur économique qui:\n\n1. refuse de fournir les documents et informations ou autres renseignements demandés dans le cadre de la surveillance du marché;\n2. fait obstacle à l’exercice de la surveillance du marché.\n\n**(3)** Les amendes sont payables dans les trente jours de la notification de la décision écrite, nonobstant l’exercice d’une voie de recours.\n\nLes décisions d’infliger une amende administrative en vertu du présent article sont susceptibles d’un recours en réformation à introduire devant le tribunal administratif, dans le délai de trois mois à partir de la notification.",
+      "text_sha256": "d5629f0b793933a9b33834c97757b7833cdd9860d15b606590ce34cd37104f5f",
+      "md_span": {
+        "start": 35182,
+        "end": 36262
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_18/20140801",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Dispositions pénales dans le cadre de l’accréditation des organismes d’évaluation de la conformité",
+      "path": [
+        "CHAPITRE V — ***Sanctions***",
+        "Section 2 — *Dispositions pénales*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Est punie d’une amende de 251 euros à 25.000 euros, d’une peine d’emprisonnement de 8 jours à 6 mois ou d’une de ces peines seulement:\n\n1. toute personne qui se prévaut d’une accréditation sans être titulaire d’une accréditation en cours de validité;\n2. toute personne qui a utilisé ou apposé la marque semi-figurative «OLAS», telle qu’enregistrée à l’Office Benelux de la Propriété intellectuelle, sans être titulaire d’une accréditation en cours de validité;\n3. toute personne qui a utilisé ou apposé la marque semi-figurative «OLAS», telle qu’enregistrée à l’Office Benelux de la Propriété intellectuelle, sur des certificats ou rapports pour des activités autres que celles pour lesquelles il dispose d’une accréditation.",
+      "text_sha256": "f3ce7f7946c0c85e77136ec7afeeee8c554148d5ead492bfe50a362f9366db4e",
+      "md_span": {
+        "start": 36438,
+        "end": 37163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_19/20140801",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Dispositions pénales dans le cadre de la surveillance du marché",
+      "path": [
+        "CHAPITRE V — ***Sanctions***",
+        "Section 2 — *Dispositions pénales*"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Est punie d’une amende de 251 euros à 500.000 euros et d’une peine d’emprisonnement de 8 jours à trois ans ou d’une de ces peines seulement, toute personne qui a mis sur le marché ou qui a mis à disposition sur le marché un produit, dont le contenu ou les caractéristiques ne sont pas conformes aux dispositions légales visées à l’article 13, paragraphe 1er.\n\n**(2)** Est punie des mêmes peines, le maximum de l’amende prévue étant porté à 1.000.000 euros, toute personne qui ne s’est pas conformée aux décisions prises en application de l’article 13, paragraphe 2.\n\n**(3)** Les tribunaux peuvent prononcer la confiscation et la destruction des biens ayant servi à l’infraction ainsi que la confiscation des bénéfices illicites.",
+      "text_sha256": "3ba0badba1c10db8853238d84430a96e2227ab765d5bddfe802c1b467b663cdf",
+      "md_span": {
+        "start": 37264,
+        "end": 38000
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_20/20151001",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Emplois et fonctions",
+      "path": [
+        "CHAPITRE VI — ***Cadre de l’administration***"
+      ],
+      "article_valid_from": "2015-10-01",
+      "text_md": "**(1)** Le cadre du personnel comprend un directeur et des fonctionnaires des différentes catégories de traitement telles que prévues par la loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.\n\n**(2)** Le directeur doit satisfaire aux conditions de nomination à la carrière supérieure de l’Etat.\n\n**(3)** Le cadre prévu au paragraphe 1er peut être complété par des stagiaires, des employés de l’Etat ainsi que des salariés de l’Etat selon les besoins de service et dans les limites des crédits budgétaires disponibles.",
+      "text_sha256": "028f1c418b5a40c611cc6502ad850cbb2dbdde5c897a07d7e3921fd9f4b87912",
+      "md_span": {
+        "start": 38108,
+        "end": 38701
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2015/03/25/n3/jo",
+          "text": "loi du 25 mars 2015"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_21/20140801",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Conditions et modalités d’admission au stage",
+      "path": [
+        "CHAPITRE VI — ***Cadre de l’administration***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Sans préjudice des conditions générales d’admission au service de l’Etat, les conditions particulières de formation, d’admission au stage, de nomination et de promotion du personnel des cadres dans l’administration sont déterminées par règlement grand-ducal qui peut également déterminer les attributions particulières de ces fonctionnaires.",
+      "text_sha256": "9cf85e8d38e5a787d42156d5a9989c2911c9a1af5c63ba03909e4954870a5a04",
+      "md_span": {
+        "start": 38783,
+        "end": 39124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_22/20140801",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Nominations des fonctionnaires",
+      "path": [
+        "CHAPITRE VI — ***Cadre de l’administration***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Sont nommés par le Grand-Duc les fonctionnaires dont les fonctions sont supérieures à celles du grade 8. Le ministre nomme aux autres fonctions.",
+      "text_sha256": "882ac18cb823afdcf0c18e1c60b5d9bb16ff40433375263163d8d6822892f5f0",
+      "md_span": {
+        "start": 39192,
+        "end": 39336
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_23/20140801",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "Modification de la loi modifiée du 17 mai 1882 sur les poids et mesures",
+      "path": [
+        "CHAPITRE VII — ***Dispositions modificatives et abrogatoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "La loi modifiée du 17 mai 1882 sur les poids et mesures est modifiée comme suit:\n\n1. - er Le ministre ayant l’Economie dans ses attributions, ci-après désigné le ministre Le directeur de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services, ci-après désigné le directeur\n- service de métrologie Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services ministre directeur\n2. En cas de constatation d’un manquement aux dispositions de la législation applicable, les frais de contrôle qui ont été à la base de cette constatation de nonconformité sont mis à charge des prévenus.",
+      "text_sha256": "926bb01910da70ca5f9d186161892c602ee41f96892b9438225cae4a20f9db61",
+      "md_span": {
+        "start": 39513,
+        "end": 40211
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1882/05/17/n1/jo",
+          "text": "loi modifiée du 17 mai 1882"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_24/20140801",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "Modification de la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits",
+      "path": [
+        "CHAPITRE VII — ***Dispositions modificatives et abrogatoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "La loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits est modifiée comme suit:\n\n1. ministre ayant la protection des consommateurs dans ses attributions, désigné ci-après par «le ministre» le directeur de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services, désigné ci-après par «le directeur»\n2. er ministre directeur\n3. Les personnes compétentes en matière d’investigation sont celles prévues à l’article 14 paragraphe 1er de la loi du 4 juillet 2014 portant réorganisation de l’ILNAS. L’investigation est réalisée conformément à l’article 14 paragraphe 2 de la loi précitée du 4 juillet 2014.\n4. La recherche et la constatation des infractions a lieu conformément à l’article 15 de la loi précitée du 4 juillet 2014.\n5. **(1)** Les mesures administratives sont celles prévues à l’article 13 paragraphe 2 de la loi précitée du 4 juillet 2014. Les amendes administratives sont celles prévues à l’article 17 de la loi précitée du 4 juillet 2014.\n6. ministre directeur les services du ministre l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services\n7. loi précitée du 4 juillet 2014\n8. L’article 9 est supprimé.",
+      "text_sha256": "df951f9c2c340d0a20e53857106ace6027a26ad773ead5ee57b73def639ae741",
+      "md_span": {
+        "start": 40344,
+        "end": 41608
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2006/07/31/n3/jo",
+          "text": "loi modifiée du 31 juillet 2006"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/07/04/n2/jo",
+          "text": "loi du 4 juillet 2014"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/07/04/n2/jo",
+          "text": "loi précitée du 4 juillet 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_25/20140801",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": "Modifications de la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie",
+      "path": [
+        "CHAPITRE VII — ***Dispositions modificatives et abrogatoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "1. loi du 20 mai 2008 loi du 4 juillet 2014\n2. loi du 4 juillet 2014\n3. bis loi précitée du 4 juillet 2014",
+      "text_sha256": "8ce61632fb571c375f2262c2c65608b8b80116536652f3e85a6bc647430a7faa",
+      "md_span": {
+        "start": 41824,
+        "end": 41930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_26/20140801",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Modification de la loi du 25 mars 2009 relative à la compatibilité électromagnétique",
+      "path": [
+        "CHAPITRE VII — ***Dispositions modificatives et abrogatoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "La loi du 25 mars 2009 relative à la compatibilité électromagnétique est modifiée comme suit:\n\n1. er loi du 20 mai 2008 loi du 4 juillet 2014\n2. ministre directeur de l’Institut\n3. loi du 20 mai 2008 loi du 4 juillet 2014\n4. loi du 20 mai 2008 loi du 4 juillet 2014\n5. Les sanctions pénales sont celles prévues à l’article 18 de la loi du 4 juillet 2014 portant réorganisation de l’ILNAS.\n6. ***Les amendes administratives*** Les amendes administratives sont celles prévues à l’article 17 de la loi du 4 juillet 2014 portant réorganisation de l’ILNAS.»",
+      "text_sha256": "d349d429472a53249b2887de56f2bf9399d74d6c9d463d5df5c1d0d19567e5ef",
+      "md_span": {
+        "start": 42052,
+        "end": 42604
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2009/03/25/n1/jo",
+          "text": "loi du 25 mars 2009"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/07/04/n2/jo",
+          "text": "loi du 4 juillet 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_27/20140801",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": "Modification de la loi modifiée du 27 mai 2010 relative aux machines",
+      "path": [
+        "CHAPITRE VII — ***Dispositions modificatives et abrogatoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "La loi modifiée du 27 mai 2010 relative aux machines est modifiée comme suit:\n\n1. er loi modifiée du 20 mai 2008 loi du 4 juillet 2014\n2. loi précitée du 20 mai 2008 loi précitée du 4 juillet 2014\n3. er le ministre ayant le travail dans ses attributions, dénommé ci-après «le ministre» l’ILNAS\n4. er Il informe en pareil cas l’ILNAS, de la démarche entamée.\n5. le ministre le directeur de l’ILNAS\n6. le ministre le directeur de l’ILNAS\n7. Il informe en pareil cas l’ILNAS, de la démarche entamée.\n8. er le ministre respectivement l’ITM, chacun dans le domaine de ses compétences respectives, prennent l’ILNAS, prend loi du 20 mai 2008 loi précitée du 4 juillet 2014\n9. Le ministre L’ILNAS\n10. le ministre L’ILNAS\n11. ITM ILNAS et en informe le et en informe le ministre Le ministre peut interdire par arrêté ministériel, Le directeur de l’ILNAS peut interdire Cet arrêté est publié au Mémorial ministre directeur de l’ILNAS\n12. er loi précitée du 20 mai 2008 loi précitée du 4 juillet 2014\n13. loi précitée du 20 mai 2008 loi précitée du 4 juillet 2014\n14. ITM ILNAS\n15. en informe le ministre. Le ministre\n16. A l’article 13 le paragraphe 6 est supprimé.\n17. le ministre demande au ministre ayant l’économie dans ses attributions de retirer l’Office Luxembourgeois d’Accréditation et de Surveillance de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services retire\n18. loi précitée du 20 mai 2008 loi précitée du 4 juillet 2014\n19. Le ministre ayant l’économie dans ses attributions L’Office Luxembourgeois d’Accréditation et de Surveillance\n20. Sans préjudice des attributions de l’ILNAS, l’ITM est compétente L’ILNAS est compétent\n21. fonctionnaires enquêteurs de l’ITM ministre ayant le Travail dans ses attributions quant à la mise sur le marché de machines sont aussi chargés de rechercher et de constater les infractions\n22. fonctionnaires enquêteurs de l’ITM ministre ayant le Travail dans ses attributions quant à la mise sur le marché de machines sont aussi chargés de rechercher et de constater les infractions\n23. ITM ILNAS\n24. du ministre, l’ITM de l’ILNAS, l’ILNAS\n25. er 20 mai 2008 4 juillet 2014\n26. 20 mai 2008 4 juillet 2014\n27. Les sanctions pénales sont celles prévues à l’article 18 de la loi du 4 juillet 2014 portant réorganisation de l’ILNAS. Les amendes administratives sont celles prévues à l’article 17 de la loi du 4 juillet 2014 portant réorganisation de l’ILNAS.\n28. loi du 4 juillet 2014",
+      "text_sha256": "84f63aace3e7dc88c7f21e86cba3845f5b0712b780351eb6dd21765e60a6867f",
+      "md_span": {
+        "start": 42710,
+        "end": 45192
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/05/27/n2/jo",
+          "text": "loi modifiée du 27 mai 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2014/07/04/n2/jo",
+          "text": "loi du 4 juillet 2014"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_28/20140801",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": "Modification de la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets",
+      "path": [
+        "CHAPITRE VII — ***Dispositions modificatives et abrogatoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "La loi du 15 décembre 2010 relative à la sécurité des jouets est modifiée comme suit:\n\n1. 20 mai 2008 4 juillet 2014\n2. loi du 20 mai 2008 loi du 4 juillet 2014 loi du 4 juillet 2014\n3. loi du 4 juillet 2014\n4. L’article 22 est supprimé.\n5. er le ministre L’Institut loi du 20 mai 2008 loi du 4 juillet 2014\n6. , au nom du ministre,\n7. le ministre sur proposition de\n8. le ministre sur avis de\n9. loi du 20 mai 2008 loi du 4 juillet 2014",
+      "text_sha256": "1660b4634cb8244db0f9afcab6f3650d72b22f91b7aa18cdc7583a727c7b93fd",
+      "md_span": {
+        "start": 45315,
+        "end": 45752
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/12/15/n1/jo",
+          "text": "loi du 15 décembre 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_29/20140801",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": "Modification de la loi du 21 décembre 2012 concernant les équipements sous pression transportables",
+      "path": [
+        "CHAPITRE VII — ***Dispositions modificatives et abrogatoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "La loi du 21 décembre 2012 concernant les équipements sous pression transportables est modifiée comme suit:\n\n1. er er loi modifiée du 20 mai 2008 loi du 4 juillet 2014\n2. er ème loi modifiée du 20 mai 2008 loi du 4 juillet 2014",
+      "text_sha256": "3271d401b5f6c8fe5fc968b9c4d85b714b2ade2ddc9179d3a118f9bcb758904a",
+      "md_span": {
+        "start": 45888,
+        "end": 46115
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2012/12/21/n8/jo",
+          "text": "loi du 21 décembre 2012"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_30/20140801",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": "Abrogation de la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services",
+      "path": [
+        "CHAPITRE VII — ***Dispositions modificatives et abrogatoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "La loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services est abrogée.",
+      "text_sha256": "e5c4610e48f75847e8e827e8c817c803dfe2e9cd6cc38bf3d62f31b74d3cf8d9",
+      "md_span": {
+        "start": 46341,
+        "end": 46528
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2008/05/20/n1/jo",
+          "text": "loi modifiée du 20 mai 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_31/20140801",
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": "Dispositions relatives au personnel",
+      "path": [
+        "CHAPITRE VIII — ***Dispositions transitoires***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "**(1)** Pour chaque carrière, il est établi un tableau d’avancement unique regroupant tous les fonctionnaires de cette carrière. Les nominations des fonctionnaires aux grades supérieurs de leur carrière se font par application des lois et règlements déterminant les conditions et modalités d’avancement des fonctionnaires de l’Etat. Toutefois, les fonctionnaires transférés vers l’ILNAS au 1er juin 2008 peuvent bénéficier d’une promotion à un grade supérieur de leur carrière par dérogation à ces lois et règlements, s’il est établi qu’ils auraient bénéficié dans leur administration d’origine de la même promotion s’ils avaient continué à faire partie de cette administration.\n\nCette disposition produira ses effets jusqu’au 31 mai 2018.\n\n**(2)** Les fonctionnaires de la carrière de l’expéditionnaire technique engagés le 1er février 1991 auprès du Service de l’énergie de l’Etat, pourront être désignés par le Ministre pour les missions définies à l’article 14.\n\n**(3)** L’ILNAS est autorisé à procéder à l’engagement de huit fonctionnaires de la carrière moyenne de l’ingénieur technicien en plus du contingent déjà légalement autorisé, déduction faite du nombre de fonctionnaires que l’Inspection du travail et des mines a engagés à la date de l’entrée en vigueur de la présente loi sur base de l’article 25 abrogé de la loi modifiée du 27 mai 2010 relative aux machines. Les fonctionnaires en question de l’Inspection du travail et des mines sont transférés à l’ILNAS.\n\n**(4)** Les stagiaires des carrières de l’attaché de direction et de l’ingénieur engagés à la date de l’entrée en vigueur de la présente loi sur base de l’article 25 abrogé de la loi modifiée du 27 mai 2010 relative aux machines sont transférés à l’ILNAS.\n\nLes stagiaires en question sont admissibles à l’examen de formation spéciale et à l’examen de fin de stage de l’année 2014 de l’Inspection du travail et des mines.",
+      "text_sha256": "c9dc3b409862a095a83851abdb8b8e61d05cc1796ddb2244c4c1cfe18b843ed1",
+      "md_span": {
+        "start": 46653,
+        "end": 48550
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2010/05/27/n2",
+          "text": "loi modifiée du 27 mai 2010"
+        },
+        {
+          "href": "/eli/etat/leg/loi/2010/05/27/n2/jo",
+          "text": "loi modifiée du 27 mai 2010"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-2014-07-04-n2:2017-03-05#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/art_32/20140801",
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "Références à la présente loi",
+      "path": [
+        "CHAPITRE IX — ***Dispositions finales***"
+      ],
+      "article_valid_from": "2014-08-01",
+      "text_md": "Dans toute disposition légale et réglementaire future, la référence à la présente loi pourra se faire sous une forme abrégée en utilisant les termes de «loi du 4 juillet 2014 portant réorganisation de l’ILNAS».",
+      "text_sha256": "d133ce3e04c6f64c9c1717bf1599622353ace6a3fe2ed41856f122f2aef74dec",
+      "md_span": {
+        "start": 48661,
+        "end": 48871
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/2014/07/04/n2/jo",
+          "text": "loi du 4 juillet 2014"
+        }
+      ]
+    }
+  ],
+  "notes": []
+}

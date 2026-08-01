@@ -1,0 +1,272 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 07/10/1987 : Règlement grand-ducal du 8 décembre 1977 portant sur les modalités des examens médicaux et de l'examen dentaire de la femme enceinte et de l'examen postnatal de la mère, ainsi que sur le carnet de maternité.",
+  "valid_from": "1978-04-01",
+  "valid_to": "1987-10-06",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1977-12-08-n2/versions/1978-04-01/fr.xml",
+    "sha256": "cfd2c55d8f9d14a2c0d0a04524113d7dfd3dd973febc452d1de1d468443e4bf2",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19780401/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_1er/19771223",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Le premier des cinq examens auxquels la femme enceinte se soumet pendant sa grossesse doit être effectué avant la fin du troisième mois de la grossesse.\n\nCet examen médical a pour but d'établir:\n\n- l'âge de la grossesse, repérant la date des dernières règles et le jour probable du terme, quarante semaines plus tard;\n- le poids et la taille de la femme enceinte;\n- le dosage du fer sérique et de la glycémie; le bilan cytochimique des urines;\n- les antécédents médicaux (constatation d'une cardiopathie, d'une hypertension artérielle), familiaux, chirurgicaux, gynécologiques et obstétriques;\n- le profil socio-biologique de la future mère, éventuellement complété par une visite ou enquête de l'assistante d'hygiène sociale ou de l'assistante sociale.\n\nA la fin de l'examen le médecin remet son carnet de maternité à la future mère.",
+      "text_sha256": "4764176b97471f22ca05bc1e446d5ab5c883d725c0a2f2ae95424833ed679e76",
+      "md_span": {
+        "start": 735,
+        "end": 1569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_2/19771223",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Pour toute femme enceinte n'ayant pas subi l'examen médical prévu par l'article 63 du code civil, le premier examen comporte en outre les éléments indiqués au règlement grand-ducal du 14 mars 1973 déterminant les examens à effectuer en vue de la délivrance du certificat médical avant mariage, à l'exception cependant de l'examen radiophotographique des poumons qui n'est effectué qu'en cas de nécessité majeure. Pour toute femme ayant subi l'examen médical avant mariage, la recherche des anticorps antitoxoplasmiques est répétée dans tous les cas où cet examen avait donné un résultat négatif; dans le cas de nécessité majeure, un examen radiologique pulmonaire radiographique ou radiophotographique, à l'exclusion de tout examen radioscopique, peut être effectué.\n\nLa répétition de l'examen sérologique en vue de la recherche de la syphilis est recommandée, à moins que cet examen ait été pratiqué dans les six mois précédents, notamment au cours de l'examen médical avant mariage.",
+      "text_sha256": "2b0664b15e4c86be8fc98773045ebe7ad1acc6be9aa94e163ac174ad2ffae242",
+      "md_span": {
+        "start": 1604,
+        "end": 2588
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/code/civil",
+          "text": "code civil"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1973/03/14/n1/jo",
+          "text": "règlement grand-ducal du 14 mars 1973"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_3/19771223",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Le deuxième examen a lieu au plus tard dans la deuxième quinzaine du quatrième mois et porte sur:\n\n- l'état de santé général, le bien-être physique et psychique;\n- la révision des états pathologiques ou des risques éventuellement décelés au premier examen;\n- la croissance utérine et fœtale;\n- le dépistage de l'existence possible de complications obstétricales (hémorragies vaginales).",
+      "text_sha256": "2353d7c61f7e0f57d479355c64b56257930c20b03841d6d770405f9d62b22e4e",
+      "md_span": {
+        "start": 2623,
+        "end": 3009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_4/19771223",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Le troisième examen a lieu au cours du sixième mois. Il porte sur:\n\n- l'état de santé général, le bien-être physique et psychique;\n- la révision des états pathologiques ou des risques éventuellement décelés au premier examen;\n- la croissance utérine et foetale (grossesse gémellaire, malnutrition foetale, etc.);\n- le dépistage de l'existence possible de complications obstétricales (hémorragies vaginales, pré-éclampsie);\n- le dosage du fer sérique et de la glycémie; le bilan cytochimique des urines;\n- le dépistage de signes biologiques ou cliniques de menace d'accouchement prématuré;\n- la présence d'une éventuelle infection générale ou localisée;\n- le dépistage d'une disproportion fœto-pelvienne.",
+      "text_sha256": "ea9e6ab4b6f870702220e6e2eeff99688b9fa8b3e44c0f5f51dae1d3bb3c2d70",
+      "md_span": {
+        "start": 3044,
+        "end": 3747
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_5/19771223",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Le quatrième examen prénatal se situe dans les quinze premiers jours du huitième mois de grossesse. En dehors des objectifs définis pour les examens précédents, il est plus particulièrement orienté vers le dépistage de la toxémie gravidique et la recherche des causes possibles de dystocie.",
+      "text_sha256": "a3bbf4f0ed23308d9baff3fee8bb55dc1ed7ca3f0bc462128bb467f5af9934a7",
+      "md_span": {
+        "start": 3782,
+        "end": 4072
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_6/19771223",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Le dernier examen prénatal a lieu dans les quinze premiers jours du neuvième mois de grossesse et comporte également le dépistage de la toxémie gravidique et la recherche des causes possibles de dystocie et d'anomalies de présentation. Il est en outre plus particulièrement orienté vers la prévention des morts fœtales tardives.",
+      "text_sha256": "a8153a695b8d0424d042101a369d4ebddf897d3b0cf9d0af596c3743c44423b1",
+      "md_span": {
+        "start": 4107,
+        "end": 4435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_7/19771223",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Au cours de chacun des examens médicaux, la prise de poids et celle de la tension artérielle ainsi que la recherche de l'albumine et du glucose doivent être obligatoirement effectuées.",
+      "text_sha256": "65b8f516c7a5f70995c6efbff6dfe282007a2154ea638fa43eb822ba1e75d1b5",
+      "md_span": {
+        "start": 4470,
+        "end": 4654
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_8/19771223",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Au cours de ces examens il est recommandé au médecin de mettre la future mère au courant de l'histoire naturelle de la grossesse, tant sur le plan physique que psychologique, et d'attirer son attention sur le danger que présentent pour le foetus la consommation de cigarettes et de boissons alcoolisées, la prise incontrôlée de médicaments, l'exposition aux différents agents physiques.\n\nLe médecin lui rappelle les règles d'hygiène de la gestation, en particulier l'importance d'une alimentation complète et bien équilibrée.",
+      "text_sha256": "006019c2834d93ecaaf5e657671a16c23c17cf660f581d49a9cd5dc9f8c4aff6",
+      "md_span": {
+        "start": 4689,
+        "end": 5214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_9/19780401",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1978-04-01",
+      "text_md": "L'examen dentaire a lieu dès que la femme enceinte est au courant de son état et au plus tard avant la fin du cinquième mois.",
+      "text_sha256": "ae1363336c7f25833b5c76621c937f2b15154e05cc6180ffb54ef29d356f0b6a",
+      "md_span": {
+        "start": 5249,
+        "end": 5374
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_10/19771223",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "La prévention des incompatibilités sanguines fœto-maternelles par l'utilisation des gammaglobulines anti-D doit être obligatoirement effectuée le plus tôt possible chez toute femme Rh négative et qui vient de mettre au monde un enfant Rh positif.",
+      "text_sha256": "af206996116ff527b4ffbdae7b22419666036f99b4fc7ab06ccf747bf6bd8ec9",
+      "md_span": {
+        "start": 5411,
+        "end": 5657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_11/19780401",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1978-04-01",
+      "text_md": "L'examen postnatal de la mère a lieu dans les dix semaines qui suivent l'accouchement, mais au plus tôt après l'expiration des deux premières semaines qui suivent l'accouchement. Il permet de vérifier si l'état de santé de la mère a été modifié par la grossesse et comporte à cet effet un examen clinique général et un examen gynécologique.",
+      "text_sha256": "0875193fcb1964621fe7c3ae6bdce925ea9a847575ffd6b03a3d1a3deb69f0b4",
+      "md_span": {
+        "start": 5694,
+        "end": 6034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_12/19771223",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Le carnet de maternité a le format DIN A 5. II comporte en chacune des langues française, allemande, anglaise, italienne, espagnole et portuguaise des conseils à l'intention de la femme enceinte. Le carnet rappelle pour chacun des cinq examens médicaux ainsi que pour l'examen dentaire et pour l'examen postnatal les investigations auxquelles le médecin examinateur doit procéder, conformément aux articles 1 à 11 ci-dessus. Le médecin transcrit ses observations aux endroits prévus à cet effet. Il peut en outre y annoter ses observations supplémentaires ainsi que ses recommandations.",
+      "text_sha256": "afa77b18f980efc1c307dd99990a1c512a3112901bb9b5d88032e2e4e542f350",
+      "md_span": {
+        "start": 6071,
+        "end": 6657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12bis",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_12bis",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_12bis/19780401",
+      "type": "article",
+      "num": "Art. 12bis.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1978-04-01",
+      "text_md": "La périodicité des examens prescrits n'est pas une condition d'attribution de l'allocation prénatale, sauf le premier examen qui doit être effectué avant la fin du troisième mois de la grossesse.",
+      "text_sha256": "4af9c8d2dcc86e2b2d034f04824a8bcc7653eddd9b39d7b9ebdd018e56753bad",
+      "md_span": {
+        "start": 6700,
+        "end": 6895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1977-12-08-n2:1978-04-01#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/art_13/19771223",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1977-12-23",
+      "text_md": "Notre Ministre de la Santé Publique est chargé de l'exécution du présent règlement qui sera publié au Mémorial et entrera en vigueur le premier du mois qui suit l'expiration du délai de trois mois à partir de sa publication.",
+      "text_sha256": "fffb384eb7ab7a8b6847a6cda4b6793c01d817311eaeb87c49de92545a626d97",
+      "md_span": {
+        "start": 6932,
+        "end": 7156
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

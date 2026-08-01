@@ -1,0 +1,69 @@
+{
+  "lex_work_id": "lu-legilux:rgd-2012-12-21-n10",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "akn-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2026-07-01",
+        "valid_to": null,
+        "text_sha256": "b3cfa8e67c3f2ce142f37d46d9e4a689f1746840a0247a18ae371bfdd7667e05",
+        "in_version": "lu-legilux:rgd-2012-12-21-n10:2026-07-01",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2026-07-01",
+        "valid_to": null,
+        "text_sha256": "3074fd7f2f65a1f11b33d930c9142a9e8e2ae2626eeb97c58812076c707a23ca",
+        "in_version": "lu-legilux:rgd-2012-12-21-n10:2026-07-01",
+        "article_valid_from": "2026-07-01"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2026-07-01",
+        "valid_to": null,
+        "text_sha256": "337a5e44085bc9ae97e4307884e150fdb6f0b4133d76d9246f7ecfacf9f1d906",
+        "in_version": "lu-legilux:rgd-2012-12-21-n10:2026-07-01",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2026-07-01",
+        "valid_to": null,
+        "text_sha256": "57dfb99974c0be4217282011b526a95679f0155e4b71d08ceca5f040dcc2e9c3",
+        "in_version": "lu-legilux:rgd-2012-12-21-n10:2026-07-01",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2026-07-01",
+        "valid_to": null,
+        "text_sha256": "8970cbd02fabd93d50bca05d5096eb97d279e5f4c34c6b9b84b1593e857f5959",
+        "in_version": "lu-legilux:rgd-2012-12-21-n10:2026-07-01",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2026-07-01",
+        "valid_to": null,
+        "text_sha256": "ee7454c63ac1d58715524586427078207d56e56a3b065cea8ea550029b7791f3",
+        "in_version": "lu-legilux:rgd-2012-12-21-n10:2026-07-01",
+        "article_valid_from": "2013-01-01",
+        "validity_conflict": true
+      }
+    ]
+  },
+  "anchor_events": []
+}

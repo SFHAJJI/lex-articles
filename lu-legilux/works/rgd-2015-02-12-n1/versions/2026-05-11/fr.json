@@ -1,0 +1,691 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/05/2026 : Règlement grand-ducal du 12 février 2015 portant exécution de la loi modifiée du 14 avril 1934, fixant les modalités pour l’obtention d’un passeport biométrique, titre de voyage biométrique pour étrangers, apatrides et réfugiés et établissant un droit de chancellerie pour légalisations d’actes.",
+  "valid_from": "2026-05-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2015-02-12-n1/versions/2026-05-11/fr.xml",
+    "sha256": "f425d988e32fb82feebf812634027080d4347f106003b0bee1a199f2a484a3dc",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/consolide/20260511/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive",
+    "code_version": "dev"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_1er/20260511",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section I. - Dispositions communes au passeport biométrique"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Aux fins du présent règlement grand-ducal, on entend par:\n\n1. «date de délivrance du passeport»: la date à laquelle le passeport a été personnalisé;\n2. «personnalisation du passeport»: le processus par lequel les données personnelles sont introduites de manière physique et électronique dans le passeport ainsi que le contrôle de ces données et la validation du passeport;\n3. destinataire ou à son",
+      "text_sha256": "11da6d2e316ff7b395b6fa22155f5c2a27a8a94f49f570e3f80580ac9077c11b",
+      "md_span": {
+        "start": 930,
+        "end": 1327
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_2/20260511",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section I. - Dispositions communes au passeport biométrique"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** Le passeport biométrique est pourvu d’une couverture souple de couleur bordeaux. La couverture comporte, sur sa face extérieure, les mentions suivantes :\n\n« Union européenne », « Grand-Duché de Luxembourg », « Passeport ».\n\nElle présente également, sur la même face, un pictogramme indiquant la présence d’une puce électronique, signe distinctif du passeport biométrique.\n\nLa face arrière de la couverture est ornée des moyennes armoiries du Grand-Duché du Luxembourg, reproduites en couleur dorée.\n\nUn fil de sécurité relie les deux faces de la couverture.\n\n**(2)** Le passeport biométrique comporte trente-deux (32) pages.",
+      "text_sha256": "616dc442f6b00cb3469ae31d58bb999a5f4a03f2e7d8f49b75b5bfa5542de2ab",
+      "md_span": {
+        "start": 1362,
+        "end": 1994
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_3/20260511",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section I. - Dispositions communes au passeport biométrique"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Est incorporée dans le passeport une puce électronique stockant:\n\n1. l’image faciale du titulaire,\n2. la signature du titulaire,\n3. les empreintes digitales du titulaire,\n4. les données alphanumériques du titulaire,\n5. l’autorité et la date de délivrance du passeport.",
+      "text_sha256": "6be4fbf48791e8f6efaa531ae60c4f14a64afc0a2b11dadc2a40feacacfe20da",
+      "md_span": {
+        "start": 2029,
+        "end": 2297
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_4/20260511",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** L’émission du passeport relève de la compétence du Ministre ayant les Affaires étrangères dans ses attributions.\n\n**(2)** Le passeport n’est délivré qu’aux personnes de nationalité luxembourgeoise.\n\n**(3)** Les Luxembourgeois résidant au Grand-Duché de Luxembourg introduisent la demande de passeport auprès de l’administration communale du lieu de résidence habituelle du titulaire du passeport ou auprès du ministre ayant les Affaires étrangères dans ses attributions.\n\n**(4)** Les données personnelles du titulaire reprises dans le passeport correspondent à celles figurant dans le Registre national des personnes physiques.\n\n**(5)** La demande de passeport pour un mineur non émancipé est introduite par un parent exerçant l’autorité parentale ou, le cas échéant, par le tuteur légal. La demande de passeport au nom du mineur placé sous tutelle doit être accompagnée d’une procuration lorsque l’autorité parentale sur ledit mineur est détenue par un établissement.\n\nLa demande de passeport pour un mineur introduite par un parent dépourvu de l’autorité parentale ou par une tierce personne n’est traitée que sur présentation d’un mandat signé par le parent exerçant l’autorité parentale sur ledit mineur et légalisé par les autorités compétentes.\n\n**(6)** Lorsque la demande de passeport pour un mineur est introduite par un parent exerçant l’autorité parentale dont l’adresse de résidence habituelle est différente de celle du mineur concerné, l’administration communale ou le ministre ayant les Affaires étrangères dans ses attributions se réservent le droit de requérir dudit parent la production de pièces justificatives additionnelles attestant de son autorité parentale.\n\nLe parent qui ne parvient pas à présenter les pièces demandées par l’administration communale ou par le ministre ayant les Affaires étrangères dans ses attributions aux fins du contrôle complémentaire tel que prévu à l’alinéa précédent, se voit refuser le traitement de la demande de passeport.\n\n**(7)** Le passeport du mineur est retiré soit par le parent exerçant l’autorité parentale ayant introduit la demande au nom du mineur soit par le parent dépourvu de l’autorité parentale ou une tierce personne que la personne ayant introduit la demande aura désigné par écrit lors de l’introduction de la demande de passeport.\n\nLe mineur titulaire du passeport est autorisé à retirer son passeport à condition que le parent exerçant l’autorité parentale ou son tuteur légal ayant introduit la demande l’ait désigné au moment de l’introduction de la demande et que ledit mineur soit âgé de douze ans révolus au moins.\n\n**(8)** En cas de divorce ou de divorce en cours d’instance, la demande de passeport pour le mineur doit être introduite par le parent auquel le juge ou la loi accorde l’autorité parentale.\n\nLes deux parents sont autorisés à introduire la demande pour le mineur lorsque le juge ou la loi leur accorde l’autorité parentale conjointe.\n\nDans les circonstances exceptionnelles et pour des motifs dûment justifiés, le ministre ayant les Affaires étrangères dans ses attributions se réserve le droit de déroger à l’alinéa précédent et d’autoriser l’un ou l’autre parent à introduire la demande de passeport pour le mineur.\n\n**(9)** La demande de passeport pour le majeur placé sous tutelle est introduite par son tuteur. La demande de passeport au nom du majeur placé sous tutelle doit être accompagnée d’une procuration lorsque le tuteur est une personne morale.\n\n**(10)** Dans l’un et l’autre cas, le représentant légal devra justifier de sa qualité.\n\n**(11)** Les pièces justificatives requises dans le présent article doivent être rédigées en une des langues administratives du Grand-Duché de Luxembourg. Les documents rédigés en une langue autre que l’une des langues administratives du Grand-Duché de Luxembourg doivent être traduites par un traducteur assermenté au Grand-Duché de Luxembourg.\n\nLes autorités compétentes se réservent le droit de ne pas prendre en compte les pièces justificatives rédigées en une langue autre que l’une des langues administratives du Grand-Duché de Luxembourg. Les pièces justificatives traduites par un traducteur non assermenté au Grand-Duché de Luxembourg sont refusées par les autorités compétentes.",
+      "text_sha256": "74456cf81c319ea4ffe0dd0df43b857da08628db08ac4fab9cd38e96ce9d75d3",
+      "md_span": {
+        "start": 2406,
+        "end": 6646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_5/20260511",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** Les Luxembourgeois résidant à l’étranger sont autorisés à introduire une demande de passeport soit auprès d’une des missions diplomatiques ou consulaires luxembourgeoises établies à l’étranger soit auprès des missions diplomatiques ou consulaires belges en vertu de la Convention entre le Grand-Duché de Luxembourg et le Royaume de Belgique relative à la coopération dans le domaine consulaire du 30 septembre 1965 ou encore auprès du ministre ayant les Affaires étrangères dans ses attributions.\n\n**(2)** Les Luxembourgeois résidant à l’étranger doivent présenter les pièces nécessaires justifiant leur adresse à l’étranger au moment de la demande. La liste des pièces à fournir sera fixée par voie de règlement ministériel.\n\n**(3)** Sauf indication contraire, la remise du passeport sera effectuée au lieu de l’introduction de la demande.",
+      "text_sha256": "60b94cf7f95b1bbdd75afa27e979129bbfa671a7bc80e8ac70f03dfa3768d900",
+      "md_span": {
+        "start": 6681,
+        "end": 7529
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1966/08/16/n5/jo",
+          "text": "Convention entre le Grand-Duché de Luxembourg et le Royaume de Belgique relative à la coopération dans le domaine consulaire du 30 septembre 1965"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_6/20260511",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** Le passeport délivré à un majeur âgé de dix-huit ans révolus est valable pour une durée de dix ans.\n\n**(2)** Le passeport délivré à un mineur âgé de quatre ans révolus à moins de dix-huit ans est valable pour une durée de cinq ans.\n\n**(3)** Le passeport délivré à un mineur âgé de moins de quatre ans révolus est valable pour une durée de deux ans.",
+      "text_sha256": "ac48a8e33ff2b7778599571f1365a3edc1e20d4deb13c38c05847f3ed2e80644",
+      "md_span": {
+        "start": 7564,
+        "end": 7920
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_7/20150216",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2015-02-16",
+      "text_md": "Aucun passeport ne peut être prorogé au-delà des durées de validité définies à l’article 6.",
+      "text_sha256": "ffaa2ac03e2c74aa04bde767d325202d37feff87ae6885788e78409922641326",
+      "md_span": {
+        "start": 7955,
+        "end": 8046
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_8/20260511",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Nul ne peut être en possession de deux passeports, même si l’un d’eux est périmé. Aucun nouveau passeport ne sera remis avant la restitution de celui antérieurement obtenu ou, en cas de perte ou de vol, avant la production d’une déclaration de perte ou de vol faite auprès de l’autorité compétente. La déclaration de perte ou de vol de passeport entraîne l’invalidation du passeport perdu ou volé par le ministre ayant les Affaires étrangères dans ses attributions.\n\nPar dérogation à l’alinéa précédent, le titulaire d’un passeport périmé est autorisé à conserver ledit passeport préalablement invalidé par l’autorité compétente.",
+      "text_sha256": "36f39f54e08e9239c33b9a87e9ca38e1808000566d3b6f58c8eb077c5f20afb5",
+      "md_span": {
+        "start": 8081,
+        "end": 8710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_9/20260511",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Par dérogation à l’article 8, dans des cas exceptionnels et pour des motifs professionnels dûment justifiés, un deuxième passeport peut être délivré sur demande. La durée de validité est de dix ans.",
+      "text_sha256": "0686101cd469eabb9b609cb4bef78a665d1701adc3d4a0132120dd0d96891c8d",
+      "md_span": {
+        "start": 8745,
+        "end": 8943
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_10/20150216",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2015-02-16",
+      "text_md": "La photo à fournir pour l’établissement du passeport doit être récente et conforme aux normes établies par l’Organisation de l’Aviation Civile Internationale (OACI).",
+      "text_sha256": "9c38023d3f1002455f9b0cea9b5058981b4ebda4b48e06ae587653d7fbf30228",
+      "md_span": {
+        "start": 8980,
+        "end": 9145
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_11",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_11/20260511",
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Le ministre ayant les Affaires étrangères dans ses attributions dispose de sept jours ouvrables suivant date du dépôt de la la demande pour la personnalisation du passeport.\n\nEn cas de retard dans la personnalisation du passeport aucun droit au remboursement du montant réglé pour la remise du passeport tel que défini à l’article 13, paragraphe 1er ni à la réparation d’un préjudice quelconque que le demandeur aurait eu à subir du fait de ce retard n’est ouvert.",
+      "text_sha256": "84c00ef4ca9d50c5b59bae79bd1699a98c547ff1c10d0d7481eff33396226cce",
+      "md_span": {
+        "start": 9182,
+        "end": 9646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_12",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_12/20260511",
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** Le demandeur qui fait valoir une situation d’urgence peut introduire une demande de passeport en procédure d’urgence.\n\n**(2)** Par dérogation à l’article 4 (3), le demandeur est autorisé à introduire la demande de passeport en urgence soit auprès de l’administration communale du lieu de résidence habituelle du titulaire du passeport, soit auprès du ministre ayant les Affaires étrangères dans ses attributions, soit auprès d’une mission diplomatique ou consulaire telle que prévue à l’article 5.\n\n**(3)** Par dérogation à l’article 11 alinéa 1, le ministre ayant les Affaires étrangères dans ses attributions dispose de trois jours ouvrables suivant la date du dépôt de la demande pour la personnalisation du passeport si la demande a été introduite en procédure d’urgence.\n\n**(4)** La demande de passeport en procédure d’urgence est soumise aux dispositions des articles 4 à 10 du présent règlement grand-ducal.",
+      "text_sha256": "cca1eada950fb0e38ac6a0f20d8d26e70b5f4d6c88b1585caef4e836c06b1176",
+      "md_span": {
+        "start": 9683,
+        "end": 10605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_13",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_13/20260511",
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** Le montant à régler pour la remise du passeport est fixé à 50 (cinquante) euros pour tout demandeur âgé de plus de quatre ans révolus. Pour le passeport délivré à un mineur de moins de quatre ans révolus et d’une validité de deux ans, le montant à régler est de 30 (trente) euros.\n\n**(2)** Le passeport établi et personnalisé en procédure d’urgence conformément à l’article 12 est assujetti au paiement d’une surtaxe dont le montant équivaut au double du montant à régler prévu au paragraphe 1er.\n\nLe montant à régler pour la remise du passeport en procédure d’urgence est fixé à 150 (cent cinquante) euros pour tout demandeur âgé de plus de quatre ans révolus. Pour le passeport en procédure d’urgence délivré à un mineur de moins de quatre ans révolus et d’une validité de deux ans, le montant à régler est de 90 (quatre-vingt-dix) euros.\n\n**(3)** Le demandeur a droit au remboursement de la surtaxe définie au paragraphe 2 lorsque le passeport d’urgence n’est pas personnalisé au plus tard le troisième jour ouvrable suivant le jour de l’introduction de la demande. En cas de retard dans la personnalisation du passeport aucun droit au remboursement du montant réglé pour la remise du passeport tel que défini à l’article 13, paragraphe 1er ni à la réparation d’un préjudice quelconque que le demandeur aurait eu à subir du fait de ce retard n’est ouvert.",
+      "text_sha256": "2b1477a7eeb21765c6f79f5d13739cb5e0b6d42897c40795b5351a0e1eafd5cc",
+      "md_span": {
+        "start": 10642,
+        "end": 12008
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_14",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_14/20260511",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "La majoration des montants de l’article 13 pour frais d’envoi du passeport en cas de demande de passeport ou de passeport en procédure d’urgence par l’intermédiaire d’une mission diplomatique ou consulaire tel que prévu à l’article 5 sera fixée par voie de règlement ministériel.",
+      "text_sha256": "9f4f655e0bc14651e8516bf789b22062620f487b81b1a3af73c693456faff208",
+      "md_span": {
+        "start": 12045,
+        "end": 12324
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_15",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_15/20260511",
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** Le passeport doit être retiré dans un délai de 6 mois à partir de l’introduction de la demande au lieu de retrait spécifié lors de la demande. Le ministre ayant les Affaires étrangères dans ses attributions se réservent le droit de détruire le passeport à l’expiration de ce délai.\n\n**(2)** Le passeport en procédure d’urgence doit être retiré auprès du Ministère des Affaires étrangères.",
+      "text_sha256": "baa5b81f12946949cf1f3686bb469105c318588ea5e0f1c7b90415084e47041a",
+      "md_span": {
+        "start": 12361,
+        "end": 12757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_16",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_16/20260511",
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [
+        "Chapitre Ier. - Des passeports biométriques",
+        "Section II. - Conditions de remise et durée de validité du passeport"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "L’acquittement des montants prévus aux articles 13 et 14 doit avoir lieu, au plus tôt, six mois avant la demande de passeport et, au plus tard, au moment de la demande de passeport.",
+      "text_sha256": "da3b137f456b0097cd2d2f0657b67836ed39f446cd767b9a569f98f686ec7f8f",
+      "md_span": {
+        "start": 12794,
+        "end": 12975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_17",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_17/20260511",
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [
+        "Chapitre II. - Des passeports biométriques diplomatiques et de service"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** L’émission du passeport biométrique diplomatique et de service relève de la compétence du ministre ayant les Affaires étrangères dans ses attributions. Ce dernier est délivré sans frais et la durée de validité dépend des besoins du service sans pour autant que cette dernière ne puisse être supérieure à dix ans.\n\n**(2)** Le passeport biométrique diplomatique est pourvu d’une couverture souple de couleur bleu foncé. La couverture comporte, sur la face extérieure, les mentions suivantes : « Grand-Duché de Luxembourg, Passeport Diplomatique. »\n\nLa couverture présente également, sur la même face, un pictogramme indiquant la présence d’une puce électronique, signe distinctif du passeport biométrique.\n\nLa face arrière de la couverture est ornée des moyennes armoiries du Grand-Duché du Luxembourg, reproduites en couleur dorée.\n\nUn fil de sécurité relie les deux faces de la couverture.\n\nLe passeport biométrique de service est pourvu d’une couverture souple de couleur grise. La couverture comporte, sur la face extérieure, les mentions suivantes : « Grand-Duché de Luxembourg, Passeport de Service. »\n\nLa couverture présente également, sur la même face, un pictogramme indiquant la présence d’une puce électronique, signe distinctif du passeport biométrique.\n\nLa face arrière de la couverture est ornée des moyennes armoiries du Grand-Duché du Luxembourg, reproduites en couleur dorée.\n\nUn fil de sécurité relie les deux faces de la couverture.",
+      "text_sha256": "f2208d6c9e5c35240c94915caf35885ca6ded6e874b2bcdcc4665f5c01855df8",
+      "md_span": {
+        "start": 13087,
+        "end": 14544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_18",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_18/20260511",
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre II. - Des passeports biométriques diplomatiques et de service"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Les conditions de remise des passeports biométriques diplomatiques et de service sont fixées par des directives internes au ministère des Affaires étrangères, adoptées en Conseil de gouvernement.",
+      "text_sha256": "9995b64c66006db792f7cfc04e62fb979b4a5e7d04857ff9f12deda2903205bd",
+      "md_span": {
+        "start": 14581,
+        "end": 14776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_19",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_19/20260511",
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre II. - Des passeports biométriques diplomatiques et de service"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Les dispositions des articles 3, 8 alinéa 2 et 10 du Chapitre Ier s’appliquent au Chapitre II.",
+      "text_sha256": "b1428e235f4d99a56ecb162ba54018f8cb9e30d3b0c0ee6d5f473b63f46a2939",
+      "md_span": {
+        "start": 14813,
+        "end": 14907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_20",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_20/20260511",
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": null,
+      "path": [
+        "Chapitre III. - Des titres de voyage biométriques pour apatrides, étrangers et réfugiés"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Des titres de voyage peuvent être remis par le Ministre ayant l’Immigration dans ses attributions:\n\n- Convention sur le statut des apatrides\n- Convention de Genève du 28 juillet 1951",
+      "text_sha256": "7bac55af8174e2dfff085447068c18aced9d69c3fb51c8c09f9169c0a3763fe1",
+      "md_span": {
+        "start": 15036,
+        "end": 15218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_21",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_21/20150216",
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": null,
+      "path": [
+        "Chapitre III. - Des titres de voyage biométriques pour apatrides, étrangers et réfugiés"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "**(1)** Le titre de voyage pour apatrides est pourvu d’une couverture souple de couleur rouge. La couverture comporte, sur la face extérieure, les mentions suivantes :\n\n« Grand-Duché de Luxembourg, Titre de voyage, Convention du 28 septembre 1954 ».\n\nLa version anglaise de ces inscriptions y figure également.\n\nLa couverture présente également, sur la même face, un pictogramme indiquant la présence d’une puce électronique, signe distinctif du passeport biométrique.\n\nLa face arrière de la couverture est ornée des moyennes armoiries du Grand-Duché du Luxembourg, reproduites en couleur dorée.\n\nUn fil de sécurité relie les deux faces de la couverture.\n\n**(2)** Le titre de voyage pour réfugiés est pourvu d’une couverture souple de couleur bleu. La couverture comporte, sur la face extérieure, les mentions suivantes :\n\n« Grand-Duché de Luxembourg, Titre de voyage, Convention du 28 juillet 1951 ».\n\nLa version anglaise de ces inscriptions y figure également.\n\nLa couverture présente également, sur la même face, un pictogramme indiquant la présence d’une puce électronique, signe distinctif du passeport biométrique.\n\nLa face arrière de la couverture est ornée des moyennes armoiries du Grand-Duché du Luxembourg, reproduites en couleur dorée.\n\nUn fil de sécurité relie les deux faces de la couverture.\n\n**(3)** Le titre de voyage pour étrangers est pourvu d’une couverture souple de couleur verte. La couverture comporte, sur la face extérieure, les mentions suivantes :\n\n« Grand-Duché de Luxembourg, Titre de voyage, Pour étrangers ».\n\nLa version anglaise de ces inscriptions y figure également.\n\nLa couverture présente également, sur la même face, un pictogramme indiquant la présence d’une puce électronique, signe distinctif du passeport biométrique.\n\nUn fil de sécurité relie les deux faces de la couverture.",
+      "text_sha256": "ee8c581e7fd020d496d37503236f676f48202d84c0b937902a148762d7178eb4",
+      "md_span": {
+        "start": 15255,
+        "end": 17073
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1960/01/13/n1/jo",
+          "text": "Convention du 28 septembre 1954"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1953/05/20/n7/jo",
+          "text": "Convention du 28 juillet 1951"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_22",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_22/20260511",
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [
+        "Chapitre III. - Des titres de voyage biométriques pour apatrides, étrangers et réfugiés"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Toutes les autres dispositions du Chapitre Ier s’appliquent au Chapitre III à l’exception des articles 4, paragraphes 1er à 4 ainsi que des articles 5, 9, 12 et 14 paragraphe 2.",
+      "text_sha256": "c2ce552cf881ff959e896364a28199cddc73e64427b9aa8d9b3232cecfe5fe1e",
+      "md_span": {
+        "start": 17110,
+        "end": 17287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_23",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_23/20260511",
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. - Des légalisations"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Les légalisations d’actes par le Ministre ayant les Affaires étrangères dans ses attributions ou par les chancelleries diplomatiques ou consulaires du Grand-Duché de Luxembourg sont assujetties au paiement d’une taxe de 20 (vingt) euros.",
+      "text_sha256": "46b405618b09c08cf2f509919d1ec1347dce5ff9911e6f3ba1e71637e2648412",
+      "md_span": {
+        "start": 17361,
+        "end": 17598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_24",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_24/20260511",
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. - Des légalisations"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Les agents non rétribués par l’Etat toucheront une indemnité qui ne pourra pas dépasser 20% du montant des taxes de légalisations. Cette indemnité, imputable sur les crédits prévus au Budget des dépenses pour «Légalisations et Consulats» leur sera allouée sur présentation d’un extrait du registre spécial prévu par l’article 43 des règlements consulaires.",
+      "text_sha256": "543df0f061bba2cc8f54afdad67a4f33fce28ea709934a42edb880cf8427265c",
+      "md_span": {
+        "start": 17635,
+        "end": 17991
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_25",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_25/20260511",
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. - Des légalisations"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "La légalisation d’actes destinés aux indigents et celle de documents réclamés par le Gouvernement dans un intérêt public ou administratif ne donne pas lieu à perception d’un droit de légalisation.",
+      "text_sha256": "b89057b4e453500a4cb9aed98d61a13b4026beed2e38a71e26425ae8b6f2ca3c",
+      "md_span": {
+        "start": 18028,
+        "end": 18224
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_26",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_26/20260511",
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [
+        "Chapitre IV. - Des légalisations"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "L’article 42 de l’arrêté grand-ducal du 29 juin 1923, portant règlement du service consulaire et introduction de certaines taxes à percevoir par les agents du corps consulaire, en tant qu’il concerne les taxes pour légalisations (nos 8, 9, 10 et 11 du Tarif consulaire) n’est plus applicable aux droits de légalisation qui seront reçus d’après les dispositions fixées à l’article 23 ci-dessus.",
+      "text_sha256": "70ae6a4ef742e0603796a65f110b9c13fe22b798db783194d6fecb6595cfe551",
+      "md_span": {
+        "start": 18261,
+        "end": 18654
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/agd/1923/06/29/n1",
+          "text": "l’arrêté grand-ducal du 29 juin 1923"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_27",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_27/20260511",
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [
+        "Chapitre V. - Des dispositions finales"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Le règlement grand-ducal du 31 juillet 2006 portant règlement d’exécution de la loi du 14 avril 1934, concernant les passeports biométriques, les titres de voyage pour étrangers, apatrides et réfugiés et l’établissement d’un droit de chancellerie pour légalisations d’actes, est abrogé.",
+      "text_sha256": "3c72fb5709c21d4a3c3d3578b6ec5e5fe8e5ec6382bb639d4d99fb8906fc9f60",
+      "md_span": {
+        "start": 18734,
+        "end": 19020
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2006/07/31/n1",
+          "text": "règlement grand-ducal du 31 juillet 2006"
+        },
+        {
+          "href": "/eli/etat/leg/loi/1934/04/14/n3/jo",
+          "text": "loi du 14 avril 1934"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_28",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_28/20260511",
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": null,
+      "path": [
+        "Chapitre V. - Des dispositions finales"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "L’article 1*bis* du règlement grand-ducal modifié du 26 janvier 2005 fixant les modalités pour l’obtention d’un titre de voyage pour étrangers tel que modifié par le règlement grand-ducal du 25 janvier 2008 fixant les modalités pour l’obtention d’un passeport biométrique, titre de voyage biométrique pour étrangers, apatrides et réfugiés ainsi que pour l’obtention de légalisations est remplacé par les dispositions suivantes:",
+      "text_sha256": "7b36e7e5598b2bec47dd75f168a14c78a3f1ff32f0f91b7f81f7085e32c7da3b",
+      "md_span": {
+        "start": 19057,
+        "end": 19484
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2005/01/26/n1",
+          "text": "règlement grand-ducal modifié du 26 janvier 2005"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/2008/01/25/n1/jo",
+          "text": "règlement grand-ducal du 25 janvier 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_29",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_29/20260511",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. - Des dispositions transitoires"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Les passeports biométriques, titres de voyage pour étrangers, apatrides et réfugiés délivrés avant l’entrée en vigueur du présent règlement grand-ducal resteront valables pour toute la durée de validité telle qu’indiquée sur le passeport.",
+      "text_sha256": "4ca9d78f5ec774c603c9e6fa95004eab3ac19c2bb076a0bea6bf75194ae9e5b0",
+      "md_span": {
+        "start": 19570,
+        "end": 19808
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_30",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_30/20260511",
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. - Des dispositions transitoires"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Si des raisons techniques l’imposent, le ministre ayant les Affaires étrangères dans ses attributions personnalisera les passeports conformément à l’article 1er, à l’article 10, paragraphes 2 et 3 ainsi qu’à l’article 13 du règlement grand-ducal modifié du 25 janvier 2008 fixant les modalités pour l’obtention d’un passeport biométrique, titre de voyage biométrique pour étrangers, apatrides et réfugiés ainsi que pour l’obtention de légalisations, pendant une durée de six mois après l’entrée en vigueur du présent règlement grand-ducal.",
+      "text_sha256": "4e8bdbe336cdcc41edf76aa5445ba92ccde756fa55aca858ba25d5b5ffcc60cd",
+      "md_span": {
+        "start": 19845,
+        "end": 20384
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/2008/01/25/n1/jo",
+          "text": "règlement grand-ducal modifié du 25 janvier 2008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_31",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_31/20260511",
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. - Des dispositions transitoires"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Le présent règlement grand-ducal entre en vigueur le 16 février 2015.",
+      "text_sha256": "0df6fb6af58c469fec8e99a99a60dbd91cd6f1534b5fa4bf9184a65a011a4d75",
+      "md_span": {
+        "start": 20421,
+        "end": 20490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-2015-02-12-n1:2026-05-11#art_32",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/art_32/20260511",
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [
+        "Chapitre VI. - Des dispositions transitoires"
+      ],
+      "article_valid_from": "2026-05-11",
+      "text_md": "Notre ministre des Affaires étrangères et européennes, Notre ministre de l’Immigration et de l’Asile et Notre ministre des Finances sont chargés de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "bf9e5ffb2787ed1f2e63db61e7ef9a4453f068068096099d0bb0a393e988764c",
+      "md_span": {
+        "start": 20527,
+        "end": 20736
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}
