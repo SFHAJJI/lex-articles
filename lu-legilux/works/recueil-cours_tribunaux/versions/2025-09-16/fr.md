@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20250916/
 source_sha256: 1006f8f243882575b08de1f4eee74c9f2e6b7fe5ab4ab3e4e10376eaa72f4e8f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **COUR CONSTITUTIONNELLE**

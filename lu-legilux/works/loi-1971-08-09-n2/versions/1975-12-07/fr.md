@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1971/08/09/n2/consolide/19751
 source_sha256: e1dcb8ffd594b5e824cf3f2b72ccfc18626d685e16ad7e6ba48824142ef194f5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/202
 source_sha256: 10d015e85a481601d3553e4fd8d2f1df25ef82ae71647c9b2d5f7088c3f248e5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Définitions**

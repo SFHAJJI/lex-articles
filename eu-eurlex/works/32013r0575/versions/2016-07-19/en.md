@@ -7,7 +7,7 @@ source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0575-201
 source_sha256: 9266e95a27f97dabbdafc3e205f2122d2397f5de853978d0eabf83eb1a0178f5
 license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
 attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: xhtml-eu/1 · lex derive · dev
+generator: xhtml-eu/1 · lex derive
 ---
 
 ## TITLE I

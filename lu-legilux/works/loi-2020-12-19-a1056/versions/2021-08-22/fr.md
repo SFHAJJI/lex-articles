@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/consolide/20
 source_sha256: 2063ba9c1c7afbdd0e5f9bd27eb565f32d568f401759df28b6888dbbc0c70d7a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Dérogations aux règles procédurales devant les juridictions dans les affaires soumises à la procédure écrite**

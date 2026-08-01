@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/consolide/19940
 source_sha256: 1e0ee5c44a1782a06f6e1438187d63232d29ebff7909bef79e2836d7f00ce87b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

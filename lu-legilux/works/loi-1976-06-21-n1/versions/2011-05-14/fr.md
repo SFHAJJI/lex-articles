@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n1/consolide/20110
 source_sha256: 848c3f8c65d0c070031f1027bd172757e40232b1e9d4219a4fcc0eea85f3f1c7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

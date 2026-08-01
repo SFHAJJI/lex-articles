@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n1/consolide/20230
 source_sha256: 02c51b72560c4cbd67af7838e124659a3fceb822f1a2b98c263b2afc279b75a6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Mesures en matière d'impôts directs, destinées à encourager la mise sur le marché de terrains à bâtir et d'immeubles d'habitation

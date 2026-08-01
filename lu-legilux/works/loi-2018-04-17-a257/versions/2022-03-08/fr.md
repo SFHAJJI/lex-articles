@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257/consolide/202
 source_sha256: 2266bc7201965c29045447f35f9cbd2837a42c1a2350649587528d00c0fad1f6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement**

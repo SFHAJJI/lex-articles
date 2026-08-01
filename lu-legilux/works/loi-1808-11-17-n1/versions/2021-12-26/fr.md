@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20211226/fr
 source_sha256: fd965623f4862522ba9edbd6a88c3c6450fc90f861d5901d81133e4dce7a02be
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Dispositions préliminaires**

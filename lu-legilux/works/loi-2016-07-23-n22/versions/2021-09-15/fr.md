@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/consolide/2021
 source_sha256: c608d1fc9bcc0075abffe585cd0185832091b28d7a8a0c402f0b1a8aa7102f30
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier — Dispositions générales.

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/consolide/20
 source_sha256: c27659437cb33036c9585a2da50be1ab5a9ccf21e161b94fd0cf9d42503845e4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

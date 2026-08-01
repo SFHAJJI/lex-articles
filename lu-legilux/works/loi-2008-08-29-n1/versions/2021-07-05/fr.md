@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/consolide/20210
 source_sha256: 7ebef533b8226e7ab27525c10cee4f1ab8beb7b16a9937227a0381366f26a767
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Dispositions générales

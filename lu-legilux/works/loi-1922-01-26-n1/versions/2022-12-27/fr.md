@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1922/01/26/n1/consolide/20221
 source_sha256: 914c66df0e3af638cebdb543f050373b1f5482560ee184a3d4953036a792c081
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

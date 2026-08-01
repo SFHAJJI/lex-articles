@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2013/06/19/n3/consolide/20220
 source_sha256: ef333b761cfdcf439abe29fafa3ce789b408502dc4a3cbd921c74c49665db7cd
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1 — L’identification des personnes physiques, le registre national des personnes physiques et la carte d’identité

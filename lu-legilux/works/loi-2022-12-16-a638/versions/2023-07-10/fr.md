@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/202
 source_sha256: 1915cb5b6d8b89a611ea4b28ac9149c75d2f3c36b9dcf97392c4cd79f6a41665
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

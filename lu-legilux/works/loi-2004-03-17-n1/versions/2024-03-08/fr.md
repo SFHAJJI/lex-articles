@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/consolide/20240
 source_sha256: 2ce6262bc1a06e7db77cd6575ad6a585e31351b6bec674ca8d2032a7fc1026bc
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I.- — Principes Généraux

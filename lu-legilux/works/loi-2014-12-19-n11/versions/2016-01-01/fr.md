@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n11/consolide/2016
 source_sha256: 229789f4681496760259c476448560455e9104110b33dab121bd84dd93a37405
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre A** — **Arrêté du budget**

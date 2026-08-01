@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551/consolide/202
 source_sha256: af0c708aee460738568b91a3a2cbb27d1801d8840e373efa0aba6a5ff808d4c0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er**. — **Définition et champ d’application**

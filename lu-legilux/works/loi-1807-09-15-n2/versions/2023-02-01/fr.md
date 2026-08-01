@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/commerce/20230201/fr
 source_sha256: 83bf2652d99a8bcc605bd366fb24a1425c669df20ec5335f35fde57209ba610b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Livre Ier. — Du commerce en général

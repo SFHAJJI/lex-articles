@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/consolide/202
 source_sha256: 26cfa6b34b1cede38f738e777cce88d398245ed28c66758fa856e6b3ddd6de42
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre ****1er ** — **Le droit de former un apprenti**

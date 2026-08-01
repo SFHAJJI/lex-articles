@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n7/consolide/19990
 source_sha256: abae9cf3e854e45737ae2b65e80d8b016bb2f46f4806a17d33ac2fd93a8109ac
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## SECTION I — DISPOSITIONS GENERALES

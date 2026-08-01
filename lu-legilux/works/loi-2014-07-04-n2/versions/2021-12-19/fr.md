@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/consolide/20211
 source_sha256: 0e6acb26456c93d4efcba5bb4d0c4784e21b5990de7a2eaa3b1286cb8b54728f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## CHAPITRE Ier — ***Dispositions générales***

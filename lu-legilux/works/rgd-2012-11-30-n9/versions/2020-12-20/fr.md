@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n9/consolide/20201
 source_sha256: 939ad528439ade7b1c66359e0ef8a73f59d6f38b17e1e31f77e918a44af6d2a0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **CHAPITRE Ier.** — **Plans de tir**

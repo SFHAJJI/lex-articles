@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13/consolide/2009
 source_sha256: d639ad0a7b516179aaaf7dd3a4f2d55062df65ba55928e81403d6ff1308900dd
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I — Champ d’application et définitions

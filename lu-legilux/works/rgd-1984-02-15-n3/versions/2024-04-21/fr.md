@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1984/02/15/n3/consolide/20240
 source_sha256: 6a3c4cf0ba1aec332fe4c2f8f0dbd7e5b94619914585c1e5a52fac8b81f3cbda
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1997/01/13/n1/consolide/20130
 source_sha256: 9b19d7259e759f483cb6327c578a95e00972abfbedd2fa3d8f0812c8e3f7718c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE Ier — Dispositions générales

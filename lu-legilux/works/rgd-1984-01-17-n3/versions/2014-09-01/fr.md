@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/20140
 source_sha256: 9e791a90ef7788d90732cd4c9ca8cde54fe6ae4c2db1cd9d7dca3a5a3aa0b094
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/consolide/20170
 source_sha256: 592e2d647716c6efdcc42a654a9a1d8a07b91cb4c51eeb709a4523bdc9f5e857
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a193/consolide/202
 source_sha256: 3576ae7c06be387e0b4ee134ff85ce36d775e0a7cc310569152cf6aa791cda59
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier** — **Le système électronique central de recherche de données concernant des comptes de paiement et des comptes bancaires identifiés par un numéro IBAN et des coffres-forts tenus par des établissements de crédit au Luxembourg**

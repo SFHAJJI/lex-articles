@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/consolide/20240
 source_sha256: d40857341559e7a88a783023e596dc9b8d5271c14c207fa4fad7f2e9c3ef9a73
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

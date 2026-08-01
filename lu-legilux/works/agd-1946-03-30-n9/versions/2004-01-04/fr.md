@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/consolide/20040
 source_sha256: 2e188a02f44bad437b858d2259b10719127f78c02bfbc17dbc5e0e132b70930b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20120
 source_sha256: db689bce3b7b886e03386360f6379f4296ddb3e3c0b2d719438e56c46d370fd8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

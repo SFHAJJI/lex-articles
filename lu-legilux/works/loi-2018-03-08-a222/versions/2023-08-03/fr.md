@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/03/08/a222/consolide/202
 source_sha256: 67ee06b42b37f9f35f4758b42016a577dde7e65f321fda0dfe3909e661d08ec2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

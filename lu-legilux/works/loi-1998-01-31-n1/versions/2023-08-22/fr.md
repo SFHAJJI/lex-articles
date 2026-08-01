@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1998/01/31/n1/consolide/20230
 source_sha256: 53728ee76e7c770999fdcb8e995c992f82d33308839809a5821aa77d10206469
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Des conditions d’agrément

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20260101/
 source_sha256: c2ae5e26e84b336a8d90d55dcffa66303f9877827d400b61ff5625d8d394c2e0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Version consolidée applicable au 03/07/2023 : Loi du 27 février 2011 sur les enquêtes parlementaires.**

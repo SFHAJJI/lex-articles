@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2/consolide/20221
 source_sha256: d02172bbaa4eea16a283471ed79ce383d69aa4c3f7287e000c0818d5463fdbf9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre I.** — **Définitions**

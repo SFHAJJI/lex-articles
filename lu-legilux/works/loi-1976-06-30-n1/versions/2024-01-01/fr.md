@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/consolide/20240
 source_sha256: 6cef7333b7bc21a46697f912504bae003b3995aada53d3cf9ba2071b0ab19aeb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_3"></a>

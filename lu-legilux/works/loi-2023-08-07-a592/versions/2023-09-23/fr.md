@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/202
 source_sha256: 62ee31b959b875f10be2f5bf9496f75bc12515a884104717cf9a542c835772b5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE Ier — Des associations sans but lucratif

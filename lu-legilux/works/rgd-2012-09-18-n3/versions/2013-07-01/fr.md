@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n3/consolide/20130
 source_sha256: ef0e2239c8b57f30c517d7af16104127510e0692be53a4d3408be55f9073b50d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

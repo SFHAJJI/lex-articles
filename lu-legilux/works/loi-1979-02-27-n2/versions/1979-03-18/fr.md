@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1979/02/27/n2/consolide/19790
 source_sha256: 69059b69bd7419028e44f60f37ed59915b3e9e8c0a7ff06484af7913ea54f894
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="article_unique"></a>

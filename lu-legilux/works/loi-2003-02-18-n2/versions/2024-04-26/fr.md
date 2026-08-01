@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/consolide/20240
 source_sha256: 80c6a97cbfaf0dd398a59ca5b7752556501cf0c3567bb6c3d39754edb4c5e929
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## LIVRE Ier. — DISPOSITIONS GÉNÉRALES COMMUNES AUX ÉLECTIONS LÉGISLATIVES, COMMUNALES ET EUROPÉENNES

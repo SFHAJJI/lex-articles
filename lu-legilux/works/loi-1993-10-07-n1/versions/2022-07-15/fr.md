@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1993/10/07/n1/consolide/20220
 source_sha256: 0cbe50a510ae7c10b5c3699cdf622a8d3060da7feabf2cf5462385a29278ba46
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — Du Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques

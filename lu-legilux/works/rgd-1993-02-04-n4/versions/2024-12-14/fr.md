@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20241
 source_sha256: 8fbc7f82f199967ccdec06af80303feee57196ed3669717f53b5530b201d6d7d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

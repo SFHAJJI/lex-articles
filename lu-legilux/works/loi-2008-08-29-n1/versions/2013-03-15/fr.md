@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/consolide/20130
 source_sha256: f048cc6830c177d11ca92e4a4512eaf0bf8f0670d85899344e61c13cf55871ef
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Dispositions générales

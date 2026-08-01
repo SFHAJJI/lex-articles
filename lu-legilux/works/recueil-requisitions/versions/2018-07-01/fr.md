@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/requisitions/20180701/fr
 source_sha256: d30fa553a9691f34aba930d8f776ab19f65fe7272c0e0f75f680162390b60fdc
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Version consolidée applicable au 01/07/2018 : Loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe.**

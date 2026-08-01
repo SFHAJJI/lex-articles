@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/consolide/20151
 source_sha256: 3581f47c6aa3145394aaeaff2716051bdf7cbe4651396b7fdca9927a277e9b35
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/05/24/a442/consolide/201
 source_sha256: bffec75b1c8341ad2578ff620ab711f5a14e8e8fcf10234e66df43d37663866c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

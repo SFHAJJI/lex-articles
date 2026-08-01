@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a623/consolide/202
 source_sha256: 9d99d6a9c5b800759811dd80d4e4fa0c80c44bf96cf464b037af895d14e3e1c9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — ** Dispositions générales**

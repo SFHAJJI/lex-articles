@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/consolide/2020
 source_sha256: 3d466407d3270365fab75fc1cf06f7a09274d8c17a5207ccf66d14eb0e2c0be5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

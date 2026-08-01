@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2020/10/29/a869/consolide/202
 source_sha256: 74d33b4ad428c739f637c5d3f3789ee3f4bd57eba089a4b41a14b26cd92c5c2a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

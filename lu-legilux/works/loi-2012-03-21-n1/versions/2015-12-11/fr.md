@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20151
 source_sha256: 2b8fa6a49521dab028f5a400f7044c5d549b8a03a338e82d52f7721f48825193
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier: — Objet, champ d'application, compétences et définitions

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20120
 source_sha256: 33235edaa1641eb129b39eca339151e0cdf3e7528ee7ecce3864aadd308fe4d8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

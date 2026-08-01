@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/consolide/20180
 source_sha256: f4455e246385fc420c660dbe3a0812dcce47e31566f5d72248b39ee513724c7f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

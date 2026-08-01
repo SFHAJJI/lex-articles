@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a626/consolide/202
 source_sha256: d32c2cdb00f33be2f6d3bf20f97a989c9df44a94a80a7be7c2b95b433dda36ea
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — ***Dispositions générales.***

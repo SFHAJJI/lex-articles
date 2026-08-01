@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1966/03/21/n2/consolide/20151
 source_sha256: df9cc511606534795e3ed5f6fd21fcebd8f17da2e0d3eaa388a6bbbd62d2946c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

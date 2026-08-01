@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n15/consolide/2023
 source_sha256: a7aeaff34834984659d98040b72f6aa1e776b4163f09309736dcc684a4f36517
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er.** — **Objet, champ d’application, définitions et compétence**

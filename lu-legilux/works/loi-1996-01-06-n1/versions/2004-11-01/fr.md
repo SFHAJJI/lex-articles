@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20041
 source_sha256: 0e5e9a42451982d42d9b6687e18bd529a641186e8986f4bfc90d89cd01d2d2be
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre I. — **Dispositions générales**

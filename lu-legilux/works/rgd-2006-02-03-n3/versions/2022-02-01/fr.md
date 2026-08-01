@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20220
 source_sha256: 3e0ab48575d6e8b746fd2871a3bdd0de9c4c27d4291aa2b5b35695a5bb0c73ba
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1 — Budget du service

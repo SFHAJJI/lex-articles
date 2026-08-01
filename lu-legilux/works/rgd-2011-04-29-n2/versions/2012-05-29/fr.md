@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2011/04/29/n2/consolide/20120
 source_sha256: 2977333b11722471d74ac6f1e23c6e9c85bf2b8af9e0e3cdaa0c02572a16e3f2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — *Dispositions générales*

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1995/05/10/n1/consolide/20140
 source_sha256: d61ed6cd91e13406ffec17140eedced7609515655fc8e722fff76196fa585364
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ***I.*** — ***Les principes de gestion du «réseau ferré»***

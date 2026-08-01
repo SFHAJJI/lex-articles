@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/consolide/20020
 source_sha256: 6e74e0ff9af1bc3358b7fdae74b9453ce7c1ac9d1b484c3db313f7c556ab0c44
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n20/consolide/2024
 source_sha256: 78401c7a0764f273e1ae0e274cc68c4fca5eee7a7f3be91cd730c64be2046151
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

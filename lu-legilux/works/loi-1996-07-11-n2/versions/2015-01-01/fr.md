@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/consolide/20150
 source_sha256: 1a1697b1e75bf7fecc6d2a1f0de602e3736aefb7fd1cd1f20a9317451b387a05
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I – Du champ d'application

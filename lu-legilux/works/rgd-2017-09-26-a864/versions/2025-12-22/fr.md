@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2017/09/26/a864/consolide/202
 source_sha256: 5eec94652089fb8093ac4fd284d907e6ebaf7f8bc003ba33edbb4ba3de487cc3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1 ** — ** Certificats requis pour la vente, l’achat et l’utilisation de produits phytopharmaceutiques**

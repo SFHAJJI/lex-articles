@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2017/11/30/a1010/consolide/20
 source_sha256: 8c0147733408a6f925fdff7ea4e456609223dc53197fd5ad94f54bf03ae1f109
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

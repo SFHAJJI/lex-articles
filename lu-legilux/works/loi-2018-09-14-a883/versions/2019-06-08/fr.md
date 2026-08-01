@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/201
 source_sha256: b7844baa9662f7865dae2b2f447045e025a970129b5d9fc4b828e79c6a68263e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier** — **Accessibilité des documents**

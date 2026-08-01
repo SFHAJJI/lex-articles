@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n6/consolide/20180
 source_sha256: f529b9a02914fc1751a4bbbfaff21a76adf769ca65a6ce656e0350f5430cf662
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Définition et champ d’application

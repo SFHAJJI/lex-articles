@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1979/06/13/n1/consolide/19951
 source_sha256: 252f37393946e63b04bfc687be2583b18a26ff91eb3a767225ac6aa58c33a81b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Dispositions générales et organisation locale

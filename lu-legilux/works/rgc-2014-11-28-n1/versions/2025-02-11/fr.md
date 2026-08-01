@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgc/2014/11/28/n1/consolide/20250
 source_sha256: f947a63965e0474b6dde61910d3939c843214778a2c4fac940b3cfe05da67e53
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

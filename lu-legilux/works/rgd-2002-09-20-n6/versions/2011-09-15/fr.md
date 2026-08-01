@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2002/09/20/n6/consolide/20110
 source_sha256: a861fd27cdd57b9fb0b964354ea0a509395fc07f1da299d70c92460736189db4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Article I. — Centre de séjour provisoire pour étrangers en situation irrégulière:

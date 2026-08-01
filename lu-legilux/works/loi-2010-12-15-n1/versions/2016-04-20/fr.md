@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2010/12/15/n1/consolide/20160
 source_sha256: 0bdee992851cdc724ac8a5f5c1abd1c6ae9fa0527ba1f5f808df898fb7d4ef68
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er.** — **Dispositions générales**

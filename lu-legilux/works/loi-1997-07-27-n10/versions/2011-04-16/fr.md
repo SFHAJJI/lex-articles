@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/consolide/2011
 source_sha256: 5b629b06f28392d950c9908f86049976187949547199356ac8fbf71f4b2fb51f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **TITRE I****LE CONTRAT D'ASSURANCE EN GENERAL**

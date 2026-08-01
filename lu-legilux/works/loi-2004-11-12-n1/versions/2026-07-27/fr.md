@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1/consolide/20260
 source_sha256: 41a878b4ab1328811bd98d0aba52a2eeac2551195686060a10c9b25c458de304
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **TITRE I** — **Les obligations professionnelles en matière de lutte contre le blanchiment et contre le financement du terrorisme**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2020/04/03/a230/consolide/202
 source_sha256: 8ba8e0ea5bc3bf10cbcdc23f2a212e68eda64994454cc6db3f0b819febd7835d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

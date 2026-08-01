@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -32,8 +31,8 @@
       "text_md": "Les actes et services des masseurs-kinésithérapeutes ne peuvent être pris en charge par une des institutions de sécurité sociale visées par le Code de la sécurité sociale que si cet acte est inscrit au tableau annexé au présent règlement et qui en fait partie intégrante.\n\nLes masseurs-kinésithérapeutes exécutent les actes pris en charge en accord avec le règlement fixant les attributions de leur profession sur la base de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé.\n\nNe peuvent être pris en charge que les actes accomplis effectivement et personnellement par le prestataire sur base d’une ordonnance médicale valide.",
       "text_sha256": "93cc374290a935015ac75822bcb527cb51a5f790f599eb789c96b6ab108b175b",
       "md_span": {
-        "start": 707,
-        "end": 1385
+        "start": 701,
+        "end": 1379
       },
       "citations": [
         {
@@ -58,8 +57,8 @@
       "text_md": "Le tarif d’un acte est obtenu en multipliant son coefficient par la valeur de la lettre-clé négociée par les parties signataires de la convention prévue à l’article 61 du Code de la sécurité sociale.\n\nLe tarif d’un acte est compté en euros à deux décimales près. Les fractions de cents sont arrondies vers le haut si elles sont supérieures ou égales à cinq millièmes d’euros. Les fractions de cents sont arrondies vers le bas si elles sont strictement inférieures à cinq millièmes d’euros.",
       "text_sha256": "bfa60d51078e0d55bcf948f01fd06ebfe02520fa8f209cd73e7daba756245cd8",
       "md_span": {
-        "start": 1436,
-        "end": 1925
+        "start": 1430,
+        "end": 1919
       },
       "citations": [
         {
@@ -80,8 +79,8 @@
       "text_md": "Pour chaque séance de kinésithérapie, il ne peut être mis en compte qu’un seul acte de la nomenclature, à l’exclusion du forfait de déplacement.\n\nEn cas de traitement de plusieurs affections différentes et indépendantes l’une de l’autre, les traitements pourront se faire de façon alternante ou successive avec mise en compte d’une seule séance par jour, à l’exception de la rééducation respiratoire qui peut être cumulée avec une deuxième séance le même jour.",
       "text_sha256": "4aeb10a3410bd85c9b0076b711ef0e7e6d3319363b573fbe70d0eb5135d6e36f",
       "md_span": {
-        "start": 1976,
-        "end": 2436
+        "start": 1970,
+        "end": 2430
       },
       "citations": []
     },
@@ -97,8 +96,8 @@
       "text_md": "Le tarif des actes comprend les frais d’appareil, de matériel et d’installation du prestataire.",
       "text_sha256": "606bf9853740c70d026a22039c1252951a12a25cf3ca549e67d720753456eb45",
       "md_span": {
-        "start": 2518,
-        "end": 2613
+        "start": 2512,
+        "end": 2607
       },
       "citations": []
     },
@@ -114,8 +113,8 @@
       "text_md": "Le bilan constitue un acte isolé prescrit en dehors d’un traitement de kinésithérapie. Le bilan comporte obligatoirement:\n\n- l’évaluation initiale des déficiences par rapport aux aspects suivants: ostéo-articulaire, musculaire, neurologique, vasculaire, cutané, respiratoire et psycho-moteur\n- l’évaluation initiale des incapacités et des aptitudes gestuelles, réalisation des gestes de la vie courante et de la vie professionnelle\n- la fixation des objectifs à atteindre\n- l’élaboration du plan de traitement\n- le choix des techniques et des actes figurant dans la nomenclature.",
       "text_sha256": "30834c4071ceba1ea9948c5223af863bc1ac4ad63be5cab330bb8c47a4bcc66e",
       "md_span": {
-        "start": 2654,
-        "end": 3233
+        "start": 2648,
+        "end": 3227
       },
       "citations": []
     },
@@ -131,8 +130,8 @@
       "text_md": "Pour chaque traitement à domicile, un forfait de déplacement peut être mis en compte. En cas de traitement de plusieurs affections différentes et indépendantes l’une de l’autre, un seul forfait de déplacement peut être mis en compte, lorsque les traitements sont appliqués successivement lors d’un même passage.\n\nSi lors du même déplacement, le masseur-kinésithérapeute traite plusieurs personnes de la même communauté domestique ou du même établissement, le forfait de déplacement ne peut être mis en compte que pour la personne la première traitée.\n\nLe forfait de déplacement ne peut être mis en compte par le prestataire pour les traitements délivrés dans les établissements d’aides et de soins à séjour continu (article 390, alinéa 1 du Code de la sécurité sociale), dans les établissements d’aides et de soins à séjour intermittent (art. 391, al. 1 du CSS) et dans les centres semi-stationnaires (article 389, alinéa 2 du Code de la sécurité sociale).",
       "text_sha256": "84ef8605b8efadd58097c65a879d0cd09f20833b8a1c253d50c6a734cf0e72a6",
       "md_span": {
-        "start": 3289,
-        "end": 4245
+        "start": 3283,
+        "end": 4239
       },
       "citations": [
         {
@@ -157,8 +156,8 @@
       "text_md": "Aucun acte de la nomenclature ne peut être mis en compte pour un patient traité dans un établissement hospitalier au sens de la loi modifiée du 28 août 1998 sur les établissements hospitaliers.",
       "text_sha256": "a60acc8faf3a14ec05fb9e5cf6554b6e10ff322e51f2e4978e9aa627ef44bd2b",
       "md_span": {
-        "start": 4313,
-        "end": 4506
+        "start": 4307,
+        "end": 4500
       },
       "citations": [
         {
@@ -179,8 +178,8 @@
       "text_md": "Le tarif des actes de rééducation respiratoire dont l’accomplissement est prescrit, pour des raisons médicales, le samedi, le dimanche ou un jour férié légal est majoré de 25%. Sur le mémoire d’honoraires le code de l’acte est complété par «T» si l’acte est presté le samedi, par «D» si l’acte est presté un dimanche, par «F» si l’acte est presté un jour férié légal.",
       "text_sha256": "66601f07db61e913098cee93667b04ed3e4929a61fcde7ba62c929279aae7a24",
       "md_span": {
-        "start": 4562,
-        "end": 4929
+        "start": 4556,
+        "end": 4923
       },
       "citations": []
     },
@@ -196,8 +195,8 @@
       "text_md": "Le règlement grand-ducal modifié du 21 décembre 1998 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes et masseurs pris en charge par l’assurance maladie est abrogé avec effet au 31 décembre 2016.",
       "text_sha256": "9a7056427048772b13d74476c1ec197cb2c4626e4f689d67b366a9b043364a17",
       "md_span": {
-        "start": 5157,
-        "end": 5381
+        "start": 5151,
+        "end": 5375
       },
       "citations": [
         {
@@ -218,8 +217,8 @@
       "text_md": "Notre Ministre de la Sécurité sociale et Notre Ministre de la Santé sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial et qui entre en vigueur le 1er janvier 2017.",
       "text_sha256": "f67231ff44448e6dd1f970d262a682d28f9b44bdc1da4ce4606bc83201396824",
       "md_span": {
-        "start": 5437,
-        "end": 5657
+        "start": 5431,
+        "end": 5651
       },
       "citations": []
     },
@@ -235,8 +234,8 @@
       "text_md": "**Tableau des actes et services tel que prévu à l’article 1er du présent règlement grand-ducal**\n\n**NOMENCLATURE DES ACTES ET SERVICES DES MASSEURS-KINESITHERAPEUTES**\n\n**PREMIERE PARTIE: ACTES TECHNIQUES**\n\n|  |  | Code | Coeff. |\n| --- | --- | --- | --- |\n| 1) | Rééducation orthopédique simple | ZK10 | 1,00 |\n|  | **Remarque:** |  |  |\n|  | Rééducation d’une seule articulation parmi les articulations suivantes: |  |  |\n|  | Épaule Coude Poignet Articulations métacarpiennes et/ou phalangiennes de la main Hanche Genou Cheville Articulations métacarpiennes et/ou phalangiennes du pied Articulations sacro-iliaques Articulations temporo-mandibulaires Articulations sterno-costales et/ou claviculo-sternales |  |  |\n| 2) | Rééducation orthopédique complexe | ZK11 | 1,20 |\n|  | **Remarque:** |  |  |\n|  | Rééducation du tronc ou de plusieurs articulations mentionnées sous 1) |  |  |\n| 3) | Rééducation respiratoire | ZK12 | 1,00 |\n| 4) | Rééducation du plancher pelvien | ZK13 | 1,00 |\n| 5) | Rééducation concernant une pathologie d’origine neurologique affectant un seul membre | ZK14 | 1,00 |\n| 6) | Rééducation concernant une pathologie d’origine neurologique affectant plusieurs membres et/ou le tronc | ZK15 | 1,20 |\n| 7) | Drainage lymphatique manuel d’un membre | ZK16 | 1,00 |\n| 8) | Drainage lymphatique manuel de plusieurs membres | ZK17 | 1,20 |\n| 9) | Rééducation périnéale complexe | ZK18 | 1,20 |\n| 10) | Rééducation périnéale complexe du post-partum, maximum 8 séances par accouchement | ZK19 | 1,20 |\n|  | **REMARQUES :** |  |  |\n|  | Les codes ZK18 et ZK19 intègrent une approche globale et fonctionnelle, prenant en compte le complexe périnée-transverse-diaphragme-multifide, la régulation du système de pressurisation abdomino-pelvien, la coordination respiratoire, le contrôle postural, la proprioception et, le cas échéant, la gestion des douleurs ou dysfonctions associées.Le code ZK19 ne peut être mis en compte que dans un délai de douze (12) mois à compter de la date d’accouchement. |  |  |\n| 9) | Bilan | ZB10 | 1,20 |\n\n**DEUXIEME PARTIE: FRAIS DE DEPLACEMENT**\n\n|  |  | Code | Coeff. |\n| --- | --- | --- | --- |\n| 1) | Frais de déplacement | ZD10 | 0,30 |",
       "text_sha256": "746781bc9ba2cb5f05f583fe780b82669fe00388162d79ea0e4ef68797bd20bc",
       "md_span": {
-        "start": 5698,
-        "end": 7885
+        "start": 5692,
+        "end": 7879
       },
       "citations": []
     }

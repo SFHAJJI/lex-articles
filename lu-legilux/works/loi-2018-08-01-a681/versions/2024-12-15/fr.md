@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a681/consolide/202
 source_sha256: e70571f0f8bb5ba5c1739042eddcf6b984613614508bbb39fcfa46fde81ccb1c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **Champ d’application**

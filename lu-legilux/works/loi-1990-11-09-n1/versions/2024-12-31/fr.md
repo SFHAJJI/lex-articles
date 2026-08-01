@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20241
 source_sha256: 67f2faf0ed44c27c15feeeb98fc387d198fd6df61c39164e4fbd0a422b219900
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## LIVRE — INTRODUCTIF

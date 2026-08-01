@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/consolide/2018
 source_sha256: 2eee9e23598358148b32e11c88b86c34de7b54d44a185ee0c8150b97ad505cc3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Définitions**

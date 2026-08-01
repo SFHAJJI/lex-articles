@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1953/06/26/n1/consolide/20031
 source_sha256: b72a6e0611378f2d9a1c430a1c122ee844fac9f46097a5fbfe10f10d7f2e3835
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## *Titre Ier.*

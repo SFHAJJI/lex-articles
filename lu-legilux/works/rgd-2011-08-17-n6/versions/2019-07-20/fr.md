@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/consolide/20190
 source_sha256: 54c0d7d5b80fda71eb516e6539d6aed8c5ee2801994dfb45c9534a85ecc55f5c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — LES FORFAITS JOURNALIERS

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/consolide/20240
 source_sha256: 98540067b89da5c0bd0887016f668a56bc30e7460d717791f79ce9c99b22a1ec
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

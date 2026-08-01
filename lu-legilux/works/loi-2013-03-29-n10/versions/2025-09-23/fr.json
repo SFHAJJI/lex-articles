@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -34,8 +33,8 @@
       "text_md": "**(1)** Le casier judiciaire est tenu sous la responsabilité du procureur général d’Etat sous forme électronique.\n\nIl reçoit l’inscription:\n\n1. des décisions de condamnation ayant force de chose jugée à des peines criminelles ou correctionnelles;\n2. des décisions de condamnation ayant force de chose jugée à des peines de police à l’exception des contraventions de troisième et de quatrième classe;\n3. des décisions de condamnation ayant force de chose jugée pour infractions commises contre la réglementation de la circulation sur les voies publiques à l’exception des contraventions de police en matière de stationnement;\n4. Code pénal militaire;\n5. des décisions judiciaires de placement ordonnées à l’occasion d’une procédure pénale..\n\n**(2)** Les décisions énoncées sub 1 à 5 du paragraphe (1) reçoivent inscription au casier judiciaire lorsqu’elles sont prononcées par:\n\n1. les juridictions luxembourgeoises;\n2. les juridictions des Etats membres de l’Union européenne, à condition que la personne physique faisant l’objet de la décision soit de nationalité luxembourgeoise, ou que la personne morale faisant l’objet de la décision soit une personne morale de droit luxembourgeois;\n3. - la personne physique faisant l’objet de la décision soit de nationalité luxembourgeoise ou que la personne morale faisant l’objet de la décision soit une personne morale de droit luxembourgeois; et\n- la décision soit notifiée en vertu d’une convention internationale; et\n- le fait réprimé soit considéré comme crime ou délit par la loi luxembourgeoise.\n\n**(3)** En cas de jugement ou d’arrêt rendus par défaut et non notifiés à personne, l’inscription des décisions reprises sub 1 à 5 du paragraphe (1) a lieu avec l’indication, tant de cette circonstance qu’éventuellement de la décision qui a été rendue sur opposition.\n\n**(4)** Les décisions ordonnant la suspension simple ou probatoire du prononcé de la condamnation et les décisions de condamnation avec sursis simple ou probatoire sont inscrites au casier judiciaire avec la mention des obligations imposées par la décision et de leur durée.",
       "text_sha256": "130b56e42a6efc3b695a29a2b8b4a2ded0a86251af18ae5c4a167f9fabbddf3c",
       "md_span": {
-        "start": 604,
-        "end": 2695
+        "start": 598,
+        "end": 2689
       },
       "citations": []
     },
@@ -53,8 +52,8 @@
       "text_md": "Le casier judiciaire reçoit inscription des informations suivantes:\n\n1. la date de la décision de condamnation, le nom de la juridiction, la date à laquelle la décision est passée en force de chose jugée et le numéro de la référence de la décision de condamnation;\n2. la date de l’infraction ayant entraîné la condamnation et la qualification juridique de l’infraction;\n3. les peines prononcées y compris les peines accessoires;\n4. la date de la libération conditionnelle ou de la libération anticipée et la date de la fin de la peine privative de liberté;\n5. les décisions de grâce, les arrêts de révision et les décisions de condamnation amnistiées.\n6. la date de la fin de l’exécution de l’interdiction de conduire.",
       "text_sha256": "1cbc1941034db22af2cb1e812baa1803d736ce049f8021dd307c19c1a3f0bf9e",
       "md_span": {
-        "start": 2729,
-        "end": 3447
+        "start": 2723,
+        "end": 3441
       },
       "citations": []
     },
@@ -72,8 +71,8 @@
       "text_md": "Les personnes physiques sont désignées sur les fichiers électroniques par l’indication:\n\n1. de leurs noms et prénoms actuels et précédents, le cas échéant de leurs pseudonymes et/ou alias des noms et prénoms de leurs père et mère et, le cas échéant, de ceux de leur conjoint;\n2. de la date, de la ville et du pays de naissance;\n3. des nationalités actuelles et précédentes ou, le cas échéant, de l’information qu’ils sont apatrides ou que leur nationalité n’est pas connue ;\n4. de la résidence; et\n5. d’un numéro d’identification.\n\nLes personnes morales sont désignées par l’indication de leur dénomination sociale, de leur siège social et de leur numéro de registre de commerce.\n\nLes inscriptions relatives à une personne physique sont effacées au décès de la personne concernée et au plus tard 100 ans après la naissance de la personne.",
       "text_sha256": "812f963aa4c0beaa53bfc1de2d965895bc5199e00504478f877785b49adfdf8e",
       "md_span": {
-        "start": 3481,
-        "end": 4319
+        "start": 3475,
+        "end": 4313
       },
       "citations": []
     },
@@ -91,8 +90,8 @@
       "text_md": "Le traitement des données à caractère personnel contenues dans le casier judiciaire et dans les fichiers de données créés en application de l’article 12-1 est effectué conformément aux dispositions de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale et de la loi du 7 août 2023 portant introduction de dispositions spécifiques pour le traitement de données personnelles dans l’application « JU-CHA ».",
       "text_sha256": "87d70a6c00f25ea6eb16c3177f1076935b3962a82dfc21b46bb1683553d7c4cd",
       "md_span": {
-        "start": 4358,
-        "end": 4900
+        "start": 4352,
+        "end": 4894
       },
       "citations": [
         {
@@ -119,8 +118,8 @@
       "text_md": "Les décisions mentionnées à l’article 1er sont communiquées au procureur général d’Etat par le greffe de la juridiction qui a rendu la décision.",
       "text_sha256": "58ca04da473d31757bf98040386db9d51ace398b68fd2c572ba7900eaff6e6a6",
       "md_span": {
-        "start": 4935,
-        "end": 5079
+        "start": 4929,
+        "end": 5073
       },
       "citations": []
     },
@@ -138,8 +137,8 @@
       "text_md": "Le bulletin No 1 est le relevé des condamnations et des décisions inscrites au casier judiciaire au titre de l’article 1er.",
       "text_sha256": "906970b75cc8b606658d6a3202d072416dc8cb12f809fa19a822b07c3165fa34",
       "md_span": {
-        "start": 5114,
-        "end": 5237
+        "start": 5108,
+        "end": 5231
       },
       "citations": []
     },
@@ -157,8 +156,8 @@
       "text_md": "Le bulletin No 1 est délivré sur demande:\n\n1. aux autorités judiciaires luxembourgeoises dans le cadre d’une procédure pénale;\n2. aux membres luxembourgeois d’Eurojust, d’Europol et du Parquet européen dans le cadre d’une procédure pénale;\n3. aux autorités centrales compétentes des États membres de l’Union européenne lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique ressortissante d’un État membre ou une personne morale de droit luxembourgeois est adressée aux fins d’une procédure pénale ;\n4. 3*bis*)\n5. aux autorités compétentes des pays tiers conformément aux conventions internationales en vigueur.\n6. à l’avocat chargé d’assister ou de représenter la personne concernée en tant que prévenu devant une juridiction appelée à statuer sur le fond, sinon, à défaut d’avocat, au prévenu lui-même sur demande.\n\nLorsqu’il n’existe pas d’inscription au casier judiciaire, le bulletin No 1 porte la mention «néant».",
       "text_sha256": "f0d8dd82bf4303ef499013813e20e530adc3031beafc30082c6819114e208092",
       "md_span": {
-        "start": 5272,
-        "end": 6234
+        "start": 5266,
+        "end": 6228
       },
       "citations": []
     },
@@ -176,8 +175,8 @@
       "text_md": "**(1)** Le bulletin N° 2 d’une personne physique renseigne les décisions inscrites au casier judiciaire ayant prononcé des condamnations à des peines criminelles et correctionnelles ou ayant ordonné une mesure de placement à l’occasion d’une procédure pénale concernant la même personne, à l’exclusion:\n\n1. des condamnations à une peine d’amende assorties du sursis simple ou probatoire à moins que le sursis ne soit déchu ou révoqué,\n2. des décisions ordonnant la suspension simple ou probatoire du prononcé de la condamnation,\n3. des condamnations assorties du bénéfice du sursis simple ou probatoire lorsqu’elles sont considérées comme non avenues,\n4. des décisions rendues par défaut et non notifiées à personne.\n\nLa condamnation à une peine d’amende inférieure ou égale à 1.000 euros et la condamnation à un travail d’intérêt général ne sont plus inscrites au bulletin N° 2 après un délai de cinq ans qui court du jour où la condamnation a acquis force de chose jugée.\n\nUne condamnation à une interdiction de conduire est inscrite au bulletin N° 2 tant que tout ou partie de cette peine reste à exécuter.\n\nUne condamnation à une interdiction, incapacité ou déchéance est inscrite au bulletin N° 2 tant que la durée fixée pour cette mesure n’est pas expirée.\n\nAu cas où la décision a prononcé une peine ou plusieurs peines devant être inscrite(s) au bulletin N° 2 d’après les distinctions faites ci-dessus, toutes les peines y sont inscrites.\n\n**(2)** Le bulletin N° 2 d’une personne morale renseigne les décisions inscrites au casier judiciaire ayant prononcé des condamnations à des peines criminelles et correctionnelles concernant la même personne, à l’exclusion:\n\n1. des condamnations à une peine d’amende assorties du sursis simple ou probatoire à moins que le sursis ne soit déchu ou révoqué,\n2. des décisions ordonnant la suspension simple ou probatoire du prononcé de la condamnation,\n3. des condamnations assorties du bénéfice du sursis simple ou probatoire lorsqu’elles sont considérées comme non avenues,\n4. des décisions rendues par défaut et non notifiées à personne.\n\nLorsqu’une décision comporte une condamnation à une fermeture d’entreprise ou d’établissement, ou à une dissolution, toutes les peines prononcées par cette décision sont inscrites au bulletin N° 2.\n\nLorsqu’une décision comporte une condamnation à une interdiction, déchéance ou incapacité, ou à une exclusion de la participation à des marchés publics, toutes les peines prononcées par cette décision sont inscrites au bulletin N° 2 tant que la durée fixée pour cette mesure n’est pas expirée.",
       "text_sha256": "c0dc201335479060826b76b91d599ef8d6332254880119ff1ae9ed1cd4082d8c",
       "md_span": {
-        "start": 6269,
-        "end": 8848
+        "start": 6263,
+        "end": 8842
       },
       "citations": []
     },
@@ -195,8 +194,8 @@
       "text_md": "Le bulletin N° 2 d’une personne physique ou morale est délivré sur demande:\n\n1. La liste des administrations et personnes morales de droit public et les motifs d’une demande de délivrance sont fixés par règlement grand-ducal;\n2. Le SRE transmet sur une base trimestrielle la liste de ses demandes de délivrance et les motifs de ces demandes à l’autorité de contrôle judiciaire prévue à l’article 40 de la loi du 1er août 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale ;\n3. règlement (CE) n° 1071/2009 directive 96/26/CE\n4. 3*bis*) règlement (UE) 2018/1240 règlements (UE) n° 1077/2011 (UE) n° 515/2014 (UE) 2016/399 (UE) 2016/1624 (UE) 2017/2226\n5. 3*ter*) règlement (CE) n° 767/2008\n6. 3*quater*)\n7. aux autorités centrales compétentes des États membres de l’Union européenne lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique ressortissante d’un État membre ou une personne morale de droit luxembourgeois est adressée à des fins et dans des conditions équivalentes à celles prévues aux points 1) et 2) ci-avant ;\n8. 4*bis*)\n9. aux autorités compétentes des pays tiers conformément aux conventions internationales en vigueur.\n\nDans les cas où l’accord de la personne concernée est requis pour la délivrance directe du casier judiciaire, le signataire de la demande adressée au service du casier judiciaire est tenu de vérifier que les conditions de délivrance directe sont remplies et que le consentement écrit ou électronique de la personne concernée a été recueilli.",
       "text_sha256": "018e98140494e4031d97ba46600620f424722eca83a99895aec06484134cd3d7",
       "md_span": {
-        "start": 8881,
-        "end": 10522
+        "start": 8875,
+        "end": 10516
       },
       "citations": [
         {
@@ -219,8 +218,8 @@
       "text_md": "**(1)** Le bulletin N° 3 d’une personne physique renseigne les décisions inscrites au casier judiciaire ayant prononcé des condamnations à des peines criminelles et correctionnelles concernant la même personne, à l’exclusion:\n\n1. des condamnations à une peine d’emprisonnement d’une durée inférieure ou égale à vingt-quatre mois assorties du sursis simple ou probatoire, à moins que le sursis ne soit déchu ou révoqué,\n2. des condamnations à une peine d’amende assorties du sursis simple ou probatoire, à moins que le sursis ne soit déchu ou révoqué,\n3. des décisions ordonnant la suspension simple ou probatoire du prononcé de la condamnation,\n4. aux autorités centrales compétentes des États membres de l’Union européenne lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique ressortissante d’un État membre ou une personne morale de droit luxembourgeois est adressée à des fins et dans des conditions équivalentes à celles prévues aux points 1), 2) et 3) ci-avant ;\n5. 4*bis*)\n6. des condamnations à une peine d’amende inférieure ou égale à 2.500 euros ou à plusieurs peines d’amende dont le total est inférieur ou égal à 2.500 euros,\n7. des décisions rendues par défaut et non notifiées à personne,\n8. des condamnations à un travail d’intérêt général.\n\nLes condamnations à une peine d’amende correctionnelle ne sont plus inscrites au bulletin N° 3 après un délai de cinq ans qui court du jour où la condamnation a acquis force de chose jugée.\n\nUne condamnation unique à une peine d’emprisonnement inférieure ou égale à douze mois n’est plus inscrite au bulletin N° 3 à partir du jour où elle a été exécutée ou, si l’intéressé a bénéficié d’une libération conditionnelle ou anticipée, à partir du jour où le délai prévu à l’article 100 (7) du Code pénal est venu à expiration sans avoir été révoqué.\n\nUne condamnation à une interdiction de conduire est inscrite au bulletin N° 3 tant que tout ou partie de cette peine reste à exécuter.\n\nUne condamnation à une interdiction, incapacité ou déchéance est inscrite au bulletin N° 3 tant que la durée fixée pour cette mesure n’est pas expirée.\n\nAu cas où la décision a prononcé une peine ou plusieurs peines devant être inscrite(s) au bulletin N° 3 d’après les distinctions faites ci-dessus, toutes les peines y sont inscrites.\n\n**(2)** Le bulletin N° 3 d’une personne morale renseigne les décisions inscrites au casier judiciaire ayant prononcé des condamnations à des peines criminelles et correctionnelles concernant la même personne, à l’exclusion:\n\n1. des condamnations à une peine d’amende assorties du sursis simple ou probatoire, à moins que le sursis ne soit déchu ou révoqué,\n2. des décisions ordonnant la suspension simple ou probatoire du prononcé de la condamnation,\n3. des condamnations assorties du bénéfice du sursis simple ou probatoire lorsqu’elles sont considérées comme non avenues,\n4. des condamnations à une peine d’amende inférieure ou égale à 25.000 euros ou à plusieurs peines d’amende dont le total est inférieur ou égal à 25.000 euros,\n5. rendues par défaut et non notifiées à personne.\n\nLorsqu’une décision comporte une condamnation à une fermeture d’entreprise ou d’établissement, ou à une dissolution, toutes les peines prononcées par cette décision sont inscrites au bulletin N° 3.\n\nLorsqu’une décision comporte une condamnation à une interdiction, déchéance ou incapacité, ou à une exclusion de la participation à des marchés publics, toutes les peines prononcées par cette décision sont inscrites au bulletin N° 3 tant que la durée fixée pour cette mesure n’est pas expirée.\n\n**(3)** Le bulletin N° 3 d’une personne physique ou morale est délivré sur demande:\n\n1. à la personne physique concernée ou à une tierce personne munie d’une procuration et d’une copie d’une pièce d’identité valable de la personne physique concernée;\n2. à une personne pouvant engager la personne morale concernée, munie d’une pièce d’identité valable et d’un extrait récent du registre du commerce et des sociétés; ou à une tierce personne munie d’un extrait récent du registre du commerce et des sociétés, de la procuration d’une personne pouvant engager la personne morale et d’une copie d’une pièce d’identité valable du signataire de la procuration;\n3. La liste des administrations et personnes morales de droit public et les motifs d’une demande de délivrance sont fixés par règlement grand-ducal;\n4. aux autorités centrales compétentes des Etats membres de l’Union européenne lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique de nationalité luxembourgeoise ou une personne morale de droit luxembourgeois est adressée à des fins et dans des conditions équivalentes à celles prévues aux points 1), 2) et 3) ci-avant;\n5. aux autorités compétentes des pays tiers conformément aux conventions internationales en vigueur.\n\nDans les cas où l’accord de la personne concernée est requis pour la délivrance directe du casier judiciaire, le signataire de la demande adressée au service du casier judiciaire est tenu de vérifier que les conditions de délivrance directe sont remplies et que le consentement écrit ou électronique de la personne concernée a été recueilli.",
       "text_sha256": "da968cb7420d4659a837d46d335e54f58b63c7e25affbeef66ea5e64e90a8543",
       "md_span": {
-        "start": 10561,
-        "end": 15775
+        "start": 10555,
+        "end": 15769
       },
       "citations": [
         {
@@ -243,8 +242,8 @@
       "text_md": "****(1)**** **Le bulletin N° 4 d’une personne physique renseigne les décisions inscrites au bulletin N° 3, ainsi que toutes condamnations prononçant une interdiction de conduire.**\n\nCes dernières ne sont plus inscrites au bulletin N° 4 après un délai de trois ans qui court soit à partir de la fin de l’exécution de l’interdiction de conduire, soit pour les condamnations assorties du bénéfice du sursis simple ou probatoire à partir de la date à laquelle elles sont considérées comme non avenues.\n\n**(2)** Le bulletin N° 4 d’une personne physique est délivré sur demande:\n\n1. à la personne physique concernée ou à une tierce personne munie d’une procuration et d’une copie d’une pièce d’identité valable de la personne physique concernée;\n2. 1. la délivrance, le renouvellement, le retrait ou la restitution du permis de conduire, ainsi que pour l’examen des demandes d’agrément comme accompagnateur dans le cadre de la conduite accompagnée, à condition que la personne concernée ait donné son accord de manière écrite ou électronique afin que le bulletin N° 4 soit délivré directement à l’administration;\n2. la délivrance, le renouvellement, le retrait ou la restitution des licences et qualifications du personnel navigant de l’aéronautique à condition que la personne concernée ait donné son accord de manière écrite ou électronique afin que le bulletin N° 4 soit délivré directement à l’administration;\n3. la délivrance, le renouvellement, le retrait ou la restitution des licences ferroviaires à condition que la personne concernée ait donné son accord de manière écrite ou électronique afin que le bulletin N° 4 soit délivré directement à l’administration;\n4. la délivrance, le renouvellement, le retrait ou la restitution des licences de conducteur ou d’exploitant de taxis, à condition que la personne concernée ait donné son accord de manière écrite ou électronique afin que le bulletin N° 4 soit délivré directement à l’administration;\n3. aux autorités centrales compétentes des États membres de l’Union européenne lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique ressortissante d’un État membre est adressée à des fins et dans des conditions équivalentes à celles prévues aux points 1) et 2) ci-avant ;\n4. 3*bis*)\n5. aux autorités compétentes des pays tiers conformément aux conventions internationales en vigueur.\n\nDans les cas où l’accord de la personne concernée est requis pour la délivrance directe du casier judiciaire, le signataire de la demande adressée au service du casier judiciaire est tenu de vérifier que les conditions de délivrance directe sont remplies et que le consentement écrit ou électronique de la personne concernée a été recueilli.",
       "text_sha256": "8d5e57aa8666efb5bbf9cc7b456052cb10ac5f20b9bf58328633ef4f04322001",
       "md_span": {
-        "start": 15814,
-        "end": 18532
+        "start": 15808,
+        "end": 18526
       },
       "citations": []
     },
@@ -262,8 +261,8 @@
       "text_md": "**(1)** Toute personne physique ou morale se proposant de recruter une personne pour des activités professionnelles ou bénévoles impliquant des contacts réguliers avec des mineurs reçoit, sous condition de l’accord de la personne concernée, le relevé de toutes condamnations et décisions de placement à l’occasion d’une procédure pénale pour des faits commis à l’égard d’un mineur ou impliquant un mineur, et pour autant que cet élément soit constitutif de l’infraction ou qu’il en aggrave la peine.\n\nLe relevé reçoit également inscription de toutes les décisions prononçant une interdiction d’exercer des activités impliquant des contacts directs et réguliers avec des mineurs.\n\nCe relevé est le bulletin N° 5.\n\n**(2)** Le bulletin N° 5 est délivré sur demande:\n\n1. à la personne physique concernée ou à une tierce personne munie d’une procuration et d’une copie d’une pièce d’identité valable de la personne physique concernée;\n2. aux autorités communales pour l’examen des demandes d’emploi dans le domaine de l’enseignement ou dans un foyer scolaire géré par la commune, à condition que la personne concernée ait donné son accord de manière écrite ou électronique afin que le bulletin N°5 soit délivré directement à l’administration;\n3. aux autorités centrales compétentes des États membres de l’Union européenne lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique ressortissante d’un État membre est adressée à des fins et dans des conditions équivalentes à celles prévues aux points 1) et 2) ci-avant ;\n4. aux autorités centrales compétentes des États membres de l’Union européenne lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique ressortissante d’un pays tiers à l’Union européenne, à l’égard de laquelle une condamnation a été prononcée par les juridictions luxembourgeoises ou à l’égard de laquelle une condamnation a été prononcée dans un pays tiers et qui a été transmise au procureur général d’État, est adressée à des fins et dans des conditions équivalentes à celles prévues aux points 1) et 2) ci-avant ;\n5. aux autorités compétentes des pays tiers conformément aux conventions internationales en vigueur.\n\nDans les cas où l’accord de la personne concernée est requis pour la délivrance directe du casier judiciaire, le signataire de la demande adressée au service du casier judiciaire est tenu de vérifier que les conditions de délivrance directe sont remplies et que le consentement écrit ou électronique de la personne concernée a été recueilli.",
       "text_sha256": "bf6a22d931ec9b8d988ca23e7730fae3c44d50b6c6cd664d1714213b86b74253",
       "md_span": {
-        "start": 18571,
-        "end": 21129
+        "start": 18565,
+        "end": 21123
       },
       "citations": []
     },
@@ -281,8 +280,8 @@
       "text_md": "Lorsqu’il n’existe pas au casier judiciaire d’inscription concernant des décisions à porter sur le bulletin du casier judiciaire demandé, le bulletin délivré porte la mention «néant».",
       "text_sha256": "c2ad08376f43d233c1ce47d6bbf130f671d32d232dd26f6c7a80069e7ee6d29c",
       "md_span": {
-        "start": 21168,
-        "end": 21351
+        "start": 21162,
+        "end": 21345
       },
       "citations": []
     },
@@ -300,8 +299,8 @@
       "text_md": "**(1)** Un bulletin du casier judiciaire délivré à un employeur public en vue de la conclusion d’un contrat d’emploi ne peut pas être conservé au-delà d’un délai d’un mois à partir de la conclusion du contrat de travail. Si la personne concernée n’est pas engagée, l’extrait du casier doit être détruit sans délai par l’employeur.\n\nUn bulletin délivré à une administration saisie d’une demande ne peut pas être conservé au-delà d’un délai d’un mois après l’expiration du délai prévu pour un recours contentieux.\n\n**(2)** Dans le cadre du recrutement du personnel, un employeur peut demander au candidat intéressé de lui remettre un bulletin N° 3. Cette demande est présentée sous forme écrite et est spécialement motivée par rapport aux besoins spécifiques du poste. Cette demande doit figurer dans l’offre d’emploi.\n\nLe bulletin N° 3 remis par la personne concernée ne peut pas être conservé au-delà d’un délai d’un mois à partir de la conclusion du contrat de travail. Si la personne concernée n’est pas engagée, l’extrait du casier doit être détruit sans délai par l’employeur.\n\nDans le cadre de la gestion du personnel, l’employeur ne peut demander aux salariés la remise d’un nouveau bulletin N° 3 que lorsque des dispositions légales spécifiques le prévoient.\n\nL’employeur peut également demander la remise d’un nouveau bulletin N° 3 en cas de nouvelle affectation justifiant un nouveau contrôle de l’honorabilité par rapport aux besoins spécifiques du poste.\n\nA moins que des dispositions légales n’autorisent un délai de conservation plus long, l’extrait ne peut pas être conservé au-delà d’un délai de deux mois à partir de sa délivrance.\n\n**(3)** Dans le cadre du recrutement du personnel, un employeur ne peut demander au candidat intéressé de lui remettre un bulletin N° 4 que lorsque la détention d’un permis de conduire valable constitue une condition indispensable pour l’exercice de l’activité professionnelle du salarié et est exigée dans le contrat de travail. Cette demande est présentée sous forme écrite et est spécialement motivée par rapport aux besoins spécifiques du poste. Cette demande doit figurer dans l’offre d’emploi.\n\nLe bulletin N° 4 remis par la personne concernée ne peut pas être conservé au-delà d’un délai d’un mois à partir de la conclusion du contrat de travail. Si la personne concernée n’est pas engagée, l’extrait du casier doit être détruit sans délai par l’employeur.\n\n**(4)** A l’expiration des délais de conservation susmentionnés, ni l’extrait ni les données y renseignées ne peuvent être conservés sous quelque forme que ce soit.",
       "text_sha256": "73cef35337c89587a50999ba1ca6a4a1f1e12c4904ea0d65abea114cb7576f0d",
       "md_span": {
-        "start": 21390,
-        "end": 23968
+        "start": 21384,
+        "end": 23962
       },
       "citations": []
     },
@@ -319,8 +318,8 @@
       "text_md": "Celui qui sollicite la délivrance d’un bulletin du casier d’une personne physique ou morale en violation des conditions de fond et de forme prévues aux articles 6 à 8-4 de la présente loi sera puni d’un emprisonnement de 8 jours à 1 an et d’une amende de 251 euros à 5.000 euros.\n\nLe non-respect des délais de conservation prévus à l’article 8-5 ou des délais prévus par une loi spéciale sera puni d’une amende de 251 euros à 3.000 euros.",
       "text_sha256": "5f4916aa9edf54e6d4c29db489d3f141fd52c3e9b616154924536ef2da6028b1",
       "md_span": {
-        "start": 24003,
-        "end": 24441
+        "start": 23997,
+        "end": 24435
       },
       "citations": []
     },
@@ -338,8 +337,8 @@
       "text_md": "**(1)** Toute personne dispose d’un droit d’accès à l’intégralité des inscriptions du casier judiciaire la concernant.\n\n**(2)** En cas de contestation des inscriptions au casier judiciaire, la personne physique, voire son représentant légal s’il s’agit d’un incapable majeur, ou la personne morale, par le biais de son représentant légal, présente une requête à la chambre du conseil de la Cour d’appel. Le président de la chambre du conseil de la Cour d’appel communique la requête au procureur général d’État. La chambre du conseil de la Cour d’appel statue sur la demande, le procureur général d’État, la partie ou son conseil entendus, par un arrêt rendu en chambre du conseil. Cet arrêt est susceptible d’un recours en cassation.\n\nLe greffier avise le procureur général d’État, la partie et son conseil huit jours à l’avance, par lettre recommandée, du jour, de l’heure et du lieu de la séance.",
       "text_sha256": "a5fdae3e19730236a882c203a2060953067fbea18dba78f1f802a17f45bccc18",
       "md_span": {
-        "start": 24478,
-        "end": 25377
+        "start": 24472,
+        "end": 25371
       },
       "citations": []
     },
@@ -357,8 +356,8 @@
       "text_md": "Le procureur général d’Etat est désigné comme autorité centrale pour les échanges d’informations extraites du casier judiciaire entre les Etats membres.",
       "text_sha256": "9af6d10a3baaea0f3e99725a89de0599b503cecd5ce7bb0cf4d8388c267454ee",
       "md_span": {
-        "start": 25536,
-        "end": 25688
+        "start": 25530,
+        "end": 25682
       },
       "citations": []
     },
@@ -376,8 +375,8 @@
       "text_md": "**(1)** Le procureur général d’Etat informe le plus tôt possible les autorités centrales compétentes des autres Etats membres des condamnations prononcées au Luxembourg à l’encontre des ressortissants desdits Etats membres et des décisions ultérieures modifiant l’exécution des peines, telles qu’inscrites dans le casier judiciaire.\n\n**(2)** Les informations relatives à une modification ou à une suppression ultérieure des informations contenues dans le casier judiciaire en vertu des articles 1er et 2 sont transmises sans délai par le procureur général d’Etat aux autorités centrales compétentes.\n\n**(3)** Le procureur général d’Etat communique, à la demande de l’autorité centrale de l’Etat membre dont la personne condamnée a la nationalité, copie des condamnations et des décisions ultérieures modifiant l’exécution des peines ainsi que tout autre renseignement s’y référant pour permettre à cet Etat membre de déterminer si ces condamnations et mesures ultérieures requièrent de prendre des mesures au niveau national.",
       "text_sha256": "079a9ad7eed29208c4c4c4f1e60cec27eb384a2a383cca109ccb306485b80f9d",
       "md_span": {
-        "start": 25725,
-        "end": 26750
+        "start": 25719,
+        "end": 26744
       },
       "citations": []
     },
@@ -395,8 +394,8 @@
       "text_md": "**(1)** Pour chaque personne physique ressortissante d’un pays tiers à l’Union européenne condamnée, le procureur général d’État crée un fichier de données dans le système ECRIS-TCN établi par le règlement (UE) 2019/816 du Parlement européen et du Conseil du 17 avril 2019 portant création d’un système centralisé permettant d’identifier les États membres détenant des informations relatives aux condamnations concernant des ressortissants de pays tiers et des apatrides (ECRIS-TCN), qui vise à compléter le système européen d’information sur les casiers judiciaires, et modifiant le règlement (UE) 2018/1726, tel que modifié, dénommé ci-après « règlement (UE) 2019/816 ».\n\nLe fichier contient un code identifiant le Grand-Duché de Luxembourg comme État de condamnation. Outre les données alphanumériques figurant à l’article 3, alinéa 1er, ce fichier contient le genre et, pour autant qu’elles ont été recueillies en application de l’article 12-2 de la présente loi, des procédures prévues au Code de procédure pénale, ou de l’article 47 de la loi modifiée du 20 juillet 2018 portant réforme de l’administration pénitentiaire, les données dactyloscopiques de la personne concernée. Il peut contenir des images faciales, prises dans les mêmes conditions, pour la finalité prévue à l’article 6, paragraphe 1er, du règlement (UE) 2019/816. Il peut également contenir le numéro d’identité, ou le type et le numéro des documents d’identité de la personne concernée, ainsi que le nom de l’autorité qui les a délivrés. Le fichier contient encore la mention si le ressortissant d’un pays tiers a été condamné au cours des vingt-cinq dernières années pour une infraction terroriste ou au cours des quinze dernières années pour toute autre infraction pénale mentionnée dans la liste figurant dans l’annexe du règlement (UE) 2018/1240 du Parlement européen et du Conseil du 12 septembre 2018 portant création d’un système européen d’information et d’autorisation concernant les voyages (ETIAS) et modifiant les règlements (UE) n° 1077/2011, (UE) n° 515/2014, (UE) 2016/399, (UE) 2016/1624 et (UE) 2017/2226 si elle est passible, en droit luxembourgeois, d’une peine privative de liberté d’une durée maximale d’au moins trois ans.\n\n**(2)** Les données dactyloscopiques et, le cas échéant, les images faciales et les documents d’identité sont transmis, aux fins prévues au paragraphe 1er, sous forme de fichiers électroniques au procureur général d’État par la Police grand-ducale.\n\n**(3)** Le procureur général d’État utilise le système ECRIS-TCN établi par le règlement (UE) 2019/816 dans les conditions prévues à son article 7. À cette fin, il peut demander à la Police grand-ducale de lui transmettre, sous forme de fichiers électroniques, les données dactyloscopiques et les images faciales, recueillies en application de l’article 12-2 de la présente loi, des procédures prévues au Code de procédure pénale, ou de l’article 47 de la loi modifiée du 20 juillet 2018 portant réforme de l’administration pénitentiaire, ainsi que toute autre donnée visée à l’article 5, paragraphe 1er, du règlement (UE) 2019/816 de la personne pour laquelle la demande d’information est faite. Le procureur général d’État efface ces fichiers au terme d’une durée de trois mois après la réponse fournie.\n\n**(4)** Pour l’inscription des données dans le système ECRIS-TCN et son utilisation, les ressortissants des États membres qui ont également la nationalité d’un pays tiers, les personnes dont la nationalité n’est pas connue, et les apatrides sont assimilés aux ressortissants des pays tiers à l’Union européenne.\n\n**(5)** Le procureur général d’État modifie et efface les données inscrites dans le système ECRIS-TCN conformément aux articles 8 et 9 du règlement (UE) 2019/816. Il consigne toutes les activités de traitement de données dans le système ECRIS-TCN dans un registre conformément à l’article 31 du règlement (UE) 2019/816 et utilise ce registre aux fins et dans les conditions prévues à cet article.\n\n**(6)** Les missions de l’autorité de contrôle nationale visées aux articles 25, 26, 28 et 31 du règlement (UE) 2019/816 sont exercées par l’autorité de contrôle judiciaire prévue à l’article 40, paragraphe 2, de la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.",
       "text_sha256": "2ac96758a7048bc698e30faab295829ed94ed59c127519cd4c3b6ed94779a133",
       "md_span": {
-        "start": 26791,
-        "end": 31184
+        "start": 26785,
+        "end": 31178
       },
       "citations": [
         {
@@ -459,8 +458,8 @@
       "text_md": "**(1)** Il sera procédé, au besoin sous contrainte physique, à la prise d’empreintes digitales, d’images faciales et de photographies de chaque ressortissant d’un pays tiers à l’Union européenne condamné par une décision judiciaire coulée en force de chose jugée à une peine privative de liberté d’au moins six mois. Sont assimilés aux ressortissants de pays tiers, les personnes dont la nationalité n’est pas connue et les apatrides. En sont exclus les ressortissants des État membres qui ont également de la nationalité d’un pays tiers.\n\nLa prise des empreintes digitales, d’images faciales et de photographies visées à l’alinéa 1er est effectuée par la Police grand-ducale sous l’autorité du procureur général d’État.\n\n**(2)** Les empreintes digitales recueillies en application du paragraphe 1er sont traitées par le procureur général d’État aux fins prévues à l’article 12-1. Jusqu’à l’entrée en vigueur de l’acte délégué visé à l’article 6, paragraphe 2, du règlement (UE) 2019/816, les images faciales recueillies en application du paragraphe 1er ne peuvent être utilisées, dans le cadre de l’ECRIS-TCN, que pour confirmer l’identité d’un ressortissant d’un pays tiers identifié à la suite d’une consultation alphanumérique ou d’une recherche sur la base des données dactyloscopiques. Les empreintes digitales, images faciales et photographies recueillies en application du paragraphe 1er peuvent être traitées par la Police grand-ducale aux fins de la prévention, de la recherche et de la constatation des infractions pénales, dans les conditions prévues par la loi du 1er août 2018 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel en matière pénale ainsi qu’en matière de sécurité nationale.",
       "text_sha256": "ab18dc33752107d9a867bc4369da77b2a806909f34a24c5dce4d6b82f20beff2",
       "md_span": {
-        "start": 31225,
-        "end": 32983
+        "start": 31219,
+        "end": 32977
       },
       "citations": [
         {
@@ -487,8 +486,8 @@
       "text_md": "**(1)** Le procureur général d’Etat peut adresser une demande d’informations extraites du casier judiciaire à l’autorité centrale d’un autre Etat membre lorsque ces informations sont demandées par lui aux fins d’une procédure pénale à l’encontre d’une personne physique ou morale ou à des fins autres qu’une procédure pénale.\n\n**(2)** Le procureur général d’Etat adresse les demandes d’informations au moyen du formulaire figurant en annexe de la présente loi.",
       "text_sha256": "cc1fb57695812df411b04f5fd516f4a743dc4e6ef7c3b1db5f322bcf7b51d45f",
       "md_span": {
-        "start": 33020,
-        "end": 33480
+        "start": 33014,
+        "end": 33474
       },
       "citations": []
     },
@@ -506,8 +505,8 @@
       "text_md": "**(1)** Lorsqu’une personne physique ressortissante d’un État membre ou une personne morale de droit luxembourgeois demande des informations sur son propre casier judiciaire, la demande d’informations est répercutée à l’autorité centrale de l’État membre dont elle est ou a été un résident ou un ressortissant, de sorte que les informations communiquées le cas échéant figurent sur le bulletin N° 3, 4, ou 5 qui lui sera délivré.\n\n**(2)** Lorsqu’une personne physique ressortissante d’un pays tiers à l’Union européenne demande des informations sur son propre casier judiciaire, la demande est répercutée par le biais du système ECRIS-TCN établi par le règlement (UE) 2019/816 aux autorités centrales des États membres qui détiennent des informations sur le casier judiciaire de cette personne, de sorte que les informations communiquées, le cas échéant, figurent sur le bulletin n° 3, 4 ou 5 qui lui sera délivré.\n\n**(3)** Le Ministre de la Justice transmet annuellement au procureur général d’Etat la liste des personnes qui acquièrent ou recouvrent la nationalité luxembourgeoise, en y joignant l’extrait du casier judiciaire délivré par l’autorité étrangère et fourni par l’intéressé à l’appui de sa demande en naturalisation ou en recouvrement de la nationalité luxembourgeoise.\n\n**(4)** Le procureur général d’Etat demande un extrait du casier judiciaire à l’Etat de la nationalité antérieure de la personne concernée si elle avait la nationalité d’un des Etats membres de l’Union européenne. Si la personne concernée était un ressortissant d’un pays tiers ou si aucune information complète n’est fournie par l’Etat de la nationalité antérieure, le procureur général d’Etat inscrit sur le casier judiciaire les condamnations reprises sur l’extrait du casier judiciaire transmis par le Ministre de la Justice.",
       "text_sha256": "4bd61a66990ea2f80c9a1fc66dfa8eed09424d67fa04a385498488ef5816ac03",
       "md_span": {
-        "start": 33517,
-        "end": 35331
+        "start": 33511,
+        "end": 35325
       },
       "citations": [
         {
@@ -530,8 +529,8 @@
       "text_md": "**(1)** Lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique, ressortissante d’un État membre, une personne morale de droit luxembourgeois, ou une personne physique ressortissante d’un pays tiers à l’Union européenne à l’égard de laquelle une condamnation a été prononcée par les juridictions luxembourgeoises ou à l’égard de laquelle une condamnation a été prononcée dans un pays tiers et qui a été transmise au procureur général d’État, est adressée, aux fins d’une procédure pénale, par une autorité centrale au moyen du formulaire figurant en annexe de la présente loi, le procureur général d’État lui transmet les informations recevant inscription au bulletin N° 1.\n\n**(2)** Lorsqu’une demande d’informations extraites du casier judiciaire concernant une personne physique, ressortissante d’un État membre, une personne morale de droit luxembourgeois ou une personne physique ressortissante d’un pays tiers à l’Union européenne à l’égard de laquelle une condamnation a été prononcée par les juridictions luxembourgeoises ou à l’égard de laquelle une condamnation a été prononcée dans un pays tiers et qui a été transmise au procureur général d’État, est adressée à des fins autres par une autorité centrale au moyen du formulaire figurant en annexe de la présente loi, le procureur général d’État lui transmet le bulletin respectif, lorsque les conditions prévues aux articles 8, 8-1, 8-2, 8-3 et 8-5 pour la délivrance du bulletin en question sont réunies.",
       "text_sha256": "5b288cda4289465c303949725fd6c692a742b1374981e6a1b69019728ffa711c",
       "md_span": {
-        "start": 35368,
-        "end": 36875
+        "start": 35362,
+        "end": 36869
       },
       "citations": []
     },
@@ -549,8 +548,8 @@
       "text_md": "**(1)** Les réponses aux demandes d’informations extraites du casier judiciaire visées à l’article 6, alinéa 1er, points 3), 3*bis*) et 4), à l’article 8, alinéa 1er, points 4), 4*bis*) et 5), à l’article 8-1, paragraphe (3), alinéa 1er, points 4), 4*bis*) et 5), à l’article 8-2, paragraphe (2), alinéa 1er, points 3), 3*bis*) et 4), et à l’article 8-3, paragraphe (2), alinéa 1er, points 3), 3*bis*) et 4), sont transmises immédiatement et, en tout état de cause, dans un délai qui ne peut dépasser dix jours ouvrables à compter du jour de réception, soit de la demande elle-même, soit de la réponse à la demande d’information complémentaire envoyée directement à l’État requérant si l’identification de la personne concernée par la demande le nécessite.\n\n**(2)** Les réponses aux demandes d’informations extraites du casier judiciaire visées à l’article 14, émanant des autorités centrales sont transmises dans un délai de vingt jours ouvrables à compter de la date de réception de la demande.",
       "text_sha256": "04e0102652f39a8a17c93abc113fd3f54d1969e0d7e667efb9abe3b1d21b035d",
       "md_span": {
-        "start": 36912,
-        "end": 37908
+        "start": 36906,
+        "end": 37902
       },
       "citations": []
     },
@@ -568,8 +567,8 @@
       "text_md": "L’alinéa 4 de l’article 3 du Code d’instruction criminelle est modifié comme suit:",
       "text_sha256": "4865936c8049e157e6021c7d02dc8c5e2d8db987fa1d6cd6f8eefcbfb412f123",
       "md_span": {
-        "start": 37989,
-        "end": 38071
+        "start": 37983,
+        "end": 38065
       },
       "citations": [
         {
@@ -592,8 +591,8 @@
       "text_md": "Un article 7-5, libellé comme suit, est inséré au Code d’instruction criminelle:",
       "text_sha256": "313e826444c30c7f3d203dafb4364099a27865f455030a34ae91a253e920b56e",
       "md_span": {
-        "start": 38108,
-        "end": 38188
+        "start": 38102,
+        "end": 38182
       },
       "citations": [
         {
@@ -616,8 +615,8 @@
       "text_md": "L’article 658 du Code d’instruction criminelle est modifié comme suit:",
       "text_sha256": "d0528e3c330a88747e9069a6dcdcb90ad5d91ebd48ee5b5a418de92f07461ea6",
       "md_span": {
-        "start": 38225,
-        "end": 38295
+        "start": 38219,
+        "end": 38289
       },
       "citations": [
         {
@@ -640,8 +639,8 @@
       "text_md": "Sont abrogés:\n\n1. Code d’instruction criminelle\n2. Code pénal\n3. loi modifiée du 7 mars 1980\n4. loi modifiée du 13 juillet 1949\n5. loi modifiée du 12 janvier 1955",
       "text_sha256": "03e9ef8cd2ea85f519cc0721ae0856852e43a33423fc8ad28dc7b265f8026fcc",
       "md_span": {
-        "start": 38375,
-        "end": 38537
+        "start": 38369,
+        "end": 38531
       },
       "citations": []
     },
@@ -659,8 +658,8 @@
       "text_md": "La présente loi entre en vigueur le premier jour du troisième mois qui suit sa publication au Mémorial.",
       "text_sha256": "08c6b4e5a8787eb6e3a39278238772e4ba860e78abde8656ed1afa5e3a7b9f56",
       "md_span": {
-        "start": 38607,
-        "end": 38710
+        "start": 38601,
+        "end": 38704
       },
       "citations": []
     },
@@ -678,8 +677,8 @@
       "text_md": "Les inscriptions valablement inscrites au casier judiciaire au jour de l’entrée en vigueur de la présente loi sont reprises sous forme électronique d’après les dispositions prévues par la présente loi.",
       "text_sha256": "fb68b6a7f0975febf68e9f523319e993e88c44efea3647b0bf2b732e2f686c00",
       "md_span": {
-        "start": 38788,
-        "end": 38989
+        "start": 38782,
+        "end": 38983
       },
       "citations": []
     },
@@ -697,8 +696,8 @@
       "text_md": "La référence à la présente loi peut se faire sous une forme abrégée en utilisant les termes de «Loi du 29 mars 2013 relative à l’organisation du casier judiciaire».",
       "text_sha256": "93bb231b0ba1262696e9eb02ff964e792068fb131a37f22d40b7a6664e92ba84",
       "md_span": {
-        "start": 39062,
-        "end": 39226
+        "start": 39056,
+        "end": 39220
       },
       "citations": [
         {

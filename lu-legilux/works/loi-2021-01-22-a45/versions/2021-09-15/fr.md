@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/2021
 source_sha256: 31a641856f1a71a93e6d453902173672bebfc13500bb2a1629b6b66447e22c7b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

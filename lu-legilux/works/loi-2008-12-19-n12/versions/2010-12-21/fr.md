@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n12/consolide/2010
 source_sha256: 767fb185e7017e9f7196f0faecc1ddc00f8d4dc5248e4f048a43c5c008fa2219
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

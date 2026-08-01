@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/20071
 source_sha256: 10294c86b3417040902c106cf85e8bbfb6859e717a923d2424661bf65654b8a4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

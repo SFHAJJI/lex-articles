@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1993/06/21/n2/consolide/20110
 source_sha256: a6d91191e5341d3fe28678ce5db2a4597dcbefa403427b04cdbc8549e8a6b7ec
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I — **Désignation du médiateur**

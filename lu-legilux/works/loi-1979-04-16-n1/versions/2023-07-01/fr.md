@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/20230
 source_sha256: 1ae85b065364bedfa1e4f5f9fbdf1eb2557efea51711dd4eae8581aae2a2af0c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er.** — **Champ d’application et dispositions générales**

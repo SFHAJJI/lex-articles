@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n1/consolide/20230
 source_sha256: 1ae3b83aeaa63e36e3a709919cae63ef420fa2533757d387863cfdca074f4e4b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre 1er — De la division du pays, du territoire de la commune et de son nom

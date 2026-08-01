@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1992/08/10/n1/consolide/20110
 source_sha256: 5c5ded92fd1d515efdeafe2b7c26cc955f9e0b0633a7239e37d70a497c585748
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ****Titre Ier. **Dispositions générales**

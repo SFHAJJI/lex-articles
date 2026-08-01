@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20230
 source_sha256: 003c3fbaf39c811df725447394b4d60294b14dd6850a6f950747829413a8863e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section I — Dispositions générales

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/08/11/n2/consolide/20160
 source_sha256: 0329710970011174bdb57f02d83f0a99a6f59c6196dec0a0b5f1ca1c9a2b80ff
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

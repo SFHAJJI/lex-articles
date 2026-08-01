@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2008/01/25/n1/consolide/20130
 source_sha256: 57aa1841d24db5c51b7f9f6fb9eb67c9708c9579898aca108b53f420ef045398
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Des passeports biométriques

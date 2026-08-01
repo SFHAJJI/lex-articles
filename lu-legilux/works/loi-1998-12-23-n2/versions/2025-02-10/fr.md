@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1998/12/23/n2/consolide/20250
 source_sha256: 08cc6249c8484ab5702b8d3874655aa2e0b27a0558c523a842d07db5195662df
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Section 1.** **- Statut juridique de la Commission de surveillance du secteur financier**

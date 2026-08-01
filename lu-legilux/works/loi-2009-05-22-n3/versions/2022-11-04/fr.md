@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/05/22/n3/consolide/20221
 source_sha256: df7a3c724939d2332937f606b6477faba821ad3f048b7aa684a89650baa1ada3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

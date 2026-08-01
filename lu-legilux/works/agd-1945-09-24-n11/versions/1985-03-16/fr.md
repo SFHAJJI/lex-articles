@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/1945/09/24/n11/consolide/1985
 source_sha256: 24a26d2c8a419acc3a1c5df20973ba5e1cfbdee335e355e4f8fce069c15744ef
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

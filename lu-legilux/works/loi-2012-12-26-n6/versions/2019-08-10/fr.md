@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2012/12/26/n6/consolide/20190
 source_sha256: 9e98e248591289211e3bb5c6c6ea1d86d617c049f53a2ef5e557a99e99ca921c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE Ier — **Définitions et dispositions générales**

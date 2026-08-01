@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1993/08/05/n1/consolide/20160
 source_sha256: 4dbf30237877ce9f259689fb1df251d709b0ff738b5620d218daa2afcda95dab
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre I — Champ d'application

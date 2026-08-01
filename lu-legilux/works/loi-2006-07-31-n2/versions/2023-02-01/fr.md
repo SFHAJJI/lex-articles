@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/travail/20230201/fr
 source_sha256: 5173a49f0f4f37a788d0b160f4e90e343876e02257e030d9545267dac8b698fa
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Préliminaire — (L. 23 décembre 2022) Dispositions générales

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2019/03/07/a183/consolide/202
 source_sha256: 682001cbc4af37dd0fc640748fd0947fe5a993717d6b403a621f6cd512d965c1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

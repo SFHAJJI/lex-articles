@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20241224/fr
 source_sha256: 6e35906d01704309d12424b30dfbd7750b3a8fd14f0454d0b5bf75356f6f4369
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Dispositions préliminaires**

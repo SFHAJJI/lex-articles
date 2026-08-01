@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19830
 source_sha256: 9c5bac51fefe8ee27bf18e2c5788ccae7e78f1206722f9bbf4b6189143219dbb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

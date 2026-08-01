@@ -7,7 +7,7 @@ source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022L2555-202
 source_sha256: f37e2670c72b82f28f910e9d395bbac71d1f9d14ddbcfd7d2fbe503527a9beb4
 license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
 attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: xhtml-eu/1 · lex derive · dev
+generator: xhtml-eu/1 · lex derive
 ---
 
 ## CHAPTER I — GENERAL PROVISIONS

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a587/consolide/202
 source_sha256: ba01298e369037f7ccb54f7c61b92a913ee59c03453ba51ef0f038b68c48edc7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier — Statut, objet et missions

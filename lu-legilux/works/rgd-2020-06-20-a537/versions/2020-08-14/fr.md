@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/202
 source_sha256: 4e62dd6cac4ae14807041857adf7db50dba57e9a44031fcd35ea376b2f1d8659
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

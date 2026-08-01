@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20140
 source_sha256: 7b71fd075df6f37758f9570227e06d80bd330c93621c92e8f248f804da995eba
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section I — Dispositions générales

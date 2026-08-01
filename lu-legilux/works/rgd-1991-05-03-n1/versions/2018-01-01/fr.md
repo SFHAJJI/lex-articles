@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1991/05/03/n1/consolide/20180
 source_sha256: e8c7201a55b6a944cb8b164111ad398ad94d83591f7d5eab1232802e430d04c9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Généralités

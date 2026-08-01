@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n1/consolide/20130
 source_sha256: 1d47f4a6aa3741720f4b1f0a4cdc753762d1d8a94da1652cfa1b7b65f816004a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Mesures en matière d'impôts directs, destinées à encourager la mise sur le marché de terrains à bâtir et d'immeubles d'habitation

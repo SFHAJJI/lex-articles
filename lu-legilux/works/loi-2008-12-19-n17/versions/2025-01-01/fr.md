@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n17/consolide/2025
 source_sha256: f484e3bf1309ce441352e8654ab8474d05bd393663b6375ffffb875cf4e60877
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1.- — Généralités

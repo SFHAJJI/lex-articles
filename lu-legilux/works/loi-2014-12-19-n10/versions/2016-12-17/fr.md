@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/2016
 source_sha256: ad23559237c5b1c9eea62df4490e60f4a7014cc10fa84a3aa8f65a39bd751b6d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier: — *Dispositions préliminaires*

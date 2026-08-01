@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n22/consolide/2021
 source_sha256: ae97538e191cc093dd7668c3c176d011af1520880e86116e53f0a494c2bd2641
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre I** — **La collecte et la saisie des dossiers d’aides relatives au logement**

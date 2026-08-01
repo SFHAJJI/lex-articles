@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a678/consolide/202
 source_sha256: 185048f470cc2d1d2b3722c0f216a729bcc8b1f3e9b245a0828731c1c19a6d8b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Champ d’application et classification des fonctions

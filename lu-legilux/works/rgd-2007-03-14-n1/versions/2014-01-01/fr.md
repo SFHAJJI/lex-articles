@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2007/03/14/n1/consolide/20140
 source_sha256: 03411290f944f5f4e862d4d73522e33b9c48041a44261f0ad96216ef69727752
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

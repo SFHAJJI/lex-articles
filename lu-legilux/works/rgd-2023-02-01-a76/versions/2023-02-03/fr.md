@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2023/02/01/a76/consolide/2023
 source_sha256: 9b22d568a22af13bc765359bf7e6c5de5c9fd364be5cef5653b77e59f711bbd3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

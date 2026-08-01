@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2017/05/17/a497/consolide/202
 source_sha256: 82f4fd0c78b2bd68f66949e78b08ec9a148e81eccb1b4220d73c589a0d9c64f3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Transfert de connaissances, actions d’information**

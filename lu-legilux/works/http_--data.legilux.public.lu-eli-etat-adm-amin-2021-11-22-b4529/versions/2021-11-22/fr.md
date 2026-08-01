@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/consolide/2
 source_sha256: 32eb5596b35556a8206274e472966bbc8d1021f9a65b524fa0d7fe052082e912
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

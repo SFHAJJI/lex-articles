@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2024/12/20/a574/consolide/202
 source_sha256: c45fe6f379103f5e36f8c3f2987de171bbcf7ada13bf3ded440e5775e713337c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

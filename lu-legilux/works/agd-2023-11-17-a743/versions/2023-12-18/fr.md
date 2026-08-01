@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/consolide/202
 source_sha256: 86bce3b232e900117db7c8682312025305e48ed72d04331b653db456a106d79c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

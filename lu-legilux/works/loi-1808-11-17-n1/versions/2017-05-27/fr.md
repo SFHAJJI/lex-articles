@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20170527/fr
 source_sha256: d7618424e5b7430e0b7bd6a5437628e69b8183aa56c24e2b1db0c864b788063b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Dispositions préliminaires**

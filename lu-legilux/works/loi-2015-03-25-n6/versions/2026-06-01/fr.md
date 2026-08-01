@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n6/consolide/20260
 source_sha256: bf61f1156cd65aef4f13cb88b59df78ee71e20cea6ac5b1d2a5f92fc1a5ec588
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Définition et champ d’application

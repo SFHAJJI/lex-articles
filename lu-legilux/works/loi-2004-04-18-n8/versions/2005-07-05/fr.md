@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2004/04/18/n8/consolide/20050
 source_sha256: c7a5c88ccccee2af81fd4662c98bd73ba81abcb72641703ec7587bc353d59660
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — Les intérêts en faveur des créances des transactions commerciales

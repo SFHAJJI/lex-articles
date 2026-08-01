@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/10/28/n2/consolide/20260
 source_sha256: b65a9bb55cbb5fa6597bb925a75060b4831d1ef5665ca8a5447f5f6a153b7779
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier** — **Dispositions générales **

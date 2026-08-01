@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20110
 source_sha256: fc0cdf1b8bb863a0a81310c24c50732d8c4f417f6293f8c532ac87141592c657
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/2026/02/05/a80/consolide/2026
 source_sha256: 65633df9dcb37d563a67c85d10e93ca504a2a73b8f1416e3497559d88aa4b7b8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

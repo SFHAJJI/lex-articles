@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/consolide/20211
 source_sha256: ef6781048acd663a05bbcf65f26ed442266a8c889b4f4dbf4d4950ae18063147
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — Disposition générale

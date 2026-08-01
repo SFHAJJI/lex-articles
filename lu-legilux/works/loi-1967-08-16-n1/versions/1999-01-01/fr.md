@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19990
 source_sha256: 641d09e20adb4811efcee1858e09e6ae5d579daa33a70187bb3e775299694ce4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier

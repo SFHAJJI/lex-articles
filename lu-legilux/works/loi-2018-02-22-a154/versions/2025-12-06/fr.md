@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/02/22/a154/consolide/202
 source_sha256: 274cda77cf5702b2e0917825f796627e8cca514172871c09b4921c1427168d63
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — **De l’échange de données à caractère personnel et d’informations en matière de coopération policière internationale.**

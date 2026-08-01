@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1999/04/06/n7/consolide/20100
 source_sha256: afa587e481da56515c663cdfa91bb667d598dc710d8000005d2b7ad7688f7091
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Objet et portée du parc naturel

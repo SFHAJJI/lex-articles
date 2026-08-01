@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679/consolide/202
 source_sha256: 0d0c369a98a3e7d66de84325894616d3f24d99312b759caa1ad74b21ccf1ed1c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

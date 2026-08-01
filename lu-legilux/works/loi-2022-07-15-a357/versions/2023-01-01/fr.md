@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a357/consolide/202
 source_sha256: df4c1a683d12f1d4b3dc87e75b9f75555a74b560c22b3e5175314776e5cce888
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/19920
 source_sha256: 24fdadfe77b61dfce3f676c00e831e23a8549316b0666eb47c10347b660ade80
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE INTRODUCTIF

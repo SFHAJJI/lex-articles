@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rmin/1973/01/26/n1/consolide/1977
 source_sha256: 9fb2345667fafbe7242e725fe2b082c89cc2923047b3037dfe54f31c69a7c711
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

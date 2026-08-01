@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/2023
 source_sha256: fbd9c6268faec3ee75157af3761c212768ab0457c925af2e2871d82695db9699
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier: — *Dispositions préliminaires*

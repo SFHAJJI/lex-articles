@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14/consolide/2021
 source_sha256: da30518531b2dc5db08ccf4c4af6ff44323d5c670ab586d07400566f9c35f072
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/05/27/n4/consolide/20180
 source_sha256: aaf6fb73998bc1a8b4e53ef2fa832a33398f314a2f29194bb854839757346180
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — *Dispositions générales.*

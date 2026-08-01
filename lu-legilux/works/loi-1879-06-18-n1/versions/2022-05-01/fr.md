@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/penal/20220501/fr
 source_sha256: e00a6b3625dbb75d9eb1131ff8a062a5e6956612d02d1a5805021eb021a28ae0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **LIVRE Ier.** — **Des infractions et de la répression en général**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/07/13/a607/consolide/201
 source_sha256: fbaf382af10681b59724dcd4615e33337a2ca3599ec0c8eb52b8ed91c574e602
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

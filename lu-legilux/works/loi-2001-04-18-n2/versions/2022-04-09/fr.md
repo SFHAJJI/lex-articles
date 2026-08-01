@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20220
 source_sha256: 8b94e21f70cc3a817ae85c88a9531a216276e16a859536c4468d7d936062b0cb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## 1ère PARTIE — **Les droits d'auteur**

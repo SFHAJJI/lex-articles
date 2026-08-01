@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/civil/20160901/fr
 source_sha256: 8ce91c021c413597cc19d0ac3f4b41a6916d2e0380823c52391128a10b026bbe
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE PRELIMINAIRE. — De la publication, des effets et de l'application des lois en général (Décrété le 5 mars 1803. Promulgué le 15 du même mois.)

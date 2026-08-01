@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2022/06/08/a286/consolide/202
 source_sha256: bd2980648feec9d47ac565f37cd8d49626811d820a5c9a3696d330e6fc400167
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er - — Définitions

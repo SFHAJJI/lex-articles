@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2019/05/21/a353/consolide/202
 source_sha256: 0c32af93665613cf820f58e4764a5bc10659a8155b3418d8faeb2f9252cf5c37
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2016/03/15/n3/consolide/20220
 source_sha256: ecb4483d38e9948de411e2103520fcb92a14aa7f855315cdab6c8f59ab288b48
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Produits dérivés de gré à gré, contreparties centrales et référentiels centraux

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/19910
 source_sha256: 5c3fc1a6392a1102536b99e3c99fc8b5102d1e694ef680a89381a47cc6afaa82
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section I - **Dispositions générales**

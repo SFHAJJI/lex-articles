@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20161
 source_sha256: 1569f3fa141ba76f7de08d23cc1d6b021d6a154c32489e7e53525c05aa79d3f8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — **Champ d’application et définitions

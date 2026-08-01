@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/07/12/n2/consolide/20260
 source_sha256: 34826d2ebdcbb9a524d68a32340087aa92acd9c491f73af90dc350f9bf4ef34a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — ***Champ d'application***

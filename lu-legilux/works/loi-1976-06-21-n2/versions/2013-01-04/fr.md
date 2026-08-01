@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20130
 source_sha256: d110bff521bbd39abfc821ae5e1fc0c09cba6e26c49f2c48569c1679f34d8477
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

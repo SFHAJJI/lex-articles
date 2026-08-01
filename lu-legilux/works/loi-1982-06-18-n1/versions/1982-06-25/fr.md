@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1982/06/18/n1/consolide/19820
 source_sha256: 494e93044d7d8c39ff0d4c2df00e77bc19f4ac3d4f298a846f2f3c4ee67fa4e2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier** — **Dispositions générales**

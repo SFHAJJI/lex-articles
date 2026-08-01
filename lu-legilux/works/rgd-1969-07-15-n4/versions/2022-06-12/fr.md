@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/20220
 source_sha256: 4ff7b74ca2132e8093d8812b250911c66492cf6123624cd0935cdbfbd7e562e5
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## A. — **Diplôme d'Etat de laborantin**

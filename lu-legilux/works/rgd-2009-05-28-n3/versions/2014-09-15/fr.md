@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/consolide/20140
 source_sha256: 375fe814bb929846569ccdb3ac0f5bb1cffaa3b384fa9ea44984561ffee38b3b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — De l’élection des délégués du personnel enseignant

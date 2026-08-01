@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20130
 source_sha256: 6f0ec674306badb060c712cea4f7ff4e637128adf19363382a400394876eb84b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier****.** — **Cadre général**

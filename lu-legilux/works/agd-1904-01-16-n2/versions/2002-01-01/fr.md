@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/1904/01/16/n2/consolide/20020
 source_sha256: 05e9701902574c1c556a9fbc85d2871d258931bc8d3045aaebb46886dba2c39a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

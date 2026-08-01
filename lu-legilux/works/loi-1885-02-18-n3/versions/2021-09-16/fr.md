@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/consolide/20210
 source_sha256: 22ed5134e0ab2fe35b05967f0001d4bd5ca2cf8fe2d97a13958dc8f2c4ca97f9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## CHAPITRE Ier. — Des pourvois en cassation.

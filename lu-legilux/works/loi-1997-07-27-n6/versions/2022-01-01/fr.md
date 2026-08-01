@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n6/consolide/20220
 source_sha256: a3c7df3a965dd9bc181b13b64c41abe6faae2ac6f975c32a0d180cffd861cb66
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er.**- De l’institution et du siège**

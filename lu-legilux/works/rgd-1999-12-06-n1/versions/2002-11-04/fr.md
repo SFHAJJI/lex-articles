@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1999/12/06/n1/consolide/20021
 source_sha256: 6e68c7a270eaf6b3c80014d941f3be603b8d3be4093f5dba1b5a2716d782ca29
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

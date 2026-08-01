@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/consolide/2011
 source_sha256: d1b235f2792559b20dd941bf4df4a8054b685614e0354b1e113975971fe35dad
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

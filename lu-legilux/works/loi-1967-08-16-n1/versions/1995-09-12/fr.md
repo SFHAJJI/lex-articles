@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19950
 source_sha256: 43d9f67ff08428a579cea2a95cdcb96e2c3776931d69ac661e8394610fc1d5a6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier

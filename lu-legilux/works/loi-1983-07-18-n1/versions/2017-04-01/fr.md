@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1983/07/18/n1/consolide/20170
 source_sha256: 8798a760c14b10dda1b3ff752f02808e1dc56c74270c55cd3da20bb414e6e697
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier. - Des immeubles**

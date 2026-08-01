@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consol
 source_sha256: b0f4661b4b25bb0d38c1577a96bd2cddc5539b88c3d3d2426fdcdc8261e5713b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier. ** — *****De l'État, de son territoire et du Grand-Duc.***

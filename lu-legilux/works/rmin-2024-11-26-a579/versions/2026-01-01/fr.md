@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rmin/2024/11/26/a579/consolide/20
 source_sha256: e8c8295895f35d9a104c9d3e3b3075c1454d21b11903b403f4ec272f9e38aff2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

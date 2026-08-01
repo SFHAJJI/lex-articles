@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/consolide/20220
 source_sha256: 3e910011e72957b5ed4dc47cd381fc1767e9eea84db3cce7d3c32529229eebc6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 3** — **Aides en intérêt**

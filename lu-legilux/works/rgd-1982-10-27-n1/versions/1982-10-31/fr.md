@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1982/10/27/n1/consolide/19821
 source_sha256: 43f1d72d5353468fa3bb4840f4ea0707c0e8f2ff25b1e2cd0c9291d3f82c8bf8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

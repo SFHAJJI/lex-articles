@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8/consolide/20151
 source_sha256: f8e69418c72b54e751573ac6f99aaf871f6331eedad82dbf86615e667dde3593
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2023/12/22/a864/consolide/202
 source_sha256: 16b8ad66c82a5566f0bf03579a59a24b17ea741cc477d4c71d93ddc555f4ad9d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Champ d’application et définitions

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n8/consolide/20180
 source_sha256: 7a4cf573ad0d1db1fb247d4068ea8f8df5096698dfdd879f5fdb415aa0843c04
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre I — Fonds national de la Recherche

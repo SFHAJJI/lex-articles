@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1979/10/22/n10/consolide/2025
 source_sha256: 6acc63063b5be0d12a124eb08d6b592f5e3799839dc5a862365a56cb43d9c728
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

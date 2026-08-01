@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2004/09/27/n3/consolide/20110
 source_sha256: 9e339efac73192d4fdca243632f00785c667cf030e8ee77ee680dd1ae96002bd
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I: — Modalités de la fixation des montants variables du complément et présentation des demandes

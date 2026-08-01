@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1963/06/20/n1/consolide/20220
 source_sha256: 56a4f58521fb74a4ab5ddab7869265aac5550d946e843d3619b46fd41ede01b6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2023/02/03/a83/consolide/2025
 source_sha256: 0b2228fffc269b146f0e741f1e186f97943cdc743a9b91eb63b60938d023d28c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Définitions et objet

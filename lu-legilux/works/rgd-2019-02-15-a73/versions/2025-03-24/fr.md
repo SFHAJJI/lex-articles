@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a73/consolide/2025
 source_sha256: efcc89786cfce9c6a7861bc77d216342a798f9cc3e486dfafbf23b78d651c490
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ** Chapitre 1 er** — ** Modalités d’inscription au Registre des bénéficiaires effectifs**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1982/03/04/n1/consolide/20240
 source_sha256: 00a8702e847dde729477e1e8ef8065ca4bc517b1d517c8a66ea2f94be160b4f6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre I — Fonds culturel national

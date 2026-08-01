@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/consolide/20181
 source_sha256: 6df3205ef86c137e6acc28b4396e017af364109e6a72882353df5da13593bc26
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er. ** — **Dispositions générales**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n2/consolide/20250
 source_sha256: efab2380f8082d9dcc73bd41881bc2f6c5f17b74dd06f6be46ba3ff1152b19ff
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

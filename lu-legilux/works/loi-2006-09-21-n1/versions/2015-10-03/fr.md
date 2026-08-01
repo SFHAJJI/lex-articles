@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20151
 source_sha256: 01fc1ee4b11255c1d21fab65005fcacbfdb62c476e5b96b12b71a272b19333b3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Dispositions générales

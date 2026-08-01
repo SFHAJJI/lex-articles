@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n6/consolide/20051
 source_sha256: 7a88d6899f42a3605f46743cc02a192bf12c1f479928676a43d220eaacf617d0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

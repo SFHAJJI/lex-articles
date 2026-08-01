@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/05/12/n2/consolide/20180
 source_sha256: a2792dd7c36fb98b905249f6d3c587e3a03933c375e6ec01ff68ec144a857b8a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — Statut et missions

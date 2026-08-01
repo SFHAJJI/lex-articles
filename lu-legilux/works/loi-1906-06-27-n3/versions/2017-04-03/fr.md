@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/20170
 source_sha256: df6cbe9a02b759b578453aa065bd878f72e1e089278b0982d37c1bd510d20409
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

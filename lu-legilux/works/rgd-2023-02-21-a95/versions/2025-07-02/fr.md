@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95/consolide/2025
 source_sha256: dd98ff6297fe0b9e666789f3b1faf1da8eeae8b3e7493073cf57f44dac3f2e60
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

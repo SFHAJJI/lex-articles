@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2022/02/11/a121/consolide/202
 source_sha256: 01a3b23601add5e18b974173b261fa1929c3a5302e450297adc148bd272bbe25
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20230
 source_sha256: bfcdd18ec0c497d4428ed2166976c80533b1535751b5fa0b5fb257cd8bf03a21
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Règles générales applicables à tous les chiens

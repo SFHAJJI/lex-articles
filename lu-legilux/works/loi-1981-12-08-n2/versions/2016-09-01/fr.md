@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20160
 source_sha256: 162ff916af0ae89ca5feedb468245d91303b3bedf5547dd376cce8182aa13dcf
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Les conditions d´exercice du droit de réquisition

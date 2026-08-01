@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/procedure_civile/20180522/fr
 source_sha256: d3b0aed577381c875058035a562229d473f417f62cc9acab1d81fc3ed9759d5d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## 1. PREMIERE PARTIE. — Procédure devant les tribunaux

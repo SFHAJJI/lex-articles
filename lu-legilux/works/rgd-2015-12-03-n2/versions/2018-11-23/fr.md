@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2015/12/03/n2/consolide/20181
 source_sha256: 99402afb8c386248b9e991bbd3ada98959950c18a611e248d9332b403252cd6c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier — Définitions

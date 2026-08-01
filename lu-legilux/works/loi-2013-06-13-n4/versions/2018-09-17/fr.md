@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2013/06/13/n4/consolide/20180
 source_sha256: c999f7305ec2ec80dad171eec6d53834f6ee3341f758fe1de0afc8d15708177d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

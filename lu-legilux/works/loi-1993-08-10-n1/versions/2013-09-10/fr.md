@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1993/08/10/n1/consolide/20130
 source_sha256: 6418e9d2b3dfee645d3de48c4771dcaaf32e9408319c5cf5dc738314d9b6696c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I — Définition, objectifs et création des parcs naturels

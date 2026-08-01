@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2002/06/28/n2/consolide/20060
 source_sha256: 099c0c078ad89e0676bee34cf76155a05f1804134628752465d94f34fe6bc91d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

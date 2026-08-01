@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/2024
 source_sha256: a03fd51f300bb9a9b9d5ab9431b83e9d01058e1eb97c059f473ba9a46f816771
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I — De l’organisation de la Chambre et de son fonctionnement

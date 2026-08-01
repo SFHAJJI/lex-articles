@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2013/08/27/n5/consolide/20131
 source_sha256: c2b0bf38253a708726ad485b35625836e50b29af321c86b87fc15c7b711b990c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

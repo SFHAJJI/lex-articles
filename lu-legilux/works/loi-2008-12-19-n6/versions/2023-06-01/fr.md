@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n6/consolide/20230
 source_sha256: b707f63159f0e53e385aa997d96fd0e0faf3dacf8ce86ecbdb09994e9614a142
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — Coopération entre l'Administration des contributions directes et l'Administration de l'enregistrement et des domaines

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1998/10/31/n2/consolide/20131
 source_sha256: 2b792d9f132a735ef802314306956d0fa6791e88db6751e0c011d8687832aa41
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/elections/20240426/fr
 source_sha256: 541f5d938712d321d7a74c954ce028610c04c39d668b3dc621ac14d6363041f4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Version consolidée applicable au 26/04/2024 : Loi électorale du 18 février 2003 et portant modification - de la loi du 31 octobre 1977 portant fusion des communes de Asselborn, Boevange/Clervaux, Hachiville et Oberwampach - de la loi du 27 juillet 1978 portant fusion des communes de Arsdorf, Bigonville, Folschette et Perlé - de la loi du 23 décembre 1978 portant fusion des communes de Harlange et Mecher - de la loi du 23 décembre 1978 portant fusion des communes de Junglinster et de Rodenbourg**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1998/01/21/n1/consolide/20210
 source_sha256: daea6f038e44d8bfd2cf49f4502ac0d9740939ff30300f212556f7ada1a7baba
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

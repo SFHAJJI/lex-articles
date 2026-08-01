@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2000/07/28/n5/consolide/20151
 source_sha256: e84668fe193a74b9a2970ed053dc45e65b8e3ded36c3a4b2f13e9c94a239f50e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre I.**

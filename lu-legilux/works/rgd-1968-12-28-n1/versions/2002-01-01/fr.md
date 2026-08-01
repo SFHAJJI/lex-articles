@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1968/12/28/n1/consolide/20020
 source_sha256: 0065f43dd93dfca56f6a699fbdc2198f35e257a2c397271c1179d988247db437
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

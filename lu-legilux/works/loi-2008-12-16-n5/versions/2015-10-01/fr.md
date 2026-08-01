@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n5/consolide/20151
 source_sha256: 25dd5a8da7cb62aa84623e41983b20e9e8c28b2cf49b4309f8a3cd1859cc36a4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1. — *Office luxembourgeois de l’accueil et de l’intégration*

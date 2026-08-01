@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1/consolide/20260
 source_sha256: 54a2a3d4785126c85165ea351930286256e00fd106cca00ae1597f467a3993a1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — La formation accélérée du commerçant prévue à l’article 8 (1) c) de la loi du 2 septembre 2011

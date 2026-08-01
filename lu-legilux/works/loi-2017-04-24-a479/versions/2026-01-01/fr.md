@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2017/04/24/a479/consolide/202
 source_sha256: ea6b62aed95a4ae9008bdfcf6e430498f4edad8c6167c1f3a38e203db4fec4a8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier.** — **Statut juridique, missions et siège**

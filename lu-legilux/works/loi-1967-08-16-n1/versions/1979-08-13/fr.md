@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19790
 source_sha256: 100952126e9797ac6c5a9d0ca443fb3b609b6e30cab56af2ffbeb85d76f05c36
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier

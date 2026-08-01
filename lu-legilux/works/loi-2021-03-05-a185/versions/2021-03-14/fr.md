@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2021/03/05/a185/consolide/202
 source_sha256: 02606f9b88c48fae7641834f6e650601f8936fd02f5c30dfbfb92bc4979759c7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/consolide/20251
 source_sha256: 6e4ef4fa863415cf5ab939e54469bef17fef10aa0869766d69adbe21763e8d47
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier — Dispositions générales

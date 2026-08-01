@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/consolide/20230
 source_sha256: e08abe2123c8a58e285675c6c3c4700f18452d544b06b9aed210ddab5df688ec
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier** — **Dispositions générales**

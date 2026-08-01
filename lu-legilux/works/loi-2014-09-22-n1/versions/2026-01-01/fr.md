@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/09/22/n1/consolide/20260
 source_sha256: 4c6bf9456441946ff9799a8a2f217683a405523b003f43e18edb0501793a2b40
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ** Chapitre 1: Dispositions générales**

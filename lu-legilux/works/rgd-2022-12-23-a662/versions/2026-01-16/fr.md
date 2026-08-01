@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a662/consolide/202
 source_sha256: 74fffbed943819dd524c68d6f9c1a5df0fe9ced5e6bbbc866123757fd37846d0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

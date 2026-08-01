@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/consolide/202
 source_sha256: 89139250260669fa4c369da8f98d521be463c4faf608cd9fd13327f8595bc941
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — ** Formation spéciale et formation de promotion**

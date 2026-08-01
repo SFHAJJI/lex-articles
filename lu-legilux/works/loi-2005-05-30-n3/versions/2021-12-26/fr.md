@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n3/consolide/20211
 source_sha256: 32480a3f6dcb499224d49578749305cb8b1abc109a80e3e7dc6a64fb067be8f6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

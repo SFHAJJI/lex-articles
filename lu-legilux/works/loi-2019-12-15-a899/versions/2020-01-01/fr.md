@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2019/12/15/a899/consolide/202
 source_sha256: e11575276bea9c2343fe26023c4fd8282e3634b3c244ec39cdce999d2de5c3b2
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Modification de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État**

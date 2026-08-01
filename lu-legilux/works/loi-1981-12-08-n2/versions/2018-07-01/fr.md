@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20180
 source_sha256: 1c21313cb572b74d852b1afa9d5aa1cc404ed08b9f9ac1b698c7fdb5b2b01338
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Les conditions d´exercice du droit de réquisition

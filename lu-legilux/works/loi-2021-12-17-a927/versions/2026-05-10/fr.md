@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a927/consolide/202
 source_sha256: 49eacfa0688ef484e0caae91ad716c9a132142d57e82a9e99c6635b340d575f3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Livre I — Cadre et règles générales d’organisation du secteur

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/consolide/20160
 source_sha256: bf75924d65f646d4cb7c43167e3d029a6c9ade1079378e74a61c96646138f75e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Dispositions générales

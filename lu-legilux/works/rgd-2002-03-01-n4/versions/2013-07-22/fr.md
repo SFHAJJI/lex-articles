@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2002/03/01/n4/consolide/20130
 source_sha256: 0e10bb4a980efef21aa160a9b3df4bb9f58773d1d1df904e093ceca31d6e1516
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — **De la pharmacie hospitalière**

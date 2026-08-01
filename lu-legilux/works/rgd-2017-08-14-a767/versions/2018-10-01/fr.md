@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/consolide/201
 source_sha256: f6f44461976f51015c0651fe00cac2a46509c0da21c92afeb175e1ad62853412
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er. ** — ** Champ d’application**

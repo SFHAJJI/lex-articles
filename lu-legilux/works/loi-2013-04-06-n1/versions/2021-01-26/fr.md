@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2013/04/06/n1/consolide/20210
 source_sha256: 4343048a38c5fbbfd6ff9890df435c1aba983e3704a7a84771aacfc6584e77d0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier** — ***Dispositions générales***

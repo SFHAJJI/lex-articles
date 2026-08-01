@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20170
 source_sha256: c628be795818729e31baa9572203b6e6be39eb4ffe49be5e84cd46db18445ac6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre I.** — **Répartition des représentants des étrangers au Conseil national pour étrangers**

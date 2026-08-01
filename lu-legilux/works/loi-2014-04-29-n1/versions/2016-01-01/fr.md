@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2014/04/29/n1/consolide/20160
 source_sha256: 7e47e4cbf55bcd2778ba829f4d13ee0077bed541b6983ed14ae7ff8c65a878d3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre A — Arrêté du budget

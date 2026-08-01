@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1948/01/31/n1/consolide/20260
 source_sha256: fe5c21a5564caf11d4b9a1d2bf5a90106d2db508c1b91a48481cb9a5c000c827
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier.** — **Dispositions générales.**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2004/12/21/n4/consolide/20211
 source_sha256: 4f4e24d114f9fe06c8ef3c3c978863f6c474a2024513e7845d3f139d25d4eae4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

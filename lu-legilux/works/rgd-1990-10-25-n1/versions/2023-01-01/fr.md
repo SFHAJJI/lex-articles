@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/consolide/20230
 source_sha256: d3f051e26a6c281f6bd4a5a5846aea3d926fc00d36e08476b1bf4873ed6777bc
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre I.** — ** Champ d’application**

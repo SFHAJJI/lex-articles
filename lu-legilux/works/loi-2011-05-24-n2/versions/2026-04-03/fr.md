@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20260
 source_sha256: 41d656abf911089216473f2ef760c275c1c3a1f5dbf9a7f648ec14db1a58f464
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1****er** — **Dispositions générales**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a906/consolide/202
 source_sha256: 3bcd3f4f35831c70403799b16d4f385b3afde8d7f343570e066588a82d860b5e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — ** Arrêté du budget**

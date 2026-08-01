@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/01/11/n1/consolide/20250
 source_sha256: 9dfae270b49460dc998112e9685da97c4bada36af88a3e6e35d2a4a3939530a8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier — Définitions et champ d'application.

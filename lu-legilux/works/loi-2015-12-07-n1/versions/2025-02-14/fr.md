@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1/consolide/20250
 source_sha256: 7edd3514c5a6c386fc383554ce494ec7291b979017b7fd75bb91a3a100ed0e6c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## PARTIE 1 — **LA SURVEILLANCE DU SECTEUR DES ASSURANCES**

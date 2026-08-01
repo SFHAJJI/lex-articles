@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20
 source_sha256: 07e1d8674ae723a730af906d78e6fab8e7f65b5f83e34db28d8dfaa66e7c9e37
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er ** — ** Les normes concernant la qualification et la dotation du personnel**

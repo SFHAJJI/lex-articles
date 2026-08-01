@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1981/03/11/n1/consolide/20010
 source_sha256: 2170d894afdb84f884c85f726de34c676a43b24ea0918f300a345a02f9d7b435
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="attachment_1"></a>

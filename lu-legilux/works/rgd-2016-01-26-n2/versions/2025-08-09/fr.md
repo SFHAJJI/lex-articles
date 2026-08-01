@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2/consolide/20250
 source_sha256: 670311b43078ff9f370aa5992bb331aa7344cbc4d3bcc127593e3b220b8cb07b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## ***Chapitre 1er *** — ***La réception des véhicules routiers***

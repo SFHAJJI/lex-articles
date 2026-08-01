@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1973/11/27/n1/consolide/20030
 source_sha256: 48ba3bd05890e227e1cacdd3facd81819c81165a278e34028e66225b7de3b58f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

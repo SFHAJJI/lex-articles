@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/consolide/20240
 source_sha256: 2d3ad4f237f62de13c748eeb3bc341b104198f21d2c5fa66a6f341996c5a3f00
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I — **Définitions**

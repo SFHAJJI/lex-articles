@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/consolide/20
 source_sha256: f53293404d7d6e75658cc97dfb5a324acc7f23674b32c8298a6f9c03d5afa317
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Prise en charge des actes et services**

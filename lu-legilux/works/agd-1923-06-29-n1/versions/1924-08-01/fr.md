@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/consolide/19240
 source_sha256: 4528b94081e789f45c06791b28a23fa7f9e7eaba00524d4742c7919a8ba341ef
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier. — **Des consuls et du personnel des consulats.**

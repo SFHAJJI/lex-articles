@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a580/consolide/202
 source_sha256: 5143e1f607f541ea8a99305ea24068427da4f7e4eeac1d99e276bce713992a78
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Référentiel des compétences professionnelles des enseignants stagiaires et des employés**

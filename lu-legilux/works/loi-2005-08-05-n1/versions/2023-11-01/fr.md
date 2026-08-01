@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2005/08/05/n1/consolide/20231
 source_sha256: f129054b6852ade168c869764b90617e16031f167f91c3ddf50b99f5e12b9646
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## PARTIE I: — Dispositions générales

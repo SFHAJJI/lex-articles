@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2021/05/20/a422/consolide/202
 source_sha256: e59e0e1241db5ed4366189fbbda88f5beb8aeb301d95ea8b7dfbd5f64b1e2c56
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier — **L’organisation des formations**

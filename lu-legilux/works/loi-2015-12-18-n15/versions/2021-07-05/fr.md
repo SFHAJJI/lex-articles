@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n15/consolide/2021
 source_sha256: 28229ee9d1ad02c63804de318c086ffcf24f49658f0d37348fb776a38afeb86d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er.** — **Objet, champ d’application, définitions et compétence**

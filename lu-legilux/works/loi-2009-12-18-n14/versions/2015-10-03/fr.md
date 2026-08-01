@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/12/18/n14/consolide/2015
 source_sha256: 02a75baeb5a7d3d38afd045f87860e343ccaaf6cbffaf36ef1388b1ca4bb5189
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## I. — Dispositions générales

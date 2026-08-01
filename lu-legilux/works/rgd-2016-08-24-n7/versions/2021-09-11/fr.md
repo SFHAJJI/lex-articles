@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n7/consolide/20210
 source_sha256: 4ae53c124f1430fa419d2c7ad4806c35e4a7fa10a145b26554f143d76248a0a8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Catégories du personnel

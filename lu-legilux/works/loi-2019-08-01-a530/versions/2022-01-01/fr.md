@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a530/consolide/202
 source_sha256: be3acbff0594bce248995e3d1515f145e15e04e4fec2e226e2cd43d167d35abc
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

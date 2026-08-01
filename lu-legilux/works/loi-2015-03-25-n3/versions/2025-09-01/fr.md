@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20250
 source_sha256: d7fc34191f1a52e8f6673298a4cc9c00aa235190926e2785b42aeae9de9e6231
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Champ d'application et classification des fonctions**

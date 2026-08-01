@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2025/07/24/a346/consolide/202
 source_sha256: 3b2b040a0e15f83fe7204ab803275b76865102b7a8dcaaf4e635487b0e090662
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

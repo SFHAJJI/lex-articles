@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20170
 source_sha256: 56f5e780d60096d8df25ba62a5c003ea239f42e46cb18e9a7ea77a2e5f257f0b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

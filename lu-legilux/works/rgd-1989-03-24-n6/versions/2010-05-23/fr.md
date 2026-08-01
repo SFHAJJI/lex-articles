@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1989/03/24/n6/consolide/20100
 source_sha256: c98f0a81b1ba8f43749063727681247504ba0324f46e8c90db35d3f1abd1da5f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

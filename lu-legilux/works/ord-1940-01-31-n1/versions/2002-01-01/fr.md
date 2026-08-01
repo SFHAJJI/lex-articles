@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/ord/1940/01/31/n1/consolide/20020
 source_sha256: be6d70a39e87d9b9610b8b770e87ebb396792ac1c677e0f0e68eae5ddfee8333
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## *Zum § 2 des Gesetzes.*

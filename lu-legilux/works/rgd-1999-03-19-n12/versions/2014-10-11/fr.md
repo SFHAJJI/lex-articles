@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1999/03/19/n12/consolide/2014
 source_sha256: 396e6be33b8639aab874bf5c822578007b846fcf1e65a2e0e2e83b5f20761616
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er: — Objet et Définition

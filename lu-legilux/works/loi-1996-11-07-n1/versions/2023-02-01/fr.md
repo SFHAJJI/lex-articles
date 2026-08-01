@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20230
 source_sha256: 7c69783242f6b207d19f22778c5f24e528fb5c75108f9af9267549176d201b89
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er.- — De l’organisation des juridictions de l’ordre administratif

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19141
 source_sha256: 3ba4f36c5ea61e286f63e75743c6a491ddeb9d9a932d367e1ea51ae59a80701a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

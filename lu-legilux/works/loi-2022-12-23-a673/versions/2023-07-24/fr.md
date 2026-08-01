@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a673/consolide/202
 source_sha256: 5f36c6a795eba63addfa7c8148a9d6cdabaeb77a787405f7e7d2a01e7c1b4a26
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

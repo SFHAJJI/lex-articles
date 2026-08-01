@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n1/consolide/20170
 source_sha256: 5c27c3a31a852865d5fef653a65713798b8ca82ff58c74be65c94b5a6394ae14
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

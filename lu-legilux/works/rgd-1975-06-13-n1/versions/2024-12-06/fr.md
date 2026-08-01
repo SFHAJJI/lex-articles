@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1/consolide/20241
 source_sha256: 2b82fa9c314eef9d65168e4aebc87d046e1c70c02b79534c1fbafe5a81c16d57
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Les assemblées générales de copropriétaires

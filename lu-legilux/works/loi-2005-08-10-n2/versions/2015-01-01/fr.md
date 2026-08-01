@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/consolide/20150
 source_sha256: aebd5115d069f098cd7f7342ea7bc8616c229cfaf8ede446dda1d8edabb888a6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1. – Dispositions générales

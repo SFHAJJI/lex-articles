@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/consolide/202
 source_sha256: b1ca58a378d84dd9911c4a3a0bb8f135484a74b2ff81a8d5aea4e4741a120b78
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**

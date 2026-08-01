@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/2018
 source_sha256: 6afb09abf0d716034c6f7490cefe3ab6ddc552e842a299df6294f9cf136d0f54
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Objectif, champ d’application et définitions

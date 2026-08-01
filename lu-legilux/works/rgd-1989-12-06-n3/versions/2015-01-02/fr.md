@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20150
 source_sha256: 3d553a2b625e4d0df177b38a0062c12542276d72959096a711f887009de3106c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

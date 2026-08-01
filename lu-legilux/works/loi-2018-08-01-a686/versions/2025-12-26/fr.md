@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a686/consolide/202
 source_sha256: a03796f9edc950a7fcc19fe5d890a4a150fb4650b9254a85be4ee5dac8fe1e05
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier ** — **Dispositions générales**

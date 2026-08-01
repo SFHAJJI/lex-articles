@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/consolide/20250
 source_sha256: 3b6a7604e6f4db7331b1cedadefa05ac96d652445b5eaf4527a8bb3ebb67e197
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

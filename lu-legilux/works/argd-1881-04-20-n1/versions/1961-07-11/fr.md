@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/argd/1881/04/20/n1/consolide/1961
 source_sha256: 8ba3045498bc77c511fbc8b3cf12970a209144ab3020c9fc97bdc1616de06247
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

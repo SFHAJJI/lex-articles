@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/consolide/19980
 source_sha256: 748bdc121d17b40148ac27c25ca939a882c7a48d6eaa2cea2496ea6660d27782
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1 — L'agrément

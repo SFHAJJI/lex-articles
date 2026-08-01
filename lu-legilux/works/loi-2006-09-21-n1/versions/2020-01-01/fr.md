@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20200
 source_sha256: 7a13863270eb6e4e2426ffd9fa68587047b5391c0ba854a60d9b81e3f252f711
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Dispositions générales

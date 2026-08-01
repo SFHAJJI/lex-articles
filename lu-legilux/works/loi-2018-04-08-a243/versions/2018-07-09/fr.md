@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a243/consolide/201
 source_sha256: 7043b0fcffb7ea862aa829ddee11f8b70903fc3c8da6eede3b9c788ff20319ad
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **LIVRE Ier** — **DISPOSITIONS GÉNÉRALES**

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1/consolide/20061
 source_sha256: ab18d2145a7ea62490f0d16cb3f0d5b48b2443c6f1504b4f09682657a9035e6e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/05/28/n1/consolide/20170
 source_sha256: 8b9643ccd3126a19a8905e89d2dd99e85e2fa3b249af2c4cc1cb8e4f386cfd8a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — *Dispositions générales*

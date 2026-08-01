@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n7/consolide/20130
 source_sha256: 0b4cbf07841e5f868fa5184b3496224e73e29488883266deee30bf27abe0371b
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_33"></a>

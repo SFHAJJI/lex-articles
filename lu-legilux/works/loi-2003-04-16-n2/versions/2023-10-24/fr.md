@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/consolide/20231
 source_sha256: c68d9e69c8517d826a339c93933ea531b18f8905ab98286e139dfe30f7114ed7
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Partie I — Définitions

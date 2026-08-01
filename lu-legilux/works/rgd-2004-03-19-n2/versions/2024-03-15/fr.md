@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/consolide/20240
 source_sha256: 4046938d79426fed053b6cac0e11b20ab0187c5fb7eac5f6188392fa08a06bbb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

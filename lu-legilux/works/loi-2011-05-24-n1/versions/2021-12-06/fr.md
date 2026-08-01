@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/consolide/20211
 source_sha256: a2afa14d04d47b91b2e1eba4cb47d00b5f6658d78c0d7a6b14e217dcd791ac7e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — *Dispositions générales*

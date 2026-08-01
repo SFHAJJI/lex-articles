@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20180
 source_sha256: 56f89df57df98a481b64dc988b9c4f15fe75071f2bad0d3169c4b11d155a48e6
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I — Dispositions générales

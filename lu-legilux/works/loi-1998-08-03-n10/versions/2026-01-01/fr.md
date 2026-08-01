@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1998/08/03/n10/consolide/2026
 source_sha256: 1b399095a5330cbea0a7ec8df81dbd37836639777bad49799802588c29b70529
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier** — **Du régime de pension spécial des fonctionnaires de l’Etat**

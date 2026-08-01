@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/19930
 source_sha256: 69b267482e24f993ea341d2a25ec446ac3da3c06a86bb911ab153ba040b52b4d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

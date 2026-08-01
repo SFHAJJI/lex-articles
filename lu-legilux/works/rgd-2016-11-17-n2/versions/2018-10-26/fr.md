@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/consolide/20181
 source_sha256: 924f82ce17885292adb45da04abcaa10c0ca713f23db903b978cc461d5adb138
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Catégorie de traitement A, groupe de traitement A1, sous-groupe administratif**

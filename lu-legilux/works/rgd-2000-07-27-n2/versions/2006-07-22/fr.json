@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -32,8 +31,8 @@
       "text_md": "Tous les trois ans, le président du Collège médical fait publier, dans au moins trois journaux édités au Grand-Duché de Luxembourg, un avis annonçant les élections au Collège médical et leur date.\n\nIl informe en même temps les candidats à un mandat électif qu'ils doivent lui faire parvenir leur acte de candidature par lettre recommandée avec indication de la date limite se situant deux mois avant les élections, la date de la poste faisant foi.",
       "text_sha256": "f8d0cc406c0e8c906586d2fe70e27627e61f73681a10fb1a1c78a5d2d4b43695",
       "md_span": {
-        "start": 623,
-        "end": 1070
+        "start": 617,
+        "end": 1064
       },
       "citations": []
     },
@@ -49,8 +48,8 @@
       "text_md": "Les candidats à un mandat électoral font parvenir leur candidature par lettre recommandée au ministre ayant la Santé dans ses attributions pour le 1er septembre au plus tard, le cachet de la poste faisant foi.",
       "text_sha256": "2a90e433f6b26bd7afc68b8725a525259baf8f30ddb349097ac6ea5836cfe7d4",
       "md_span": {
-        "start": 1114,
-        "end": 1323
+        "start": 1108,
+        "end": 1317
       },
       "citations": []
     },
@@ -66,8 +65,8 @@
       "text_md": "Il est établi un bulletin de vote pour chacune des professions de médecin, de médecin-dentiste et de pharmacien.",
       "text_sha256": "861decf6e5d19e325831d7d269d1cc88e5ff9d5b80dcde875ba9967fcf1c52e2",
       "md_span": {
-        "start": 1358,
-        "end": 1470
+        "start": 1352,
+        "end": 1464
       },
       "citations": []
     },
@@ -83,8 +82,8 @@
       "text_md": "Le 15 octobre au plus tard, le président du Collège médical transmet aux électeurs par lettre recommandée les bulletins de vote pour le Collège médical en même temps que les instructions de vote pour les électeurs.\n\nLes bulletins de vote, munis de l'estampille du Collège médical, pliés en quatre et à l'angle droit, seront placés dans une première enveloppe, laissée ouverte et portant l'indication «Elections des membres du Collège médical», ainsi que la désignation de la profession pour laquelle l'électeur exerce son droit de vote.\n\nLes instructions de vote indiquent le lieu ainsi que les date et heure des opérations de dépouillement.\n\nUne deuxième enveloppe, appelée «enveloppe de renvoi», laissée également ouverte et portant la mention «RECOMMANDEE» sera jointe à l'envoi. Elle portera au recto l'adresse du bureau électoral et la mention de la franchise postale, ainsi qu'une case réservée à l'inscription des nom, prénoms, profession et domicile de l'électeur. Au verso, elle portera le numéro d'inscription de l'électeur sur la liste électorale. Sous le numéro d'inscription figure un espace réservé à l'apposition de la signature de l'électeur.",
       "text_sha256": "35b484d37c9c0263442038fb771c99e937988cdfb6594d80450eb5a21c46e530",
       "md_span": {
-        "start": 1505,
-        "end": 2663
+        "start": 1499,
+        "end": 2657
       },
       "citations": []
     },
@@ -100,8 +99,8 @@
       "text_md": "Chaque électeur dispose d'autant de suffrages qu'il y a de mandats effectifs à pourvoir.\n\nL'électeur tracera soit au crayon, soit au stylo, soit à l'aide d'un instrument analogue une croix (+ ou x) dans la case qui suit le nom de chacun des candidats pour lesquels il entend voter.\n\nToute case même remplie incomplètement et toute croix, même imparfaite, expriment valablement le vote, à moins que l'intention de rendre le bulletin reconnaissable soit manifeste.",
       "text_sha256": "ee02b37075ee274ab8345da418cad6c6cccecde3b752ba475a6e1a5cf1ea3290",
       "md_span": {
-        "start": 2698,
-        "end": 3160
+        "start": 2692,
+        "end": 3154
       },
       "citations": []
     },
@@ -117,8 +116,8 @@
       "text_md": "L'électeur s'abstient, sous peine de nullité de son vote, de faire sur le bulletin toute autre inscription, signature, rature, surcharge ou signe quelconque.",
       "text_sha256": "eefeb6a14bfd50b63d6a11bd2c0277f4dba0716c9eb1e14d1f886bfaff13bf43",
       "md_span": {
-        "start": 3195,
-        "end": 3352
+        "start": 3189,
+        "end": 3346
       },
       "citations": []
     },
@@ -134,8 +133,8 @@
       "text_md": "Après avoir exprimé son vote, l'électeur placera le bulletin, le cachet à l'extérieur, dans la première enveloppe qu'il ferme. L'électeur glissera celle-ci dans la deuxième enveloppe portant l'adresse du bureau électoral, apposera sa signature à l'endroit prévu à l'article 4 alinéa 3. Il fermera le pli et le remettra à la poste, comme envoi recommandé, au plus tard le 31 octobre, le cachet de la poste faisant foi.\n\nToute autre voie de remise de l'enveloppe de renvoi est exclue.",
       "text_sha256": "a80b29736e72c69f2d48607ed881fc80dbb5643ebe419ebdde31ce118ab9f23f",
       "md_span": {
-        "start": 3387,
-        "end": 3869
+        "start": 3381,
+        "end": 3863
       },
       "citations": []
     },
@@ -151,8 +150,8 @@
       "text_md": "L'électeur qui, par inadvertance, aura détérioré le bulletin qui lui a été envoyé, peut en demander un autre par écrit au président du bureau électoral.",
       "text_sha256": "41c812de6115bf7aa7f787053762a5d48d1fd54ed69f36850237f6705e5b171f",
       "md_span": {
-        "start": 3904,
-        "end": 4056
+        "start": 3898,
+        "end": 4050
       },
       "citations": []
     },
@@ -168,8 +167,8 @@
       "text_md": "Le ministre ayant la Santé dans ses attributions désigne les membres composant le bureau électoral.\n\nLe secrétaire administratif du Collège médical assure les fonctions de secrétaire.\n\nLe président et le secrétaire du bureau électoral sont assistés dans leur tâche par dix membres effectifs, dont au moins trois personnes ayant les qualités requises pour faire partie du Collège médical et par cinq membres suppléants.\n\nDans aucune élection, ni les membres du Collège médical, ni les candidats ou leurs conjoints, ni leurs parents ou alliés jusqu'au deuxième degré inclusivement, ne peuvent siéger au bureau électoral.\n\nSi lors des opérations électorales, le bureau ne peut se constituer, le président ou à son défaut, le plus âgé des membres, désigne les membres qui suppléeront les membres défaillants.",
       "text_sha256": "a3b71a92fb1dba46f4c6bd0d9451d547674889aeab6f5df0bf84a5b36eec8a0d",
       "md_span": {
-        "start": 4091,
-        "end": 4895
+        "start": 4085,
+        "end": 4889
       },
       "citations": []
     },
@@ -185,8 +184,8 @@
       "text_md": "Après la date limite de renvoi des bulletins de vote et au plus tard le 10 novembre, le bureau électoral se réunit pour procéder au dépouillement.\n\nLe bureau électoral siège dans les locaux mis à sa disposition par le ministre ayant la Santé dans ses attributions, au jour et à l'heure fixés pour le dépouillement.\n\nLe dépouillement est public.\n\nLe secrétaire pointera sur les listes électorales les noms des votants.",
       "text_sha256": "497422d73b06e158362c2b8350eb9e4d9c071d38c677b8e6e40970096dd91356",
       "md_span": {
-        "start": 4930,
-        "end": 5347
+        "start": 4924,
+        "end": 5341
       },
       "citations": []
     },
@@ -202,8 +201,8 @@
       "text_md": "Avant le dépouillement des bulletins le bureau électoral fera le récolement des bulletins non employés.\n\nCes bulletins seront immédiatement détruits.\n\nIl sera ensuite procédé au dépouillement. Le nombre des votants, celui des bulletins et celui des enveloppes non signées seront inscrits au procès-verbal.\n\nSi une enveloppe contient plusieurs bulletins, ceux-ci seront nuls.",
       "text_sha256": "27c95bd8b919061e9b347e822c0865acb9261e46ace8831ec0f1ead7ccd8037b",
       "md_span": {
-        "start": 5384,
-        "end": 5758
+        "start": 5378,
+        "end": 5752
       },
       "citations": []
     },
@@ -219,8 +218,8 @@
       "text_md": "Le président énonce nominativement les suffrages. Deux des membres du bureau électoral feront le recensement des suffrages et en tiendront note, chacun séparément.",
       "text_sha256": "1838cbc720e7871d42daa4861ab6d3346117fc199a0a2f8ea91b96eadd158dd3",
       "md_span": {
-        "start": 5795,
-        "end": 5958
+        "start": 5789,
+        "end": 5952
       },
       "citations": []
     },
@@ -236,8 +235,8 @@
       "text_md": "Seront nuls, outre les bulletins mentionnés à l'article 11 alinéa 3:\n\n1. les bulletins autres que ceux envoyés aux électeurs;\n2. les bulletins ne contenant l'expression d'aucun suffrage;\n3. les bulletins contenant plus de suffrages qu'il n'y a de membres à élire;\n4. les bulletins sur lesquels le votant se sera fait connaître et notamment ceux portant une marque ou un signe distinctif quelconque, ceux renfermés dans une enveloppe marquée ou dans une enveloppe autre que celle délivrée par le président du bureau électoral;\n5. les bulletins dont l'enveloppe de renvoi ne porte pas de signature;\n6. les bulletins non renfermés dans deux enveloppes.",
       "text_sha256": "ae19f1d95dab70f3c7b4eeb8c7743d2c7a1c30c72edfd8a83a3e299635f0caf8",
       "md_span": {
-        "start": 5995,
-        "end": 6644
+        "start": 5989,
+        "end": 6638
       },
       "citations": []
     },
@@ -253,8 +252,8 @@
       "text_md": "Le bureau arrêtera pour les différentes professions le nombre des votants, celui des bulletins nuls et des bulletins valables, ainsi que le nombre des suffrages obtenus par chaque candidat. Le tout sera inscrit au procèsverbal.",
       "text_sha256": "9d1aa8590775c4bf8e8a161922fbda5173b875ba66456d11a6749ad656f8f55a",
       "md_span": {
-        "start": 6681,
-        "end": 6908
+        "start": 6675,
+        "end": 6902
       },
       "citations": []
     },
@@ -270,8 +269,8 @@
       "text_md": "Le procès-verbal sera signé séance tenante par tous les membres du bureau.\n\nIl sera envoyé sous pli cacheté, avec les listes électorales et les bulletins de vote, classés par bulletins valables et par bulletins nuls, au ministre ayant la Santé dans ses attributions.",
       "text_sha256": "5fc637f65dc3dae4a884a4c4ecde7714c5eba04a72fe2326d57d0fe582befe53",
       "md_span": {
-        "start": 6945,
-        "end": 7211
+        "start": 6939,
+        "end": 7205
       },
       "citations": []
     },
@@ -287,8 +286,8 @@
       "text_md": "La proclamation du résultat du scrutin sera affichée dans les locaux du Collège médical et publiée sur son site internet.\n\nLes noms des membres effectifs et des membres suppléants élus seront publiés au Mémorial.",
       "text_sha256": "f15a6d47c8dd086062bf84b59b412a81b72f104a7d05fbf57f2b059c31c3cce2",
       "md_span": {
-        "start": 7248,
-        "end": 7460
+        "start": 7242,
+        "end": 7454
       },
       "citations": []
     },
@@ -304,8 +303,8 @@
       "text_md": "Notre Ministre de la Santé et de la Sécurité Sociale est chargé de l'exécution du présent règlement grand-ducal qui sera publié au Mémorial.",
       "text_sha256": "1bde728fe6faa47c48a8a4257af9763236e632e200ae9f4f299253345423e246",
       "md_span": {
-        "start": 7497,
-        "end": 7637
+        "start": 7491,
+        "end": 7631
       },
       "citations": []
     }

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a289/consolide/202
 source_sha256: 184e3c4f22d127e70cc2128e67893edab98ab2ff8ef40ed2c7db67ead8078499
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — De l’attribution de la nationalité luxembourgeoise par le seul effet de la loi

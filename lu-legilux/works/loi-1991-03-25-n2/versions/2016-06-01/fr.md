@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n2/consolide/20160
 source_sha256: b91a9085570d5ca58c932eaadfd24f499e38592cbedc889f5e9442d5c1fe4e72
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section I. — Dispositions générales

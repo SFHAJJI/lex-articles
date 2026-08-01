@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1960/07/30/n2/consolide/20221
 source_sha256: ba323fd4b273c7f6b611a4f9f6496daa2f3c362cc1c7b62a0adc64942f5be833
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier.- — Institution, but et nature du Fonds

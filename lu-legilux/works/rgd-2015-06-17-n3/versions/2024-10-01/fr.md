@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2015/06/17/n3/consolide/20241
 source_sha256: e4755e306e10d38c72d1fe429f6ffa821ce9dc402e5ecc484c665e8b7b545bd0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier — Champ d’application

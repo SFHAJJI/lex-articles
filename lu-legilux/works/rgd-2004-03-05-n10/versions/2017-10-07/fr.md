@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/consolide/2017
 source_sha256: 8e46991e004529ff40b6fb4fe3761cfb3ee235f2f1b77a36cb613d90b1db0c47
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664/consolide/202
 source_sha256: aa36a1e35e6ba8c5b23f49f355adfc9770357bfc486b836baad1596696e1c928
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — L’inclusion des enfants ou jeunes à besoins éducatifs spécifiques et les Centres de compétences en psycho-pédagogie spécialisée

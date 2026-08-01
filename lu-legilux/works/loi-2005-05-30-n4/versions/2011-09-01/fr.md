@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/consolide/20110
 source_sha256: ff9060bd039dae5f33e4fbcbf49600866cf093d543ee54314d2450cce3eeae3e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

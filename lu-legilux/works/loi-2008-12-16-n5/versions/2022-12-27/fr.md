@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n5/consolide/20221
 source_sha256: f1bdb9bd3d650c626cd7df121a50535d788583b61f7917fe4b38bd932ce49e36
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1. — * Dispositions générales*

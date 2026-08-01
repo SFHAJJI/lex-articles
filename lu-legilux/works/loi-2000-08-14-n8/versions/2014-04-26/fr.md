@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20140
 source_sha256: e3f365d49df0f1def7cc8541aef392da8cc1ed2f9abc3ab311bf11e943b76013
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I. — DISPOSITIONS GENERALES

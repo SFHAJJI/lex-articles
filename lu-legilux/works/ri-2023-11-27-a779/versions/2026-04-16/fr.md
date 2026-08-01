@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/ri/2023/11/27/a779/consolide/2026
 source_sha256: bfc024eb7020cec49f897c23affe6d442874508b2664ca4ceade44a95256c225
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section 1re — Dispositions générales

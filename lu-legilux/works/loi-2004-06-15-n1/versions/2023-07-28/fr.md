@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n1/consolide/20230
 source_sha256: 5ff5a36bb6d0e95ca03897607c1e7cf71820bd12d46179d3b20b0e252afcbc81
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Partie I — Dispositions générales applicables aux sociétés d’investissement en capital à risque

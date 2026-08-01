@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/consolide/202
 source_sha256: 0ceb1d2cb4d69a49d19b59ebe740ff6c01b47428e4d9ca30b06ebe720aa719d9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier** — **Généralités**

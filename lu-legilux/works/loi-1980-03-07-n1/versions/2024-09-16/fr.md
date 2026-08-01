@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20240
 source_sha256: b85b7d21bad12aea84193cb70b8cc1e1fc4f9b56b0ad5d4834779c1da00d8df9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Titre Ier** — **Du pouvoir judiciaire**

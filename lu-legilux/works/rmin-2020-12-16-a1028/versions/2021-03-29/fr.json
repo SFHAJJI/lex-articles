@@ -14,8 +14,7 @@
   },
   "generator": {
     "profile": "akn-lu/1",
-    "tool": "lex derive",
-    "code_version": "dev"
+    "tool": "lex derive"
   },
   "license": "CC-BY-4.0",
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
@@ -34,8 +33,8 @@
       "text_md": "Le présent règlement vise à établir les zones géographiques UAS prévues par l’article 15 du règlement d’exécution (UE) 2019/947 de la Commission du 24 mai 2019 concernant les règles et procédures applicables à l’exploitation d’aéronefs sans équipage à bord et à fixer les interdictions et restrictions à l’intérieur de ces zones.",
       "text_sha256": "aded847f36fe6762631e9a663455719c7a558e3136d0b638a4beed2ea3fc0d54",
       "md_span": {
-        "start": 667,
-        "end": 996
+        "start": 661,
+        "end": 990
       },
       "citations": [
         {
@@ -58,8 +57,8 @@
       "text_md": "**(1)** Pour l’application du présent règlement ministériel, les abréviations et termes ci-dessous ont les significations suivantes :\n\n1. « ANA » : Administration de la navigation aérienne ;\n2. « DAC » : Direction de l’aviation civile ;\n3. « GPS » : système mondial de positionnement par satellite ;\n4. « m » : mètres ;\n5. « NSPA » : de l’anglais « NATO Support and Procurement Agency », Agence OTAN de soutien et d’acquisition ;\n6. Règlement (UE) n° 2019/947 Règlement d’exécution (UE) 2019/947 24 mai 2019\n7. « UAS » : système d’aéronef sans équipage à bord.\n\n**(2)** Les latitudes et longitudes indiquées sont exprimées dans le système géodésique mondial - 1984 (WGS 84).",
       "text_sha256": "fcbfbf889751ba795b0ca0412918e7bc12003550db72c04a8f76dcfacfaa24ee",
       "md_span": {
-        "start": 1043,
-        "end": 1717
+        "start": 1037,
+        "end": 1711
       },
       "citations": []
     },
@@ -77,8 +76,8 @@
       "text_md": "Les interdictions et restrictions prévues au présent règlement ne sont pas applicables aux opérations spéciales suivantes effectuées dans l’intérêt public :\n\n1. missions policières et douanières ;\n2. surveillance de la circulation et poursuites ;\n3. recherche et sauvetage ;\n4. vols médicaux ;\n5. évacuations ;\n6. lutte contre les incendies.\n\nUne coordination est cependant obligatoire avec les services de contrôle de l’ANA à l’intérieur des zones géographiques prévues par les articles 8 et 10.",
       "text_sha256": "e6b527aa08741b651ee8b0d0774ccf51894d57cd6bd0b174f2ca69f92887c771",
       "md_span": {
-        "start": 1763,
-        "end": 2259
+        "start": 1757,
+        "end": 2253
       },
       "citations": []
     },
@@ -97,8 +96,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A1-1-VFRN » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : 493900N 0061449E - 493659N 0060924E - 493755N 0060834E - 493956N 0061359E - 493900N 0061449E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de l’ANA.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol à l’ANA.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.",
       "text_sha256": "416f5e31f684b6a924947c0e652c9e8a3e994dc8ddef9f66c8414ad378bfb8cb",
       "md_span": {
-        "start": 2395,
-        "end": 3567
+        "start": 2389,
+        "end": 3561
       },
       "citations": [
         {
@@ -122,8 +121,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A1-2-VFRN » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493900N 0061449E - 493659N 0060924E - 493755N 0060834E - 493956N 0061359E - 493900N 0061449E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de l’ANA.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol à l’ANA.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au département du contrôle d’aérodrome de l’ANA.",
       "text_sha256": "3b6024031c23af81f2e82fee4ffa7a0d5f72fe0ade80875a4c8e497a28492a43",
       "md_span": {
-        "start": 3619,
-        "end": 4970
+        "start": 3613,
+        "end": 4964
       },
       "citations": [
         {
@@ -147,8 +146,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A1-1-VFRS » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : 493805N 0061538E - 493603N 0061014E - 493507N 0061104E - 493709N 0061628E - 493805N 0061538E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de l’ANA.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol à l’ANA.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.",
       "text_sha256": "470aa3319e204cdcdd89821de59144c36cf3e9b728291bcb2df9d89c4293fff1",
       "md_span": {
-        "start": 5022,
-        "end": 6194
+        "start": 5016,
+        "end": 6188
       },
       "citations": [
         {
@@ -172,8 +171,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A1-2-VFRS » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493805N 0061538E - 493603N 0061014E - 493507N 0061104E - 493709N 0061628E - 493805N 0061538E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de l’ANA.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol à l’ANA.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au département du contrôle d’aérodrome de l’ANA.",
       "text_sha256": "f9b178c36f3cba33cf03c6d206bc9a51428bc18a4d7aeae99fc839580d95b187",
       "md_span": {
-        "start": 6246,
-        "end": 7597
+        "start": 6240,
+        "end": 7591
       },
       "citations": [
         {
@@ -197,8 +196,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A1-ELLX0 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493659N 0060924E - 493900N 0061449E - 493805N 0061538E - 493603N 0061014E - 493659N 0060924E.\n\n**(2)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(3)** Tout vol dans cette zone géographique fait l’objet d’une autorisation préalable de l’ANA. La demande y relative doit parvenir à l’ANA au moins 10 jours ouvrables avant la date prévue du vol.\n\nCette demande comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;\n6. l’objet et une description détaillée de la mission.",
       "text_sha256": "9082fe06b57868e79342098534a698de633b073c6c0155e6979bd8cfbf682c58",
       "md_span": {
-        "start": 7648,
-        "end": 8751
+        "start": 7642,
+        "end": 8745
       },
       "citations": [
         {
@@ -222,8 +221,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A1-1-APP06 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : 493659N 0060924E - 493627N 0060757E - 493531N 0060847E - 493603N 0061014E - 493659N 0060924E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de l’ANA.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol à l’ANA.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.",
       "text_sha256": "097f4c45041eb9d0c608e652e5e97b61d524293ea1ee7dca09c557539294acf2",
       "md_span": {
-        "start": 8804,
-        "end": 9977
+        "start": 8798,
+        "end": 9971
       },
       "citations": [
         {
@@ -247,8 +246,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A1-2-APP06 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493659N 0060924E - 493555N 0060630E - 493459N 0060721E - 493603N 0061014E - 493659N 0060924E.\n\n**(2)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(3)** Tout vol dans cette zone géographique fait l’objet d’une autorisation préalable de l’ANA. La demande y relative doit parvenir à l’ANA au moins 10 jours ouvrables avant la date prévue du vol.\n\nCette demande comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;\n6. l’objet et une description détaillée de la mission.",
       "text_sha256": "d75199503b3cfd559881a006289b44086e62044ca76bb6f5eabf40a7f02fff7a",
       "md_span": {
-        "start": 10032,
-        "end": 11152
+        "start": 10026,
+        "end": 11146
       },
       "citations": [
         {
@@ -272,8 +271,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A1-2-APP24 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : 494045N 0061931E - 493950N 0062020E - 493805N 0061538E - 493900N 0061449E - 494045N 0061931E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de l’ANA.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol à l’ANA.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au département du contrôle d’aérodrome de l’ANA.",
       "text_sha256": "2a9434e94b3f812cffc1e8f0b20502ed9a64e7e9ada3418ca480bf45805a537d",
       "md_span": {
-        "start": 11207,
-        "end": 12559
+        "start": 11201,
+        "end": 12553
       },
       "citations": [
         {
@@ -297,8 +296,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A2-1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : 494607N 0055915E - 494551N 0055912E - 494604N 0055643E - 494620N 0055646E- 494607N 0055915E.\n\n**(2)** L’activation de cette zone est subordonnée à l’approbation de l’ANA. Les vols d’UAS sont interdits dans cette zone géographique lorsqu’elle est activée.",
       "text_sha256": "02a689b170f3a97810225ecf06b387f04f7136d1139318918ff99def38127338",
       "md_span": {
-        "start": 12655,
-        "end": 13077
+        "start": 12649,
+        "end": 13071
       },
       "citations": []
     },
@@ -317,8 +316,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A2-2 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 2 500 m de rayon, centré sur 494604N 0055803E.\n\n**(2)** L’activation de cette zone est subordonnée à l’approbation de l’ANA. Les vols d’UAS sont interdits dans cette zone géographique lorsqu’elle est activée.",
       "text_sha256": "64b7ec9b5ba2f9fc6c7b7b3baefdbc8a0ae385bd146f4b7e545d39347d4ba106",
       "md_span": {
-        "start": 13126,
-        "end": 13531
+        "start": 13120,
+        "end": 13525
       },
       "citations": []
     },
@@ -337,8 +336,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A3-1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : 495914N 0055631E - 495859N 0055638E - 495828N 0055340E - 495844N 0055333E - 495914N 0055631E.\n\n**(2)** L’activation de cette zone est subordonnée à l’approbation de l’ANA. Les vols d’UAS sont interdits dans cette zone géographique lorsqu’elle est activée.",
       "text_sha256": "bd21bf83dc599fc1ba974bb7aed104ca438cd1a08a9db227ba87487327feaf31",
       "md_span": {
-        "start": 13629,
-        "end": 14052
+        "start": 13623,
+        "end": 14046
       },
       "citations": []
     },
@@ -357,8 +356,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-A3-2 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 2 500 m de rayon, centré sur 495852N 0055504E.\n\n**(2)** L’activation de cette zone est subordonnée à l’approbation de l’ANA. Les vols d’UAS sont interdits dans cette zone géographique lorsqu’elle est activée.",
       "text_sha256": "42dceac0c51ab5f2456dea8523ae557d72b17b706cc9103d253b23272711eaa0",
       "md_span": {
-        "start": 14101,
-        "end": 14506
+        "start": 14095,
+        "end": 14500
       },
       "citations": []
     },
@@ -377,8 +376,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H1-1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : un cercle de 400 m de rayon, centré sur 493758N 0061038E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Hôpitaux Robert Schuman ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique aux Hôpitaux Robert Schuman - site Kirchberg.",
       "text_sha256": "95756703ddad31e3425934bd4a7ec07a3bcca876475f7430c4a40964eb91d645",
       "md_span": {
-        "start": 14633,
-        "end": 16001
+        "start": 14627,
+        "end": 15995
       },
       "citations": [
         {
@@ -402,8 +401,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H1-2 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 1 200 m de rayon, centré sur 493758N 0061038E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Hôpitaux Robert Schuman ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique aux Hôpitaux Robert Schuman - site Kirchberg.",
       "text_sha256": "acb10bf5fc1557fdf826400e31d269ceeac5771971d7be323c94afafadc25d66",
       "md_span": {
-        "start": 16050,
-        "end": 17436
+        "start": 16044,
+        "end": 17430
       },
       "citations": [
         {
@@ -427,8 +426,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H2-1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : un cercle de 300 m de rayon, centré sur 493612N 0060741E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Hôpitaux Robert Schuman ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique à la Zithaklinik.",
       "text_sha256": "ef2b8d25198275c8ec6870993cfab138672dd54692459e10471e51d5210597e3",
       "md_span": {
-        "start": 17527,
-        "end": 18867
+        "start": 17521,
+        "end": 18861
       },
       "citations": [
         {
@@ -452,8 +451,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H2-2 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 800 m de rayon, centré sur 493612N 0060741E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Hôpitaux Robert Schuman ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique à la Zithaklinik.",
       "text_sha256": "be23edad1e3fba24a987c3c20e90ae1c296fee0e98fda56ad163309a15cd77cd",
       "md_span": {
-        "start": 18916,
-        "end": 20272
+        "start": 18910,
+        "end": 20266
       },
       "citations": [
         {
@@ -477,8 +476,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H3-1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : un cercle de 500 m de rayon, centré sur 493709N 0060609E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Centre Hospitalier de Luxembourg ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au Centre Hospitalier de Luxembourg.",
       "text_sha256": "3f2a3221fc55299e616e87b1dd891c5a19e90a79a680948caf275a8d5e41f9c2",
       "md_span": {
-        "start": 20381,
-        "end": 21749
+        "start": 20375,
+        "end": 21743
       },
       "citations": [
         {
@@ -502,8 +501,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H3-2 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 1 200 m de rayon, centré sur 493709N 0060609E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Centre Hospitalier de Luxembourg ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au Centre Hospitalier de Luxembourg.",
       "text_sha256": "15eff2ee47252b53e78c7cd56d7afbd5078cfcf41420941ce910d5f2e392c0d3",
       "md_span": {
-        "start": 21798,
-        "end": 23184
+        "start": 21792,
+        "end": 23178
       },
       "citations": [
         {
@@ -527,8 +526,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H4-1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : un cercle de 500 m de rayon, centré sur 495116N 0060540E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Centre Hospitalier du Nord ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au Centre Hospitalier du Nord.",
       "text_sha256": "b78792bbc8ba602656af1a67bf74b8637dc0a3a01ce7001175e3ace36b49d8f6",
       "md_span": {
-        "start": 23287,
-        "end": 24643
+        "start": 23281,
+        "end": 24637
       },
       "citations": [
         {
@@ -552,8 +551,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H4-2 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 1 500 m de rayon, centré sur 495116N 0060540E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Centre Hospitalier du Nord ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au Centre Hospitalier du Nord.",
       "text_sha256": "4acd9b03fd6f552cec77226982ff1c730836d44f6edc622d9c812993064f249f",
       "md_span": {
-        "start": 24692,
-        "end": 26066
+        "start": 24686,
+        "end": 26060
       },
       "citations": [
         {
@@ -577,8 +576,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H5-1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 50 m ;\n2. limites latérales : un cercle de 500 m de rayon, centré sur 493003N 0055856E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Centre Hospitalier Emile Mayrisch ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au Centre Hospitalier Emile Mayrisch.",
       "text_sha256": "aff9a364d4867964ff5164fa97945ddf3fe88b99fc5e3e14e3b377d9c176337c",
       "md_span": {
-        "start": 26175,
-        "end": 27545
+        "start": 26169,
+        "end": 27539
       },
       "citations": [
         {
@@ -602,8 +601,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-H5-2 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 1 500 m de rayon, centré sur 493003N 0055856E.\n\n**(2)** Les vols de nuit sont interdits sauf autorisation préalable de la DAC.\n\n**(3)** ) Les aéronefs habités ont la priorité de passage. Le pilote à distance atterrit son UAS dès qu’un aéronef habité s’approche.\n\n**(4)** Afin de pouvoir voler dans cette zone géographique, le pilote à distance dispose d’une attestation de formation valable délivrée conformément au point UAS.OPEN.020 paragraphe 4 (b) du règlement européen (UE) n° 2019/947.\n\n**(5)** Chaque vol est notifié par courrier électronique au moins 24 heures avant le début du vol aux destinataires suivants :\n\n1. Centre Hospitalier Emile Mayrisch ;\n2. Luxembourg Air Rescue.\n\nCette notification comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission.\n\n**(6)** Le jour annoncé, le pilote à distance notifie le début et la fin de ses activités par appel téléphonique au Centre Hospitalier Emile Mayrisch.",
       "text_sha256": "a9875432a298475c40010cd7ebd481f8ecad42eabc12ee3c23f67e6ec6c1a678",
       "md_span": {
-        "start": 27594,
-        "end": 28984
+        "start": 27588,
+        "end": 28978
       },
       "citations": [
         {
@@ -627,8 +626,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 300 m de rayon, centré sur 493635N 0061439E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "73da894f3caa19e5589237f3b03e37011415ef4b156308d1c0283e6eb28db148",
       "md_span": {
-        "start": 29141,
-        "end": 29467
+        "start": 29135,
+        "end": 29461
       },
       "citations": []
     },
@@ -647,8 +646,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S2 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 250 m de rayon, centré sur 494452N 0062841E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "3e5eedb297569d0d31048349aec6788e3255e31606354add649c000be8d9bb51",
       "md_span": {
-        "start": 29574,
-        "end": 29900
+        "start": 29568,
+        "end": 29894
       },
       "citations": []
     },
@@ -667,8 +666,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S3 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 250 m de rayon, centré sur 493230N 0055639E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "5df65a66c1f38af2fd489ef336e1cac957f610187d2e387be7fe8fc84a8a6cab",
       "md_span": {
-        "start": 30011,
-        "end": 30337
+        "start": 30005,
+        "end": 30331
       },
       "citations": []
     },
@@ -686,8 +685,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S4 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493729N 0061136E - 493726N 0061138E- 493722N 0061125E - 493726N 0061123E - 493729N 0061136E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la Police grand-ducale.",
       "text_sha256": "6c70234e1d6985ba3048906979890dff68ecbbc8e8a1c435b5d7561ccc070db7",
       "md_span": {
-        "start": 30430,
-        "end": 30807
+        "start": 30424,
+        "end": 30801
       },
       "citations": []
     },
@@ -705,8 +704,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S5 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493648N 0060957E - 493646N 0061000E - 493643N 0060954E - 493645N 0060952E - 493648N 0060957E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la Police grand-ducale.",
       "text_sha256": "b1179dad4954e2719e9e435c5e41f925829ad301f824ee7195670fced9f3ec66",
       "md_span": {
-        "start": 30854,
-        "end": 31232
+        "start": 30848,
+        "end": 31226
       },
       "citations": []
     },
@@ -724,8 +723,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S6 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493626N 0060835E - 493621N 0060835E - 463619N 0060827E - 463618N 0060820E - 493623N 0060819E - 493626N 0060835E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la Police grand-ducale.",
       "text_sha256": "8e8aa7593ddf1c719f072496f3092ad945e7955edaec450f6ba16cd572a91acc",
       "md_span": {
-        "start": 31279,
-        "end": 31676
+        "start": 31273,
+        "end": 31670
       },
       "citations": []
     },
@@ -743,8 +742,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S7 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 100 m de rayon, centré sur 493639N 0060759E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "ea1f071fad6d7324ec3b742cea246faa19cc161ae5f4ef5c5accab26a74bb5fa",
       "md_span": {
-        "start": 31768,
-        "end": 32094
+        "start": 31762,
+        "end": 32088
       },
       "citations": []
     },
@@ -762,8 +761,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S8 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 200 m de rayon, centré sur 494451N 0061117E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "5079aec08d91f7fe259250035a8b44dfd804519d26c9002e93ac2c463bf0c1ca",
       "md_span": {
-        "start": 32141,
-        "end": 32467
+        "start": 32135,
+        "end": 32461
       },
       "citations": []
     },
@@ -781,8 +780,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S9-1 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 400 m de rayon, centré sur 494854N 0060528E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "46a02d3872117774b99aab1488559967dada79f714664e99ff40b9b6d464d95c",
       "md_span": {
-        "start": 32516,
-        "end": 32844
+        "start": 32510,
+        "end": 32838
       },
       "citations": []
     },
@@ -800,8 +799,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S9-2 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 100 m de rayon, centré sur 494904N 0060504E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "f5e4bb99b262be40861d19bf45696baa4f107f5b6cfaa684e0931209df8b4fe0",
       "md_span": {
-        "start": 32893,
-        "end": 33221
+        "start": 32887,
+        "end": 33215
       },
       "citations": []
     },
@@ -819,8 +818,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S10 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 494158N 0062858E - 494151N 0062849E - 494148N 0062843E - 494137N 0062810E - 494132N 0062739E - 494125N 0062726E - 494113N 0062719E - 494101N 0062708E - 494105N 0062700E - 494125N 0062719E - 494129N 0062725E -494135N 0062737E - 494143N 0062801E - 494151N 0062812E - 494202N 0062819E - 494207N 0062824E - 494206N 0062825E - 494203N 0062827E - 494156N 0062843E - 494157N 0062847E - 494155N 0062851E - 494158N 0062858E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "fecb3c4e86e604be98924c0ac52403a05104fd1fe6afc6562177e3e176c82376",
       "md_span": {
-        "start": 33311,
-        "end": 33996
+        "start": 33305,
+        "end": 33990
       },
       "citations": []
     },
@@ -838,8 +837,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S11 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493834N 0055922E - 493822N 0055927E - 493817N 0055926E - 493819N 0055902E - 493822N 0055907E - 493823N 0055903E - 493826N 0055904E - 493837N 0055903E - 493836N 0055914E - 493834N 0055914E - 493834N 0055922E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la NSPA.",
       "text_sha256": "c0a92d69270ac7a01c30cbddb816de4a0f35c0f9348d8ad1810eeb0f6cc28bad",
       "md_span": {
-        "start": 34074,
-        "end": 34552
+        "start": 34068,
+        "end": 34546
       },
       "citations": []
     },
@@ -857,8 +856,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S12 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 300 m de rayon, centré sur 493656N 0060635E.\n\n**(2)** Cette zone géographique est activée sur demande de la Police grand-ducale. Les vols d’UAS sont interdits dans cette zone géographique lorsqu’elle est activée.",
       "text_sha256": "b7ff1d12eca457fe0b7c480c8a8440f060c6bcdf1c0c3f2ee75ea9daec9f252c",
       "md_span": {
-        "start": 34633,
-        "end": 35041
+        "start": 34627,
+        "end": 35035
       },
       "citations": []
     },
@@ -876,8 +875,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S13 » a les dimensions suivantes :\n\n1. limites verticales : d’une hauteur de 50 m jusqu’à une hauteur de 120 m ;\n2. limites latérales : un cercle de 350 m de rayon, centré sur 493437N 0060653E.\n\n**(2)** Cette zone géographique est activée sur demande de la Police grand-ducale. Les vols d’UAS sont interdits dans cette zone géographique lorsqu’elle est activée.",
       "text_sha256": "75a55c019fd10483240e45553b71fffea77a6de144eb2702011df8ab097b90f6",
       "md_span": {
-        "start": 35089,
-        "end": 35497
+        "start": 35083,
+        "end": 35491
       },
       "citations": []
     },
@@ -895,8 +894,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S14 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493249N 0055652E - 493244N 0055709E - 493234N 0055725E - 493220N 0055706E - 493233N 0055651E - 493246N 0055647E - 493249N 0055652E.\n\n**(2)** Les vols dans cette zone géographique sont interdits, sauf autorisation préalable de la DAC.",
       "text_sha256": "cb41f3853d42dfe6bd784071b0ecaeb49aebbc863632db0e74bc74a7a810c6de",
       "md_span": {
-        "start": 35608,
-        "end": 36009
+        "start": 35602,
+        "end": 36003
       },
       "citations": []
     },
@@ -914,8 +913,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S15 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 493902N 0061006E - 493916N 0061033E - 493914N 0061056E - 493854N 0061022E - 493902N 0061006E.\n\n**(2)** Tout vol dans cette zone géographique fait l’objet d’une autorisation préalable de l’Armée luxembourgeoise. La demande y relative doit parvenir à l’Armée luxembourgeoise au moins 10 jours ouvrables avant la date prévue du vol.\n\nCette demande comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;\n6. l’objet et une description détaillée de la mission.",
       "text_sha256": "6f9a9836efa341bea5206cc5df92af9cdf156b97532f638fc5f3f98fb31e0ffc",
       "md_span": {
-        "start": 36116,
-        "end": 37020
+        "start": 36110,
+        "end": 37014
       },
       "citations": []
     },
@@ -933,8 +932,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S16 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 495246N 0060935E - 495255N 0061018E - 495226N 0061026E - 495218N 0061000E - 495246N 0060935E.\n\n**(2)** Tout vol dans cette zone géographique fait l’objet d’une autorisation préalable de l’Armée luxembourgeoise. La demande y relative doit parvenir à l’Armée luxembourgeoise au moins 10 jours ouvrables avant la date prévue du vol.\n\nCette demande comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;\n6. l’objet et une description détaillée de la mission.",
       "text_sha256": "797acb67e824d13c3595587805705896e42aa2321dae2473d0b5fa27e8fb2118",
       "md_span": {
-        "start": 37075,
-        "end": 37979
+        "start": 37069,
+        "end": 37973
       },
       "citations": []
     },
@@ -952,8 +951,8 @@
       "text_md": "**(1)** La zone géographique désignée « EL-UAS-S17 » a les dimensions suivantes :\n\n1. limites verticales : du sol jusqu’à une hauteur de 120 m ;\n2. limites latérales : 495616N 0060509E - 495614N 0060518E - 495630N 0060547E - 495638N 0060526E - 495616N 0060509E.\n\n**(2)** Tout vol dans cette zone géographique fait l’objet d’une autorisation préalable de l’Armée luxembourgeoise. La demande y relative doit parvenir à l’Armée luxembourgeoise au moins 10 jours ouvrables avant la date prévue du vol.\n\nCette demande comprend les éléments suivants :\n\n1. le prénom et le nom du pilote à distance ;\n2. le numéro de téléphone auquel le pilote sera joignable durant les opérations ;\n3. le point de décollage sous format de coordonnées GPS ;\n4. la hauteur prévue à partir du sol ;\n5. la date et l’heure de décollage prévue, ainsi que la durée de la mission ;\n6. l’objet et une description détaillée de la mission.",
       "text_sha256": "56e4af2691487c3e9d3a44c92b4939efdc7bfaa443fc224914dbac967d414269",
       "md_span": {
-        "start": 38045,
-        "end": 38949
+        "start": 38039,
+        "end": 38943
       },
       "citations": []
     },
@@ -971,8 +970,8 @@
       "text_md": "Les dispositions du présent règlement sont portées à la connaissance des usagers par la voie du Géoportail national du Grand-Duché de Luxembourg.",
       "text_sha256": "0964d7faddedd1d85e93f14c5d4fcc06f18984ca72248b1208ac2ce06335c4ce",
       "md_span": {
-        "start": 39055,
-        "end": 39200
+        "start": 39049,
+        "end": 39194
       },
       "citations": []
     },
@@ -990,8 +989,8 @@
       "text_md": "Le présent règlement entrera en vigueur le 31 décembre 2020 et sera publié au Journal officiel du Grand-Duché de Luxembourg.\n\nCependant, l’article 28 n’est applicable qu’à partir du 1er janvier 2022.",
       "text_sha256": "9efd8e9530c36fb1efc10ba8fc35d380804a2caaec7a0cd7602c4d9fd8211d8a",
       "md_span": {
-        "start": 39268,
-        "end": 39467
+        "start": 39262,
+        "end": 39461
       },
       "citations": []
     }

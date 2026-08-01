@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/15/n1/consolide/20200
 source_sha256: ef26a0fdb3cd57a87db2d4db8cdab804a6d94070abc106ab9c84cae36006b140
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I.- — Dispositions générales

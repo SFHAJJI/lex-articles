@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1950/02/25/n1/consolide/20221
 source_sha256: be933a5fd6abdc62f963ab8726280b118b063ba90ce0de25d2e13e6e15be6dd1
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I — **Dispositions générales**

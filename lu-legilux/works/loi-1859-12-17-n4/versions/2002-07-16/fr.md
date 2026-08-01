@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/consolide/20020
 source_sha256: ec2f1e1154ab8949942e4f2b84c364f26b3e297d5f67751d5f18157e5a38e765
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE 1er.

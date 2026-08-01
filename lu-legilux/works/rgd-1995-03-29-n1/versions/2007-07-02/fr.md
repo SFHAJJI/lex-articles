@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20070
 source_sha256: f278d70745a802988bfd9d370eb9190b67bf8951c92e154f1fd5364d8fb1a671
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

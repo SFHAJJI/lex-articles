@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1997/02/06/n1/consolide/20251
 source_sha256: 1d98b8416f257b8e12e99593baa03177f43b1185334a897883dd81f031df5a6e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

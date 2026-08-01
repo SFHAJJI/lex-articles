@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1/consolide/20220
 source_sha256: 251a95481049ec2db6a7e2a68ca25a297921f9b73dc12b73cc744592c2c058d9
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

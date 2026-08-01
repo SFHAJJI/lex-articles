@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a333/consolide/202
 source_sha256: 9a6b5344c8a0817c78bb229b6762946e8d3ec8eb34dd7b995ca2926c4274a23a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

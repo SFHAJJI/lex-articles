@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20220
 source_sha256: dee1a60909b6381a1681554c98d5ffd7fde162150ab757b930d79c3011650246
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Loi du 25 février 2022 relative au patrimoine culturel et modifiant : 1° la loi modifiée du 4 mars 1982 a) portant création d’un Fonds culturel national ; b) modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie ; 2° la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État ; 3° la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ; 4° la loi du 17 août 2018 relative à l’archivage.

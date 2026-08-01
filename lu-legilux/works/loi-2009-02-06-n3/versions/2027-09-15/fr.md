@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20270
 source_sha256: 1d64cdd6bf6fdccab088cae2b526ad15431c0be19e7a4c545e9d5088bfd8ac53
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre Ier. — Cadre général

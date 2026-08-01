@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1995/01/11/n1/consolide/20100
 source_sha256: 049d08ebd50dcab5a83f92355af8f1d55fba52157b89f90d7094c2f53e085fae
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## CHAPITRE I. — ** De la réorganisation des écoles qui forment des professionnels de la santé.**

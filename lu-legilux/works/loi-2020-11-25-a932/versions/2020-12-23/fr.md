@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2020/11/25/a932/consolide/202
 source_sha256: 5a5b2806b570daf26e06bd9b7a9dae06f5ccfc63a953fdf2a498dfa453f8c864
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_ier"></a>

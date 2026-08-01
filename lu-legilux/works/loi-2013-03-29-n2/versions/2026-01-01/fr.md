@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n2/consolide/20260
 source_sha256: e669f59fabea26c392db27ecf2230ec30c182d4a3fc280eee81169fdfec0c893
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — * Champ d’application et définitions*

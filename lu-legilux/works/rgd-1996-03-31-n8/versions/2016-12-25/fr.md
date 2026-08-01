@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1996/03/31/n8/consolide/20161
 source_sha256: 25ff3ee9a0aae7df85f26c4fd44a144244bcbb2bba284fb0dedeec00eb73897e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Le Comité interministériel de l'égalité des femmes et des hommes

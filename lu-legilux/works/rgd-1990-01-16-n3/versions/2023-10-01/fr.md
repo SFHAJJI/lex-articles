@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/consolide/20231
 source_sha256: 6cc166d81b8ad3a294a44874106dd9adb3279a61dd4b2d5a4f8d6a88d6b219bf
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

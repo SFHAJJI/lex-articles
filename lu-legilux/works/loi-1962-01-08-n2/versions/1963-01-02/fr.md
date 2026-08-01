@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1962/01/08/n2/consolide/19630
 source_sha256: 153deb66214145b49e11bfd384601fc111d252b33587893c76278d90d57b39f0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

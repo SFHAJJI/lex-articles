@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/consolide/19670
 source_sha256: 40a234d69b9840a19fce7e659d4bae8a31e8e2ff85f6ac2107edd762bfa9cc37
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

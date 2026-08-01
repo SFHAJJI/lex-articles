@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2012/09/13/n1/consolide/20160
 source_sha256: fdb027d23f174fee7de958d0a160883fc7dc4add70a8150ad827b89ea66f933c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

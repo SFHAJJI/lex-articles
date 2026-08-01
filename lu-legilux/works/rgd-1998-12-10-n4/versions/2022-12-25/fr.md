@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1998/12/10/n4/consolide/20221
 source_sha256: 33ca43dc4526a27c73fabdde6b6840f7ffcf08caf0269b2784255a767d2b45de
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

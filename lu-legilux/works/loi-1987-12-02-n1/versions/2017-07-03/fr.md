@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1987/12/02/n1/consolide/20170
 source_sha256: 794a3e77ffa54e0f68fa8202d60dc831bd9765d36024454d94716986d8732f2e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

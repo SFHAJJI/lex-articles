@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20230
 source_sha256: d9bf91f122a0f55b7c887c3b7091326dfff25da66ebf52999c9e9f00fafd3627
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **TITRE Ier** — ** Le droit d’établissement**

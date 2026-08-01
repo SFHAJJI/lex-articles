@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1973/07/04/n2/consolide/20150
 source_sha256: c86eba82c0041d03bf4763ff61a0c2ae6291b271ad5de2c080c42189e858249d
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

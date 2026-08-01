@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1992/12/01/n2/consolide/20240
 source_sha256: f365713e873a03a77045944d8485d06e213bb30f19da5601167e262a20451f17
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Titre Ier: — De la création d'un établissement public pour le développement de la formation professionnelle continue

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20171
 source_sha256: 307c1ae30a50fa3abcad5d309882d96bd575ba81246a5aa3f8ac51dab1d6bec4
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE INTRODUCTIF

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19910
 source_sha256: 387fc81fec39c8e23a0392529d7ab08f31559b04b05d754ffd92e4ca1fad1651
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Section I. — —** Des fonctions, ressort et devoirs des notaires**

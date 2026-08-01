@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/consolide/20251
 source_sha256: e75954dcc08e9d4f3ccf86ab36f36d1ca4669b39486aeb3e1da4b5cd893f822a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — *Dispositions générales*

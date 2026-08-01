@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/consolide/20140
 source_sha256: 460f5a0cfeea2e8d8e8fb9c521f67cc2d12bbca96f1d60dd127b014ca6446851
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — ** Champ d’application**

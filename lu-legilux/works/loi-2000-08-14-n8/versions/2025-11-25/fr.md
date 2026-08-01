@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20251
 source_sha256: e85f6cde01b7c68bab4e23608443b167ef4cb7cd1e94c45f6c8141e472432137
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE I. — DISPOSITIONS GENERALES

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1971/07/14/n7/consolide/19960
 source_sha256: da7bd2ad03d82f99840c071b953febceda09b8c1f45da081f787da7c92a64c0f
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

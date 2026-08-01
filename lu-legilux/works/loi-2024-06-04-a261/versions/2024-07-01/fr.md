@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2024/06/04/a261/consolide/202
 source_sha256: 33aa4807dd786605c6a37e6c82f888c711bb3767cb81dbf04b23c760095260f8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

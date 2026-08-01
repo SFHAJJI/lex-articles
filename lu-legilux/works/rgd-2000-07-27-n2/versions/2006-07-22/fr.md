@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2000/07/27/n2/consolide/20060
 source_sha256: f0def1d013ed0f51d991eb615a4bae971b88f29ca35b0f164fb73f00b2cdbfa3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="article_1er"></a>

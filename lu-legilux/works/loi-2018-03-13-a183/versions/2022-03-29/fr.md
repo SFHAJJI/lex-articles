@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2018/03/13/a183/consolide/202
 source_sha256: 34e2ce368612753827c676518a2fac77335865e76a012412a128e00d6feaf630
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Définitions et missions de l’Observatoire national de l’enfance, de la jeunesse et de la qualité scolaire

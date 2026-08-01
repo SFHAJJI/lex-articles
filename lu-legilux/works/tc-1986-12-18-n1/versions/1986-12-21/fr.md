@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/198612
 source_sha256: dd4aee9efea0b6f3ac5d3f372d7eb7f0a7f33c4201c768dce2b64a9aaf7c38ed
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

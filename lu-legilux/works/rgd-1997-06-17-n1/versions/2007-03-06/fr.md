@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/1997/06/17/n1/consolide/20070
 source_sha256: 564084cdadceefcfea0a6c40775e67e30d06c67e1329106262753aadbd11ae16
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

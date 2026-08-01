@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20230
 source_sha256: 264b15abfecb635a74a8471db3f4e2adad3099f49134c54d5336ecc00353c0a3
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

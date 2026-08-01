@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1991/07/31/n3/consolide/20150
 source_sha256: 4e660d5e3977f7357b24de13f0659e3bdcd0c31254b150b67e934927d3b0c654
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er** — **Profession de pharmacien**

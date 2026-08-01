@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/consolide/20210
 source_sha256: 71d0eaeacdd0a64663538c7a3d54afc5a18f0b9a5d6eb16091b96e17193c97cb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

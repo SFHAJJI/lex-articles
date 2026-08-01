@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089/consolide/202
 source_sha256: aaa6fdc68a5e48e9600e1cedb9d1fe6ca77b95b6589b0866820eb9f3c835c5d8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="attachment_1"></a>

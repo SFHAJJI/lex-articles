@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/code/consommation/20241231/fr
 source_sha256: 3db2af160074ebbd670cbdacd222149f137b3f22e3ddc72843934886e8c3ac4a
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## I. — CODE - PARTIE LÉGISLATIVE

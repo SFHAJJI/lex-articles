@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n10/consolide/2014
 source_sha256: 8251bfd908b0301ccbe11fbac66111b7805a7997b9f00072796f299b255acbbe
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er. — Généralités

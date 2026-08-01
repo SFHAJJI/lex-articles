@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90/consolide/2022
 source_sha256: 56803446096f5213410c8ca4445937e4244b3896638be8750f1c3f162377510e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

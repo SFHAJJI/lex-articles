@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/20221
 source_sha256: ed036c28732885afda37319006002046ab487ac4bc134d8b75b74fca9b0412e8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

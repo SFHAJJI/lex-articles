@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1873/12/18/n3/consolide/20020
 source_sha256: 1235578b323f0a232e9123293ee001d2c491586fccc08bdd1ce13a326c9b7ebe
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 <a id="art_1er"></a>

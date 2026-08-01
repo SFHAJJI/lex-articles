@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/etrangers/20260612/fr
 source_sha256: e22a072ef2ce3b95055f3a39957de08b31057a609408d17414c00d966ab5c5a0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **1. ENTRÉE ET SÉJOUR**

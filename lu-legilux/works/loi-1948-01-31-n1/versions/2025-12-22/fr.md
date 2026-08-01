@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1948/01/31/n1/consolide/20251
 source_sha256: 69e7950b8d0fcf1c15225acb296a15ba3a5c1a5914652fae32c3489b138af38c
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre Ier.** — **Dispositions générales.**

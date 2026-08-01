@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2009/11/11/n1/consolide/20111
 source_sha256: ae75aa624e6ecbd44cced85303d2c3cabb875715bbce4c638f2947373adb5aeb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er.** — **Adaptation temporaire des mesures en faveur de l'emploi des jeunes**

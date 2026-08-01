@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20230
 source_sha256: 5d68a308d70c161accaa3eb8343a8745203f889a5962993489c934bda2bb7fdb
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre 1er.** — **Exercice de certaines professions de santé**

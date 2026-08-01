@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20231024/fr
 source_sha256: 41a606b56448866df15b95f34141966fabef4b2c7afaca0b5a71769d2816812e
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Version consolidée applicable au 01/07/2023 : Loi du 16 juin 2017 sur l’organisation du Conseil d’Etat et portant modification 1. de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif; 2. de la loi modifiée du 29 juin 1989 portant réforme du régime des cabarets.

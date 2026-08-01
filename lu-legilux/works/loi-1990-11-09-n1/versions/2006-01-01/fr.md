@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20060
 source_sha256: 1d55da885deddceaa536bcfbe842f669fd1fd7bf490a4d0efa77d7066b2cf4e0
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## TITRE INTRODUCTIF

@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/consolide/20230
 source_sha256: 53ec8380a923ea095e70e69d7f0bc620f7e1dac0807b734ae32cc7cdfd7d1bf8
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre I. — De la profession d’avocat

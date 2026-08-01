@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20210
 source_sha256: 069704356c5f192bde88a30d9dc83892e0b188f9bda4a6c780a2bdb523900652
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## **Chapitre I. ** — **Dispositions générales**

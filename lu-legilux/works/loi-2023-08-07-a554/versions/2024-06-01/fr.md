@@ -7,7 +7,7 @@ source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/consolide/202
 source_sha256: 6fbe7880f39a935c27b0ec8954c09a93991f4fb1195bb48fb48b3075af64b5df
 license: CC-BY-4.0
 attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive · dev
+generator: akn-lu/1 · lex derive
 ---
 
 ## Chapitre 1er — Objectifs et définitions
