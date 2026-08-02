@@ -2,7 +2,7 @@
 lex_id: 'lu-legilux:loi-2011-04-08-n2:2025-10-19'
 title: 'loi-2011-04-08-n2'
 valid_from: '2025-10-19'
-valid_to: '2025-10-18'
+valid_to: '2025-11-24'
 source: 'https://legilux.public.lu/eli/etat/leg/code/consommation/20251019/fr'
 source_sha256: '10e27a7c4fb33a7fa76dcc121eea7d661ab485754dcf61cdae05151148e74fb1'
 license: 'CC-BY-4.0'

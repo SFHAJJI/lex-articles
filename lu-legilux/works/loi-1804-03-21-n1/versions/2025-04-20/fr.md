@@ -2,7 +2,7 @@
 lex_id: 'lu-legilux:loi-1804-03-21-n1:2025-04-20'
 title: 'Code civil'
 valid_from: '2025-04-20'
-valid_to: '2025-04-19'
+valid_to: '2025-12-25'
 source: 'https://legilux.public.lu/eli/etat/leg/code/civil/20250420/fr'
 source_sha256: '7626db6d9343435cc19dce36967059b3136ebc58323dc4432345273b43b2a25e'
 license: 'CC-BY-4.0'

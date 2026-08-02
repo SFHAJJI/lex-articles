@@ -2,7 +2,7 @@
 lex_id: 'lu-legilux:loi-2006-07-31-n2:2025-06-28'
 title: 'Code du travail'
 valid_from: '2025-06-28'
-valid_to: '2025-06-27'
+valid_to: '2025-12-31'
 source: 'https://legilux.public.lu/eli/etat/leg/code/travail/20250628/fr'
 source_sha256: 'debc648dfc4f70397157dad0c7be8e49e214aa74871c441522d0765ea24bd81d'
 license: 'CC-BY-4.0'

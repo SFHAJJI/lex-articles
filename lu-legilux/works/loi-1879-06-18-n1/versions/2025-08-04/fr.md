@@ -2,7 +2,7 @@
 lex_id: 'lu-legilux:loi-1879-06-18-n1:2025-08-04'
 title: 'Code pénal'
 valid_from: '2025-08-04'
-valid_to: '2025-08-03'
+valid_to: '2025-12-18'
 source: 'https://legilux.public.lu/eli/etat/leg/code/penal/20250804/fr'
 source_sha256: '1f45356df59c180c6af22df76061470c700b384ec954f3e9a9c9d6876a9c6b24'
 license: 'CC-BY-4.0'

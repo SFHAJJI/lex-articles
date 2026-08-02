@@ -2,7 +2,7 @@
 lex_id: 'lu-legilux:loi-1808-11-17-n1:2025-08-04'
 title: 'loi-1808-11-17-n1'
 valid_from: '2025-08-04'
-valid_to: '2025-08-03'
+valid_to: '2025-12-18'
 source: 'https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20250804/fr'
 source_sha256: 'd168d3d74efc2d49e5a4dd02376e18debfc1d0613257e353a5f454844add48a5'
 license: 'CC-BY-4.0'
