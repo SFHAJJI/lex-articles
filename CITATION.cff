@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "lex-articles — per-provision consolidated Luxembourg and EU law"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - family-names: Hajji
+    given-names: Soufien
+repository-code: "https://github.com/SFHAJJI/lex-articles"
+url: "https://law.soufien.lu"
+abstract: >-
+  Point-in-time consolidated legislation of Luxembourg (Legilux) and the European Union
+  (EUR-Lex/Cellar), derived deterministically into one Markdown+JSON record per provision
+  per version. Every provision carries a SHA-256 hash chained to the verbatim publisher
+  bytes it was derived from, publisher-minted anchors, validity intervals, and per-article
+  history (including renumbering events). Immutable extraction profiles (akn-lu/1,
+  xhtml-eu/1, fmx4-eu/1) make every derivation reproducible.
+keywords:
+  - legal-data
+  - point-in-time
+  - consolidated-legislation
+  - luxembourg
+  - european-union
+  - akoma-ntoso
+  - formex
+  - open-data
+license: CC-BY-4.0
