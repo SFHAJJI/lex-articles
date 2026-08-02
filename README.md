@@ -6,9 +6,17 @@ version — with validity dates, stable publisher-minted IDs, and a hash chain
 back to the exact bytes the state published.
 
 **1,212 works · 2,926 derived versions · 88,981 provisions · 102,773 distinct
-text states** (Luxembourg: full consolidated corpus, 1849→2030 · EU: GDPR,
-DORA, AI Act, NIS2, MiFID II, CRR, PSD2, SFDR — full text from the Publications
-Office's Formex 4 structural XML).
+text states.**
+
+- **Luxembourg** — every act the state maintains a *consolidated* edition for,
+  1849→2030: 1,206 of 1,399 works, 2,882 of 4,644 versions. The remainder are
+  versions for which the publisher offers no machine-readable text; they keep
+  their dates and a link to the official source rather than being dropped.
+- **EU** — six acts in full text from the Publications Office's Formex 4
+  structural XML: **GDPR, CRR, PSD2, MiFID II, NIS2, SFDR**. **DORA and the AI
+  Act are tracked but not included** — no consolidated body is retrievable for
+  them, so Lex holds their record and dates only and answers `text_withheld`
+  rather than guessing.
 
 **[Examples](examples/)** ·
 **[Schema contract](SCHEMA.md)** ·
@@ -42,7 +50,7 @@ WHERE lex_id LIKE 'lu-legilux:rgd-2023-07-21-a444%'
 ```
 
 Or talk to the same data through the hosted MCP endpoint (any MCP client, no
-key) — 8 tools including per-article `as_of` (outline/select modes) and
+key) — 9 tools including per-article `as_of` (outline/select modes) and
 `article_history`:
 
 ```

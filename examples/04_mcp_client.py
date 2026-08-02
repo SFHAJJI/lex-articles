@@ -1,5 +1,5 @@
 # Talk to the hosted Lex MCP endpoint directly (no AI, no key, standard library only):
-# the same 8 tools any MCP-capable model uses. Shows article_history — the time axis.
+# the same 9 tools any MCP-capable model uses. Shows article_history — the time axis.
 # Run:  python examples/04_mcp_client.py
 import json, urllib.request
 
