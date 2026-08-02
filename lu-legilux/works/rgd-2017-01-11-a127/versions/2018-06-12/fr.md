@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-01-11-a127:2018-06-12
-title: Version consolidée applicable au 22/05/2020 : Règlement grand-ducal modifié du 11 janvier 2017 déterminant les modalités d’admission dans les classes de 7e de l’enseignement secondaire.
-valid_from: 2018-06-12
-valid_to: 2020-05-21
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/consolide/20180612/fr
-source_sha256: 4df71ffb1bba9b82437fecacda357421759e796754e3332c9172bb7b7d8145e6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-01-11-a127:2018-06-12'
+title: 'Version consolidée applicable au 22/05/2020 : Règlement grand-ducal modifié du 11 janvier 2017 déterminant les modalités d’admission dans les classes de 7e de l’enseignement secondaire.'
+valid_from: '2018-06-12'
+valid_to: '2020-05-21'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/consolide/20180612/fr'
+source_sha256: '4df71ffb1bba9b82437fecacda357421759e796754e3332c9172bb7b7d8145e6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **La procédure générale**

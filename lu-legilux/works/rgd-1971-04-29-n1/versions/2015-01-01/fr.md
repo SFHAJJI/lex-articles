@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1971-04-29-n1:2015-01-01
-title: Version consolidée applicable au 01/01/2015 : Règlement grand-ducal du 29 avril 1971 complétant les articles 2 et 8 de l'arrêté grand-ducal du 26 juin 1951 concernant les documents de bord des aéronefs civils et déterminant les formalités relatives à la constatation officielle des naissances, décès et disparitions se produisant à bord des aéronefs luxembourgeois en cours de vol, ainsi que leur transmission aux autorités luxembourgeoises.
-valid_from: 2015-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1971/04/29/n1/consolide/20150101/fr
-source_sha256: 6a397b18d21d2cdd7ad5a7daefbe6012b3e3cc1829c2f6cdf81872eca020d237
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1971-04-29-n1:2015-01-01'
+title: 'Version consolidée applicable au 01/01/2015 : Règlement grand-ducal du 29 avril 1971 complétant les articles 2 et 8 de l''arrêté grand-ducal du 26 juin 1951 concernant les documents de bord des aéronefs civils et déterminant les formalités relatives à la constatation officielle des naissances, décès et disparitions se produisant à bord des aéronefs luxembourgeois en cours de vol, ainsi que leur transmission aux autorités luxembourgeoises.'
+valid_from: '2015-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1971/04/29/n1/consolide/20150101/fr'
+source_sha256: '6a397b18d21d2cdd7ad5a7daefbe6012b3e3cc1829c2f6cdf81872eca020d237'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-05-31-n1:2020-04-06
-title: Version consolidée applicable au 06/04/2020 : Règlement grand-ducal du 31 mai 2015 relatif à certaines responsabilités de l'Etat du pavillon en ce qui concerne le respect et la mise en application de la Convention du travail maritime, 2006.
-valid_from: 2020-04-06
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/05/31/n1/consolide/20200406/fr
-source_sha256: e79436b6b10b25ece0197ef959083e8340ab758a7c97d79c43f2c0bce553cc0b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-05-31-n1:2020-04-06'
+title: 'Version consolidée applicable au 06/04/2020 : Règlement grand-ducal du 31 mai 2015 relatif à certaines responsabilités de l''Etat du pavillon en ce qui concerne le respect et la mise en application de la Convention du travail maritime, 2006.'
+valid_from: '2020-04-06'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/05/31/n1/consolide/20200406/fr'
+source_sha256: 'e79436b6b10b25ece0197ef959083e8340ab758a7c97d79c43f2c0bce553cc0b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier — Definitions

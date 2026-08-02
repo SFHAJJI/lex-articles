@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:amin-2020-03-16-a149:2020-03-23
-title: Version consolidée applicable au 04/05/2020 : Arrêté ministériel du 16 mars 2020 portant sur diverses mesures relatives à la lutte contre la propagation du virus covid-19.
-valid_from: 2020-03-23
-valid_to: 2020-05-03
-source: https://legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/consolide/20200323/fr
-source_sha256: 14d3923abe90219b32c52437b6ac38f292c0c8a4153ba255a4bca772c7fe82a0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:amin-2020-03-16-a149:2020-03-23'
+title: 'Version consolidée applicable au 04/05/2020 : Arrêté ministériel du 16 mars 2020 portant sur diverses mesures relatives à la lutte contre la propagation du virus covid-19.'
+valid_from: '2020-03-23'
+valid_to: '2020-05-03'
+source: 'https://legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/consolide/20200323/fr'
+source_sha256: '14d3923abe90219b32c52437b6ac38f292c0c8a4153ba255a4bca772c7fe82a0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Limitation de déplacement pour le public

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-nationalite_luxembourgeoise:2024-12-24
-title: Nationalité luxembourgeoise
-valid_from: 2024-12-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20241224/fr
-source_sha256: 8d38c2af1e2a347cfd694e8bff96289c0e2f93b69dc5723275f3971d36d04824
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-nationalite_luxembourgeoise:2024-12-24'
+title: 'Nationalité luxembourgeoise'
+valid_from: '2024-12-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20241224/fr'
+source_sha256: '8d38c2af1e2a347cfd694e8bff96289c0e2f93b69dc5723275f3971d36d04824'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **LÉGISLATION NATIONALE**

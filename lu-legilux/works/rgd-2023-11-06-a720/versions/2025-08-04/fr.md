@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-11-06-a720:2025-08-04
-title: Règlement grand-ducal du 6 novembre 2023 relatif au recrutement et à la formation du personnel militaire de carrière
-valid_from: 2025-08-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/11/06/a720/consolide/20250804/fr
-source_sha256: 1b812f262c4735a28bce2c3d2b8d94c6af2c47c038814d5616bb5bab703bba6f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-11-06-a720:2025-08-04'
+title: 'Règlement grand-ducal du 6 novembre 2023 relatif au recrutement et à la formation du personnel militaire de carrière'
+valid_from: '2025-08-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/11/06/a720/consolide/20250804/fr'
+source_sha256: '1b812f262c4735a28bce2c3d2b8d94c6af2c47c038814d5616bb5bab703bba6f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Définitions**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2013-06-19-n3:2022-07-31
-title: Loi du 19 juin 2013 relative à l'identification des personnes physiques.
-valid_from: 2022-07-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2013/06/19/n3/consolide/20220731/fr
-source_sha256: ef333b761cfdcf439abe29fafa3ce789b408502dc4a3cbd921c74c49665db7cd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2013-06-19-n3:2022-07-31'
+title: 'Loi du 19 juin 2013 relative à l''identification des personnes physiques.'
+valid_from: '2022-07-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/06/19/n3/consolide/20220731/fr'
+source_sha256: 'ef333b761cfdcf439abe29fafa3ce789b408502dc4a3cbd921c74c49665db7cd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1 — L’identification des personnes physiques, le registre national des personnes physiques et la carte d’identité

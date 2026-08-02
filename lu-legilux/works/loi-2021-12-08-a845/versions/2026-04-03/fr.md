@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-12-08-a845:2026-04-03
-title: Version consolidée applicable au 03/04/2026 : Loi du 8 décembre 2021 relative à l’émission de lettres de gage, et portant :\n1° transposition de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE ;\n2° mise en œuvre du règlement (UE) 2019/2160 du Parlement européen et du Conseil du 27 novembre 2019 modifiant le règlement (UE) n° 575/2013 en ce qui concerne les expositions sous forme d’obligations garanties ; et\n3° modification de :\na) la loi modifiée du 5 avril 1993 relative au secteur financier ;\nb) la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier ;\nc) la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ; et de\nd) la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement.\n
-valid_from: 2026-04-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/12/08/a845/consolide/20260403/fr
-source_sha256: f61ab4a5853776ff21e759b55c54015d1699f7a01813f1abf0a7ac3a78cf73b1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-12-08-a845:2026-04-03'
+title: 'Version consolidée applicable au 03/04/2026 : Loi du 8 décembre 2021 relative à l’émission de lettres de gage, et portant :\n1° transposition de la directive (UE) 2019/2162 du Parlement européen et du Conseil du 27 novembre 2019 concernant l’émission d’obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE ;\n2° mise en œuvre du règlement (UE) 2019/2160 du Parlement européen et du Conseil du 27 novembre 2019 modifiant le règlement (UE) n° 575/2013 en ce qui concerne les expositions sous forme d’obligations garanties ; et\n3° modification de :\na) la loi modifiée du 5 avril 1993 relative au secteur financier ;\nb) la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier ;\nc) la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ; et de\nd) la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement.\n'
+valid_from: '2026-04-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/12/08/a845/consolide/20260403/fr'
+source_sha256: 'f61ab4a5853776ff21e759b55c54015d1699f7a01813f1abf0a7ac3a78cf73b1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## ****Titre Ier**** — **Dispositions relatives à l’activité d’émission de lettres de gage**

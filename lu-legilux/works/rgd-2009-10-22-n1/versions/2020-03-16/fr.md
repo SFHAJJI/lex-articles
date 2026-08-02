@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-10-22-n1:2020-03-16
-title: Version consolidée applicable au 18/05/2021 : Règlement grand-ducal du 22 octobre 2009 relatif aux centres de traitement et aux centres de vaccination dans le cadre de la gestion d’une pandémie grippale.
-valid_from: 2020-03-16
-valid_to: 2020-12-17
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/10/22/n1/consolide/20200316/fr
-source_sha256: 950e55431b1ead9463af6994a2561b616766eea92a6bc83bd05a50d6274669fa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-10-22-n1:2020-03-16'
+title: 'Version consolidée applicable au 18/05/2021 : Règlement grand-ducal du 22 octobre 2009 relatif aux centres de traitement et aux centres de vaccination dans le cadre de la gestion d’une pandémie grippale.'
+valid_from: '2020-03-16'
+valid_to: '2020-12-17'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/10/22/n1/consolide/20200316/fr'
+source_sha256: '950e55431b1ead9463af6994a2561b616766eea92a6bc83bd05a50d6274669fa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

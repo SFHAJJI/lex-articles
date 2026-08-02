@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-03-25-n6:2022-07-01
-title: Version consolidée applicable au 01/06/2026 : Loi du 25 mars 2015 fixant les conditions et modalités de l’accès du fonctionnaire à un groupe de traitement supérieur au sien et de l’employé de l’Etat à un groupe d’indemnité supérieur au sien.
-valid_from: 2022-07-01
-valid_to: 2026-05-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n6/consolide/20220701/fr
-source_sha256: 36b7204ba31b0f3e6893b40ccc28a35d99b02b662a61e44236f59afcc3f1f342
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-03-25-n6:2022-07-01'
+title: 'Version consolidée applicable au 01/06/2026 : Loi du 25 mars 2015 fixant les conditions et modalités de l’accès du fonctionnaire à un groupe de traitement supérieur au sien et de l’employé de l’Etat à un groupe d’indemnité supérieur au sien.'
+valid_from: '2022-07-01'
+valid_to: '2026-05-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n6/consolide/20220701/fr'
+source_sha256: '36b7204ba31b0f3e6893b40ccc28a35d99b02b662a61e44236f59afcc3f1f342'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Définition et champ d’application

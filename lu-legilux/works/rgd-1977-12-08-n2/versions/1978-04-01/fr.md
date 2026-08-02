@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1977-12-08-n2:1978-04-01
-title: Version consolidée applicable au 07/10/1987 : Règlement grand-ducal du 8 décembre 1977 portant sur les modalités des examens médicaux et de l'examen dentaire de la femme enceinte et de l'examen postnatal de la mère, ainsi que sur le carnet de maternité.
-valid_from: 1978-04-01
-valid_to: 1987-10-06
-source: https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19780401/fr
-source_sha256: cfd2c55d8f9d14a2c0d0a04524113d7dfd3dd973febc452d1de1d468443e4bf2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1977-12-08-n2:1978-04-01'
+title: 'Version consolidée applicable au 07/10/1987 : Règlement grand-ducal du 8 décembre 1977 portant sur les modalités des examens médicaux et de l''examen dentaire de la femme enceinte et de l''examen postnatal de la mère, ainsi que sur le carnet de maternité.'
+valid_from: '1978-04-01'
+valid_to: '1987-10-06'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19780401/fr'
+source_sha256: 'cfd2c55d8f9d14a2c0d0a04524113d7dfd3dd973febc452d1de1d468443e4bf2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

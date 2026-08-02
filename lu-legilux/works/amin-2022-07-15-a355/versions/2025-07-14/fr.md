@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:amin-2022-07-15-a355:2025-07-14
-title: Version consolidée applicable au 14/07/2025 : Arrêté ministériel du 15 juillet 2022 portant autorisation du maintien de la vidéosurveillance dans les zones de sécurité soumises à la vidéosurveillance de la Police grand-ducale avant l’entrée en vigueur de la loi du 15 juillet 2021 portant modification de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale.
-valid_from: 2025-07-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/amin/2022/07/15/a355/consolide/20250714/fr
-source_sha256: 66489424f41f58f5fe3ffeee7a03fbd1c1ecafd19af49227ea2dc5c2f28bf351
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:amin-2022-07-15-a355:2025-07-14'
+title: 'Version consolidée applicable au 14/07/2025 : Arrêté ministériel du 15 juillet 2022 portant autorisation du maintien de la vidéosurveillance dans les zones de sécurité soumises à la vidéosurveillance de la Police grand-ducale avant l’entrée en vigueur de la loi du 15 juillet 2021 portant modification de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale.'
+valid_from: '2025-07-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/amin/2022/07/15/a355/consolide/20250714/fr'
+source_sha256: '66489424f41f58f5fe3ffeee7a03fbd1c1ecafd19af49227ea2dc5c2f28bf351'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

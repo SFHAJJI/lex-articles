@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-12-23-a662:2026-01-16
-title: Version consolidée applicable au 16/01/2026 : Règlement grand-ducal du 23 décembre 2022 relatif aux taxes à percevoir par la Commission de surveillance du secteur financier.\n
-valid_from: 2026-01-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a662/consolide/20260116/fr
-source_sha256: 74fffbed943819dd524c68d6f9c1a5df0fe9ced5e6bbbc866123757fd37846d0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-12-23-a662:2026-01-16'
+title: 'Version consolidée applicable au 16/01/2026 : Règlement grand-ducal du 23 décembre 2022 relatif aux taxes à percevoir par la Commission de surveillance du secteur financier.\n'
+valid_from: '2026-01-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a662/consolide/20260116/fr'
+source_sha256: '74fffbed943819dd524c68d6f9c1a5df0fe9ced5e6bbbc866123757fd37846d0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

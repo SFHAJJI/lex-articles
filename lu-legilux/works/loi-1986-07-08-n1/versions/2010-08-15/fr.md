@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1986-07-08-n1:2010-08-15
-title: Version consolidée applicable au 08/12/2009 : Loi du 8 juillet 1986 portant réglementation de la mise sur le marché des détergents.
-valid_from: 2010-08-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1986/07/08/n1/consolide/20100815/fr
-source_sha256: 97271adbe391e72ec84ee186516144c42a66fa5557130e81ca453ebb3deccd0e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1986-07-08-n1:2010-08-15'
+title: 'Version consolidée applicable au 08/12/2009 : Loi du 8 juillet 1986 portant réglementation de la mise sur le marché des détergents.'
+valid_from: '2010-08-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1986/07/08/n1/consolide/20100815/fr'
+source_sha256: '97271adbe391e72ec84ee186516144c42a66fa5557130e81ca453ebb3deccd0e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

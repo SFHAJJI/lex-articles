@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2003-04-16-n2:2013-01-01
-title: Version consolidée applicable au 28/12/2024 : Loi du 16 avril 2003 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs.
-valid_from: 2013-01-01
-valid_to: 2023-10-23
-source: https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/consolide/20130101/fr
-source_sha256: a1818d5066941272a5a59db56af81478d66228c14fd2c646bedb842c1ca42b22
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2003-04-16-n2:2013-01-01'
+title: 'Version consolidée applicable au 28/12/2024 : Loi du 16 avril 2003 relative à l’assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs.'
+valid_from: '2013-01-01'
+valid_to: '2023-10-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/consolide/20130101/fr'
+source_sha256: 'a1818d5066941272a5a59db56af81478d66228c14fd2c646bedb842c1ca42b22'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Partie I — Définitions

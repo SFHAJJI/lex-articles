@@ -1,13 +1,13 @@
 ---
-lex_id: eu-eurlex:32019r2088:2026-07-02
-title: SFDR — Regulation (EU) 2019/2088
-valid_from: 2026-07-02
-valid_to: open
-source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2088-20260702
-source_sha256: 58dd4168dbd3decd18800b9c5219b72895fc324e4d737663c4ca47674958ebfe
-license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
-attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: fmx4-eu/1 · lex derive
+lex_id: 'eu-eurlex:32019r2088:2026-07-02'
+title: 'SFDR — Regulation (EU) 2019/2088'
+valid_from: '2026-07-02'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2088-20260702'
+source_sha256: '58dd4168dbd3decd18800b9c5219b72895fc324e4d737663c4ca47674958ebfe'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'fmx4-eu/1 · lex derive'
 ---
 
 <a id="art_1"></a>

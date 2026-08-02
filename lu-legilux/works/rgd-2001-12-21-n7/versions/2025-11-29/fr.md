@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-12-21-n7:2025-11-29
-title: Version consolidée applicable au 29/11/2025 : Règlement grand-ducal du 21 décembre 2001 portant application de la directive 2000/14/CE du Parlement Européen et du Conseil du 8 mai 2000 concernant le rapprochement des législations des Etats membres relatives aux émissions sonores dans l'environnement des matériels destinés à être utilisés à l'extérieur des bâtiments.
-valid_from: 2025-11-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/consolide/20251129/fr
-source_sha256: 506d8e6f9743c64b4e1180c7ca8265ddcee659d0f5ca656674254e9b9cb6f287
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-12-21-n7:2025-11-29'
+title: 'Version consolidée applicable au 29/11/2025 : Règlement grand-ducal du 21 décembre 2001 portant application de la directive 2000/14/CE du Parlement Européen et du Conseil du 8 mai 2000 concernant le rapprochement des législations des Etats membres relatives aux émissions sonores dans l''environnement des matériels destinés à être utilisés à l''extérieur des bâtiments.'
+valid_from: '2025-11-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/consolide/20251129/fr'
+source_sha256: '506d8e6f9743c64b4e1180c7ca8265ddcee659d0f5ca656674254e9b9cb6f287'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

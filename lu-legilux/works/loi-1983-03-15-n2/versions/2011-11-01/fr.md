@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1983-03-15-n2:2011-11-01
-title: Version consolidée applicable au 01/11/2010 : Loi du 15 mars 1983 sur les armes et munitions.
-valid_from: 2011-11-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1983/03/15/n2/consolide/20111101/fr
-source_sha256: aeb76d7534b862bdf8a52030b913b8492dc89ee500633158c0eaa788bcba2704
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1983-03-15-n2:2011-11-01'
+title: 'Version consolidée applicable au 01/11/2010 : Loi du 15 mars 1983 sur les armes et munitions.'
+valid_from: '2011-11-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1983/03/15/n2/consolide/20111101/fr'
+source_sha256: 'aeb76d7534b862bdf8a52030b913b8492dc89ee500633158c0eaa788bcba2704'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **A. Armes prohibées et armes soumises à autorisation**

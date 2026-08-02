@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-05-26-n5:2022-12-23
-title: Version consolidée applicable au 23/12/2022 : Loi du 26 mai 2004 portant création d'un établissement public nommé Centre de Musiques Amplifiées.
-valid_from: 2022-12-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/05/26/n5/consolide/20221223/fr
-source_sha256: 3a48c011f268021d0110b540e6cd3dd6660764b1118bfb9f05c05d4373ea7972
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-05-26-n5:2022-12-23'
+title: 'Version consolidée applicable au 23/12/2022 : Loi du 26 mai 2004 portant création d''un établissement public nommé Centre de Musiques Amplifiées.'
+valid_from: '2022-12-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/05/26/n5/consolide/20221223/fr'
+source_sha256: '3a48c011f268021d0110b540e6cd3dd6660764b1118bfb9f05c05d4373ea7972'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

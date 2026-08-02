@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-05-12-n1:2002-03-24
-title: Version consolidée applicable au 17/07/2023 : Règlement grand-ducal du 12 mai 2000 fixant les modalités et les conditions en vue de l’obtention d’une aide financière pour les médecins en voie de spécialisation.
-valid_from: 2002-03-24
-valid_to: 2009-01-03
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/consolide/20020324/fr
-source_sha256: d900e9f73629d6c4626c8db1b9bb62958ebccb31f20201400524ff94e90e3801
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-05-12-n1:2002-03-24'
+title: 'Version consolidée applicable au 17/07/2023 : Règlement grand-ducal du 12 mai 2000 fixant les modalités et les conditions en vue de l’obtention d’une aide financière pour les médecins en voie de spécialisation.'
+valid_from: '2002-03-24'
+valid_to: '2009-01-03'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/consolide/20020324/fr'
+source_sha256: 'd900e9f73629d6c4626c8db1b9bb62958ebccb31f20201400524ff94e90e3801'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

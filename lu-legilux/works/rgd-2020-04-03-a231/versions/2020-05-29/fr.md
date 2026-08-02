@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-04-03-a231:2020-05-29
-title: Version consolidée applicable au 29/05/2020 : Règlement grand-ducal du 3 avril 2020 portant exécution de l’article 3 de la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.
-valid_from: 2020-05-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/consolide/20200529/fr
-source_sha256: 2294d8b6c1ce4b693888b4490f4e30b044f8803090e04358a84e87ebed387449
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-04-03-a231:2020-05-29'
+title: 'Version consolidée applicable au 29/05/2020 : Règlement grand-ducal du 3 avril 2020 portant exécution de l’article 3 de la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.'
+valid_from: '2020-05-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/consolide/20200529/fr'
+source_sha256: '2294d8b6c1ce4b693888b4490f4e30b044f8803090e04358a84e87ebed387449'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

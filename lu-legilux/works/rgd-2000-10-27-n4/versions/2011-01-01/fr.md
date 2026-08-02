@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-10-27-n4:2011-01-01
-title: Version consolidée applicable au 07/05/2021 : Règlement grand-ducal du 27 octobre 2000 portant 1. organisation à l'Institut national d'administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes; 2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d'admission et d'examen des fonctionnaires communaux.
-valid_from: 2011-01-01
-valid_to: 2021-05-06
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n4/consolide/20110101/fr
-source_sha256: 1cc73d560a1948f450b6b3ba886b2924743af86e8ab73749c55bcf954cd41a0a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-10-27-n4:2011-01-01'
+title: 'Version consolidée applicable au 07/05/2021 : Règlement grand-ducal du 27 octobre 2000 portant 1. organisation à l''Institut national d''administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des établissements publics des communes; 2. modification du règlement grand-ducal modifié du 20 décembre 1990 portant fixation des conditions d''admission et d''examen des fonctionnaires communaux.'
+valid_from: '2011-01-01'
+valid_to: '2021-05-06'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n4/consolide/20110101/fr'
+source_sha256: '1cc73d560a1948f450b6b3ba886b2924743af86e8ab73749c55bcf954cd41a0a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre I** — **Organisation de la formation générale à Institut national d’administration publique**

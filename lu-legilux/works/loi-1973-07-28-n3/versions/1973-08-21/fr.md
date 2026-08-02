@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1973-07-28-n3:1973-08-21
-title: Version consolidée applicable au 01/01/2008 : Loi du 28 juillet 1973 réglant l'usage des armes et autres moyens de contrainte par les membres de la force publique dans la lutte contre la criminalité.
-valid_from: 1973-08-21
-valid_to: 2007-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/19730821/fr
-source_sha256: e46d070b2a5cff954c0ffd80c22f9184a59d522e9875d4790bfdd4dd7848747b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1973-07-28-n3:1973-08-21'
+title: 'Version consolidée applicable au 01/01/2008 : Loi du 28 juillet 1973 réglant l''usage des armes et autres moyens de contrainte par les membres de la force publique dans la lutte contre la criminalité.'
+valid_from: '1973-08-21'
+valid_to: '2007-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/19730821/fr'
+source_sha256: 'e46d070b2a5cff954c0ffd80c22f9184a59d522e9875d4790bfdd4dd7848747b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

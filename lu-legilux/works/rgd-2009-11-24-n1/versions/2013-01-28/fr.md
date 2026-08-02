@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-11-24-n1:2013-01-28
-title: Version consolidée applicable au 28/01/2013 : Règlement grand-ducal du 24 novembre 2009 fixant les quotes-parts des offices sociaux communaux et du Fonds National de Solidarité dans le produit de l'Oeuvre Nationale de Secours Grande-Duchesse Charlotte.
-valid_from: 2013-01-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/11/24/n1/consolide/20130128/fr
-source_sha256: e5c360044dec9a066ec1731b8216e509df9c6c5ad87ce1982f8569e079b30982
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-11-24-n1:2013-01-28'
+title: 'Version consolidée applicable au 28/01/2013 : Règlement grand-ducal du 24 novembre 2009 fixant les quotes-parts des offices sociaux communaux et du Fonds National de Solidarité dans le produit de l''Oeuvre Nationale de Secours Grande-Duchesse Charlotte.'
+valid_from: '2013-01-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/11/24/n1/consolide/20130128/fr'
+source_sha256: 'e5c360044dec9a066ec1731b8216e509df9c6c5ad87ce1982f8569e079b30982'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

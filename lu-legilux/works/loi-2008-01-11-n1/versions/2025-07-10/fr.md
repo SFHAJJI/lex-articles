@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-01-11-n1:2025-07-10
-title: Loi du 11 janvier 2008 relative aux obligations de transparence des émetteurs
-valid_from: 2025-07-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/01/11/n1/consolide/20250710/fr
-source_sha256: 9dfae270b49460dc998112e9685da97c4bada36af88a3e6e35d2a4a3939530a8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-01-11-n1:2025-07-10'
+title: 'Loi du 11 janvier 2008 relative aux obligations de transparence des émetteurs'
+valid_from: '2025-07-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/01/11/n1/consolide/20250710/fr'
+source_sha256: '9dfae270b49460dc998112e9685da97c4bada36af88a3e6e35d2a4a3939530a8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier — Définitions et champ d'application.

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-12-18-n6:2024-02-17
-title: Version consolidée applicable au 17/02/2024 : Règlement grand-ducal du 18 décembre 2015 déterminant le plan d’organisation de l’administration centrale du Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur.
-valid_from: 2024-02-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n6/consolide/20240217/fr
-source_sha256: 27bb111c4cd24c13ec7b8362be066bdecedd7fcf64a2a9efd9a9e6e40b8b5e50
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-12-18-n6:2024-02-17'
+title: 'Version consolidée applicable au 17/02/2024 : Règlement grand-ducal du 18 décembre 2015 déterminant le plan d’organisation de l’administration centrale du Ministère des Affaires étrangères et européennes, de la Défense, de la Coopération et du Commerce extérieur.'
+valid_from: '2024-02-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n6/consolide/20240217/fr'
+source_sha256: '27bb111c4cd24c13ec7b8362be066bdecedd7fcf64a2a9efd9a9e6e40b8b5e50'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

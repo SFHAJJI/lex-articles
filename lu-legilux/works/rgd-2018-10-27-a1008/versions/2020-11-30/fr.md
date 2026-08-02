@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-10-27-a1008:2020-11-30
-title: Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 27 octobre 2018 arrêtant la nomenclature des actes et services des sages-femmes pris en charge par l'assurance maladie.
-valid_from: 2020-11-30
-valid_to: 2022-01-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/consolide/20201130/fr
-source_sha256: 4feec24158db038cf98029f750835ddec157e3ab37c97ad3caa887323b8b5a20
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-10-27-a1008:2020-11-30'
+title: 'Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 27 octobre 2018 arrêtant la nomenclature des actes et services des sages-femmes pris en charge par l''assurance maladie.'
+valid_from: '2020-11-30'
+valid_to: '2022-01-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/consolide/20201130/fr'
+source_sha256: '4feec24158db038cf98029f750835ddec157e3ab37c97ad3caa887323b8b5a20'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Prise en charge des actes et services**

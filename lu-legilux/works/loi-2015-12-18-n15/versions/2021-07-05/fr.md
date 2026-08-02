@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-12-18-n15:2021-07-05
-title: Version consolidée applicable au 12/06/2026 : Loi du 18 décembre 2015\n1. relative à la protection internationale et à la protection temporaire;\n2. modifiant\n- la loi modifiée du 10 août 1991 sur la profession d’avocat,\n- la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration,\n- la loi du 28 mai 2009 concernant le Centre de rétention;\n3. abrogeant la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection...
-valid_from: 2021-07-05
-valid_to: 2023-07-28
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n15/consolide/20210705/fr
-source_sha256: 28229ee9d1ad02c63804de318c086ffcf24f49658f0d37348fb776a38afeb86d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-12-18-n15:2021-07-05'
+title: 'Version consolidée applicable au 12/06/2026 : Loi du 18 décembre 2015\n1. relative à la protection internationale et à la protection temporaire;\n2. modifiant\n- la loi modifiée du 10 août 1991 sur la profession d’avocat,\n- la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration,\n- la loi du 28 mai 2009 concernant le Centre de rétention;\n3. abrogeant la loi modifiée du 5 mai 2006 relative au droit d’asile et à des formes complémentaires de protection...'
+valid_from: '2021-07-05'
+valid_to: '2023-07-28'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n15/consolide/20210705/fr'
+source_sha256: '28229ee9d1ad02c63804de318c086ffcf24f49658f0d37348fb776a38afeb86d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er.** — **Objet, champ d’application, définitions et compétence**

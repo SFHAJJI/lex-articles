@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1862-12-09-n1:1976-12-27
-title: Version consolidée applicable au 27/12/1976 : Loi du 9 décembre 1862 portant révision de l'ordonnance royale grand-ducale du 30 juin 1857 sur le notariat.
-valid_from: 1976-12-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/consolide/19761227/fr
-source_sha256: 2c74d6c81dbff47b2a32c68649db558b50c4394970011c7b6b446562923aae98
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1862-12-09-n1:1976-12-27'
+title: 'Version consolidée applicable au 27/12/1976 : Loi du 9 décembre 1862 portant révision de l''ordonnance royale grand-ducale du 30 juin 1857 sur le notariat.'
+valid_from: '1976-12-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/consolide/19761227/fr'
+source_sha256: '2c74d6c81dbff47b2a32c68649db558b50c4394970011c7b6b446562923aae98'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er_19761227"></a>

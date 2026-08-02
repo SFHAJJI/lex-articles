@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-2006-02-14-n3:2015-07-28
-title: Version consolidée applicable au 28/07/2015 : Règlement ministériel du 14 février 2006 déterminant certaines exigences techniques relatives au sang et aux composants sanguins.
-valid_from: 2015-07-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/20150728/fr
-source_sha256: 008201d32ccc36d5a439cee83d07cef21f464cf877d69a0f398b6879efa33bf8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-2006-02-14-n3:2015-07-28'
+title: 'Version consolidée applicable au 28/07/2015 : Règlement ministériel du 14 février 2006 déterminant certaines exigences techniques relatives au sang et aux composants sanguins.'
+valid_from: '2015-07-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/20150728/fr'
+source_sha256: '008201d32ccc36d5a439cee83d07cef21f464cf877d69a0f398b6879efa33bf8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

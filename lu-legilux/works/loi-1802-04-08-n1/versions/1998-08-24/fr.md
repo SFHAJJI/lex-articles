@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1802-04-08-n1:1998-08-24
-title: Version consolidée applicable au 01/05/2018 : Loi du 18 Germinal an X (8 avril 1802) relative à l'organisation des Cultes. (N° 1344)
-valid_from: 1998-08-24
-valid_to: 2018-04-30
-source: https://legilux.public.lu/eli/etat/leg/loi/1802/04/08/n1/consolide/19980824/fr
-source_sha256: 496ae72795047001036e62963df051613ff91d18e95b98b23e521aa5e379f0f4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1802-04-08-n1:1998-08-24'
+title: 'Version consolidée applicable au 01/05/2018 : Loi du 18 Germinal an X (8 avril 1802) relative à l''organisation des Cultes. (N° 1344)'
+valid_from: '1998-08-24'
+valid_to: '2018-04-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1802/04/08/n1/consolide/19980824/fr'
+source_sha256: '496ae72795047001036e62963df051613ff91d18e95b98b23e521aa5e379f0f4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_ier"></a>

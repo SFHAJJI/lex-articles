@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1974-03-26-n1:2007-01-01
-title: Version consolidée applicable au 01/01/2007 : Loi du 26 mars 1974 portant fixation de suppléments de pension à allouer aux personnes devenues victimes d'actes illégaux de l'occupant en cas d'invalidité ou de décès précoces.
-valid_from: 2007-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1974/03/26/n1/consolide/20070101/fr
-source_sha256: 47dcb93392789374e04e5ec5ba69623b0400a91cd446f31948e3f9c43f08c47b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1974-03-26-n1:2007-01-01'
+title: 'Version consolidée applicable au 01/01/2007 : Loi du 26 mars 1974 portant fixation de suppléments de pension à allouer aux personnes devenues victimes d''actes illégaux de l''occupant en cas d''invalidité ou de décès précoces.'
+valid_from: '2007-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1974/03/26/n1/consolide/20070101/fr'
+source_sha256: '47dcb93392789374e04e5ec5ba69623b0400a91cd446f31948e3f9c43f08c47b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

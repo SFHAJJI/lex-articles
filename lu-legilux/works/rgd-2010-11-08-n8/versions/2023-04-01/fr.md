@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-11-08-n8:2023-04-01
-title: Version consolidée applicable au 01/04/2023 : Règlement grand-ducal du 8 novembre 2010 portant exécution de la loi du 18 décembre 2009 organisant l'aide sociale.
-valid_from: 2023-04-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/11/08/n8/consolide/20230401/fr
-source_sha256: f47b713458de437e4fb9d164cbdb75a0bfd2c89adf93e7899b788b61525f18b2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-11-08-n8:2023-04-01'
+title: 'Version consolidée applicable au 01/04/2023 : Règlement grand-ducal du 8 novembre 2010 portant exécution de la loi du 18 décembre 2009 organisant l''aide sociale.'
+valid_from: '2023-04-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/11/08/n8/consolide/20230401/fr'
+source_sha256: 'f47b713458de437e4fb9d164cbdb75a0bfd2c89adf93e7899b788b61525f18b2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

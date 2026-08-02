@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-04-25-a330:2023-09-09
-title: Version consolidée applicable au 09/09/2023 : Règlement grand-ducal du 25 avril 2018 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive auprès de l’Administration des services techniques de l’agriculture.
-valid_from: 2023-09-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/04/25/a330/consolide/20230909/fr
-source_sha256: 000d541b054903f09ba18d7b8fa1127f844f78cbb4d982594cbddc078d0b34f4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-04-25-a330:2023-09-09'
+title: 'Version consolidée applicable au 09/09/2023 : Règlement grand-ducal du 25 avril 2018 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive auprès de l’Administration des services techniques de l’agriculture.'
+valid_from: '2023-09-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/04/25/a330/consolide/20230909/fr'
+source_sha256: '000d541b054903f09ba18d7b8fa1127f844f78cbb4d982594cbddc078d0b34f4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Structuration de la formation spéciale**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-07-25-n1:2025-06-17
-title: Loi du 25 juillet 2015 relative à l'archivage électronique.
-valid_from: 2025-06-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n1/consolide/20250617/fr
-source_sha256: 0d2da3684df1fb5f095d1829919aebf7422bc5045ac01806bdb1debc0a2948eb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-07-25-n1:2025-06-17'
+title: 'Loi du 25 juillet 2015 relative à l''archivage électronique.'
+valid_from: '2025-06-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n1/consolide/20250617/fr'
+source_sha256: '0d2da3684df1fb5f095d1829919aebf7422bc5045ac01806bdb1debc0a2948eb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er.** — ***Dispositions générales relatives à la dématérialisation et à la conservation.***

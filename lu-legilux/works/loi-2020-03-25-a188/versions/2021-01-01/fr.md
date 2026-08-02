@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-03-25-a188:2021-01-01
-title: Version consolidée applicable au 01/05/2024 : Loi du 25 mars 2020 portant création du Fonds spécial pour le logement abordable.
-valid_from: 2021-01-01
-valid_to: 2022-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a188/consolide/20210101/fr
-source_sha256: 67671bd8daee302be97c935fab3ca017da1831c58bd41a85ba8b6157aac99946
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-03-25-a188:2021-01-01'
+title: 'Version consolidée applicable au 01/05/2024 : Loi du 25 mars 2020 portant création du Fonds spécial pour le logement abordable.'
+valid_from: '2021-01-01'
+valid_to: '2022-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a188/consolide/20210101/fr'
+source_sha256: '67671bd8daee302be97c935fab3ca017da1831c58bd41a85ba8b6157aac99946'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

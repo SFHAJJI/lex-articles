@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-12-18-n17:2017-07-01
-title: Version consolidée applicable au 01/07/2017 : Règlement grand-ducal du 18 décembre 2009 déterminant les conditions de reconnaissance des prestataires d’autres Etats membres pour exercer par la voie de la libre prestation de service toutes missions qui sont confiées par la loi à titre exclusif aux réviseurs d’entreprises.
-valid_from: 2017-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/consolide/20170701/fr
-source_sha256: 618416cbe9a4921489ed19cca3abef088b1da9f66d4f9b576ad022edc42729e3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-12-18-n17:2017-07-01'
+title: 'Version consolidée applicable au 01/07/2017 : Règlement grand-ducal du 18 décembre 2009 déterminant les conditions de reconnaissance des prestataires d’autres Etats membres pour exercer par la voie de la libre prestation de service toutes missions qui sont confiées par la loi à titre exclusif aux réviseurs d’entreprises.'
+valid_from: '2017-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/consolide/20170701/fr'
+source_sha256: '618416cbe9a4921489ed19cca3abef088b1da9f66d4f9b576ad022edc42729e3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

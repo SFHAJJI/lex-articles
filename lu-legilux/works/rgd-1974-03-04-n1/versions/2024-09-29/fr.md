@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1974-03-04-n1:2024-09-29
-title: Version consolidée applicable au 29/09/2024 : Règlement grand-ducal du 4 mars 1974 concernant certaines substances toxiques.
-valid_from: 2024-09-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1974/03/04/n1/consolide/20240929/fr
-source_sha256: e2e0ed1de242a837cdb069689dee3362c99e1ecc8e7e01f89bdeea65e0bc488d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1974-03-04-n1:2024-09-29'
+title: 'Version consolidée applicable au 29/09/2024 : Règlement grand-ducal du 4 mars 1974 concernant certaines substances toxiques.'
+valid_from: '2024-09-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1974/03/04/n1/consolide/20240929/fr'
+source_sha256: 'e2e0ed1de242a837cdb069689dee3362c99e1ecc8e7e01f89bdeea65e0bc488d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

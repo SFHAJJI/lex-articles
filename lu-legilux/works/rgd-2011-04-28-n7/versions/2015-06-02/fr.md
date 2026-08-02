@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-04-28-n7:2015-06-02
-title: Version consolidée applicable au 02/06/2015 : Règlement grand-ducal du 28 avril 2011 déterminant l’organisation de l’Administration des Ponts et Chaussées.
-valid_from: 2015-06-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/04/28/n7/consolide/20150602/fr
-source_sha256: a94673530acd41f3b9345e165a2eea768dd035b358658ef0e7e903163af1c6e0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-04-28-n7:2015-06-02'
+title: 'Version consolidée applicable au 02/06/2015 : Règlement grand-ducal du 28 avril 2011 déterminant l’organisation de l’Administration des Ponts et Chaussées.'
+valid_from: '2015-06-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/04/28/n7/consolide/20150602/fr'
+source_sha256: 'a94673530acd41f3b9345e165a2eea768dd035b358658ef0e7e903163af1c6e0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

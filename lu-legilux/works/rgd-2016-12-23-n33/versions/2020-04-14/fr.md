@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-12-23-n33:2020-04-14
-title: Version consolidée applicable au 14/04/2020 : Règlement grand-ducal du 23 décembre 2016 concernant les subsides accordés aux clubs sportifs affiliés auprès d'une fédération sportive agréée.
-valid_from: 2020-04-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/consolide/20200414/fr
-source_sha256: 8e80d17aaef7df77e141232655633c885e19370a5c2c0f6abd73b27f58c3f799
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-12-23-n33:2020-04-14'
+title: 'Version consolidée applicable au 14/04/2020 : Règlement grand-ducal du 23 décembre 2016 concernant les subsides accordés aux clubs sportifs affiliés auprès d''une fédération sportive agréée.'
+valid_from: '2020-04-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/consolide/20200414/fr'
+source_sha256: '8e80d17aaef7df77e141232655633c885e19370a5c2c0f6abd73b27f58c3f799'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er: — Champ d’application

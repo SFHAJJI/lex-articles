@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agc-2025-04-04-a132:2025-04-13
-title: Version rectifiée applicable au 13/04/2025 : Arrêté du Gouvernement en Conseil du 4 avril 2025 portant institution d’un comité interministériel de coordination en matière de cyberprévention et de cybersécurité.
-valid_from: 2025-04-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agc/2025/04/04/a132/consolide/20250413/fr
-source_sha256: 837769bb487c2ed3e393e28f390fa9fd849d5dd650f1045b9772a1deddd1665f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agc-2025-04-04-a132:2025-04-13'
+title: 'Version rectifiée applicable au 13/04/2025 : Arrêté du Gouvernement en Conseil du 4 avril 2025 portant institution d’un comité interministériel de coordination en matière de cyberprévention et de cybersécurité.'
+valid_from: '2025-04-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agc/2025/04/04/a132/consolide/20250413/fr'
+source_sha256: '837769bb487c2ed3e393e28f390fa9fd849d5dd650f1045b9772a1deddd1665f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

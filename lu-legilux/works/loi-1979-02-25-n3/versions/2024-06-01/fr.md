@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1979-02-25-n3:2024-06-01
-title: Version consolidée applicable au 01/06/2024 : Loi du 25 février 1979 concernant l'aide au logement.
-valid_from: 2024-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1979/02/25/n3/consolide/20240601/fr
-source_sha256: 9f14d8e41a27deee08a61061550f02f464f0eb86c7cf327e9a7c80fd1d8ccc46
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1979-02-25-n3:2024-06-01'
+title: 'Version consolidée applicable au 01/06/2024 : Loi du 25 février 1979 concernant l''aide au logement.'
+valid_from: '2024-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/02/25/n3/consolide/20240601/fr'
+source_sha256: '9f14d8e41a27deee08a61061550f02f464f0eb86c7cf327e9a7c80fd1d8ccc46'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 2*sexies*. — Certification de la durabilité des logements

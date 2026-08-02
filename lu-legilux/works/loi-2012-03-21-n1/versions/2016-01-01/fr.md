@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2012-03-21-n1:2016-01-01
-title: Loi du 21 mars 2012 relative aux déchets.
-valid_from: 2016-01-01
-valid_to: 2022-06-13
-source: https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20160101/fr
-source_sha256: 7726f58767873c76044065a0716e0d6629c04c9898d99c8856c9daa9d3fb6311
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2012-03-21-n1:2016-01-01'
+title: 'Loi du 21 mars 2012 relative aux déchets.'
+valid_from: '2016-01-01'
+valid_to: '2022-06-13'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20160101/fr'
+source_sha256: '7726f58767873c76044065a0716e0d6629c04c9898d99c8856c9daa9d3fb6311'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier: — Objet, champ d'application, compétences et définitions

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-07-01-n1:2014-04-18
-title: Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 1er juillet 2009 fixant les conditions et modalités selon lesquelles les fonctionnaires de la carrière supérieure de l'enseignement peuvent accéder aux grades de substitution prévus à l'article 22, section VII, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État.
-valid_from: 2014-04-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/07/01/n1/consolide/20140418/fr
-source_sha256: 83fe9ba2fdb0cd2a6179657e5b9dd79128aab5829dd93b9c366e3a6f1f5486bf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-07-01-n1:2014-04-18'
+title: 'Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 1er juillet 2009 fixant les conditions et modalités selon lesquelles les fonctionnaires de la carrière supérieure de l''enseignement peuvent accéder aux grades de substitution prévus à l''article 22, section VII, de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l''État.'
+valid_from: '2014-04-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/07/01/n1/consolide/20140418/fr'
+source_sha256: '83fe9ba2fdb0cd2a6179657e5b9dd79128aab5829dd93b9c366e3a6f1f5486bf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Généralités

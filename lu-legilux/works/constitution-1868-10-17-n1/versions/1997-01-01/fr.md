@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:constitution-1868-10-17-n1:1997-01-01
-title: Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.
-valid_from: 1997-01-01
-valid_to: 1998-01-23
-source: https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19970101/fr
-source_sha256: baea93c3f524351490d4c395697bffe5cc2227faeef7c7430bd9aef44cfd4f91
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:constitution-1868-10-17-n1:1997-01-01'
+title: 'Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.'
+valid_from: '1997-01-01'
+valid_to: '1998-01-23'
+source: 'https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19970101/fr'
+source_sha256: 'baea93c3f524351490d4c395697bffe5cc2227faeef7c7430bd9aef44cfd4f91'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier. ** — ***Du Territoire et du Roi Grand-Duc.*

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1987-07-07-n5:2026-07-31
-title: Version consolidée applicable au 31/07/2026 : Règlement grand-ducal du 7 juillet 1987 concernant l'organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l'administration de l'emploi en matière d'indemnisation du chômage complet.
-valid_from: 2026-07-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/consolide/20260731/fr
-source_sha256: f6cff74947624afb6b9f2aad9a015ef62009d6269124bf31e0728ec72f73fe7c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1987-07-07-n5:2026-07-31'
+title: 'Version consolidée applicable au 31/07/2026 : Règlement grand-ducal du 7 juillet 1987 concernant l''organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l''administration de l''emploi en matière d''indemnisation du chômage complet.'
+valid_from: '2026-07-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/consolide/20260731/fr'
+source_sha256: 'f6cff74947624afb6b9f2aad9a015ef62009d6269124bf31e0728ec72f73fe7c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

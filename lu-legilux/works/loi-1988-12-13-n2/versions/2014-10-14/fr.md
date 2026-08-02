@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1988-12-13-n2:2014-10-14
-title: Version consolidée applicable au 14/10/2014 : Loi du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d’investissement audiovisuel.
-valid_from: 2014-10-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/consolide/20141014/fr
-source_sha256: c0c7b2ef914e5acde0a7f2596dadd64326e7fbabe0ecbcad2b7e6f8d1d9538ff
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1988-12-13-n2:2014-10-14'
+title: 'Version consolidée applicable au 14/10/2014 : Loi du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d’investissement audiovisuel.'
+valid_from: '2014-10-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/consolide/20141014/fr'
+source_sha256: 'c0c7b2ef914e5acde0a7f2596dadd64326e7fbabe0ecbcad2b7e6f8d1d9538ff'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

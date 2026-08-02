@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1978-03-31-n1:1986-11-01
-title: Version consolidée applicable au 01/11/1986 : Règlement grand-ducal du 31 mars 1978 portant détermination des catégories des fonctionnaires de l'administration des douanes bénéficiant de la prime d'astreinte et fixation du montant de ladite prime.
-valid_from: 1986-11-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1978/03/31/n1/consolide/19861101/fr
-source_sha256: 012c34597b0c2a6070d0deb0e262a1c9d11bc092d6fc98224936884ecbd96c26
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1978-03-31-n1:1986-11-01'
+title: 'Version consolidée applicable au 01/11/1986 : Règlement grand-ducal du 31 mars 1978 portant détermination des catégories des fonctionnaires de l''administration des douanes bénéficiant de la prime d''astreinte et fixation du montant de ladite prime.'
+valid_from: '1986-11-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1978/03/31/n1/consolide/19861101/fr'
+source_sha256: '012c34597b0c2a6070d0deb0e262a1c9d11bc092d6fc98224936884ecbd96c26'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

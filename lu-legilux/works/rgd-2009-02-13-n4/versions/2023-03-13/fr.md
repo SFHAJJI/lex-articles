@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-02-13-n4:2023-03-13
-title: Version consolidée applicable au 13/03/2023 : Règlement grand-ducal du 13 février 2009 arrêtant les maxima des indemnités des bourgmestres et des échevins.
-valid_from: 2023-03-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n4/consolide/20230313/fr
-source_sha256: b5bb5ad456b541b21efbee793bf3b68dd8c2084e5f137cc2d1960eb63461f1da
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-02-13-n4:2023-03-13'
+title: 'Version consolidée applicable au 13/03/2023 : Règlement grand-ducal du 13 février 2009 arrêtant les maxima des indemnités des bourgmestres et des échevins.'
+valid_from: '2023-03-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n4/consolide/20230313/fr'
+source_sha256: 'b5bb5ad456b541b21efbee793bf3b68dd8c2084e5f137cc2d1960eb63461f1da'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-08-27-n3:2025-01-01
-title: Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 27 août 2013 concernant la composition, l’organisation et le fonctionnement du Conseil supérieur de l’aménagement du territoire.
-valid_from: 2025-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/08/27/n3/consolide/20250101/fr
-source_sha256: 2286e8baa4a3e355a9f5113afae1709aabccb774acb4ba055958a27327e85268
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-08-27-n3:2025-01-01'
+title: 'Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 27 août 2013 concernant la composition, l’organisation et le fonctionnement du Conseil supérieur de l’aménagement du territoire.'
+valid_from: '2025-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/08/27/n3/consolide/20250101/fr'
+source_sha256: '2286e8baa4a3e355a9f5113afae1709aabccb774acb4ba055958a27327e85268'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

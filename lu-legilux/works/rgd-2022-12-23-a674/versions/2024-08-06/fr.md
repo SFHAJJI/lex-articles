@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-12-23-a674:2024-08-06
-title: Version consolidée applicable au 06/08/2024 : Règlement grand-ducal du 23 décembre 2022 modifiant le règlement grand-ducal modifié du 31 mars 2010 relatif au mécanisme de compensation dans le cadre de l’organisation du marché de l’électricité.
-valid_from: 2024-08-06
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a674/consolide/20240806/fr
-source_sha256: 491835c7f53813185f0ffd9209a11c3ab36111d6fd86b42aa30b238931fa2b0c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-12-23-a674:2024-08-06'
+title: 'Version consolidée applicable au 06/08/2024 : Règlement grand-ducal du 23 décembre 2022 modifiant le règlement grand-ducal modifié du 31 mars 2010 relatif au mécanisme de compensation dans le cadre de l’organisation du marché de l’électricité.'
+valid_from: '2024-08-06'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a674/consolide/20240806/fr'
+source_sha256: '491835c7f53813185f0ffd9209a11c3ab36111d6fd86b42aa30b238931fa2b0c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

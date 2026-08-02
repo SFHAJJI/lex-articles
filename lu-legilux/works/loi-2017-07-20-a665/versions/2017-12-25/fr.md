@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2017-07-20-a665:2017-12-25
-title: Version consolidée applicable au 04/01/2026 : Loi du 20 juillet 2017 ayant pour objet la mise en place d'un régime d'aide à l'investissement à finalité régionale.
-valid_from: 2017-12-25
-valid_to: 2020-12-20
-source: https://legilux.public.lu/eli/etat/leg/loi/2017/07/20/a665/consolide/20171225/fr
-source_sha256: cfaa1b3fa8252195bb21548ee815d4ceffb3946c3555222065095d6d5737ca54
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2017-07-20-a665:2017-12-25'
+title: 'Version consolidée applicable au 04/01/2026 : Loi du 20 juillet 2017 ayant pour objet la mise en place d''un régime d''aide à l''investissement à finalité régionale.'
+valid_from: '2017-12-25'
+valid_to: '2020-12-20'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2017/07/20/a665/consolide/20171225/fr'
+source_sha256: 'cfaa1b3fa8252195bb21548ee815d4ceffb3946c3555222065095d6d5737ca54'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

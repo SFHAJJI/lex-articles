@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-05-06-n4:2013-01-01
-title: Version consolidée applicable au 01/01/2013 : Règlement grand-ducal du 6 mai 2004 relatif aux dotations fiscales du fonds pour l'emploi.
-valid_from: 2013-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/consolide/20130101/fr
-source_sha256: 7d4f23dd5d03b385a0ab6e5b99ece659951c4e1259bc5a120e3782778bc0765c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-05-06-n4:2013-01-01'
+title: 'Version consolidée applicable au 01/01/2013 : Règlement grand-ducal du 6 mai 2004 relatif aux dotations fiscales du fonds pour l''emploi.'
+valid_from: '2013-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/consolide/20130101/fr'
+source_sha256: '7d4f23dd5d03b385a0ab6e5b99ece659951c4e1259bc5a120e3782778bc0765c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

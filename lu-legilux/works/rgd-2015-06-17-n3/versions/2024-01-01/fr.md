@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-06-17-n3:2024-01-01
-title: Version consolidée applicable au 01/10/2024 : Règlement grand-ducal du 17 juin 2015 portant exécution des articles 6, 7, 8 et 40 de la loi du 10 février 2015 relative à l’organisation du marché de produits pétroliers.
-valid_from: 2024-01-01
-valid_to: 2024-09-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/06/17/n3/consolide/20240101/fr
-source_sha256: 9983504ad8cfb969fb379b173639da95d6be66e1602efff1be922e1d521537fd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-06-17-n3:2024-01-01'
+title: 'Version consolidée applicable au 01/10/2024 : Règlement grand-ducal du 17 juin 2015 portant exécution des articles 6, 7, 8 et 40 de la loi du 10 février 2015 relative à l’organisation du marché de produits pétroliers.'
+valid_from: '2024-01-01'
+valid_to: '2024-09-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/06/17/n3/consolide/20240101/fr'
+source_sha256: '9983504ad8cfb969fb379b173639da95d6be66e1602efff1be922e1d521537fd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier — Champ d’application

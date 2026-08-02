@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1984-01-24-n4:2009-10-20
-title: Version consolidée applicable au 20/10/2009 : Règlement grand-ducal relatif au service national de coordination pour le prélèvement d'organes.
-valid_from: 2009-10-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1984/01/24/n4/consolide/20091020/fr
-source_sha256: 81f359b55c4f2fd7e786bf3440498c785b3eea762a77a11a1eae67ae447c66da
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1984-01-24-n4:2009-10-20'
+title: 'Version consolidée applicable au 20/10/2009 : Règlement grand-ducal relatif au service national de coordination pour le prélèvement d''organes.'
+valid_from: '2009-10-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1984/01/24/n4/consolide/20091020/fr'
+source_sha256: '81f359b55c4f2fd7e786bf3440498c785b3eea762a77a11a1eae67ae447c66da'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

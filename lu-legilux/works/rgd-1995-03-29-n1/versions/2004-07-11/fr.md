@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1995-03-29-n1:2004-07-11
-title: Version consolidée applicable au 02/07/2007 : Règlement grand-ducal du 29 mars 1995 portant détermination des modalités de désignation des représentants des étrangers au Conseil National pour Etrangers, ainsi que leur répartition par nationalités.
-valid_from: 2004-07-11
-valid_to: 2007-07-01
-source: https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20040711/fr
-source_sha256: 438a47720838f3ba999adca01d1dd0f091eada3f28bd1eb50783a0f339cffd61
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1995-03-29-n1:2004-07-11'
+title: 'Version consolidée applicable au 02/07/2007 : Règlement grand-ducal du 29 mars 1995 portant détermination des modalités de désignation des représentants des étrangers au Conseil National pour Etrangers, ainsi que leur répartition par nationalités.'
+valid_from: '2004-07-11'
+valid_to: '2007-07-01'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20040711/fr'
+source_sha256: '438a47720838f3ba999adca01d1dd0f091eada3f28bd1eb50783a0f339cffd61'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

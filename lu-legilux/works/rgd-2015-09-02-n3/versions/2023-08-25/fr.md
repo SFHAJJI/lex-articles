@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-09-02-n3:2023-08-25
-title: Version consolidée applicable au 25/08/2023 : Règlement grand-ducal du 2 septembre 2015 déterminant la mission, la composition et le fonctionnement de la commission consultative concernant a) les demandes d'admission au bénéfice des aides de soutien pour les artistes professionnels indépendants et les intermittents du spectacle ; b) les demandes en obtention d’une bourse d’aide à la création artistique et au développement professionnel des artistes ; c) les demandes en obtention d’une bourse de relève.
-valid_from: 2023-08-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n3/consolide/20230825/fr
-source_sha256: de6c5533103450c01cf714731cb5530f39b9eeea032a6858f03acef60c6f08bd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-09-02-n3:2023-08-25'
+title: 'Version consolidée applicable au 25/08/2023 : Règlement grand-ducal du 2 septembre 2015 déterminant la mission, la composition et le fonctionnement de la commission consultative concernant a) les demandes d''admission au bénéfice des aides de soutien pour les artistes professionnels indépendants et les intermittents du spectacle ; b) les demandes en obtention d’une bourse d’aide à la création artistique et au développement professionnel des artistes ; c) les demandes en obtention d’une bourse de relève.'
+valid_from: '2023-08-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n3/consolide/20230825/fr'
+source_sha256: 'de6c5533103450c01cf714731cb5530f39b9eeea032a6858f03acef60c6f08bd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

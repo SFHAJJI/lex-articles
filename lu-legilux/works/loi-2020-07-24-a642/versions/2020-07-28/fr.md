@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-07-24-a642:2020-07-28
-title: Version consolidée applicable au 28/07/2020 : Loi du 24 juillet 2020 ayant pour objet la mise en place d’un régime d’aide temporaire en faveur du commerce de détail en magasin.
-valid_from: 2020-07-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a642/consolide/20200728/fr
-source_sha256: 2560435083f72594fdbcfaba857b614099acf615ce35d9562c37c3ee3b25cdd5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-07-24-a642:2020-07-28'
+title: 'Version consolidée applicable au 28/07/2020 : Loi du 24 juillet 2020 ayant pour objet la mise en place d’un régime d’aide temporaire en faveur du commerce de détail en magasin.'
+valid_from: '2020-07-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a642/consolide/20200728/fr'
+source_sha256: '2560435083f72594fdbcfaba857b614099acf615ce35d9562c37c3ee3b25cdd5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

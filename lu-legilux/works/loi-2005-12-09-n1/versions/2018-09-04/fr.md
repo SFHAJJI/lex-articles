@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-12-09-n1:2018-09-04
-title: Version consolidée applicable au 15/12/2024 : Loi du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'Etat.
-valid_from: 2018-09-04
-valid_to: 2022-07-02
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/12/09/n1/consolide/20180904/fr
-source_sha256: 0f06b4819273bda13d629c6b38275c000b7a3b0020211428f701fee8ae0f9300
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-12-09-n1:2018-09-04'
+title: 'Version consolidée applicable au 15/12/2024 : Loi du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l''Etat.'
+valid_from: '2018-09-04'
+valid_to: '2022-07-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/12/09/n1/consolide/20180904/fr'
+source_sha256: '0f06b4819273bda13d629c6b38275c000b7a3b0020211428f701fee8ae0f9300'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-06-15-a551:2026-08-01
-title: Version consolidée applicable au 01/08/2026 : Règlement grand-ducal du 15 juin 2018 fixant les conditions et modalités d’accès du fonctionnaire communal à un groupe de traitement supérieur au sien et de l’employé communal à un groupe d’indemnité supérieur au sien.
-valid_from: 2026-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551/consolide/20260801/fr
-source_sha256: 0c01dd1d214e7d588dc3427e1bd215c3b033c608e684a380e3645cb789bc6e59
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-06-15-a551:2026-08-01'
+title: 'Version consolidée applicable au 01/08/2026 : Règlement grand-ducal du 15 juin 2018 fixant les conditions et modalités d’accès du fonctionnaire communal à un groupe de traitement supérieur au sien et de l’employé communal à un groupe d’indemnité supérieur au sien.'
+valid_from: '2026-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551/consolide/20260801/fr'
+source_sha256: '0c01dd1d214e7d588dc3427e1bd215c3b033c608e684a380e3645cb789bc6e59'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er**. — **Définition et champ d’application**

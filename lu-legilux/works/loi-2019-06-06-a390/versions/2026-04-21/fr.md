@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-06-06-a390:2026-04-21
-title: Loi relative à la gestion, à l’accès, à l’utilisation de l’infrastructure ferroviaire et à la régulation du marché ferroviaire.
-valid_from: 2026-04-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/consolide/20260421/fr
-source_sha256: 79e6d0b1a37196925cc128ee21ddd1e48233cb8db995a4a6daa9364ce99eaa1e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-06-06-a390:2026-04-21'
+title: 'Loi relative à la gestion, à l’accès, à l’utilisation de l’infrastructure ferroviaire et à la régulation du marché ferroviaire.'
+valid_from: '2026-04-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/consolide/20260421/fr'
+source_sha256: '79e6d0b1a37196925cc128ee21ddd1e48233cb8db995a4a6daa9364ce99eaa1e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier** — **Généralités**

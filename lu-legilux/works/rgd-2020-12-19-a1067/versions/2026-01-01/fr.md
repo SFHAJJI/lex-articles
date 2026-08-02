@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-12-19-a1067:2026-01-01
-title: Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 19 décembre 2020 portant exécution de l’article 143 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu et abrogeant le règlement grand-ducal modifié du 21 décembre 2012 remplaçant le règlement grand-ducal modifié du 21 décembre 2007 portant exécution de l’article 143 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
-valid_from: 2026-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/12/19/a1067/consolide/20260101/fr
-source_sha256: 94241109dc50cb91f66fc6bd401d19b2576acfc0f3a0f6758028748ee9739a6f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-12-19-a1067:2026-01-01'
+title: 'Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 19 décembre 2020 portant exécution de l’article 143 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu et abrogeant le règlement grand-ducal modifié du 21 décembre 2012 remplaçant le règlement grand-ducal modifié du 21 décembre 2007 portant exécution de l’article 143 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.'
+valid_from: '2026-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/12/19/a1067/consolide/20260101/fr'
+source_sha256: '94241109dc50cb91f66fc6bd401d19b2576acfc0f3a0f6758028748ee9739a6f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Définitions**

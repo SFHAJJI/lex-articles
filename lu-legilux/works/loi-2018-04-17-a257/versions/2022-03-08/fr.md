@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-04-17-a257:2022-03-08
-title: Loi du 17 avril 2018 relative aux indices de référence.
-valid_from: 2022-03-08
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257/consolide/20220308/fr
-source_sha256: 2266bc7201965c29045447f35f9cbd2837a42c1a2350649587528d00c0fad1f6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-04-17-a257:2022-03-08'
+title: 'Loi du 17 avril 2018 relative aux indices de référence.'
+valid_from: '2022-03-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257/consolide/20220308/fr'
+source_sha256: '2266bc7201965c29045447f35f9cbd2837a42c1a2350649587528d00c0fad1f6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Indices utilisés comme indices de référence dans le cadre d'instruments et de contrats financiers ou pour mesurer la performance de fonds d'investissement**

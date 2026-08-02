@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2010-11-10-n1:2018-07-09
-title: Version consolidée applicable au 09/07/2018 : Loi du 10 novembre 2010 relative aux recours en matière de marchés publics et d’attribution de contrats de concession.
-valid_from: 2018-07-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20180709/fr
-source_sha256: 56f89df57df98a481b64dc988b9c4f15fe75071f2bad0d3169c4b11d155a48e6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2010-11-10-n1:2018-07-09'
+title: 'Version consolidée applicable au 09/07/2018 : Loi du 10 novembre 2010 relative aux recours en matière de marchés publics et d’attribution de contrats de concession.'
+valid_from: '2018-07-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20180709/fr'
+source_sha256: '56f89df57df98a481b64dc988b9c4f15fe75071f2bad0d3169c4b11d155a48e6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I — Dispositions générales

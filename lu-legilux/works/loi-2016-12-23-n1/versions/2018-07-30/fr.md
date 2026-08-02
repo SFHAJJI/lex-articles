@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-12-23-n1:2018-07-30
-title: Version consolidée applicable au 25/11/2025 : Loi du 23 décembre 2016 sur les ventes en soldes et sur trottoir et la publicité trompeuse et comparative.
-valid_from: 2018-07-30
-valid_to: 2021-12-05
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20180730/fr
-source_sha256: b8afedb4c60a475f94473d2a5f696551a7aabef3a22de8d2588b53e39eec16b6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-12-23-n1:2018-07-30'
+title: 'Version consolidée applicable au 25/11/2025 : Loi du 23 décembre 2016 sur les ventes en soldes et sur trottoir et la publicité trompeuse et comparative.'
+valid_from: '2018-07-30'
+valid_to: '2021-12-05'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20180730/fr'
+source_sha256: 'b8afedb4c60a475f94473d2a5f696551a7aabef3a22de8d2588b53e39eec16b6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Des ventes en solde et sur trottoir.**

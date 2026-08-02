@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1998-08-03-n10:2024-03-09
-title: Version consolidée applicable au 01/01/2026 : Loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.
-valid_from: 2024-03-09
-valid_to: 2025-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1998/08/03/n10/consolide/20240309/fr
-source_sha256: b9a91ba588360b79a022c748273eb9ad279106576c7e2cf3777465f89f000c3d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1998-08-03-n10:2024-03-09'
+title: 'Version consolidée applicable au 01/01/2026 : Loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l''Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.'
+valid_from: '2024-03-09'
+valid_to: '2025-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1998/08/03/n10/consolide/20240309/fr'
+source_sha256: 'b9a91ba588360b79a022c748273eb9ad279106576c7e2cf3777465f89f000c3d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier** — **Du régime de pension spécial des fonctionnaires de l’Etat**

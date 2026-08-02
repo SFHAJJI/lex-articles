@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1991-07-27-n1:2024-08-05
-title: Version consolidée applicable au 25/11/2025 : Loi du 27 juillet 1991 sur les médias électroniques.
-valid_from: 2024-08-05
-valid_to: 2025-11-24
-source: https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/consolide/20240805/fr
-source_sha256: 3848f5a4db4f4f66cf0025133b06ed43a1a38424a3723a033d730f987b9ea47e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1991-07-27-n1:2024-08-05'
+title: 'Version consolidée applicable au 25/11/2025 : Loi du 27 juillet 1991 sur les médias électroniques.'
+valid_from: '2024-08-05'
+valid_to: '2025-11-24'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/consolide/20240805/fr'
+source_sha256: '3848f5a4db4f4f66cf0025133b06ed43a1a38424a3723a033d730f987b9ea47e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier.- — De l’objet de la loi et des définitions

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-11-15-n3:2020-01-01
-title: Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 15 novembre 2011 déterminant les modalités de désignation, de reconduction, de changement et de remplacement en cas d'absence du médecin référent.
-valid_from: 2020-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n3/consolide/20200101/fr
-source_sha256: df1ce3fd6a4dca965916410d6238161eb6c1b0dfb764a2f924d98573dc478a35
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-11-15-n3:2020-01-01'
+title: 'Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 15 novembre 2011 déterminant les modalités de désignation, de reconduction, de changement et de remplacement en cas d''absence du médecin référent.'
+valid_from: '2020-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n3/consolide/20200101/fr'
+source_sha256: 'df1ce3fd6a4dca965916410d6238161eb6c1b0dfb764a2f924d98573dc478a35'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

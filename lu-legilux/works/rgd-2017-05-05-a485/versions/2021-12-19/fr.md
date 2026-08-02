@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-05-05-a485:2021-12-19
-title: Version consolidée applicable au 19/12/2021 : Règlement grand-ducal du 5 mai 2017, 1. portant exécution de la loi du 5 mai 2017 concernant certaines modalités d’application et les sanctions du règlement (UE) n° 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et à l’utilisation de précurseurs d’explosifs, modifiant le règlement (CE) n° 1907/2006 et abrogeant le règlement (UE) n° 98/2013 ; 2. relatif à la formation et au contrôle des connaissances des fonctionnaires chargés de constater les infractions au règlement (UE) n° 2019/1148.
-valid_from: 2021-12-19
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/consolide/20211219/fr
-source_sha256: e4b1d83b4b2b7189e78c8510cb8cd9c4f63d2f5d0574518c0962c86836c3f00a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-05-05-a485:2021-12-19'
+title: 'Version consolidée applicable au 19/12/2021 : Règlement grand-ducal du 5 mai 2017, 1. portant exécution de la loi du 5 mai 2017 concernant certaines modalités d’application et les sanctions du règlement (UE) n° 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et à l’utilisation de précurseurs d’explosifs, modifiant le règlement (CE) n° 1907/2006 et abrogeant le règlement (UE) n° 98/2013 ; 2. relatif à la formation et au contrôle des connaissances des fonctionnaires chargés de constater les infractions au règlement (UE) n° 2019/1148.'
+valid_from: '2021-12-19'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/consolide/20211219/fr'
+source_sha256: 'e4b1d83b4b2b7189e78c8510cb8cd9c4f63d2f5d0574518c0962c86836c3f00a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

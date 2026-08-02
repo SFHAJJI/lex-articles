@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-10-12-a953:2021-05-25
-title: Version consolidée applicable au 20/07/2022 : Règlement grand-ducal du 12 octobre 2018 déterminant la composition et le fonctionnement de la commission consultative chargée de l’examen des demandes d’aides.
-valid_from: 2021-05-25
-valid_to: 2022-07-19
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/consolide/20210525/fr
-source_sha256: db215866aac51ca35b897464e914168a29ee7d757d753154526c04f907f9994f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-10-12-a953:2021-05-25'
+title: 'Version consolidée applicable au 20/07/2022 : Règlement grand-ducal du 12 octobre 2018 déterminant la composition et le fonctionnement de la commission consultative chargée de l’examen des demandes d’aides.'
+valid_from: '2021-05-25'
+valid_to: '2022-07-19'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/consolide/20210525/fr'
+source_sha256: 'db215866aac51ca35b897464e914168a29ee7d757d753154526c04f907f9994f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

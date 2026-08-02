@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-02-06-n3:2029-09-15
-title: Version consolidée applicable au 15/09/2030 : Loi modifiée du 6 février 2009 portant organisation de l'enseignement fondamental.
-valid_from: 2029-09-15
-valid_to: 2030-09-14
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20290915/fr
-source_sha256: b6f4b6c28daa09a230b29a41d1b9cd6bc4512866a0e73ca3bec588c857b573e2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-02-06-n3:2029-09-15'
+title: 'Version consolidée applicable au 15/09/2030 : Loi modifiée du 6 février 2009 portant organisation de l''enseignement fondamental.'
+valid_from: '2029-09-15'
+valid_to: '2030-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20290915/fr'
+source_sha256: 'b6f4b6c28daa09a230b29a41d1b9cd6bc4512866a0e73ca3bec588c857b573e2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Cadre général

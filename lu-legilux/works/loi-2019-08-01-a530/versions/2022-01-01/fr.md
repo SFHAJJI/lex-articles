@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-08-01-a530:2022-01-01
-title: Loi du 1er août 2019 concernant les mutuelles.
-valid_from: 2022-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a530/consolide/20220101/fr
-source_sha256: be3acbff0594bce248995e3d1515f145e15e04e4fec2e226e2cd43d167d35abc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-08-01-a530:2022-01-01'
+title: 'Loi du 1er août 2019 concernant les mutuelles.'
+valid_from: '2022-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a530/consolide/20220101/fr'
+source_sha256: 'be3acbff0594bce248995e3d1515f145e15e04e4fec2e226e2cd43d167d35abc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

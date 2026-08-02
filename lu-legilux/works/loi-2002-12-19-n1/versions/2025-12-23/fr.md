@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2002-12-19-n1:2025-12-23
-title: Loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.
-valid_from: 2025-12-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2002/12/19/n1/consolide/20251223/fr
-source_sha256: a92662cb264ba3fbaa7f03ec83d013877a423d499882a0b923e50bb4a753d702
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2002-12-19-n1:2025-12-23'
+title: 'Loi du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises.'
+valid_from: '2025-12-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2002/12/19/n1/consolide/20251223/fr'
+source_sha256: 'a92662cb264ba3fbaa7f03ec83d013877a423d499882a0b923e50bb4a753d702'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **TITRE I.** — **Du registre de commerce et des sociétés**

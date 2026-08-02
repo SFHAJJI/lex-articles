@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1996-01-08-n1:1998-01-01
-title: Version consolidée applicable au 01/01/1998 : Loi du 8 janvier 1996 modifiant et complétant a) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat; b) la loi modifiée du 22 juin 1963 fixant la valeur numérique des traitements des fonctionnaires de l'Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat; c) la loi du 29 juillet 1988 portant modification et nouvelle coordination de la loi du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat; d) la loi du 23 décembre 1994 concernant le budget des recettes et des dépenses de l'Etat pour l'exercice 1995.
-valid_from: 1998-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1996/01/08/n1/consolide/19980101/fr
-source_sha256: 8df61c137fef9350d3e123c90b07e139dca0378d83d701f2b3a373dafa2a2f64
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1996-01-08-n1:1998-01-01'
+title: 'Version consolidée applicable au 01/01/1998 : Loi du 8 janvier 1996 modifiant et complétant a) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l''Etat; b) la loi modifiée du 22 juin 1963 fixant la valeur numérique des traitements des fonctionnaires de l''Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l''Etat; c) la loi du 29 juillet 1988 portant modification et nouvelle coordination de la loi du 26 mai 1954 réglant les pensions des fonctionnaires de l''Etat; d) la loi du 23 décembre 1994 concernant le budget des recettes et des dépenses de l''Etat pour l''exercice 1995.'
+valid_from: '1998-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1996/01/08/n1/consolide/19980101/fr'
+source_sha256: '8df61c137fef9350d3e123c90b07e139dca0378d83d701f2b3a373dafa2a2f64'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_ier"></a>

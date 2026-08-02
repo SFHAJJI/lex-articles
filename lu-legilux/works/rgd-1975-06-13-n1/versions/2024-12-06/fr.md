@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1975-06-13-n1:2024-12-06
-title: Version consolidée applicable au 06/12/2024 : Règlement grand-ducal du 13 juin 1975 prescrivant les mesures d'exécution de la loi du 16 mai 1975 portant statut de la copropriété des immeubles.
-valid_from: 2024-12-06
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1/consolide/20241206/fr
-source_sha256: 2b82fa9c314eef9d65168e4aebc87d046e1c70c02b79534c1fbafe5a81c16d57
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1975-06-13-n1:2024-12-06'
+title: 'Version consolidée applicable au 06/12/2024 : Règlement grand-ducal du 13 juin 1975 prescrivant les mesures d''exécution de la loi du 16 mai 1975 portant statut de la copropriété des immeubles.'
+valid_from: '2024-12-06'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1/consolide/20241206/fr'
+source_sha256: '2b82fa9c314eef9d65168e4aebc87d046e1c70c02b79534c1fbafe5a81c16d57'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Les assemblées générales de copropriétaires

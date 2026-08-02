@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-07-22-a322:2026-02-23
-title: Version consolidée applicable au 23/02/2026 : Règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.
-valid_from: 2026-02-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/07/22/a322/consolide/20260223/fr
-source_sha256: 940b0fbb07bbf718b022dae35bb013a5ffd5e7845d40656c932375f6e7ca733c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-07-22-a322:2026-02-23'
+title: 'Version consolidée applicable au 23/02/2026 : Règlement grand-ducal du 22 juillet 2024 relatif au régime d’aide à la restructuration et à la reconversion des vignobles.'
+valid_from: '2026-02-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/07/22/a322/consolide/20260223/fr'
+source_sha256: '940b0fbb07bbf718b022dae35bb013a5ffd5e7845d40656c932375f6e7ca733c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions générales

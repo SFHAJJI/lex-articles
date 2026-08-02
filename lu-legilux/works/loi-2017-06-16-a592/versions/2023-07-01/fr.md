@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2017-06-16-a592:2023-07-01
-title: Loi du 16 juin 2017 sur l’organisation du Conseil d’État.
-valid_from: 2023-07-01
-valid_to: 2024-04-25
-source: https://legilux.public.lu/eli/etat/leg/loi/2017/06/16/a592/consolide/20230701/fr
-source_sha256: 29c4ebe07e7739fff3c4d5eb6f2f1f117666a055f1896b61add2baa11935b3a1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2017-06-16-a592:2023-07-01'
+title: 'Loi du 16 juin 2017 sur l’organisation du Conseil d’État.'
+valid_from: '2023-07-01'
+valid_to: '2024-04-25'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2017/06/16/a592/consolide/20230701/fr'
+source_sha256: '29c4ebe07e7739fff3c4d5eb6f2f1f117666a055f1896b61add2baa11935b3a1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ***Attributions en matière législative et réglementaire***

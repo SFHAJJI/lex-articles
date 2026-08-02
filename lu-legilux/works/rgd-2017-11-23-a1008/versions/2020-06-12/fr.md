@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-11-23-a1008:2020-06-12
-title: Version consolidée applicable au 12/04/2021 : Règlement grand-ducal du 23 novembre 2017 concernant la commercialisation des matériels de multiplication de plantes fruitières et des plantes fruitières destinées à la production de fruits.
-valid_from: 2020-06-12
-valid_to: 2021-04-11
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/11/23/a1008/consolide/20200612/fr
-source_sha256: 3f43de219e10c181df1efef1e6883ea15df3fcb09a955325bad6e46ec03c7db0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-11-23-a1008:2020-06-12'
+title: 'Version consolidée applicable au 12/04/2021 : Règlement grand-ducal du 23 novembre 2017 concernant la commercialisation des matériels de multiplication de plantes fruitières et des plantes fruitières destinées à la production de fruits.'
+valid_from: '2020-06-12'
+valid_to: '2021-04-11'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/11/23/a1008/consolide/20200612/fr'
+source_sha256: '3f43de219e10c181df1efef1e6883ea15df3fcb09a955325bad6e46ec03c7db0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Définitions et dispositions générales**

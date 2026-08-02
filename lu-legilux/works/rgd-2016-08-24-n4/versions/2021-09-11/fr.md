@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-08-24-n4:2021-09-11
-title: Version consolidée applicable au 11/09/2021 : Règlement grand-ducal du 24 août 2016 concernant le statut du personnel du Centre commun de la sécurité sociale.
-valid_from: 2021-09-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n4/consolide/20210911/fr
-source_sha256: aa59eba237a0dbf9c0ec8c62001f2faf8ff8c91f49be5fb5e121eaddff0c0eb0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-08-24-n4:2021-09-11'
+title: 'Version consolidée applicable au 11/09/2021 : Règlement grand-ducal du 24 août 2016 concernant le statut du personnel du Centre commun de la sécurité sociale.'
+valid_from: '2021-09-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n4/consolide/20210911/fr'
+source_sha256: 'aa59eba237a0dbf9c0ec8c62001f2faf8ff8c91f49be5fb5e121eaddff0c0eb0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ** Catégories du personnel**

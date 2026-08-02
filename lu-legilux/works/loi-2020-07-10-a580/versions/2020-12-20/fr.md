@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-07-10-a580:2020-12-20
-title: Version consolidée applicable au 01/07/2021 : Loi du 10 juillet 2020 portant prorogation de la dérogation aux dispositions des articles 3, 6, 7 et 9 de la loi du 1er août 2019 concernant les mutuelles.
-valid_from: 2020-12-20
-valid_to: 2021-06-30
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/consolide/20201220/fr
-source_sha256: 7ec880f8daf21c0be917158a7766ab6ddab4f4ea5588ff093736b3095890e0b0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-07-10-a580:2020-12-20'
+title: 'Version consolidée applicable au 01/07/2021 : Loi du 10 juillet 2020 portant prorogation de la dérogation aux dispositions des articles 3, 6, 7 et 9 de la loi du 1er août 2019 concernant les mutuelles.'
+valid_from: '2020-12-20'
+valid_to: '2021-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/consolide/20201220/fr'
+source_sha256: '7ec880f8daf21c0be917158a7766ab6ddab4f4ea5588ff093736b3095890e0b0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

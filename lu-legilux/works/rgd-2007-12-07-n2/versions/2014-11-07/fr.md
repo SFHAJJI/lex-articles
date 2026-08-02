@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2007-12-07-n2:2014-11-07
-title: Version consolidée applicable au 01/11/2013 : Règlement grand-ducal du 7 décembre 2007  a) concernant le transfert national de déchets  b) modifiant le règlement grand-ducal du 19 novembre 2002 déterminant les taxes à percevoir lors de la présentation des demandes en obtention des formules prescrites pour le transfert de déchets.
-valid_from: 2014-11-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2007/12/07/n2/consolide/20141107/fr
-source_sha256: 57247457545367b4adc9d4a355e77af9b20aa5ebab1b262a83ea76a15289a221
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2007-12-07-n2:2014-11-07'
+title: 'Version consolidée applicable au 01/11/2013 : Règlement grand-ducal du 7 décembre 2007  a) concernant le transfert national de déchets  b) modifiant le règlement grand-ducal du 19 novembre 2002 déterminant les taxes à percevoir lors de la présentation des demandes en obtention des formules prescrites pour le transfert de déchets.'
+valid_from: '2014-11-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2007/12/07/n2/consolide/20141107/fr'
+source_sha256: '57247457545367b4adc9d4a355e77af9b20aa5ebab1b262a83ea76a15289a221'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1979-04-16-n2:2015-10-01
-title: Version consolidée applicable au 01/07/2018 : Loi du 16 avril 1979 portant réglementation de la grève dans les services de l'Etat et des établissements publics placés sous le contrôle direct de l'Etat.
-valid_from: 2015-10-01
-valid_to: 2018-06-30
-source: https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n2/consolide/20151001/fr
-source_sha256: dec545c304b94186f9793bb33121fb0e3cbdc97232df1e6d639f26c143ffb7b9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1979-04-16-n2:2015-10-01'
+title: 'Version consolidée applicable au 01/07/2018 : Loi du 16 avril 1979 portant réglementation de la grève dans les services de l''Etat et des établissements publics placés sous le contrôle direct de l''Etat.'
+valid_from: '2015-10-01'
+valid_to: '2018-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n2/consolide/20151001/fr'
+source_sha256: 'dec545c304b94186f9793bb33121fb0e3cbdc97232df1e6d639f26c143ffb7b9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

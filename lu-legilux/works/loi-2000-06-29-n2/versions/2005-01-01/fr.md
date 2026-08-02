@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2000-06-29-n2:2005-01-01
-title: Version consolidée applicable au 01/01/2005 : Loi du 29 juin 2000 organisant le Centre national sportif et culturel.
-valid_from: 2005-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2000/06/29/n2/consolide/20050101/fr
-source_sha256: 6740211297dceb2c7154a5f216ed294ae2ddd40586d45a324ee608eaa7703313
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2000-06-29-n2:2005-01-01'
+title: 'Version consolidée applicable au 01/01/2005 : Loi du 29 juin 2000 organisant le Centre national sportif et culturel.'
+valid_from: '2005-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2000/06/29/n2/consolide/20050101/fr'
+source_sha256: '6740211297dceb2c7154a5f216ed294ae2ddd40586d45a324ee608eaa7703313'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

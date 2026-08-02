@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1979-04-16-n1:2026-06-01
-title: Version consolidée applicable au 01/06/2026 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat.
-valid_from: 2026-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/20260601/fr
-source_sha256: 66888254d871147eeb3688ff8b55a32c7db3f56e93b9788316677440d6fc5d6f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1979-04-16-n1:2026-06-01'
+title: 'Version consolidée applicable au 01/06/2026 : Loi du 16 avril 1979 fixant le statut général des fonctionnaires de l''Etat.'
+valid_from: '2026-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/20260601/fr'
+source_sha256: '66888254d871147eeb3688ff8b55a32c7db3f56e93b9788316677440d6fc5d6f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er.** — **Champ d’application et dispositions générales**

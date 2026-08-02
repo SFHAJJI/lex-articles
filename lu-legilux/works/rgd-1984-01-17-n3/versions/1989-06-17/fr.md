@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1984-01-17-n3:1989-06-17
-title: Version consolidée applicable au 02/12/2019 : Règlement grand-ducal du 17 janvier 1984 portant réglementation de la procédure électorale pour la Chambre des Fonctionnaires et Employés publics.
-valid_from: 1989-06-17
-valid_to: 2007-11-18
-source: https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/19890617/fr
-source_sha256: de077fc9c2dbe42b899a2c09cece726d3a90a9b4c932bde77db14b0195f6a458
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1984-01-17-n3:1989-06-17'
+title: 'Version consolidée applicable au 02/12/2019 : Règlement grand-ducal du 17 janvier 1984 portant réglementation de la procédure électorale pour la Chambre des Fonctionnaires et Employés publics.'
+valid_from: '1989-06-17'
+valid_to: '2007-11-18'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/19890617/fr'
+source_sha256: 'de077fc9c2dbe42b899a2c09cece726d3a90a9b4c932bde77db14b0195f6a458'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

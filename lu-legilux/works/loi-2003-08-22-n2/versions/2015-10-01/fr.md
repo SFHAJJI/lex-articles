@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2003-08-22-n2:2015-10-01
-title: Version consolidée applicable au 01/07/2023 : Loi du 22 août 2003 instituant un Ombudsman.
-valid_from: 2015-10-01
-valid_to: 2023-06-30
-source: https://legilux.public.lu/eli/etat/leg/loi/2003/08/22/n2/consolide/20151001/fr
-source_sha256: 8627760408605132b3f59649fcbe1690fc62bd8c18ec3fdf6ee4ed3ffe9d568c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2003-08-22-n2:2015-10-01'
+title: 'Version consolidée applicable au 01/07/2023 : Loi du 22 août 2003 instituant un Ombudsman.'
+valid_from: '2015-10-01'
+valid_to: '2023-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2003/08/22/n2/consolide/20151001/fr'
+source_sha256: '8627760408605132b3f59649fcbe1690fc62bd8c18ec3fdf6ee4ed3ffe9d568c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Du mandat et des attributions du médiateur

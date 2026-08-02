@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1999-04-06-n7:2016-03-27
-title: Version consolidée applicable au 27/03/2016 : Règlement grand-ducal du 6 avril 1999 portant déclaration du Parc Naturel de la Haute-Sûre.
-valid_from: 2016-03-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1999/04/06/n7/consolide/20160327/fr
-source_sha256: a122c411fb3bb182a2694a16c0f9777fe9172bf4deeab2385abb340e410a326e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1999-04-06-n7:2016-03-27'
+title: 'Version consolidée applicable au 27/03/2016 : Règlement grand-ducal du 6 avril 1999 portant déclaration du Parc Naturel de la Haute-Sûre.'
+valid_from: '2016-03-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1999/04/06/n7/consolide/20160327/fr'
+source_sha256: 'a122c411fb3bb182a2694a16c0f9777fe9172bf4deeab2385abb340e410a326e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Objet et portée du parc naturel

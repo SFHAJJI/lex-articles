@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1882-05-17-n1:1884-01-02
-title: Version consolidée applicable au 27/12/2022 : Loi du 17 mai 1882 sur les poids et mesures.
-valid_from: 1884-01-02
-valid_to: 2008-05-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/18840102/fr
-source_sha256: aa75431a4f87f815a54746bba21bfc8d57b0d8a7e7f281e69a7dc6d8700363af
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1882-05-17-n1:1884-01-02'
+title: 'Version consolidée applicable au 27/12/2022 : Loi du 17 mai 1882 sur les poids et mesures.'
+valid_from: '1884-01-02'
+valid_to: '2008-05-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/18840102/fr'
+source_sha256: 'aa75431a4f87f815a54746bba21bfc8d57b0d8a7e7f281e69a7dc6d8700363af'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

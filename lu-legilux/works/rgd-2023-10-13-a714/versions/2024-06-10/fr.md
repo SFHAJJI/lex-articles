@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-10-13-a714:2024-06-10
-title: Version consolidée applicable au 10/06/2024 : Règlement grand-ducal du 13 octobre 2023 fixant les mesures d’exécution relatives aux aides à la pierre prévues par la loi relative au logement abordable.
-valid_from: 2024-06-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/consolide/20240610/fr
-source_sha256: 09e0a17e975462036562a2b7caf03b3e27b3f09ece1558be7b0ebc50b37ba629
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-10-13-a714:2024-06-10'
+title: 'Version consolidée applicable au 10/06/2024 : Règlement grand-ducal du 13 octobre 2023 fixant les mesures d’exécution relatives aux aides à la pierre prévues par la loi relative au logement abordable.'
+valid_from: '2024-06-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/consolide/20240610/fr'
+source_sha256: '09e0a17e975462036562a2b7caf03b3e27b3f09ece1558be7b0ebc50b37ba629'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

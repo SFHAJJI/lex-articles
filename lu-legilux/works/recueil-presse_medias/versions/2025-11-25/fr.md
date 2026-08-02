@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-presse_medias:2025-11-25
-title: Presse et Médias électroniques
-valid_from: 2025-11-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20251125/fr
-source_sha256: 14d7904970cbc34207ef6d70900bea0a0a2bd7bd9b0117afd2e06cda5120b4a3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-presse_medias:2025-11-25'
+title: 'Presse et Médias électroniques'
+valid_from: '2025-11-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20251125/fr'
+source_sha256: '14d7904970cbc34207ef6d70900bea0a0a2bd7bd9b0117afd2e06cda5120b4a3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **1. Constitution**

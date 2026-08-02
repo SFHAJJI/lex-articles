@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-12-23-n7:2020-01-01
-title: Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 23 décembre 2016 portant exécution de l'article 104, alinéa 3 de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu.
-valid_from: 2020-01-01
-valid_to: 2021-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n7/consolide/20200101/fr
-source_sha256: 03bf2662f4b2d04fc29c4d44cb98c19bb205154e7a5688af278670b14b31f10f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-12-23-n7:2020-01-01'
+title: 'Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 23 décembre 2016 portant exécution de l''article 104, alinéa 3 de la loi modifiée du 4 décembre 1967 concernant l''impôt sur le revenu.'
+valid_from: '2020-01-01'
+valid_to: '2021-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n7/consolide/20200101/fr'
+source_sha256: '03bf2662f4b2d04fc29c4d44cb98c19bb205154e7a5688af278670b14b31f10f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

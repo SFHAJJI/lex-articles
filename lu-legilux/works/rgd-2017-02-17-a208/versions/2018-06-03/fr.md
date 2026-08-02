@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-02-17-a208:2018-06-03
-title: Version consolidée applicable au 03/06/2018 : Règlement grand-ducal du 17 février 2017 fixant les modalités d’application de l’indemnité compensatoire annuelle à allouer aux agriculteurs dans les zones défavorisées.
-valid_from: 2018-06-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/consolide/20180603/fr
-source_sha256: 120cf10965cbe2c41ec0307b847efddd63279c2579e8bd621dd60465f3f90407
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-02-17-a208:2018-06-03'
+title: 'Version consolidée applicable au 03/06/2018 : Règlement grand-ducal du 17 février 2017 fixant les modalités d’application de l’indemnité compensatoire annuelle à allouer aux agriculteurs dans les zones défavorisées.'
+valid_from: '2018-06-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/consolide/20180603/fr'
+source_sha256: '120cf10965cbe2c41ec0307b847efddd63279c2579e8bd621dd60465f3f90407'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er.** — **Dispositions générales**

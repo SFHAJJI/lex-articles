@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-12-19-n18:2014-12-14
-title: Version consolidée applicable au 02/11/2013 : Loi du 19 décembre 2008  a) relative aux piles et accumulateurs ainsi qu'aux déchets de piles et d'accumulateurs  b) modifiant la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets.
-valid_from: 2014-12-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n18/consolide/20141214/fr
-source_sha256: c13f336384961602ca12889acbcc8ec94de93edb7613d5881cda3de555f39dc4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-12-19-n18:2014-12-14'
+title: 'Version consolidée applicable au 02/11/2013 : Loi du 19 décembre 2008  a) relative aux piles et accumulateurs ainsi qu''aux déchets de piles et d''accumulateurs  b) modifiant la loi modifiée du 17 juin 1994 relative à la prévention et à la gestion des déchets.'
+valid_from: '2014-12-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n18/consolide/20141214/fr'
+source_sha256: 'c13f336384961602ca12889acbcc8ec94de93edb7613d5881cda3de555f39dc4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

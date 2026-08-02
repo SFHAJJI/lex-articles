@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-07-15-a356:2026-01-04
-title: Version consolidée applicable au 04/01/2026 : Loi du 15 juillet 2022 instaurant un régime d’aides dans le contexte du système d’échange de quotas d’émission de gaz à effet de serre pour la période 2021-2030.
-valid_from: 2026-01-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a356/consolide/20260104/fr
-source_sha256: 0ac6c420e212b83a254c25e3773885c98d243a5bfa8824047d741911dd924803
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-07-15-a356:2026-01-04'
+title: 'Version consolidée applicable au 04/01/2026 : Loi du 15 juillet 2022 instaurant un régime d’aides dans le contexte du système d’échange de quotas d’émission de gaz à effet de serre pour la période 2021-2030.'
+valid_from: '2026-01-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a356/consolide/20260104/fr'
+source_sha256: '0ac6c420e212b83a254c25e3773885c98d243a5bfa8824047d741911dd924803'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

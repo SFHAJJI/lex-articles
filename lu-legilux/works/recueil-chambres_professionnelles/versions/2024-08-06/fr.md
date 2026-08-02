@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-chambres_professionnelles:2024-08-06
-title: Chambres professionnelles
-valid_from: 2024-08-06
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles/20240806/fr
-source_sha256: dbaa2b81769d9740f7b7bff6f003876f9a9972bbc0de7931d7d4c70f62cc9d0b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-chambres_professionnelles:2024-08-06'
+title: 'Chambres professionnelles'
+valid_from: '2024-08-06'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles/20240806/fr'
+source_sha256: 'dbaa2b81769d9740f7b7bff6f003876f9a9972bbc0de7931d7d4c70f62cc9d0b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## A. LÉGISLATION DE BASE

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-07-28-a678:2026-08-01
-title: Version consolidée applicable au 01/08/2026 : Règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.
-valid_from: 2026-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a678/consolide/20260801/fr
-source_sha256: 004d5ad66b13b2c4b150e22492b02204c0eeaf3c42c46df3b3789a44f1d80e36
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-07-28-a678:2026-08-01'
+title: 'Version consolidée applicable au 01/08/2026 : Règlement grand-ducal du 28 juillet 2017 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires communaux.'
+valid_from: '2026-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a678/consolide/20260801/fr'
+source_sha256: '004d5ad66b13b2c4b150e22492b02204c0eeaf3c42c46df3b3789a44f1d80e36'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Champ d’application et classification des fonctions

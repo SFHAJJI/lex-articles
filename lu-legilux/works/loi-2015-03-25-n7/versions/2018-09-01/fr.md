@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-03-25-n7:2018-09-01
-title: Version consolidée applicable au 15/12/2025 : Loi du 25 mars 2015 fixant les conditions et modalités selon lesquelles le fonctionnaire de l'Etat peut changer d'administration.
-valid_from: 2018-09-01
-valid_to: 2025-12-14
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/consolide/20180901/fr
-source_sha256: 9493202f08b10af35dace40af72322fbc3d9caea4cc4ebbdffe8de5871b2008f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-03-25-n7:2018-09-01'
+title: 'Version consolidée applicable au 15/12/2025 : Loi du 25 mars 2015 fixant les conditions et modalités selon lesquelles le fonctionnaire de l''Etat peut changer d''administration.'
+valid_from: '2018-09-01'
+valid_to: '2025-12-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/consolide/20180901/fr'
+source_sha256: '9493202f08b10af35dace40af72322fbc3d9caea4cc4ebbdffe8de5871b2008f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

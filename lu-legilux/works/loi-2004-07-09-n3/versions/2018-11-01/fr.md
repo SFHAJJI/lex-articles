@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-07-09-n3:2018-11-01
-title: Version consolidée applicable au 01/11/2018 : Loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.
-valid_from: 2018-11-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/consolide/20181101/fr
-source_sha256: b946178413e91f3d7a4f974772722bb71e4ac4acf334baf3a3db486bc88db9af
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-07-09-n3:2018-11-01'
+title: 'Version consolidée applicable au 01/11/2018 : Loi du 9 juillet 2004 relative aux effets légaux de certains partenariats.'
+valid_from: '2018-11-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/consolide/20181101/fr'
+source_sha256: 'b946178413e91f3d7a4f974772722bb71e4ac4acf334baf3a3db486bc88db9af'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

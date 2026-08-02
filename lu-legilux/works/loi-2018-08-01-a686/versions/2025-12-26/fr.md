@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-08-01-a686:2025-12-26
-title: Loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données.
-valid_from: 2025-12-26
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a686/consolide/20251226/fr
-source_sha256: a03796f9edc950a7fcc19fe5d890a4a150fb4650b9254a85be4ee5dac8fe1e05
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-08-01-a686:2025-12-26'
+title: 'Loi du 1er août 2018 portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données.'
+valid_from: '2025-12-26'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a686/consolide/20251226/fr'
+source_sha256: 'a03796f9edc950a7fcc19fe5d890a4a150fb4650b9254a85be4ee5dac8fe1e05'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier ** — **Dispositions générales**

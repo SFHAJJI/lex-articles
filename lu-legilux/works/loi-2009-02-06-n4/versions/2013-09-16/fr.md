@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-02-06-n4:2013-09-16
-title: Version consolidée applicable au 16/09/2024 : Loi modifiée du 6 février 2009 concernant le personnel de l'enseignement fondamental.
-valid_from: 2013-09-16
-valid_to: 2018-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20130916/fr
-source_sha256: e0cd24b4660a42c7b517386aea4e21f2b48225f51e9d0af02a4ef960047b953e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-02-06-n4:2013-09-16'
+title: 'Version consolidée applicable au 16/09/2024 : Loi modifiée du 6 février 2009 concernant le personnel de l''enseignement fondamental.'
+valid_from: '2013-09-16'
+valid_to: '2018-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20130916/fr'
+source_sha256: 'e0cd24b4660a42c7b517386aea4e21f2b48225f51e9d0af02a4ef960047b953e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier** — **Définitions**

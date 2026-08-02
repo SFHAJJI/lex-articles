@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1992-12-18-n1:2018-04-01
-title: Version consolidée applicable au 01/05/2024 : Règlement grand-ducal du 18 décembre 1992 concernant le régime spécial de perception de la taxe sur la valeur ajoutée frappant les livraisons, les acquisitions intracommunautaires et les importations de tabacs fabriqués.
-valid_from: 2018-04-01
-valid_to: 2021-10-25
-source: https://legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/consolide/20180401/fr
-source_sha256: 6fdda269be9860a6dc32fc04bbf17aca2ec712ca3cda80adaf88c93769e6b255
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1992-12-18-n1:2018-04-01'
+title: 'Version consolidée applicable au 01/05/2024 : Règlement grand-ducal du 18 décembre 1992 concernant le régime spécial de perception de la taxe sur la valeur ajoutée frappant les livraisons, les acquisitions intracommunautaires et les importations de tabacs fabriqués.'
+valid_from: '2018-04-01'
+valid_to: '2021-10-25'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/consolide/20180401/fr'
+source_sha256: '6fdda269be9860a6dc32fc04bbf17aca2ec712ca3cda80adaf88c93769e6b255'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

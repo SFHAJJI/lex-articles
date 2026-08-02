@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1804-03-21-n1:2023-08-01
-title: Code civil
-valid_from: 2023-08-01
-valid_to: 2023-08-21
-source: https://legilux.public.lu/eli/etat/leg/code/civil/20230801/fr
-source_sha256: 2899c37d9fdc1d294f2fe107fc3ea66f15a319efc2dbc6b2d58bb355626dff6b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1804-03-21-n1:2023-08-01'
+title: 'Code civil'
+valid_from: '2023-08-01'
+valid_to: '2023-08-21'
+source: 'https://legilux.public.lu/eli/etat/leg/code/civil/20230801/fr'
+source_sha256: '2899c37d9fdc1d294f2fe107fc3ea66f15a319efc2dbc6b2d58bb355626dff6b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE PRELIMINAIRE. — De la publication, des effets et de l'application des lois en général (Décrété le 5 mars 1803. Promulgué le 15 du même mois.)

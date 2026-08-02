@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-11-30-a588:2024-04-02
-title: loi-2022-11-30-a588
-valid_from: 2024-04-02
-valid_to: 2025-04-10
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588/consolide/20240402/fr
-source_sha256: 51d3a0d51ec8d012c430f678f2970f03bc65a7cad8bd0883fc8065085578097d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-11-30-a588:2024-04-02'
+title: 'loi-2022-11-30-a588'
+valid_from: '2024-04-02'
+valid_to: '2025-04-10'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588/consolide/20240402/fr'
+source_sha256: '51d3a0d51ec8d012c430f678f2970f03bc65a7cad8bd0883fc8065085578097d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Champ d’application et définitions

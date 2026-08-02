@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-09-11-a779:2022-12-08
-title: Version consolidée applicable au 08/12/2022 : Règlement grand-ducal du 11 septembre 2020 fixant le programme, la durée et les modalités de contrôle des connaissances de la formation professionnelle spéciale portant sur la recherche et la constatation des infractions ainsi que sur les dispositions pénales en matière de navigation fluviale.
-valid_from: 2022-12-08
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/09/11/a779/consolide/20221208/fr
-source_sha256: f0ad0a5a605fa86174c332cf0286d50c8505419c413ce4ef18dce3bb1c18422d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-09-11-a779:2022-12-08'
+title: 'Version consolidée applicable au 08/12/2022 : Règlement grand-ducal du 11 septembre 2020 fixant le programme, la durée et les modalités de contrôle des connaissances de la formation professionnelle spéciale portant sur la recherche et la constatation des infractions ainsi que sur les dispositions pénales en matière de navigation fluviale.'
+valid_from: '2022-12-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/09/11/a779/consolide/20221208/fr'
+source_sha256: 'f0ad0a5a605fa86174c332cf0286d50c8505419c413ce4ef18dce3bb1c18422d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

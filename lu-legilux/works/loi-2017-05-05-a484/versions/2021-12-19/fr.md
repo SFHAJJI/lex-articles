@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2017-05-05-a484:2021-12-19
-title: Version consolidée applicable au 19/12/2021 : Loi du 5 mai 2017 concernant certaines modalités d’application et les sanctions du règlement (UE) 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et l’utilisation de précurseurs d’explosifs, modifiant le règlement (CE) n° 1907/2006 et abrogeant le règlement (UE) n° 98/2013
-valid_from: 2021-12-19
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2017/05/05/a484/consolide/20211219/fr
-source_sha256: 70714c8428c47ff37af8b47deaec7d8c9925188f9d4344111588ce460df187be
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2017-05-05-a484:2021-12-19'
+title: 'Version consolidée applicable au 19/12/2021 : Loi du 5 mai 2017 concernant certaines modalités d’application et les sanctions du règlement (UE) 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et l’utilisation de précurseurs d’explosifs, modifiant le règlement (CE) n° 1907/2006 et abrogeant le règlement (UE) n° 98/2013'
+valid_from: '2021-12-19'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2017/05/05/a484/consolide/20211219/fr'
+source_sha256: '70714c8428c47ff37af8b47deaec7d8c9925188f9d4344111588ce460df187be'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

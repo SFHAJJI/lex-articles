@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-09-26-n1:2011-08-25
-title: Version consolidée applicable au 08/12/2010 : Règlement grand-ducal du 26 septembre 2008 établissant des règles de bonne conduite à appliquer par les agents chargés de l'exécution d'une mesure d'éloignement et modifiant le règlement grand-ducal du 21 décembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l'assistance au transit dans le cadre des mesures d'éloignement par voie aérienne.
-valid_from: 2011-08-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n1/consolide/20110825/fr
-source_sha256: 5a9cb16e60ccd1deb858b69560510a4d4c122490b13a0b116df3520fabcbd5f5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-09-26-n1:2011-08-25'
+title: 'Version consolidée applicable au 08/12/2010 : Règlement grand-ducal du 26 septembre 2008 établissant des règles de bonne conduite à appliquer par les agents chargés de l''exécution d''une mesure d''éloignement et modifiant le règlement grand-ducal du 21 décembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l''assistance au transit dans le cadre des mesures d''éloignement par voie aérienne.'
+valid_from: '2011-08-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n1/consolide/20110825/fr'
+source_sha256: '5a9cb16e60ccd1deb858b69560510a4d4c122490b13a0b116df3520fabcbd5f5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

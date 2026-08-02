@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2005-05-30-n5:2007-02-16
-title: Version consolidée applicable au 06/07/2019 : Règlement grand-ducal du 30 mai 2005 relatif à l’application de bonnes pratiques cliniques dans la conduite d’essais cliniques de médicaments à usage humain.
-valid_from: 2007-02-16
-valid_to: 2019-07-05
-source: https://legilux.public.lu/eli/etat/leg/rgd/2005/05/30/n5/consolide/20070216/fr
-source_sha256: 1bffb418f34fa49763dca3d81ae6ebbb3ec5ade93244482d3fddb2376f55aa8a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2005-05-30-n5:2007-02-16'
+title: 'Version consolidée applicable au 06/07/2019 : Règlement grand-ducal du 30 mai 2005 relatif à l’application de bonnes pratiques cliniques dans la conduite d’essais cliniques de médicaments à usage humain.'
+valid_from: '2007-02-16'
+valid_to: '2019-07-05'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2005/05/30/n5/consolide/20070216/fr'
+source_sha256: '1bffb418f34fa49763dca3d81ae6ebbb3ec5ade93244482d3fddb2376f55aa8a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

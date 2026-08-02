@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1999-07-20-n1:2013-07-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 20 juillet 1999 déterminant la composition, le mode de fonctionnement et les indemnités du comité d'accompagnement en matière d'établissements classés.
-valid_from: 2013-07-01
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/consolide/20130701/fr
-source_sha256: 374848b3cd791292b07b5acff40c7e8a09adce9d30d74500d5bad836701e2465
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1999-07-20-n1:2013-07-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 20 juillet 1999 déterminant la composition, le mode de fonctionnement et les indemnités du comité d''accompagnement en matière d''établissements classés.'
+valid_from: '2013-07-01'
+valid_to: '2023-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/consolide/20130701/fr'
+source_sha256: '374848b3cd791292b07b5acff40c7e8a09adce9d30d74500d5bad836701e2465'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

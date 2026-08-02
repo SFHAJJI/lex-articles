@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-08-24-n6:2025-12-22
-title: Version consolidée applicable au 22/12/2025 : Règlement grand-ducal du 24 août 2016 concernant le statut du personnel de la Caisse nationale d'assurance pension.
-valid_from: 2025-12-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/consolide/20251222/fr
-source_sha256: 9e878119605c24803938965d4929f20f2171fd515a9bb6dee9b4b9ede8ff3292
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-08-24-n6:2025-12-22'
+title: 'Version consolidée applicable au 22/12/2025 : Règlement grand-ducal du 24 août 2016 concernant le statut du personnel de la Caisse nationale d''assurance pension.'
+valid_from: '2025-12-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/consolide/20251222/fr'
+source_sha256: '9e878119605c24803938965d4929f20f2171fd515a9bb6dee9b4b9ede8ff3292'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Catégories du personnel

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-09-02-n8:2016-09-02
-title: Version consolidée applicable au 02/09/2016 : Règlement grand-ducal du 2 septembre 2011 établissant un cahier de charge-type pour la location du droit de chasse.
-valid_from: 2016-09-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n8/consolide/20160902/fr
-source_sha256: 011d50aced241d56b50a63c44ee2add71c8b4580b5f4e0e5df0852005a919ad3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-09-02-n8:2016-09-02'
+title: 'Version consolidée applicable au 02/09/2016 : Règlement grand-ducal du 2 septembre 2011 établissant un cahier de charge-type pour la location du droit de chasse.'
+valid_from: '2016-09-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n8/consolide/20160902/fr'
+source_sha256: '011d50aced241d56b50a63c44ee2add71c8b4580b5f4e0e5df0852005a919ad3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-06-06-a476:2021-07-09
-title: Version consolidée applicable au 09/07/2021 : Règlement grand-ducal du 6 juin 2018 instituant un régime d’aide sur les parcelles agricoles situées dans les zones de protection des eaux.
-valid_from: 2021-07-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/06/06/a476/consolide/20210709/fr
-source_sha256: 090a772d4d781e9e9649f8f71d8e9e46df34ff11d36226e1239611049d4473c1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-06-06-a476:2021-07-09'
+title: 'Version consolidée applicable au 09/07/2021 : Règlement grand-ducal du 6 juin 2018 instituant un régime d’aide sur les parcelles agricoles situées dans les zones de protection des eaux.'
+valid_from: '2021-07-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/06/06/a476/consolide/20210709/fr'
+source_sha256: '090a772d4d781e9e9649f8f71d8e9e46df34ff11d36226e1239611049d4473c1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Dispositions générales**

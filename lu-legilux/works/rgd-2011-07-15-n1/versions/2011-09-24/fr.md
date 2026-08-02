@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-07-15-n1:2011-09-24
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 15 juillet 2011 fixant les modalités de fonctionnement et d'indemnisation de la commission des aménagements raisonnables et modifiant le : \n- règlement grand-ducal du 31 juillet 2006 portant organisation de l'examen de fin d'études secondaires ; \n- règlement grand-ducal du 31 juillet 2006 portant organisation de l'examen de fin d'études techniques et de l'examen de fin d'études de la formation de technicien.
-valid_from: 2011-09-24
-valid_to: 2013-06-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/07/15/n1/consolide/20110924/fr
-source_sha256: b922236298623e7d46e99e2f7610f10e5bc4acc222e843433c9c3235ae7449bd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-07-15-n1:2011-09-24'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 15 juillet 2011 fixant les modalités de fonctionnement et d''indemnisation de la commission des aménagements raisonnables et modifiant le : \n- règlement grand-ducal du 31 juillet 2006 portant organisation de l''examen de fin d''études secondaires ; \n- règlement grand-ducal du 31 juillet 2006 portant organisation de l''examen de fin d''études techniques et de l''examen de fin d''études de la formation de technicien.'
+valid_from: '2011-09-24'
+valid_to: '2013-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/07/15/n1/consolide/20110924/fr'
+source_sha256: 'b922236298623e7d46e99e2f7610f10e5bc4acc222e843433c9c3235ae7449bd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

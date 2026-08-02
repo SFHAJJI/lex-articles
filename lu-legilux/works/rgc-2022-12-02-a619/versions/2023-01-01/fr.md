@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgc-2022-12-02-a619:2023-01-01
-title: Version rectifiée applicable au 01/01/2023 : Règlement du Gouvernement en Conseil du 2 décembre 2022 fixant les indemnités prévues aux articles 16, alinéa 1er, 18 et 20, paragraphe 1er, du règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgc/2022/12/02/a619/consolide/20230101/fr
-source_sha256: e9205ebe0f49e6c69377aa54b02359bad4dd9ccd2a2b2c832ebcae2ce1337652
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgc-2022-12-02-a619:2023-01-01'
+title: 'Version rectifiée applicable au 01/01/2023 : Règlement du Gouvernement en Conseil du 2 décembre 2022 fixant les indemnités prévues aux articles 16, alinéa 1er, 18 et 20, paragraphe 1er, du règlement grand-ducal du 14 juin 2015 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’État.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgc/2022/12/02/a619/consolide/20230101/fr'
+source_sha256: 'e9205ebe0f49e6c69377aa54b02359bad4dd9ccd2a2b2c832ebcae2ce1337652'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

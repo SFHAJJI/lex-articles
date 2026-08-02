@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1998-09-08-n4:1998-09-28
-title: Version consolidée applicable au 01/03/2024 : Loi du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique.
-valid_from: 1998-09-28
-valid_to: 2011-08-08
-source: https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/consolide/19980928/fr
-source_sha256: 748bdc121d17b40148ac27c25ca939a882c7a48d6eaa2cea2496ea6660d27782
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1998-09-08-n4:1998-09-28'
+title: 'Version consolidée applicable au 01/03/2024 : Loi du 8 septembre 1998 réglant les relations entre l''Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique.'
+valid_from: '1998-09-28'
+valid_to: '2011-08-08'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/consolide/19980928/fr'
+source_sha256: '748bdc121d17b40148ac27c25ca939a882c7a48d6eaa2cea2496ea6660d27782'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1 — L'agrément

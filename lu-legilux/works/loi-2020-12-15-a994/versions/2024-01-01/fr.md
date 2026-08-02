@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-12-15-a994:2024-01-01
-title: Loi du 15 décembre 2020 relative au climat.
-valid_from: 2024-01-01
-valid_to: 2024-06-07
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a994/consolide/20240101/fr
-source_sha256: 2e05a02715e145401fb44ab720772d19dd18ecbc13d38f875c73622799cb2995
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-12-15-a994:2024-01-01'
+title: 'Loi du 15 décembre 2020 relative au climat.'
+valid_from: '2024-01-01'
+valid_to: '2024-06-07'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a994/consolide/20240101/fr'
+source_sha256: '2e05a02715e145401fb44ab720772d19dd18ecbc13d38f875c73622799cb2995'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Dispositions générales**

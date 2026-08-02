@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1989-06-05-n3:2010-05-23
-title: Version consolidée applicable au 23/05/2010 : Règlement grand-ducal du 5 juin 1989 déterminant en application de l'article 44, paragraphe 10, alinéa 2 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat les catégories et les limites, ainsi que les modalités de calcul des revenus à prendre en compte pour la réduction des pensions d'invalidité et de survie.
-valid_from: 2010-05-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/consolide/20100523/fr
-source_sha256: ed57be1f3b5f749299b8f031e6bcc9b1ae5803043fc3d323eaaf26c6f89e36d6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1989-06-05-n3:2010-05-23'
+title: 'Version consolidée applicable au 23/05/2010 : Règlement grand-ducal du 5 juin 1989 déterminant en application de l''article 44, paragraphe 10, alinéa 2 de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l''Etat les catégories et les limites, ainsi que les modalités de calcul des revenus à prendre en compte pour la réduction des pensions d''invalidité et de survie.'
+valid_from: '2010-05-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/consolide/20100523/fr'
+source_sha256: 'ed57be1f3b5f749299b8f031e6bcc9b1ae5803043fc3d323eaaf26c6f89e36d6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

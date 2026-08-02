@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-12-18-n4:2020-06-30
-title: Loi du 18 décembre 2015 relative à la Norme commune de déclaration (NCD).
-valid_from: 2020-06-30
-valid_to: 2020-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n4/consolide/20200630/fr
-source_sha256: fe47571d6cec92b9179284e0eadda4e85aca8866d4b5915f52e6087a5a7b7d56
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-12-18-n4:2020-06-30'
+title: 'Loi du 18 décembre 2015 relative à la Norme commune de déclaration (NCD).'
+valid_from: '2020-06-30'
+valid_to: '2020-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n4/consolide/20200630/fr'
+source_sha256: 'fe47571d6cec92b9179284e0eadda4e85aca8866d4b5915f52e6087a5a7b7d56'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — *Définitions*

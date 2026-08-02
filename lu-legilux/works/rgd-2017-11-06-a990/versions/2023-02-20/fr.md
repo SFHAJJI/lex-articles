@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-11-06-a990:2023-02-20
-title: Version consolidée applicable au 20/02/2023 : Règlement grand-ducal du 6 novembre 2017 portant modification du règlement grand-ducal du 29 août 2003 relatif aux avertissements taxés et aux consignations pour contrevenants non-résidents en matière de navigation intérieure et du catalogue annexé.
-valid_from: 2023-02-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/11/06/a990/consolide/20230220/fr
-source_sha256: 7dc2f842ba2c6710cedb475fbd6dd76b830c700fbf931c7a1e730eb6a2b3e87e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-11-06-a990:2023-02-20'
+title: 'Version consolidée applicable au 20/02/2023 : Règlement grand-ducal du 6 novembre 2017 portant modification du règlement grand-ducal du 29 août 2003 relatif aux avertissements taxés et aux consignations pour contrevenants non-résidents en matière de navigation intérieure et du catalogue annexé.'
+valid_from: '2023-02-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/11/06/a990/consolide/20230220/fr'
+source_sha256: '7dc2f842ba2c6710cedb475fbd6dd76b830c700fbf931c7a1e730eb6a2b3e87e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

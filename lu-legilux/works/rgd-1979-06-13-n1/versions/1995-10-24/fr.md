@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1979-06-13-n1:1995-10-24
-title: Version consolidée applicable au 24/10/1995 : Règlement grand-ducal du 13 juin 1979 concernant les directives en matière de sécurité dans les écoles.
-valid_from: 1995-10-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1979/06/13/n1/consolide/19951024/fr
-source_sha256: 252f37393946e63b04bfc687be2583b18a26ff91eb3a767225ac6aa58c33a81b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1979-06-13-n1:1995-10-24'
+title: 'Version consolidée applicable au 24/10/1995 : Règlement grand-ducal du 13 juin 1979 concernant les directives en matière de sécurité dans les écoles.'
+valid_from: '1995-10-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1979/06/13/n1/consolide/19951024/fr'
+source_sha256: '252f37393946e63b04bfc687be2583b18a26ff91eb3a767225ac6aa58c33a81b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Dispositions générales et organisation locale

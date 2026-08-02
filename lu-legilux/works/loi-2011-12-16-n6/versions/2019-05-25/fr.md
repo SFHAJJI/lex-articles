@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-12-16-n6:2019-05-25
-title: Loi du 16 décembre 2011 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que la classification, l'étiquetage et l'emballage des substances et mélanges chimiques.
-valid_from: 2019-05-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/consolide/20190525/fr
-source_sha256: 3ed4121c1f0d0f61f26824f56f09b84842e9a4fcdbd91e0e8d2494dc5601e080
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-12-16-n6:2019-05-25'
+title: 'Loi du 16 décembre 2011 concernant l''enregistrement, l''évaluation et l''autorisation des substances chimiques ainsi que la classification, l''étiquetage et l''emballage des substances et mélanges chimiques.'
+valid_from: '2019-05-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/consolide/20190525/fr'
+source_sha256: '3ed4121c1f0d0f61f26824f56f09b84842e9a4fcdbd91e0e8d2494dc5601e080'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## ***Chapitre Ier. –*** — ***Compétences et mesures administratives***

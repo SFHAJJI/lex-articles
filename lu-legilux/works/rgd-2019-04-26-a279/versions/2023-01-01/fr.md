@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-04-26-a279:2023-01-01
-title: Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 26 avril 2019 portant exécution de l’article 139quater, alinéa 8 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/04/26/a279/consolide/20230101/fr
-source_sha256: 99a91dc0611c3b89d03d928fd59aaeb8555061fd4d1c3600ca124e1fcaf2c3aa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-04-26-a279:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 26 avril 2019 portant exécution de l’article 139quater, alinéa 8 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/04/26/a279/consolide/20230101/fr'
+source_sha256: '99a91dc0611c3b89d03d928fd59aaeb8555061fd4d1c3600ca124e1fcaf2c3aa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

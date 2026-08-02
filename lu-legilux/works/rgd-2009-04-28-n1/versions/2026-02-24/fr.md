@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-04-28-n1:2026-02-24
-title: Version consolidée applicable au 24/02/2026 : Règlement grand-ducal du 28 avril 2009 précisant les modalités d’attribution du droit aux soins palliatifs.
-valid_from: 2026-02-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/04/28/n1/consolide/20260224/fr
-source_sha256: 8e891f12967e20dc60b7c14e2d2cc3c7551be9d75c1ede69e5b13fff3c75e357
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-04-28-n1:2026-02-24'
+title: 'Version consolidée applicable au 24/02/2026 : Règlement grand-ducal du 28 avril 2009 précisant les modalités d’attribution du droit aux soins palliatifs.'
+valid_from: '2026-02-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/04/28/n1/consolide/20260224/fr'
+source_sha256: '8e891f12967e20dc60b7c14e2d2cc3c7551be9d75c1ede69e5b13fff3c75e357'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

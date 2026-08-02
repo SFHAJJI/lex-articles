@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1998-08-28-n1:2011-05-17
-title: Version consolidée applicable au 05/12/2010 : Loi du 28 août 1998 sur les établissements hospitaliers.
-valid_from: 2011-05-17
-valid_to: 2011-05-27
-source: https://legilux.public.lu/eli/etat/leg/loi/1998/08/28/n1/consolide/20110517/fr
-source_sha256: 05fb0a02bfbfc6dfbb96ddf9673349aa38cd7e637073d9f421ae3eb47b9ed515
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1998-08-28-n1:2011-05-17'
+title: 'Version consolidée applicable au 05/12/2010 : Loi du 28 août 1998 sur les établissements hospitaliers.'
+valid_from: '2011-05-17'
+valid_to: '2011-05-27'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1998/08/28/n1/consolide/20110517/fr'
+source_sha256: '05fb0a02bfbfc6dfbb96ddf9673349aa38cd7e637073d9f421ae3eb47b9ed515'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Champ d’application et définitions

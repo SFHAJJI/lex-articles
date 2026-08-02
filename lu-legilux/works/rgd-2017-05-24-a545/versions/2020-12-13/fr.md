@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-05-24-a545:2020-12-13
-title: Version consolidée applicable au 13/12/2020 : Règlement grand-ducal du 24 mai 2017 instituant des régimes d’aide en faveur de méthodes de production agricole respectueuses de l’environnement.
-valid_from: 2020-12-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/05/24/a545/consolide/20201213/fr
-source_sha256: ef2befc306893cb44556929bd5c00bbf203181fb7f102c2906e64d3f9840341d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-05-24-a545:2020-12-13'
+title: 'Version consolidée applicable au 13/12/2020 : Règlement grand-ducal du 24 mai 2017 instituant des régimes d’aide en faveur de méthodes de production agricole respectueuses de l’environnement.'
+valid_from: '2020-12-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/05/24/a545/consolide/20201213/fr'
+source_sha256: 'ef2befc306893cb44556929bd5c00bbf203181fb7f102c2906e64d3f9840341d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Dispositions générales**

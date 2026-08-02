@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1952-03-01-n1:1952-03-05
-title: Version consolidée applicable au 01/01/2017 : Loi du 1er mars 1952 modifiant certaines dispositions relatives aux impôts directs.
-valid_from: 1952-03-05
-valid_to: 1967-12-18
-source: https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/19520305/fr
-source_sha256: aab73f09ac4a6ae7c3e9971da03beb66b48849d7d5e5ca496f70438b428b52b1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1952-03-01-n1:1952-03-05'
+title: 'Version consolidée applicable au 01/01/2017 : Loi du 1er mars 1952 modifiant certaines dispositions relatives aux impôts directs.'
+valid_from: '1952-03-05'
+valid_to: '1967-12-18'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/19520305/fr'
+source_sha256: 'aab73f09ac4a6ae7c3e9971da03beb66b48849d7d5e5ca496f70438b428b52b1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier.

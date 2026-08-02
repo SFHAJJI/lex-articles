@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-12-19-a1056:2021-08-22
-title: Loi du 19 décembre 2020 portant adaptation temporaire de certaines modalités procédurales en matière civile et commerciale.
-valid_from: 2021-08-22
-valid_to: 2021-12-23
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/consolide/20210822/fr
-source_sha256: 2063ba9c1c7afbdd0e5f9bd27eb565f32d568f401759df28b6888dbbc0c70d7a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-12-19-a1056:2021-08-22'
+title: 'Loi du 19 décembre 2020 portant adaptation temporaire de certaines modalités procédurales en matière civile et commerciale.'
+valid_from: '2021-08-22'
+valid_to: '2021-12-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/consolide/20210822/fr'
+source_sha256: '2063ba9c1c7afbdd0e5f9bd27eb565f32d568f401759df28b6888dbbc0c70d7a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Dérogations aux règles procédurales devant les juridictions dans les affaires soumises à la procédure écrite**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2007-12-07-n1:2022-01-01
-title: Version consolidée applicable au 01/01/2022 : Loi du 7 décembre 2007 autorisant l'Etat à fournir une garantie bancaire pour la réalisation et l'exploitation d'un réseau de chaleur urbain.
-valid_from: 2022-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2007/12/07/n1/consolide/20220101/fr
-source_sha256: 75f21f3fdde72fed67236947051d666ee38323ead7b1c61e9458a08cf55a2c8e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2007-12-07-n1:2022-01-01'
+title: 'Version consolidée applicable au 01/01/2022 : Loi du 7 décembre 2007 autorisant l''Etat à fournir une garantie bancaire pour la réalisation et l''exploitation d''un réseau de chaleur urbain.'
+valid_from: '2022-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/12/07/n1/consolide/20220101/fr'
+source_sha256: '75f21f3fdde72fed67236947051d666ee38323ead7b1c61e9458a08cf55a2c8e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

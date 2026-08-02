@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-03-09-a101:2024-05-11
-title: Version consolidée applicable au 28/04/2025 : Règlement grand-ducal du 9 mars 2022 déterminant la composition, l’organisation et le fonctionnement de la commission pour le patrimoine culturel.
-valid_from: 2024-05-11
-valid_to: 2025-04-27
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/03/09/a101/consolide/20240511/fr
-source_sha256: c881a05e8a966fb0b68a29debbd0827979206dcb23693a1790431560d888ee79
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-03-09-a101:2024-05-11'
+title: 'Version consolidée applicable au 28/04/2025 : Règlement grand-ducal du 9 mars 2022 déterminant la composition, l’organisation et le fonctionnement de la commission pour le patrimoine culturel.'
+valid_from: '2024-05-11'
+valid_to: '2025-04-27'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/03/09/a101/consolide/20240511/fr'
+source_sha256: 'c881a05e8a966fb0b68a29debbd0827979206dcb23693a1790431560d888ee79'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

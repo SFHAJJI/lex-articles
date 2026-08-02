@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1980-11-21-n1:2022-12-19
-title: Version consolidée applicable au 19/12/2022 : Loi du 21 novembre 1980 portant organisation de la direction de la santé.
-valid_from: 2022-12-19
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1980/11/21/n1/consolide/20221219/fr
-source_sha256: 6a79c1495a06fad537dc8594f22d25bcbabb5f810f14790cd861c19b1976ee4b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1980-11-21-n1:2022-12-19'
+title: 'Version consolidée applicable au 19/12/2022 : Loi du 21 novembre 1980 portant organisation de la direction de la santé.'
+valid_from: '2022-12-19'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1980/11/21/n1/consolide/20221219/fr'
+source_sha256: '6a79c1495a06fad537dc8594f22d25bcbabb5f810f14790cd861c19b1976ee4b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

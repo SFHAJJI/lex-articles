@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:ri-2023-10-24-a761:2024-06-26
-title: Version consolidée applicable au 21/01/2026 : Règlement de la Chambre des Députés.
-valid_from: 2024-06-26
-valid_to: 2024-10-09
-source: https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20240626/fr
-source_sha256: a03fd51f300bb9a9b9d5ab9431b83e9d01058e1eb97c059f473ba9a46f816771
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:ri-2023-10-24-a761:2024-06-26'
+title: 'Version consolidée applicable au 21/01/2026 : Règlement de la Chambre des Députés.'
+valid_from: '2024-06-26'
+valid_to: '2024-10-09'
+source: 'https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20240626/fr'
+source_sha256: 'a03fd51f300bb9a9b9d5ab9431b83e9d01058e1eb97c059f473ba9a46f816771'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I — De l’organisation de la Chambre et de son fonctionnement

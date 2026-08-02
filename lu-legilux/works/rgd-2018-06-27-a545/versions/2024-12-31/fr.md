@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-06-27-a545:2024-12-31
-title: Version consolidée applicable au 31/12/2024 : Règlement grand-ducal du 27 juin 2018 concernant la réduction des émissions nationales de certains polluants atmosphériques.
-valid_from: 2024-12-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a545/consolide/20241231/fr
-source_sha256: 81e8a507a4d6e8fc148eb73c91b1f786898ff1a0db2281c7272fc1e463037b68
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-06-27-a545:2024-12-31'
+title: 'Version consolidée applicable au 31/12/2024 : Règlement grand-ducal du 27 juin 2018 concernant la réduction des émissions nationales de certains polluants atmosphériques.'
+valid_from: '2024-12-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a545/consolide/20241231/fr'
+source_sha256: '81e8a507a4d6e8fc148eb73c91b1f786898ff1a0db2281c7272fc1e463037b68'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

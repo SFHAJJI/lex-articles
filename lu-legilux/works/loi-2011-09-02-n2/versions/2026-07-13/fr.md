@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-09-02-n2:2026-07-13
-title: Version consolidée applicable au 13/07/2026 : Loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.
-valid_from: 2026-07-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20260713/fr
-source_sha256: ddecabfa3d43cb63419de4be630038dd71a71e19212fc2bd64d8fe1c91e1d7ca
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-09-02-n2:2026-07-13'
+title: 'Version consolidée applicable au 13/07/2026 : Loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.'
+valid_from: '2026-07-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20260713/fr'
+source_sha256: 'ddecabfa3d43cb63419de4be630038dd71a71e19212fc2bd64d8fe1c91e1d7ca'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions générales

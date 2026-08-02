@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-1985-01-28-n1:1986-09-23
-title: Version consolidée applicable au 23/09/1986 : Règlement ministériel du 28 janvier 1985 déterminant les mesures nécessaires pour parer à la propagation de la rage et conditionnant la circulation, l'importation et l'exportation des chiens et des chats.
-valid_from: 1986-09-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/1985/01/28/n1/consolide/19860923/fr
-source_sha256: b3e86d293d07e848c64ea65594ca2322bfd132452941ec64bb27c9224d797905
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-1985-01-28-n1:1986-09-23'
+title: 'Version consolidée applicable au 23/09/1986 : Règlement ministériel du 28 janvier 1985 déterminant les mesures nécessaires pour parer à la propagation de la rage et conditionnant la circulation, l''importation et l''exportation des chiens et des chats.'
+valid_from: '1986-09-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/1985/01/28/n1/consolide/19860923/fr'
+source_sha256: 'b3e86d293d07e848c64ea65594ca2322bfd132452941ec64bb27c9224d797905'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

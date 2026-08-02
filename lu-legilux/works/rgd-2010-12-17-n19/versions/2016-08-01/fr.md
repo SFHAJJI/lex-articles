@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-12-17-n19:2016-08-01
-title: Version consolidée applicable au 01/08/2016 : Règlement grand-ducal du 17 décembre 2010 déterminant la procédure de déclaration des accidents et des maladies professionnelles et précisant la prise en charge de certaines prestations par l’assurance accident.
-valid_from: 2016-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/consolide/20160801/fr
-source_sha256: 6bacdd5e980f2582d4701cc96022c6c79f53d8df5660673e00dcacedbc3a3129
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-12-17-n19:2016-08-01'
+title: 'Version consolidée applicable au 01/08/2016 : Règlement grand-ducal du 17 décembre 2010 déterminant la procédure de déclaration des accidents et des maladies professionnelles et précisant la prise en charge de certaines prestations par l’assurance accident.'
+valid_from: '2016-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/consolide/20160801/fr'
+source_sha256: '6bacdd5e980f2582d4701cc96022c6c79f53d8df5660673e00dcacedbc3a3129'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

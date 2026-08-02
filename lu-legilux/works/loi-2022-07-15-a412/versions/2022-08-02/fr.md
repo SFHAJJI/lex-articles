@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-07-15-a412:2022-08-02
-title: Version consolidée applicable au 20/03/2024 : Loi du 15 juillet 2022 visant à mettre en place un régime d’aides aux entreprises particulièrement touchées par la hausse des prix de l’énergie causée par l’agression de la Russie contre l’Ukraine.
-valid_from: 2022-08-02
-valid_to: 2022-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a412/consolide/20220802/fr
-source_sha256: 31b5b957328e2ed85afe30a4852369c4c48303415b473d6fe717972f86e6d553
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-07-15-a412:2022-08-02'
+title: 'Version consolidée applicable au 20/03/2024 : Loi du 15 juillet 2022 visant à mettre en place un régime d’aides aux entreprises particulièrement touchées par la hausse des prix de l’énergie causée par l’agression de la Russie contre l’Ukraine.'
+valid_from: '2022-08-02'
+valid_to: '2022-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a412/consolide/20220802/fr'
+source_sha256: '31b5b957328e2ed85afe30a4852369c4c48303415b473d6fe717972f86e6d553'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

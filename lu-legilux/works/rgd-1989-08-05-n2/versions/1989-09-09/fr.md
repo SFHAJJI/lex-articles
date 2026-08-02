@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1989-08-05-n2:1989-09-09
-title: Version rectifiée applicable au 09/09/1989 : Règlement grand-ducal du 5 août 1989 fixant l’organisation et le fonctionnement des commissions consultatives communales pour étrangers.
-valid_from: 1989-09-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1989/08/05/n2/consolide/19890909/fr
-source_sha256: 228db0cb7522bd317c8950f35feb838771d449d50c82f95f39d033e834f3ddca
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1989-08-05-n2:1989-09-09'
+title: 'Version rectifiée applicable au 09/09/1989 : Règlement grand-ducal du 5 août 1989 fixant l’organisation et le fonctionnement des commissions consultatives communales pour étrangers.'
+valid_from: '1989-09-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1989/08/05/n2/consolide/19890909/fr'
+source_sha256: '228db0cb7522bd317c8950f35feb838771d449d50c82f95f39d033e834f3ddca'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

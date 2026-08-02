@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-08-03-n3:2018-09-09
-title: Version consolidée applicable au 09/09/2018 : Loi du 3 août 2005 concernant le partenariat entre les syndicats de communes et l’Etat et la restructuration de la démarche scientifique en matière de protection de la nature et des ressources naturelles.
-valid_from: 2018-09-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n3/consolide/20180909/fr
-source_sha256: 7a986b442b95f188e386555db113dfaca9c6c917c6891b5c5a999299f63291d6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-08-03-n3:2018-09-09'
+title: 'Version consolidée applicable au 09/09/2018 : Loi du 3 août 2005 concernant le partenariat entre les syndicats de communes et l’Etat et la restructuration de la démarche scientifique en matière de protection de la nature et des ressources naturelles.'
+valid_from: '2018-09-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n3/consolide/20180909/fr'
+source_sha256: '7a986b442b95f188e386555db113dfaca9c6c917c6891b5c5a999299f63291d6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## CHAPITRE I — OBJECTIF

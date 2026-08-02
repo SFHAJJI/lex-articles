@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-06-25-n4:2020-01-01
-title: Version consolidée applicable au 03/07/2026 : Règlement grand-ducal du 25 juin 2009 déterminant les conditions et modalités relatives\n 1. à la mise en compte des périodes prévues à l’article 4 et\n 2. à l’assurance continuée, l’assurance complémentaire, l’assurance facultative et l’achat rétroactif de périodes d’assurance prévus aux articles 5, 5bis et 6\n de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.
-valid_from: 2020-01-01
-valid_to: 2026-07-02
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/06/25/n4/consolide/20200101/fr
-source_sha256: e8349aa1dd1ecbbba314fa0bfd9c83ed4817c4c7c08f213ed3a8a67712e53442
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-06-25-n4:2020-01-01'
+title: 'Version consolidée applicable au 03/07/2026 : Règlement grand-ducal du 25 juin 2009 déterminant les conditions et modalités relatives\n 1. à la mise en compte des périodes prévues à l’article 4 et\n 2. à l’assurance continuée, l’assurance complémentaire, l’assurance facultative et l’achat rétroactif de périodes d’assurance prévus aux articles 5, 5bis et 6\n de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l’Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.'
+valid_from: '2020-01-01'
+valid_to: '2026-07-02'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/06/25/n4/consolide/20200101/fr'
+source_sha256: 'e8349aa1dd1ecbbba314fa0bfd9c83ed4817c4c7c08f213ed3a8a67712e53442'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

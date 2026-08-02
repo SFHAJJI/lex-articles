@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1988-07-15-n3:2026-05-20
-title: rgd-1988-07-15-n3
-valid_from: 2026-05-20
-valid_to: 2026-10-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20260520/fr
-source_sha256: b61083ba65fb2ac3535872ce90eeeb4828b3c5c6de32efbc57887f2c4074b52c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1988-07-15-n3:2026-05-20'
+title: 'rgd-1988-07-15-n3'
+valid_from: '2026-05-20'
+valid_to: '2026-10-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20260520/fr'
+source_sha256: 'b61083ba65fb2ac3535872ce90eeeb4828b3c5c6de32efbc57887f2c4074b52c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

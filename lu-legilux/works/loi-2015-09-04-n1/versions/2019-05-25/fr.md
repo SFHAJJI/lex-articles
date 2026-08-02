@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-09-04-n1:2019-05-25
-title: Loi du 4 septembre 2015 relative aux produits biocides.
-valid_from: 2019-05-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/09/04/n1/consolide/20190525/fr
-source_sha256: 339a4c92a6c36eb5f2e9122582a60e765aa4a9373c8c55fb0f17ef198fb1cf7e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-09-04-n1:2019-05-25'
+title: 'Loi du 4 septembre 2015 relative aux produits biocides.'
+valid_from: '2019-05-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/09/04/n1/consolide/20190525/fr'
+source_sha256: '339a4c92a6c36eb5f2e9122582a60e765aa4a9373c8c55fb0f17ef198fb1cf7e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier — Compétences et enregistrement

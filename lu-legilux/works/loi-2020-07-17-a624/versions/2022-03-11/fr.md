@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-07-17-a624:2022-03-11
-title: Loi du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19.
-valid_from: 2022-03-11
-valid_to: 2022-06-13
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20220311/fr
-source_sha256: ad8c3eed5769922a052ca437179d4771ec31eb7e807b195802193d803dd29fb3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-07-17-a624:2022-03-11'
+title: 'Loi du 17 juillet 2020 sur les mesures de lutte contre la pandémie Covid-19.'
+valid_from: '2022-03-11'
+valid_to: '2022-06-13'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20220311/fr'
+source_sha256: 'ad8c3eed5769922a052ca437179d4771ec31eb7e807b195802193d803dd29fb3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Définitions**

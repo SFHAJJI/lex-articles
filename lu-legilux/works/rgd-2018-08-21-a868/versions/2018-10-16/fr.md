@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-08-21-a868:2018-10-16
-title: Version consolidée applicable au 31/05/2022 : Règlement grand-ducal du 21 août 2018 déterminant les modalités de prescription et d’accès à l’usage de cannabis à des fins médicales, ainsi que le contenu et la durée de la formation spéciale pour les médecins et modifiant :\n1° le règlement grand-ducal modifié du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente des substances médicamenteuses et la lutte contre la toxicomanie ;\n2° le règlement grand-ducal modifié du 18 janvier 2005 déterminant le modèle du carnet à souches prévu à l’article 30-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.
-valid_from: 2018-10-16
-valid_to: 2022-05-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/08/21/a868/consolide/20181016/fr
-source_sha256: 59c9b24b7a8a3383907f329fc16f958be155c1c90a22a9a572aa7449f0c2c3c5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-08-21-a868:2018-10-16'
+title: 'Version consolidée applicable au 31/05/2022 : Règlement grand-ducal du 21 août 2018 déterminant les modalités de prescription et d’accès à l’usage de cannabis à des fins médicales, ainsi que le contenu et la durée de la formation spéciale pour les médecins et modifiant :\n1° le règlement grand-ducal modifié du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente des substances médicamenteuses et la lutte contre la toxicomanie ;\n2° le règlement grand-ducal modifié du 18 janvier 2005 déterminant le modèle du carnet à souches prévu à l’article 30-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.'
+valid_from: '2018-10-16'
+valid_to: '2022-05-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/08/21/a868/consolide/20181016/fr'
+source_sha256: '59c9b24b7a8a3383907f329fc16f958be155c1c90a22a9a572aa7449f0c2c3c5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

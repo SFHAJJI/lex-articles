@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-09-26-n3:2024-07-01
-title: Version consolidée applicable au 01/07/2024 : Règlement grand-ducal du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.
-valid_from: 2024-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/consolide/20240701/fr
-source_sha256: 9e02a9eb4837d06fc4b3360e7e9039830b288d96a172d8dc09aff13a077a84c6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-09-26-n3:2024-07-01'
+title: 'Version consolidée applicable au 01/07/2024 : Règlement grand-ducal du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.'
+valid_from: '2024-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/consolide/20240701/fr'
+source_sha256: '9e02a9eb4837d06fc4b3360e7e9039830b288d96a172d8dc09aff13a077a84c6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-conseil_economique_social:2015-10-01
-title: Conseil économique et social
-valid_from: 2015-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/conseil_economique_social/20151001/fr
-source_sha256: bf3dd397e496c0aa03fcd32220e98cde8cd2bdb913ac1fd81ad5d88952358740
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-conseil_economique_social:2015-10-01'
+title: 'Conseil économique et social'
+valid_from: '2015-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/conseil_economique_social/20151001/fr'
+source_sha256: 'bf3dd397e496c0aa03fcd32220e98cde8cd2bdb913ac1fd81ad5d88952358740'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Version consolidée applicable au 01/10/2015 : Loi du 21 mars 1966 portant institution d'un conseil économique et social.

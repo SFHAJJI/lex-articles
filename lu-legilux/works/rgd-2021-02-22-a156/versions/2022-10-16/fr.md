@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-02-22-a156:2022-10-16
-title: Version consolidée applicable au 16/10/2022 : Règlement grand-ducal du 22 février 2021 fixant les programmes de la formation spéciale et les modalités de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive des fonctionnaires stagiaires relevant des différentes catégories de traitement auprès de l’Institut de formation de l’Éducation nationale.
-valid_from: 2022-10-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/02/22/a156/consolide/20221016/fr
-source_sha256: 0cd4e726cdbe321dbb1226b953da6fe02b2af2d527e381102989de5fbdb4e4aa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-02-22-a156:2022-10-16'
+title: 'Version consolidée applicable au 16/10/2022 : Règlement grand-ducal du 22 février 2021 fixant les programmes de la formation spéciale et les modalités de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive des fonctionnaires stagiaires relevant des différentes catégories de traitement auprès de l’Institut de formation de l’Éducation nationale.'
+valid_from: '2022-10-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/02/22/a156/consolide/20221016/fr'
+source_sha256: '0cd4e726cdbe321dbb1226b953da6fe02b2af2d527e381102989de5fbdb4e4aa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Programme de la formation spéciale**

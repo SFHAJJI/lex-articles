@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:tc-1986-12-18-n1:1986-12-21
-title: Version consolidée applicable au 02/11/1985 : Texte coordonné du 18 décembre 1986 de la loi du 21 mars 1966 portant institution d'un conseil économique et social, telle qu'elle a été modifiée par la loi du 15 décembre 1986.
-valid_from: 1986-12-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/19861221/fr
-source_sha256: dd4aee9efea0b6f3ac5d3f372d7eb7f0a7f33c4201c768dce2b64a9aaf7c38ed
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:tc-1986-12-18-n1:1986-12-21'
+title: 'Version consolidée applicable au 02/11/1985 : Texte coordonné du 18 décembre 1986 de la loi du 21 mars 1966 portant institution d''un conseil économique et social, telle qu''elle a été modifiée par la loi du 15 décembre 1986.'
+valid_from: '1986-12-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/19861221/fr'
+source_sha256: 'dd4aee9efea0b6f3ac5d3f372d7eb7f0a7f33c4201c768dce2b64a9aaf7c38ed'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

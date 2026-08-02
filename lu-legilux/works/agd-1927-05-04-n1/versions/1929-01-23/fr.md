@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1927-05-04-n1:1929-01-23
-title: Version consolidée applicable au 29/01/1930 : Arrêté grand-ducal du 4 mai 1927 relatif à la codification des dispositions d’exécution aux lois des 29 mai 1906 et 14 décembre 1914 sur les habitations à bon marché.
-valid_from: 1929-01-23
-valid_to: 1930-01-28
-source: https://legilux.public.lu/eli/etat/leg/agd/1927/05/04/n1/consolide/19290123/fr
-source_sha256: e3bc1745581731ae5aea5b33a61086e606a528aa240b566e4b64c8872748aa40
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1927-05-04-n1:1929-01-23'
+title: 'Version consolidée applicable au 29/01/1930 : Arrêté grand-ducal du 4 mai 1927 relatif à la codification des dispositions d’exécution aux lois des 29 mai 1906 et 14 décembre 1914 sur les habitations à bon marché.'
+valid_from: '1929-01-23'
+valid_to: '1930-01-28'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1927/05/04/n1/consolide/19290123/fr'
+source_sha256: 'e3bc1745581731ae5aea5b33a61086e606a528aa240b566e4b64c8872748aa40'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre ler — Dispositions générales.

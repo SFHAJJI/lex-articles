@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1906-05-29-n4:1914-12-21
-title: Version consolidée applicable au 05/08/2002 : Loi du 29 mai 1906 sur les habitations à bon marché.
-valid_from: 1914-12-21
-valid_to: 1975-05-26
-source: https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19141221/fr
-source_sha256: 3ba4f36c5ea61e286f63e75743c6a491ddeb9d9a932d367e1ea51ae59a80701a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1906-05-29-n4:1914-12-21'
+title: 'Version consolidée applicable au 05/08/2002 : Loi du 29 mai 1906 sur les habitations à bon marché.'
+valid_from: '1914-12-21'
+valid_to: '1975-05-26'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19141221/fr'
+source_sha256: '3ba4f36c5ea61e286f63e75743c6a491ddeb9d9a932d367e1ea51ae59a80701a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

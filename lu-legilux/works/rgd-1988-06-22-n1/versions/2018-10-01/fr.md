@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1988-06-22-n1:2018-10-01
-title: Version consolidée applicable au 01/10/2018 : Règlement grand-ducal du 22 juin 1988 déterminant les conditions et les modalités d'attribution de l'allocation de famille aux fonctionnaires, employés et ouvriers de l'Etat.
-valid_from: 2018-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1988/06/22/n1/consolide/20181001/fr
-source_sha256: 49c6b49671c3fbcc281afbbdff3288f63d6e9be5ce386bf065af33b521381195
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1988-06-22-n1:2018-10-01'
+title: 'Version consolidée applicable au 01/10/2018 : Règlement grand-ducal du 22 juin 1988 déterminant les conditions et les modalités d''attribution de l''allocation de famille aux fonctionnaires, employés et ouvriers de l''Etat.'
+valid_from: '2018-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1988/06/22/n1/consolide/20181001/fr'
+source_sha256: '49c6b49671c3fbcc281afbbdff3288f63d6e9be5ce386bf065af33b521381195'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Champ d’application

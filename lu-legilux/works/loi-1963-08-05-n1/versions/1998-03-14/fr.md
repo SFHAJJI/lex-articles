@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1963-08-05-n1:1998-03-14
-title: Version consolidée applicable au 03/12/1997 : Loi du 5 août 1963 concernant l'importation, l'exportation et le transit des marchandises.
-valid_from: 1998-03-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1963/08/05/n1/consolide/19980314/fr
-source_sha256: 3783f0d501655226370d0520ab22026062bd02c2f9eafae78a696586c7d464bc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1963-08-05-n1:1998-03-14'
+title: 'Version consolidée applicable au 03/12/1997 : Loi du 5 août 1963 concernant l''importation, l''exportation et le transit des marchandises.'
+valid_from: '1998-03-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1963/08/05/n1/consolide/19980314/fr'
+source_sha256: '3783f0d501655226370d0520ab22026062bd02c2f9eafae78a696586c7d464bc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: eu-eurlex:32014l0065:2021-06-26
-title: MiFID II — Directive 2014/65/EU
-valid_from: 2021-06-26
-valid_to: 2021-11-09
-source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0065-20210626
-source_sha256: 769281f3f6df450f695488ddfc6a88fb19d3cbff24bc5b0d2f4af8a8b78ceff0
-license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
-attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: fmx4-eu/1 · lex derive
+lex_id: 'eu-eurlex:32014l0065:2021-06-26'
+title: 'MiFID II — Directive 2014/65/EU'
+valid_from: '2021-06-26'
+valid_to: '2021-11-09'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0065-20210626'
+source_sha256: '769281f3f6df450f695488ddfc6a88fb19d3cbff24bc5b0d2f4af8a8b78ceff0'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'fmx4-eu/1 · lex derive'
 ---
 
 ## TITLE I — SCOPE AND DEFINITIONS

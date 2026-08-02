@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-03-22-n2:2005-10-25
-title: Version consolidée applicable au 25/10/2005 : Règlement grand-ducal du 22 mars 2004 déterminant les conditions d'admission, de nomination et d'avancement du personnel des cadres de l'administration gouvernementale.
-valid_from: 2005-10-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/03/22/n2/consolide/20051025/fr
-source_sha256: bd2a8eea1e5b7bc714f0b7c416309fe5f5f049f23b0789e61c9d16330919196b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-03-22-n2:2005-10-25'
+title: 'Version consolidée applicable au 25/10/2005 : Règlement grand-ducal du 22 mars 2004 déterminant les conditions d''admission, de nomination et d''avancement du personnel des cadres de l''administration gouvernementale.'
+valid_from: '2005-10-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/03/22/n2/consolide/20051025/fr'
+source_sha256: 'bd2a8eea1e5b7bc714f0b7c416309fe5f5f049f23b0789e61c9d16330919196b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre I.** — **Dispositions générales**

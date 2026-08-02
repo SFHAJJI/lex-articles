@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1990-10-25-n1:2023-01-01
-title: Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 25 octobre 1990 concernant la prestation d'heures de travail supplémentaires par des fonctionnaires ainsi que leur astreinte à domicile.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/consolide/20230101/fr
-source_sha256: d3f051e26a6c281f6bd4a5a5846aea3d926fc00d36e08476b1bf4873ed6777bc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1990-10-25-n1:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 25 octobre 1990 concernant la prestation d''heures de travail supplémentaires par des fonctionnaires ainsi que leur astreinte à domicile.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/consolide/20230101/fr'
+source_sha256: 'd3f051e26a6c281f6bd4a5a5846aea3d926fc00d36e08476b1bf4873ed6777bc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I.** — ** Champ d’application**

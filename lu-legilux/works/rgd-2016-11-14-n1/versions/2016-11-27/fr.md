@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-11-14-n1:2016-11-27
-title: Version consolidée applicable au 24/07/2026 : Règlement grand-ducal du 14 novembre 2016 concernant la protection de la sécurité et de la santé des salariés contre les risques liés à des agents chimiques sur le lieu de travail.
-valid_from: 2016-11-27
-valid_to: 2018-08-19
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n1/consolide/20161127/fr
-source_sha256: 9eb126097fc13a1d670b92be575d5f27bfbbe2a7146a174c0cc38858d9814d3d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-11-14-n1:2016-11-27'
+title: 'Version consolidée applicable au 24/07/2026 : Règlement grand-ducal du 14 novembre 2016 concernant la protection de la sécurité et de la santé des salariés contre les risques liés à des agents chimiques sur le lieu de travail.'
+valid_from: '2016-11-27'
+valid_to: '2018-08-19'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n1/consolide/20161127/fr'
+source_sha256: '9eb126097fc13a1d670b92be575d5f27bfbbe2a7146a174c0cc38858d9814d3d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1988-09-01-n1:1994-09-16
-title: Version consolidée applicable au 16/09/1994 : Loi du 1er septembre 1988 relative à la responsabilité civile de l'Etat et des collectivités publiques.
-valid_from: 1994-09-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/consolide/19940916/fr
-source_sha256: 50868b9bc35d74912583b5ea6e441d9b8d9901f3a8cd03de67f0ed3222503e15
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1988-09-01-n1:1994-09-16'
+title: 'Version consolidée applicable au 16/09/1994 : Loi du 1er septembre 1988 relative à la responsabilité civile de l''Etat et des collectivités publiques.'
+valid_from: '1994-09-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/consolide/19940916/fr'
+source_sha256: '50868b9bc35d74912583b5ea6e441d9b8d9901f3a8cd03de67f0ed3222503e15'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

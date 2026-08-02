@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-04-08-n2:2017-03-10
-title: Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 8 avril 2000 fixant la procédure à suivre pour obtenir l'autorisation d'exercer au Grand-Duché certaines professions de santé.
-valid_from: 2017-03-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/04/08/n2/consolide/20170310/fr
-source_sha256: 534da281bf461d09ea0ec0c6db5966b4e1460a9328f050078eeecfe23a86937a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-04-08-n2:2017-03-10'
+title: 'Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 8 avril 2000 fixant la procédure à suivre pour obtenir l''autorisation d''exercer au Grand-Duché certaines professions de santé.'
+valid_from: '2017-03-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/04/08/n2/consolide/20170310/fr'
+source_sha256: '534da281bf461d09ea0ec0c6db5966b4e1460a9328f050078eeecfe23a86937a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

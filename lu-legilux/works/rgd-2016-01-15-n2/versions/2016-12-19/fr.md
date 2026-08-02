@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-01-15-n2:2016-12-19
-title: Version consolidée applicable au 14/12/2020 : Règlement grand-ducal du 15 janvier 2016 relatif à l'évaluation de l'état des masses d'eau de surface.
-valid_from: 2016-12-19
-valid_to: 2020-12-13
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/01/15/n2/consolide/20161219/fr
-source_sha256: df07bb4a2525dfca0b87f99edb6325a05520c43d73d7c5597affd8e9a9ec749b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-01-15-n2:2016-12-19'
+title: 'Version consolidée applicable au 14/12/2020 : Règlement grand-ducal du 15 janvier 2016 relatif à l''évaluation de l''état des masses d''eau de surface.'
+valid_from: '2016-12-19'
+valid_to: '2020-12-13'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/01/15/n2/consolide/20161219/fr'
+source_sha256: 'df07bb4a2525dfca0b87f99edb6325a05520c43d73d7c5597affd8e9a9ec749b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

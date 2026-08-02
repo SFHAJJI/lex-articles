@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-02-27-n2:2026-02-23
-title: Version consolidée applicable au 23/02/2026 : Règlement grand-ducal du 27 février 2011 relatif à la mise en place d’un système communautaire de suivi du trafic des navires et d’information.
-valid_from: 2026-02-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n2/consolide/20260223/fr
-source_sha256: e8f586298ebbad61cce3606e80f3759858d6923b947d68020c4e3f411682aa28
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-02-27-n2:2026-02-23'
+title: 'Version consolidée applicable au 23/02/2026 : Règlement grand-ducal du 27 février 2011 relatif à la mise en place d’un système communautaire de suivi du trafic des navires et d’information.'
+valid_from: '2026-02-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n2/consolide/20260223/fr'
+source_sha256: 'e8f586298ebbad61cce3606e80f3759858d6923b947d68020c4e3f411682aa28'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

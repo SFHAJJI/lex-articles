@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2003-12-23-n3:2005-08-01
-title: Version consolidée applicable au 01/08/2005 : Règlement grand-ducal du 23 décembre 2003 portant exécution de l’article 8 sous 1 d) de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.
-valid_from: 2005-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2003/12/23/n3/consolide/20050801/fr
-source_sha256: a297b985ab18e4c54d57773b17e647e94a16af3103ceb85b0d1c5deb4f48c51b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2003-12-23-n3:2005-08-01'
+title: 'Version consolidée applicable au 01/08/2005 : Règlement grand-ducal du 23 décembre 2003 portant exécution de l’article 8 sous 1 d) de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.'
+valid_from: '2005-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2003/12/23/n3/consolide/20050801/fr'
+source_sha256: 'a297b985ab18e4c54d57773b17e647e94a16af3103ceb85b0d1c5deb4f48c51b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

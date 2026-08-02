@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1979-03-15-n3:2013-09-10
-title: Version consolidée applicable au 24/04/2018 : Loi du 15 mars 1979 sur l'expropriation pour cause d'utilité publique.
-valid_from: 2013-09-10
-valid_to: 2018-04-23
-source: https://legilux.public.lu/eli/etat/leg/loi/1979/03/15/n3/consolide/20130910/fr
-source_sha256: 9bca97ebd1734d8cee928eb53f2fabe6c44d0bffdb5173e95b826fc70d17e2c6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1979-03-15-n3:2013-09-10'
+title: 'Version consolidée applicable au 24/04/2018 : Loi du 15 mars 1979 sur l''expropriation pour cause d''utilité publique.'
+valid_from: '2013-09-10'
+valid_to: '2018-04-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/03/15/n3/consolide/20130910/fr'
+source_sha256: '9bca97ebd1734d8cee928eb53f2fabe6c44d0bffdb5173e95b826fc70d17e2c6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

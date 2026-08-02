@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-01-26-n9:2013-09-07
-title: Version consolidée applicable au 24/03/2015 : Règlement grand-ducal du 26 janvier 2010 relatif à des problèmes de police sanitaire en matière d'échanges intracommunautaires d'animaux des espèces bovine et porcine.
-valid_from: 2013-09-07
-valid_to: 2015-03-23
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/01/26/n9/consolide/20130907/fr
-source_sha256: cc06cc4476dec7a836bde874bfbec03d782355cc8ce19aa5998b27220bdd9deb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-01-26-n9:2013-09-07'
+title: 'Version consolidée applicable au 24/03/2015 : Règlement grand-ducal du 26 janvier 2010 relatif à des problèmes de police sanitaire en matière d''échanges intracommunautaires d''animaux des espèces bovine et porcine.'
+valid_from: '2013-09-07'
+valid_to: '2015-03-23'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/01/26/n9/consolide/20130907/fr'
+source_sha256: 'cc06cc4476dec7a836bde874bfbec03d782355cc8ce19aa5998b27220bdd9deb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

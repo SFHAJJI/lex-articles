@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-06-20-a262:2024-07-01
-title: Version rectifiée applicable au 01/07/2024 : Règlement grand-ducal du 20 juin 2024 portant modification :\n1° du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration ;\n2° du règlement grand-ducal modifié du 5 septembre 2008 portant exécution de certaines dispositions relatives aux formalités administratives prévues par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration ;\n3° du règlement grand-ducal modifié du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.\n
-valid_from: 2024-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/06/20/a262/consolide/20240701/fr
-source_sha256: cd66c15c72d90c65246f9e56bd7390549fe41d9ca2d5034330ab5d82d9f1a590
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-06-20-a262:2024-07-01'
+title: 'Version rectifiée applicable au 01/07/2024 : Règlement grand-ducal du 20 juin 2024 portant modification :\n1° du règlement grand-ducal modifié du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration ;\n2° du règlement grand-ducal modifié du 5 septembre 2008 portant exécution de certaines dispositions relatives aux formalités administratives prévues par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration ;\n3° du règlement grand-ducal modifié du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.\n'
+valid_from: '2024-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/06/20/a262/consolide/20240701/fr'
+source_sha256: 'cd66c15c72d90c65246f9e56bd7390549fe41d9ca2d5034330ab5d82d9f1a590'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

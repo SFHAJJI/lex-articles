@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-11-15-n1:2017-05-26
-title: Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 15 novembre 2011 portant détermination des modalités de désignation des représentants des étrangers au Conseil national pour étrangers, ainsi que leur répartition par nationalités.
-valid_from: 2017-05-26
-valid_to: 2019-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20170526/fr
-source_sha256: c628be795818729e31baa9572203b6e6be39eb4ffe49be5e84cd46db18445ac6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-11-15-n1:2017-05-26'
+title: 'Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 15 novembre 2011 portant détermination des modalités de désignation des représentants des étrangers au Conseil national pour étrangers, ainsi que leur répartition par nationalités.'
+valid_from: '2017-05-26'
+valid_to: '2019-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20170526/fr'
+source_sha256: 'c628be795818729e31baa9572203b6e6be39eb4ffe49be5e84cd46db18445ac6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I.** — **Répartition des représentants des étrangers au Conseil national pour étrangers**

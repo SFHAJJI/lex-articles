@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1987-10-21-n1:2023-04-01
-title: Version consolidée applicable au 01/04/2023 : Règlement grand-ducal du 21 octobre 1987 concernant le temps de travail et les congés des fonctionnaires communaux.
-valid_from: 2023-04-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1987/10/21/n1/consolide/20230401/fr
-source_sha256: 3a216caf51119a22559ba0dfda0f66abe3046e44a4a5f30adea440145b56d5d6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1987-10-21-n1:2023-04-01'
+title: 'Version consolidée applicable au 01/04/2023 : Règlement grand-ducal du 21 octobre 1987 concernant le temps de travail et les congés des fonctionnaires communaux.'
+valid_from: '2023-04-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1987/10/21/n1/consolide/20230401/fr'
+source_sha256: '3a216caf51119a22559ba0dfda0f66abe3046e44a4a5f30adea440145b56d5d6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Dispositions générales

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-04-18-a308:2026-07-11
-title: Version consolidée applicable au 11/07/2026 : Règlement grand-ducal du 18 avril 2020 fixant les conditions et les modalités d’émission d’emprunts par l’État et abrogeant le règlement grand-ducal du 7 février 2013 fixant les conditions et les modalités d’émission d’emprunts par l’État.
-valid_from: 2026-07-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/04/18/a308/consolide/20260711/fr
-source_sha256: 55a1c39e66f714299beca7212cad66d389dd70108f86961638cba1d017f8a4be
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-04-18-a308:2026-07-11'
+title: 'Version consolidée applicable au 11/07/2026 : Règlement grand-ducal du 18 avril 2020 fixant les conditions et les modalités d’émission d’emprunts par l’État et abrogeant le règlement grand-ducal du 7 février 2013 fixant les conditions et les modalités d’émission d’emprunts par l’État.'
+valid_from: '2026-07-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/04/18/a308/consolide/20260711/fr'
+source_sha256: '55a1c39e66f714299beca7212cad66d389dd70108f86961638cba1d017f8a4be'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

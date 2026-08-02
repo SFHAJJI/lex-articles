@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:ri-2013-01-09-n1:2017-12-06
-title: Version consolidée applicable au 20/07/2022 : Règlement Intérieur de l'Ordre des Avocats du Barreau de Luxembourg tel que adopté par le Conseil de l'Ordre lors de sa réunion du 9 janvier 2013.
-valid_from: 2017-12-06
-valid_to: 2018-03-20
-source: https://legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1/consolide/20171206/fr
-source_sha256: a7bcfbd121a85438c7789e72fdc9ecdcff17fdd9e46a570d391b6e37e649b976
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:ri-2013-01-09-n1:2017-12-06'
+title: 'Version consolidée applicable au 20/07/2022 : Règlement Intérieur de l''Ordre des Avocats du Barreau de Luxembourg tel que adopté par le Conseil de l''Ordre lors de sa réunion du 9 janvier 2013.'
+valid_from: '2017-12-06'
+valid_to: '2018-03-20'
+source: 'https://legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1/consolide/20171206/fr'
+source_sha256: 'a7bcfbd121a85438c7789e72fdc9ecdcff17fdd9e46a570d391b6e37e649b976'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **TITRE 1.** — ** PRINCIPES ESSENTIELS**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgc-2023-09-22-a636:2025-10-10
-title: Version consolidée applicable au 10/10/2025 : Règlement du Gouvernement en Conseil du 22 septembre 2023 portant fixation de l’indemnité spéciale allouée aux participants à une opération pour le maintien de la paix, à une opération de prévention ou à une opération de gestion de crise.
-valid_from: 2025-10-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/consolide/20251010/fr
-source_sha256: 2305397707013bfe1f700b26a7155564f47612a2cbdf0f4a69ec6de35a18016d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgc-2023-09-22-a636:2025-10-10'
+title: 'Version consolidée applicable au 10/10/2025 : Règlement du Gouvernement en Conseil du 22 septembre 2023 portant fixation de l’indemnité spéciale allouée aux participants à une opération pour le maintien de la paix, à une opération de prévention ou à une opération de gestion de crise.'
+valid_from: '2025-10-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/consolide/20251010/fr'
+source_sha256: '2305397707013bfe1f700b26a7155564f47612a2cbdf0f4a69ec6de35a18016d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-12-30-n13:2011-01-17
-title: Version consolidée applicable au 01/01/2013 : Règlement grand-ducal du 30 décembre 2010 fixant la compétence des bureaux d'imposition de la section des personnes physiques de l'administration des contributions directes.
-valid_from: 2011-01-17
-valid_to: 2011-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n13/consolide/20110117/fr
-source_sha256: dfdcdf61847dbc4a66ff39ee4e32de781fa658a93429206759d0847e70471427
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-12-30-n13:2011-01-17'
+title: 'Version consolidée applicable au 01/01/2013 : Règlement grand-ducal du 30 décembre 2010 fixant la compétence des bureaux d''imposition de la section des personnes physiques de l''administration des contributions directes.'
+valid_from: '2011-01-17'
+valid_to: '2011-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n13/consolide/20110117/fr'
+source_sha256: 'dfdcdf61847dbc4a66ff39ee4e32de781fa658a93429206759d0847e70471427'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

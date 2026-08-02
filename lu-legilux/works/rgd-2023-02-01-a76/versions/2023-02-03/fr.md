@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-02-01-a76:2023-02-03
-title: Version rectifiée applicable au 03/02/2023 : Règlement grand-ducal du 1er février 2023 actualisant le règlement grand-ducal modifié du 20 décembre 1999 concernant l’établissement de l’indice des prix à la consommation.
-valid_from: 2023-02-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/02/01/a76/consolide/20230203/fr
-source_sha256: 9b22d568a22af13bc765359bf7e6c5de5c9fd364be5cef5653b77e59f711bbd3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-02-01-a76:2023-02-03'
+title: 'Version rectifiée applicable au 03/02/2023 : Règlement grand-ducal du 1er février 2023 actualisant le règlement grand-ducal modifié du 20 décembre 1999 concernant l’établissement de l’indice des prix à la consommation.'
+valid_from: '2023-02-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/02/01/a76/consolide/20230203/fr'
+source_sha256: '9b22d568a22af13bc765359bf7e6c5de5c9fd364be5cef5653b77e59f711bbd3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

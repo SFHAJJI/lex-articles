@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2006-09-11-n11:2007-12-15
-title: Version consolidée applicable au 15/12/2007 : Règlement grand-ducal du 11 septembre 2006 fixant les conditions et modalités de l’ordre de justification à adresser aux fonctionnaires communaux.
-valid_from: 2007-12-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2006/09/11/n11/consolide/20071215/fr
-source_sha256: d6eed41114960852118c289de48d5611e476c49eaad82b0525cbcbc0ccf83ca1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2006-09-11-n11:2007-12-15'
+title: 'Version consolidée applicable au 15/12/2007 : Règlement grand-ducal du 11 septembre 2006 fixant les conditions et modalités de l’ordre de justification à adresser aux fonctionnaires communaux.'
+valid_from: '2007-12-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2006/09/11/n11/consolide/20071215/fr'
+source_sha256: 'd6eed41114960852118c289de48d5611e476c49eaad82b0525cbcbc0ccf83ca1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

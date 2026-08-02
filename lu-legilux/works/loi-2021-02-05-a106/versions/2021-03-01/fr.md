@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-02-05-a106:2021-03-01
-title: Loi du 5 février 2021 sur les transports publics.
-valid_from: 2021-03-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/consolide/20210301/fr
-source_sha256: 071603175eca43be67a98e63052f1885d5b20639138595081a975a54ad3cb4c6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-02-05-a106:2021-03-01'
+title: 'Loi du 5 février 2021 sur les transports publics.'
+valid_from: '2021-03-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/consolide/20210301/fr'
+source_sha256: '071603175eca43be67a98e63052f1885d5b20639138595081a975a54ad3cb4c6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1 — Champ d’application et définitions

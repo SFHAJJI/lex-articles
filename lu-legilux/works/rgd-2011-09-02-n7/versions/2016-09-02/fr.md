@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-09-02-n7:2016-09-02
-title: Version consolidée applicable au 02/09/2016 : Règlement grand-ducal du 2 septembre 2011 déterminant la procédure et les modalités de l'adjudication publique.
-valid_from: 2016-09-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n7/consolide/20160902/fr
-source_sha256: a04876bb81bb012f7881d542b2937798cde6cf6a0da2739531b4adc15bf1dd2e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-09-02-n7:2016-09-02'
+title: 'Version consolidée applicable au 02/09/2016 : Règlement grand-ducal du 2 septembre 2011 déterminant la procédure et les modalités de l''adjudication publique.'
+valid_from: '2016-09-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n7/consolide/20160902/fr'
+source_sha256: 'a04876bb81bb012f7881d542b2937798cde6cf6a0da2739531b4adc15bf1dd2e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1994-11-04-n3:2021-03-29
-title: Version consolidée applicable au 29/03/2021 : Règlement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales de sécurité et de santé pour l'utilisation par les travailleurs au travail d'équipements de protection individuelle.
-valid_from: 2021-03-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n3/consolide/20210329/fr
-source_sha256: 5ebcd7bccec00b06ca0cde0fd86edefc7cb26ba2fad7b90f68af5a61f74c69d9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1994-11-04-n3:2021-03-29'
+title: 'Version consolidée applicable au 29/03/2021 : Règlement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales de sécurité et de santé pour l''utilisation par les travailleurs au travail d''équipements de protection individuelle.'
+valid_from: '2021-03-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n3/consolide/20210329/fr'
+source_sha256: '5ebcd7bccec00b06ca0cde0fd86edefc7cb26ba2fad7b90f68af5a61f74c69d9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## SECTION I — DISPOSITIONS GÉNÉRALES

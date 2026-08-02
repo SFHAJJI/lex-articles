@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-12-07-a606:2024-12-02
-title: Version consolidée applicable au 02/12/2024 : Règlement grand-ducal du 7 décembre 2022 relatif à la participation de l’Armée luxembourgeoise à la mission d’assistance militaire de l’Union européenne en soutien à l’Ukraine (EU Military Assistance Mission in support of Ukraine).
-valid_from: 2024-12-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/consolide/20241202/fr
-source_sha256: edc790620ebdf263529f2dae7968266873b4f7e88c842d4d2334ea9db94edb1b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-12-07-a606:2024-12-02'
+title: 'Version consolidée applicable au 02/12/2024 : Règlement grand-ducal du 7 décembre 2022 relatif à la participation de l’Armée luxembourgeoise à la mission d’assistance militaire de l’Union européenne en soutien à l’Ukraine (EU Military Assistance Mission in support of Ukraine).'
+valid_from: '2024-12-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/12/07/a606/consolide/20241202/fr'
+source_sha256: 'edc790620ebdf263529f2dae7968266873b4f7e88c842d4d2334ea9db94edb1b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

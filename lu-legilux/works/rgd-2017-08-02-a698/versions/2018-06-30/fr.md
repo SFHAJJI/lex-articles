@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-08-02-a698:2018-06-30
-title: Version consolidée applicable au 30/06/2018 : Règlement grand-ducal du 2 août 2017 déterminant les détails des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des membres de la réserve des auxiliaires éducatifs de l’enseignement fondamental.
-valid_from: 2018-06-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a698/consolide/20180630/fr
-source_sha256: 2dec037c758e282a13954f5d3966dcc29ae6eb75fb235d63d5bc108d2887d6c4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-08-02-a698:2018-06-30'
+title: 'Version consolidée applicable au 30/06/2018 : Règlement grand-ducal du 2 août 2017 déterminant les détails des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des membres de la réserve des auxiliaires éducatifs de l’enseignement fondamental.'
+valid_from: '2018-06-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a698/consolide/20180630/fr'
+source_sha256: '2dec037c758e282a13954f5d3966dcc29ae6eb75fb235d63d5bc108d2887d6c4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

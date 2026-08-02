@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-11-23-n3:2008-04-11
-title: Version consolidée applicable au 11/04/2008 : Règlement grand-ducal du 23 novembre 2001 portant exécution des articles 1 et 2 de la loi du 29 mars 2001 portant sur l'accessibilité des lieux ouverts au public.
-valid_from: 2008-04-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/consolide/20080411/fr
-source_sha256: 34b09badaaeb0fa18f5dddb4027cbdf980b8f905fd3eb2670f494056f826cc7e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-11-23-n3:2008-04-11'
+title: 'Version consolidée applicable au 11/04/2008 : Règlement grand-ducal du 23 novembre 2001 portant exécution des articles 1 et 2 de la loi du 29 mars 2001 portant sur l''accessibilité des lieux ouverts au public.'
+valid_from: '2008-04-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/11/23/n3/consolide/20080411/fr'
+source_sha256: '34b09badaaeb0fa18f5dddb4027cbdf980b8f905fd3eb2670f494056f826cc7e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

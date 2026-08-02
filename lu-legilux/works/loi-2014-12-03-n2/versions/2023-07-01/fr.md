@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-12-03-n2:2023-07-01
-title: Loi du 3 décembre 2014 ayant pour objet l'organisation des centres de recherche publics.
-valid_from: 2023-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/03/n2/consolide/20230701/fr
-source_sha256: 80aca2b0359950de2dfae56e83672d95d7b19e63a24d8aa98e92ae1bc3d7d82e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-12-03-n2:2023-07-01'
+title: 'Loi du 3 décembre 2014 ayant pour objet l''organisation des centres de recherche publics.'
+valid_from: '2023-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/12/03/n2/consolide/20230701/fr'
+source_sha256: '80aca2b0359950de2dfae56e83672d95d7b19e63a24d8aa98e92ae1bc3d7d82e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I — Définitions

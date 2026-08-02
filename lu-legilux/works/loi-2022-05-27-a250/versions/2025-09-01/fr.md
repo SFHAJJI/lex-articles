@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-05-27-a250:2025-09-01
-title: Loi du 27 mai 2022 portant organisation de l’enseignement musical dans le secteur communal
-valid_from: 2025-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/consolide/20250901/fr
-source_sha256: a310cf5a706b3f876d02f218596175a6ae838e5ee5d3c9b285b075f19dadf700
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-05-27-a250:2025-09-01'
+title: 'Loi du 27 mai 2022 portant organisation de l’enseignement musical dans le secteur communal'
+valid_from: '2025-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/consolide/20250901/fr'
+source_sha256: 'a310cf5a706b3f876d02f218596175a6ae838e5ee5d3c9b285b075f19dadf700'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Définitions

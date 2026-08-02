@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-08-07-a554:2024-06-01
-title: Version consolidée applicable au 04/01/2026 : Loi du 7 août 2023 relative aux aides individuelles au logement.
-valid_from: 2024-06-01
-valid_to: 2025-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/consolide/20240601/fr
-source_sha256: 6fbe7880f39a935c27b0ec8954c09a93991f4fb1195bb48fb48b3075af64b5df
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-08-07-a554:2024-06-01'
+title: 'Version consolidée applicable au 04/01/2026 : Loi du 7 août 2023 relative aux aides individuelles au logement.'
+valid_from: '2024-06-01'
+valid_to: '2025-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/consolide/20240601/fr'
+source_sha256: '6fbe7880f39a935c27b0ec8954c09a93991f4fb1195bb48fb48b3075af64b5df'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Objectifs et définitions

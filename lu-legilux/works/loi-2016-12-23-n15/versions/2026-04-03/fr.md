@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-12-23-n15:2026-04-03
-title: Loi du 23 décembre 2016 relative aux abus de marché.
-valid_from: 2026-04-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/consolide/20260403/fr
-source_sha256: 6758fd5735a557cad75229b8b02f69b3178a24cc509b65eb1c5b0a726e1477e0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-12-23-n15:2026-04-03'
+title: 'Loi du 23 décembre 2016 relative aux abus de marché.'
+valid_from: '2026-04-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n15/consolide/20260403/fr'
+source_sha256: '6758fd5735a557cad75229b8b02f69b3178a24cc509b65eb1c5b0a726e1477e0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Définitions**

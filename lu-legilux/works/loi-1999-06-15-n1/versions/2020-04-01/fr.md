@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-06-15-n1:2020-04-01
-title: Loi du 15 juin 1999 portant organisation de l'Institut national d'administration publique.
-valid_from: 2020-04-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/15/n1/consolide/20200401/fr
-source_sha256: ef26a0fdb3cd57a87db2d4db8cdab804a6d94070abc106ab9c84cae36006b140
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-06-15-n1:2020-04-01'
+title: 'Loi du 15 juin 1999 portant organisation de l''Institut national d''administration publique.'
+valid_from: '2020-04-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/06/15/n1/consolide/20200401/fr'
+source_sha256: 'ef26a0fdb3cd57a87db2d4db8cdab804a6d94070abc106ab9c84cae36006b140'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I.- — Dispositions générales

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-08-22-a578:2021-09-15
-title: Version consolidée applicable au 15/09/2021 : Règlement grand-ducal du 22 août 2019 fixant la liste des formations de technicien auxquelles l’élève détenteur du diplôme d’aptitude professionnelle est admissible.
-valid_from: 2021-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a578/consolide/20210915/fr
-source_sha256: 3dde057e9af726f6dc75c4f5ead114815340f66552cc60bcd2bdb88a7e716cec
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-08-22-a578:2021-09-15'
+title: 'Version consolidée applicable au 15/09/2021 : Règlement grand-ducal du 22 août 2019 fixant la liste des formations de technicien auxquelles l’élève détenteur du diplôme d’aptitude professionnelle est admissible.'
+valid_from: '2021-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a578/consolide/20210915/fr'
+source_sha256: '3dde057e9af726f6dc75c4f5ead114815340f66552cc60bcd2bdb88a7e716cec'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

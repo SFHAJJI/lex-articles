@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-08-07-a521:2026-08-03
-title: Loi du 7 août 2023 relative à la préservation des entreprises et portant modernisation du droit de la faillite.
-valid_from: 2026-08-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a521/consolide/20260803/fr
-source_sha256: b9cdfc85471edd0f6efd01f6db8549dbf923a342baf5c04125191567946e3705
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-08-07-a521:2026-08-03'
+title: 'Loi du 7 août 2023 relative à la préservation des entreprises et portant modernisation du droit de la faillite.'
+valid_from: '2026-08-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a521/consolide/20260803/fr'
+source_sha256: 'b9cdfc85471edd0f6efd01f6db8549dbf923a342baf5c04125191567946e3705'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE 1er — Des mesures en vue de préserver les entreprises

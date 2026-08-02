@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-09-13-n5:2024-06-01
-title: Version consolidée applicable au 01/06/2024 : Règlement grand-ducal du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés.
-valid_from: 2024-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/09/13/n5/consolide/20240601/fr
-source_sha256: ef67453407f13f0b89d036114173114543efe4e59996c2e653b48c64ff3c6381
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-09-13-n5:2024-06-01'
+title: 'Version consolidée applicable au 01/06/2024 : Règlement grand-ducal du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés.'
+valid_from: '2024-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/09/13/n5/consolide/20240601/fr'
+source_sha256: 'ef67453407f13f0b89d036114173114543efe4e59996c2e653b48c64ff3c6381'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

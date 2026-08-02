@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-10-07-n1:2014-02-02
-title: Version consolidée applicable au 01/01/2019 : Règlement grand-ducal du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.
-valid_from: 2014-02-02
-valid_to: 2018-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20140202/fr
-source_sha256: f0b962c4a01a54cfab9e47a0b67d4ae9413c5b049d101df743a30cb182d464b9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-10-07-n1:2014-02-02'
+title: 'Version consolidée applicable au 01/01/2019 : Règlement grand-ducal du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.'
+valid_from: '2014-02-02'
+valid_to: '2018-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20140202/fr'
+source_sha256: 'f0b962c4a01a54cfab9e47a0b67d4ae9413c5b049d101df743a30cb182d464b9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre 1: — Fonctionnement de la Commission médicale et de la Commission d’orientation et de reclassement professionnel des salariés handicapés

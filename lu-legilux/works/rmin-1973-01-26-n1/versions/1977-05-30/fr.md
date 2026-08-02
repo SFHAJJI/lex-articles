@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-1973-01-26-n1:1977-05-30
-title: Version consolidée applicable au 30/05/1977 : Règlement ministériel du 26 janvier 1973 fixant les indemnités forfaitaires spéciales revenant au personnel de l'administration des postes et télécommunications occupé aux divers services de transport et de distribution postaux.
-valid_from: 1977-05-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/1973/01/26/n1/consolide/19770530/fr
-source_sha256: 9fb2345667fafbe7242e725fe2b082c89cc2923047b3037dfe54f31c69a7c711
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-1973-01-26-n1:1977-05-30'
+title: 'Version consolidée applicable au 30/05/1977 : Règlement ministériel du 26 janvier 1973 fixant les indemnités forfaitaires spéciales revenant au personnel de l''administration des postes et télécommunications occupé aux divers services de transport et de distribution postaux.'
+valid_from: '1977-05-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/1973/01/26/n1/consolide/19770530/fr'
+source_sha256: '9fb2345667fafbe7242e725fe2b082c89cc2923047b3037dfe54f31c69a7c711'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

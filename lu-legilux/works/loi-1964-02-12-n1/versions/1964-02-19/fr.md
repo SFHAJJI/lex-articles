@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1964-02-12-n1:1964-02-19
-title: Version rectifiée applicable au 19/02/1964 : Loi du 12 février 1964 ayant pour objet de compléter la loi du 4 avril 1924, portant création de chambres professionnelles à base élective par la création d’une chambre des fonctionnaires et employés publics.
-valid_from: 1964-02-19
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1964/02/12/n1/consolide/19640219/fr
-source_sha256: b3725a97a6b1024efe9aa5274dd3b15615b014e0c1f1edd31e1e2a9cf1d29443
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1964-02-12-n1:1964-02-19'
+title: 'Version rectifiée applicable au 19/02/1964 : Loi du 12 février 1964 ayant pour objet de compléter la loi du 4 avril 1924, portant création de chambres professionnelles à base élective par la création d’une chambre des fonctionnaires et employés publics.'
+valid_from: '1964-02-19'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1964/02/12/n1/consolide/19640219/fr'
+source_sha256: 'b3725a97a6b1024efe9aa5274dd3b15615b014e0c1f1edd31e1e2a9cf1d29443'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_i"></a>

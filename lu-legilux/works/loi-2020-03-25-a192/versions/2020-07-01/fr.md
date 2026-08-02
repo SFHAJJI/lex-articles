@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-03-25-a192:2020-07-01
-title: Version consolidée applicable au 01/01/2026 : Loi du 25 mars 2020 relative aux dispositifs transfrontières devant faire l’objet d’une déclaration.
-valid_from: 2020-07-01
-valid_to: 2023-05-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a192/consolide/20200701/fr
-source_sha256: 376d5d07b5c979ac6ca52e145a2993be41ffd7f5f5d7dcd01ac9150e0adc7afb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-03-25-a192:2020-07-01'
+title: 'Version consolidée applicable au 01/01/2026 : Loi du 25 mars 2020 relative aux dispositifs transfrontières devant faire l’objet d’une déclaration.'
+valid_from: '2020-07-01'
+valid_to: '2023-05-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a192/consolide/20200701/fr'
+source_sha256: '376d5d07b5c979ac6ca52e145a2993be41ffd7f5f5d7dcd01ac9150e0adc7afb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — **Définitions**

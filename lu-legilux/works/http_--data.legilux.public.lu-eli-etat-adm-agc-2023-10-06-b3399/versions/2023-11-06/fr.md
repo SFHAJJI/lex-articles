@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-agc-2023-10-06-b3399:2023-11-06
-title: Version rectifiée applicable au 06/11/2023 : Arrêté du Gouvernement en conseil du 6 octobre 2023 portant nomination des membres du conseil d’administration de l’Institut national pour le développement de la formation professionnelle continue (INFPC).
-valid_from: 2023-11-06
-valid_to: open
-source: https://legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/consolide/20231106/fr
-source_sha256: c27659437cb33036c9585a2da50be1ab5a9ccf21e161b94fd0cf9d42503845e4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-agc-2023-10-06-b3399:2023-11-06'
+title: 'Version rectifiée applicable au 06/11/2023 : Arrêté du Gouvernement en conseil du 6 octobre 2023 portant nomination des membres du conseil d’administration de l’Institut national pour le développement de la formation professionnelle continue (INFPC).'
+valid_from: '2023-11-06'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/consolide/20231106/fr'
+source_sha256: 'c27659437cb33036c9585a2da50be1ab5a9ccf21e161b94fd0cf9d42503845e4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

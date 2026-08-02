@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-12-13-a1090:2025-03-23
-title: Version consolidée applicable au 15/02/2026 : Règlement grand-ducal du 13 décembre 2017 déterminant : 1° les normes concernant la dotation et la qualification du personnel ; 2° les coefficients d’encadrement du groupe.
-valid_from: 2025-03-23
-valid_to: 2026-02-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20250323/fr
-source_sha256: db24db6b6a85daa250be2fe92065acfa981aa4a734ef1265cfb72259df5b5e41
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-12-13-a1090:2025-03-23'
+title: 'Version consolidée applicable au 15/02/2026 : Règlement grand-ducal du 13 décembre 2017 déterminant : 1° les normes concernant la dotation et la qualification du personnel ; 2° les coefficients d’encadrement du groupe.'
+valid_from: '2025-03-23'
+valid_to: '2026-02-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20250323/fr'
+source_sha256: 'db24db6b6a85daa250be2fe92065acfa981aa4a734ef1265cfb72259df5b5e41'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Les normes concernant la qualification et la dotation du personnel**

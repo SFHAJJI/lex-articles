@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-07-28-n21:2023-12-03
-title: Version consolidée applicable au 03/12/2023 : Règlement grand-ducal du 28 juillet 2014 établissant la liste des fréquences de radiodiffusion luxembourgeoises visée à l'article 4 de la loi modifiée du 27 juillet 1991 sur les médias électroniques.
-valid_from: 2023-12-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/07/28/n21/consolide/20231203/fr
-source_sha256: 44b43996caf03cdf3d87b89b69cdd34e0fa326f9f619492ee629d5f25437a9a5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-07-28-n21:2023-12-03'
+title: 'Version consolidée applicable au 03/12/2023 : Règlement grand-ducal du 28 juillet 2014 établissant la liste des fréquences de radiodiffusion luxembourgeoises visée à l''article 4 de la loi modifiée du 27 juillet 1991 sur les médias électroniques.'
+valid_from: '2023-12-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/07/28/n21/consolide/20231203/fr'
+source_sha256: '44b43996caf03cdf3d87b89b69cdd34e0fa326f9f619492ee629d5f25437a9a5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

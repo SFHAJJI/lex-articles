@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-12-16-n2:2026-03-03
-title: Version consolidée applicable au 03/03/2026 : Règlement grand-ducal du 16 décembre 2011 concernant l’emploi des armes et munitions de chasse, les moyens autorisés pour l’exercice de la chasse ainsi que l’emploi du chien de chasse.
-valid_from: 2026-03-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/12/16/n2/consolide/20260303/fr
-source_sha256: e56a58a2256eab8a93d90fd52b6082a3d92af946c6c51ed954c2abed5c2514ef
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-12-16-n2:2026-03-03'
+title: 'Version consolidée applicable au 03/03/2026 : Règlement grand-ducal du 16 décembre 2011 concernant l’emploi des armes et munitions de chasse, les moyens autorisés pour l’exercice de la chasse ainsi que l’emploi du chien de chasse.'
+valid_from: '2026-03-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/12/16/n2/consolide/20260303/fr'
+source_sha256: 'e56a58a2256eab8a93d90fd52b6082a3d92af946c6c51ed954c2abed5c2514ef'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

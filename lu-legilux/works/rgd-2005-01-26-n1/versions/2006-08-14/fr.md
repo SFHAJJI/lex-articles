@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2005-01-26-n1:2006-08-14
-title: Version consolidée applicable au 16/02/2015 : Règlement grand-ducal du 26 janvier 2005 fixant les modalités pour l'obtention d'un titre de voyage pour étrangers.
-valid_from: 2006-08-14
-valid_to: 2008-01-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20060814/fr
-source_sha256: e48f25c3ce905fe5c7ce6333708b3599a9b0a3a2f44250e9bf236bdedc259e25
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2005-01-26-n1:2006-08-14'
+title: 'Version consolidée applicable au 16/02/2015 : Règlement grand-ducal du 26 janvier 2005 fixant les modalités pour l''obtention d''un titre de voyage pour étrangers.'
+valid_from: '2006-08-14'
+valid_to: '2008-01-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20060814/fr'
+source_sha256: 'e48f25c3ce905fe5c7ce6333708b3599a9b0a3a2f44250e9bf236bdedc259e25'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

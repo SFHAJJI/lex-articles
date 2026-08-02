@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1976-07-08-n1:1981-12-28
-title: Version consolidée applicable au 14/08/1993 : Règlement grand-ducal du 8 juillet 1976 concernant l'organisation médicale, pharmaceutique et paramédicale du Centre hospitalier de Luxembourg.
-valid_from: 1981-12-28
-valid_to: 1993-08-13
-source: https://legilux.public.lu/eli/etat/leg/rgd/1976/07/08/n1/consolide/19811228/fr
-source_sha256: 27dde0f9ee1499000b4d2bb5c5757df83a85ccc66285ef00ebb47c39e85d3292
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1976-07-08-n1:1981-12-28'
+title: 'Version consolidée applicable au 14/08/1993 : Règlement grand-ducal du 8 juillet 1976 concernant l''organisation médicale, pharmaceutique et paramédicale du Centre hospitalier de Luxembourg.'
+valid_from: '1981-12-28'
+valid_to: '1993-08-13'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1976/07/08/n1/consolide/19811228/fr'
+source_sha256: '27dde0f9ee1499000b4d2bb5c5757df83a85ccc66285ef00ebb47c39e85d3292'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

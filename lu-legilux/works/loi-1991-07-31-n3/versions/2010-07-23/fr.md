@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1991-07-31-n3:2010-07-23
-title: Version consolidée applicable au 18/11/2016 : Loi modifiée du 31 juillet 1991 déterminant les conditions d'autorisation d'exercer la profession de pharmacien.
-valid_from: 2010-07-23
-valid_to: 2014-07-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1991/07/31/n3/consolide/20100723/fr
-source_sha256: d915ecfd818afef712ab3e247fb992a531ca1a14ec985f9d67e4850c512c66f9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1991-07-31-n3:2010-07-23'
+title: 'Version consolidée applicable au 18/11/2016 : Loi modifiée du 31 juillet 1991 déterminant les conditions d''autorisation d''exercer la profession de pharmacien.'
+valid_from: '2010-07-23'
+valid_to: '2014-07-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1991/07/31/n3/consolide/20100723/fr'
+source_sha256: 'd915ecfd818afef712ab3e247fb992a531ca1a14ec985f9d67e4850c512c66f9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Profession de pharmacien**

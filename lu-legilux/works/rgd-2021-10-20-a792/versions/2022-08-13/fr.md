@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-10-20-a792:2022-08-13
-title: Version consolidée applicable au 14/06/2025 : Règlement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation des semences de légumes.
-valid_from: 2022-08-13
-valid_to: 2025-06-13
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a792/consolide/20220813/fr
-source_sha256: f02e686e299c1cb269c94179067416e815f31ae3bec11e34a18cf838669e0a74
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-10-20-a792:2022-08-13'
+title: 'Version consolidée applicable au 14/06/2025 : Règlement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation des semences de légumes.'
+valid_from: '2022-08-13'
+valid_to: '2025-06-13'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a792/consolide/20220813/fr'
+source_sha256: 'f02e686e299c1cb269c94179067416e815f31ae3bec11e34a18cf838669e0a74'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

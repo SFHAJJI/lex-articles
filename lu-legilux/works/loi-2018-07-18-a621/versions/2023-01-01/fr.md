@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-07-18-a621:2023-01-01
-title: Loi du 18 juillet 2018 sur la Police grand-ducale.
-valid_from: 2023-01-01
-valid_to: 2023-02-09
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/consolide/20230101/fr
-source_sha256: 5a6f998eede3cd3285b65b54bf15b5c68e832c1b8eb543be8c88fd730cf45429
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-07-18-a621:2023-01-01'
+title: 'Loi du 18 juillet 2018 sur la Police grand-ducale.'
+valid_from: '2023-01-01'
+valid_to: '2023-02-09'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/consolide/20230101/fr'
+source_sha256: '5a6f998eede3cd3285b65b54bf15b5c68e832c1b8eb543be8c88fd730cf45429'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Dispositions générales**

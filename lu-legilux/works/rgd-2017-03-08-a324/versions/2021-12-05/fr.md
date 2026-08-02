@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-03-08-a324:2021-12-05
-title: Version consolidée applicable au 05/12/2021 : Règlement grand-ducal du 8 mars 2017 concernant le contenu du rapport justificatif et du plan directeur du plan d’aménagement particulier « nouveau quartier ».
-valid_from: 2021-12-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/03/08/a324/consolide/20211205/fr
-source_sha256: 060231ad40a553eec017361d35dc44f9f36c77f8bb12d4db7d4af779fab12905
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-03-08-a324:2021-12-05'
+title: 'Version consolidée applicable au 05/12/2021 : Règlement grand-ducal du 8 mars 2017 concernant le contenu du rapport justificatif et du plan directeur du plan d’aménagement particulier « nouveau quartier ».'
+valid_from: '2021-12-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/03/08/a324/consolide/20211205/fr'
+source_sha256: '060231ad40a553eec017361d35dc44f9f36c77f8bb12d4db7d4af779fab12905'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Le rapport justificatif

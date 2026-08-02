@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-12-04-a839:2021-01-01
-title: Version consolidée applicable au 01/01/2021 : Loi du 4 décembre 2019 relative à l’Office du Ducroire Luxembourg.
-valid_from: 2021-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a839/consolide/20210101/fr
-source_sha256: b51aab86c4382517101a1833c34976ded8d2406970be199d219f83fc0d673dfe
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-12-04-a839:2021-01-01'
+title: 'Version consolidée applicable au 01/01/2021 : Loi du 4 décembre 2019 relative à l’Office du Ducroire Luxembourg.'
+valid_from: '2021-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a839/consolide/20210101/fr'
+source_sha256: 'b51aab86c4382517101a1833c34976ded8d2406970be199d219f83fc0d673dfe'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Dispositions d’application générale**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-05-12-a230:2022-10-31
-title: Version consolidée applicable au 21/07/2026 : Loi du 12 mai 2022 instaurant une compensation financière permettant la réduction temporaire du prix de vente de certains produits pétroliers.
-valid_from: 2022-10-31
-valid_to: 2023-07-06
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/consolide/20221031/fr
-source_sha256: f89d3119c695d2be0621b42fd9c887d545ef04f4dbf7d993ab0b277d0ea690c6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-05-12-a230:2022-10-31'
+title: 'Version consolidée applicable au 21/07/2026 : Loi du 12 mai 2022 instaurant une compensation financière permettant la réduction temporaire du prix de vente de certains produits pétroliers.'
+valid_from: '2022-10-31'
+valid_to: '2023-07-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/consolide/20221031/fr'
+source_sha256: 'f89d3119c695d2be0621b42fd9c887d545ef04f4dbf7d993ab0b277d0ea690c6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

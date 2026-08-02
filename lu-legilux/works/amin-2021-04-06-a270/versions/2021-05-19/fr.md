@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:amin-2021-04-06-a270:2021-05-19
-title: Version consolidée applicable au 21/12/2021 : Arrêté ministériel du 6 avril 2021 énumérant la liste des tests rapides d’auto-diagnostic pouvant être utilisés pour la détection du coronavirus SARS-CoV-2.
-valid_from: 2021-05-19
-valid_to: 2021-06-02
-source: https://legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/consolide/20210519/fr
-source_sha256: db7d3ff4ff9cb9d7be09470b2336a9150950e1cb442935177141150ac9267f85
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:amin-2021-04-06-a270:2021-05-19'
+title: 'Version consolidée applicable au 21/12/2021 : Arrêté ministériel du 6 avril 2021 énumérant la liste des tests rapides d’auto-diagnostic pouvant être utilisés pour la détection du coronavirus SARS-CoV-2.'
+valid_from: '2021-05-19'
+valid_to: '2021-06-02'
+source: 'https://legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/consolide/20210519/fr'
+source_sha256: 'db7d3ff4ff9cb9d7be09470b2336a9150950e1cb442935177141150ac9267f85'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-03-20-a171:2020-05-29
-title: Version consolidée applicable au 29/05/2020 : Règlement grand-ducal du 20 mars 2020 portant introduction de mesures concernant la tenue de réunions dans les sociétés et dans les autres personnes morales.
-valid_from: 2020-05-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/03/20/a171/consolide/20200529/fr
-source_sha256: 523c02450631ba4ffb6047438422180c502f2f1b155b4b786193f96ac5eebac4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-03-20-a171:2020-05-29'
+title: 'Version consolidée applicable au 29/05/2020 : Règlement grand-ducal du 20 mars 2020 portant introduction de mesures concernant la tenue de réunions dans les sociétés et dans les autres personnes morales.'
+valid_from: '2020-05-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/03/20/a171/consolide/20200529/fr'
+source_sha256: '523c02450631ba4ffb6047438422180c502f2f1b155b4b786193f96ac5eebac4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

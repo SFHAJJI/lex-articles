@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2006-09-21-n1:2017-01-01
-title: Version consolidée applicable au 01/08/2024 : Loi du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil.
-valid_from: 2017-01-01
-valid_to: 2017-08-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20170101/fr
-source_sha256: a3f8f1bc85187c11291e0f746272b22c9eed4107efb37fcfa81e2469ae3b5dbb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2006-09-21-n1:2017-01-01'
+title: 'Version consolidée applicable au 01/08/2024 : Loi du 21 septembre 2006 sur le bail à usage d’habitation et modifiant certaines dispositions du Code civil.'
+valid_from: '2017-01-01'
+valid_to: '2017-08-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20170101/fr'
+source_sha256: 'a3f8f1bc85187c11291e0f746272b22c9eed4107efb37fcfa81e2469ae3b5dbb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Dispositions générales

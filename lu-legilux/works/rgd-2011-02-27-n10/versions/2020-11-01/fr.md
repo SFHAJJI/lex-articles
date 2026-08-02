@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-02-27-n10:2020-11-01
-title: Version consolidée applicable au 01/11/2020 : Règlement grand-ducal du 27 février 2011 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires communaux.
-valid_from: 2020-11-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/consolide/20201101/fr
-source_sha256: 102fc6196e295f37b8aa4b45c613458e93af86dabc04a015c4cbaf46e3909d7a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-02-27-n10:2020-11-01'
+title: 'Version consolidée applicable au 01/11/2020 : Règlement grand-ducal du 27 février 2011 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires communaux.'
+valid_from: '2020-11-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/consolide/20201101/fr'
+source_sha256: '102fc6196e295f37b8aa4b45c613458e93af86dabc04a015c4cbaf46e3909d7a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

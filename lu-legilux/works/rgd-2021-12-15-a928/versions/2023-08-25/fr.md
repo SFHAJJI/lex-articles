@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-12-15-a928:2023-08-25
-title: Version consolidée applicable au 25/08/2023 : Règlement grand-ducal du 15 décembre 2021 déterminant les modalités de demande de bourse d’aide à la création artistique et au développement professionnel des artistes.
-valid_from: 2023-08-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/12/15/a928/consolide/20230825/fr
-source_sha256: 9a7809905a74a26a33e5689ea7aac9242b3e8069ec3fa9516c6a283270e313e6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-12-15-a928:2023-08-25'
+title: 'Version consolidée applicable au 25/08/2023 : Règlement grand-ducal du 15 décembre 2021 déterminant les modalités de demande de bourse d’aide à la création artistique et au développement professionnel des artistes.'
+valid_from: '2023-08-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/12/15/a928/consolide/20230825/fr'
+source_sha256: '9a7809905a74a26a33e5689ea7aac9242b3e8069ec3fa9516c6a283270e313e6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1979-08-29-n3:1980-12-10
-title: Version consolidée applicable au 10/12/1980 : Règlement grand-ducal du 29 août 1979 établissant les normes auxquelles doivent répondre les établissements hospitaliers qui participent au service d'urgence.
-valid_from: 1980-12-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1979/08/29/n3/consolide/19801210/fr
-source_sha256: 9304d0ab5d7c07e794349cc19c42e644280403d2692cb1ce750792a51de29b2a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1979-08-29-n3:1980-12-10'
+title: 'Version consolidée applicable au 10/12/1980 : Règlement grand-ducal du 29 août 1979 établissant les normes auxquelles doivent répondre les établissements hospitaliers qui participent au service d''urgence.'
+valid_from: '1980-12-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1979/08/29/n3/consolide/19801210/fr'
+source_sha256: '9304d0ab5d7c07e794349cc19c42e644280403d2692cb1ce750792a51de29b2a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

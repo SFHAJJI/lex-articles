@@ -31,8 +31,8 @@
       "text_md": "Les termes utilisés dans le présent règlement et ses annexes ont la signification qui leur est donnée dans l’annexe II du règlement (UE) 2020/2011 de la Banque centrale européenne du 1er décembre 2020 modifiant le règlement (UE) N° 1409/2013 concernant les statistiques relatives aux paiements (BCE/2013/43) (BCE/2020/59) ainsi qu’à l’article 4 de la directive (UE) 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur.",
       "text_sha256": "82ee7f89ee476a9618c51931fb0ec7f5e23744645036521a0b840ffdd579e20f",
       "md_span": {
-        "start": 699,
-        "end": 1192
+        "start": 718,
+        "end": 1211
       },
       "citations": [
         {
@@ -61,8 +61,8 @@
       "text_md": "La présente collecte s’adresse aux déclarants définis comme établissement soumis aux obligations de transmettre les statistiques de paiement en vertu du présent règlement.\n\nSont considérés comme déclarants en vertu du présent règlement :\n\n1. Les établissements de crédit ;\n2. Les établissements de monnaie électronique ;\n3. Les établissements de paiement ;\n4. Post Luxembourg pour ses activités liées aux paiements.\n\nLe présent règlement s’adresse aux déclarants qui sont des personnes morales de droit luxembourgeois ou des succursales luxembourgeoises d’établissements de crédit, d’établissements de monnaie électronique ou d’établissements de paiement agréés comme tels dans un autre État membre de l’Union Européenne ou dans un pays tiers.\n\nNe sont pas assujettis à une obligation statistique, les agents disposant d’une dérogation sur demande suivant les dispositions du règlement BCE. Les agents disposant d’une dérogation sur la base du règlement BCE bénéficient automatiquement d’une dérogation sur la base du présent règlement.",
       "text_sha256": "b5879e7d0eeed98e0cc990710a049d734b9dc400460a4ee701d2ede16c1ee67c",
       "md_span": {
-        "start": 1255,
-        "end": 2291
+        "start": 1274,
+        "end": 2310
       },
       "citations": []
     },
@@ -78,8 +78,8 @@
       "text_md": "Sont soumis à la collecte les :\n\n- Virements de clientèle ;\n- Virements de clientèle frauduleux ;\n- Domiciliations (prélèvements automatiques) de clientèle ;\n- Domiciliations de clientèle frauduleuses ;\n- SEPA r-transactions ;\n- Transactions interbancaires ;\n- Transactions intermédiées ;\n- Transactions réalisées à l’aide de cartes de paiements (activité d’émission) ;\n- Transactions frauduleuses réalisées à l’aide de cartes de paiements (activité d’émission) ;\n- Transactions réalisées à l’aide de cartes de paiements (activité d’acquisition) ;\n- Transactions frauduleuses réalisées à l’aide de cartes de paiements (activité d’acquisition) ;\n- Dépôts et retraits relatifs à des cartes de paiements prépayées ;\n- Transactions réalisées à l’aide de chèques ;\n- Transactions frauduleuses réalisées à l’aide de chèques ;\n- Transactions réalisées par le biais de « Money remittances » ;\n- Transactions frauduleuses réalisées par le biais de « Money remittances » ;\n- Opérations en espèces au guichet (« OTC cash transactions ») ;\n- Opérations de paiement résultant d’une écriture comptable (« Book entries ») ;\n- Opérations de paiement en monnaie électronique ;\n- Opérations de paiement frauduleuses en monnaie électronique ;\n- Opérations relatives aux services d’initiation de paiements ;\n- Opérations frauduleuses relatives aux services d’initiation de paiements ;\n- Services d’information sur les comptes de paiements ;\n- Nombre de cartes émises ;\n- Nombre de cartes distribuées ;\n- Nombre de terminaux ;\n- Nombre de comptes clients ;\n- Nombre de comptes accédés dans le cadre des services d’information sur les comptes de paiement ;\n- Nombre de clients dans le cadre des services d’information sur les comptes de paiement ;\n- Pertes liées aux opérations frauduleuses.",
       "text_sha256": "ebdf8966057e1be296cc28d112d7e5dffed92785170e92ee10f3975ed6747b8f",
       "md_span": {
-        "start": 2355,
-        "end": 4124
+        "start": 2374,
+        "end": 4143
       },
       "citations": []
     },
@@ -95,8 +95,8 @@
       "text_md": "Les déclarants transmettent les données au moyen d’un ou plusieurs fichiers XML, dans les délais impartis et selon les périodicités suivantes :\n\n- Les rapports transactionnels et de stocks sont à transmettre mensuellement dans un délai de dix jours ouvrables suivant la période à laquelle ils se rapportent.\n- Les rapports relatifs à la fraude sur transactions sont à transmettre à la BCL dans un délai de deux mois et dix jours ouvrables suivant la période à laquelle ils se rapportent.\n\nLes déclarants transmettent leurs rapports statistiques via les canaux de transmission électronique actuellement en vigueur (SOFIE ou FINESTI).\n\nChaque tableau transmis à la BCL est soumis à un ensemble de règles de validation. Si une ou plusieurs des règles de validation n’est (ne sont) pas respectée(s), le fichier XML est rejeté, et un message d’erreur est envoyé au déclarant. Une transmission n’ayant pas passé les règles de validation est considéré comme non effectuée.",
       "text_sha256": "7845f6b41d45b08df0d3763cfff64fb707d43df801827517dd92861ee330ec07",
       "md_span": {
-        "start": 4189,
-        "end": 5154
+        "start": 4208,
+        "end": 5173
       },
       "citations": []
     },
@@ -112,8 +112,8 @@
       "text_md": "Les déclarants vérifient la qualité des données transmises à la BCL conformément aux règles de vérification détaillées dans le « BCL Manual on payment statistics » (ci-après le « BCL Manual ») visé à l’article 9 du présent règlement, avant transmission.\n\nLes déclarants effectuent un contrôle rigoureux dès la production des données afin de répondre à la fois aux exigences de qualité et aux délais impartis fixés par la BCE et la BCL.\n\nLes déclarants doivent prendre position par rapport aux questions soulevées par la BCL dans le cadre de contrôles de qualité.",
       "text_sha256": "991918ced44178cde30dab0ac764fa4f7fac22397f70eb1829e0d52202884b39",
       "md_span": {
-        "start": 5228,
-        "end": 5790
+        "start": 5247,
+        "end": 5809
       },
       "citations": []
     },
@@ -129,8 +129,8 @@
       "text_md": "Les déclarants conservent les rapports statistiques et les documents qui s’y rapportent pendant vingt-quatre mois.",
       "text_sha256": "e4b9a9f5579a4d480047e6c799ad1d599cf423d90c474202355f1fcfd42c3f90",
       "md_span": {
-        "start": 5867,
-        "end": 5981
+        "start": 5886,
+        "end": 6000
       },
       "citations": []
     },
@@ -146,8 +146,8 @@
       "text_md": "Les données collectées sont utilisées aux fins de l’exercice des missions de la BCL, de la CSSF, de la BCE et de l’ABE.",
       "text_sha256": "e366d3d4072ee4e915845ab442ea871ccb79e9c0a4d891216d5a49d91ee5312a",
       "md_span": {
-        "start": 6048,
-        "end": 6167
+        "start": 6067,
+        "end": 6186
       },
       "citations": []
     },
@@ -163,8 +163,8 @@
       "text_md": "Sans préjudice des compétences de la BCE et de la CSSF, dans les domaines relevant de leurs compétences respectives, d’imposer aux déclarants des sanctions en cas de manquements aux obligations correspondantes, la BCL peut rendre publique toute contravention aux dispositions du présent règlement et en informer les autorités compétentes.",
       "text_sha256": "e6015a8ed205071405462e3aaf9b5a19217bdf6dc5f21c76a49c71a99633aef1",
       "md_span": {
-        "start": 6220,
-        "end": 6558
+        "start": 6239,
+        "end": 6577
       },
       "citations": []
     },
@@ -180,8 +180,8 @@
       "text_md": "Le présent règlement est complété par le « BCL Manual » qui précise les modalités pratiques concernant la mise en œuvre des obligations prévues dans le présent Règlement. Le « BCL Manual » est publié sur le site Internet de la BCL (www.bcl.lu) et peut être régulièrement mis à jour par la BCL.",
       "text_sha256": "ba5fe788f6a1e020ac5d8a348a23a95d9b0bae170cffd1a62fba7b9f3e626877",
       "md_span": {
-        "start": 6623,
-        "end": 6916
+        "start": 6642,
+        "end": 6935
       },
       "citations": [
         {
@@ -202,8 +202,8 @@
       "text_md": "Le présent règlement abroge et remplace le Règlement BCL/N°. 9 du 4 juillet 2011, tel que modifié par le règlement de la BCL 2015/N°. 20 du 24 août 2015 relatif à la collecte des données sur les instruments et les opérations de paiement.\n\nLe présent règlement entre en vigueur le jour de sa publication.\n\nLes éléments de la collecte en matière de statistiques de paiement visées au règlement (UE) 2020/2011 sont à transmettre à partir de la période de référence de janvier 2022. La première transmission des données des opérations de paiements aura lieu en février 2022 et la première transmission des données des transactions de paiements frauduleuses aura lieu en avril 2022 pour les données de janvier 2022.\n\nLe présent règlement est publié au Journal officiel du Grand-Duché de Luxembourg et sur le site Internet de la BCL (www.bcl.lu).",
       "text_sha256": "fc4fc82c82d251d4194673f8933c9f78e6082f3659763e691b44037aa3cfcc6c",
       "md_span": {
-        "start": 7004,
-        "end": 7844
+        "start": 7023,
+        "end": 7863
       },
       "citations": [
         {

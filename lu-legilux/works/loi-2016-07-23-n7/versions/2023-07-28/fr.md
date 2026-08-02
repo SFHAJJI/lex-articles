@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-23-n7:2023-07-28
-title: Loi du 23 juillet 2016 relative aux fonds d'investissement alternatifs réservés.
-valid_from: 2023-07-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/consolide/20230728/fr
-source_sha256: 95007045d2aab7a338ef20f8c569b0cbd1a54899a164d42bb9e6e43f54a825c7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-23-n7:2023-07-28'
+title: 'Loi du 23 juillet 2016 relative aux fonds d''investissement alternatifs réservés.'
+valid_from: '2023-07-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/consolide/20230728/fr'
+source_sha256: '95007045d2aab7a338ef20f8c569b0cbd1a54899a164d42bb9e6e43f54a825c7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Du champ d’application et des dispositions générales.

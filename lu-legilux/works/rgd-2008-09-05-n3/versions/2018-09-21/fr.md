@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-09-05-n3:2018-09-21
-title: Version consolidée applicable au 21/09/2018 : Règlement grand-ducal du 5 septembre 2008 fixant les conditions et modalités relatives à la délivrance d’une autorisation de séjour en tant que travailleur salarié.
-valid_from: 2018-09-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/consolide/20180921/fr
-source_sha256: 524723c528702a40fe3f19751e6a2b5cd3583189d65009eec8f31deaf1c6bbae
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-09-05-n3:2018-09-21'
+title: 'Version consolidée applicable au 21/09/2018 : Règlement grand-ducal du 5 septembre 2008 fixant les conditions et modalités relatives à la délivrance d’une autorisation de séjour en tant que travailleur salarié.'
+valid_from: '2018-09-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/consolide/20180921/fr'
+source_sha256: '524723c528702a40fe3f19751e6a2b5cd3583189d65009eec8f31deaf1c6bbae'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

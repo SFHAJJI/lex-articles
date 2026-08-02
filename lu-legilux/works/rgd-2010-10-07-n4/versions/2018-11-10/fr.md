@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-10-07-n4:2018-11-10
-title: Version consolidée applicable au 10/11/2018 : Règlement grand-ducal du 7 octobre 2010 établissant le code de déontologie de certaines professions de santé.
-valid_from: 2018-11-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/10/07/n4/consolide/20181110/fr
-source_sha256: f8338549e7ebe7fc0ba9184bfaa40347ca3f8e3ed60d3c8475b8c58e931f6bf5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-10-07-n4:2018-11-10'
+title: 'Version consolidée applicable au 10/11/2018 : Règlement grand-ducal du 7 octobre 2010 établissant le code de déontologie de certaines professions de santé.'
+valid_from: '2018-11-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/10/07/n4/consolide/20181110/fr'
+source_sha256: 'f8338549e7ebe7fc0ba9184bfaa40347ca3f8e3ed60d3c8475b8c58e931f6bf5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

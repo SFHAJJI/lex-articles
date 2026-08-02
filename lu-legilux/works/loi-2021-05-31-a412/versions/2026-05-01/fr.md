@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-05-31-a412:2026-05-01
-title: Version consolidée applicable au 01/05/2026 : Loi du 31 mai 2021 relative aux licences des contrôleurs de la circulation aérienne et aux prestataires de service de navigation aérienne.
-valid_from: 2026-05-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/05/31/a412/consolide/20260501/fr
-source_sha256: 9f0ad8919e3405837a99bbaf1c18432f25e5f6e13bef6e07e1a3e47b53420880
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-05-31-a412:2026-05-01'
+title: 'Version consolidée applicable au 01/05/2026 : Loi du 31 mai 2021 relative aux licences des contrôleurs de la circulation aérienne et aux prestataires de service de navigation aérienne.'
+valid_from: '2026-05-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/05/31/a412/consolide/20260501/fr'
+source_sha256: '9f0ad8919e3405837a99bbaf1c18432f25e5f6e13bef6e07e1a3e47b53420880'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-12-17-n3:2010-07-01
-title: Version consolidée applicable au 15/09/2025 : Règlement grand-ducal du 17 décembre 2010 portant nouvelle fixation\n1) de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements engagés sur base des dispositions de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;\n2) de l’indemnité due pour leçons supplémentaires assurées par les détenteurs de l’attestation habilitant à faire des remplacements engagés sur base de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental.
-valid_from: 2010-07-01
-valid_to: 2025-09-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20100701/fr
-source_sha256: 558d0e0fb912bf55a422ae4b3107b0a41142ecd1ed713f714c0eb9ccae9406ba
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-12-17-n3:2010-07-01'
+title: 'Version consolidée applicable au 15/09/2025 : Règlement grand-ducal du 17 décembre 2010 portant nouvelle fixation\n1) de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements engagés sur base des dispositions de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;\n2) de l’indemnité due pour leçons supplémentaires assurées par les détenteurs de l’attestation habilitant à faire des remplacements engagés sur base de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental.'
+valid_from: '2010-07-01'
+valid_to: '2025-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20100701/fr'
+source_sha256: '558d0e0fb912bf55a422ae4b3107b0a41142ecd1ed713f714c0eb9ccae9406ba'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

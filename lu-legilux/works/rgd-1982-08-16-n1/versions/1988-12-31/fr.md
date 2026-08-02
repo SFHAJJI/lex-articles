@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1982-08-16-n1:1988-12-31
-title: Version consolidée applicable au 02/11/1987 : Règlement grand-ducal du 16 août 1982 relatif aux assises financières des établissements de crédit.
-valid_from: 1988-12-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1982/08/16/n1/consolide/19881231/fr
-source_sha256: 002f3f746463735629588b84cc876e963b259ec58ca8dff7e8ffdb8eb76b9ebd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1982-08-16-n1:1988-12-31'
+title: 'Version consolidée applicable au 02/11/1987 : Règlement grand-ducal du 16 août 1982 relatif aux assises financières des établissements de crédit.'
+valid_from: '1988-12-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1982/08/16/n1/consolide/19881231/fr'
+source_sha256: '002f3f746463735629588b84cc876e963b259ec58ca8dff7e8ffdb8eb76b9ebd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

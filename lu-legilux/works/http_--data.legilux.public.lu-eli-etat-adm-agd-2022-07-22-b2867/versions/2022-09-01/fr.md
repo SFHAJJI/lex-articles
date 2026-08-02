@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-agd-2022-07-22-b2867:2022-09-01
-title: Version consolidée applicable au 01/09/2022 : Arrêté grand-ducal du 22 juillet 2022 portant nomination des membres du Conseil des observateurs et du président de l’Observatoire national de la santé.
-valid_from: 2022-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867/consolide/20220901/fr
-source_sha256: a93e52d4940eb5e797c6596b9994b11c1e3e74ef2ab34665dd506ef52ff86bd7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-agd-2022-07-22-b2867:2022-09-01'
+title: 'Version consolidée applicable au 01/09/2022 : Arrêté grand-ducal du 22 juillet 2022 portant nomination des membres du Conseil des observateurs et du président de l’Observatoire national de la santé.'
+valid_from: '2022-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867/consolide/20220901/fr'
+source_sha256: 'a93e52d4940eb5e797c6596b9994b11c1e3e74ef2ab34665dd506ef52ff86bd7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

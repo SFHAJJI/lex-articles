@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2024-05-22-a219:2025-07-01
-title: Loi du 22 mai 2024 portant introduction d’un paquet de mesures en vue de la relance du marché du logement.
-valid_from: 2025-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2024/05/22/a219/consolide/20250701/fr
-source_sha256: a329bb5fe1787116fa6e6e0ff332b7d164cf176c96ba9fa627db4be905e92062
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2024-05-22-a219:2025-07-01'
+title: 'Loi du 22 mai 2024 portant introduction d’un paquet de mesures en vue de la relance du marché du logement.'
+valid_from: '2025-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2024/05/22/a219/consolide/20250701/fr'
+source_sha256: 'a329bb5fe1787116fa6e6e0ff332b7d164cf176c96ba9fa627db4be905e92062'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Droits d’enregistrement et de transcription pour l’acquisition d’immeubles destinés à servir d’habitation à un locataire

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-04-18-a307:2021-01-01
-title: Version consolidée applicable au 01/06/2021 : Loi du 18 avril 2020 visant à mettre en place un régime de garantie en faveur de l’économie luxembourgeoise dans le cadre de la pandémie Covid-19.
-valid_from: 2021-01-01
-valid_to: 2021-05-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/04/18/a307/consolide/20210101/fr
-source_sha256: 535dcd6c02a0b41b3e4ce433ef3846f75966d51700abea12b8839a2002e8df5c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-04-18-a307:2021-01-01'
+title: 'Version consolidée applicable au 01/06/2021 : Loi du 18 avril 2020 visant à mettre en place un régime de garantie en faveur de l’économie luxembourgeoise dans le cadre de la pandémie Covid-19.'
+valid_from: '2021-01-01'
+valid_to: '2021-05-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/04/18/a307/consolide/20210101/fr'
+source_sha256: '535dcd6c02a0b41b3e4ce433ef3846f75966d51700abea12b8839a2002e8df5c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I. ** — **Aide sous forme de garantie sur les prêts contractés par les entreprises auprès des établissements de crédit**

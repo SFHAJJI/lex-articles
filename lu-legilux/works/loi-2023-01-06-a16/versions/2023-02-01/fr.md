@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-01-06-a16:2023-02-01
-title: Loi du 6 janvier 2023 portant institution d’un congé culturel.
-valid_from: 2023-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/01/06/a16/consolide/20230201/fr
-source_sha256: 46df356822a33b09f20e774ce60e2be6f998e1087270aa87ccf08be84bc3ff72
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-01-06-a16:2023-02-01'
+title: 'Loi du 6 janvier 2023 portant institution d’un congé culturel.'
+valid_from: '2023-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/01/06/a16/consolide/20230201/fr'
+source_sha256: '46df356822a33b09f20e774ce60e2be6f998e1087270aa87ccf08be84bc3ff72'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

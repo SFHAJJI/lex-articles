@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1972-06-23-n1:1993-09-20
-title: Version consolidée applicable au 20/09/1993 : Loi du 23 juin 1972 sur les emblèmes nationaux.
-valid_from: 1993-09-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/consolide/19930920/fr
-source_sha256: 4c2f6465578bdb6bcdac454172b34a5a21bc77c7803f2abdd937cb7efc3fe176
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1972-06-23-n1:1993-09-20'
+title: 'Version consolidée applicable au 20/09/1993 : Loi du 23 juin 1972 sur les emblèmes nationaux.'
+valid_from: '1993-09-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/consolide/19930920/fr'
+source_sha256: '4c2f6465578bdb6bcdac454172b34a5a21bc77c7803f2abdd937cb7efc3fe176'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

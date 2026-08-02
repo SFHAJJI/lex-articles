@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-08-10-a701:2020-01-01
-title: Loi du 10 août 2018 portant organisation de l'Administration de l'enregistrement, des domaines et de la TVA.
-valid_from: 2020-01-01
-valid_to: 2024-07-20
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a701/consolide/20200101/fr
-source_sha256: f298da88ce5c40962bb2c30105f011e3da53eeb09a1e8f80e401f61af18b7190
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-08-10-a701:2020-01-01'
+title: 'Loi du 10 août 2018 portant organisation de l''Administration de l''enregistrement, des domaines et de la TVA.'
+valid_from: '2020-01-01'
+valid_to: '2024-07-20'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a701/consolide/20200101/fr'
+source_sha256: 'f298da88ce5c40962bb2c30105f011e3da53eeb09a1e8f80e401f61af18b7190'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** L'Administration de l'enregistrement, des domaines et de la TVA**

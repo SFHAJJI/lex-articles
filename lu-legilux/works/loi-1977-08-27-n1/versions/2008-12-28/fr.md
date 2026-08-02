@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1977-08-27-n1:2008-12-28
-title: Version consolidée applicable au 01/07/2023 : Loi du 27 août 1977 concernant le statut des fonctionnaires entrés au service d'Institutions internationales.
-valid_from: 2008-12-28
-valid_to: 2023-06-30
-source: https://legilux.public.lu/eli/etat/leg/loi/1977/08/27/n1/consolide/20081228/fr
-source_sha256: a14314b628281f47af8a28feecf1d370245e3fa8f689a25f6c0aec7fed5ac4ea
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1977-08-27-n1:2008-12-28'
+title: 'Version consolidée applicable au 01/07/2023 : Loi du 27 août 1977 concernant le statut des fonctionnaires entrés au service d''Institutions internationales.'
+valid_from: '2008-12-28'
+valid_to: '2023-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1977/08/27/n1/consolide/20081228/fr'
+source_sha256: 'a14314b628281f47af8a28feecf1d370245e3fa8f689a25f6c0aec7fed5ac4ea'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

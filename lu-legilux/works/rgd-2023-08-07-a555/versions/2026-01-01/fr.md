@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-08-07-a555:2026-01-01
-title: Version consolidée applicable au 04/01/2026 : Règlement grand-ducal du 7 août 2023 fixant les modalités d’exécution relatives aux aides individuelles au logement.
-valid_from: 2026-01-01
-valid_to: 2026-01-03
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/consolide/20260101/fr
-source_sha256: 5f320daf817961a6d6b141b28fdf211c8f0f0b3e219f175e7aaf05998f81f55f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-08-07-a555:2026-01-01'
+title: 'Version consolidée applicable au 04/01/2026 : Règlement grand-ducal du 7 août 2023 fixant les modalités d’exécution relatives aux aides individuelles au logement.'
+valid_from: '2026-01-01'
+valid_to: '2026-01-03'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/consolide/20260101/fr'
+source_sha256: '5f320daf817961a6d6b141b28fdf211c8f0f0b3e219f175e7aaf05998f81f55f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

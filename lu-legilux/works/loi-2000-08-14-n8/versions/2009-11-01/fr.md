@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2000-08-14-n8:2009-11-01
-title: Version consolidée applicable au 10/05/2026 : Loi du 14 août 2000 relative au commerce électronique modifiant le code civil, le nouveau code de procédure civile, le code de commerce, le code pénal et transposant la directive 1999/93 du 13 décembre 1999 relative à un cadre communautaire pour les signatures électroniques, la directive 2000/31/CE relative à certains aspects juridiques des services de la société de l’information, certaines dispositions de la directive 97/7/CEE du 20 mai 1997 concernant la vente à distance des biens et des services autres que les services financiers et les services de confiance.
-valid_from: 2009-11-01
-valid_to: 2011-04-15
-source: https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20091101/fr
-source_sha256: 0f90de7357a5ae104d68961b5b83d437f1bdb57679e9f4fd223d4294ae2472b0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2000-08-14-n8:2009-11-01'
+title: 'Version consolidée applicable au 10/05/2026 : Loi du 14 août 2000 relative au commerce électronique modifiant le code civil, le nouveau code de procédure civile, le code de commerce, le code pénal et transposant la directive 1999/93 du 13 décembre 1999 relative à un cadre communautaire pour les signatures électroniques, la directive 2000/31/CE relative à certains aspects juridiques des services de la société de l’information, certaines dispositions de la directive 97/7/CEE du 20 mai 1997 concernant la vente à distance des biens et des services autres que les services financiers et les services de confiance.'
+valid_from: '2009-11-01'
+valid_to: '2011-04-15'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20091101/fr'
+source_sha256: '0f90de7357a5ae104d68961b5b83d437f1bdb57679e9f4fd223d4294ae2472b0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I. — DISPOSITIONS GENERALES

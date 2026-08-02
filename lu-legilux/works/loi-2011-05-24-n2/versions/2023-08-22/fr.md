@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-05-24-n2:2023-08-22
-title: Version consolidée applicable au 03/04/2026 : Loi du 24 mai 2011 concernant l'exercice de certains droits des actionnaires aux assemblées générales de sociétés cotées et portant transposition de la directive 2007/36/CE du Parlement européen et du Conseil du 11 juillet 2007 concernant l'exercice de certains droits des actionnaires de sociétés cotées.
-valid_from: 2023-08-22
-valid_to: 2026-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20230822/fr
-source_sha256: 981bcdf9589912865f3e363e8756c7aa2cc12cef36ffb87821acebc5ebafe6ea
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-05-24-n2:2023-08-22'
+title: 'Version consolidée applicable au 03/04/2026 : Loi du 24 mai 2011 concernant l''exercice de certains droits des actionnaires aux assemblées générales de sociétés cotées et portant transposition de la directive 2007/36/CE du Parlement européen et du Conseil du 11 juillet 2007 concernant l''exercice de certains droits des actionnaires de sociétés cotées.'
+valid_from: '2023-08-22'
+valid_to: '2026-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20230822/fr'
+source_sha256: '981bcdf9589912865f3e363e8756c7aa2cc12cef36ffb87821acebc5ebafe6ea'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1****er** — **Dispositions générales**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-04-29-n2:2012-05-29
-title: Version consolidée applicable au 19/02/2017 : Règlement grand-ducal du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l'air ambiant et un air pur pour l'Europe.
-valid_from: 2012-05-29
-valid_to: 2017-02-18
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/04/29/n2/consolide/20120529/fr
-source_sha256: 2977333b11722471d74ac6f1e23c6e9c85bf2b8af9e0e3cdaa0c02572a16e3f2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-04-29-n2:2012-05-29'
+title: 'Version consolidée applicable au 19/02/2017 : Règlement grand-ducal du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement européen et du Conseil du 21 mai 2008 concernant la qualité de l''air ambiant et un air pur pour l''Europe.'
+valid_from: '2012-05-29'
+valid_to: '2017-02-18'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/04/29/n2/consolide/20120529/fr'
+source_sha256: '2977333b11722471d74ac6f1e23c6e9c85bf2b8af9e0e3cdaa0c02572a16e3f2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — *Dispositions générales*

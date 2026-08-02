@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1992-10-15-n2:2017-07-28
-title: Version consolidée applicable au 24/07/2022 : Règlement grand-ducal du 15 octobre 1992 concernant le mode d'élection des représentants du personnel salarié au conseil d'administration de l'Entreprise des Postes et Télécommunications et l'exercice de leurs fonctions.
-valid_from: 2017-07-28
-valid_to: 2022-07-23
-source: https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20170728/fr
-source_sha256: 4627ee71b4090b304694fc54a54014a0db87e39fc5886c21394bed65c6342894
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1992-10-15-n2:2017-07-28'
+title: 'Version consolidée applicable au 24/07/2022 : Règlement grand-ducal du 15 octobre 1992 concernant le mode d''élection des représentants du personnel salarié au conseil d''administration de l''Entreprise des Postes et Télécommunications et l''exercice de leurs fonctions.'
+valid_from: '2017-07-28'
+valid_to: '2022-07-23'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20170728/fr'
+source_sha256: '4627ee71b4090b304694fc54a54014a0db87e39fc5886c21394bed65c6342894'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

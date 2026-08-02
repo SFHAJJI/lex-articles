@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-02-22-a154:2018-08-20
-title: Loi du 22 février 2018 relative à l’échange de données à caractère personnel et d’informations en matière policière.
-valid_from: 2018-08-20
-valid_to: 2025-12-05
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/02/22/a154/consolide/20180820/fr
-source_sha256: 7ebcdf37abc3d55ddd78b740735e1bae44e16b6a4a3de644061f8b85389fe8d5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-02-22-a154:2018-08-20'
+title: 'Loi du 22 février 2018 relative à l’échange de données à caractère personnel et d’informations en matière policière.'
+valid_from: '2018-08-20'
+valid_to: '2025-12-05'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/02/22/a154/consolide/20180820/fr'
+source_sha256: '7ebcdf37abc3d55ddd78b740735e1bae44e16b6a4a3de644061f8b85389fe8d5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **De l’échange de données à caractère personnel et d’informations en matière de coopération policière internationale.**

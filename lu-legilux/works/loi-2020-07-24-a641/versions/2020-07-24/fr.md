@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-07-24-a641:2020-07-24
-title: Version consolidée applicable au 23/03/2021 : Loi du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de :\n1° la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu ;\n2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ;\n3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.\n
-valid_from: 2020-07-24
-valid_to: 2020-12-20
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a641/consolide/20200724/fr
-source_sha256: b2a332689c5ad975c654a6bca5afbc4247f2c2522a7d83fc12a9f436c3c59cfd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-07-24-a641:2020-07-24'
+title: 'Version consolidée applicable au 23/03/2021 : Loi du 24 juillet 2020 visant à mettre en place un fonds de relance et de solidarité et un régime d’aides en faveur de certaines entreprises et portant modification de :\n1° la loi modifiée du 4 décembre 1967 concernant l''impôt sur le revenu ;\n2° la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020 ;\n3° la loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.\n'
+valid_from: '2020-07-24'
+valid_to: '2020-12-20'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a641/consolide/20200724/fr'
+source_sha256: 'b2a332689c5ad975c654a6bca5afbc4247f2c2522a7d83fc12a9f436c3c59cfd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

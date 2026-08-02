@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2013-08-27-n5:2013-12-01
-title: Version rectifiée applicable au 01/12/2013 : Loi du 27 août 2013 modifiant la loi modifiée du 27 juillet 1991 sur les médias électroniques en vue de la création de l’établissement public «Autorité luxembourgeoise indépendante de l’audiovisuel» et modifiant\n1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat et\n2) la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques publiques.
-valid_from: 2013-12-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2013/08/27/n5/consolide/20131201/fr
-source_sha256: c2b0bf38253a708726ad485b35625836e50b29af321c86b87fc15c7b711b990c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2013-08-27-n5:2013-12-01'
+title: 'Version rectifiée applicable au 01/12/2013 : Loi du 27 août 2013 modifiant la loi modifiée du 27 juillet 1991 sur les médias électroniques en vue de la création de l’établissement public «Autorité luxembourgeoise indépendante de l’audiovisuel» et modifiant\n1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat et\n2) la loi du 20 avril 2009 relative à l’accès aux représentations cinématographiques publiques.'
+valid_from: '2013-12-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/08/27/n5/consolide/20131201/fr'
+source_sha256: 'c2b0bf38253a708726ad485b35625836e50b29af321c86b87fc15c7b711b990c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

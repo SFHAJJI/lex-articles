@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-07-24-n1:2012-07-01
-title: Version consolidée applicable au 01/07/2012 : Règlement grand-ducal du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro.
-valid_from: 2012-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/07/24/n1/consolide/20120701/fr
-source_sha256: cace6278870df79a45d4361f93840e09ecb02ba9d9a0e746cc7c701f5475ea0d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-07-24-n1:2012-07-01'
+title: 'Version consolidée applicable au 01/07/2012 : Règlement grand-ducal du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro.'
+valid_from: '2012-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/07/24/n1/consolide/20120701/fr'
+source_sha256: 'cace6278870df79a45d4361f93840e09ecb02ba9d9a0e746cc7c701f5475ea0d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier: Champ d’application

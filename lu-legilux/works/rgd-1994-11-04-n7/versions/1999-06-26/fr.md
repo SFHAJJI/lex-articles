@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1994-11-04-n7:1999-06-26
-title: Version consolidée applicable au 29/03/2021 : Règlement grand-ducal du 4 novembre 1994 concernant la protection des travailleurs contre les risques liés à l'exposition à des agents biologiques au travail.
-valid_from: 1999-06-26
-valid_to: 2021-03-28
-source: https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n7/consolide/19990626/fr
-source_sha256: abae9cf3e854e45737ae2b65e80d8b016bb2f46f4806a17d33ac2fd93a8109ac
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1994-11-04-n7:1999-06-26'
+title: 'Version consolidée applicable au 29/03/2021 : Règlement grand-ducal du 4 novembre 1994 concernant la protection des travailleurs contre les risques liés à l''exposition à des agents biologiques au travail.'
+valid_from: '1999-06-26'
+valid_to: '2021-03-28'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n7/consolide/19990626/fr'
+source_sha256: 'abae9cf3e854e45737ae2b65e80d8b016bb2f46f4806a17d33ac2fd93a8109ac'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## SECTION I — DISPOSITIONS GENERALES

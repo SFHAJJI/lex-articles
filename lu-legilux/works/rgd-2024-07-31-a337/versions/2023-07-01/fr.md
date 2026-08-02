@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-07-31-a337:2023-07-01
-title: Version rectifiée applicable au 01/07/2023 : Règlement grand-ducal du 31 juillet 2024 modifiant :\n1° le règlement grand-ducal modifié du 31 mars 2010 relatif au mécanisme de compensation dans le cadre de l’organisation du marché de l’électricité ;\n2° le règlement grand-ducal modifié du 15 décembre 2011 relatif à la production, la rémunération et la commercialisation de biogaz ;\n3° le règlement grand-ducal modifié du 1er août 2014 relatif à la production d’électricité basée sur les sources d’énergie renouvelables ;\n4° le règlement grand-ducal du 23 décembre 2022 modifiant le règlement grand-ducal modifié du 1er août 2014 relatif à la production d’électricité basée sur les sources d’énergie renouvelables ;\n5° le règlement grand-ducal du 23 décembre 2022 modifiant le règlement grand-ducal modifié du 31 mars 2010 relatif au mécanisme de compensation dans le cadre de l’organisation du marché de l’électricité.\n
-valid_from: 2023-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a337/consolide/20230701/fr
-source_sha256: 7f1d9a2c05db7e92f8cede786c9bb1c5ae6fb33d8ce1132771cb483f78f66d9c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-07-31-a337:2023-07-01'
+title: 'Version rectifiée applicable au 01/07/2023 : Règlement grand-ducal du 31 juillet 2024 modifiant :\n1° le règlement grand-ducal modifié du 31 mars 2010 relatif au mécanisme de compensation dans le cadre de l’organisation du marché de l’électricité ;\n2° le règlement grand-ducal modifié du 15 décembre 2011 relatif à la production, la rémunération et la commercialisation de biogaz ;\n3° le règlement grand-ducal modifié du 1er août 2014 relatif à la production d’électricité basée sur les sources d’énergie renouvelables ;\n4° le règlement grand-ducal du 23 décembre 2022 modifiant le règlement grand-ducal modifié du 1er août 2014 relatif à la production d’électricité basée sur les sources d’énergie renouvelables ;\n5° le règlement grand-ducal du 23 décembre 2022 modifiant le règlement grand-ducal modifié du 31 mars 2010 relatif au mécanisme de compensation dans le cadre de l’organisation du marché de l’électricité.\n'
+valid_from: '2023-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a337/consolide/20230701/fr'
+source_sha256: '7f1d9a2c05db7e92f8cede786c9bb1c5ae6fb33d8ce1132771cb483f78f66d9c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

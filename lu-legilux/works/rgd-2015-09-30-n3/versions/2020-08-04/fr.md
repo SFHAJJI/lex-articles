@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-09-30-n3:2020-08-04
-title: Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État.
-valid_from: 2020-08-04
-valid_to: 2021-07-10
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n3/consolide/20200804/fr
-source_sha256: a9b84f5ec0689b21e14354118a328ac10703d5b725409bca6dd7b5cf2d826ea7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-09-30-n3:2020-08-04'
+title: 'Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 30 septembre 2015 fixant les conditions et modalités d’inscription et d’organisation des examens-concours d’admission au stage dans les administrations et services de l’État.'
+valid_from: '2020-08-04'
+valid_to: '2021-07-10'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n3/consolide/20200804/fr'
+source_sha256: 'a9b84f5ec0689b21e14354118a328ac10703d5b725409bca6dd7b5cf2d826ea7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er. ** — **Dispositions générales**

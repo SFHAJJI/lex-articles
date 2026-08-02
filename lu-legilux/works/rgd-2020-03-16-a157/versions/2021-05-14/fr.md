@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-03-16-a157:2021-05-14
-title: Version consolidée applicable au 14/05/2021 : Règlement grand-ducal du 16 mars 2020 concernant l’émission d’une pièce de collection dédiée à la « Mélusine ».
-valid_from: 2021-05-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a157/consolide/20210514/fr
-source_sha256: 7619b0477cc1b03e7a389d859714ae17efd7b915f0f0ba43967ea5d95ab5978c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-03-16-a157:2021-05-14'
+title: 'Version consolidée applicable au 14/05/2021 : Règlement grand-ducal du 16 mars 2020 concernant l’émission d’une pièce de collection dédiée à la « Mélusine ».'
+valid_from: '2021-05-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a157/consolide/20210514/fr'
+source_sha256: '7619b0477cc1b03e7a389d859714ae17efd7b915f0f0ba43967ea5d95ab5978c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

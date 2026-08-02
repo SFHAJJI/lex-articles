@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-23-n1:2026-05-10
-title: Version consolidée applicable au 10/05/2026 : Loi du 23 juillet 2016 portant création d'un Haut-Commissariat à la Protection nationale et modifiant a) la loi modifiée du 23 juillet 1952 concernant l'organisation militaire; b) la loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe; c) la loi modifiée du 2 août 2002 relative à la protection des personnes à l'égard du traitement des données à caractère personnel; d) la loi modifiée du 25 juin 2009 sur les marchés publics; e) la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'État; f) la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d'avancement des fonctionnaires de l'État.
-valid_from: 2026-05-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n1/consolide/20260510/fr
-source_sha256: 9f5f631e2df919f2d3321be767eecd5c30103a7c518405e1997f5f740cf45cd7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-23-n1:2026-05-10'
+title: 'Version consolidée applicable au 10/05/2026 : Loi du 23 juillet 2016 portant création d''un Haut-Commissariat à la Protection nationale et modifiant a) la loi modifiée du 23 juillet 1952 concernant l''organisation militaire; b) la loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe; c) la loi modifiée du 2 août 2002 relative à la protection des personnes à l''égard du traitement des données à caractère personnel; d) la loi modifiée du 25 juin 2009 sur les marchés publics; e) la loi modifiée du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l''État; f) la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d''avancement des fonctionnaires de l''État.'
+valid_from: '2026-05-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n1/consolide/20260510/fr'
+source_sha256: '9f5f631e2df919f2d3321be767eecd5c30103a7c518405e1997f5f740cf45cd7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Objet

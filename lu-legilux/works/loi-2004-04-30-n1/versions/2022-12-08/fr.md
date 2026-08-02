@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-04-30-n1:2022-12-08
-title: Version consolidée applicable au 01/01/2019 : Loi du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l'accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit.
-valid_from: 2022-12-08
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/04/30/n1/consolide/20221208/fr
-source_sha256: 0f0c61140bb739f8850a6909e4176532fb445008265627af453ec132276677bb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-04-30-n1:2022-12-08'
+title: 'Version consolidée applicable au 01/01/2019 : Loi du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l''accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit.'
+valid_from: '2022-12-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/04/30/n1/consolide/20221208/fr'
+source_sha256: '0f0c61140bb739f8850a6909e4176532fb445008265627af453ec132276677bb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

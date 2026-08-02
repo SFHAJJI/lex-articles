@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-06-26-a445:2025-11-25
-title: Version consolidée applicable au 25/11/2025 : Loi du 26 juin 2019 relative à certaines modalités d’application et à la sanction du règlement (UE) 2018/302 du Parlement européen et du Conseil du 28 février 2018 visant à contrer le blocage géographique injustifié et d’autres formes de discrimination fondée sur la nationalité, le lieu de résidence ou le lieu d’établissement des clients dans le marché intérieur, et modifiant les règlements (CE) n° 2006/2004 et (UE) 2017/2394 et la directive 2009/22/CE.
-valid_from: 2025-11-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/06/26/a445/consolide/20251125/fr
-source_sha256: 053ff58407d64d5664da96c453023f7fa0e8e98a96956af3f06bf76a460b4611
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-06-26-a445:2025-11-25'
+title: 'Version consolidée applicable au 25/11/2025 : Loi du 26 juin 2019 relative à certaines modalités d’application et à la sanction du règlement (UE) 2018/302 du Parlement européen et du Conseil du 28 février 2018 visant à contrer le blocage géographique injustifié et d’autres formes de discrimination fondée sur la nationalité, le lieu de résidence ou le lieu d’établissement des clients dans le marché intérieur, et modifiant les règlements (CE) n° 2006/2004 et (UE) 2017/2394 et la directive 2009/22/CE.'
+valid_from: '2025-11-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/06/26/a445/consolide/20251125/fr'
+source_sha256: '053ff58407d64d5664da96c453023f7fa0e8e98a96956af3f06bf76a460b4611'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

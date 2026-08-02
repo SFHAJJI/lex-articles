@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1843-01-13-n1:1973-03-16
-title: Version consolidée applicable au 16/03/1973 : Loi du 13 janvier 1843 sur la compétence des tribunaux pour juger les contraventions en matière de grande voirie, et sur les autorisations de faire des constructions ou des plantations le long des routes.
-valid_from: 1973-03-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1843/01/13/n1/consolide/19730316/fr
-source_sha256: 5db0498d7ab51a81a9e5eceee6a113ec08067e65ac5390039bacfccae859508c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1843-01-13-n1:1973-03-16'
+title: 'Version consolidée applicable au 16/03/1973 : Loi du 13 janvier 1843 sur la compétence des tribunaux pour juger les contraventions en matière de grande voirie, et sur les autorisations de faire des constructions ou des plantations le long des routes.'
+valid_from: '1973-03-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1843/01/13/n1/consolide/19730316/fr'
+source_sha256: '5db0498d7ab51a81a9e5eceee6a113ec08067e65ac5390039bacfccae859508c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-07-25-a625:2023-06-13
-title: Version consolidée applicable au 13/06/2023 : Règlement grand-ducal du 25 juillet 2018 fixant les modalités de fonctionnement du comité de concertation régional et du comité de prévention communal.
-valid_from: 2023-06-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/07/25/a625/consolide/20230613/fr
-source_sha256: 1c478e2071431cdc53e421f39c2c9909662df6c57f2aaf86b8b88eca519ad037
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-07-25-a625:2023-06-13'
+title: 'Version consolidée applicable au 13/06/2023 : Règlement grand-ducal du 25 juillet 2018 fixant les modalités de fonctionnement du comité de concertation régional et du comité de prévention communal.'
+valid_from: '2023-06-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/07/25/a625/consolide/20230613/fr'
+source_sha256: '1c478e2071431cdc53e421f39c2c9909662df6c57f2aaf86b8b88eca519ad037'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

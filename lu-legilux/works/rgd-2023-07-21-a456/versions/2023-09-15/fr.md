@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-07-21-a456:2023-09-15
-title: Version rectifiée applicable au 15/09/2023 : Règlement grand-ducal du 21 juillet 2023 déterminant les modalités des épreuves de l’examen de fin d’études secondaires générales.
-valid_from: 2023-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/07/21/a456/consolide/20230915/fr
-source_sha256: ae09ef116c4cbb17994268f9138ad13cde97e181bedef10b454c45889fcc59c2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-07-21-a456:2023-09-15'
+title: 'Version rectifiée applicable au 15/09/2023 : Règlement grand-ducal du 21 juillet 2023 déterminant les modalités des épreuves de l’examen de fin d’études secondaires générales.'
+valid_from: '2023-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/07/21/a456/consolide/20230915/fr'
+source_sha256: 'ae09ef116c4cbb17994268f9138ad13cde97e181bedef10b454c45889fcc59c2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

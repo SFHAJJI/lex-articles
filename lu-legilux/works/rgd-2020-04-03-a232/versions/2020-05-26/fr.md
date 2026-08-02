@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-04-03-a232:2020-05-26
-title: Version consolidée applicable au 13/01/2022 : Règlement grand-ducal du 3 avril 2020 portant exécution des articles 5, 6 et 8 de la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.
-valid_from: 2020-05-26
-valid_to: 2020-06-23
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/consolide/20200526/fr
-source_sha256: b88c1707975dde10f5f4e2b8e7e4a81e81e2df361f3203e87ad6fffadbabdc89
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-04-03-a232:2020-05-26'
+title: 'Version consolidée applicable au 13/01/2022 : Règlement grand-ducal du 3 avril 2020 portant exécution des articles 5, 6 et 8 de la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.'
+valid_from: '2020-05-26'
+valid_to: '2020-06-23'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/consolide/20200526/fr'
+source_sha256: 'b88c1707975dde10f5f4e2b8e7e4a81e81e2df361f3203e87ad6fffadbabdc89'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

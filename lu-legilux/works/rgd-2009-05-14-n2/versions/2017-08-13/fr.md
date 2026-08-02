@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-05-14-n2:2017-08-13
-title: Version consolidée applicable au 15/09/2030 : Règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l'organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l'Éducation nationale dans ses attributions ainsi que les modalités de leur transmission.
-valid_from: 2017-08-13
-valid_to: 2026-09-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/05/14/n2/consolide/20170813/fr
-source_sha256: c453d0b0f02811487c05fad7d1f48dd4e5d9234f5f23b77186c76f9f0dbce014
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-05-14-n2:2017-08-13'
+title: 'Version consolidée applicable au 15/09/2030 : Règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l''organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l''Éducation nationale dans ses attributions ainsi que les modalités de leur transmission.'
+valid_from: '2017-08-13'
+valid_to: '2026-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/05/14/n2/consolide/20170813/fr'
+source_sha256: 'c453d0b0f02811487c05fad7d1f48dd4e5d9234f5f23b77186c76f9f0dbce014'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

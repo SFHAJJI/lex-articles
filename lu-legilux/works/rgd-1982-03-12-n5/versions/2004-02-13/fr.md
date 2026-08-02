@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1982-03-12-n5:2004-02-13
-title: Version consolidée applicable au 13/02/2004 : Règlement grand-ducal du 12 mars 1982 déterminant les conditions d'admission, de nomination et de promotion des fonctionnaires de la carrière de l'artisan dans les administrations et services de l'Etat.
-valid_from: 2004-02-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/consolide/20040213/fr
-source_sha256: dcc63a280dd670c1efd24a319173e421fa9acad8de87e04ac702b27b653d7090
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1982-03-12-n5:2004-02-13'
+title: 'Version consolidée applicable au 13/02/2004 : Règlement grand-ducal du 12 mars 1982 déterminant les conditions d''admission, de nomination et de promotion des fonctionnaires de la carrière de l''artisan dans les administrations et services de l''Etat.'
+valid_from: '2004-02-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1982/03/12/n5/consolide/20040213/fr'
+source_sha256: 'dcc63a280dd670c1efd24a319173e421fa9acad8de87e04ac702b27b653d7090'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

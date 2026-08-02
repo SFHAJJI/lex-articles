@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-04-29-n1:2025-01-01
-title: Loi du 29 avril 2014 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 2014.
-valid_from: 2025-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/04/29/n1/consolide/20250101/fr
-source_sha256: a461e4eb2426b5392c7a9918a7840703d76ba4261513639947da1514c8c2e43c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-04-29-n1:2025-01-01'
+title: 'Loi du 29 avril 2014 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 2014.'
+valid_from: '2025-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/04/29/n1/consolide/20250101/fr'
+source_sha256: 'a461e4eb2426b5392c7a9918a7840703d76ba4261513639947da1514c8c2e43c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre A — Arrêté du budget

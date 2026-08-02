@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2001-08-01-n16:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Loi du 1er août 2001 relative au basculement en euro le 1er janvier 2002 et modifiant certaines dispositions législatives.
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/consolide/20020101/fr
-source_sha256: d609056fd6d905bcb952504dc1539cdf6a40746cb2129588aab5240b4a643227
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2001-08-01-n16:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Loi du 1er août 2001 relative au basculement en euro le 1er janvier 2002 et modifiant certaines dispositions législatives.'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/consolide/20020101/fr'
+source_sha256: 'd609056fd6d905bcb952504dc1539cdf6a40746cb2129588aab5240b4a643227'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I :** — **Dispositions d’ordre général**

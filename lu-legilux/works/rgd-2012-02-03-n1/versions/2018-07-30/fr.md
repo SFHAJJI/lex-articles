@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2012-02-03-n1:2018-07-30
-title: Version consolidée applicable au 10/03/2026 : Règlement grand-ducal du 3 février 2012 précisant les modalités des formations prévues aux articles 7, 8 (1) c), 9 b) et 10 (1) b) de la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales.
-valid_from: 2018-07-30
-valid_to: 2026-03-09
-source: https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1/consolide/20180730/fr
-source_sha256: 40827dbe92a54cced08922644cbb9f5f5018c061948af7b8092d599e55d8adec
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2012-02-03-n1:2018-07-30'
+title: 'Version consolidée applicable au 10/03/2026 : Règlement grand-ducal du 3 février 2012 précisant les modalités des formations prévues aux articles 7, 8 (1) c), 9 b) et 10 (1) b) de la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales.'
+valid_from: '2018-07-30'
+valid_to: '2026-03-09'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1/consolide/20180730/fr'
+source_sha256: '40827dbe92a54cced08922644cbb9f5f5018c061948af7b8092d599e55d8adec'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — La formation accélérée du commerçant prévue à l’article 8 (1) c) de la loi du 2 septembre 2011

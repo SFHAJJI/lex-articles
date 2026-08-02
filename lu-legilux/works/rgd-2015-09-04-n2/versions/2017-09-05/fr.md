@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-09-04-n2:2017-09-05
-title: Version consolidée applicable au 05/09/2017 : Règlement grand-ducal du 4 septembre 2015 déterminant les redevances de traitement en matière de produits biocides.
-valid_from: 2017-09-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/09/04/n2/consolide/20170905/fr
-source_sha256: 102fafd3204909151ec288eb587344d8b4cfeea617187dd3809caf6bcac160d9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-09-04-n2:2017-09-05'
+title: 'Version consolidée applicable au 05/09/2017 : Règlement grand-ducal du 4 septembre 2015 déterminant les redevances de traitement en matière de produits biocides.'
+valid_from: '2017-09-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/09/04/n2/consolide/20170905/fr'
+source_sha256: '102fafd3204909151ec288eb587344d8b4cfeea617187dd3809caf6bcac160d9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2002-07-30-n8:2024-01-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 30 juillet 2002 relatif à la commission consultative en matière de reconnaissance du baccalauréat international.
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/consolide/20240101/fr
-source_sha256: 3d2a1c820db4beca4d00913643b6d7c05685615013822c2c7e0a25707795b6ef
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2002-07-30-n8:2024-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 30 juillet 2002 relatif à la commission consultative en matière de reconnaissance du baccalauréat international.'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/consolide/20240101/fr'
+source_sha256: '3d2a1c820db4beca4d00913643b6d7c05685615013822c2c7e0a25707795b6ef'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

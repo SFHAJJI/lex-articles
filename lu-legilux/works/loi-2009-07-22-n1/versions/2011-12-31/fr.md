@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-07-22-n1:2011-12-31
-title: Loi du 22 juillet 2009 relative à la sécurité ferroviaire.
-valid_from: 2011-12-31
-valid_to: 2012-10-17
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20111231/fr
-source_sha256: 458c3defb5b2a6721cbea6d7b86516c7be296a34646db49ed9a8db4148dad4e2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-07-22-n1:2011-12-31'
+title: 'Loi du 22 juillet 2009 relative à la sécurité ferroviaire.'
+valid_from: '2011-12-31'
+valid_to: '2012-10-17'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20111231/fr'
+source_sha256: '458c3defb5b2a6721cbea6d7b86516c7be296a34646db49ed9a8db4148dad4e2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## *Chapitre I* — *Champ d’application et définitions*

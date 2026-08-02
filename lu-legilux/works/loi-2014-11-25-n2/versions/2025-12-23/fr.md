@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-11-25-n2:2025-12-23
-title: Version consolidée applicable au 23/12/2025 : Loi du 25 novembre 2014 prévoyant la procédure applicable à l'échange de renseignements sur demande en matière fiscale et modifiant la loi du 31 mars 2010 portant approbation des conventions fiscales et prévoyant la procédure y applicable en matière d'échange de renseignements sur demande.
-valid_from: 2025-12-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/11/25/n2/consolide/20251223/fr
-source_sha256: afd415a85b7c7ca0c721ca2af03ca97127eff1915b3b219e13306b77b6d10733
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-11-25-n2:2025-12-23'
+title: 'Version consolidée applicable au 23/12/2025 : Loi du 25 novembre 2014 prévoyant la procédure applicable à l''échange de renseignements sur demande en matière fiscale et modifiant la loi du 31 mars 2010 portant approbation des conventions fiscales et prévoyant la procédure y applicable en matière d''échange de renseignements sur demande.'
+valid_from: '2025-12-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/11/25/n2/consolide/20251223/fr'
+source_sha256: 'afd415a85b7c7ca0c721ca2af03ca97127eff1915b3b219e13306b77b6d10733'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

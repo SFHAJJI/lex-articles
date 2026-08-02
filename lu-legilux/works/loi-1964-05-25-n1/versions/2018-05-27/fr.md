@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1964-05-25-n1:2018-05-27
-title: Version consolidée applicable au 27/05/2018 : Loi du 25 mai 1964 concernant le remembrement des biens ruraux.
-valid_from: 2018-05-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1964/05/25/n1/consolide/20180527/fr
-source_sha256: b112972f7408e71b831a45c807e13e10d30c3fe220a19884e5edc5afe8a882b0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1964-05-25-n1:2018-05-27'
+title: 'Version consolidée applicable au 27/05/2018 : Loi du 25 mai 1964 concernant le remembrement des biens ruraux.'
+valid_from: '2018-05-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1964/05/25/n1/consolide/20180527/fr'
+source_sha256: 'b112972f7408e71b831a45c807e13e10d30c3fe220a19884e5edc5afe8a882b0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Dispositions générales

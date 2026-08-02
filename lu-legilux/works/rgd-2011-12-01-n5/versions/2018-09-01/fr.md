@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-12-01-n5:2018-09-01
-title: Version consolidée applicable au 01/09/2018 : Règlement grand-ducal du 1er décembre 2011 déterminant les critères, les conditions et la procédure relative à la fixation des prix des médicaments à usage humain.
-valid_from: 2018-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/consolide/20180901/fr
-source_sha256: 2bffd8b4bd16b86012e7fdc5fa7ea94c960e8c7e438e165f7509345251cfc15c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-12-01-n5:2018-09-01'
+title: 'Version consolidée applicable au 01/09/2018 : Règlement grand-ducal du 1er décembre 2011 déterminant les critères, les conditions et la procédure relative à la fixation des prix des médicaments à usage humain.'
+valid_from: '2018-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/consolide/20180901/fr'
+source_sha256: '2bffd8b4bd16b86012e7fdc5fa7ea94c960e8c7e438e165f7509345251cfc15c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions générales

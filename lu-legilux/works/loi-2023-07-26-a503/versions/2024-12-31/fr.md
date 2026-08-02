@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-07-26-a503:2024-12-31
-title: Version consolidée applicable au 31/12/2024 : Loi du 26 juillet 2023 relative à la mise en œuvre du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l’égard de la chaîne d’approvisionnement pour les importateurs de l’Union qui importent de l’étain, du tantale et du tungstène, leurs minerais et de l’or provenant de zones de conflit ou à haut risque.
-valid_from: 2024-12-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/consolide/20241231/fr
-source_sha256: a64b261f1ee9dcf6a265781f82c8500c7c40cc08cc384f764a36a4bc78c9238b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-07-26-a503:2024-12-31'
+title: 'Version consolidée applicable au 31/12/2024 : Loi du 26 juillet 2023 relative à la mise en œuvre du règlement (UE) 2017/821 du Parlement européen et du Conseil du 17 mai 2017 fixant des obligations liées au devoir de diligence à l’égard de la chaîne d’approvisionnement pour les importateurs de l’Union qui importent de l’étain, du tantale et du tungstène, leurs minerais et de l’or provenant de zones de conflit ou à haut risque.'
+valid_from: '2024-12-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/consolide/20241231/fr'
+source_sha256: 'a64b261f1ee9dcf6a265781f82c8500c7c40cc08cc384f764a36a4bc78c9238b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

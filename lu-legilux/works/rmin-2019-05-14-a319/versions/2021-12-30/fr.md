@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-2019-05-14-a319:2021-12-30
-title: Version consolidée applicable au 30/12/2021 : Règlement ministériel du 14 mai 2019 relatif à la subdivision et aux conditions d’utilisation de l’espace aérien luxembourgeois.
-valid_from: 2021-12-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/2019/05/14/a319/consolide/20211230/fr
-source_sha256: 32d6774450e0e5c19bab7d097aeb45568395d42d1288a513fe4097cf6ea19597
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-2019-05-14-a319:2021-12-30'
+title: 'Version consolidée applicable au 30/12/2021 : Règlement ministériel du 14 mai 2019 relatif à la subdivision et aux conditions d’utilisation de l’espace aérien luxembourgeois.'
+valid_from: '2021-12-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/2019/05/14/a319/consolide/20211230/fr'
+source_sha256: '32d6774450e0e5c19bab7d097aeb45568395d42d1288a513fe4097cf6ea19597'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Généralités**

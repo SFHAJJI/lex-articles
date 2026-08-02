@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-07-21-a444:2023-07-16
-title: Version consolidée applicable au 16/07/2023 : Règlement grand-ducal du 21 juillet 2023 déterminant les professions et métiers dans le cadre de la formation professionnelle et fixant les indemnités d’apprentissage dans les secteurs de l’artisanat, du commerce, de l’Horeca, de l’industrie, de l’agriculture et du secteur de santé et social.
-valid_from: 2023-07-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/07/21/a444/consolide/20230716/fr
-source_sha256: 17fa85bb0b9ac07fe848a93dfe9a5b7f376d223507a1e4d6d54d750833eadd7a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-07-21-a444:2023-07-16'
+title: 'Version consolidée applicable au 16/07/2023 : Règlement grand-ducal du 21 juillet 2023 déterminant les professions et métiers dans le cadre de la formation professionnelle et fixant les indemnités d’apprentissage dans les secteurs de l’artisanat, du commerce, de l’Horeca, de l’industrie, de l’agriculture et du secteur de santé et social.'
+valid_from: '2023-07-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/07/21/a444/consolide/20230716/fr'
+source_sha256: '17fa85bb0b9ac07fe848a93dfe9a5b7f376d223507a1e4d6d54d750833eadd7a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

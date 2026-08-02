@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1915-08-10-n1:2023-08-01
-title: Version consolidée applicable au 02/06/2026 : Loi du 10 août 1915 concernant les sociétés commerciales.
-valid_from: 2023-08-01
-valid_to: 2023-08-21
-source: https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/consolide/20230801/fr
-source_sha256: e08abe2123c8a58e285675c6c3c4700f18452d544b06b9aed210ddab5df688ec
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1915-08-10-n1:2023-08-01'
+title: 'Version consolidée applicable au 02/06/2026 : Loi du 10 août 1915 concernant les sociétés commerciales.'
+valid_from: '2023-08-01'
+valid_to: '2023-08-21'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/consolide/20230801/fr'
+source_sha256: 'e08abe2123c8a58e285675c6c3c4700f18452d544b06b9aed210ddab5df688ec'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier** — **Dispositions générales**

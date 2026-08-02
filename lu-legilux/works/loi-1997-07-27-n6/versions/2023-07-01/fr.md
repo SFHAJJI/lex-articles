@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1997-07-27-n6:2023-07-01
-title: Version consolidée applicable au 28/07/2025 : Loi du 27 juillet 1997 portant organisation de la Cour Constitutionnelle
-valid_from: 2023-07-01
-valid_to: 2023-07-02
-source: https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n6/consolide/20230701/fr
-source_sha256: 59e85f10790bfacdf7d84def07c6e77f0a1ec0620f5bf190a3c7e30d607fee0c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1997-07-27-n6:2023-07-01'
+title: 'Version consolidée applicable au 28/07/2025 : Loi du 27 juillet 1997 portant organisation de la Cour Constitutionnelle'
+valid_from: '2023-07-01'
+valid_to: '2023-07-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n6/consolide/20230701/fr'
+source_sha256: '59e85f10790bfacdf7d84def07c6e77f0a1ec0620f5bf190a3c7e30d607fee0c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er.**- De l’institution et du siège**

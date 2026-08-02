@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-06-20-a542:2020-12-22
-title: Version consolidée applicable au 20/12/2021 : Loi du 20 juin 2020 portant adaptation temporaire de certaines modalités procédurales en matière pénale.
-valid_from: 2020-12-22
-valid_to: 2021-08-17
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20201222/fr
-source_sha256: a8c4e2599f499dbbecb8cc2b8946bd12d23c4337b6aaa58065bd97e2358e9b10
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-06-20-a542:2020-12-22'
+title: 'Version consolidée applicable au 20/12/2021 : Loi du 20 juin 2020 portant adaptation temporaire de certaines modalités procédurales en matière pénale.'
+valid_from: '2020-12-22'
+valid_to: '2021-08-17'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20201222/fr'
+source_sha256: 'a8c4e2599f499dbbecb8cc2b8946bd12d23c4337b6aaa58065bd97e2358e9b10'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

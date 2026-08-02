@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-04-10-a251:2020-05-08
-title: Version consolidée applicable au 08/05/2020 : Règlement grand-ducal du 10 avril 2018 fixant les modalités d’organisation et les matières des examens de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive ainsi que des examens de promotion des différentes catégories de traitement auprès de la Direction de la santé.
-valid_from: 2020-05-08
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/04/10/a251/consolide/20200508/fr
-source_sha256: d603c2db60aeadc571a48529b1398fbaac22078a4c571c7af2f0fb4e29cbd2e0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-04-10-a251:2020-05-08'
+title: 'Version consolidée applicable au 08/05/2020 : Règlement grand-ducal du 10 avril 2018 fixant les modalités d’organisation et les matières des examens de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive ainsi que des examens de promotion des différentes catégories de traitement auprès de la Direction de la santé.'
+valid_from: '2020-05-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/04/10/a251/consolide/20200508/fr'
+source_sha256: 'd603c2db60aeadc571a48529b1398fbaac22078a4c571c7af2f0fb4e29cbd2e0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ** Organisation des examens et appréciation des résultats**

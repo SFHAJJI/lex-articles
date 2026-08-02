@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-11-14-n2:2022-07-21
-title: Version consolidée applicable au 21/07/2022 : Règlement grand-ducal du 14 novembre 2013 concernant l'agrément à accorder aux gestionnaires de services d'éducation et d'accueil pour enfants.
-valid_from: 2022-07-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/11/14/n2/consolide/20220721/fr
-source_sha256: 49f884c8aaf457664a817264cb5d62e797ecf8d4197085095981697e3da67add
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-11-14-n2:2022-07-21'
+title: 'Version consolidée applicable au 21/07/2022 : Règlement grand-ducal du 14 novembre 2013 concernant l''agrément à accorder aux gestionnaires de services d''éducation et d''accueil pour enfants.'
+valid_from: '2022-07-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/11/14/n2/consolide/20220721/fr'
+source_sha256: '49f884c8aaf457664a817264cb5d62e797ecf8d4197085095981697e3da67add'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

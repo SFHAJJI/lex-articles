@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-08-30-a569:2025-05-02
-title: Version consolidée applicable au 02/05/2025 : Règlement grand-ducal du 30 août 2023 concernant l’indemnisation des dégâts matériels commis par certaines espèces animales protégées et les subventions pour les mesures préventives y relatives.
-valid_from: 2025-05-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/08/30/a569/consolide/20250502/fr
-source_sha256: 68fe83e38277c5fd90386c6a60c0ee066d39cdb813d58f5431868b94cfa9e7a1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-08-30-a569:2025-05-02'
+title: 'Version consolidée applicable au 02/05/2025 : Règlement grand-ducal du 30 août 2023 concernant l’indemnisation des dégâts matériels commis par certaines espèces animales protégées et les subventions pour les mesures préventives y relatives.'
+valid_from: '2025-05-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/08/30/a569/consolide/20250502/fr'
+source_sha256: '68fe83e38277c5fd90386c6a60c0ee066d39cdb813d58f5431868b94cfa9e7a1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ****Généralités****

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1979-12-20-n2:1998-09-23
-title: Version consolidée applicable au 12/06/2004 : Loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste.
-valid_from: 1998-09-23
-valid_to: 2004-06-11
-source: https://legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/consolide/19980923/fr
-source_sha256: ecfb72ddbb946658b782fd51c59465aae6c501d5b7c84fa57b614d49ca1e9113
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1979-12-20-n2:1998-09-23'
+title: 'Version consolidée applicable au 12/06/2004 : Loi du 20 décembre 1979 relative à la reconnaissance et à la protection du titre professionnel de journaliste.'
+valid_from: '1998-09-23'
+valid_to: '2004-06-11'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/consolide/19980923/fr'
+source_sha256: 'ecfb72ddbb946658b782fd51c59465aae6c501d5b7c84fa57b614d49ca1e9113'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

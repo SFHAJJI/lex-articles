@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-05-12-a385:2020-07-25
-title: Version consolidée applicable au 26/02/2021 : Loi du 12 mai 2020 portant adaptation de certains délais en matière fiscale, financière et budgétaire dans le contexte de l’état de crise.
-valid_from: 2020-07-25
-valid_to: 2021-02-25
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/05/12/a385/consolide/20200725/fr
-source_sha256: dab36ac5751d1234b0bdacf53153ff73ed1d47062843ff48e0b28373aaee219b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-05-12-a385:2020-07-25'
+title: 'Version consolidée applicable au 26/02/2021 : Loi du 12 mai 2020 portant adaptation de certains délais en matière fiscale, financière et budgétaire dans le contexte de l’état de crise.'
+valid_from: '2020-07-25'
+valid_to: '2021-02-25'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/05/12/a385/consolide/20200725/fr'
+source_sha256: 'dab36ac5751d1234b0bdacf53153ff73ed1d47062843ff48e0b28373aaee219b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

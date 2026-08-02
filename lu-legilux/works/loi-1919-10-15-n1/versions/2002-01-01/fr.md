@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1919-10-15-n1:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Loi du 15 octobre 1919 portant diverses modifications à la loi du 18 février 1885 sur l'organisation judiciaire et à celle du 29 juillet 1913 sur la révision des traitements des fonctionnaires et employés de l'Etat.
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/consolide/20020101/fr
-source_sha256: 1abd71ae70f0513f9c25cd2a2a64b5a017396b0cc6a7e3a8f7255f76ea02f03c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1919-10-15-n1:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Loi du 15 octobre 1919 portant diverses modifications à la loi du 18 février 1885 sur l''organisation judiciaire et à celle du 29 juillet 1913 sur la révision des traitements des fonctionnaires et employés de l''Etat.'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1919/10/15/n1/consolide/20020101/fr'
+source_sha256: '1abd71ae70f0513f9c25cd2a2a64b5a017396b0cc6a7e3a8f7255f76ea02f03c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

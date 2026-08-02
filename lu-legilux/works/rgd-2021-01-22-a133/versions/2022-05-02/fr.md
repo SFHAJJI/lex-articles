@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-01-22-a133:2022-05-02
-title: Version consolidée applicable au 13/08/2022 : Règlement grand-ducal du 22 janvier 2021 fixant les conditions de commercialisation, de production et de certification des semences de plantes fourragères.
-valid_from: 2022-05-02
-valid_to: 2022-08-12
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/01/22/a133/consolide/20220502/fr
-source_sha256: b88077fba00f42ff3c12b39eaef1ea50a3e9d7591038bddd3f737007f47835be
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-01-22-a133:2022-05-02'
+title: 'Version consolidée applicable au 13/08/2022 : Règlement grand-ducal du 22 janvier 2021 fixant les conditions de commercialisation, de production et de certification des semences de plantes fourragères.'
+valid_from: '2022-05-02'
+valid_to: '2022-08-12'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/01/22/a133/consolide/20220502/fr'
+source_sha256: 'b88077fba00f42ff3c12b39eaef1ea50a3e9d7591038bddd3f737007f47835be'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Commercialisation des semences de plantes fourragères**

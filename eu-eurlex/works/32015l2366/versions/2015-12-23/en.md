@@ -1,13 +1,13 @@
 ---
-lex_id: eu-eurlex:32015l2366:2015-12-23
-title: PSD2 — Directive (EU) 2015/2366
-valid_from: 2015-12-23
-valid_to: 2024-04-07
-source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L2366-20151223
-source_sha256: 5bb9ad9254c5e0b70b3e85d943c3509de2bbd2fe215f757f366f7b26f00281fe
-license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
-attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: fmx4-eu/1 · lex derive
+lex_id: 'eu-eurlex:32015l2366:2015-12-23'
+title: 'PSD2 — Directive (EU) 2015/2366'
+valid_from: '2015-12-23'
+valid_to: '2024-04-07'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L2366-20151223'
+source_sha256: '5bb9ad9254c5e0b70b3e85d943c3509de2bbd2fe215f757f366f7b26f00281fe'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'fmx4-eu/1 · lex derive'
 ---
 
 ## TITLE I — SUBJECT MATTER, SCOPE AND DEFINITIONS

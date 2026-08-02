@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-05-30-a446:2025-01-17
-title: loi-2018-05-30-a446
-valid_from: 2025-01-17
-valid_to: 2025-07-11
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446/consolide/20250117/fr
-source_sha256: 2f06f09b735a39f6fa48f602dfaabdd419879338149b3f03920f9783f646bfe0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-05-30-a446:2025-01-17'
+title: 'loi-2018-05-30-a446'
+valid_from: '2025-01-17'
+valid_to: '2025-07-11'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446/consolide/20250117/fr'
+source_sha256: '2f06f09b735a39f6fa48f602dfaabdd419879338149b3f03920f9783f646bfe0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **TITRE Ier ** — **Les marchés d’instruments financiers **

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1992-03-17-n1:2021-12-24
-title: Version consolidée applicable au 24/12/2021 : Loi du 17 mars 1992 portant \n1. approbation de la Convention des Nations Unies contre le trafic illicite de stupéfiants et de substances psychotropes, faite à Vienne, le 20 décembre 1988;\n2. modifiant et complétant la loi du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie;\n3. modifiant et complétant certaines dispositions du Code d'instruction criminelle.
-valid_from: 2021-12-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1992/03/17/n1/consolide/20211224/fr
-source_sha256: 599d71c611a336eb221f5c89d316caa50222c001f3e16ac84f1f6aec0cbd7894
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1992-03-17-n1:2021-12-24'
+title: 'Version consolidée applicable au 24/12/2021 : Loi du 17 mars 1992 portant \n1. approbation de la Convention des Nations Unies contre le trafic illicite de stupéfiants et de substances psychotropes, faite à Vienne, le 20 décembre 1988;\n2. modifiant et complétant la loi du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie;\n3. modifiant et complétant certaines dispositions du Code d''instruction criminelle.'
+valid_from: '2021-12-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1992/03/17/n1/consolide/20211224/fr'
+source_sha256: '599d71c611a336eb221f5c89d316caa50222c001f3e16ac84f1f6aec0cbd7894'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

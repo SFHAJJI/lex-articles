@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2006-02-03-n3:2022-02-01
-title: Version consolidée applicable au 27/12/2022 : Règlement grand-ducal du 3 février 2006 fixant les règles de la gestion financière et comptable applicables aux services de l'Etat à gestion séparée ainsi que les modalités du contrôle de cette gestion.
-valid_from: 2022-02-01
-valid_to: 2022-12-26
-source: https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20220201/fr
-source_sha256: 3e0ab48575d6e8b746fd2871a3bdd0de9c4c27d4291aa2b5b35695a5bb0c73ba
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2006-02-03-n3:2022-02-01'
+title: 'Version consolidée applicable au 27/12/2022 : Règlement grand-ducal du 3 février 2006 fixant les règles de la gestion financière et comptable applicables aux services de l''Etat à gestion séparée ainsi que les modalités du contrôle de cette gestion.'
+valid_from: '2022-02-01'
+valid_to: '2022-12-26'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20220201/fr'
+source_sha256: '3e0ab48575d6e8b746fd2871a3bdd0de9c4c27d4291aa2b5b35695a5bb0c73ba'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1 — Budget du service

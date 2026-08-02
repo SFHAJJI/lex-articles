@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1992-07-20-n1:2001-09-04
-title: Version consolidée applicable au 04/01/2010 : Loi du 20 juillet 1992 portant modification du régime des brevets d'invention.
-valid_from: 2001-09-04
-valid_to: 2004-05-02
-source: https://legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1/consolide/20010904/fr
-source_sha256: b986cc5137f3071664b842ee138200088a687b34a0581eace03c2ba155c0922c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1992-07-20-n1:2001-09-04'
+title: 'Version consolidée applicable au 04/01/2010 : Loi du 20 juillet 1992 portant modification du régime des brevets d''invention.'
+valid_from: '2001-09-04'
+valid_to: '2004-05-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1/consolide/20010904/fr'
+source_sha256: 'b986cc5137f3071664b842ee138200088a687b34a0581eace03c2ba155c0922c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE **1er** - **Généralités**

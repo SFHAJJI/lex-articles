@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-11-04-n1:2020-03-18
-title: Version consolidée applicable au 18/03/2020 : Règlement grand-ducal du 4 novembre 2014 portant exécution de la loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel, et portant fixation des indemnités revenant aux membres du conseil d'administration et du comité de sélection du Fonds national de soutien à la production audiovisuelle.
-valid_from: 2020-03-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/consolide/20200318/fr
-source_sha256: b04dc28b7c8339e8861ed845aa5b38c067ab68c93e00bb238e918a61e0a3b442
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-11-04-n1:2020-03-18'
+title: 'Version consolidée applicable au 18/03/2020 : Règlement grand-ducal du 4 novembre 2014 portant exécution de la loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l''Etat 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d''investissement audiovisuel, et portant fixation des indemnités revenant aux membres du conseil d''administration et du comité de sélection du Fonds national de soutien à la production audiovisuelle.'
+valid_from: '2020-03-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/consolide/20200318/fr'
+source_sha256: 'b04dc28b7c8339e8861ed845aa5b38c067ab68c93e00bb238e918a61e0a3b442'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

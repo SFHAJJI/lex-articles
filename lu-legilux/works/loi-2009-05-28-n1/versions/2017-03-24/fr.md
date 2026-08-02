@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-05-28-n1:2017-03-24
-title: Version consolidée applicable au 12/06/2026 : Loi du 28 mai 2009 portant création et organisation du Centre de rétention et modifiant\n 1. le Code de la sécurité sociale;\n 2. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat;\n 3. la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.
-valid_from: 2017-03-24
-valid_to: 2026-06-11
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/05/28/n1/consolide/20170324/fr
-source_sha256: 8b9643ccd3126a19a8905e89d2dd99e85e2fa3b249af2c4cc1cb8e4f386cfd8a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-05-28-n1:2017-03-24'
+title: 'Version consolidée applicable au 12/06/2026 : Loi du 28 mai 2009 portant création et organisation du Centre de rétention et modifiant\n 1. le Code de la sécurité sociale;\n 2. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat;\n 3. la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.'
+valid_from: '2017-03-24'
+valid_to: '2026-06-11'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/05/28/n1/consolide/20170324/fr'
+source_sha256: '8b9643ccd3126a19a8905e89d2dd99e85e2fa3b249af2c4cc1cb8e4f386cfd8a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — *Dispositions générales*

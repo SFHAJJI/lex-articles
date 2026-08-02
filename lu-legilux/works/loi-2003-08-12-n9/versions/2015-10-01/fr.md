@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2003-08-12-n9:2015-10-01
-title: Version consolidée applicable au 01/10/2015 : Loi du 12 août 2003 portant réorganisation de l’Institut Viti-Vinicole.
-valid_from: 2015-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/consolide/20151001/fr
-source_sha256: bf74035f87e9bb87f19035204b5db79d086941c9b07a8cc42da9b97280257e7d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2003-08-12-n9:2015-10-01'
+title: 'Version consolidée applicable au 01/10/2015 : Loi du 12 août 2003 portant réorganisation de l’Institut Viti-Vinicole.'
+valid_from: '2015-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/consolide/20151001/fr'
+source_sha256: 'bf74035f87e9bb87f19035204b5db79d086941c9b07a8cc42da9b97280257e7d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1945-09-24-n11:1985-03-16
-title: Version consolidée applicable au 16/03/1985 : Arrêté grand-ducal du 24 septembre 1945 concernant la déclaration de présomption de décès et la déclaration judiciaire du décès des personnes victimes des opérations ou des événements de guerre et des personnes décédées par suite d'un acte de violence de la part de l'ennemi.
-valid_from: 1985-03-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/1945/09/24/n11/consolide/19850316/fr
-source_sha256: 24a26d2c8a419acc3a1c5df20973ba5e1cfbdee335e355e4f8fce069c15744ef
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1945-09-24-n11:1985-03-16'
+title: 'Version consolidée applicable au 16/03/1985 : Arrêté grand-ducal du 24 septembre 1945 concernant la déclaration de présomption de décès et la déclaration judiciaire du décès des personnes victimes des opérations ou des événements de guerre et des personnes décédées par suite d''un acte de violence de la part de l''ennemi.'
+valid_from: '1985-03-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1945/09/24/n11/consolide/19850316/fr'
+source_sha256: '24a26d2c8a419acc3a1c5df20973ba5e1cfbdee335e355e4f8fce069c15744ef'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

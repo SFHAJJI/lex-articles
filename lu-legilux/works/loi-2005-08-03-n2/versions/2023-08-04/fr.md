@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-08-03-n2:2023-08-04
-title: Version consolidée applicable au 01/01/2024 : Loi du 3 août 2005 concernant le sport et portant a) modification de la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés; b) modification du code des assurances sociales; c) dérogation aux articles 5 et 9 de la loi modifiée du 24 mai 1989 sur le contrat de travail.
-valid_from: 2023-08-04
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/consolide/20230804/fr
-source_sha256: 9f3cc52591d4b17116e7df0ab0e195ce021659901d9daebb325e5f262e774385
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-08-03-n2:2023-08-04'
+title: 'Version consolidée applicable au 01/01/2024 : Loi du 3 août 2005 concernant le sport et portant a) modification de la loi modifiée du 7 juin 1937 ayant pour objet la réforme de la loi du 31 octobre 1919 portant règlement légal du louage de service des employés privés; b) modification du code des assurances sociales; c) dérogation aux articles 5 et 9 de la loi modifiée du 24 mai 1989 sur le contrat de travail.'
+valid_from: '2023-08-04'
+valid_to: '2023-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/consolide/20230804/fr'
+source_sha256: '9f3cc52591d4b17116e7df0ab0e195ce021659901d9daebb325e5f262e774385'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-12-21-n4:2021-12-27
-title: Version consolidée applicable au 27/12/2021 : Loi du 21 décembre 2004 portant approbation du Traité entre le Royaume de Belgique, le Royaume des Pays-Bas et le Grand-Duché de Luxembourg en matière d'intervention policière transfrontalière, signé à Luxembourg le 8 juin 2004.
-valid_from: 2021-12-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/12/21/n4/consolide/20211227/fr
-source_sha256: 4f4e24d114f9fe06c8ef3c3c978863f6c474a2024513e7845d3f139d25d4eae4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-12-21-n4:2021-12-27'
+title: 'Version consolidée applicable au 27/12/2021 : Loi du 21 décembre 2004 portant approbation du Traité entre le Royaume de Belgique, le Royaume des Pays-Bas et le Grand-Duché de Luxembourg en matière d''intervention policière transfrontalière, signé à Luxembourg le 8 juin 2004.'
+valid_from: '2021-12-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/12/21/n4/consolide/20211227/fr'
+source_sha256: '4f4e24d114f9fe06c8ef3c3c978863f6c474a2024513e7845d3f139d25d4eae4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

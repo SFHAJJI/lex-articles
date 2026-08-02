@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-08-17-n6:2016-03-08
-title: Version consolidée applicable au 13/04/2026 : Règlement grand-ducal du 17 août 2011 précisant le financement des mesures d'aide sociale à l'enfance et à la famille.
-valid_from: 2016-03-08
-valid_to: 2017-04-09
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/consolide/20160308/fr
-source_sha256: 589a56f7cbbd1f74a39238d7b0e7728a5f6583d993d6a4f7c991bb886e5bdcb5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-08-17-n6:2016-03-08'
+title: 'Version consolidée applicable au 13/04/2026 : Règlement grand-ducal du 17 août 2011 précisant le financement des mesures d''aide sociale à l''enfance et à la famille.'
+valid_from: '2016-03-08'
+valid_to: '2017-04-09'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/consolide/20160308/fr'
+source_sha256: '589a56f7cbbd1f74a39238d7b0e7728a5f6583d993d6a4f7c991bb886e5bdcb5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — LES FORFAITS JOURNALIERS

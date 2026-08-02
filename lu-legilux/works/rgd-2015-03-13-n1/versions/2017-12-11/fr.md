@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-03-13-n1:2017-12-11
-title: Version consolidée applicable au 11/12/2017 : Règlement grand-ducal du 13 mars 2015 déterminant les mesures de sécurité à respecter par les chasseurs et les tiers.
-valid_from: 2017-12-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/03/13/n1/consolide/20171211/fr
-source_sha256: e5ff25fb9eb3d5112d6fe66dc5579ef250181c966f7c0592d5af338c4d62329b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-03-13-n1:2017-12-11'
+title: 'Version consolidée applicable au 11/12/2017 : Règlement grand-ducal du 13 mars 2015 déterminant les mesures de sécurité à respecter par les chasseurs et les tiers.'
+valid_from: '2017-12-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/03/13/n1/consolide/20171211/fr'
+source_sha256: 'e5ff25fb9eb3d5112d6fe66dc5579ef250181c966f7c0592d5af338c4d62329b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

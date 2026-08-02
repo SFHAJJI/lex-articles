@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-02-12-n1:2026-05-11
-title: Version consolidée applicable au 11/05/2026 : Règlement grand-ducal du 12 février 2015 portant exécution de la loi modifiée du 14 avril 1934, fixant les modalités pour l’obtention d’un passeport biométrique, titre de voyage biométrique pour étrangers, apatrides et réfugiés et établissant un droit de chancellerie pour légalisations d’actes.
-valid_from: 2026-05-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/consolide/20260511/fr
-source_sha256: f425d988e32fb82feebf812634027080d4347f106003b0bee1a199f2a484a3dc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-02-12-n1:2026-05-11'
+title: 'Version consolidée applicable au 11/05/2026 : Règlement grand-ducal du 12 février 2015 portant exécution de la loi modifiée du 14 avril 1934, fixant les modalités pour l’obtention d’un passeport biométrique, titre de voyage biométrique pour étrangers, apatrides et réfugiés et établissant un droit de chancellerie pour légalisations d’actes.'
+valid_from: '2026-05-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/consolide/20260511/fr'
+source_sha256: 'f425d988e32fb82feebf812634027080d4347f106003b0bee1a199f2a484a3dc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. - Des passeports biométriques

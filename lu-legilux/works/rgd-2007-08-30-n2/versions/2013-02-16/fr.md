@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2007-08-30-n2:2013-02-16
-title: Version consolidée applicable au 16/02/2013 : Règlement grand-ducal du 30 août 2007 déterminant certaines exigences techniques relatives au don, à l’obtention et au contrôle de tissus et de cellules d’origine humaine.
-valid_from: 2013-02-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n2/consolide/20130216/fr
-source_sha256: 4d17d6aba4508a26ee2e0ed9135855fbfdc24e2dbb1c03dd4436a353af2b7910
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2007-08-30-n2:2013-02-16'
+title: 'Version consolidée applicable au 16/02/2013 : Règlement grand-ducal du 30 août 2007 déterminant certaines exigences techniques relatives au don, à l’obtention et au contrôle de tissus et de cellules d’origine humaine.'
+valid_from: '2013-02-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n2/consolide/20130216/fr'
+source_sha256: '4d17d6aba4508a26ee2e0ed9135855fbfdc24e2dbb1c03dd4436a353af2b7910'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

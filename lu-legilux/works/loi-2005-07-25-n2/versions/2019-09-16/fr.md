@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-07-25-n2:2019-09-16
-title: Version consolidée applicable au 16/09/2019 : Loi du 25 juillet 2005 portant création d'un lycée-pilote.
-valid_from: 2019-09-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/07/25/n2/consolide/20190916/fr
-source_sha256: 7efb55c0071177d56a136569f4afecc4340092255cb1c337f2c3cf6b7c711b3e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-07-25-n2:2019-09-16'
+title: 'Version consolidée applicable au 16/09/2019 : Loi du 25 juillet 2005 portant création d''un lycée-pilote.'
+valid_from: '2019-09-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/07/25/n2/consolide/20190916/fr'
+source_sha256: '7efb55c0071177d56a136569f4afecc4340092255cb1c337f2c3cf6b7c711b3e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

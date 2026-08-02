@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-07-10-a581:2021-03-02
-title: Loi du 10 juillet 2020 instituant un Registre des fiducies et des trusts.
-valid_from: 2021-03-02
-valid_to: 2022-08-11
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a581/consolide/20210302/fr
-source_sha256: 7b8127e7b501f05e0becbedeccb06396837b4e878d9863e9ed5290fcb7610c26
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-07-10-a581:2021-03-02'
+title: 'Loi du 10 juillet 2020 instituant un Registre des fiducies et des trusts.'
+valid_from: '2021-03-02'
+valid_to: '2022-08-11'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a581/consolide/20210302/fr'
+source_sha256: '7b8127e7b501f05e0becbedeccb06396837b4e878d9863e9ed5290fcb7610c26'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Définitions**

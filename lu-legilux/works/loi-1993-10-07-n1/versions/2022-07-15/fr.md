@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1993-10-07-n1:2022-07-15
-title: Version consolidée applicable au 15/07/2022 : Loi du 7 octobre 1993 ayant pour objet \na) la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques; \nb) la création d’un Centre de Technologie de l’Education ;\nc) l’institution d’une Commission d’Innovation et de Recherche en Education.
-valid_from: 2022-07-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1993/10/07/n1/consolide/20220715/fr
-source_sha256: 0cbe50a510ae7c10b5c3699cdf622a8d3060da7feabf2cf5462385a29278ba46
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1993-10-07-n1:2022-07-15'
+title: 'Version consolidée applicable au 15/07/2022 : Loi du 7 octobre 1993 ayant pour objet \na) la création d’un Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques; \nb) la création d’un Centre de Technologie de l’Education ;\nc) l’institution d’une Commission d’Innovation et de Recherche en Education.'
+valid_from: '2022-07-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1993/10/07/n1/consolide/20220715/fr'
+source_sha256: '0cbe50a510ae7c10b5c3699cdf622a8d3060da7feabf2cf5462385a29278ba46'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Du Service de Coordination de la Recherche et de l’Innovation pédagogiques et technologiques

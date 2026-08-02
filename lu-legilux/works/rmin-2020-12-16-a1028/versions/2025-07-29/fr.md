@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-2020-12-16-a1028:2025-07-29
-title: Version consolidée applicable au 29/07/2025 : Règlement ministériel du 16 décembre 2020 portant création de zones géographiques UAS.
-valid_from: 2025-07-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/2020/12/16/a1028/consolide/20250729/fr
-source_sha256: 90bee6e6d36e2819ad2840aed8f09401166127ffe1fca1accac58a665b0d8f30
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-2020-12-16-a1028:2025-07-29'
+title: 'Version consolidée applicable au 29/07/2025 : Règlement ministériel du 16 décembre 2020 portant création de zones géographiques UAS.'
+valid_from: '2025-07-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/2020/12/16/a1028/consolide/20250729/fr'
+source_sha256: '90bee6e6d36e2819ad2840aed8f09401166127ffe1fca1accac58a665b0d8f30'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Généralités**

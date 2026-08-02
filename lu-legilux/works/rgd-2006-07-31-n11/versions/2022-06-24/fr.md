@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2006-07-31-n11:2022-06-24
-title: Version consolidée applicable au 24/06/2022 : Règlement grand-ducal du 31 juillet 2006 portant organisation de l’examen de fin d’études secondaires.
-valid_from: 2022-06-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2006/07/31/n11/consolide/20220624/fr
-source_sha256: bef4853d32331d71d91883eff624a0b40f75c0fb75f9cee3eaa1f1a81ee3e7ef
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2006-07-31-n11:2022-06-24'
+title: 'Version consolidée applicable au 24/06/2022 : Règlement grand-ducal du 31 juillet 2006 portant organisation de l’examen de fin d’études secondaires.'
+valid_from: '2022-06-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2006/07/31/n11/consolide/20220624/fr'
+source_sha256: 'bef4853d32331d71d91883eff624a0b40f75c0fb75f9cee3eaa1f1a81ee3e7ef'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

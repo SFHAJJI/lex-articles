@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-10-26-a724:2023-09-15
-title: Version rectifiée applicable au 15/09/2023 : Règlement grand-ducal du 26 octobre 2023 définissant les métiers et les professions organisés sous forme de formation professionnelle en cours d’emploi, ainsi que les conditions d’admission et modalités de fonctionnement.
-valid_from: 2023-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/10/26/a724/consolide/20230915/fr
-source_sha256: 7a6fd27f6b098e8139b47cfd183349e2ff27870895c49d79eeafa8e534a36b45
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-10-26-a724:2023-09-15'
+title: 'Version rectifiée applicable au 15/09/2023 : Règlement grand-ducal du 26 octobre 2023 définissant les métiers et les professions organisés sous forme de formation professionnelle en cours d’emploi, ainsi que les conditions d’admission et modalités de fonctionnement.'
+valid_from: '2023-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/10/26/a724/consolide/20230915/fr'
+source_sha256: '7a6fd27f6b098e8139b47cfd183349e2ff27870895c49d79eeafa8e534a36b45'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

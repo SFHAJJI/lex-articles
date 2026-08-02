@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1998-12-18-n8:2021-01-01
-title: Version consolidée applicable au 01/01/2021 : Règlement grand-ducal du 18 décembre 1998 concernant les intérêts moratoires en matière de sécurité sociale.
-valid_from: 2021-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1998/12/18/n8/consolide/20210101/fr
-source_sha256: 0d1a2e8a5bcd4d6890a391b9ad687e4477f3cc8295a9499fa54db80151fe47ae
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1998-12-18-n8:2021-01-01'
+title: 'Version consolidée applicable au 01/01/2021 : Règlement grand-ducal du 18 décembre 1998 concernant les intérêts moratoires en matière de sécurité sociale.'
+valid_from: '2021-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1998/12/18/n8/consolide/20210101/fr'
+source_sha256: '0d1a2e8a5bcd4d6890a391b9ad687e4477f3cc8295a9499fa54db80151fe47ae'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

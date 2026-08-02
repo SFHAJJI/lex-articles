@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-05-05-n2:2022-07-01
-title: Version consolidée applicable au 01/07/2022 : Règlement grand-ducal du 5 mai 2011 fixant les mesures d'exécution relatives aux aides individuelles au logement promouvant l'accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l'aide au logement.
-valid_from: 2022-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/consolide/20220701/fr
-source_sha256: 3e910011e72957b5ed4dc47cd381fc1767e9eea84db3cce7d3c32529229eebc6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-05-05-n2:2022-07-01'
+title: 'Version consolidée applicable au 01/07/2022 : Règlement grand-ducal du 5 mai 2011 fixant les mesures d''exécution relatives aux aides individuelles au logement promouvant l''accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l''aide au logement.'
+valid_from: '2022-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/consolide/20220701/fr'
+source_sha256: '3e910011e72957b5ed4dc47cd381fc1767e9eea84db3cce7d3c32529229eebc6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 3** — **Aides en intérêt**

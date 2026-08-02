@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1978-12-23-n8:1994-01-01
-title: Version consolidée applicable au 01/01/1994 : Loi du 23 décembre 1978 concernant les cartes de priorité et d'invalidité.
-valid_from: 1994-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/consolide/19940101/fr
-source_sha256: 1e0ee5c44a1782a06f6e1438187d63232d29ebff7909bef79e2836d7f00ce87b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1978-12-23-n8:1994-01-01'
+title: 'Version consolidée applicable au 01/01/1994 : Loi du 23 décembre 1978 concernant les cartes de priorité et d''invalidité.'
+valid_from: '1994-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n8/consolide/19940101/fr'
+source_sha256: '1e0ee5c44a1782a06f6e1438187d63232d29ebff7909bef79e2836d7f00ce87b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

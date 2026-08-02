@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1807-09-05-n2:2018-04-24
-title: Version consolidée applicable au 05/07/2022 : Loi du 5-15 septembre 1807 sur le privilège établi au profit du Trésor public pour le remboursement des frais de justice en matière criminelle, correctionnelle et de police.
-valid_from: 2018-04-24
-valid_to: 2022-07-04
-source: https://legilux.public.lu/eli/etat/leg/loi/1807/09/05/n2/consolide/20180424/fr
-source_sha256: df5933cc47cc394b28973c073358d0f495176a6ede54402fd3d4d1663b1182a6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1807-09-05-n2:2018-04-24'
+title: 'Version consolidée applicable au 05/07/2022 : Loi du 5-15 septembre 1807 sur le privilège établi au profit du Trésor public pour le remboursement des frais de justice en matière criminelle, correctionnelle et de police.'
+valid_from: '2018-04-24'
+valid_to: '2022-07-04'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1807/09/05/n2/consolide/20180424/fr'
+source_sha256: 'df5933cc47cc394b28973c073358d0f495176a6ede54402fd3d4d1663b1182a6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_ier"></a>

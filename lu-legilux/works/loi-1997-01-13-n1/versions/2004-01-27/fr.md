@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1997-01-13-n1:2004-01-27
-title: Version consolidée applicable au 01/01/2013 : Loi du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés.
-valid_from: 2004-01-27
-valid_to: 2012-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1997/01/13/n1/consolide/20040127/fr
-source_sha256: f6b72ae6119805f899f688bc655294233a5eae589977d524e885578ac00765be
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1997-01-13-n1:2004-01-27'
+title: 'Version consolidée applicable au 01/01/2013 : Loi du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés.'
+valid_from: '2004-01-27'
+valid_to: '2012-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1997/01/13/n1/consolide/20040127/fr'
+source_sha256: 'f6b72ae6119805f899f688bc655294233a5eae589977d524e885578ac00765be'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE Ier — Dispositions générales

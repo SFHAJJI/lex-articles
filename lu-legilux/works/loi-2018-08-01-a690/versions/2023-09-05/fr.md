@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-08-01-a690:2023-09-05
-title: Loi du 1er août 2018 relative au traitement des données des dossiers passagers.
-valid_from: 2023-09-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a690/consolide/20230905/fr
-source_sha256: 1a7fc1911008da7fdf738010a26fdcd0aeca63272fffa6e883f9e5e5b1ec2afa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-08-01-a690:2023-09-05'
+title: 'Loi du 1er août 2018 relative au traitement des données des dossiers passagers.'
+valid_from: '2023-09-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a690/consolide/20230905/fr'
+source_sha256: '1a7fc1911008da7fdf738010a26fdcd0aeca63272fffa6e883f9e5e5b1ec2afa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Dispositions générales**

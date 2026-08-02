@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-04-08-n2:2018-07-01
-title: loi-2011-04-08-n2
-valid_from: 2018-07-01
-valid_to: 2021-02-28
-source: https://legilux.public.lu/eli/etat/leg/code/consommation/20180701/fr
-source_sha256: 3721a38b4c12a702dcb88e92d51659d8ea13dbc8aa774fbcfec7ea619f7d8c96
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-04-08-n2:2018-07-01'
+title: 'loi-2011-04-08-n2'
+valid_from: '2018-07-01'
+valid_to: '2021-02-28'
+source: 'https://legilux.public.lu/eli/etat/leg/code/consommation/20180701/fr'
+source_sha256: '3721a38b4c12a702dcb88e92d51659d8ea13dbc8aa774fbcfec7ea619f7d8c96'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## I. — CODE - PARTIE LÉGISLATIVE

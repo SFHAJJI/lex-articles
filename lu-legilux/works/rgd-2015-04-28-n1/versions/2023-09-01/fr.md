@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-04-28-n1:2023-09-01
-title: Version consolidée applicable au 01/09/2023 : Règlement grand-ducal du 28 avril 2015 portant création des traitements de données à caractère personnel nécessaires à l'exécution de l'article 32 de la loi du 2 septembre 2011 réglementant l'accès aux professions d'artisan, de commerçant, d'industrie ainsi qu'à certaines professions libérales.
-valid_from: 2023-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/04/28/n1/consolide/20230901/fr
-source_sha256: 627c7b80e81765e75ffd7c5ae39bb5023a2f5f44ca00a213d1af3bbe6c369175
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-04-28-n1:2023-09-01'
+title: 'Version consolidée applicable au 01/09/2023 : Règlement grand-ducal du 28 avril 2015 portant création des traitements de données à caractère personnel nécessaires à l''exécution de l''article 32 de la loi du 2 septembre 2011 réglementant l''accès aux professions d''artisan, de commerçant, d''industrie ainsi qu''à certaines professions libérales.'
+valid_from: '2023-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/04/28/n1/consolide/20230901/fr'
+source_sha256: '627c7b80e81765e75ffd7c5ae39bb5023a2f5f44ca00a213d1af3bbe6c369175'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-08-04-n2:2019-09-13
-title: Version consolidée applicable au 13/09/2019 : Loi du 4 août 2014 relative à l'équipement meublant, scientifique, informatique et autre de certains bâtiments de la Cité des Sciences à Belval.
-valid_from: 2019-09-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/consolide/20190913/fr
-source_sha256: 7b277acc1db514706694ed62644289e5e5876ae435e0326a3224f3b75bac6738
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-08-04-n2:2019-09-13'
+title: 'Version consolidée applicable au 13/09/2019 : Loi du 4 août 2014 relative à l''équipement meublant, scientifique, informatique et autre de certains bâtiments de la Cité des Sciences à Belval.'
+valid_from: '2019-09-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/consolide/20190913/fr'
+source_sha256: '7b277acc1db514706694ed62644289e5e5876ae435e0326a3224f3b75bac6738'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

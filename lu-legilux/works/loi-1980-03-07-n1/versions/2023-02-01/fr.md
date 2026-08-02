@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1980-03-07-n1:2023-02-01
-title: loi-1980-03-07-n1
-valid_from: 2023-02-01
-valid_to: 2023-03-06
-source: https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20230201/fr
-source_sha256: 0d787ac4d7b53b94ca8b735576152c14327ae7625355d11461a3921155951671
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1980-03-07-n1:2023-02-01'
+title: 'loi-1980-03-07-n1'
+valid_from: '2023-02-01'
+valid_to: '2023-03-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20230201/fr'
+source_sha256: '0d787ac4d7b53b94ca8b735576152c14327ae7625355d11461a3921155951671'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier** — **— Du pouvoir judiciaire**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-05-24-n1:2012-04-01
-title: Version consolidée applicable au 25/11/2025 : Loi du 24 mai 2011 relative aux services dans le marché intérieur.
-valid_from: 2012-04-01
-valid_to: 2021-12-05
-source: https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/consolide/20120401/fr
-source_sha256: 51b4e0499d5152f591bc245d756bcb8adee0f8734f60c9fb7177998e71d2d133
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-05-24-n1:2012-04-01'
+title: 'Version consolidée applicable au 25/11/2025 : Loi du 24 mai 2011 relative aux services dans le marché intérieur.'
+valid_from: '2012-04-01'
+valid_to: '2021-12-05'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/consolide/20120401/fr'
+source_sha256: '51b4e0499d5152f591bc245d756bcb8adee0f8734f60c9fb7177998e71d2d133'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — *Dispositions générales*

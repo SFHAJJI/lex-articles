@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-07-24-a329:2024-01-01
-title: Version rectifiée applicable au 01/01/2024 : Règlement grand-ducal du 24 juillet 2024 relatif aux aides en faveur de la sauvegarde de la biodiversité en milieu rural.
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/07/24/a329/consolide/20240101/fr
-source_sha256: b237c203871be19686c2eb0897340897a04fe0a6b6482d1856a7a129f2b6cc20
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-07-24-a329:2024-01-01'
+title: 'Version rectifiée applicable au 01/01/2024 : Règlement grand-ducal du 24 juillet 2024 relatif aux aides en faveur de la sauvegarde de la biodiversité en milieu rural.'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/07/24/a329/consolide/20240101/fr'
+source_sha256: 'b237c203871be19686c2eb0897340897a04fe0a6b6482d1856a7a129f2b6cc20'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

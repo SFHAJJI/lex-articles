@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1979-03-30-n1:2003-12-01
-title: Version consolidée applicable au 01/07/2014 : Loi du 30 mars 1979 organisant l'identification numérique des personnes physiques et morales.
-valid_from: 2003-12-01
-valid_to: 2014-06-30
-source: https://legilux.public.lu/eli/etat/leg/loi/1979/03/30/n1/consolide/20031201/fr
-source_sha256: f4cd7df9124a7a51603803b6eb7b914446a3ca325beeb646490056a0e58ed577
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1979-03-30-n1:2003-12-01'
+title: 'Version consolidée applicable au 01/07/2014 : Loi du 30 mars 1979 organisant l''identification numérique des personnes physiques et morales.'
+valid_from: '2003-12-01'
+valid_to: '2014-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/03/30/n1/consolide/20031201/fr'
+source_sha256: 'f4cd7df9124a7a51603803b6eb7b914446a3ca325beeb646490056a0e58ed577'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1994-06-17-n1:2017-03-24
-title: Version consolidée applicable au 24/03/2017 : Loi du 17 juin 1994 fixant les mesures en vue d'assurer le maintien de l'emploi, la stabilité des prix et la compétitivité des entreprises.
-valid_from: 2017-03-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1/consolide/20170324/fr
-source_sha256: fbe5d56ef7cdc33ddf046f5e194b3aa66b61e9f40507c91006cd3abd70ad4d3d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1994-06-17-n1:2017-03-24'
+title: 'Version consolidée applicable au 24/03/2017 : Loi du 17 juin 1994 fixant les mesures en vue d''assurer le maintien de l''emploi, la stabilité des prix et la compétitivité des entreprises.'
+valid_from: '2017-03-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1/consolide/20170324/fr'
+source_sha256: 'fbe5d56ef7cdc33ddf046f5e194b3aa66b61e9f40507c91006cd3abd70ad4d3d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — **Mesures visant le maintien de l’emploi**

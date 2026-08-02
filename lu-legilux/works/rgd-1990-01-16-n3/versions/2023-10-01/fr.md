@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1990-01-16-n3:2023-10-01
-title: Version consolidée applicable au 01/10/2023 : Règlement grand-ducal du 16 janvier 1990 portant restructuration des cours de formation des juges et arbitres dans l'intérêt des fédérations et sociétés sportives.
-valid_from: 2023-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/consolide/20231001/fr
-source_sha256: 6cc166d81b8ad3a294a44874106dd9adb3279a61dd4b2d5a4f8d6a88d6b219bf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1990-01-16-n3:2023-10-01'
+title: 'Version consolidée applicable au 01/10/2023 : Règlement grand-ducal du 16 janvier 1990 portant restructuration des cours de formation des juges et arbitres dans l''intérêt des fédérations et sociétés sportives.'
+valid_from: '2023-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1990/01/16/n3/consolide/20231001/fr'
+source_sha256: '6cc166d81b8ad3a294a44874106dd9adb3279a61dd4b2d5a4f8d6a88d6b219bf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

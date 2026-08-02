@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-03-10-n1:2020-08-25
-title: Version consolidée applicable au 25/08/2020 : Règlement grand-ducal du 10 mars 2014 relatif à la composition, à l'organisation et au fonctionnement du Comité de suivi de la lutte contre la traite des êtres humains.
-valid_from: 2020-08-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/03/10/n1/consolide/20200825/fr
-source_sha256: f72427f2d69dd39c97ea245ef0cf98ee8e92a6b2c7595e792b10c6b3808b19cd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-03-10-n1:2020-08-25'
+title: 'Version consolidée applicable au 25/08/2020 : Règlement grand-ducal du 10 mars 2014 relatif à la composition, à l''organisation et au fonctionnement du Comité de suivi de la lutte contre la traite des êtres humains.'
+valid_from: '2020-08-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/03/10/n1/consolide/20200825/fr'
+source_sha256: 'f72427f2d69dd39c97ea245ef0cf98ee8e92a6b2c7595e792b10c6b3808b19cd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

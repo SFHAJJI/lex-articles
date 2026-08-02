@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-01-23-a41:2023-07-01
-title: Loi du 23 janvier 2023 portant organisation du Conseil national de la justice.
-valid_from: 2023-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a41/consolide/20230701/fr
-source_sha256: 67bfe8b3f114d9c918449854a03c1c6fe4132a574897e9e465559662fe0c04da
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-01-23-a41:2023-07-01'
+title: 'Loi du 23 janvier 2023 portant organisation du Conseil national de la justice.'
+valid_from: '2023-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a41/consolide/20230701/fr'
+source_sha256: '67bfe8b3f114d9c918449854a03c1c6fe4132a574897e9e465559662fe0c04da'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — De la composition

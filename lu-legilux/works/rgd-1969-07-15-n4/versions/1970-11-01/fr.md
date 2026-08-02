@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1969-07-15-n4:1970-11-01
-title: Version consolidée applicable au 12/06/2022 : Règlement grand-ducal du 15 juillet 1969 portant exécution des articles 1er et 5 de la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales, en ce qui concerne la profession de laborantin.
-valid_from: 1970-11-01
-valid_to: 2017-03-09
-source: https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/19701101/fr
-source_sha256: 132a4a15c133f822344b9d92b2067500cd1ea8ae439cf4c2f0fd28349265efa4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1969-07-15-n4:1970-11-01'
+title: 'Version consolidée applicable au 12/06/2022 : Règlement grand-ducal du 15 juillet 1969 portant exécution des articles 1er et 5 de la loi du 18 novembre 1967 portant réglementation de certaines professions paramédicales, en ce qui concerne la profession de laborantin.'
+valid_from: '1970-11-01'
+valid_to: '2017-03-09'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/19701101/fr'
+source_sha256: '132a4a15c133f822344b9d92b2067500cd1ea8ae439cf4c2f0fd28349265efa4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## A. — **Diplôme d'Etat de laborantin**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-03-17-a253:2021-04-02
-title: Version consolidée applicable au 02/04/2021 : Règlement grand-ducal du 17 mars 2020 fixant le contenu et les modalités du contrat de coopération type visé par l’article 4 paragraphe 4 de la loi du 17 août 2018 relative à l’archivage.
-valid_from: 2021-04-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/03/17/a253/consolide/20210402/fr
-source_sha256: 3a899c21bbc813f80b34428b3edf2cf19afad0973f27c2adf288faa457c736cc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-03-17-a253:2021-04-02'
+title: 'Version consolidée applicable au 02/04/2021 : Règlement grand-ducal du 17 mars 2020 fixant le contenu et les modalités du contrat de coopération type visé par l’article 4 paragraphe 4 de la loi du 17 août 2018 relative à l’archivage.'
+valid_from: '2021-04-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/03/17/a253/consolide/20210402/fr'
+source_sha256: '3a899c21bbc813f80b34428b3edf2cf19afad0973f27c2adf288faa457c736cc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

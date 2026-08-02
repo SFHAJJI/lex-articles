@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-cours_tribunaux:2023-07-01
-title: Cours et Tribunaux
-valid_from: 2023-07-01
-valid_to: 2023-07-02
-source: https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20230701/fr
-source_sha256: 8e51488cddf80c1b7659fa15588e34e5118c12426444a089757bb4434fc5874e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-cours_tribunaux:2023-07-01'
+title: 'Cours et Tribunaux'
+valid_from: '2023-07-01'
+valid_to: '2023-07-02'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20230701/fr'
+source_sha256: '8e51488cddf80c1b7659fa15588e34e5118c12426444a089757bb4434fc5874e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## ORGANISATION JUDICIAIRE

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:code-fonction_publique:2026-02-01
-title: Code de la fonction publique
-valid_from: 2026-02-01
-valid_to: 2026-04-30
-source: https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20260201/fr
-source_sha256: 482f5d845c953ca52876dfd7c8c69028dbdffb8f0b4d8490a64d420bb6cf94b9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:code-fonction_publique:2026-02-01'
+title: 'Code de la fonction publique'
+valid_from: '2026-02-01'
+valid_to: '2026-04-30'
+source: 'https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20260201/fr'
+source_sha256: '482f5d845c953ca52876dfd7c8c69028dbdffb8f0b4d8490a64d420bb6cf94b9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **I. Fonctionnaires de l'État**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-07-13-n3:2025-01-17
-title: Version consolidée applicable au 03/04/2026 : Loi du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de société d'épargne-pension à capital variable (sepcav) et d'association d'épargne-pension (assep) et portant modification de l'article 167, alinéa 1 de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu.
-valid_from: 2025-01-17
-valid_to: 2026-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/07/13/n3/consolide/20250117/fr
-source_sha256: 2664a29bd98493ff31c07d2fbf65f02199b7fe5dcb4fe932b3b5bbcc2bb22b52
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-07-13-n3:2025-01-17'
+title: 'Version consolidée applicable au 03/04/2026 : Loi du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de société d''épargne-pension à capital variable (sepcav) et d''association d''épargne-pension (assep) et portant modification de l''article 167, alinéa 1 de la loi modifiée du 4 décembre 1967 concernant l''impôt sur le revenu.'
+valid_from: '2025-01-17'
+valid_to: '2026-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/07/13/n3/consolide/20250117/fr'
+source_sha256: '2664a29bd98493ff31c07d2fbf65f02199b7fe5dcb4fe932b3b5bbcc2bb22b52'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## PARTIE I — **Définitions et champ d'application**

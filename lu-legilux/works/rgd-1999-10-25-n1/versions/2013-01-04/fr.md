@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1999-10-25-n1:2013-01-04
-title: rgd-1999-10-25-n1
-valid_from: 2013-01-04
-valid_to: 2013-06-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20130104/fr
-source_sha256: 7d7b5e26a9c944313f0f0a0cbcc3e23629b67cd4af542916dce58777be72edb8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1999-10-25-n1:2013-01-04'
+title: 'rgd-1999-10-25-n1'
+valid_from: '2013-01-04'
+valid_to: '2013-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20130104/fr'
+source_sha256: '7d7b5e26a9c944313f0f0a0cbcc3e23629b67cd4af542916dce58777be72edb8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

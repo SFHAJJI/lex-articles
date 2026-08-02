@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-04-23-n1:2020-04-15
-title: Version consolidée applicable au 15/04/2020 : Règlement grand-ducal du 23 avril 2004 concernant l’agrément gouvernemental à accorder aux gestionnaires de services pour personnes handicapées et portant exécution de la loi du 8 septembre 1998 réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique.
-valid_from: 2020-04-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n1/consolide/20200415/fr
-source_sha256: 116b8b45b46c0aa0c65ae0d3b5a7d4265689aa36008ed249506b4bac074736ce
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-04-23-n1:2020-04-15'
+title: 'Version consolidée applicable au 15/04/2020 : Règlement grand-ducal du 23 avril 2004 concernant l’agrément gouvernemental à accorder aux gestionnaires de services pour personnes handicapées et portant exécution de la loi du 8 septembre 1998 réglant les relations entre l’Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique.'
+valid_from: '2020-04-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n1/consolide/20200415/fr'
+source_sha256: '116b8b45b46c0aa0c65ae0d3b5a7d4265689aa36008ed249506b4bac074736ce'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre 1 — Objet et définitions

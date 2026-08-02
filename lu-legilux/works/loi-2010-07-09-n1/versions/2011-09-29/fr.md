@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2010-07-09-n1:2011-09-29
-title: Version consolidée applicable au 09/07/2012 : Loi relative au Fonds européen de stabilité financière.
-valid_from: 2011-09-29
-valid_to: 2012-07-08
-source: https://legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/consolide/20110929/fr
-source_sha256: 7b671bdb9ad3b7612103c3bb3b15f17bce730e42f6d6d59b1ada451165b9c5a2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2010-07-09-n1:2011-09-29'
+title: 'Version consolidée applicable au 09/07/2012 : Loi relative au Fonds européen de stabilité financière.'
+valid_from: '2011-09-29'
+valid_to: '2012-07-08'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/consolide/20110929/fr'
+source_sha256: '7b671bdb9ad3b7612103c3bb3b15f17bce730e42f6d6d59b1ada451165b9c5a2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

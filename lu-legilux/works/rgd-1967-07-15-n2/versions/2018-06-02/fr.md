@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1967-07-15-n2:2018-06-02
-title: Version consolidée applicable au 02/06/2018 : Règlement grand-ducal du 15 juillet 1967 portant fixation de la rémunération des volontaires de l'armée.
-valid_from: 2018-06-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1967/07/15/n2/consolide/20180602/fr
-source_sha256: 86393d66a8aeaa8f8d2e4c049c2b43f8d13e01319de67848731b6f96fdb36a42
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1967-07-15-n2:2018-06-02'
+title: 'Version consolidée applicable au 02/06/2018 : Règlement grand-ducal du 15 juillet 1967 portant fixation de la rémunération des volontaires de l''armée.'
+valid_from: '2018-06-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1967/07/15/n2/consolide/20180602/fr'
+source_sha256: '86393d66a8aeaa8f8d2e4c049c2b43f8d13e01319de67848731b6f96fdb36a42'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1991-03-25-n2:2016-06-01
-title: Version consolidée applicable au 01/06/2016 : Loi du 25 mars 1991 portant diverses mesures d’application du règlement CEE no 2137/85 du Conseil du 25 juillet 1985 relatif à l’institution d’un groupement européen d’intérêt économique (GEIE).
-valid_from: 2016-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n2/consolide/20160601/fr
-source_sha256: b91a9085570d5ca58c932eaadfd24f499e38592cbedc889f5e9442d5c1fe4e72
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1991-03-25-n2:2016-06-01'
+title: 'Version consolidée applicable au 01/06/2016 : Loi du 25 mars 1991 portant diverses mesures d’application du règlement CEE no 2137/85 du Conseil du 25 juillet 1985 relatif à l’institution d’un groupement européen d’intérêt économique (GEIE).'
+valid_from: '2016-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n2/consolide/20160601/fr'
+source_sha256: 'b91a9085570d5ca58c932eaadfd24f499e38592cbedc889f5e9442d5c1fe4e72'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Section I. — Dispositions générales

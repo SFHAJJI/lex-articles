@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-03-19-n2:2024-03-15
-title: Version consolidée applicable au 15/03/2024 : Règlement grand-ducal du 19 mars 2004 portant fixation des jetons de présence et des indemnités des personnes composant les bureaux de vote lors des élections législatives, européennes et communales.
-valid_from: 2024-03-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/consolide/20240315/fr
-source_sha256: 4046938d79426fed053b6cac0e11b20ab0187c5fb7eac5f6188392fa08a06bbb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-03-19-n2:2024-03-15'
+title: 'Version consolidée applicable au 15/03/2024 : Règlement grand-ducal du 19 mars 2004 portant fixation des jetons de présence et des indemnités des personnes composant les bureaux de vote lors des élections législatives, européennes et communales.'
+valid_from: '2024-03-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/consolide/20240315/fr'
+source_sha256: '4046938d79426fed053b6cac0e11b20ab0187c5fb7eac5f6188392fa08a06bbb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

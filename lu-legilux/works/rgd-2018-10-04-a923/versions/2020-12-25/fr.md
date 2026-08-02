@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-10-04-a923:2020-12-25
-title: Version consolidée applicable au 15/02/2021 : Règlement grand-ducal du 4 octobre 2018 fixant les conditions de réalisation des tests rapides à orientation diagnostique de l’infection à virus de l’immunodéficience humaine, d’hépatites virales et d’autres infections sexuellement transmissibles.
-valid_from: 2020-12-25
-valid_to: 2021-02-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/consolide/20201225/fr
-source_sha256: d56ac4d5354af6126c54d7147ee90e192839da4286afc6bba2dbba9ea9102149
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-10-04-a923:2020-12-25'
+title: 'Version consolidée applicable au 15/02/2021 : Règlement grand-ducal du 4 octobre 2018 fixant les conditions de réalisation des tests rapides à orientation diagnostique de l’infection à virus de l’immunodéficience humaine, d’hépatites virales et d’autres infections sexuellement transmissibles.'
+valid_from: '2020-12-25'
+valid_to: '2021-02-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/consolide/20201225/fr'
+source_sha256: 'd56ac4d5354af6126c54d7147ee90e192839da4286afc6bba2dbba9ea9102149'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

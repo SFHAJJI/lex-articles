@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-09-22-n1:2026-01-01
-title: Version consolidée applicable au 01/01/2026 : Loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d'investissement audiovisuel.
-valid_from: 2026-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/09/22/n1/consolide/20260101/fr
-source_sha256: 4c6bf9456441946ff9799a8a2f217683a405523b003f43e18edb0501793a2b40
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-09-22-n1:2026-01-01'
+title: 'Version consolidée applicable au 01/01/2026 : Loi du 22 septembre 2014 relative au Fonds national de soutien à la production audiovisuelle et modifiant 1) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l''Etat 2) la loi modifiée du 13 décembre 1988 instaurant un régime fiscal temporaire spécial pour les certificats d''investissement audiovisuel.'
+valid_from: '2026-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/09/22/n1/consolide/20260101/fr'
+source_sha256: '4c6bf9456441946ff9799a8a2f217683a405523b003f43e18edb0501793a2b40'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## ** Chapitre 1: Dispositions générales**

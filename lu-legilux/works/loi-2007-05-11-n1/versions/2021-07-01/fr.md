@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2007-05-11-n1:2021-07-01
-title: Version consolidée applicable au 23/12/2025 : Loi du 11 mai 2007 relative à la création d'une société de gestion de patrimoine familial (SPF).
-valid_from: 2021-07-01
-valid_to: 2024-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2007/05/11/n1/consolide/20210701/fr
-source_sha256: fd20470313f4528ed903056b6d0ba5b35da13612d8bcce69ebeceb9d3750b417
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2007-05-11-n1:2021-07-01'
+title: 'Version consolidée applicable au 23/12/2025 : Loi du 11 mai 2007 relative à la création d''une société de gestion de patrimoine familial (SPF).'
+valid_from: '2021-07-01'
+valid_to: '2024-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/05/11/n1/consolide/20210701/fr'
+source_sha256: 'fd20470313f4528ed903056b6d0ba5b35da13612d8bcce69ebeceb9d3750b417'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I: — *Dispositions générales*

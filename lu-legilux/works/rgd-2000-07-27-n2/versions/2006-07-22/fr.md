@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-07-27-n2:2006-07-22
-title: Version consolidée applicable au 22/07/2006 : Règlement grand-ducal du 27 juillet 2000 relatif aux élections des membres du Collège médical.
-valid_from: 2006-07-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/07/27/n2/consolide/20060722/fr
-source_sha256: f0def1d013ed0f51d991eb615a4bae971b88f29ca35b0f164fb73f00b2cdbfa3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-07-27-n2:2006-07-22'
+title: 'Version consolidée applicable au 22/07/2006 : Règlement grand-ducal du 27 juillet 2000 relatif aux élections des membres du Collège médical.'
+valid_from: '2006-07-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/07/27/n2/consolide/20060722/fr'
+source_sha256: 'f0def1d013ed0f51d991eb615a4bae971b88f29ca35b0f164fb73f00b2cdbfa3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="article_1er"></a>

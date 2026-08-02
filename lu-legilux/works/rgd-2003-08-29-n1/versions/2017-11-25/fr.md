@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2003-08-29-n1:2017-11-25
-title: Version consolidée applicable au 23/09/2023 : Règlement grand-ducal du 29 août 2003 relatif aux avertissements taxés et aux consignations en matière de navigation intérieure.
-valid_from: 2017-11-25
-valid_to: 2023-09-22
-source: https://legilux.public.lu/eli/etat/leg/rgd/2003/08/29/n1/consolide/20171125/fr
-source_sha256: 0c58e3d8948ba34662da7262e1af9b5b890b79d74cd281a84e2ac19c236d8f45
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2003-08-29-n1:2017-11-25'
+title: 'Version consolidée applicable au 23/09/2023 : Règlement grand-ducal du 29 août 2003 relatif aux avertissements taxés et aux consignations en matière de navigation intérieure.'
+valid_from: '2017-11-25'
+valid_to: '2023-09-22'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2003/08/29/n1/consolide/20171125/fr'
+source_sha256: '0c58e3d8948ba34662da7262e1af9b5b890b79d74cd281a84e2ac19c236d8f45'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## A) — Avertissements taxés

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-03-10-a200:2022-06-14
-title: Version consolidée applicable au 14/06/2022 : Règlement grand-ducal du 10 mars 2021 arrêtant les modalités et les programmes des examens de fin de stage en formation spéciale et des examens de promotion à l’Administration du cadastre et de la topographie.
-valid_from: 2022-06-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/03/10/a200/consolide/20220614/fr
-source_sha256: 4cb00798d2b0b060216e6813c0180543b3b026a3a0ea7ac57f91694d8f13ae1a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-03-10-a200:2022-06-14'
+title: 'Version consolidée applicable au 14/06/2022 : Règlement grand-ducal du 10 mars 2021 arrêtant les modalités et les programmes des examens de fin de stage en formation spéciale et des examens de promotion à l’Administration du cadastre et de la topographie.'
+valid_from: '2022-06-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/03/10/a200/consolide/20220614/fr'
+source_sha256: '4cb00798d2b0b060216e6813c0180543b3b026a3a0ea7ac57f91694d8f13ae1a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ** Généralités**

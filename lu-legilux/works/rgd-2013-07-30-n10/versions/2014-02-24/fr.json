@@ -33,8 +33,8 @@
       "text_md": "Pour l'établissement du budget et des comptes les communes utilisent à partir de l'exercice financier 2013 un plan budgétaire qui doit être conforme au plan budgétaire normalisé qui figure à l'annexe du présent règlement.",
       "text_sha256": "8251ed9da5ac2bcf67a5caa5aa0868b85454cab607aa5de39a5e7339475a400e",
       "md_span": {
-        "start": 727,
-        "end": 948
+        "start": 746,
+        "end": 967
       },
       "citations": []
     },
@@ -52,8 +52,8 @@
       "text_md": "Dans le cadre des procédures légales d'adoption et de contrôle des budgets, des modifications budgétaires en cours d'exercice et des comptes, la transmission des documents se fait par voie électronique en plus de la voie par papier. Seule la version papier dûment signée fait foi.",
       "text_sha256": "e1969af03ee6cfdfd7a28b200446d92ec1e576cd6856148f99a0cbcbc7de56bd",
       "md_span": {
-        "start": 983,
-        "end": 1263
+        "start": 1002,
+        "end": 1282
       },
       "citations": []
     },
@@ -71,8 +71,8 @@
       "text_md": "Pour le budget et les comptes, l'identifiant alphanumérique de l'article budgétaire est composé de 20 positions au maximum, y compris les barres obliques de séparation «/», la lettre «n» représentant un code numérique et la lettre «x» représentant un code alphabétique. Il correspond au schéma établi ci-après:\n\n| Code chapitre/Code fonctionnel général ou spécifique/Code comptable/Code sectoriel/Code détail |\n| --- |\n| n/nnn/nnnnnn/x/nnnnn |\n\nPour le budget et les comptes, la mention des trois premiers codes est obligatoire pour le chapitre ordinaire, sans préjudice des dispositions de l'article 7, et la mention des cinq codes est obligatoire pour le chapitre extraordinaire.\n\nPour la ventilation statistique, l'identifiant alphanumérique de l'article budgétaire est composé de 26 positions au maximum, y compris les barres obliques de séparation «/», la lettre «n» représentant un code numérique et la lettre «x» représentant un code alphabétique. Il correspond au schéma établi ci-après:\n\n| Code chapitre/Code fonctionnel général ou spécifique/Code comptable/Code sectoriel/Code détail |\n| --- |\n| n/nnn/nnnnnnnnn/xnnn/nnnnn |\n\nLa mention des cinq codes est obligatoire pour la ventilation statistique.",
       "text_sha256": "51a7f25d4a8855bdd7e26cba07ca20490faea7df38009a8292460268c1fb0e2a",
       "md_span": {
-        "start": 1350,
-        "end": 2560
+        "start": 1369,
+        "end": 2579
       },
       "citations": []
     },
@@ -90,8 +90,8 @@
       "text_md": "Le code chapitre est un code numérique à une position qui indique les chapitres du budget.\n\nLe code chapitre 1 renseigne sur les recettes extraordinaires;\n\nle code chapitre 2 sur les recettes ordinaires;\n\nle code chapitre 3 sur les dépenses ordinaires;\n\nle code chapitre 4 sur les dépenses extraordinaires.",
       "text_sha256": "94d4ceb31de9cb9c4d144332378f3c9afdaafe93c109baa63f8de60daab0ed18",
       "md_span": {
-        "start": 2595,
-        "end": 2901
+        "start": 2614,
+        "end": 2920
       },
       "citations": []
     },
@@ -109,8 +109,8 @@
       "text_md": "Le code fonctionnel est un code numérique à trois positions qui indique la fonction ou type d'activité à laquelle sont rattachées les opérations effectuées.\n\nLe code fonctionnel général correspond au niveau de détail minimum obligatoire. Le code fonctionnel spécifique peut être utilisé par une commune souhaitant faire apparaître plus de détails que le niveau minimum obligatoire.\n\nIl y a neuf catégories de codes fonctionnels et un code dit «technique», libellés comme suit:\n\nIl y a neuf catégories de codes fonctionnels et un code dit «technique», libellés comme suit:\n\n| Catégorie | Libellé de la catégorie |\n| --- | --- |\n| 1 | Services généraux des administrations publiques |\n| 2 | Protection sociale |\n| 3 | Ordre et sécurité publics |\n| 4 | Affaires économiques |\n| 5 | Protection de l'environnement |\n| 6 | Logements et équipements collectifs |\n| 7 | Santé |\n| 8 | Loisirs, culture et culte |\n| 9 | Enseignement |\n| 0 | Code technique |",
       "text_sha256": "f221d492f56401a8b9582a827c354d5e279d2f799e3650d69f45354710219a0b",
       "md_span": {
-        "start": 2936,
-        "end": 3882
+        "start": 2955,
+        "end": 3901
       },
       "citations": []
     },
@@ -128,8 +128,8 @@
       "text_md": "Le code comptable est un code numérique à six positions pour le budget et les comptes et à neuf positions pour la ventilation statistique qui indique la nature des dépenses et des recettes effectuées.\n\nIl y a huit classes de codes comptables, libellées comme suit:\n\n| Classe | Libellé de la classe |\n| --- | --- |\n| 1 | Comptes de capitaux, de provisions et de dettes financières |\n| 2 | Comptes de frais d'établissement et d'actifs immobilisés |\n| 3 | Comptes de stocks |\n| 4 | Comptes de tiers |\n| 5 | Comptes financiers |\n| 6 | Comptes de charges |\n| 7 | Comptes de produits |\n| 8 | Opérations sur réserves |",
       "text_sha256": "d340b64ad41451b27d7ffe36e1378c099ff056ea80e7bb970796e3de39907951",
       "md_span": {
-        "start": 3917,
-        "end": 4528
+        "start": 3936,
+        "end": 4547
       },
       "citations": []
     },
@@ -147,8 +147,8 @@
       "text_md": "Le code sectoriel est un code alphabétique à une position pour le budget et les comptes et un code alphanumérique à quatre positions pour la ventilation statistique. Il indique le secteur économique auquel appartient la contrepartie de l'opération effectuée.\n\nLes codes sectoriels sont définis come suit:\n\n| Code sectoriel | Libellé du secteur |\n| --- | --- |\n| A | Institutions de sécurité sociale |\n| B | Institutions Européennes |\n| C | Communes |\n| E | Etablissements publics placés sous la surveillance des communes |\n| F | Organismes publics transfrontaliers |\n| G | Administration Centrale (Etat) |\n| I | Institutions Internationales |\n| O | Offices sociaux |\n| P | Secteur privé |\n| S | Syndicats de communes |\n| X | Facturation interne |\n| Z | Code néant |\n\nL'indication du code sectoriel pour le budget et les comptes est obligatoire pour les codes comptables indiqués ci-après:\n\n| Code | Libellé |\n| --- | --- |\n| 161xxx | Subventions d'investissement en capital - Terrains et constructions |\n| 162xxx | Subventions d'investissement en capital - Installations techniques et machines |\n| 163xxx | Subventions d'investissement en capital - Autres installations, outillage, mobilier et matériel roulant |\n| 168xxx | Subventions d'investissement en capital - Autres subventions d'investissement en capital |\n| 238xxx | Immobilisations financières - Apports en capital, Fonds et Fonds associatifs |\n| 272xxx | Cession immobilisations financières - Apports |\n| 648xxx | Autres charges d'exploitation diverses |\n| 744xxx | Autres produits d'exploitation - Subventions d'exploitation et transferts courants des Administrations publiques |\n\nPour la ventilation statistique, un code numérique à 3 positions est à ajouter aux codes sectoriels C, E, F, O et S.\n\nCe code numérique équivaut au code identifiant de l'entité défini à l'annexe. Dans les autres cas, il y a lieu d'ajouter 3 zéros après le code alphabétique.\n\nL'indication du code sectoriel à quatre positions est obligatoire pour la ventilation statistique.",
       "text_sha256": "743f66428f6c4e9bd9e3bda6ad359c6987a6638cc1297ca9d3464879f6566ba1",
       "md_span": {
-        "start": 4563,
-        "end": 6580
+        "start": 4582,
+        "end": 6599
       },
       "citations": []
     },
@@ -166,8 +166,8 @@
       "text_md": "Le code détail est un code numérique à cinq positions qui détaille les indications données par le code comptable et le code fonctionnel.\n\nAu chapitre ordinaire, le code détail est facultatif et peut être utilisé librement par la commune pour ses propres besoins. Il est composé de deux parties: les deux premières positions indiquent les chiffres «99»; les trois dernières positions correspondent à un numéro courant qui peut être attribué librement.\n\nAu chapitre extraordinaire, le code détail est obligatoire. Il est composé comme suit:\n\n- Au cas où il se rapporte à un projet d'investissement, les deux premières positions identifient l'année de début du projet; les trois dernières positions correspondent à un numéro courant qui peut être attribué librement.\n- Dans les autres cas, les deux premières positions indiquent les chiffres «99»; les trois dernières positions correspondent à un numéro courant qui peut être attribué librement.\n\nChaque code détail lié à un projet spécifique et à un exercice déterminé est unique.",
       "text_sha256": "cb5fc740aec507669e34c74d3f2aea870e98941d71aa6509cbf84150d43ac889",
       "md_span": {
-        "start": 6615,
-        "end": 7643
+        "start": 6634,
+        "end": 7662
       },
       "citations": []
     },
@@ -185,8 +185,8 @@
       "text_md": "Le plan pluriannuel de financement consiste en un état prévisionnel par exercice financier des recettes et des dépenses de la commune tant au chapitre ordinaire qu'au chapitre extraordinaire du budget. Il englobe les recettes et les dépenses qui résultent aussi bien de projets votés que de projets non encore votés par le conseil communal de même que les recettes et les dépenses résultant des besoins de financement y relatifs. Il tient également compte des recettes et des dépenses récurrentes résultant des projets planifiés au chapitre extraordinaire.",
       "text_sha256": "5e8bb694a2219f77a4bdc76e01face953b8495afb358c3e2ae18d2eff01daf2a",
       "md_span": {
-        "start": 7728,
-        "end": 8284
+        "start": 7747,
+        "end": 8303
       },
       "citations": []
     },
@@ -204,8 +204,8 @@
       "text_md": "Pour l'établissement du plan pluriannuel de financement, les autorités communales se basent sur des facteurs exogènes et sur des facteurs endogènes pouvant avoir une influence sur l'évolution de sa situation financière.\n\nLes facteurs exogènes sont des paramètres macroéconomiques et des prévisions relatives aux principales recettes fiscales intéressant les communes. Ces indicateurs sont établis par les instances compétentes de l'Etat dans un délai approprié avant les échéances prévues à l'article 12 et sont communiqués aux communes par l'intermédiaire du ministre de l'Intérieur.\n\nLes facteurs endogènes sont des paramètres microéconomiques propres à chaque commune.\n\nLes autorités communales procèdent à une estimation détaillée des crédits budgétaires. Pour les projets d'investissement, une estimation globale des recettes et des dépenses afférentes est suffisante.",
       "text_sha256": "9970ac1f4a3e0e0a3d6a45523a54aa650988fefc40aab9ad07356a5dc2de0cbe",
       "md_span": {
-        "start": 8321,
-        "end": 9194
+        "start": 8340,
+        "end": 9213
       },
       "citations": []
     },
@@ -223,8 +223,8 @@
       "text_md": "Pour l'établissement des prévisions du plan pluriannuel de financement, les autorités communales recourent soit à des méthodes d'estimation appropriées basées sur les données historiques du compte de gestion ou du budget rectifié, soit procèdent à une estimation directe.",
       "text_sha256": "bf3f0454e4916c4679f0c325b741ce93692f9eb4521f722379e63081017b8be7",
       "md_span": {
-        "start": 9231,
-        "end": 9502
+        "start": 9250,
+        "end": 9521
       },
       "citations": []
     },
@@ -242,8 +242,8 @@
       "text_md": "Le plan pluriannuel de financement est communiqué par le collège des bourgmestre et échevins au conseil communal et au ministre de l'Intérieur au plus tard le 15 février. Toutefois, si les indicateurs prévus à l'article 10 ont été communiqués aux communes après le 1er janvier, la date limite pour la communication du plan pluriannuel de financement au conseil communal et au ministre de l'Intérieur est reportée d'autant de jours qu'il y a de jours de retard dans la transmission des indicateurs.\n\nUne mise à jour du plan pluriannuel de financement au 30 juin de chaque année est communiquée par le collège des bourgmestre et échevins au ministre de l'Intérieur au plus tard le 31 juillet.",
       "text_sha256": "33a5234a1c80cca48a909040015dc5c56ce19c5f3ae6740c2a238c38cc17a159",
       "md_span": {
-        "start": 9539,
-        "end": 10229
+        "start": 9558,
+        "end": 10248
       },
       "citations": []
     },
@@ -261,8 +261,8 @@
       "text_md": "La transmission des documents visés à l'article 12 se fait par voie électronique.",
       "text_sha256": "a69a23653682370196b9803214ebd6e7e9fa6c5f862fb9f3ab4cb3ddc4104447",
       "md_span": {
-        "start": 10266,
-        "end": 10347
+        "start": 10285,
+        "end": 10366
       },
       "citations": []
     },
@@ -280,8 +280,8 @@
       "text_md": "L'état de la situation financière mensuelle de la commune comprend tous les comptes financiers, tous les comptes de tiers de la classe 4 et la récapitulation des totaux de tous les chapitres budgétaires au dernier jour du mois.\n\nAfin de renseigner le résultat de l'exercice en cours à cette date, il comprend aussi le report du résultat de l'exercice précédent.\n\nLa transmission des données au service de contrôle de la comptabilité des communes se fait par voie électronique en plus de la voie par papier. Seule la version papier dûment signée par le receveur fait foi.",
       "text_sha256": "4856d08d751ef6d04bae74650023face38f36976b17517da796dcf410985bab0",
       "md_span": {
-        "start": 10434,
-        "end": 11004
+        "start": 10453,
+        "end": 11023
       },
       "citations": []
     },
@@ -299,8 +299,8 @@
       "text_md": "L'état détaillé de la situation financière de la commune comprend tous les comptes financiers, tous les comptes de tiers de la classe 4, tous les comptes budgétaires et la récapitulation des totaux de tous les chapitres budgétaires. Afin de renseigner le résultat de l'exercice en cours, il comprend aussi le report du résultat de l'exercice précédent. Il renseigne également sur la situation de la dette communale.\n\nLa transmission du document au ministre de l'Intérieur se fait dans le mois de la demande par voie électronique, à moins qu'une version papier ne soit expressément demandée.",
       "text_sha256": "677b5d90e57c51dbb64e9424454ec69f35a0e516167fe2f98ca591d3676252a9",
       "md_span": {
-        "start": 11041,
-        "end": 11631
+        "start": 11060,
+        "end": 11650
       },
       "citations": []
     },
@@ -318,8 +318,8 @@
       "text_md": "Notre Ministre de l'Intérieur et à la Grande Région est chargé de l'exécution du présent règlement qui sera publié au Mémorial.",
       "text_sha256": "421cad699d4116638f97f697bb54447a8a26e73cfc0b5a45c80c2b587645ed2e",
       "md_span": {
-        "start": 11668,
-        "end": 11795
+        "start": 11687,
+        "end": 11814
       },
       "citations": []
     }

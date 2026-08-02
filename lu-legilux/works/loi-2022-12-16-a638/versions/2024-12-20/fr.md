@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-12-16-a638:2024-12-20
-title: Version consolidée applicable au 20/12/2024 : Loi du 16 décembre 2022 autorisant l’État à participer au financement du surcoût des produits énergétiques et d’électricité supporté par les centres intégrés pour personnes âgées, maisons de soins, logements encadrés pour personnes âgées et centres psycho-gériatriques agréés en vertu de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ainsi que par les structures d’hébergement pour personnes âgées et les centres de jour pour personnes âgées agréés conformément à la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées.
-valid_from: 2024-12-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/20241220/fr
-source_sha256: 7ec8d6556ba0102d0d3b8dd9a3281f5a719cb846f0c2eebecdab0f846eeb80fa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-12-16-a638:2024-12-20'
+title: 'Version consolidée applicable au 20/12/2024 : Loi du 16 décembre 2022 autorisant l’État à participer au financement du surcoût des produits énergétiques et d’électricité supporté par les centres intégrés pour personnes âgées, maisons de soins, logements encadrés pour personnes âgées et centres psycho-gériatriques agréés en vertu de la loi modifiée du 8 septembre 1998 réglant les relations entre l’État et les organismes œuvrant dans les domaines social, familial et thérapeutique ainsi que par les structures d’hébergement pour personnes âgées et les centres de jour pour personnes âgées agréés conformément à la loi modifiée du 23 août 2023 portant sur la qualité des services pour personnes âgées.'
+valid_from: '2024-12-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/20241220/fr'
+source_sha256: '7ec8d6556ba0102d0d3b8dd9a3281f5a719cb846f0c2eebecdab0f846eeb80fa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

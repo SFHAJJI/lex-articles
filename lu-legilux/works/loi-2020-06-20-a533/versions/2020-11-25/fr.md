@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-06-20-a533:2020-11-25
-title: Version consolidée applicable au 25/05/2021 : Loi du 20 juin 2020 portant introduction d’un congé pour soutien familial dans le cadre de la lutte contre la pandémie Covid-19.
-valid_from: 2020-11-25
-valid_to: 2021-05-24
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a533/consolide/20201125/fr
-source_sha256: f38cbf78ee43e6a1b6a185e673e1680ad3e8d21da5158618624a7d541f659813
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-06-20-a533:2020-11-25'
+title: 'Version consolidée applicable au 25/05/2021 : Loi du 20 juin 2020 portant introduction d’un congé pour soutien familial dans le cadre de la lutte contre la pandémie Covid-19.'
+valid_from: '2020-11-25'
+valid_to: '2021-05-24'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a533/consolide/20201125/fr'
+source_sha256: 'f38cbf78ee43e6a1b6a185e673e1680ad3e8d21da5158618624a7d541f659813'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-12-03-n2:2018-11-23
-title: Version consolidée applicable au 24/08/2020 : Règlement grand-ducal du 3 décembre 2015 relatif à l'infrastructure publique liée à la mobilité électrique.
-valid_from: 2018-11-23
-valid_to: 2020-08-23
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/12/03/n2/consolide/20181123/fr
-source_sha256: 99402afb8c386248b9e991bbd3ada98959950c18a611e248d9332b403252cd6c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-12-03-n2:2018-11-23'
+title: 'Version consolidée applicable au 24/08/2020 : Règlement grand-ducal du 3 décembre 2015 relatif à l''infrastructure publique liée à la mobilité électrique.'
+valid_from: '2018-11-23'
+valid_to: '2020-08-23'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/12/03/n2/consolide/20181123/fr'
+source_sha256: '99402afb8c386248b9e991bbd3ada98959950c18a611e248d9332b403252cd6c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier — Définitions

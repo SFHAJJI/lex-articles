@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2013-03-29-n2:2014-04-04
-title: Loi du 29 mars 2013 relative à la coopération administrative dans le domaine fiscal.
-valid_from: 2014-04-04
-valid_to: 2015-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n2/consolide/20140404/fr
-source_sha256: ee92e0eeb2a325cf6a77fd742b4005e7cb42ee2a67e3b5097b826e9dba289ab4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2013-03-29-n2:2014-04-04'
+title: 'Loi du 29 mars 2013 relative à la coopération administrative dans le domaine fiscal.'
+valid_from: '2014-04-04'
+valid_to: '2015-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n2/consolide/20140404/fr'
+source_sha256: 'ee92e0eeb2a325cf6a77fd742b4005e7cb42ee2a67e3b5097b826e9dba289ab4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — * Champ d'application et définitions*

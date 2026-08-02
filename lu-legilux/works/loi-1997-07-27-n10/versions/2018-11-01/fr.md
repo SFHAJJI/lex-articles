@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1997-07-27-n10:2018-11-01
-title: Version consolidée applicable au 25/11/2025 : Loi du 27 juillet 1997 sur le contrat d'assurance.
-valid_from: 2018-11-01
-valid_to: 2019-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/consolide/20181101/fr
-source_sha256: 8b86e9a296cb79d36e8bebfeded0dceed0b5302c5e7093d4536376948f7fa849
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1997-07-27-n10:2018-11-01'
+title: 'Version consolidée applicable au 25/11/2025 : Loi du 27 juillet 1997 sur le contrat d''assurance.'
+valid_from: '2018-11-01'
+valid_to: '2019-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/consolide/20181101/fr'
+source_sha256: '8b86e9a296cb79d36e8bebfeded0dceed0b5302c5e7093d4536376948f7fa849'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **TITRE I****LE CONTRAT D'ASSURANCE EN GENERAL**

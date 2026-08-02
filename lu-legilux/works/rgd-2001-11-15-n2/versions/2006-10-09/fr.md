@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-11-15-n2:2006-10-09
-title: Version consolidée applicable au 27/03/2011 : Règlement grand-ducal du 15 novembre 2001 concernant la rémunération des employés communaux.
-valid_from: 2006-10-09
-valid_to: 2011-03-26
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/11/15/n2/consolide/20061009/fr
-source_sha256: bb3723a40bffdaab672b0fdcd89afe4d5ba9f4546e9976a597de1f280ca83132
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-11-15-n2:2006-10-09'
+title: 'Version consolidée applicable au 27/03/2011 : Règlement grand-ducal du 15 novembre 2001 concernant la rémunération des employés communaux.'
+valid_from: '2006-10-09'
+valid_to: '2011-03-26'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/11/15/n2/consolide/20061009/fr'
+source_sha256: 'bb3723a40bffdaab672b0fdcd89afe4d5ba9f4546e9976a597de1f280ca83132'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier — **Généralités**

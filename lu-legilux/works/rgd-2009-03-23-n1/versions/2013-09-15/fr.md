@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-03-23-n1:2013-09-15
-title: TEXTE COORDONNE du RGD modifié du 23 mars 2009
-valid_from: 2013-09-15
-valid_to: 2025-09-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/03/23/n1/consolide/20130915/fr
-source_sha256: d44ec4cee0a2f196917d54d90191ff04ca8b8cf28e36e7b53dca406d38621c46
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-03-23-n1:2013-09-15'
+title: 'TEXTE COORDONNE du RGD modifié du 23 mars 2009'
+valid_from: '2013-09-15'
+valid_to: '2025-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/03/23/n1/consolide/20130915/fr'
+source_sha256: 'd44ec4cee0a2f196917d54d90191ff04ca8b8cf28e36e7b53dca406d38621c46'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

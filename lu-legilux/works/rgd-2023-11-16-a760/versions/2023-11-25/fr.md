@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-11-16-a760:2023-11-25
-title: Version rectifiée applicable au 25/11/2023 : Règlement grand-ducal du 16 novembre 2023 déclarant zone protégée d’intérêt national sous forme de réserve naturelle la zone « Schweich-Houbierg » sise sur les territoires des communes de Beckerich et de Saeul.
-valid_from: 2023-11-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/11/16/a760/consolide/20231125/fr
-source_sha256: 3f181b2de4b64644903beaee527bf5d3617e08966297cf42bb222d3b33f855ac
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-11-16-a760:2023-11-25'
+title: 'Version rectifiée applicable au 25/11/2023 : Règlement grand-ducal du 16 novembre 2023 déclarant zone protégée d’intérêt national sous forme de réserve naturelle la zone « Schweich-Houbierg » sise sur les territoires des communes de Beckerich et de Saeul.'
+valid_from: '2023-11-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/11/16/a760/consolide/20231125/fr'
+source_sha256: '3f181b2de4b64644903beaee527bf5d3617e08966297cf42bb222d3b33f855ac'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-marches_publics:2024-06-11
-title: Marchés Publics
-valid_from: 2024-06-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/marches_publics/20240611/fr
-source_sha256: 35e85ef77193f92aa7110e48089c9a4b9049c8d418236b8dafcd0ecc5c4b8b1d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-marches_publics:2024-06-11'
+title: 'Marchés Publics'
+valid_from: '2024-06-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/marches_publics/20240611/fr'
+source_sha256: '35e85ef77193f92aa7110e48089c9a4b9049c8d418236b8dafcd0ecc5c4b8b1d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **DISPOSITIONS GÉNÉRALES**

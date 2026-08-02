@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-02-27-n9:2023-07-01
-title: Version consolidée applicable au 01/07/2023 : Règlement grand-ducal du 27 février 2011 déterminant les emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes qui comportent une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public et modifiant \n a) le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux, \n b) le règlement grand-ducal modifié du 25 septembre 1998 fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal.
-valid_from: 2023-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9/consolide/20230701/fr
-source_sha256: 98cd85bf7f89bd6836f4363e265bb587548830594c9a6ea44074000da60731de
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-02-27-n9:2023-07-01'
+title: 'Version consolidée applicable au 01/07/2023 : Règlement grand-ducal du 27 février 2011 déterminant les emplois dans les administrations communales, syndicats de communes et établissements publics placés sous la surveillance des communes qui comportent une participation, directe ou indirecte, à l’exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l’Etat ou des autres personnes morales de droit public et modifiant \n a) le règlement grand-ducal du 15 novembre 2001 concernant le régime des employés communaux, \n b) le règlement grand-ducal modifié du 25 septembre 1998 fixant les conditions de formation, d’admission aux emplois et de rémunération des chargés de cours des établissements d’enseignement musical du secteur communal.'
+valid_from: '2023-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n9/consolide/20230701/fr'
+source_sha256: '98cd85bf7f89bd6836f4363e265bb587548830594c9a6ea44074000da60731de'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-05-09-n7:2010-12-17
-title: Version consolidée applicable au 17/12/2010 : Règlement grand-ducal du 9 mai 2008\n 1. autorisant le Lycée technique du Centre et l'Athénée de Luxembourg à organiser des classes internationales préparant au diplôme du Baccalauréat International;\n 2. déterminant l'organisation des classes internationales préparant au diplôme du Baccalauréat International.
-valid_from: 2010-12-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/consolide/20101217/fr
-source_sha256: ce28db24e35b64efc29b22e7cb2ed7c73089ed87a460082cd49d82d28f37aa34
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-05-09-n7:2010-12-17'
+title: 'Version consolidée applicable au 17/12/2010 : Règlement grand-ducal du 9 mai 2008\n 1. autorisant le Lycée technique du Centre et l''Athénée de Luxembourg à organiser des classes internationales préparant au diplôme du Baccalauréat International;\n 2. déterminant l''organisation des classes internationales préparant au diplôme du Baccalauréat International.'
+valid_from: '2010-12-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n7/consolide/20101217/fr'
+source_sha256: 'ce28db24e35b64efc29b22e7cb2ed7c73089ed87a460082cd49d82d28f37aa34'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

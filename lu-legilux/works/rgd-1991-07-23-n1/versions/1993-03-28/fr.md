@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1991-07-23-n1:1993-03-28
-title: Version consolidée applicable au 28/03/1993 : Règlement grand-ducal du 23 juillet 1991 déterminant les conditions de commercialisation des substances chimiques à activité thérapeutique.
-valid_from: 1993-03-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/consolide/19930328/fr
-source_sha256: c15d1f0752cd47b2e1144dc7252023e16310975be6931a45889cae665a3f2494
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1991-07-23-n1:1993-03-28'
+title: 'Version consolidée applicable au 28/03/1993 : Règlement grand-ducal du 23 juillet 1991 déterminant les conditions de commercialisation des substances chimiques à activité thérapeutique.'
+valid_from: '1993-03-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/consolide/19930328/fr'
+source_sha256: 'c15d1f0752cd47b2e1144dc7252023e16310975be6931a45889cae665a3f2494'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-06-08-a287:2023-09-01
-title: Version consolidée applicable au 01/09/2023 : Règlement grand-ducal du 8 juin 2022\n1° modifiant le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement ; et\n2° abrogeant le règlement grand-ducal du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 relative à un régime d’aides à des prêts climatiques.\n
-valid_from: 2023-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/06/08/a287/consolide/20230901/fr
-source_sha256: c62403426cb40d6d6957c3d93d4ce3ecc820e4ef514c31d12fde45c384e53cbf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-06-08-a287:2023-09-01'
+title: 'Version consolidée applicable au 01/09/2023 : Règlement grand-ducal du 8 juin 2022\n1° modifiant le règlement grand-ducal modifié du 5 mai 2011 fixant les mesures d’exécution relatives aux aides individuelles au logement promouvant l’accès à la propriété et prévues par la loi modifiée du 25 février 1979 concernant l’aide au logement ; et\n2° abrogeant le règlement grand-ducal du 23 décembre 2016 fixant les mesures d’exécution de la loi du 23 décembre 2016 relative à un régime d’aides à des prêts climatiques.\n'
+valid_from: '2023-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/06/08/a287/consolide/20230901/fr'
+source_sha256: 'c62403426cb40d6d6957c3d93d4ce3ecc820e4ef514c31d12fde45c384e53cbf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er_20230901"></a>

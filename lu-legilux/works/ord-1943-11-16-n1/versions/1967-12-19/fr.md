@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:ord-1943-11-16-n1:1967-12-19
-title: Version consolidée applicable au 19/12/1967 : Deuxième ordonnance d'exécution du 16 novembre 1943 relative à la loi sur l'impôt commercial (Zweite Verordnung über die Erhebung der Gewerbesteuer in vereinfachter Form).
-valid_from: 1967-12-19
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/ord/1943/11/16/n1/consolide/19671219/fr
-source_sha256: 090f4660a5a4bd3849eb32ecd974fe21b0e5029607c77d9c5848db700382b8c0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:ord-1943-11-16-n1:1967-12-19'
+title: 'Version consolidée applicable au 19/12/1967 : Deuxième ordonnance d''exécution du 16 novembre 1943 relative à la loi sur l''impôt commercial (Zweite Verordnung über die Erhebung der Gewerbesteuer in vereinfachter Form).'
+valid_from: '1967-12-19'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/ord/1943/11/16/n1/consolide/19671219/fr'
+source_sha256: '090f4660a5a4bd3849eb32ecd974fe21b0e5029607c77d9c5848db700382b8c0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_p_1"></a>

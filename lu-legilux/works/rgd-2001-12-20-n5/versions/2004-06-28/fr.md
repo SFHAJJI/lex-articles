@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-12-20-n5:2004-06-28
-title: Version consolidée applicable au 28/06/2004 : Règlement grand-ducal du 20 décembre 2001 déterminant le régime des indemnités des agents de la coopération au service de l'Etat visés à l'article 23 de la loi du 6 janvier 1996 sur la coopération au développement.
-valid_from: 2004-06-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/12/20/n5/consolide/20040628/fr
-source_sha256: 80f16ce8a6cdcb9d70548ce79d815eca56e329176373757ec50f4f85696f72da
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-12-20-n5:2004-06-28'
+title: 'Version consolidée applicable au 28/06/2004 : Règlement grand-ducal du 20 décembre 2001 déterminant le régime des indemnités des agents de la coopération au service de l''Etat visés à l''article 23 de la loi du 6 janvier 1996 sur la coopération au développement.'
+valid_from: '2004-06-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/12/20/n5/consolide/20040628/fr'
+source_sha256: '80f16ce8a6cdcb9d70548ce79d815eca56e329176373757ec50f4f85696f72da'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

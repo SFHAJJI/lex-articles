@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-12-21-n1:2019-12-27
-title: Version consolidée applicable au 27/12/2019 : Loi du 21 décembre 2009 sur les permissions de voirie et modifiant la loi modifiée du 16 août 1967 ayant pour objet la création d'une grande voirie de communication et d'un fonds des routes.
-valid_from: 2019-12-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/12/21/n1/consolide/20191227/fr
-source_sha256: 0c99a92e803b5002cb1f7be69e9bc5ddde0ae81085c99581debd01a70549fa33
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-12-21-n1:2019-12-27'
+title: 'Version consolidée applicable au 27/12/2019 : Loi du 21 décembre 2009 sur les permissions de voirie et modifiant la loi modifiée du 16 août 1967 ayant pour objet la création d''une grande voirie de communication et d''un fonds des routes.'
+valid_from: '2019-12-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/12/21/n1/consolide/20191227/fr'
+source_sha256: '0c99a92e803b5002cb1f7be69e9bc5ddde0ae81085c99581debd01a70549fa33'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Champ d'application et définitions

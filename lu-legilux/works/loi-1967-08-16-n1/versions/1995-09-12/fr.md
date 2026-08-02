@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1967-08-16-n1:1995-09-12
-title: Version consolidée applicable au 21/12/2021 : Loi du 16 août 1967 ayant pour objet la création d'une grande voirie de communication et d'un fonds des routes.
-valid_from: 1995-09-12
-valid_to: 1997-08-21
-source: https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19950912/fr
-source_sha256: 43d9f67ff08428a579cea2a95cdcb96e2c3776931d69ac661e8394610fc1d5a6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1967-08-16-n1:1995-09-12'
+title: 'Version consolidée applicable au 21/12/2021 : Loi du 16 août 1967 ayant pour objet la création d''une grande voirie de communication et d''un fonds des routes.'
+valid_from: '1995-09-12'
+valid_to: '1997-08-21'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19950912/fr'
+source_sha256: '43d9f67ff08428a579cea2a95cdcb96e2c3776931d69ac661e8394610fc1d5a6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-06-09-a439:2024-06-01
-title: Règlement grand-ducal du 9 juin 2021 concernant la performance énergétique des bâtiments.
-valid_from: 2024-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/06/09/a439/consolide/20240601/fr
-source_sha256: e48c89c30a1af48cd8684711e648254fac8ae7bf6fa7434a15de948f1d11a401
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-06-09-a439:2024-06-01'
+title: 'Règlement grand-ducal du 9 juin 2021 concernant la performance énergétique des bâtiments.'
+valid_from: '2024-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/06/09/a439/consolide/20240601/fr'
+source_sha256: 'e48c89c30a1af48cd8684711e648254fac8ae7bf6fa7434a15de948f1d11a401'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Objet, champ d’application et définitions**

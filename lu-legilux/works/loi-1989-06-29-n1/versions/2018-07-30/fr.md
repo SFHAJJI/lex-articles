@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1989-06-29-n1:2018-07-30
-title: Version consolidée applicable au 30/07/2018 : Loi du 29 juin 1989 portant réforme du régime des cabarets.
-valid_from: 2018-07-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1989/06/29/n1/consolide/20180730/fr
-source_sha256: 34b6d41a5be59a70b87e80bdae938cb6474d3915459a684781a6e91a2237cbd1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1989-06-29-n1:2018-07-30'
+title: 'Version consolidée applicable au 30/07/2018 : Loi du 29 juin 1989 portant réforme du régime des cabarets.'
+valid_from: '2018-07-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1989/06/29/n1/consolide/20180730/fr'
+source_sha256: '34b6d41a5be59a70b87e80bdae938cb6474d3915459a684781a6e91a2237cbd1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

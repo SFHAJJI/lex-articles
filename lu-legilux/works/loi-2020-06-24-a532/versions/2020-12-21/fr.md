@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-06-24-a532:2020-12-21
-title: Version consolidée applicable au 17/12/2021 : Loi du 24 juin 2020 portant introduction d’une mesure temporaire relative à l’application de l’article 12 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain dans le cadre de la lutte contre le Covid-19.
-valid_from: 2020-12-21
-valid_to: 2021-07-15
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a532/consolide/20201221/fr
-source_sha256: 8a76793bff7b351f0da8ff9d9944d58cbedfa8e18dba1124246156d598e68b1c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-06-24-a532:2020-12-21'
+title: 'Version consolidée applicable au 17/12/2021 : Loi du 24 juin 2020 portant introduction d’une mesure temporaire relative à l’application de l’article 12 de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain dans le cadre de la lutte contre le Covid-19.'
+valid_from: '2020-12-21'
+valid_to: '2021-07-15'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a532/consolide/20201221/fr'
+source_sha256: '8a76793bff7b351f0da8ff9d9944d58cbedfa8e18dba1124246156d598e68b1c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

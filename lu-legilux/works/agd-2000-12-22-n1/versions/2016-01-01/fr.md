@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-2000-12-22-n1:2016-01-01
-title: Version consolidée applicable au 01/12/2015 : Arrêté grand-ducal du 22 décembre 2000 concernant les délégations de signature par le Gouvernement.
-valid_from: 2016-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n1/consolide/20160101/fr
-source_sha256: e1c7cb6780b6929a9254371ad972bbb450059d93399e5261e66aaa65414e041e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-2000-12-22-n1:2016-01-01'
+title: 'Version consolidée applicable au 01/12/2015 : Arrêté grand-ducal du 22 décembre 2000 concernant les délégations de signature par le Gouvernement.'
+valid_from: '2016-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n1/consolide/20160101/fr'
+source_sha256: 'e1c7cb6780b6929a9254371ad972bbb450059d93399e5261e66aaa65414e041e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Section Ière. — **Dispositions générales**

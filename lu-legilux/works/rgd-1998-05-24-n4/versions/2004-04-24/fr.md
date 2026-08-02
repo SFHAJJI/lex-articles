@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1998-05-24-n4:2004-04-24
-title: Version consolidée applicable au 12/12/2022 : Règlement grand-ducal du 24 mai 1998 concernant l'exploitation et la mise dans le commerce des eaux minérales naturelles.
-valid_from: 2004-04-24
-valid_to: 2022-12-11
-source: https://legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/consolide/20040424/fr
-source_sha256: 2d9c3fc41b624a921daa654c6ed01683e152ba47ad0f03f8dcb1974083447dbc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1998-05-24-n4:2004-04-24'
+title: 'Version consolidée applicable au 12/12/2022 : Règlement grand-ducal du 24 mai 1998 concernant l''exploitation et la mise dans le commerce des eaux minérales naturelles.'
+valid_from: '2004-04-24'
+valid_to: '2022-12-11'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/consolide/20040424/fr'
+source_sha256: '2d9c3fc41b624a921daa654c6ed01683e152ba47ad0f03f8dcb1974083447dbc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

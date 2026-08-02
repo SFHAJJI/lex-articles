@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1912-07-27-n1:1920-03-31
-title: Version consolidée applicable au 16/02/1921 : Loi du 27 juillet 1912, sur le régime des cabarets.
-valid_from: 1920-03-31
-valid_to: 1920-07-03
-source: https://legilux.public.lu/eli/etat/leg/loi/1912/07/27/n1/consolide/19200331/fr
-source_sha256: c42a3e332fc38d0cb2d5da779634e8f6f4c5668b8eed088252df7f840e546ac6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1912-07-27-n1:1920-03-31'
+title: 'Version consolidée applicable au 16/02/1921 : Loi du 27 juillet 1912, sur le régime des cabarets.'
+valid_from: '1920-03-31'
+valid_to: '1920-07-03'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1912/07/27/n1/consolide/19200331/fr'
+source_sha256: 'c42a3e332fc38d0cb2d5da779634e8f6f4c5668b8eed088252df7f840e546ac6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

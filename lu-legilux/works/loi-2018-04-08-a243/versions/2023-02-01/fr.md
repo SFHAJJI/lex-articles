@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-04-08-a243:2023-02-01
-title: Version consolidée applicable au 20/08/2023 : Loi du 8 avril 2018 sur les marchés publics.
-valid_from: 2023-02-01
-valid_to: 2023-05-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a243/consolide/20230201/fr
-source_sha256: a8d117aab74ee8eceb44abffdd53c49acdb4824e70d1908bcb7c7019cb8b41ff
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-04-08-a243:2023-02-01'
+title: 'Version consolidée applicable au 20/08/2023 : Loi du 8 avril 2018 sur les marchés publics.'
+valid_from: '2023-02-01'
+valid_to: '2023-05-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a243/consolide/20230201/fr'
+source_sha256: 'a8d117aab74ee8eceb44abffdd53c49acdb4824e70d1908bcb7c7019cb8b41ff'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **LIVRE IER** — **DISPOSITIONS GÉNÉRALES**

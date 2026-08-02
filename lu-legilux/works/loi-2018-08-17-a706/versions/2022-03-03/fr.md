@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-08-17-a706:2022-03-03
-title: Loi du 17 août 2018 relative à l’archivage.
-valid_from: 2022-03-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/consolide/20220303/fr
-source_sha256: 5630ec7237739a9c2b42b6232e9d06adfc8168fd11d713d6b01236630aa0f95c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-08-17-a706:2022-03-03'
+title: 'Loi du 17 août 2018 relative à l’archivage.'
+valid_from: '2022-03-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/consolide/20220303/fr'
+source_sha256: '5630ec7237739a9c2b42b6232e9d06adfc8168fd11d713d6b01236630aa0f95c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I ** — **Objet de la loi et définitions**

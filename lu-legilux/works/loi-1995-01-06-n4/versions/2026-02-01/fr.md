@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1995-01-06-n4:2026-02-01
-title: Version consolidée applicable au 01/02/2026 : Loi du 6 janvier 1995 relative à la distribution en gros des médicaments.
-valid_from: 2026-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/consolide/20260201/fr
-source_sha256: 9a1d3222b76ebb5cc2d3d83e27260bc7e68e092bf0179e146edf5506c07f8607
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1995-01-06-n4:2026-02-01'
+title: 'Version consolidée applicable au 01/02/2026 : Loi du 6 janvier 1995 relative à la distribution en gros des médicaments.'
+valid_from: '2026-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/consolide/20260201/fr'
+source_sha256: '9a1d3222b76ebb5cc2d3d83e27260bc7e68e092bf0179e146edf5506c07f8607'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

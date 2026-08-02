@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-03-08-a222:2020-10-30
-title: Loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.
-valid_from: 2020-10-30
-valid_to: 2021-03-06
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/03/08/a222/consolide/20201030/fr
-source_sha256: f7706cd7fabcbbd2ca2918d877ffe86b69227acdf187d6a7ca235dc6b7397e95
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-03-08-a222:2020-10-30'
+title: 'Loi du 8 mars 2018 relative aux établissements hospitaliers et à la planification hospitalière.'
+valid_from: '2020-10-30'
+valid_to: '2021-03-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/03/08/a222/consolide/20201030/fr'
+source_sha256: 'f7706cd7fabcbbd2ca2918d877ffe86b69227acdf187d6a7ca235dc6b7397e95'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

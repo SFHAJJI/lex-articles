@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1991-08-10-n3:2024-02-01
-title: Version consolidée applicable au 01/02/2024 : Loi du 10 août 1991 sur la profession d’avocat.
-valid_from: 2024-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/consolide/20240201/fr
-source_sha256: 3a6bb598a9310f8a31240c1f33ae357d6e1f7a46392ca33d223c2718cdded95c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1991-08-10-n3:2024-02-01'
+title: 'Version consolidée applicable au 01/02/2024 : Loi du 10 août 1991 sur la profession d’avocat.'
+valid_from: '2024-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/consolide/20240201/fr'
+source_sha256: '3a6bb598a9310f8a31240c1f33ae357d6e1f7a46392ca33d223c2718cdded95c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — De la profession d’avocat

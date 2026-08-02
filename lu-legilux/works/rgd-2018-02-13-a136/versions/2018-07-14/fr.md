@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-02-13-a136:2018-07-14
-title: Version consolidée applicable au 20/03/2026 : Règlement grand-ducal du 13 février 2018 portant exécution de l’article 4, paragraphe 2 de la loi du 23 décembre 2016 relative à la déclaration pays par pays.
-valid_from: 2018-07-14
-valid_to: 2019-03-21
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/02/13/a136/consolide/20180714/fr
-source_sha256: 6071040040a3159a174915a2d7d9e7563cd7387ef058f0a07b6b154268206494
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-02-13-a136:2018-07-14'
+title: 'Version consolidée applicable au 20/03/2026 : Règlement grand-ducal du 13 février 2018 portant exécution de l’article 4, paragraphe 2 de la loi du 23 décembre 2016 relative à la déclaration pays par pays.'
+valid_from: '2018-07-14'
+valid_to: '2019-03-21'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/02/13/a136/consolide/20180714/fr'
+source_sha256: '6071040040a3159a174915a2d7d9e7563cd7387ef058f0a07b6b154268206494'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

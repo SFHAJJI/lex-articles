@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1975-12-10-n1:2010-02-23
-title: Version consolidée applicable au 23/02/2010 : Loi du 10 décembre 1975 relative au Centre hospitalier de Luxembourg.
-valid_from: 2010-02-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1975/12/10/n1/consolide/20100223/fr
-source_sha256: c413a932ab667c5b8fa8f26f8b226131881f19ae9e413a9499d4cf9150825362
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1975-12-10-n1:2010-02-23'
+title: 'Version consolidée applicable au 23/02/2010 : Loi du 10 décembre 1975 relative au Centre hospitalier de Luxembourg.'
+valid_from: '2010-02-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1975/12/10/n1/consolide/20100223/fr'
+source_sha256: 'c413a932ab667c5b8fa8f26f8b226131881f19ae9e413a9499d4cf9150825362'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

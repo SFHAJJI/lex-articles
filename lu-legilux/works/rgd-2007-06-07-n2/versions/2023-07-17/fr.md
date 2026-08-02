@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2007-06-07-n2:2023-07-17
-title: Version consolidée applicable au 17/07/2023 : Règlement grand-ducal du 7 juin 2007 déterminant pour la profession d'orthoptiste:\n 1. les études en vue de l'obtention du diplôme,\n 2. les modalités de reconnaissance des diplômes étrangers, et\n 3. l'exercice de la profession.
-valid_from: 2023-07-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/consolide/20230717/fr
-source_sha256: af2ef1aeb635f7723e5724f7918fa61bc85ceb83514ccdbacccaa295a4bc2e74
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2007-06-07-n2:2023-07-17'
+title: 'Version consolidée applicable au 17/07/2023 : Règlement grand-ducal du 7 juin 2007 déterminant pour la profession d''orthoptiste:\n 1. les études en vue de l''obtention du diplôme,\n 2. les modalités de reconnaissance des diplômes étrangers, et\n 3. l''exercice de la profession.'
+valid_from: '2023-07-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/consolide/20230717/fr'
+source_sha256: 'af2ef1aeb635f7723e5724f7918fa61bc85ceb83514ccdbacccaa295a4bc2e74'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

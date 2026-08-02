@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-07-31-a662:2023-09-15
-title: Loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg.
-valid_from: 2023-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/07/31/a662/consolide/20230915/fr
-source_sha256: e0c5d8da921fd4a634e20002609d521b284e0f46e5c703579899cde8bf7fe2a0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-07-31-a662:2023-09-15'
+title: 'Loi du 31 juillet 2020 portant organisation d’études spécialisées en médecine à l’Université du Luxembourg.'
+valid_from: '2023-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/07/31/a662/consolide/20230915/fr'
+source_sha256: 'e0c5d8da921fd4a634e20002609d521b284e0f46e5c703579899cde8bf7fe2a0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Cadre général des études spécialisées en médecine**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1988-01-11-n1:2006-10-09
-title: Version consolidée applicable au 09/10/2006 : Règlement grand-ducal du 11 janvier 1988 déterminant les pièces contenues dans le dossier personnel des fonctionnaires communaux.
-valid_from: 2006-10-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/consolide/20061009/fr
-source_sha256: 7922c814c8393dcfd2e2034a932fee58221d7a1748c60ced4a9917ba4c2f69e9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1988-01-11-n1:2006-10-09'
+title: 'Version consolidée applicable au 09/10/2006 : Règlement grand-ducal du 11 janvier 1988 déterminant les pièces contenues dans le dossier personnel des fonctionnaires communaux.'
+valid_from: '2006-10-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1988/01/11/n1/consolide/20061009/fr'
+source_sha256: '7922c814c8393dcfd2e2034a932fee58221d7a1748c60ced4a9917ba4c2f69e9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

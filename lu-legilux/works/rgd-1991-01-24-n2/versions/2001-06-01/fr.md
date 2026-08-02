@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1991-01-24-n2:2001-06-01
-title: Version consolidée applicable au 13/04/2025 : Règlement grand-ducal du 24 janvier 1991 portant fixation du tarif des huissiers de justice.
-valid_from: 2001-06-01
-valid_to: 2008-10-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/20010601/fr
-source_sha256: 65d7fb83ce7231138b24fefba2285316924926978f750829e8b3506204925c67
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1991-01-24-n2:2001-06-01'
+title: 'Version consolidée applicable au 13/04/2025 : Règlement grand-ducal du 24 janvier 1991 portant fixation du tarif des huissiers de justice.'
+valid_from: '2001-06-01'
+valid_to: '2008-10-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/20010601/fr'
+source_sha256: '65d7fb83ce7231138b24fefba2285316924926978f750829e8b3506204925c67'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

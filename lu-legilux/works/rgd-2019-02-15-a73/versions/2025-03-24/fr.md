@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-02-15-a73:2025-03-24
-title: Version consolidée applicable au 24/03/2025 : Règlement grand-ducal du 15 février 2019 relatif aux modalités d’inscription, de paiement des frais administratifs ainsi qu’à l’accès aux informations inscrites au Registre des bénéficiaires effectifs.
-valid_from: 2025-03-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a73/consolide/20250324/fr
-source_sha256: efcc89786cfce9c6a7861bc77d216342a798f9cc3e486dfafbf23b78d651c490
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-02-15-a73:2025-03-24'
+title: 'Version consolidée applicable au 24/03/2025 : Règlement grand-ducal du 15 février 2019 relatif aux modalités d’inscription, de paiement des frais administratifs ainsi qu’à l’accès aux informations inscrites au Registre des bénéficiaires effectifs.'
+valid_from: '2025-03-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a73/consolide/20250324/fr'
+source_sha256: 'efcc89786cfce9c6a7861bc77d216342a798f9cc3e486dfafbf23b78d651c490'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## ** Chapitre 1 er** — ** Modalités d’inscription au Registre des bénéficiaires effectifs**

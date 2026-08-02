@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1984-04-13-n11:2004-03-15
-title: Version consolidée applicable au 15/03/2004 : Règlement grand-ducal du 13 avril 1984 déterminant les pièces contenues dans le dossier personnel des fonctionnaires de l'Etat.
-valid_from: 2004-03-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/consolide/20040315/fr
-source_sha256: aea0f48a1bc3636d710a76a042e095476f20f3e60ffa1694b39ad59bc177f566
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1984-04-13-n11:2004-03-15'
+title: 'Version consolidée applicable au 15/03/2004 : Règlement grand-ducal du 13 avril 1984 déterminant les pièces contenues dans le dossier personnel des fonctionnaires de l''Etat.'
+valid_from: '2004-03-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/consolide/20040315/fr'
+source_sha256: 'aea0f48a1bc3636d710a76a042e095476f20f3e60ffa1694b39ad59bc177f566'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

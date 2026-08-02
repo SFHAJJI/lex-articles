@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-05-25-a258:2026-06-30
-title: Version consolidée applicable au 30/06/2026 : Loi du 25 mai 2023 relative au financement de l’exploitation des transports scolaires par autobus.
-valid_from: 2026-06-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/05/25/a258/consolide/20260630/fr
-source_sha256: 948697cb75cc396e3a68c4044aaa1b88d7260ba38175e3c16a4d5753e13d984f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-05-25-a258:2026-06-30'
+title: 'Version consolidée applicable au 30/06/2026 : Loi du 25 mai 2023 relative au financement de l’exploitation des transports scolaires par autobus.'
+valid_from: '2026-06-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/05/25/a258/consolide/20260630/fr'
+source_sha256: '948697cb75cc396e3a68c4044aaa1b88d7260ba38175e3c16a4d5753e13d984f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

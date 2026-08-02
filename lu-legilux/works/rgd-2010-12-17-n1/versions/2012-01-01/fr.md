@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-12-17-n1:2012-01-01
-title: Version consolidée applicable au 01/07/2026 : Règlement grand-ducal du 17 décembre 2010 fixant les taux applicables en matière de droits d’accise autonomes sur les produits énergétiques.
-valid_from: 2012-01-01
-valid_to: 2012-07-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20120101/fr
-source_sha256: 2b5efb7dce6d63e9c66552966cbd81c5c85fd3eab3e8a460669fd4f9c3943a5d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-12-17-n1:2012-01-01'
+title: 'Version consolidée applicable au 01/07/2026 : Règlement grand-ducal du 17 décembre 2010 fixant les taux applicables en matière de droits d’accise autonomes sur les produits énergétiques.'
+valid_from: '2012-01-01'
+valid_to: '2012-07-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20120101/fr'
+source_sha256: '2b5efb7dce6d63e9c66552966cbd81c5c85fd3eab3e8a460669fd4f9c3943a5d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

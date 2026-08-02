@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-cultes:2023-07-01
-title: Cultes
-valid_from: 2023-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/cultes/20230701/fr
-source_sha256: 86fb68093ce4a656861ad05fb76e16945cf82f72e44203d9b684bf0996701d5d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-cultes:2023-07-01'
+title: 'Cultes'
+valid_from: '2023-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/cultes/20230701/fr'
+source_sha256: '86fb68093ce4a656861ad05fb76e16945cf82f72e44203d9b684bf0996701d5d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **CULTE CATHOLIQUE**

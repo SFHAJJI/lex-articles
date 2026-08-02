@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2017-12-15-a1108:2020-12-21
-title: Loi du 15 décembre 2017 relative à un régime d’aides à la protection de l’environnement.
-valid_from: 2020-12-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1108/consolide/20201221/fr
-source_sha256: 044bd3fb2330d283e797dae4a23fd588da2419e59ea3dc63ebeb2634516326ee
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2017-12-15-a1108:2020-12-21'
+title: 'Loi du 15 décembre 2017 relative à un régime d’aides à la protection de l’environnement.'
+valid_from: '2020-12-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1108/consolide/20201221/fr'
+source_sha256: '044bd3fb2330d283e797dae4a23fd588da2419e59ea3dc63ebeb2634516326ee'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — *** Dispositions générales***

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-06-18-n1:2016-07-01
-title: Version consolidée applicable au 11/03/2022 : Règlement grand-ducal du 18 juin 2014 relatif à la carte d'identité.
-valid_from: 2016-07-01
-valid_to: 2022-03-10
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/06/18/n1/consolide/20160701/fr
-source_sha256: 466321a0bb8b75bbc0e4e611f2a5070896ff58ed6f2279a28a0eea78d1990dac
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-06-18-n1:2016-07-01'
+title: 'Version consolidée applicable au 11/03/2022 : Règlement grand-ducal du 18 juin 2014 relatif à la carte d''identité.'
+valid_from: '2016-07-01'
+valid_to: '2022-03-10'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/06/18/n1/consolide/20160701/fr'
+source_sha256: '466321a0bb8b75bbc0e4e611f2a5070896ff58ed6f2279a28a0eea78d1990dac'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

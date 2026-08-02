@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-06-16-n6:2018-10-28
-title: Règlement grand-ducal concernant les modalités et les sanctions relatives à l’installation et l’utilisation des tachygraphes.
-valid_from: 2018-10-28
-valid_to: 2023-10-23
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/06/16/n6/consolide/20181028/fr
-source_sha256: 8d2790657b654c25a6e8da177882ace417b2ffea597d815fc01c5ae1685962b2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-06-16-n6:2018-10-28'
+title: 'Règlement grand-ducal concernant les modalités et les sanctions relatives à l’installation et l’utilisation des tachygraphes.'
+valid_from: '2018-10-28'
+valid_to: '2023-10-23'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/06/16/n6/consolide/20181028/fr'
+source_sha256: '8d2790657b654c25a6e8da177882ace417b2ffea597d815fc01c5ae1685962b2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Compétences, principes et champ d’application

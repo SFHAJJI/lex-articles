@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1990-11-09-n1:2024-12-31
-title: Version consolidée applicable au 31/12/2024 : Loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois.
-valid_from: 2024-12-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20241231/fr
-source_sha256: 67f2faf0ed44c27c15feeeb98fc387d198fd6df61c39164e4fbd0a422b219900
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1990-11-09-n1:2024-12-31'
+title: 'Version consolidée applicable au 31/12/2024 : Loi du 9 novembre 1990 ayant pour objet la création d’un registre public maritime luxembourgeois.'
+valid_from: '2024-12-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20241231/fr'
+source_sha256: '67f2faf0ed44c27c15feeeb98fc387d198fd6df61c39164e4fbd0a422b219900'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## LIVRE — INTRODUCTIF

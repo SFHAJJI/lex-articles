@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1993-02-04-n4:2012-09-09
-title: Version consolidée applicable au 14/12/2024 : Règlement grand-ducal du 4 février 1993 fixant les modalités de fonctionnement de l'établissement public pour le développement de la formation professionnelle continue.
-valid_from: 2012-09-09
-valid_to: 2024-12-13
-source: https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20120909/fr
-source_sha256: db689bce3b7b886e03386360f6379f4296ddb3e3c0b2d719438e56c46d370fd8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1993-02-04-n4:2012-09-09'
+title: 'Version consolidée applicable au 14/12/2024 : Règlement grand-ducal du 4 février 1993 fixant les modalités de fonctionnement de l''établissement public pour le développement de la formation professionnelle continue.'
+valid_from: '2012-09-09'
+valid_to: '2024-12-13'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20120909/fr'
+source_sha256: 'db689bce3b7b886e03386360f6379f4296ddb3e3c0b2d719438e56c46d370fd8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

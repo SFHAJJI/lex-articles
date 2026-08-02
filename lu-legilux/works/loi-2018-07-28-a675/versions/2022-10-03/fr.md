@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-07-28-a675:2022-10-03
-title: Version consolidée applicable au 03/10/2022 : Loi du 28 juillet 2018 instaurant un système de contrôle et de sanctions relatif aux denrées alimentaires.
-valid_from: 2022-10-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a675/consolide/20221003/fr
-source_sha256: fbf6a74530a9e1f322cf245300629d9b9635d4be3161aa4b5eb57a9598d6010f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-07-28-a675:2022-10-03'
+title: 'Version consolidée applicable au 03/10/2022 : Loi du 28 juillet 2018 instaurant un système de contrôle et de sanctions relatif aux denrées alimentaires.'
+valid_from: '2022-10-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a675/consolide/20221003/fr'
+source_sha256: 'fbf6a74530a9e1f322cf245300629d9b9635d4be3161aa4b5eb57a9598d6010f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-07-20-a371:2022-07-24
-title: Version rectifiée applicable au 24/07/2022 : Loi du 20 juillet 2022 portant :\n1° modification de :\na) la loi modifiée du 15 mars 2016 relative aux produits dérivés de gré à gré, aux contreparties centrales et aux référentiels centraux et modifiant différentes lois relatives aux services financiers ;\nb) la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier ;\nc) la loi modifiée du 5 août 2005 sur les contrats de garantie financière ;\nd) la loi modifiée du 19 mai 2006 portant transposition de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition ;\ne) la loi modifiée du 24 mai 2011 concernant l’exercice de certains droits des actionnaires aux assemblées générales des sociétés cotées ;\nf) la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement ; et du\ng) règlement grand-ducal modifié du 18 décembre 1981 concernant les dépôts fongibles de métaux précieux et modifiant l’article 1er du règlement grand-ducal du 17 février 1971 concernant la circulation de valeurs mobilières ; et\n2° mise en œuvre du règlement (UE) 2021/23 du Parlement européen et du Conseil du 16 décembre 2020 relatif à un cadre pour le redressement et la résolution des contreparties centrales et modifiant les règlements (UE) n° 1095/2010, (UE) n° 648/2012, (UE) n° 600/2014, (UE) n° 806/2014 et (UE) 2015/2365, ainsi que les directives 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE et (UE) 2017/1132.\n
-valid_from: 2022-07-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/07/20/a371/consolide/20220724/fr
-source_sha256: 61a218050b18adc4bf3b8cd668f2434174466206065487b835488bde21288f65
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-07-20-a371:2022-07-24'
+title: 'Version rectifiée applicable au 24/07/2022 : Loi du 20 juillet 2022 portant :\n1° modification de :\na) la loi modifiée du 15 mars 2016 relative aux produits dérivés de gré à gré, aux contreparties centrales et aux référentiels centraux et modifiant différentes lois relatives aux services financiers ;\nb) la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier ;\nc) la loi modifiée du 5 août 2005 sur les contrats de garantie financière ;\nd) la loi modifiée du 19 mai 2006 portant transposition de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition ;\ne) la loi modifiée du 24 mai 2011 concernant l’exercice de certains droits des actionnaires aux assemblées générales des sociétés cotées ;\nf) la loi modifiée du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement ; et du\ng) règlement grand-ducal modifié du 18 décembre 1981 concernant les dépôts fongibles de métaux précieux et modifiant l’article 1er du règlement grand-ducal du 17 février 1971 concernant la circulation de valeurs mobilières ; et\n2° mise en œuvre du règlement (UE) 2021/23 du Parlement européen et du Conseil du 16 décembre 2020 relatif à un cadre pour le redressement et la résolution des contreparties centrales et modifiant les règlements (UE) n° 1095/2010, (UE) n° 648/2012, (UE) n° 600/2014, (UE) n° 806/2014 et (UE) 2015/2365, ainsi que les directives 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE et (UE) 2017/1132.\n'
+valid_from: '2022-07-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/07/20/a371/consolide/20220724/fr'
+source_sha256: '61a218050b18adc4bf3b8cd668f2434174466206065487b835488bde21288f65'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Modification de la loi modifiée du 15 mars 2016 relative aux produits dérivés de gré à gré, aux contreparties centrales et aux référentiels centraux et modifiant différentes lois relatives aux services financiers

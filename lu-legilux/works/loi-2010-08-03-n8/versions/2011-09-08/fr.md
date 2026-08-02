@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2010-08-03-n8:2011-09-08
-title: Version consolidée applicable au 28/03/2026 : Loi du 3 août 2010 portant réorganisation de l’Administration des Ponts et Chaussées.
-valid_from: 2011-09-08
-valid_to: 2012-10-17
-source: https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8/consolide/20110908/fr
-source_sha256: 909fdb1178a0f77bcb4ae8426e479689899bf8534868cc68d24fa950968785f6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2010-08-03-n8:2011-09-08'
+title: 'Version consolidée applicable au 28/03/2026 : Loi du 3 août 2010 portant réorganisation de l’Administration des Ponts et Chaussées.'
+valid_from: '2011-09-08'
+valid_to: '2012-10-17'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8/consolide/20110908/fr'
+source_sha256: '909fdb1178a0f77bcb4ae8426e479689899bf8534868cc68d24fa950968785f6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

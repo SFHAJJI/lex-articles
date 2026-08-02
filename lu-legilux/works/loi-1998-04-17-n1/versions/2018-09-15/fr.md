@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1998-04-17-n1:2018-09-15
-title: Version consolidée applicable au 17/03/2026 : Loi du 17 avril 1998 portant création d’un établissement public dénommé centre hospitalier neuropsychiatrique.
-valid_from: 2018-09-15
-valid_to: 2026-03-16
-source: https://legilux.public.lu/eli/etat/leg/loi/1998/04/17/n1/consolide/20180915/fr
-source_sha256: 8f55e82383ca0ced31a214f540f9332057b3651118701c86850851850e03637b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1998-04-17-n1:2018-09-15'
+title: 'Version consolidée applicable au 17/03/2026 : Loi du 17 avril 1998 portant création d’un établissement public dénommé centre hospitalier neuropsychiatrique.'
+valid_from: '2018-09-15'
+valid_to: '2026-03-16'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1998/04/17/n1/consolide/20180915/fr'
+source_sha256: '8f55e82383ca0ced31a214f540f9332057b3651118701c86850851850e03637b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

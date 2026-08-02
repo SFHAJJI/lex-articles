@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1980-03-07-n3:2002-01-01
-title: Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 7 mars 1980 déterminant les limites et les conditions de l’exercice du droit d’option pour l’application de la taxe sur la valeur ajoutée aux opérations immobilières.
-valid_from: 2002-01-01
-valid_to: 2013-04-07
-source: https://legilux.public.lu/eli/etat/leg/rgd/1980/03/07/n3/consolide/20020101/fr
-source_sha256: 4c3c4ec5fc08bb219c2069e4b3d4bcbc50b75e2e5d5d856855e76cda84d628b1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1980-03-07-n3:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 7 mars 1980 déterminant les limites et les conditions de l’exercice du droit d’option pour l’application de la taxe sur la valeur ajoutée aux opérations immobilières.'
+valid_from: '2002-01-01'
+valid_to: '2013-04-07'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1980/03/07/n3/consolide/20020101/fr'
+source_sha256: '4c3c4ec5fc08bb219c2069e4b3d4bcbc50b75e2e5d5d856855e76cda84d628b1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

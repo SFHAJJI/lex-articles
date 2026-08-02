@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-07-15-a304:2024-07-16
-title: Version consolidée applicable au 16/07/2024 : Règlement grand-ducal du 15 juillet 2024 déterminant les professions et métiers dans le cadre de la formation professionnelle et fixant les indemnités d’apprentissage dans les secteurs de l’artisanat, du commerce, de l’Horeca, de l’industrie, de l’agriculture et du secteur de santé et social.
-valid_from: 2024-07-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/07/15/a304/consolide/20240716/fr
-source_sha256: 0a2b7f0b6d4dd83296006004efb8bc25b14efcdcdbe9b1f625d3f60feec517cd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-07-15-a304:2024-07-16'
+title: 'Version consolidée applicable au 16/07/2024 : Règlement grand-ducal du 15 juillet 2024 déterminant les professions et métiers dans le cadre de la formation professionnelle et fixant les indemnités d’apprentissage dans les secteurs de l’artisanat, du commerce, de l’Horeca, de l’industrie, de l’agriculture et du secteur de santé et social.'
+valid_from: '2024-07-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/07/15/a304/consolide/20240716/fr'
+source_sha256: '0a2b7f0b6d4dd83296006004efb8bc25b14efcdcdbe9b1f625d3f60feec517cd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

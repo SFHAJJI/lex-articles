@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-11-17-a908:2021-05-02
-title: Version consolidée applicable au 12/06/2022 : Règlement grand-ducal du 17 novembre 2020 fixant la liste des médicaments prévue à l’article 4, paragraphe 2, de la loi modifiée du 25 novembre 1975 concernant la délivrance au public des médicaments.
-valid_from: 2021-05-02
-valid_to: 2021-09-19
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/11/17/a908/consolide/20210502/fr
-source_sha256: cb6bdb452a19ad11fdf974fbd0512c406d3502b4449f19e9b5bdebe8c99af5e1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-11-17-a908:2021-05-02'
+title: 'Version consolidée applicable au 12/06/2022 : Règlement grand-ducal du 17 novembre 2020 fixant la liste des médicaments prévue à l’article 4, paragraphe 2, de la loi modifiée du 25 novembre 1975 concernant la délivrance au public des médicaments.'
+valid_from: '2021-05-02'
+valid_to: '2021-09-19'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/11/17/a908/consolide/20210502/fr'
+source_sha256: 'cb6bdb452a19ad11fdf974fbd0512c406d3502b4449f19e9b5bdebe8c99af5e1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

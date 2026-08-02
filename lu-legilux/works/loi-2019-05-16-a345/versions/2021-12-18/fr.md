@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-05-16-a345:2021-12-18
-title: Version consolidée applicable au 18/12/2021 : Loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession.
-valid_from: 2021-12-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/05/16/a345/consolide/20211218/fr
-source_sha256: 689c1106e1c1fd42082824367287051289134eb2fdb0e7676197d6cca5a27174
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-05-16-a345:2021-12-18'
+title: 'Version consolidée applicable au 18/12/2021 : Loi du 16 mai 2019 relative à la facturation électronique dans le cadre des marchés publics et des contrats de concession.'
+valid_from: '2021-12-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/05/16/a345/consolide/20211218/fr'
+source_sha256: '689c1106e1c1fd42082824367287051289134eb2fdb0e7676197d6cca5a27174'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

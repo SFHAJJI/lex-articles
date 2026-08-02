@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-06-27-a587:2018-08-01
-title: Version consolidée applicable au 15/09/2023 : Loi du 27 juin 2018 ayant pour objet l’organisation de l’Université du Luxembourg.
-valid_from: 2018-08-01
-valid_to: 2023-09-14
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a587/consolide/20180801/fr
-source_sha256: 08e652043161bd470d54e880fac0273d3767bc96e80eb55e300e33e5e1efd591
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-06-27-a587:2018-08-01'
+title: 'Version consolidée applicable au 15/09/2023 : Loi du 27 juin 2018 ayant pour objet l’organisation de l’Université du Luxembourg.'
+valid_from: '2018-08-01'
+valid_to: '2023-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a587/consolide/20180801/fr'
+source_sha256: '08e652043161bd470d54e880fac0273d3767bc96e80eb55e300e33e5e1efd591'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier — Statut, objet et missions

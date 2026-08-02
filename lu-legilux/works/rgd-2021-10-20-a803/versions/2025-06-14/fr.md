@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-10-20-a803:2025-06-14
-title: Version consolidée applicable au 14/06/2025 : Règlement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation, de production et de certification des semences de plantes oléagineuses et à fibres.
-valid_from: 2025-06-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a803/consolide/20250614/fr
-source_sha256: 7435e475b1299397c770a0e523c03afbe54ab526ea75a7322118ead6f70dc09b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-10-20-a803:2025-06-14'
+title: 'Version consolidée applicable au 14/06/2025 : Règlement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation, de production et de certification des semences de plantes oléagineuses et à fibres.'
+valid_from: '2025-06-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a803/consolide/20250614/fr'
+source_sha256: '7435e475b1299397c770a0e523c03afbe54ab526ea75a7322118ead6f70dc09b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Commercialisation des semences de plantes oléagineuses et à fibres**

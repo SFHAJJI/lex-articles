@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-12-10-n1:2022-08-07
-title: Loi du 10 décembre 2009 relative à l'hospitalisation sans leur consentement de personnes atteintes de troubles mentaux.
-valid_from: 2022-08-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/consolide/20220807/fr
-source_sha256: 3dac03dc160f4f5810825c0a9799c04a627c924f0e0c75168e672f873cff330b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-12-10-n1:2022-08-07'
+title: 'Loi du 10 décembre 2009 relative à l''hospitalisation sans leur consentement de personnes atteintes de troubles mentaux.'
+valid_from: '2022-08-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/consolide/20220807/fr'
+source_sha256: '3dac03dc160f4f5810825c0a9799c04a627c924f0e0c75168e672f873cff330b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Champ d'application, définitions, généralités

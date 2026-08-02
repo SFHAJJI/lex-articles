@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-04-28-n1:2019-12-27
-title: Version consolidée applicable au 27/12/2019 : Loi du 28 avril 2015 relative au réseau cyclable national et aux raccordements de ce réseau vers les réseaux cyclables communaux.
-valid_from: 2019-12-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/04/28/n1/consolide/20191227/fr
-source_sha256: 093943f9a720989911bffb1dc34a3eaf2780935ff58662b96d21b7eb34ed16fa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-04-28-n1:2019-12-27'
+title: 'Version consolidée applicable au 27/12/2019 : Loi du 28 avril 2015 relative au réseau cyclable national et aux raccordements de ce réseau vers les réseaux cyclables communaux.'
+valid_from: '2019-12-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/04/28/n1/consolide/20191227/fr'
+source_sha256: '093943f9a720989911bffb1dc34a3eaf2780935ff58662b96d21b7eb34ed16fa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

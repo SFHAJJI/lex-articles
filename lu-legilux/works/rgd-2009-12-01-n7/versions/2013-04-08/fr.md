@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-12-01-n7:2013-04-08
-title: Version consolidée applicable au 01/07/2021 : Règlement grand-ducal du 1er décembre 2009 relatif à la déclaration de commencement, de changement ou de cessation de l’activité économique en matière de taxe sur la valeur ajoutée et à l’attribution d’un numéro d’identification TVA.
-valid_from: 2013-04-08
-valid_to: 2021-06-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20130408/fr
-source_sha256: d6dcd7295187cabd850caf4f77ac1e19c9534748b01af4fb635f3eb7a7d1897b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-12-01-n7:2013-04-08'
+title: 'Version consolidée applicable au 01/07/2021 : Règlement grand-ducal du 1er décembre 2009 relatif à la déclaration de commencement, de changement ou de cessation de l’activité économique en matière de taxe sur la valeur ajoutée et à l’attribution d’un numéro d’identification TVA.'
+valid_from: '2013-04-08'
+valid_to: '2021-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20130408/fr'
+source_sha256: 'd6dcd7295187cabd850caf4f77ac1e19c9534748b01af4fb635f3eb7a7d1897b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I — Déclaration du commencement d’activité

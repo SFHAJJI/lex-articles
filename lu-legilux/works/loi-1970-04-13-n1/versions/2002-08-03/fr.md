@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1970-04-13-n1:2002-08-03
-title: Version consolidée applicable au 03/08/2002 : Loi du 13 avril 1970 fixant les conditions suivant lesquelles le Gouvernement peut soit acquérir certains immeubles présentant un intérêt public, soit garantir le rendement et les charges locatifs de tels immeubles.
-valid_from: 2002-08-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1970/04/13/n1/consolide/20020803/fr
-source_sha256: 9326b25d55fe0d912ddbce5476c6f40a0496271fa3d6edf8c5483c265e788d82
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1970-04-13-n1:2002-08-03'
+title: 'Version consolidée applicable au 03/08/2002 : Loi du 13 avril 1970 fixant les conditions suivant lesquelles le Gouvernement peut soit acquérir certains immeubles présentant un intérêt public, soit garantir le rendement et les charges locatifs de tels immeubles.'
+valid_from: '2002-08-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1970/04/13/n1/consolide/20020803/fr'
+source_sha256: '9326b25d55fe0d912ddbce5476c6f40a0496271fa3d6edf8c5483c265e788d82'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

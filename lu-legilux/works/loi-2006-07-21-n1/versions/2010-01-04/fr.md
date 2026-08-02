@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2006-07-21-n1:2010-01-04
-title: Version consolidée applicable au 04/01/2010 : Loi du 21 juillet 2006 autorisant le Gouvernement à organiser des classes internationales préparant au diplôme du baccalauréat international.
-valid_from: 2010-01-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2006/07/21/n1/consolide/20100104/fr
-source_sha256: fd6e274465feb60a83ab3d10ef13adb217ba1d43d1f3a7406245b09337702374
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2006-07-21-n1:2010-01-04'
+title: 'Version consolidée applicable au 04/01/2010 : Loi du 21 juillet 2006 autorisant le Gouvernement à organiser des classes internationales préparant au diplôme du baccalauréat international.'
+valid_from: '2010-01-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2006/07/21/n1/consolide/20100104/fr'
+source_sha256: 'fd6e274465feb60a83ab3d10ef13adb217ba1d43d1f3a7406245b09337702374'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

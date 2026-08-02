@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1961-03-08-n1:1983-01-04
-title: Version consolidée applicable au 04/01/1983 : Arrêté grand-ducal du 8 mars 1961 concernant l'assurance obligatoire contre les accidents des fonctionnaires et employés publics jouissant d'un régime spécial de pensions de retraite.
-valid_from: 1983-01-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/1961/03/08/n1/consolide/19830104/fr
-source_sha256: fd2172910cc1bff1f0135ddf99e7d33ed9e28244302b9a8e01085cd897ed2ffe
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1961-03-08-n1:1983-01-04'
+title: 'Version consolidée applicable au 04/01/1983 : Arrêté grand-ducal du 8 mars 1961 concernant l''assurance obligatoire contre les accidents des fonctionnaires et employés publics jouissant d''un régime spécial de pensions de retraite.'
+valid_from: '1983-01-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1961/03/08/n1/consolide/19830104/fr'
+source_sha256: 'fd2172910cc1bff1f0135ddf99e7d33ed9e28244302b9a8e01085cd897ed2ffe'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

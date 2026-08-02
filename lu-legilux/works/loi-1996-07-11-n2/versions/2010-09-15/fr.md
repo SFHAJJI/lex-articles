@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1996-07-11-n2:2010-09-15
-title: Version consolidée applicable au 01/01/2015 : Loi du 11 juillet 1996 portant organisation d'une formation menant au brevet de maîtrise et fixation des conditions d'obtention du titre et du brevet de maîtrise.
-valid_from: 2010-09-15
-valid_to: 2014-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/consolide/20100915/fr
-source_sha256: 98cb6d56cfe1d08f0876a235fbaad01bfe5b473faa4279bcaaa11973ca42e017
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1996-07-11-n2:2010-09-15'
+title: 'Version consolidée applicable au 01/01/2015 : Loi du 11 juillet 1996 portant organisation d''une formation menant au brevet de maîtrise et fixation des conditions d''obtention du titre et du brevet de maîtrise.'
+valid_from: '2010-09-15'
+valid_to: '2014-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/consolide/20100915/fr'
+source_sha256: '98cb6d56cfe1d08f0876a235fbaad01bfe5b473faa4279bcaaa11973ca42e017'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I – Du champ d'application

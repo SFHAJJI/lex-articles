@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-12-19-n13:2024-12-28
-title: Loi du 19 décembre 2014 relative à la mise en oeuvre du paquet d'avenir - première partie (2015).
-valid_from: 2024-12-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n13/consolide/20241228/fr
-source_sha256: 85b7b737b041894739b01615671f736146b7506d69d0071aa7754be9cf179aed
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-12-19-n13:2024-12-28'
+title: 'Loi du 19 décembre 2014 relative à la mise en oeuvre du paquet d''avenir - première partie (2015).'
+valid_from: '2024-12-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n13/consolide/20241228/fr'
+source_sha256: '85b7b737b041894739b01615671f736146b7506d69d0071aa7754be9cf179aed'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er****.** — **Création du Fonds souverain intergénérationnel du Luxembourg**

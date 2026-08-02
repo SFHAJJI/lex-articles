@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-12-15-a993:2023-01-01
-title: Version consolidée applicable au 01/01/2023 : Loi du 15 décembre 2020 autorisant la participation de l’État au financement des mesures prises en charge par l’assurance maladie-maternité dans le cadre de la crise sanitaire due à la pandémie Covid-19 et modifiant la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a993/consolide/20230101/fr
-source_sha256: 393ca83d338a03f5e8297f3b0eea63ba2fab67e3773147f9b191f5591b10df53
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-12-15-a993:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Loi du 15 décembre 2020 autorisant la participation de l’État au financement des mesures prises en charge par l’assurance maladie-maternité dans le cadre de la crise sanitaire due à la pandémie Covid-19 et modifiant la loi modifiée du 20 décembre 2019 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2020.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a993/consolide/20230101/fr'
+source_sha256: '393ca83d338a03f5e8297f3b0eea63ba2fab67e3773147f9b191f5591b10df53'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

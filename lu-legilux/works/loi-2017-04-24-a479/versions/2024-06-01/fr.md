@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2017-04-24-a479:2024-06-01
-title: Version consolidée applicable au 01/01/2026 : Loi du 24 avril 2017 portant réorganisation de l’établissement public nommé « Fonds du Logement ».
-valid_from: 2024-06-01
-valid_to: 2025-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2017/04/24/a479/consolide/20240601/fr
-source_sha256: 33ac098768f43d461ce4ba6a5d378df45690fa6e56b624dc33d73bde36926b84
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2017-04-24-a479:2024-06-01'
+title: 'Version consolidée applicable au 01/01/2026 : Loi du 24 avril 2017 portant réorganisation de l’établissement public nommé « Fonds du Logement ».'
+valid_from: '2024-06-01'
+valid_to: '2025-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2017/04/24/a479/consolide/20240601/fr'
+source_sha256: '33ac098768f43d461ce4ba6a5d378df45690fa6e56b624dc33d73bde36926b84'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier.** — **Statut juridique, missions et siège**

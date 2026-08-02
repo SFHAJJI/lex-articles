@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-07-20-a664:2023-08-01
-title: Version consolidée applicable au 01/08/2023 : Loi du 20 juillet 2018 portant création\n1° de Centres de compétences en psycho-pédagogie spécialisée en faveur de l’inclusion scolaire ;\n2° du Service national de l’éducation inclusive.
-valid_from: 2023-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664/consolide/20230801/fr
-source_sha256: e5bd8808c65c82de945e335ad9f56bb02f1d7e69f985198f7dd4c8d2182b74b7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-07-20-a664:2023-08-01'
+title: 'Version consolidée applicable au 01/08/2023 : Loi du 20 juillet 2018 portant création\n1° de Centres de compétences en psycho-pédagogie spécialisée en faveur de l’inclusion scolaire ;\n2° du Service national de l’éducation inclusive.'
+valid_from: '2023-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664/consolide/20230801/fr'
+source_sha256: 'e5bd8808c65c82de945e335ad9f56bb02f1d7e69f985198f7dd4c8d2182b74b7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — L’inclusion des enfants ou jeunes à besoins éducatifs spécifiques et les Centres de compétences en psycho-pédagogie spécialisée

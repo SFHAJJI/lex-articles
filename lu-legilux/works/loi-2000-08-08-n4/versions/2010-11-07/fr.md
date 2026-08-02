@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2000-08-08-n4:2010-11-07
-title: Version consolidée applicable au 12/08/2022 : Loi du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale.
-valid_from: 2010-11-07
-valid_to: 2021-08-08
-source: https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20101107/fr
-source_sha256: 6c022293091193f9a9aaa9fadecc227941b78e134b73f0dec181ea077e95e922
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2000-08-08-n4:2010-11-07'
+title: 'Version consolidée applicable au 12/08/2022 : Loi du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale.'
+valid_from: '2010-11-07'
+valid_to: '2021-08-08'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20101107/fr'
+source_sha256: '6c022293091193f9a9aaa9fadecc227941b78e134b73f0dec181ea077e95e922'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

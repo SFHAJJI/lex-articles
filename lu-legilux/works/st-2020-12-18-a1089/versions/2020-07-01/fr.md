@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:st-2020-12-18-a1089:2020-07-01
-title: Version consolidée applicable au 01/07/2020 : Mutualité des employeurs - Statuts.
-valid_from: 2020-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089/consolide/20200701/fr
-source_sha256: aaa6fdc68a5e48e9600e1cedb9d1fe6ca77b95b6589b0866820eb9f3c835c5d8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:st-2020-12-18-a1089:2020-07-01'
+title: 'Version consolidée applicable au 01/07/2020 : Mutualité des employeurs - Statuts.'
+valid_from: '2020-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089/consolide/20200701/fr'
+source_sha256: 'aaa6fdc68a5e48e9600e1cedb9d1fe6ca77b95b6589b0866820eb9f3c835c5d8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="attachment_1"></a>

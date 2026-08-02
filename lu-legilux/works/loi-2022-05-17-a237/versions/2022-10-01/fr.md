@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-05-17-a237:2022-10-01
-title: Version consolidée applicable au 24/07/2023 : Loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel.
-valid_from: 2022-10-01
-valid_to: 2023-07-23
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/consolide/20221001/fr
-source_sha256: 455e85727b50370b7a2f4fd089790a5234c9db432bc0b6002abeb7859e1babda
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-05-17-a237:2022-10-01'
+title: 'Version consolidée applicable au 24/07/2023 : Loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel.'
+valid_from: '2022-10-01'
+valid_to: '2023-07-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/consolide/20221001/fr'
+source_sha256: '455e85727b50370b7a2f4fd089790a5234c9db432bc0b6002abeb7859e1babda'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

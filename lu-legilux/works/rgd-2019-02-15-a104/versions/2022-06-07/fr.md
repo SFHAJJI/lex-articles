@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-02-15-a104:2022-06-07
-title: Version consolidée applicable au 17/02/2023 : Règlement grand-ducal du 15 février 2019 portant énumération des maladies sujettes à déclaration obligatoire et fixant les délais de déclaration ainsi que les informations à reprendre au cahier des charges pour la désignation comme laboratoire national de référence d’un laboratoire d’analyses médicales.
-valid_from: 2022-06-07
-valid_to: 2022-07-21
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/consolide/20220607/fr
-source_sha256: 6b5727e64407ee0c9ec14b27524df2f88053532d463129b6e2431b3d1dd434e8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-02-15-a104:2022-06-07'
+title: 'Version consolidée applicable au 17/02/2023 : Règlement grand-ducal du 15 février 2019 portant énumération des maladies sujettes à déclaration obligatoire et fixant les délais de déclaration ainsi que les informations à reprendre au cahier des charges pour la désignation comme laboratoire national de référence d’un laboratoire d’analyses médicales.'
+valid_from: '2022-06-07'
+valid_to: '2022-07-21'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/consolide/20220607/fr'
+source_sha256: '6b5727e64407ee0c9ec14b27524df2f88053532d463129b6e2431b3d1dd434e8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

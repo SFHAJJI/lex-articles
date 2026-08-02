@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01
-title: Accessibilité des lieux ouverts au public
-valid_from: 2023-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20230701/fr
-source_sha256: cdb9bcc5a73e3b159ae1cba5f51c11dbbeae38a81a178747c8f15275e4dcc877
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01'
+title: 'Accessibilité des lieux ouverts au public'
+valid_from: '2023-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20230701/fr'
+source_sha256: 'cdb9bcc5a73e3b159ae1cba5f51c11dbbeae38a81a178747c8f15275e4dcc877'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Loi du 7 janvier 2022 portant sur l’accessibilité à tous des lieux ouverts au public, des voies publiques et des bâtiments d’habitation collectifs.

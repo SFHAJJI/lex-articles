@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-04-25-a307:2022-04-09
-title: Loi du 25 avril 2018 relative à la gestion collective des droits d’auteur et des droits voisins et l’octroi de licences multiterritoriales de droits sur des œuvres musicales en vue de leur utilisation en ligne dans le marché intérieur.
-valid_from: 2022-04-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/25/a307/consolide/20220409/fr
-source_sha256: 1dd55d4cfcb201ee65f91bc35ccc70857c73004ea87a157bb5022ad83d74ffb8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-04-25-a307:2022-04-09'
+title: 'Loi du 25 avril 2018 relative à la gestion collective des droits d’auteur et des droits voisins et l’octroi de licences multiterritoriales de droits sur des œuvres musicales en vue de leur utilisation en ligne dans le marché intérieur.'
+valid_from: '2022-04-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/04/25/a307/consolide/20220409/fr'
+source_sha256: '1dd55d4cfcb201ee65f91bc35ccc70857c73004ea87a157bb5022ad83d74ffb8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **TITRE Ier** — **Dispositions générales**

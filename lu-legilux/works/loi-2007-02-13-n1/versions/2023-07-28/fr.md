@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2007-02-13-n1:2023-07-28
-title: Loi du 13 février 2007 relative aux fonds d'investissement spécialisés.
-valid_from: 2023-07-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2007/02/13/n1/consolide/20230728/fr
-source_sha256: a6364c32e6696c05e18df69fe11d9f48d56012fe2c0ec6782c8b0c7936575b21
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2007-02-13-n1:2023-07-28'
+title: 'Loi du 13 février 2007 relative aux fonds d''investissement spécialisés.'
+valid_from: '2023-07-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/02/13/n1/consolide/20230728/fr'
+source_sha256: 'a6364c32e6696c05e18df69fe11d9f48d56012fe2c0ec6782c8b0c7936575b21'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Partie I. — Dispositions générales applicables aux fonds d’investissement spécialisés

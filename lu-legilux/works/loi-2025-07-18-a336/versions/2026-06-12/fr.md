@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2025-07-18-a336:2026-06-12
-title: Version consolidée applicable au 12/06/2026 : Loi du 18 juillet 2025 autorisant le Fonds national de solidarité à participer aux prix des prestations et services fournis dans les structures d’hébergement pour personnes âgées et dans les logements encadrés agréés.
-valid_from: 2026-06-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2025/07/18/a336/consolide/20260612/fr
-source_sha256: 65e37bc42469ab5f272714e8ec79b459e49aa90509e3258845d6caefea401d94
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2025-07-18-a336:2026-06-12'
+title: 'Version consolidée applicable au 12/06/2026 : Loi du 18 juillet 2025 autorisant le Fonds national de solidarité à participer aux prix des prestations et services fournis dans les structures d’hébergement pour personnes âgées et dans les logements encadrés agréés.'
+valid_from: '2026-06-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2025/07/18/a336/consolide/20260612/fr'
+source_sha256: '65e37bc42469ab5f272714e8ec79b459e49aa90509e3258845d6caefea401d94'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

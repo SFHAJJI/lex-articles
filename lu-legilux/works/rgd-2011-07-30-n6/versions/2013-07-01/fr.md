@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-07-30-n6:2013-07-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 30 juillet 2011 relatif au fonctionnement de la Commission de nomenclature des actes et services pris en charge par l'assurance maladie.
-valid_from: 2013-07-01
-valid_to: 2023-05-18
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/07/30/n6/consolide/20130701/fr
-source_sha256: 9068a697814281a151b2e2cfff7c9222e1da8a0b609ba1dff9c49b0d27b3ee3c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-07-30-n6:2013-07-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 30 juillet 2011 relatif au fonctionnement de la Commission de nomenclature des actes et services pris en charge par l''assurance maladie.'
+valid_from: '2013-07-01'
+valid_to: '2023-05-18'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/07/30/n6/consolide/20130701/fr'
+source_sha256: '9068a697814281a151b2e2cfff7c9222e1da8a0b609ba1dff9c49b0d27b3ee3c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

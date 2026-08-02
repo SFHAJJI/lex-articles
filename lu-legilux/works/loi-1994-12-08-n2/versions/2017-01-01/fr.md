@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1994-12-08-n2:2017-01-01
-title: Version consolidée applicable au 03/04/2026 : Loi du 8 décembre 1994 relative: - aux comptes annuels et comptes consolidés des entreprises d'assurances et de réassurances de droit luxembourgeois - aux obligations en matière d'établissement et de publicité des documents comptables des succursales d'entreprises d'assurances de droit étranger.
-valid_from: 2017-01-01
-valid_to: 2026-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/1994/12/08/n2/consolide/20170101/fr
-source_sha256: 53fe10917e413be79b69baa9c0316eef35956334122605b90299c08a13a9cc77
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1994-12-08-n2:2017-01-01'
+title: 'Version consolidée applicable au 03/04/2026 : Loi du 8 décembre 1994 relative: - aux comptes annuels et comptes consolidés des entreprises d''assurances et de réassurances de droit luxembourgeois - aux obligations en matière d''établissement et de publicité des documents comptables des succursales d''entreprises d''assurances de droit étranger.'
+valid_from: '2017-01-01'
+valid_to: '2026-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1994/12/08/n2/consolide/20170101/fr'
+source_sha256: '53fe10917e413be79b69baa9c0316eef35956334122605b90299c08a13a9cc77'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## PARTIE l — CHAMP D'APPLICATION

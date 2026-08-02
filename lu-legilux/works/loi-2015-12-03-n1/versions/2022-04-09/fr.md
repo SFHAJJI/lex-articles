@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-12-03-n1:2022-04-09
-title: Version consolidée applicable au 09/04/2022 : Loi du 3 décembre 2015 relative à certaines utilisations autorisées des oeuvres orphelines.
-valid_from: 2022-04-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/03/n1/consolide/20220409/fr
-source_sha256: da9ef76373292f16a5f218cf5477319e445ba7bb2e355ebdc6e7ceab5ba4cb55
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-12-03-n1:2022-04-09'
+title: 'Version consolidée applicable au 09/04/2022 : Loi du 3 décembre 2015 relative à certaines utilisations autorisées des oeuvres orphelines.'
+valid_from: '2022-04-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/12/03/n1/consolide/20220409/fr'
+source_sha256: 'da9ef76373292f16a5f218cf5477319e445ba7bb2e355ebdc6e7ceab5ba4cb55'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

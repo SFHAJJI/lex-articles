@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1992-12-15-n1:2025-07-05
-title: Version consolidée applicable au 05/07/2025 : Règlement grand-ducal du 15 décembre 1992 relatif à la mise sur le marché des médicaments.
-valid_from: 2025-07-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1992/12/15/n1/consolide/20250705/fr
-source_sha256: c5e42e586176b3e7096e56758f70bbbbd82c5381ed0ec6c3f91e06f413b120ca
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1992-12-15-n1:2025-07-05'
+title: 'Version consolidée applicable au 05/07/2025 : Règlement grand-ducal du 15 décembre 1992 relatif à la mise sur le marché des médicaments.'
+valid_from: '2025-07-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/12/15/n1/consolide/20250705/fr'
+source_sha256: 'c5e42e586176b3e7096e56758f70bbbbd82c5381ed0ec6c3f91e06f413b120ca'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er.- — Autorisation de mise sur le marché

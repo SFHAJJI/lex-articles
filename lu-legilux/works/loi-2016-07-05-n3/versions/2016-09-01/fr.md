@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-05-n3:2016-09-01
-title: Loi du 5 juillet 2016 portant organisation des services de taxis.
-valid_from: 2016-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n3/consolide/20160901/fr
-source_sha256: 69e5f12c4b04c365201328bfa408b4c0c3a477bc248d25fb896829b685391fe9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-05-n3:2016-09-01'
+title: 'Loi du 5 juillet 2016 portant organisation des services de taxis.'
+valid_from: '2016-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n3/consolide/20160901/fr'
+source_sha256: '69e5f12c4b04c365201328bfa408b4c0c3a477bc248d25fb896829b685391fe9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier** — **Définitions**

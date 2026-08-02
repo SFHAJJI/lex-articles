@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-08-05-n1:2014-08-18
-title: Loi du 5 août 2005 sur les contrats de garantie financière.
-valid_from: 2014-08-18
-valid_to: 2015-12-27
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/08/05/n1/consolide/20140818/fr
-source_sha256: 46bc1a265782aad79d436079c687ff838f392906e2d60f4b769f50650a7e4a26
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-08-05-n1:2014-08-18'
+title: 'Loi du 5 août 2005 sur les contrats de garantie financière.'
+valid_from: '2014-08-18'
+valid_to: '2015-12-27'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/08/05/n1/consolide/20140818/fr'
+source_sha256: '46bc1a265782aad79d436079c687ff838f392906e2d60f4b769f50650a7e4a26'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## PARTIE I: — Dispositions générales

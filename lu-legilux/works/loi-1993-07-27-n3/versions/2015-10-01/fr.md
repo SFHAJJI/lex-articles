@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1993-07-27-n3:2015-10-01
-title: Version consolidée applicable au 01/10/2015 : Loi du 27 juillet 1993 portant organisation de l'administration des douanes et accises.
-valid_from: 2015-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n3/consolide/20151001/fr
-source_sha256: 0c5d272e083a52b18fc4f14ab47627e0165126004f8c36499f7d1ffa350d5821
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1993-07-27-n3:2015-10-01'
+title: 'Version consolidée applicable au 01/10/2015 : Loi du 27 juillet 1993 portant organisation de l''administration des douanes et accises.'
+valid_from: '2015-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n3/consolide/20151001/fr'
+source_sha256: '0c5d272e083a52b18fc4f14ab47627e0165126004f8c36499f7d1ffa350d5821'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er.- — De l’administration en général

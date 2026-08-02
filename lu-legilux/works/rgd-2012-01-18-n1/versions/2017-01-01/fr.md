@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2012-01-18-n1:2017-01-01
-title: Version consolidée applicable au 01/01/2017 : Règlement grand-ducal du 18 janvier 2012 fixant les modalités du calcul et du remboursement des frais de personnel à charge de l’État pour les fonctionnaires communaux, les employés communaux et les salariés des communes qui continuent à intervenir dans l’enseignement fondamental suivant conventions établies par l’État avec les communes concernées.
-valid_from: 2017-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2012/01/18/n1/consolide/20170101/fr
-source_sha256: 0af883adb77369c35eb5c285c1df1e1cb20566ab3afa6d9d77e5d8812d698557
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2012-01-18-n1:2017-01-01'
+title: 'Version consolidée applicable au 01/01/2017 : Règlement grand-ducal du 18 janvier 2012 fixant les modalités du calcul et du remboursement des frais de personnel à charge de l’État pour les fonctionnaires communaux, les employés communaux et les salariés des communes qui continuent à intervenir dans l’enseignement fondamental suivant conventions établies par l’État avec les communes concernées.'
+valid_from: '2017-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2012/01/18/n1/consolide/20170101/fr'
+source_sha256: '0af883adb77369c35eb5c285c1df1e1cb20566ab3afa6d9d77e5d8812d698557'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

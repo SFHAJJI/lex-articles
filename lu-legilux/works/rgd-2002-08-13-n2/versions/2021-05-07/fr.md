@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2002-08-13-n2:2021-05-07
-title: Version consolidée applicable au 07/05/2021 : Règlement grand-ducal du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux.
-valid_from: 2021-05-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20210507/fr
-source_sha256: 8b7c5a16f2cef6eaaaaacc1ea6e243eef67cb180a67579d14a80fc2cb4a94972
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2002-08-13-n2:2021-05-07'
+title: 'Version consolidée applicable au 07/05/2021 : Règlement grand-ducal du 13 août 2002 portant institution d’une formation spéciale pour les fonctionnaires communaux.'
+valid_from: '2021-05-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20210507/fr'
+source_sha256: '8b7c5a16f2cef6eaaaaacc1ea6e243eef67cb180a67579d14a80fc2cb4a94972'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — La formation spéciale -

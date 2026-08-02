@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-06-19-n1:2016-09-15
-title: Version consolidée applicable au 15/09/2016 : Loi du 19 juin 2009 portant organisation de l'enseignement supérieur:\n - fixant les modalités du cycle d'études d'enseignement supérieur aboutissant à la délivrance du brevet de technicien supérieur;\n - modifiant la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue;\n - fixant les modalités d'implantation de formations d'enseignement supérieur ou de création de filiales ou d'établissements privés ou publics sur le territoire du Grand-Duché de Luxembourg;\n - abrogeant la loi du 14 août 1976 déterminant les conditions de création d'établissements privés d'enseignement supérieur.
-valid_from: 2016-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/consolide/20160915/fr
-source_sha256: c457e5c96c5ce1e8af87e500a8b3b9fb717e8cc9f7fa3579500feec110336b32
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-06-19-n1:2016-09-15'
+title: 'Version consolidée applicable au 15/09/2016 : Loi du 19 juin 2009 portant organisation de l''enseignement supérieur:\n - fixant les modalités du cycle d''études d''enseignement supérieur aboutissant à la délivrance du brevet de technicien supérieur;\n - modifiant la loi modifiée du 4 septembre 1990 portant réforme de l''enseignement secondaire technique et de la formation professionnelle continue;\n - fixant les modalités d''implantation de formations d''enseignement supérieur ou de création de filiales ou d''établissements privés ou publics sur le territoire du Grand-Duché de Luxembourg;\n - abrogeant la loi du 14 août 1976 déterminant les conditions de création d''établissements privés d''enseignement supérieur.'
+valid_from: '2016-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/06/19/n1/consolide/20160915/fr'
+source_sha256: 'c457e5c96c5ce1e8af87e500a8b3b9fb717e8cc9f7fa3579500feec110336b32'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I. — Objectifs, missions, définitions

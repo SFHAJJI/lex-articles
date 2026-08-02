@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1983-04-29-n1:2014-08-01
-title: Version consolidée applicable au 03/08/2023 : Loi du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire.
-valid_from: 2014-08-01
-valid_to: 2014-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20140801/fr
-source_sha256: 1f30c05f7830fa0ea11fcdadc43802436479ad641d7998a5c6495042eb4a1787
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1983-04-29-n1:2014-08-01'
+title: 'Version consolidée applicable au 03/08/2023 : Loi du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire.'
+valid_from: '2014-08-01'
+valid_to: '2014-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20140801/fr'
+source_sha256: '1f30c05f7830fa0ea11fcdadc43802436479ad641d7998a5c6495042eb4a1787'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions particulières à la profession de médecin

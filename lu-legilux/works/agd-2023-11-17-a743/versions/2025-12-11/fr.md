@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-2023-11-17-a743:2025-12-11
-title: Version consolidée applicable au 11/12/2025 : Arrêté grand-ducal du 17 novembre 2023 portant attribution des compétences ministérielles.
-valid_from: 2025-12-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/consolide/20251211/fr
-source_sha256: 5c05a4fe29a1668f85775d38187f801b20708a4f7a172c8440f0c76b98999172
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-2023-11-17-a743:2025-12-11'
+title: 'Version consolidée applicable au 11/12/2025 : Arrêté grand-ducal du 17 novembre 2023 portant attribution des compétences ministérielles.'
+valid_from: '2025-12-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/consolide/20251211/fr'
+source_sha256: '5c05a4fe29a1668f85775d38187f801b20708a4f7a172c8440f0c76b98999172'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-07-22-n3:2021-09-15
-title: Version consolidée applicable au 15/09/2021 : Loi du 22 juillet 2008 portant création d'un lycée à Junglinster.
-valid_from: 2021-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/07/22/n3/consolide/20210915/fr
-source_sha256: e59566205b91bb23dafcc99c7bfca248795e2326f70466c1a95d7ce8ac751290
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-07-22-n3:2021-09-15'
+title: 'Version consolidée applicable au 15/09/2021 : Loi du 22 juillet 2008 portant création d''un lycée à Junglinster.'
+valid_from: '2021-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/07/22/n3/consolide/20210915/fr'
+source_sha256: 'e59566205b91bb23dafcc99c7bfca248795e2326f70466c1a95d7ce8ac751290'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

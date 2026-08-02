@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-11-30-a1010:2018-09-01
-title: Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 30 novembre 2017 arrêtant la nomenclature des actes et services des laboratoires d’analyses médicales et de biologie clinique pris en charge par l'assurance maladie.
-valid_from: 2018-09-01
-valid_to: 2019-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/11/30/a1010/consolide/20180901/fr
-source_sha256: 8c0147733408a6f925fdff7ea4e456609223dc53197fd5ad94f54bf03ae1f109
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-11-30-a1010:2018-09-01'
+title: 'Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 30 novembre 2017 arrêtant la nomenclature des actes et services des laboratoires d’analyses médicales et de biologie clinique pris en charge par l''assurance maladie.'
+valid_from: '2018-09-01'
+valid_to: '2019-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/11/30/a1010/consolide/20180901/fr'
+source_sha256: '8c0147733408a6f925fdff7ea4e456609223dc53197fd5ad94f54bf03ae1f109'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

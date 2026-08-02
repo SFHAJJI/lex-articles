@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-08-01-a681:2024-12-15
-title: Loi du 1er août 2018 portant fixation des conditions et modalités d’un compte épargne-temps dans la Fonction publique.
-valid_from: 2024-12-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a681/consolide/20241215/fr
-source_sha256: e70571f0f8bb5ba5c1739042eddcf6b984613614508bbb39fcfa46fde81ccb1c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-08-01-a681:2024-12-15'
+title: 'Loi du 1er août 2018 portant fixation des conditions et modalités d’un compte épargne-temps dans la Fonction publique.'
+valid_from: '2024-12-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a681/consolide/20241215/fr'
+source_sha256: 'e70571f0f8bb5ba5c1739042eddcf6b984613614508bbb39fcfa46fde81ccb1c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Champ d’application**

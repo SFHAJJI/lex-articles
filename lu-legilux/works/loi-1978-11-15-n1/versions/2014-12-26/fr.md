@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1978-11-15-n1:2014-12-26
-title: Version consolidée applicable au 04/08/2025 : Loi du 15 novembre 1978 relative à l'information sexuelle, à la prévention de l'avortement clandestin et à la réglementation de l'interruption de la grossesse.
-valid_from: 2014-12-26
-valid_to: 2025-08-03
-source: https://legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/consolide/20141226/fr
-source_sha256: 0db02cec73fc9a494cf1713d7127c689ee668230b65d45c1bccf694ae0ee5d05
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1978-11-15-n1:2014-12-26'
+title: 'Version consolidée applicable au 04/08/2025 : Loi du 15 novembre 1978 relative à l''information sexuelle, à la prévention de l''avortement clandestin et à la réglementation de l''interruption de la grossesse.'
+valid_from: '2014-12-26'
+valid_to: '2025-08-03'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/consolide/20141226/fr'
+source_sha256: '0db02cec73fc9a494cf1713d7127c689ee668230b65d45c1bccf694ae0ee5d05'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

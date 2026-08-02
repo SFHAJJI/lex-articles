@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-11-04-a917:2022-08-27
-title: Version consolidée applicable au 27/08/2022 : Règlement grand-ducal du 4 novembre 2020 relatif à la composition et au fonctionnement de la commission consultative d’évaluation de l’intérêt supérieur des mineurs non accompagnés prévue à l’article 103 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
-valid_from: 2022-08-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/11/04/a917/consolide/20220827/fr
-source_sha256: af01b4ca31be52e303fdf09a176c613e39b6ad59531cc90c92e263ece76b9f94
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-11-04-a917:2022-08-27'
+title: 'Version consolidée applicable au 27/08/2022 : Règlement grand-ducal du 4 novembre 2020 relatif à la composition et au fonctionnement de la commission consultative d’évaluation de l’intérêt supérieur des mineurs non accompagnés prévue à l’article 103 de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.'
+valid_from: '2022-08-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/11/04/a917/consolide/20220827/fr'
+source_sha256: 'af01b4ca31be52e303fdf09a176c613e39b6ad59531cc90c92e263ece76b9f94'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

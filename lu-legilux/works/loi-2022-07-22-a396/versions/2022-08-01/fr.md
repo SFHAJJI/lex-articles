@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-07-22-a396:2022-08-01
-title: Version consolidée applicable au 01/08/2022 : Loi du 22 juillet 2022 relative à une subvention de loyer.
-valid_from: 2022-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/07/22/a396/consolide/20220801/fr
-source_sha256: 8ce84770876fc729620927992fd16f91b57c281d99e866a2f6f7078d8cd227d4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-07-22-a396:2022-08-01'
+title: 'Version consolidée applicable au 01/08/2022 : Loi du 22 juillet 2022 relative à une subvention de loyer.'
+valid_from: '2022-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/07/22/a396/consolide/20220801/fr'
+source_sha256: '8ce84770876fc729620927992fd16f91b57c281d99e866a2f6f7078d8cd227d4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Définitions

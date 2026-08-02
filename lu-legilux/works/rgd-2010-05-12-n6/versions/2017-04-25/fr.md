@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-05-12-n6:2017-04-25
-title: Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 12 mai 2010 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employés des administrations de l'Etat et des établissements publics.
-valid_from: 2017-04-25
-valid_to: 2025-08-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n6/consolide/20170425/fr
-source_sha256: 108a47ca19d3ced99c5c44ddf7689ab78ac487a9616caf089ab35b1f86b1bf6e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-05-12-n6:2017-04-25'
+title: 'Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 12 mai 2010 fixant les modalités du contrôle de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employés des administrations de l''Etat et des établissements publics.'
+valid_from: '2017-04-25'
+valid_to: '2025-08-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n6/consolide/20170425/fr'
+source_sha256: '108a47ca19d3ced99c5c44ddf7689ab78ac487a9616caf089ab35b1f86b1bf6e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-08-14-a792:2020-12-12
-title: Version consolidée applicable au 12/12/2020 : Loi du 14 août 2018 autorisant le Gouvernement à acquérir, lancer et exploiter un satellite et son segment sol destinés à l’observation de la Terre.
-valid_from: 2020-12-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/14/a792/consolide/20201212/fr
-source_sha256: d2f8fdb6ec14f1f846bf3f87893c60e14bd16d70bc86044453646d2f671e2b7f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-08-14-a792:2020-12-12'
+title: 'Version consolidée applicable au 12/12/2020 : Loi du 14 août 2018 autorisant le Gouvernement à acquérir, lancer et exploiter un satellite et son segment sol destinés à l’observation de la Terre.'
+valid_from: '2020-12-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/14/a792/consolide/20201212/fr'
+source_sha256: 'd2f8fdb6ec14f1f846bf3f87893c60e14bd16d70bc86044453646d2f671e2b7f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

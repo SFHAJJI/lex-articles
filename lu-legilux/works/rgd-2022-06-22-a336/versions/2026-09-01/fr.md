@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-06-22-a336:2026-09-01
-title: Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 22 juin 2022 fixant :\n1° les conditions et les modalités à remplir par les écoles de musique régionales pour assurer l’enseignement musical de la division moyenne spécialisée ;\n2° les modalités d’examen ainsi que les modalités d’obtention et de délivrance des diplômes de la division moyenne spécialisée pour les écoles de musique régionales.\n
-valid_from: 2026-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/06/22/a336/consolide/20260901/fr
-source_sha256: 40830baa8625903edaa0858bc5807a9698416dc7fa9df4eb27f15e6aeb61b72d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-06-22-a336:2026-09-01'
+title: 'Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 22 juin 2022 fixant :\n1° les conditions et les modalités à remplir par les écoles de musique régionales pour assurer l’enseignement musical de la division moyenne spécialisée ;\n2° les modalités d’examen ainsi que les modalités d’obtention et de délivrance des diplômes de la division moyenne spécialisée pour les écoles de musique régionales.\n'
+valid_from: '2026-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/06/22/a336/consolide/20260901/fr'
+source_sha256: '40830baa8625903edaa0858bc5807a9698416dc7fa9df4eb27f15e6aeb61b72d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

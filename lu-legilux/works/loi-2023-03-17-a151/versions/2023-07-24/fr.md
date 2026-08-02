@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-03-17-a151:2023-07-24
-title: Version consolidée applicable au 24/07/2023 : Loi du 17 mars 2023 instituant une contribution étatique visant à limiter la hausse des prix d’approvisionnement en chaleur pour certains clients raccordés à un réseau de chauffage urbain.
-valid_from: 2023-07-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/03/17/a151/consolide/20230724/fr
-source_sha256: 879f5cece94a2f483a6ee15eeb59fe6d80d869482e45c336222c9f14f5772e08
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-03-17-a151:2023-07-24'
+title: 'Version consolidée applicable au 24/07/2023 : Loi du 17 mars 2023 instituant une contribution étatique visant à limiter la hausse des prix d’approvisionnement en chaleur pour certains clients raccordés à un réseau de chauffage urbain.'
+valid_from: '2023-07-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/03/17/a151/consolide/20230724/fr'
+source_sha256: '879f5cece94a2f483a6ee15eeb59fe6d80d869482e45c336222c9f14f5772e08'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

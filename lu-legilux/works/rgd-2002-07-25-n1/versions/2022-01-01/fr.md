@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2002-07-25-n1:2022-01-01
-title: Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 25 juillet 2002 portant exécution de l’article 111bis, alinéa 1er de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
-valid_from: 2022-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/consolide/20220101/fr
-source_sha256: 6d7d586074d90cffa803abe0d1114aa14a54c5987390450e8d2a3533189c77c3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2002-07-25-n1:2022-01-01'
+title: 'Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 25 juillet 2002 portant exécution de l’article 111bis, alinéa 1er de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.'
+valid_from: '2022-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/consolide/20220101/fr'
+source_sha256: '6d7d586074d90cffa803abe0d1114aa14a54c5987390450e8d2a3533189c77c3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

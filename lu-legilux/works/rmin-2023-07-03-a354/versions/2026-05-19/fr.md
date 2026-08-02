@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-2023-07-03-a354:2026-05-19
-title: Version consolidée applicable au 19/05/2026 : Règlement ministériel du 3 juillet 2023 portant publication du plan des zones de sûreté aéroportuaires de l’aéroport de Luxembourg.
-valid_from: 2026-05-19
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/consolide/20260519/fr
-source_sha256: e1b5089900d599c66b8529b5331738f9cce6de1a3cf7f9102d300d5388d6887f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-2023-07-03-a354:2026-05-19'
+title: 'Version consolidée applicable au 19/05/2026 : Règlement ministériel du 3 juillet 2023 portant publication du plan des zones de sûreté aéroportuaires de l’aéroport de Luxembourg.'
+valid_from: '2026-05-19'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/consolide/20260519/fr'
+source_sha256: 'e1b5089900d599c66b8529b5331738f9cce6de1a3cf7f9102d300d5388d6887f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-11-02-a763:2023-07-28
-title: Version consolidée applicable au 28/07/2023 : Loi du 2 novembre 2021 relative à un contrôle de proportionnalité avant l’adoption d’une nouvelle réglementation de professions.
-valid_from: 2023-07-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/11/02/a763/consolide/20230728/fr
-source_sha256: e3d48c4854b23aaabbe39dfddc9c95292c8fcbf60e744569679fe341d46425f0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-11-02-a763:2023-07-28'
+title: 'Version consolidée applicable au 28/07/2023 : Loi du 2 novembre 2021 relative à un contrôle de proportionnalité avant l’adoption d’une nouvelle réglementation de professions.'
+valid_from: '2023-07-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/11/02/a763/consolide/20230728/fr'
+source_sha256: 'e3d48c4854b23aaabbe39dfddc9c95292c8fcbf60e744569679fe341d46425f0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

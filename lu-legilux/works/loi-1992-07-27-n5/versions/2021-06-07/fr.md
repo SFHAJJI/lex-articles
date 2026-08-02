@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1992-07-27-n5:2021-06-07
-title: Version consolidée applicable au 07/06/2021 : Loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d'organisations internationales.
-valid_from: 2021-06-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20210607/fr
-source_sha256: 069704356c5f192bde88a30d9dc83892e0b188f9bda4a6c780a2bdb523900652
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1992-07-27-n5:2021-06-07'
+title: 'Version consolidée applicable au 07/06/2021 : Loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d''organisations internationales.'
+valid_from: '2021-06-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20210607/fr'
+source_sha256: '069704356c5f192bde88a30d9dc83892e0b188f9bda4a6c780a2bdb523900652'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I. ** — **Dispositions générales**

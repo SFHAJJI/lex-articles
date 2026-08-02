@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1996-08-11-n12:2009-03-23
-title: Version consolidée applicable au 23/03/2009 : Règlement grand-ducal du 11 août 1996 relatif aux dispositifs médicaux.
-valid_from: 2009-03-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1996/08/11/n12/consolide/20090323/fr
-source_sha256: 5751c39ef20b49ced1333ea45f93d48f15bfd9c65b121ae6fde37c05b191e22e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1996-08-11-n12:2009-03-23'
+title: 'Version consolidée applicable au 23/03/2009 : Règlement grand-ducal du 11 août 1996 relatif aux dispositifs médicaux.'
+valid_from: '2009-03-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1996/08/11/n12/consolide/20090323/fr'
+source_sha256: '5751c39ef20b49ced1333ea45f93d48f15bfd9c65b121ae6fde37c05b191e22e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

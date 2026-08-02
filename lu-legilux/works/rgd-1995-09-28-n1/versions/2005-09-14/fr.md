@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1995-09-28-n1:2005-09-14
-title: Version consolidée applicable au 14/09/2005 : Règlement grand-ducal du 28 septembre 1995 concernant les modalités de recrutement et de rémunération ainsi que l'exécution des tâches des demandeurs d'emploi appartenant au pool de personnes chargées d'assister les directeurs des établissements d'enseignement postprimaire dans la surveillance et les domaines périscolaire et administratif.
-valid_from: 2005-09-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1995/09/28/n1/consolide/20050914/fr
-source_sha256: 03333de393725c827c0917a643b8cf9b22ddc7d28a0ec8c971b1595efe2692f9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1995-09-28-n1:2005-09-14'
+title: 'Version consolidée applicable au 14/09/2005 : Règlement grand-ducal du 28 septembre 1995 concernant les modalités de recrutement et de rémunération ainsi que l''exécution des tâches des demandeurs d''emploi appartenant au pool de personnes chargées d''assister les directeurs des établissements d''enseignement postprimaire dans la surveillance et les domaines périscolaire et administratif.'
+valid_from: '2005-09-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1995/09/28/n1/consolide/20050914/fr'
+source_sha256: '03333de393725c827c0917a643b8cf9b22ddc7d28a0ec8c971b1595efe2692f9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

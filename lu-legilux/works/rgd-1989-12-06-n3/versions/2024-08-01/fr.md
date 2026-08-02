@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1989-12-06-n3:2024-08-01
-title: Version consolidée applicable au 01/08/2024 : Règlement grand-ducal modifié du 6 décembre 1989 concernant le congé politique des bourgmestres, échevins et conseillers communaux.
-valid_from: 2024-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20240801/fr
-source_sha256: 5004951897d45f93a3fb7e2996d0ecdcd2263df5a91f672b34a096b38c978709
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1989-12-06-n3:2024-08-01'
+title: 'Version consolidée applicable au 01/08/2024 : Règlement grand-ducal modifié du 6 décembre 1989 concernant le congé politique des bourgmestres, échevins et conseillers communaux.'
+valid_from: '2024-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20240801/fr'
+source_sha256: '5004951897d45f93a3fb7e2996d0ecdcd2263df5a91f672b34a096b38c978709'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

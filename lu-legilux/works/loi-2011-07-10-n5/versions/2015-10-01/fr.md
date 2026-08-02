@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-07-10-n5:2015-10-01
-title: Version consolidée applicable au 31/07/2022 : Loi du 10 juillet 2011 portant organisation de l’Institut national de la statistique et des études économiques et modifiant la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
-valid_from: 2015-10-01
-valid_to: 2022-07-30
-source: https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n5/consolide/20151001/fr
-source_sha256: f50f3e44d750aee3b06e12d8b26b4a8171a86261dba9882adb61b641c120b7ad
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-07-10-n5:2015-10-01'
+title: 'Version consolidée applicable au 31/07/2022 : Loi du 10 juillet 2011 portant organisation de l’Institut national de la statistique et des études économiques et modifiant la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.'
+valid_from: '2015-10-01'
+valid_to: '2022-07-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n5/consolide/20151001/fr'
+source_sha256: 'f50f3e44d750aee3b06e12d8b26b4a8171a86261dba9882adb61b641c120b7ad'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er*****.*** — ***Attributions***

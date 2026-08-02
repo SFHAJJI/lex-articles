@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1975-05-16-n1:1985-05-13
-title: Version consolidée applicable au 01/03/2024 : Loi du 16 mai 1975 portant statut de la copropriété des immeubles bâtis.
-valid_from: 1985-05-13
-valid_to: 2017-04-07
-source: https://legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/consolide/19850513/fr
-source_sha256: 7db50d6f9a0e6a0546d566a666dac324377e2ac9fb28c96bb7ba656fcb099d9e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1975-05-16-n1:1985-05-13'
+title: 'Version consolidée applicable au 01/03/2024 : Loi du 16 mai 1975 portant statut de la copropriété des immeubles bâtis.'
+valid_from: '1985-05-13'
+valid_to: '2017-04-07'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/consolide/19850513/fr'
+source_sha256: '7db50d6f9a0e6a0546d566a666dac324377e2ac9fb28c96bb7ba656fcb099d9e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

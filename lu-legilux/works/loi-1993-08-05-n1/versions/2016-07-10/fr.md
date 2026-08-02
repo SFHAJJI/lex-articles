@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1993-08-05-n1:2016-07-10
-title: Version consolidée applicable au 10/07/2016 : Loi du 5 août 1993 concernant l'utilisation rationnelle de l'énergie.
-valid_from: 2016-07-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1993/08/05/n1/consolide/20160710/fr
-source_sha256: 4dbf30237877ce9f259689fb1df251d709b0ff738b5620d218daa2afcda95dab
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1993-08-05-n1:2016-07-10'
+title: 'Version consolidée applicable au 10/07/2016 : Loi du 5 août 1993 concernant l''utilisation rationnelle de l''énergie.'
+valid_from: '2016-07-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1993/08/05/n1/consolide/20160710/fr'
+source_sha256: '4dbf30237877ce9f259689fb1df251d709b0ff738b5620d218daa2afcda95dab'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre I — Champ d'application

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-08-31-a816:2019-09-16
-title: Version consolidée applicable au 16/09/2019 : Règlement grand-ducal du 31 août 2018 \n1° créant la section gestion de l’hospitalité, la section architecture, design et développement durable et la section sciences environnementales ;\n2° fixant les grilles horaires, les coefficients des disciplines et des disciplines combinées, ainsi que les disciplines fondamentales de l’enseignement secondaire général.
-valid_from: 2019-09-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/consolide/20190916/fr
-source_sha256: 30277f6ce9a4e14a9d036bae69e8a4f89f24533a17c82c107dac2a3376681d0c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-08-31-a816:2019-09-16'
+title: 'Version consolidée applicable au 16/09/2019 : Règlement grand-ducal du 31 août 2018 \n1° créant la section gestion de l’hospitalité, la section architecture, design et développement durable et la section sciences environnementales ;\n2° fixant les grilles horaires, les coefficients des disciplines et des disciplines combinées, ainsi que les disciplines fondamentales de l’enseignement secondaire général.'
+valid_from: '2019-09-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/consolide/20190916/fr'
+source_sha256: '30277f6ce9a4e14a9d036bae69e8a4f89f24533a17c82c107dac2a3376681d0c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

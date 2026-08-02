@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1971-07-07-n2:2023-11-01
-title: Version consolidée applicable au 01/11/2023 : Loi modifiée du 7 juillet 1971 portant, en matière répressive et administrative, institution d’experts, de traducteurs et d’interprètes, de conciliateurs d’entreprise et mandataires de justice assermentés et complétant les dispositions légales relatives à l’assermentation des experts, traducteurs et interprètes.
-valid_from: 2023-11-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20231101/fr
-source_sha256: 44c2c585cffacf77e4818804aac7d6e3d619c27b97931d695ddb4286996882b7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1971-07-07-n2:2023-11-01'
+title: 'Version consolidée applicable au 01/11/2023 : Loi modifiée du 7 juillet 1971 portant, en matière répressive et administrative, institution d’experts, de traducteurs et d’interprètes, de conciliateurs d’entreprise et mandataires de justice assermentés et complétant les dispositions légales relatives à l’assermentation des experts, traducteurs et interprètes.'
+valid_from: '2023-11-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20231101/fr'
+source_sha256: '44c2c585cffacf77e4818804aac7d6e3d619c27b97931d695ddb4286996882b7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1****er** — **Des experts, des traducteurs et des interprètes assermentés**

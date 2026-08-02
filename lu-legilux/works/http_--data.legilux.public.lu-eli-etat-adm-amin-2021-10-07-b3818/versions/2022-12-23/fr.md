@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-amin-2021-10-07-b3818:2022-12-23
-title: Version consolidée applicable au 23/12/2022 : Arrêté ministériel du 7 octobre 2021 portant nomination des membres de la Commission « Aide à la presse ».
-valid_from: 2022-12-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/adm/amin/2021/10/07/b3818/consolide/20221223/fr
-source_sha256: 9a23585aa3e5feff2798bfa1f4557a126c7a4308bcebd253cb5fe3581dfddf94
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-amin-2021-10-07-b3818:2022-12-23'
+title: 'Version consolidée applicable au 23/12/2022 : Arrêté ministériel du 7 octobre 2021 portant nomination des membres de la Commission « Aide à la presse ».'
+valid_from: '2022-12-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/adm/amin/2021/10/07/b3818/consolide/20221223/fr'
+source_sha256: '9a23585aa3e5feff2798bfa1f4557a126c7a4308bcebd253cb5fe3581dfddf94'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

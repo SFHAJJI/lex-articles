@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-07-19-n1:2025-07-22
-title: Version consolidée applicable au 22/07/2025 : Loi du 19 juillet 2004 concernant l'aménagement communal et le développement urbain.
-valid_from: 2025-07-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/consolide/20250722/fr
-source_sha256: 901625d1f0b9cc2034da3b7dec0ea89a62fa716a97b2407c1a8108c1a3ed6dfe
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-07-19-n1:2025-07-22'
+title: 'Version consolidée applicable au 22/07/2025 : Loi du 19 juillet 2004 concernant l''aménagement communal et le développement urbain.'
+valid_from: '2025-07-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/consolide/20250722/fr'
+source_sha256: '901625d1f0b9cc2034da3b7dec0ea89a62fa716a97b2407c1a8108c1a3ed6dfe'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre 1er — Définitions et objectifs

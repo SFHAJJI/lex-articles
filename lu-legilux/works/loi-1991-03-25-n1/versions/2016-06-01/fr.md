@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1991-03-25-n1:2016-06-01
-title: Version consolidée applicable au 01/06/2016 : Loi du 25 mars 1991 sur les groupements d'intérêt économique.
-valid_from: 2016-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/20160601/fr
-source_sha256: cf8ddccb9cd3c23f2e5ca81d79a45e6c6ee20918ea9e25a335918301ab269286
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1991-03-25-n1:2016-06-01'
+title: 'Version consolidée applicable au 01/06/2016 : Loi du 25 mars 1991 sur les groupements d''intérêt économique.'
+valid_from: '2016-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/20160601/fr'
+source_sha256: 'cf8ddccb9cd3c23f2e5ca81d79a45e6c6ee20918ea9e25a335918301ab269286'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Section I - **Dispositions générales**

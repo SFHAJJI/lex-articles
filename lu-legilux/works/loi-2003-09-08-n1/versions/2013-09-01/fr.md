@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2003-09-08-n1:2013-09-01
-title: Loi sur la violence domestique.
-valid_from: 2013-09-01
-valid_to: 2018-08-02
-source: https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/consolide/20130901/fr
-source_sha256: bc5258eb91473863a39c1c95398df933ea376de93678c9351b7fd316eac62cb9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2003-09-08-n1:2013-09-01'
+title: 'Loi sur la violence domestique.'
+valid_from: '2013-09-01'
+valid_to: '2018-08-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/consolide/20130901/fr'
+source_sha256: 'bc5258eb91473863a39c1c95398df933ea376de93678c9351b7fd316eac62cb9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_ier"></a>

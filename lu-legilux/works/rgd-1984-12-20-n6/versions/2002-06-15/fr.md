@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1984-12-20-n6:2002-06-15
-title: Version consolidée applicable au 15/06/2002 : Règlement grand-ducal du 20 décembre 1984 fixant les modalités relatives à l'administration du patrimoine des caisses de pension.
-valid_from: 2002-06-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1984/12/20/n6/consolide/20020615/fr
-source_sha256: 8beeb70698dd07a5ce8231c3c673eb1a37484eefd2ef7de0b31b619f86380a6f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1984-12-20-n6:2002-06-15'
+title: 'Version consolidée applicable au 15/06/2002 : Règlement grand-ducal du 20 décembre 1984 fixant les modalités relatives à l''administration du patrimoine des caisses de pension.'
+valid_from: '2002-06-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1984/12/20/n6/consolide/20020615/fr'
+source_sha256: '8beeb70698dd07a5ce8231c3c673eb1a37484eefd2ef7de0b31b619f86380a6f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-12-19-n10:2025-01-01
-title: Version consolidée applicable au 01/01/2025 : Loi du 19 décembre 2014 relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique.
-valid_from: 2025-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/20250101/fr
-source_sha256: 89b4a862bf5edfb10ce2af99b6ff4d6b2efa9be314f9fd3083d1a8930ee6ca8d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-12-19-n10:2025-01-01'
+title: 'Version consolidée applicable au 01/01/2025 : Loi du 19 décembre 2014 relative 1) aux mesures de soutien pour les artistes professionnels indépendants et pour les intermittents du spectacle 2) à la promotion de la création artistique.'
+valid_from: '2025-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/20250101/fr'
+source_sha256: '89b4a862bf5edfb10ce2af99b6ff4d6b2efa9be314f9fd3083d1a8930ee6ca8d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier: — *Dispositions préliminaires*

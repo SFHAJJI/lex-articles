@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-08-07-a592:2023-09-23
-title: Version consolidée applicable au 13/12/2024 : Loi du 7 août 2023 sur les associations sans but lucratif et les fondations.
-valid_from: 2023-09-23
-valid_to: 2024-12-12
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20230923/fr
-source_sha256: 62ee31b959b875f10be2f5bf9496f75bc12515a884104717cf9a542c835772b5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-08-07-a592:2023-09-23'
+title: 'Version consolidée applicable au 13/12/2024 : Loi du 7 août 2023 sur les associations sans but lucratif et les fondations.'
+valid_from: '2023-09-23'
+valid_to: '2024-12-12'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20230923/fr'
+source_sha256: '62ee31b959b875f10be2f5bf9496f75bc12515a884104717cf9a542c835772b5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE Ier — Des associations sans but lucratif

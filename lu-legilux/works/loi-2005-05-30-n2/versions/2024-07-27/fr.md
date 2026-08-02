@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-05-30-n2:2024-07-27
-title: Version consolidée applicable au 27/07/2024 : Loi du 30 mai 2005 portant organisation de la gestion des ondes radioélectriques.
-valid_from: 2024-07-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n2/consolide/20240727/fr
-source_sha256: 463c8af8ad74834a80206af0ef839b97be91d4dcbbb99d92a5ce43a0b41a3be6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-05-30-n2:2024-07-27'
+title: 'Version consolidée applicable au 27/07/2024 : Loi du 30 mai 2005 portant organisation de la gestion des ondes radioélectriques.'
+valid_from: '2024-07-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n2/consolide/20240727/fr'
+source_sha256: '463c8af8ad74834a80206af0ef839b97be91d4dcbbb99d92a5ce43a0b41a3be6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

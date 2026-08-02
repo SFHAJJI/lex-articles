@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-08-05-n4:2024-11-22
-title: Version consolidée applicable au 22/11/2024 : Règlement grand-ducal du 5 août 2015 portant organisation de la formation menant au diplôme de fin d'études secondaires techniques dans le cadre de la formation des adultes d'éducateur en alternance.
-valid_from: 2024-11-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/08/05/n4/consolide/20241122/fr
-source_sha256: 46d81c7072632174ceb823181e8dbd5bfdc0200541b217654b9949857d8c39ef
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-08-05-n4:2024-11-22'
+title: 'Version consolidée applicable au 22/11/2024 : Règlement grand-ducal du 5 août 2015 portant organisation de la formation menant au diplôme de fin d''études secondaires techniques dans le cadre de la formation des adultes d''éducateur en alternance.'
+valid_from: '2024-11-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/08/05/n4/consolide/20241122/fr'
+source_sha256: '46d81c7072632174ceb823181e8dbd5bfdc0200541b217654b9949857d8c39ef'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Champ d’application.

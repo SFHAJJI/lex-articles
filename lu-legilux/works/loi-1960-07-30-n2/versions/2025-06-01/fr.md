@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1960-07-30-n2:2025-06-01
-title: Version consolidée applicable au 01/06/2025 : Loi du 30 juillet 1960 concernant la création d'un Fonds National de Solidarité.
-valid_from: 2025-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1960/07/30/n2/consolide/20250601/fr
-source_sha256: 3e22dcc58a4a4b5bb6cbcfc160a55606ff96794312dc72a87ad6d0f7bd0d3f05
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1960-07-30-n2:2025-06-01'
+title: 'Version consolidée applicable au 01/06/2025 : Loi du 30 juillet 1960 concernant la création d''un Fonds National de Solidarité.'
+valid_from: '2025-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1960/07/30/n2/consolide/20250601/fr'
+source_sha256: '3e22dcc58a4a4b5bb6cbcfc160a55606ff96794312dc72a87ad6d0f7bd0d3f05'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier.- — Institution, but et nature du Fonds

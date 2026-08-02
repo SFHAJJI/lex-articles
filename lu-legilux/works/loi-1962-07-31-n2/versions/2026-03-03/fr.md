@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1962-07-31-n2:2026-03-03
-title: Version consolidée applicable au 03/03/2026 : Loi du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable au Grand-Duché de Luxembourg à partir du réservoir d’Esch-sur-Sûre.
-valid_from: 2026-03-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/consolide/20260303/fr
-source_sha256: 3d3c84c8aae2abe99df46f1fdb6df48d4c5d8a494e73745b472e5cd8e7240ae3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1962-07-31-n2:2026-03-03'
+title: 'Version consolidée applicable au 03/03/2026 : Loi du 31 juillet 1962 ayant pour objet le renforcement de l’alimentation en eau potable au Grand-Duché de Luxembourg à partir du réservoir d’Esch-sur-Sûre.'
+valid_from: '2026-03-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/consolide/20260303/fr'
+source_sha256: '3d3c84c8aae2abe99df46f1fdb6df48d4c5d8a494e73745b472e5cd8e7240ae3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

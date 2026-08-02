@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-01-10-a19:2024-02-03
-title: Version rectifiée applicable au 03/02/2024 : Règlement grand-ducal du 10 janvier 2024 relatif aux techniques autorisées pour l’accomplissement d’actes réalisés par les fonctionnaires du groupe de traitement A2 et B1, sous-groupes militaires, dans la fonction d’infirmier militaire gradué, d’infirmier militaire et d’infirmier militaire anesthésiste de l’Armée luxembourgeoise.
-valid_from: 2024-02-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/01/10/a19/consolide/20240203/fr
-source_sha256: 64ce9ad795fbea3e0af06be4da2d5b1c4af7d9f2d0de586a195350c80c2a3025
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-01-10-a19:2024-02-03'
+title: 'Version rectifiée applicable au 03/02/2024 : Règlement grand-ducal du 10 janvier 2024 relatif aux techniques autorisées pour l’accomplissement d’actes réalisés par les fonctionnaires du groupe de traitement A2 et B1, sous-groupes militaires, dans la fonction d’infirmier militaire gradué, d’infirmier militaire et d’infirmier militaire anesthésiste de l’Armée luxembourgeoise.'
+valid_from: '2024-02-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/01/10/a19/consolide/20240203/fr'
+source_sha256: '64ce9ad795fbea3e0af06be4da2d5b1c4af7d9f2d0de586a195350c80c2a3025'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

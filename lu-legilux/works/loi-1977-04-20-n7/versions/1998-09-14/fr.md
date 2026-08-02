@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1977-04-20-n7:1998-09-14
-title: Version consolidée applicable au 22/08/2023 : Loi du 20 avril 1977 relative à l’exploitation des jeux de hasard et des paris relatifs aux épreuves sportives.
-valid_from: 1998-09-14
-valid_to: 2001-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/19980914/fr
-source_sha256: 7f584ece51ce4b0a0d49dd880ceebd48c40308e9dec7469bb8281775f222e8c0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1977-04-20-n7:1998-09-14'
+title: 'Version consolidée applicable au 22/08/2023 : Loi du 20 avril 1977 relative à l’exploitation des jeux de hasard et des paris relatifs aux épreuves sportives.'
+valid_from: '1998-09-14'
+valid_to: '2001-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/19980914/fr'
+source_sha256: '7f584ece51ce4b0a0d49dd880ceebd48c40308e9dec7469bb8281775f222e8c0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

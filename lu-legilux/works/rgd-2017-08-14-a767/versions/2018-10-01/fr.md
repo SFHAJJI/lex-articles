@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-08-14-a767:2018-10-01
-title: Version consolidée applicable au 01/07/2023 : Règlement grand-ducal du 14 août 2017 déterminant pour les fonctionnaires et employés communaux : I. les cas d’exception ou de tempérament aux conditions du service provisoire ; II. la bonification d’ancienneté de service pour la fixation du traitement initial ; III. la procédure d’attribution d’une prime pour les détenteurs d’un doctorat.
-valid_from: 2018-10-01
-valid_to: 2023-06-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/consolide/20181001/fr
-source_sha256: f6f44461976f51015c0651fe00cac2a46509c0da21c92afeb175e1ad62853412
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-08-14-a767:2018-10-01'
+title: 'Version consolidée applicable au 01/07/2023 : Règlement grand-ducal du 14 août 2017 déterminant pour les fonctionnaires et employés communaux : I. les cas d’exception ou de tempérament aux conditions du service provisoire ; II. la bonification d’ancienneté de service pour la fixation du traitement initial ; III. la procédure d’attribution d’une prime pour les détenteurs d’un doctorat.'
+valid_from: '2018-10-01'
+valid_to: '2023-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/consolide/20181001/fr'
+source_sha256: 'f6f44461976f51015c0651fe00cac2a46509c0da21c92afeb175e1ad62853412'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er. ** — ** Champ d’application**

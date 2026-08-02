@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1993-03-17-n3:2010-12-28
-title: Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 fixant les modalités selon lesquelles le Gouvernement accorde les concessions pour services luxembourgeois par câble, ainsi que les règles générales gouvernant ces concessions et les cahiers de charges qui leur sont assortis.
-valid_from: 2010-12-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n3/consolide/20101228/fr
-source_sha256: 83c801b858b4e2a66cd42ea6d507bf9d551b4c5caeffce6230ee21d01224671a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1993-03-17-n3:2010-12-28'
+title: 'Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 fixant les modalités selon lesquelles le Gouvernement accorde les concessions pour services luxembourgeois par câble, ainsi que les règles générales gouvernant ces concessions et les cahiers de charges qui leur sont assortis.'
+valid_from: '2010-12-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n3/consolide/20101228/fr'
+source_sha256: '83c801b858b4e2a66cd42ea6d507bf9d551b4c5caeffce6230ee21d01224671a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

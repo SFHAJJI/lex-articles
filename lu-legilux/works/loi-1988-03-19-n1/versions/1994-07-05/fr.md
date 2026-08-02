@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1988-03-19-n1:1994-07-05
-title: Version consolidée applicable au 01/01/2025 : Loi du 19 mars 1988 concernant la sécurité dans les administrations et services de l'Etat, dans les établissements publics et dans les écoles.
-valid_from: 1994-07-05
-valid_to: 2024-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/consolide/19940705/fr
-source_sha256: 4e701e7fef5a3072c00c73290a0c251990d208ed65eab00139f1c28763222f15
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1988-03-19-n1:1994-07-05'
+title: 'Version consolidée applicable au 01/01/2025 : Loi du 19 mars 1988 concernant la sécurité dans les administrations et services de l''Etat, dans les établissements publics et dans les écoles.'
+valid_from: '1994-07-05'
+valid_to: '2024-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/consolide/19940705/fr'
+source_sha256: '4e701e7fef5a3072c00c73290a0c251990d208ed65eab00139f1c28763222f15'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

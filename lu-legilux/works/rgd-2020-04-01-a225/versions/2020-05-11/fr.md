@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-04-01-a225:2020-05-11
-title: Version consolidée applicable au 11/05/2020 : Règlement grand-ducal du 1er avril 2020 portant dérogation à l’article L. 585-6 du Code du travail.
-valid_from: 2020-05-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/04/01/a225/consolide/20200511/fr
-source_sha256: 3bf5e904897e14fc3f3abf4ac457adea1ab0c3631ebe49392e51972d3e98bd99
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-04-01-a225:2020-05-11'
+title: 'Version consolidée applicable au 11/05/2020 : Règlement grand-ducal du 1er avril 2020 portant dérogation à l’article L. 585-6 du Code du travail.'
+valid_from: '2020-05-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/04/01/a225/consolide/20200511/fr'
+source_sha256: '3bf5e904897e14fc3f3abf4ac457adea1ab0c3631ebe49392e51972d3e98bd99'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

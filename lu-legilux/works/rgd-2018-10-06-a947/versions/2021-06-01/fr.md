@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-10-06-a947:2021-06-01
-title: Version consolidée applicable au 16/12/2023 : Règlement grand-ducal du 6 octobre 2018 concernant le statut du personnel de la Caisse pour l’avenir des enfants.
-valid_from: 2021-06-01
-valid_to: 2023-12-15
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/10/06/a947/consolide/20210601/fr
-source_sha256: 5759b9fab171602ecf4bdaf5a979ccc3a176b98ca1c8d61ae54eb3175c63f6c5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-10-06-a947:2021-06-01'
+title: 'Version consolidée applicable au 16/12/2023 : Règlement grand-ducal du 6 octobre 2018 concernant le statut du personnel de la Caisse pour l’avenir des enfants.'
+valid_from: '2021-06-01'
+valid_to: '2023-12-15'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/10/06/a947/consolide/20210601/fr'
+source_sha256: '5759b9fab171602ecf4bdaf5a979ccc3a176b98ca1c8d61ae54eb3175c63f6c5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Catégories du personnel**

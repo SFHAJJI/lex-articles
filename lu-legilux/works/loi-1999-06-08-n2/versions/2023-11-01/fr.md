@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-06-08-n2:2023-11-01
-title: Loi du 8 juin 1999 sur le Budget, la Comptabilité et la Trésorerie de l'État.
-valid_from: 2023-11-01
-valid_to: 2024-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20231101/fr
-source_sha256: ad61d981d3df05ba8ea230180d7865b1d8c66c14d1685b7d84b111dc2904902d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-06-08-n2:2023-11-01'
+title: 'Loi du 8 juin 1999 sur le Budget, la Comptabilité et la Trésorerie de l''État.'
+valid_from: '2023-11-01'
+valid_to: '2024-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20231101/fr'
+source_sha256: 'ad61d981d3df05ba8ea230180d7865b1d8c66c14d1685b7d84b111dc2904902d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1. — Champ d'application

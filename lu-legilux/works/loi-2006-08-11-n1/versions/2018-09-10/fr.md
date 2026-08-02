@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2006-08-11-n1:2018-09-10
-title: loi-2006-08-11-n1
-valid_from: 2018-09-10
-valid_to: 2025-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2006/08/11/n1/consolide/20180910/fr
-source_sha256: 66426f351476fbedc488d6e9c1833aeee2d7d4d9c44a48d72ba038265fcb56af
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2006-08-11-n1:2018-09-10'
+title: 'loi-2006-08-11-n1'
+valid_from: '2018-09-10'
+valid_to: '2025-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2006/08/11/n1/consolide/20180910/fr'
+source_sha256: '66426f351476fbedc488d6e9c1833aeee2d7d4d9c44a48d72ba038265fcb56af'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

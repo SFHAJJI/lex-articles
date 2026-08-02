@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-08-24-n5:2021-09-11
-title: Version consolidée applicable au 11/09/2021 : Règlement grand-ducal du 24 août 2016 concernant le statut du personnel de l’Association d’assurance accident.
-valid_from: 2021-09-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n5/consolide/20210911/fr
-source_sha256: 1e90f6d96cf9daaf4c39afa4efc20cb3c81ab81dbc54a385c3f3e713c95dee3d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-08-24-n5:2021-09-11'
+title: 'Version consolidée applicable au 11/09/2021 : Règlement grand-ducal du 24 août 2016 concernant le statut du personnel de l’Association d’assurance accident.'
+valid_from: '2021-09-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n5/consolide/20210911/fr'
+source_sha256: '1e90f6d96cf9daaf4c39afa4efc20cb3c81ab81dbc54a385c3f3e713c95dee3d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Catégories du personnel

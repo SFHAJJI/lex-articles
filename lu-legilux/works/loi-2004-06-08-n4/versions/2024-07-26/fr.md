@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-06-08-n4:2024-07-26
-title: loi-2004-06-08-n4
-valid_from: 2024-07-26
-valid_to: 2026-08-01
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20240726/fr
-source_sha256: bf8f35e0fedfe6d3f132bbafd5b99f27f070210a976d93c0e5ba41d76c099e60
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-06-08-n4:2024-07-26'
+title: 'loi-2004-06-08-n4'
+valid_from: '2024-07-26'
+valid_to: '2026-08-01'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20240726/fr'
+source_sha256: 'bf8f35e0fedfe6d3f132bbafd5b99f27f070210a976d93c0e5ba41d76c099e60'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — De l’objet de la loi

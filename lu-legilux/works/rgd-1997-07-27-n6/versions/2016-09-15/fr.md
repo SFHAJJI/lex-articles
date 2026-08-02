@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1997-07-27-n6:2016-09-15
-title: Version consolidée applicable au 15/09/2016 : Règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail des chargés d'éducation à durée déterminée des lycées et lycées techniques publics.
-valid_from: 2016-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/consolide/20160915/fr
-source_sha256: 93fdc6a01efd7b417541778460ccb72144c1e6a91094559ca6565d60c05e8a29
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1997-07-27-n6:2016-09-15'
+title: 'Version consolidée applicable au 15/09/2016 : Règlement grand-ducal du 27 juillet 1997 fixant les modalités d''engagement et les conditions de travail des chargés d''éducation à durée déterminée des lycées et lycées techniques publics.'
+valid_from: '2016-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/consolide/20160915/fr'
+source_sha256: '93fdc6a01efd7b417541778460ccb72144c1e6a91094559ca6565d60c05e8a29'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

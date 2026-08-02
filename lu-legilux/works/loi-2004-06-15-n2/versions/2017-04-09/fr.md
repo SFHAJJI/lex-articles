@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-06-15-n2:2017-04-09
-title: Version consolidée applicable au 28/03/2026 : Loi du 15 juin 2004 portant réorganisation de l’administration des bâtiments publics.
-valid_from: 2017-04-09
-valid_to: 2026-03-27
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/consolide/20170409/fr
-source_sha256: 36c28165c96ed31e8d79aba28a9ae2fa052e201dee2673067c462400c503358b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-06-15-n2:2017-04-09'
+title: 'Version consolidée applicable au 28/03/2026 : Loi du 15 juin 2004 portant réorganisation de l’administration des bâtiments publics.'
+valid_from: '2017-04-09'
+valid_to: '2026-03-27'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/consolide/20170409/fr'
+source_sha256: '36c28165c96ed31e8d79aba28a9ae2fa052e201dee2673067c462400c503358b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

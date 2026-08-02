@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-23-n8:2018-02-18
-title: Version consolidée applicable au 03/04/2026 : Loi du 23 juillet 2016 relative à la profession de l’audit portant: - transposition de la directive 2014/56/UE du Parlement européen et du Conseil du 16 avril 2014 modifiant la directive 2006/43/CE concernant les contrôles légaux des comptes annuels et des comptes consolidés; - mise en oeuvre du règlement (UE) n° 537/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux exigences spécifiques applicables au contrôle légal des comptes des entités d’intérêt public et abrogeant la décision 2005/909/CE de la Commission; - modification de la loi modifiée du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de sepcav et assep; - modification de la loi modifiée du 10 août 1915 concernant les sociétés commerciales; - abrogation de la loi modifiée du 18 décembre 2009 relative à la profession de l’audit.
-valid_from: 2018-02-18
-valid_to: 2020-03-29
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/consolide/20180218/fr
-source_sha256: 5b2e866d8371e01291df04befd1b23fc22fd4026e2aec2a4ad1dd788f9c192a6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-23-n8:2018-02-18'
+title: 'Version consolidée applicable au 03/04/2026 : Loi du 23 juillet 2016 relative à la profession de l’audit portant: - transposition de la directive 2014/56/UE du Parlement européen et du Conseil du 16 avril 2014 modifiant la directive 2006/43/CE concernant les contrôles légaux des comptes annuels et des comptes consolidés; - mise en oeuvre du règlement (UE) n° 537/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux exigences spécifiques applicables au contrôle légal des comptes des entités d’intérêt public et abrogeant la décision 2005/909/CE de la Commission; - modification de la loi modifiée du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de sepcav et assep; - modification de la loi modifiée du 10 août 1915 concernant les sociétés commerciales; - abrogation de la loi modifiée du 18 décembre 2009 relative à la profession de l’audit.'
+valid_from: '2018-02-18'
+valid_to: '2020-03-29'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/consolide/20180218/fr'
+source_sha256: '5b2e866d8371e01291df04befd1b23fc22fd4026e2aec2a4ad1dd788f9c192a6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## PARTIE Ière -: — Transposition de la directive 2014/56/UE du Parlement européen et du Conseil du 16 avril 2014 modifiant la directive 2006/43/CE concernant les contrôles légaux des comptes annuels et des comptes consolidés.

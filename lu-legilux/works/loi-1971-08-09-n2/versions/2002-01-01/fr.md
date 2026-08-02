@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1971-08-09-n2:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Loi du 9 août 1971 concernant l'exécution et la sanction des décisions et des directives ainsi que la sanction des règlements des Communautés européennes en matière économique, technique, agricole, forestière, sociale et en matière de transports.
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1971/08/09/n2/consolide/20020101/fr
-source_sha256: 8acd5a7e2d5f4d09d6c7bbb92cf3813465cacaf70537a94fa6f079ef9d0d042b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1971-08-09-n2:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Loi du 9 août 1971 concernant l''exécution et la sanction des décisions et des directives ainsi que la sanction des règlements des Communautés européennes en matière économique, technique, agricole, forestière, sociale et en matière de transports.'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1971/08/09/n2/consolide/20020101/fr'
+source_sha256: '8acd5a7e2d5f4d09d6c7bbb92cf3813465cacaf70537a94fa6f079ef9d0d042b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

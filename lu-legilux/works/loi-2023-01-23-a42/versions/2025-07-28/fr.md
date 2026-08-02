@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-01-23-a42:2025-07-28
-title: Loi du 23 janvier 2023 sur le statut des magistrats.
-valid_from: 2025-07-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a42/consolide/20250728/fr
-source_sha256: 05d8b37adb4bb956fc1cc4f12e18dedb4a3ebe45ed846869212e048eff01ceac
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-01-23-a42:2025-07-28'
+title: 'Loi du 23 janvier 2023 sur le statut des magistrats.'
+valid_from: '2025-07-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a42/consolide/20250728/fr'
+source_sha256: '05d8b37adb4bb956fc1cc4f12e18dedb4a3ebe45ed846869212e048eff01ceac'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er. ** — **Dispositions générales**

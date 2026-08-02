@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:reg-1837-07-13-n1:1849-03-14
-title: Version consolidée applicable au 14/03/1849 : Règlement de la députation permanente du 13 juillet 1837 sur l'exercice du droit d'affouage et autres émoluments communaux.
-valid_from: 1849-03-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/reg/1837/07/13/n1/consolide/18490314/fr
-source_sha256: 7f119cfbd06ce721fc8be66860067d9a1e09a93fd95764fbc96b406517fe4b42
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:reg-1837-07-13-n1:1849-03-14'
+title: 'Version consolidée applicable au 14/03/1849 : Règlement de la députation permanente du 13 juillet 1837 sur l''exercice du droit d''affouage et autres émoluments communaux.'
+valid_from: '1849-03-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/reg/1837/07/13/n1/consolide/18490314/fr'
+source_sha256: '7f119cfbd06ce721fc8be66860067d9a1e09a93fd95764fbc96b406517fe4b42'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

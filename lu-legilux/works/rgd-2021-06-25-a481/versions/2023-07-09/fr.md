@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-06-25-a481:2023-07-09
-title: Version consolidée applicable au 09/07/2023 : Règlement grand-ducal du 25 juin 2021 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive, ainsi que de l’examen de promotion des différentes catégories de traitement auprès de l’administration judiciaire.
-valid_from: 2023-07-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/consolide/20230709/fr
-source_sha256: 89139250260669fa4c369da8f98d521be463c4faf608cd9fd13327f8595bc941
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-06-25-a481:2023-07-09'
+title: 'Version consolidée applicable au 09/07/2023 : Règlement grand-ducal du 25 juin 2021 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive, ainsi que de l’examen de promotion des différentes catégories de traitement auprès de l’administration judiciaire.'
+valid_from: '2023-07-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/consolide/20230709/fr'
+source_sha256: '89139250260669fa4c369da8f98d521be463c4faf608cd9fd13327f8595bc941'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Formation spéciale et formation de promotion**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-12-19-a1036:2021-12-25
-title: Version consolidée applicable au 14/05/2022 : Loi du 19 décembre 2020 ayant pour objet la mise en place d’une contribution temporaire de l’État aux coûts non couverts de certaines entreprises.
-valid_from: 2021-12-25
-valid_to: 2022-02-14
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/consolide/20211225/fr
-source_sha256: 0117f50c3861deab1700890a09e14b771223a78ff9c08ed5c4abae067685c61d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-12-19-a1036:2021-12-25'
+title: 'Version consolidée applicable au 14/05/2022 : Loi du 19 décembre 2020 ayant pour objet la mise en place d’une contribution temporaire de l’État aux coûts non couverts de certaines entreprises.'
+valid_from: '2021-12-25'
+valid_to: '2022-02-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/consolide/20211225/fr'
+source_sha256: '0117f50c3861deab1700890a09e14b771223a78ff9c08ed5c4abae067685c61d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

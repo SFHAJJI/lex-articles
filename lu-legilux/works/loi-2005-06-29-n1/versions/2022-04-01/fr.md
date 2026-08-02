@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-06-29-n1:2022-04-01
-title: Loi du 29 juin 2005 fixant les cadres du personnel des établissements d'enseignement secondaire et secondaire technique.
-valid_from: 2022-04-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1/consolide/20220401/fr
-source_sha256: 251a95481049ec2db6a7e2a68ca25a297921f9b73dc12b73cc744592c2c058d9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-06-29-n1:2022-04-01'
+title: 'Loi du 29 juin 2005 fixant les cadres du personnel des établissements d''enseignement secondaire et secondaire technique.'
+valid_from: '2022-04-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1/consolide/20220401/fr'
+source_sha256: '251a95481049ec2db6a7e2a68ca25a297921f9b73dc12b73cc744592c2c058d9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

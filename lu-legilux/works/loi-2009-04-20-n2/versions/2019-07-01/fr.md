@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-04-20-n2:2019-07-01
-title: Version consolidée applicable au 01/07/2019 : Loi du 20 avril 2009 portant création du Centre des technologies de l'information de l'Etat.
-valid_from: 2019-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/04/20/n2/consolide/20190701/fr
-source_sha256: 224c51d670b8916683c9cbb34b742bbd8eaec6482028423c477d1cd85cfcad90
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-04-20-n2:2019-07-01'
+title: 'Version consolidée applicable au 01/07/2019 : Loi du 20 avril 2009 portant création du Centre des technologies de l''information de l''Etat.'
+valid_from: '2019-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/04/20/n2/consolide/20190701/fr'
+source_sha256: '224c51d670b8916683c9cbb34b742bbd8eaec6482028423c477d1cd85cfcad90'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

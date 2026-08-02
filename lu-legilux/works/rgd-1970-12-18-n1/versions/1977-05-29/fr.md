@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1970-12-18-n1:1977-05-29
-title: Version consolidée applicable au 29/05/1977 : Règlement grand-ducal du 18 décembre 1970 pris en exécution de l'article 3 de la loi du 18 juin 1969 sur l'enseignement supérieur et l'homologation des titres et grades étrangers d'enseignement supérieur, et concernant la composition des commissions d'homologation, leurs attributions et la procédure à suivre.
-valid_from: 1977-05-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1970/12/18/n1/consolide/19770529/fr
-source_sha256: d5673270857371ec78f63c0ab21459b8c3c0bd667587bb411e9d646ba25c5977
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1970-12-18-n1:1977-05-29'
+title: 'Version consolidée applicable au 29/05/1977 : Règlement grand-ducal du 18 décembre 1970 pris en exécution de l''article 3 de la loi du 18 juin 1969 sur l''enseignement supérieur et l''homologation des titres et grades étrangers d''enseignement supérieur, et concernant la composition des commissions d''homologation, leurs attributions et la procédure à suivre.'
+valid_from: '1977-05-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1970/12/18/n1/consolide/19770529/fr'
+source_sha256: 'd5673270857371ec78f63c0ab21459b8c3c0bd667587bb411e9d646ba25c5977'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

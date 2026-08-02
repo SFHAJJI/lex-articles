@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-11-25-n6:2020-06-02
-title: Version consolidée applicable au 02/06/2020 : Règlement grand-ducal du 25 novembre 2011 relatif aux modalités d'affiliation à la Chambre des Métiers, à la carte d'affiliation, à l'établissement du rôle des cotisations et à leur perception.
-valid_from: 2020-06-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/11/25/n6/consolide/20200602/fr
-source_sha256: e57f3c38eeea760260f583f4a164b8aed6904eda03d1ce887a3ebbdf8176ef95
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-11-25-n6:2020-06-02'
+title: 'Version consolidée applicable au 02/06/2020 : Règlement grand-ducal du 25 novembre 2011 relatif aux modalités d''affiliation à la Chambre des Métiers, à la carte d''affiliation, à l''établissement du rôle des cotisations et à leur perception.'
+valid_from: '2020-06-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/11/25/n6/consolide/20200602/fr'
+source_sha256: 'e57f3c38eeea760260f583f4a164b8aed6904eda03d1ce887a3ebbdf8176ef95'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-06-20-a312:2025-07-27
-title: Version consolidée applicable au 27/07/2025 : Règlement grand-ducal du 20 juin 2022 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive, ainsi que de l’examen de promotion des fonctionnaires auprès de l’Institut national de statistique et des études économiques.
-valid_from: 2025-07-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/consolide/20250727/fr
-source_sha256: 3307bdb96820aa50d3fb039a30c4e6f5784a2c4fb9e2dabde6597060488c2a95
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-06-20-a312:2025-07-27'
+title: 'Version consolidée applicable au 27/07/2025 : Règlement grand-ducal du 20 juin 2022 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive, ainsi que de l’examen de promotion des fonctionnaires auprès de l’Institut national de statistique et des études économiques.'
+valid_from: '2025-07-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/consolide/20250727/fr'
+source_sha256: '3307bdb96820aa50d3fb039a30c4e6f5784a2c4fb9e2dabde6597060488c2a95'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Dispositions générales **

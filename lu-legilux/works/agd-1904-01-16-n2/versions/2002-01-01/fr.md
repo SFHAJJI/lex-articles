@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1904-01-16-n2:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Arrêté grand-ducal du 16 janvier 1904 portant règlement sur les conditions hygiéniques à imposer aux cabarets.
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/1904/01/16/n2/consolide/20020101/fr
-source_sha256: 05e9701902574c1c556a9fbc85d2871d258931bc8d3045aaebb46886dba2c39a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1904-01-16-n2:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Arrêté grand-ducal du 16 janvier 1904 portant règlement sur les conditions hygiéniques à imposer aux cabarets.'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1904/01/16/n2/consolide/20020101/fr'
+source_sha256: '05e9701902574c1c556a9fbc85d2871d258931bc8d3045aaebb46886dba2c39a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

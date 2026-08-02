@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2005-08-10-n2:2007-09-07
-title: Version consolidée applicable au 09/12/2006 : Règlement grand-ducal du 10 août 2005 relatif au fonctionnement du lycée-pilote
-valid_from: 2007-09-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2005/08/10/n2/consolide/20070907/fr
-source_sha256: 1d192a621d13686109cff925a0ea3588a4b978fcb67306e2aa49f8f0da28b6ff
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2005-08-10-n2:2007-09-07'
+title: 'Version consolidée applicable au 09/12/2006 : Règlement grand-ducal du 10 août 2005 relatif au fonctionnement du lycée-pilote'
+valid_from: '2007-09-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2005/08/10/n2/consolide/20070907/fr'
+source_sha256: '1d192a621d13686109cff925a0ea3588a4b978fcb67306e2aa49f8f0da28b6ff'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

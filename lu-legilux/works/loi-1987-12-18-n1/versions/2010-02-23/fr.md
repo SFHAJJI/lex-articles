@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1987-12-18-n1:2010-02-23
-title: Version consolidée applicable au 10/09/2018 : Loi du 18 décembre 1987 organisant le centre thermal et de santé de Mondorf-les-Bains.
-valid_from: 2010-02-23
-valid_to: 2018-09-09
-source: https://legilux.public.lu/eli/etat/leg/loi/1987/12/18/n1/consolide/20100223/fr
-source_sha256: 6bef4db8f281be0e2666f79ef311ac2f390632c70cf7cd755726de372a436a15
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1987-12-18-n1:2010-02-23'
+title: 'Version consolidée applicable au 10/09/2018 : Loi du 18 décembre 1987 organisant le centre thermal et de santé de Mondorf-les-Bains.'
+valid_from: '2010-02-23'
+valid_to: '2018-09-09'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1987/12/18/n1/consolide/20100223/fr'
+source_sha256: '6bef4db8f281be0e2666f79ef311ac2f390632c70cf7cd755726de372a436a15'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

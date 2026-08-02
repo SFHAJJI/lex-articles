@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1859-12-17-n4:2002-07-16
-title: Version consolidée applicable au 07/07/2009 : Loi du 17 décembre 1859 sur la police des chemins de fer.
-valid_from: 2002-07-16
-valid_to: 2009-07-06
-source: https://legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/consolide/20020716/fr
-source_sha256: ec2f1e1154ab8949942e4f2b84c364f26b3e297d5f67751d5f18157e5a38e765
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1859-12-17-n4:2002-07-16'
+title: 'Version consolidée applicable au 07/07/2009 : Loi du 17 décembre 1859 sur la police des chemins de fer.'
+valid_from: '2002-07-16'
+valid_to: '2009-07-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1859/12/17/n4/consolide/20020716/fr'
+source_sha256: 'ec2f1e1154ab8949942e4f2b84c364f26b3e297d5f67751d5f18157e5a38e765'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE 1er.

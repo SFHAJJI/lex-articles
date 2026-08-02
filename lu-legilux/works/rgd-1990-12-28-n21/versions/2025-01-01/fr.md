@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1990-12-28-n21:2025-01-01
-title: Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 28 décembre 1990 portant exécution de l'article 140 de la loi du 4 décembre 1967 concernant l'impôt sur le revenu.
-valid_from: 2025-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/consolide/20250101/fr
-source_sha256: 00ef207ea87feb8ee4e57297c9c41b19d13e207e11e210e4af658dbcb94cdbda
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1990-12-28-n21:2025-01-01'
+title: 'Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 28 décembre 1990 portant exécution de l''article 140 de la loi du 4 décembre 1967 concernant l''impôt sur le revenu.'
+valid_from: '2025-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/consolide/20250101/fr'
+source_sha256: '00ef207ea87feb8ee4e57297c9c41b19d13e207e11e210e4af658dbcb94cdbda'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

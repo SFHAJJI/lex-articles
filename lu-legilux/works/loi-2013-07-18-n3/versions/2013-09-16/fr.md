@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2013-07-18-n3:2013-09-16
-title: Version consolidée applicable au 09/12/2012 : Loi du 18 juillet 2013 concernant des agents intervenant dans l'enseignement fondamental et modifiant:  1. la loi modifiée du 6 février 2009 portant organisation de l'enseignement fondamental;  2. la loi modifiée du 6 février 2009 concernant le personnel de l'enseignement fondamental;  3. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'État;  4. la loi modifiée du 16 août 1968 portant création d'un centre de logopédie et de services audiométrique et orthophonique;  5. la loi modifiée du 14 mars 1973 portant création d'instituts et de services d'éducation différenciée;  6. la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue;  7. la loi du 9 décembre 2005 déterminant les conditions et les modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'État;  8. le Code de la sécurité sociale;  9. la loi du 13 juillet 2006 portant réorganisation du centre de psychologie et d'orientation scolaires (CPOS).
-valid_from: 2013-09-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2013/07/18/n3/consolide/20130916/fr
-source_sha256: bd7546ee607c1d962630c4ba3c53dc15d3a8e6e21bbf72ccfd625d6835e429e5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2013-07-18-n3:2013-09-16'
+title: 'Version consolidée applicable au 09/12/2012 : Loi du 18 juillet 2013 concernant des agents intervenant dans l''enseignement fondamental et modifiant:  1. la loi modifiée du 6 février 2009 portant organisation de l''enseignement fondamental;  2. la loi modifiée du 6 février 2009 concernant le personnel de l''enseignement fondamental;  3. la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l''État;  4. la loi modifiée du 16 août 1968 portant création d''un centre de logopédie et de services audiométrique et orthophonique;  5. la loi modifiée du 14 mars 1973 portant création d''instituts et de services d''éducation différenciée;  6. la loi modifiée du 4 septembre 1990 portant réforme de l''enseignement secondaire technique et de la formation professionnelle continue;  7. la loi du 9 décembre 2005 déterminant les conditions et les modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l''État;  8. le Code de la sécurité sociale;  9. la loi du 13 juillet 2006 portant réorganisation du centre de psychologie et d''orientation scolaires (CPOS).'
+valid_from: '2013-09-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/07/18/n3/consolide/20130916/fr'
+source_sha256: 'bd7546ee607c1d962630c4ba3c53dc15d3a8e6e21bbf72ccfd625d6835e429e5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Modification de la loi modifiée du 6 février 2009 portant organisation de l'enseignement fondamental

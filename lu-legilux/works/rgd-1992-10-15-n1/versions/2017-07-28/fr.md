@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1992-10-15-n1:2017-07-28
-title: Version consolidée applicable au 24/07/2022 : Règlement grand-ducal du 15 octobre 1992 concernant le mode d'élection des représentants des agents tombant sous le statut de la Fonction Publique au conseil d'administration de l'Entreprise des Postes et Télécommunications et l'exercice de leurs fonctions.
-valid_from: 2017-07-28
-valid_to: 2022-07-23
-source: https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n1/consolide/20170728/fr
-source_sha256: 5c27c3a31a852865d5fef653a65713798b8ca82ff58c74be65c94b5a6394ae14
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1992-10-15-n1:2017-07-28'
+title: 'Version consolidée applicable au 24/07/2022 : Règlement grand-ducal du 15 octobre 1992 concernant le mode d''élection des représentants des agents tombant sous le statut de la Fonction Publique au conseil d''administration de l''Entreprise des Postes et Télécommunications et l''exercice de leurs fonctions.'
+valid_from: '2017-07-28'
+valid_to: '2022-07-23'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n1/consolide/20170728/fr'
+source_sha256: '5c27c3a31a852865d5fef653a65713798b8ca82ff58c74be65c94b5a6394ae14'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

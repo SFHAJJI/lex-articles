@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-05-20-n1:2022-08-16
-title: Version consolidée applicable au 16/08/2022 : Loi du 20 mai 2014 relative au financement du Réseau national intégré de radiocommunication pour les services de sécurité et de secours luxembourgeois.
-valid_from: 2022-08-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/05/20/n1/consolide/20220816/fr
-source_sha256: 04979d37452d40560a055607582b103c9da5a8062ada6510ad7693d76caaeb32
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-05-20-n1:2022-08-16'
+title: 'Version consolidée applicable au 16/08/2022 : Loi du 20 mai 2014 relative au financement du Réseau national intégré de radiocommunication pour les services de sécurité et de secours luxembourgeois.'
+valid_from: '2022-08-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/05/20/n1/consolide/20220816/fr'
+source_sha256: '04979d37452d40560a055607582b103c9da5a8062ada6510ad7693d76caaeb32'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

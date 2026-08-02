@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2025-07-24-a346:2025-08-04
-title: Version rectifiée applicable au 04/08/2025 : Loi du 24 juillet 2025 portant modification de la loi modifiée du 21 décembre 2007 portant création de l’Administration de la navigation aérienne.
-valid_from: 2025-08-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2025/07/24/a346/consolide/20250804/fr
-source_sha256: 3b2b040a0e15f83fe7204ab803275b76865102b7a8dcaaf4e635487b0e090662
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2025-07-24-a346:2025-08-04'
+title: 'Version rectifiée applicable au 04/08/2025 : Loi du 24 juillet 2025 portant modification de la loi modifiée du 21 décembre 2007 portant création de l’Administration de la navigation aérienne.'
+valid_from: '2025-08-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2025/07/24/a346/consolide/20250804/fr'
+source_sha256: '3b2b040a0e15f83fe7204ab803275b76865102b7a8dcaaf4e635487b0e090662'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

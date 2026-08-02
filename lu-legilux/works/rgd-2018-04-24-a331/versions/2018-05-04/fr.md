@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-04-24-a331:2018-05-04
-title: Règlement grand-ducal du 24 avril 2018 relatif à la limitation des émissions en provenance des installations de combustion moyennes.
-valid_from: 2018-05-04
-valid_to: 2024-06-07
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/consolide/20180504/fr
-source_sha256: 677bd57dc3e8c681d8a10c6e128a272aca8f63e35a8dcde15cf75b5d79a928c9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-04-24-a331:2018-05-04'
+title: 'Règlement grand-ducal du 24 avril 2018 relatif à la limitation des émissions en provenance des installations de combustion moyennes.'
+valid_from: '2018-05-04'
+valid_to: '2024-06-07'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/consolide/20180504/fr'
+source_sha256: '677bd57dc3e8c681d8a10c6e128a272aca8f63e35a8dcde15cf75b5d79a928c9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

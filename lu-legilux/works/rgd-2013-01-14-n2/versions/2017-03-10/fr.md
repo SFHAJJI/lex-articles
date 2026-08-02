@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-01-14-n2:2017-03-10
-title: Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 14 janvier 2013 fixant les conditions et les modalités de la prestation de services du médecin, du médecin-dentiste, du médecin-vétérinaire et du pharmacien, ainsi que des professionnels de santé.
-valid_from: 2017-03-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n2/consolide/20170310/fr
-source_sha256: 866747b2432e6c543012ae7f04f0915762c83be8221beb92851b56e6eb44f3cc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-01-14-n2:2017-03-10'
+title: 'Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 14 janvier 2013 fixant les conditions et les modalités de la prestation de services du médecin, du médecin-dentiste, du médecin-vétérinaire et du pharmacien, ainsi que des professionnels de santé.'
+valid_from: '2017-03-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n2/consolide/20170310/fr'
+source_sha256: '866747b2432e6c543012ae7f04f0915762c83be8221beb92851b56e6eb44f3cc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier: — Les médecins et médecins-dentistes.

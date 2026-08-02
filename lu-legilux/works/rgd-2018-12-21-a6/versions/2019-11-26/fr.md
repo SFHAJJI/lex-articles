@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-12-21-a6:2019-11-26
-title: Version consolidée applicable au 01/04/2020 : Règlement grand-ducal du 21 décembre 2018 arrêtant le programme de construction d’ensembles de logements subventionnés ainsi que les participations de l’État.
-valid_from: 2019-11-26
-valid_to: 2020-03-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a6/consolide/20191126/fr
-source_sha256: 71b9b25a05e9e806dd45d474859a3f0a1073512f0b1f15a3397707ae437c6da4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-12-21-a6:2019-11-26'
+title: 'Version consolidée applicable au 01/04/2020 : Règlement grand-ducal du 21 décembre 2018 arrêtant le programme de construction d’ensembles de logements subventionnés ainsi que les participations de l’État.'
+valid_from: '2019-11-26'
+valid_to: '2020-03-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a6/consolide/20191126/fr'
+source_sha256: '71b9b25a05e9e806dd45d474859a3f0a1073512f0b1f15a3397707ae437c6da4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

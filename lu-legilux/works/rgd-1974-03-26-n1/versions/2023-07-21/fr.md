@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1974-03-26-n1:2023-07-21
-title: Version consolidée applicable au 12/12/2025 : Règlement grand-ducal du 26 mars 1974 établissant la liste des stupéfiants.
-valid_from: 2023-07-21
-valid_to: 2025-12-11
-source: https://legilux.public.lu/eli/etat/leg/rgd/1974/03/26/n1/consolide/20230721/fr
-source_sha256: 7a7c090f6a217f7f5d00c74bf03fafa6b674a94d5f02fb43c96aac9156ac68cc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1974-03-26-n1:2023-07-21'
+title: 'Version consolidée applicable au 12/12/2025 : Règlement grand-ducal du 26 mars 1974 établissant la liste des stupéfiants.'
+valid_from: '2023-07-21'
+valid_to: '2025-12-11'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1974/03/26/n1/consolide/20230721/fr'
+source_sha256: '7a7c090f6a217f7f5d00c74bf03fafa6b674a94d5f02fb43c96aac9156ac68cc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

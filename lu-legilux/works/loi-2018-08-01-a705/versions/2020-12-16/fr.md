@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-08-01-a705:2020-12-16
-title: Loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique.
-valid_from: 2020-12-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a705/consolide/20201216/fr
-source_sha256: 117d92bb0adb939f9b41641b41bbc024b12739659e5526c1fdd94d6ff797bac8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-08-01-a705:2020-12-16'
+title: 'Loi du 1er août 2018 sur la déclaration obligatoire de certaines maladies dans le cadre de la protection de la santé publique.'
+valid_from: '2020-12-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a705/consolide/20201216/fr'
+source_sha256: '117d92bb0adb939f9b41641b41bbc024b12739659e5526c1fdd94d6ff797bac8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

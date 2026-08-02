@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2013-07-12-n1:2023-07-28
-title: loi-2013-07-12-n1
-valid_from: 2023-07-28
-valid_to: 2025-01-16
-source: https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/consolide/20230728/fr
-source_sha256: ef52d6270e5a9bdabb80d4365690d9bcc339da2a61bd621de0fdefcc77b093f8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2013-07-12-n1:2023-07-28'
+title: 'loi-2013-07-12-n1'
+valid_from: '2023-07-28'
+valid_to: '2025-01-16'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/consolide/20230728/fr'
+source_sha256: 'ef52d6270e5a9bdabb80d4365690d9bcc339da2a61bd621de0fdefcc77b093f8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Dispositions générales

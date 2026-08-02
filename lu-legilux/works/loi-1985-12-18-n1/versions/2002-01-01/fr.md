@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1985-12-18-n1:2002-01-01
-title: Version consolidée applicable au 03/04/2017 : Loi du 18 décembre 1985 relative aux médicaments vétérinaires.
-valid_from: 2002-01-01
-valid_to: 2017-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/consolide/20020101/fr
-source_sha256: 6e74e0ff9af1bc3358b7fdae74b9453ce7c1ac9d1b484c3db313f7c556ab0c44
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1985-12-18-n1:2002-01-01'
+title: 'Version consolidée applicable au 03/04/2017 : Loi du 18 décembre 1985 relative aux médicaments vétérinaires.'
+valid_from: '2002-01-01'
+valid_to: '2017-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/consolide/20020101/fr'
+source_sha256: '6e74e0ff9af1bc3358b7fdae74b9453ce7c1ac9d1b484c3db313f7c556ab0c44'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

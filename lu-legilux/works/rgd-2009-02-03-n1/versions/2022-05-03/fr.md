@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-02-03-n1:2022-05-03
-title: Version consolidée applicable au 13/10/2022 : Règlement grand-ducal du 3 février 2009 relatif au contrôle médical des étrangers.
-valid_from: 2022-05-03
-valid_to: 2022-10-12
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/02/03/n1/consolide/20220503/fr
-source_sha256: 6dd6ec81864fe325ad2f5d504d38a57108acd733437492f8dad7c6a1264f941d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-02-03-n1:2022-05-03'
+title: 'Version consolidée applicable au 13/10/2022 : Règlement grand-ducal du 3 février 2009 relatif au contrôle médical des étrangers.'
+valid_from: '2022-05-03'
+valid_to: '2022-10-12'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/02/03/n1/consolide/20220503/fr'
+source_sha256: '6dd6ec81864fe325ad2f5d504d38a57108acd733437492f8dad7c6a1264f941d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

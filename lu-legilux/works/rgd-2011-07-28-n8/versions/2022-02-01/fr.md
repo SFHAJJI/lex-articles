@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-07-28-n8:2022-02-01
-title: Version consolidée applicable au 01/02/2022 : Règlement grand-ducal du 28 juillet 2011 déterminant le modèle du permis de chasser annuel, du permis de service et du permis d'invité.
-valid_from: 2022-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/07/28/n8/consolide/20220201/fr
-source_sha256: 87405c74366e6900626b32fc49109b5e89cb4a1baee407373d7ec335d2c7c93f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-07-28-n8:2022-02-01'
+title: 'Version consolidée applicable au 01/02/2022 : Règlement grand-ducal du 28 juillet 2011 déterminant le modèle du permis de chasser annuel, du permis de service et du permis d''invité.'
+valid_from: '2022-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/07/28/n8/consolide/20220201/fr'
+source_sha256: '87405c74366e6900626b32fc49109b5e89cb4a1baee407373d7ec335d2c7c93f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Les permis de chasser annuels

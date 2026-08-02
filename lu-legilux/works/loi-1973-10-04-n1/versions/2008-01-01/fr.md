@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1973-10-04-n1:2008-01-01
-title: Version consolidée applicable au 01/01/2008 : Loi du 4 octobre 1973 concernant l'institution d'un congé-éducation.
-valid_from: 2008-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1973/10/04/n1/consolide/20080101/fr
-source_sha256: bcc51be90ff4faffbcff1172d97cd649dd2bf7ab89c4f501a6328692782c20da
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1973-10-04-n1:2008-01-01'
+title: 'Version consolidée applicable au 01/01/2008 : Loi du 4 octobre 1973 concernant l''institution d''un congé-éducation.'
+valid_from: '2008-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1973/10/04/n1/consolide/20080101/fr'
+source_sha256: 'bcc51be90ff4faffbcff1172d97cd649dd2bf7ab89c4f501a6328692782c20da'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1992-03-26-n1:2025-12-22
-title: Version consolidée applicable au 22/12/2025 : Loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, Texte coordonné.
-valid_from: 2025-12-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20251222/fr
-source_sha256: 1dc25527772beb872132b35f2fedf8b65752959dca467ed121772354d73607d1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1992-03-26-n1:2025-12-22'
+title: 'Version consolidée applicable au 22/12/2025 : Loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, Texte coordonné.'
+valid_from: '2025-12-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20251222/fr'
+source_sha256: '1dc25527772beb872132b35f2fedf8b65752959dca467ed121772354d73607d1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er.** — **Exercice de certaines professions de santé**

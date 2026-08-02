@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-agd-2023-09-28-b3287:2023-10-01
-title: Version rectifiée applicable au 01/10/2023 : Arrêté grand-ducal du 29 septembre 2023 portant nomination des membres du Conseil disciplinaire et administratif d’appel.
-valid_from: 2023-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/adm/agd/2023/09/28/b3287/consolide/20231001/fr
-source_sha256: e2af3dec32bed18b7a4afc78e772ae216174678bf2fbb7348bf96e71f11c62e1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-agd-2023-09-28-b3287:2023-10-01'
+title: 'Version rectifiée applicable au 01/10/2023 : Arrêté grand-ducal du 29 septembre 2023 portant nomination des membres du Conseil disciplinaire et administratif d’appel.'
+valid_from: '2023-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/adm/agd/2023/09/28/b3287/consolide/20231001/fr'
+source_sha256: 'e2af3dec32bed18b7a4afc78e772ae216174678bf2fbb7348bf96e71f11c62e1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

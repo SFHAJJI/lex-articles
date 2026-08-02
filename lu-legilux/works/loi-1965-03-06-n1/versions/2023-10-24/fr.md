@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1965-03-06-n1:2023-10-24
-title: Version consolidée applicable au 24/10/2023 : Loi du 6 mars 1965 concernant les taxes à percevoir sur les demandes en obtention des documents prescrits pour la mise en circulation et la conduite de véhicules.
-valid_from: 2023-10-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1965/03/06/n1/consolide/20231024/fr
-source_sha256: f5ae0133cefd0c3591bb6a48ff4b3bcf3ad8d57dd0f0e29be471ed64d40a5bbe
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1965-03-06-n1:2023-10-24'
+title: 'Version consolidée applicable au 24/10/2023 : Loi du 6 mars 1965 concernant les taxes à percevoir sur les demandes en obtention des documents prescrits pour la mise en circulation et la conduite de véhicules.'
+valid_from: '2023-10-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1965/03/06/n1/consolide/20231024/fr'
+source_sha256: 'f5ae0133cefd0c3591bb6a48ff4b3bcf3ad8d57dd0f0e29be471ed64d40a5bbe'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

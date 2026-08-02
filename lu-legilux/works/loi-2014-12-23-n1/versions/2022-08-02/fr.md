@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-12-23-n1:2022-08-02
-title: Version consolidée applicable au 02/08/2022 : Loi du 23 décembre 2014 relative à la réalisation du Pôle d'échange multimodal de la Gare d'Ettelbruck et à la modification de la loi modifiée du 10 mai 1995 relative à la gestion de l'infrastructure ferroviaire.
-valid_from: 2022-08-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/consolide/20220802/fr
-source_sha256: 407ed8aed789626d35b3bbf7aebf5bef114e63cd9a0eba88cfc9f66801351c7e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-12-23-n1:2022-08-02'
+title: 'Version consolidée applicable au 02/08/2022 : Loi du 23 décembre 2014 relative à la réalisation du Pôle d''échange multimodal de la Gare d''Ettelbruck et à la modification de la loi modifiée du 10 mai 1995 relative à la gestion de l''infrastructure ferroviaire.'
+valid_from: '2022-08-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/consolide/20220802/fr'
+source_sha256: '407ed8aed789626d35b3bbf7aebf5bef114e63cd9a0eba88cfc9f66801351c7e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

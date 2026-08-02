@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1966-08-16-n1:2015-10-01
-title: Version consolidée applicable au 01/10/2015 : Loi du 16 août 1966\na) modification la loi du 31 mars 1958 portant organisation des cadres de l'administration gouvernementale;\nb) organisation des cadres de la trésorerie de l'Etat, de la caisse générale de l'Etat et du service de contrôle de la comptabilité des communes et de certains établissements publics.
-valid_from: 2015-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1966/08/16/n1/consolide/20151001/fr
-source_sha256: fa3260c8096b16692b15f34999e7b627eab73c895ece1b29b5b457a996ff19d7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1966-08-16-n1:2015-10-01'
+title: 'Version consolidée applicable au 01/10/2015 : Loi du 16 août 1966\na) modification la loi du 31 mars 1958 portant organisation des cadres de l''administration gouvernementale;\nb) organisation des cadres de la trésorerie de l''Etat, de la caisse générale de l''Etat et du service de contrôle de la comptabilité des communes et de certains établissements publics.'
+valid_from: '2015-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1966/08/16/n1/consolide/20151001/fr'
+source_sha256: 'fa3260c8096b16692b15f34999e7b627eab73c895ece1b29b5b457a996ff19d7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="article_a"></a>

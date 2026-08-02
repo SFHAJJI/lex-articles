@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-04-08-a266:2020-04-17
-title: Version consolidée applicable au 17/04/2020 : Règlement grand-ducal du 8 avril 2020 portant dérogation à l’article L. 121-6 du Code du travail.
-valid_from: 2020-04-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a266/consolide/20200417/fr
-source_sha256: b6361eb89712c2091efe82c9fed600aa075531d35712dbd794dd260c2be1e5dc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-04-08-a266:2020-04-17'
+title: 'Version consolidée applicable au 17/04/2020 : Règlement grand-ducal du 8 avril 2020 portant dérogation à l’article L. 121-6 du Code du travail.'
+valid_from: '2020-04-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a266/consolide/20200417/fr'
+source_sha256: 'b6361eb89712c2091efe82c9fed600aa075531d35712dbd794dd260c2be1e5dc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

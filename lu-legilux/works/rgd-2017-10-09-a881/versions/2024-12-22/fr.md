@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-10-09-a881:2024-12-22
-title: Version consolidée applicable au 22/12/2024 : Règlement grand-ducal du 9 octobre 2017 portant création d’un comité économique et financier national.
-valid_from: 2024-12-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/10/09/a881/consolide/20241222/fr
-source_sha256: 6771ddd28ef79a4d80d98d7aaecf9d5350e87a9fe3160eec80fc338e0f23928e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-10-09-a881:2024-12-22'
+title: 'Version consolidée applicable au 22/12/2024 : Règlement grand-ducal du 9 octobre 2017 portant création d’un comité économique et financier national.'
+valid_from: '2024-12-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/10/09/a881/consolide/20241222/fr'
+source_sha256: '6771ddd28ef79a4d80d98d7aaecf9d5350e87a9fe3160eec80fc338e0f23928e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

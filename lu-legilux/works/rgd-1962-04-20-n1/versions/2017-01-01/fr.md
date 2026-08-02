@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1962-04-20-n1:2017-01-01
-title: Version consolidée applicable au 01/01/2017 : Règlement grand-ducal du 20 avril 1962 réglant, en matière d'impôt commercial, les ventilations et la participation des communes de résidences des salariés.
-valid_from: 2017-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1962/04/20/n1/consolide/20170101/fr
-source_sha256: bdbc66f56a062fac40784c1c4002f12162beebcc77b400706f17dc8a1124eb52
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1962-04-20-n1:2017-01-01'
+title: 'Version consolidée applicable au 01/01/2017 : Règlement grand-ducal du 20 avril 1962 réglant, en matière d''impôt commercial, les ventilations et la participation des communes de résidences des salariés.'
+valid_from: '2017-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1962/04/20/n1/consolide/20170101/fr'
+source_sha256: 'bdbc66f56a062fac40784c1c4002f12162beebcc77b400706f17dc8a1124eb52'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier — Définitions

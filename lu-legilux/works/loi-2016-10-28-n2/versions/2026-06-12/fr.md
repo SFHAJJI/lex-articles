@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-10-28-n2:2026-06-12
-title: Version consolidée applicable au 17/07/2026 : Loi du 28 octobre 2016 \n1. relative à la reconnaissance des qualifications professionnelles; \n2. portant création d’un registre des titres professionnels et d’un registre des titres de formation; \n3. modifiant \na) la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, \nb) la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien, \nc) la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, \nd) la loi modifiée du 11 janvier 1995 portant réorganisation des écoles publiques et privées d’infirmiers et d’infirmières et réglementant la collaboration entre le ministère de l’Education nationale et le ministère de la Santé, \ne) la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, \nf) la loi du 14 juillet 2015 portant création de la profession de psychothérapeute.
-valid_from: 2026-06-12
-valid_to: 2026-07-16
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/10/28/n2/consolide/20260612/fr
-source_sha256: 86f82ecd1b551e4da5d67b90715012d8c4dd97625b5580f9171adc438ec084ed
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-10-28-n2:2026-06-12'
+title: 'Version consolidée applicable au 17/07/2026 : Loi du 28 octobre 2016 \n1. relative à la reconnaissance des qualifications professionnelles; \n2. portant création d’un registre des titres professionnels et d’un registre des titres de formation; \n3. modifiant \na) la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, \nb) la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien, \nc) la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, \nd) la loi modifiée du 11 janvier 1995 portant réorganisation des écoles publiques et privées d’infirmiers et d’infirmières et réglementant la collaboration entre le ministère de l’Education nationale et le ministère de la Santé, \ne) la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, \nf) la loi du 14 juillet 2015 portant création de la profession de psychothérapeute.'
+valid_from: '2026-06-12'
+valid_to: '2026-07-16'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/10/28/n2/consolide/20260612/fr'
+source_sha256: '86f82ecd1b551e4da5d67b90715012d8c4dd97625b5580f9171adc438ec084ed'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier** — **Dispositions générales **

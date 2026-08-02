@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-05-28-a415:2024-06-21
-title: Version consolidée applicable au 21/06/2024 : Règlement grand-ducal du 28 mai 2019 déterminant les propriétés domaniales relevant du domaine public fluvial.
-valid_from: 2024-06-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/05/28/a415/consolide/20240621/fr
-source_sha256: a9af0e52ad35c313100a5e0b1242d3e9f94772ae6801831cae5422a0aeba5e50
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-05-28-a415:2024-06-21'
+title: 'Version consolidée applicable au 21/06/2024 : Règlement grand-ducal du 28 mai 2019 déterminant les propriétés domaniales relevant du domaine public fluvial.'
+valid_from: '2024-06-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/05/28/a415/consolide/20240621/fr'
+source_sha256: 'a9af0e52ad35c313100a5e0b1242d3e9f94772ae6801831cae5422a0aeba5e50'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

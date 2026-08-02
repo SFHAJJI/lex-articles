@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-12-19-a1035:2021-07-16
-title: Loi du 19 décembre 2020 ayant pour objet la mise en place d’une nouvelle aide de relance.
-valid_from: 2021-07-16
-valid_to: 2021-12-16
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1035/consolide/20210716/fr
-source_sha256: bab47179092834ca0b2a0f1b7a07e9fa1ee6739a0045f0133a3250d3503b72a4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-12-19-a1035:2021-07-16'
+title: 'Loi du 19 décembre 2020 ayant pour objet la mise en place d’une nouvelle aide de relance.'
+valid_from: '2021-07-16'
+valid_to: '2021-12-16'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1035/consolide/20210716/fr'
+source_sha256: 'bab47179092834ca0b2a0f1b7a07e9fa1ee6739a0045f0133a3250d3503b72a4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

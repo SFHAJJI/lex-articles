@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-04-18-n8:2005-07-05
-title: Loi du 18 avril 2004 relative aux délais de paiement et aux intérêts de retard.
-valid_from: 2005-07-05
-valid_to: 2013-04-14
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/04/18/n8/consolide/20050705/fr
-source_sha256: c7a5c88ccccee2af81fd4662c98bd73ba81abcb72641703ec7587bc353d59660
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-04-18-n8:2005-07-05'
+title: 'Loi du 18 avril 2004 relative aux délais de paiement et aux intérêts de retard.'
+valid_from: '2005-07-05'
+valid_to: '2013-04-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/04/18/n8/consolide/20050705/fr'
+source_sha256: 'c7a5c88ccccee2af81fd4662c98bd73ba81abcb72641703ec7587bc353d59660'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Les intérêts en faveur des créances des transactions commerciales

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-05-07-n2:2025-04-21
-title: Version consolidée applicable au 21/04/2025 : Règlement grand-ducal du 7 mai 2009 concernant les règles de conduite et l'ordre intérieur communs à toutes les écoles.
-valid_from: 2025-04-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n2/consolide/20250421/fr
-source_sha256: 2bad58d45f4eae013caf042a86e211d9c06722bbeeda4ded92a16f794d003d5d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-05-07-n2:2025-04-21'
+title: 'Version consolidée applicable au 21/04/2025 : Règlement grand-ducal du 7 mai 2009 concernant les règles de conduite et l''ordre intérieur communs à toutes les écoles.'
+valid_from: '2025-04-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n2/consolide/20250421/fr'
+source_sha256: '2bad58d45f4eae013caf042a86e211d9c06722bbeeda4ded92a16f794d003d5d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

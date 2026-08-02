@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-04-05-n1:2021-07-27
-title: Version consolidée applicable au 27/07/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de promotion des œuvres européennes dans les services de médias audiovisuels.
-valid_from: 2021-07-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n1/consolide/20210727/fr
-source_sha256: 15bbaf08c255ef15e1c753fd332538b0c81ee61c76985d1ba7059a22dca6307f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-04-05-n1:2021-07-27'
+title: 'Version consolidée applicable au 27/07/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de promotion des œuvres européennes dans les services de médias audiovisuels.'
+valid_from: '2021-07-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n1/consolide/20210727/fr'
+source_sha256: '15bbaf08c255ef15e1c753fd332538b0c81ee61c76985d1ba7059a22dca6307f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

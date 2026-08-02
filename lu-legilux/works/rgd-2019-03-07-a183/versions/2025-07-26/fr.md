@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-03-07-a183:2025-07-26
-title: Version consolidée applicable au 26/07/2025 : Règlement grand-ducal du 7 mars 2019\n- portant introduction d’une aide financière pour la promotion des véhicules routiers à zéro ou à faibles émissions de CO2 \n- modifiant l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques.
-valid_from: 2025-07-26
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/03/07/a183/consolide/20250726/fr
-source_sha256: fa792bd15f5fb0ad98697b912b5ff2ab7a98039f8d17b306e07c565224660f77
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-03-07-a183:2025-07-26'
+title: 'Version consolidée applicable au 26/07/2025 : Règlement grand-ducal du 7 mars 2019\n- portant introduction d’une aide financière pour la promotion des véhicules routiers à zéro ou à faibles émissions de CO2 \n- modifiant l’arrêté grand-ducal modifié du 23 novembre 1955 portant règlement de la circulation sur toutes les voies publiques.'
+valid_from: '2025-07-26'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/03/07/a183/consolide/20250726/fr'
+source_sha256: 'fa792bd15f5fb0ad98697b912b5ff2ab7a98039f8d17b306e07c565224660f77'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er_20250726"></a>

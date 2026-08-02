@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-06-27-n6:2024-03-23
-title: Version consolidée applicable au 07/03/2026 : Loi du 27 juin 2016 concernant la mise à disposition sur le marché d’équipements radioélectriques.
-valid_from: 2024-03-23
-valid_to: 2026-03-06
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n6/consolide/20240323/fr
-source_sha256: ce918f4f9cd852eadfe0cdfb2513f30fa4f5f7d4cc1b47f4898f8d830363d351
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-06-27-n6:2024-03-23'
+title: 'Version consolidée applicable au 07/03/2026 : Loi du 27 juin 2016 concernant la mise à disposition sur le marché d’équipements radioélectriques.'
+valid_from: '2024-03-23'
+valid_to: '2026-03-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n6/consolide/20240323/fr'
+source_sha256: 'ce918f4f9cd852eadfe0cdfb2513f30fa4f5f7d4cc1b47f4898f8d830363d351'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — *Dispositions générales.*

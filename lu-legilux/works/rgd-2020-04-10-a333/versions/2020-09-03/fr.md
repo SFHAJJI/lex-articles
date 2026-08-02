@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-04-10-a333:2020-09-03
-title: Règlement grand-ducal du 10 avril 2020 déterminant les différentes branches enseignées, les modalités d’obtention, de délivrance et la nomenclature des diplômes, ainsi que les modalités de transition entre les différents ordres d’établissement et niveaux d’enseignement.
-valid_from: 2020-09-03
-valid_to: 2021-08-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/20200903/fr
-source_sha256: 8e211ba6c3bdb11ccd65a3cdf5b7135780ae4a59c1c40c225031e8a99be583c3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-04-10-a333:2020-09-03'
+title: 'Règlement grand-ducal du 10 avril 2020 déterminant les différentes branches enseignées, les modalités d’obtention, de délivrance et la nomenclature des diplômes, ainsi que les modalités de transition entre les différents ordres d’établissement et niveaux d’enseignement.'
+valid_from: '2020-09-03'
+valid_to: '2021-08-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/20200903/fr'
+source_sha256: '8e211ba6c3bdb11ccd65a3cdf5b7135780ae4a59c1c40c225031e8a99be583c3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Partie Ière ** — **Définitions et branches d’enseignement**

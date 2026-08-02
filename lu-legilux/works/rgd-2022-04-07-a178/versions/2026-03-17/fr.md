@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-04-07-a178:2026-03-17
-title: Version consolidée applicable au 17/03/2026 : Règlement grand-ducal du 7 avril 2022 instituant une commission d’accompagnement auprès du Centre national de l’audiovisuel.
-valid_from: 2026-03-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/consolide/20260317/fr
-source_sha256: fe6e18954ef5af5ffc63f573780f53680aecc6cef3c9a8ea311b69a9bdb92cdb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-04-07-a178:2026-03-17'
+title: 'Version consolidée applicable au 17/03/2026 : Règlement grand-ducal du 7 avril 2022 instituant une commission d’accompagnement auprès du Centre national de l’audiovisuel.'
+valid_from: '2026-03-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/consolide/20260317/fr'
+source_sha256: 'fe6e18954ef5af5ffc63f573780f53680aecc6cef3c9a8ea311b69a9bdb92cdb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

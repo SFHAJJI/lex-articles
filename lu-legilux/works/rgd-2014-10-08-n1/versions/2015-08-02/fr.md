@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-10-08-n1:2015-08-02
-title: Version consolidée applicable au 02/08/2015 : Règlement grand-ducal du 8 octobre 2014 concernant les modalités d'agrément et d'exercice des intermédiaires d'assurances et de réassurances ainsi que des professionnels du secteur de l'assurance.
-valid_from: 2015-08-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1/consolide/20150802/fr
-source_sha256: 63a4f19cc2e954a85540875bc382248e615d0ba9b238de3c81e83938d5414231
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-10-08-n1:2015-08-02'
+title: 'Version consolidée applicable au 02/08/2015 : Règlement grand-ducal du 8 octobre 2014 concernant les modalités d''agrément et d''exercice des intermédiaires d''assurances et de réassurances ainsi que des professionnels du secteur de l''assurance.'
+valid_from: '2015-08-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1/consolide/20150802/fr'
+source_sha256: '63a4f19cc2e954a85540875bc382248e615d0ba9b238de3c81e83938d5414231'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Les intermédiaires d’assurances ou de réassurances

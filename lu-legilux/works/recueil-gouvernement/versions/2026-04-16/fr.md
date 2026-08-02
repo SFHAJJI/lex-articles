@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-gouvernement:2026-04-16
-title: Gouvernement
-valid_from: 2026-04-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20260416/fr
-source_sha256: 35e6baa9bb31b820a56f6fc19e07fcea4ce5e9a4bff7d986d6af01eba63da179
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-gouvernement:2026-04-16'
+title: 'Gouvernement'
+valid_from: '2026-04-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20260416/fr'
+source_sha256: '35e6baa9bb31b820a56f6fc19e07fcea4ce5e9a4bff7d986d6af01eba63da179'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **ORGANISATION DU GOUVERNEMENT**

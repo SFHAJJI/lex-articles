@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1992-02-13-n1:2010-12-28
-title: Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 13 février 1992 fixant les limites à imposer au volume des messages publicitaires pouvant être contenus dans les services de radio locale.
-valid_from: 2010-12-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/consolide/20101228/fr
-source_sha256: 5418cbca53ea36cb42e82cce23d790d034008134c5eb833f7104c7b27a133b01
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1992-02-13-n1:2010-12-28'
+title: 'Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 13 février 1992 fixant les limites à imposer au volume des messages publicitaires pouvant être contenus dans les services de radio locale.'
+valid_from: '2010-12-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/consolide/20101228/fr'
+source_sha256: '5418cbca53ea36cb42e82cce23d790d034008134c5eb833f7104c7b27a133b01'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-06-16-a326:2024-09-01
-title: Règlement grand-ducal du 16 juin 2022 déterminant les différentes branches, les niveaux et la durée des cours dans l’enseignement musical
-valid_from: 2024-09-01
-valid_to: 2025-08-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/06/16/a326/consolide/20240901/fr
-source_sha256: a14db2d6d2f69f231e5551480a42df476fa83fb208830f843fc41c588af79141
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-06-16-a326:2024-09-01'
+title: 'Règlement grand-ducal du 16 juin 2022 déterminant les différentes branches, les niveaux et la durée des cours dans l’enseignement musical'
+valid_from: '2024-09-01'
+valid_to: '2025-08-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/06/16/a326/consolide/20240901/fr'
+source_sha256: 'a14db2d6d2f69f231e5551480a42df476fa83fb208830f843fc41c588af79141'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Partie Ire** — **Définitions, branches et admissibilité dans les différents niveaux**

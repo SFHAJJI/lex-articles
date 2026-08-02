@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1984-07-16-n1:2011-03-20
-title: Version consolidée applicable au 25/08/2018 : Loi du 16 juillet 1984 relative aux laboratoires d'analyses médicales.
-valid_from: 2011-03-20
-valid_to: 2012-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20110320/fr
-source_sha256: fc0cdf1b8bb863a0a81310c24c50732d8c4f417f6293f8c532ac87141592c657
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1984-07-16-n1:2011-03-20'
+title: 'Version consolidée applicable au 25/08/2018 : Loi du 16 juillet 1984 relative aux laboratoires d''analyses médicales.'
+valid_from: '2011-03-20'
+valid_to: '2012-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20110320/fr'
+source_sha256: 'fc0cdf1b8bb863a0a81310c24c50732d8c4f417f6293f8c532ac87141592c657'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

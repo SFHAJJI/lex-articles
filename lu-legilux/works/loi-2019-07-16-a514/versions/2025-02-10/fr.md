@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-07-16-a514:2025-02-10
-title: Loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS.
-valid_from: 2025-02-10
-valid_to: 2026-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20250210/fr
-source_sha256: c37addbeab4eab1020950280cf586a0d6edccc22f280a730b42405217ba7ee51
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-07-16-a514:2025-02-10'
+title: 'Loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS.'
+valid_from: '2025-02-10'
+valid_to: '2026-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20250210/fr'
+source_sha256: 'c37addbeab4eab1020950280cf586a0d6edccc22f280a730b42405217ba7ee51'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Mise en oeuvre du règlement (UE) n° 345/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque européens et du règlement (UE) n° 346/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds d’entrepreneuriat social européens

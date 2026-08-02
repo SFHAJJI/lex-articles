@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1987-12-21-n1:2013-12-07
-title: Version consolidée applicable au 07/12/2013 : Règlement grand-ducal du 21 décembre 1987 fixant les modalités d'application de la loi du 30 mars 1979 organisant l'identification numérique des personnes physiques et morales.
-valid_from: 2013-12-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1987/12/21/n1/consolide/20131207/fr
-source_sha256: 5d2b66fae4daf7145ad22c4a4937f55b46b206d1d65c7d92cd6fd6955a9d161d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1987-12-21-n1:2013-12-07'
+title: 'Version consolidée applicable au 07/12/2013 : Règlement grand-ducal du 21 décembre 1987 fixant les modalités d''application de la loi du 30 mars 1979 organisant l''identification numérique des personnes physiques et morales.'
+valid_from: '2013-12-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1987/12/21/n1/consolide/20131207/fr'
+source_sha256: '5d2b66fae4daf7145ad22c4a4937f55b46b206d1d65c7d92cd6fd6955a9d161d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — **Structure du numéro d´identité**

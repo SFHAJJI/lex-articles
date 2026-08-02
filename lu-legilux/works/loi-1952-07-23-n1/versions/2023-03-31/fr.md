@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1952-07-23-n1:2023-03-31
-title: Version consolidée applicable au 31/03/2023 : Loi du 23 juillet 1952 concernant l’organisation militaire.
-valid_from: 2023-03-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1952/07/23/n1/consolide/20230331/fr
-source_sha256: 43503f5826159f2ab1a3f38af4ed31934af0c6c05e986986b4742064e401b67e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1952-07-23-n1:2023-03-31'
+title: 'Version consolidée applicable au 31/03/2023 : Loi du 23 juillet 1952 concernant l’organisation militaire.'
+valid_from: '2023-03-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1952/07/23/n1/consolide/20230331/fr'
+source_sha256: '43503f5826159f2ab1a3f38af4ed31934af0c6c05e986986b4742064e401b67e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

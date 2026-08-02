@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-11-12-n5:2012-02-16
-title: Version consolidée applicable au 02/12/2011 : Règlement grand-ducal du 12 novembre 2011 portant fixation de la durée normale de travail et des modalités de l'horaire de travail mobile dans les administrations de l'Etat.
-valid_from: 2012-02-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/11/12/n5/consolide/20120216/fr
-source_sha256: e30968fd2a3b07a5407e2693133a77bc74cdb994456ebe8f888029e504e34507
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-11-12-n5:2012-02-16'
+title: 'Version consolidée applicable au 02/12/2011 : Règlement grand-ducal du 12 novembre 2011 portant fixation de la durée normale de travail et des modalités de l''horaire de travail mobile dans les administrations de l''Etat.'
+valid_from: '2012-02-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/11/12/n5/consolide/20120216/fr'
+source_sha256: 'e30968fd2a3b07a5407e2693133a77bc74cdb994456ebe8f888029e504e34507'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

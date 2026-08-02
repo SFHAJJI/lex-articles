@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-12-23-a673:2023-07-24
-title: Version consolidée applicable au 24/07/2023 : Loi du 23 décembre 2022 instituant une contribution étatique visant à limiter la hausse des prix des services de charge de véhicules électriques sur les bornes de charge accessibles au public.
-valid_from: 2023-07-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a673/consolide/20230724/fr
-source_sha256: 5f36c6a795eba63addfa7c8148a9d6cdabaeb77a787405f7e7d2a01e7c1b4a26
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-12-23-a673:2023-07-24'
+title: 'Version consolidée applicable au 24/07/2023 : Loi du 23 décembre 2022 instituant une contribution étatique visant à limiter la hausse des prix des services de charge de véhicules électriques sur les bornes de charge accessibles au public.'
+valid_from: '2023-07-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a673/consolide/20230724/fr'
+source_sha256: '5f36c6a795eba63addfa7c8148a9d6cdabaeb77a787405f7e7d2a01e7c1b4a26'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2002-11-13-n1:2008-12-26
-title: Version consolidée applicable au 22/08/2021 : Loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l'exercice permanent de la profession d'avocat dans un Etat membre autre que celui où la qualification a été acquise et portant: 1. modification de la loi modifiée du 10 août 1991 sur la profession d'avocat; 2. modification de la loi du 31 mai 1999 régissant la domiciliation des sociétés.
-valid_from: 2008-12-26
-valid_to: 2015-04-06
-source: https://legilux.public.lu/eli/etat/leg/loi/2002/11/13/n1/consolide/20081226/fr
-source_sha256: 9bb2cd82e47f2f83bbcf9721f8d920f67a89fa3732c814d10e9f3267e32f0745
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2002-11-13-n1:2008-12-26'
+title: 'Version consolidée applicable au 22/08/2021 : Loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement européen et du Conseil du 16 février 1998 visant à faciliter l''exercice permanent de la profession d''avocat dans un Etat membre autre que celui où la qualification a été acquise et portant: 1. modification de la loi modifiée du 10 août 1991 sur la profession d''avocat; 2. modification de la loi du 31 mai 1999 régissant la domiciliation des sociétés.'
+valid_from: '2008-12-26'
+valid_to: '2015-04-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2002/11/13/n1/consolide/20081226/fr'
+source_sha256: '9bb2cd82e47f2f83bbcf9721f8d920f67a89fa3732c814d10e9f3267e32f0745'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

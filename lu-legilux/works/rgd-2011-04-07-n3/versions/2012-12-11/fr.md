@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-04-07-n3:2012-12-11
-title: Version consolidée applicable au 01/09/2019 : Règlement grand-ducal modifié du 7 avril 2011 déterminant 1. les conditions d'admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans l'enseignement fondamental ou affectés aux lycées, au Centre de psychologie et d'orientation scolaires, à l'Action locale pour jeunes, à l'École de la 2e Chance et au Centre national de formation professionnelle continue; 2. les modalités de l'examen de promotion de l'éducateur.
-valid_from: 2012-12-11
-valid_to: 2019-08-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/04/07/n3/consolide/20121211/fr
-source_sha256: f120aed44358dcd556a358c9f9bee5ea1360ab5da2758aeae53da96d63c96dcf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-04-07-n3:2012-12-11'
+title: 'Version consolidée applicable au 01/09/2019 : Règlement grand-ducal modifié du 7 avril 2011 déterminant 1. les conditions d''admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans l''enseignement fondamental ou affectés aux lycées, au Centre de psychologie et d''orientation scolaires, à l''Action locale pour jeunes, à l''École de la 2e Chance et au Centre national de formation professionnelle continue; 2. les modalités de l''examen de promotion de l''éducateur.'
+valid_from: '2012-12-11'
+valid_to: '2019-08-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/04/07/n3/consolide/20121211/fr'
+source_sha256: 'f120aed44358dcd556a358c9f9bee5ea1360ab5da2758aeae53da96d63c96dcf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

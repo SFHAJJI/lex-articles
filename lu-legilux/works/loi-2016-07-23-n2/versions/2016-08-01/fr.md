@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-23-n2:2016-08-01
-title: Version consolidée applicable au 30/06/2022 : loi du 23 juillet 2016 portant modification 1. du Code de la sécurité sociale; 2. de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu, et abrogeant la loi modifiée du 21 décembre 2007 concernant le boni pour enfant.
-valid_from: 2016-08-01
-valid_to: 2021-09-30
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n2/consolide/20160801/fr
-source_sha256: 3036c8d1f982a84bcf41d5414472c1050a53195ece4dc8b18f89e704d4680b52
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-23-n2:2016-08-01'
+title: 'Version consolidée applicable au 30/06/2022 : loi du 23 juillet 2016 portant modification 1. du Code de la sécurité sociale; 2. de la loi modifiée du 4 décembre 1967 concernant l''impôt sur le revenu, et abrogeant la loi modifiée du 21 décembre 2007 concernant le boni pour enfant.'
+valid_from: '2016-08-01'
+valid_to: '2021-09-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n2/consolide/20160801/fr'
+source_sha256: '3036c8d1f982a84bcf41d5414472c1050a53195ece4dc8b18f89e704d4680b52'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_ier"></a>

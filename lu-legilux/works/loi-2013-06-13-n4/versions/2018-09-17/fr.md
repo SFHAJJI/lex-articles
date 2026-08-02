@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2013-06-13-n4:2018-09-17
-title: Version consolidée applicable au 15/09/2021 : Loi du 13 juin 2013 portant création d'un lycée à Clervaux.
-valid_from: 2018-09-17
-valid_to: 2021-09-14
-source: https://legilux.public.lu/eli/etat/leg/loi/2013/06/13/n4/consolide/20180917/fr
-source_sha256: c999f7305ec2ec80dad171eec6d53834f6ee3341f758fe1de0afc8d15708177d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2013-06-13-n4:2018-09-17'
+title: 'Version consolidée applicable au 15/09/2021 : Loi du 13 juin 2013 portant création d''un lycée à Clervaux.'
+valid_from: '2018-09-17'
+valid_to: '2021-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/06/13/n4/consolide/20180917/fr'
+source_sha256: 'c999f7305ec2ec80dad171eec6d53834f6ee3341f758fe1de0afc8d15708177d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

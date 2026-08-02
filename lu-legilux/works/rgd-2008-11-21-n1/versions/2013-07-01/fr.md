@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-11-21-n1:2013-07-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 21 novembre 2008 portant fixation de l'indemnité des membres de la Commission consultative des Droits de l'Homme du Grand-Duché de Luxembourg.
-valid_from: 2013-07-01
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/consolide/20130701/fr
-source_sha256: 704987abf9901b5910780624a36534c2c61c4da1f91c40d7ccbba1933ea79e78
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-11-21-n1:2013-07-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 21 novembre 2008 portant fixation de l''indemnité des membres de la Commission consultative des Droits de l''Homme du Grand-Duché de Luxembourg.'
+valid_from: '2013-07-01'
+valid_to: '2023-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/consolide/20130701/fr'
+source_sha256: '704987abf9901b5910780624a36534c2c61c4da1f91c40d7ccbba1933ea79e78'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1999-03-19-n12:2014-10-11
-title: Version consolidée applicable au 31/10/2013 : Règlement grand-ducal du 19 mars 1999 concernant l'agrément gouvernemental à accorder aux gestionnaires de services pour filles, femmes et femmes avec enfants.
-valid_from: 2014-10-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1999/03/19/n12/consolide/20141011/fr
-source_sha256: 396e6be33b8639aab874bf5c822578007b846fcf1e65a2e0e2e83b5f20761616
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1999-03-19-n12:2014-10-11'
+title: 'Version consolidée applicable au 31/10/2013 : Règlement grand-ducal du 19 mars 1999 concernant l''agrément gouvernemental à accorder aux gestionnaires de services pour filles, femmes et femmes avec enfants.'
+valid_from: '2014-10-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1999/03/19/n12/consolide/20141011/fr'
+source_sha256: '396e6be33b8639aab874bf5c822578007b846fcf1e65a2e0e2e83b5f20761616'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er: — Objet et Définition

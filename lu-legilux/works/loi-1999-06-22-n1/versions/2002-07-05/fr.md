@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-06-22-n1:2002-07-05
-title: Version consolidée applicable au 01/09/2006 : Loi du 22 juin 1999 ayant pour objet\n 1. le soutien et le développement de la formation professionnelle continue;\n 2. la modification de la loi modifiée du 28 décembre 1988 réglementant l'accès aux professions d'artisan, de commerçant, d'industriel ainsi qu'à certaines professions libérales.
-valid_from: 2002-07-05
-valid_to: 2006-08-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/consolide/20020705/fr
-source_sha256: 98d9301bae5a8aafac3214bd103d30783345a32ccb2384b1c2e91693339f385e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-06-22-n1:2002-07-05'
+title: 'Version consolidée applicable au 01/09/2006 : Loi du 22 juin 1999 ayant pour objet\n 1. le soutien et le développement de la formation professionnelle continue;\n 2. la modification de la loi modifiée du 28 décembre 1988 réglementant l''accès aux professions d''artisan, de commerçant, d''industriel ainsi qu''à certaines professions libérales.'
+valid_from: '2002-07-05'
+valid_to: '2006-08-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/consolide/20020705/fr'
+source_sha256: '98d9301bae5a8aafac3214bd103d30783345a32ccb2384b1c2e91693339f385e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

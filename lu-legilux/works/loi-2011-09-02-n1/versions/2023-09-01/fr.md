@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-09-02-n1:2023-09-01
-title: Version consolidée applicable au 01/09/2023 : Loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales et - modifiant l’article 542-2 du Code du travail; - modifiant la loi modifiée du 16 juillet 1987 concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commandes; - modifiant la loi modifiée du 10 juin 1999 relative à la profession d’expert-comptable; - portant abrogation de la loi modifiée du 21 février 1976 ayant pour objet d’instaurer un jour de fermeture hebdomadaire dans les stations de vente de carburant et de lubrifiant pour véhicules automoteurs.
-valid_from: 2023-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20230901/fr
-source_sha256: d9bf91f122a0f55b7c887c3b7091326dfff25da66ebf52999c9e9f00fafd3627
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-09-02-n1:2023-09-01'
+title: 'Version consolidée applicable au 01/09/2023 : Loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales et - modifiant l’article 542-2 du Code du travail; - modifiant la loi modifiée du 16 juillet 1987 concernant le colportage, la vente ambulante, l’étalage de marchandises et la sollicitation de commandes; - modifiant la loi modifiée du 10 juin 1999 relative à la profession d’expert-comptable; - portant abrogation de la loi modifiée du 21 février 1976 ayant pour objet d’instaurer un jour de fermeture hebdomadaire dans les stations de vente de carburant et de lubrifiant pour véhicules automoteurs.'
+valid_from: '2023-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20230901/fr'
+source_sha256: 'd9bf91f122a0f55b7c887c3b7091326dfff25da66ebf52999c9e9f00fafd3627'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **TITRE Ier** — ** Le droit d’établissement**

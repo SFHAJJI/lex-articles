@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-09-02-n3:2013-09-16
-title: Version consolidée applicable au 09/12/2012 : Règlement grand-ducal du 2 septembre 2011 fixant les modalités et le calendrier de la reprise par l'État des employés communaux et des salariés au service des communes exerçant une activité éducative, sociale, de santé ou administrative dans l'enseignement fondamental public.
-valid_from: 2013-09-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n3/consolide/20130916/fr
-source_sha256: b40f4c967459ed6dcadd3301f1ccb95318cf2164be575414a558edaf98773437
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-09-02-n3:2013-09-16'
+title: 'Version consolidée applicable au 09/12/2012 : Règlement grand-ducal du 2 septembre 2011 fixant les modalités et le calendrier de la reprise par l''État des employés communaux et des salariés au service des communes exerçant une activité éducative, sociale, de santé ou administrative dans l''enseignement fondamental public.'
+valid_from: '2013-09-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n3/consolide/20130916/fr'
+source_sha256: 'b40f4c967459ed6dcadd3301f1ccb95318cf2164be575414a558edaf98773437'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

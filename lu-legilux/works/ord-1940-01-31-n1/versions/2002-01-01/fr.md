@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:ord-1940-01-31-n1:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Dritte Verordnung zur Durchführung des Gewerbesteuergesetzes Vom 31. Januar 1940.\nOrdonnance d’exécution du 31 janvier 1940 relative à la loi de l’impôt commercial communal.
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/ord/1940/01/31/n1/consolide/20020101/fr
-source_sha256: be6d70a39e87d9b9610b8b770e87ebb396792ac1c677e0f0e68eae5ddfee8333
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:ord-1940-01-31-n1:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Dritte Verordnung zur Durchführung des Gewerbesteuergesetzes Vom 31. Januar 1940.\nOrdonnance d’exécution du 31 janvier 1940 relative à la loi de l’impôt commercial communal.'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/ord/1940/01/31/n1/consolide/20020101/fr'
+source_sha256: 'be6d70a39e87d9b9610b8b770e87ebb396792ac1c677e0f0e68eae5ddfee8333'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## *Zum § 2 des Gesetzes.*

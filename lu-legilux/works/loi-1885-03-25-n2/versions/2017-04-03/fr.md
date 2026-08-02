@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1885-03-25-n2:2017-04-03
-title: Version consolidée applicable au 03/04/2017 : Loi du 25 mars 1885, concernant les mesures à prendre pour parer à l'invasion et à la propagation des maladies contagieuses.
-valid_from: 2017-04-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1885/03/25/n2/consolide/20170403/fr
-source_sha256: 442b7ccb18c7022c5a03fb256a214fcda2b3f643ac4f1a9a77633fa3003717cf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1885-03-25-n2:2017-04-03'
+title: 'Version consolidée applicable au 03/04/2017 : Loi du 25 mars 1885, concernant les mesures à prendre pour parer à l''invasion et à la propagation des maladies contagieuses.'
+valid_from: '2017-04-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1885/03/25/n2/consolide/20170403/fr'
+source_sha256: '442b7ccb18c7022c5a03fb256a214fcda2b3f643ac4f1a9a77633fa3003717cf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

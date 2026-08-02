@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-04-17-a256:2022-01-01
-title: Version consolidée applicable au 03/04/2026 : Loi du 17 avril 2018 portant mise en œuvre du règlement (UE) n° 1286/2014 du Parlement européen et du Conseil du 26 novembre 2014 sur les documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance et portant modification de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif.
-valid_from: 2022-01-01
-valid_to: 2026-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a256/consolide/20220101/fr
-source_sha256: b0507945704abbe5e6e182301f141b017d68188ba90b8021a4cd096fbba1c22a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-04-17-a256:2022-01-01'
+title: 'Version consolidée applicable au 03/04/2026 : Loi du 17 avril 2018 portant mise en œuvre du règlement (UE) n° 1286/2014 du Parlement européen et du Conseil du 26 novembre 2014 sur les documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance et portant modification de la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif.'
+valid_from: '2022-01-01'
+valid_to: '2026-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a256/consolide/20220101/fr'
+source_sha256: 'b0507945704abbe5e6e182301f141b017d68188ba90b8021a4cd096fbba1c22a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

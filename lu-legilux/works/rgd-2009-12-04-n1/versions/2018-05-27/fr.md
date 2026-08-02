@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-12-04-n1:2018-05-27
-title: Version consolidée applicable au 06/06/2022 : Règlement grand-ducal du 4 décembre 2009 fixant un nombre limite pour le cadre du personnel de l'Institut Luxembourgeois de Régulation.
-valid_from: 2018-05-27
-valid_to: 2022-06-05
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/consolide/20180527/fr
-source_sha256: 15023bf888613bcddb47fd2d79070d8c1db12002be75fc2da4b6852e5d74713b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-12-04-n1:2018-05-27'
+title: 'Version consolidée applicable au 06/06/2022 : Règlement grand-ducal du 4 décembre 2009 fixant un nombre limite pour le cadre du personnel de l''Institut Luxembourgeois de Régulation.'
+valid_from: '2018-05-27'
+valid_to: '2022-06-05'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/consolide/20180527/fr'
+source_sha256: '15023bf888613bcddb47fd2d79070d8c1db12002be75fc2da4b6852e5d74713b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

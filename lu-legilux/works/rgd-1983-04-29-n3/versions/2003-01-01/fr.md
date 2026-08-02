@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1983-04-29-n3:2003-01-01
-title: Version consolidée applicable au 01/01/2003 : Règlement grand-ducal du 29 avril 1983 fixant la composition et le fonctionnement de la commission d'experts chargée de donner son avis sur les demandes d'autorisation de mise sur le marché des spécialités pharmaceutiques et des médicaments préfabriqués.
-valid_from: 2003-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3/consolide/20030101/fr
-source_sha256: 2e2c9eecd5e5953af96c99320845206f75e835391041f22152e78b7a4bc37aeb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1983-04-29-n3:2003-01-01'
+title: 'Version consolidée applicable au 01/01/2003 : Règlement grand-ducal du 29 avril 1983 fixant la composition et le fonctionnement de la commission d''experts chargée de donner son avis sur les demandes d''autorisation de mise sur le marché des spécialités pharmaceutiques et des médicaments préfabriqués.'
+valid_from: '2003-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3/consolide/20030101/fr'
+source_sha256: '2e2c9eecd5e5953af96c99320845206f75e835391041f22152e78b7a4bc37aeb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

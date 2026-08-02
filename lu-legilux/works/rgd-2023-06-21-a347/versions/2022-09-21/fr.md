@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-06-21-a347:2022-09-21
-title: Version consolidée applicable au 21/09/2022 : Règlement grand-ducal du 21 juin 2023 fixant les jetons de présence des membres de la commission de classement de l’enseignement musical dans le secteur communal.
-valid_from: 2022-09-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/consolide/20220921/fr
-source_sha256: 68bf9a7f5411ea1a0ee232ca6c4af2e84695655e27acbce07dc879bae66cb758
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-06-21-a347:2022-09-21'
+title: 'Version consolidée applicable au 21/09/2022 : Règlement grand-ducal du 21 juin 2023 fixant les jetons de présence des membres de la commission de classement de l’enseignement musical dans le secteur communal.'
+valid_from: '2022-09-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/consolide/20220921/fr'
+source_sha256: '68bf9a7f5411ea1a0ee232ca6c4af2e84695655e27acbce07dc879bae66cb758'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-07-24-a640:2020-12-01
-title: Version consolidée applicable au 01/06/2021 : Loi du 24 juillet 2020 visant à stimuler les investissements des entreprises dans l’ère du Covid-19.
-valid_from: 2020-12-01
-valid_to: 2021-05-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a640/consolide/20201201/fr
-source_sha256: 5b07230bb6d6a7efc86bc7e4b314e8be6a7cd33e922147689c4f23d78981d425
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-07-24-a640:2020-12-01'
+title: 'Version consolidée applicable au 01/06/2021 : Loi du 24 juillet 2020 visant à stimuler les investissements des entreprises dans l’ère du Covid-19.'
+valid_from: '2020-12-01'
+valid_to: '2021-05-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a640/consolide/20201201/fr'
+source_sha256: '5b07230bb6d6a7efc86bc7e4b314e8be6a7cd33e922147689c4f23d78981d425'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

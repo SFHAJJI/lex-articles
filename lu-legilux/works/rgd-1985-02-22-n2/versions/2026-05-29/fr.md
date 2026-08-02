@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1985-02-22-n2:2026-05-29
-title: Version consolidée applicable au 29/05/2026 : Règlement grand-ducal du 22 février 1985 concernant les objets céramiques destinés à entrer en contact avec les denrées alimentaires.
-valid_from: 2026-05-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1985/02/22/n2/consolide/20260529/fr
-source_sha256: f3e814fc41794fbae0731f47864b48328a11ed7683e834d4c6bb6d40e9217604
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1985-02-22-n2:2026-05-29'
+title: 'Version consolidée applicable au 29/05/2026 : Règlement grand-ducal du 22 février 1985 concernant les objets céramiques destinés à entrer en contact avec les denrées alimentaires.'
+valid_from: '2026-05-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1985/02/22/n2/consolide/20260529/fr'
+source_sha256: 'f3e814fc41794fbae0731f47864b48328a11ed7683e834d4c6bb6d40e9217604'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

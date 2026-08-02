@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1993-12-24-n2:2017-03-26
-title: Version consolidée applicable au 26/03/2017 : Règlement grand-ducal modifié du 24 décembre 1993 déterminant en application de l’article 455 du Code de la sécurité sociale la procédure à suivre devant le Conseil arbitral de la sécurité sociale et le Conseil supérieur de la sécurité sociale, ainsi que les délais et frais de justice.
-valid_from: 2017-03-26
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/consolide/20170326/fr
-source_sha256: 788ca53541008c90b5c54897aae0d9bbea793d5fa94c95a85250dec30bbc0c36
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1993-12-24-n2:2017-03-26'
+title: 'Version consolidée applicable au 26/03/2017 : Règlement grand-ducal modifié du 24 décembre 1993 déterminant en application de l’article 455 du Code de la sécurité sociale la procédure à suivre devant le Conseil arbitral de la sécurité sociale et le Conseil supérieur de la sécurité sociale, ainsi que les délais et frais de justice.'
+valid_from: '2017-03-26'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/consolide/20170326/fr'
+source_sha256: '788ca53541008c90b5c54897aae0d9bbea793d5fa94c95a85250dec30bbc0c36'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier — Procédure devant le Conseil arbitral des assurances sociales

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-03-22-n1:2022-03-08
-title: Version consolidée applicable au 22/07/2024 : Loi du 22 mars 2004 relative à la titrisation et portant modification de\n - la loi modifiée du 5 avril 1993 relative au secteur financier\n - la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier\n - la loi du 27 juillet 2003 sur le trust et les contrats fiduciaires\n - la loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu\n - la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune\n - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée.
-valid_from: 2022-03-08
-valid_to: 2024-07-21
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/consolide/20220308/fr
-source_sha256: edf42170042947840b1d1b44866b229e925148de28ffa5ddca18293f2f781af9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-03-22-n1:2022-03-08'
+title: 'Version consolidée applicable au 22/07/2024 : Loi du 22 mars 2004 relative à la titrisation et portant modification de\n - la loi modifiée du 5 avril 1993 relative au secteur financier\n - la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier\n - la loi du 27 juillet 2003 sur le trust et les contrats fiduciaires\n - la loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu\n - la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune\n - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée.'
+valid_from: '2022-03-08'
+valid_to: '2024-07-21'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/03/22/n1/consolide/20220308/fr'
+source_sha256: 'edf42170042947840b1d1b44866b229e925148de28ffa5ddca18293f2f781af9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I — **Définitions**

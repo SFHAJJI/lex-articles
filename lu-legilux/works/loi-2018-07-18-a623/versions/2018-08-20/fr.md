@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-07-18-a623:2018-08-20
-title: Loi du 18 juillet 2018 sur l’Inspection générale de la Police.
-valid_from: 2018-08-20
-valid_to: 2023-09-04
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a623/consolide/20180820/fr
-source_sha256: 7dbd367975a097d6b3b8690962dc17b745ac18e2c7c2f91b35c6ba7a209e4538
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-07-18-a623:2018-08-20'
+title: 'Loi du 18 juillet 2018 sur l’Inspection générale de la Police.'
+valid_from: '2018-08-20'
+valid_to: '2023-09-04'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a623/consolide/20180820/fr'
+source_sha256: '7dbd367975a097d6b3b8690962dc17b745ac18e2c7c2f91b35c6ba7a209e4538'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ** Dispositions générales**

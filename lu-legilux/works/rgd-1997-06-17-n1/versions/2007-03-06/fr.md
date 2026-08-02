@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1997-06-17-n1:2007-03-06
-title: Version consolidée applicable au 12/02/2011 : Règlement grand-ducal du 17 juin 1997 concernant la périodicité des examens médicaux en matière de médecine du travail.
-valid_from: 2007-03-06
-valid_to: 2011-02-11
-source: https://legilux.public.lu/eli/etat/leg/rgd/1997/06/17/n1/consolide/20070306/fr
-source_sha256: 564084cdadceefcfea0a6c40775e67e30d06c67e1329106262753aadbd11ae16
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1997-06-17-n1:2007-03-06'
+title: 'Version consolidée applicable au 12/02/2011 : Règlement grand-ducal du 17 juin 1997 concernant la périodicité des examens médicaux en matière de médecine du travail.'
+valid_from: '2007-03-06'
+valid_to: '2011-02-11'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1997/06/17/n1/consolide/20070306/fr'
+source_sha256: '564084cdadceefcfea0a6c40775e67e30d06c67e1329106262753aadbd11ae16'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-02-27-n3:2013-07-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 27 février 2011 portant institution d'une autorité nationale pour la certification professionnelle.
-valid_from: 2013-07-01
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/consolide/20130701/fr
-source_sha256: 3d2c0fdef0604cd9ba7e0f8db0be6c018a6f4285359e636ca969fed79e70b941
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-02-27-n3:2013-07-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 27 février 2011 portant institution d''une autorité nationale pour la certification professionnelle.'
+valid_from: '2013-07-01'
+valid_to: '2023-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/consolide/20130701/fr'
+source_sha256: '3d2c0fdef0604cd9ba7e0f8db0be6c018a6f4285359e636ca969fed79e70b941'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

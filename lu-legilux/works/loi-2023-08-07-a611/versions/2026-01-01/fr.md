@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-08-07-a611:2026-01-01
-title: Loi du 7 août 2023 relative au logement abordable.
-valid_from: 2026-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a611/consolide/20260101/fr
-source_sha256: a9c8832dc282558023a3c27017c83828c909f40ea8f8e0233499dc797c6e3954
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-08-07-a611:2026-01-01'
+title: 'Loi du 7 août 2023 relative au logement abordable.'
+valid_from: '2026-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a611/consolide/20260101/fr'
+source_sha256: 'a9c8832dc282558023a3c27017c83828c909f40ea8f8e0233499dc797c6e3954'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Généralités

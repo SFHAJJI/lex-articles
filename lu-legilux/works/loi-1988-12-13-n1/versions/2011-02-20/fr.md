@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1988-12-13-n1:2011-02-20
-title: Version consolidée applicable au 14/08/2023 : Loi communale du 13 décembre 1988.
-valid_from: 2011-02-20
-valid_to: 2013-08-24
-source: https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n1/consolide/20110220/fr
-source_sha256: 808404cdba0db27e0d15510fb6d1cf936ce4e600ac9f2bbeb44a2066bf08d152
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1988-12-13-n1:2011-02-20'
+title: 'Version consolidée applicable au 14/08/2023 : Loi communale du 13 décembre 1988.'
+valid_from: '2011-02-20'
+valid_to: '2013-08-24'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n1/consolide/20110220/fr'
+source_sha256: '808404cdba0db27e0d15510fb6d1cf936ce4e600ac9f2bbeb44a2066bf08d152'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre 1er. ** — ** De la division du pays, du territoire de la commune et de son nom**

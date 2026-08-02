@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1844-07-12-n1:1863-02-13
-title: Version consolidée applicable au 13/02/1863 : Loi du 12 juillet 1844, sur les chemins vicinaux.
-valid_from: 1863-02-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1844/07/12/n1/consolide/18630213/fr
-source_sha256: 98b43dcd580fbcf8b6f42c80ad5c43a042bea8e47e6d0573643abf1adf35264e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1844-07-12-n1:1863-02-13'
+title: 'Version consolidée applicable au 13/02/1863 : Loi du 12 juillet 1844, sur les chemins vicinaux.'
+valid_from: '1863-02-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1844/07/12/n1/consolide/18630213/fr'
+source_sha256: '98b43dcd580fbcf8b6f42c80ad5c43a042bea8e47e6d0573643abf1adf35264e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## CHAPITRE Ier.*Des moyens affectés aux travaux de la voirie vicinale.*

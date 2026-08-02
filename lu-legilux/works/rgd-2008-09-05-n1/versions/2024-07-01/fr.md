@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-09-05-n1:2024-07-01
-title: Version consolidée applicable au 01/07/2024 : Règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.
-valid_from: 2024-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n1/consolide/20240701/fr
-source_sha256: 7f4ce90f19413a753d216b6da0f274f05267caf5d2cff23d2660eb6af5a2d5eb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-09-05-n1:2024-07-01'
+title: 'Version consolidée applicable au 01/07/2024 : Règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.'
+valid_from: '2024-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n1/consolide/20240701/fr'
+source_sha256: '7f4ce90f19413a753d216b6da0f274f05267caf5d2cff23d2660eb6af5a2d5eb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

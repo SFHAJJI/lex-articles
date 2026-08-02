@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-03-17-n1:2024-12-31
-title: Version consolidée applicable au 31/12/2024 : Règlement grand-ducal du 17 mars 2016 établissant des règles et normes communes concernant les organismes habilités à effectuer l'inspection et la visite des navires et les activités pertinentes des administrations maritimes et portant\n 1. modification du règlement grand-ducal du 8 janvier 2015 transposant la directive 2013/30/UE du Parlement européen et du Conseil du 12 juin 2013 relative à la sécurité des opérations pétrolières et gazières en mer et modifiant la directive 2004/35/CE;\n 2. abrogation du règlement grand-ducal du 8 septembre 1997 transposant la directive 94/57/CE établissant des règles et normes communes concernant les organismes habilités à effectuer l'inspection et la visite des navires et les activités pertinentes des administrations maritimes.
-valid_from: 2024-12-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/03/17/n1/consolide/20241231/fr
-source_sha256: 6ecc945d998afba724c8f94c0d72c6a6af027582aea13733fc3803d1e9630ce2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-03-17-n1:2024-12-31'
+title: 'Version consolidée applicable au 31/12/2024 : Règlement grand-ducal du 17 mars 2016 établissant des règles et normes communes concernant les organismes habilités à effectuer l''inspection et la visite des navires et les activités pertinentes des administrations maritimes et portant\n 1. modification du règlement grand-ducal du 8 janvier 2015 transposant la directive 2013/30/UE du Parlement européen et du Conseil du 12 juin 2013 relative à la sécurité des opérations pétrolières et gazières en mer et modifiant la directive 2004/35/CE;\n 2. abrogation du règlement grand-ducal du 8 septembre 1997 transposant la directive 94/57/CE établissant des règles et normes communes concernant les organismes habilités à effectuer l''inspection et la visite des navires et les activités pertinentes des administrations maritimes.'
+valid_from: '2024-12-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/03/17/n1/consolide/20241231/fr'
+source_sha256: '6ecc945d998afba724c8f94c0d72c6a6af027582aea13733fc3803d1e9630ce2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

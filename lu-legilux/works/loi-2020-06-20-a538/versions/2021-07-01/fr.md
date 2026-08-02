@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-06-20-a538:2021-07-01
-title: Version consolidée applicable au 01/01/2023 : Loi du 20 juin 2020 portant\n1° dérogation temporaire à certaines dispositions en matière de droit du travail en relation avec l’état de crise lié au Covid-19 ;\n2° modification du Code du travail.\n
-valid_from: 2021-07-01
-valid_to: 2021-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a538/consolide/20210701/fr
-source_sha256: 14a13cf079c27553345a24f3941cccc520c1e7e74109bf1897a6534bb5c4af60
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-06-20-a538:2021-07-01'
+title: 'Version consolidée applicable au 01/01/2023 : Loi du 20 juin 2020 portant\n1° dérogation temporaire à certaines dispositions en matière de droit du travail en relation avec l’état de crise lié au Covid-19 ;\n2° modification du Code du travail.\n'
+valid_from: '2021-07-01'
+valid_to: '2021-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a538/consolide/20210701/fr'
+source_sha256: '14a13cf079c27553345a24f3941cccc520c1e7e74109bf1897a6534bb5c4af60'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

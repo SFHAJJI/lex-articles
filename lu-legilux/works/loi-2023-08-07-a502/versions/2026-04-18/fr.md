@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-08-07-a502:2026-04-18
-title: Loi du 7 août 2023 sur l’organisation de l’Armée luxembourgeoise.
-valid_from: 2026-04-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a502/consolide/20260418/fr
-source_sha256: fd370e7a2f3b959f4f94cf5c5af3d2309a783eede9d9483b1a72478c0b229c96
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-08-07-a502:2026-04-18'
+title: 'Loi du 7 août 2023 sur l’organisation de l’Armée luxembourgeoise.'
+valid_from: '2026-04-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a502/consolide/20260418/fr'
+source_sha256: 'fd370e7a2f3b959f4f94cf5c5af3d2309a783eede9d9483b1a72478c0b229c96'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Disposition générale

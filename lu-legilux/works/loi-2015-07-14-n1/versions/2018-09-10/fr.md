@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-07-14-n1:2018-09-10
-title: Loi du 14 juillet 2015 portant création de la profession de psychothérapeute.
-valid_from: 2018-09-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/07/14/n1/consolide/20180910/fr
-source_sha256: db96ba0d8fa62971aff30cd9c37b0e74968e4ee11e4b7cffe6589541d5c952f9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-07-14-n1:2018-09-10'
+title: 'Loi du 14 juillet 2015 portant création de la profession de psychothérapeute.'
+valid_from: '2018-09-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/07/14/n1/consolide/20180910/fr'
+source_sha256: 'db96ba0d8fa62971aff30cd9c37b0e74968e4ee11e4b7cffe6589541d5c952f9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier: Profession de psychothérapeute

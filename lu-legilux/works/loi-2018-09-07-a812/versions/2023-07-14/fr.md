@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-09-07-a812:2023-07-14
-title: Version consolidée applicable au 14/07/2023 : Loi du 7 septembre 2018\n1° portant approbation du Protocole d’accord entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de la République française relatif au renforcement de la coopération en matière de transports transfrontaliers, fait à Paris, le 20 mars 2018 ;\n2° relative à la participation de l’État luxembourgeois au financement des travaux d’infrastructure réalisés sur le territoire français entre Metz et la frontière franco-luxembourgeoise à Zoufftgen.
-valid_from: 2023-07-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/09/07/a812/consolide/20230714/fr
-source_sha256: 6c24131734e2eb51a77a687c4b745173c10badc6f6d063d936ac475b13c22d84
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-09-07-a812:2023-07-14'
+title: 'Version consolidée applicable au 14/07/2023 : Loi du 7 septembre 2018\n1° portant approbation du Protocole d’accord entre le Gouvernement du Grand-Duché de Luxembourg et le Gouvernement de la République française relatif au renforcement de la coopération en matière de transports transfrontaliers, fait à Paris, le 20 mars 2018 ;\n2° relative à la participation de l’État luxembourgeois au financement des travaux d’infrastructure réalisés sur le territoire français entre Metz et la frontière franco-luxembourgeoise à Zoufftgen.'
+valid_from: '2023-07-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/09/07/a812/consolide/20230714/fr'
+source_sha256: '6c24131734e2eb51a77a687c4b745173c10badc6f6d063d936ac475b13c22d84'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

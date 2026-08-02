@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1946-03-30-n9:2004-01-04
-title: Version consolidée applicable au 04/01/2004 : Arrêté grand-ducal du 30 mars 1946 portant institution d'une décoration civique.
-valid_from: 2004-01-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/consolide/20040104/fr
-source_sha256: 2e188a02f44bad437b858d2259b10719127f78c02bfbc17dbc5e0e132b70930b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1946-03-30-n9:2004-01-04'
+title: 'Version consolidée applicable au 04/01/2004 : Arrêté grand-ducal du 30 mars 1946 portant institution d''une décoration civique.'
+valid_from: '2004-01-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/consolide/20040104/fr'
+source_sha256: '2e188a02f44bad437b858d2259b10719127f78c02bfbc17dbc5e0e132b70930b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

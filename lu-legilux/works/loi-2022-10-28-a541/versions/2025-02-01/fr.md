@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-10-28-a541:2025-02-01
-title: Version consolidée applicable au 01/02/2025 : Loi du 28 octobre 2022 portant création de la procédure de dissolution administrative sans liquidation et modifiant :\n1° le Code de commerce ;\n2° le Nouveau Code de procédure civile ;\n3° la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;\n4° la loi modifiée du 19 décembre 2008 ayant pour objet la coopération interadministrative et judiciaire et le renforcement des moyens de l’Administration des contributions directes, de l’Administration de l’enregistrement et des domaines et de l’Administration des douanes et accises et portant modification de\n- la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ;\n- la loi générale des impôts (« Abgabenordnung ») ;\n- la loi modifiée du 17 avril 1964 portant réorganisation de l’Administration des contributions directes ;\n- la loi modifiée du 20 mars 1970 portant réorganisation de l’Administration de l’enregistrement et des domaines ;\n- la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d’assurance sociale ;\n5° la loi modifiée du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes de paiement et des comptes bancaires identifiés par un numéro IBAN et des coffres-forts.
-valid_from: 2025-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/consolide/20250201/fr
-source_sha256: b1ca58a378d84dd9911c4a3a0bb8f135484a74b2ff81a8d5aea4e4741a120b78
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-10-28-a541:2025-02-01'
+title: 'Version consolidée applicable au 01/02/2025 : Loi du 28 octobre 2022 portant création de la procédure de dissolution administrative sans liquidation et modifiant :\n1° le Code de commerce ;\n2° le Nouveau Code de procédure civile ;\n3° la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ;\n4° la loi modifiée du 19 décembre 2008 ayant pour objet la coopération interadministrative et judiciaire et le renforcement des moyens de l’Administration des contributions directes, de l’Administration de l’enregistrement et des domaines et de l’Administration des douanes et accises et portant modification de\n- la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ;\n- la loi générale des impôts (« Abgabenordnung ») ;\n- la loi modifiée du 17 avril 1964 portant réorganisation de l’Administration des contributions directes ;\n- la loi modifiée du 20 mars 1970 portant réorganisation de l’Administration de l’enregistrement et des domaines ;\n- la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d’assurance sociale ;\n5° la loi modifiée du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes de paiement et des comptes bancaires identifiés par un numéro IBAN et des coffres-forts.'
+valid_from: '2025-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/consolide/20250201/fr'
+source_sha256: 'b1ca58a378d84dd9911c4a3a0bb8f135484a74b2ff81a8d5aea4e4741a120b78'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er **–**** — **La procédure de dissolution administrative sans liquidation**

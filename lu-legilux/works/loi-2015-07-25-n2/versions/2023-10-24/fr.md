@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-07-25-n2:2023-10-24
-title: Loi du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés.
-valid_from: 2023-10-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/consolide/20231024/fr
-source_sha256: e2e53924f342dc0f3c6c9fc8afe92b0531a9f6c60b047c259b069f2047972920
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-07-25-n2:2023-10-24'
+title: 'Loi du 25 juillet 2015 portant création du système de contrôle et de sanction automatisés.'
+valid_from: '2023-10-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/consolide/20231024/fr'
+source_sha256: 'e2e53924f342dc0f3c6c9fc8afe92b0531a9f6c60b047c259b069f2047972920'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

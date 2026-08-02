@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-05-30-a455:2018-11-04
-title: Règlement grand-ducal du 30 mai 2018 établissant un système d’identification et d’enregistrement des bovins
-valid_from: 2018-11-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/consolide/20181104/fr
-source_sha256: 7a175f63c9dd80d6fb8691a4888e0a009c0ea01e42582535bc99ca5c83761d05
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-05-30-a455:2018-11-04'
+title: 'Règlement grand-ducal du 30 mai 2018 établissant un système d’identification et d’enregistrement des bovins'
+valid_from: '2018-11-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/consolide/20181104/fr'
+source_sha256: '7a175f63c9dd80d6fb8691a4888e0a009c0ea01e42582535bc99ca5c83761d05'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

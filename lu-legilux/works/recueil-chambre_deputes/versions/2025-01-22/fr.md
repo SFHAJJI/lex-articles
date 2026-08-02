@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-chambre_deputes:2025-01-22
-title: Chambre des Députés
-valid_from: 2025-01-22
-valid_to: 2025-03-14
-source: https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20250122/fr
-source_sha256: c6a05a2f2fd7fdf7f7da1fe33c4133a8bf946f7a267781f6fc28cc2f3a890f66
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-chambre_deputes:2025-01-22'
+title: 'Chambre des Députés'
+valid_from: '2025-01-22'
+valid_to: '2025-03-14'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20250122/fr'
+source_sha256: 'c6a05a2f2fd7fdf7f7da1fe33c4133a8bf946f7a267781f6fc28cc2f3a890f66'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Version consolidée applicable au 03/07/2023 : Loi du 27 février 2011 sur les enquêtes parlementaires.**

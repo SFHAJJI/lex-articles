@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-01-11-n2:2018-05-28
-title: Version consolidée applicable au 04/12/2026 : Règlement grand-ducal du 11 janvier 2013 relatif à la protection des animaux utilisés à des fins scientifiques.
-valid_from: 2018-05-28
-valid_to: 2026-12-03
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/01/11/n2/consolide/20180528/fr
-source_sha256: 4e8fabeaf7621532493662a4cdebb866c924524d1ac5583eac2eaa64c2a50263
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-01-11-n2:2018-05-28'
+title: 'Version consolidée applicable au 04/12/2026 : Règlement grand-ducal du 11 janvier 2013 relatif à la protection des animaux utilisés à des fins scientifiques.'
+valid_from: '2018-05-28'
+valid_to: '2026-12-03'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/01/11/n2/consolide/20180528/fr'
+source_sha256: '4e8fabeaf7621532493662a4cdebb866c924524d1ac5583eac2eaa64c2a50263'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## CHAPITRE Ier — DISPOSITIONS GENERALES

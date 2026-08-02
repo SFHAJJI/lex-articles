@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2007-10-31-n1:2010-07-31
-title: Version consolidée applicable au 07/12/2009 : Loi du 31 octobre 2007 sur le service volontaire des jeunes, modifiant  1. le Code des assurances sociales,  2. la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la Caisse nationale des prestations familiales et abrogeant la loi du 28 janvier 1999 concernant le service volontaire.
-valid_from: 2010-07-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2007/10/31/n1/consolide/20100731/fr
-source_sha256: bfb670195be33f1a1179015478006f639796cc6ece36928c7eca7bfb12fcbdce
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2007-10-31-n1:2010-07-31'
+title: 'Version consolidée applicable au 07/12/2009 : Loi du 31 octobre 2007 sur le service volontaire des jeunes, modifiant  1. le Code des assurances sociales,  2. la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la Caisse nationale des prestations familiales et abrogeant la loi du 28 janvier 1999 concernant le service volontaire.'
+valid_from: '2010-07-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/10/31/n1/consolide/20100731/fr'
+source_sha256: 'bfb670195be33f1a1179015478006f639796cc6ece36928c7eca7bfb12fcbdce'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-12-23-n1:2021-02-21
-title: Version consolidée applicable au 02/06/2025 : Règlement grand-ducal du 23 décembre 2004 concernant les règles de conduite dans les lycées.
-valid_from: 2021-02-21
-valid_to: 2025-06-01
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/consolide/20210221/fr
-source_sha256: a266aa630eb4e83c49b62f0944b60b52471abb6ca2f6826b7d2b698cca648946
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-12-23-n1:2021-02-21'
+title: 'Version consolidée applicable au 02/06/2025 : Règlement grand-ducal du 23 décembre 2004 concernant les règles de conduite dans les lycées.'
+valid_from: '2021-02-21'
+valid_to: '2025-06-01'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/consolide/20210221/fr'
+source_sha256: 'a266aa630eb4e83c49b62f0944b60b52471abb6ca2f6826b7d2b698cca648946'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-etrangers:2025-04-20
-title: Statut des personnes de nationalité étrangère
-valid_from: 2025-04-20
-valid_to: 2026-06-11
-source: https://legilux.public.lu/eli/etat/leg/recueil/etrangers/20250420/fr
-source_sha256: 4a2c4f0895c75de53f3a7952684f91d9223e08df9131fa095bac526ae937a66c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-etrangers:2025-04-20'
+title: 'Statut des personnes de nationalité étrangère'
+valid_from: '2025-04-20'
+valid_to: '2026-06-11'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/etrangers/20250420/fr'
+source_sha256: '4a2c4f0895c75de53f3a7952684f91d9223e08df9131fa095bac526ae937a66c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **1. ENTRÉE ET SÉJOUR**

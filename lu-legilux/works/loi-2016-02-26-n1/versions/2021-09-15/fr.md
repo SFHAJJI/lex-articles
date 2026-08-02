@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-02-26-n1:2021-09-15
-title: Version consolidée applicable au 15/09/2027 : Loi du 26 février 2016 portant création d'une école internationale publique à Differdange.
-valid_from: 2021-09-15
-valid_to: 2027-09-14
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/consolide/20210915/fr
-source_sha256: f98000da5dfb71e13d766da15c83ea2732603870872f92782499e466aad62ea5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-02-26-n1:2021-09-15'
+title: 'Version consolidée applicable au 15/09/2027 : Loi du 26 février 2016 portant création d''une école internationale publique à Differdange.'
+valid_from: '2021-09-15'
+valid_to: '2027-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/consolide/20210915/fr'
+source_sha256: 'f98000da5dfb71e13d766da15c83ea2732603870872f92782499e466aad62ea5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

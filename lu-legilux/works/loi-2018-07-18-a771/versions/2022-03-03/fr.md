@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-07-18-a771:2022-03-03
-title: Loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles.
-valid_from: 2022-03-03
-valid_to: 2022-03-17
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20220303/fr
-source_sha256: afa0ca9e39940e1211a411426fc24913a56ab2a1d2195eda48dffda429566d37
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-07-18-a771:2022-03-03'
+title: 'Loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles.'
+valid_from: '2022-03-03'
+valid_to: '2022-03-17'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20220303/fr'
+source_sha256: 'afa0ca9e39940e1211a411426fc24913a56ab2a1d2195eda48dffda429566d37'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Objectifs de la loi**

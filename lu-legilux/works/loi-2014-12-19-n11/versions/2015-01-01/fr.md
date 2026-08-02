@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-12-19-n11:2015-01-01
-title: Loi du 19 décembre 2014 concernant le budget des recettes et des dépenses de l'État pour l'exercice 2015.
-valid_from: 2015-01-01
-valid_to: 2015-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n11/consolide/20150101/fr
-source_sha256: 7f56b7bb62eaf9ad532133afc06206dfae710c413258e906bf334db3ba28f48e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-12-19-n11:2015-01-01'
+title: 'Loi du 19 décembre 2014 concernant le budget des recettes et des dépenses de l''État pour l''exercice 2015.'
+valid_from: '2015-01-01'
+valid_to: '2015-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n11/consolide/20150101/fr'
+source_sha256: '7f56b7bb62eaf9ad532133afc06206dfae710c413258e906bf334db3ba28f48e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre A** — **Arrêté du budget**

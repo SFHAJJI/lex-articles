@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1995-05-10-n1:2014-09-05
-title: Version consolidée applicable au 09/12/2013 : Loi du 10 mai 1995 relative à la gestion de l'infrastructure ferroviaire.
-valid_from: 2014-09-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1995/05/10/n1/consolide/20140905/fr
-source_sha256: d61ed6cd91e13406ffec17140eedced7609515655fc8e722fff76196fa585364
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1995-05-10-n1:2014-09-05'
+title: 'Version consolidée applicable au 09/12/2013 : Loi du 10 mai 1995 relative à la gestion de l''infrastructure ferroviaire.'
+valid_from: '2014-09-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1995/05/10/n1/consolide/20140905/fr'
+source_sha256: 'd61ed6cd91e13406ffec17140eedced7609515655fc8e722fff76196fa585364'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## ***I.*** — ***Les principes de gestion du «réseau ferré»***

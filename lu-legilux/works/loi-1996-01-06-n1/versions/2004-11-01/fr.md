@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1996-01-06-n1:2004-11-01
-title: Version consolidée applicable au 18/09/2018 : Loi du 6 janvier 1996 sur la coopération au développement.
-valid_from: 2004-11-01
-valid_to: 2012-06-04
-source: https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20041101/fr
-source_sha256: 0e5e9a42451982d42d9b6687e18bd529a641186e8986f4bfc90d89cd01d2d2be
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1996-01-06-n1:2004-11-01'
+title: 'Version consolidée applicable au 18/09/2018 : Loi du 6 janvier 1996 sur la coopération au développement.'
+valid_from: '2004-11-01'
+valid_to: '2012-06-04'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20041101/fr'
+source_sha256: '0e5e9a42451982d42d9b6687e18bd529a641186e8986f4bfc90d89cd01d2d2be'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre I. — **Dispositions générales**

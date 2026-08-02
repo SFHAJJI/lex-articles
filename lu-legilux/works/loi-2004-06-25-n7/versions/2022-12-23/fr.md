@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-06-25-n7:2022-12-23
-title: Version consolidée applicable au 23/12/2022 : Loi du 25 juin 2004 portant réorganisation des instituts culturels de l’Etat.
-valid_from: 2022-12-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n7/consolide/20221223/fr
-source_sha256: 3e0963e1a98cdb664a4f09c34414a76e25e026a66c4d5805f3178c0a8ff52803
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-06-25-n7:2022-12-23'
+title: 'Version consolidée applicable au 23/12/2022 : Loi du 25 juin 2004 portant réorganisation des instituts culturels de l’Etat.'
+valid_from: '2022-12-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n7/consolide/20221223/fr'
+source_sha256: '3e0963e1a98cdb664a4f09c34414a76e25e026a66c4d5805f3178c0a8ff52803'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er.- — Généralités

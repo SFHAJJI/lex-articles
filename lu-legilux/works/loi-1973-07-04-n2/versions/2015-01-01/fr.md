@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1973-07-04-n2:2015-01-01
-title: Version consolidée applicable au 01/01/2015 : Loi du 4 juillet 1973 concernant le régime de la pharmacie.
-valid_from: 2015-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1973/07/04/n2/consolide/20150101/fr
-source_sha256: c86eba82c0041d03bf4763ff61a0c2ae6291b271ad5de2c080c42189e858249d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1973-07-04-n2:2015-01-01'
+title: 'Version consolidée applicable au 01/01/2015 : Loi du 4 juillet 1973 concernant le régime de la pharmacie.'
+valid_from: '2015-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1973/07/04/n2/consolide/20150101/fr'
+source_sha256: 'c86eba82c0041d03bf4763ff61a0c2ae6291b271ad5de2c080c42189e858249d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

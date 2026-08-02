@@ -1,13 +1,13 @@
 ---
-lex_id: eu-eurlex:32013r0575:2026-01-01
-title: CRR — Regulation (EU) No 575/2013
-valid_from: 2026-01-01
-valid_to: 2026-06-25
-source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0575-20260101
-source_sha256: 0cf687ac3c7dddfbddbea1239fe5ae7f7a1dbfacca82ebff3c4d8dfe014c4b75
-license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
-attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: fmx4-eu/1 · lex derive
+lex_id: 'eu-eurlex:32013r0575:2026-01-01'
+title: 'CRR — Regulation (EU) No 575/2013'
+valid_from: '2026-01-01'
+valid_to: '2026-06-25'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0575-20260101'
+source_sha256: '0cf687ac3c7dddfbddbea1239fe5ae7f7a1dbfacca82ebff3c4d8dfe014c4b75'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'fmx4-eu/1 · lex derive'
 ---
 
 ## PART ONE — GENERAL PROVISIONS

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-03-25-a193:2023-06-01
-title: Loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts.
-valid_from: 2023-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a193/consolide/20230601/fr
-source_sha256: adea31e90b2514ed09ee32d0d60dfff2bc12ae8c2bb32ed3e2f3f3bb64408dae
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-03-25-a193:2023-06-01'
+title: 'Loi du 25 mars 2020 instituant un système électronique central de recherche de données concernant des comptes IBAN et des coffres-forts.'
+valid_from: '2023-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a193/consolide/20230601/fr'
+source_sha256: 'adea31e90b2514ed09ee32d0d60dfff2bc12ae8c2bb32ed3e2f3f3bb64408dae'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier** — **Le système électronique central de recherche de données concernant des comptes de paiement et des comptes bancaires identifiés par un numéro IBAN et des coffres-forts tenus par des établissements de crédit au Luxembourg**

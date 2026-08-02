@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-04-07-a180:2026-01-04
-title: Règlement grand-ducal du 7 avril 2022 déterminant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.
-valid_from: 2026-01-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a180/consolide/20260104/fr
-source_sha256: 5e10cb823a194a3f2c1d3ed38060976fd8418e004352b75382f10955b59b8e25
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-04-07-a180:2026-01-04'
+title: 'Règlement grand-ducal du 7 avril 2022 déterminant les mesures d’exécution de la loi du 23 décembre 2016 instituant un régime d’aides pour la promotion de la durabilité, de l’utilisation rationnelle de l’énergie et des énergies renouvelables dans le domaine du logement.'
+valid_from: '2026-01-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a180/consolide/20260104/fr'
+source_sha256: '5e10cb823a194a3f2c1d3ed38060976fd8418e004352b75382f10955b59b8e25'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

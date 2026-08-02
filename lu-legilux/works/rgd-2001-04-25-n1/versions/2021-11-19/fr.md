@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-04-25-n1:2021-11-19
-title: Version consolidée applicable au 19/11/2021 : Règlement grand-ducal du 25 avril 2001 concernant la commercialisation des matériels de multiplication des plantes ornementales.
-valid_from: 2021-11-19
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/04/25/n1/consolide/20211119/fr
-source_sha256: 1bfb5940bd74a77dfbf8f65ab0a865aa77a72f689a760c3bc646de5e42aeb7f7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-04-25-n1:2021-11-19'
+title: 'Version consolidée applicable au 19/11/2021 : Règlement grand-ducal du 25 avril 2001 concernant la commercialisation des matériels de multiplication des plantes ornementales.'
+valid_from: '2021-11-19'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/04/25/n1/consolide/20211119/fr'
+source_sha256: '1bfb5940bd74a77dfbf8f65ab0a865aa77a72f689a760c3bc646de5e42aeb7f7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

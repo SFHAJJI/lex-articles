@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-05-19-n1:2012-09-22
-title: Version consolidée applicable au 09/12/2011 : Règlement grand-ducal du 19 mai 2009 déterminant les mesures de protection spéciale et les programmes de surveillance de l'état des eaux de baignade.
-valid_from: 2012-09-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n1/consolide/20120922/fr
-source_sha256: 0d099851a6ddf1ef7be256c30b1d9e899f426ae6b7725277ccf9e973fee0acfc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-05-19-n1:2012-09-22'
+title: 'Version consolidée applicable au 09/12/2011 : Règlement grand-ducal du 19 mai 2009 déterminant les mesures de protection spéciale et les programmes de surveillance de l''état des eaux de baignade.'
+valid_from: '2012-09-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n1/consolide/20120922/fr'
+source_sha256: '0d099851a6ddf1ef7be256c30b1d9e899f426ae6b7725277ccf9e973fee0acfc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

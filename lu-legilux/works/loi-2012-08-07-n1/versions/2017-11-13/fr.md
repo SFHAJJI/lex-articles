@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2012-08-07-n1:2017-11-13
-title: Loi du 7 août 2012 portant création de l'établissement public «Laboratoire national de santé»
-valid_from: 2017-11-13
-valid_to: 2018-03-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2012/08/07/n1/consolide/20171113/fr
-source_sha256: 37dfb9fe5502d6b40b4f6d7512314074c1eedb738df728283666c3cce96ecaa3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2012-08-07-n1:2017-11-13'
+title: 'Loi du 7 août 2012 portant création de l''établissement public «Laboratoire national de santé»'
+valid_from: '2017-11-13'
+valid_to: '2018-03-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2012/08/07/n1/consolide/20171113/fr'
+source_sha256: '37dfb9fe5502d6b40b4f6d7512314074c1eedb738df728283666c3cce96ecaa3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — *** Statut juridique, missions et siège***

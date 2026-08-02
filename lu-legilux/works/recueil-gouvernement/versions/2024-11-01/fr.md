@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-gouvernement:2024-11-01
-title: Gouvernement
-valid_from: 2024-11-01
-valid_to: 2025-12-10
-source: https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20241101/fr
-source_sha256: b4218799be33c6024d22f754030d9b1b5ba00f41ddc7e4b60654dfaf0ae57708
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-gouvernement:2024-11-01'
+title: 'Gouvernement'
+valid_from: '2024-11-01'
+valid_to: '2025-12-10'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20241101/fr'
+source_sha256: 'b4218799be33c6024d22f754030d9b1b5ba00f41ddc7e4b60654dfaf0ae57708'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **ORGANISATION DU GOUVERNEMENT**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1987-02-17-n7:1997-12-27
-title: Version consolidée applicable au 04/12/2011 : Règlement grand-ducal du 17 février 1987 sur l'identification des bâtiments de plaisance.
-valid_from: 1997-12-27
-valid_to: 2012-04-13
-source: https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/19971227/fr
-source_sha256: eeb600540c655207addfd55ddb2cd52e63005b851b77c7437ac8a100ea9631b5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1987-02-17-n7:1997-12-27'
+title: 'Version consolidée applicable au 04/12/2011 : Règlement grand-ducal du 17 février 1987 sur l''identification des bâtiments de plaisance.'
+valid_from: '1997-12-27'
+valid_to: '2012-04-13'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/19971227/fr'
+source_sha256: 'eeb600540c655207addfd55ddb2cd52e63005b851b77c7437ac8a100ea9631b5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-01-30-n3:2015-10-01
-title: Version consolidée applicable au 01/10/2015 : Règlement grand-ducal du 30 janvier 2004 portant organisation des examens-concours pour l’admission au stage des fonctions administratives et scientifiques de la carrière supérieure des administrations de l’Etat et des établissements publics.
-valid_from: 2015-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/01/30/n3/consolide/20151001/fr
-source_sha256: ce846c2eaeab5d1241712692ea503be5c6b14f79b80f8616edd93ba0b545078b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-01-30-n3:2015-10-01'
+title: 'Version consolidée applicable au 01/10/2015 : Règlement grand-ducal du 30 janvier 2004 portant organisation des examens-concours pour l’admission au stage des fonctions administratives et scientifiques de la carrière supérieure des administrations de l’Etat et des établissements publics.'
+valid_from: '2015-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/01/30/n3/consolide/20151001/fr'
+source_sha256: 'ce846c2eaeab5d1241712692ea503be5c6b14f79b80f8616edd93ba0b545078b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_13"></a>

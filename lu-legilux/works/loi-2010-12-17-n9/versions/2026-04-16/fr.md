@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2010-12-17-n9:2026-04-16
-title: loi-2010-12-17-n9
-valid_from: 2026-04-16
-valid_to: 2026-05-09
-source: https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20260416/fr
-source_sha256: 6ab105068412cb5ca8581e9ba4c85504d1bc4e83ac06b3d2c491d4094143a4b9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2010-12-17-n9:2026-04-16'
+title: 'loi-2010-12-17-n9'
+valid_from: '2026-04-16'
+valid_to: '2026-05-09'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20260416/fr'
+source_sha256: '6ab105068412cb5ca8581e9ba4c85504d1bc4e83ac06b3d2c491d4094143a4b9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## PARTIE INTRODUCTIVE — DEFINITIONS

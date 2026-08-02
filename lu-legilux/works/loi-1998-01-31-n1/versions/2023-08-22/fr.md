@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1998-01-31-n1:2023-08-22
-title: Version consolidée applicable au 22/08/2023 : Loi du 31 janvier 1998 portant agrément des services d'adoption et définition des obligations leur incombant.
-valid_from: 2023-08-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1998/01/31/n1/consolide/20230822/fr
-source_sha256: 53728ee76e7c770999fdcb8e995c992f82d33308839809a5821aa77d10206469
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1998-01-31-n1:2023-08-22'
+title: 'Version consolidée applicable au 22/08/2023 : Loi du 31 janvier 1998 portant agrément des services d''adoption et définition des obligations leur incombant.'
+valid_from: '2023-08-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1998/01/31/n1/consolide/20230822/fr'
+source_sha256: '53728ee76e7c770999fdcb8e995c992f82d33308839809a5821aa77d10206469'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Des conditions d’agrément

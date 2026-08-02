@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-05-01-a353:2019-11-08
-title: Version consolidée applicable au 08/11/2019 : Règlement grand-ducal du 1er mai 2018 portant tarification des prestations du Bureau luxembourgeois de métrologie en matière de métrologie légale.
-valid_from: 2019-11-08
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/05/01/a353/consolide/20191108/fr
-source_sha256: 9f21f77dfb34a90f00ae4e277891733b7c4d6ca538624d06d1b52c9c2fa78eb9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-05-01-a353:2019-11-08'
+title: 'Version consolidée applicable au 08/11/2019 : Règlement grand-ducal du 1er mai 2018 portant tarification des prestations du Bureau luxembourgeois de métrologie en matière de métrologie légale.'
+valid_from: '2019-11-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/05/01/a353/consolide/20191108/fr'
+source_sha256: '9f21f77dfb34a90f00ae4e277891733b7c4d6ca538624d06d1b52c9c2fa78eb9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

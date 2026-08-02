@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1976-06-21-n2:2023-09-04
-title: Version consolidée applicable au 04/09/2023 : Loi du 21 juin 1976 relative à la lutte contre le bruit.
-valid_from: 2023-09-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20230904/fr
-source_sha256: 5747832a8ecd6143243595e6032ef5398d3ee80aad0bbf5a9dc8727a0977deac
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1976-06-21-n2:2023-09-04'
+title: 'Version consolidée applicable au 04/09/2023 : Loi du 21 juin 1976 relative à la lutte contre le bruit.'
+valid_from: '2023-09-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20230904/fr'
+source_sha256: '5747832a8ecd6143243595e6032ef5398d3ee80aad0bbf5a9dc8727a0977deac'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

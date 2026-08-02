@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-12-17-a906:2022-09-15
-title: Loi du 17 décembre 2021 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2022.
-valid_from: 2022-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a906/consolide/20220915/fr
-source_sha256: c5c72917b2e14ffb01746f20c615c8eed498f24edfa6d344c01f820c7ece47a4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-12-17-a906:2022-09-15'
+title: 'Loi du 17 décembre 2021 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2022.'
+valid_from: '2022-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a906/consolide/20220915/fr'
+source_sha256: 'c5c72917b2e14ffb01746f20c615c8eed498f24edfa6d344c01f820c7ece47a4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Arrêté du budget**

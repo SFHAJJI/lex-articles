@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-07-30-n1:2013-12-14
-title: Version consolidée applicable au 02/11/2012 : Règlement grand-ducal du 30 juillet 2013 relatif aux déchets d'équipements électriques et électroniques.
-valid_from: 2013-12-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n1/consolide/20131214/fr
-source_sha256: 96ef6ae9a965011a82f1fca4575b4519e8e4a6185907c000b0a73012b91351ec
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-07-30-n1:2013-12-14'
+title: 'Version consolidée applicable au 02/11/2012 : Règlement grand-ducal du 30 juillet 2013 relatif aux déchets d''équipements électriques et électroniques.'
+valid_from: '2013-12-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n1/consolide/20131214/fr'
+source_sha256: '96ef6ae9a965011a82f1fca4575b4519e8e4a6185907c000b0a73012b91351ec'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

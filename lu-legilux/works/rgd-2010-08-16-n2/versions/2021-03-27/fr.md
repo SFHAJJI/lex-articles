@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-08-16-n2:2021-03-27
-title: Version consolidée applicable au 27/03/2021 : Règlement grand-ducal du 16 août 2010 définissant les règles spéciales applicables à la commercialisation du bétail de boucherie.
-valid_from: 2021-03-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2/consolide/20210327/fr
-source_sha256: 51222c0fad6f3548544fe83d6b4f355358c8c3d406c06489d69f86d7b598d34c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-08-16-n2:2021-03-27'
+title: 'Version consolidée applicable au 27/03/2021 : Règlement grand-ducal du 16 août 2010 définissant les règles spéciales applicables à la commercialisation du bétail de boucherie.'
+valid_from: '2021-03-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2/consolide/20210327/fr'
+source_sha256: '51222c0fad6f3548544fe83d6b4f355358c8c3d406c06489d69f86d7b598d34c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Définitions

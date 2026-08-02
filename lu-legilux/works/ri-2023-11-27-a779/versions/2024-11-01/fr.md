@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:ri-2023-11-27-a779:2024-11-01
-title: Version consolidée applicable au 16/04/2026 : Règlement interne du Gouvernement.
-valid_from: 2024-11-01
-valid_to: 2026-04-15
-source: https://legilux.public.lu/eli/etat/leg/ri/2023/11/27/a779/consolide/20241101/fr
-source_sha256: 4f31e6b87330739ad676a556666d102a265e9b771fddc6d807be5a5d026a3cd8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:ri-2023-11-27-a779:2024-11-01'
+title: 'Version consolidée applicable au 16/04/2026 : Règlement interne du Gouvernement.'
+valid_from: '2024-11-01'
+valid_to: '2026-04-15'
+source: 'https://legilux.public.lu/eli/etat/leg/ri/2023/11/27/a779/consolide/20241101/fr'
+source_sha256: '4f31e6b87330739ad676a556666d102a265e9b771fddc6d807be5a5d026a3cd8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Section 1re — Dispositions générales

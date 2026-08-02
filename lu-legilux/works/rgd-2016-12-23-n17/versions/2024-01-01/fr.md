@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-12-23-n17:2024-01-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 23 décembre 2016 portant exécution de l'article 154quinquies de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu.
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n17/consolide/20240101/fr
-source_sha256: 0d73951d28705d7ffe3b8148b8e7f24d900ad11a6fabd10597160d2d4f17781a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-12-23-n17:2024-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 23 décembre 2016 portant exécution de l''article 154quinquies de la loi modifiée du 4 décembre 1967 concernant l''impôt sur le revenu.'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n17/consolide/20240101/fr'
+source_sha256: '0d73951d28705d7ffe3b8148b8e7f24d900ad11a6fabd10597160d2d4f17781a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

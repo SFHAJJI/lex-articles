@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1992-10-15-n3:2010-12-28
-title: Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 15 octobre 1992 déterminant les modalités d'attribution des permissions pour les services de radio sonore à émetteur de haute puissance, ainsi que les règles générales gouvernant ces permissions et les cahiers des charges qui leur sont assortis.
-valid_from: 2010-12-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n3/consolide/20101228/fr
-source_sha256: 72f7be1307037bcf1c5f7ba0adf6e8c86d8eaec270dcf4fae73aa7abdec2ef0d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1992-10-15-n3:2010-12-28'
+title: 'Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 15 octobre 1992 déterminant les modalités d''attribution des permissions pour les services de radio sonore à émetteur de haute puissance, ainsi que les règles générales gouvernant ces permissions et les cahiers des charges qui leur sont assortis.'
+valid_from: '2010-12-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n3/consolide/20101228/fr'
+source_sha256: '72f7be1307037bcf1c5f7ba0adf6e8c86d8eaec270dcf4fae73aa7abdec2ef0d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

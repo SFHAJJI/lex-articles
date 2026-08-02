@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-08-27-n4:2019-03-25
-title: Version consolidée applicable au 25/03/2019 : Règlement grand-ducal du 27 août 2013 relatif à l’utilisation des moyens électroniques dans les procédures de passation de marchés publics et les procédures d’attribution de contrats de concession.
-valid_from: 2019-03-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/08/27/n4/consolide/20190325/fr
-source_sha256: 1faa18a6268c27beb8203b89883b9cdba9818e8319a4a0cdc9a79af403b3bb20
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-08-27-n4:2019-03-25'
+title: 'Version consolidée applicable au 25/03/2019 : Règlement grand-ducal du 27 août 2013 relatif à l’utilisation des moyens électroniques dans les procédures de passation de marchés publics et les procédures d’attribution de contrats de concession.'
+valid_from: '2019-03-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/08/27/n4/consolide/20190325/fr'
+source_sha256: '1faa18a6268c27beb8203b89883b9cdba9818e8319a4a0cdc9a79af403b3bb20'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## CHAPITRE 1er. — DISPOSITIONS RELATIVES A LA DEMATERIALISATION DE LA MISE EN CONCURRENCE.

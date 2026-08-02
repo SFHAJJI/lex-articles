@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2017-05-17-a544:2020-12-21
-title: Loi du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation.
-valid_from: 2020-12-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a544/consolide/20201221/fr
-source_sha256: ec10fafe6cea88a912eded289bbb9e6112ead49c1122ebad4446dd18f0b7ec2e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2017-05-17-a544:2020-12-21'
+title: 'Loi du 17 mai 2017 relative à la promotion de la recherche, du développement et de l’innovation.'
+valid_from: '2020-12-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a544/consolide/20201221/fr'
+source_sha256: 'ec10fafe6cea88a912eded289bbb9e6112ead49c1122ebad4446dd18f0b7ec2e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier** — **Régimes de promotion de la recherche, du développement et de l’innovation**

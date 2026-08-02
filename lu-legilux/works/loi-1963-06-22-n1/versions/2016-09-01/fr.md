@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1963-06-22-n1:2016-09-01
-title: Version consolidée applicable au 01/01/2021 : Loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat.
-valid_from: 2016-09-01
-valid_to: 2020-09-14
-source: https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/20160901/fr
-source_sha256: 2b28ae837fb62c47dadb196e8f6e851b5a89abf1da7e5dc9653b0209a4e49395
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1963-06-22-n1:2016-09-01'
+title: 'Version consolidée applicable au 01/01/2021 : Loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l''Etat.'
+valid_from: '2016-09-01'
+valid_to: '2020-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/20160901/fr'
+source_sha256: '2b28ae837fb62c47dadb196e8f6e851b5a89abf1da7e5dc9653b0209a4e49395'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

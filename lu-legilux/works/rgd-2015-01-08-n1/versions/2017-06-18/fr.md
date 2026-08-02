@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-01-08-n1:2017-06-18
-title: Version consolidée applicable au 18/06/2017 : Règlement grand-ducal du 8 janvier 2015 relatif à la protection des mineurs dans les services des médias audiovisuels.
-valid_from: 2017-06-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/consolide/20170618/fr
-source_sha256: 33b88b96879bd9b071d32868ccc0ab8ed09845533431a79881491c514c486e49
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-01-08-n1:2017-06-18'
+title: 'Version consolidée applicable au 18/06/2017 : Règlement grand-ducal du 8 janvier 2015 relatif à la protection des mineurs dans les services des médias audiovisuels.'
+valid_from: '2017-06-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/consolide/20170618/fr'
+source_sha256: '33b88b96879bd9b071d32868ccc0ab8ed09845533431a79881491c514c486e49'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

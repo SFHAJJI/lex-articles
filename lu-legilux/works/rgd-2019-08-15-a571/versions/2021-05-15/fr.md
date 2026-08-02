@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-08-15-a571:2021-05-15
-title: Version consolidée applicable au 15/05/2021 : Règlement grand-ducal du 15 août 2019 portant sur l’évaluation et la promotion des élèves de la formation professionnelle et abrogeant le règlement grand-ducal du 31 août 2016 portant sur l’évaluation et la promotion des élèves de la formation professionnelle.
-valid_from: 2021-05-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/08/15/a571/consolide/20210515/fr
-source_sha256: caf5c56dbdde2226d8d1e1b850959e6845063d097c72a571ef4a0b20955b57ff
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-08-15-a571:2021-05-15'
+title: 'Version consolidée applicable au 15/05/2021 : Règlement grand-ducal du 15 août 2019 portant sur l’évaluation et la promotion des élèves de la formation professionnelle et abrogeant le règlement grand-ducal du 31 août 2016 portant sur l’évaluation et la promotion des élèves de la formation professionnelle.'
+valid_from: '2021-05-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/08/15/a571/consolide/20210515/fr'
+source_sha256: 'caf5c56dbdde2226d8d1e1b850959e6845063d097c72a571ef4a0b20955b57ff'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **L’évaluation et les décisions du conseil de classe**

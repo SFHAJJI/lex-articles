@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-07-30-n2:2024-09-16
-title: Loi du 30 juillet 2015 portant création d'un Institut de formation de l'éducation nationale.
-valid_from: 2024-09-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/07/30/n2/consolide/20240916/fr
-source_sha256: a6cb0d3859d16c30a8fd579e6588a05dfddb1b61d085e4c4c5fc7f47b6571bf5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-07-30-n2:2024-09-16'
+title: 'Loi du 30 juillet 2015 portant création d''un Institut de formation de l''éducation nationale.'
+valid_from: '2024-09-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/07/30/n2/consolide/20240916/fr'
+source_sha256: 'a6cb0d3859d16c30a8fd579e6588a05dfddb1b61d085e4c4c5fc7f47b6571bf5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Statut, mission et organisation.

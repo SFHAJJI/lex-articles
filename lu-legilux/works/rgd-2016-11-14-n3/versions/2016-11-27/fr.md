@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-11-14-n3:2016-11-27
-title: Version consolidée applicable au 23/03/2021 : Règlement grand-ducal du 14 novembre 2016 concernant la protection des salariés contre les risques liés à l'exposition à des agents cancérigènes ou mutagènes au travail.
-valid_from: 2016-11-27
-valid_to: 2020-02-02
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n3/consolide/20161127/fr
-source_sha256: 5809b1ddb0bc2ab564f28f824cfb98d017d761d946c380851805a7375a983db2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-11-14-n3:2016-11-27'
+title: 'Version consolidée applicable au 23/03/2021 : Règlement grand-ducal du 14 novembre 2016 concernant la protection des salariés contre les risques liés à l''exposition à des agents cancérigènes ou mutagènes au travail.'
+valid_from: '2016-11-27'
+valid_to: '2020-02-02'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n3/consolide/20161127/fr'
+source_sha256: '5809b1ddb0bc2ab564f28f824cfb98d017d761d946c380851805a7375a983db2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

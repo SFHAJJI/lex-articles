@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-05-17-a498:2021-03-23
-title: Version consolidée applicable au 23/03/2021 : Règlement grand-ducal du 17 mai 2017 concernant les prescriptions minimales de sécurité et de santé relatives à l’exposition des salariés aux risques dus aux agents physiques (champs électromagnétiques).
-valid_from: 2021-03-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/05/17/a498/consolide/20210323/fr
-source_sha256: cab283e319dd868379060b4676c16226756057622d984f0bbe91173f478bc8ad
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-05-17-a498:2021-03-23'
+title: 'Version consolidée applicable au 23/03/2021 : Règlement grand-ducal du 17 mai 2017 concernant les prescriptions minimales de sécurité et de santé relatives à l’exposition des salariés aux risques dus aux agents physiques (champs électromagnétiques).'
+valid_from: '2021-03-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/05/17/a498/consolide/20210323/fr'
+source_sha256: 'cab283e319dd868379060b4676c16226756057622d984f0bbe91173f478bc8ad'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Objet, champ d’application et définitions**

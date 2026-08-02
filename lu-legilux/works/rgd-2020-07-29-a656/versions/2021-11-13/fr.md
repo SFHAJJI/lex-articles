@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-07-29-a656:2021-11-13
-title: Règlement grand-ducal du 29 juillet 2020 déterminant les modalités de recrutement du personnel policier.
-valid_from: 2021-11-13
-valid_to: 2023-11-23
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656/consolide/20211113/fr
-source_sha256: 492b2c70179ca9a25963951eff42132ccb6b7e3c8a693a667d88c72168642abf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-07-29-a656:2021-11-13'
+title: 'Règlement grand-ducal du 29 juillet 2020 déterminant les modalités de recrutement du personnel policier.'
+valid_from: '2021-11-13'
+valid_to: '2023-11-23'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656/consolide/20211113/fr'
+source_sha256: '492b2c70179ca9a25963951eff42132ccb6b7e3c8a693a667d88c72168642abf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1 ** — **Dispositions communes au recrutement dans la catégorie de traitement A et les groupes de traitement B1 et C1 du cadre policier**

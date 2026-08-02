@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-09-05-n5:2024-03-12
-title: Version consolidée applicable au 12/03/2024 : Règlement grand-ducal du 5 septembre 2008 relatif à la composition et au fonctionnement \n1. de la commission consultative des étrangers; \n2. de la commission consultative pour travailleurs salariés; \n3. de la commission consultative pour travailleurs indépendants.
-valid_from: 2024-03-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n5/consolide/20240312/fr
-source_sha256: 162b0a5eb03cc2da24a7e6d3d323683548797fa8700317fa93486a7cf78531bd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-09-05-n5:2024-03-12'
+title: 'Version consolidée applicable au 12/03/2024 : Règlement grand-ducal du 5 septembre 2008 relatif à la composition et au fonctionnement \n1. de la commission consultative des étrangers; \n2. de la commission consultative pour travailleurs salariés; \n3. de la commission consultative pour travailleurs indépendants.'
+valid_from: '2024-03-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n5/consolide/20240312/fr'
+source_sha256: '162b0a5eb03cc2da24a7e6d3d323683548797fa8700317fa93486a7cf78531bd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

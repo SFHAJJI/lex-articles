@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-06-20-a537:2021-12-06
-title: Version consolidée applicable au 30/06/2022 : Règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.
-valid_from: 2021-12-06
-valid_to: 2021-12-21
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20211206/fr
-source_sha256: e42e3da04c6b7753cf56936128e71ea7525593434f7fa3a1b9cfe4b23578aa86
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-06-20-a537:2021-12-06'
+title: 'Version consolidée applicable au 30/06/2022 : Règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.'
+valid_from: '2021-12-06'
+valid_to: '2021-12-21'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20211206/fr'
+source_sha256: 'e42e3da04c6b7753cf56936128e71ea7525593434f7fa3a1b9cfe4b23578aa86'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

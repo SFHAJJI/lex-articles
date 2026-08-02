@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-01-16-a81:2017-11-20
-title: Version consolidée applicable au 20/11/2017 : Règlement grand-ducal du 16 janvier 2017 concernant l’exécution de certains arrêts et décisions de la Cour de Justice Benelux.
-valid_from: 2017-11-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/01/16/a81/consolide/20171120/fr
-source_sha256: 8dbd204030369321116e9e3242e185d9b64b9fd22a0b4a45adede063f4f92fb7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-01-16-a81:2017-11-20'
+title: 'Version consolidée applicable au 20/11/2017 : Règlement grand-ducal du 16 janvier 2017 concernant l’exécution de certains arrêts et décisions de la Cour de Justice Benelux.'
+valid_from: '2017-11-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/01/16/a81/consolide/20171120/fr'
+source_sha256: '8dbd204030369321116e9e3242e185d9b64b9fd22a0b4a45adede063f4f92fb7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

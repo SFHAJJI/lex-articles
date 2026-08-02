@@ -1,13 +1,13 @@
 ---
-lex_id: eu-eurlex:32022l2555:2022-12-27
-title: NIS2 — Directive (EU) 2022/2555
-valid_from: 2022-12-27
-valid_to: open
-source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022L2555-20221227
-source_sha256: 09f11cc43002d6ba6e056ef39f0d4f76bcb27641637fe274c969644f8fe75198
-license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
-attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: fmx4-eu/1 · lex derive
+lex_id: 'eu-eurlex:32022l2555:2022-12-27'
+title: 'NIS2 — Directive (EU) 2022/2555'
+valid_from: '2022-12-27'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022L2555-20221227'
+source_sha256: '09f11cc43002d6ba6e056ef39f0d4f76bcb27641637fe274c969644f8fe75198'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'fmx4-eu/1 · lex derive'
 ---
 
 ## CHAPTER I — GENERAL PROVISIONS

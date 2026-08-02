@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1982-03-18-n5:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Loi du 18 mars 1982 relative aux changements de noms et de prénoms et modifiant l'article 10 de l'arrêté grand-ducal du 12 mai 1945 portant nouvelle fixation de certains droits de timbre et des droits de chancellerie.
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/consolide/20020101/fr
-source_sha256: 96998f39ccc01a3a34be3c3e46eaa64ee2c71dac33b6f4dc93350ec37ee4d803
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1982-03-18-n5:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Loi du 18 mars 1982 relative aux changements de noms et de prénoms et modifiant l''article 10 de l''arrêté grand-ducal du 12 mai 1945 portant nouvelle fixation de certains droits de timbre et des droits de chancellerie.'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/consolide/20020101/fr'
+source_sha256: '96998f39ccc01a3a34be3c3e46eaa64ee2c71dac33b6f4dc93350ec37ee4d803'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

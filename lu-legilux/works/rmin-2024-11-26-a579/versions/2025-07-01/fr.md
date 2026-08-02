@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-2024-11-26-a579:2025-07-01
-title: Version consolidée applicable au 01/01/2026 : Règlement ministériel du 26 novembre 2024 fixant le contenu des modules de conseil dans le domaine de l’agriculture et le montant de l’aide ainsi que les qualifications minimales des prestataires de services.
-valid_from: 2025-07-01
-valid_to: 2025-12-31
-source: https://legilux.public.lu/eli/etat/leg/rmin/2024/11/26/a579/consolide/20250701/fr
-source_sha256: 6d5d9f408c48af350b4e26ac2501ef63b7f810c8545673a548c19fbd380c549f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-2024-11-26-a579:2025-07-01'
+title: 'Version consolidée applicable au 01/01/2026 : Règlement ministériel du 26 novembre 2024 fixant le contenu des modules de conseil dans le domaine de l’agriculture et le montant de l’aide ainsi que les qualifications minimales des prestataires de services.'
+valid_from: '2025-07-01'
+valid_to: '2025-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/2024/11/26/a579/consolide/20250701/fr'
+source_sha256: '6d5d9f408c48af350b4e26ac2501ef63b7f810c8545673a548c19fbd380c549f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

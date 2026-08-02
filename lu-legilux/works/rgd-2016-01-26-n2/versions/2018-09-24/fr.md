@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-01-26-n2:2018-09-24
-title: Version consolidée applicable au 09/08/2025 : Règlement grand-ducal du 26 janvier 2016 relatif à la réception et l’immatriculation des véhicules routiers.
-valid_from: 2018-09-24
-valid_to: 2018-10-08
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2/consolide/20180924/fr
-source_sha256: 4128b945b3580de42b8943fa4ab66ad72d94ea6a26cba526c9d0a95df4a29faa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-01-26-n2:2018-09-24'
+title: 'Version consolidée applicable au 09/08/2025 : Règlement grand-ducal du 26 janvier 2016 relatif à la réception et l’immatriculation des véhicules routiers.'
+valid_from: '2018-09-24'
+valid_to: '2018-10-08'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2/consolide/20180924/fr'
+source_sha256: '4128b945b3580de42b8943fa4ab66ad72d94ea6a26cba526c9d0a95df4a29faa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## ***Chapitre 1er *** — ***La réception des véhicules routiers***

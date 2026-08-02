@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-12-02-a597:2023-07-24
-title: Loi du 2 décembre 2022 instituant une contribution étatique visant à limiter la hausse des prix d’approvisionnement en gaz naturel pour certains clients finals.
-valid_from: 2023-07-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/12/02/a597/consolide/20230724/fr
-source_sha256: 9755e399b5fff6ffbd6529625035fba3dd743cfcdffefb7b4659821c50d3b6dd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-12-02-a597:2023-07-24'
+title: 'Loi du 2 décembre 2022 instituant une contribution étatique visant à limiter la hausse des prix d’approvisionnement en gaz naturel pour certains clients finals.'
+valid_from: '2023-07-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/12/02/a597/consolide/20230724/fr'
+source_sha256: '9755e399b5fff6ffbd6529625035fba3dd743cfcdffefb7b4659821c50d3b6dd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

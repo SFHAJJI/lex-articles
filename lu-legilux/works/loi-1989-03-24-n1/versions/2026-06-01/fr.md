@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1989-03-24-n1:2026-06-01
-title: Version consolidée applicable au 01/07/2026 : Loi du 24 mars 1989 sur la Banque et Caisse d´Epargne de l´Etat, Luxembourg.
-valid_from: 2026-06-01
-valid_to: 2026-06-30
-source: https://legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/consolide/20260601/fr
-source_sha256: 88b91598b6b59089f451c2b2dcab3b3a7908d4c0325cb7e65809f151cdb52da6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1989-03-24-n1:2026-06-01'
+title: 'Version consolidée applicable au 01/07/2026 : Loi du 24 mars 1989 sur la Banque et Caisse d´Epargne de l´Etat, Luxembourg.'
+valid_from: '2026-06-01'
+valid_to: '2026-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/consolide/20260601/fr'
+source_sha256: '88b91598b6b59089f451c2b2dcab3b3a7908d4c0325cb7e65809f151cdb52da6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier — Dispositions générales

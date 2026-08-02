@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-12-14-a1158:2023-08-13
-title: Règlement grand-ducal du 14 décembre 2018 relatif au contrôle des exportations.
-valid_from: 2023-08-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158/consolide/20230813/fr
-source_sha256: 73eed6243cbc1feec12538c8d2b82ef7b974c8b206043b5f24b9a4bd5e3d94b9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-12-14-a1158:2023-08-13'
+title: 'Règlement grand-ducal du 14 décembre 2018 relatif au contrôle des exportations.'
+valid_from: '2023-08-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158/consolide/20230813/fr'
+source_sha256: '73eed6243cbc1feec12538c8d2b82ef7b974c8b206043b5f24b9a4bd5e3d94b9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Office du contrôle des exportations, des importations et du transit**

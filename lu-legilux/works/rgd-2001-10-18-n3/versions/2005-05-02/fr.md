@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-10-18-n3:2005-05-02
-title: Version consolidée applicable au 24/02/2026 : Règlement grand-ducal du 18 octobre 2001 déterminant la liste des vaccinations recommandées.
-valid_from: 2005-05-02
-valid_to: 2007-02-15
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20050502/fr
-source_sha256: 63658057bf265006a41b71be6b90752a67707e9e4cb19c13a0528d9b058f75b3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-10-18-n3:2005-05-02'
+title: 'Version consolidée applicable au 24/02/2026 : Règlement grand-ducal du 18 octobre 2001 déterminant la liste des vaccinations recommandées.'
+valid_from: '2005-05-02'
+valid_to: '2007-02-15'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20050502/fr'
+source_sha256: '63658057bf265006a41b71be6b90752a67707e9e4cb19c13a0528d9b058f75b3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

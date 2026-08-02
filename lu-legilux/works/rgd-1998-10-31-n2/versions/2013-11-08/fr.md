@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1998-10-31-n2:2013-11-08
-title: Version consolidée applicable au 01/11/2012 : Règlement grand-ducal du 31 octobre 1998 portant application de la directive 94/62/CE du Parlement Européen et du Conseil du 20 décembre 1994 relative aux emballages et aux déchets d'emballages.
-valid_from: 2013-11-08
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1998/10/31/n2/consolide/20131108/fr
-source_sha256: 2b792d9f132a735ef802314306956d0fa6791e88db6751e0c011d8687832aa41
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1998-10-31-n2:2013-11-08'
+title: 'Version consolidée applicable au 01/11/2012 : Règlement grand-ducal du 31 octobre 1998 portant application de la directive 94/62/CE du Parlement Européen et du Conseil du 20 décembre 1994 relative aux emballages et aux déchets d''emballages.'
+valid_from: '2013-11-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1998/10/31/n2/consolide/20131108/fr'
+source_sha256: '2b792d9f132a735ef802314306956d0fa6791e88db6751e0c011d8687832aa41'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

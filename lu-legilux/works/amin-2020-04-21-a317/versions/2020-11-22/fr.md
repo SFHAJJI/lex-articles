@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:amin-2020-04-21-a317:2020-11-22
-title: Version consolidée applicable au 22/11/2020 : Arrêté ministériel du 21 avril 2020 concernant la déclassification d’une zone de sûreté aéroportuaire dans le cadre du chantier de construction du bassin de rétention S2 à proximité de l’aire de trafic P10.
-valid_from: 2020-11-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/amin/2020/04/21/a317/consolide/20201122/fr
-source_sha256: e55a91aa25972b8261ea3d77e21b0fc21f2e4c87a2901b2fc0afb0f2180cf23d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:amin-2020-04-21-a317:2020-11-22'
+title: 'Version consolidée applicable au 22/11/2020 : Arrêté ministériel du 21 avril 2020 concernant la déclassification d’une zone de sûreté aéroportuaire dans le cadre du chantier de construction du bassin de rétention S2 à proximité de l’aire de trafic P10.'
+valid_from: '2020-11-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/amin/2020/04/21/a317/consolide/20201122/fr'
+source_sha256: 'e55a91aa25972b8261ea3d77e21b0fc21f2e4c87a2901b2fc0afb0f2180cf23d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

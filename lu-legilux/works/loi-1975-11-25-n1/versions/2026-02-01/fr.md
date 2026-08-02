@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1975-11-25-n1:2026-02-01
-title: Version consolidée applicable au 01/02/2026 : Loi du 25 novembre 1975 concernant la délivrance au public des médicaments.
-valid_from: 2026-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1975/11/25/n1/consolide/20260201/fr
-source_sha256: 474c3bb15d8ec30227fbb145c8ba7d06810c2fc6af373f6a3b98a36c54eec979
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1975-11-25-n1:2026-02-01'
+title: 'Version consolidée applicable au 01/02/2026 : Loi du 25 novembre 1975 concernant la délivrance au public des médicaments.'
+valid_from: '2026-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1975/11/25/n1/consolide/20260201/fr'
+source_sha256: '474c3bb15d8ec30227fbb145c8ba7d06810c2fc6af373f6a3b98a36c54eec979'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

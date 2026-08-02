@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-12-21-a17:2024-06-01
-title: Version consolidée applicable au 01/06/2024 : Règlement grand-ducal du 21 décembre 2018 concernant une réduction de la teneur en soufre de certains combustibles liquides.
-valid_from: 2024-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a17/consolide/20240601/fr
-source_sha256: 9c13ab574e92cd31b3fc44be407142be9446e66fb5e8ea925266b85486bb142e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-12-21-a17:2024-06-01'
+title: 'Version consolidée applicable au 01/06/2024 : Règlement grand-ducal du 21 décembre 2018 concernant une réduction de la teneur en soufre de certains combustibles liquides.'
+valid_from: '2024-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a17/consolide/20240601/fr'
+source_sha256: '9c13ab574e92cd31b3fc44be407142be9446e66fb5e8ea925266b85486bb142e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

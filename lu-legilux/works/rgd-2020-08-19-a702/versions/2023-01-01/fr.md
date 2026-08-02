@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-08-19-a702:2023-01-01
-title: Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 19 août 2020 portant introduction d’une aide financière pour l’installation de bornes de charge privées pour véhicules électriques.
-valid_from: 2023-01-01
-valid_to: 2024-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/08/19/a702/consolide/20230101/fr
-source_sha256: 2285ee66748cbefc40c31a1e09dc0017de433c0b256cd616196fe9f74ceadb79
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-08-19-a702:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 19 août 2020 portant introduction d’une aide financière pour l’installation de bornes de charge privées pour véhicules électriques.'
+valid_from: '2023-01-01'
+valid_to: '2024-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/08/19/a702/consolide/20230101/fr'
+source_sha256: '2285ee66748cbefc40c31a1e09dc0017de433c0b256cd616196fe9f74ceadb79'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

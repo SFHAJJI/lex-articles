@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-12-18-n14:2023-01-01
-title: Version consolidée applicable au 01/01/2023 : Loi du 18 décembre 2009 organisant l'aide sociale.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/12/18/n14/consolide/20230101/fr
-source_sha256: c1f2b15e0d388fbd83db34e59b72c42ce5c6ba8341df4dce5a224abaa070712c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-12-18-n14:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Loi du 18 décembre 2009 organisant l''aide sociale.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/12/18/n14/consolide/20230101/fr'
+source_sha256: 'c1f2b15e0d388fbd83db34e59b72c42ce5c6ba8341df4dce5a224abaa070712c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## I. — Dispositions générales

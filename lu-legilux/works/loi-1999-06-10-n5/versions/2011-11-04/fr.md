@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-06-10-n5:2011-11-04
-title: Version consolidée applicable au 06/06/2021 : Loi du 10 juin 1999 relative aux établissements classés.
-valid_from: 2011-11-04
-valid_to: 2021-06-05
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/consolide/20111104/fr
-source_sha256: daef4f994196e985be112ccec32a3a5ac493e76ca7a3633b49ee99a26a4596bb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-06-10-n5:2011-11-04'
+title: 'Version consolidée applicable au 06/06/2021 : Loi du 10 juin 1999 relative aux établissements classés.'
+valid_from: '2011-11-04'
+valid_to: '2021-06-05'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/consolide/20111104/fr'
+source_sha256: 'daef4f994196e985be112ccec32a3a5ac493e76ca7a3633b49ee99a26a4596bb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

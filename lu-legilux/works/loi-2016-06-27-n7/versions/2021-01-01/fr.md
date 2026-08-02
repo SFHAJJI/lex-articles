@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-06-27-n7:2021-01-01
-title: Version consolidée applicable au 01/01/2023 : Loi du 27 juin 2016 concernant le soutien au développement durable des zones rurales.
-valid_from: 2021-01-01
-valid_to: 2022-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n7/consolide/20210101/fr
-source_sha256: a762903c4e9f1f9a22510483c47a5a4f565dce8fa4ec928cbf1f33fa10c5fd75
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-06-27-n7:2021-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Loi du 27 juin 2016 concernant le soutien au développement durable des zones rurales.'
+valid_from: '2021-01-01'
+valid_to: '2022-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n7/consolide/20210101/fr'
+source_sha256: 'a762903c4e9f1f9a22510483c47a5a4f565dce8fa4ec928cbf1f33fa10c5fd75'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier — Champ d'application et définitions

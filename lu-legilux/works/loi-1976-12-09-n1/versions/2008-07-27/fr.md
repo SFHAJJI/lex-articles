@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1976-12-09-n1:2008-07-27
-title: Version consolidée applicable au 22/08/2023 : Loi du 9 décembre 1976 relative à l’organisation du notariat.
-valid_from: 2008-07-27
-valid_to: 2009-03-23
-source: https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/20080727/fr
-source_sha256: f71895d87fabe2d57d0556bfb6ff62629f9b678834fdd857d97cdb5545814414
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1976-12-09-n1:2008-07-27'
+title: 'Version consolidée applicable au 22/08/2023 : Loi du 9 décembre 1976 relative à l’organisation du notariat.'
+valid_from: '2008-07-27'
+valid_to: '2009-03-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/20080727/fr'
+source_sha256: 'f71895d87fabe2d57d0556bfb6ff62629f9b678834fdd857d97cdb5545814414'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Section I. — —** Des fonctions, ressort et devoirs des notaires**

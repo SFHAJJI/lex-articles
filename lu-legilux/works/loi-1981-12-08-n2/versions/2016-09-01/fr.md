@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1981-12-08-n2:2016-09-01
-title: Version consolidée applicable au 01/07/2018 : Loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe.
-valid_from: 2016-09-01
-valid_to: 2018-06-30
-source: https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20160901/fr
-source_sha256: 162ff916af0ae89ca5feedb468245d91303b3bedf5547dd376cce8182aa13dcf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1981-12-08-n2:2016-09-01'
+title: 'Version consolidée applicable au 01/07/2018 : Loi du 8 décembre 1981 sur les réquisitions en cas de conflit armé, de crise internationale grave ou de catastrophe.'
+valid_from: '2016-09-01'
+valid_to: '2018-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20160901/fr'
+source_sha256: '162ff916af0ae89ca5feedb468245d91303b3bedf5547dd376cce8182aa13dcf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Les conditions d´exercice du droit de réquisition

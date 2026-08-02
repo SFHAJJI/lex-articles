@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1982-03-04-n1:2024-01-01
-title: Version consolidée applicable au 01/01/2024 : Loi du 4 mars 1982\na) portant création d'un Fonds Culturel National\nb) modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie.
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1982/03/04/n1/consolide/20240101/fr
-source_sha256: 00a8702e847dde729477e1e8ef8065ca4bc517b1d517c8a66ea2f94be160b4f6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1982-03-04-n1:2024-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Loi du 4 mars 1982\na) portant création d''un Fonds Culturel National\nb) modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie.'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1982/03/04/n1/consolide/20240101/fr'
+source_sha256: '00a8702e847dde729477e1e8ef8065ca4bc517b1d517c8a66ea2f94be160b4f6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre I — Fonds culturel national

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-10-06-a641:2023-10-17
-title: Version rectifiée applicable au 17/10/2023 : Règlement grand-ducal du 6 octobre 2023 portant déclaration d’obligation générale de la convention collective de travail pour les salariés du secteur de l’assistance en escale dans les aéroports conclue entre le Groupement des Services Aéroportuaires du Findel, d’une part et les syndicats LCGB, OGB-L et NGL-SNEP, d’autre part, ainsi que de l’avenant à la convention collective de travail pour le personnel salarié du secteur de l’assistance dans les aéroports (valable du 1er janvier 2021 au 31 décembre 2023) signé en date du 9 novembre 2020 entre le Groupement des services aéroportuaires du Findel et les syndicats, LCGB, OGBL et NGL-SNEP et de l’avenant à la convention collective de travail pour le personnel salarié du secteur de l’assistance dans les aéroports (valable à partir du 1er janvier 2023), signé en date du 22 décembre 2022 entre le Groupement des services aéroportuaires du Findel et les syndicats LCGB, OGBL et NGL-SNEP.
-valid_from: 2023-10-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/10/06/a641/consolide/20231017/fr
-source_sha256: 9d00478f75e2ae76c8f37a9d37181247e5a48893cd9f0e0a088a3eac1de8dd62
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-10-06-a641:2023-10-17'
+title: 'Version rectifiée applicable au 17/10/2023 : Règlement grand-ducal du 6 octobre 2023 portant déclaration d’obligation générale de la convention collective de travail pour les salariés du secteur de l’assistance en escale dans les aéroports conclue entre le Groupement des Services Aéroportuaires du Findel, d’une part et les syndicats LCGB, OGB-L et NGL-SNEP, d’autre part, ainsi que de l’avenant à la convention collective de travail pour le personnel salarié du secteur de l’assistance dans les aéroports (valable du 1er janvier 2021 au 31 décembre 2023) signé en date du 9 novembre 2020 entre le Groupement des services aéroportuaires du Findel et les syndicats, LCGB, OGBL et NGL-SNEP et de l’avenant à la convention collective de travail pour le personnel salarié du secteur de l’assistance dans les aéroports (valable à partir du 1er janvier 2023), signé en date du 22 décembre 2022 entre le Groupement des services aéroportuaires du Findel et les syndicats LCGB, OGBL et NGL-SNEP.'
+valid_from: '2023-10-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/10/06/a641/consolide/20231017/fr'
+source_sha256: '9d00478f75e2ae76c8f37a9d37181247e5a48893cd9f0e0a088a3eac1de8dd62'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

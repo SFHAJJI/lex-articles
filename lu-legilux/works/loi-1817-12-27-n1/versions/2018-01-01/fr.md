@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1817-12-27-n1:2018-01-01
-title: Version consolidée applicable au 24/07/2022 : Loi du 27 Décembre 1817, pour la perception du Droit de Succession.
-valid_from: 2018-01-01
-valid_to: 2022-07-23
-source: https://legilux.public.lu/eli/etat/leg/loi/1817/12/27/n1/consolide/20180101/fr
-source_sha256: a8975e07f3d34b217b8461cef19798262ef97917bcd85209c7d48ba9598cee75
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1817-12-27-n1:2018-01-01'
+title: 'Version consolidée applicable au 24/07/2022 : Loi du 27 Décembre 1817, pour la perception du Droit de Succession.'
+valid_from: '2018-01-01'
+valid_to: '2022-07-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1817/12/27/n1/consolide/20180101/fr'
+source_sha256: 'a8975e07f3d34b217b8461cef19798262ef97917bcd85209c7d48ba9598cee75'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I — DISPOSITIONS GÉNÉRALES

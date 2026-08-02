@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1986-10-29-n1:1990-01-27
-title: Version consolidée applicable au 27/01/1990 : Règlement grand-ducal du 29 octobre 1986 fixant les modalités d'application de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité et de la loi du 26 juillet 1986 portant\na) création du droit à un revenu minimum garanti;\nb) création d'un service national d'action sociale;\nc) modification de la loi du 30 juillet 1960 concernant la création d'un fonds national de solidarité.
-valid_from: 1990-01-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/consolide/19900127/fr
-source_sha256: 96b43320c5726a29f8eaf435083ba8dd9d73784bde1eee6315a75be5d0d551fc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1986-10-29-n1:1990-01-27'
+title: 'Version consolidée applicable au 27/01/1990 : Règlement grand-ducal du 29 octobre 1986 fixant les modalités d''application de la loi du 30 juillet 1960 concernant la création d''un fonds national de solidarité et de la loi du 26 juillet 1986 portant\na) création du droit à un revenu minimum garanti;\nb) création d''un service national d''action sociale;\nc) modification de la loi du 30 juillet 1960 concernant la création d''un fonds national de solidarité.'
+valid_from: '1990-01-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1986/10/29/n1/consolide/19900127/fr'
+source_sha256: '96b43320c5726a29f8eaf435083ba8dd9d73784bde1eee6315a75be5d0d551fc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

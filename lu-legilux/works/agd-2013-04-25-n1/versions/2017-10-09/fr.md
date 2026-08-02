@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-2013-04-25-n1:2017-10-09
-title: Version consolidée applicable au 09/10/2017 : Arrêté grand-ducal du 25 avril 2013 déterminant les attributions et l'organisation d'une Cellule de facilitation relative aux autorisations dans les domaines de l'urbanisme et de l'environnement.
-valid_from: 2017-10-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/2013/04/25/n1/consolide/20171009/fr
-source_sha256: 62aa2ec3d73e495d85711c9ef46612a2392575a4ecec0ab3b6e8d998890311f9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-2013-04-25-n1:2017-10-09'
+title: 'Version consolidée applicable au 09/10/2017 : Arrêté grand-ducal du 25 avril 2013 déterminant les attributions et l''organisation d''une Cellule de facilitation relative aux autorisations dans les domaines de l''urbanisme et de l''environnement.'
+valid_from: '2017-10-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/2013/04/25/n1/consolide/20171009/fr'
+source_sha256: '62aa2ec3d73e495d85711c9ef46612a2392575a4ecec0ab3b6e8d998890311f9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

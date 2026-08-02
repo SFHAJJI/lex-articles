@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1980-06-10-n1:2019-09-15
-title: Version consolidée applicable au 15/09/2019 : Loi du 10 juin 1980 portant planification des besoins en personnel enseignant de l'enseignement secondaire.
-valid_from: 2019-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1980/06/10/n1/consolide/20190915/fr
-source_sha256: 90cf723bd11cf68b839414af75e4256270b3d9232f848360d466ccf32e40a598
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1980-06-10-n1:2019-09-15'
+title: 'Version consolidée applicable au 15/09/2019 : Loi du 10 juin 1980 portant planification des besoins en personnel enseignant de l''enseignement secondaire.'
+valid_from: '2019-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1980/06/10/n1/consolide/20190915/fr'
+source_sha256: '90cf723bd11cf68b839414af75e4256270b3d9232f848360d466ccf32e40a598'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-06-01-a457:2019-04-15
-title: Version consolidée applicable au 15/04/2019 : Règlement grand-ducal du 1er juin 2018 fixant les conditions de commercialisation, de production et de certification des semences de plantes fourragères.
-valid_from: 2019-04-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/06/01/a457/consolide/20190415/fr
-source_sha256: 8595a6d247dfeaf5466f3898ef387ec530120958e523fddafcdc07cfff56c302
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-06-01-a457:2019-04-15'
+title: 'Version consolidée applicable au 15/04/2019 : Règlement grand-ducal du 1er juin 2018 fixant les conditions de commercialisation, de production et de certification des semences de plantes fourragères.'
+valid_from: '2019-04-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/06/01/a457/consolide/20190415/fr'
+source_sha256: '8595a6d247dfeaf5466f3898ef387ec530120958e523fddafcdc07cfff56c302'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## ****Chapitre 1er **** — ** Commercialisation des semences de plantes fourragères**

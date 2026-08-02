@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-01-25-a53:2025-12-31
-title: Version consolidée applicable au 31/12/2025 : Règlement grand-ducal du 25 janvier 2019 déterminant les exigences et les normes auxquelles doivent répondre les services hospitaliers d’urgence des hôpitaux et le service hospitalier national d’urgence pédiatrique.
-valid_from: 2025-12-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/01/25/a53/consolide/20251231/fr
-source_sha256: fa38e5b3d69e10b2420cd3e94b49e1fd02fbc426fd3b19d3d51caf52647f48e8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-01-25-a53:2025-12-31'
+title: 'Version consolidée applicable au 31/12/2025 : Règlement grand-ducal du 25 janvier 2019 déterminant les exigences et les normes auxquelles doivent répondre les services hospitaliers d’urgence des hôpitaux et le service hospitalier national d’urgence pédiatrique.'
+valid_from: '2025-12-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/01/25/a53/consolide/20251231/fr'
+source_sha256: 'fa38e5b3d69e10b2420cd3e94b49e1fd02fbc426fd3b19d3d51caf52647f48e8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

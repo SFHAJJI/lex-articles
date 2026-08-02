@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-2016-05-27-n1:2023-11-30
-title: Version consolidée applicable au 30/11/2023 : Règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations et au dépôt au registre de commerce et des sociétés.
-valid_from: 2023-11-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/consolide/20231130/fr
-source_sha256: c0aaf5fcb23141bb82ffda6b27dab7efc9dfdc6282425d1d0b3212f25d1db3af
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-2016-05-27-n1:2023-11-30'
+title: 'Version consolidée applicable au 30/11/2023 : Règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations et au dépôt au registre de commerce et des sociétés.'
+valid_from: '2023-11-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/consolide/20231130/fr'
+source_sha256: 'c0aaf5fcb23141bb82ffda6b27dab7efc9dfdc6282425d1d0b3212f25d1db3af'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1983-05-19-n1:2022-10-03
-title: Version consolidée applicable au 11/04/2026 : Loi du 19 mai 1983 portant réglementation de la fabrication et du commerce des aliments des animaux.
-valid_from: 2022-10-03
-valid_to: 2026-04-10
-source: https://legilux.public.lu/eli/etat/leg/loi/1983/05/19/n1/consolide/20221003/fr
-source_sha256: 151aab384ffbf1f449dcd325e72c512d40cab7d88c8eb602e930b3220e1ba08c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1983-05-19-n1:2022-10-03'
+title: 'Version consolidée applicable au 11/04/2026 : Loi du 19 mai 1983 portant réglementation de la fabrication et du commerce des aliments des animaux.'
+valid_from: '2022-10-03'
+valid_to: '2026-04-10'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1983/05/19/n1/consolide/20221003/fr'
+source_sha256: '151aab384ffbf1f449dcd325e72c512d40cab7d88c8eb602e930b3220e1ba08c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

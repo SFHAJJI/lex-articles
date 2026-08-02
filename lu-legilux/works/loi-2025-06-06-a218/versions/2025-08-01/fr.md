@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2025-06-06-a218:2025-08-01
-title: Version consolidée applicable au 01/08/2025 : Loi du 6 juin 2025 portant modification :\n1° de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ;\n2° de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État ;\n3° de la loi modifiée du 25 mars 2015 fixant les conditions et modalités de l’accès du fonctionnaire à un groupe de traitement supérieur au sien et de l’employé de l’État à un groupe d’indemnité supérieur au sien ;\n4° de la loi modifiée du 18 juillet 2018 sur la Police grand ducale ;\nen vue de l’harmonisation des carrières inférieures des fonctionnaires et employés de l’État.\n
-valid_from: 2025-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2025/06/06/a218/consolide/20250801/fr
-source_sha256: 52127083cd75b8e2b175ef769595aa28d156cb11c44977fe7637215549ed6b05
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2025-06-06-a218:2025-08-01'
+title: 'Version consolidée applicable au 01/08/2025 : Loi du 6 juin 2025 portant modification :\n1° de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ;\n2° de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État ;\n3° de la loi modifiée du 25 mars 2015 fixant les conditions et modalités de l’accès du fonctionnaire à un groupe de traitement supérieur au sien et de l’employé de l’État à un groupe d’indemnité supérieur au sien ;\n4° de la loi modifiée du 18 juillet 2018 sur la Police grand ducale ;\nen vue de l’harmonisation des carrières inférieures des fonctionnaires et employés de l’État.\n'
+valid_from: '2025-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2025/06/06/a218/consolide/20250801/fr'
+source_sha256: '52127083cd75b8e2b175ef769595aa28d156cb11c44977fe7637215549ed6b05'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Modification de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-03-17-n1:2011-08-16
-title: Version consolidée applicable au 08/03/2024 : Loi du 17 mars 2004 relative au mandat d'arrêt européen et aux procédures de remise entre Etats membres de l'Union européenne.
-valid_from: 2011-08-16
-valid_to: 2015-04-20
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/consolide/20110816/fr
-source_sha256: 37c36f916bce9f7516cd8da540cf828b834fa94578634390f4d1edb7a97dc24b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-03-17-n1:2011-08-16'
+title: 'Version consolidée applicable au 08/03/2024 : Loi du 17 mars 2004 relative au mandat d''arrêt européen et aux procédures de remise entre Etats membres de l''Union européenne.'
+valid_from: '2011-08-16'
+valid_to: '2015-04-20'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/consolide/20110816/fr'
+source_sha256: '37c36f916bce9f7516cd8da540cf828b834fa94578634390f4d1edb7a97dc24b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I.- — Principes Généraux

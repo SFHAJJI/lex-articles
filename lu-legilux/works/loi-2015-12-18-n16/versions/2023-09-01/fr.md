@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-12-18-n16:2023-09-01
-title: Loi du 18 décembre 2015 relative à l’accueil des demandeurs de protection internationale et de protection temporaire.
-valid_from: 2023-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/20230901/fr
-source_sha256: e97eb1b34d215837693b945d119f497a212517436c3d92c0b86ee6f1b31710df
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-12-18-n16:2023-09-01'
+title: 'Loi du 18 décembre 2015 relative à l’accueil des demandeurs de protection internationale et de protection temporaire.'
+valid_from: '2023-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/20230901/fr'
+source_sha256: 'e97eb1b34d215837693b945d119f497a212517436c3d92c0b86ee6f1b31710df'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Objectif, champ d’application et définitions

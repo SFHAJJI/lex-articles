@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2006-05-19-n1:2026-04-03
-title: Version consolidée applicable au 03/04/2026 : Loi du 19 mai 2006 portant transposition de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition.
-valid_from: 2026-04-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2006/05/19/n1/consolide/20260403/fr
-source_sha256: 18c9246c0670459e5d94c692a716641aeea9c330c7b4f8f30e11f9844f9933c0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2006-05-19-n1:2026-04-03'
+title: 'Version consolidée applicable au 03/04/2026 : Loi du 19 mai 2006 portant transposition de la directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition.'
+valid_from: '2026-04-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2006/05/19/n1/consolide/20260403/fr'
+source_sha256: '18c9246c0670459e5d94c692a716641aeea9c330c7b4f8f30e11f9844f9933c0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

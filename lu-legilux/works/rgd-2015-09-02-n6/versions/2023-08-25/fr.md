@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-09-02-n6:2023-08-25
-title: Version consolidée applicable au 25/08/2023 : Règlement grand-ducal du 2 septembre 2015 fixant le contenu du dossier à joindre à la demande d'admission au bénéfice des aides en faveur des artistes professionnels indépendants et des intermittents du spectacle ainsi que les modalités de versement des aides.
-valid_from: 2023-08-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n6/consolide/20230825/fr
-source_sha256: 992782352c1366743c6f64a06cd82fa8cc6bd901a14a7ac4471dc670b0920e7a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-09-02-n6:2023-08-25'
+title: 'Version consolidée applicable au 25/08/2023 : Règlement grand-ducal du 2 septembre 2015 fixant le contenu du dossier à joindre à la demande d''admission au bénéfice des aides en faveur des artistes professionnels indépendants et des intermittents du spectacle ainsi que les modalités de versement des aides.'
+valid_from: '2023-08-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n6/consolide/20230825/fr'
+source_sha256: '992782352c1366743c6f64a06cd82fa8cc6bd901a14a7ac4471dc670b0920e7a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

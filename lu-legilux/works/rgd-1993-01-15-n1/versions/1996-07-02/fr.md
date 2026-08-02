@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1993-01-15-n1:1996-07-02
-title: Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 15 janvier 1993 relatif à la mise sur le marché des médicaments vétérinaires.
-valid_from: 1996-07-02
-valid_to: 1996-08-26
-source: https://legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1/consolide/19960702/fr
-source_sha256: 8bc48c844a06167cc944e47d70860558d89f152497a53e0344b2905ecf41a717
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1993-01-15-n1:1996-07-02'
+title: 'Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 15 janvier 1993 relatif à la mise sur le marché des médicaments vétérinaires.'
+valid_from: '1996-07-02'
+valid_to: '1996-08-26'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1/consolide/19960702/fr'
+source_sha256: '8bc48c844a06167cc944e47d70860558d89f152497a53e0344b2905ecf41a717'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

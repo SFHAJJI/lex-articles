@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-07-07-a370:2025-06-14
-title: Version consolidée applicable au 14/06/2025 : Loi du 7 juillet 2023 portant sur les préemballages non revêtus du symbole « ℮ » et la vente en vrac dans le secteur de la métrologie légale.
-valid_from: 2025-06-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/07/07/a370/consolide/20250614/fr
-source_sha256: 6ee12085fe0fc32c7246a332c86d12dc4f3206e3adcab2e93be930a571c253ef
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-07-07-a370:2025-06-14'
+title: 'Version consolidée applicable au 14/06/2025 : Loi du 7 juillet 2023 portant sur les préemballages non revêtus du symbole « ℮ » et la vente en vrac dans le secteur de la métrologie légale.'
+valid_from: '2025-06-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/07/07/a370/consolide/20250614/fr'
+source_sha256: '6ee12085fe0fc32c7246a332c86d12dc4f3206e3adcab2e93be930a571c253ef'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

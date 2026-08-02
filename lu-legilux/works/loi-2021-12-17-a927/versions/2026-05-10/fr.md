@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-12-17-a927:2026-05-10
-title: Loi du 17 décembre 2021 sur les réseaux et les services de communications électroniques.
-valid_from: 2026-05-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a927/consolide/20260510/fr
-source_sha256: 49eacfa0688ef484e0caae91ad716c9a132142d57e82a9e99c6635b340d575f3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-12-17-a927:2026-05-10'
+title: 'Loi du 17 décembre 2021 sur les réseaux et les services de communications électroniques.'
+valid_from: '2026-05-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a927/consolide/20260510/fr'
+source_sha256: '49eacfa0688ef484e0caae91ad716c9a132142d57e82a9e99c6635b340d575f3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Livre I — Cadre et règles générales d’organisation du secteur

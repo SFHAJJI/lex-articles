@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-05-28-n3:2011-06-03
-title: Version consolidée applicable au 03/06/2011 : Loi du 28 mai 2009 portant fusion des communes de Clervaux, de Heinerscheid et de Munshausen.
-valid_from: 2011-06-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/05/28/n3/consolide/20110603/fr
-source_sha256: 8716cf04e9946e16a41cd41df692ca4493473f628da7eaa4ed50a1e697f3ff03
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-05-28-n3:2011-06-03'
+title: 'Version consolidée applicable au 03/06/2011 : Loi du 28 mai 2009 portant fusion des communes de Clervaux, de Heinerscheid et de Munshausen.'
+valid_from: '2011-06-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/05/28/n3/consolide/20110603/fr'
+source_sha256: '8716cf04e9946e16a41cd41df692ca4493473f628da7eaa4ed50a1e697f3ff03'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

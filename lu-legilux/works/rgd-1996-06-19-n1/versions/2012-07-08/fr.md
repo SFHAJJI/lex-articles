@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1996-06-19-n1:2012-07-08
-title: Version consolidée applicable au 08/07/2012 : Règlement grand-ducal du 19 juin 1996 fixant les modalités d'exécution du titre V de la loi sur la coopération au développement portant institution d'un congé coopération au développement.
-valid_from: 2012-07-08
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/consolide/20120708/fr
-source_sha256: f7a9c843c458214cd514f43908274eba5a1652b2433a681e2f9981977fc39bb9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1996-06-19-n1:2012-07-08'
+title: 'Version consolidée applicable au 08/07/2012 : Règlement grand-ducal du 19 juin 1996 fixant les modalités d''exécution du titre V de la loi sur la coopération au développement portant institution d''un congé coopération au développement.'
+valid_from: '2012-07-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/consolide/20120708/fr'
+source_sha256: 'f7a9c843c458214cd514f43908274eba5a1652b2433a681e2f9981977fc39bb9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

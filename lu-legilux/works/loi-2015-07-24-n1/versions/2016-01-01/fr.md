@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-07-24-n1:2016-01-01
-title: Loi du 24 juillet 2015 relative à FATCA
-valid_from: 2016-01-01
-valid_to: 2020-06-29
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/07/24/n1/consolide/20160101/fr
-source_sha256: d27251052f6227f177f9b1e5e68ca271cfc182cd2851978262dcaa3887080c05
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-07-24-n1:2016-01-01'
+title: 'Loi du 24 juillet 2015 relative à FATCA'
+valid_from: '2016-01-01'
+valid_to: '2020-06-29'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/07/24/n1/consolide/20160101/fr'
+source_sha256: 'd27251052f6227f177f9b1e5e68ca271cfc182cd2851978262dcaa3887080c05'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

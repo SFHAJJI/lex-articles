@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1876-03-20-n1:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Loi du 20 mars 1876 sur la police des bâtiments et de leurs dépendances.
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1876/03/20/n1/consolide/20020101/fr
-source_sha256: 90d5573ee9e896d98a5b03d3e1998c01a098049f9e57d2e5e8cfe824f1a3f9b8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1876-03-20-n1:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Loi du 20 mars 1876 sur la police des bâtiments et de leurs dépendances.'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1876/03/20/n1/consolide/20020101/fr'
+source_sha256: '90d5573ee9e896d98a5b03d3e1998c01a098049f9e57d2e5e8cfe824f1a3f9b8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

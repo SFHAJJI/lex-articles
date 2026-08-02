@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:conv-2020-11-25-a1029:2021-01-01
-title: Version consolidée applicable au 01/01/2021 : Avenant de la Convention amendée du 13 décembre 1993, conclue entre la Caisse nationale de santé et la Fédération des patrons opticiens et optométristes du Grand-Duché de Luxembourg (actuellement la Confédération des métiers de la santé a.s.b.l.), conclue en exécution de l’article 61 et suivants du Code de la sécurité sociale.
-valid_from: 2021-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/conv/2020/11/25/a1029/consolide/20210101/fr
-source_sha256: c6e05d74c5ddfb9f66021fea0006270f7eec8308a439ba76f10979090ac2724d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:conv-2020-11-25-a1029:2021-01-01'
+title: 'Version consolidée applicable au 01/01/2021 : Avenant de la Convention amendée du 13 décembre 1993, conclue entre la Caisse nationale de santé et la Fédération des patrons opticiens et optométristes du Grand-Duché de Luxembourg (actuellement la Confédération des métiers de la santé a.s.b.l.), conclue en exécution de l’article 61 et suivants du Code de la sécurité sociale.'
+valid_from: '2021-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/conv/2020/11/25/a1029/consolide/20210101/fr'
+source_sha256: 'c6e05d74c5ddfb9f66021fea0006270f7eec8308a439ba76f10979090ac2724d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2007-12-21-n3:2021-06-07
-title: Version consolidée applicable au 07/06/2021 : Loi du 21 décembre 2007 portant autorisation de dépenses d'investissement dans des capacités et moyens militaires.
-valid_from: 2021-06-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n3/consolide/20210607/fr
-source_sha256: f07b29fdb167ac9b639ae6657190edfc190eab4970f8d0adbcb120fbb2f723c3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2007-12-21-n3:2021-06-07'
+title: 'Version consolidée applicable au 07/06/2021 : Loi du 21 décembre 2007 portant autorisation de dépenses d''investissement dans des capacités et moyens militaires.'
+valid_from: '2021-06-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n3/consolide/20210607/fr'
+source_sha256: 'f07b29fdb167ac9b639ae6657190edfc190eab4970f8d0adbcb120fbb2f723c3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

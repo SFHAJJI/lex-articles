@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1984-02-24-n1:2018-10-01
-title: Version consolidée applicable au 01/09/2020 : Loi du 24 février 1984 sur le régime des langues.
-valid_from: 2018-10-01
-valid_to: 2020-08-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/consolide/20181001/fr
-source_sha256: 76b909fd3b9a2d2e416249f3a9d32b2a09128d61e4e1be29f870daa65dc82e23
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1984-02-24-n1:2018-10-01'
+title: 'Version consolidée applicable au 01/09/2020 : Loi du 24 février 1984 sur le régime des langues.'
+valid_from: '2018-10-01'
+valid_to: '2020-08-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/consolide/20181001/fr'
+source_sha256: '76b909fd3b9a2d2e416249f3a9d32b2a09128d61e4e1be29f870daa65dc82e23'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

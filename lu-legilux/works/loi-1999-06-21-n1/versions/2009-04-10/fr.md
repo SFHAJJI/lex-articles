@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-06-21-n1:2009-04-10
-title: Version consolidée applicable au 10/04/2009 : Loi du 21 juin 1999 autorisant l'Etat à participer au financement de la modernisation, de l'aménagement ou de la construction de certains établissements hospitaliers.
-valid_from: 2009-04-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n1/consolide/20090410/fr
-source_sha256: 0f70d9fd7dbbc07dbbfdda45eea0a542a7cc1c226689caaf3a6d1def03907bf6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-06-21-n1:2009-04-10'
+title: 'Version consolidée applicable au 10/04/2009 : Loi du 21 juin 1999 autorisant l''Etat à participer au financement de la modernisation, de l''aménagement ou de la construction de certains établissements hospitaliers.'
+valid_from: '2009-04-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n1/consolide/20090410/fr'
+source_sha256: '0f70d9fd7dbbc07dbbfdda45eea0a542a7cc1c226689caaf3a6d1def03907bf6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

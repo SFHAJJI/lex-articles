@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-12-23-a704:2023-01-01
-title: Loi du 23 décembre 2022 relative à la qualité des eaux destinées à la consommation humaine.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a704/consolide/20230101/fr
-source_sha256: 32939edc544753275646a6d63fcdf3903974665e7c4bd8b10d0b820587125ac1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-12-23-a704:2023-01-01'
+title: 'Loi du 23 décembre 2022 relative à la qualité des eaux destinées à la consommation humaine.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a704/consolide/20230101/fr'
+source_sha256: '32939edc544753275646a6d63fcdf3903974665e7c4bd8b10d0b820587125ac1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-03-25-n8:2020-01-01
-title: Version consolidée applicable au 01/06/2026 : Loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l’Etat.
-valid_from: 2020-01-01
-valid_to: 2022-06-30
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n8/consolide/20200101/fr
-source_sha256: 3322aa2a076ec8f55b0c25e5f191033585f337fcd45dd0e29d877adfcc6c142e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-03-25-n8:2020-01-01'
+title: 'Version consolidée applicable au 01/06/2026 : Loi du 25 mars 2015 déterminant le régime et les indemnités des employés de l’Etat.'
+valid_from: '2020-01-01'
+valid_to: '2022-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n8/consolide/20200101/fr'
+source_sha256: '3322aa2a076ec8f55b0c25e5f191033585f337fcd45dd0e29d877adfcc6c142e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — *Dispositions générales*

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2010-02-23-n1:2015-04-21
-title: Version consolidée applicable au 24/04/2018 : Loi du 23 février 2010 relative à l'application du principe de reconnaissance mutuelle aux sanctions pécuniaires.
-valid_from: 2015-04-21
-valid_to: 2018-04-23
-source: https://legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/consolide/20150421/fr
-source_sha256: 38a155beec87f41002e23329170a0eb8fedcfdac0f7052a4fbe595df41717c84
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2010-02-23-n1:2015-04-21'
+title: 'Version consolidée applicable au 24/04/2018 : Loi du 23 février 2010 relative à l''application du principe de reconnaissance mutuelle aux sanctions pécuniaires.'
+valid_from: '2015-04-21'
+valid_to: '2018-04-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/consolide/20150421/fr'
+source_sha256: '38a155beec87f41002e23329170a0eb8fedcfdac0f7052a4fbe595df41717c84'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Principes généraux

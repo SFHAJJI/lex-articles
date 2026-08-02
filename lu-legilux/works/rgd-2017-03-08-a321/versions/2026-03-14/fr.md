@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-03-08-a321:2026-03-14
-title: Version consolidée applicable au 14/03/2026 : Règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d'aménagement général d’une commune.
-valid_from: 2026-03-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/03/08/a321/consolide/20260314/fr
-source_sha256: 40cb0d9c1294d7a8b01e549e5f860242208469ff78cc342fbcb4c2f1a2e0bcf0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-03-08-a321:2026-03-14'
+title: 'Version consolidée applicable au 14/03/2026 : Règlement grand-ducal du 8 mars 2017 concernant le contenu du plan d''aménagement général d’une commune.'
+valid_from: '2026-03-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/03/08/a321/consolide/20260314/fr'
+source_sha256: '40cb0d9c1294d7a8b01e549e5f860242208469ff78cc342fbcb4c2f1a2e0bcf0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions générales

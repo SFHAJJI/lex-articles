@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-23-n21:2018-08-20
-title: Version consolidée applicable au 20/08/2018 : Loi du 23 juillet 2016 portant mise en place d'un statut spécifique pour certaines données à caractère personnel traitées par le Service de renseignement de l'État.
-valid_from: 2018-08-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n21/consolide/20180820/fr
-source_sha256: 179b42033f46e653d218e7cc11a201a40cdff3ebd5cacbecab48ee1ad26485f2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-23-n21:2018-08-20'
+title: 'Version consolidée applicable au 20/08/2018 : Loi du 23 juillet 2016 portant mise en place d''un statut spécifique pour certaines données à caractère personnel traitées par le Service de renseignement de l''État.'
+valid_from: '2018-08-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n21/consolide/20180820/fr'
+source_sha256: '179b42033f46e653d218e7cc11a201a40cdff3ebd5cacbecab48ee1ad26485f2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

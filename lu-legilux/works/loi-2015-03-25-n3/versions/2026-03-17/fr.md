@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-03-25-n3:2026-03-17
-title: Version consolidée applicable au 17/03/2026 : Loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.
-valid_from: 2026-03-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20260317/fr
-source_sha256: 1a3684ccec42f7b9053e20c6abc830ca7777dd8b4f229c2eb8a34bb03b12a628
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-03-25-n3:2026-03-17'
+title: 'Version consolidée applicable au 17/03/2026 : Loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat.'
+valid_from: '2026-03-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20260317/fr'
+source_sha256: '1a3684ccec42f7b9053e20c6abc830ca7777dd8b4f229c2eb8a34bb03b12a628'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Champ d’application et classification des fonctions**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2002-11-12-n1:2021-07-30
-title: Version consolidée applicable au 22/08/2023 : Loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance.
-valid_from: 2021-07-30
-valid_to: 2023-08-21
-source: https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20210730/fr
-source_sha256: ddfadd306afbbe5a219494563bd21df3435761bd9f757b265514372c596ba841
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2002-11-12-n1:2021-07-30'
+title: 'Version consolidée applicable au 22/08/2023 : Loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance.'
+valid_from: '2021-07-30'
+valid_to: '2023-08-21'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20210730/fr'
+source_sha256: 'ddfadd306afbbe5a219494563bd21df3435761bd9f757b265514372c596ba841'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Section I — Dispositions générales

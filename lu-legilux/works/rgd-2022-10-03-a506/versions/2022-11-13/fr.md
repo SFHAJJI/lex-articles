@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-10-03-a506:2022-11-13
-title: Version consolidée applicable au 13/11/2022 : Règlement grand-ducal du 3 octobre 2022 déterminant les modalités de l’examen-concours de recrutement du personnel enseignant de l’enseignement secondaire.
-valid_from: 2022-11-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/10/03/a506/consolide/20221113/fr
-source_sha256: 13d0995d59ffd1da37fecce95b7530635a52fb7d8c7be2c3bf4430e428e5d0fa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-10-03-a506:2022-11-13'
+title: 'Version consolidée applicable au 13/11/2022 : Règlement grand-ducal du 3 octobre 2022 déterminant les modalités de l’examen-concours de recrutement du personnel enseignant de l’enseignement secondaire.'
+valid_from: '2022-11-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/10/03/a506/consolide/20221113/fr'
+source_sha256: '13d0995d59ffd1da37fecce95b7530635a52fb7d8c7be2c3bf4430e428e5d0fa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

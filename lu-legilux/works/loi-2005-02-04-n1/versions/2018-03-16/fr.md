@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-02-04-n1:2018-03-16
-title: Version consolidée applicable au 16/03/2018 : Loi du 4 février 2005 relative au référendum au niveau national.
-valid_from: 2018-03-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20180316/fr
-source_sha256: ebe201feb9ac12d691c27e9e4ab98558049645121d97165164514523cac4a380
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-02-04-n1:2018-03-16'
+title: 'Version consolidée applicable au 16/03/2018 : Loi du 4 février 2005 relative au référendum au niveau national.'
+valid_from: '2018-03-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20180316/fr'
+source_sha256: 'ebe201feb9ac12d691c27e9e4ab98558049645121d97165164514523cac4a380'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Dispositions générales

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-03-16-n2:2021-03-07
-title: Version consolidée applicable au 07/03/2021 : Loi du 16 mars 2009 sur l'euthanasie et l'assistance au suicide.
-valid_from: 2021-03-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/03/16/n2/consolide/20210307/fr
-source_sha256: 7435a338e87a8f55db6a997f0c0b9bac0674f74057606d271101ed773f75d8d7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-03-16-n2:2021-03-07'
+title: 'Version consolidée applicable au 07/03/2021 : Loi du 16 mars 2009 sur l''euthanasie et l''assistance au suicide.'
+valid_from: '2021-03-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/03/16/n2/consolide/20210307/fr'
+source_sha256: '7435a338e87a8f55db6a997f0c0b9bac0674f74057606d271101ed773f75d8d7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I — Dispositions générales

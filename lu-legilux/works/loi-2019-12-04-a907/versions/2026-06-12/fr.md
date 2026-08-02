@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-12-04-a907:2026-06-12
-title: Loi du 4 décembre 2019 portant création de l’Office national de l’accueil
-valid_from: 2026-06-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a907/consolide/20260612/fr
-source_sha256: b0691cd5a692622f6a03fa65e5510a193f116b2b665057686eef1220f54a2c67
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-12-04-a907:2026-06-12'
+title: 'Loi du 4 décembre 2019 portant création de l’Office national de l’accueil'
+valid_from: '2026-06-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a907/consolide/20260612/fr'
+source_sha256: 'b0691cd5a692622f6a03fa65e5510a193f116b2b665057686eef1220f54a2c67'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

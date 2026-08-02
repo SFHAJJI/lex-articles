@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2007-07-24-n1:2013-09-15
-title: Version consolidée applicable au 15/09/2025 : Règlement grand-ducal du 24 juillet 2007 portant fixation de la tâche des enseignants des lycées et lycées techniques et portant modification\n - de l'arrêté royal grand-ducal modifié du 7 juin 1861 portant approbation d'un nouveau règlement pour les établissements d'enseignement supérieur et moyen de l'Etat;\n - du règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail des chargés d'éducation à durée déterminée des lycées et lycées techniques publics;\n - du règlement grand-ducal du 27 juillet 1997 fixant les modalités d'engagement et les conditions de travail de deux cents chargés d'éducation à durée indéterminée des lycées et lycées techniques publics;\n - du règlement grand-ducal du 14 décembre 2000 fixant les conditions de travail des chargés de cours à durée indéterminée de l'Institut d Etudes éducatives et sociales.
-valid_from: 2013-09-15
-valid_to: 2014-09-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/consolide/20130915/fr
-source_sha256: 9b18a4e19f843ada692e60aa5be4b4d76b81e544c496f90971f88245304c8d3f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2007-07-24-n1:2013-09-15'
+title: 'Version consolidée applicable au 15/09/2025 : Règlement grand-ducal du 24 juillet 2007 portant fixation de la tâche des enseignants des lycées et lycées techniques et portant modification\n - de l''arrêté royal grand-ducal modifié du 7 juin 1861 portant approbation d''un nouveau règlement pour les établissements d''enseignement supérieur et moyen de l''Etat;\n - du règlement grand-ducal du 27 juillet 1997 fixant les modalités d''engagement et les conditions de travail des chargés d''éducation à durée déterminée des lycées et lycées techniques publics;\n - du règlement grand-ducal du 27 juillet 1997 fixant les modalités d''engagement et les conditions de travail de deux cents chargés d''éducation à durée indéterminée des lycées et lycées techniques publics;\n - du règlement grand-ducal du 14 décembre 2000 fixant les conditions de travail des chargés de cours à durée indéterminée de l''Institut d Etudes éducatives et sociales.'
+valid_from: '2013-09-15'
+valid_to: '2014-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/consolide/20130915/fr'
+source_sha256: '9b18a4e19f843ada692e60aa5be4b4d76b81e544c496f90971f88245304c8d3f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ** Champ d’application**

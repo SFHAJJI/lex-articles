@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-07-15-a357:2023-01-01
-title: Version consolidée applicable au 01/01/2023 : Loi du 15 juillet 2022 visant à mettre en place un régime d’aides sous forme de garanties en faveur de l’économie luxembourgeoise à la suite de l’agression de la Russie contre l’Ukraine.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a357/consolide/20230101/fr
-source_sha256: df4c1a683d12f1d4b3dc87e75b9f75555a74b560c22b3e5175314776e5cce888
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-07-15-a357:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Loi du 15 juillet 2022 visant à mettre en place un régime d’aides sous forme de garanties en faveur de l’économie luxembourgeoise à la suite de l’agression de la Russie contre l’Ukraine.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a357/consolide/20230101/fr'
+source_sha256: 'df4c1a683d12f1d4b3dc87e75b9f75555a74b560c22b3e5175314776e5cce888'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

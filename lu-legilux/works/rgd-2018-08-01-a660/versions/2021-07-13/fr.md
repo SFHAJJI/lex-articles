@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-08-01-a660:2021-07-13
-title: Version consolidée applicable au 11/12/2022 : Règlement grand-ducal du 1er août 2018 établissant le programme d’équipement de l’infrastructure touristique.
-valid_from: 2021-07-13
-valid_to: 2022-12-10
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a660/consolide/20210713/fr
-source_sha256: 9b5a013d4a8128458c729b550a2d6207acfb7806f083a32f58cfcd40f5eb6257
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-08-01-a660:2021-07-13'
+title: 'Version consolidée applicable au 11/12/2022 : Règlement grand-ducal du 1er août 2018 établissant le programme d’équipement de l’infrastructure touristique.'
+valid_from: '2021-07-13'
+valid_to: '2022-12-10'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a660/consolide/20210713/fr'
+source_sha256: '9b5a013d4a8128458c729b550a2d6207acfb7806f083a32f58cfcd40f5eb6257'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

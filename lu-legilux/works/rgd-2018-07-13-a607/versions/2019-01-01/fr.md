@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-07-13-a607:2019-01-01
-title: Version consolidée applicable au 01/01/2019 : Règlement grand-ducal du 13 juillet 2018 fixant les conditions et modalités de remboursement des assurances complémentaires aux pompiers volontaires.
-valid_from: 2019-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/07/13/a607/consolide/20190101/fr
-source_sha256: fbaf382af10681b59724dcd4615e33337a2ca3599ec0c8eb52b8ed91c574e602
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-07-13-a607:2019-01-01'
+title: 'Version consolidée applicable au 01/01/2019 : Règlement grand-ducal du 13 juillet 2018 fixant les conditions et modalités de remboursement des assurances complémentaires aux pompiers volontaires.'
+valid_from: '2019-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/07/13/a607/consolide/20190101/fr'
+source_sha256: 'fbaf382af10681b59724dcd4615e33337a2ca3599ec0c8eb52b8ed91c574e602'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

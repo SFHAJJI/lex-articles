@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-12-17-n3:2025-09-15
-title: Version consolidée applicable au 15/09/2025 : Règlement grand-ducal du 17 décembre 2010 portant nouvelle fixation\n1) de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements engagés sur base des dispositions de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;\n2) de l’indemnité due pour leçons supplémentaires assurées par les détenteurs de l’attestation habilitant à faire des remplacements engagés sur base de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental.
-valid_from: 2025-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20250915/fr
-source_sha256: 773dbf68246dcfdfeb310da936bee0343cacffd042571225b7c2ab9d31403a12
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-12-17-n3:2025-09-15'
+title: 'Version consolidée applicable au 15/09/2025 : Règlement grand-ducal du 17 décembre 2010 portant nouvelle fixation\n1) de l’indemnité de remplacement due aux détenteurs de l’attestation habilitant à faire des remplacements engagés sur base des dispositions de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;\n2) de l’indemnité due pour leçons supplémentaires assurées par les détenteurs de l’attestation habilitant à faire des remplacements engagés sur base de l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental.'
+valid_from: '2025-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20250915/fr'
+source_sha256: '773dbf68246dcfdfeb310da936bee0343cacffd042571225b7c2ab9d31403a12'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

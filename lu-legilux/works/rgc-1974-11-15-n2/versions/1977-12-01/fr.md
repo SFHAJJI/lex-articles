@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgc-1974-11-15-n2:1977-12-01
-title: Version consolidée applicable au 01/04/1982 : Règlement du Gouvernement en conseil du 15 novembre 1974 fixant le régime des indemnités des chargés de cours des établissements d'enseignement publics qui dépendent du ministère de l'Education nationale.
-valid_from: 1977-12-01
-valid_to: 1982-03-31
-source: https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19771201/fr
-source_sha256: ac642ccf995ab669b1d2c656ef218ad0edf2a060afdffdd07805ef630b4cd593
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgc-1974-11-15-n2:1977-12-01'
+title: 'Version consolidée applicable au 01/04/1982 : Règlement du Gouvernement en conseil du 15 novembre 1974 fixant le régime des indemnités des chargés de cours des établissements d''enseignement publics qui dépendent du ministère de l''Education nationale.'
+valid_from: '1977-12-01'
+valid_to: '1982-03-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19771201/fr'
+source_sha256: 'ac642ccf995ab669b1d2c656ef218ad0edf2a060afdffdd07805ef630b4cd593'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

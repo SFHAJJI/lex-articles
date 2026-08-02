@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1973-02-19-n1:2023-07-21
-title: Version consolidée applicable au 21/07/2023 : Loi du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.
-valid_from: 2023-07-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/consolide/20230721/fr
-source_sha256: f8897bd7ee698b7b0ba403aa953b79aeb31c656e119c481309df367bdf8bb792
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1973-02-19-n1:2023-07-21'
+title: 'Version consolidée applicable au 21/07/2023 : Loi du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.'
+valid_from: '2023-07-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/consolide/20230721/fr'
+source_sha256: 'f8897bd7ee698b7b0ba403aa953b79aeb31c656e119c481309df367bdf8bb792'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

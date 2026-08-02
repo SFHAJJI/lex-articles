@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1992-06-17-n1:2005-01-01
-title: Version consolidée applicable au 16/06/2009 : Loi du 17 juin 1992 relative: \n- aux comptes annuels et comptes consolidés des établissements de crédit de droit luxembourgeois; \n- aux obligations en matière de publicité des documents comptables des succursales d’établissements de crédit et d’établissements financiers de droit étranger.
-valid_from: 2005-01-01
-valid_to: 2006-03-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1/consolide/20050101/fr
-source_sha256: efcd0cb1bf978262033250f3c6890c63b13e4bf063f15c55082e35ada6583b2f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1992-06-17-n1:2005-01-01'
+title: 'Version consolidée applicable au 16/06/2009 : Loi du 17 juin 1992 relative: \n- aux comptes annuels et comptes consolidés des établissements de crédit de droit luxembourgeois; \n- aux obligations en matière de publicité des documents comptables des succursales d’établissements de crédit et d’établissements financiers de droit étranger.'
+valid_from: '2005-01-01'
+valid_to: '2006-03-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1/consolide/20050101/fr'
+source_sha256: 'efcd0cb1bf978262033250f3c6890c63b13e4bf063f15c55082e35ada6583b2f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Partie I — Champ d’application

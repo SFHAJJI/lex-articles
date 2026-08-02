@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-07-30-a624:2023-10-01
-title: Loi du 30 juillet 2021 relative au Pacte logement 2.0.
-valid_from: 2023-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a624/consolide/20231001/fr
-source_sha256: 0c00de60fedce54dcb923035d0a20ba24cfa32fd1786067135f02c02ba9e4cd0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-07-30-a624:2023-10-01'
+title: 'Loi du 30 juillet 2021 relative au Pacte logement 2.0.'
+valid_from: '2023-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a624/consolide/20231001/fr'
+source_sha256: '0c00de60fedce54dcb923035d0a20ba24cfa32fd1786067135f02c02ba9e4cd0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

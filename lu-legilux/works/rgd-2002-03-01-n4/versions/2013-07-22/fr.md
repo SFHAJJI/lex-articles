@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2002-03-01-n4:2013-07-22
-title: Version consolidée applicable au 22/07/2013 : Règlement grand-ducal du 1er mars 2002 relatif à la pharmacie hospitalière et au dépôt hospitalier de médicaments.
-valid_from: 2013-07-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2002/03/01/n4/consolide/20130722/fr
-source_sha256: 0e10bb4a980efef21aa160a9b3df4bb9f58773d1d1df904e093ceca31d6e1516
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2002-03-01-n4:2013-07-22'
+title: 'Version consolidée applicable au 22/07/2013 : Règlement grand-ducal du 1er mars 2002 relatif à la pharmacie hospitalière et au dépôt hospitalier de médicaments.'
+valid_from: '2013-07-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2002/03/01/n4/consolide/20130722/fr'
+source_sha256: '0e10bb4a980efef21aa160a9b3df4bb9f58773d1d1df904e093ceca31d6e1516'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — **De la pharmacie hospitalière**

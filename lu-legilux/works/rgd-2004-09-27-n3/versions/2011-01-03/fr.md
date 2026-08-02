@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-09-27-n3:2011-01-03
-title: Version consolidée applicable au 01/01/2019 : Règlement grand-ducal du 27 septembre 2004 portant exécution de la loi du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l'accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit.
-valid_from: 2011-01-03
-valid_to: 2013-12-06
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/09/27/n3/consolide/20110103/fr
-source_sha256: 9e339efac73192d4fdca243632f00785c667cf030e8ee77ee680dd1ae96002bd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-09-27-n3:2011-01-03'
+title: 'Version consolidée applicable au 01/01/2019 : Règlement grand-ducal du 27 septembre 2004 portant exécution de la loi du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l''accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit.'
+valid_from: '2011-01-03'
+valid_to: '2013-12-06'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/09/27/n3/consolide/20110103/fr'
+source_sha256: '9e339efac73192d4fdca243632f00785c667cf030e8ee77ee680dd1ae96002bd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I: — Modalités de la fixation des montants variables du complément et présentation des demandes

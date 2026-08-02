@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-04-01-n12:2015-06-09
-title: Version consolidée applicable au 09/06/2015 : Règlement grand-ducal du 1er avril 2011 déterminant les critères de classement ainsi que les modalités des procédures d'affectation et de réaffectation des éducateurs gradués et des éducateurs de l'enseignement fondamental.
-valid_from: 2015-06-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/04/01/n12/consolide/20150609/fr
-source_sha256: 9b14a30f1b66cb64d850b3820b18f0cea852ba79273390d32ed12fb16fd32ac5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-04-01-n12:2015-06-09'
+title: 'Version consolidée applicable au 09/06/2015 : Règlement grand-ducal du 1er avril 2011 déterminant les critères de classement ainsi que les modalités des procédures d''affectation et de réaffectation des éducateurs gradués et des éducateurs de l''enseignement fondamental.'
+valid_from: '2015-06-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/04/01/n12/consolide/20150609/fr'
+source_sha256: '9b14a30f1b66cb64d850b3820b18f0cea852ba79273390d32ed12fb16fd32ac5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

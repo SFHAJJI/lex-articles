@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1990-01-16-n1:2018-08-25
-title: Version consolidée applicable au 25/08/2018 : Loi du 16 janvier 1990 relative aux dispositifs médicaux.
-valid_from: 2018-08-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1990/01/16/n1/consolide/20180825/fr
-source_sha256: 7a5e9c5381975427cf000cee6519f2f3c03cf17ac11d32b8af687841e19fe9bd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1990-01-16-n1:2018-08-25'
+title: 'Version consolidée applicable au 25/08/2018 : Loi du 16 janvier 1990 relative aux dispositifs médicaux.'
+valid_from: '2018-08-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1990/01/16/n1/consolide/20180825/fr'
+source_sha256: '7a5e9c5381975427cf000cee6519f2f3c03cf17ac11d32b8af687841e19fe9bd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

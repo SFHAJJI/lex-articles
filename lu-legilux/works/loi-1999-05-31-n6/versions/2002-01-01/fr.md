@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-05-31-n6:2002-01-01
-title: Version consolidée applicable au 03/04/2017 : Loi du 31 mai 1999 visant à renforcer les mesures contre la traite des êtres humains et l'exploitation sexuelle des enfants et portant modification du Code pénal et du Code de procédure pénale.
-valid_from: 2002-01-01
-valid_to: 2017-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/consolide/20020101/fr
-source_sha256: e73841b1dac1d70baec51bc3a99ecd2933e5808b36081e88c48e084945e73cdf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-05-31-n6:2002-01-01'
+title: 'Version consolidée applicable au 03/04/2017 : Loi du 31 mai 1999 visant à renforcer les mesures contre la traite des êtres humains et l''exploitation sexuelle des enfants et portant modification du Code pénal et du Code de procédure pénale.'
+valid_from: '2002-01-01'
+valid_to: '2017-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/consolide/20020101/fr'
+source_sha256: 'e73841b1dac1d70baec51bc3a99ecd2933e5808b36081e88c48e084945e73cdf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-07-21-a470:2026-07-17
-title: Loi du 21 juillet 2023 ayant pour objet l’organisation de l’enseignement supérieur.
-valid_from: 2026-07-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/07/21/a470/consolide/20260717/fr
-source_sha256: a31acf9c2451e6102dab60ea91d19567da60ce65e6aab00731f04191a1603d08
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-07-21-a470:2026-07-17'
+title: 'Loi du 21 juillet 2023 ayant pour objet l’organisation de l’enseignement supérieur.'
+valid_from: '2026-07-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/07/21/a470/consolide/20260717/fr'
+source_sha256: 'a31acf9c2451e6102dab60ea91d19567da60ce65e6aab00731f04191a1603d08'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier — Cadre et composantes de l’enseignement supérieur

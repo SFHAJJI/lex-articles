@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-05-14-a370:2022-01-11
-title: Règlement grand-ducal du 14 mai 2021 fixant les conditions de réalisation et de certification des tests de dépistage ou diagnostique de l’infection par virus SARS-CoV-2.
-valid_from: 2022-01-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/05/14/a370/consolide/20220111/fr
-source_sha256: becc0b1939a2e71f3a7560b6f681da0d6505fc7aa2ba718b9e4813d80b85c5f7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-05-14-a370:2022-01-11'
+title: 'Règlement grand-ducal du 14 mai 2021 fixant les conditions de réalisation et de certification des tests de dépistage ou diagnostique de l’infection par virus SARS-CoV-2.'
+valid_from: '2022-01-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/05/14/a370/consolide/20220111/fr'
+source_sha256: 'becc0b1939a2e71f3a7560b6f681da0d6505fc7aa2ba718b9e4813d80b85c5f7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

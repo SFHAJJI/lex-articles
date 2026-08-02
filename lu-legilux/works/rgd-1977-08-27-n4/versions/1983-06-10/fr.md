@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1977-08-27-n4:1983-06-10
-title: Version consolidée applicable au 10/06/1983 : Règlement grand-ducal du 27 août 1977 pris en exécution de l'article 7.3. de la loi du 27 janvier 1972 fixant le régime des employés de l'Etat.
-valid_from: 1983-06-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1977/08/27/n4/consolide/19830610/fr
-source_sha256: 55c1e7ab3ff583ecda4154756cd00f5e92ffa9e14a218e634e25039fa40a9c76
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1977-08-27-n4:1983-06-10'
+title: 'Version consolidée applicable au 10/06/1983 : Règlement grand-ducal du 27 août 1977 pris en exécution de l''article 7.3. de la loi du 27 janvier 1972 fixant le régime des employés de l''Etat.'
+valid_from: '1983-06-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1977/08/27/n4/consolide/19830610/fr'
+source_sha256: '55c1e7ab3ff583ecda4154756cd00f5e92ffa9e14a218e634e25039fa40a9c76'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

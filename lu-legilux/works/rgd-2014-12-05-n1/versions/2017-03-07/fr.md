@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-12-05-n1:2017-03-07
-title: Version consolidée applicable au 07/03/2017 : Règlement grand-ducal du 5 décembre 2014 portant fixation des dérogations pour opérations spéciales concernant les activités d’intérêt public dans le cadre de l’application du règlement d’exécution (UE) n° 923/2012 de la Commission du 26 septembre 2012 établissant les règles de l’air communes au niveau européen (règlement européen SERA).
-valid_from: 2017-03-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/12/05/n1/consolide/20170307/fr
-source_sha256: cc8d6af2404c5c16dc8ee71ca360c58d634c0e6d30f87326cb2c63e3682d1cd6
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-12-05-n1:2017-03-07'
+title: 'Version consolidée applicable au 07/03/2017 : Règlement grand-ducal du 5 décembre 2014 portant fixation des dérogations pour opérations spéciales concernant les activités d’intérêt public dans le cadre de l’application du règlement d’exécution (UE) n° 923/2012 de la Commission du 26 septembre 2012 établissant les règles de l’air communes au niveau européen (règlement européen SERA).'
+valid_from: '2017-03-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/12/05/n1/consolide/20170307/fr'
+source_sha256: 'cc8d6af2404c5c16dc8ee71ca360c58d634c0e6d30f87326cb2c63e3682d1cd6'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

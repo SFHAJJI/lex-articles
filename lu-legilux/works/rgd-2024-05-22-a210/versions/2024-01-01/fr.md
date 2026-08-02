@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-05-22-a210:2024-01-01
-title: Version rectifiée applicable au 01/01/2024 : Règlement grand-ducal du 22 mai 2024 portant modification du règlement grand-ducal modifié du 19 novembre 1999 portant exécution de l’article 106, alinéas 3 et 4 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu (base d’amortissement forfaitaire et taux d’amortissement pour immeubles locatifs).
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/05/22/a210/consolide/20240101/fr
-source_sha256: 0cd7b4d3c8d5d80712d13a3a003a6c11119520cbca0816584f929d18a4edb7d2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-05-22-a210:2024-01-01'
+title: 'Version rectifiée applicable au 01/01/2024 : Règlement grand-ducal du 22 mai 2024 portant modification du règlement grand-ducal modifié du 19 novembre 1999 portant exécution de l’article 106, alinéas 3 et 4 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu (base d’amortissement forfaitaire et taux d’amortissement pour immeubles locatifs).'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/05/22/a210/consolide/20240101/fr'
+source_sha256: '0cd7b4d3c8d5d80712d13a3a003a6c11119520cbca0816584f929d18a4edb7d2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

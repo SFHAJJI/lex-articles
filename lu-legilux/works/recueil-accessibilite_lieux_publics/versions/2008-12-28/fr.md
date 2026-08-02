@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28
-title: Accessibilité des lieux ouverts au public
-valid_from: 2008-12-28
-valid_to: 2023-06-30
-source: https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20081228/fr
-source_sha256: 7dc04e5289fb2bc1040e3d6ad536257271d1b0b38c220cff4ac415efe35364d1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-accessibilite_lieux_publics:2008-12-28'
+title: 'Accessibilité des lieux ouverts au public'
+valid_from: '2008-12-28'
+valid_to: '2023-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20081228/fr'
+source_sha256: '7dc04e5289fb2bc1040e3d6ad536257271d1b0b38c220cff4ac415efe35364d1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Loi du 29 mars 2001 portant sur l'accessibilité des lieux ouverts au public.

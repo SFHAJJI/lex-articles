@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-01-13-a15:2020-03-30
-title: Loi du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs.
-valid_from: 2020-03-30
-valid_to: 2025-01-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/consolide/20200330/fr
-source_sha256: 0f63fb6af6578a9f27ce566037aa1f1fba187b51c137c54953259e911cd7fbfb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-01-13-a15:2020-03-30'
+title: 'Loi du 13 janvier 2019 instituant un Registre des bénéficiaires effectifs.'
+valid_from: '2020-03-30'
+valid_to: '2025-01-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/consolide/20200330/fr'
+source_sha256: '0f63fb6af6578a9f27ce566037aa1f1fba187b51c137c54953259e911cd7fbfb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Définitions**

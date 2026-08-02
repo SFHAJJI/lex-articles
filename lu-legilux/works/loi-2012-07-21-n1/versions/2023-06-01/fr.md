@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2012-07-21-n1:2023-06-01
-title: Version consolidée applicable au 01/06/2023 : Loi du 21 juillet 2012 portant transposition de la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l’assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures.
-valid_from: 2023-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n1/consolide/20230601/fr
-source_sha256: 717e736aafc804952eef6827469a298fb2c4141888e098555284d2515acd76fb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2012-07-21-n1:2023-06-01'
+title: 'Version consolidée applicable au 01/06/2023 : Loi du 21 juillet 2012 portant transposition de la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l’assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures.'
+valid_from: '2023-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n1/consolide/20230601/fr'
+source_sha256: '717e736aafc804952eef6827469a298fb2c4141888e098555284d2515acd76fb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — *Champ d’application et Définitions*

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-07-20-a626:2025-04-12
-title: Loi du 20 juillet 2018 portant réforme de l’administration pénitentiaire.
-valid_from: 2025-04-12
-valid_to: 2026-03-16
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a626/consolide/20250412/fr
-source_sha256: d32c2cdb00f33be2f6d3bf20f97a989c9df44a94a80a7be7c2b95b433dda36ea
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-07-20-a626:2025-04-12'
+title: 'Loi du 20 juillet 2018 portant réforme de l’administration pénitentiaire.'
+valid_from: '2025-04-12'
+valid_to: '2026-03-16'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a626/consolide/20250412/fr'
+source_sha256: 'd32c2cdb00f33be2f6d3bf20f97a989c9df44a94a80a7be7c2b95b433dda36ea'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ***Dispositions générales.***

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1961-08-07-n1:2019-12-14
-title: Version consolidée applicable au 21/04/2026 : Loi du 7 août 1961 relative à la création d’un fonds d’urbanisation et d’aménagement du plateau de Kirchberg.
-valid_from: 2019-12-14
-valid_to: 2026-04-20
-source: https://legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/consolide/20191214/fr
-source_sha256: f7598a11971a89c10bec2865e620f91530986313761cc8c4fc37b728f15cb55f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1961-08-07-n1:2019-12-14'
+title: 'Version consolidée applicable au 21/04/2026 : Loi du 7 août 1961 relative à la création d’un fonds d’urbanisation et d’aménagement du plateau de Kirchberg.'
+valid_from: '2019-12-14'
+valid_to: '2026-04-20'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/consolide/20191214/fr'
+source_sha256: 'f7598a11971a89c10bec2865e620f91530986313761cc8c4fc37b728f15cb55f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

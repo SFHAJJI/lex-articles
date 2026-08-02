@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-02-11-a121:2023-10-24
-title: Version consolidée applicable au 24/10/2023 : Loi du 11 février 2022 portant création d’une carte de stationnement pour personnes handicapées.
-valid_from: 2023-10-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/02/11/a121/consolide/20231024/fr
-source_sha256: 01a3b23601add5e18b974173b261fa1929c3a5302e450297adc148bd272bbe25
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-02-11-a121:2023-10-24'
+title: 'Version consolidée applicable au 24/10/2023 : Loi du 11 février 2022 portant création d’une carte de stationnement pour personnes handicapées.'
+valid_from: '2023-10-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/02/11/a121/consolide/20231024/fr'
+source_sha256: '01a3b23601add5e18b974173b261fa1929c3a5302e450297adc148bd272bbe25'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

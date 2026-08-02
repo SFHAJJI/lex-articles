@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-inap:2021-05-07
-title: Institut national d'administration publique
-valid_from: 2021-05-07
-valid_to: 2022-03-23
-source: https://legilux.public.lu/eli/etat/leg/recueil/inap/20210507/fr
-source_sha256: 8a4ab0159f99d49d1b57e78c2b430a6eae37182f8110d7eef5f35819afca4243
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-inap:2021-05-07'
+title: 'Institut national d''administration publique'
+valid_from: '2021-05-07'
+valid_to: '2022-03-23'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/inap/20210507/fr'
+source_sha256: '8a4ab0159f99d49d1b57e78c2b430a6eae37182f8110d7eef5f35819afca4243'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Organisation**

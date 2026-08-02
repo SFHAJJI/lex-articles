@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2007-12-21-n21:2017-12-25
-title: Version consolidée applicable au 23/01/2023 : Règlement grand-ducal du 21 décembre 2007 fixant une liste de pays d'origine sûrs au sens de la loi modifiée du 5 mai 2006 relative au droit d'asile et à des formes complémentaires de protection.
-valid_from: 2017-12-25
-valid_to: 2023-01-22
-source: https://legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n21/consolide/20171225/fr
-source_sha256: a2764309f1f79318aba532924dcf397c02931a8c8d5742d87f196f301e172df3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2007-12-21-n21:2017-12-25'
+title: 'Version consolidée applicable au 23/01/2023 : Règlement grand-ducal du 21 décembre 2007 fixant une liste de pays d''origine sûrs au sens de la loi modifiée du 5 mai 2006 relative au droit d''asile et à des formes complémentaires de protection.'
+valid_from: '2017-12-25'
+valid_to: '2023-01-22'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n21/consolide/20171225/fr'
+source_sha256: 'a2764309f1f79318aba532924dcf397c02931a8c8d5742d87f196f301e172df3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

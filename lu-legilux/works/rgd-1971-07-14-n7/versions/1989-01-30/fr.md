@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1971-07-14-n7:1989-01-30
-title: Version consolidée applicable au 25/06/1996 : Règlement grand-ducal du 14 juillet 1971 concernant l'institution et le fonctionnement du comité d'acquisition prévu par l'article 13 de la loi du 16 août 1967 ayant pour objet la création d'une grande voirie de communication et d'un fonds des routes.
-valid_from: 1989-01-30
-valid_to: 1992-10-26
-source: https://legilux.public.lu/eli/etat/leg/rgd/1971/07/14/n7/consolide/19890130/fr
-source_sha256: 441dc9dd35a288450baef705bfc409c5990fe0c1181ebfcf53bd0f616418eb3b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1971-07-14-n7:1989-01-30'
+title: 'Version consolidée applicable au 25/06/1996 : Règlement grand-ducal du 14 juillet 1971 concernant l''institution et le fonctionnement du comité d''acquisition prévu par l''article 13 de la loi du 16 août 1967 ayant pour objet la création d''une grande voirie de communication et d''un fonds des routes.'
+valid_from: '1989-01-30'
+valid_to: '1992-10-26'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1971/07/14/n7/consolide/19890130/fr'
+source_sha256: '441dc9dd35a288450baef705bfc409c5990fe0c1181ebfcf53bd0f616418eb3b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

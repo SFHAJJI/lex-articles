@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-06-24-a531:2023-02-01
-title: Version consolidée applicable au 01/02/2023 : Loi du 24 juin 2020 portant introduction de mesures temporaires relatives à la loi communale modifiée du 13 décembre 1988 et à la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile dans le cadre de la lutte contre le Covid-19.
-valid_from: 2023-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a531/consolide/20230201/fr
-source_sha256: a44b0d960e4ad48d84edaeb723db974a27e3dbd90f27a4126d81562d548f9e27
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-06-24-a531:2023-02-01'
+title: 'Version consolidée applicable au 01/02/2023 : Loi du 24 juin 2020 portant introduction de mesures temporaires relatives à la loi communale modifiée du 13 décembre 1988 et à la loi modifiée du 27 mars 2018 portant organisation de la sécurité civile dans le cadre de la lutte contre le Covid-19.'
+valid_from: '2023-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a531/consolide/20230201/fr'
+source_sha256: 'a44b0d960e4ad48d84edaeb723db974a27e3dbd90f27a4126d81562d548f9e27'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

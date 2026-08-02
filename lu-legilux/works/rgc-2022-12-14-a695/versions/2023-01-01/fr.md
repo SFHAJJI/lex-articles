@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgc-2022-12-14-a695:2023-01-01
-title: Version rectifiée applicable au 01/01/2023 : Règlement du Gouvernement en Conseil du 14 décembre 2022 fixant l’indemnité revenant aux experts autres que les agents de l’État et aux membres de la commission locale pour les services fournis aux fins du classement et de l’évaluation des terres réalisés dans le cadre d’un remembrement rural.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgc/2022/12/14/a695/consolide/20230101/fr
-source_sha256: 29f856e34e965fd44a5425feff2ab08bd7691a0b84ca1cd12cc58971f9264803
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgc-2022-12-14-a695:2023-01-01'
+title: 'Version rectifiée applicable au 01/01/2023 : Règlement du Gouvernement en Conseil du 14 décembre 2022 fixant l’indemnité revenant aux experts autres que les agents de l’État et aux membres de la commission locale pour les services fournis aux fins du classement et de l’évaluation des terres réalisés dans le cadre d’un remembrement rural.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgc/2022/12/14/a695/consolide/20230101/fr'
+source_sha256: '29f856e34e965fd44a5425feff2ab08bd7691a0b84ca1cd12cc58971f9264803'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

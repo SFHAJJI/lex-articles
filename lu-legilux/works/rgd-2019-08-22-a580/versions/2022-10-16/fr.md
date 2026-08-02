@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-08-22-a580:2022-10-16
-title: Règlement grand-ducal du 22 août 2019 déterminant les modalités pratiques du stage, du cycle de formation de début de carrière, du certificat de formation pédagogique et de la période d’approfondissement. 
-valid_from: 2022-10-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a580/consolide/20221016/fr
-source_sha256: 5143e1f607f541ea8a99305ea24068427da4f7e4eeac1d99e276bce713992a78
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-08-22-a580:2022-10-16'
+title: 'Règlement grand-ducal du 22 août 2019 déterminant les modalités pratiques du stage, du cycle de formation de début de carrière, du certificat de formation pédagogique et de la période d’approfondissement. '
+valid_from: '2022-10-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a580/consolide/20221016/fr'
+source_sha256: '5143e1f607f541ea8a99305ea24068427da4f7e4eeac1d99e276bce713992a78'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Référentiel des compétences professionnelles des enseignants stagiaires et des employés**

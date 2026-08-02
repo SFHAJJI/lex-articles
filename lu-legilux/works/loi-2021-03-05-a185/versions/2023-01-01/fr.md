@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-03-05-a185:2023-01-01
-title: Version consolidée applicable au 01/01/2023 : Loi du 5 mars 2021 relative à certaines modalités de mise en œuvre du règlement (UE) n° 2019/1150 du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/03/05/a185/consolide/20230101/fr
-source_sha256: d208f421ae97200085001773b2f522a5231f68a8a25463db97834e4e6eaf91c8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-03-05-a185:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Loi du 5 mars 2021 relative à certaines modalités de mise en œuvre du règlement (UE) n° 2019/1150 du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/03/05/a185/consolide/20230101/fr'
+source_sha256: 'd208f421ae97200085001773b2f522a5231f68a8a25463db97834e4e6eaf91c8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

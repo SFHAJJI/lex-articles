@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1978-07-27-n6:2005-10-09
-title: Version consolidée applicable au 09/10/2005 : Loi du 27 juillet 1978 portant fusion des communes de Arsdorf, Bigonville, Folschette et Perlé.
-valid_from: 2005-10-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1978/07/27/n6/consolide/20051009/fr
-source_sha256: fe6a9e7fd61cbd089f9fffc2b2c50e9c84910b7b66e90860e0bcc74907b4f3be
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1978-07-27-n6:2005-10-09'
+title: 'Version consolidée applicable au 09/10/2005 : Loi du 27 juillet 1978 portant fusion des communes de Arsdorf, Bigonville, Folschette et Perlé.'
+valid_from: '2005-10-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1978/07/27/n6/consolide/20051009/fr'
+source_sha256: 'fe6a9e7fd61cbd089f9fffc2b2c50e9c84910b7b66e90860e0bcc74907b4f3be'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

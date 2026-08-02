@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1993-07-27-n2:2013-01-04
-title: Version consolidée applicable au 05/10/2018 : Loi du 27 juillet 1993 ayant pour objet\n1. le développement et la diversification économiques \n2. l'amélioration de la structure générale de l'économie.
-valid_from: 2013-01-04
-valid_to: 2018-10-04
-source: https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/consolide/20130104/fr
-source_sha256: ffe585db017646efcaf3351afa3cd2af66cc6da9e675d34c67dba095f41ee782
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1993-07-27-n2:2013-01-04'
+title: 'Version consolidée applicable au 05/10/2018 : Loi du 27 juillet 1993 ayant pour objet\n1. le développement et la diversification économiques \n2. l''amélioration de la structure générale de l''économie.'
+valid_from: '2013-01-04'
+valid_to: '2018-10-04'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/consolide/20130104/fr'
+source_sha256: 'ffe585db017646efcaf3351afa3cd2af66cc6da9e675d34c67dba095f41ee782'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er.- — Objet – Champ d’application – Instruments – Régimes

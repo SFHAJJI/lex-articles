@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-04-18-n4:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Règlement grand-ducal du 18 avril 2001 établissant le modèle de la convention avec les hôpitaux fixant les modalités de la participation de l’Etat dans les investissements hospitaliers.
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/04/18/n4/consolide/20020101/fr
-source_sha256: 6968dc349b427ad56b97ab395be092d3b2835ab6866501b02ec7e3ea82115582
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-04-18-n4:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Règlement grand-ducal du 18 avril 2001 établissant le modèle de la convention avec les hôpitaux fixant les modalités de la participation de l’Etat dans les investissements hospitaliers.'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/04/18/n4/consolide/20020101/fr'
+source_sha256: '6968dc349b427ad56b97ab395be092d3b2835ab6866501b02ec7e3ea82115582'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

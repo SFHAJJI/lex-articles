@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-09-30-n10:2018-10-01
-title: Version consolidée applicable au 01/10/2018 : Règlement grand-ducal du 30 septembre 2015 déterminant pour les fonctionnaires et employés de l'Etat: I. les cas d'exception ou de tempérament aux conditions de stage; II. la bonification d'ancienneté de service pour la fixation du traitement initial; III. la procédure d'attribution d'une prime pour les détenteurs d'un doctorat.
-valid_from: 2018-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n10/consolide/20181001/fr
-source_sha256: 63ec751e458509b4701d68fd271065ed64a4403c1c1070f2cc8d0a03c32471a7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-09-30-n10:2018-10-01'
+title: 'Version consolidée applicable au 01/10/2018 : Règlement grand-ducal du 30 septembre 2015 déterminant pour les fonctionnaires et employés de l''Etat: I. les cas d''exception ou de tempérament aux conditions de stage; II. la bonification d''ancienneté de service pour la fixation du traitement initial; III. la procédure d''attribution d''une prime pour les détenteurs d''un doctorat.'
+valid_from: '2018-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n10/consolide/20181001/fr'
+source_sha256: '63ec751e458509b4701d68fd271065ed64a4403c1c1070f2cc8d0a03c32471a7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Champ d’application

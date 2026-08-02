@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-06-24-a526:2021-12-17
-title: Version consolidée applicable au 17/12/2021 : Loi du 24 juin 2020 concernant la célébration du mariage dans un édifice communal autre que la maison communale dans le cadre de la lutte contre la pandémie Covid-19.
-valid_from: 2021-12-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a526/consolide/20211217/fr
-source_sha256: 15e90ae3f5e1d28e049046637516eeffc785396bc9c22df76e65fce8c54a1bb1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-06-24-a526:2021-12-17'
+title: 'Version consolidée applicable au 17/12/2021 : Loi du 24 juin 2020 concernant la célébration du mariage dans un édifice communal autre que la maison communale dans le cadre de la lutte contre la pandémie Covid-19.'
+valid_from: '2021-12-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a526/consolide/20211217/fr'
+source_sha256: '15e90ae3f5e1d28e049046637516eeffc785396bc9c22df76e65fce8c54a1bb1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

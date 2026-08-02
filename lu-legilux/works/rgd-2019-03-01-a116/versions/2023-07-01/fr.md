@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-03-01-a116:2023-07-01
-title: Version consolidée applicable au 01/07/2023 : Règlement grand-ducal du 1er mars 2019 portant fixation des indemnités et des jetons de présence revenant aux membres des conseils d’administration et aux commissaires du Gouvernement des centres de recherche publics.
-valid_from: 2023-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a116/consolide/20230701/fr
-source_sha256: 1de15430511d06124cc08a4cfdc7e9e4f8d0d2d67de84e2f5af8ee428e55cab4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-03-01-a116:2023-07-01'
+title: 'Version consolidée applicable au 01/07/2023 : Règlement grand-ducal du 1er mars 2019 portant fixation des indemnités et des jetons de présence revenant aux membres des conseils d’administration et aux commissaires du Gouvernement des centres de recherche publics.'
+valid_from: '2023-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a116/consolide/20230701/fr'
+source_sha256: '1de15430511d06124cc08a4cfdc7e9e4f8d0d2d67de84e2f5af8ee428e55cab4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

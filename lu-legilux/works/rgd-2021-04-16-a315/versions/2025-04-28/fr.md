@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-04-16-a315:2025-04-28
-title: Version consolidée applicable au 28/04/2025 : Règlement grand-ducal du 16 avril 2021 instituant une prime pour la fourniture de services écosystémiques en milieu forestier.
-valid_from: 2025-04-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/04/16/a315/consolide/20250428/fr
-source_sha256: 95d819cbab7e49685732be2789e1df83e345138eb8aacc68e9fd6c47cc7fd08a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-04-16-a315:2025-04-28'
+title: 'Version consolidée applicable au 28/04/2025 : Règlement grand-ducal du 16 avril 2021 instituant une prime pour la fourniture de services écosystémiques en milieu forestier.'
+valid_from: '2025-04-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/04/16/a315/consolide/20250428/fr'
+source_sha256: '95d819cbab7e49685732be2789e1df83e345138eb8aacc68e9fd6c47cc7fd08a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

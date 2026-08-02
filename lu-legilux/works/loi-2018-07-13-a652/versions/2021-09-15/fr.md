@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-07-13-a652:2021-09-15
-title: Loi du 13 juillet 2018 portant création d’un lycée à Mondorf-les-Bains.
-valid_from: 2021-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/consolide/20210915/fr
-source_sha256: d104feee1008839bfd5ca811a135a4521fcfe819ae2217b14a2b86b9573134ef
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-07-13-a652:2021-09-15'
+title: 'Loi du 13 juillet 2018 portant création d’un lycée à Mondorf-les-Bains.'
+valid_from: '2021-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/consolide/20210915/fr'
+source_sha256: 'd104feee1008839bfd5ca811a135a4521fcfe819ae2217b14a2b86b9573134ef'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Le lycée à Mondorf-les-Bains

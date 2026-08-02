@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-conseil_etat:2024-06-26
-title: Conseil d'État
-valid_from: 2024-06-26
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20240626/fr
-source_sha256: 65398c6ce4f90ccc9ae1b0e66cbe7c1f15e25ee9e31f8eb9723e9a16c8fa6901
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-conseil_etat:2024-06-26'
+title: 'Conseil d''État'
+valid_from: '2024-06-26'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20240626/fr'
+source_sha256: '65398c6ce4f90ccc9ae1b0e66cbe7c1f15e25ee9e31f8eb9723e9a16c8fa6901'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Version consolidée applicable au 26/04/2024 : Loi du 16 juin 2017 sur l’organisation du Conseil d’Etat et portant modification 1. de la loi modifiée du 21 avril 1928 sur les associations et les fondations sans but lucratif; 2. de la loi modifiée du 29 juin 1989 portant réforme du régime des cabarets.**

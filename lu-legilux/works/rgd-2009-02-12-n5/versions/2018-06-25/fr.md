@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-02-12-n5:2018-06-25
-title: Version consolidée applicable au 22/04/2019 : Règlement grand-ducal du 12 février 2009 relatif au bureau centralisateur gouvernemental installé à l'occasion des élections législatives, européennes et communales.
-valid_from: 2018-06-25
-valid_to: 2019-04-21
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/02/12/n5/consolide/20180625/fr
-source_sha256: ef842018c33738ba6b3f7dff9d3d902b209bc3d79fef30a21a3ca9c2a24bb1d1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-02-12-n5:2018-06-25'
+title: 'Version consolidée applicable au 22/04/2019 : Règlement grand-ducal du 12 février 2009 relatif au bureau centralisateur gouvernemental installé à l''occasion des élections législatives, européennes et communales.'
+valid_from: '2018-06-25'
+valid_to: '2019-04-21'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/02/12/n5/consolide/20180625/fr'
+source_sha256: 'ef842018c33738ba6b3f7dff9d3d902b209bc3d79fef30a21a3ca9c2a24bb1d1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

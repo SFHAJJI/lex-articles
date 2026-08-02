@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-05-n8:2023-09-05
-title: loi-2016-07-05-n8
-valid_from: 2023-09-05
-valid_to: 2024-12-23
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8/consolide/20230905/fr
-source_sha256: 62b817061038e3d9831b62fbd63d176845b498f3e9da17d1b5add2e48a4f6467
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-05-n8:2023-09-05'
+title: 'loi-2016-07-05-n8'
+valid_from: '2023-09-05'
+valid_to: '2024-12-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8/consolide/20230905/fr'
+source_sha256: '62b817061038e3d9831b62fbd63d176845b498f3e9da17d1b5add2e48a4f6467'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — *De l'institution et des missions du Service de renseignement de l'État*

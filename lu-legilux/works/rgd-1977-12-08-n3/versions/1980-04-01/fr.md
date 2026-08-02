@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1977-12-08-n3:1980-04-01
-title: Version consolidée applicable au 01/04/1980 : Règlement grand-ducal du 8 décembre 1977 portant sur les modalités des examens médicaux des enfants en bas âge, sur la périodicité de ces examens et sur le modèle du carnet de santé et les inscriptions qui devront y être portées obligatoirement.
-valid_from: 1980-04-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n3/consolide/19800401/fr
-source_sha256: 9232a78f6e5eaeeea3569ac34376be362931424d585ecdf3e64021a31fe0b68a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1977-12-08-n3:1980-04-01'
+title: 'Version consolidée applicable au 01/04/1980 : Règlement grand-ducal du 8 décembre 1977 portant sur les modalités des examens médicaux des enfants en bas âge, sur la périodicité de ces examens et sur le modèle du carnet de santé et les inscriptions qui devront y être portées obligatoirement.'
+valid_from: '1980-04-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n3/consolide/19800401/fr'
+source_sha256: '9232a78f6e5eaeeea3569ac34376be362931424d585ecdf3e64021a31fe0b68a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

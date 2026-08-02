@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-12-14-n1:2019-05-01
-title: Loi du 14 décembre 2016 portant création d’un Fonds de dotation globale des communes.
-valid_from: 2019-05-01
-valid_to: 2024-04-30
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/12/14/n1/consolide/20190501/fr
-source_sha256: dc62fb65d6c3780fa47d69943215d9a035c4478e9ec4608971e1367a18b14455
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-12-14-n1:2019-05-01'
+title: 'Loi du 14 décembre 2016 portant création d’un Fonds de dotation globale des communes.'
+valid_from: '2019-05-01'
+valid_to: '2024-04-30'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/12/14/n1/consolide/20190501/fr'
+source_sha256: 'dc62fb65d6c3780fa47d69943215d9a035c4478e9ec4608971e1367a18b14455'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-06-06-n5:2017-04-25
-title: Version consolidée applicable au 25/04/2017 : Règlement grand-ducal du 6 juin 2008 déterminant les conditions générales et les modalités du recrutement centralisé applicables à certains employés occupés dans les administrations et services de l'Etat.
-valid_from: 2017-04-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/06/06/n5/consolide/20170425/fr
-source_sha256: 78acf9183dd3dde77c5b48d614e1f1c00f65e4ec37ea8b672da239847f31c538
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-06-06-n5:2017-04-25'
+title: 'Version consolidée applicable au 25/04/2017 : Règlement grand-ducal du 6 juin 2008 déterminant les conditions générales et les modalités du recrutement centralisé applicables à certains employés occupés dans les administrations et services de l''Etat.'
+valid_from: '2017-04-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/06/06/n5/consolide/20170425/fr'
+source_sha256: '78acf9183dd3dde77c5b48d614e1f1c00f65e4ec37ea8b672da239847f31c538'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

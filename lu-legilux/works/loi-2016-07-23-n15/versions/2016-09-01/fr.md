@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-23-n15:2016-09-01
-title: Version rectifiée applicable au 01/09/2016 : Loi du 23 juillet 2016 réglant le montant et les modalités d'octroi du soutien financier annuel à la communauté musulmane du Grand-Duché de Luxembourg, arrêtant les exemptions en matière d'acquisition d'immeubles affectés à l'exercice du culte musulman et conférant la personnalité juridique à l'Assemblée de la Communauté musulmane du Grand-Duché de Luxembourg.
-valid_from: 2016-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/consolide/20160901/fr
-source_sha256: 234764bb0ac622e38e992015310b8ef78eebba2c36ade28060b68d1e5c702b5f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-23-n15:2016-09-01'
+title: 'Version rectifiée applicable au 01/09/2016 : Loi du 23 juillet 2016 réglant le montant et les modalités d''octroi du soutien financier annuel à la communauté musulmane du Grand-Duché de Luxembourg, arrêtant les exemptions en matière d''acquisition d''immeubles affectés à l''exercice du culte musulman et conférant la personnalité juridique à l''Assemblée de la Communauté musulmane du Grand-Duché de Luxembourg.'
+valid_from: '2016-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/consolide/20160901/fr'
+source_sha256: '234764bb0ac622e38e992015310b8ef78eebba2c36ade28060b68d1e5c702b5f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

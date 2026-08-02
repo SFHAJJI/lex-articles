@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2002-07-08-n1:2007-11-10
-title: Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 8 juillet 2002 portant exécution de l’article 143, alinéa 3 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.
-valid_from: 2007-11-10
-valid_to: 2012-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2002/07/08/n1/consolide/20071110/fr
-source_sha256: 177c432388e39c2032ed89944fd459e0deaef7ac491296eddfff242cdede0923
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2002-07-08-n1:2007-11-10'
+title: 'Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 8 juillet 2002 portant exécution de l’article 143, alinéa 3 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu.'
+valid_from: '2007-11-10'
+valid_to: '2012-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2002/07/08/n1/consolide/20071110/fr'
+source_sha256: '177c432388e39c2032ed89944fd459e0deaef7ac491296eddfff242cdede0923'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1"></a>

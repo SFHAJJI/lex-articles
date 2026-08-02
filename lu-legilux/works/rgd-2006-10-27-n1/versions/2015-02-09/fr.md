@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2006-10-27-n1:2015-02-09
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 27 octobre 2006 pris en exécution de l’article 4 de la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur.
-valid_from: 2015-02-09
-valid_to: 2016-07-10
-source: https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20150209/fr
-source_sha256: 3c1d82d94f5a81216c14589af22a7e08ec84e6fa1406eac1c99e69b0ab80cea3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2006-10-27-n1:2015-02-09'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 27 octobre 2006 pris en exécution de l’article 4 de la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur.'
+valid_from: '2015-02-09'
+valid_to: '2016-07-10'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20150209/fr'
+source_sha256: '3c1d82d94f5a81216c14589af22a7e08ec84e6fa1406eac1c99e69b0ab80cea3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

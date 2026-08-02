@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-10-27-n3:2015-10-01
-title: Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 27 octobre 2000 portant organisation à l'Institut national d'administration publique de la division de la formation continue du personnel de l'Etat et des établissements publics de l'Etat.
-valid_from: 2015-10-01
-valid_to: 2025-08-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n3/consolide/20151001/fr
-source_sha256: a55e817bd71c698ee207a10cb00ad81a7f4a0183f00d20a2fc717606fba88928
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-10-27-n3:2015-10-01'
+title: 'Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 27 octobre 2000 portant organisation à l''Institut national d''administration publique de la division de la formation continue du personnel de l''Etat et des établissements publics de l''Etat.'
+valid_from: '2015-10-01'
+valid_to: '2025-08-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n3/consolide/20151001/fr'
+source_sha256: 'a55e817bd71c698ee207a10cb00ad81a7f4a0183f00d20a2fc717606fba88928'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Champ d’application

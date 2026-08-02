@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2002-06-28-n2:2006-07-01
-title: Version consolidée applicable au 01/01/2011 : Loi du 28 juin 2002 \n1.adaptant le régime général et les régimes spéciaux de pension;\n2.portant création d’un forfait d’éducation;\n3.modifiant la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti
-valid_from: 2006-07-01
-valid_to: 2008-12-27
-source: https://legilux.public.lu/eli/etat/leg/loi/2002/06/28/n2/consolide/20060701/fr
-source_sha256: 099c0c078ad89e0676bee34cf76155a05f1804134628752465d94f34fe6bc91d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2002-06-28-n2:2006-07-01'
+title: 'Version consolidée applicable au 01/01/2011 : Loi du 28 juin 2002 \n1.adaptant le régime général et les régimes spéciaux de pension;\n2.portant création d’un forfait d’éducation;\n3.modifiant la loi modifiée du 29 avril 1999 portant création d’un droit à un revenu minimum garanti'
+valid_from: '2006-07-01'
+valid_to: '2008-12-27'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2002/06/28/n2/consolide/20060701/fr'
+source_sha256: '099c0c078ad89e0676bee34cf76155a05f1804134628752465d94f34fe6bc91d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

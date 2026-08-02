@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-08-17-a732:2020-11-17
-title: Règlement grand-ducal du 17 août 2018 relatif à la formation du personnel de la Police grand-ducale.
-valid_from: 2020-11-17
-valid_to: 2022-10-20
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/08/17/a732/consolide/20201117/fr
-source_sha256: cbdc452822ae3d619e0730c0f712a81e8fd9663e65f864edfaddc8f3e0823665
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-08-17-a732:2020-11-17'
+title: 'Règlement grand-ducal du 17 août 2018 relatif à la formation du personnel de la Police grand-ducale.'
+valid_from: '2020-11-17'
+valid_to: '2022-10-20'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/08/17/a732/consolide/20201117/fr'
+source_sha256: 'cbdc452822ae3d619e0730c0f712a81e8fd9663e65f864edfaddc8f3e0823665'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Le plan d’insertion professionnelle du fonctionnaire stagiaire du cadre policier**

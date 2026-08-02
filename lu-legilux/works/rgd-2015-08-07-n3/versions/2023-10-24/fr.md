@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-08-07-n3:2023-10-24
-title: Version consolidée applicable au 24/10/2023 : Règlement grand-ducal du 7 août 2015 autorisant la création d'un fichier et le traitement de données à caractère personnel dans le cadre du système de contrôle et de sanction automatisés (RGD CNPD).
-valid_from: 2023-10-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/08/07/n3/consolide/20231024/fr
-source_sha256: d774bc8c7114b8304303f15c50741cd447110ae90878d9e162176f36e66d0dde
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-08-07-n3:2023-10-24'
+title: 'Version consolidée applicable au 24/10/2023 : Règlement grand-ducal du 7 août 2015 autorisant la création d''un fichier et le traitement de données à caractère personnel dans le cadre du système de contrôle et de sanction automatisés (RGD CNPD).'
+valid_from: '2023-10-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/08/07/n3/consolide/20231024/fr'
+source_sha256: 'd774bc8c7114b8304303f15c50741cd447110ae90878d9e162176f36e66d0dde'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

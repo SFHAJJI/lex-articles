@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2007-12-21-n8:2020-12-20
-title: Version consolidée applicable au 20/12/2020 : Loi du 21 décembre 2007 portant réglementation du financement des partis politiques.
-valid_from: 2020-12-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8/consolide/20201220/fr
-source_sha256: 7772948a041dd33060716ffad8aa35a04a3d32199f3365b39c29053368b6debc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2007-12-21-n8:2020-12-20'
+title: 'Version consolidée applicable au 20/12/2020 : Loi du 21 décembre 2007 portant réglementation du financement des partis politiques.'
+valid_from: '2020-12-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8/consolide/20201220/fr'
+source_sha256: '7772948a041dd33060716ffad8aa35a04a3d32199f3365b39c29053368b6debc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre premier — *Définitions*

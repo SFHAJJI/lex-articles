@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-12-05-a1115:2020-11-30
-title: Version consolidée applicable au 30/11/2020 : Règlement grand-ducal du 5 décembre 2018 arrêtant la nomenclature des actes et services des diététiciens pris en charge par l’assurance maladie.
-valid_from: 2020-11-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1115/consolide/20201130/fr
-source_sha256: 33f2906197db2315f995bb638b7c07a2e094ad2b6205d6601226e102398a1def
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-12-05-a1115:2020-11-30'
+title: 'Version consolidée applicable au 30/11/2020 : Règlement grand-ducal du 5 décembre 2018 arrêtant la nomenclature des actes et services des diététiciens pris en charge par l’assurance maladie.'
+valid_from: '2020-11-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1115/consolide/20201130/fr'
+source_sha256: '33f2906197db2315f995bb638b7c07a2e094ad2b6205d6601226e102398a1def'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Prise en charge de l'acte**

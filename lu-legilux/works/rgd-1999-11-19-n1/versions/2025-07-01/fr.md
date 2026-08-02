@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1999-11-19-n1:2025-07-01
-title: Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 19 novembre 1999 portant exécution de l’article 106, alinéas 3 et 4 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu. (base d’amortissement forfaitaire et taux d’amortissement pour immeubles locatifs).
-valid_from: 2025-07-01
-valid_to: 2025-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n1/consolide/20250701/fr
-source_sha256: 4bef07e509fd29b408a6a370a82f9d625f163a5e8e7f49d92a06e70d4c6739c3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1999-11-19-n1:2025-07-01'
+title: 'Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 19 novembre 1999 portant exécution de l’article 106, alinéas 3 et 4 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu. (base d’amortissement forfaitaire et taux d’amortissement pour immeubles locatifs).'
+valid_from: '2025-07-01'
+valid_to: '2025-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n1/consolide/20250701/fr'
+source_sha256: '4bef07e509fd29b408a6a370a82f9d625f163a5e8e7f49d92a06e70d4c6739c3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

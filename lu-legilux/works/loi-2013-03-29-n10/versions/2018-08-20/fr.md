@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2013-03-29-n10:2018-08-20
-title: Loi du 29 mars 2013 relative à l’organisation du casier judiciaire.
-valid_from: 2018-08-20
-valid_to: 2025-09-22
-source: https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n10/consolide/20180820/fr
-source_sha256: 43266c98304daf5dbf4dd891239ca3b05fce1ca1b233bf565aa4c80c618b01e8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2013-03-29-n10:2018-08-20'
+title: 'Loi du 29 mars 2013 relative à l’organisation du casier judiciaire.'
+valid_from: '2018-08-20'
+valid_to: '2025-09-22'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n10/consolide/20180820/fr'
+source_sha256: '43266c98304daf5dbf4dd891239ca3b05fce1ca1b233bf565aa4c80c618b01e8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — L’organisation du casier judiciaire

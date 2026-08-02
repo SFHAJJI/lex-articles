@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-01-11-n1:2013-07-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 11 janvier 2010 portant organisation de la validation des acquis de l'expérience pour la délivrance des brevets, diplômes et certificats prévue au chapitre V de la loi du 19 décembre 2008 portant réforme de la formation professionnelle.
-valid_from: 2013-07-01
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20130701/fr
-source_sha256: 56c4f01a8a161a5008a3df03749653ab85e278ee508a0df070db1b1524e018e9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-01-11-n1:2013-07-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 11 janvier 2010 portant organisation de la validation des acquis de l''expérience pour la délivrance des brevets, diplômes et certificats prévue au chapitre V de la loi du 19 décembre 2008 portant réforme de la formation professionnelle.'
+valid_from: '2013-07-01'
+valid_to: '2023-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20130701/fr'
+source_sha256: '56c4f01a8a161a5008a3df03749653ab85e278ee508a0df070db1b1524e018e9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier** — **Généralités**

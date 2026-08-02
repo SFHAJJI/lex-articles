@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-08-25-a679:2023-03-11
-title: Version consolidée applicable au 11/03/2023 : Règlement grand-ducal du 25 août 2021 déterminant la procédure de recherche de nouveaux emplacements pour décharges régionales pour déchets inertes.
-valid_from: 2023-03-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679/consolide/20230311/fr
-source_sha256: 0d0c369a98a3e7d66de84325894616d3f24d99312b759caa1ad74b21ccf1ed1c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-08-25-a679:2023-03-11'
+title: 'Version consolidée applicable au 11/03/2023 : Règlement grand-ducal du 25 août 2021 déterminant la procédure de recherche de nouveaux emplacements pour décharges régionales pour déchets inertes.'
+valid_from: '2023-03-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679/consolide/20230311/fr'
+source_sha256: '0d0c369a98a3e7d66de84325894616d3f24d99312b759caa1ad74b21ccf1ed1c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

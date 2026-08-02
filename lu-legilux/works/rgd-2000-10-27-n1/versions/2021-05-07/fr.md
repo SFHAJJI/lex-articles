@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-10-27-n1:2021-05-07
-title: Version consolidée applicable au 07/05/2021 : Règlement grand-ducal du 27 octobre 2000 déterminant à l’Institut national d’administration publique - l’organisation de la commission de coordination, - la collaboration avec les administrations et établissements publics de l’Etat et - la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes.
-valid_from: 2021-05-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n1/consolide/20210507/fr
-source_sha256: 7f6948f365058cc0d82ef915ced8b17c602584eef67cbd7386fa619821e4fc34
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-10-27-n1:2021-05-07'
+title: 'Version consolidée applicable au 07/05/2021 : Règlement grand-ducal du 27 octobre 2000 déterminant à l’Institut national d’administration publique - l’organisation de la commission de coordination, - la collaboration avec les administrations et établissements publics de l’Etat et - la collaboration avec le Ministère de l’Intérieur et les administrations et établissements publics des communes.'
+valid_from: '2021-05-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n1/consolide/20210507/fr'
+source_sha256: '7f6948f365058cc0d82ef915ced8b17c602584eef67cbd7386fa619821e4fc34'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre I. — Des délégués à la formation et de la commission de coordination

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1987-04-01-n1:2004-02-13
-title: Version consolidée applicable au 13/02/2004 : Règlement grand-ducal du 1er avril 1987 déterminant les conditions d'admission,de nomination et de promotion des fonctionnaires de la carrière du concierge dans les administrations et services de l'Etat.
-valid_from: 2004-02-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1987/04/01/n1/consolide/20040213/fr
-source_sha256: 6b8ce07e8c8549c33bae9dd31c1803e4991859399c17c70ccafd0b73bcf4fa4b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1987-04-01-n1:2004-02-13'
+title: 'Version consolidée applicable au 13/02/2004 : Règlement grand-ducal du 1er avril 1987 déterminant les conditions d''admission,de nomination et de promotion des fonctionnaires de la carrière du concierge dans les administrations et services de l''Etat.'
+valid_from: '2004-02-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1987/04/01/n1/consolide/20040213/fr'
+source_sha256: '6b8ce07e8c8549c33bae9dd31c1803e4991859399c17c70ccafd0b73bcf4fa4b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **A.** — **Conditions d’admission au stage et de stage**

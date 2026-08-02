@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2003-05-19-n1:2009-01-01
-title: Version consolidée applicable au 21/12/2021 : Loi du 19 mai 2003 modifiant \n1) la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat; \n2) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat; \n3) la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancementdans les différentes carrières des administrations et services de l'Etat; \n4) la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat; \n5) la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois; \n6) la loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon lesquelles lefonctionnaire de l'Etat peut se faire changer d'administration;\net portant création d'un commissariat du Gouvernement chargé de l'instruction disciplinaire.
-valid_from: 2009-01-01
-valid_to: 2021-12-20
-source: https://legilux.public.lu/eli/etat/leg/loi/2003/05/19/n1/consolide/20090101/fr
-source_sha256: 78c338ff264f2264b3d70ead156f7c5019b30264ba80593214384a49ab898409
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2003-05-19-n1:2009-01-01'
+title: 'Version consolidée applicable au 21/12/2021 : Loi du 19 mai 2003 modifiant \n1) la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l''Etat; \n2) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l''Etat; \n3) la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d''avancementdans les différentes carrières des administrations et services de l''Etat; \n4) la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l''Etat; \n5) la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l''Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois; \n6) la loi modifiée du 27 mars 1986 fixant les conditions et les modalités selon lesquelles lefonctionnaire de l''Etat peut se faire changer d''administration;\net portant création d''un commissariat du Gouvernement chargé de l''instruction disciplinaire.'
+valid_from: '2009-01-01'
+valid_to: '2021-12-20'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2003/05/19/n1/consolide/20090101/fr'
+source_sha256: '78c338ff264f2264b3d70ead156f7c5019b30264ba80593214384a49ab898409'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_ier"></a>

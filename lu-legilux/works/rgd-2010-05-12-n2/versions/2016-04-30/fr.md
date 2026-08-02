@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-05-12-n2:2016-04-30
-title: Version consolidée applicable au 30/04/2016 : Règlement grand-ducal du 12 mai 2010 déterminant les emplois dans les administrations de l'Etat et les établissements publics comportant une participation directe ou indirecte à l'exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l'Etat ou des autres personnes morales de droit public.
-valid_from: 2016-04-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n2/consolide/20160430/fr
-source_sha256: 7443cc731527071b47138eabc03742465ece82e7c7feec1f1d5dd6b99ae8476a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-05-12-n2:2016-04-30'
+title: 'Version consolidée applicable au 30/04/2016 : Règlement grand-ducal du 12 mai 2010 déterminant les emplois dans les administrations de l''Etat et les établissements publics comportant une participation directe ou indirecte à l''exercice de la puissance publique et aux fonctions qui ont pour objet la sauvegarde des intérêts généraux de l''Etat ou des autres personnes morales de droit public.'
+valid_from: '2016-04-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n2/consolide/20160430/fr'
+source_sha256: '7443cc731527071b47138eabc03742465ece82e7c7feec1f1d5dd6b99ae8476a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

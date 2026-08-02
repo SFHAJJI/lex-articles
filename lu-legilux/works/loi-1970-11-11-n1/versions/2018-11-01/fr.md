@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1970-11-11-n1:2018-11-01
-title: Version consolidée applicable au 01/11/2018 : Loi du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes.
-valid_from: 2018-11-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/consolide/20181101/fr
-source_sha256: 14a00be74aae6f6b6ccff3b586349752939e8825c617f17d09dccb3306259538
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1970-11-11-n1:2018-11-01'
+title: 'Version consolidée applicable au 01/11/2018 : Loi du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes.'
+valid_from: '2018-11-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/consolide/20181101/fr'
+source_sha256: '14a00be74aae6f6b6ccff3b586349752939e8825c617f17d09dccb3306259538'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

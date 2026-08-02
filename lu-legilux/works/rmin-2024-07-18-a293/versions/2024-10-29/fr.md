@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-2024-07-18-a293:2024-10-29
-title: Version consolidée applicable au 29/10/2024 : Règlement ministériel du 18 juillet 2024 portant publication de l’arrêté royal belge modifié du 13 mars 2016 déterminant les régimes douaniers et les modalités d’application de la représentation directe et indirecte.
-valid_from: 2024-10-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/2024/07/18/a293/consolide/20241029/fr
-source_sha256: 97e682533e8ac00d39a74f52e8713237047a2606b445a53d30f97102cf1b58c0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-2024-07-18-a293:2024-10-29'
+title: 'Version consolidée applicable au 29/10/2024 : Règlement ministériel du 18 juillet 2024 portant publication de l’arrêté royal belge modifié du 13 mars 2016 déterminant les régimes douaniers et les modalités d’application de la représentation directe et indirecte.'
+valid_from: '2024-10-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/2024/07/18/a293/consolide/20241029/fr'
+source_sha256: '97e682533e8ac00d39a74f52e8713237047a2606b445a53d30f97102cf1b58c0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

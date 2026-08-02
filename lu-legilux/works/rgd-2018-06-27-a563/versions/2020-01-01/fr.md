@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-06-27-a563:2020-01-01
-title: Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 27 juin 2018 fixant le montant des droits d’inscription aux cours organisés par l’Institut national des langues.
-valid_from: 2020-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/consolide/20200101/fr
-source_sha256: b8e904ee2b3e36aa0c829a7cbea4c0eff412e0e3b75d6ec96b692b307f73e641
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-06-27-a563:2020-01-01'
+title: 'Version consolidée applicable au 01/01/2020 : Règlement grand-ducal du 27 juin 2018 fixant le montant des droits d’inscription aux cours organisés par l’Institut national des langues.'
+valid_from: '2020-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/consolide/20200101/fr'
+source_sha256: 'b8e904ee2b3e36aa0c829a7cbea4c0eff412e0e3b75d6ec96b692b307f73e641'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

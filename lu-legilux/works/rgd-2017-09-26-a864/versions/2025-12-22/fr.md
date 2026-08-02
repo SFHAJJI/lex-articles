@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-09-26-a864:2025-12-22
-title: Version consolidée applicable au 22/12/2025 : Règlement grand-ducal du 26 septembre 2017 relatif à la vente, à l’utilisation et au stockage des produits phytopharmaceutiques.
-valid_from: 2025-12-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/09/26/a864/consolide/20251222/fr
-source_sha256: 5eec94652089fb8093ac4fd284d907e6ebaf7f8bc003ba33edbb4ba3de487cc3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-09-26-a864:2025-12-22'
+title: 'Version consolidée applicable au 22/12/2025 : Règlement grand-ducal du 26 septembre 2017 relatif à la vente, à l’utilisation et au stockage des produits phytopharmaceutiques.'
+valid_from: '2025-12-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/09/26/a864/consolide/20251222/fr'
+source_sha256: '5eec94652089fb8093ac4fd284d907e6ebaf7f8bc003ba33edbb4ba3de487cc3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1 ** — ** Certificats requis pour la vente, l’achat et l’utilisation de produits phytopharmaceutiques**

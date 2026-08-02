@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1808-11-17-n1:2026-03-07
-title: loi-1808-11-17-n1
-valid_from: 2026-03-07
-valid_to: 2026-03-16
-source: https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20260307/fr
-source_sha256: dd22d79e511eaef47d258c81cf9094acfd8a0083094b8d3be00db9e375b1f3d9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1808-11-17-n1:2026-03-07'
+title: 'loi-1808-11-17-n1'
+valid_from: '2026-03-07'
+valid_to: '2026-03-16'
+source: 'https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20260307/fr'
+source_sha256: 'dd22d79e511eaef47d258c81cf9094acfd8a0083094b8d3be00db9e375b1f3d9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Dispositions préliminaires**

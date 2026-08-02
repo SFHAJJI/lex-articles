@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1999-12-06-n1:2002-11-04
-title: Version consolidée applicable au 04/11/2002 : Règlement grand-ducal du 6 décembre 1999 fixant les critères de classement des organismes génétiquement modifiés et de leurs utilisations et définissant les mesures de sécurité et les modalités de confinement relatives à ces utilisations.
-valid_from: 2002-11-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1999/12/06/n1/consolide/20021104/fr
-source_sha256: 6e68c7a270eaf6b3c80014d941f3be603b8d3be4093f5dba1b5a2716d782ca29
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1999-12-06-n1:2002-11-04'
+title: 'Version consolidée applicable au 04/11/2002 : Règlement grand-ducal du 6 décembre 1999 fixant les critères de classement des organismes génétiquement modifiés et de leurs utilisations et définissant les mesures de sécurité et les modalités de confinement relatives à ces utilisations.'
+valid_from: '2002-11-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1999/12/06/n1/consolide/20021104/fr'
+source_sha256: '6e68c7a270eaf6b3c80014d941f3be603b8d3be4093f5dba1b5a2716d782ca29'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

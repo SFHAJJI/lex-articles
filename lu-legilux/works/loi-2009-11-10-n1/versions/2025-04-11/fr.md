@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-11-10-n1:2025-04-11
-title: Loi du 10 novembre 2009 relative aux services de paiement.
-valid_from: 2025-04-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/11/10/n1/consolide/20250411/fr
-source_sha256: 5d541474ba0223d749afa30b12ed447704d16abbdc9ceda499a8fb5c7bc9b433
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-11-10-n1:2025-04-11'
+title: 'Loi du 10 novembre 2009 relative aux services de paiement.'
+valid_from: '2025-04-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/11/10/n1/consolide/20250411/fr'
+source_sha256: '5d541474ba0223d749afa30b12ed447704d16abbdc9ceda499a8fb5c7bc9b433'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I — DEFINITIONS ET CHAMP D'APPLICATION

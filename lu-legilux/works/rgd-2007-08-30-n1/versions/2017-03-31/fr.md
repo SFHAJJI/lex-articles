@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2007-08-30-n1:2017-03-31
-title: Version consolidée applicable au 31/03/2017 : Règlement grand-ducal du 30 août 2007 concernant les exigences de traçabilité, la notification des réactions et incidents indésirables graves, ainsi que certaines exigences techniques relatives à la codification, à la transformation, à la conservation, au stockage et à la distribution des tissus et de cellules d’origine humaine.
-valid_from: 2017-03-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n1/consolide/20170331/fr
-source_sha256: 5f8e8666c40d5687f08e24187ef327af3bd83d6b95cc767d488f1b7c98a974ee
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2007-08-30-n1:2017-03-31'
+title: 'Version consolidée applicable au 31/03/2017 : Règlement grand-ducal du 30 août 2007 concernant les exigences de traçabilité, la notification des réactions et incidents indésirables graves, ainsi que certaines exigences techniques relatives à la codification, à la transformation, à la conservation, au stockage et à la distribution des tissus et de cellules d’origine humaine.'
+valid_from: '2017-03-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n1/consolide/20170331/fr'
+source_sha256: '5f8e8666c40d5687f08e24187ef327af3bd83d6b95cc767d488f1b7c98a974ee'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

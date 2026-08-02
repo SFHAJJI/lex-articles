@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-08-02-a489:2023-01-01
-title: Version consolidée applicable au 01/01/2024 : Loi du 2 août 2023 concernant le soutien au développement durable des zones rurales.
-valid_from: 2023-01-01
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/02/a489/consolide/20230101/fr
-source_sha256: 609582aef3a919c5ff4a32317c0cb6d1546e8598ff77a6313539275d3c57e877
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-08-02-a489:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Loi du 2 août 2023 concernant le soutien au développement durable des zones rurales.'
+valid_from: '2023-01-01'
+valid_to: '2023-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/08/02/a489/consolide/20230101/fr'
+source_sha256: '609582aef3a919c5ff4a32317c0cb6d1546e8598ff77a6313539275d3c57e877'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre 1er ** — **Interventions financières en faveur du secteur agricole**

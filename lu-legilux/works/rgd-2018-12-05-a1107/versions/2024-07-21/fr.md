@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-12-05-a1107:2024-07-21
-title: Version consolidée applicable au 01/04/2025 : Règlement grand-ducal du 5 décembre 2018 fixant l’organisation des services d’exécution de l’Administration de l’enregistrement, des domaines et de la TVA et abrogeant le règlement grand-ducal modifié du 25 octobre 2007 déterminant l’organisation de la direction de l’administration de l’enregistrement et des domaines et les attributions de son personnel.
-valid_from: 2024-07-21
-valid_to: 2025-03-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20240721/fr
-source_sha256: 0284085a4f75b4d3f5a0cb181e872d3bd93b5799e7ad7dc02cc9f3abaf1b3586
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-12-05-a1107:2024-07-21'
+title: 'Version consolidée applicable au 01/04/2025 : Règlement grand-ducal du 5 décembre 2018 fixant l’organisation des services d’exécution de l’Administration de l’enregistrement, des domaines et de la TVA et abrogeant le règlement grand-ducal modifié du 25 octobre 2007 déterminant l’organisation de la direction de l’administration de l’enregistrement et des domaines et les attributions de son personnel.'
+valid_from: '2024-07-21'
+valid_to: '2025-03-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20240721/fr'
+source_sha256: '0284085a4f75b4d3f5a0cb181e872d3bd93b5799e7ad7dc02cc9f3abaf1b3586'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ** Le service d’inspection**

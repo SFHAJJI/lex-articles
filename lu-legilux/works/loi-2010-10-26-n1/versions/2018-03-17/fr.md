@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2010-10-26-n1:2018-03-17
-title: Version consolidée applicable au 02/04/2024 : Loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.
-valid_from: 2018-03-17
-valid_to: 2021-10-29
-source: https://legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/consolide/20180317/fr
-source_sha256: 20af20025e5cfa2598316b6536214a3397692059d0560f22d2660070ba54dbb8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2010-10-26-n1:2018-03-17'
+title: 'Version consolidée applicable au 02/04/2024 : Loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.'
+valid_from: '2018-03-17'
+valid_to: '2021-10-29'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/consolide/20180317/fr'
+source_sha256: '20af20025e5cfa2598316b6536214a3397692059d0560f22d2660070ba54dbb8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Disposition générale

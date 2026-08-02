@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-12-19-n30:2011-01-01
-title: Version consolidée applicable au 01/01/2011 : Règlement grand-ducal du 19 décembre 2008 relatif à la comptabilité et aux budgets des institutions de sécurité sociale.
-valid_from: 2011-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n30/consolide/20110101/fr
-source_sha256: 65c73546439bc22e2eb9f2884e09e7c2056c27492f6de35035030e9dc0b867ab
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-12-19-n30:2011-01-01'
+title: 'Version consolidée applicable au 01/01/2011 : Règlement grand-ducal du 19 décembre 2008 relatif à la comptabilité et aux budgets des institutions de sécurité sociale.'
+valid_from: '2011-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n30/consolide/20110101/fr'
+source_sha256: '65c73546439bc22e2eb9f2884e09e7c2056c27492f6de35035030e9dc0b867ab'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I — Champ d’application

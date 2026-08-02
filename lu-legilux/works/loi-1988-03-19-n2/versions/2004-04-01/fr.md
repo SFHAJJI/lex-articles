@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1988-03-19-n2:2004-04-01
-title: Version consolidée applicable au 02/04/2024 : Loi du 19 mars 1988 sur la publicité foncière en matière de copropriété.
-valid_from: 2004-04-01
-valid_to: 2014-03-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n2/consolide/20040401/fr
-source_sha256: bc6e5ace5272df9c251680d91a16ed4977ccfd72435042c3e6441e3d711a1550
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1988-03-19-n2:2004-04-01'
+title: 'Version consolidée applicable au 02/04/2024 : Loi du 19 mars 1988 sur la publicité foncière en matière de copropriété.'
+valid_from: '2004-04-01'
+valid_to: '2014-03-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n2/consolide/20040401/fr'
+source_sha256: 'bc6e5ace5272df9c251680d91a16ed4977ccfd72435042c3e6441e3d711a1550'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

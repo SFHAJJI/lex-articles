@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-03-26-n3:2014-01-01
-title: Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 26 mars 2014 portant exécution de l’article 145 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu (décompte annuel).
-valid_from: 2014-01-01
-valid_to: 2016-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/consolide/20140101/fr
-source_sha256: 9e73a476c97f30b2213a94d31563f147613ef602d4cae469b9f5bd39f8e5ae02
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-03-26-n3:2014-01-01'
+title: 'Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 26 mars 2014 portant exécution de l’article 145 de la loi modifiée du 4 décembre 1967 concernant l’impôt sur le revenu (décompte annuel).'
+valid_from: '2014-01-01'
+valid_to: '2016-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/consolide/20140101/fr'
+source_sha256: '9e73a476c97f30b2213a94d31563f147613ef602d4cae469b9f5bd39f8e5ae02'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

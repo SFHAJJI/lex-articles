@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-03-27-a221:2025-01-01
-title: Loi du 27 mars 2018 portant organisation de la sécurité civile.
-valid_from: 2025-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/consolide/20250101/fr
-source_sha256: d5329856a34edc24e5c669fbd4d4f1d693b3dc3f7412063dede55c0e4d52b5d0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-03-27-a221:2025-01-01'
+title: 'Loi du 27 mars 2018 portant organisation de la sécurité civile.'
+valid_from: '2025-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/consolide/20250101/fr'
+source_sha256: 'd5329856a34edc24e5c669fbd4d4f1d693b3dc3f7412063dede55c0e4d52b5d0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I** — ** Les objectifs et principes fondamentaux**

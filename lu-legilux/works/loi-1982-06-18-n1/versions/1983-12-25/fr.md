@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1982-06-18-n1:1983-12-25
-title: Version consolidée applicable au 09/07/2018 : Loi du 18 juin 1982 portant réglementation du bail à ferme.
-valid_from: 1983-12-25
-valid_to: 2006-10-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1982/06/18/n1/consolide/19831225/fr
-source_sha256: eb7619ff07d5f363fb914e490828ba297c5f05899e08acd352a7959907aa79e2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1982-06-18-n1:1983-12-25'
+title: 'Version consolidée applicable au 09/07/2018 : Loi du 18 juin 1982 portant réglementation du bail à ferme.'
+valid_from: '1983-12-25'
+valid_to: '2006-10-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1982/06/18/n1/consolide/19831225/fr'
+source_sha256: 'eb7619ff07d5f363fb914e490828ba297c5f05899e08acd352a7959907aa79e2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier** — **Dispositions générales**

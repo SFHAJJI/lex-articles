@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-07-23-n22:2020-10-29
-title: Loi du 23 juillet 2016 portant création d'une réserve nationale des employés enseignants des lycées.
-valid_from: 2020-10-29
-valid_to: 2021-07-14
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/consolide/20201029/fr
-source_sha256: a55eb55c599e46196d9f47fc9715ebae29c423488e288176d23ff51e2ce3d52e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-07-23-n22:2020-10-29'
+title: 'Loi du 23 juillet 2016 portant création d''une réserve nationale des employés enseignants des lycées.'
+valid_from: '2020-10-29'
+valid_to: '2021-07-14'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/consolide/20201029/fr'
+source_sha256: 'a55eb55c599e46196d9f47fc9715ebae29c423488e288176d23ff51e2ce3d52e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier — Dispositions générales.

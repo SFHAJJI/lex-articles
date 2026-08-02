@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-02-08-n1:2023-01-01
-title: Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 8 février 2016 déterminant le champ et les modalités d'application du système bonus-malus de l'assurance accident.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/02/08/n1/consolide/20230101/fr
-source_sha256: 978b047a68f1d208523024e3681d94ff3333354d88bbfee6c9b2881d941c6822
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-02-08-n1:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Règlement grand-ducal du 8 février 2016 déterminant le champ et les modalités d''application du système bonus-malus de l''assurance accident.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/02/08/n1/consolide/20230101/fr'
+source_sha256: '978b047a68f1d208523024e3681d94ff3333354d88bbfee6c9b2881d941c6822'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

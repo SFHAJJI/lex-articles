@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-02-10-n3:2019-12-10
-title: Version consolidée applicable au 01/10/2024 : Loi du 10 février 2015 relative à l'organisation du marché de produits pétroliers.
-valid_from: 2019-12-10
-valid_to: 2022-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/02/10/n3/consolide/20191210/fr
-source_sha256: b707e12ebde59adeaaa1b3093b30b86a5b37b8c3c218c93053b580302b694b6c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-02-10-n3:2019-12-10'
+title: 'Version consolidée applicable au 01/10/2024 : Loi du 10 février 2015 relative à l''organisation du marché de produits pétroliers.'
+valid_from: '2019-12-10'
+valid_to: '2022-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/02/10/n3/consolide/20191210/fr'
+source_sha256: 'b707e12ebde59adeaaa1b3093b30b86a5b37b8c3c218c93053b580302b694b6c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre I — Déclaration, stockage, surveillance, sanctions

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2003-12-19-n14:2018-04-01
-title: Version consolidée applicable au 01/04/2018 : Loi du 19 décembre 2003 portant création de l'établissement public « Centre national de rééducation fonctionnelle et de réadaptation ».
-valid_from: 2018-04-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/consolide/20180401/fr
-source_sha256: 744b5c193ba6bf3d98cecba92c8ee911e9e82fb03027dd3da89c554b0ba4482d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2003-12-19-n14:2018-04-01'
+title: 'Version consolidée applicable au 01/04/2018 : Loi du 19 décembre 2003 portant création de l''établissement public « Centre national de rééducation fonctionnelle et de réadaptation ».'
+valid_from: '2018-04-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n14/consolide/20180401/fr'
+source_sha256: '744b5c193ba6bf3d98cecba92c8ee911e9e82fb03027dd3da89c554b0ba4482d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

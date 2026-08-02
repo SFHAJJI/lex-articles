@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-04-08-a244:2019-03-25
-title: Règlement grand-ducal d’exécution du 8 avril 2018 de la loi du 8 avril 2018 sur les marchés publics.
-valid_from: 2019-03-25
-valid_to: 2020-10-04
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20190325/fr
-source_sha256: 748d3058f4e150d8fd969d5f15e3f394a4173e37f293bbf16bba7303c19eb988
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-04-08-a244:2019-03-25'
+title: 'Règlement grand-ducal d’exécution du 8 avril 2018 de la loi du 8 avril 2018 sur les marchés publics.'
+valid_from: '2019-03-25'
+valid_to: '2020-10-04'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20190325/fr'
+source_sha256: '748d3058f4e150d8fd969d5f15e3f394a4173e37f293bbf16bba7303c19eb988'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Livre Ier** — ** Dispositions générales**

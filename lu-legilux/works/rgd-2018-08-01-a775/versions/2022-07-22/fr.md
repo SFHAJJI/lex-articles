@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-08-01-a775:2022-07-22
-title: Version consolidée applicable au 22/07/2022 : Règlement grand-ducal du 1er août 2018 établissant l’état de conservation des habitats d’intérêt communautaire et des espèces d’intérêt communautaire.
-valid_from: 2022-07-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/consolide/20220722/fr
-source_sha256: 20dc0b0ded8868a6076b64075ebb37d97da11ad139a2b13a471a1679a35048bd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-08-01-a775:2022-07-22'
+title: 'Version consolidée applicable au 22/07/2022 : Règlement grand-ducal du 1er août 2018 établissant l’état de conservation des habitats d’intérêt communautaire et des espèces d’intérêt communautaire.'
+valid_from: '2022-07-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/consolide/20220722/fr'
+source_sha256: '20dc0b0ded8868a6076b64075ebb37d97da11ad139a2b13a471a1679a35048bd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

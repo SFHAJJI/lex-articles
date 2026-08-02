@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-08-09-a678:2018-08-01
-title: Version consolidée applicable au 01/08/2018 : Loi du 9 août 2018 modifiant\n1. le Code de la sécurité sociale ;\n2. la loi du 27 juin 2018 ayant pour objet l'organisation de l'Université du Luxembourg ;\n3. la loi modifiée du 30 juillet 1960 concernant la création d'un fonds national de solidarité modifiant certaines dispositions du Code de la sécurité sociale.
-valid_from: 2018-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/08/09/a678/consolide/20180801/fr
-source_sha256: 6a05b3780816d1142472ad8868c4e641d02f13fc109dd062059ea440e111f2e1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-08-09-a678:2018-08-01'
+title: 'Version consolidée applicable au 01/08/2018 : Loi du 9 août 2018 modifiant\n1. le Code de la sécurité sociale ;\n2. la loi du 27 juin 2018 ayant pour objet l''organisation de l''Université du Luxembourg ;\n3. la loi modifiée du 30 juillet 1960 concernant la création d''un fonds national de solidarité modifiant certaines dispositions du Code de la sécurité sociale.'
+valid_from: '2018-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/09/a678/consolide/20180801/fr'
+source_sha256: '6a05b3780816d1142472ad8868c4e641d02f13fc109dd062059ea440e111f2e1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

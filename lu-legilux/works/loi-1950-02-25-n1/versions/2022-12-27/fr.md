@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1950-02-25-n1:2022-12-27
-title: Version consolidée applicable au 27/12/2022 : Loi du 25 février 1950 concernant l’indemnisation des dommages de guerre.
-valid_from: 2022-12-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1950/02/25/n1/consolide/20221227/fr
-source_sha256: be933a5fd6abdc62f963ab8726280b118b063ba90ce0de25d2e13e6e15be6dd1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1950-02-25-n1:2022-12-27'
+title: 'Version consolidée applicable au 27/12/2022 : Loi du 25 février 1950 concernant l’indemnisation des dommages de guerre.'
+valid_from: '2022-12-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1950/02/25/n1/consolide/20221227/fr'
+source_sha256: 'be933a5fd6abdc62f963ab8726280b118b063ba90ce0de25d2e13e6e15be6dd1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I — **Dispositions générales**

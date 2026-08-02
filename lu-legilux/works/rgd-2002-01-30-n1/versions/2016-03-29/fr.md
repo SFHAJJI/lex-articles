@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2002-01-30-n1:2016-03-29
-title: Version consolidée applicable au 18/12/2023 : Règlement grand-ducal du 30 janvier 2002 déterminant les modalités du programme de traitement de la toxicomanie par substitution.
-valid_from: 2016-03-29
-valid_to: 2023-12-17
-source: https://legilux.public.lu/eli/etat/leg/rgd/2002/01/30/n1/consolide/20160329/fr
-source_sha256: f42977f2db1ae61661dfb4d6bdfd31ebffcc478c874204dc786e5f3debfdcd66
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2002-01-30-n1:2016-03-29'
+title: 'Version consolidée applicable au 18/12/2023 : Règlement grand-ducal du 30 janvier 2002 déterminant les modalités du programme de traitement de la toxicomanie par substitution.'
+valid_from: '2016-03-29'
+valid_to: '2023-12-17'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2002/01/30/n1/consolide/20160329/fr'
+source_sha256: 'f42977f2db1ae61661dfb4d6bdfd31ebffcc478c874204dc786e5f3debfdcd66'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

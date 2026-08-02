@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1993-04-24-n2:2005-09-20
-title: Version consolidée applicable au 20/09/2005 : Règlement grand-ducal du 24 avril 1993 relatif au conseil supérieur de certaines professions de santé.
-valid_from: 2005-09-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1993/04/24/n2/consolide/20050920/fr
-source_sha256: 2959fb46ea73b80de978596ce563fbf7744de7bb87174bcd485e0e8e3a9d2d21
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1993-04-24-n2:2005-09-20'
+title: 'Version consolidée applicable au 20/09/2005 : Règlement grand-ducal du 24 avril 1993 relatif au conseil supérieur de certaines professions de santé.'
+valid_from: '2005-09-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1993/04/24/n2/consolide/20050920/fr'
+source_sha256: '2959fb46ea73b80de978596ce563fbf7744de7bb87174bcd485e0e8e3a9d2d21'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

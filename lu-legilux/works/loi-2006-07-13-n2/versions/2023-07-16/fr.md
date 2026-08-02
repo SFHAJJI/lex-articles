@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2006-07-13-n2:2023-07-16
-title: Version consolidée applicable au 16 juillet 2023 : Loi du 13 juillet 2006 portant réorganisation du centre de psychologie et d'orientation scolaires (CPOS).
-valid_from: 2023-07-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2006/07/13/n2/consolide/20230716/fr
-source_sha256: 184211f97a0851c8587976314b62737d8cca147aa77b48fdaea8ed2655f6675f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2006-07-13-n2:2023-07-16'
+title: 'Version consolidée applicable au 16 juillet 2023 : Loi du 13 juillet 2006 portant réorganisation du centre de psychologie et d''orientation scolaires (CPOS).'
+valid_from: '2023-07-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2006/07/13/n2/consolide/20230716/fr'
+source_sha256: '184211f97a0851c8587976314b62737d8cca147aa77b48fdaea8ed2655f6675f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

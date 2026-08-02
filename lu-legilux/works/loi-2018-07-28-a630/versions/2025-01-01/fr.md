@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-07-28-a630:2025-01-01
-title: Loi du 28 juillet 2018 relative au revenu d’inclusion sociale.
-valid_from: 2025-01-01
-valid_to: 2026-06-11
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/consolide/20250101/fr
-source_sha256: 41252f20bdcfb1a12614da86655bb05d1917840c334ff016335770c67acf1f63
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-07-28-a630:2025-01-01'
+title: 'Loi du 28 juillet 2018 relative au revenu d’inclusion sociale.'
+valid_from: '2025-01-01'
+valid_to: '2026-06-11'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/consolide/20250101/fr'
+source_sha256: '41252f20bdcfb1a12614da86655bb05d1917840c334ff016335770c67acf1f63'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Dispositions générales**

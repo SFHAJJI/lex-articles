@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-10-26-a754:2023-11-16
-title: Version consolidée applicable au 16/11/2023 : Règlement grand-ducal du 26 octobre 2021 relatif à la participation de l’Armée luxembourgeoise à la mission EUTM au Mozambique.
-valid_from: 2023-11-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/consolide/20231116/fr
-source_sha256: 8612b85b74c6ca8838be215929aff3d798db0f153f6ddc82d83aaaf1f3a7c617
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-10-26-a754:2023-11-16'
+title: 'Version consolidée applicable au 16/11/2023 : Règlement grand-ducal du 26 octobre 2021 relatif à la participation de l’Armée luxembourgeoise à la mission EUTM au Mozambique.'
+valid_from: '2023-11-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/10/26/a754/consolide/20231116/fr'
+source_sha256: '8612b85b74c6ca8838be215929aff3d798db0f153f6ddc82d83aaaf1f3a7c617'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2019-12-15-a899:2020-01-01
-title: Version consolidée applicable au 01/01/2020 : Loi du 15 décembre 2019 portant modification :\n1° de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ;\n2° de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique ;\n3° de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ;\n4° de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État ;\n5° de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale ;\n6° de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale.\n
-valid_from: 2020-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2019/12/15/a899/consolide/20200101/fr
-source_sha256: e11575276bea9c2343fe26023c4fd8282e3634b3c244ec39cdce999d2de5c3b2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2019-12-15-a899:2020-01-01'
+title: 'Version consolidée applicable au 01/01/2020 : Loi du 15 décembre 2019 portant modification :\n1° de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État ;\n2° de la loi modifiée du 15 juin 1999 portant organisation de l’Institut national d’administration publique ;\n3° de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ;\n4° de la loi modifiée du 25 mars 2015 déterminant le régime et les indemnités des employés de l’État ;\n5° de la loi modifiée du 30 juillet 2015 portant création d’un Institut de formation de l’éducation nationale ;\n6° de la loi modifiée du 18 juillet 2018 sur la Police grand-ducale.\n'
+valid_from: '2020-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2019/12/15/a899/consolide/20200101/fr'
+source_sha256: 'e11575276bea9c2343fe26023c4fd8282e3634b3c244ec39cdce999d2de5c3b2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Modification de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’État**

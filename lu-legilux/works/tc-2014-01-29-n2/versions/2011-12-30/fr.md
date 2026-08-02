@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:tc-2014-01-29-n2:2011-12-30
-title: Version consolidée applicable au 02/11/2010 : Texte coordonné de la loi du 12 septembre 2003 relative aux personnes handicapées et portant modification  1. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat,  2. de la loi du 22 avril 1966 portant réglementation uniforme du congé annuel payé des salariés du secteur privé,  3. de la loi modifiée du 12 mars 1973 portant réforme du salaire social minimum,  4. de la loi modifiée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet,  5. de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations familiales,  6. de la loi modifiée du 27 juillet 1987 concernant l'assurance pension en cas de vieillesse, d'invalidité et de survie,  7. de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois,  8. de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension et  9. du Code des assurances sociales.
-valid_from: 2011-12-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/tc/2014/01/29/n2/consolide/20111230/fr
-source_sha256: cc8c8ae251e8689368a392c8830e4850020b1555e6facf582dd88293450bc06a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:tc-2014-01-29-n2:2011-12-30'
+title: 'Version consolidée applicable au 02/11/2010 : Texte coordonné de la loi du 12 septembre 2003 relative aux personnes handicapées et portant modification  1. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l''Etat,  2. de la loi du 22 avril 1966 portant réglementation uniforme du congé annuel payé des salariés du secteur privé,  3. de la loi modifiée du 12 mars 1973 portant réforme du salaire social minimum,  4. de la loi modifiée du 30 juin 1976 portant 1. création d''un fonds pour l''emploi; 2. réglementation de l''octroi des indemnités de chômage complet,  5. de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations familiales,  6. de la loi modifiée du 27 juillet 1987 concernant l''assurance pension en cas de vieillesse, d''invalidité et de survie,  7. de la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l''Etat et des communes ainsi que pour les agents de la Société nationale des chemins de fer luxembourgeois,  8. de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension et  9. du Code des assurances sociales.'
+valid_from: '2011-12-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/tc/2014/01/29/n2/consolide/20111230/fr'
+source_sha256: 'cc8c8ae251e8689368a392c8830e4850020b1555e6facf582dd88293450bc06a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Dispositions générales.

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2006-07-31-n2:2021-09-16
-title: Code du travail
-valid_from: 2021-09-16
-valid_to: 2021-11-28
-source: https://legilux.public.lu/eli/etat/leg/code/travail/20210916/fr
-source_sha256: 35b99d65808028ac4eac79d72c0f6caae3c7fd76e50c153a0693c91e3d2450bf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2006-07-31-n2:2021-09-16'
+title: 'Code du travail'
+valid_from: '2021-09-16'
+valid_to: '2021-11-28'
+source: 'https://legilux.public.lu/eli/etat/leg/code/travail/20210916/fr'
+source_sha256: '35b99d65808028ac4eac79d72c0f6caae3c7fd76e50c153a0693c91e3d2450bf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Préliminaire — Dispositions d’ordre public

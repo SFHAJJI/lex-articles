@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-03-07-a106:2024-03-18
-title: Version rectifiée applicable au 18/03/2024 : Règlement grand-ducal du 7 mars 2024 déterminant les localités de vote qui ne sont pas chef-lieu de commune.
-valid_from: 2024-03-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/03/07/a106/consolide/20240318/fr
-source_sha256: a04977902b4b76860ab1137f63caad86265937ffac4d12a11222761548904b28
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-03-07-a106:2024-03-18'
+title: 'Version rectifiée applicable au 18/03/2024 : Règlement grand-ducal du 7 mars 2024 déterminant les localités de vote qui ne sont pas chef-lieu de commune.'
+valid_from: '2024-03-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/03/07/a106/consolide/20240318/fr'
+source_sha256: 'a04977902b4b76860ab1137f63caad86265937ffac4d12a11222761548904b28'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

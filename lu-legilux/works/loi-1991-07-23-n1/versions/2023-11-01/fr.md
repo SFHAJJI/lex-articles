@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1991-07-23-n1:2023-11-01
-title: Version consolidée applicable au 01/11/2023 : Loi du 23 juillet 1991 ayant pour objet de réglementer les activités de sous-traitance.
-valid_from: 2023-11-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1991/07/23/n1/consolide/20231101/fr
-source_sha256: 41ab5858c66900c55c247eef14c9b3f82b951bfb2df2aba62756d103f68f9943
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1991-07-23-n1:2023-11-01'
+title: 'Version consolidée applicable au 01/11/2023 : Loi du 23 juillet 1991 ayant pour objet de réglementer les activités de sous-traitance.'
+valid_from: '2023-11-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1991/07/23/n1/consolide/20231101/fr'
+source_sha256: '41ab5858c66900c55c247eef14c9b3f82b951bfb2df2aba62756d103f68f9943'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

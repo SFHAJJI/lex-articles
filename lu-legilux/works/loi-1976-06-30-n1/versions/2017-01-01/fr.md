@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1976-06-30-n1:2017-01-01
-title: Version consolidée applicable au 01/01/2024 : Loi du 30 juin 1976 portant 1. création d’un fonds pour l’emploi; 2. réglementation de l’octroi des indemnités de chômage complet.
-valid_from: 2017-01-01
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/consolide/20170101/fr
-source_sha256: 22ef9148545e5237c9669724bfe7f67c40ad5789ebcfbfdfed3a2937a68d23bc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1976-06-30-n1:2017-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Loi du 30 juin 1976 portant 1. création d’un fonds pour l’emploi; 2. réglementation de l’octroi des indemnités de chômage complet.'
+valid_from: '2017-01-01'
+valid_to: '2023-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/consolide/20170101/fr'
+source_sha256: '22ef9148545e5237c9669724bfe7f67c40ad5789ebcfbfdfed3a2937a68d23bc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_3"></a>

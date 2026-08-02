@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-02-28-a105:2024-03-17
-title: Version rectifiée applicable au 17/03/2024 : Règlement grand-ducal du 28 février 2024 modifiant le règlement grand-ducal modifié du 23 novembre 2017 concernant la commercialisation des matériels de multiplication de plantes fruitières et des plantes fruitières destinées à la production de fruits.
-valid_from: 2024-03-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/02/28/a105/consolide/20240317/fr
-source_sha256: a033e154bbe5cc373efad49299b516222ce0f13d35c49eb7f83fe08e375f9d3d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-02-28-a105:2024-03-17'
+title: 'Version rectifiée applicable au 17/03/2024 : Règlement grand-ducal du 28 février 2024 modifiant le règlement grand-ducal modifié du 23 novembre 2017 concernant la commercialisation des matériels de multiplication de plantes fruitières et des plantes fruitières destinées à la production de fruits.'
+valid_from: '2024-03-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/02/28/a105/consolide/20240317/fr'
+source_sha256: 'a033e154bbe5cc373efad49299b516222ce0f13d35c49eb7f83fe08e375f9d3d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1998-01-09-n3:2014-04-18
-title: Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 9 janvier 1998 concernant   a) la composition et les attributions des commissions médico-psycho-pédagogiques nationale et régionales ou locales  b) la procédure d'orientation scolaire des enfants affectés d'un handicap ainsi que les modalités de leur scolarisation.
-valid_from: 2014-04-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1998/01/09/n3/consolide/20140418/fr
-source_sha256: c835a7fe1f8fc61862b0e9da52c6f6c0c4ca023031d2a31c1d9e6098837db034
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1998-01-09-n3:2014-04-18'
+title: 'Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 9 janvier 1998 concernant   a) la composition et les attributions des commissions médico-psycho-pédagogiques nationale et régionales ou locales  b) la procédure d''orientation scolaire des enfants affectés d''un handicap ainsi que les modalités de leur scolarisation.'
+valid_from: '2014-04-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1998/01/09/n3/consolide/20140418/fr'
+source_sha256: 'c835a7fe1f8fc61862b0e9da52c6f6c0c4ca023031d2a31c1d9e6098837db034'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

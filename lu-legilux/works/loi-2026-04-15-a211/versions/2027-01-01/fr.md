@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2026-04-15-a211:2027-01-01
-title: Version rectifiée applicable au 01/01/2027 : Loi du 15 avril 2026 portant création de l’Administration des aides individuelles au logement.
-valid_from: 2027-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/consolide/20270101/fr
-source_sha256: c8b63d6624bad3ce0861666731052b768a1c555fa4699e0b81001f5b6761e4f7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2026-04-15-a211:2027-01-01'
+title: 'Version rectifiée applicable au 01/01/2027 : Loi du 15 avril 2026 portant création de l’Administration des aides individuelles au logement.'
+valid_from: '2027-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/consolide/20270101/fr'
+source_sha256: 'c8b63d6624bad3ce0861666731052b768a1c555fa4699e0b81001f5b6761e4f7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

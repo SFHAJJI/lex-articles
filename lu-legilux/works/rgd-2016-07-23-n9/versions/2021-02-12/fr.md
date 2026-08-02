@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-07-23-n9:2021-02-12
-title: Version consolidée applicable au 12/02/2021 : Règlement grand-ducal du 23 juillet 2016 portant exécution des titres I et II de la loi du 27 juin 2016 concernant le soutien au développement durable des zones rurales.
-valid_from: 2021-02-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/07/23/n9/consolide/20210212/fr
-source_sha256: 225d7c83c47980ac85c2fbbe40256177459dccad058640dbef050be96b71b41b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-07-23-n9:2021-02-12'
+title: 'Version consolidée applicable au 12/02/2021 : Règlement grand-ducal du 23 juillet 2016 portant exécution des titres I et II de la loi du 27 juin 2016 concernant le soutien au développement durable des zones rurales.'
+valid_from: '2021-02-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/07/23/n9/consolide/20210212/fr'
+source_sha256: '225d7c83c47980ac85c2fbbe40256177459dccad058640dbef050be96b71b41b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions générales

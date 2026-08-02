@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-02-25-a90:2022-06-01
-title: Version consolidée applicable au 02/04/2023 : Règlement grand-ducal du 25 février 2022 relatif aux spécifications techniques pour le marquage des armes d'alarme et de signalisation.
-valid_from: 2022-06-01
-valid_to: 2023-04-01
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90/consolide/20220601/fr
-source_sha256: 56803446096f5213410c8ca4445937e4244b3896638be8750f1c3f162377510e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-02-25-a90:2022-06-01'
+title: 'Version consolidée applicable au 02/04/2023 : Règlement grand-ducal du 25 février 2022 relatif aux spécifications techniques pour le marquage des armes d''alarme et de signalisation.'
+valid_from: '2022-06-01'
+valid_to: '2023-04-01'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90/consolide/20220601/fr'
+source_sha256: '56803446096f5213410c8ca4445937e4244b3896638be8750f1c3f162377510e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

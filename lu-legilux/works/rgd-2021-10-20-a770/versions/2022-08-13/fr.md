@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-10-20-a770:2022-08-13
-title: Version consolidée applicable au 13/08/2022 : Règlement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation, de production et de certification des semences de céréales.
-valid_from: 2022-08-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770/consolide/20220813/fr
-source_sha256: dfe73052b0aeb4c7611c8f5869ef648f44e62b9c31dd4e31a4c01af7f1aa9c2d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-10-20-a770:2022-08-13'
+title: 'Version consolidée applicable au 13/08/2022 : Règlement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation, de production et de certification des semences de céréales.'
+valid_from: '2022-08-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770/consolide/20220813/fr'
+source_sha256: 'dfe73052b0aeb4c7611c8f5869ef648f44e62b9c31dd4e31a4c01af7f1aa9c2d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Commercialisation des semences de céréales**

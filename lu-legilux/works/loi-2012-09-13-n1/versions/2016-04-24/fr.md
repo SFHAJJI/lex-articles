@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2012-09-13-n1:2016-04-24
-title: Version consolidée applicable au 24/04/2016 : Loi du 13 septembre 2012 portant\n 1. création d'un pacte climat avec les communes\n 2. modification de la loi modifiée du 31 mai 1999 portant institution d'un fonds pour la protection de l'environnement.
-valid_from: 2016-04-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2012/09/13/n1/consolide/20160424/fr
-source_sha256: fdb027d23f174fee7de958d0a160883fc7dc4add70a8150ad827b89ea66f933c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2012-09-13-n1:2016-04-24'
+title: 'Version consolidée applicable au 24/04/2016 : Loi du 13 septembre 2012 portant\n 1. création d''un pacte climat avec les communes\n 2. modification de la loi modifiée du 31 mai 1999 portant institution d''un fonds pour la protection de l''environnement.'
+valid_from: '2016-04-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2012/09/13/n1/consolide/20160424/fr'
+source_sha256: 'fdb027d23f174fee7de958d0a160883fc7dc4add70a8150ad827b89ea66f933c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

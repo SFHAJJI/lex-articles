@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2002-05-14-n2:2015-01-01
-title: Version consolidée applicable au 01/01/2015 : Loi du 14 mai 2002 portant reconnaissance d'équivalence du baccalauréat international avec le diplôme de fin d'études secondaires luxembourgeois.
-valid_from: 2015-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2002/05/14/n2/consolide/20150101/fr
-source_sha256: 2ebf1f8703926a85fb792fb3085af18661fff3929ed24674140cdb23808161a9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2002-05-14-n2:2015-01-01'
+title: 'Version consolidée applicable au 01/01/2015 : Loi du 14 mai 2002 portant reconnaissance d''équivalence du baccalauréat international avec le diplôme de fin d''études secondaires luxembourgeois.'
+valid_from: '2015-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2002/05/14/n2/consolide/20150101/fr'
+source_sha256: '2ebf1f8703926a85fb792fb3085af18661fff3929ed24674140cdb23808161a9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

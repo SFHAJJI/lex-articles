@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-05-07-n1:2015-03-16
-title: Version consolidée applicable au 16/03/2015 : Règlement grand-ducal du 7 mai 2009 fixant les modalités pour l’établissement d’un laissez-passer.
-valid_from: 2015-03-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/consolide/20150316/fr
-source_sha256: c2ed5c99969fdea7bb7931c636c9e5bcb7ae31989990a998720681a708db6531
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-05-07-n1:2015-03-16'
+title: 'Version consolidée applicable au 16/03/2015 : Règlement grand-ducal du 7 mai 2009 fixant les modalités pour l’établissement d’un laissez-passer.'
+valid_from: '2015-03-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/consolide/20150316/fr'
+source_sha256: 'c2ed5c99969fdea7bb7931c636c9e5bcb7ae31989990a998720681a708db6531'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

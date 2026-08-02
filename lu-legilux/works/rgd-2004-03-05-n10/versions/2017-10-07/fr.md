@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-03-05-n10:2017-10-07
-title: Version consolidée applicable au 07/10/2017 : Règlement grand-ducal du 5 mars 2004 fixant les modalités de désignation, les droits et les devoirs des délégués à l'égalité entre femmes et hommes au sein des départements ministériels et des administrations.
-valid_from: 2017-10-07
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/consolide/20171007/fr
-source_sha256: 8e46991e004529ff40b6fb4fe3761cfb3ee235f2f1b77a36cb613d90b1db0c47
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-03-05-n10:2017-10-07'
+title: 'Version consolidée applicable au 07/10/2017 : Règlement grand-ducal du 5 mars 2004 fixant les modalités de désignation, les droits et les devoirs des délégués à l''égalité entre femmes et hommes au sein des départements ministériels et des administrations.'
+valid_from: '2017-10-07'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/consolide/20171007/fr'
+source_sha256: '8e46991e004529ff40b6fb4fe3761cfb3ee235f2f1b77a36cb613d90b1db0c47'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

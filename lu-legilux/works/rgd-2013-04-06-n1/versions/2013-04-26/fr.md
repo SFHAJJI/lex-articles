@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-04-06-n1:2013-04-26
-title: Version rectifiée applicable au 26/04/2013 : Règlement grand-ducal du 6 avril 2013 concernant la création et l’usage d’un signe distinctif particulier «Presse».
-valid_from: 2013-04-26
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/04/06/n1/consolide/20130426/fr
-source_sha256: 0f79a690a2b45215121d02d9d5fc0720596c36b82c747fe2abf2320daf1fbaa0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-04-06-n1:2013-04-26'
+title: 'Version rectifiée applicable au 26/04/2013 : Règlement grand-ducal du 6 avril 2013 concernant la création et l’usage d’un signe distinctif particulier «Presse».'
+valid_from: '2013-04-26'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/04/06/n1/consolide/20130426/fr'
+source_sha256: '0f79a690a2b45215121d02d9d5fc0720596c36b82c747fe2abf2320daf1fbaa0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

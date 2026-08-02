@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1987-12-02-n1:2017-07-03
-title: Version consolidée applicable au 03/07/2017 : Loi du 2 décembre 1987 portant réglementation de la médecine scolaire.
-valid_from: 2017-07-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1987/12/02/n1/consolide/20170703/fr
-source_sha256: 794a3e77ffa54e0f68fa8202d60dc831bd9765d36024454d94716986d8732f2e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1987-12-02-n1:2017-07-03'
+title: 'Version consolidée applicable au 03/07/2017 : Loi du 2 décembre 1987 portant réglementation de la médecine scolaire.'
+valid_from: '2017-07-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1987/12/02/n1/consolide/20170703/fr'
+source_sha256: '794a3e77ffa54e0f68fa8202d60dc831bd9765d36024454d94716986d8732f2e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2018-05-15-a398:2021-06-06
-title: Loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement.
-valid_from: 2021-06-06
-valid_to: 2023-06-24
-source: https://legilux.public.lu/eli/etat/leg/loi/2018/05/15/a398/consolide/20210606/fr
-source_sha256: eee27da6b40ad373be05984db1fc6cc381374d82d050f0d239dd836361deb9c0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2018-05-15-a398:2021-06-06'
+title: 'Loi du 15 mai 2018 relative à l’évaluation des incidences sur l’environnement.'
+valid_from: '2021-06-06'
+valid_to: '2023-06-24'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/05/15/a398/consolide/20210606/fr'
+source_sha256: 'eee27da6b40ad373be05984db1fc6cc381374d82d050f0d239dd836361deb9c0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Dispositions générales**

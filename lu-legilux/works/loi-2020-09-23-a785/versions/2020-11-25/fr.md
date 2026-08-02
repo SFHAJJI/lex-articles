@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-09-23-a785:2020-11-25
-title: Version consolidée applicable au 24/12/2021 : Loi du 23 septembre 2020 portant des mesures concernant la tenue de réunions dans les sociétés et dans les autres personnes morales.
-valid_from: 2020-11-25
-valid_to: 2021-06-29
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/09/23/a785/consolide/20201125/fr
-source_sha256: 9ffc2fab8d74ff0ed28ecbed3deb241ac787849aaa8bd49e9d64fde5717c22c4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-09-23-a785:2020-11-25'
+title: 'Version consolidée applicable au 24/12/2021 : Loi du 23 septembre 2020 portant des mesures concernant la tenue de réunions dans les sociétés et dans les autres personnes morales.'
+valid_from: '2020-11-25'
+valid_to: '2021-06-29'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/09/23/a785/consolide/20201125/fr'
+source_sha256: '9ffc2fab8d74ff0ed28ecbed3deb241ac787849aaa8bd49e9d64fde5717c22c4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

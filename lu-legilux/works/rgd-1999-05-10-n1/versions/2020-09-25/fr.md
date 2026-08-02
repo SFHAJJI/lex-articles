@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1999-05-10-n1:2020-09-25
-title: Version consolidée applicable au 25/09/2020 : Règlement grand-ducal du 10 mai 1999 définissant les maladies ou déficiences d'une gravité exceptionnelle en application de l'article 15, alinéa 2 de la loi du 12 février 1999 portant création d'un congé parental et d'un congé pour raisons familiales.
-valid_from: 2020-09-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1999/05/10/n1/consolide/20200925/fr
-source_sha256: 2e645e12c27fefdc3471d72d5cf7fc43c82c0127e6accb2dbe81614ee3ec0c69
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1999-05-10-n1:2020-09-25'
+title: 'Version consolidée applicable au 25/09/2020 : Règlement grand-ducal du 10 mai 1999 définissant les maladies ou déficiences d''une gravité exceptionnelle en application de l''article 15, alinéa 2 de la loi du 12 février 1999 portant création d''un congé parental et d''un congé pour raisons familiales.'
+valid_from: '2020-09-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1999/05/10/n1/consolide/20200925/fr'
+source_sha256: '2e645e12c27fefdc3471d72d5cf7fc43c82c0127e6accb2dbe81614ee3ec0c69'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

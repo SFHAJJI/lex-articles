@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2017-03-08-a289:2022-01-01
-title: Loi du 8 mars 2017 sur la nationalité luxembourgeoise.
-valid_from: 2022-01-01
-valid_to: 2023-03-24
-source: https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a289/consolide/20220101/fr
-source_sha256: 7d7c1d0838d87521d44a922ba48269158f249c6c195f154744fe82c43e11e89c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2017-03-08-a289:2022-01-01'
+title: 'Loi du 8 mars 2017 sur la nationalité luxembourgeoise.'
+valid_from: '2022-01-01'
+valid_to: '2023-03-24'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a289/consolide/20220101/fr'
+source_sha256: '7d7c1d0838d87521d44a922ba48269158f249c6c195f154744fe82c43e11e89c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — De l’attribution de la nationalité luxembourgeoise par le seul effet de la loi

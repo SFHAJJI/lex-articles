@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1994-06-17-n2:2002-03-01
-title: Version consolidée applicable au 01/09/2006 : Loi du 17 juin 1994 concernant les services de santé au travail.
-valid_from: 2002-03-01
-valid_to: 2006-06-03
-source: https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/consolide/20020301/fr
-source_sha256: 7f8364c004bc7462a6ceafae5e4e5affb187106b62f724caebb21eab02434fc0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1994-06-17-n2:2002-03-01'
+title: 'Version consolidée applicable au 01/09/2006 : Loi du 17 juin 1994 concernant les services de santé au travail.'
+valid_from: '2002-03-01'
+valid_to: '2006-06-03'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/consolide/20020301/fr'
+source_sha256: '7f8364c004bc7462a6ceafae5e4e5affb187106b62f724caebb21eab02434fc0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

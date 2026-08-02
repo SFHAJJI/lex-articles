@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2010-05-27-n2:2014-08-01
-title: Version consolidée applicable au 01/08/2014 : Loi du 27 mai 2010\n - portant transposition de la directive 2006/42/CE du Parlement européen et du Conseil du 17 mai 2006 relative aux machines et modifiant la directive 95/16/CE (refonte);\n - concernant la mise à disposition de machines;\n - concernant les machines d'occasion.
-valid_from: 2014-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2010/05/27/n2/consolide/20140801/fr
-source_sha256: b36570c2efd38b03b2c653d047442d3745b0704c1366034e98d23d39c500dbb1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2010-05-27-n2:2014-08-01'
+title: 'Version consolidée applicable au 01/08/2014 : Loi du 27 mai 2010\n - portant transposition de la directive 2006/42/CE du Parlement européen et du Conseil du 17 mai 2006 relative aux machines et modifiant la directive 95/16/CE (refonte);\n - concernant la mise à disposition de machines;\n - concernant les machines d''occasion.'
+valid_from: '2014-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/05/27/n2/consolide/20140801/fr'
+source_sha256: 'b36570c2efd38b03b2c653d047442d3745b0704c1366034e98d23d39c500dbb1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Section 1: — Champ d'application et définitions

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-01-08-n2:2016-03-26
-title: Version consolidée applicable au 26/03/2016 : Règlement grand-ducal du 8 janvier 2015 transposant la directive 2013/30/UE du Parlement européen et du Conseil du 12 juin 2013 relative à la sécurité des opérations pétrolières et gazières en mer et modifiant la directive 2004/35/CE.
-valid_from: 2016-03-26
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n2/consolide/20160326/fr
-source_sha256: 18b524ce485b3c6507ff577259178e35527025a5138026a16ac29c3aaefb90fc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-01-08-n2:2016-03-26'
+title: 'Version consolidée applicable au 26/03/2016 : Règlement grand-ducal du 8 janvier 2015 transposant la directive 2013/30/UE du Parlement européen et du Conseil du 12 juin 2013 relative à la sécurité des opérations pétrolières et gazières en mer et modifiant la directive 2004/35/CE.'
+valid_from: '2016-03-26'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n2/consolide/20160326/fr'
+source_sha256: '18b524ce485b3c6507ff577259178e35527025a5138026a16ac29c3aaefb90fc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

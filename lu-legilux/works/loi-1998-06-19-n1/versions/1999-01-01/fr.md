@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1998-06-19-n1:1999-01-01
-title: Version consolidée applicable au 01/01/2007 : Loi du 19 juin 1998 portant introduction d’une assurance dépendance.
-valid_from: 1999-01-01
-valid_to: 1999-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1998/06/19/n1/consolide/19990101/fr
-source_sha256: 7d658f161a3dfdd8c75542a2efcfebee7aed25111863be58fc4af1becea8b59d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1998-06-19-n1:1999-01-01'
+title: 'Version consolidée applicable au 01/01/2007 : Loi du 19 juin 1998 portant introduction d’une assurance dépendance.'
+valid_from: '1999-01-01'
+valid_to: '1999-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1998/06/19/n1/consolide/19990101/fr'
+source_sha256: '7d658f161a3dfdd8c75542a2efcfebee7aed25111863be58fc4af1becea8b59d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="article_i"></a>

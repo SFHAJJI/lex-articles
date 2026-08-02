@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-12-21-n5:2007-01-01
-title: Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 21 décembre 2001 portant exécution de l'article 166, alinéa 9, numéro 1 de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu.
-valid_from: 2007-01-01
-valid_to: 2024-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n5/consolide/20070101/fr
-source_sha256: 730cb97d430897e3e221fb07e8d507d2f81d5561a7a6c3b0e41c951f72fb836b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-12-21-n5:2007-01-01'
+title: 'Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 21 décembre 2001 portant exécution de l''article 166, alinéa 9, numéro 1 de la loi modifiée du 4 décembre 1967 concernant l''impôt sur le revenu.'
+valid_from: '2007-01-01'
+valid_to: '2024-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n5/consolide/20070101/fr'
+source_sha256: '730cb97d430897e3e221fb07e8d507d2f81d5561a7a6c3b0e41c951f72fb836b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

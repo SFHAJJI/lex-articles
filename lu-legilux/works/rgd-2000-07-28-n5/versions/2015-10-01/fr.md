@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-07-28-n5:2015-10-01
-title: Version consolidée applicable au 01/10/2015 : Règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l'Etat.
-valid_from: 2015-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/07/28/n5/consolide/20151001/fr
-source_sha256: e84668fe193a74b9a2970ed053dc45e65b8e3ded36c3a4b2f13e9c94a239f50e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-07-28-n5:2015-10-01'
+title: 'Version consolidée applicable au 01/10/2015 : Règlement grand-ducal du 28 juillet 2000 fixant le régime des indemnités des employés occupés dans les administrations et services de l''Etat.'
+valid_from: '2015-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/07/28/n5/consolide/20151001/fr'
+source_sha256: 'e84668fe193a74b9a2970ed053dc45e65b8e3ded36c3a4b2f13e9c94a239f50e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I.**

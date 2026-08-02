@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-09-02-n9:2011-11-15
-title: Version consolidée applicable au 15/11/2011 : Règlement grand-ducal du 2 septembre 2011 fixant la période de l'heure légale d'été pour les années 2012, 2013, 2014, 2015 et 2016.
-valid_from: 2011-11-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9/consolide/20111115/fr
-source_sha256: 5a8b9599f35794dea787183a9366c4a9c387d121d1568ffe483b2730a7678071
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-09-02-n9:2011-11-15'
+title: 'Version consolidée applicable au 15/11/2011 : Règlement grand-ducal du 2 septembre 2011 fixant la période de l''heure légale d''été pour les années 2012, 2013, 2014, 2015 et 2016.'
+valid_from: '2011-11-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9/consolide/20111115/fr'
+source_sha256: '5a8b9599f35794dea787183a9366c4a9c387d121d1568ffe483b2730a7678071'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

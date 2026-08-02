@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1990-09-04-n1:2023-09-15
-title: Version consolidée applicable au 15/09/2023 : Loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire général.
-valid_from: 2023-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/consolide/20230915/fr
-source_sha256: ff6d2ba8f5766944fb272c375a5d28ad11d43cbed8ea5042294f0f4fa520a0a3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1990-09-04-n1:2023-09-15'
+title: 'Version consolidée applicable au 15/09/2023 : Loi modifiée du 4 septembre 1990 portant réforme de l’enseignement secondaire général.'
+valid_from: '2023-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/consolide/20230915/fr'
+source_sha256: 'ff6d2ba8f5766944fb272c375a5d28ad11d43cbed8ea5042294f0f4fa520a0a3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — De l'enseignement secondaire général

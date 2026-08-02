@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2022-02-25-a80:2025-04-29
-title: Loi du 25 février 2022 relative au patrimoine culturel.
-valid_from: 2025-04-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2022/02/25/a80/consolide/20250429/fr
-source_sha256: 326baf5ea440be5a94f76e63ce21c569d79e1cbb75c89af225203abffbf26cdc
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2022-02-25-a80:2025-04-29'
+title: 'Loi du 25 février 2022 relative au patrimoine culturel.'
+valid_from: '2025-04-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/02/25/a80/consolide/20250429/fr'
+source_sha256: '326baf5ea440be5a94f76e63ce21c569d79e1cbb75c89af225203abffbf26cdc'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Objet et définitions

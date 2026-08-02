@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1969-03-10-n1:2020-01-01
-title: Version consolidée applicable au 01/01/2020 : Loi du 10 mars 1969 portant institution d'une inspection générale des finances.
-valid_from: 2020-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1969/03/10/n1/consolide/20200101/fr
-source_sha256: 8e16c19c0eb9eb80f6fcb9f85f082c9b4f93ce1a5ffa9b587a1b8c683906982b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1969-03-10-n1:2020-01-01'
+title: 'Version consolidée applicable au 01/01/2020 : Loi du 10 mars 1969 portant institution d''une inspection générale des finances.'
+valid_from: '2020-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1969/03/10/n1/consolide/20200101/fr'
+source_sha256: '8e16c19c0eb9eb80f6fcb9f85f082c9b4f93ce1a5ffa9b587a1b8c683906982b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

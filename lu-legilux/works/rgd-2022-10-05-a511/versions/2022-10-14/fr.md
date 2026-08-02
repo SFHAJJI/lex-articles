@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-10-05-a511:2022-10-14
-title: Version rectifiée applicable au 14/10/2022 : Règlement grand-ducal du 5 octobre 2022 portant fixation de la date d’ouverture et de clôture des soldes de l’hiver 2022/2023 et de l’été 2023.
-valid_from: 2022-10-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/10/05/a511/consolide/20221014/fr
-source_sha256: cd8b642befdd9244a923c082c267b479d4da243d56d622678bfbc7b29c4083d9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-10-05-a511:2022-10-14'
+title: 'Version rectifiée applicable au 14/10/2022 : Règlement grand-ducal du 5 octobre 2022 portant fixation de la date d’ouverture et de clôture des soldes de l’hiver 2022/2023 et de l’été 2023.'
+valid_from: '2022-10-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/10/05/a511/consolide/20221014/fr'
+source_sha256: 'cd8b642befdd9244a923c082c267b479d4da243d56d622678bfbc7b29c4083d9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

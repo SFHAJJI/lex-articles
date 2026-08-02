@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-12-19-n17:2025-01-01
-title: Loi du 19 décembre 2008 relative à l'eau.
-valid_from: 2025-01-01
-valid_to: 2025-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n17/consolide/20250101/fr
-source_sha256: f484e3bf1309ce441352e8654ab8474d05bd393663b6375ffffb875cf4e60877
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-12-19-n17:2025-01-01'
+title: 'Loi du 19 décembre 2008 relative à l''eau.'
+valid_from: '2025-01-01'
+valid_to: '2025-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n17/consolide/20250101/fr'
+source_sha256: 'f484e3bf1309ce441352e8654ab8474d05bd393663b6375ffffb875cf4e60877'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1.- — Généralités

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1912-12-11-n2:1956-09-15
-title: Version consolidée applicable au 15/09/1956 : Arrêté grand-ducal du 11 décembre 1912 portant règlement pour l'exécution de la loi du 7 août 1912 sur la création d'une caisse de prévoyance en faveur des fonctionnaires et employés des communes et établissements publics.
-valid_from: 1956-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/1912/12/11/n2/consolide/19560915/fr
-source_sha256: 13d9ad595e81568db727f383dc0e78520fafdd5ca6dead5a966414306c21543c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1912-12-11-n2:1956-09-15'
+title: 'Version consolidée applicable au 15/09/1956 : Arrêté grand-ducal du 11 décembre 1912 portant règlement pour l''exécution de la loi du 7 août 1912 sur la création d''une caisse de prévoyance en faveur des fonctionnaires et employés des communes et établissements publics.'
+valid_from: '1956-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1912/12/11/n2/consolide/19560915/fr'
+source_sha256: '13d9ad595e81568db727f383dc0e78520fafdd5ca6dead5a966414306c21543c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chap. I. - De l'institution et de l'organisation de la caisse.

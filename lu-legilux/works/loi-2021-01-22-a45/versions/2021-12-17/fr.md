@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-01-22-a45:2021-12-17
-title: Version consolidée applicable au 01/03/2022 : Loi du 22 janvier 2021 portant :\n1° modification des articles L. 234-51, L. 234-52 et L. 234-53 du Code du travail ;\n2° dérogation temporaire aux dispositions des articles L. 234- 51, L. 234-52 et L. 234-53 du Code du travail.\n
-valid_from: 2021-12-17
-valid_to: 2022-02-28
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/20211217/fr
-source_sha256: 7b22f2eb795b3ee0d77cf498ec0154271a5fb44d5667086a8d1cfc2afde3b92d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-01-22-a45:2021-12-17'
+title: 'Version consolidée applicable au 01/03/2022 : Loi du 22 janvier 2021 portant :\n1° modification des articles L. 234-51, L. 234-52 et L. 234-53 du Code du travail ;\n2° dérogation temporaire aux dispositions des articles L. 234- 51, L. 234-52 et L. 234-53 du Code du travail.\n'
+valid_from: '2021-12-17'
+valid_to: '2022-02-28'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/20211217/fr'
+source_sha256: '7b22f2eb795b3ee0d77cf498ec0154271a5fb44d5667086a8d1cfc2afde3b92d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-09-03-n3:2023-11-24
-title: Version consolidée applicable au 17/11/2025 : Règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.
-valid_from: 2023-11-24
-valid_to: 2024-11-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/consolide/20231124/fr
-source_sha256: 5a47356394a1b786d1f67248ef26f833eb96658a5713fb8a253b74a24122c8be
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-09-03-n3:2023-11-24'
+title: 'Version consolidée applicable au 17/11/2025 : Règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.'
+valid_from: '2023-11-24'
+valid_to: '2024-11-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/consolide/20231124/fr'
+source_sha256: '5a47356394a1b786d1f67248ef26f833eb96658a5713fb8a253b74a24122c8be'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

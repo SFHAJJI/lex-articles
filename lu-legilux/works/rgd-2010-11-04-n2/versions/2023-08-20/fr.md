@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-11-04-n2:2023-08-20
-title: Version consolidée applicable au 20/08/2023 : Règlement grand-ducal du 4 novembre 2010 déterminant le mode de perception des cotisations mises à charge des ressortissants de la Chambre des salariés.
-valid_from: 2023-08-20
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/11/04/n2/consolide/20230820/fr
-source_sha256: 6bcc72313df13f97549f7dc5b39b1dbc2c5398da022e4dbc14e4aed624ed8488
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-11-04-n2:2023-08-20'
+title: 'Version consolidée applicable au 20/08/2023 : Règlement grand-ducal du 4 novembre 2010 déterminant le mode de perception des cotisations mises à charge des ressortissants de la Chambre des salariés.'
+valid_from: '2023-08-20'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/11/04/n2/consolide/20230820/fr'
+source_sha256: '6bcc72313df13f97549f7dc5b39b1dbc2c5398da022e4dbc14e4aed624ed8488'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

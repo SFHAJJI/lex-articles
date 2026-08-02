@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1960-08-20-n1:1986-11-10
-title: Version consolidée applicable au 10/11/1986 : Arrêté grand-ducal du 20 août 1960 portant règlement d'administration publique pour l'application de la loi du 30 juillet 1960 concernant la création d'un Fonds National de Solidarité.
-valid_from: 1986-11-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19861110/fr
-source_sha256: edb0acc43ed434c071dbbb4b03b0d04dd6eebc20fe882839d0dc67cfa68c8b26
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1960-08-20-n1:1986-11-10'
+title: 'Version consolidée applicable au 10/11/1986 : Arrêté grand-ducal du 20 août 1960 portant règlement d''administration publique pour l''application de la loi du 30 juillet 1960 concernant la création d''un Fonds National de Solidarité.'
+valid_from: '1986-11-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19861110/fr'
+source_sha256: 'edb0acc43ed434c071dbbb4b03b0d04dd6eebc20fe882839d0dc67cfa68c8b26'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## I. — **Disposition préliminaire.**

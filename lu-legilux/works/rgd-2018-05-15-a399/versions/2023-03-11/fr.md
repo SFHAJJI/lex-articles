@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-05-15-a399:2023-03-11
-title: Version consolidée applicable au 04/08/2025 : Règlement grand-ducal du 15 mai 2018 établissant les listes de projets soumis à une évaluation des incidences sur l’environnement.
-valid_from: 2023-03-11
-valid_to: 2024-05-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/05/15/a399/consolide/20230311/fr
-source_sha256: d2cc0b4e18290971dc2a2a11199f52d38a2f10f2440cadce0504d2ac6487d3b7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-05-15-a399:2023-03-11'
+title: 'Version consolidée applicable au 04/08/2025 : Règlement grand-ducal du 15 mai 2018 établissant les listes de projets soumis à une évaluation des incidences sur l’environnement.'
+valid_from: '2023-03-11'
+valid_to: '2024-05-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/05/15/a399/consolide/20230311/fr'
+source_sha256: 'd2cc0b4e18290971dc2a2a11199f52d38a2f10f2440cadce0504d2ac6487d3b7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

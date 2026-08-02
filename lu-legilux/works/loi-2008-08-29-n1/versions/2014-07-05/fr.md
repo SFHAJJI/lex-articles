@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-08-29-n1:2014-07-05
-title: Loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.
-valid_from: 2014-07-05
-valid_to: 2015-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/consolide/20140705/fr
-source_sha256: 962a81a1ed9ad4ec34ad16cd494249cbb70c7d29c140f8abef3b16067f8d23f0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-08-29-n1:2014-07-05'
+title: 'Loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.'
+valid_from: '2014-07-05'
+valid_to: '2015-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/consolide/20140705/fr'
+source_sha256: '962a81a1ed9ad4ec34ad16cd494249cbb70c7d29c140f8abef3b16067f8d23f0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Dispositions générales

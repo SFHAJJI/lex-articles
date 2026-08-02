@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1879-06-18-n1:2022-07-05
-title: Code pénal
-valid_from: 2022-07-05
-valid_to: 2022-07-23
-source: https://legilux.public.lu/eli/etat/leg/code/penal/20220705/fr
-source_sha256: 7ff9fcb0cc8b71742d3292788eed262a116378b1ed0027d08ea87b4eb3adfe08
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1879-06-18-n1:2022-07-05'
+title: 'Code pénal'
+valid_from: '2022-07-05'
+valid_to: '2022-07-23'
+source: 'https://legilux.public.lu/eli/etat/leg/code/penal/20220705/fr'
+source_sha256: '7ff9fcb0cc8b71742d3292788eed262a116378b1ed0027d08ea87b4eb3adfe08'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **LIVRE Ier.** — **Des infractions et de la répression en général**

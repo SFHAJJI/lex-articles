@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgc-2021-11-19-a828:2022-09-12
-title: Version consolidée applicable au 12/09/2022 : Règlement du Gouvernement en Conseil du 19 novembre 2021 relatif à l’octroi d’une allocation de vie chère au titre de l’année 2022.
-valid_from: 2022-09-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/consolide/20220912/fr
-source_sha256: 4241ac680ac9a04225d39d73696c3472df5b55c0928b45fc51c57933126254c9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgc-2021-11-19-a828:2022-09-12'
+title: 'Version consolidée applicable au 12/09/2022 : Règlement du Gouvernement en Conseil du 19 novembre 2021 relatif à l’octroi d’une allocation de vie chère au titre de l’année 2022.'
+valid_from: '2022-09-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/consolide/20220912/fr'
+source_sha256: '4241ac680ac9a04225d39d73696c3472df5b55c0928b45fc51c57933126254c9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

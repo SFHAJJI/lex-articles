@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-03-24-a341:2021-02-28
-title: Version consolidée applicable au 28/02/2021 : Règlement grand-ducal du 24 mars 2017 fixant les montants du droit d'enregistrement et du droit supplémentaire des permis de chasser, la quote-part annuelle à rembourser par le fonds spécial d'indemnisation des dégâts causés par le gibier, ainsi que les modalités et la procédure de fonctionnement de celui-ci.
-valid_from: 2021-02-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/03/24/a341/consolide/20210228/fr
-source_sha256: c49910cc91e2fd40cefddef76e846127ece2a49d0d4e8e8912bfede8f1d296ad
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-03-24-a341:2021-02-28'
+title: 'Version consolidée applicable au 28/02/2021 : Règlement grand-ducal du 24 mars 2017 fixant les montants du droit d''enregistrement et du droit supplémentaire des permis de chasser, la quote-part annuelle à rembourser par le fonds spécial d''indemnisation des dégâts causés par le gibier, ainsi que les modalités et la procédure de fonctionnement de celui-ci.'
+valid_from: '2021-02-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/03/24/a341/consolide/20210228/fr'
+source_sha256: 'c49910cc91e2fd40cefddef76e846127ece2a49d0d4e8e8912bfede8f1d296ad'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1977-05-27-n2:1988-10-01
-title: Version consolidée applicable au 24/07/1992 : Loi du 27 mai 1977 portant\n a) approbation de la Convention sur la délivrance de brevets européens, signée à Munich, le 5 octobre 1973;\n b) adaptation de la législation nationale en matière de brevets.
-valid_from: 1988-10-01
-valid_to: 1992-07-23
-source: https://legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2/consolide/19881001/fr
-source_sha256: 9c4c6ba0bee637c0b70d630a910f7fce8087192ed8d9cbd57132bb027e6988e5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1977-05-27-n2:1988-10-01'
+title: 'Version consolidée applicable au 24/07/1992 : Loi du 27 mai 1977 portant\n a) approbation de la Convention sur la délivrance de brevets européens, signée à Munich, le 5 octobre 1973;\n b) adaptation de la législation nationale en matière de brevets.'
+valid_from: '1988-10-01'
+valid_to: '1992-07-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2/consolide/19881001/fr'
+source_sha256: '9c4c6ba0bee637c0b70d630a910f7fce8087192ed8d9cbd57132bb027e6988e5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

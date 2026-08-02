@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-12-19-n16:2015-10-01
-title: Version consolidée applicable au 01/10/2015 : Loi du 19 décembre 2008 portant création de l’Administration des Services médicaux du Secteur public.
-valid_from: 2015-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/consolide/20151001/fr
-source_sha256: 5181280fc41e71f927103396537a8fe451c129bf01692ecaa12fd70c29e32b3b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-12-19-n16:2015-10-01'
+title: 'Version consolidée applicable au 01/10/2015 : Loi du 19 décembre 2008 portant création de l’Administration des Services médicaux du Secteur public.'
+valid_from: '2015-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n16/consolide/20151001/fr'
+source_sha256: '5181280fc41e71f927103396537a8fe451c129bf01692ecaa12fd70c29e32b3b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er.** — **Disposition générale**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-12-07-n1:2025-02-14
-title: Version consolidée applicable au 03/04/2026 : Loi du 7 décembre 2015 sur le secteur des assurances.
-valid_from: 2025-02-14
-valid_to: 2026-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1/consolide/20250214/fr
-source_sha256: 7edd3514c5a6c386fc383554ce494ec7291b979017b7fd75bb91a3a100ed0e6c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-12-07-n1:2025-02-14'
+title: 'Version consolidée applicable au 03/04/2026 : Loi du 7 décembre 2015 sur le secteur des assurances.'
+valid_from: '2025-02-14'
+valid_to: '2026-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1/consolide/20250214/fr'
+source_sha256: '7edd3514c5a6c386fc383554ce494ec7291b979017b7fd75bb91a3a100ed0e6c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## PARTIE 1 — **LA SURVEILLANCE DU SECTEUR DES ASSURANCES**

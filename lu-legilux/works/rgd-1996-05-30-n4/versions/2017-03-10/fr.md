@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1996-05-30-n4:2017-03-10
-title: Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 30 mai 1996 fixant les modalités de remplacement en médecine et médecine dentaire ainsi que la procédure à suivre pour obtenir l’autorisation de remplacement.
-valid_from: 2017-03-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/consolide/20170310/fr
-source_sha256: 0d568be9e03f93ec64623a4a27a00241a4cd9251a540bedeaf7851f12730621f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1996-05-30-n4:2017-03-10'
+title: 'Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 30 mai 1996 fixant les modalités de remplacement en médecine et médecine dentaire ainsi que la procédure à suivre pour obtenir l’autorisation de remplacement.'
+valid_from: '2017-03-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/consolide/20170310/fr'
+source_sha256: '0d568be9e03f93ec64623a4a27a00241a4cd9251a540bedeaf7851f12730621f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2006-11-28-n1:2016-06-18
-title: Version consolidée applicable au 01/01/2018 : Loi du 28 novembre 2006 portant\n 1. transposition de la directive 2000/43/CE du Conseil du 29 juin 2000 relative à la mise en oeuvre du principe de l'égalité de traitement entre les personnes sans distinction de race ou d'origine ethnique;\n 2. transposition de la directive 2000/78/CE du Conseil du 27 novembre 2000 portant création d'un cadre général en faveur de l'égalité de traitement en matière d'emploi et de travail;\n 3. modification du Code du travail et portant introduction dans le Livre II d'un nouveau titre V relatif à l'égalité de traitement en matière d'emploi et de travail;\n 4. modification des articles 454 et 455 du Code pénal;\n 5. modification de la loi du 12 septembre 2003 relative aux personnes handicapées.
-valid_from: 2016-06-18
-valid_to: 2017-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/consolide/20160618/fr
-source_sha256: bf75924d65f646d4cb7c43167e3d029a6c9ade1079378e74a61c96646138f75e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2006-11-28-n1:2016-06-18'
+title: 'Version consolidée applicable au 01/01/2018 : Loi du 28 novembre 2006 portant\n 1. transposition de la directive 2000/43/CE du Conseil du 29 juin 2000 relative à la mise en oeuvre du principe de l''égalité de traitement entre les personnes sans distinction de race ou d''origine ethnique;\n 2. transposition de la directive 2000/78/CE du Conseil du 27 novembre 2000 portant création d''un cadre général en faveur de l''égalité de traitement en matière d''emploi et de travail;\n 3. modification du Code du travail et portant introduction dans le Livre II d''un nouveau titre V relatif à l''égalité de traitement en matière d''emploi et de travail;\n 4. modification des articles 454 et 455 du Code pénal;\n 5. modification de la loi du 12 septembre 2003 relative aux personnes handicapées.'
+valid_from: '2016-06-18'
+valid_to: '2017-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/consolide/20160618/fr'
+source_sha256: 'bf75924d65f646d4cb7c43167e3d029a6c9ade1079378e74a61c96646138f75e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions générales

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-07-12-n2:2017-01-01
-title: Version consolidée applicable au 01/01/2026 : Loi du 12 juillet 2014 relative à la coordination et à la gouvernance des finances publiques et modifiant:\n a) la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l'Etat\n b) la loi modifiée du 10 mars 1969 portant institution d'une inspection générale des finances.
-valid_from: 2017-01-01
-valid_to: 2017-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/07/12/n2/consolide/20170101/fr
-source_sha256: ca06171712a49263f700d24d6d92598d9cca8c9856296a71c481e440aa4fec04
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-07-12-n2:2017-01-01'
+title: 'Version consolidée applicable au 01/01/2026 : Loi du 12 juillet 2014 relative à la coordination et à la gouvernance des finances publiques et modifiant:\n a) la loi modifiée du 8 juin 1999 sur le budget, la comptabilité et la trésorerie de l''Etat\n b) la loi modifiée du 10 mars 1969 portant institution d''une inspection générale des finances.'
+valid_from: '2017-01-01'
+valid_to: '2017-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/07/12/n2/consolide/20170101/fr'
+source_sha256: 'ca06171712a49263f700d24d6d92598d9cca8c9856296a71c481e440aa4fec04'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ***Champ d'application***

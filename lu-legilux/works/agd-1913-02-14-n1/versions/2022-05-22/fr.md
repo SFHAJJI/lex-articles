@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1913-02-14-n1:2022-05-22
-title: Version consolidée applicable au 22/05/2022 : Arrêté grand-ducal du 14 février 1913 réglant le transport des cadavres.
-valid_from: 2022-05-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/1913/02/14/n1/consolide/20220522/fr
-source_sha256: cf624d42170e3135df00833db56e989b0bcabbb17bb43cc126749c0e56365518
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1913-02-14-n1:2022-05-22'
+title: 'Version consolidée applicable au 22/05/2022 : Arrêté grand-ducal du 14 février 1913 réglant le transport des cadavres.'
+valid_from: '2022-05-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1913/02/14/n1/consolide/20220522/fr'
+source_sha256: 'cf624d42170e3135df00833db56e989b0bcabbb17bb43cc126749c0e56365518'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

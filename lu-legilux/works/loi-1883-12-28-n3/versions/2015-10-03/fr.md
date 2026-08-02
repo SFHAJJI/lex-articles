@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1883-12-28-n3:2015-10-03
-title: Version consolidée applicable au 03/10/2015 : Loi du 28 décembre 1883 concernant les associations syndicales pour l'exécution de travaux de drainage, d'irrigation, etc.
-valid_from: 2015-10-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1883/12/28/n3/consolide/20151003/fr
-source_sha256: 16e2248998c7a8b7019b5678fe6436d72a23684e4c1e6f3ad2d65bd74f4c0159
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1883-12-28-n3:2015-10-03'
+title: 'Version consolidée applicable au 03/10/2015 : Loi du 28 décembre 1883 concernant les associations syndicales pour l''exécution de travaux de drainage, d''irrigation, etc.'
+valid_from: '2015-10-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1883/12/28/n3/consolide/20151003/fr'
+source_sha256: '16e2248998c7a8b7019b5678fe6436d72a23684e4c1e6f3ad2d65bd74f4c0159'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier. — *Des associations syndicales.*

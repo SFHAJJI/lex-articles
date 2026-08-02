@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2004-11-12-n1:2025-02-10
-title: Loi du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.
-valid_from: 2025-02-10
-valid_to: 2026-07-26
-source: https://legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1/consolide/20250210/fr
-source_sha256: 953eeb50a1262c71dbbf68489cc0167c3a642c84937b0914b05338b2004c01ae
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2004-11-12-n1:2025-02-10'
+title: 'Loi du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.'
+valid_from: '2025-02-10'
+valid_to: '2026-07-26'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1/consolide/20250210/fr'
+source_sha256: '953eeb50a1262c71dbbf68489cc0167c3a642c84937b0914b05338b2004c01ae'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **TITRE I** — **Les obligations professionnelles en matière de lutte contre le blanchiment et contre le financement du terrorisme**

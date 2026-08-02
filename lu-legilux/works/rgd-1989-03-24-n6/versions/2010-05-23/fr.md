@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1989-03-24-n6:2010-05-23
-title: Version consolidée applicable au 23/05/2010 : Règlement grand-ducal du 24 mars 1989 déterminant les conditions et modalités relatives à la mise en compte des périodes prévues à l'article 9.II. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat.
-valid_from: 2010-05-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1989/03/24/n6/consolide/20100523/fr
-source_sha256: c98f0a81b1ba8f43749063727681247504ba0324f46e8c90db35d3f1abd1da5f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1989-03-24-n6:2010-05-23'
+title: 'Version consolidée applicable au 23/05/2010 : Règlement grand-ducal du 24 mars 1989 déterminant les conditions et modalités relatives à la mise en compte des périodes prévues à l''article 9.II. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l''Etat.'
+valid_from: '2010-05-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1989/03/24/n6/consolide/20100523/fr'
+source_sha256: 'c98f0a81b1ba8f43749063727681247504ba0324f46e8c90db35d3f1abd1da5f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

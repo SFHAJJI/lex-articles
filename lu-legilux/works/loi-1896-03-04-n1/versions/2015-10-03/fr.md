@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1896-03-04-n1:2015-10-03
-title: Version consolidée applicable au 03/10/2015 : Loi du 4 mars 1896, concernant l’expropriation par zône pour cause d’utilité publique.
-valid_from: 2015-10-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/consolide/20151003/fr
-source_sha256: 3581f47c6aa3145394aaeaff2716051bdf7cbe4651396b7fdca9927a277e9b35
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1896-03-04-n1:2015-10-03'
+title: 'Version consolidée applicable au 03/10/2015 : Loi du 4 mars 1896, concernant l’expropriation par zône pour cause d’utilité publique.'
+valid_from: '2015-10-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1896/03/04/n1/consolide/20151003/fr'
+source_sha256: '3581f47c6aa3145394aaeaff2716051bdf7cbe4651396b7fdca9927a277e9b35'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

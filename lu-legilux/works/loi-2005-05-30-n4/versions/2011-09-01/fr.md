@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2005-05-30-n4:2011-09-01
-title: Version consolidée applicable au 25/12/2020 : Loi modifiée du 30 mai 2005\n - relative aux dispositions spécifiques de protection de la personne à l’égard du traitement des données à caractère personnel dans le secteur des communications électroniques et\n - portant modification des articles 88-2 et 88-4 du Code d’instruction criminelle.
-valid_from: 2011-09-01
-valid_to: 2020-12-24
-source: https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/consolide/20110901/fr
-source_sha256: ff9060bd039dae5f33e4fbcbf49600866cf093d543ee54314d2450cce3eeae3e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2005-05-30-n4:2011-09-01'
+title: 'Version consolidée applicable au 25/12/2020 : Loi modifiée du 30 mai 2005\n - relative aux dispositions spécifiques de protection de la personne à l’égard du traitement des données à caractère personnel dans le secteur des communications électroniques et\n - portant modification des articles 88-2 et 88-4 du Code d’instruction criminelle.'
+valid_from: '2011-09-01'
+valid_to: '2020-12-24'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/consolide/20110901/fr'
+source_sha256: 'ff9060bd039dae5f33e4fbcbf49600866cf093d543ee54314d2450cce3eeae3e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

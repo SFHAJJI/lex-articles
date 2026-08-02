@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-12-19-n6:2022-07-05
-title: Version consolidée applicable au 27/12/2024 : Loi du 19 décembre 2008 ayant pour objet la coopération interadministrative et judiciaire et le renforcement des moyens de l'Administration des contributions directes, de l'Administration de l'enregistrement et des domaines et de l'Administration des douanes et accises et portant modification de - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée; - la loi générale des impôts («Abgabenordnung»); - la loi modifiée du 17 avril 1964 portant réorganisation de l'Administration des contributions directes; - la loi modifiée du 20 mars 1970 portant réorganisation de l'Administration de l'enregistrement et des domaines; - la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d'assurance sociale.
-valid_from: 2022-07-05
-valid_to: 2022-07-23
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n6/consolide/20220705/fr
-source_sha256: 10d306a93c3d8d7066aafc2f48740c76022280877d3a1559d52aac56e38cb8c1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-12-19-n6:2022-07-05'
+title: 'Version consolidée applicable au 27/12/2024 : Loi du 19 décembre 2008 ayant pour objet la coopération interadministrative et judiciaire et le renforcement des moyens de l''Administration des contributions directes, de l''Administration de l''enregistrement et des domaines et de l''Administration des douanes et accises et portant modification de - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée; - la loi générale des impôts («Abgabenordnung»); - la loi modifiée du 17 avril 1964 portant réorganisation de l''Administration des contributions directes; - la loi modifiée du 20 mars 1970 portant réorganisation de l''Administration de l''enregistrement et des domaines; - la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d''assurance sociale.'
+valid_from: '2022-07-05'
+valid_to: '2022-07-23'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n6/consolide/20220705/fr'
+source_sha256: '10d306a93c3d8d7066aafc2f48740c76022280877d3a1559d52aac56e38cb8c1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Coopération entre l'Administration des contributions directes et l'Administration de l'enregistrement et des domaines

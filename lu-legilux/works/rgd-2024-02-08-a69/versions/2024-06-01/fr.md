@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-02-08-a69:2024-06-01
-title: Version rectifiée applicable au 01/06/2024 : Règlement grand-ducal du 8 février 2024 modifiant :\n1° le règlement grand-ducal modifié du 10 mai 2012 portant nouvelles nomenclature et classification des établissements classés ;\n2° le règlement grand-ducal du 26 juillet 1999 fixant les prescriptions générales pour les établissements du secteur agricole qui relèvent de la classe 4 en matière d’établissements classés ;\n3° le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz ;\n4° le règlement grand-ducal du 30 décembre 2010 concernant les aspects techniques du programme directeur de gestion des risques d’inondation ;\n5° le règlement grand-ducal modifié du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés ;\n6° le règlement grand-ducal modifié du 21 décembre 2018 concernant une réduction de la teneur en soufre de certains combustibles liquides ;\n7° le règlement grand-ducal modifié du 9 juin 2021 concernant la performance énergétique des bâtiments fonctionnels.\n
-valid_from: 2024-06-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/consolide/20240601/fr
-source_sha256: 2a9af6f482cc99bcbf0c7a8d882532ee4af1510fef6b23cf4a5175826b997fd1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-02-08-a69:2024-06-01'
+title: 'Version rectifiée applicable au 01/06/2024 : Règlement grand-ducal du 8 février 2024 modifiant :\n1° le règlement grand-ducal modifié du 10 mai 2012 portant nouvelles nomenclature et classification des établissements classés ;\n2° le règlement grand-ducal du 26 juillet 1999 fixant les prescriptions générales pour les établissements du secteur agricole qui relèvent de la classe 4 en matière d’établissements classés ;\n3° le règlement grand-ducal modifié du 27 février 2010 concernant les installations à gaz ;\n4° le règlement grand-ducal du 30 décembre 2010 concernant les aspects techniques du programme directeur de gestion des risques d’inondation ;\n5° le règlement grand-ducal modifié du 13 septembre 2011 concernant la procédure particulière à suivre pour certains établissements classés ;\n6° le règlement grand-ducal modifié du 21 décembre 2018 concernant une réduction de la teneur en soufre de certains combustibles liquides ;\n7° le règlement grand-ducal modifié du 9 juin 2021 concernant la performance énergétique des bâtiments fonctionnels.\n'
+valid_from: '2024-06-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a69/consolide/20240601/fr'
+source_sha256: '2a9af6f482cc99bcbf0c7a8d882532ee4af1510fef6b23cf4a5175826b997fd1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Modification du règlement grand-ducal modifié du 10 mai 2012 portant nouvelles nomenclature et classification des établissements classés

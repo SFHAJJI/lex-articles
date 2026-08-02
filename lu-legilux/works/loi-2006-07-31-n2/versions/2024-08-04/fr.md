@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2006-07-31-n2:2024-08-04
-title: Code du travail
-valid_from: 2024-08-04
-valid_to: 2024-12-31
-source: https://legilux.public.lu/eli/etat/leg/code/travail/20240804/fr
-source_sha256: 80dd9a7a0fa08167dcba83fcbd7b9d6fef7cf56718ceaef32531e6645539f810
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2006-07-31-n2:2024-08-04'
+title: 'Code du travail'
+valid_from: '2024-08-04'
+valid_to: '2024-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/code/travail/20240804/fr'
+source_sha256: '80dd9a7a0fa08167dcba83fcbd7b9d6fef7cf56718ceaef32531e6645539f810'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Préliminaire — ( L. 23 décembre 2022 ) Dispositions générales

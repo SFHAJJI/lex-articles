@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2001-02-23-n2:2023-02-01
-title: Version consolidée applicable au 01/02/2023 : Loi du 23 février 2001 concernant les syndicats de communes.
-valid_from: 2023-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2001/02/23/n2/consolide/20230201/fr
-source_sha256: a9e4c2ee11682c6254cc467cbc101afeba557b4b79793ba298e61e917f41c9af
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2001-02-23-n2:2023-02-01'
+title: 'Version consolidée applicable au 01/02/2023 : Loi du 23 février 2001 concernant les syndicats de communes.'
+valid_from: '2023-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2001/02/23/n2/consolide/20230201/fr'
+source_sha256: 'a9e4c2ee11682c6254cc467cbc101afeba557b4b79793ba298e61e917f41c9af'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I — De la nature, de l'objet et de la constitution des syndicats de communes

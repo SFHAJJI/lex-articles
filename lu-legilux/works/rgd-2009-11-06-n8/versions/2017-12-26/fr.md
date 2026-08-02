@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-11-06-n8:2017-12-26
-title: Version consolidée applicable au 26/12/2017 : Règlement grand-ducal du 6 novembre 2009 relatif au dépôt légal.
-valid_from: 2017-12-26
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n8/consolide/20171226/fr
-source_sha256: 6ab33e8453cbbf91481c969fba4f576a3c979dc6dddd6206a1908c61e83d7cac
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-11-06-n8:2017-12-26'
+title: 'Version consolidée applicable au 26/12/2017 : Règlement grand-ducal du 6 novembre 2009 relatif au dépôt légal.'
+valid_from: '2017-12-26'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n8/consolide/20171226/fr'
+source_sha256: '6ab33e8453cbbf91481c969fba4f576a3c979dc6dddd6206a1908c61e83d7cac'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chap. 1er. — Du dépôt légal en faveur de la Bibliothèque nationale

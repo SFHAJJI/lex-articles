@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1979-10-22-n10:2025-01-01
-title: Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 22 octobre 1979 relatif à l’assujettissement des collectivités de droit public à la taxe sur la valeur ajoutée.
-valid_from: 2025-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1979/10/22/n10/consolide/20250101/fr
-source_sha256: 6acc63063b5be0d12a124eb08d6b592f5e3799839dc5a862365a56cb43d9c728
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1979-10-22-n10:2025-01-01'
+title: 'Version consolidée applicable au 01/01/2025 : Règlement grand-ducal du 22 octobre 1979 relatif à l’assujettissement des collectivités de droit public à la taxe sur la valeur ajoutée.'
+valid_from: '2025-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1979/10/22/n10/consolide/20250101/fr'
+source_sha256: '6acc63063b5be0d12a124eb08d6b592f5e3799839dc5a862365a56cb43d9c728'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

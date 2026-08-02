@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-12-19-n9:2026-01-01
-title: Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 19 décembre 2008 réglant les modalités de la déduction des frais de déplacement et autres frais d’obtention, des dépenses spéciales, des charges extraordinaires, ainsi que de la bonification des crédits d’impôt.
-valid_from: 2026-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n9/consolide/20260101/fr
-source_sha256: 8161444e3f6fd860f9fa45fc4c4949da21e3f335279c7129ee62323f41da19e5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-12-19-n9:2026-01-01'
+title: 'Version consolidée applicable au 01/01/2026 : Règlement grand-ducal du 19 décembre 2008 réglant les modalités de la déduction des frais de déplacement et autres frais d’obtention, des dépenses spéciales, des charges extraordinaires, ainsi que de la bonification des crédits d’impôt.'
+valid_from: '2026-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n9/consolide/20260101/fr'
+source_sha256: '8161444e3f6fd860f9fa45fc4c4949da21e3f335279c7129ee62323f41da19e5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — **Définitions et Généralités**

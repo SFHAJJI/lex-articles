@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-10-27-n5:2004-03-31
-title: Version consolidée applicable au 01/08/2009 : Règlement grand-ducal du 27 octobre 2000 portant\n1. organisation à l’Institut national d’administration publique de la division de la formation continue du personnel des communes, des syndicats de communes et des établissements publics des communes,\n2. modification du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat et\n3. modification du règlement grand-ducal du 5 octobre 1987 concernant les allongements et les substitutions de grade des fonctionnaires communaux.
-valid_from: 2004-03-31
-valid_to: 2009-07-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n5/consolide/20040331/fr
-source_sha256: e03a3d1c1b98c577b83cc3993748c9442b4f9ea7fefc6179933a02143d138ecf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-10-27-n5:2004-03-31'
+title: 'Version consolidée applicable au 01/08/2009 : Règlement grand-ducal du 27 octobre 2000 portant\n1. organisation à l’Institut national d’administration publique de la division de la formation continue du personnel des communes, des syndicats de communes et des établissements publics des communes,\n2. modification du règlement grand-ducal modifié du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et établissements publics placés sous la surveillance des communes à ceux des fonctionnaires de l’Etat et\n3. modification du règlement grand-ducal du 5 octobre 1987 concernant les allongements et les substitutions de grade des fonctionnaires communaux.'
+valid_from: '2004-03-31'
+valid_to: '2009-07-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n5/consolide/20040331/fr'
+source_sha256: 'e03a3d1c1b98c577b83cc3993748c9442b4f9ea7fefc6179933a02143d138ecf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Champ d’application

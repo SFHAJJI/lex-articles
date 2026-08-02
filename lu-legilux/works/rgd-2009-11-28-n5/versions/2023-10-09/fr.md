@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-11-28-n5:2023-10-09
-title: Version consolidée applicable au 09/10/2023 : Règlement grand-ducal du 28 novembre 2009 portant tarif des frais de justice de toute nature.
-valid_from: 2023-10-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20231009/fr
-source_sha256: b6dd13cb846acd2ea50aa586f16241fe9fd2cbcdc797be964073376e9e3d9f34
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-11-28-n5:2023-10-09'
+title: 'Version consolidée applicable au 09/10/2023 : Règlement grand-ducal du 28 novembre 2009 portant tarif des frais de justice de toute nature.'
+valid_from: '2023-10-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20231009/fr'
+source_sha256: 'b6dd13cb846acd2ea50aa586f16241fe9fd2cbcdc797be964073376e9e3d9f34'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

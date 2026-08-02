@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1998-12-10-n4:2022-12-25
-title: Version consolidée applicable au 25/12/2022 : Règlement grand-ducal du 10 décembre 1998 portant organisation et fonctionnement de la Commission d'Harmonisation en exécution de l'article 15 de la loi du 8.9.1998 réglant les relations entre l'État et les organismes oeuvrant dans les domaines social, familial et thérapeutique.
-valid_from: 2022-12-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1998/12/10/n4/consolide/20221225/fr
-source_sha256: 33ca43dc4526a27c73fabdde6b6840f7ffcf08caf0269b2784255a767d2b45de
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1998-12-10-n4:2022-12-25'
+title: 'Version consolidée applicable au 25/12/2022 : Règlement grand-ducal du 10 décembre 1998 portant organisation et fonctionnement de la Commission d''Harmonisation en exécution de l''article 15 de la loi du 8.9.1998 réglant les relations entre l''État et les organismes oeuvrant dans les domaines social, familial et thérapeutique.'
+valid_from: '2022-12-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1998/12/10/n4/consolide/20221225/fr'
+source_sha256: '33ca43dc4526a27c73fabdde6b6840f7ffcf08caf0269b2784255a767d2b45de'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

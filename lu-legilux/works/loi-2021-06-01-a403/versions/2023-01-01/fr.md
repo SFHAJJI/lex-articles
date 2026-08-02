@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2021-06-01-a403:2023-01-01
-title: Version consolidée applicable au 01/01/2023 : Loi du 1er juin 2021 sur les relations entre entreprises au sein de la chaîne d’approvisionnement agricole et alimentaire.
-valid_from: 2023-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2021/06/01/a403/consolide/20230101/fr
-source_sha256: 57460299854f831b13a5317ef572bc7b66e6040db11eb74574b638bd81f5babb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2021-06-01-a403:2023-01-01'
+title: 'Version consolidée applicable au 01/01/2023 : Loi du 1er juin 2021 sur les relations entre entreprises au sein de la chaîne d’approvisionnement agricole et alimentaire.'
+valid_from: '2023-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2021/06/01/a403/consolide/20230101/fr'
+source_sha256: '57460299854f831b13a5317ef572bc7b66e6040db11eb74574b638bd81f5babb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

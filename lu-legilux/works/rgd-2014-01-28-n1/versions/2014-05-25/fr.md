@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-01-28-n1:2014-05-25
-title: Version consolidée applicable au 25/05/2014 : Règlement grand-ducal du 28 janvier 2014 fixant au 25 mai 2014 la date des opérations électorales concernant le Parlement européen.
-valid_from: 2014-05-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/consolide/20140525/fr
-source_sha256: b4db7525100db77c559e5d4f50a2b61eedda57633862d3485c10f8f0c98c0c62
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-01-28-n1:2014-05-25'
+title: 'Version consolidée applicable au 25/05/2014 : Règlement grand-ducal du 28 janvier 2014 fixant au 25 mai 2014 la date des opérations électorales concernant le Parlement européen.'
+valid_from: '2014-05-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/consolide/20140525/fr'
+source_sha256: 'b4db7525100db77c559e5d4f50a2b61eedda57633862d3485c10f8f0c98c0c62'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

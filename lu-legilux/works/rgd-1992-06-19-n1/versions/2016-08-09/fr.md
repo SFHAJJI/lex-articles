@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1992-06-19-n1:2016-08-09
-title: Version consolidée applicable au 09/08/2016 : Règlement grand-ducal du 19 juin 1992 fixant les modalités de structure et de fonctionnement de l'établissement public créé par l'article 14 de la loi du 27 juillet 1991 sur les médias électroniques.
-valid_from: 2016-08-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1992/06/19/n1/consolide/20160809/fr
-source_sha256: 290e2aac0bc28b1e85a8165986bf6c899b78dc1b4053804fac1df8c69a17f502
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1992-06-19-n1:2016-08-09'
+title: 'Version consolidée applicable au 09/08/2016 : Règlement grand-ducal du 19 juin 1992 fixant les modalités de structure et de fonctionnement de l''établissement public créé par l''article 14 de la loi du 27 juillet 1991 sur les médias électroniques.'
+valid_from: '2016-08-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/06/19/n1/consolide/20160809/fr'
+source_sha256: '290e2aac0bc28b1e85a8165986bf6c899b78dc1b4053804fac1df8c69a17f502'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

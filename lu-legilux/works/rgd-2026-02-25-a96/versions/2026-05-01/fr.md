@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2026-02-25-a96:2026-05-01
-title: Version rectifiée applicable au 01/05/2026 : Règlement grand-ducal du 25 février 2026 modifiant le règlement grand-ducal modifié du 21 décembre 1998 arrêtant la nomenclature des actes et services des médecins pris en charge par l’assurance maladie.
-valid_from: 2026-05-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2026/02/25/a96/consolide/20260501/fr
-source_sha256: 8b564972723973d8aab594c092e1d843b3deb97d0b7e9ab860e064c187a60e93
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2026-02-25-a96:2026-05-01'
+title: 'Version rectifiée applicable au 01/05/2026 : Règlement grand-ducal du 25 février 2026 modifiant le règlement grand-ducal modifié du 21 décembre 1998 arrêtant la nomenclature des actes et services des médecins pris en charge par l’assurance maladie.'
+valid_from: '2026-05-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2026/02/25/a96/consolide/20260501/fr'
+source_sha256: '8b564972723973d8aab594c092e1d843b3deb97d0b7e9ab860e064c187a60e93'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-07-27-n1:2020-04-29
-title: Version consolidée applicable au 29/04/2020 : Règlement grand-ducal du 27 juillet 2016 portant exécution de certaines dispositions du Livre IV du Code de la sécurité sociale.
-valid_from: 2020-04-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/07/27/n1/consolide/20200429/fr
-source_sha256: cc8e62dfa13930162c0e3b477216a610c29bc7e443c0c26c23810d3986623953
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-07-27-n1:2020-04-29'
+title: 'Version consolidée applicable au 29/04/2020 : Règlement grand-ducal du 27 juillet 2016 portant exécution de certaines dispositions du Livre IV du Code de la sécurité sociale.'
+valid_from: '2020-04-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/07/27/n1/consolide/20200429/fr'
+source_sha256: 'cc8e62dfa13930162c0e3b477216a610c29bc7e443c0c26c23810d3986623953'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Détermination des frais de route et de séjour des personnes dont les enfants sont examinés en vue de l'octroi de l'allocation spéciale supplémentaire prévue à l'article 274 du Code de la sécurité sociale

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:ord-1943-03-31-n1:2002-01-01
-title: Version consolidée applicable au 01/01/2002 : Ordonnance de simplification du 31 mars 1943 (Verordnung über die Erhebung der Gewerbesteuer in vereinfachter Form).
-valid_from: 2002-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/consolide/20020101/fr
-source_sha256: 1c4f0c46699e00925503f0dea1a74b6f78c2ed01c7c49f445e2581367f096033
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:ord-1943-03-31-n1:2002-01-01'
+title: 'Version consolidée applicable au 01/01/2002 : Ordonnance de simplification du 31 mars 1943 (Verordnung über die Erhebung der Gewerbesteuer in vereinfachter Form).'
+valid_from: '2002-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/consolide/20020101/fr'
+source_sha256: '1c4f0c46699e00925503f0dea1a74b6f78c2ed01c7c49f445e2581367f096033'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Abschnitt I. — **Festsetzung, Erhebung und Verteilung der Gewerbesteuer nach dem Gewerbeertrag und dem Gewerbekapital**

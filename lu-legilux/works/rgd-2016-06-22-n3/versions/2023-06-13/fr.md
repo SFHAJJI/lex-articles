@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-06-22-n3:2023-06-13
-title: Version consolidée applicable au 13/06/2023 : Règlement grand-ducal du 22 juin 2016 relatif a) aux contrôles d'équipements de réfrigération, de climatisation et de pompes à chaleur fonctionnant aux fluides réfrigérants du type HFC, HCFC ou CFC; b) à l'inspection des systèmes de climatisation.
-valid_from: 2023-06-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/06/22/n3/consolide/20230613/fr
-source_sha256: 6960638eea13e2391f2d884c7c99935b0b7c751101764e42884287426c7d3f58
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-06-22-n3:2023-06-13'
+title: 'Version consolidée applicable au 13/06/2023 : Règlement grand-ducal du 22 juin 2016 relatif a) aux contrôles d''équipements de réfrigération, de climatisation et de pompes à chaleur fonctionnant aux fluides réfrigérants du type HFC, HCFC ou CFC; b) à l''inspection des systèmes de climatisation.'
+valid_from: '2023-06-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/06/22/n3/consolide/20230613/fr'
+source_sha256: '6960638eea13e2391f2d884c7c99935b0b7c751101764e42884287426c7d3f58'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

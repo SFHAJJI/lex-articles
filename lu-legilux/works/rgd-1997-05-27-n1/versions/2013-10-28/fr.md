@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1997-05-27-n1:2013-10-28
-title: Version consolidée applicable au 28/10/2013 : Règlement grand-ducal du 27 mai 1997 relatif à l'octroi des concessions de pharmacie.
-valid_from: 2013-10-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/consolide/20131028/fr
-source_sha256: f890f5b651e789d6d996fc1086ec340e716a4d9e04bcc011e433a972c1862c0b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1997-05-27-n1:2013-10-28'
+title: 'Version consolidée applicable au 28/10/2013 : Règlement grand-ducal du 27 mai 1997 relatif à l''octroi des concessions de pharmacie.'
+valid_from: '2013-10-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/consolide/20131028/fr'
+source_sha256: 'f890f5b651e789d6d996fc1086ec340e716a4d9e04bcc011e433a972c1862c0b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-12-18-n7:2026-05-10
-title: Loi du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement.
-valid_from: 2026-05-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n7/consolide/20260510/fr
-source_sha256: 44477dc380328b02e41e1c1c82c8d1350d4c39d177a7a6ebd2607ead07a891d9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-12-18-n7:2026-05-10'
+title: 'Loi du 18 décembre 2015 relative à la défaillance des établissements de crédit et de certaines entreprises d’investissement.'
+valid_from: '2026-05-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n7/consolide/20260510/fr'
+source_sha256: '44477dc380328b02e41e1c1c82c8d1350d4c39d177a7a6ebd2607ead07a891d9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## PARTIE Ire — CADRE DE RESOLUTION

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-1923-06-29-n1:1943-01-20
-title: Version consolidée applicable au 09/10/2023 : Arrête grand-ducal du 29 juin 1923 portant règlement du service consulaire et introduction de certaines taxes à percevoir par les agents du corps consulaire.
-valid_from: 1943-01-20
-valid_to: 1960-07-08
-source: https://legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/consolide/19430120/fr
-source_sha256: 2295d7170d66a6eaf9712ea624e98f2f2cd9ab372cf6a2f3e1b85541657f1ef8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-1923-06-29-n1:1943-01-20'
+title: 'Version consolidée applicable au 09/10/2023 : Arrête grand-ducal du 29 juin 1923 portant règlement du service consulaire et introduction de certaines taxes à percevoir par les agents du corps consulaire.'
+valid_from: '1943-01-20'
+valid_to: '1960-07-08'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/consolide/19430120/fr'
+source_sha256: '2295d7170d66a6eaf9712ea624e98f2f2cd9ab372cf6a2f3e1b85541657f1ef8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier. — **Des consuls et du personnel des consulats.**

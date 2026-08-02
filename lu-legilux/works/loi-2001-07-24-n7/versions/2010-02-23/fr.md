@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2001-07-24-n7:2010-02-23
-title: Version consolidée applicable au 23/12/2022 : Loi du 24 juillet 2001 portant création d'un établissement public nommé Centre Culturel de Rencontre Abbaye de Neumünster.
-valid_from: 2010-02-23
-valid_to: 2022-12-22
-source: https://legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7/consolide/20100223/fr
-source_sha256: 470c6f65abf1dc20a8ec1ffa6c62d5da8e719fd80c0b3a8ef3a36c2f7b816d58
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2001-07-24-n7:2010-02-23'
+title: 'Version consolidée applicable au 23/12/2022 : Loi du 24 juillet 2001 portant création d''un établissement public nommé Centre Culturel de Rencontre Abbaye de Neumünster.'
+valid_from: '2010-02-23'
+valid_to: '2022-12-22'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7/consolide/20100223/fr'
+source_sha256: '470c6f65abf1dc20a8ec1ffa6c62d5da8e719fd80c0b3a8ef3a36c2f7b816d58'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

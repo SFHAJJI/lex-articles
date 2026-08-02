@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-10-29-a869:2021-12-20
-title: Version consolidée applicable au 01/04/2022 : Loi du 29 octobre 2020 portant :\n1° dérogation à l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;\n2° modification de la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire ;\n3° modification de la loi modifiée du 23 juillet 2016 portant création d’une réserve nationale des employés enseignants des lycées.\n
-valid_from: 2021-12-20
-valid_to: 2022-03-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/10/29/a869/consolide/20211220/fr
-source_sha256: 74d33b4ad428c739f637c5d3f3789ee3f4bd57eba089a4b41a14b26cd92c5c2a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-10-29-a869:2021-12-20'
+title: 'Version consolidée applicable au 01/04/2022 : Loi du 29 octobre 2020 portant :\n1° dérogation à l’article 27 de la loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental ;\n2° modification de la loi modifiée du 29 juin 2005 fixant les cadres du personnel des établissements d’enseignement secondaire ;\n3° modification de la loi modifiée du 23 juillet 2016 portant création d’une réserve nationale des employés enseignants des lycées.\n'
+valid_from: '2021-12-20'
+valid_to: '2022-03-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/10/29/a869/consolide/20211220/fr'
+source_sha256: '74d33b4ad428c739f637c5d3f3789ee3f4bd57eba089a4b41a14b26cd92c5c2a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

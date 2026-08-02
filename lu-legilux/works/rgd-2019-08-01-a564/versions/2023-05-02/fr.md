@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-08-01-a564:2023-05-02
-title: Version consolidée applicable au 02/05/2023 : Règlement grand-ducal du 1er août 2019\n1. fixant les modalités pour accorder et retirer le droit de former un apprenti et\n2. relatif à la prorogation et à la résiliation du contrat d’apprentissage ;\n3. abrogeant le règlement grand-ducal du 3 août 2010 fixant les modalités pour accorder et retirer le droit de former un apprenti ;\n4. et abrogeant le règlement grand-ducal du 3 août 2010 relatif à la prorogation et à la résiliation du contrat d’apprentissage.\n
-valid_from: 2023-05-02
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/consolide/20230502/fr
-source_sha256: 26cfa6b34b1cede38f738e777cce88d398245ed28c66758fa856e6b3ddd6de42
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-08-01-a564:2023-05-02'
+title: 'Version consolidée applicable au 02/05/2023 : Règlement grand-ducal du 1er août 2019\n1. fixant les modalités pour accorder et retirer le droit de former un apprenti et\n2. relatif à la prorogation et à la résiliation du contrat d’apprentissage ;\n3. abrogeant le règlement grand-ducal du 3 août 2010 fixant les modalités pour accorder et retirer le droit de former un apprenti ;\n4. et abrogeant le règlement grand-ducal du 3 août 2010 relatif à la prorogation et à la résiliation du contrat d’apprentissage.\n'
+valid_from: '2023-05-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/consolide/20230502/fr'
+source_sha256: '26cfa6b34b1cede38f738e777cce88d398245ed28c66758fa856e6b3ddd6de42'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre ****1er ** — **Le droit de former un apprenti**

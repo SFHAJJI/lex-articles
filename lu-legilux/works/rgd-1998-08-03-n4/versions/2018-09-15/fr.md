@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1998-08-03-n4:2018-09-15
-title: Nouveau Code de procédure civile
-valid_from: 2018-09-15
-valid_to: 2018-12-31
-source: https://legilux.public.lu/eli/etat/leg/code/procedure_civile/20180915/fr
-source_sha256: d838b4ea6f3335bdfb168306c01780fb1557d29d6e0c92597831b242d8e785f2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1998-08-03-n4:2018-09-15'
+title: 'Nouveau Code de procédure civile'
+valid_from: '2018-09-15'
+valid_to: '2018-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/code/procedure_civile/20180915/fr'
+source_sha256: 'd838b4ea6f3335bdfb168306c01780fb1557d29d6e0c92597831b242d8e785f2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## 1. PREMIERE PARTIE. — Procédure devant les tribunaux

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2012-12-26-n14:2023-05-01
-title: Version consolidée applicable au 01/05/2023 : Règlement grand-ducal du 26 décembre 2012 fixant le tarif des préparations galéniques et les honoraires des pharmaciens.
-valid_from: 2023-05-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14/consolide/20230501/fr
-source_sha256: f9d9fba799bfb208f7dd8c27fa2dbec8fd5c2c48636744bb063123d102e14b45
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2012-12-26-n14:2023-05-01'
+title: 'Version consolidée applicable au 01/05/2023 : Règlement grand-ducal du 26 décembre 2012 fixant le tarif des préparations galéniques et les honoraires des pharmaciens.'
+valid_from: '2023-05-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14/consolide/20230501/fr'
+source_sha256: 'f9d9fba799bfb208f7dd8c27fa2dbec8fd5c2c48636744bb063123d102e14b45'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

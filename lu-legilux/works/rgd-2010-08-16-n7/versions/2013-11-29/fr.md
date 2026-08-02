@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-08-16-n7:2013-11-29
-title: Version consolidée applicable au 01/11/2012 : Règlement grand-ducal du 16 août 2010 ayant pour objet  a) la transposition en droit national de la directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007 relative à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le système ferroviaire dans la Communauté;  b) de créer un cadre réglementaire relatif à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le réseau ferré luxembourgeois.
-valid_from: 2013-11-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n7/consolide/20131129/fr
-source_sha256: b516547573f08c69680ac27447f5b12182a85711ecd5c7d1908e4b647809ea7e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-08-16-n7:2013-11-29'
+title: 'Version consolidée applicable au 01/11/2012 : Règlement grand-ducal du 16 août 2010 ayant pour objet  a) la transposition en droit national de la directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007 relative à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le système ferroviaire dans la Communauté;  b) de créer un cadre réglementaire relatif à la certification des conducteurs de train assurant la conduite de locomotives et de trains sur le réseau ferré luxembourgeois.'
+valid_from: '2013-11-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n7/consolide/20131129/fr'
+source_sha256: 'b516547573f08c69680ac27447f5b12182a85711ecd5c7d1908e4b647809ea7e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier**. — **Objectif**

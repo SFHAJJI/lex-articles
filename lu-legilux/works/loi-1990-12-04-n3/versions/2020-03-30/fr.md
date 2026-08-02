@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1990-12-04-n3:2020-03-30
-title: Version consolidée applicable au 22/08/2023 : Loi du 4 décembre 1990 portant organisation du service des huissiers de justice.
-valid_from: 2020-03-30
-valid_to: 2020-04-06
-source: https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/20200330/fr
-source_sha256: a4c1fd0f953c24d396a723f30e0c666c223c6fd6b33ba49270e85f1f9043d956
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1990-12-04-n3:2020-03-30'
+title: 'Version consolidée applicable au 22/08/2023 : Loi du 4 décembre 1990 portant organisation du service des huissiers de justice.'
+valid_from: '2020-03-30'
+valid_to: '2020-04-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/20200330/fr'
+source_sha256: 'a4c1fd0f953c24d396a723f30e0c666c223c6fd6b33ba49270e85f1f9043d956'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Du titre, de la nomination, du serment, de la résidence, de la cessation des fonctions et de l'association entre huissiers de justice

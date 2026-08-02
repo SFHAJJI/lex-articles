@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-07-14-a411:2025-02-01
-title: Loi du 14 juillet 2023 portant mise en place d’un mécanisme de filtrage des investissements directs étrangers susceptibles de porter atteinte à la sécurité ou à l’ordre public.
-valid_from: 2025-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/07/14/a411/consolide/20250201/fr
-source_sha256: 56b7c00dc951d0a6b0a98e11203c535aaacc3235150b66b140a4334c24ba887f
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-07-14-a411:2025-02-01'
+title: 'Loi du 14 juillet 2023 portant mise en place d’un mécanisme de filtrage des investissements directs étrangers susceptibles de porter atteinte à la sécurité ou à l’ordre public.'
+valid_from: '2025-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/07/14/a411/consolide/20250201/fr'
+source_sha256: '56b7c00dc951d0a6b0a98e11203c535aaacc3235150b66b140a4334c24ba887f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1 — Mécanisme de filtrage national des investissements directs étrangers susceptibles de porter atteinte à la sécurité ou à l’ordre public

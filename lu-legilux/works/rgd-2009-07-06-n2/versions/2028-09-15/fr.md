@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-07-06-n2:2028-09-15
-title: Version consolidée applicable au 15/09/2030 : Règlement grand-ducal du 6 juillet 2009 déterminant les modalités d’évaluation des élèves ainsi que le contenu du dossier d’évaluation.
-valid_from: 2028-09-15
-valid_to: 2029-09-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/07/06/n2/consolide/20280915/fr
-source_sha256: e0f0a4990945f8aa046bc78c731d64f19fe1d18608975422bd79dd986bf3fba8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-07-06-n2:2028-09-15'
+title: 'Version consolidée applicable au 15/09/2030 : Règlement grand-ducal du 6 juillet 2009 déterminant les modalités d’évaluation des élèves ainsi que le contenu du dossier d’évaluation.'
+valid_from: '2028-09-15'
+valid_to: '2029-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/07/06/n2/consolide/20280915/fr'
+source_sha256: 'e0f0a4990945f8aa046bc78c731d64f19fe1d18608975422bd79dd986bf3fba8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Généralités

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2006-11-10-n4:2011-09-03
-title: Version consolidée applicable au 09/12/2010 : Règlement grand-ducal du 10 novembre 2006 portant exécution des articles 1er et 2 de la loi du 8 septembre 1998 réglant les relations entre l'Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique pour ce qui concerne l'agrément à accorder aux personnes physiques ou aux personnes morales entreprenant ou exerçant une activité de consultation, de formation, de conseil, de médiation, d'accueil et d'animation pour familles.
-valid_from: 2011-09-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2006/11/10/n4/consolide/20110903/fr
-source_sha256: fb3622845c7a7c5d19db5fd6a36423dbd0cb01a4be8855148c32f3c160eab746
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2006-11-10-n4:2011-09-03'
+title: 'Version consolidée applicable au 09/12/2010 : Règlement grand-ducal du 10 novembre 2006 portant exécution des articles 1er et 2 de la loi du 8 septembre 1998 réglant les relations entre l''Etat et les organismes oeuvrant dans les domaines social, familial et thérapeutique pour ce qui concerne l''agrément à accorder aux personnes physiques ou aux personnes morales entreprenant ou exerçant une activité de consultation, de formation, de conseil, de médiation, d''accueil et d''animation pour familles.'
+valid_from: '2011-09-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2006/11/10/n4/consolide/20110903/fr'
+source_sha256: 'fb3622845c7a7c5d19db5fd6a36423dbd0cb01a4be8855148c32f3c160eab746'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre I.** — ** Objet et définitions**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-08-26-a470:2022-08-30
-title: Règlement grand-ducal du 26 août 2022 fixant les calendriers des vacances et congés scolaires pour les années scolaires 2022/2023, 2023/2024 et 2024/2025.
-valid_from: 2022-08-30
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/08/26/a470/consolide/20220830/fr
-source_sha256: b7e489429fd82e8b676961d26b6537ab815a7fdee9fd812307f4df66a5fcef97
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-08-26-a470:2022-08-30'
+title: 'Règlement grand-ducal du 26 août 2022 fixant les calendriers des vacances et congés scolaires pour les années scolaires 2022/2023, 2023/2024 et 2024/2025.'
+valid_from: '2022-08-30'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/08/26/a470/consolide/20220830/fr'
+source_sha256: 'b7e489429fd82e8b676961d26b6537ab815a7fdee9fd812307f4df66a5fcef97'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

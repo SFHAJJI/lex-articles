@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1953-06-26-n1:2003-12-01
-title: Version consolidée applicable au 01/12/2003 : Loi du 26 juin 1953 concernant la désignation des personnes et des biens dans les actes à transcrire ou à inscrire au bureau des hypothèques.
-valid_from: 2003-12-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1953/06/26/n1/consolide/20031201/fr
-source_sha256: b72a6e0611378f2d9a1c430a1c122ee844fac9f46097a5fbfe10f10d7f2e3835
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1953-06-26-n1:2003-12-01'
+title: 'Version consolidée applicable au 01/12/2003 : Loi du 26 juin 1953 concernant la désignation des personnes et des biens dans les actes à transcrire ou à inscrire au bureau des hypothèques.'
+valid_from: '2003-12-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1953/06/26/n1/consolide/20031201/fr'
+source_sha256: 'b72a6e0611378f2d9a1c430a1c122ee844fac9f46097a5fbfe10f10d7f2e3835'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## *Titre Ier.*

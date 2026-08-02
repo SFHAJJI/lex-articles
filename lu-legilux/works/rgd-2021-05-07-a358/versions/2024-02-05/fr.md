@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-05-07-a358:2024-02-05
-title: Version consolidée applicable au 05/02/2024 : Règlement grand-ducal du 7 mai 2021 concernant les limitations de la vitesse dérogatoires sur les voies publiques faisant partie de la voirie normale de l’État en dehors des agglomérations et abrogeant le règlement grand-ducal du 23 mai 2018 concernant les limitations de la vitesse dérogatoires sur les voies publiques faisant partie de la voirie normale de l’État en dehors des agglomérations.
-valid_from: 2024-02-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/05/07/a358/consolide/20240205/fr
-source_sha256: e08e77c81e00901b12f4ab36bb895582725b066cce5b6b0f4896f92d2a733f40
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-05-07-a358:2024-02-05'
+title: 'Version consolidée applicable au 05/02/2024 : Règlement grand-ducal du 7 mai 2021 concernant les limitations de la vitesse dérogatoires sur les voies publiques faisant partie de la voirie normale de l’État en dehors des agglomérations et abrogeant le règlement grand-ducal du 23 mai 2018 concernant les limitations de la vitesse dérogatoires sur les voies publiques faisant partie de la voirie normale de l’État en dehors des agglomérations.'
+valid_from: '2024-02-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/05/07/a358/consolide/20240205/fr'
+source_sha256: 'e08e77c81e00901b12f4ab36bb895582725b066cce5b6b0f4896f92d2a733f40'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

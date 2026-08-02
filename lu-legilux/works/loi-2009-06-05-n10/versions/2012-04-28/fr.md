@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-06-05-n10:2012-04-28
-title: Loi modifiée du 5 juin 2009 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs.
-valid_from: 2012-04-28
-valid_to: 2020-09-07
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n10/consolide/20120428/fr
-source_sha256: 28df03b94f88f8e0fc3bf04a854c0d0abf3dc5e6ec2cd18603246fda6dcd78a8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-06-05-n10:2012-04-28'
+title: 'Loi modifiée du 5 juin 2009 relative à la qualification initiale et à la formation continue des conducteurs de certains véhicules routiers affectés aux transports de marchandises ou de voyageurs.'
+valid_from: '2012-04-28'
+valid_to: '2020-09-07'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n10/consolide/20120428/fr'
+source_sha256: '28df03b94f88f8e0fc3bf04a854c0d0abf3dc5e6ec2cd18603246fda6dcd78a8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

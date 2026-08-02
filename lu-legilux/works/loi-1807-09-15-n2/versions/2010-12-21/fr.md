@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1807-09-15-n2:2010-12-21
-title: loi-1807-09-15-n2
-valid_from: 2010-12-21
-valid_to: 2015-07-31
-source: https://legilux.public.lu/eli/etat/leg/code/commerce/20101221/fr
-source_sha256: 076cf971ae5a8baa853b8d1c051af4ed3395e0da68d8e2a088d95c13df8560a4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1807-09-15-n2:2010-12-21'
+title: 'loi-1807-09-15-n2'
+valid_from: '2010-12-21'
+valid_to: '2015-07-31'
+source: 'https://legilux.public.lu/eli/etat/leg/code/commerce/20101221/fr'
+source_sha256: '076cf971ae5a8baa853b8d1c051af4ed3395e0da68d8e2a088d95c13df8560a4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Livre Ier. — Du commerce en général

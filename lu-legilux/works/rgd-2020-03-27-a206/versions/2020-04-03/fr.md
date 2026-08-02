@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-03-27-a206:2020-04-03
-title: Version consolidée applicable au 03/04/2020 : Règlement grand-ducal du 27 mars 2020 portant dérogation aux articles L.521-9., L.521-11., L.524-5., L.543-11., L.543-20., L.552-2. du Code du travail et aux articles 8 et 10 du règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail.
-valid_from: 2020-04-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/consolide/20200403/fr
-source_sha256: eb3ab839c7a14fa30125c614e218f9f6dd10548b8cf7e83318c848ec6c142d97
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-03-27-a206:2020-04-03'
+title: 'Version consolidée applicable au 03/04/2020 : Règlement grand-ducal du 27 mars 2020 portant dérogation aux articles L.521-9., L.521-11., L.524-5., L.543-11., L.543-20., L.552-2. du Code du travail et aux articles 8 et 10 du règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail.'
+valid_from: '2020-04-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/consolide/20200403/fr'
+source_sha256: 'eb3ab839c7a14fa30125c614e218f9f6dd10548b8cf7e83318c848ec6c142d97'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

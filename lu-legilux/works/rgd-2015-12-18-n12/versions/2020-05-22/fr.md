@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-12-18-n12:2020-05-22
-title: Version consolidée applicable au 22/05/2020 : Règlement grand-ducal du 18 décembre 2015 déterminant les modalités du concours réglant l'admission au stage préparant à la fonction d'instituteur de l'enseignement fondamental.
-valid_from: 2020-05-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n12/consolide/20200522/fr
-source_sha256: 78837e14121c607cee7a3fe3665d102ad75525694b9d6ef81336d4308d98e598
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-12-18-n12:2020-05-22'
+title: 'Version consolidée applicable au 22/05/2020 : Règlement grand-ducal du 18 décembre 2015 déterminant les modalités du concours réglant l''admission au stage préparant à la fonction d''instituteur de l''enseignement fondamental.'
+valid_from: '2020-05-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n12/consolide/20200522/fr'
+source_sha256: '78837e14121c607cee7a3fe3665d102ad75525694b9d6ef81336d4308d98e598'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Les critères d’admissibilité au concours.

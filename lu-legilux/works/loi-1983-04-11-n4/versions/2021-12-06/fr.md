@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1983-04-11-n4:2021-12-06
-title: Version consolidée applicable au 01/02/2026 : Loi du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués.
-valid_from: 2021-12-06
-valid_to: 2025-11-24
-source: https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/consolide/20211206/fr
-source_sha256: ca0cccd0426cf4d3b0068d3d2353a4fa1a5df42cdca33803d01e83b92f046670
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1983-04-11-n4:2021-12-06'
+title: 'Version consolidée applicable au 01/02/2026 : Loi du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués.'
+valid_from: '2021-12-06'
+valid_to: '2025-11-24'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/consolide/20211206/fr'
+source_sha256: 'ca0cccd0426cf4d3b0068d3d2353a4fa1a5df42cdca33803d01e83b92f046670'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier — Dispositions générales

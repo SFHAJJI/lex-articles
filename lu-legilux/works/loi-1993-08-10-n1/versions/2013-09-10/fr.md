@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1993-08-10-n1:2013-09-10
-title: Version consolidée applicable au 03/10/2015 : Loi du 10 août 1993 relative aux parcs naturels.
-valid_from: 2013-09-10
-valid_to: 2015-10-02
-source: https://legilux.public.lu/eli/etat/leg/loi/1993/08/10/n1/consolide/20130910/fr
-source_sha256: 6418e9d2b3dfee645d3de48c4771dcaaf32e9408319c5cf5dc738314d9b6696c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1993-08-10-n1:2013-09-10'
+title: 'Version consolidée applicable au 03/10/2015 : Loi du 10 août 1993 relative aux parcs naturels.'
+valid_from: '2013-09-10'
+valid_to: '2015-10-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1993/08/10/n1/consolide/20130910/fr'
+source_sha256: '6418e9d2b3dfee645d3de48c4771dcaaf32e9408319c5cf5dc738314d9b6696c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I — Définition, objectifs et création des parcs naturels

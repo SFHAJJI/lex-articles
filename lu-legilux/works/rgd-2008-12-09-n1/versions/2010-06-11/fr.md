@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-12-09-n1:2010-06-11
-title: Version consolidée applicable au 11/06/2010 : Règlement grand-ducal du 9 décembre 2008 ayant pour objet la désignation des délégués des institutions et juridictions de sécurité sociale.
-valid_from: 2010-06-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/consolide/20100611/fr
-source_sha256: d127a53d10dca666f2bd86737e109382802167bb93a5484cb7656811f14e9ce3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-12-09-n1:2010-06-11'
+title: 'Version consolidée applicable au 11/06/2010 : Règlement grand-ducal du 9 décembre 2008 ayant pour objet la désignation des délégués des institutions et juridictions de sécurité sociale.'
+valid_from: '2010-06-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/12/09/n1/consolide/20100611/fr'
+source_sha256: 'd127a53d10dca666f2bd86737e109382802167bb93a5484cb7656811f14e9ce3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Désignation des délégués des institutions et juridictions de sécurité sociale

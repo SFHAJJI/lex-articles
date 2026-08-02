@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2007-12-21-n1:2012-07-09
-title: Version consolidée applicable au 20/04/2015 : Loi du 21 décembre 2007 portant\n1. transposition de la directive 2004/113/CE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de l’égalité de traitement entre les femmes et les hommes dans l’accès à des biens et services et la fourniture de biens et services;\n2. modification du Code Pénal;\n3. modification de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance.
-valid_from: 2012-07-09
-valid_to: 2015-04-19
-source: https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/consolide/20120709/fr
-source_sha256: ee9e6a11dfb2cfb686dfdf99a167a8a26f37de35791ed5480dd9158b89d6426b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2007-12-21-n1:2012-07-09'
+title: 'Version consolidée applicable au 20/04/2015 : Loi du 21 décembre 2007 portant\n1. transposition de la directive 2004/113/CE du Conseil du 13 décembre 2004 mettant en oeuvre le principe de l’égalité de traitement entre les femmes et les hommes dans l’accès à des biens et services et la fourniture de biens et services;\n2. modification du Code Pénal;\n3. modification de la loi modifiée du 27 juillet 1997 sur le contrat d’assurance.'
+valid_from: '2012-07-09'
+valid_to: '2015-04-19'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/consolide/20120709/fr'
+source_sha256: 'ee9e6a11dfb2cfb686dfdf99a167a8a26f37de35791ed5480dd9158b89d6426b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions générales

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-05-31-n8:2018-09-18
-title: Version consolidée applicable au 18/09/2018 : Loi du 31 mai 1999 portant création d’un fonds national de la recherche dans le secteur public.
-valid_from: 2018-09-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n8/consolide/20180918/fr
-source_sha256: 7a4cf573ad0d1db1fb247d4068ea8f8df5096698dfdd879f5fdb415aa0843c04
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-05-31-n8:2018-09-18'
+title: 'Version consolidée applicable au 18/09/2018 : Loi du 31 mai 1999 portant création d’un fonds national de la recherche dans le secteur public.'
+valid_from: '2018-09-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n8/consolide/20180918/fr'
+source_sha256: '7a4cf573ad0d1db1fb247d4068ea8f8df5096698dfdd879f5fdb415aa0843c04'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre I — Fonds national de la Recherche

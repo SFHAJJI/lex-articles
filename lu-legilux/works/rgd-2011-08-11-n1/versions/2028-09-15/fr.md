@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-08-11-n1:2028-09-15
-title: Version consolidée applicable au 15/09/2030 : Règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental.
-valid_from: 2028-09-15
-valid_to: 2029-09-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n1/consolide/20280915/fr
-source_sha256: 6f8d10f2861e7199a5b50675619a1bad3e7199cfd5f03f07beae6b1cb34a5a8e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-08-11-n1:2028-09-15'
+title: 'Version consolidée applicable au 15/09/2030 : Règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental.'
+valid_from: '2028-09-15'
+valid_to: '2029-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n1/consolide/20280915/fr'
+source_sha256: '6f8d10f2861e7199a5b50675619a1bad3e7199cfd5f03f07beae6b1cb34a5a8e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

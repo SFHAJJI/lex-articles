@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-12-23-n32:2024-04-12
-title: Version consolidée applicable au 12/04/2024 : Règlement grand-ducal du 23 décembre 2016 concernant le contrôle médico-sportif obligatoire des membres licenciés actifs des fédérations sportives agréées.
-valid_from: 2024-04-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/consolide/20240412/fr
-source_sha256: 2f192c1e670eeb4551adfe8cc0e726302dcbdc06a04c547b5e043fcae96d4e67
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-12-23-n32:2024-04-12'
+title: 'Version consolidée applicable au 12/04/2024 : Règlement grand-ducal du 23 décembre 2016 concernant le contrôle médico-sportif obligatoire des membres licenciés actifs des fédérations sportives agréées.'
+valid_from: '2024-04-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/consolide/20240412/fr'
+source_sha256: '2f192c1e670eeb4551adfe8cc0e726302dcbdc06a04c547b5e043fcae96d4e67'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

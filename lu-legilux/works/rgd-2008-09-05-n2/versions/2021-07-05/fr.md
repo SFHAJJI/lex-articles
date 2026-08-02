@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-09-05-n2:2021-07-05
-title: Version consolidée applicable au 05/07/2021 : Règlement grand-ducal du 5 septembre 2008 portant sur l'attestation de prise en charge en faveur d'un étranger prévue à l'article 4 de la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration.
-valid_from: 2021-07-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n2/consolide/20210705/fr
-source_sha256: 6d01c50547188aeb3b6d315482296b129668ff1ce9548199e6ad5cdab90db0f4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-09-05-n2:2021-07-05'
+title: 'Version consolidée applicable au 05/07/2021 : Règlement grand-ducal du 5 septembre 2008 portant sur l''attestation de prise en charge en faveur d''un étranger prévue à l''article 4 de la loi du 29 août 2008 sur la libre circulation des personnes et l''immigration.'
+valid_from: '2021-07-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n2/consolide/20210705/fr'
+source_sha256: '6d01c50547188aeb3b6d315482296b129668ff1ce9548199e6ad5cdab90db0f4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

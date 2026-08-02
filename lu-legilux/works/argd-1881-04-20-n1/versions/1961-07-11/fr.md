@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:argd-1881-04-20-n1:1961-07-11
-title: Version consolidée applicable au 11/07/1961 : Arrêté royal grand-ducal du 20 avril 1881, relatif au transport, au commerce et au dépôt de la poudre à tirer et des autres substances explosives.
-valid_from: 1961-07-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/argd/1881/04/20/n1/consolide/19610711/fr
-source_sha256: 8ba3045498bc77c511fbc8b3cf12970a209144ab3020c9fc97bdc1616de06247
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:argd-1881-04-20-n1:1961-07-11'
+title: 'Version consolidée applicable au 11/07/1961 : Arrêté royal grand-ducal du 20 avril 1881, relatif au transport, au commerce et au dépôt de la poudre à tirer et des autres substances explosives.'
+valid_from: '1961-07-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/argd/1881/04/20/n1/consolide/19610711/fr'
+source_sha256: '8ba3045498bc77c511fbc8b3cf12970a209144ab3020c9fc97bdc1616de06247'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-05-24-n6:2015-09-14
-title: Version consolidée applicable au 14/09/2015 : Règlement grand-ducal du 24 mai 2013 concernant le fonctionnement de l'Ecole de l'Armée.
-valid_from: 2015-09-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/05/24/n6/consolide/20150914/fr
-source_sha256: 2733bfaeadabfa27b44ea0186c271682f83ba825adfa3498d07506bd88289fa5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-05-24-n6:2015-09-14'
+title: 'Version consolidée applicable au 14/09/2015 : Règlement grand-ducal du 24 mai 2013 concernant le fonctionnement de l''Ecole de l''Armée.'
+valid_from: '2015-09-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/05/24/n6/consolide/20150914/fr'
+source_sha256: '2733bfaeadabfa27b44ea0186c271682f83ba825adfa3498d07506bd88289fa5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Objectifs

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2022-05-23-a281:2022-10-23
-title: Version consolidée applicable au 23/10/2022 : Règlement grand-ducal du 23 mai 2022 concernant la réglementation de la circulation sur la grande voirie et les aires de service.
-valid_from: 2022-10-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/consolide/20221023/fr
-source_sha256: 5144a9363d6d4bb52b7d61e1559c14697bfe8a84470547583b338aafa399a989
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2022-05-23-a281:2022-10-23'
+title: 'Version consolidée applicable au 23/10/2022 : Règlement grand-ducal du 23 mai 2022 concernant la réglementation de la circulation sur la grande voirie et les aires de service.'
+valid_from: '2022-10-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/consolide/20221023/fr'
+source_sha256: '5144a9363d6d4bb52b7d61e1559c14697bfe8a84470547583b338aafa399a989'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2014-07-04-n2:2024-12-31
-title: Version consolidée applicable au 31/12/2024 : Loi du 4 juillet 2014\n- portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits,\n- modifiant\n* la loi modifiée du 17 mai 1882 sur les poids et mesures,\n* la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits,\n* la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie,\n* la loi du 25 mars 2009 relative à la compatibilité électromagnétique,\n* la loi modifiée du 27 mai 2010 relative aux machines,\n* la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et\n* la loi du 21 décembre 2012 concernant les équipements sous pression transportables,\n- abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.
-valid_from: 2024-12-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/consolide/20241231/fr
-source_sha256: 7809a25ed2e3341af09aeb65f854128b0c5a5942c1f0c53a55c876e47f29a510
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2014-07-04-n2:2024-12-31'
+title: 'Version consolidée applicable au 31/12/2024 : Loi du 4 juillet 2014\n- portant réorganisation de l’Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services et portant organisation du cadre général pour la surveillance du marché dans le contexte de la commercialisation des produits,\n- modifiant\n* la loi modifiée du 17 mai 1882 sur les poids et mesures,\n* la loi modifiée du 31 juillet 2006 relative à la sécurité générale des produits,\n* la loi modifiée du 19 décembre 2008 établissant un cadre pour la fixation d’exigences en matière d’écoconception applicables aux produits consommateurs d’énergie,\n* la loi du 25 mars 2009 relative à la compatibilité électromagnétique,\n* la loi modifiée du 27 mai 2010 relative aux machines,\n* la loi modifiée du 15 décembre 2010 relative à la sécurité des jouets, et\n* la loi du 21 décembre 2012 concernant les équipements sous pression transportables,\n- abrogeant la loi modifiée du 20 mai 2008 relative à la création d’un Institut luxembourgeois de la normalisation, de l’accréditation, de la sécurité et qualité des produits et services.'
+valid_from: '2024-12-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/consolide/20241231/fr'
+source_sha256: '7809a25ed2e3341af09aeb65f854128b0c5a5942c1f0c53a55c876e47f29a510'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## CHAPITRE Ier — ***Dispositions générales***

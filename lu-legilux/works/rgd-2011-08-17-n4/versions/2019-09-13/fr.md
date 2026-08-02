@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-08-17-n4:2019-09-13
-title: Version consolidée applicable au 13/09/2019 : Règlement grand-ducal du 17 août 2011 concernant l’agrément à accorder aux gestionnaires d’activités pour enfants, jeunes adultes et familles en détresse.
-valid_from: 2019-09-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n4/consolide/20190913/fr
-source_sha256: b263c98bbb69a9ba4bbb6b286525a83191cfa769e1a7a105eb2b4b84c697f3ba
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-08-17-n4:2019-09-13'
+title: 'Version consolidée applicable au 13/09/2019 : Règlement grand-ducal du 17 août 2011 concernant l’agrément à accorder aux gestionnaires d’activités pour enfants, jeunes adultes et familles en détresse.'
+valid_from: '2019-09-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n4/consolide/20190913/fr'
+source_sha256: 'b263c98bbb69a9ba4bbb6b286525a83191cfa769e1a7a105eb2b4b84c697f3ba'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er.** — **L’AGREMENT**

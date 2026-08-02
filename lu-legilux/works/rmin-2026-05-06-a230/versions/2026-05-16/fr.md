@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rmin-2026-05-06-a230:2026-05-16
-title: Version consolidée applicable au 16/05/2026 : Règlement ministériel du 6 mai 2026 interdisant les évolutions d’aéronefs sans équipage à bord le 16 et le 17 mai 2026 lors du « ING Night Marathon ».
-valid_from: 2026-05-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rmin/2026/05/06/a230/consolide/20260516/fr
-source_sha256: ff8338c133851fd3f011b5245e13eb8972b9968f5e7e72cd6649821822655f4b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rmin-2026-05-06-a230:2026-05-16'
+title: 'Version consolidée applicable au 16/05/2026 : Règlement ministériel du 6 mai 2026 interdisant les évolutions d’aéronefs sans équipage à bord le 16 et le 17 mai 2026 lors du « ING Night Marathon ».'
+valid_from: '2026-05-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rmin/2026/05/06/a230/consolide/20260516/fr'
+source_sha256: 'ff8338c133851fd3f011b5245e13eb8972b9968f5e7e72cd6649821822655f4b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

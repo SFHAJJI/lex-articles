@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-07-31-a341:2026-02-23
-title: Version consolidée applicable au 23/02/2026 : Règlement grand-ducal du 31 juillet 2024 fixant les modalités d’application d’une aide sur les parcelles agricoles situées dans les zones de protection des eaux.
-valid_from: 2026-02-23
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a341/consolide/20260223/fr
-source_sha256: d5b01a33cf03f0ff9c3c03caad8fbb21a6b33bcee0263c890038a72052675e31
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-07-31-a341:2026-02-23'
+title: 'Version consolidée applicable au 23/02/2026 : Règlement grand-ducal du 31 juillet 2024 fixant les modalités d’application d’une aide sur les parcelles agricoles situées dans les zones de protection des eaux.'
+valid_from: '2026-02-23'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a341/consolide/20260223/fr'
+source_sha256: 'd5b01a33cf03f0ff9c3c03caad8fbb21a6b33bcee0263c890038a72052675e31'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Dispositions générales

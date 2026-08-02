@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2005-01-18-n3:2016-03-29
-title: Version consolidée applicable au 17/02/2023 : Règlement grand-ducal du 18 janvier 2005 déterminant le modèle du carnet à souches prévu à l'article 30-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.
-valid_from: 2016-03-29
-valid_to: 2018-09-27
-source: https://legilux.public.lu/eli/etat/leg/rgd/2005/01/18/n3/consolide/20160329/fr
-source_sha256: 3a42e720f029fe2f56de312c6b09e2d50932f1e3ee3993e4027800a17d9bc703
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2005-01-18-n3:2016-03-29'
+title: 'Version consolidée applicable au 17/02/2023 : Règlement grand-ducal du 18 janvier 2005 déterminant le modèle du carnet à souches prévu à l''article 30-1 de la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie.'
+valid_from: '2016-03-29'
+valid_to: '2018-09-27'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2005/01/18/n3/consolide/20160329/fr'
+source_sha256: '3a42e720f029fe2f56de312c6b09e2d50932f1e3ee3993e4027800a17d9bc703'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

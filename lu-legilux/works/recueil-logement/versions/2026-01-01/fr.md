@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-logement:2026-01-01
-title: Logement
-valid_from: 2026-01-01
-valid_to: 2026-01-03
-source: https://legilux.public.lu/eli/etat/leg/recueil/logement/20260101/fr
-source_sha256: 3fc128b21ec1d3b7960e621d8975e23e1a33b33a6f2cf02cc3c7407765bace68
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-logement:2026-01-01'
+title: 'Logement'
+valid_from: '2026-01-01'
+valid_to: '2026-01-03'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/logement/20260101/fr'
+source_sha256: '3fc128b21ec1d3b7960e621d8975e23e1a33b33a6f2cf02cc3c7407765bace68'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **I. AIDES INDIVIDUELLES**

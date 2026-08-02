@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1993-03-17-n2:2010-12-28
-title: Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 déterminant les modalités d'attribution des permissions pour les servicess de télévision et de télétexte diffusé et services y assimilés, ainsi que les règles générales gouvernant ces permissions et les cahiers de charges qui leur sont assortis.
-valid_from: 2010-12-28
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/consolide/20101228/fr
-source_sha256: 58578c0aa6596065ea6bed9565b72a0b851efae77801af97aa103722ad54b587
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1993-03-17-n2:2010-12-28'
+title: 'Version consolidée applicable au 28/12/2010 : Règlement grand-ducal du 17 mars 1993 déterminant les modalités d''attribution des permissions pour les servicess de télévision et de télétexte diffusé et services y assimilés, ainsi que les règles générales gouvernant ces permissions et les cahiers de charges qui leur sont assortis.'
+valid_from: '2010-12-28'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/consolide/20101228/fr'
+source_sha256: '58578c0aa6596065ea6bed9565b72a0b851efae77801af97aa103722ad54b587'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

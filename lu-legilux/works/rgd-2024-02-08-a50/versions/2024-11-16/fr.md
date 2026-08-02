@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-02-08-a50:2024-11-16
-title: Version consolidée applicable au 08/02/2026 : Règlement grand-ducal du 8 février 2024 arrêtant les projets à subventionner dans le cadre du onzième programme quinquennal d’équipement de l’infrastructure touristique.
-valid_from: 2024-11-16
-valid_to: 2026-02-07
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/consolide/20241116/fr
-source_sha256: fcea7cb4ce214bcd0d12d843c4afc14d21667a152cc7af7a0e23534ac6d3b559
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-02-08-a50:2024-11-16'
+title: 'Version consolidée applicable au 08/02/2026 : Règlement grand-ducal du 8 février 2024 arrêtant les projets à subventionner dans le cadre du onzième programme quinquennal d’équipement de l’infrastructure touristique.'
+valid_from: '2024-11-16'
+valid_to: '2026-02-07'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/consolide/20241116/fr'
+source_sha256: 'fcea7cb4ce214bcd0d12d843c4afc14d21667a152cc7af7a0e23534ac6d3b559'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1873-04-30-n1:2016-09-01
-title: Version consolidée applicable au 01/09/2016 : Loi du 30 avril 1873 ayant pour objet la création d’un évêché de Luxembourg.
-valid_from: 2016-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1873/04/30/n1/consolide/20160901/fr
-source_sha256: 25f961b4691b84762c94bbd79bc2e6494b6d8c4d5d66d974365025ca94f79614
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1873-04-30-n1:2016-09-01'
+title: 'Version consolidée applicable au 01/09/2016 : Loi du 30 avril 1873 ayant pour objet la création d’un évêché de Luxembourg.'
+valid_from: '2016-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1873/04/30/n1/consolide/20160901/fr'
+source_sha256: '25f961b4691b84762c94bbd79bc2e6494b6d8c4d5d66d974365025ca94f79614'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

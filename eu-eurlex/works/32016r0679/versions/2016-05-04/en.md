@@ -1,13 +1,13 @@
 ---
-lex_id: eu-eurlex:32016r0679:2016-05-04
-title: GDPR — Regulation (EU) 2016/679
-valid_from: 2016-05-04
-valid_to: open
-source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504
-source_sha256: 28524c5589d9c80dee357fe96498302b4fefb29b3cc9ada7dcad52c967e3f15c
-license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
-attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: fmx4-eu/1 · lex derive
+lex_id: 'eu-eurlex:32016r0679:2016-05-04'
+title: 'GDPR — Regulation (EU) 2016/679'
+valid_from: '2016-05-04'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504'
+source_sha256: '28524c5589d9c80dee357fe96498302b4fefb29b3cc9ada7dcad52c967e3f15c'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'fmx4-eu/1 · lex derive'
 ---
 
 ## CHAPTER I — General provisions

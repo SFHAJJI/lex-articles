@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2010-08-03-n20:2015-10-13
-title: Version consolidée applicable au 13/10/2015 : Règlement grand-ducal du 3 août 2010 portant déclaration d'obligation générale de la convention collective de travail pour le personnel du secteur «nettoyage de bâtiments» conclue entre la Fédération Luxembourgeoise des Entreprises de Nettoyage de Bâtiments, d'une part, et le syndicat OGB-L, d'autre part.
-valid_from: 2015-10-13
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2010/08/03/n20/consolide/20151013/fr
-source_sha256: 111472af246407cc79ebe05a20500b4d29c23e7230fb9a9702889a5d965aa9e1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2010-08-03-n20:2015-10-13'
+title: 'Version consolidée applicable au 13/10/2015 : Règlement grand-ducal du 3 août 2010 portant déclaration d''obligation générale de la convention collective de travail pour le personnel du secteur «nettoyage de bâtiments» conclue entre la Fédération Luxembourgeoise des Entreprises de Nettoyage de Bâtiments, d''une part, et le syndicat OGB-L, d''autre part.'
+valid_from: '2015-10-13'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2010/08/03/n20/consolide/20151013/fr'
+source_sha256: '111472af246407cc79ebe05a20500b4d29c23e7230fb9a9702889a5d965aa9e1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

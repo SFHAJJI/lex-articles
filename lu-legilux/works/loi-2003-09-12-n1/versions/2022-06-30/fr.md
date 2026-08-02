@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2003-09-12-n1:2022-06-30
-title: Version consolidée applicable au 01/01/2025 : Loi du 12 septembre 2003 relative aux personnes handicapées et portant modification 1. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat, 2. de la loi du 22 avril 1966 portant réglementation uniforme du congé annuel payé des salariés du secteur privé, 3. de la loi modifiée du 12 mars 1973 portant réforme du salaire social minimum, 4. de la loi modifiée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet, 5. de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations familiales, 6. de la loi modifiée du 27 juillet 1987 concernant l'assurance pension en cas de vieillesse, d'invalidité et de survie, 7. de la loi modifiée du 3 août 1998 instituant des régimes spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la SNCFL, 8. de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension et 9. le CAS.
-valid_from: 2022-06-30
-valid_to: 2022-12-07
-source: https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/consolide/20220630/fr
-source_sha256: 078e6d07eb832428b81344e504caa57fc644efca2918742986b1ab9bb4594178
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2003-09-12-n1:2022-06-30'
+title: 'Version consolidée applicable au 01/01/2025 : Loi du 12 septembre 2003 relative aux personnes handicapées et portant modification 1. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l''Etat, 2. de la loi du 22 avril 1966 portant réglementation uniforme du congé annuel payé des salariés du secteur privé, 3. de la loi modifiée du 12 mars 1973 portant réforme du salaire social minimum, 4. de la loi modifiée du 30 juin 1976 portant 1. création d''un fonds pour l''emploi; 2. réglementation de l''octroi des indemnités de chômage complet, 5. de la loi modifiée du 19 juin 1985 concernant les allocations familiales et portant création de la caisse nationale des prestations familiales, 6. de la loi modifiée du 27 juillet 1987 concernant l''assurance pension en cas de vieillesse, d''invalidité et de survie, 7. de la loi modifiée du 3 août 1998 instituant des régimes spéciaux pour les fonctionnaires de l''Etat et des communes ainsi que pour les agents de la SNCFL, 8. de la loi modifiée du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension et 9. le CAS.'
+valid_from: '2022-06-30'
+valid_to: '2022-12-07'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/consolide/20220630/fr'
+source_sha256: '078e6d07eb832428b81344e504caa57fc644efca2918742986b1ab9bb4594178'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Dispositions générales.

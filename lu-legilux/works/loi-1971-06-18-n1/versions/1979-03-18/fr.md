@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1971-06-18-n1:1979-03-18
-title: Version consolidée applicable au 18/03/1979 : Loi du 18 juin 1971 portant approbation de la Convention sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de nationalités, ouverte à la signature à Strasbourg, le 6 mai 1963.
-valid_from: 1979-03-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1971/06/18/n1/consolide/19790318/fr
-source_sha256: 46d8e7319e0c2ef77de1dbee1f84b21d3897f52ba3e940eb42f526761a52b3b9
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1971-06-18-n1:1979-03-18'
+title: 'Version consolidée applicable au 18/03/1979 : Loi du 18 juin 1971 portant approbation de la Convention sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de nationalités, ouverte à la signature à Strasbourg, le 6 mai 1963.'
+valid_from: '1979-03-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1971/06/18/n1/consolide/19790318/fr'
+source_sha256: '46d8e7319e0c2ef77de1dbee1f84b21d3897f52ba3e940eb42f526761a52b3b9'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="article_unique"></a>

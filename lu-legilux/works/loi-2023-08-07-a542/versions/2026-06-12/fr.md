@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-08-07-a542:2026-06-12
-title: Version consolidée applicable au 12/06/2026 : Loi du 7 août 2023 portant organisation de l’assistance judiciaire et portant abrogation de l’article 37-1 de la loi modifiée du 10 août 1991 sur la profession d’avocat.
-valid_from: 2026-06-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542/consolide/20260612/fr
-source_sha256: f62ad38a90a774f2eff1938974c6ee195ccfea779388e2a429932ba8f0e8876a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-08-07-a542:2026-06-12'
+title: 'Version consolidée applicable au 12/06/2026 : Loi du 7 août 2023 portant organisation de l’assistance judiciaire et portant abrogation de l’article 37-1 de la loi modifiée du 10 août 1991 sur la profession d’avocat.'
+valid_from: '2026-06-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542/consolide/20260612/fr'
+source_sha256: 'f62ad38a90a774f2eff1938974c6ee195ccfea779388e2a429932ba8f0e8876a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1.er — L’autorité compétente en matière d’assistance judiciaire

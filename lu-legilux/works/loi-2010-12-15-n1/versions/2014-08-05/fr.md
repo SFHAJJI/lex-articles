@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2010-12-15-n1:2014-08-05
-title: Version consolidée applicable au 20/04/2016 : Loi du 15 décembre 2010 relative à la sécurité des jouets.
-valid_from: 2014-08-05
-valid_to: 2016-04-19
-source: https://legilux.public.lu/eli/etat/leg/loi/2010/12/15/n1/consolide/20140805/fr
-source_sha256: ffbe0a0832b4d80f28d635565b30bbf32592dc2796c1d231bdbfa8312cac3a44
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2010-12-15-n1:2014-08-05'
+title: 'Version consolidée applicable au 20/04/2016 : Loi du 15 décembre 2010 relative à la sécurité des jouets.'
+valid_from: '2014-08-05'
+valid_to: '2016-04-19'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/12/15/n1/consolide/20140805/fr'
+source_sha256: 'ffbe0a0832b4d80f28d635565b30bbf32592dc2796c1d231bdbfa8312cac3a44'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er.** — **Dispositions générales**

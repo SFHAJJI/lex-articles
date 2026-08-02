@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1906-06-27-n3:1993-09-10
-title: Version consolidée applicable au 03/04/2017 : Loi du 27 juin 1906, concernant la protection de la santé publique.
-valid_from: 1993-09-10
-valid_to: 2017-04-02
-source: https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/19930910/fr
-source_sha256: 69b267482e24f993ea341d2a25ec446ac3da3c06a86bb911ab153ba040b52b4d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1906-06-27-n3:1993-09-10'
+title: 'Version consolidée applicable au 03/04/2017 : Loi du 27 juin 1906, concernant la protection de la santé publique.'
+valid_from: '1993-09-10'
+valid_to: '2017-04-02'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/19930910/fr'
+source_sha256: '69b267482e24f993ea341d2a25ec446ac3da3c06a86bb911ab153ba040b52b4d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

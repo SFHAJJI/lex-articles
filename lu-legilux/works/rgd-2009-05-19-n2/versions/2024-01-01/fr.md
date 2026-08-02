@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-05-19-n2:2024-01-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 19 mai 2009 portant fixation des indemnités dues aux membres des commissions d’examen, aux experts et surveillants et des examens menant au brevet de maîtrise.
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/consolide/20240101/fr
-source_sha256: 52b6f4bddc86c5b6ec57cc259900d32a56afb1af6c20ef3bd5f84f226b2e39bd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-05-19-n2:2024-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 19 mai 2009 portant fixation des indemnités dues aux membres des commissions d’examen, aux experts et surveillants et des examens menant au brevet de maîtrise.'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/consolide/20240101/fr'
+source_sha256: '52b6f4bddc86c5b6ec57cc259900d32a56afb1af6c20ef3bd5f84f226b2e39bd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

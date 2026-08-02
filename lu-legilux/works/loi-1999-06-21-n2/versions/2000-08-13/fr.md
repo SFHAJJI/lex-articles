@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-06-21-n2:2000-08-13
-title: Loi du 21 juin 1999 portant règlement de procédure devant les juridictions administratives.
-valid_from: 2000-08-13
-valid_to: 2022-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2/consolide/20000813/fr
-source_sha256: 5ec4bbd079c75756d881534d26baf982547f8ede72c3f069fbe8898e465818ae
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-06-21-n2:2000-08-13'
+title: 'Loi du 21 juin 1999 portant règlement de procédure devant les juridictions administratives.'
+valid_from: '2000-08-13'
+valid_to: '2022-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2/consolide/20000813/fr'
+source_sha256: '5ec4bbd079c75756d881534d26baf982547f8ede72c3f069fbe8898e465818ae'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Titre Ier. ** — ** Instances devant le tribunal administratif**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-2020-10-09-a817:2022-04-04
-title: Version consolidée applicable au 04/04/2022 : Arrêté grand-ducal du 9 octobre 2020 portant institution de la Maison du Grand-Duc.
-valid_from: 2022-04-04
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/consolide/20220404/fr
-source_sha256: 7e0b9d3feb718672f3ae9c48dfaecfeedb09e15c2b6602400723ae9f93645114
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-2020-10-09-a817:2022-04-04'
+title: 'Version consolidée applicable au 04/04/2022 : Arrêté grand-ducal du 9 octobre 2020 portant institution de la Maison du Grand-Duc.'
+valid_from: '2022-04-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/consolide/20220404/fr'
+source_sha256: '7e0b9d3feb718672f3ae9c48dfaecfeedb09e15c2b6602400723ae9f93645114'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Institution, mission et personnel de la Maison du Grand-Duc**

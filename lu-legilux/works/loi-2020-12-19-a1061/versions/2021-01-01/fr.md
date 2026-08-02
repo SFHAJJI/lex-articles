@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-12-19-a1061:2021-01-01
-title: Loi du 19 décembre 2020 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2021.
-valid_from: 2021-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1061/consolide/20210101/fr
-source_sha256: 995d3baa4a80db5ceffa8f42d180c0ac863dfdb2601021c0c3c130cbbc59cf69
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-12-19-a1061:2021-01-01'
+title: 'Loi du 19 décembre 2020 concernant le budget des recettes et des dépenses de l’État pour l’exercice 2021.'
+valid_from: '2021-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1061/consolide/20210101/fr'
+source_sha256: '995d3baa4a80db5ceffa8f42d180c0ac863dfdb2601021c0c3c130cbbc59cf69'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ** Arrêté du budget**

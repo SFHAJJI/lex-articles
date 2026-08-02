@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2016-12-14-n6:2026-09-01
-title: Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 14 décembre 2016 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes pris en charge par l’assurance maladie.
-valid_from: 2026-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/consolide/20260901/fr
-source_sha256: b594dfc6998caa5db4d35d91300e399feb83e919300739efd739561ff65cb534
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2016-12-14-n6:2026-09-01'
+title: 'Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 14 décembre 2016 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes pris en charge par l’assurance maladie.'
+valid_from: '2026-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/consolide/20260901/fr'
+source_sha256: 'b594dfc6998caa5db4d35d91300e399feb83e919300739efd739561ff65cb534'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-06-20-a539:2020-12-22
-title: Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 20 juin 2020 portant dérogation à l’article 2 du règlement grand-ducal modifié du 15 septembre 1975 portant fixation du taux d’indemnisation des chômeurs partiels.
-valid_from: 2020-12-22
-valid_to: 2021-06-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/consolide/20201222/fr
-source_sha256: a21781b7fd369298294c5a9f970aa25daa57a3ab6992e791e2eeb7ec5b3c4bdf
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-06-20-a539:2020-12-22'
+title: 'Version consolidée applicable au 01/01/2022 : Règlement grand-ducal du 20 juin 2020 portant dérogation à l’article 2 du règlement grand-ducal modifié du 15 septembre 1975 portant fixation du taux d’indemnisation des chômeurs partiels.'
+valid_from: '2020-12-22'
+valid_to: '2021-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/consolide/20201222/fr'
+source_sha256: 'a21781b7fd369298294c5a9f970aa25daa57a3ab6992e791e2eeb7ec5b3c4bdf'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

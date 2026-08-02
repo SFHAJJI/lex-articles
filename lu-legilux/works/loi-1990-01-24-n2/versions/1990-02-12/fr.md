@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1990-01-24-n2:1990-02-12
-title: Version rectifiée applicable au 12/02/1990 : Loi du 24 janvier 1990 relative aux actes de naissance des personnes nées en déportation.
-valid_from: 1990-02-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1990/01/24/n2/consolide/19900212/fr
-source_sha256: 6222ad4580d6ebc223183e218f0e1b3d79a954937d9ff0b1398198ad91f429d4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1990-01-24-n2:1990-02-12'
+title: 'Version rectifiée applicable au 12/02/1990 : Loi du 24 janvier 1990 relative aux actes de naissance des personnes nées en déportation.'
+valid_from: '1990-02-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1990/01/24/n2/consolide/19900212/fr'
+source_sha256: '6222ad4580d6ebc223183e218f0e1b3d79a954937d9ff0b1398198ad91f429d4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

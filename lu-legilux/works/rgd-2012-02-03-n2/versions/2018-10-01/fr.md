@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2012-02-03-n2:2018-10-01
-title: Version consolidée applicable au 01/10/2018 : Règlement grand-ducal du 3 février 2012 fixant le régime des congés des fonctionnaires et employés de l'Etat.
-valid_from: 2018-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/consolide/20181001/fr
-source_sha256: 6df3205ef86c137e6acc28b4396e017af364109e6a72882353df5da13593bc26
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2012-02-03-n2:2018-10-01'
+title: 'Version consolidée applicable au 01/10/2018 : Règlement grand-ducal du 3 février 2012 fixant le régime des congés des fonctionnaires et employés de l''Etat.'
+valid_from: '2018-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/consolide/20181001/fr'
+source_sha256: '6df3205ef86c137e6acc28b4396e017af364109e6a72882353df5da13593bc26'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er. ** — **Dispositions générales**

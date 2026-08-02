@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-05-28-n5:2014-04-18
-title: Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 28 mai 2009 fixant les conditions et modalités pour l'obtention de l'attestation habilitant à faire des remplacements dans l'enseignement fondamental.
-valid_from: 2014-04-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n5/consolide/20140418/fr
-source_sha256: 5c249abecbc2f2ef27ffd939718d4181857011359109ef9d12acdfe2ec72d7e5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-05-28-n5:2014-04-18'
+title: 'Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 28 mai 2009 fixant les conditions et modalités pour l''obtention de l''attestation habilitant à faire des remplacements dans l''enseignement fondamental.'
+valid_from: '2014-04-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n5/consolide/20140418/fr'
+source_sha256: '5c249abecbc2f2ef27ffd939718d4181857011359109ef9d12acdfe2ec72d7e5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Conditions de recrutement

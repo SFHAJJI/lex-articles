@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1948-01-31-n1:2024-12-23
-title: Version consolidée applicable au 01/05/2026 : Loi du 31 janvier 1948 relative à la réglementation de la navigation aérienne.
-valid_from: 2024-12-23
-valid_to: 2025-12-21
-source: https://legilux.public.lu/eli/etat/leg/loi/1948/01/31/n1/consolide/20241223/fr
-source_sha256: d884a5c468b8280dd6f4eb06ceb7adb35a0f10fceff3c7dc93f95033e0366e66
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1948-01-31-n1:2024-12-23'
+title: 'Version consolidée applicable au 01/05/2026 : Loi du 31 janvier 1948 relative à la réglementation de la navigation aérienne.'
+valid_from: '2024-12-23'
+valid_to: '2025-12-21'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1948/01/31/n1/consolide/20241223/fr'
+source_sha256: 'd884a5c468b8280dd6f4eb06ceb7adb35a0f10fceff3c7dc93f95033e0366e66'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier.** — **Dispositions générales.**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-03-01-a108:2019-04-05
-title: Version consolidée applicable au 05/04/2019 : Règlement grand-ducal du 1er mars 2019 déterminant les localités de vote qui ne sont pas chef-lieu de commune.
-valid_from: 2019-04-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a108/consolide/20190405/fr
-source_sha256: 28be1c710c252e71c548cea4f94df98bad44381075f31e2a7ffacef7781d0944
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-03-01-a108:2019-04-05'
+title: 'Version consolidée applicable au 05/04/2019 : Règlement grand-ducal du 1er mars 2019 déterminant les localités de vote qui ne sont pas chef-lieu de commune.'
+valid_from: '2019-04-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a108/consolide/20190405/fr'
+source_sha256: '28be1c710c252e71c548cea4f94df98bad44381075f31e2a7ffacef7781d0944'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

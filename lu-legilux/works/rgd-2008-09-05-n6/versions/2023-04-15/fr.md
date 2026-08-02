@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-09-05-n6:2023-04-15
-title: Version consolidée applicable au 01/07/2024 : Règlement grand-ducal du 5 septembre 2008 portant exécution de certaines dispositions relatives aux formalités administratives prévues par la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration.
-valid_from: 2023-04-15
-valid_to: 2024-06-30
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20230415/fr
-source_sha256: 2f8523fe3ea7166e9d3ae710f21e150b77d0c23bf75247e776d15de9460c712a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-09-05-n6:2023-04-15'
+title: 'Version consolidée applicable au 01/07/2024 : Règlement grand-ducal du 5 septembre 2008 portant exécution de certaines dispositions relatives aux formalités administratives prévues par la loi du 29 août 2008 sur la libre circulation des personnes et l''immigration.'
+valid_from: '2023-04-15'
+valid_to: '2024-06-30'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20230415/fr'
+source_sha256: '2f8523fe3ea7166e9d3ae710f21e150b77d0c23bf75247e776d15de9460c712a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1. – Définitions

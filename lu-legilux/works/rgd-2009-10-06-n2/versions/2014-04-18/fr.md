@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-10-06-n2:2014-04-18
-title: Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 6 octobre 2009 déterminant la composition et le fonctionnement de la commission permanente d'experts prévue par l'article 29 de la loi concernant le personnel de l'enseignement fondamental.
-valid_from: 2014-04-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/10/06/n2/consolide/20140418/fr
-source_sha256: 7b2c675c0c8d36f49c319d8a7ed64701fa759b80e63f531f606442739f19117d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-10-06-n2:2014-04-18'
+title: 'Version consolidée applicable au 04/12/2013 : Règlement grand-ducal du 6 octobre 2009 déterminant la composition et le fonctionnement de la commission permanente d''experts prévue par l''article 29 de la loi concernant le personnel de l''enseignement fondamental.'
+valid_from: '2014-04-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/10/06/n2/consolide/20140418/fr'
+source_sha256: '7b2c675c0c8d36f49c319d8a7ed64701fa759b80e63f531f606442739f19117d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

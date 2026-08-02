@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-12-23-n20:2022-01-01
-title: Version consolidée applicable au 04/01/2026 : Loi du 23 décembre 2016 \n1. instituant un régime d'aides pour la promotion de la durabilité, de l'utilisation rationnelle de l'énergie et des énergies renouvelables dans le domaine du logement; \n2. modifiant la loi modifiée du 23 décembre 2004 établissant un système d'échange de quotas d'émission de gaz à effet de serre.
-valid_from: 2022-01-01
-valid_to: 2022-10-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n20/consolide/20220101/fr
-source_sha256: e56e568c1a0ac7e3710f6e1011dcb105fbef85d42930a3cb29b6355fa8e161c8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-12-23-n20:2022-01-01'
+title: 'Version consolidée applicable au 04/01/2026 : Loi du 23 décembre 2016 \n1. instituant un régime d''aides pour la promotion de la durabilité, de l''utilisation rationnelle de l''énergie et des énergies renouvelables dans le domaine du logement; \n2. modifiant la loi modifiée du 23 décembre 2004 établissant un système d''échange de quotas d''émission de gaz à effet de serre.'
+valid_from: '2022-01-01'
+valid_to: '2022-10-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n20/consolide/20220101/fr'
+source_sha256: 'e56e568c1a0ac7e3710f6e1011dcb105fbef85d42930a3cb29b6355fa8e161c8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

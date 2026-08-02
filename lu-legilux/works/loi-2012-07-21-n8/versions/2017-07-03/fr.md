@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2012-07-21-n8:2017-07-03
-title: Version consolidée applicable au 03/07/2017 : Loi du 21 juillet 2012 portant création du Sportlycée.
-valid_from: 2017-07-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/consolide/20170703/fr
-source_sha256: e0916d215b8f2e46e0b9ac8f47340ce8a8dbebdf52166f5a880e59d54b6b4ab2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2012-07-21-n8:2017-07-03'
+title: 'Version consolidée applicable au 03/07/2017 : Loi du 21 juillet 2012 portant création du Sportlycée.'
+valid_from: '2017-07-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n8/consolide/20170703/fr'
+source_sha256: 'e0916d215b8f2e46e0b9ac8f47340ce8a8dbebdf52166f5a880e59d54b6b4ab2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier.** — *****Dispositions générales*****

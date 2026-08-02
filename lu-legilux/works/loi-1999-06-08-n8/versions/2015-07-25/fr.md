@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1999-06-08-n8:2015-07-25
-title: Version consolidée applicable au 25/08/2018 : Loi du 8 juin 1999 relative au Collège médical.
-valid_from: 2015-07-25
-valid_to: 2018-08-24
-source: https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n8/consolide/20150725/fr
-source_sha256: 7cbfff1c5154b3bafa60a1fe90da137c03db313db01ae7a065707e017e21ff5e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1999-06-08-n8:2015-07-25'
+title: 'Version consolidée applicable au 25/08/2018 : Loi du 8 juin 1999 relative au Collège médical.'
+valid_from: '2015-07-25'
+valid_to: '2018-08-24'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n8/consolide/20150725/fr'
+source_sha256: '7cbfff1c5154b3bafa60a1fe90da137c03db313db01ae7a065707e017e21ff5e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1. Attributions du Collège médical.

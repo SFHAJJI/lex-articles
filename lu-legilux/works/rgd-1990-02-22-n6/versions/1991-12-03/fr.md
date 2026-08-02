@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1990-02-22-n6:1991-12-03
-title: Version consolidée applicable au 03/12/1991 : Règlement grand-ducal du 22 février 1990 déterminant les conditions d'admission et de promotion des fonctionnaires de la carrière de l'expéditionnaire technique des établissements d'enseignement secondaire, d'enseignement technique et de l'Institut supérieur de technologie.
-valid_from: 1991-12-03
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/consolide/19911203/fr
-source_sha256: f534f3aecfbcbbb565605147c2bddb1086433058893631b205e90f85f52f8dcb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1990-02-22-n6:1991-12-03'
+title: 'Version consolidée applicable au 03/12/1991 : Règlement grand-ducal du 22 février 1990 déterminant les conditions d''admission et de promotion des fonctionnaires de la carrière de l''expéditionnaire technique des établissements d''enseignement secondaire, d''enseignement technique et de l''Institut supérieur de technologie.'
+valid_from: '1991-12-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/consolide/19911203/fr'
+source_sha256: 'f534f3aecfbcbbb565605147c2bddb1086433058893631b205e90f85f52f8dcb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## I. Conditions d'admission

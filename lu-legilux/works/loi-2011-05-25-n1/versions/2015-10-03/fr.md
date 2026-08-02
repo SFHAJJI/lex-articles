@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-05-25-n1:2015-10-03
-title: Version consolidée applicable au 07/04/2020 : Loi du 25 mai 2011 relative à la chasse.
-valid_from: 2015-10-03
-valid_to: 2020-04-06
-source: https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20151003/fr
-source_sha256: f4bfe072e68a0f7a8a81fb3a93ff13d50900bdf0a3d11f339bdcd4885b6f5aea
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-05-25-n1:2015-10-03'
+title: 'Version consolidée applicable au 07/04/2020 : Loi du 25 mai 2011 relative à la chasse.'
+valid_from: '2015-10-03'
+valid_to: '2020-04-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20151003/fr'
+source_sha256: 'f4bfe072e68a0f7a8a81fb3a93ff13d50900bdf0a3d11f339bdcd4885b6f5aea'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. Généralités

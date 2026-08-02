@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1971-09-23-n3:1971-10-12
-title: Version rectifiée applicable au 12/10/1971 : Règlement grand-ducal du 23 septembre 1971 portant réglementation des établissements cinématographiques.
-valid_from: 1971-10-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/consolide/19711012/fr
-source_sha256: 7fa4cd1e526c479cda6b98c41976a56d23f67d3f17ed76e575c197392642db55
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1971-09-23-n3:1971-10-12'
+title: 'Version rectifiée applicable au 12/10/1971 : Règlement grand-ducal du 23 septembre 1971 portant réglementation des établissements cinématographiques.'
+valid_from: '1971-10-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/consolide/19711012/fr'
+source_sha256: '7fa4cd1e526c479cda6b98c41976a56d23f67d3f17ed76e575c197392642db55'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

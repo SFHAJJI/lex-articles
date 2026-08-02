@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-05-20-a422:2023-10-01
-title: Version consolidée applicable au 01/10/2023 : Règlement grand-ducal du 20 mai 2021 relatif à la détermination et à l’organisation des formations des cadres techniques et administratifs pour les différentes formes d’activités sportives.
-valid_from: 2023-10-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/05/20/a422/consolide/20231001/fr
-source_sha256: e59e0e1241db5ed4366189fbbda88f5beb8aeb301d95ea8b7dfbd5f64b1e2c56
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-05-20-a422:2023-10-01'
+title: 'Version consolidée applicable au 01/10/2023 : Règlement grand-ducal du 20 mai 2021 relatif à la détermination et à l’organisation des formations des cadres techniques et administratifs pour les différentes formes d’activités sportives.'
+valid_from: '2023-10-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/05/20/a422/consolide/20231001/fr'
+source_sha256: 'e59e0e1241db5ed4366189fbbda88f5beb8aeb301d95ea8b7dfbd5f64b1e2c56'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier — **L’organisation des formations**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-05-28-a457:2020-07-06
-title: Version consolidée applicable au 06/07/2020 : Règlement grand-ducal du 28 mai 2020 portant dérogation aux articles 6, 7, 10, 11, 54, 57, 63 et 64 du règlement grand-ducal du 10 avril 2020 déterminant les différentes branches enseignées, les modalités d’obtention, de délivrance et de la nomenclature des diplômes ainsi que les modalités de transition entre les différents ordres d’établissement et niveaux d’enseignement.
-valid_from: 2020-07-06
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/05/28/a457/consolide/20200706/fr
-source_sha256: f1a59e3fda7ee6bf73160945244b0a99e34c4c2665a5e3c181f0f5ea1c0bee88
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-05-28-a457:2020-07-06'
+title: 'Version consolidée applicable au 06/07/2020 : Règlement grand-ducal du 28 mai 2020 portant dérogation aux articles 6, 7, 10, 11, 54, 57, 63 et 64 du règlement grand-ducal du 10 avril 2020 déterminant les différentes branches enseignées, les modalités d’obtention, de délivrance et de la nomenclature des diplômes ainsi que les modalités de transition entre les différents ordres d’établissement et niveaux d’enseignement.'
+valid_from: '2020-07-06'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/05/28/a457/consolide/20200706/fr'
+source_sha256: 'f1a59e3fda7ee6bf73160945244b0a99e34c4c2665a5e3c181f0f5ea1c0bee88'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2013-04-06-n1:2024-12-31
-title: Version consolidée applicable au 31/12/2024 : Loi du 6 avril 2013 relative aux titres dématérialisés et portant modification de:\n- la loi modifiée du 5 avril 1993 relative au secteur financier; \n- la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier; \n- la loi modifiée du 10 août 1915 concernant les sociétés commerciales; \n- la loi modifiée du 3 septembre 1996 concernant la dépossession involontaire de titres au porteur; \n- la loi modifiée du 1er août 2001 concernant la circulation de titres et d’autres instruments fongibles; \n- la loi modifiée du 20 décembre 2002 concernant les organismes de placement collectif; \n- la loi du 17 décembre 2010 concernant les organismes de placement collectif; \n- la loi modifiée du 13 février 2007 relative aux fonds d’investissement spécialisés; \n- la loi modifiée du 22 mars 2004 relative à la titrisation.
-valid_from: 2024-12-31
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2013/04/06/n1/consolide/20241231/fr
-source_sha256: 41c07d4d57090735123e388938ed01b0fd8305f3a879948478262737bd691c2d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2013-04-06-n1:2024-12-31'
+title: 'Version consolidée applicable au 31/12/2024 : Loi du 6 avril 2013 relative aux titres dématérialisés et portant modification de:\n- la loi modifiée du 5 avril 1993 relative au secteur financier; \n- la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier; \n- la loi modifiée du 10 août 1915 concernant les sociétés commerciales; \n- la loi modifiée du 3 septembre 1996 concernant la dépossession involontaire de titres au porteur; \n- la loi modifiée du 1er août 2001 concernant la circulation de titres et d’autres instruments fongibles; \n- la loi modifiée du 20 décembre 2002 concernant les organismes de placement collectif; \n- la loi du 17 décembre 2010 concernant les organismes de placement collectif; \n- la loi modifiée du 13 février 2007 relative aux fonds d’investissement spécialisés; \n- la loi modifiée du 22 mars 2004 relative à la titrisation.'
+valid_from: '2024-12-31'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/04/06/n1/consolide/20241231/fr'
+source_sha256: '41c07d4d57090735123e388938ed01b0fd8305f3a879948478262737bd691c2d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier** — *** Dispositions générales***

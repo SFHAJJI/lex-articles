@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2001-04-05-n2:2008-07-06
-title: Version consolidée applicable au 12/03/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de communications commerciales dans les services de médias audiovisuels.
-valid_from: 2008-07-06
-valid_to: 2010-12-27
-source: https://legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/consolide/20080706/fr
-source_sha256: ca9f7741a159dd032491d1c7cb1c9ae1e5e7924304bbbd9aaae66271941f6fa7
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2001-04-05-n2:2008-07-06'
+title: 'Version consolidée applicable au 12/03/2021 : Règlement grand-ducal du 5 avril 2001 fixant les règles applicables en matière de communications commerciales dans les services de médias audiovisuels.'
+valid_from: '2008-07-06'
+valid_to: '2010-12-27'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n2/consolide/20080706/fr'
+source_sha256: 'ca9f7741a159dd032491d1c7cb1c9ae1e5e7924304bbbd9aaae66271941f6fa7'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-10-22-n1:2017-04-01
-title: Version consolidée applicable au 01/01/2021 : Loi du 22 octobre 2008 portant:1. promotion de l'habitat et création d'un pacte logement avec les communes,2. sur le droit d'emphytéose et le droit de superficie,3. modificationa) de la loi modifiée du 16 octobre 1934 concernant l'évaluation des biens et valeurs;b) de la loi modifiée du 1er décembre 1936 sur l'impôt foncier;c) de la loi modifiée du 25 février 1979 concernant l'aide au logement;d) de la loi modifiée du 10 décembre 1998 portant création de l'établissement public dénommé «Fonds d'assainissement de la Cité Syrdall»;e) de la loi modifiée du 30 juillet 2002 déterminant différentes mesures fiscales destinées à encourager la mise sur le marché et l'acquisition de terrains à bâtir et d'immeubles d'habitation;f) de la loi modifiée du 19 juillet 2004 concernant l'aménagement communal et le développement urbain;g) de la loi du 21 septembre 2006 sur le bail à usage d'habitation et modifiant certaines dispositions du Code civil.
-valid_from: 2017-04-01
-valid_to: 2020-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/10/22/n1/consolide/20170401/fr
-source_sha256: 3dac60dc1e5903346390c67ec48abd45f6068e3ab25f98b1cf139f6450d89f80
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-10-22-n1:2017-04-01'
+title: 'Version consolidée applicable au 01/01/2021 : Loi du 22 octobre 2008 portant:1. promotion de l''habitat et création d''un pacte logement avec les communes,2. sur le droit d''emphytéose et le droit de superficie,3. modificationa) de la loi modifiée du 16 octobre 1934 concernant l''évaluation des biens et valeurs;b) de la loi modifiée du 1er décembre 1936 sur l''impôt foncier;c) de la loi modifiée du 25 février 1979 concernant l''aide au logement;d) de la loi modifiée du 10 décembre 1998 portant création de l''établissement public dénommé «Fonds d''assainissement de la Cité Syrdall»;e) de la loi modifiée du 30 juillet 2002 déterminant différentes mesures fiscales destinées à encourager la mise sur le marché et l''acquisition de terrains à bâtir et d''immeubles d''habitation;f) de la loi modifiée du 19 juillet 2004 concernant l''aménagement communal et le développement urbain;g) de la loi du 21 septembre 2006 sur le bail à usage d''habitation et modifiant certaines dispositions du Code civil.'
+valid_from: '2017-04-01'
+valid_to: '2020-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/10/22/n1/consolide/20170401/fr'
+source_sha256: '3dac60dc1e5903346390c67ec48abd45f6068e3ab25f98b1cf139f6450d89f80'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE 1er — Du pacte logement

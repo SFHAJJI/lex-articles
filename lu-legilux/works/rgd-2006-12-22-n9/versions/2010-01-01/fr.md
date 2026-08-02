@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2006-12-22-n9:2010-01-01
-title: Version consolidée applicable au 05/02/2024 : Règlement grand-ducal du 22 décembre 2006 déterminant:\n 1. les modalités et les limites de la prise en charge des aides techniques par l'assurance dépendance;\n 2. les modalités et les limites de la prise en charge des adaptations du logement par l'assurance dépendance;\n 3. les modalités et les limites de la prise en charge par l’assurance dépendance des aides techniques pour les personnes bénéficiaires de soins palliatifs.
-valid_from: 2010-01-01
-valid_to: 2017-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/consolide/20100101/fr
-source_sha256: e5900c229e7fc41a340f25a91b8066b4adf2fb7635b32199cb2332d7e5362b4a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2006-12-22-n9:2010-01-01'
+title: 'Version consolidée applicable au 05/02/2024 : Règlement grand-ducal du 22 décembre 2006 déterminant:\n 1. les modalités et les limites de la prise en charge des aides techniques par l''assurance dépendance;\n 2. les modalités et les limites de la prise en charge des adaptations du logement par l''assurance dépendance;\n 3. les modalités et les limites de la prise en charge par l’assurance dépendance des aides techniques pour les personnes bénéficiaires de soins palliatifs.'
+valid_from: '2010-01-01'
+valid_to: '2017-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/consolide/20100101/fr'
+source_sha256: 'e5900c229e7fc41a340f25a91b8066b4adf2fb7635b32199cb2332d7e5362b4a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Premier — Des aides techniques.

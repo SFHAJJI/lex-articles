@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1974-02-19-n1:2023-12-18
-title: Version consolidée applicable au 08/08/2025 : Règlement grand-ducal du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente des substances médicamenteuses et la lutte contre la toxicomanie.
-valid_from: 2023-12-18
-valid_to: 2025-08-07
-source: https://legilux.public.lu/eli/etat/leg/rgd/1974/02/19/n1/consolide/20231218/fr
-source_sha256: 05a74cbfba130701904ff36e382fb032dd48867e012b8d7815bb2c713fe9dd66
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1974-02-19-n1:2023-12-18'
+title: 'Version consolidée applicable au 08/08/2025 : Règlement grand-ducal du 19 février 1974 portant exécution de la loi du 19 février 1973 sur la vente des substances médicamenteuses et la lutte contre la toxicomanie.'
+valid_from: '2023-12-18'
+valid_to: '2025-08-07'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1974/02/19/n1/consolide/20231218/fr'
+source_sha256: '05a74cbfba130701904ff36e382fb032dd48867e012b8d7815bb2c713fe9dd66'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

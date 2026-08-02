@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-06-20-a508:2020-12-16
-title: Version consolidée applicable au 16/12/2020 : Loi du 20 juin 2020 visant à mettre en place un régime d’aides en faveur des projets liés à la lutte contre la pandémie de Covid-19.
-valid_from: 2020-12-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a508/consolide/20201216/fr
-source_sha256: a19c722552b002b2cc44e000b1b251b75694ac27d943544713126133a4d76927
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-06-20-a508:2020-12-16'
+title: 'Version consolidée applicable au 16/12/2020 : Loi du 20 juin 2020 visant à mettre en place un régime d’aides en faveur des projets liés à la lutte contre la pandémie de Covid-19.'
+valid_from: '2020-12-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a508/consolide/20201216/fr'
+source_sha256: 'a19c722552b002b2cc44e000b1b251b75694ac27d943544713126133a4d76927'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

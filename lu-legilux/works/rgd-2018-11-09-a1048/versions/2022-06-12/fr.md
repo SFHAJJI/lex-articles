@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-11-09-a1048:2022-06-12
-title: Règlement grand-ducal du 9 novembre 2018 portant exécution de la loi modifiée du 24 mai 2018 sur les conditions d'hygiène et de salubrité relatives à la pratique des techniques de tatouage par effraction cutanée, du perçage, du branding, cutting, ainsi que du bronzage UV.
-valid_from: 2022-06-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/11/09/a1048/consolide/20220612/fr
-source_sha256: 282c77070ec886a85c231968745134d918c839089376cc66f92ff92059dc3177
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-11-09-a1048:2022-06-12'
+title: 'Règlement grand-ducal du 9 novembre 2018 portant exécution de la loi modifiée du 24 mai 2018 sur les conditions d''hygiène et de salubrité relatives à la pratique des techniques de tatouage par effraction cutanée, du perçage, du branding, cutting, ainsi que du bronzage UV.'
+valid_from: '2022-06-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/11/09/a1048/consolide/20220612/fr'
+source_sha256: '282c77070ec886a85c231968745134d918c839089376cc66f92ff92059dc3177'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

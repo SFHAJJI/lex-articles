@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-02-10-a104:2021-03-09
-title: Règlement grand-ducal du 10 février 2021 fixant les conditions de réalisation des tests de dépistage ou diagnostique de l’infection par virus SARS-CoV-2.
-valid_from: 2021-03-09
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/consolide/20210309/fr
-source_sha256: 0dd008f867929a0383a209604a89840cd693e6fe9650d085b516b300ddef184a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-02-10-a104:2021-03-09'
+title: 'Règlement grand-ducal du 10 février 2021 fixant les conditions de réalisation des tests de dépistage ou diagnostique de l’infection par virus SARS-CoV-2.'
+valid_from: '2021-03-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a104/consolide/20210309/fr'
+source_sha256: '0dd008f867929a0383a209604a89840cd693e6fe9650d085b516b300ddef184a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

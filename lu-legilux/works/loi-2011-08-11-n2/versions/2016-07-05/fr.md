@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2011-08-11-n2:2016-07-05
-title: Version consolidée applicable au 05/07/2016 : Loi du 11 août 2011 portant exécution et sanction du règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d'ozone.
-valid_from: 2016-07-05
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2011/08/11/n2/consolide/20160705/fr
-source_sha256: 0329710970011174bdb57f02d83f0a99a6f59c6196dec0a0b5f1ca1c9a2b80ff
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2011-08-11-n2:2016-07-05'
+title: 'Version consolidée applicable au 05/07/2016 : Loi du 11 août 2011 portant exécution et sanction du règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d''ozone.'
+valid_from: '2016-07-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2011/08/11/n2/consolide/20160705/fr'
+source_sha256: '0329710970011174bdb57f02d83f0a99a6f59c6196dec0a0b5f1ca1c9a2b80ff'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

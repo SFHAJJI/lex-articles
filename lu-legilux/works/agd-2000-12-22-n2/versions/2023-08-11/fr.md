@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-2000-12-22-n2:2023-08-11
-title: Version consolidée applicable au 11/08/2023 : Arrêté grand-ducal du 22 décembre 2000 portant création d'une Médaille de reconnaissance pour mission à l'étranger.
-valid_from: 2023-08-11
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/consolide/20230811/fr
-source_sha256: 0ee1a5497dd190ae138b4e89d08be2a93729a6962eaaca89ed136bc0db8938e4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-2000-12-22-n2:2023-08-11'
+title: 'Version consolidée applicable au 11/08/2023 : Arrêté grand-ducal du 22 décembre 2000 portant création d''une Médaille de reconnaissance pour mission à l''étranger.'
+valid_from: '2023-08-11'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/consolide/20230811/fr'
+source_sha256: '0ee1a5497dd190ae138b4e89d08be2a93729a6962eaaca89ed136bc0db8938e4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1998-12-23-n2:2025-02-10
-title: Version consolidée applicable au 10/02/2025 : Loi du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier.
-valid_from: 2025-02-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1998/12/23/n2/consolide/20250210/fr
-source_sha256: 08cc6249c8484ab5702b8d3874655aa2e0b27a0558c523a842d07db5195662df
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1998-12-23-n2:2025-02-10'
+title: 'Version consolidée applicable au 10/02/2025 : Loi du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier.'
+valid_from: '2025-02-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1998/12/23/n2/consolide/20250210/fr'
+source_sha256: '08cc6249c8484ab5702b8d3874655aa2e0b27a0558c523a842d07db5195662df'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Section 1.** **- Statut juridique de la Commission de surveillance du secteur financier**

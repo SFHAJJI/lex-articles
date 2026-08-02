@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2014-09-30-n2:2019-09-01
-title: Version consolidée applicable au 01/09/2019 : Règlement grand-ducal du 30 septembre 2014 déterminant les modalités de formations et des épreuves permettant à des agents intervenant dans l'enseignement fondamental d'obtenir l'autorisation d'enseigner en tant qu'instituteur dans les quatre cycles.
-valid_from: 2019-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2/consolide/20190901/fr
-source_sha256: 206c674f955f2451763fff5703196f74c41cffedf2d763b531eeadae082211e5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2014-09-30-n2:2019-09-01'
+title: 'Version consolidée applicable au 01/09/2019 : Règlement grand-ducal du 30 septembre 2014 déterminant les modalités de formations et des épreuves permettant à des agents intervenant dans l''enseignement fondamental d''obtenir l''autorisation d''enseigner en tant qu''instituteur dans les quatre cycles.'
+valid_from: '2019-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2/consolide/20190901/fr'
+source_sha256: '206c674f955f2451763fff5703196f74c41cffedf2d763b531eeadae082211e5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Formation théorique

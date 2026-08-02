@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2021-04-23-a337:2022-03-24
-title: Règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux.
-valid_from: 2022-03-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2021/04/23/a337/consolide/20220324/fr
-source_sha256: 85018bf0c23abbe0f762320635c1b36866241d8ab35e150f9923db5565c45302
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2021-04-23-a337:2022-03-24'
+title: 'Règlement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de début de carrière des employés communaux.'
+valid_from: '2022-03-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2021/04/23/a337/consolide/20220324/fr'
+source_sha256: '85018bf0c23abbe0f762320635c1b36866241d8ab35e150f9923db5565c45302'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Organisation de la formation pendant le service provisoire pour les fonctionnaires communaux

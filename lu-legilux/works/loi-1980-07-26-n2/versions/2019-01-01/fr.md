@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1980-07-26-n2:2019-01-01
-title: Version consolidée applicable au 01/01/2019 : Loi du 26 juillet 1980 concernant l'avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité.
-valid_from: 2019-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1980/07/26/n2/consolide/20190101/fr
-source_sha256: 3d05a3b94b228cf326753e69fb2b3af65f593790357d6fbeeae1e0e05333cd50
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1980-07-26-n2:2019-01-01'
+title: 'Version consolidée applicable au 01/01/2019 : Loi du 26 juillet 1980 concernant l''avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité.'
+valid_from: '2019-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1980/07/26/n2/consolide/20190101/fr'
+source_sha256: '3d05a3b94b228cf326753e69fb2b3af65f593790357d6fbeeae1e0e05333cd50'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

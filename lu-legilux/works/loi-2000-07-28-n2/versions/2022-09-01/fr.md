@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2000-07-28-n2:2022-09-01
-title: Version consolidée applicable au 08/12/2022 : Loi du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension et modifiant a) le Code des assurances sociales, b) la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat, c) la loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.
-valid_from: 2022-09-01
-valid_to: 2022-12-07
-source: https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2/consolide/20220901/fr
-source_sha256: b194a6b41772ee4c6ec81ea77dda573855d98d71b83949c214f4ee07b740866b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2000-07-28-n2:2022-09-01'
+title: 'Version consolidée applicable au 08/12/2022 : Loi du 28 juillet 2000 ayant pour objet la coordination des régimes légaux de pension et modifiant a) le Code des assurances sociales, b) la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l''Etat, c) la loi du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l''Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.'
+valid_from: '2022-09-01'
+valid_to: '2022-12-07'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2/consolide/20220901/fr'
+source_sha256: 'b194a6b41772ee4c6ec81ea77dda573855d98d71b83949c214f4ee07b740866b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre I.** — **Définitions**

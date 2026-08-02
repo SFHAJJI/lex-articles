@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-05-09-n2:2011-11-21
-title: Version consolidée applicable au 01/01/2023 : Loi du 9 mai 2008 relative aux chiens.
-valid_from: 2011-11-21
-valid_to: 2022-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20111121/fr
-source_sha256: 271d8b38acbc0bfc2410a67f14b1413450d8de3a72ee7c27692036db75ae43f3
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-05-09-n2:2011-11-21'
+title: 'Version consolidée applicable au 01/01/2023 : Loi du 9 mai 2008 relative aux chiens.'
+valid_from: '2011-11-21'
+valid_to: '2022-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20111121/fr'
+source_sha256: '271d8b38acbc0bfc2410a67f14b1413450d8de3a72ee7c27692036db75ae43f3'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Règles générales applicables à tous les chiens

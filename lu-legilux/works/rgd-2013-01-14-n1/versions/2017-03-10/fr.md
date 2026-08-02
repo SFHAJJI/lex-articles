@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-01-14-n1:2017-03-10
-title: Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 14 janvier 2013 fixant la procédure à suivre pour obtenir l’autorisation d’exercer les professions de médecin, de médecin-dentiste, de médecin-vétérinaire et de pharmacien.
-valid_from: 2017-03-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n1/consolide/20170310/fr
-source_sha256: 97318aba99eef00a43f38e2779b963be6a91f1cc1a530eaf6f3c4593b820dc72
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-01-14-n1:2017-03-10'
+title: 'Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 14 janvier 2013 fixant la procédure à suivre pour obtenir l’autorisation d’exercer les professions de médecin, de médecin-dentiste, de médecin-vétérinaire et de pharmacien.'
+valid_from: '2017-03-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n1/consolide/20170310/fr'
+source_sha256: '97318aba99eef00a43f38e2779b963be6a91f1cc1a530eaf6f3c4593b820dc72'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Autorisation à délivrer à un ressortissant luxembourgeois ou à un ressortissant d’un autre Etat membre de l’Union européenne.

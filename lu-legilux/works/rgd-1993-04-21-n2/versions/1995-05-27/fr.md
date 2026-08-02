@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1993-04-21-n2:1995-05-27
-title: Version consolidée applicable au 16/11/1999 : Règlement grand-ducal du 21 avril 1993 concernant la compatibilité électromagnétique.
-valid_from: 1995-05-27
-valid_to: 1999-11-15
-source: https://legilux.public.lu/eli/etat/leg/rgd/1993/04/21/n2/consolide/19950527/fr
-source_sha256: d5261886ff0995e26a7f26cf2f410077dbf820da80eec781b1f623ed063f2304
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1993-04-21-n2:1995-05-27'
+title: 'Version consolidée applicable au 16/11/1999 : Règlement grand-ducal du 21 avril 1993 concernant la compatibilité électromagnétique.'
+valid_from: '1995-05-27'
+valid_to: '1999-11-15'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1993/04/21/n2/consolide/19950527/fr'
+source_sha256: 'd5261886ff0995e26a7f26cf2f410077dbf820da80eec781b1f623ed063f2304'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

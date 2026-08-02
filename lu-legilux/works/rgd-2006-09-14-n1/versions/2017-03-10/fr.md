@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2006-09-14-n1:2017-03-10
-title: Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 14 septembre 2006 fixant les modalités de l'enseignement théorique et pratique de réintégration des professionnels de la santé ayant cessé l'exercice de leur profession.
-valid_from: 2017-03-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2006/09/14/n1/consolide/20170310/fr
-source_sha256: 2cd108b34413c7237cb6057eba10f4cc9bbecbf8aacf3027eef4ee1ed76f234a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2006-09-14-n1:2017-03-10'
+title: 'Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 14 septembre 2006 fixant les modalités de l''enseignement théorique et pratique de réintégration des professionnels de la santé ayant cessé l''exercice de leur profession.'
+valid_from: '2017-03-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2006/09/14/n1/consolide/20170310/fr'
+source_sha256: '2cd108b34413c7237cb6057eba10f4cc9bbecbf8aacf3027eef4ee1ed76f234a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

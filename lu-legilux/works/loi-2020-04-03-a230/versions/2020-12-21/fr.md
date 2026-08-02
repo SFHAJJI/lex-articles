@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-04-03-a230:2020-12-21
-title: Version consolidée applicable au 01/06/2021 : Loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.
-valid_from: 2020-12-21
-valid_to: 2021-05-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/04/03/a230/consolide/20201221/fr
-source_sha256: 8ba8e0ea5bc3bf10cbcdc23f2a212e68eda64994454cc6db3f0b819febd7835d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-04-03-a230:2020-12-21'
+title: 'Version consolidée applicable au 01/06/2021 : Loi du 3 avril 2020 relative à la mise en place d’un régime d’aides en faveur des entreprises en difficulté financière temporaire et modifiant la loi modifiée du 19 décembre 2014 relative 1) aux mesures sociales au bénéfice des artistes professionnels indépendants et des intermittents du spectacle 2) à la promotion de la création artistique.'
+valid_from: '2020-12-21'
+valid_to: '2021-05-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/04/03/a230/consolide/20201221/fr'
+source_sha256: '8ba8e0ea5bc3bf10cbcdc23f2a212e68eda64994454cc6db3f0b819febd7835d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

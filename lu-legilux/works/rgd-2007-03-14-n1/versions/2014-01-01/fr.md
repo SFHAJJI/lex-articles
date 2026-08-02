@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2007-03-14-n1:2014-01-01
-title: Version consolidée applicable au 01/08/2017 : Règlement grand-ducal du 14 mars 2007 relatif aux avertissements taxés et aux consignations en matière d'interdiction de fumer.
-valid_from: 2014-01-01
-valid_to: 2017-07-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2007/03/14/n1/consolide/20140101/fr
-source_sha256: 03411290f944f5f4e862d4d73522e33b9c48041a44261f0ad96216ef69727752
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2007-03-14-n1:2014-01-01'
+title: 'Version consolidée applicable au 01/08/2017 : Règlement grand-ducal du 14 mars 2007 relatif aux avertissements taxés et aux consignations en matière d''interdiction de fumer.'
+valid_from: '2014-01-01'
+valid_to: '2017-07-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2007/03/14/n1/consolide/20140101/fr'
+source_sha256: '03411290f944f5f4e862d4d73522e33b9c48041a44261f0ad96216ef69727752'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-09-17-n1:2007-01-02
-title: Version consolidée applicable au 16/11/2024 : Règlement grand-ducal du 17 septembre 2004 fixant les conditions et modalités de l'octroi d'avances temporaires de fonds pour le paiement de dépenses de l'Etat.
-valid_from: 2007-01-02
-valid_to: 2010-05-28
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/09/17/n1/consolide/20070102/fr
-source_sha256: 1a04e333db5b71bb456e8992c41d9ec0ed1a247500160c5f95aa8f90f4371fc1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-09-17-n1:2007-01-02'
+title: 'Version consolidée applicable au 16/11/2024 : Règlement grand-ducal du 17 septembre 2004 fixant les conditions et modalités de l''octroi d''avances temporaires de fonds pour le paiement de dépenses de l''Etat.'
+valid_from: '2007-01-02'
+valid_to: '2010-05-28'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/09/17/n1/consolide/20070102/fr'
+source_sha256: '1a04e333db5b71bb456e8992c41d9ec0ed1a247500160c5f95aa8f90f4371fc1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

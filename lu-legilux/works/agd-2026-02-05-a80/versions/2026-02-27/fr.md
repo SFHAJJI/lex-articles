@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:agd-2026-02-05-a80:2026-02-27
-title: Version rectifiée applicable au 27/02/2026 : Arrêté grand-ducal du 5 février 2026 portant publication des amendements à l’Annexe III de la Convention de Rotterdam sur la procédure de consentement préalable en connaissance de cause applicable dans le cas de certains produits chimiques et pesticides dangereux qui font l’objet du commerce international, faite à Rotterdam, le 10 septembre 1998.
-valid_from: 2026-02-27
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/agd/2026/02/05/a80/consolide/20260227/fr
-source_sha256: 65633df9dcb37d563a67c85d10e93ca504a2a73b8f1416e3497559d88aa4b7b8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:agd-2026-02-05-a80:2026-02-27'
+title: 'Version rectifiée applicable au 27/02/2026 : Arrêté grand-ducal du 5 février 2026 portant publication des amendements à l’Annexe III de la Convention de Rotterdam sur la procédure de consentement préalable en connaissance de cause applicable dans le cas de certains produits chimiques et pesticides dangereux qui font l’objet du commerce international, faite à Rotterdam, le 10 septembre 1998.'
+valid_from: '2026-02-27'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/2026/02/05/a80/consolide/20260227/fr'
+source_sha256: '65633df9dcb37d563a67c85d10e93ca504a2a73b8f1416e3497559d88aa4b7b8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

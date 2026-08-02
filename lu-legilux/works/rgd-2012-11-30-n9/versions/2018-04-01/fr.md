@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2012-11-30-n9:2018-04-01
-title: Version consolidée applicable au 20/12/2020 : Règlement grand-ducal du 30 novembre 2012 relatif (a) à l'établissement d'un plan de tir pour certaines espèces de grand gibier (b) aux modalités du marquage (c) à l'organisation et au mode de fonctionnement des commissions cynégétiques régionales.
-valid_from: 2018-04-01
-valid_to: 2020-12-19
-source: https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n9/consolide/20180401/fr
-source_sha256: 3fa1191c416e86ff0e6d42f98384b3c9488a47b63ebeafc42cb4b6af1a7766e8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2012-11-30-n9:2018-04-01'
+title: 'Version consolidée applicable au 20/12/2020 : Règlement grand-ducal du 30 novembre 2012 relatif (a) à l''établissement d''un plan de tir pour certaines espèces de grand gibier (b) aux modalités du marquage (c) à l''organisation et au mode de fonctionnement des commissions cynégétiques régionales.'
+valid_from: '2018-04-01'
+valid_to: '2020-12-19'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n9/consolide/20180401/fr'
+source_sha256: '3fa1191c416e86ff0e6d42f98384b3c9488a47b63ebeafc42cb4b6af1a7766e8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **CHAPITRE Ier.** — **Plans de tir**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-07-22-n1:2013-07-01
-title: Version consolidée applicable au 15/09/2024 : Règlement grand-ducal du 22 juillet 2009 déterminant le contenu de la convention de stage de pratique professionnelle des élèves fréquentant une classe de la section de la formation de l’éducateur ainsi que le montant de l'aide particulière à verser aux institutions qui prennent en stage des élèves.
-valid_from: 2013-07-01
-valid_to: 2024-09-14
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/07/22/n1/consolide/20130701/fr
-source_sha256: 365afdddcb2306d07d7a7e8600f40cb8a2a9eb93dee27870810176e2dc8d2cd1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-07-22-n1:2013-07-01'
+title: 'Version consolidée applicable au 15/09/2024 : Règlement grand-ducal du 22 juillet 2009 déterminant le contenu de la convention de stage de pratique professionnelle des élèves fréquentant une classe de la section de la formation de l’éducateur ainsi que le montant de l''aide particulière à verser aux institutions qui prennent en stage des élèves.'
+valid_from: '2013-07-01'
+valid_to: '2024-09-14'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/07/22/n1/consolide/20130701/fr'
+source_sha256: '365afdddcb2306d07d7a7e8600f40cb8a2a9eb93dee27870810176e2dc8d2cd1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

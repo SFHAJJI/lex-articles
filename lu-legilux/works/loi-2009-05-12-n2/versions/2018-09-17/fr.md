@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2009-05-12-n2:2018-09-17
-title: Version consolidée applicable au 17/09/2018 : Loi du 12 mai 2009 portant création d'une École nationale pour adultes.
-valid_from: 2018-09-17
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2009/05/12/n2/consolide/20180917/fr
-source_sha256: a2792dd7c36fb98b905249f6d3c587e3a03933c375e6ec01ff68ec144a857b8a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2009-05-12-n2:2018-09-17'
+title: 'Version consolidée applicable au 17/09/2018 : Loi du 12 mai 2009 portant création d''une École nationale pour adultes.'
+valid_from: '2018-09-17'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2009/05/12/n2/consolide/20180917/fr'
+source_sha256: 'a2792dd7c36fb98b905249f6d3c587e3a03933c375e6ec01ff68ec144a857b8a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — Statut et missions

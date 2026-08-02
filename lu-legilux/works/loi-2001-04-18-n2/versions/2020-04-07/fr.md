@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2001-04-18-n2:2020-04-07
-title: Version consolidée applicable au 09/04/2022 : Loi du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données.
-valid_from: 2020-04-07
-valid_to: 2022-04-08
-source: https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20200407/fr
-source_sha256: 50489c8b03e5c9fc26d82611b4fefb6f905da645814745e71a584144712b188d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2001-04-18-n2:2020-04-07'
+title: 'Version consolidée applicable au 09/04/2022 : Loi du 18 avril 2001 sur les droits d’auteur, les droits voisins et les bases de données.'
+valid_from: '2020-04-07'
+valid_to: '2022-04-08'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20200407/fr'
+source_sha256: '50489c8b03e5c9fc26d82611b4fefb6f905da645814745e71a584144712b188d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## 1ère PARTIE — **Les droits d'auteur**

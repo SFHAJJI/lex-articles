@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2024-12-13-a522:2024-12-21
-title: Version rectifiée applicable au 21/12/2024 : Règlement grand-ducal du 13 décembre 2024 modifiant le règlement grand-ducal modifié du 21 décembre 1998 arrêtant la nomenclature des actes et services des médecins pris en charge par l’assurance maladie.
-valid_from: 2024-12-21
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2024/12/13/a522/consolide/20241221/fr
-source_sha256: 5b5617692fbc5d00248e417642dad8b60e23f75605937efcb6dae19e3aba0a6d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2024-12-13-a522:2024-12-21'
+title: 'Version rectifiée applicable au 21/12/2024 : Règlement grand-ducal du 13 décembre 2024 modifiant le règlement grand-ducal modifié du 21 décembre 1998 arrêtant la nomenclature des actes et services des médecins pris en charge par l’assurance maladie.'
+valid_from: '2024-12-21'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2024/12/13/a522/consolide/20241221/fr'
+source_sha256: '5b5617692fbc5d00248e417642dad8b60e23f75605937efcb6dae19e3aba0a6d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

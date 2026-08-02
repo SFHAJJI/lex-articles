@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2020-12-08-a1006:2024-01-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 8 décembre 2020 fixant\n1° les modalités de fonctionnement des commissions nationales de l’enseignement fondamental ;\n2° les indemnités de leurs membres.\n
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2020/12/08/a1006/consolide/20240101/fr
-source_sha256: 9295bd8025f001f4c176127344c6739ebd102c0db8eca7df72ffa395ff848bee
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2020-12-08-a1006:2024-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 8 décembre 2020 fixant\n1° les modalités de fonctionnement des commissions nationales de l’enseignement fondamental ;\n2° les indemnités de leurs membres.\n'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2020/12/08/a1006/consolide/20240101/fr'
+source_sha256: '9295bd8025f001f4c176127344c6739ebd102c0db8eca7df72ffa395ff848bee'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2017-07-28-a680:2025-08-10
-title: Version consolidée applicable au 01/08/2026 : Règlement grand-ducal du 28 juillet 2017 déterminant le régime et les indemnités des employés communaux.
-valid_from: 2025-08-10
-valid_to: 2026-07-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a680/consolide/20250810/fr
-source_sha256: d702cdb56c801d8d140e328979f0beef3406e46fec0f08fae4d81e29f7009cea
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2017-07-28-a680:2025-08-10'
+title: 'Version consolidée applicable au 01/08/2026 : Règlement grand-ducal du 28 juillet 2017 déterminant le régime et les indemnités des employés communaux.'
+valid_from: '2025-08-10'
+valid_to: '2026-07-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a680/consolide/20250810/fr'
+source_sha256: 'd702cdb56c801d8d140e328979f0beef3406e46fec0f08fae4d81e29f7009cea'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — ** Dispositions générales**

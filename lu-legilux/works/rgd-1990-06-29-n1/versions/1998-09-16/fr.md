@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1990-06-29-n1:1998-09-16
-title: Version consolidée applicable au 16/09/1998 : Règlement grand-ducal du 29 juin 1990 portant règlement d’ordre intérieur pour la cour d’appel, les tribunaux d’arrondissement et les justices de paix.
-valid_from: 1998-09-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1990/06/29/n1/consolide/19980916/fr
-source_sha256: 504a665ca20ba7da1bbae6bd46ae152730b858a434864b37c643421485c5f677
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1990-06-29-n1:1998-09-16'
+title: 'Version consolidée applicable au 16/09/1998 : Règlement grand-ducal du 29 juin 1990 portant règlement d’ordre intérieur pour la cour d’appel, les tribunaux d’arrondissement et les justices de paix.'
+valid_from: '1998-09-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1990/06/29/n1/consolide/19980916/fr'
+source_sha256: '504a665ca20ba7da1bbae6bd46ae152730b858a434864b37c643421485c5f677'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_ier"></a>

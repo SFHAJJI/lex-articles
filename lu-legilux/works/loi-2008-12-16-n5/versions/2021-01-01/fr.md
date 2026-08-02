@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2008-12-16-n5:2021-01-01
-title: Version consolidée applicable au 27/12/2022 : Loi du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg.
-valid_from: 2021-01-01
-valid_to: 2022-12-26
-source: https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n5/consolide/20210101/fr
-source_sha256: 1203b5e21b866661019d2c560407cc40d79bb2853b3276e38d9f1e1c9d8d02f8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2008-12-16-n5:2021-01-01'
+title: 'Version consolidée applicable au 27/12/2022 : Loi du 16 décembre 2008 concernant l’intégration des étrangers au Grand-Duché de Luxembourg.'
+valid_from: '2021-01-01'
+valid_to: '2022-12-26'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n5/consolide/20210101/fr'
+source_sha256: '1203b5e21b866661019d2c560407cc40d79bb2853b3276e38d9f1e1c9d8d02f8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1. — * Dispositions générales*

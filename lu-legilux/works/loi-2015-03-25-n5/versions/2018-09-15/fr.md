@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2015-03-25-n5:2018-09-15
-title: Version consolidée applicable au 15/09/2018 : Loi du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.
-valid_from: 2018-09-15
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n5/consolide/20180915/fr
-source_sha256: 9373ba5cb98db149195910d5d6be2d465785256af109f412d34224ed641df680
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2015-03-25-n5:2018-09-15'
+title: 'Version consolidée applicable au 15/09/2018 : Loi du 25 mars 2015 instituant un régime de pension spécial transitoire pour les fonctionnaires de l''Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois.'
+valid_from: '2018-09-15'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n5/consolide/20180915/fr'
+source_sha256: '9373ba5cb98db149195910d5d6be2d465785256af109f412d34224ed641df680'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## TITRE I — **PARTIE COMMUNE**

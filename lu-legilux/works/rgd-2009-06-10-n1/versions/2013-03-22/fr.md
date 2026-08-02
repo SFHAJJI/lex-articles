@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-06-10-n1:2013-03-22
-title: Version consolidée applicable au 17/07/2026 : Règlement grand-ducal du 10 juin 2009 portant organisation du stage judiciaire et règlementant l’accès au notariat.
-valid_from: 2013-03-22
-valid_to: 2026-07-16
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/consolide/20130322/fr
-source_sha256: b1dcdf8e822b8fb5fbbc6cb89d61f67c3a8f2c989137805e094d77cd2abdc39d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-06-10-n1:2013-03-22'
+title: 'Version consolidée applicable au 17/07/2026 : Règlement grand-ducal du 10 juin 2009 portant organisation du stage judiciaire et règlementant l’accès au notariat.'
+valid_from: '2013-03-22'
+valid_to: '2026-07-16'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/consolide/20130322/fr'
+source_sha256: 'b1dcdf8e822b8fb5fbbc6cb89d61f67c3a8f2c989137805e094d77cd2abdc39d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

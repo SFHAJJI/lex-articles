@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1979-04-13-n2:1979-08-01
-title: Version consolidée applicable au 01/08/1979 : Loi du 13 avril 1979 portant réforme du droit de la filiation.
-valid_from: 1979-08-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1979/04/13/n2/consolide/19790801/fr
-source_sha256: ed4ebd1a6c9aa1a89eecdd38e8f27463d807f36f1c4f94ce798361e5337135cd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1979-04-13-n2:1979-08-01'
+title: 'Version consolidée applicable au 01/08/1979 : Loi du 13 avril 1979 portant réforme du droit de la filiation.'
+valid_from: '1979-08-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/04/13/n2/consolide/19790801/fr'
+source_sha256: 'ed4ebd1a6c9aa1a89eecdd38e8f27463d807f36f1c4f94ce798361e5337135cd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_ier"></a>

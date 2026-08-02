@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-05-30-a447:2022-11-22
-title: Version consolidée applicable au 22/11/2022 : Règlement grand-ducal du 30 mai 2018 relatif à la protection des instruments financiers et des fonds des clients, aux obligations applicables en matière de gouvernance des produits et aux règles régissant l’octroi ou la perception de droits, de commissions ou de tout autre avantage monétaire ou non monétaire, et portant :\n1. transposition de la directive déléguée (UE) 2017/593 de la Commission du 7 avril 2016 complétant la directive 2014/65/UE du Parlement européen et du Conseil en ce qui concerne la sauvegarde des instruments financiers et des fonds des clients, les obligations applicables en matière de gouvernance des produits et les règles régissant l’octroi ou la perception de droits, de commissions ou de tout autre avantage pécuniaire ou non pécuniaire ;\n2. modification du règlement grand-ducal du 13 juillet 2007 relatif à la tenue d’une cote officielle pour instruments financiers ; et\n3. abrogation du règlement grand-ducal du 13 juillet 2007 relatif aux exigences organisationnelles et aux règles de conduite dans le secteur financier
-valid_from: 2022-11-22
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a447/consolide/20221122/fr
-source_sha256: 815f1d1bdd56bd1464c3328f6e7daa45d01b282d408303eead92bfa05cad0ac4
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-05-30-a447:2022-11-22'
+title: 'Version consolidée applicable au 22/11/2022 : Règlement grand-ducal du 30 mai 2018 relatif à la protection des instruments financiers et des fonds des clients, aux obligations applicables en matière de gouvernance des produits et aux règles régissant l’octroi ou la perception de droits, de commissions ou de tout autre avantage monétaire ou non monétaire, et portant :\n1. transposition de la directive déléguée (UE) 2017/593 de la Commission du 7 avril 2016 complétant la directive 2014/65/UE du Parlement européen et du Conseil en ce qui concerne la sauvegarde des instruments financiers et des fonds des clients, les obligations applicables en matière de gouvernance des produits et les règles régissant l’octroi ou la perception de droits, de commissions ou de tout autre avantage pécuniaire ou non pécuniaire ;\n2. modification du règlement grand-ducal du 13 juillet 2007 relatif à la tenue d’une cote officielle pour instruments financiers ; et\n3. abrogation du règlement grand-ducal du 13 juillet 2007 relatif aux exigences organisationnelles et aux règles de conduite dans le secteur financier'
+valid_from: '2022-11-22'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a447/consolide/20221122/fr'
+source_sha256: '815f1d1bdd56bd1464c3328f6e7daa45d01b282d408303eead92bfa05cad0ac4'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Protection des instruments financiers et des fonds des clients, obligations applicables en matière de gouvernance des produits et règles régissant l’octroi ou la perception de droits, de commissions ou de tout autre avantage monétaire ou non monétaire**

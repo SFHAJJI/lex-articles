@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1967-02-25-n1:1981-07-01
-title: Version consolidée applicable au 01/07/2016 : Loi du 25 février 1967 ayant pour objet diverses mesures en faveur de personnes devenues victimes d'actes illégaux de l'occupant.
-valid_from: 1981-07-01
-valid_to: 2003-01-03
-source: https://legilux.public.lu/eli/etat/leg/loi/1967/02/25/n1/consolide/19810701/fr
-source_sha256: c1cfdd9751edbfa7b1d7a10356f35bd938c9447e662d0720c0a296561f471fe2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1967-02-25-n1:1981-07-01'
+title: 'Version consolidée applicable au 01/07/2016 : Loi du 25 février 1967 ayant pour objet diverses mesures en faveur de personnes devenues victimes d''actes illégaux de l''occupant.'
+valid_from: '1981-07-01'
+valid_to: '2003-01-03'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1967/02/25/n1/consolide/19810701/fr'
+source_sha256: 'c1cfdd9751edbfa7b1d7a10356f35bd938c9447e662d0720c0a296561f471fe2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. - **La Résistance**

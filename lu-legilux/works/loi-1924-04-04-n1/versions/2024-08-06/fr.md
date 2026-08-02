@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1924-04-04-n1:2024-08-06
-title: Version consolidée applicable au 06/08/2024 : Loi du 4 avril 1924 portant création de chambres professionnelles à base élective.
-valid_from: 2024-08-06
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/consolide/20240806/fr
-source_sha256: c2a968701ff42d97af44750db3a57def13fecfb2b26e3d60a3dd8d66d4cdbdaa
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1924-04-04-n1:2024-08-06'
+title: 'Version consolidée applicable au 06/08/2024 : Loi du 4 avril 1924 portant création de chambres professionnelles à base élective.'
+valid_from: '2024-08-06'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/consolide/20240806/fr'
+source_sha256: 'c2a968701ff42d97af44750db3a57def13fecfb2b26e3d60a3dd8d66d4cdbdaa'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I.- — Dispositions générales.

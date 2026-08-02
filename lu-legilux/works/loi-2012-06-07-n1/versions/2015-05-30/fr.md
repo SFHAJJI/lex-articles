@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2012-06-07-n1:2015-05-30
-title: Version consolidée applicable au 06/04/2025 : Loi du 7 juin 2012 sur les attachés de justice et portant modification:\n - du Code d'instruction criminelle;\n - de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'État;\n - de la loi modifiée du 7 mars 1980 sur l'organisation judiciaire;\n - de la loi modifiée du 10 août 1991 sur la profession d'avocat;\n - de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l'ordre administratif.
-valid_from: 2015-05-30
-valid_to: 2016-07-11
-source: https://legilux.public.lu/eli/etat/leg/loi/2012/06/07/n1/consolide/20150530/fr
-source_sha256: f6911445347d775f93091dec5acc1819f233016037e167931c7ad317a6b11996
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2012-06-07-n1:2015-05-30'
+title: 'Version consolidée applicable au 06/04/2025 : Loi du 7 juin 2012 sur les attachés de justice et portant modification:\n - du Code d''instruction criminelle;\n - de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l''État;\n - de la loi modifiée du 7 mars 1980 sur l''organisation judiciaire;\n - de la loi modifiée du 10 août 1991 sur la profession d''avocat;\n - de la loi modifiée du 7 novembre 1996 portant organisation des juridictions de l''ordre administratif.'
+valid_from: '2015-05-30'
+valid_to: '2016-07-11'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2012/06/07/n1/consolide/20150530/fr'
+source_sha256: 'f6911445347d775f93091dec5acc1819f233016037e167931c7ad317a6b11996'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre Ier.**- — ** Recrutement et formation des attachés de justice**

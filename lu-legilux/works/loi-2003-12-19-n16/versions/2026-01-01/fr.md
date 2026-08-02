@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2003-12-19-n16:2026-01-01
-title: Version consolidée applicable au 01/01/2026 : Loi du 19 décembre 2003 portant réactivation du fonds d'équipement militaire.
-valid_from: 2026-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n16/consolide/20260101/fr
-source_sha256: 4e6288747af9d87e32dbb28ec88d6bd4ead335f1d9359f72d6ee679440e161e0
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2003-12-19-n16:2026-01-01'
+title: 'Version consolidée applicable au 01/01/2026 : Loi du 19 décembre 2003 portant réactivation du fonds d''équipement militaire.'
+valid_from: '2026-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n16/consolide/20260101/fr'
+source_sha256: '4e6288747af9d87e32dbb28ec88d6bd4ead335f1d9359f72d6ee679440e161e0'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

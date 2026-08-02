@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-cours_tribunaux:2024-08-05
-title: Cours et Tribunaux
-valid_from: 2024-08-05
-valid_to: 2024-09-15
-source: https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20240805/fr
-source_sha256: 3b122b0f502a4c0e71656794ecf2a774574978cb07fee839f2cf02c925b73aca
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-cours_tribunaux:2024-08-05'
+title: 'Cours et Tribunaux'
+valid_from: '2024-08-05'
+valid_to: '2024-09-15'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20240805/fr'
+source_sha256: '3b122b0f502a4c0e71656794ecf2a774574978cb07fee839f2cf02c925b73aca'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## COUR CONSTITUTIONNELLE

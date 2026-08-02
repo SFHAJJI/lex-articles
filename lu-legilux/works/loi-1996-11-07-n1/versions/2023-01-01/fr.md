@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1996-11-07-n1:2023-01-01
-title: loi-1996-11-07-n1
-valid_from: 2023-01-01
-valid_to: 2023-01-31
-source: https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20230101/fr
-source_sha256: 69e9af53554fdb5cd3bf7a42aad935d3a18cb9d36a22cee6f929fa838e2234d5
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1996-11-07-n1:2023-01-01'
+title: 'loi-1996-11-07-n1'
+valid_from: '2023-01-01'
+valid_to: '2023-01-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20230101/fr'
+source_sha256: '69e9af53554fdb5cd3bf7a42aad935d3a18cb9d36a22cee6f929fa838e2234d5'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er.- — De l’organisation des juridictions de l’ordre administratif

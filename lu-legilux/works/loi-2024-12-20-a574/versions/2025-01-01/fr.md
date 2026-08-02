@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2024-12-20-a574:2025-01-01
-title: Version rectifiée applicable au 01/01/2025 : Loi du 20 décembre 2024 modifiant la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée aux fins de :\n1° transposer l’article 1er de la directive (UE) 2020/285 du Conseil du 18 février 2020 modifiant la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée en ce qui concerne le régime particulier des petites entreprises et le règlement (UE) n° 904/2010 en ce qui concerne la coopération administrative et l’échange d’informations aux fins du contrôle de l’application correcte du régime particulier des petites entreprises ;\n2° transposer l’article 1er, points 1), 2), 7), 12), 16) et 20) de la directive (UE) 2022/542 du Conseil du 5 avril 2022 modifiant les directives 2006/112/CE et (UE) 2020/285 en ce qui concerne les taux de taxe sur la valeur ajoutée.\n
-valid_from: 2025-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2024/12/20/a574/consolide/20250101/fr
-source_sha256: c45fe6f379103f5e36f8c3f2987de171bbcf7ada13bf3ded440e5775e713337c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2024-12-20-a574:2025-01-01'
+title: 'Version rectifiée applicable au 01/01/2025 : Loi du 20 décembre 2024 modifiant la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée aux fins de :\n1° transposer l’article 1er de la directive (UE) 2020/285 du Conseil du 18 février 2020 modifiant la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée en ce qui concerne le régime particulier des petites entreprises et le règlement (UE) n° 904/2010 en ce qui concerne la coopération administrative et l’échange d’informations aux fins du contrôle de l’application correcte du régime particulier des petites entreprises ;\n2° transposer l’article 1er, points 1), 2), 7), 12), 16) et 20) de la directive (UE) 2022/542 du Conseil du 5 avril 2022 modifiant les directives 2006/112/CE et (UE) 2020/285 en ce qui concerne les taux de taxe sur la valeur ajoutée.\n'
+valid_from: '2025-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2024/12/20/a574/consolide/20250101/fr'
+source_sha256: 'c45fe6f379103f5e36f8c3f2987de171bbcf7ada13bf3ded440e5775e713337c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

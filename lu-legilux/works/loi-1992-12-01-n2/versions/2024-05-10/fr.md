@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1992-12-01-n2:2024-05-10
-title: Version consolidée applicable au 10/05/2024 : Loi du 1er décembre 1992 portant \n1. création d'un établissement public pour le développement de la formation professionnelle continue et \n2. fixation des cadres du personnel des Centres de formation professionnelle continue.
-valid_from: 2024-05-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1992/12/01/n2/consolide/20240510/fr
-source_sha256: f365713e873a03a77045944d8485d06e213bb30f19da5601167e262a20451f17
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1992-12-01-n2:2024-05-10'
+title: 'Version consolidée applicable au 10/05/2024 : Loi du 1er décembre 1992 portant \n1. création d''un établissement public pour le développement de la formation professionnelle continue et \n2. fixation des cadres du personnel des Centres de formation professionnelle continue.'
+valid_from: '2024-05-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1992/12/01/n2/consolide/20240510/fr'
+source_sha256: 'f365713e873a03a77045944d8485d06e213bb30f19da5601167e262a20451f17'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Titre Ier: — De la création d'un établissement public pour le développement de la formation professionnelle continue

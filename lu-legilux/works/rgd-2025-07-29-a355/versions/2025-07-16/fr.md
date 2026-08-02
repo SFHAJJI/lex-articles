@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2025-07-29-a355:2025-07-16
-title: Version consolidée applicable au 16/07/2025 : Règlement grand-ducal du 29 juillet 2025 déterminant les professions et métiers dans le cadre de la formation professionnelle et fixant les indemnités d’apprentissage dans les secteurs de l’artisanat, du commerce, de l’Horeca, de l’industrie, de l’agriculture et du secteur de santé et social.
-valid_from: 2025-07-16
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2025/07/29/a355/consolide/20250716/fr
-source_sha256: 3ec76402d1482b377c01959a070cea12f530179d15eca46b93e3c99c5b030b65
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2025-07-29-a355:2025-07-16'
+title: 'Version consolidée applicable au 16/07/2025 : Règlement grand-ducal du 29 juillet 2025 déterminant les professions et métiers dans le cadre de la formation professionnelle et fixant les indemnités d’apprentissage dans les secteurs de l’artisanat, du commerce, de l’Horeca, de l’industrie, de l’agriculture et du secteur de santé et social.'
+valid_from: '2025-07-16'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2025/07/29/a355/consolide/20250716/fr'
+source_sha256: '3ec76402d1482b377c01959a070cea12f530179d15eca46b93e3c99c5b030b65'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

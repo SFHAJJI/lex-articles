@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2003-03-17-n2:2013-11-08
-title: Version consolidée applicable au 01/11/2012 : Règlement grand-ducal du 17 mars 2003 relatif aux véhicules hors d'usage.
-valid_from: 2013-11-08
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2003/03/17/n2/consolide/20131108/fr
-source_sha256: ab6e0b2c2851209f0d168b99cec5a62a5b88b67ff2bcd37389f4c9d9a6c395fe
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2003-03-17-n2:2013-11-08'
+title: 'Version consolidée applicable au 01/11/2012 : Règlement grand-ducal du 17 mars 2003 relatif aux véhicules hors d''usage.'
+valid_from: '2013-11-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2003/03/17/n2/consolide/20131108/fr'
+source_sha256: 'ab6e0b2c2851209f0d168b99cec5a62a5b88b67ff2bcd37389f4c9d9a6c395fe'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

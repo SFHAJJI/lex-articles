@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2023-07-10-a409:2023-09-01
-title: Version rectifiée applicable au 01/09/2023 : Règlement grand-ducal du 10 juillet 2023 modifiant le règlement grand-ducal du 16 juin 2022 déterminant les différentes branches, les niveaux, la durée des cours, les programmes d’études et d’examens, les modalités d’obtention, de délivrance et de nomenclature des diplômes et certificats, ainsi que les modalités de transition entre les différents niveaux et les établissements dans l’enseignement musical.
-valid_from: 2023-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2023/07/10/a409/consolide/20230901/fr
-source_sha256: 1298456c79d122441acb03f3b630125027ef6a3adbf048402aae383fd8178158
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2023-07-10-a409:2023-09-01'
+title: 'Version rectifiée applicable au 01/09/2023 : Règlement grand-ducal du 10 juillet 2023 modifiant le règlement grand-ducal du 16 juin 2022 déterminant les différentes branches, les niveaux, la durée des cours, les programmes d’études et d’examens, les modalités d’obtention, de délivrance et de nomenclature des diplômes et certificats, ainsi que les modalités de transition entre les différents niveaux et les établissements dans l’enseignement musical.'
+valid_from: '2023-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/07/10/a409/consolide/20230901/fr'
+source_sha256: '1298456c79d122441acb03f3b630125027ef6a3adbf048402aae383fd8178158'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-12-06-a909:2024-09-01
-title: Version consolidée applicable au 01/09/2024 : Règlement grand-ducal du 6 décembre 2019 précisant les modalités et conditions de mise en place du dossier de soins partagé.
-valid_from: 2024-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/12/06/a909/consolide/20240901/fr
-source_sha256: 77bc16df2db9d06449a33980495fe60c6965eca56c49970fe2b7c6c7c566145d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-12-06-a909:2024-09-01'
+title: 'Version consolidée applicable au 01/09/2024 : Règlement grand-ducal du 6 décembre 2019 précisant les modalités et conditions de mise en place du dossier de soins partagé.'
+valid_from: '2024-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/12/06/a909/consolide/20240901/fr'
+source_sha256: '77bc16df2db9d06449a33980495fe60c6965eca56c49970fe2b7c6c7c566145d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

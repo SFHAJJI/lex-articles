@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2007-08-01-n13:2021-06-08
-title: loi-2007-08-01-n13
-valid_from: 2021-06-08
-valid_to: 2026-01-03
-source: https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13/consolide/20210608/fr
-source_sha256: 99da5e6a5b5238681f73ba03d2ce2af07585af19beb4f624ea9f744cf93f529c
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2007-08-01-n13:2021-06-08'
+title: 'loi-2007-08-01-n13'
+valid_from: '2021-06-08'
+valid_to: '2026-01-03'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13/consolide/20210608/fr'
+source_sha256: '99da5e6a5b5238681f73ba03d2ce2af07585af19beb4f624ea9f744cf93f529c'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I — Champ d’application et définitions

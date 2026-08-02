@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2019-12-20-a900:2025-09-01
-title: Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 20 décembre 2019 déterminant pour les fonctionnaires et employés de l’État les modalités d’attribution de la réduction de stage et de la prime de doctorat et abrogeant le règlement grand-ducal modifié du 30 septembre 2015 déterminant pour les fonctionnaires et employés de l'État : \nI. les cas d'exception ou de tempérament aux conditions de stage ;\nII. la bonification d'ancienneté de service pour la fixation du traitement initial ; \nIII. la procédure d'attribution d'une prime pour les détenteurs d'un doctorat.
-valid_from: 2025-09-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/consolide/20250901/fr
-source_sha256: cab7bcf524e8120617cc14cdcfb28b9ab4753dd52c5a40357618fd5be29a88a2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2019-12-20-a900:2025-09-01'
+title: 'Version consolidée applicable au 01/09/2025 : Règlement grand-ducal du 20 décembre 2019 déterminant pour les fonctionnaires et employés de l’État les modalités d’attribution de la réduction de stage et de la prime de doctorat et abrogeant le règlement grand-ducal modifié du 30 septembre 2015 déterminant pour les fonctionnaires et employés de l''État : \nI. les cas d''exception ou de tempérament aux conditions de stage ;\nII. la bonification d''ancienneté de service pour la fixation du traitement initial ; \nIII. la procédure d''attribution d''une prime pour les détenteurs d''un doctorat.'
+valid_from: '2025-09-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/consolide/20250901/fr'
+source_sha256: 'cab7bcf524e8120617cc14cdcfb28b9ab4753dd52c5a40357618fd5be29a88a2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er** — **Réduction de stage**

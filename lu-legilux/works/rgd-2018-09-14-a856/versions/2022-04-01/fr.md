@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2018-09-14-a856:2022-04-01
-title: Version consolidée applicable au 01/04/2022 : Règlement grand-ducal du 14 septembre 2018 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive ainsi que de l’examen de promotion des fonctionnaires auprès de l’Administration de la gestion de l’eau.
-valid_from: 2022-04-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2018/09/14/a856/consolide/20220401/fr
-source_sha256: cce009ba24b049f94be1db3b18262c95ee35ee233771888eb428543f73e5a4b8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2018-09-14-a856:2022-04-01'
+title: 'Version consolidée applicable au 01/04/2022 : Règlement grand-ducal du 14 septembre 2018 fixant les modalités et les matières de l’examen de fin de stage sanctionnant la formation spéciale en vue de l’admission définitive ainsi que de l’examen de promotion des fonctionnaires auprès de l’Administration de la gestion de l’eau.'
+valid_from: '2022-04-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2018/09/14/a856/consolide/20220401/fr'
+source_sha256: 'cce009ba24b049f94be1db3b18262c95ee35ee233771888eb428543f73e5a4b8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — ** Formation spéciale des fonctionnaires stagiaires**

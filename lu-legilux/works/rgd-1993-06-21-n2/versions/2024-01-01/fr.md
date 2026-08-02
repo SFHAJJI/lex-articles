@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1993-06-21-n2:2024-01-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 21 juin 1993 relatif à la procédure de médiation prévue à l’article 69 du code des assurances sociales.
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1993/06/21/n2/consolide/20240101/fr
-source_sha256: 57d021fa41469a1d2533557f173ec5fd99e0242547e68398daed261512c04688
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1993-06-21-n2:2024-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 21 juin 1993 relatif à la procédure de médiation prévue à l’article 69 du code des assurances sociales.'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1993/06/21/n2/consolide/20240101/fr'
+source_sha256: '57d021fa41469a1d2533557f173ec5fd99e0242547e68398daed261512c04688'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I — **Désignation du médiateur**

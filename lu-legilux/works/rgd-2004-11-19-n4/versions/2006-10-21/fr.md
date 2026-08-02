@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2004-11-19-n4:2006-10-21
-title: Version consolidée applicable au 05/02/2019 : Règlement grand-ducal du 19 novembre 2004 relatif à la fabrication, la distribution et le courtage de médicaments.
-valid_from: 2006-10-21
-valid_to: 2019-02-04
-source: https://legilux.public.lu/eli/etat/leg/rgd/2004/11/19/n4/consolide/20061021/fr
-source_sha256: 08ddacfcfd253a871ed481825cc3035a9e5fd8ac4b9da8c1b2a95ba52c75c346
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2004-11-19-n4:2006-10-21'
+title: 'Version consolidée applicable au 05/02/2019 : Règlement grand-ducal du 19 novembre 2004 relatif à la fabrication, la distribution et le courtage de médicaments.'
+valid_from: '2006-10-21'
+valid_to: '2019-02-04'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/11/19/n4/consolide/20061021/fr'
+source_sha256: '08ddacfcfd253a871ed481825cc3035a9e5fd8ac4b9da8c1b2a95ba52c75c346'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre Ier. — Autorisation de fabrication de médicaments à usage humain ou vétérinaire

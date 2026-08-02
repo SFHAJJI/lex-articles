@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2000-06-22-n3:2022-08-14
-title: Version consolidée applicable au 14/08/2022 : Règlement grand-ducal du 22 juin 2000 portant exécution de la loi du 29 avril 2000 transposant la directive 92/29/CEE du Conseil du 31 mars 1992 concernant les prescriptions minimales de sécurité et de santé pour promouvoir une meilleure assistance médicale à bord des navires.
-valid_from: 2022-08-14
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2000/06/22/n3/consolide/20220814/fr
-source_sha256: fa79db8211bd125a11aea12af7c25a976c7175e9a6ca3d3242d4c8ee35fc890d
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2000-06-22-n3:2022-08-14'
+title: 'Version consolidée applicable au 14/08/2022 : Règlement grand-ducal du 22 juin 2000 portant exécution de la loi du 29 avril 2000 transposant la directive 92/29/CEE du Conseil du 31 mars 1992 concernant les prescriptions minimales de sécurité et de santé pour promouvoir une meilleure assistance médicale à bord des navires.'
+valid_from: '2022-08-14'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2000/06/22/n3/consolide/20220814/fr'
+source_sha256: 'fa79db8211bd125a11aea12af7c25a976c7175e9a6ca3d3242d4c8ee35fc890d'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

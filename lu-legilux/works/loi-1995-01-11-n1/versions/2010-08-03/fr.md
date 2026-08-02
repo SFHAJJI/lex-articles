@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1995-01-11-n1:2010-08-03
-title: Version consolidée applicable au 18/11/2016 : Loi du 11 janvier 1995 portant réorganisation des écoles publiques et privées d'infirmiers et d'infirmières et réglementant la collaboration entre le ministère de l'Education nationale et le ministère de la Santé.
-valid_from: 2010-08-03
-valid_to: 2016-11-17
-source: https://legilux.public.lu/eli/etat/leg/loi/1995/01/11/n1/consolide/20100803/fr
-source_sha256: 049d08ebd50dcab5a83f92355af8f1d55fba52157b89f90d7094c2f53e085fae
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1995-01-11-n1:2010-08-03'
+title: 'Version consolidée applicable au 18/11/2016 : Loi du 11 janvier 1995 portant réorganisation des écoles publiques et privées d''infirmiers et d''infirmières et réglementant la collaboration entre le ministère de l''Education nationale et le ministère de la Santé.'
+valid_from: '2010-08-03'
+valid_to: '2016-11-17'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1995/01/11/n1/consolide/20100803/fr'
+source_sha256: '049d08ebd50dcab5a83f92355af8f1d55fba52157b89f90d7094c2f53e085fae'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## CHAPITRE I. — ** De la réorganisation des écoles qui forment des professionnels de la santé.**

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1979-02-27-n2:1979-03-18
-title: Version rectifiée applicable au 18/03/1979 : Loi du 27 février 1979 portant approbation du Protocole portant modification à la Convention sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de nationalités, signé à Strasbourg, le 24 novembre 1977.
-valid_from: 1979-03-18
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1979/02/27/n2/consolide/19790318/fr
-source_sha256: 69059b69bd7419028e44f60f37ed59915b3e9e8c0a7ff06484af7913ea54f894
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1979-02-27-n2:1979-03-18'
+title: 'Version rectifiée applicable au 18/03/1979 : Loi du 27 février 1979 portant approbation du Protocole portant modification à la Convention sur la réduction des cas de pluralité de nationalités et sur les obligations militaires en cas de pluralité de nationalités, signé à Strasbourg, le 24 novembre 1977.'
+valid_from: '1979-03-18'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/02/27/n2/consolide/19790318/fr'
+source_sha256: '69059b69bd7419028e44f60f37ed59915b3e9e8c0a7ff06484af7913ea54f894'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="article_unique"></a>

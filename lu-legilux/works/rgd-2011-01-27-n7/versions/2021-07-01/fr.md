@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-01-27-n7:2021-07-01
-title: Version consolidée applicable au 01/07/2021 : Règlement grand-ducal du 27 janvier 2011 relatif à l'exonération de la taxe sur la valeur ajoutée de certaines importations de biens.
-valid_from: 2021-07-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/01/27/n7/consolide/20210701/fr
-source_sha256: 5f91c6acbfa78f0fc449f5265bc0509cd685449a26ba2edacf1747911fa25420
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-01-27-n7:2021-07-01'
+title: 'Version consolidée applicable au 01/07/2021 : Règlement grand-ducal du 27 janvier 2011 relatif à l''exonération de la taxe sur la valeur ajoutée de certaines importations de biens.'
+valid_from: '2021-07-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/01/27/n7/consolide/20210701/fr'
+source_sha256: '5f91c6acbfa78f0fc449f5265bc0509cd685449a26ba2edacf1747911fa25420'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

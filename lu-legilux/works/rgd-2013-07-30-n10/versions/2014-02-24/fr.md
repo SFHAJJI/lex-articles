@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-07-30-n10:2014-02-24
-title: Version consolidée applicable au 24/02/2014 : Règlement grand-ducal du 30 juillet 2013 portant exécution de certaines dispositions du Titre 4. - De la comptabilité communale de la loi communale modifiée du 13 décembre 1988.
-valid_from: 2014-02-24
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n10/consolide/20140224/fr
-source_sha256: 8251bfd908b0301ccbe11fbac66111b7805a7997b9f00072796f299b255acbbe
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-07-30-n10:2014-02-24'
+title: 'Version consolidée applicable au 24/02/2014 : Règlement grand-ducal du 30 juillet 2013 portant exécution de certaines dispositions du Titre 4. - De la comptabilité communale de la loi communale modifiée du 13 décembre 1988.'
+valid_from: '2014-02-24'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n10/consolide/20140224/fr'
+source_sha256: '8251bfd908b0301ccbe11fbac66111b7805a7997b9f00072796f299b255acbbe'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Généralités

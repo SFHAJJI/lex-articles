@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-05-28-n3:2024-01-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 28 mai 2009 concernant les modalités d'élection des membres du personnel enseignant à la commission scolaire nationale, le fonctionnement de celle-ci ainsi que les décharges et indemnités de ses membres.
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/consolide/20240101/fr
-source_sha256: 94392a331d57cfd6dc301f1a288f98069a8d56222f7418602a8cc62fa8059324
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-05-28-n3:2024-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 28 mai 2009 concernant les modalités d''élection des membres du personnel enseignant à la commission scolaire nationale, le fonctionnement de celle-ci ainsi que les décharges et indemnités de ses membres.'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/consolide/20240101/fr'
+source_sha256: '94392a331d57cfd6dc301f1a288f98069a8d56222f7418602a8cc62fa8059324'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre I. — De l’élection des délégués du personnel enseignant

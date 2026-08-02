@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2009-11-06-n4:2016-12-31
-title: Version consolidée applicable au 25/12/2021 : Règlement grand-ducal du 6 novembre 2009 fixant l'organisation de l'administration des contributions directes.
-valid_from: 2016-12-31
-valid_to: 2017-12-23
-source: https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/consolide/20161231/fr
-source_sha256: 5e762bb21c32862a76ac8cf16fe31d2de85a829d79a3f53aa1e45cb1c9304070
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2009-11-06-n4:2016-12-31'
+title: 'Version consolidée applicable au 25/12/2021 : Règlement grand-ducal du 6 novembre 2009 fixant l''organisation de l''administration des contributions directes.'
+valid_from: '2016-12-31'
+valid_to: '2017-12-23'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/consolide/20161231/fr'
+source_sha256: '5e762bb21c32862a76ac8cf16fe31d2de85a829d79a3f53aa1e45cb1c9304070'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

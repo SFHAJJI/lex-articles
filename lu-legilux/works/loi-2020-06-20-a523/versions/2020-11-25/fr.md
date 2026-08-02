@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2020-06-20-a523:2020-11-25
-title: Version consolidée applicable au 25/11/2020 : Loi du 20 juin 2020 portant\n1° prorogation de mesures concernant\n- la tenue d’audiences publiques pendant l’état de crise devant les juridictions dans les affaires soumises à la procédure écrite,\n- certaines adaptations de la procédure de référé exceptionnel devant le juge aux affaires familiales,\n- la suspension des délais en matière juridictionnelle, et\n- d’autres modalités procédurales,\n2° dérogation temporaire aux articles 74, 75, 76 et 83 de la loi modifiée du 9 décembre 1976 relative à l’organisation du notariat,\n3° dérogation temporaire aux articles 15 et 16 de la loi modifiée du 10 août 1991 sur la profession d’avocat, et\n4° modification de l’article 89 de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise.\n
-valid_from: 2020-11-25
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a523/consolide/20201125/fr
-source_sha256: af0be62e7ac0b59dab1c31e845bfad23bd7c87312217e6c192b68ea8e89265d1
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2020-06-20-a523:2020-11-25'
+title: 'Version consolidée applicable au 25/11/2020 : Loi du 20 juin 2020 portant\n1° prorogation de mesures concernant\n- la tenue d’audiences publiques pendant l’état de crise devant les juridictions dans les affaires soumises à la procédure écrite,\n- certaines adaptations de la procédure de référé exceptionnel devant le juge aux affaires familiales,\n- la suspension des délais en matière juridictionnelle, et\n- d’autres modalités procédurales,\n2° dérogation temporaire aux articles 74, 75, 76 et 83 de la loi modifiée du 9 décembre 1976 relative à l’organisation du notariat,\n3° dérogation temporaire aux articles 15 et 16 de la loi modifiée du 10 août 1991 sur la profession d’avocat, et\n4° modification de l’article 89 de la loi modifiée du 8 mars 2017 sur la nationalité luxembourgeoise.\n'
+valid_from: '2020-11-25'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a523/consolide/20201125/fr'
+source_sha256: 'af0be62e7ac0b59dab1c31e845bfad23bd7c87312217e6c192b68ea8e89265d1'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## **Chapitre 1er ** — **Tenue d’audiences publiques devant les juridictions dans les affaires soumises à la procédure écrite et adaptation temporaire de la procédure de référé exceptionnel devant le juge aux affaires familiales**

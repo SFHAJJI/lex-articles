@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2023-06-28-a333:2026-06-29
-title: Version consolidée applicable au 29/06/2026 : Loi du 28 juin 2023 relative au financement de l’exploitation des services de transports spécifiques réguliers spécialisés.
-valid_from: 2026-06-29
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a333/consolide/20260629/fr
-source_sha256: 9a6b5344c8a0817c78bb229b6762946e8d3ec8eb34dd7b995ca2926c4274a23a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2023-06-28-a333:2026-06-29'
+title: 'Version consolidée applicable au 29/06/2026 : Loi du 28 juin 2023 relative au financement de l’exploitation des services de transports spécifiques réguliers spécialisés.'
+valid_from: '2026-06-29'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a333/consolide/20260629/fr'
+source_sha256: '9a6b5344c8a0817c78bb229b6762946e8d3ec8eb34dd7b995ca2926c4274a23a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2016-12-23-n16:2023-06-01
-title: Loi du 23 décembre 2016 relative à la déclaration pays par pays.
-valid_from: 2023-06-01
-valid_to: 2025-12-31
-source: https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n16/consolide/20230601/fr
-source_sha256: 845973a1c9b5ab8739ae465b4e77e6e514bebea3cdfe93da2bbbde6f6677f15e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2016-12-23-n16:2023-06-01'
+title: 'Loi du 23 décembre 2016 relative à la déclaration pays par pays.'
+valid_from: '2023-06-01'
+valid_to: '2025-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n16/consolide/20230601/fr'
+source_sha256: '845973a1c9b5ab8739ae465b4e77e6e514bebea3cdfe93da2bbbde6f6677f15e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er — Définitions

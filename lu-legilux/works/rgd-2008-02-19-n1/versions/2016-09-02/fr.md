@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2008-02-19-n1:2016-09-02
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 19 février 2008 déterminant la zone de compétence territoriale et le siège des commissions des loyers instituées pour l'ensemble des communes de moins de 6.000 habitants, prévues par l'article 7 de la loi du 21 septembre 2006 sur le bail à usage d'habitation et modifiant certaines dispositions du Code civil, et déterminant le montant des indemnités revenant aux membres et aux secrétaires des commissions des loyers.
-valid_from: 2016-09-02
-valid_to: 2018-08-12
-source: https://legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/consolide/20160902/fr
-source_sha256: 15a0062210913e863aa07574f6bc54e8b3ca359f7b0408409ab6732b875bd7cb
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2008-02-19-n1:2016-09-02'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 19 février 2008 déterminant la zone de compétence territoriale et le siège des commissions des loyers instituées pour l''ensemble des communes de moins de 6.000 habitants, prévues par l''article 7 de la loi du 21 septembre 2006 sur le bail à usage d''habitation et modifiant certaines dispositions du Code civil, et déterminant le montant des indemnités revenant aux membres et aux secrétaires des commissions des loyers.'
+valid_from: '2016-09-02'
+valid_to: '2018-08-12'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/consolide/20160902/fr'
+source_sha256: '15a0062210913e863aa07574f6bc54e8b3ca359f7b0408409ab6732b875bd7cb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

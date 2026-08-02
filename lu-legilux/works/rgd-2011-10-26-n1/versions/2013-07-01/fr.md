@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-10-26-n1:2013-07-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 26 octobre 2011 instituant un Conseil scientifique du domaine de la santé.
-valid_from: 2013-07-01
-valid_to: 2023-12-31
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/consolide/20130701/fr
-source_sha256: 277271f1c91649691c8b8cd98d263a0f95737c68f1bf42ac4b69cda7d128c5fd
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-10-26-n1:2013-07-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 26 octobre 2011 instituant un Conseil scientifique du domaine de la santé.'
+valid_from: '2013-07-01'
+valid_to: '2023-12-31'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/consolide/20130701/fr'
+source_sha256: '277271f1c91649691c8b8cd98d263a0f95737c68f1bf42ac4b69cda7d128c5fd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

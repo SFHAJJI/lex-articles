@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2015-07-31-n1:2017-03-10
-title: Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 31 juillet 2015 fixant la procédure à suivre pour obtenir l'autorisation d'exercer la profession de psychothérapeute.
-valid_from: 2017-03-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2015/07/31/n1/consolide/20170310/fr
-source_sha256: a7e197d5cc71f5f6e6737d1bde768750f7f1ecc393848a449c2339abb81ee7f8
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2015-07-31-n1:2017-03-10'
+title: 'Version consolidée applicable au 10/03/2017 : Règlement grand-ducal du 31 juillet 2015 fixant la procédure à suivre pour obtenir l''autorisation d''exercer la profession de psychothérapeute.'
+valid_from: '2017-03-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2015/07/31/n1/consolide/20170310/fr'
+source_sha256: 'a7e197d5cc71f5f6e6737d1bde768750f7f1ecc393848a449c2339abb81ee7f8'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

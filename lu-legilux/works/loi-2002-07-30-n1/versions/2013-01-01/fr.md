@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-2002-07-30-n1:2013-01-01
-title: Version consolidée applicable au 01/07/2025 : Loi du 30 juillet 2002 déterminant différentes mesures fiscales destinées à encourager la mise sur le marché et l'acquisition de terrains à bâtir et d'immeubles d'habitation, et portant modification: \n 1. de la loi modifiée du 29 mai 1906 sur les habitations à bon marché; \n 2. de la loi modifiée du 16 octobre 1934 concernant l'évaluation des biens et valeurs; \n 3. de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu: \n 4. de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée; \n 5. de la loi du 6 décembre 1990 portant réforme de certaines dispositions en matière des impôts directs et indirects.
-valid_from: 2013-01-01
-valid_to: 2023-03-06
-source: https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n1/consolide/20130101/fr
-source_sha256: 1d47f4a6aa3741720f4b1f0a4cdc753762d1d8a94da1652cfa1b7b65f816004a
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-2002-07-30-n1:2013-01-01'
+title: 'Version consolidée applicable au 01/07/2025 : Loi du 30 juillet 2002 déterminant différentes mesures fiscales destinées à encourager la mise sur le marché et l''acquisition de terrains à bâtir et d''immeubles d''habitation, et portant modification: \n 1. de la loi modifiée du 29 mai 1906 sur les habitations à bon marché; \n 2. de la loi modifiée du 16 octobre 1934 concernant l''évaluation des biens et valeurs; \n 3. de la loi modifiée du 4 décembre 1967 concernant l''impôt sur le revenu: \n 4. de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée; \n 5. de la loi du 6 décembre 1990 portant réforme de certaines dispositions en matière des impôts directs et indirects.'
+valid_from: '2013-01-01'
+valid_to: '2023-03-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n1/consolide/20130101/fr'
+source_sha256: '1d47f4a6aa3741720f4b1f0a4cdc753762d1d8a94da1652cfa1b7b65f816004a'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Chapitre 1er. — Mesures en matière d'impôts directs, destinées à encourager la mise sur le marché de terrains à bâtir et d'immeubles d'habitation

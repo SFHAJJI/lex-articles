@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1885-02-18-n3:2004-07-19
-title: Version consolidée applicable au 16/09/2023 : Loi du 18 février 1885 sur les pourvois et la procédure en cassation.
-valid_from: 2004-07-19
-valid_to: 2010-08-15
-source: https://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/consolide/20040719/fr
-source_sha256: 05f9d9f95cfcf61c2e62db58ea860c76cdbe595924727744b295d7936ccc067b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1885-02-18-n3:2004-07-19'
+title: 'Version consolidée applicable au 16/09/2023 : Loi du 18 février 1885 sur les pourvois et la procédure en cassation.'
+valid_from: '2004-07-19'
+valid_to: '2010-08-15'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/consolide/20040719/fr'
+source_sha256: '05f9d9f95cfcf61c2e62db58ea860c76cdbe595924727744b295d7936ccc067b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## CHAPITRE Ier. — Des pourvois en cassation.

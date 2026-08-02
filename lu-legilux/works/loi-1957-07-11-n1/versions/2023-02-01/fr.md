@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:loi-1957-07-11-n1:2023-02-01
-title: Version consolidée applicable au 01/02/2023 : Loi du 11 juillet 1957 portant réglementation du camping.
-valid_from: 2023-02-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/loi/1957/07/11/n1/consolide/20230201/fr
-source_sha256: 0c69bf7c9d58149a76f997ff181e68d8d7e78a3b6f350072aa05e75c902a2d1b
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:loi-1957-07-11-n1:2023-02-01'
+title: 'Version consolidée applicable au 01/02/2023 : Loi du 11 juillet 1957 portant réglementation du camping.'
+valid_from: '2023-02-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1957/07/11/n1/consolide/20230201/fr'
+source_sha256: '0c69bf7c9d58149a76f997ff181e68d8d7e78a3b6f350072aa05e75c902a2d1b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2011-08-17-n7:2024-01-01
-title: Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 17 août 2011 réglant l'organisation et le fonctionnement du Conseil Supérieur de l'aide à l'enfance et à la famille.
-valid_from: 2024-01-01
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n7/consolide/20240101/fr
-source_sha256: f05012ef1bd4f0e6b2ece1918787b212f6384a93d63bc8601142ec540c7fc178
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2011-08-17-n7:2024-01-01'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 17 août 2011 réglant l''organisation et le fonctionnement du Conseil Supérieur de l''aide à l''enfance et à la famille.'
+valid_from: '2024-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n7/consolide/20240101/fr'
+source_sha256: 'f05012ef1bd4f0e6b2ece1918787b212f6384a93d63bc8601142ec540c7fc178'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

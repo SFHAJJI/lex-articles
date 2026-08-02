@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-2013-03-12-n2:2026-03-10
-title: Version consolidée applicable au 10/03/2026 : Règlement grand-ducal du 12 mars 2013 portant sur la composition, l’organisation et le fonctionnement du Comité des statistiques publiques.
-valid_from: 2026-03-10
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/2013/03/12/n2/consolide/20260310/fr
-source_sha256: 35c049b3640ee3ed7d553b03f0c7d6da39be092c93c0313a948f8c09e3d15b35
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-2013-03-12-n2:2026-03-10'
+title: 'Version consolidée applicable au 10/03/2026 : Règlement grand-ducal du 12 mars 2013 portant sur la composition, l’organisation et le fonctionnement du Comité des statistiques publiques.'
+valid_from: '2026-03-10'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/2013/03/12/n2/consolide/20260310/fr'
+source_sha256: '35c049b3640ee3ed7d553b03f0c7d6da39be092c93c0313a948f8c09e3d15b35'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

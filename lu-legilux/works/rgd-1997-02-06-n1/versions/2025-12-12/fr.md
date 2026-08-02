@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1997-02-06-n1:2025-12-12
-title: Version consolidée applicable au 12/12/2025 : Règlement grand-ducal du 6 février 1997 relatif aux substances visées aux tableaux III et IV de la Convention sur les substances psychotropes, faite à Vienne, le 21 février 1971.
-valid_from: 2025-12-12
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1997/02/06/n1/consolide/20251212/fr
-source_sha256: 1d98b8416f257b8e12e99593baa03177f43b1185334a897883dd81f031df5a6e
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1997-02-06-n1:2025-12-12'
+title: 'Version consolidée applicable au 12/12/2025 : Règlement grand-ducal du 6 février 1997 relatif aux substances visées aux tableaux III et IV de la Convention sur les substances psychotropes, faite à Vienne, le 21 février 1971.'
+valid_from: '2025-12-12'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1997/02/06/n1/consolide/20251212/fr'
+source_sha256: '1d98b8416f257b8e12e99593baa03177f43b1185334a897883dd81f031df5a6e'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:rgd-1967-03-25-n5:1967-04-19
-title: Version rectifiée applicable au 19/04/1967 : Règlement grand-ducal du 25 mars 1967 abrogeant et remplaçant l'arrêté grand-ducal du 29 juillet 1957 concernant le classement et les conditions d'installation des terrains de camping.
-valid_from: 1967-04-19
-valid_to: open
-source: https://legilux.public.lu/eli/etat/leg/rgd/1967/03/25/n5/consolide/19670419/fr
-source_sha256: 51b4ba8b76b1c6ca284dc863f318eb2a5890f4c59800f36cd215ccd27e1cb364
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:rgd-1967-03-25-n5:1967-04-19'
+title: 'Version rectifiée applicable au 19/04/1967 : Règlement grand-ducal du 25 mars 1967 abrogeant et remplaçant l''arrêté grand-ducal du 29 juillet 1957 concernant le classement et les conditions d''installation des terrains de camping.'
+valid_from: '1967-04-19'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1967/03/25/n5/consolide/19670419/fr'
+source_sha256: '51b4ba8b76b1c6ca284dc863f318eb2a5890f4c59800f36cd215ccd27e1cb364'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 <a id="art_1er"></a>

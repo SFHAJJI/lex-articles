@@ -1,13 +1,13 @@
 ---
-lex_id: lu-legilux:recueil-patrimoine_culturel:2023-07-07
-title: Patrimoine culturel
-valid_from: 2023-07-07
-valid_to: 2024-05-10
-source: https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20230707/fr
-source_sha256: eca069dd9e613197550ef80c94ba9846a4e0cd92f18f3e3622cd7be7d05687b2
-license: CC-BY-4.0
-attribution: Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)
-generator: akn-lu/1 · lex derive
+lex_id: 'lu-legilux:recueil-patrimoine_culturel:2023-07-07'
+title: 'Patrimoine culturel'
+valid_from: '2023-07-07'
+valid_to: '2024-05-10'
+source: 'https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20230707/fr'
+source_sha256: 'eca069dd9e613197550ef80c94ba9846a4e0cd92f18f3e3622cd7be7d05687b2'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'akn-lu/1 · lex derive'
 ---
 
 ## Loi du 25 février 2022 relative au patrimoine culturel et modifiant : 1° la loi modifiée du 4 mars 1982 a) portant création d’un Fonds culturel national ; b) modifiant et complétant les dispositions fiscales tendant à promouvoir le mécénat et la philanthropie ; 2° la loi modifiée du 25 juin 2004 portant réorganisation des instituts culturels de l’État ; 3° la loi modifiée du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ; 4° la loi du 17 août 2018 relative à l’archivage.
