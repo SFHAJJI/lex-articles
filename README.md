@@ -21,8 +21,21 @@ for p in doc["provisions"]:
     print(p["provision_id"], p["article_valid_from"], p["text_md"][:80])
 ```
 
-Or skip cloning entirely — talk to the same data through the hosted MCP
-endpoint (any MCP client, no key):
+Or skip cloning entirely — one flat file, one line per provision-version
+([release assets](https://github.com/SFHAJJI/lex-articles/releases), licence
+inline in every row):
+
+```sql
+-- DuckDB, zero install beyond duckdb itself
+SELECT anchor, valid_from, valid_to, text_md
+FROM read_json_auto('https://github.com/SFHAJJI/lex-articles/releases/latest/download/lu-legilux-provisions.jsonl.gz')
+WHERE lex_id LIKE 'lu-legilux:rgd-2023-07-21-a444%'
+  AND valid_from <= '2023-08-01' AND (valid_to IS NULL OR valid_to >= '2023-08-01');
+```
+
+Or talk to the same data through the hosted MCP endpoint (any MCP client, no
+key) — 8 tools including per-article `as_of` (outline/select modes) and
+`article_history`:
 
 ```
 claude mcp add --transport http lex https://law.soufien.lu/mcp
