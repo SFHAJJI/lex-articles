@@ -4,10 +4,10 @@ title: GDPR — Regulation (EU) 2016/679
 valid_from: 2016-05-04
 valid_to: open
 source: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0679-20160504
-source_sha256: a681ff22f32f125749af6e96947224369efc132edb8a95b12637e357df1056de
+source_sha256: 28524c5589d9c80dee357fe96498302b4fefb29b3cc9ada7dcad52c967e3f15c
 license: EU reuse-with-attribution (Commission Decision 2011/833/EU)
 attribution: © European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect
-generator: xhtml-eu/1 · lex derive
+generator: fmx4-eu/1 · lex derive
 ---
 
 ## CHAPTER I — General provisions
@@ -28,7 +28,17 @@ generator: xhtml-eu/1 · lex derive
 
 **1.** This Regulation applies to the processing of personal data wholly or partly by automated means and to the processing other than by automated means of personal data which form part of a filing system or are intended to form part of a filing system.
 
-**2.** This Regulation does not apply to the processing of personal data:(a) in the course of an activity which falls outside the scope of Union law;(b) by the Member States when carrying out activities which fall within the scope of Chapter 2 of Title V of the TEU;(c) by a natural person in the course of a purely personal or household activity;(d) by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.
+**2.** This Regulation does not apply to the processing of personal data:
+
+This Regulation does not apply to the processing of personal data:
+
+(a) in the course of an activity which falls outside the scope of Union law;
+
+(b) by the Member States when carrying out activities which fall within the scope of Chapter 2 of Title V of the TEU;
+
+(c) by a natural person in the course of a purely personal or household activity;
+
+(d) by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security.
 
 **3.** For the processing of personal data by the Union institutions, bodies, offices and agencies, Regulation (EC) No 45/2001 applies. Regulation (EC) No 45/2001 and other Union legal acts applicable to such processing of personal data shall be adapted to the principles and rules of this Regulation in accordance with Article 98.
 
@@ -40,13 +50,21 @@ generator: xhtml-eu/1 · lex derive
 
 **1.** This Regulation applies to the processing of personal data in the context of the activities of an establishment of a controller or a processor in the Union, regardless of whether the processing takes place in the Union or not.
 
-**2.** This Regulation applies to the processing of personal data of data subjects who are in the Union by a controller or processor not established in the Union, where the processing activities are related to:(a) the offering of goods or services, irrespective of whether a payment of the data subject is required, to such data subjects in the Union; or(b) the monitoring of their behaviour as far as their behaviour takes place within the Union.
+**2.** This Regulation applies to the processing of personal data of data subjects who are in the Union by a controller or processor not established in the Union, where the processing activities are related to:
+
+This Regulation applies to the processing of personal data of data subjects who are in the Union by a controller or processor not established in the Union, where the processing activities are related to:
+
+(a) the offering of goods or services, irrespective of whether a payment of the data subject is required, to such data subjects in the Union; or
+
+(b) the monitoring of their behaviour as far as their behaviour takes place within the Union.
 
 **3.** This Regulation applies to the processing of personal data by a controller not established in the Union, but in a place where Member State law applies by virtue of public international law.
 
 <a id="art_4"></a>
 
 ### Article 4 — Definitions
+
+For the purposes of this Regulation:
 
 For the purposes of this Regulation:
 
@@ -98,7 +116,7 @@ For the purposes of this Regulation:
 
 (24) ‘relevant and reasoned objection’ means an objection to a draft decision as to whether there is an infringement of this Regulation, or whether envisaged action in relation to the controller or processor complies with this Regulation, which clearly demonstrates the significance of the risks posed by the draft decision as regards the fundamental rights and freedoms of data subjects and, where applicable, the free flow of personal data within the Union;
 
-(25) ‘information society service’ means a service as defined in point (b) of Article 1(1) of Directive (EU) 2015/1535 of the European Parliament and of the Council (1);
+(25) ‘information society service’ means a service as defined in point (b) of Article 1(1) of Directive (EU) 2015/1535 of the European Parliament and of the Council;
 
 (26) ‘international organisation’ means an organisation and its subordinate bodies governed by public international law, or any other body which is set up by, or on the basis of, an agreement between two or more countries.
 
@@ -108,7 +126,21 @@ For the purposes of this Regulation:
 
 ### Article 5 — Principles relating to processing of personal data
 
-**1.** Personal data shall be:(a) processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’);(b) collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’);(c) adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’);(d) accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’);(e) kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) subject to implementation of the appropriate technical and organisational measures required by this Regulation in order to safeguard the rights and freedoms of the data subject (‘storage limitation’);(f) processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (‘integrity and confidentiality’).
+**1.** Personal data shall be:
+
+Personal data shall be:
+
+(a) processed lawfully, fairly and in a transparent manner in relation to the data subject (‘lawfulness, fairness and transparency’);
+
+(b) collected for specified, explicit and legitimate purposes and not further processed in a manner that is incompatible with those purposes; further processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall, in accordance with Article 89(1), not be considered to be incompatible with the initial purposes (‘purpose limitation’);
+
+(c) adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed (‘data minimisation’);
+
+(d) accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that personal data that are inaccurate, having regard to the purposes for which they are processed, are erased or rectified without delay (‘accuracy’);
+
+(e) kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) subject to implementation of the appropriate technical and organisational measures required by this Regulation in order to safeguard the rights and freedoms of the data subject (‘storage limitation’);
+
+(f) processed in a manner that ensures appropriate security of the personal data, including protection against unauthorised or unlawful processing and against accidental loss, destruction or damage, using appropriate technical or organisational measures (‘integrity and confidentiality’).
 
 **2.** The controller shall be responsible for, and be able to demonstrate compliance with, paragraph 1 (‘accountability’).
 
@@ -116,17 +148,49 @@ For the purposes of this Regulation:
 
 ### Article 6 — Lawfulness of processing
 
-**1.** Processing shall be lawful only if and to the extent that at least one of the following applies:(a) the data subject has given consent to the processing of his or her personal data for one or more specific purposes;(b) processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;(c) processing is necessary for compliance with a legal obligation to which the controller is subject;(d) processing is necessary in order to protect the vital interests of the data subject or of another natural person;(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;(f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
+**1.** Processing shall be lawful only if and to the extent that at least one of the following applies:
+
+Processing shall be lawful only if and to the extent that at least one of the following applies:
+
+(a) the data subject has given consent to the processing of his or her personal data for one or more specific purposes;
+
+(b) processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;
+
+(c) processing is necessary for compliance with a legal obligation to which the controller is subject;
+
+(d) processing is necessary in order to protect the vital interests of the data subject or of another natural person;
+
+(e) processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
+
+(f) processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
 
 Point (f) of the first subparagraph shall not apply to processing carried out by public authorities in the performance of their tasks.
 
 **2.** Member States may maintain or introduce more specific provisions to adapt the application of the rules of this Regulation with regard to processing for compliance with points (c) and (e) of paragraph 1 by determining more precisely specific requirements for the processing and other measures to ensure lawful and fair processing including for other specific processing situations as provided for in Chapter IX.
 
-**3.** The basis for the processing referred to in point (c) and (e) of paragraph 1 shall be laid down by:(a) Union law; or(b) Member State law to which the controller is subject.
+**3.** The basis for the processing referred to in point (c) and (e) of paragraph 1 shall be laid down by:
+
+The basis for the processing referred to in point (c) and (e) of paragraph 1 shall be laid down by:
+
+(a) Union law; or
+
+(b) Member State law to which the controller is subject.
 
 The purpose of the processing shall be determined in that legal basis or, as regards the processing referred to in point (e) of paragraph 1, shall be necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller. That legal basis may contain specific provisions to adapt the application of rules of this Regulation, inter alia: the general conditions governing the lawfulness of processing by the controller; the types of data which are subject to the processing; the data subjects concerned; the entities to, and the purposes for which, the personal data may be disclosed; the purpose limitation; storage periods; and processing operations and processing procedures, including measures to ensure lawful and fair processing such as those for other specific processing situations as provided for in Chapter IX. The Union or the Member State law shall meet an objective of public interest and be proportionate to the legitimate aim pursued.
 
-**4.** Where the processing for a purpose other than that for which the personal data have been collected is not based on the data subject's consent or on a Union or Member State law which constitutes a necessary and proportionate measure in a democratic society to safeguard the objectives referred to in Article 23(1), the controller shall, in order to ascertain whether processing for another purpose is compatible with the purpose for which the personal data are initially collected, take into account, inter alia:(a) any link between the purposes for which the personal data have been collected and the purposes of the intended further processing;(b) the context in which the personal data have been collected, in particular regarding the relationship between data subjects and the controller;(c) the nature of the personal data, in particular whether special categories of personal data are processed, pursuant to Article 9, or whether personal data related to criminal convictions and offences are processed, pursuant to Article 10;(d) the possible consequences of the intended further processing for data subjects;(e) the existence of appropriate safeguards, which may include encryption or pseudonymisation.
+**4.** Where the processing for a purpose other than that for which the personal data have been collected is not based on the data subject's consent or on a Union or Member State law which constitutes a necessary and proportionate measure in a democratic society to safeguard the objectives referred to in Article 23(1), the controller shall, in order to ascertain whether processing for another purpose is compatible with the purpose for which the personal data are initially collected, take into account, inter alia:
+
+Where the processing for a purpose other than that for which the personal data have been collected is not based on the data subject's consent or on a Union or Member State law which constitutes a necessary and proportionate measure in a democratic society to safeguard the objectives referred to in Article 23(1), the controller shall, in order to ascertain whether processing for another purpose is compatible with the purpose for which the personal data are initially collected, take into account, inter alia:
+
+(a) any link between the purposes for which the personal data have been collected and the purposes of the intended further processing;
+
+(b) the context in which the personal data have been collected, in particular regarding the relationship between data subjects and the controller;
+
+(c) the nature of the personal data, in particular whether special categories of personal data are processed, pursuant to Article 9, or whether personal data related to criminal convictions and offences are processed, pursuant to Article 10;
+
+(d) the possible consequences of the intended further processing for data subjects;
+
+(e) the existence of appropriate safeguards, which may include encryption or pseudonymisation.
 
 <a id="art_7"></a>
 
@@ -158,7 +222,29 @@ Member States may provide by law for a lower age for those purposes provided tha
 
 **1.** Processing of personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation shall be prohibited.
 
-**2.** Paragraph 1 shall not apply if one of the following applies:(a) the data subject has given explicit consent to the processing of those personal data for one or more specified purposes, except where Union or Member State law provide that the prohibition referred to in paragraph 1 may not be lifted by the data subject;(b) processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law in so far as it is authorised by Union or Member State law or a collective agreement pursuant to Member State law providing for appropriate safeguards for the fundamental rights and the interests of the data subject;(c) processing is necessary to protect the vital interests of the data subject or of another natural person where the data subject is physically or legally incapable of giving consent;(d) processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other not-for-profit body with a political, philosophical, religious or trade union aim and on condition that the processing relates solely to the members or to former members of the body or to persons who have regular contact with it in connection with its purposes and that the personal data are not disclosed outside that body without the consent of the data subjects;(e) processing relates to personal data which are manifestly made public by the data subject;(f) processing is necessary for the establishment, exercise or defence of legal claims or whenever courts are acting in their judicial capacity;(g) processing is necessary for reasons of substantial public interest, on the basis of Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject;(h) processing is necessary for the purposes of preventive or occupational medicine, for the assessment of the working capacity of the employee, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services on the basis of Union or Member State law or pursuant to contract with a health professional and subject to the conditions and safeguards referred to in paragraph 3;(i) processing is necessary for reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of quality and safety of health care and of medicinal products or medical devices, on the basis of Union or Member State law which provides for suitable and specific measures to safeguard the rights and freedoms of the data subject, in particular professional secrecy;(j) processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) based on Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject.
+**2.** Paragraph 1 shall not apply if one of the following applies:
+
+Paragraph 1 shall not apply if one of the following applies:
+
+(a) the data subject has given explicit consent to the processing of those personal data for one or more specified purposes, except where Union or Member State law provide that the prohibition referred to in paragraph 1 may not be lifted by the data subject;
+
+(b) processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law in so far as it is authorised by Union or Member State law or a collective agreement pursuant to Member State law providing for appropriate safeguards for the fundamental rights and the interests of the data subject;
+
+(c) processing is necessary to protect the vital interests of the data subject or of another natural person where the data subject is physically or legally incapable of giving consent;
+
+(d) processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other not-for-profit body with a political, philosophical, religious or trade union aim and on condition that the processing relates solely to the members or to former members of the body or to persons who have regular contact with it in connection with its purposes and that the personal data are not disclosed outside that body without the consent of the data subjects;
+
+(e) processing relates to personal data which are manifestly made public by the data subject;
+
+(f) processing is necessary for the establishment, exercise or defence of legal claims or whenever courts are acting in their judicial capacity;
+
+(g) processing is necessary for reasons of substantial public interest, on the basis of Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject;
+
+(h) processing is necessary for the purposes of preventive or occupational medicine, for the assessment of the working capacity of the employee, medical diagnosis, the provision of health or social care or treatment or the management of health or social care systems and services on the basis of Union or Member State law or pursuant to contract with a health professional and subject to the conditions and safeguards referred to in paragraph 3;
+
+(i) processing is necessary for reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of quality and safety of health care and of medicinal products or medical devices, on the basis of Union or Member State law which provides for suitable and specific measures to safeguard the rights and freedoms of the data subject, in particular professional secrecy;
+
+(j) processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) based on Union or Member State law which shall be proportionate to the aim pursued, respect the essence of the right to data protection and provide for suitable and specific measures to safeguard the fundamental rights and the interests of the data subject.
 
 **3.** Personal data referred to in paragraph 1 may be processed for the purposes referred to in point (h) of paragraph 2 when those data are processed by or under the responsibility of a professional subject to the obligation of professional secrecy under Union or Member State law or rules established by national competent bodies or by another person also subject to an obligation of secrecy under Union or Member State law or rules established by national competent bodies.
 
@@ -194,7 +280,13 @@ Processing of personal data relating to criminal convictions and offences or rel
 
 **4.** If the controller does not take action on the request of the data subject, the controller shall inform the data subject without delay and at the latest within one month of receipt of the request of the reasons for not taking action and on the possibility of lodging a complaint with a supervisory authority and seeking a judicial remedy.
 
-**5.** Information provided under Articles 13 and 14 and any communication and any actions taken under Articles 15 to 22 and 34 shall be provided free of charge. Where requests from a data subject are manifestly unfounded or excessive, in particular because of their repetitive character, the controller may either:(a) charge a reasonable fee taking into account the administrative costs of providing the information or communication or taking the action requested; or(b) refuse to act on the request.
+**5.** Information provided under Articles 13 and 14 and any communication and any actions taken under Articles 15 to 22 and 34 shall be provided free of charge. Where requests from a data subject are manifestly unfounded or excessive, in particular because of their repetitive character, the controller may either:
+
+Information provided under Articles 13 and 14 and any communication and any actions taken under Articles 15 to 22 and 34 shall be provided free of charge. Where requests from a data subject are manifestly unfounded or excessive, in particular because of their repetitive character, the controller may either:
+
+(a) charge a reasonable fee taking into account the administrative costs of providing the information or communication or taking the action requested; or
+
+(b) refuse to act on the request.
 
 The controller shall bear the burden of demonstrating the manifestly unfounded or excessive character of the request.
 
@@ -210,9 +302,37 @@ The controller shall bear the burden of demonstrating the manifestly unfounded o
 
 ### Article 13 — Information to be provided where personal data are collected from the data subject
 
-**1.** Where personal data relating to a data subject are collected from the data subject, the controller shall, at the time when personal data are obtained, provide the data subject with all of the following information:(a) the identity and the contact details of the controller and, where applicable, of the controller's representative;(b) the contact details of the data protection officer, where applicable;(c) the purposes of the processing for which the personal data are intended as well as the legal basis for the processing;(d) where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a third party;(e) the recipients or categories of recipients of the personal data, if any;(f) where applicable, the fact that the controller intends to transfer personal data to a third country or international organisation and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means by which to obtain a copy of them or where they have been made available.
+**1.** Where personal data relating to a data subject are collected from the data subject, the controller shall, at the time when personal data are obtained, provide the data subject with all of the following information:
 
-**2.** In addition to the information referred to in paragraph 1, the controller shall, at the time when personal data are obtained, provide the data subject with the following further information necessary to ensure fair and transparent processing:(a) the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period;(b) the existence of the right to request from the controller access to and rectification or erasure of personal data or restriction of processing concerning the data subject or to object to processing as well as the right to data portability;(c) where the processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal;(d) the right to lodge a complaint with a supervisory authority;(e) whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract, as well as whether the data subject is obliged to provide the personal data and of the possible consequences of failure to provide such data;(f) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
+Where personal data relating to a data subject are collected from the data subject, the controller shall, at the time when personal data are obtained, provide the data subject with all of the following information:
+
+(a) the identity and the contact details of the controller and, where applicable, of the controller's representative;
+
+(b) the contact details of the data protection officer, where applicable;
+
+(c) the purposes of the processing for which the personal data are intended as well as the legal basis for the processing;
+
+(d) where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a third party;
+
+(e) the recipients or categories of recipients of the personal data, if any;
+
+(f) where applicable, the fact that the controller intends to transfer personal data to a third country or international organisation and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means by which to obtain a copy of them or where they have been made available.
+
+**2.** In addition to the information referred to in paragraph 1, the controller shall, at the time when personal data are obtained, provide the data subject with the following further information necessary to ensure fair and transparent processing:
+
+In addition to the information referred to in paragraph 1, the controller shall, at the time when personal data are obtained, provide the data subject with the following further information necessary to ensure fair and transparent processing:
+
+(a) the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period;
+
+(b) the existence of the right to request from the controller access to and rectification or erasure of personal data or restriction of processing concerning the data subject or to object to processing as well as the right to data portability;
+
+(c) where the processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal;
+
+(d) the right to lodge a complaint with a supervisory authority;
+
+(e) whether the provision of personal data is a statutory or contractual requirement, or a requirement necessary to enter into a contract, as well as whether the data subject is obliged to provide the personal data and of the possible consequences of failure to provide such data;
+
+(f) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
 
 **3.** Where the controller intends to further process the personal data for a purpose other than that for which the personal data were collected, the controller shall provide the data subject prior to that further processing with information on that other purpose and with any relevant further information as referred to in paragraph 2.
 
@@ -222,21 +342,87 @@ The controller shall bear the burden of demonstrating the manifestly unfounded o
 
 ### Article 14 — Information to be provided where personal data have not been obtained from the data subject
 
-**1.** Where personal data have not been obtained from the data subject, the controller shall provide the data subject with the following information:(a) the identity and the contact details of the controller and, where applicable, of the controller's representative;(b) the contact details of the data protection officer, where applicable;(c) the purposes of the processing for which the personal data are intended as well as the legal basis for the processing;(d) the categories of personal data concerned;(e) the recipients or categories of recipients of the personal data, if any;(f) where applicable, that the controller intends to transfer personal data to a recipient in a third country or international organisation and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means to obtain a copy of them or where they have been made available.
+**1.** Where personal data have not been obtained from the data subject, the controller shall provide the data subject with the following information:
 
-**2.** In addition to the information referred to in paragraph 1, the controller shall provide the data subject with the following information necessary to ensure fair and transparent processing in respect of the data subject:(a) the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period;(b) where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a third party;(c) the existence of the right to request from the controller access to and rectification or erasure of personal data or restriction of processing concerning the data subject and to object to processing as well as the right to data portability;(d) where processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal;(e) the right to lodge a complaint with a supervisory authority;(f) from which source the personal data originate, and if applicable, whether it came from publicly accessible sources;(g) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
+Where personal data have not been obtained from the data subject, the controller shall provide the data subject with the following information:
 
-**3.** The controller shall provide the information referred to in paragraphs 1 and 2:(a) within a reasonable period after obtaining the personal data, but at the latest within one month, having regard to the specific circumstances in which the personal data are processed;(b) if the personal data are to be used for communication with the data subject, at the latest at the time of the first communication to that data subject; or(c) if a disclosure to another recipient is envisaged, at the latest when the personal data are first disclosed.
+(a) the identity and the contact details of the controller and, where applicable, of the controller's representative;
+
+(b) the contact details of the data protection officer, where applicable;
+
+(c) the purposes of the processing for which the personal data are intended as well as the legal basis for the processing;
+
+(d) the categories of personal data concerned;
+
+(e) the recipients or categories of recipients of the personal data, if any;
+
+(f) where applicable, that the controller intends to transfer personal data to a recipient in a third country or international organisation and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means to obtain a copy of them or where they have been made available.
+
+**2.** In addition to the information referred to in paragraph 1, the controller shall provide the data subject with the following information necessary to ensure fair and transparent processing in respect of the data subject:
+
+In addition to the information referred to in paragraph 1, the controller shall provide the data subject with the following information necessary to ensure fair and transparent processing in respect of the data subject:
+
+(a) the period for which the personal data will be stored, or if that is not possible, the criteria used to determine that period;
+
+(b) where the processing is based on point (f) of Article 6(1), the legitimate interests pursued by the controller or by a third party;
+
+(c) the existence of the right to request from the controller access to and rectification or erasure of personal data or restriction of processing concerning the data subject and to object to processing as well as the right to data portability;
+
+(d) where processing is based on point (a) of Article 6(1) or point (a) of Article 9(2), the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal;
+
+(e) the right to lodge a complaint with a supervisory authority;
+
+(f) from which source the personal data originate, and if applicable, whether it came from publicly accessible sources;
+
+(g) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
+
+**3.** The controller shall provide the information referred to in paragraphs 1 and 2:
+
+The controller shall provide the information referred to in paragraphs 1 and 2:
+
+(a) within a reasonable period after obtaining the personal data, but at the latest within one month, having regard to the specific circumstances in which the personal data are processed;
+
+(b) if the personal data are to be used for communication with the data subject, at the latest at the time of the first communication to that data subject; or
+
+(c) if a disclosure to another recipient is envisaged, at the latest when the personal data are first disclosed.
 
 **4.** Where the controller intends to further process the personal data for a purpose other than that for which the personal data were obtained, the controller shall provide the data subject prior to that further processing with information on that other purpose and with any relevant further information as referred to in paragraph 2.
 
-**5.** Paragraphs 1 to 4 shall not apply where and insofar as:(a) the data subject already has the information;(b) the provision of such information proves impossible or would involve a disproportionate effort, in particular for processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes, subject to the conditions and safeguards referred to in Article 89(1) or in so far as the obligation referred to in paragraph 1 of this Article is likely to render impossible or seriously impair the achievement of the objectives of that processing. In such cases the controller shall take appropriate measures to protect the data subject's rights and freedoms and legitimate interests, including making the information publicly available;(c) obtaining or disclosure is expressly laid down by Union or Member State law to which the controller is subject and which provides appropriate measures to protect the data subject's legitimate interests; or(d) where the personal data must remain confidential subject to an obligation of professional secrecy regulated by Union or Member State law, including a statutory obligation of secrecy.
+**5.** Paragraphs 1 to 4 shall not apply where and insofar as:
+
+Paragraphs 1 to 4 shall not apply where and insofar as:
+
+(a) the data subject already has the information;
+
+(b) the provision of such information proves impossible or would involve a disproportionate effort, in particular for processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes, subject to the conditions and safeguards referred to in Article 89(1) or in so far as the obligation referred to in paragraph 1 of this Article is likely to render impossible or seriously impair the achievement of the objectives of that processing. In such cases the controller shall take appropriate measures to protect the data subject's rights and freedoms and legitimate interests, including making the information publicly available;
+
+(c) obtaining or disclosure is expressly laid down by Union or Member State law to which the controller is subject and which provides appropriate measures to protect the data subject's legitimate interests; or
+
+(d) where the personal data must remain confidential subject to an obligation of professional secrecy regulated by Union or Member State law, including a statutory obligation of secrecy.
 
 <a id="art_15"></a>
 
 ### Article 15 — Right of access by the data subject
 
-**1.** The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and the following information:(a) the purposes of the processing;(b) the categories of personal data concerned;(c) the recipients or categories of recipient to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations;(d) where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;(e) the existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing;(f) the right to lodge a complaint with a supervisory authority;(g) where the personal data are not collected from the data subject, any available information as to their source;(h) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
+**1.** The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and the following information:
+
+The data subject shall have the right to obtain from the controller confirmation as to whether or not personal data concerning him or her are being processed, and, where that is the case, access to the personal data and the following information:
+
+(a) the purposes of the processing;
+
+(b) the categories of personal data concerned;
+
+(c) the recipients or categories of recipient to whom the personal data have been or will be disclosed, in particular recipients in third countries or international organisations;
+
+(d) where possible, the envisaged period for which the personal data will be stored, or, if not possible, the criteria used to determine that period;
+
+(e) the existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing;
+
+(f) the right to lodge a complaint with a supervisory authority;
+
+(g) where the personal data are not collected from the data subject, any available information as to their source;
+
+(h) the existence of automated decision-making, including profiling, referred to in Article 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing for the data subject.
 
 **2.** Where personal data are transferred to a third country or to an international organisation, the data subject shall have the right to be informed of the appropriate safeguards pursuant to Article 46 relating to the transfer.
 
@@ -254,19 +440,55 @@ The data subject shall have the right to obtain from the controller without undu
 
 <a id="art_17"></a>
 
-### Article 17 — Right to erasure (‘right to be forgotten’)
+### Article 17 — Right to erasure (right to be forgotten)
 
-**1.** The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies:(a) the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed;(b) the data subject withdraws consent on which the processing is based according to point (a) of Article 6(1), or point (a) of Article 9(2), and where there is no other legal ground for the processing;(c) the data subject objects to the processing pursuant to Article 21(1) and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2);(d) the personal data have been unlawfully processed;(e) the personal data have to be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject;(f) the personal data have been collected in relation to the offer of information society services referred to in Article 8(1).
+**1.** The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies:
+
+The data subject shall have the right to obtain from the controller the erasure of personal data concerning him or her without undue delay and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies:
+
+(a) the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed;
+
+(b) the data subject withdraws consent on which the processing is based according to point (a) of Article 6(1), or point (a) of Article 9(2), and where there is no other legal ground for the processing;
+
+(c) the data subject objects to the processing pursuant to Article 21(1) and there are no overriding legitimate grounds for the processing, or the data subject objects to the processing pursuant to Article 21(2);
+
+(d) the personal data have been unlawfully processed;
+
+(e) the personal data have to be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject;
+
+(f) the personal data have been collected in relation to the offer of information society services referred to in Article 8(1).
 
 **2.** Where the controller has made the personal data public and is obliged pursuant to paragraph 1 to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform controllers which are processing the personal data that the data subject has requested the erasure by such controllers of any links to, or copy or replication of, those personal data.
 
-**3.** Paragraphs 1 and 2 shall not apply to the extent that processing is necessary:(a) for exercising the right of freedom of expression and information;(b) for compliance with a legal obligation which requires processing by Union or Member State law to which the controller is subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;(c) for reasons of public interest in the area of public health in accordance with points (h) and (i) of Article 9(2) as well as Article 9(3);(d) for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) in so far as the right referred to in paragraph 1 is likely to render impossible or seriously impair the achievement of the objectives of that processing; or(e) for the establishment, exercise or defence of legal claims.
+**3.** Paragraphs 1 and 2 shall not apply to the extent that processing is necessary:
+
+Paragraphs 1 and 2 shall not apply to the extent that processing is necessary:
+
+(a) for exercising the right of freedom of expression and information;
+
+(b) for compliance with a legal obligation which requires processing by Union or Member State law to which the controller is subject or for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
+
+(c) for reasons of public interest in the area of public health in accordance with points (h) and (i) of Article 9(2) as well as Article 9(3);
+
+(d) for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes in accordance with Article 89(1) in so far as the right referred to in paragraph 1 is likely to render impossible or seriously impair the achievement of the objectives of that processing; or
+
+(e) for the establishment, exercise or defence of legal claims.
 
 <a id="art_18"></a>
 
 ### Article 18 — Right to restriction of processing
 
-**1.** The data subject shall have the right to obtain from the controller restriction of processing where one of the following applies:(a) the accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data;(b) the processing is unlawful and the data subject opposes the erasure of the personal data and requests the restriction of their use instead;(c) the controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims;(d) the data subject has objected to processing pursuant to Article 21(1) pending the verification whether the legitimate grounds of the controller override those of the data subject.
+**1.** The data subject shall have the right to obtain from the controller restriction of processing where one of the following applies:
+
+The data subject shall have the right to obtain from the controller restriction of processing where one of the following applies:
+
+(a) the accuracy of the personal data is contested by the data subject, for a period enabling the controller to verify the accuracy of the personal data;
+
+(b) the processing is unlawful and the data subject opposes the erasure of the personal data and requests the restriction of their use instead;
+
+(c) the controller no longer needs the personal data for the purposes of the processing, but they are required by the data subject for the establishment, exercise or defence of legal claims;
+
+(d) the data subject has objected to processing pursuant to Article 21(1) pending the verification whether the legitimate grounds of the controller override those of the data subject.
 
 **2.** Where processing has been restricted under paragraph 1, such personal data shall, with the exception of storage, only be processed with the data subject's consent or for the establishment, exercise or defence of legal claims or for the protection of the rights of another natural or legal person or for reasons of important public interest of the Union or of a Member State.
 
@@ -282,7 +504,13 @@ The controller shall communicate any rectification or erasure of personal data o
 
 ### Article 20 — Right to data portability
 
-**1.** The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, where:(a) the processing is based on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) or on a contract pursuant to point (b) of Article 6(1); and(b) the processing is carried out by automated means.
+**1.** The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, where:
+
+The data subject shall have the right to receive the personal data concerning him or her, which he or she has provided to a controller, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, where:
+
+(a) the processing is based on consent pursuant to point (a) of Article 6(1) or point (a) of Article 9(2) or on a contract pursuant to point (b) of Article 6(1); and
+
+(b) the processing is carried out by automated means.
 
 **2.** In exercising his or her right to data portability pursuant to paragraph 1, the data subject shall have the right to have the personal data transmitted directly from one controller to another, where technically feasible.
 
@@ -314,7 +542,15 @@ The controller shall communicate any rectification or erasure of personal data o
 
 **1.** The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her or similarly significantly affects him or her.
 
-**2.** Paragraph 1 shall not apply if the decision:(a) is necessary for entering into, or performance of, a contract between the data subject and a data controller;(b) is authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests; or(c) is based on the data subject's explicit consent.
+**2.** Paragraph 1 shall not apply if the decision:
+
+Paragraph 1 shall not apply if the decision:
+
+(a) is necessary for entering into, or performance of, a contract between the data subject and a data controller;
+
+(b) is authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the data subject's rights and freedoms and legitimate interests; or
+
+(c) is based on the data subject's explicit consent.
 
 **3.** In the cases referred to in points (a) and (c) of paragraph 2, the data controller shall implement suitable measures to safeguard the data subject's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and to contest the decision.
 
@@ -326,9 +562,49 @@ The controller shall communicate any rectification or erasure of personal data o
 
 ### Article 23 — Restrictions
 
-**1.** Union or Member State law to which the data controller or processor is subject may restrict by way of a legislative measure the scope of the obligations and rights provided for in Articles 12 to 22 and Article 34, as well as Article 5 in so far as its provisions correspond to the rights and obligations provided for in Articles 12 to 22, when such a restriction respects the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in a democratic society to safeguard:(a) national security;(b) defence;(c) public security;(d) the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security;(e) other important objectives of general public interest of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, including monetary, budgetary and taxation a matters, public health and social security;(f) the protection of judicial independence and judicial proceedings;(g) the prevention, investigation, detection and prosecution of breaches of ethics for regulated professions;(h) a monitoring, inspection or regulatory function connected, even occasionally, to the exercise of official authority in the cases referred to in points (a) to (e) and (g);(i) the protection of the data subject or the rights and freedoms of others;(j) the enforcement of civil law claims.
+**1.** Union or Member State law to which the data controller or processor is subject may restrict by way of a legislative measure the scope of the obligations and rights provided for in Articles 12 to 22 and Article 34, as well as Article 5 in so far as its provisions correspond to the rights and obligations provided for in Articles 12 to 22, when such a restriction respects the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in a democratic society to safeguard:
 
-**2.** In particular, any legislative measure referred to in paragraph 1 shall contain specific provisions at least, where relevant, as to:(a) the purposes of the processing or categories of processing;(b) the categories of personal data;(c) the scope of the restrictions introduced;(d) the safeguards to prevent abuse or unlawful access or transfer;(e) the specification of the controller or categories of controllers;(f) the storage periods and the applicable safeguards taking into account the nature, scope and purposes of the processing or categories of processing;(g) the risks to the rights and freedoms of data subjects; and(h) the right of data subjects to be informed about the restriction, unless that may be prejudicial to the purpose of the restriction.
+Union or Member State law to which the data controller or processor is subject may restrict by way of a legislative measure the scope of the obligations and rights provided for in Articles 12 to 22 and Article 34, as well as Article 5 in so far as its provisions correspond to the rights and obligations provided for in Articles 12 to 22, when such a restriction respects the essence of the fundamental rights and freedoms and is a necessary and proportionate measure in a democratic society to safeguard:
+
+(a) national security;
+
+(b) defence;
+
+(c) public security;
+
+(d) the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security;
+
+(e) other important objectives of general public interest of the Union or of a Member State, in particular an important economic or financial interest of the Union or of a Member State, including monetary, budgetary and taxation a matters, public health and social security;
+
+(f) the protection of judicial independence and judicial proceedings;
+
+(g) the prevention, investigation, detection and prosecution of breaches of ethics for regulated professions;
+
+(h) a monitoring, inspection or regulatory function connected, even occasionally, to the exercise of official authority in the cases referred to in points (a) to (e) and (g);
+
+(i) the protection of the data subject or the rights and freedoms of others;
+
+(j) the enforcement of civil law claims.
+
+**2.** In particular, any legislative measure referred to in paragraph 1 shall contain specific provisions at least, where relevant, as to:
+
+In particular, any legislative measure referred to in paragraph 1 shall contain specific provisions at least, where relevant, as to:
+
+(a) the purposes of the processing or categories of processing;
+
+(b) the categories of personal data;
+
+(c) the scope of the restrictions introduced;
+
+(d) the safeguards to prevent abuse or unlawful access or transfer;
+
+(e) the specification of the controller or categories of controllers;
+
+(f) the storage periods and the applicable safeguards taking into account the nature, scope and purposes of the processing or categories of processing;
+
+(g) the risks to the rights and freedoms of data subjects; and
+
+(h) the right of data subjects to be informed about the restriction, unless that may be prejudicial to the purpose of the restriction.
 
 ## CHAPTER IV — Controller and processor
 
@@ -370,7 +646,13 @@ The controller shall communicate any rectification or erasure of personal data o
 
 **1.** Where Article 3(2) applies, the controller or the processor shall designate in writing a representative in the Union.
 
-**2.** The obligation laid down in paragraph 1 of this Article shall not apply to:(a) processing which is occasional, does not include, on a large scale, processing of special categories of data as referred to in Article 9(1) or processing of personal data relating to criminal convictions and offences referred to in Article 10, and is unlikely to result in a risk to the rights and freedoms of natural persons, taking into account the nature, context, scope and purposes of the processing; or(b) a public authority or body.
+**2.** The obligation laid down in paragraph 1 of this Article shall not apply to:
+
+The obligation laid down in paragraph 1 of this Article shall not apply to:
+
+(a) processing which is occasional, does not include, on a large scale, processing of special categories of data as referred to in Article 9(1) or processing of personal data relating to criminal convictions and offences referred to in Article 10, and is unlikely to result in a risk to the rights and freedoms of natural persons, taking into account the nature, context, scope and purposes of the processing; or
+
+(b) a public authority or body.
 
 **3.** The representative shall be established in one of the Member States where the data subjects, whose personal data are processed in relation to the offering of goods or services to them, or whose behaviour is monitored, are.
 
@@ -386,7 +668,25 @@ The controller shall communicate any rectification or erasure of personal data o
 
 **2.** The processor shall not engage another processor without prior specific or general written authorisation of the controller. In the case of general written authorisation, the processor shall inform the controller of any intended changes concerning the addition or replacement of other processors, thereby giving the controller the opportunity to object to such changes.
 
-**3.** Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller. That contract or other legal act shall stipulate, in particular, that the processor:(a) processes the personal data only on documented instructions from the controller, including with regard to transfers of personal data to a third country or an international organisation, unless required to do so by Union or Member State law to which the processor is subject; in such a case, the processor shall inform the controller of that legal requirement before processing, unless that law prohibits such information on important grounds of public interest;(b) ensures that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality;(c) takes all measures required pursuant to Article 32;(d) respects the conditions referred to in paragraphs 2 and 4 for engaging another processor;(e) taking into account the nature of the processing, assists the controller by appropriate technical and organisational measures, insofar as this is possible, for the fulfilment of the controller's obligation to respond to requests for exercising the data subject's rights laid down in Chapter III;(f) assists the controller in ensuring compliance with the obligations pursuant to Articles 32 to 36 taking into account the nature of processing and the information available to the processor;(g) at the choice of the controller, deletes or returns all the personal data to the controller after the end of the provision of services relating to processing, and deletes existing copies unless Union or Member State law requires storage of the personal data;(h) makes available to the controller all information necessary to demonstrate compliance with the obligations laid down in this Article and allow for and contribute to audits, including inspections, conducted by the controller or another auditor mandated by the controller.
+**3.** Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller. That contract or other legal act shall stipulate, in particular, that the processor:
+
+Processing by a processor shall be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the subject-matter and duration of the processing, the nature and purpose of the processing, the type of personal data and categories of data subjects and the obligations and rights of the controller. That contract or other legal act shall stipulate, in particular, that the processor:
+
+(a) processes the personal data only on documented instructions from the controller, including with regard to transfers of personal data to a third country or an international organisation, unless required to do so by Union or Member State law to which the processor is subject; in such a case, the processor shall inform the controller of that legal requirement before processing, unless that law prohibits such information on important grounds of public interest;
+
+(b) ensures that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality;
+
+(c) takes all measures required pursuant to Article 32;
+
+(d) respects the conditions referred to in paragraphs 2 and 4 for engaging another processor;
+
+(e) taking into account the nature of the processing, assists the controller by appropriate technical and organisational measures, insofar as this is possible, for the fulfilment of the controller's obligation to respond to requests for exercising the data subject's rights laid down in Chapter III;
+
+(f) assists the controller in ensuring compliance with the obligations pursuant to Articles 32 to 36 taking into account the nature of processing and the information available to the processor;
+
+(g) at the choice of the controller, deletes or returns all the personal data to the controller after the end of the provision of services relating to processing, and deletes existing copies unless Union or Member State law requires storage of the personal data;
+
+(h) makes available to the controller all information necessary to demonstrate compliance with the obligations laid down in this Article and allow for and contribute to audits, including inspections, conducted by the controller or another auditor mandated by the controller.
 
 With regard to point (h) of the first subparagraph, the processor shall immediately inform the controller if, in its opinion, an instruction infringes this Regulation or other Union or Member State data protection provisions.
 
@@ -414,9 +714,35 @@ The processor and any person acting under the authority of the controller or of 
 
 ### Article 30 — Records of processing activities
 
-**1.** Each controller and, where applicable, the controller's representative, shall maintain a record of processing activities under its responsibility. That record shall contain all of the following information:(a) the name and contact details of the controller and, where applicable, the joint controller, the controller's representative and the data protection officer;(b) the purposes of the processing;(c) a description of the categories of data subjects and of the categories of personal data;(d) the categories of recipients to whom the personal data have been or will be disclosed including recipients in third countries or international organisations;(e) where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;(f) where possible, the envisaged time limits for erasure of the different categories of data;(g) where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
+**1.** Each controller and, where applicable, the controller's representative, shall maintain a record of processing activities under its responsibility. That record shall contain all of the following information:
 
-**2.** Each processor and, where applicable, the processor's representative shall maintain a record of all categories of processing activities carried out on behalf of a controller, containing:(a) the name and contact details of the processor or processors and of each controller on behalf of which the processor is acting, and, where applicable, of the controller's or the processor's representative, and the data protection officer;(b) the categories of processing carried out on behalf of each controller;(c) where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;(d) where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
+Each controller and, where applicable, the controller's representative, shall maintain a record of processing activities under its responsibility. That record shall contain all of the following information:
+
+(a) the name and contact details of the controller and, where applicable, the joint controller, the controller's representative and the data protection officer;
+
+(b) the purposes of the processing;
+
+(c) a description of the categories of data subjects and of the categories of personal data;
+
+(d) the categories of recipients to whom the personal data have been or will be disclosed including recipients in third countries or international organisations;
+
+(e) where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;
+
+(f) where possible, the envisaged time limits for erasure of the different categories of data;
+
+(g) where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
+
+**2.** Each processor and, where applicable, the processor's representative shall maintain a record of all categories of processing activities carried out on behalf of a controller, containing:
+
+Each processor and, where applicable, the processor's representative shall maintain a record of all categories of processing activities carried out on behalf of a controller, containing:
+
+(a) the name and contact details of the processor or processors and of each controller on behalf of which the processor is acting, and, where applicable, of the controller's or the processor's representative, and the data protection officer;
+
+(b) the categories of processing carried out on behalf of each controller;
+
+(c) where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation and, in the case of transfers referred to in the second subparagraph of Article 49(1), the documentation of suitable safeguards;
+
+(d) where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
 
 **3.** The records referred to in paragraphs 1 and 2 shall be in writing, including in electronic form.
 
@@ -436,7 +762,17 @@ The controller and the processor and, where applicable, their representatives, s
 
 ### Article 32 — Security of processing
 
-**1.** Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate:(a) the pseudonymisation and encryption of personal data;(b) the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;(c) the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident;(d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
+**1.** Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate:
+
+Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate:
+
+(a) the pseudonymisation and encryption of personal data;
+
+(b) the ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+
+(c) the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident;
+
+(d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of the processing.
 
 **2.** In assessing the appropriate level of security account shall be taken in particular of the risks that are presented by processing, in particular from accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to personal data transmitted, stored or otherwise processed.
 
@@ -452,7 +788,17 @@ The controller and the processor and, where applicable, their representatives, s
 
 **2.** The processor shall notify the controller without undue delay after becoming aware of a personal data breach.
 
-**3.** The notification referred to in paragraph 1 shall at least:(a) describe the nature of the personal data breach including where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;(b) communicate the name and contact details of the data protection officer or other contact point where more information can be obtained;(c) describe the likely consequences of the personal data breach;(d) describe the measures taken or proposed to be taken by the controller to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.
+**3.** The notification referred to in paragraph 1 shall at least:
+
+The notification referred to in paragraph 1 shall at least:
+
+(a) describe the nature of the personal data breach including where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;
+
+(b) communicate the name and contact details of the data protection officer or other contact point where more information can be obtained;
+
+(c) describe the likely consequences of the personal data breach;
+
+(d) describe the measures taken or proposed to be taken by the controller to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.
 
 **4.** Where, and in so far as, it is not possible to provide the information at the same time, the information may be provided in phases without undue further delay.
 
@@ -466,7 +812,15 @@ The controller and the processor and, where applicable, their representatives, s
 
 **2.** The communication to the data subject referred to in paragraph 1 of this Article shall describe in clear and plain language the nature of the personal data breach and contain at least the information and measures referred to in points (b), (c) and (d) of Article 33(3).
 
-**3.** The communication to the data subject referred to in paragraph 1 shall not be required if any of the following conditions are met:(a) the controller has implemented appropriate technical and organisational protection measures, and those measures were applied to the personal data affected by the personal data breach, in particular those that render the personal data unintelligible to any person who is not authorised to access it, such as encryption;(b) the controller has taken subsequent measures which ensure that the high risk to the rights and freedoms of data subjects referred to in paragraph 1 is no longer likely to materialise;(c) it would involve disproportionate effort. In such a case, there shall instead be a public communication or similar measure whereby the data subjects are informed in an equally effective manner.
+**3.** The communication to the data subject referred to in paragraph 1 shall not be required if any of the following conditions are met:
+
+The communication to the data subject referred to in paragraph 1 shall not be required if any of the following conditions are met:
+
+(a) the controller has implemented appropriate technical and organisational protection measures, and those measures were applied to the personal data affected by the personal data breach, in particular those that render the personal data unintelligible to any person who is not authorised to access it, such as encryption;
+
+(b) the controller has taken subsequent measures which ensure that the high risk to the rights and freedoms of data subjects referred to in paragraph 1 is no longer likely to materialise;
+
+(c) it would involve disproportionate effort. In such a case, there shall instead be a public communication or similar measure whereby the data subjects are informed in an equally effective manner.
 
 **4.** If the controller has not already communicated the personal data breach to the data subject, the supervisory authority, having considered the likelihood of the personal data breach resulting in a high risk, may require it to do so or may decide that any of the conditions referred to in paragraph 3 are met.
 
@@ -480,7 +834,15 @@ The controller and the processor and, where applicable, their representatives, s
 
 **2.** The controller shall seek the advice of the data protection officer, where designated, when carrying out a data protection impact assessment.
 
-**3.** A data protection impact assessment referred to in paragraph 1 shall in particular be required in the case of:(a) a systematic and extensive evaluation of personal aspects relating to natural persons which is based on automated processing, including profiling, and on which decisions are based that produce legal effects concerning the natural person or similarly significantly affect the natural person;(b) processing on a large scale of special categories of data referred to in Article 9(1), or of personal data relating to criminal convictions and offences referred to in Article 10; or(c) a systematic monitoring of a publicly accessible area on a large scale.
+**3.** A data protection impact assessment referred to in paragraph 1 shall in particular be required in the case of:
+
+A data protection impact assessment referred to in paragraph 1 shall in particular be required in the case of:
+
+(a) a systematic and extensive evaluation of personal aspects relating to natural persons which is based on automated processing, including profiling, and on which decisions are based that produce legal effects concerning the natural person or similarly significantly affect the natural person;
+
+(b) processing on a large scale of special categories of data referred to in Article 9(1), or of personal data relating to criminal convictions and offences referred to in Article 10; or
+
+(c) a systematic monitoring of a publicly accessible area on a large scale.
 
 **4.** The supervisory authority shall establish and make public a list of the kind of processing operations which are subject to the requirement for a data protection impact assessment pursuant to paragraph 1. The supervisory authority shall communicate those lists to the Board referred to in Article 68.
 
@@ -488,7 +850,17 @@ The controller and the processor and, where applicable, their representatives, s
 
 **6.** Prior to the adoption of the lists referred to in paragraphs 4 and 5, the competent supervisory authority shall apply the consistency mechanism referred to in Article 63 where such lists involve processing activities which are related to the offering of goods or services to data subjects or to the monitoring of their behaviour in several Member States, or may substantially affect the free movement of personal data within the Union.
 
-**7.** The assessment shall contain at least:(a) a systematic description of the envisaged processing operations and the purposes of the processing, including, where applicable, the legitimate interest pursued by the controller;(b) an assessment of the necessity and proportionality of the processing operations in relation to the purposes;(c) an assessment of the risks to the rights and freedoms of data subjects referred to in paragraph 1; and(d) the measures envisaged to address the risks, including safeguards, security measures and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation taking into account the rights and legitimate interests of data subjects and other persons concerned.
+**7.** The assessment shall contain at least:
+
+The assessment shall contain at least:
+
+(a) a systematic description of the envisaged processing operations and the purposes of the processing, including, where applicable, the legitimate interest pursued by the controller;
+
+(b) an assessment of the necessity and proportionality of the processing operations in relation to the purposes;
+
+(c) an assessment of the risks to the rights and freedoms of data subjects referred to in paragraph 1; and
+
+(d) the measures envisaged to address the risks, including safeguards, security measures and mechanisms to ensure the protection of personal data and to demonstrate compliance with this Regulation taking into account the rights and legitimate interests of data subjects and other persons concerned.
 
 **8.** Compliance with approved codes of conduct referred to in Article 40 by the relevant controllers or processors shall be taken into due account in assessing the impact of the processing operations performed by such controllers or processors, in particular for the purposes of a data protection impact assessment.
 
@@ -506,7 +878,21 @@ The controller and the processor and, where applicable, their representatives, s
 
 **2.** Where the supervisory authority is of the opinion that the intended processing referred to in paragraph 1 would infringe this Regulation, in particular where the controller has insufficiently identified or mitigated the risk, the supervisory authority shall, within period of up to eight weeks of receipt of the request for consultation, provide written advice to the controller and, where applicable to the processor, and may use any of its powers referred to in Article 58. That period may be extended by six weeks, taking into account the complexity of the intended processing. The supervisory authority shall inform the controller and, where applicable, the processor, of any such extension within one month of receipt of the request for consultation together with the reasons for the delay. Those periods may be suspended until the supervisory authority has obtained information it has requested for the purposes of the consultation.
 
-**3.** When consulting the supervisory authority pursuant to paragraph 1, the controller shall provide the supervisory authority with:(a) where applicable, the respective responsibilities of the controller, joint controllers and processors involved in the processing, in particular for processing within a group of undertakings;(b) the purposes and means of the intended processing;(c) the measures and safeguards provided to protect the rights and freedoms of data subjects pursuant to this Regulation;(d) where applicable, the contact details of the data protection officer;(e) the data protection impact assessment provided for in Article 35; and(f) any other information requested by the supervisory authority.
+**3.** When consulting the supervisory authority pursuant to paragraph 1, the controller shall provide the supervisory authority with:
+
+When consulting the supervisory authority pursuant to paragraph 1, the controller shall provide the supervisory authority with:
+
+(a) where applicable, the respective responsibilities of the controller, joint controllers and processors involved in the processing, in particular for processing within a group of undertakings;
+
+(b) the purposes and means of the intended processing;
+
+(c) the measures and safeguards provided to protect the rights and freedoms of data subjects pursuant to this Regulation;
+
+(d) where applicable, the contact details of the data protection officer;
+
+(e) the data protection impact assessment provided for in Article 35; and
+
+(f) any other information requested by the supervisory authority.
 
 **4.** Member States shall consult the supervisory authority during the preparation of a proposal for a legislative measure to be adopted by a national parliament, or of a regulatory measure based on such a legislative measure, which relates to processing.
 
@@ -518,7 +904,15 @@ The controller and the processor and, where applicable, their representatives, s
 
 ### Article 37 — Designation of the data protection officer
 
-**1.** The controller and the processor shall designate a data protection officer in any case where:(a) the processing is carried out by a public authority or body, except for courts acting in their judicial capacity;(b) the core activities of the controller or the processor consist of processing operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects on a large scale; or▼C1(c) the core activities of the controller or the processor consist of processing on a large scale of special categories of data pursuant to Article 9 or personal data relating to criminal convictions and offences referred to in Article 10.▼B
+**1.** The controller and the processor shall designate a data protection officer in any case where:
+
+The controller and the processor shall designate a data protection officer in any case where:
+
+(a) the processing is carried out by a public authority or body, except for courts acting in their judicial capacity;
+
+(b) the core activities of the controller or the processor consist of processing operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects on a large scale; or
+
+(c) the core activities of the controller or the processor consist of processing on a large scale of special categories of data pursuant to Article 9 or personal data relating to criminal convictions and offences referred to in Article 10.
 
 **2.** A group of undertakings may appoint a single data protection officer provided that a data protection officer is easily accessible from each establishment.
 
@@ -552,7 +946,19 @@ The controller and the processor and, where applicable, their representatives, s
 
 ### Article 39 — Tasks of the data protection officer
 
-**1.** The data protection officer shall have at least the following tasks:(a) to inform and advise the controller or the processor and the employees who carry out processing of their obligations pursuant to this Regulation and to other Union or Member State data protection provisions;(b) to monitor compliance with this Regulation, with other Union or Member State data protection provisions and with the policies of the controller or processor in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits;(c) to provide advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 35;(d) to cooperate with the supervisory authority;(e) to act as the contact point for the supervisory authority on issues relating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter.
+**1.** The data protection officer shall have at least the following tasks:
+
+The data protection officer shall have at least the following tasks:
+
+(a) to inform and advise the controller or the processor and the employees who carry out processing of their obligations pursuant to this Regulation and to other Union or Member State data protection provisions;
+
+(b) to monitor compliance with this Regulation, with other Union or Member State data protection provisions and with the policies of the controller or processor in relation to the protection of personal data, including the assignment of responsibilities, awareness-raising and training of staff involved in processing operations, and the related audits;
+
+(c) to provide advice where requested as regards the data protection impact assessment and monitor its performance pursuant to Article 35;
+
+(d) to cooperate with the supervisory authority;
+
+(e) to act as the contact point for the supervisory authority on issues relating to processing, including the prior consultation referred to in Article 36, and to consult, where appropriate, with regard to any other matter.
 
 **2.** The data protection officer shall in the performance of his or her tasks have due regard to the risk associated with processing operations, taking into account the nature, scope, context and purposes of processing.
 
@@ -564,7 +970,31 @@ The controller and the processor and, where applicable, their representatives, s
 
 **1.** The Member States, the supervisory authorities, the Board and the Commission shall encourage the drawing up of codes of conduct intended to contribute to the proper application of this Regulation, taking account of the specific features of the various processing sectors and the specific needs of micro, small and medium-sized enterprises.
 
-**2.** Associations and other bodies representing categories of controllers or processors may prepare codes of conduct, or amend or extend such codes, for the purpose of specifying the application of this Regulation, such as with regard to:(a) fair and transparent processing;(b) the legitimate interests pursued by controllers in specific contexts;(c) the collection of personal data;(d) the pseudonymisation of personal data;(e) the information provided to the public and to data subjects;(f) the exercise of the rights of data subjects;(g) the information provided to, and the protection of, children, and the manner in which the consent of the holders of parental responsibility over children is to be obtained;(h) the measures and procedures referred to in Articles 24 and 25 and the measures to ensure security of processing referred to in Article 32;(i) the notification of personal data breaches to supervisory authorities and the communication of such personal data breaches to data subjects;(j) the transfer of personal data to third countries or international organisations; or(k) out-of-court proceedings and other dispute resolution procedures for resolving disputes between controllers and data subjects with regard to processing, without prejudice to the rights of data subjects pursuant to Articles 77 and 79.
+**2.** Associations and other bodies representing categories of controllers or processors may prepare codes of conduct, or amend or extend such codes, for the purpose of specifying the application of this Regulation, such as with regard to:
+
+Associations and other bodies representing categories of controllers or processors may prepare codes of conduct, or amend or extend such codes, for the purpose of specifying the application of this Regulation, such as with regard to:
+
+(a) fair and transparent processing;
+
+(b) the legitimate interests pursued by controllers in specific contexts;
+
+(c) the collection of personal data;
+
+(d) the pseudonymisation of personal data;
+
+(e) the information provided to the public and to data subjects;
+
+(f) the exercise of the rights of data subjects;
+
+(g) the information provided to, and the protection of, children, and the manner in which the consent of the holders of parental responsibility over children is to be obtained;
+
+(h) the measures and procedures referred to in Articles 24 and 25 and the measures to ensure security of processing referred to in Article 32;
+
+(i) the notification of personal data breaches to supervisory authorities and the communication of such personal data breaches to data subjects;
+
+(j) the transfer of personal data to third countries or international organisations; or
+
+(k) out-of-court proceedings and other dispute resolution procedures for resolving disputes between controllers and data subjects with regard to processing, without prejudice to the rights of data subjects pursuant to Articles 77 and 79.
 
 **3.** In addition to adherence by controllers or processors subject to this Regulation, codes of conduct approved pursuant to paragraph 5 of this Article and having general validity pursuant to paragraph 9 of this Article may also be adhered to by controllers or processors that are not subject to this Regulation pursuant to Article 3 in order to provide appropriate safeguards within the framework of personal data transfers to third countries or international organisations under the terms referred to in point (e) of Article 46(2). Such controllers or processors shall make binding and enforceable commitments, via contractual or other legally binding instruments, to apply those appropriate safeguards including with regard to the rights of data subjects.
 
@@ -590,7 +1020,17 @@ The controller and the processor and, where applicable, their representatives, s
 
 **1.** Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, the monitoring of compliance with a code of conduct pursuant to Article 40 may be carried out by a body which has an appropriate level of expertise in relation to the subject-matter of the code and is accredited for that purpose by the competent supervisory authority.
 
-**2.** A body as referred to in paragraph 1 may be accredited to monitor compliance with a code of conduct where that body has:(a) demonstrated its independence and expertise in relation to the subject-matter of the code to the satisfaction of the competent supervisory authority;(b) established procedures which allow it to assess the eligibility of controllers and processors concerned to apply the code, to monitor their compliance with its provisions and to periodically review its operation;(c) established procedures and structures to handle complaints about infringements of the code or the manner in which the code has been, or is being, implemented by a controller or processor, and to make those procedures and structures transparent to data subjects and the public; and(d) demonstrated to the satisfaction of the competent supervisory authority that its tasks and duties do not result in a conflict of interests.
+**2.** A body as referred to in paragraph 1 may be accredited to monitor compliance with a code of conduct where that body has:
+
+A body as referred to in paragraph 1 may be accredited to monitor compliance with a code of conduct where that body has:
+
+(a) demonstrated its independence and expertise in relation to the subject-matter of the code to the satisfaction of the competent supervisory authority;
+
+(b) established procedures which allow it to assess the eligibility of controllers and processors concerned to apply the code, to monitor their compliance with its provisions and to periodically review its operation;
+
+(c) established procedures and structures to handle complaints about infringements of the code or the manner in which the code has been, or is being, implemented by a controller or processor, and to make those procedures and structures transparent to data subjects and the public; and
+
+(d) demonstrated to the satisfaction of the competent supervisory authority that its tasks and duties do not result in a conflict of interests.
 
 **3.** The competent supervisory authority shall submit the draft requirements for accreditation of a body as referred to in paragraph 1 of this Article to the Board pursuant to the consistency mechanism referred to in Article 63.
 
@@ -624,11 +1064,29 @@ The controller and the processor and, where applicable, their representatives, s
 
 ### Article 43 — Certification bodies
 
-**1.** Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the supervisory authority in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:(a) the supervisory authority which is competent pursuant to Article 55 or 56;(b) the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council (2) in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.
+**1.** Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the supervisory authority in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:
 
-**2.** Certification bodies referred to in paragraph 1 shall be accredited in accordance with that paragraph only where they have:(a) demonstrated their independence and expertise in relation to the subject-matter of the certification to the satisfaction of the competent supervisory authority;(b) undertaken to respect the criteria referred to in Article 42(5) and approved by the supervisory authority which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63;(c) established procedures for the issuing, periodic review and withdrawal of data protection certification, seals and marks;(d) established procedures and structures to handle complaints about infringements of the certification or the manner in which the certification has been, or is being, implemented by the controller or processor, and to make those procedures and structures transparent to data subjects and the public; and(e) demonstrated, to the satisfaction of the competent supervisory authority, that their tasks and duties do not result in a conflict of interests.
+Without prejudice to the tasks and powers of the competent supervisory authority under Articles 57 and 58, certification bodies which have an appropriate level of expertise in relation to data protection shall, after informing the supervisory authority in order to allow it to exercise its powers pursuant to point (h) of Article 58(2) where necessary, issue and renew certification. Member States shall ensure that those certification bodies are accredited by one or both of the following:
 
-**3.** ►C1 The accreditation of certification bodies as referred to in paragraphs 1 and 2 of this Article shall take place on the basis of requirements approved by the supervisory authority which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63.** ◄ ** In the case of accreditation pursuant to point (b) of paragraph 1 of this Article, those requirements shall complement those envisaged in Regulation (EC) No 765/2008 and the technical rules that describe the methods and procedures of the certification bodies.
+(a) the supervisory authority which is competent pursuant to Article 55 or 56;
+
+(b) the national accreditation body named in accordance with Regulation (EC) No 765/2008 of the European Parliament and of the Council in accordance with EN-ISO/IEC 17065/2012 and with the additional requirements established by the supervisory authority which is competent pursuant to Article 55 or 56.
+
+**2.** Certification bodies referred to in paragraph 1 shall be accredited in accordance with that paragraph only where they have:
+
+Certification bodies referred to in paragraph 1 shall be accredited in accordance with that paragraph only where they have:
+
+(a) demonstrated their independence and expertise in relation to the subject-matter of the certification to the satisfaction of the competent supervisory authority;
+
+(b) undertaken to respect the criteria referred to in Article 42(5) and approved by the supervisory authority which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63;
+
+(c) established procedures for the issuing, periodic review and withdrawal of data protection certification, seals and marks;
+
+(d) established procedures and structures to handle complaints about infringements of the certification or the manner in which the certification has been, or is being, implemented by the controller or processor, and to make those procedures and structures transparent to data subjects and the public; and
+
+(e) demonstrated, to the satisfaction of the competent supervisory authority, that their tasks and duties do not result in a conflict of interests.
+
+**3.** The accreditation of certification bodies as referred to in paragraphs 1 and 2 of this Article shall take place on the basis of requirements approved by the supervisory authority which is competent pursuant to Article 55 or 56 or by the Board pursuant to Article 63. In the case of accreditation pursuant to point (b) of paragraph 1 of this Article, those requirements shall complement those envisaged in Regulation (EC) No 765/2008 and the technical rules that describe the methods and procedures of the certification bodies.
 
 **4.** The certification bodies referred to in paragraph 1 shall be responsible for the proper assessment leading to the certification or the withdrawal of such certification without prejudice to the responsibility of the controller or processor for compliance with this Regulation. The accreditation shall be issued for a maximum period of five years and may be renewed on the same conditions provided that the certification body meets the requirements set out in this Article.
 
@@ -656,7 +1114,15 @@ Any transfer of personal data which are undergoing processing or are intended fo
 
 **1.** A transfer of personal data to a third country or an international organisation may take place where the Commission has decided that the third country, a territory or one or more specified sectors within that third country, or the international organisation in question ensures an adequate level of protection. Such a transfer shall not require any specific authorisation.
 
-**2.** When assessing the adequacy of the level of protection, the Commission shall, in particular, take account of the following elements:(a) the rule of law, respect for human rights and fundamental freedoms, relevant legislation, both general and sectoral, including concerning public security, defence, national security and criminal law and the access of public authorities to personal data, as well as the implementation of such legislation, data protection rules, professional rules and security measures, including rules for the onward transfer of personal data to another third country or international organisation which are complied with in that country or international organisation, case-law, as well as effective and enforceable data subject rights and effective administrative and judicial redress for the data subjects whose personal data are being transferred;(b) the existence and effective functioning of one or more independent supervisory authorities in the third country or to which an international organisation is subject, with responsibility for ensuring and enforcing compliance with the data protection rules, including adequate enforcement powers, for assisting and advising the data subjects in exercising their rights and for cooperation with the supervisory authorities of the Member States; and(c) the international commitments the third country or international organisation concerned has entered into, or other obligations arising from legally binding conventions or instruments as well as from its participation in multilateral or regional systems, in particular in relation to the protection of personal data.
+**2.** When assessing the adequacy of the level of protection, the Commission shall, in particular, take account of the following elements:
+
+When assessing the adequacy of the level of protection, the Commission shall, in particular, take account of the following elements:
+
+(a) the rule of law, respect for human rights and fundamental freedoms, relevant legislation, both general and sectoral, including concerning public security, defence, national security and criminal law and the access of public authorities to personal data, as well as the implementation of such legislation, data protection rules, professional rules and security measures, including rules for the onward transfer of personal data to another third country or international organisation which are complied with in that country or international organisation, case-law, as well as effective and enforceable data subject rights and effective administrative and judicial redress for the data subjects whose personal data are being transferred;
+
+(b) the existence and effective functioning of one or more independent supervisory authorities in the third country or to which an international organisation is subject, with responsibility for ensuring and enforcing compliance with the data protection rules, including adequate enforcement powers, for assisting and advising the data subjects in exercising their rights and for cooperation with the supervisory authorities of the Member States; and
+
+(c) the international commitments the third country or international organisation concerned has entered into, or other obligations arising from legally binding conventions or instruments as well as from its participation in multilateral or regional systems, in particular in relation to the protection of personal data.
 
 **3.** The Commission, after assessing the adequacy of the level of protection, may decide, by means of implementing act, that a third country, a territory or one or more specified sectors within a third country, or an international organisation ensures an adequate level of protection within the meaning of paragraph 2 of this Article. The implementing act shall provide for a mechanism for a periodic review, at least every four years, which shall take into account all relevant developments in the third country or international organisation. The implementing act shall specify its territorial and sectoral application and, where applicable, identify the supervisory authority or authorities referred to in point (b) of paragraph 2 of this Article. The implementing act shall be adopted in accordance with the examination procedure referred to in Article 93(2).
 
@@ -680,9 +1146,29 @@ On duly justified imperative grounds of urgency, the Commission shall adopt imme
 
 **1.** In the absence of a decision pursuant to Article 45(3), a controller or processor may transfer personal data to a third country or an international organisation only if the controller or processor has provided appropriate safeguards, and on condition that enforceable data subject rights and effective legal remedies for data subjects are available.
 
-**2.** The appropriate safeguards referred to in paragraph 1 may be provided for, without requiring any specific authorisation from a supervisory authority, by:(a) a legally binding and enforceable instrument between public authorities or bodies;(b) binding corporate rules in accordance with Article 47;(c) standard data protection clauses adopted by the Commission in accordance with the examination procedure referred to in Article 93(2);(d) standard data protection clauses adopted by a supervisory authority and approved by the Commission pursuant to the examination procedure referred to in Article 93(2);(e) an approved code of conduct pursuant to Article 40 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights; or(f) an approved certification mechanism pursuant to Article 42 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights.
+**2.** The appropriate safeguards referred to in paragraph 1 may be provided for, without requiring any specific authorisation from a supervisory authority, by:
 
-**3.** Subject to the authorisation from the competent supervisory authority, the appropriate safeguards referred to in paragraph 1 may also be provided for, in particular, by:(a) contractual clauses between the controller or processor and the controller, processor or the recipient of the personal data in the third country or international organisation; or(b) provisions to be inserted into administrative arrangements between public authorities or bodies which include enforceable and effective data subject rights.
+The appropriate safeguards referred to in paragraph 1 may be provided for, without requiring any specific authorisation from a supervisory authority, by:
+
+(a) a legally binding and enforceable instrument between public authorities or bodies;
+
+(b) binding corporate rules in accordance with Article 47;
+
+(c) standard data protection clauses adopted by the Commission in accordance with the examination procedure referred to in Article 93(2);
+
+(d) standard data protection clauses adopted by a supervisory authority and approved by the Commission pursuant to the examination procedure referred to in Article 93(2);
+
+(e) an approved code of conduct pursuant to Article 40 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights; or
+
+(f) an approved certification mechanism pursuant to Article 42 together with binding and enforceable commitments of the controller or processor in the third country to apply the appropriate safeguards, including as regards data subjects' rights.
+
+**3.** Subject to the authorisation from the competent supervisory authority, the appropriate safeguards referred to in paragraph 1 may also be provided for, in particular, by:
+
+Subject to the authorisation from the competent supervisory authority, the appropriate safeguards referred to in paragraph 1 may also be provided for, in particular, by:
+
+(a) contractual clauses between the controller or processor and the controller, processor or the recipient of the personal data in the third country or international organisation; or
+
+(b) provisions to be inserted into administrative arrangements between public authorities or bodies which include enforceable and effective data subject rights.
 
 **4.** The supervisory authority shall apply the consistency mechanism referred to in Article 63 in the cases referred to in paragraph 3 of this Article.
 
@@ -692,9 +1178,47 @@ On duly justified imperative grounds of urgency, the Commission shall adopt imme
 
 ### Article 47 — Binding corporate rules
 
-**1.** The competent supervisory authority shall approve binding corporate rules in accordance with the consistency mechanism set out in Article 63, provided that they:(a) are legally binding and apply to and are enforced by every member concerned of the group of undertakings, or group of enterprises engaged in a joint economic activity, including their employees;(b) expressly confer enforceable rights on data subjects with regard to the processing of their personal data; and(c) fulfil the requirements laid down in paragraph 2.
+**1.** The competent supervisory authority shall approve binding corporate rules in accordance with the consistency mechanism set out in Article 63, provided that they:
 
-**2.** The binding corporate rules referred to in paragraph 1 shall specify at least:(a) the structure and contact details of the group of undertakings, or group of enterprises engaged in a joint economic activity and of each of its members;(b) the data transfers or set of transfers, including the categories of personal data, the type of processing and its purposes, the type of data subjects affected and the identification of the third country or countries in question;(c) their legally binding nature, both internally and externally;(d) the application of the general data protection principles, in particular purpose limitation, data minimisation, limited storage periods, data quality, data protection by design and by default, legal basis for processing, processing of special categories of personal data, measures to ensure data security, and the requirements in respect of onward transfers to bodies not bound by the binding corporate rules;(e) the rights of data subjects in regard to processing and the means to exercise those rights, including the right not to be subject to decisions based solely on automated processing, including profiling in accordance with Article 22, the right to lodge a complaint with the competent supervisory authority and before the competent courts of the Member States in accordance with Article 79, and to obtain redress and, where appropriate, compensation for a breach of the binding corporate rules;(f) the acceptance by the controller or processor established on the territory of a Member State of liability for any breaches of the binding corporate rules by any member concerned not established in the Union; the controller or the processor shall be exempt from that liability, in whole or in part, only if it proves that that member is not responsible for the event giving rise to the damage;(g) how the information on the binding corporate rules, in particular on the provisions referred to in points (d), (e) and (f) of this paragraph is provided to the data subjects in addition to Articles 13 and 14;(h) the tasks of any data protection officer designated in accordance with Article 37 or any other person or entity in charge of the monitoring compliance with the binding corporate rules within the group of undertakings, or group of enterprises engaged in a joint economic activity, as well as monitoring training and complaint-handling;(i) the complaint procedures;(j) the mechanisms within the group of undertakings, or group of enterprises engaged in a joint economic activity for ensuring the verification of compliance with the binding corporate rules. Such mechanisms shall include data protection audits and methods for ensuring corrective actions to protect the rights of the data subject. Results of such verification should be communicated to the person or entity referred to in point (h) and to the board of the controlling undertaking of a group of undertakings, or of the group of enterprises engaged in a joint economic activity, and should be available upon request to the competent supervisory authority;(k) the mechanisms for reporting and recording changes to the rules and reporting those changes to the supervisory authority;(l) the cooperation mechanism with the supervisory authority to ensure compliance by any member of the group of undertakings, or group of enterprises engaged in a joint economic activity, in particular by making available to the supervisory authority the results of verifications of the measures referred to in point (j);(m) the mechanisms for reporting to the competent supervisory authority any legal requirements to which a member of the group of undertakings, or group of enterprises engaged in a joint economic activity is subject in a third country which are likely to have a substantial adverse effect on the guarantees provided by the binding corporate rules; and(n) the appropriate data protection training to personnel having permanent or regular access to personal data.
+The competent supervisory authority shall approve binding corporate rules in accordance with the consistency mechanism set out in Article 63, provided that they:
+
+(a) are legally binding and apply to and are enforced by every member concerned of the group of undertakings, or group of enterprises engaged in a joint economic activity, including their employees;
+
+(b) expressly confer enforceable rights on data subjects with regard to the processing of their personal data; and
+
+(c) fulfil the requirements laid down in paragraph 2.
+
+**2.** The binding corporate rules referred to in paragraph 1 shall specify at least:
+
+The binding corporate rules referred to in paragraph 1 shall specify at least:
+
+(a) the structure and contact details of the group of undertakings, or group of enterprises engaged in a joint economic activity and of each of its members;
+
+(b) the data transfers or set of transfers, including the categories of personal data, the type of processing and its purposes, the type of data subjects affected and the identification of the third country or countries in question;
+
+(c) their legally binding nature, both internally and externally;
+
+(d) the application of the general data protection principles, in particular purpose limitation, data minimisation, limited storage periods, data quality, data protection by design and by default, legal basis for processing, processing of special categories of personal data, measures to ensure data security, and the requirements in respect of onward transfers to bodies not bound by the binding corporate rules;
+
+(e) the rights of data subjects in regard to processing and the means to exercise those rights, including the right not to be subject to decisions based solely on automated processing, including profiling in accordance with Article 22, the right to lodge a complaint with the competent supervisory authority and before the competent courts of the Member States in accordance with Article 79, and to obtain redress and, where appropriate, compensation for a breach of the binding corporate rules;
+
+(f) the acceptance by the controller or processor established on the territory of a Member State of liability for any breaches of the binding corporate rules by any member concerned not established in the Union; the controller or the processor shall be exempt from that liability, in whole or in part, only if it proves that that member is not responsible for the event giving rise to the damage;
+
+(g) how the information on the binding corporate rules, in particular on the provisions referred to in points (d), (e) and (f) of this paragraph is provided to the data subjects in addition to Articles 13 and 14;
+
+(h) the tasks of any data protection officer designated in accordance with Article 37 or any other person or entity in charge of the monitoring compliance with the binding corporate rules within the group of undertakings, or group of enterprises engaged in a joint economic activity, as well as monitoring training and complaint-handling;
+
+(i) the complaint procedures;
+
+(j) the mechanisms within the group of undertakings, or group of enterprises engaged in a joint economic activity for ensuring the verification of compliance with the binding corporate rules. Such mechanisms shall include data protection audits and methods for ensuring corrective actions to protect the rights of the data subject. Results of such verification should be communicated to the person or entity referred to in point (h) and to the board of the controlling undertaking of a group of undertakings, or of the group of enterprises engaged in a joint economic activity, and should be available upon request to the competent supervisory authority;
+
+(k) the mechanisms for reporting and recording changes to the rules and reporting those changes to the supervisory authority;
+
+(l) the cooperation mechanism with the supervisory authority to ensure compliance by any member of the group of undertakings, or group of enterprises engaged in a joint economic activity, in particular by making available to the supervisory authority the results of verifications of the measures referred to in point (j);
+
+(m) the mechanisms for reporting to the competent supervisory authority any legal requirements to which a member of the group of undertakings, or group of enterprises engaged in a joint economic activity is subject in a third country which are likely to have a substantial adverse effect on the guarantees provided by the binding corporate rules; and
+
+(n) the appropriate data protection training to personnel having permanent or regular access to personal data.
 
 **3.** The Commission may specify the format and procedures for the exchange of information between controllers, processors and supervisory authorities for binding corporate rules within the meaning of this Article. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 93(2).
 
@@ -708,7 +1232,23 @@ Any judgment of a court or tribunal and any decision of an administrative author
 
 ### Article 49 — Derogations for specific situations
 
-**1.** In the absence of an adequacy decision pursuant to Article 45(3), or of appropriate safeguards pursuant to Article 46, including binding corporate rules, a transfer or a set of transfers of personal data to a third country or an international organisation shall take place only on one of the following conditions:(a) the data subject has explicitly consented to the proposed transfer, after having been informed of the possible risks of such transfers for the data subject due to the absence of an adequacy decision and appropriate safeguards;(b) the transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subject's request;(c) the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the data subject between the controller and another natural or legal person;(d) the transfer is necessary for important reasons of public interest;(e) the transfer is necessary for the establishment, exercise or defence of legal claims;(f) the transfer is necessary in order to protect the vital interests of the data subject or of other persons, where the data subject is physically or legally incapable of giving consent;(g) the transfer is made from a register which according to Union or Member State law is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can demonstrate a legitimate interest, but only to the extent that the conditions laid down by Union or Member State law for consultation are fulfilled in the particular case.
+**1.** In the absence of an adequacy decision pursuant to Article 45(3), or of appropriate safeguards pursuant to Article 46, including binding corporate rules, a transfer or a set of transfers of personal data to a third country or an international organisation shall take place only on one of the following conditions:
+
+In the absence of an adequacy decision pursuant to Article 45(3), or of appropriate safeguards pursuant to Article 46, including binding corporate rules, a transfer or a set of transfers of personal data to a third country or an international organisation shall take place only on one of the following conditions:
+
+(a) the data subject has explicitly consented to the proposed transfer, after having been informed of the possible risks of such transfers for the data subject due to the absence of an adequacy decision and appropriate safeguards;
+
+(b) the transfer is necessary for the performance of a contract between the data subject and the controller or the implementation of pre-contractual measures taken at the data subject's request;
+
+(c) the transfer is necessary for the conclusion or performance of a contract concluded in the interest of the data subject between the controller and another natural or legal person;
+
+(d) the transfer is necessary for important reasons of public interest;
+
+(e) the transfer is necessary for the establishment, exercise or defence of legal claims;
+
+(f) the transfer is necessary in order to protect the vital interests of the data subject or of other persons, where the data subject is physically or legally incapable of giving consent;
+
+(g) the transfer is made from a register which according to Union or Member State law is intended to provide information to the public and which is open to consultation either by the public in general or by any person who can demonstrate a legitimate interest, but only to the extent that the conditions laid down by Union or Member State law for consultation are fulfilled in the particular case.
 
 Where a transfer could not be based on a provision in Article 45 or 46, including the provisions on binding corporate rules, and none of the derogations for a specific situation referred to in the first subparagraph of this paragraph is applicable, a transfer to a third country or an international organisation may take place only if the transfer is not repetitive, concerns only a limited number of data subjects, is necessary for the purposes of compelling legitimate interests pursued by the controller which are not overridden by the interests or rights and freedoms of the data subject, and the controller has assessed all the circumstances surrounding the data transfer and has on the basis of that assessment provided suitable safeguards with regard to the protection of personal data. The controller shall inform the supervisory authority of the transfer. The controller shall, in addition to providing the information referred to in Articles 13 and 14, inform the data subject of the transfer and on the compelling legitimate interests pursued.
 
@@ -725,6 +1265,8 @@ Where a transfer could not be based on a provision in Article 45 or 46, includin
 <a id="art_50"></a>
 
 ### Article 50 — International cooperation for the protection of personal data
+
+In relation to third countries and international organisations, the Commission and supervisory authorities shall take appropriate steps to:
 
 In relation to third countries and international organisations, the Commission and supervisory authorities shall take appropriate steps to:
 
@@ -772,7 +1314,17 @@ In relation to third countries and international organisations, the Commission a
 
 ### Article 53 — General conditions for the members of the supervisory authority
 
-**1.** Member States shall provide for each member of their supervisory authorities to be appointed by means of a transparent procedure by:— their parliament;— their government;— their head of State; or— an independent body entrusted with the appointment under Member State law.
+**1.** Member States shall provide for each member of their supervisory authorities to be appointed by means of a transparent procedure by:
+
+Member States shall provide for each member of their supervisory authorities to be appointed by means of a transparent procedure by:
+
+- their parliament; their parliament;
+
+- their government; their government;
+
+- their head of State; or their head of State; or
+
+- an independent body entrusted with the appointment under Member State law. an independent body entrusted with the appointment under Member State law.
 
 **2.** Each member shall have the qualifications, experience and skills, in particular in the area of the protection of personal data, required to perform its duties and exercise its powers.
 
@@ -784,7 +1336,21 @@ In relation to third countries and international organisations, the Commission a
 
 ### Article 54 — Rules on the establishment of the supervisory authority
 
-**1.** Each Member State shall provide by law for all of the following:(a) the establishment of each supervisory authority;(b) the qualifications and eligibility conditions required to be appointed as member of each supervisory authority;(c) the rules and procedures for the appointment of the member or members of each supervisory authority;(d) the duration of the term of the member or members of each supervisory authority of no less than four years, except for the first appointment after 24 May 2016, part of which may take place for a shorter period where that is necessary to protect the independence of the supervisory authority by means of a staggered appointment procedure;(e) whether and, if so, for how many terms the member or members of each supervisory authority is eligible for reappointment;(f) the conditions governing the obligations of the member or members and staff of each supervisory authority, prohibitions on actions, occupations and benefits incompatible therewith during and after the term of office and rules governing the cessation of employment.
+**1.** Each Member State shall provide by law for all of the following:
+
+Each Member State shall provide by law for all of the following:
+
+(a) the establishment of each supervisory authority;
+
+(b) the qualifications and eligibility conditions required to be appointed as member of each supervisory authority;
+
+(c) the rules and procedures for the appointment of the member or members of each supervisory authority;
+
+(d) the duration of the term of the member or members of each supervisory authority of no less than four years, except for the first appointment after 24 May 2016, part of which may take place for a shorter period where that is necessary to protect the independence of the supervisory authority by means of a staggered appointment procedure;
+
+(e) whether and, if so, for how many terms the member or members of each supervisory authority is eligible for reappointment;
+
+(f) the conditions governing the obligations of the member or members and staff of each supervisory authority, prohibitions on actions, occupations and benefits incompatible therewith during and after the term of office and rules governing the cessation of employment.
 
 **2.** The member or members and the staff of each supervisory authority shall, in accordance with Union or Member State law, be subject to a duty of professional secrecy both during and after their term of office, with regard to any confidential information which has come to their knowledge in the course of the performance of their tasks or exercise of their powers. During their term of office, that duty of professional secrecy shall in particular apply to reporting by natural persons of infringements of this Regulation.
 
@@ -820,7 +1386,53 @@ In relation to third countries and international organisations, the Commission a
 
 ### Article 57 — Tasks
 
-**1.** Without prejudice to other tasks set out under this Regulation, each supervisory authority shall on its territory:(a) monitor and enforce the application of this Regulation;(b) promote public awareness and understanding of the risks, rules, safeguards and rights in relation to processing. Activities addressed specifically to children shall receive specific attention;(c) advise, in accordance with Member State law, the national parliament, the government, and other institutions and bodies on legislative and administrative measures relating to the protection of natural persons' rights and freedoms with regard to processing;(d) promote the awareness of controllers and processors of their obligations under this Regulation;(e) upon request, provide information to any data subject concerning the exercise of their rights under this Regulation and, if appropriate, cooperate with the supervisory authorities in other Member States to that end;(f) handle complaints lodged by a data subject, or by a body, organisation or association in accordance with Article 80, and investigate, to the extent appropriate, the subject matter of the complaint and inform the complainant of the progress and the outcome of the investigation within a reasonable period, in particular if further investigation or coordination with another supervisory authority is necessary;(g) cooperate with, including sharing information and provide mutual assistance to, other supervisory authorities with a view to ensuring the consistency of application and enforcement of this Regulation;(h) conduct investigations on the application of this Regulation, including on the basis of information received from another supervisory authority or other public authority;(i) monitor relevant developments, insofar as they have an impact on the protection of personal data, in particular the development of information and communication technologies and commercial practices;(j) adopt standard contractual clauses referred to in Article 28(8) and in point (d) of Article 46(2);(k) establish and maintain a list in relation to the requirement for data protection impact assessment pursuant to Article 35(4);(l) give advice on the processing operations referred to in Article 36(2);(m) encourage the drawing up of codes of conduct pursuant to Article 40(1) and provide an opinion and approve such codes of conduct which provide sufficient safeguards, pursuant to Article 40(5);(n) encourage the establishment of data protection certification mechanisms and of data protection seals and marks pursuant to Article 42(1), and approve the criteria of certification pursuant to Article 42(5);(o) where applicable, carry out a periodic review of certifications issued in accordance with Article 42(7);▼C1(p) draft and publish the requirements for accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;▼B(q) conduct the accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;(r) authorise contractual clauses and provisions referred to in Article 46(3);(s) approve binding corporate rules pursuant to Article 47;(t) contribute to the activities of the Board;(u) keep internal records of infringements of this Regulation and of measures taken in accordance with Article 58(2); and(v) fulfil any other tasks related to the protection of personal data.
+**1.** Without prejudice to other tasks set out under this Regulation, each supervisory authority shall on its territory:
+
+Without prejudice to other tasks set out under this Regulation, each supervisory authority shall on its territory:
+
+(a) monitor and enforce the application of this Regulation;
+
+(b) promote public awareness and understanding of the risks, rules, safeguards and rights in relation to processing. Activities addressed specifically to children shall receive specific attention;
+
+(c) advise, in accordance with Member State law, the national parliament, the government, and other institutions and bodies on legislative and administrative measures relating to the protection of natural persons' rights and freedoms with regard to processing;
+
+(d) promote the awareness of controllers and processors of their obligations under this Regulation;
+
+(e) upon request, provide information to any data subject concerning the exercise of their rights under this Regulation and, if appropriate, cooperate with the supervisory authorities in other Member States to that end;
+
+(f) handle complaints lodged by a data subject, or by a body, organisation or association in accordance with Article 80, and investigate, to the extent appropriate, the subject matter of the complaint and inform the complainant of the progress and the outcome of the investigation within a reasonable period, in particular if further investigation or coordination with another supervisory authority is necessary;
+
+(g) cooperate with, including sharing information and provide mutual assistance to, other supervisory authorities with a view to ensuring the consistency of application and enforcement of this Regulation;
+
+(h) conduct investigations on the application of this Regulation, including on the basis of information received from another supervisory authority or other public authority;
+
+(i) monitor relevant developments, insofar as they have an impact on the protection of personal data, in particular the development of information and communication technologies and commercial practices;
+
+(j) adopt standard contractual clauses referred to in Article 28(8) and in point (d) of Article 46(2);
+
+(k) establish and maintain a list in relation to the requirement for data protection impact assessment pursuant to Article 35(4);
+
+(l) give advice on the processing operations referred to in Article 36(2);
+
+(m) encourage the drawing up of codes of conduct pursuant to Article 40(1) and provide an opinion and approve such codes of conduct which provide sufficient safeguards, pursuant to Article 40(5);
+
+(n) encourage the establishment of data protection certification mechanisms and of data protection seals and marks pursuant to Article 42(1), and approve the criteria of certification pursuant to Article 42(5);
+
+(o) where applicable, carry out a periodic review of certifications issued in accordance with Article 42(7);
+
+(p) draft and publish the requirements for accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
+
+(q) conduct the accreditation of a body for monitoring codes of conduct pursuant to Article 41 and of a certification body pursuant to Article 43;
+
+(r) authorise contractual clauses and provisions referred to in Article 46(3);
+
+(s) approve binding corporate rules pursuant to Article 47;
+
+(t) contribute to the activities of the Board;
+
+(u) keep internal records of infringements of this Regulation and of measures taken in accordance with Article 58(2); and
+
+(v) fulfil any other tasks related to the protection of personal data.
 
 **2.** Each supervisory authority shall facilitate the submission of complaints referred to in point (f) of paragraph 1 by measures such as a complaint submission form which can also be completed electronically, without excluding other means of communication.
 
@@ -832,11 +1444,69 @@ In relation to third countries and international organisations, the Commission a
 
 ### Article 58 — Powers
 
-**1.** Each supervisory authority shall have all of the following investigative powers:(a) to order the controller and the processor, and, where applicable, the controller's or the processor's representative to provide any information it requires for the performance of its tasks;(b) to carry out investigations in the form of data protection audits;(c) to carry out a review on certifications issued pursuant to Article 42(7);(d) to notify the controller or the processor of an alleged infringement of this Regulation;(e) to obtain, from the controller and the processor, access to all personal data and to all information necessary for the performance of its tasks;(f) to obtain access to any premises of the controller and the processor, including to any data processing equipment and means, in accordance with Union or Member State procedural law.
+**1.** Each supervisory authority shall have all of the following investigative powers:
 
-**2.** Each supervisory authority shall have all of the following corrective powers:(a) to issue warnings to a controller or processor that intended processing operations are likely to infringe provisions of this Regulation;(b) to issue reprimands to a controller or a processor where processing operations have infringed provisions of this Regulation;(c) to order the controller or the processor to comply with the data subject's requests to exercise his or her rights pursuant to this Regulation;(d) to order the controller or processor to bring processing operations into compliance with the provisions of this Regulation, where appropriate, in a specified manner and within a specified period;(e) to order the controller to communicate a personal data breach to the data subject;(f) to impose a temporary or definitive limitation including a ban on processing;(g) to order the rectification or erasure of personal data or restriction of processing pursuant to Articles 16, 17 and 18 and the notification of such actions to recipients to whom the personal data have been disclosed pursuant to Article 17(2) and Article 19;(h) to withdraw a certification or to order the certification body to withdraw a certification issued pursuant to Articles 42 and 43, or to order the certification body not to issue certification if the requirements for the certification are not or are no longer met;(i) to impose an administrative fine pursuant to Article 83, in addition to, or instead of measures referred to in this paragraph, depending on the circumstances of each individual case;(j) to order the suspension of data flows to a recipient in a third country or to an international organisation.
+Each supervisory authority shall have all of the following investigative powers:
 
-**3.** Each supervisory authority shall have all of the following authorisation and advisory powers:(a) to advise the controller in accordance with the prior consultation procedure referred to in Article 36;(b) to issue, on its own initiative or on request, opinions to the national parliament, the Member State government or, in accordance with Member State law, to other institutions and bodies as well as to the public on any issue related to the protection of personal data;(c) to authorise processing referred to in Article 36(5), if the law of the Member State requires such prior authorisation;(d) to issue an opinion and approve draft codes of conduct pursuant to Article 40(5);(e) to accredit certification bodies pursuant to Article 43;(f) to issue certifications and approve criteria of certification in accordance with Article 42(5);(g) to adopt standard data protection clauses referred to in Article 28(8) and in point (d) of Article 46(2);(h) to authorise contractual clauses referred to in point (a) of Article 46(3);(i) to authorise administrative arrangements referred to in point (b) of Article 46(3);(j) to approve binding corporate rules pursuant to Article 47.
+(a) to order the controller and the processor, and, where applicable, the controller's or the processor's representative to provide any information it requires for the performance of its tasks;
+
+(b) to carry out investigations in the form of data protection audits;
+
+(c) to carry out a review on certifications issued pursuant to Article 42(7);
+
+(d) to notify the controller or the processor of an alleged infringement of this Regulation;
+
+(e) to obtain, from the controller and the processor, access to all personal data and to all information necessary for the performance of its tasks;
+
+(f) to obtain access to any premises of the controller and the processor, including to any data processing equipment and means, in accordance with Union or Member State procedural law.
+
+**2.** Each supervisory authority shall have all of the following corrective powers:
+
+Each supervisory authority shall have all of the following corrective powers:
+
+(a) to issue warnings to a controller or processor that intended processing operations are likely to infringe provisions of this Regulation;
+
+(b) to issue reprimands to a controller or a processor where processing operations have infringed provisions of this Regulation;
+
+(c) to order the controller or the processor to comply with the data subject's requests to exercise his or her rights pursuant to this Regulation;
+
+(d) to order the controller or processor to bring processing operations into compliance with the provisions of this Regulation, where appropriate, in a specified manner and within a specified period;
+
+(e) to order the controller to communicate a personal data breach to the data subject;
+
+(f) to impose a temporary or definitive limitation including a ban on processing;
+
+(g) to order the rectification or erasure of personal data or restriction of processing pursuant to Articles 16, 17 and 18 and the notification of such actions to recipients to whom the personal data have been disclosed pursuant to Article 17(2) and Article 19;
+
+(h) to withdraw a certification or to order the certification body to withdraw a certification issued pursuant to Articles 42 and 43, or to order the certification body not to issue certification if the requirements for the certification are not or are no longer met;
+
+(i) to impose an administrative fine pursuant to Article 83, in addition to, or instead of measures referred to in this paragraph, depending on the circumstances of each individual case;
+
+(j) to order the suspension of data flows to a recipient in a third country or to an international organisation.
+
+**3.** Each supervisory authority shall have all of the following authorisation and advisory powers:
+
+Each supervisory authority shall have all of the following authorisation and advisory powers:
+
+(a) to advise the controller in accordance with the prior consultation procedure referred to in Article 36;
+
+(b) to issue, on its own initiative or on request, opinions to the national parliament, the Member State government or, in accordance with Member State law, to other institutions and bodies as well as to the public on any issue related to the protection of personal data;
+
+(c) to authorise processing referred to in Article 36(5), if the law of the Member State requires such prior authorisation;
+
+(d) to issue an opinion and approve draft codes of conduct pursuant to Article 40(5);
+
+(e) to accredit certification bodies pursuant to Article 43;
+
+(f) to issue certifications and approve criteria of certification in accordance with Article 42(5);
+
+(g) to adopt standard data protection clauses referred to in Article 28(8) and in point (d) of Article 46(2);
+
+(h) to authorise contractual clauses referred to in point (a) of Article 46(3);
+
+(i) to authorise administrative arrangements referred to in point (b) of Article 46(3);
+
+(j) to approve binding corporate rules pursuant to Article 47.
 
 **4.** The exercise of the powers conferred on the supervisory authority pursuant to this Article shall be subject to appropriate safeguards, including effective judicial remedy and due process, set out in Union and Member State law in accordance with the Charter.
 
@@ -892,7 +1562,13 @@ Each supervisory authority shall draw up an annual report on its activities, whi
 
 **3.** Requests for assistance shall contain all the necessary information, including the purpose of and reasons for the request. Information exchanged shall be used only for the purpose for which it was requested.
 
-**4.** The requested supervisory authority shall not refuse to comply with the request unless:(a) it is not competent for the subject-matter of the request or for the measures it is requested to execute; or(b) compliance with the request would infringe this Regulation or Union or Member State law to which the supervisory authority receiving the request is subject.
+**4.** The requested supervisory authority shall not refuse to comply with the request unless:
+
+The requested supervisory authority shall not refuse to comply with the request unless:
+
+(a) it is not competent for the subject-matter of the request or for the measures it is requested to execute; or
+
+(b) compliance with the request would infringe this Regulation or Union or Member State law to which the supervisory authority receiving the request is subject.
 
 **5.** The requested supervisory authority shall inform the requesting supervisory authority of the results or, as the case may be, of the progress of the measures taken in order to respond to the request. The requested supervisory authority shall provide reasons for any refusal to comply with a request pursuant to paragraph 4.
 
@@ -934,7 +1610,21 @@ In order to contribute to the consistent application of this Regulation througho
 
 ### Article 64 — Opinion of the Board
 
-**1.** The Board shall issue an opinion where a competent supervisory authority intends to adopt any of the measures below. To that end, the competent supervisory authority shall communicate the draft decision to the Board, when it:(a) aims to adopt a list of the processing operations subject to the requirement for a data protection impact assessment pursuant to Article 35(4);(b) concerns a matter pursuant to Article 40(7) whether a draft code of conduct or an amendment or extension to a code of conduct complies with this Regulation;▼C1(c) aims to approve the requirements for accreditation of a body pursuant to Article 41(3), of a certification body pursuant to Article 43(3) or the criteria for certification referred to in Article 42(5);▼B(d) aims to determine standard data protection clauses referred to in point (d) of Article 46(2) and in Article 28(8);(e) aims to authorise contractual clauses referred to in point (a) of Article 46(3); or(f) aims to approve binding corporate rules within the meaning of Article 47.
+**1.** The Board shall issue an opinion where a competent supervisory authority intends to adopt any of the measures below. To that end, the competent supervisory authority shall communicate the draft decision to the Board, when it:
+
+The Board shall issue an opinion where a competent supervisory authority intends to adopt any of the measures below. To that end, the competent supervisory authority shall communicate the draft decision to the Board, when it:
+
+(a) aims to adopt a list of the processing operations subject to the requirement for a data protection impact assessment pursuant to Article 35(4);
+
+(b) concerns a matter pursuant to Article 40(7) whether a draft code of conduct or an amendment or extension to a code of conduct complies with this Regulation;
+
+(c) aims to approve the requirements for accreditation of a body pursuant to Article 41(3), of a certification body pursuant to Article 43(3) or the criteria for certification referred to in Article 42(5);
+
+(d) aims to determine standard data protection clauses referred to in point (d) of Article 46(2) and in Article 28(8);
+
+(e) aims to authorise contractual clauses referred to in point (a) of Article 46(3); or
+
+(f) aims to approve binding corporate rules within the meaning of Article 47.
 
 **2.** Any supervisory authority, the Chair of the Board or the Commission may request that any matter of general application or producing effects in more than one Member State be examined by the Board with a view to obtaining an opinion, in particular where a competent supervisory authority does not comply with the obligations for mutual assistance in accordance with Article 61 or for joint operations in accordance with Article 62.
 
@@ -942,7 +1632,13 @@ In order to contribute to the consistent application of this Regulation througho
 
 **4.** Supervisory authorities and the Commission shall, without undue delay, communicate by electronic means to the Board, using a standardised format any relevant information, including as the case may be a summary of the facts, the draft decision, the grounds which make the enactment of such measure necessary, and the views of other supervisory authorities concerned.
 
-**5.** The Chair of the Board shall, without undue, delay inform by electronic means:(a) the members of the Board and the Commission of any relevant information which has been communicated to it using a standardised format. The secretariat of the Board shall, where necessary, provide translations of relevant information; and(b) the supervisory authority referred to, as the case may be, in paragraphs 1 and 2, and the Commission of the opinion and make it public.
+**5.** The Chair of the Board shall, without undue, delay inform by electronic means:
+
+The Chair of the Board shall, without undue, delay inform by electronic means:
+
+(a) the members of the Board and the Commission of any relevant information which has been communicated to it using a standardised format. The secretariat of the Board shall, where necessary, provide translations of relevant information; and
+
+(b) the supervisory authority referred to, as the case may be, in paragraphs 1 and 2, and the Commission of the opinion and make it public.
 
 **6.** The competent supervisory authority referred to in paragraph 1 shall not adopt its draft decision referred to in paragraph 1 within the period referred to in paragraph 3.
 
@@ -954,7 +1650,15 @@ In order to contribute to the consistent application of this Regulation througho
 
 ### Article 65 — Dispute resolution by the Board
 
-**1.** In order to ensure the correct and consistent application of this Regulation in individual cases, the Board shall adopt a binding decision in the following cases:(a) ►C1 where, in a case referred to in Article 60(4), a supervisory authority concerned has raised a relevant and reasoned objection to a draft decision of the lead supervisory authority and the lead supervisory authority has not followed the objection or has rejected such an objection as being not relevant or reasoned.** ◄ ** The binding decision shall concern all the matters which are the subject of the relevant and reasoned objection, in particular whether there is an infringement of this Regulation;(b) where there are conflicting views on which of the supervisory authorities concerned is competent for the main establishment;(c) where a competent supervisory authority does not request the opinion of the Board in the cases referred to in Article 64(1), or does not follow the opinion of the Board issued under Article 64. In that case, any supervisory authority concerned or the Commission may communicate the matter to the Board.
+**1.** In order to ensure the correct and consistent application of this Regulation in individual cases, the Board shall adopt a binding decision in the following cases:
+
+In order to ensure the correct and consistent application of this Regulation in individual cases, the Board shall adopt a binding decision in the following cases:
+
+(a) where, in a case referred to in Article 60(4), a supervisory authority concerned has raised a relevant and reasoned objection to a draft decision of the lead supervisory authority and the lead supervisory authority has not followed the objection or has rejected such an objection as being not relevant or reasoned. The binding decision shall concern all the matters which are the subject of the relevant and reasoned objection, in particular whether there is an infringement of this Regulation;
+
+(b) where there are conflicting views on which of the supervisory authorities concerned is competent for the main establishment;
+
+(c) where a competent supervisory authority does not request the opinion of the Board in the cases referred to in Article 64(1), or does not follow the opinion of the Board issued under Article 64. In that case, any supervisory authority concerned or the Commission may communicate the matter to the Board.
 
 **2.** The decision referred to in paragraph 1 shall be adopted within one month from the referral of the subject-matter by a two-thirds majority of the members of the Board. That period may be extended by a further month on account of the complexity of the subject-matter. The decision referred to in paragraph 1 shall be reasoned and addressed to the lead supervisory authority and all the supervisory authorities concerned and binding on them.
 
@@ -1016,7 +1720,59 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 ### Article 70 — Tasks of the Board
 
-**1.** The Board shall ensure the consistent application of this Regulation. To that end, the Board shall, on its own initiative or, where relevant, at the request of the Commission, in particular:(a) monitor and ensure the correct application of this Regulation in the cases provided for in Articles 64 and 65 without prejudice to the tasks of national supervisory authorities;(b) advise the Commission on any issue related to the protection of personal data in the Union, including on any proposed amendment of this Regulation;(c) advise the Commission on the format and procedures for the exchange of information between controllers, processors and supervisory authorities for binding corporate rules;(d) issue guidelines, recommendations, and best practices on procedures for erasing links, copies or replications of personal data from publicly available communication services as referred to in Article 17(2);(e) examine, on its own initiative, on request of one of its members or on request of the Commission, any question covering the application of this Regulation and issue guidelines, recommendations and best practices in order to encourage consistent application of this Regulation;(f) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for further specifying the criteria and conditions for decisions based on profiling pursuant to Article 22(2);(g) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing the personal data breaches and determining the undue delay referred to in Article 33(1) and (2) and for the particular circumstances in which a controller or a processor is required to notify the personal data breach;(h) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph as to the circumstances in which a personal data breach is likely to result in a high risk to the rights and freedoms of the natural persons referred to in Article 34(1).(i) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for personal data transfers based on binding corporate rules adhered to by controllers and binding corporate rules adhered to by processors and on further necessary requirements to ensure the protection of personal data of the data subjects concerned referred to in Article 47;(j) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for the personal data transfers on the basis of Article 49(1);(k) draw up guidelines for supervisory authorities concerning the application of measures referred to in Article 58(1), (2) and (3) and the setting of administrative fines pursuant to Article 83;▼C1(l) review the practical application of the guidelines, recommendations and best practices;▼B(m) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing common procedures for reporting by natural persons of infringements of this Regulation pursuant to Article 54(2);(n) encourage the drawing-up of codes of conduct and the establishment of data protection certification mechanisms and data protection seals and marks pursuant to Articles 40 and 42;▼C1(o) approve the criteria of certification pursuant to Article 42(5) and maintain a public register of certification mechanisms and data protection seals and marks pursuant to Article 42(8) and of the certified controllers or processors established in third countries pursuant to Article 42(7);(p) approve the requirements referred to in Article 43(3) with a view to the accreditation of certification bodies referred to in Article 43;▼B(q) provide the Commission with an opinion on the certification requirements referred to in Article 43(8);(r) provide the Commission with an opinion on the icons referred to in Article 12(7);(s) provide the Commission with an opinion for the assessment of the adequacy of the level of protection in a third country or international organisation, including for the assessment whether a third country, a territory or one or more specified sectors within that third country, or an international organisation no longer ensures an adequate level of protection. To that end, the Commission shall provide the Board with all necessary documentation, including correspondence with the government of the third country, with regard to that third country, territory or specified sector, or with the international organisation.(t) issue opinions on draft decisions of supervisory authorities pursuant to the consistency mechanism referred to in Article 64(1), on matters submitted pursuant to Article 64(2) and to issue binding decisions pursuant to Article 65, including in cases referred to in Article 66;(u) promote the cooperation and the effective bilateral and multilateral exchange of information and best practices between the supervisory authorities;(v) promote common training programmes and facilitate personnel exchanges between the supervisory authorities and, where appropriate, with the supervisory authorities of third countries or with international organisations;(w) promote the exchange of knowledge and documentation on data protection legislation and practice with data protection supervisory authorities worldwide.(x) issue opinions on codes of conduct drawn up at Union level pursuant to Article 40(9); and(y) maintain a publicly accessible electronic register of decisions taken by supervisory authorities and courts on issues handled in the consistency mechanism.
+**1.** The Board shall ensure the consistent application of this Regulation. To that end, the Board shall, on its own initiative or, where relevant, at the request of the Commission, in particular:
+
+The Board shall ensure the consistent application of this Regulation. To that end, the Board shall, on its own initiative or, where relevant, at the request of the Commission, in particular:
+
+(a) monitor and ensure the correct application of this Regulation in the cases provided for in Articles 64 and 65 without prejudice to the tasks of national supervisory authorities;
+
+(b) advise the Commission on any issue related to the protection of personal data in the Union, including on any proposed amendment of this Regulation;
+
+(c) advise the Commission on the format and procedures for the exchange of information between controllers, processors and supervisory authorities for binding corporate rules;
+
+(d) issue guidelines, recommendations, and best practices on procedures for erasing links, copies or replications of personal data from publicly available communication services as referred to in Article 17(2);
+
+(e) examine, on its own initiative, on request of one of its members or on request of the Commission, any question covering the application of this Regulation and issue guidelines, recommendations and best practices in order to encourage consistent application of this Regulation;
+
+(f) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for further specifying the criteria and conditions for decisions based on profiling pursuant to Article 22(2);
+
+(g) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing the personal data breaches and determining the undue delay referred to in Article 33(1) and (2) and for the particular circumstances in which a controller or a processor is required to notify the personal data breach;
+
+(h) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph as to the circumstances in which a personal data breach is likely to result in a high risk to the rights and freedoms of the natural persons referred to in Article 34(1).
+
+(i) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for personal data transfers based on binding corporate rules adhered to by controllers and binding corporate rules adhered to by processors and on further necessary requirements to ensure the protection of personal data of the data subjects concerned referred to in Article 47;
+
+(j) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for the purpose of further specifying the criteria and requirements for the personal data transfers on the basis of Article 49(1);
+
+(k) draw up guidelines for supervisory authorities concerning the application of measures referred to in Article 58(1), (2) and (3) and the setting of administrative fines pursuant to Article 83;
+
+(l) review the practical application of the guidelines, recommendations and best practices;
+
+(m) issue guidelines, recommendations and best practices in accordance with point (e) of this paragraph for establishing common procedures for reporting by natural persons of infringements of this Regulation pursuant to Article 54(2);
+
+(n) encourage the drawing-up of codes of conduct and the establishment of data protection certification mechanisms and data protection seals and marks pursuant to Articles 40 and 42;
+
+(o) approve the criteria of certification pursuant to Article 42(5) and maintain a public register of certification mechanisms and data protection seals and marks pursuant to Article 42(8) and of the certified controllers or processors established in third countries pursuant to Article 42(7);
+
+(p) approve the requirements referred to in Article 43(3) with a view to the accreditation of certification bodies referred to in Article 43;
+
+(q) provide the Commission with an opinion on the certification requirements referred to in Article 43(8);
+
+(r) provide the Commission with an opinion on the icons referred to in Article 12(7);
+
+(s) provide the Commission with an opinion for the assessment of the adequacy of the level of protection in a third country or international organisation, including for the assessment whether a third country, a territory or one or more specified sectors within that third country, or an international organisation no longer ensures an adequate level of protection. To that end, the Commission shall provide the Board with all necessary documentation, including correspondence with the government of the third country, with regard to that third country, territory or specified sector, or with the international organisation.
+
+(t) issue opinions on draft decisions of supervisory authorities pursuant to the consistency mechanism referred to in Article 64(1), on matters submitted pursuant to Article 64(2) and to issue binding decisions pursuant to Article 65, including in cases referred to in Article 66;
+
+(u) promote the cooperation and the effective bilateral and multilateral exchange of information and best practices between the supervisory authorities;
+
+(v) promote common training programmes and facilitate personnel exchanges between the supervisory authorities and, where appropriate, with the supervisory authorities of third countries or with international organisations;
+
+(w) promote the exchange of knowledge and documentation on data protection legislation and practice with data protection supervisory authorities worldwide.
+
+(x) issue opinions on codes of conduct drawn up at Union level pursuant to Article 40(9); and
+
+(y) maintain a publicly accessible electronic register of decisions taken by supervisory authorities and courts on issues handled in the consistency mechanism.
 
 **2.** Where the Commission requests advice from the Board, it may indicate a time limit, taking into account the urgency of the matter.
 
@@ -1052,7 +1808,15 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 ### Article 74 — Tasks of the Chair
 
-**1.** The Chair shall have the following tasks:(a) to convene the meetings of the Board and prepare its agenda;(b) to notify decisions adopted by the Board pursuant to Article 65 to the lead supervisory authority and the supervisory authorities concerned;(c) to ensure the timely performance of the tasks of the Board, in particular in relation to the consistency mechanism referred to in Article 63.
+**1.** The Chair shall have the following tasks:
+
+The Chair shall have the following tasks:
+
+(a) to convene the meetings of the Board and prepare its agenda;
+
+(b) to notify decisions adopted by the Board pursuant to Article 65 to the lead supervisory authority and the supervisory authorities concerned;
+
+(c) to ensure the timely performance of the tasks of the Board, in particular in relation to the consistency mechanism referred to in Article 63.
 
 **2.** The Board shall lay down the allocation of tasks between the Chair and the deputy chairs in its rules of procedure.
 
@@ -1070,7 +1834,23 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 **5.** The secretariat shall provide analytical, administrative and logistical support to the Board.
 
-**6.** The secretariat shall be responsible in particular for:(a) the day-to-day business of the Board;(b) communication between the members of the Board, its Chair and the Commission;(c) communication with other institutions and the public;(d) the use of electronic means for the internal and external communication;(e) the translation of relevant information;(f) the preparation and follow-up of the meetings of the Board;(g) the preparation, drafting and publication of opinions, decisions on the settlement of disputes between supervisory authorities and other texts adopted by the Board.
+**6.** The secretariat shall be responsible in particular for:
+
+The secretariat shall be responsible in particular for:
+
+(a) the day-to-day business of the Board;
+
+(b) communication between the members of the Board, its Chair and the Commission;
+
+(c) communication with other institutions and the public;
+
+(d) the use of electronic means for the internal and external communication;
+
+(e) the translation of relevant information;
+
+(f) the preparation and follow-up of the meetings of the Board;
+
+(g) the preparation, drafting and publication of opinions, decisions on the settlement of disputes between supervisory authorities and other texts adopted by the Board.
 
 <a id="art_76"></a>
 
@@ -1078,7 +1858,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 **1.** The discussions of the Board shall be confidential where the Board deems it necessary, as provided for in its rules of procedure.
 
-**2.** Access to documents submitted to members of the Board, experts and representatives of third parties shall be governed by Regulation (EC) No 1049/2001 of the European Parliament and of the Council (3).
+**2.** Access to documents submitted to members of the Board, experts and representatives of third parties shall be governed by Regulation (EC) No 1049/2001 of the European Parliament and of the Council.
 
 ## CHAPTER VIII — Remedies, liability and penalties
 
@@ -1150,15 +1930,59 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 **1.** Each supervisory authority shall ensure that the imposition of administrative fines pursuant to this Article in respect of infringements of this Regulation referred to in paragraphs 4, 5 and 6 shall in each individual case be effective, proportionate and dissuasive.
 
-**2.** Administrative fines shall, depending on the circumstances of each individual case, be imposed in addition to, or instead of, measures referred to in points (a) to (h) and (j) of Article 58(2). When deciding whether to impose an administrative fine and deciding on the amount of the administrative fine in each individual case due regard shall be given to the following:(a) the nature, gravity and duration of the infringement taking into account the nature scope or purpose of the processing concerned as well as the number of data subjects affected and the level of damage suffered by them;(b) the intentional or negligent character of the infringement;(c) any action taken by the controller or processor to mitigate the damage suffered by data subjects;(d) the degree of responsibility of the controller or processor taking into account technical and organisational measures implemented by them pursuant to Articles 25 and 32;(e) any relevant previous infringements by the controller or processor;(f) the degree of cooperation with the supervisory authority, in order to remedy the infringement and mitigate the possible adverse effects of the infringement;(g) the categories of personal data affected by the infringement;(h) the manner in which the infringement became known to the supervisory authority, in particular whether, and if so to what extent, the controller or processor notified the infringement;(i) where measures referred to in Article 58(2) have previously been ordered against the controller or processor concerned with regard to the same subject-matter, compliance with those measures;(j) adherence to approved codes of conduct pursuant to Article 40 or approved certification mechanisms pursuant to Article 42; and(k) any other aggravating or mitigating factor applicable to the circumstances of the case, such as financial benefits gained, or losses avoided, directly or indirectly, from the infringement.
+**2.** Administrative fines shall, depending on the circumstances of each individual case, be imposed in addition to, or instead of, measures referred to in points (a) to (h) and (j) of Article 58(2). When deciding whether to impose an administrative fine and deciding on the amount of the administrative fine in each individual case due regard shall be given to the following:
+
+Administrative fines shall, depending on the circumstances of each individual case, be imposed in addition to, or instead of, measures referred to in points (a) to (h) and (j) of Article 58(2). When deciding whether to impose an administrative fine and deciding on the amount of the administrative fine in each individual case due regard shall be given to the following:
+
+(a) the nature, gravity and duration of the infringement taking into account the nature scope or purpose of the processing concerned as well as the number of data subjects affected and the level of damage suffered by them;
+
+(b) the intentional or negligent character of the infringement;
+
+(c) any action taken by the controller or processor to mitigate the damage suffered by data subjects;
+
+(d) the degree of responsibility of the controller or processor taking into account technical and organisational measures implemented by them pursuant to Articles 25 and 32;
+
+(e) any relevant previous infringements by the controller or processor;
+
+(f) the degree of cooperation with the supervisory authority, in order to remedy the infringement and mitigate the possible adverse effects of the infringement;
+
+(g) the categories of personal data affected by the infringement;
+
+(h) the manner in which the infringement became known to the supervisory authority, in particular whether, and if so to what extent, the controller or processor notified the infringement;
+
+(i) where measures referred to in Article 58(2) have previously been ordered against the controller or processor concerned with regard to the same subject-matter, compliance with those measures;
+
+(j) adherence to approved codes of conduct pursuant to Article 40 or approved certification mechanisms pursuant to Article 42; and
+
+(k) any other aggravating or mitigating factor applicable to the circumstances of the case, such as financial benefits gained, or losses avoided, directly or indirectly, from the infringement.
 
 **3.** If a controller or processor intentionally or negligently, for the same or linked processing operations, infringes several provisions of this Regulation, the total amount of the administrative fine shall not exceed the amount specified for the gravest infringement.
 
-**4.** Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 10 000 000 EUR, or in the case of an undertaking, up to 2 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:(a) the obligations of the controller and the processor pursuant to Articles 8, 11, 25 to 39 and 42 and 43;(b) the obligations of the certification body pursuant to Articles 42 and 43;(c) the obligations of the monitoring body pursuant to Article 41(4).
+**4.** Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 10000000 EUR, or in the case of an undertaking, up to 2 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:
 
-**5.** Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:(a) the basic principles for processing, including conditions for consent, pursuant to Articles 5, 6, 7 and 9;(b) the data subjects' rights pursuant to Articles 12 to 22;(c) the transfers of personal data to a recipient in a third country or an international organisation pursuant to Articles 44 to 49;(d) any obligations pursuant to Member State law adopted under Chapter IX;(e) non-compliance with an order or a temporary or definitive limitation on processing or the suspension of data flows by the supervisory authority pursuant to Article 58(2) or failure to provide access in violation of Article 58(1).
+Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 10000000 EUR, or in the case of an undertaking, up to 2 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:
 
-**6.** Non-compliance with an order by the supervisory authority as referred to in Article 58(2) shall, in accordance with paragraph 2 of this Article, be subject to administrative fines up to 20 000 000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher.
+(a) the obligations of the controller and the processor pursuant to Articles 8, 11, 25 to 39 and 42 and 43;
+
+(b) the obligations of the certification body pursuant to Articles 42 and 43;
+
+(c) the obligations of the monitoring body pursuant to Article 41(4).
+
+**5.** Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 20000000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:
+
+Infringements of the following provisions shall, in accordance with paragraph 2, be subject to administrative fines up to 20000000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher:
+
+(a) the basic principles for processing, including conditions for consent, pursuant to Articles 5, 6, 7 and 9;
+
+(b) the data subjects' rights pursuant to Articles 12 to 22;
+
+(c) the transfers of personal data to a recipient in a third country or an international organisation pursuant to Articles 44 to 49;
+
+(d) any obligations pursuant to Member State law adopted under Chapter IX;
+
+(e) non-compliance with an order or a temporary or definitive limitation on processing or the suspension of data flows by the supervisory authority pursuant to Article 58(2) or failure to provide access in violation of Article 58(1).
+
+**6.** Non-compliance with an order by the supervisory authority as referred to in Article 58(2) shall, in accordance with paragraph 2 of this Article, be subject to administrative fines up to 20000000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher.
 
 **7.** Without prejudice to the corrective powers of supervisory authorities pursuant to Article 58(2), each Member State may lay down the rules on whether and to what extent administrative fines may be imposed on public authorities and bodies established in that Member State.
 
@@ -1290,7 +2114,13 @@ International agreements involving the transfer of personal data to third countr
 
 **1.** By 25 May 2020 and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council. The reports shall be made public.
 
-**2.** In the context of the evaluations and reviews referred to in paragraph 1, the Commission shall examine, in particular, the application and functioning of:(a) Chapter V on the transfer of personal data to third countries or international organisations with particular regard to decisions adopted pursuant to Article 45(3) of this Regulation and decisions adopted on the basis of Article 25(6) of Directive 95/46/EC;(b) Chapter VII on cooperation and consistency.
+**2.** In the context of the evaluations and reviews referred to in paragraph 1, the Commission shall examine, in particular, the application and functioning of:
+
+In the context of the evaluations and reviews referred to in paragraph 1, the Commission shall examine, in particular, the application and functioning of:
+
+(a) Chapter V on the transfer of personal data to third countries or international organisations with particular regard to decisions adopted pursuant to Article 45(3) of this Regulation and decisions adopted on the basis of Article 25(6) of Directive 95/46/EC;
+
+(b) Chapter VII on cooperation and consistency.
 
 **3.** For the purpose of paragraph 1, the Commission may request information from Member States and supervisory authorities.
 

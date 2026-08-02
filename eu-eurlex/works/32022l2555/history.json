@@ -2,14 +2,38 @@
   "lex_work_id": "eu-eurlex:32022l2555",
   "schema": "lex-articles/1",
   "profiles": [
-    "xhtml-eu/1"
+    "fmx4-eu/1"
   ],
   "anchors": {
+    "anx_i": [
+      {
+        "valid_from": "2022-12-27",
+        "valid_to": null,
+        "text_sha256": "57543bc1564e01a5487864a25acca2cb37e24ff11982caa23e22d3b7b35dddfe",
+        "in_version": "eu-eurlex:32022l2555:2022-12-27"
+      }
+    ],
+    "anx_ii": [
+      {
+        "valid_from": "2022-12-27",
+        "valid_to": null,
+        "text_sha256": "43f8abdc9b9e91b6a0ffb26ad4b4105d8d0bfe47d71e6aa61f7a50563234d10a",
+        "in_version": "eu-eurlex:32022l2555:2022-12-27"
+      }
+    ],
+    "anx_iii": [
+      {
+        "valid_from": "2022-12-27",
+        "valid_to": null,
+        "text_sha256": "c4177618479f1253ca546f5d5a6af940666fd3b5c45be90dd122fc3a7e69d942",
+        "in_version": "eu-eurlex:32022l2555:2022-12-27"
+      }
+    ],
     "art_1": [
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "5ee3ceef35ae066b1fb8fc8733255aefaabc64394cd6f8872e5f7cf21aa30662",
+        "text_sha256": "a8c86b4a540d5f13d4c50e8752be1dea83136f9ff7eaa664dbc5029adf35e087",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -25,7 +49,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "386568a3d5050023fc8c4671b936e69e67c1dd9cd2bd843a008279b2dfbe2dee",
+        "text_sha256": "cf1e91ef209c9bba3feceda93963580cb309db2338267c041f4ae210c675407d",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -33,7 +57,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "c108f00284c291fa24fb93369f0cf0878257923337770ce62f37266676d58277",
+        "text_sha256": "ea75b511a6de3db71b2f63856e500bb7d121a49fa9ca104f52529abf01e81ad3",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -49,7 +73,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "b2e795ebbbfa2ed05864f62d1b1593a5e04e5ccdd35a3694e5bd846c35a856ff",
+        "text_sha256": "623a13158194680aebdb857685fe1ec67fd1bd75bb6e2e29d2ce00a9602c2a2e",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -57,7 +81,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "c4c39f8ffeb0be34a4b430aa8d6e5576e8f1cadd2b420c80dceecc904f0a2f3a",
+        "text_sha256": "112d9149dd126372c9a309e7a56e13591eee513d97bcc2fe0593075ccf3910f9",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -65,7 +89,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "b47c3e92e1694c760d32874e35b73fad422b3fd9bb11449939d98b6cd8bab1c7",
+        "text_sha256": "a9202ad2f59e0e1cdc79fb5ef329687e3fa866108bd2fb30c704e56a7c94122f",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -81,7 +105,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "8e5f9af985055bbf54637dd5eefb73f14fcf434f235b73d3ea98beb9b9a7da25",
+        "text_sha256": "8824af8e903e08070910220f416bf606c8fd7cf195bdaa975f3571fcc1311e70",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -89,7 +113,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "bd6454e8d6897cb783f4a6b580dc5477fb6527f95070a24966232f81af17e1e0",
+        "text_sha256": "2a66a13c0a4373afead03f99f2e042482641a7017a96858ea35a692dc30d7511",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -97,7 +121,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "22395bab7b1aa9606b30f481b31ec690c51d5ff5199056d77523953afa92e0f0",
+        "text_sha256": "5cea8fe50796a4ea95c2323d5c296dbfb477618883da64855621f7d66915bb20",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -113,7 +137,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "cc2f17bb4dd5d3d584860b240a303c32577715c41dd44156a7a28b44a7f87ab5",
+        "text_sha256": "5faa83fe23307a1bb99d95391a97b09660678bac205050fb73c224a306ddfc32",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -129,7 +153,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "f722b14c34956e1ecfc9f52c035af447bdd711eed72efec2db8945a152e5222a",
+        "text_sha256": "4dc10b55d1c6fd2f385141490c4342f67b724ea0b456cf7c8747fc77f60ee349",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -153,7 +177,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "ab8dd9613da33efd41fb59ea235b05541f1953ab56f7991daf2154dd3b0e8a4f",
+        "text_sha256": "d8c19b2e6db81bc57f2ceb199cd71a3c35fa106b2a40bad93fa0c21f318ce083",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -161,7 +185,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "ab0de88d8dd8e6b281e074c07796a36bac900a9cdb60b640e8c5e0046c6f370b",
+        "text_sha256": "2d8f6f52b470e5867f8d3e0322a07648bcc13290a2069bec3f9d58af1e9317ce",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -169,7 +193,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "3cff17b4a4f25b73a89eabbd107d4c27240f1eb76cbdd91412aaf6db34171bf2",
+        "text_sha256": "f810746b746f02b0b4c46debd61b93db766b40413b5300429d09c524c987025c",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -177,7 +201,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "aadddac1ff9a7e73ad807ef79cef55f81d0affaef2a517edef39297931569655",
+        "text_sha256": "f1fb3cd97cab1c2f75ab146bb9fae3e5d968101bab4039d70c7ed5faffa9cf82",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -185,7 +209,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "6490be0b4dc26b3e141fb9772731a8b96514f58151fc7495c8c10b611f4042c1",
+        "text_sha256": "7f46f1db7f8bd600888f1d636342c0111911dd69630eadf62c0b91e9c5eecc25",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -193,7 +217,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "10af67552ad82db50547f9f673e6f505ab94736e37f60fb5250ae79da0043461",
+        "text_sha256": "17bbcac0846d5545d8d58e71e99821c8834328eec802a17d91b0622044c3b455",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -209,7 +233,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "082ddc3adb0bdc722f07795175b606db5da10b373c19bd95b32985277cfdd3da",
+        "text_sha256": "cc50648084750ec69fd72db680f5d8c6c1b74c8639c30e65cca4a3f665793628",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -217,7 +241,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "5abce4bbe45e1c909a4d89242c2005e06d00a3dffb919104975290ae84a0f3ca",
+        "text_sha256": "d00fc311daf613cf11dd8ab0d2aaf42c6591b8bab44666454c294b3aaa7c7d2a",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -225,7 +249,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "1a8c13b23f3bfb6e93212db95b58c1f0521dce6bab841501bf464c9acbaa817b",
+        "text_sha256": "926e8db11a6061b80b4ac47acdda0aa49a017be6ce5a2f00462c8415fc25fc40",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -249,7 +273,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "7944db6b8512c74680dcf13e503dd553ef805fe2ae88affad77907b4ab58e02f",
+        "text_sha256": "984613e1adb55f426260f4e3e66f7676fdf8d73e701b6397a5b060feeaf667e4",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -273,7 +297,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "356538e7d0e8983651b16a20fd5f03f8ff93b8744cc8944b5c9ca21208c441bd",
+        "text_sha256": "1374bd615cf96b22d616df15eea1b43ecd6294b9825bd927262e688a27e69c5e",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -345,7 +369,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "052c32523b8e7a91136cc8fc39c6d26eca789c18103f2feb2d1117eab322c84e",
+        "text_sha256": "a4f9d29565871854c86593dc68f2b34357e8552dd97095d4ad77346ddff6ab9f",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -353,7 +377,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "180179d641f0ef8d6a26c18565767d305a807c85ef3ffed6c48fa9970d78399c",
+        "text_sha256": "9f80126bbcb450b4c11ed617913981ce2bd1705e70c138718c02e58d222c33ef",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ],
@@ -369,7 +393,7 @@
       {
         "valid_from": "2022-12-27",
         "valid_to": null,
-        "text_sha256": "244b09c19bb0a6cf8eb3163897e297f11a5754cbefdd8b93d248ae3cd25025ad",
+        "text_sha256": "a929246e73e8d19d9cd69173e5102b4ca164b87736cef0c6364be873f502786f",
         "in_version": "eu-eurlex:32022l2555:2022-12-27"
       }
     ]

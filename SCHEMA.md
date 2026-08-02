@@ -50,23 +50,27 @@ yields exactly this text", which is mechanically checkable offline.
 
 ## Extraction profiles are immutable and permanently retained
 
-`akn-lu/1` and `xhtml-eu/1` will remain runnable for the life of the project.
-A profile is never edited after publication; an improved extraction is a **new**
-profile (`akn-lu/2`) beside the old one, and re-derivation under a new profile
-is a new, tagged generation. Citations pinned under a profile verify under that
-profile, forever. Every `*.json` records its profile in `generator.profile`;
-`history.json` lists the profiles that produced it.
+`akn-lu/1`, `xhtml-eu/1` and `fmx4-eu/1` will remain runnable for the life of
+the project. A profile is never edited after publication; an improved extraction
+is a **new** profile (`akn-lu/2`) beside the old one, and re-derivation under a
+new profile is a new, tagged generation. Citations pinned under a profile verify
+under that profile, forever. Every `*.json` records its profile in
+`generator.profile`; `history.json` lists the profiles that produced it.
 
 - **LU (`akn-lu/1`)** — structural: article boundaries, anchors, per-article
   ELIs and applicability dates are the publisher's own (Akoma Ntoso eIds +
   JOLUX metadata).
-- **EU (`xhtml-eu/1`)** — structural-in-presentation: boundaries follow the
-  publisher's own `eli-subdivision` fragment identifiers embedded in Cellar's
-  consolidated XHTML. Weaker than a native XML schema, far stronger than layout
-  heuristics. Cellar also publishes **Formex 4** manifestations for these
-  consolidated acts (verified 2026-08-02); a `fmx4-eu/1` profile over that
-  structured XML is the planned upgrade and will supersede `xhtml-eu/1` as a
-  new, separately tagged profile.
+- **EU (`fmx4-eu/1`)** — structural: Formex 4 is the Publications Office's own
+  production XML; `ARTICLE`/`PARAG` boundaries and numbering are publisher
+  markup. Anchors continue the `xhtml-eu/1` convention (`art_N`, `anx_<roman>`)
+  so permalinks and history states survive the profile switch. A work uses
+  `fmx4-eu/1` only when every body-bearing version has a Formex manifestation;
+  the evidence lives in the corpus repo under `versions/{date}/en.fmx4/`
+  (verbatim zip members, one sha256 observation each).
+- **EU fallback (`xhtml-eu/1`)** — structural-in-presentation: boundaries follow
+  the publisher's `eli-subdivision` fragment identifiers in Cellar's
+  consolidated XHTML (or its older flat format). Still used for works where a
+  Formex manifestation is missing upstream for at least one version.
 
 ## Spans
 
