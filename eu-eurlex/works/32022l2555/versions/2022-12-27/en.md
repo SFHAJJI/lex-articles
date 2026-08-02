@@ -20,8 +20,6 @@ generator: fmx4-eu/1 · lex derive
 
 **2.** To that end, this Directive lays down:
 
-To that end, this Directive lays down:
-
 (a) obligations that require Member States to adopt national cybersecurity strategies and to designate or establish competent authorities, cyber crisis management authorities, single points of contact on cybersecurity (single points of contact) and computer security incident response teams (CSIRTs);
 
 (b) cybersecurity risk-management measures and reporting obligations for entities of a type referred to in Annex I or II as well as for entities identified as critical entities under Directive (EU) 2022/2557;
@@ -40,8 +38,6 @@ Article 3(4) of the Annex to that Recommendation shall not apply for the purpose
 
 **2.** Regardless of their size, this Directive also applies to entities of a type referred to in Annex I or II, where:
 
-Regardless of their size, this Directive also applies to entities of a type referred to in Annex I or II, where:
-
 (a) services are provided by: (i) providers of public electronic communications networks or of publicly available electronic communications services; (ii) trust service providers; (iii) top-level domain name registries and domain name system service providers;
 
 (b) the entity is the sole provider in a Member State of a service which is essential for the maintenance of critical societal or economic activities;
@@ -59,8 +55,6 @@ Regardless of their size, this Directive also applies to entities of a type refe
 **4.** Regardless of their size, this Directive applies to entities providing domain name registration services.
 
 **5.** Member States may provide for this Directive to apply to:
-
-Member States may provide for this Directive to apply to:
 
 (a) public administration entities at local level;
 
@@ -92,8 +86,6 @@ The processing of personal data pursuant to this Directive by providers of publi
 
 **1.** For the purposes of this Directive, the following entities shall be considered to be essential entities:
 
-For the purposes of this Directive, the following entities shall be considered to be essential entities:
-
 (a) entities of a type referred to in Annex I which exceed the ceilings for medium-sized enterprises provided for in Article 2(1) of the Annex to Recommendation 2003/361/EC;
 
 (b) qualified trust service providers and top-level domain name registries as well as DNS service providers, regardless of their size;
@@ -114,8 +106,6 @@ For the purposes of this Directive, the following entities shall be considered t
 
 **4.** For the purpose of establishing the list referred to in paragraph 3, Member States shall require the entities referred to in that paragraph to submit at least the following information to the competent authorities:
 
-For the purpose of establishing the list referred to in paragraph 3, Member States shall require the entities referred to in that paragraph to submit at least the following information to the competent authorities:
-
 (a) the name of the entity;
 
 (b) the address and up-to-date contact details, including email addresses, IP ranges and telephone numbers;
@@ -132,8 +122,6 @@ Member States may establish national mechanisms for entities to register themsel
 
 **5.** By 17 April 2025 and every two years thereafter, the competent authorities shall notify:
 
-By 17 April 2025 and every two years thereafter, the competent authorities shall notify:
-
 (a) the Commission and the Cooperation Group of the number of essential and important entities listed pursuant to paragraph 3 for each sector and subsector referred to in Annex I or II; and
 
 (b) the Commission of relevant information about the number of essential and important entities identified pursuant to Article 2(2), points (b) to (e), the sector and subsector referred to in Annex I or II to which they belong, the type of service that they provide, and the provision, from among those laid down in Article 2(2), points (b) to (e), pursuant to which they were identified.
@@ -147,8 +135,6 @@ By 17 April 2025 and every two years thereafter, the competent authorities shall
 **1.** Where sector-specific Union legal acts require essential or important entities to adopt cybersecurity risk-management measures or to notify significant incidents and where those requirements are at least equivalent in effect to the obligations laid down in this Directive, the relevant provisions of this Directive, including the provisions on supervision and enforcement laid down in Chapter VII, shall not apply to such entities. Where sector-specific Union legal acts do not cover all entities in a specific sector falling within the scope of this Directive, the relevant provisions of this Directive shall continue to apply to the entities not covered by those sector-specific Union legal acts.
 
 **2.** The requirements referred to in paragraph 1 of this Article shall be considered to be equivalent in effect to the obligations laid down in this Directive where:
-
-The requirements referred to in paragraph 1 of this Article shall be considered to be equivalent in effect to the obligations laid down in this Directive where:
 
 (a) cybersecurity risk-management measures are at least equivalent in effect to those laid down in Article 21(1) and (2); or
 
@@ -165,8 +151,6 @@ This Directive shall not preclude Member States from adopting or maintaining pro
 <a id="art_6"></a>
 
 ### Article 6 — Definitions
-
-For the purposes of this Directive, the following definitions apply:
 
 For the purposes of this Directive, the following definitions apply:
 
@@ -260,8 +244,6 @@ For the purposes of this Directive, the following definitions apply:
 
 **1.** Each Member State shall adopt a national cybersecurity strategy that provides for the strategic objectives, the resources required to achieve those objectives, and appropriate policy and regulatory measures, with a view to achieving and maintaining a high level of cybersecurity. The national cybersecurity strategy shall include:
 
-Each Member State shall adopt a national cybersecurity strategy that provides for the strategic objectives, the resources required to achieve those objectives, and appropriate policy and regulatory measures, with a view to achieving and maintaining a high level of cybersecurity. The national cybersecurity strategy shall include:
-
 (a) objectives and priorities of the Member State’s cybersecurity strategy covering in particular the sectors referred to in Annexes I and II;
 
 (b) a governance framework to achieve the objectives and priorities referred to in point (a) of this paragraph, including the policies referred to in paragraph 2;
@@ -279,8 +261,6 @@ Each Member State shall adopt a national cybersecurity strategy that provides fo
 (h) a plan, including necessary measures, to enhance the general level of cybersecurity awareness among citizens.
 
 **2.** As part of the national cybersecurity strategy, Member States shall in particular adopt policies:
-
-As part of the national cybersecurity strategy, Member States shall in particular adopt policies:
 
 (a) addressing cybersecurity in the supply chain for ICT products and ICT services used by entities for the provision of their services;
 
@@ -334,8 +314,6 @@ As part of the national cybersecurity strategy, Member States shall in particula
 
 **4.** Each Member State shall adopt a national large-scale cybersecurity incident and crisis response plan where the objectives of and arrangements for the management of large-scale cybersecurity incidents and crises are set out. That plan shall lay down, in particular:
 
-Each Member State shall adopt a national large-scale cybersecurity incident and crisis response plan where the objectives of and arrangements for the management of large-scale cybersecurity incidents and crises are set out. That plan shall lay down, in particular:
-
 (a) the objectives of national preparedness measures and activities;
 
 (b) the tasks and responsibilities of the cyber crisis management authorities;
@@ -380,8 +358,6 @@ Each Member State shall adopt a national large-scale cybersecurity incident and 
 
 **1.** The CSIRTs shall comply with the following requirements:
 
-The CSIRTs shall comply with the following requirements:
-
 (a) the CSIRTs shall ensure a high level of availability of their communication channels by avoiding single points of failure, and shall have several means for being contacted and for contacting others at all times; they shall clearly specify the communication channels and make them known to constituency and cooperative partners;
 
 (b) the CSIRTs’ premises and the supporting information systems shall be located at secure sites;
@@ -399,8 +375,6 @@ The CSIRTs may participate in international cooperation networks.
 **2.** Member States shall ensure that their CSIRTs jointly have the technical capabilities necessary to carry out the tasks referred to in paragraph 3. Member States shall ensure that sufficient resources are allocated to their CSIRTs to ensure adequate staffing levels for the purpose of enabling the CSIRTs to develop their technical capabilities.
 
 **3.** The CSIRTs shall have the following tasks:
-
-The CSIRTs shall have the following tasks:
 
 (a) monitoring and analysing cyber threats, vulnerabilities and incidents at national level and, upon request, providing assistance to essential and important entities concerned regarding real-time or near real-time monitoring of their network and information systems;
 
@@ -426,8 +400,6 @@ When carrying out the tasks referred to in the first subparagraph, the CSIRTs ma
 
 **5.** In order to facilitate cooperation referred to in paragraph 4, the CSIRTs shall promote the adoption and use of common or standardised practices, classification schemes and taxonomies in relation to:
 
-In order to facilitate cooperation referred to in paragraph 4, the CSIRTs shall promote the adoption and use of common or standardised practices, classification schemes and taxonomies in relation to:
-
 (a) incident-handling procedures;
 
 (b) crisis management; and
@@ -440,8 +412,6 @@ In order to facilitate cooperation referred to in paragraph 4, the CSIRTs shall 
 
 **1.** Each Member State shall designate one of its CSIRTs as a coordinator for the purposes of coordinated vulnerability disclosure. The CSIRT designated as coordinator shall act as a trusted intermediary, facilitating, where necessary, the interaction between the natural or legal person reporting a vulnerability and the manufacturer or provider of the potentially vulnerable ICT products or ICT services, upon the request of either party. The tasks of the CSIRT designated as coordinator shall include:
 
-Each Member State shall designate one of its CSIRTs as a coordinator for the purposes of coordinated vulnerability disclosure. The CSIRT designated as coordinator shall act as a trusted intermediary, facilitating, where necessary, the interaction between the natural or legal person reporting a vulnerability and the manufacturer or provider of the potentially vulnerable ICT products or ICT services, upon the request of either party. The tasks of the CSIRT designated as coordinator shall include:
-
 (a) identifying and contacting the entities concerned;
 
 (b) assisting the natural or legal persons reporting a vulnerability; and
@@ -451,8 +421,6 @@ Each Member State shall designate one of its CSIRTs as a coordinator for the pur
 Member States shall ensure that natural or legal persons are able to report, anonymously where they so request, a vulnerability to the CSIRT designated as coordinator. The CSIRT designated as coordinator shall ensure that diligent follow-up action is carried out with regard to the reported vulnerability and shall ensure the anonymity of the natural or legal person reporting the vulnerability. Where a reported vulnerability could have a significant impact on entities in more than one Member State, the CSIRT designated as coordinator of each Member State concerned shall, where appropriate, cooperate with other CSIRTs designated as coordinators within the CSIRTs network.
 
 **2.** ENISA shall develop and maintain, after consulting the Cooperation Group, a European vulnerability database. To that end, ENISA shall establish and maintain the appropriate information systems, policies and procedures, and shall adopt the necessary technical and organisational measures to ensure the security and integrity of the European vulnerability database, with a view in particular to enabling entities, regardless of whether they fall within the scope of this Directive, and their suppliers of network and information systems, to disclose and register, on a voluntary basis, publicly known vulnerabilities in ICT products or ICT services. All stakeholders shall be provided access to the information about the vulnerabilities contained in the European vulnerability database. That database shall include:
-
-ENISA shall develop and maintain, after consulting the Cooperation Group, a European vulnerability database. To that end, ENISA shall establish and maintain the appropriate information systems, policies and procedures, and shall adopt the necessary technical and organisational measures to ensure the security and integrity of the European vulnerability database, with a view in particular to enabling entities, regardless of whether they fall within the scope of this Directive, and their suppliers of network and information systems, to disclose and register, on a voluntary basis, publicly known vulnerabilities in ICT products or ICT services. All stakeholders shall be provided access to the information about the vulnerabilities contained in the European vulnerability database. That database shall include:
 
 (a) information describing the vulnerability;
 
@@ -493,8 +461,6 @@ Where appropriate, the Cooperation Group may invite the European Parliament and 
 The Commission shall provide the secretariat.
 
 **4.** The Cooperation Group shall have the following tasks:
-
-The Cooperation Group shall have the following tasks:
 
 (a) to provide guidance to the competent authorities in relation to the transposition and implementation of this Directive;
 
@@ -560,8 +526,6 @@ The Commission shall exchange advice and cooperate with the Cooperation Group on
 
 **3.** The CSIRTs network shall have the following tasks:
 
-The CSIRTs network shall have the following tasks:
-
 (a) to exchange information about the CSIRTs’ capabilities;
 
 (b) to facilitate the sharing, transfer and exchange of technology and relevant measures, policies, tools, processes, best practices and frameworks among the CSIRTs;
@@ -614,8 +578,6 @@ Where appropriate, EU-CyCLONe may invite representatives of relevant stakeholder
 
 **3.** EU-CyCLONe shall have the following tasks:
 
-EU-CyCLONe shall have the following tasks:
-
 (a) to increase the level of preparedness of the management of large-scale cybersecurity incidents and crises;
 
 (b) to develop a shared situational awareness for large-scale cybersecurity incidents and crises;
@@ -646,8 +608,6 @@ The Union may, where appropriate, conclude international agreements, in accordan
 
 **1.** ENISA shall adopt, in cooperation with the Commission and the Cooperation Group, a biennial report on the state of cybersecurity in the Union and shall submit and present that report to the European Parliament. The report shall, inter alia, be made available in machine-readable data and include the following:
 
-ENISA shall adopt, in cooperation with the Commission and the Cooperation Group, a biennial report on the state of cybersecurity in the Union and shall submit and present that report to the European Parliament. The report shall, inter alia, be made available in machine-readable data and include the following:
-
 (a) a Union-level cybersecurity risk assessment, taking account of the cyber threat landscape;
 
 (b) an assessment of the development of cybersecurity capabilities in the public and private sectors across the Union;
@@ -667,8 +627,6 @@ ENISA shall adopt, in cooperation with the Commission and the Cooperation Group,
 ### Article 19 — Peer reviews
 
 **1.** The Cooperation Group shall, by 17 January 2025, establish, with the assistance of the Commission and ENISA, and, where relevant, the CSIRTs network, the methodology and organisational aspects of peer reviews with a view to learning from shared experiences, strengthening mutual trust, achieving a high common level of cybersecurity, as well as enhancing Member States’ cybersecurity capabilities and policies necessary to implement this Directive. Participation in peer reviews is voluntary. The peer reviews shall be carried out by cybersecurity experts. The cybersecurity experts shall be designated by at least two Member States, different from the Member State being reviewed.
-
-The peer reviews shall cover at least one of the following:
 
 The peer reviews shall cover at least one of the following:
 
@@ -721,8 +679,6 @@ The application of this paragraph shall be without prejudice to national law as 
 Taking into account the state-of-the-art and, where applicable, relevant European and international standards, as well as the cost of implementation, the measures referred to in the first subparagraph shall ensure a level of security of network and information systems appropriate to the risks posed. When assessing the proportionality of those measures, due account shall be taken of the degree of the entity’s exposure to risks, the entity’s size and the likelihood of occurrence of incidents and their severity, including their societal and economic impact.
 
 **2.** The measures referred to in paragraph 1 shall be based on an all-hazards approach that aims to protect network and information systems and the physical environment of those systems from incidents, and shall include at least the following:
-
-The measures referred to in paragraph 1 shall be based on an all-hazards approach that aims to protect network and information systems and the physical environment of those systems from incidents, and shall include at least the following:
 
 (a) policies on risk analysis and information system security;
 
@@ -778,15 +734,11 @@ In the case of a cross-border or cross-sectoral significant incident, Member Sta
 
 **3.** An incident shall be considered to be significant if:
 
-An incident shall be considered to be significant if:
-
 (a) it has caused or is capable of causing severe operational disruption of the services or financial loss for the entity concerned;
 
 (b) it has affected or is capable of affecting other natural or legal persons by causing considerable material or non-material damage.
 
 **4.** Member States shall ensure that, for the purpose of notification under paragraph 1, the entities concerned submit to the CSIRT or, where applicable, the competent authority:
-
-Member States shall ensure that, for the purpose of notification under paragraph 1, the entities concerned submit to the CSIRT or, where applicable, the competent authority:
 
 (a) without undue delay and in any event within 24 hours of becoming aware of the significant incident, an early warning, which, where applicable, shall indicate whether the significant incident is suspected of being caused by unlawful or malicious acts or could have a cross-border impact;
 
@@ -848,8 +800,6 @@ Before adopting such delegated acts, the Commission shall carry out an impact as
 
 **1.** Entities falling within the scope of this Directive shall be considered to fall under the jurisdiction of the Member State in which they are established, except in the case of:
 
-Entities falling within the scope of this Directive shall be considered to fall under the jurisdiction of the Member State in which they are established, except in the case of:
-
 (a) providers of public electronic communications networks or providers of publicly available electronic communications services, which shall be considered to fall under the jurisdiction of the Member State in which they provide their services;
 
 (b) DNS service providers, TLD name registries, entities providing domain name registration services, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, as well as providers of online marketplaces, of online search engines or of social networking services platforms, which shall be considered to fall under the jurisdiction of the Member State in which they have their main establishment in the Union under paragraph 2;
@@ -871,8 +821,6 @@ Entities falling within the scope of this Directive shall be considered to fall 
 **1.** ENISA shall create and maintain a registry of DNS service providers, TLD name registries, entities providing domain name registration services, cloud computing service providers, data centre service providers, content delivery network providers, managed service providers, managed security service providers, as well as providers of online marketplaces, of online search engines and of social networking services platforms, on the basis of the information received from the single points of contact in accordance with paragraph 4. Upon request, ENISA shall allow the competent authorities access to that registry, while ensuring that the confidentiality of information is protected where applicable.
 
 **2.** Member States shall require entities referred to in paragraph 1 to submit the following information to the competent authorities by 17 January 2025:
-
-Member States shall require entities referred to in paragraph 1 to submit the following information to the competent authorities by 17 January 2025:
 
 (a) the name of the entity;
 
@@ -900,8 +848,6 @@ Member States shall require entities referred to in paragraph 1 to submit the fo
 
 **2.** For the purposes of paragraph 1, Member States shall require the database of domain name registration data to contain the necessary information to identify and contact the holders of the domain names and the points of contact administering the domain names under the TLDs. Such information shall include:
 
-For the purposes of paragraph 1, Member States shall require the database of domain name registration data to contain the necessary information to identify and contact the holders of the domain names and the points of contact administering the domain names under the TLDs. Such information shall include:
-
 (a) the domain name;
 
 (b) the date of registration;
@@ -926,8 +872,6 @@ For the purposes of paragraph 1, Member States shall require the database of dom
 
 **1.** Member States shall ensure that entities falling within the scope of this Directive and, where relevant, other entities not falling within the scope of this Directive are able to exchange on a voluntary basis relevant cybersecurity information among themselves, including information relating to cyber threats, near misses, vulnerabilities, techniques and procedures, indicators of compromise, adversarial tactics, threat-actor-specific information, cybersecurity alerts and recommendations regarding configuration of cybersecurity tools to detect cyberattacks, where such information sharing:
 
-Member States shall ensure that entities falling within the scope of this Directive and, where relevant, other entities not falling within the scope of this Directive are able to exchange on a voluntary basis relevant cybersecurity information among themselves, including information relating to cyber threats, near misses, vulnerabilities, techniques and procedures, indicators of compromise, adversarial tactics, threat-actor-specific information, cybersecurity alerts and recommendations regarding configuration of cybersecurity tools to detect cyberattacks, where such information sharing:
-
 (a) aims to prevent, detect, respond to or recover from incidents or to mitigate their impact;
 
 (b) enhances the level of cybersecurity, in particular through raising awareness in relation to cyber threats, limiting or impeding the ability of such threats to spread, supporting a range of defensive capabilities, vulnerability remediation and disclosure, threat detection, containment and prevention techniques, mitigation strategies, or response and recovery stages or promoting collaborative cyber threat research between public and private entities.
@@ -945,8 +889,6 @@ Member States shall ensure that entities falling within the scope of this Direct
 ### Article 30 — Voluntary notification of relevant information
 
 **1.** Member States shall ensure that, in addition to the notification obligation provided for in Article 23, notifications can be submitted to the CSIRTs or, where applicable, the competent authorities, on a voluntary basis, by:
-
-Member States shall ensure that, in addition to the notification obligation provided for in Article 23, notifications can be submitted to the CSIRTs or, where applicable, the competent authorities, on a voluntary basis, by:
 
 (a) essential and important entities with regard to incidents, cyber threats and near misses;
 
@@ -978,8 +920,6 @@ Where necessary, the CSIRTs and, where applicable, the competent authorities sha
 
 **2.** Member States shall ensure that the competent authorities, when exercising their supervisory tasks in relation to essential entities, have the power to subject those entities at least to:
 
-Member States shall ensure that the competent authorities, when exercising their supervisory tasks in relation to essential entities, have the power to subject those entities at least to:
-
 (a) on-site inspections and off-site supervision, including random checks conducted by trained professionals;
 
 (b) regular and targeted security audits carried out by an independent body or a competent authority;
@@ -1002,8 +942,6 @@ The results of any targeted security audit shall be made available to the compet
 
 **4.** Member States shall ensure that their competent authorities, when exercising their enforcement powers in relation to essential entities, have the power at least to:
 
-Member States shall ensure that their competent authorities, when exercising their enforcement powers in relation to essential entities, have the power at least to:
-
 (a) issue warnings about infringements of this Directive by the entities concerned;
 
 (b) adopt binding instructions, including with regard to measures necessary to prevent or remedy an incident, as well as time-limits for the implementation of such measures and for reporting on their implementation, or an order requiring the entities concerned to remedy the deficiencies identified or the infringements of this Directive;
@@ -1024,8 +962,6 @@ Member States shall ensure that their competent authorities, when exercising the
 
 **5.** Where enforcement measures adopted pursuant to paragraph 4, points (a) to (d) and (f), are ineffective, Member States shall ensure that their competent authorities have the power to establish a deadline by which the essential entity is requested to take the necessary action to remedy the deficiencies or to comply with the requirements of those authorities. If the requested action is not taken within the deadline set, Member States shall ensure that their competent authorities have the power to:
 
-Where enforcement measures adopted pursuant to paragraph 4, points (a) to (d) and (f), are ineffective, Member States shall ensure that their competent authorities have the power to establish a deadline by which the essential entity is requested to take the necessary action to remedy the deficiencies or to comply with the requirements of those authorities. If the requested action is not taken within the deadline set, Member States shall ensure that their competent authorities have the power to:
-
 (a) suspend temporarily, or request a certification or authorisation body, or a court or tribunal, in accordance with national law, to suspend temporarily a certification or authorisation concerning part or all of the relevant services provided or activities carried out by the essential entity;
 
 (b) request that the relevant bodies, courts or tribunals, in accordance with national law, prohibit temporarily any natural person who is responsible for discharging managerial responsibilities at chief executive officer or legal representative level in the essential entity from exercising managerial functions in that entity.
@@ -1039,8 +975,6 @@ The enforcement measures provided for in this paragraph shall not be applicable 
 As regards public administration entities, this paragraph shall be without prejudice to national law as regards the liability of public servants and elected or appointed officials.
 
 **7.** When taking any of the enforcement measures referred to in paragraph 4 or 5, the competent authorities shall comply with the rights of the defence and take account of the circumstances of each individual case and, as a minimum, take due account of:
-
-When taking any of the enforcement measures referred to in paragraph 4 or 5, the competent authorities shall comply with the rights of the defence and take account of the circumstances of each individual case and, as a minimum, take due account of:
 
 (a) the seriousness of the infringement and the importance of the provisions breached, the following, inter alia, constituting serious infringement in any event: (i) repeated violations; (ii) a failure to notify or remedy significant incidents; (iii) a failure to remedy deficiencies following binding instructions from competent authorities; (iv) the obstruction of audits or monitoring activities ordered by the competent authority following the finding of an infringement; (v) providing false or grossly inaccurate information in relation to cybersecurity risk-management measures or reporting obligations laid down in Articles 21 and 23;
 
@@ -1072,8 +1006,6 @@ When taking any of the enforcement measures referred to in paragraph 4 or 5, the
 
 **2.** Member States shall ensure that the competent authorities, when exercising their supervisory tasks in relation to important entities, have the power to subject those entities at least to:
 
-Member States shall ensure that the competent authorities, when exercising their supervisory tasks in relation to important entities, have the power to subject those entities at least to:
-
 (a) on-site inspections and off-site *ex post* supervision conducted by trained professionals;
 
 (b) targeted security audits carried out by an independent body or a competent authority;
@@ -1093,8 +1025,6 @@ The results of any targeted security audit shall be made available to the compet
 **3.** When exercising their powers under paragraph 2, point (d), (e) or (f), the competent authorities shall state the purpose of the request and specify the information requested.
 
 **4.** Member States shall ensure that the competent authorities, when exercising their enforcement powers in relation to important entities, have the power at least to:
-
-Member States shall ensure that the competent authorities, when exercising their enforcement powers in relation to important entities, have the power at least to:
 
 (a) issue warnings about infringements of this Directive by the entities concerned;
 
@@ -1157,8 +1087,6 @@ Member States shall lay down rules on penalties applicable to infringements of n
 ### Article 37 — Mutual assistance
 
 **1.** Where an entity provides services in more than one Member State, or provides services in one or more Member States and its network and information systems are located in one or more other Member States, the competent authorities of the Member States concerned shall cooperate with and assist each other as necessary. That cooperation shall entail, at least, that:
-
-Where an entity provides services in more than one Member State, or provides services in one or more Member States and its network and information systems are located in one or more other Member States, the competent authorities of the Member States concerned shall cooperate with and assist each other as necessary. That cooperation shall entail, at least, that:
 
 (a) the competent authorities applying supervisory or enforcement measures in a Member State shall, via the single point of contact, inform and consult the competent authorities in the other Member States concerned on the supervisory and enforcement measures taken;
 

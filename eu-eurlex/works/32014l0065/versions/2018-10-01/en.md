@@ -20,8 +20,6 @@ generator: fmx4-eu/1 · lex derive
 
 **2.** This Directive establishes requirements in relation to the following:
 
-This Directive establishes requirements in relation to the following:
-
 (a) authorisation and operating conditions for investment firms;
 
 (b) provision of investment services or activities by third-country firms through the establishment of a branch;
@@ -34,8 +32,6 @@ This Directive establishes requirements in relation to the following:
 
 **3.** The following provisions shall also apply to credit institutions authorised under Directive 2013/36/EU, when providing one or more investment services and/or performing investment activities:
 
-The following provisions shall also apply to credit institutions authorised under Directive 2013/36/EU, when providing one or more investment services and/or performing investment activities:
-
 (a) Article 2(2), Article 9(3) and Articles 14 and 16 to 20,
 
 (b) Chapter II of Title II excluding second subparagraph of Article 29(2),
@@ -45,8 +41,6 @@ The following provisions shall also apply to credit institutions authorised unde
 (d) Articles 67 to 75 and Articles 80, 85 and 86.
 
 **4.** The following provisions shall also apply to investment firms and to credit institutions authorised under Directive 2013/36/EU when selling or advising clients in relation to structured deposits:
-
-The following provisions shall also apply to investment firms and to credit institutions authorised under Directive 2013/36/EU when selling or advising clients in relation to structured deposits:
 
 (a) Article 9(3), Article 14, and Article 16(2), (3) and (6);
 
@@ -69,8 +63,6 @@ Without prejudice to Articles 23 and 28 of Regulation (EU) No 600/2014, all tran
 ### Article 2 — Exemptions
 
 **1.** This Directive shall not apply to:
-
-This Directive shall not apply to:
 
 (a) insurance undertakings or undertakings carrying out the reinsurance and retrocession activities referred to in Directive 2009/138/EC when carrying out the activities referred to in that Directive;
 
@@ -110,8 +102,6 @@ This Directive shall not apply to:
 
 Those criteria shall take into account at least the following elements:
 
-Those criteria shall take into account at least the following elements:
-
 (a) the need for ancillary activities to constitute a minority of activities at a group level;
 
 (b) the size of their trading activity compared to the overall market trading activity in that asset class.
@@ -119,8 +109,6 @@ Those criteria shall take into account at least the following elements:
 In determining the extent to which ancillary activities constitute a minority of activities at a group level ESMA may determine that the capital employed for carrying out the ancillary activity relative to the capital employed for carrying out the main business is to be considered. However, that factor shall in no case be sufficient to demonstrate that the activity is ancillary to the main business of the group.
 
 The activities referred to in this paragraph shall be considered at a group level.
-
-The elements referred to in the second and third subparagraphs shall exclude:
 
 The elements referred to in the second and third subparagraphs shall exclude:
 
@@ -140,8 +128,6 @@ Power is delegated to the Commission to adopt the regulatory technical standards
 
 **1.** Member States may choose not to apply this Directive to any persons for which they are the home Member State, provided that the activities of those persons are authorised and regulated at national level and those persons:
 
-Member States may choose not to apply this Directive to any persons for which they are the home Member State, provided that the activities of those persons are authorised and regulated at national level and those persons:
-
 (a) are not allowed to hold client funds or client securities and which for that reason are not allowed at any time to place themselves in debit with their clients;
 
 (b) are not allowed to provide any investment service except the reception and transmission of orders in transferable securities and units in collective investment undertakings and/or the provision of investment advice in relation to such financial instruments; and
@@ -153,8 +139,6 @@ Member States may choose not to apply this Directive to any persons for which th
 (e) provide investment services exclusively in emission allowances and/or derivatives thereof for the sole purpose of hedging the commercial risks of their clients, where those clients are exclusively operators as defined in point (f) of Article 3 of Directive 2003/87/EC, and provided that those clients jointly hold 100 % of the capital or voting rights of those persons, exercise joint control and are exempt under point (j) of Article 2(1) of this Directive if they carry out those investment services themselves.
 
 **2.** Member States’ regimes shall submit the persons referred to in paragraph 1 to requirements which are at least analogous to the following requirements under this Directive:
-
-Member States’ regimes shall submit the persons referred to in paragraph 1 to requirements which are at least analogous to the following requirements under this Directive:
 
 (a) conditions and procedures for authorisation and on-going supervision as established in Article 5(1) and (3), Articles 7 to 10, 21, 22 and 23 and the corresponding delegated acts adopted by the Commission in accordance with Article 89;
 
@@ -177,8 +161,6 @@ By way of derogation from the second subparagraph of this paragraph, Member Stat
 ### Article 4 — Definitions
 
 **1.** For the purposes of this Directive, the following definitions apply:
-
-For the purposes of this Directive, the following definitions apply:
 
 (1) ‘investment firm’ means any legal person whose regular occupation or business is the provision of one or more investment services to third parties and/or the performance of one or more investment activities on a professional basis. Member States may include in the definition of investment firms undertakings which are not legal persons, provided that: (a) their legal status ensures a level of protection for third parties’ interests equivalent to that afforded by legal persons; and (b) they are subject to equivalent prudential supervision appropriate to their legal form. However, where a natural person provides services involving the holding of third party funds or transferable securities, that person may be considered to be an investment firm for the purposes of this Directive and of Regulation (EU) No 600/2014 only if, without prejudice to the other requirements imposed in this Directive, in Regulation (EU) No 600/2014, and in Directive 2013/36/EU, that person complies with the following conditions: (a) the ownership rights of third parties in instruments and funds must be safeguarded, especially in the event of the insolvency of the firm or of its proprietors, seizure, set-off or any other action by creditors of the firm or of its proprietors; (b) the firm must be subject to rules designed to monitor the firm’s solvency and that of its proprietors; (c) the firm’s annual accounts must be audited by one or more persons empowered, under national law, to audit accounts; (d) where the firm has only one proprietor, that person must make provision for the protection of investors in the event of the firm’s cessation of business following the proprietor’s death or incapacity or any other such event;
 
@@ -330,8 +312,6 @@ Where a competent authority has withdrawn an authorisation in accordance with po
 
 **4.** Each Member State shall require that:
 
-Each Member State shall require that:
-
 (a) any investment firm which is a legal person have its head office in the same Member State as its registered office;
 
 (b) any investment firm which is not a legal person or any investment firm which is a legal person but under its national law has no registered office, have its head office in the Member State in which it actually carries out its business.
@@ -358,8 +338,6 @@ Each Member State shall require that:
 
 **4.** ESMA shall develop draft regulatory technical standards to specify:
 
-ESMA shall develop draft regulatory technical standards to specify:
-
 (a) the information to be provided to the competent authorities under paragraph 2 of this Article including the programme of operations;
 
 (b) the requirements applicable to the management of investment firms under Article 9(6) and the information for the notifications under Article 9(5);
@@ -379,8 +357,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 <a id="art_8"></a>
 
 ### Article 8 — Withdrawal of authorisations
-
-The competent authority may withdraw the authorisation issued to an investment firm where such an investment firm:
 
 The competent authority may withdraw the authorisation issued to an investment firm where such an investment firm:
 
@@ -412,8 +388,6 @@ EBA and ESMA shall coordinate the collection of information provided for under t
 
 Without prejudice to the requirements established in Article 88(1) of Directive 2013/36/EU, those arrangements shall also ensure that the management body define, approve and oversee:
 
-Without prejudice to the requirements established in Article 88(1) of Directive 2013/36/EU, those arrangements shall also ensure that the management body define, approve and oversee:
-
 (a) the organisation of the firm for the provision of investment services and activities and ancillary services, including the skills, knowledge and expertise required by personnel, the resources, the procedures and the arrangements for the provision of services and activities, taking into account the nature, scale and complexity of its business and all the requirements the firm has to comply with;
 
 (b) a policy as to services, activities, products and operations offered or provided, in accordance with the risk tolerance of the firm and the characteristics and needs of the clients of the firm to whom they will be offered or provided, including carrying out appropriate stress testing, where appropriate;
@@ -429,8 +403,6 @@ Members of the management body shall have adequate access to information and doc
 **5.** Member States shall require the investment firm to notify the competent authority of all members of its management body and of any changes to its membership, along with all information needed to assess whether the firm complies with paragraphs 1, 2 and 3.
 
 **6.** Member States shall require that at least two persons meeting the requirements laid down in paragraph 1 effectively direct the business of the applicant investment firm.
-
-By way of derogation from the first subparagraph, Member States may grant authorisation to investment firms that are natural persons or to investment firms that are legal persons managed by a single natural person in accordance with their constitutive rules and national laws. Member States shall nevertheless require that:
 
 By way of derogation from the first subparagraph, Member States may grant authorisation to investment firms that are natural persons or to investment firms that are legal persons managed by a single natural person in accordance with their constitutive rules and national laws. Member States shall nevertheless require that:
 
@@ -468,8 +440,6 @@ In determining whether the criteria for a qualifying holding referred to in Arti
 
 **2.** The relevant competent authorities shall work in full consultation with each other when carrying out the assessment provided for in Article 13(1) (the ‘assessment’) if the proposed acquirer is one of the following:
 
-The relevant competent authorities shall work in full consultation with each other when carrying out the assessment provided for in Article 13(1) (the ‘assessment’) if the proposed acquirer is one of the following:
-
 (a) a credit institution, assurance undertaking, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State or in a sector other than that in which the acquisition is proposed;
 
 (b) the parent undertaking of a credit institution, assurance undertaking, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State or in a sector other than that in which the acquisition is proposed; or
@@ -500,8 +470,6 @@ For the period between the date of request for information by the competent auth
 
 **3.** The competent authorities may extend the interruption referred to in the second subparagraph of paragraph 2 up to 30 working days if the proposed acquirer is one of the following:
 
-The competent authorities may extend the interruption referred to in the second subparagraph of paragraph 2 up to 30 working days if the proposed acquirer is one of the following:
-
 (a) a natural or legal person situated or regulated outside the Union;
 
 (b) a natural or legal person not subject to supervision under this Directive or Directives 2009/65/EC, 2009/138/EC or 2013/36/EU.
@@ -531,8 +499,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 ### Article 13 — Assessment
 
 **1.** In assessing the notification provided for in Article 11(1) and the information referred to in Article 12(2), the competent authorities shall, in order to ensure the sound and prudent management of the investment firm in which an acquisition is proposed, and having regard to the likely influence of the proposed acquirer on the investment firm, appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following criteria:
-
-In assessing the notification provided for in Article 11(1) and the information referred to in Article 12(2), the competent authorities shall, in order to ensure the sound and prudent management of the investment firm in which an acquisition is proposed, and having regard to the likely influence of the proposed acquirer on the investment firm, appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following criteria:
 
 (a) the reputation of the proposed acquirer;
 
@@ -656,8 +622,6 @@ An investment firm that engages in a high-frequency algorithmic trading techniqu
 
 **3.** An investment firm that engages in algorithmic trading to pursue a market making strategy shall, taking into account the liquidity, scale and nature of the specific market and the characteristics of the instrument traded:
 
-An investment firm that engages in algorithmic trading to pursue a market making strategy shall, taking into account the liquidity, scale and nature of the specific market and the characteristics of the instrument traded:
-
 (a) carry out this market making continuously during a specified proportion of the trading venue’s trading hours, except under exceptional circumstances, with the result of providing liquidity on a regular and predictable basis to the trading venue;
 
 (b) enter into a binding written agreement with the trading venue which shall at least specify the obligations of the investment firm in accordance with point (a); and
@@ -681,8 +645,6 @@ The investment firm shall arrange for records to be kept in relation to the matt
 **6.** An investment firm that acts as a general clearing member for other persons shall have in place effective systems and controls to ensure clearing services are only applied to persons who are suitable and meet clear criteria and that appropriate requirements are imposed on those persons to reduce risks to the investment firm and to the market. The investment firm shall ensure that there is a binding written agreement between the investment firm and the person regarding the essential rights and obligations arising from the provision of that service.
 
 **7.** ESMA shall develop draft regulatory technical standards to specify the following:
-
-ESMA shall develop draft regulatory technical standards to specify the following:
 
 (a) the details of organisational requirements laid down in paragraphs 1 to 6 to be imposed on investment firms providing different investment services and/or activities and ancillary services or combinations thereof, whereby the specifications in relation to the organisational requirements laid down in paragraph 5 shall set out specific requirements for direct market access and for sponsored access in such a way as to ensure that the controls applied to sponsored access are at least equivalent to those applied to direct market access;
 
@@ -738,8 +700,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **3.** Member States shall require that investment firms and market operators operating an MTF to have arrangements:
 
-Member States shall require that investment firms and market operators operating an MTF to have arrangements:
-
 (a) to be adequately equipped to manage the risks to which it is exposed, to implement appropriate arrangements and systems to identify all significant risks to its operation, and to put in place effective measures to mitigate those risks;
 
 (b) to have effective arrangements to facilitate the efficient and timely finalisation of the transactions executed under its systems; and
@@ -771,8 +731,6 @@ An investment firm or market operator operating an OTF shall establish arrangeme
 For the purposes of this Article, an investment firm shall not be deemed to be carrying out market making on an OTF on an independent basis if it has close links with the investment firm or market operator operating the OTF.
 
 **6.** Member States shall require that the execution of orders on an OTF is carried out on a discretionary basis.
-
-An investment firm or market operator operating an OTF shall exercise discretion only in either or both of the following circumstances:
 
 An investment firm or market operator operating an OTF shall exercise discretion only in either or both of the following circumstances:
 
@@ -818,15 +776,11 @@ Member States shall ensure that the competent authorities monitor the activities
 
 **3.** The disclosure referred to in paragraph 2 shall:
 
-The disclosure referred to in paragraph 2 shall:
-
 (a) be made in a durable medium; and
 
 (b) include sufficient detail, taking into account the nature of the client, to enable that client to take an informed decision with respect to the service in the context of which the conflict of interest arises.
 
 **4.** The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to:
-
-The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to:
 
 (a) define the steps that investment firms might reasonably be expected to take to identify, prevent, manage and disclose conflicts of interest when providing various investment and ancillary services and combinations thereof;
 
@@ -848,8 +802,6 @@ An investment firm shall understand the financial instruments they offer or reco
 
 **4.** Appropriate information shall be provided in good time to clients or potential clients with regard to the investment firm and its services, the financial instruments and proposed investment strategies, execution venues and all costs and related charges. That information shall include the following:
 
-Appropriate information shall be provided in good time to clients or potential clients with regard to the investment firm and its services, the financial instruments and proposed investment strategies, execution venues and all costs and related charges. That information shall include the following:
-
 (a) when investment advice is provided, the investment firm must, in good time before it provides investment advice, inform the client: (i) whether or not the advice is provided on an independent basis; (ii) whether the advice is based on a broad or on a more restricted analysis of different types of financial instruments and, in particular, whether the range is limited to financial instruments issued or provided by entities having close links with the investment firm or any other legal or economic relationships, such as contractual relationships, so close as to pose a risk of impairing the independent basis of the advice provided; (iii) whether the investment firm will provide the client with a periodic assessment of the suitability of the financial instruments recommended to that client;
 
 (b) the information on financial instruments and proposed investment strategies must include appropriate guidance on and warnings of the risks associated with investments in those instruments or in respect of particular investment strategies and whether the financial instrument is intended for retail or professional clients, taking account of the identified target market in accordance with paragraph 2;
@@ -864,8 +816,6 @@ The information about all costs and charges, including costs and charges in conn
 
 **7.** Where an investment firm informs the client that investment advice is provided on an independent basis, that investment firm shall:
 
-Where an investment firm informs the client that investment advice is provided on an independent basis, that investment firm shall:
-
 (a) assess a sufficient range of financial instruments available on the market which must be sufficiently diverse with regard to their type and issuers or product providers to ensure that the client’s investment objectives can be suitably met and must not be limited to financial instruments issued or provided by: (i) the investment firm itself or by entities having close links with the investment firm; or (ii) other entities with which the investment firm has such close legal or economic relationships, such as contractual relationships, as to pose a risk of impairing the independent basis of the advice provided;
 
 (b) not accept and retain fees, commissions or any monetary or non-monetary benefits paid or provided by any third party or a person acting on behalf of a third party in relation to the provision of the service to clients. Minor non-monetary benefits that are capable of enhancing the quality of service provided to a client and are of a scale and nature such that they could not be judged to impair compliance with the investment firm’s duty to act in the best interest of the client must be clearly disclosed and are excluded from this point.
@@ -873,8 +823,6 @@ Where an investment firm informs the client that investment advice is provided o
 **8.** When providing portfolio management the investment firm shall not accept and retain fees, commissions or any monetary or non-monetary benefits paid or provided by any third party or a person acting on behalf of a third party in relation to the provision of the service to clients. Minor non-monetary benefits that are capable of enhancing the quality of service provided to a client and are of a scale and nature such that they could not be judged to impair compliance with the investment firm’s duty to act in the best interest of the client shall be clearly disclosed and are excluded from this paragraph.
 
 **9.** Member States shall ensure that investment firms are regarded as not fulfilling their obligations under Article 23 or under paragraph 1 of this Article where they pay or are paid any fee or commission, or provide or are provided with any non-monetary benefit in connection with the provision of an investment service or an ancillary service, to or by any party except the client or a person on behalf of the client, other than where the payment or benefit:
-
-Member States shall ensure that investment firms are regarded as not fulfilling their obligations under Article 23 or under paragraph 1 of this Article where they pay or are paid any fee or commission, or provide or are provided with any non-monetary benefit in connection with the provision of an investment service or an ancillary service, to or by any party except the client or a person on behalf of the client, other than where the payment or benefit:
 
 (a) is designed to enhance the quality of the relevant service to the client; and
 
@@ -904,8 +852,6 @@ Member States may retain additional requirements that were notified to the Commi
 
 **13.** The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to ensure that investment firms comply with the principles set out in this Article when providing investment or ancillary services to their clients, including:
 
-The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to ensure that investment firms comply with the principles set out in this Article when providing investment or ancillary services to their clients, including:
-
 (a) the conditions with which the information must comply in order to be fair, clear and not misleading;
 
 (b) the details about content and format of information to clients in relation to client categorisation, investment firms and their services, financial instruments, costs and charges;
@@ -917,8 +863,6 @@ The Commission shall be empowered to adopt delegated acts in accordance with Art
 In formulating the requirements for information on financial instruments in relation to point b of paragraph 4 information on the structure of the product shall be included, where applicable, taking into account any relevant standardized information required under Union law.
 
 **14.** The delegated acts referred to in paragraph 13 shall take into account:
-
-The delegated acts referred to in paragraph 13 shall take into account:
 
 (a) the nature of the service(s) offered or provided to the client or potential client, taking into account the type, object, size and frequency of the transactions;
 
@@ -944,8 +888,6 @@ Where clients or potential clients do not provide the information referred to un
 
 **4.** Member States shall allow investment firms when providing investment services that only consist of execution or reception and transmission of client orders with or without ancillary services, excluding the granting of credits or loans as specified in Section B.1 of Annex I that do not comprise of existing credit limits of loans, current accounts and overdraft facilities of clients, to provide those investment services to their clients without the need to obtain the information or make the determination provided for in paragraph 3 where all the following conditions are met:
 
-Member States shall allow investment firms when providing investment services that only consist of execution or reception and transmission of client orders with or without ancillary services, excluding the granting of credits or loans as specified in Section B.1 of Annex I that do not comprise of existing credit limits of loans, current accounts and overdraft facilities of clients, to provide those investment services to their clients without the need to obtain the information or make the determination provided for in paragraph 3 where all the following conditions are met:
-
 (a) the services relate to any of the following financial instruments: (i) shares admitted to trading on a regulated market or on an equivalent third-country market or on a MTF, where those are shares in companies, and excluding shares in non-UCITS collective investment undertakings and shares that embed a derivative; (ii) bonds or other forms of securitised debt admitted to trading on a regulated market or on an equivalent third country market or on a MTF, excluding those that embed a derivative or incorporate a structure which makes it difficult for the client to understand the risk involved; (iii) money-market instruments, excluding those that embed a derivative or incorporate a structure which makes it difficult for the client to understand the risk involved; (iv) shares or units in UCITS, excluding structured UCITS as referred to in the second subparagraph of Article 36(1) of Regulation (EU) No 583/2010; (v) structured deposits, excluding those that incorporate a structure which makes it difficult for the client to understand the risk of return or the cost of exiting the product before term; (vi) other non-complex financial instruments for the purpose of this paragraph. For the purpose of this point, a third-country market shall be considered to be equivalent to a regulated market if the requirements and the procedure laid down under the third and the fourth subparagraphs are fulfilled. At the request of the competent authority of a Member State, the Commission shall adopt equivalence decisions in accordance with the examination procedure referred to in Article 89a(2), stating whether the legal and supervisory framework of a third country ensures that a regulated market authorised in that third country complies with legally binding requirements which are, for the purpose of the application of this point, equivalent to the requirements resulting from Regulation (EU) No 596/2014, from Title III of this Directive, from Title II of Regulation (EU) No 600/2014 and from Directive 2004/109/EC, and which are subject to effective supervision and enforcement in that third country. The competent authority shall indicate why it considers that the legal and supervisory framework of the third country concerned is to be considered equivalent and shall provide relevant information to that end. Such third-country legal and supervisory framework may be considered equivalent where that framework fulfils at least the following conditions: (i) the markets are subject to authorisation and to effective supervision and enforcement on an ongoing basis; (ii) the markets have clear and transparent rules regarding the admission of securities to trading so that such securities are capable of being traded in a fair, orderly and efficient manner, and are freely negotiable; (iii) security issuers are subject to periodic and ongoing information requirements ensuring a high level of investor protection; and (iv) market transparency and integrity are ensured by the prevention of market abuse in the form of insider dealing and market manipulation.
 
 (b) the service is provided at the initiative of the client or potential client;
@@ -962,8 +904,6 @@ When providing investment advice, the investment firm shall, before the transact
 
 Where the agreement to buy or sell a financial instrument is concluded using a means of distance communication which prevents the prior delivery of the suitability statement, the investment firm may provide the written statement on suitability in a durable medium immediately after the client is bound by any agreement, provided both the following conditions are met:
 
-Where the agreement to buy or sell a financial instrument is concluded using a means of distance communication which prevents the prior delivery of the suitability statement, the investment firm may provide the written statement on suitability in a durable medium immediately after the client is bound by any agreement, provided both the following conditions are met:
-
 (a) the client has consented to receiving the suitability statement without undue delay after the conclusion of the transaction; and
 
 (b) the investment firm has given the client the option of delaying the transaction in order to receive the statement on suitability in advance.
@@ -974,8 +914,6 @@ Where an investment firm provides portfolio management or has informed the clien
 
 **8.** The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to ensure that investment firms comply with the principles set out in paragraphs 2 to 6 of this Article when providing investment or ancillary services to their clients, including information to obtain when assessing the suitability or appropriateness of the services and financial instruments for their clients, criteria to assess non-complex financial instruments for the purposes of point (a)(vi) of paragraph 4 of this Article, the content and the format of records and agreements for the provision of services to clients and of periodic reports to clients on the services provided. Those delegated acts shall take into account:
 
-The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to ensure that investment firms comply with the principles set out in paragraphs 2 to 6 of this Article when providing investment or ancillary services to their clients, including information to obtain when assessing the suitability or appropriateness of the services and financial instruments for their clients, criteria to assess non-complex financial instruments for the purposes of point (a)(vi) of paragraph 4 of this Article, the content and the format of records and agreements for the provision of services to clients and of periodic reports to clients on the services provided. Those delegated acts shall take into account:
-
 (a) the nature of the service(s) offered or provided to the client or potential client, having regard to the type, object, size and frequency of the transactions;
 
 (b) the nature of the products being offered or considered, including different types of financial instruments;
@@ -985,8 +923,6 @@ The Commission shall be empowered to adopt delegated acts in accordance with Art
 **9.** ESMA shall adopt by 3 January 2016 guidelines specifying criteria for the assessment of knowledge and competence required under paragraph 1.
 
 **10.** ESMA shall develop by 3 January 2016, and update periodically, guidelines for the assessment of:
-
-ESMA shall develop by 3 January 2016, and update periodically, guidelines for the assessment of:
 
 (a) financial instruments incorporating a structure which makes it difficult for the client to understand the risk involved in accordance with points (a)(ii) and (a)(iii) of paragraph 4;
 
@@ -1034,8 +970,6 @@ Member States shall require that, where the order execution policy provides for 
 
 **9.** The Commission shall be empowered to adopt delegated acts in accordance with Article 89 concerning:
 
-The Commission shall be empowered to adopt delegated acts in accordance with Article 89 concerning:
-
 (a) the criteria for determining the relative importance of the different factors that, pursuant to paragraph 1, may be taken into account for determining the best possible result taking into account the size and type of order and the retail or professional nature of the client;
 
 (b) factors that may be taken into account by an investment firm when reviewing its execution arrangements and the circumstances under which changes to such arrangements may be appropriate. In particular, the factors for determining which venues enable investment firms to obtain on a consistent basis the best possible result for executing the client orders;
@@ -1043,8 +977,6 @@ The Commission shall be empowered to adopt delegated acts in accordance with Art
 (c) the nature and extent of the information to be provided to clients on their execution policies, pursuant to paragraph 5.
 
 **10.** ESMA shall develop draft regulatory technical standards to determine:
-
-ESMA shall develop draft regulatory technical standards to determine:
 
 (a) the specific content, the format and the periodicity of data relating to the quality of execution to be published in accordance with paragraph 3, taking into account the type of execution venue and the type of financial instrument concerned;
 
@@ -1065,8 +997,6 @@ Those procedures or arrangements shall allow for the execution of otherwise comp
 **2.** Member States shall require that, in the case of a client limit order in respect of shares admitted to trading on a regulated market or traded on a trading venue which are not immediately executed under prevailing market conditions, investment firms are, unless the client expressly instructs otherwise, to take measures to facilitate the earliest possible execution of that order by making public immediately that client limit order in a manner which is easily accessible to other market participants. Member States may decide that investment firms comply with that obligation by transmitting the client limit order to a trading venue. Member States shall provide that the competent authorities may waive the obligation to make public a limit order that is large in scale compared with normal market size as determined under Article 4 of Regulation (EU) No 600/2014.
 
 **3.** The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to define:
-
-The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to define:
 
 (a) the conditions and nature of the procedures and arrangements which result in the prompt, fair and expeditious execution of client orders and the situations in which or types of transaction for which investment firms may reasonably deviate from prompt execution so as to obtain more favourable terms for clients;
 
@@ -1121,8 +1051,6 @@ Member States shall ensure that the investment firm, when it enters into transac
 Member States may also recognise as eligible counterparties third country undertakings such as those referred to in paragraph 3 on the same conditions and subject to the same requirements as those laid down in paragraph 3.
 
 **5.** The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to specify:
-
-The Commission shall be empowered to adopt delegated acts in accordance with Article 89 to specify:
 
 (a) the procedures for requesting treatment as clients under paragraph 2;
 
@@ -1194,8 +1122,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **3.** Member States shall ensure that MTFs are subject to effective rules, systems and procedures which ensure that the following is complied with:
 
-Member States shall ensure that MTFs are subject to effective rules, systems and procedures which ensure that the following is complied with:
-
 (a) at least 50 % of the issuers whose financial instruments are admitted to trading on the MTF are SMEs at the time when the MTF is registered as an SME growth market and in any calendar year thereafter;
 
 (b) appropriate criteria are set for initial and ongoing admission to trading of financial instruments of issuers on the market;
@@ -1213,8 +1139,6 @@ Member States shall ensure that MTFs are subject to effective rules, systems and
 **4.** The criteria in paragraph 3 are without prejudice to compliance by the investment firm or market operator operating the MTF with other obligations under this Directive relevant to the operation of MTFs. They also do not prevent the investment firm or market operator operating the MTF from imposing additional requirements to those specified in that paragraph.
 
 **5.** Member States shall provide that the home competent authority may deregister a MTF as an SME growth market in any of the following cases:
-
-Member States shall provide that the home competent authority may deregister a MTF as an SME growth market in any of the following cases:
 
 (a) the investment firm or market operator operating the market applies for its deregistration;
 
@@ -1237,8 +1161,6 @@ Member States shall provide that the home competent authority may deregister a M
 Member States shall not impose any additional requirements on such an investment firm or credit institution in respect of the matters covered by this Directive.
 
 **2.** Any investment firm wishing to provide services or activities within the territory of another Member State for the first time, or which wishes to change the range of services or activities so provided, shall communicate the following information to the competent authorities of its home Member State:
-
-Any investment firm wishing to provide services or activities within the territory of another Member State for the first time, or which wishes to change the range of services or activities so provided, shall communicate the following information to the competent authorities of its home Member State:
 
 (a) the Member State in which it intends to operate;
 
@@ -1281,8 +1203,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 Member States shall not impose any additional requirements save those allowed under paragraph 8, on the organisation and operation of the branch in respect of the matters covered by this Directive.
 
 **2.** Member States shall require any investment firm wishing to establish a branch within the territory of another Member State or to use tied agents established in another Member State in which it has not established a branch, first to notify the competent authority of its home Member State and to provide it with the following information:
-
-Member States shall require any investment firm wishing to establish a branch within the territory of another Member State or to use tied agents established in another Member State in which it has not established a branch, first to notify the competent authority of its home Member State and to provide it with the following information:
 
 (a) the Member States within the territory of which it plans to establish a branch or the Member States in which it has not established a branch but plans to use tied agents established there;
 
@@ -1340,8 +1260,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **1.** Member States shall require that investment firms from other Member States which are authorised to execute client orders or to deal on own account have the right of membership or have access to regulated markets established in their territory by means of any of the following arrangements:
 
-Member States shall require that investment firms from other Member States which are authorised to execute client orders or to deal on own account have the right of membership or have access to regulated markets established in their territory by means of any of the following arrangements:
-
 (a) directly, by setting up branches in the host Member States;
 
 (b) by becoming remote members of or having remote access to the regulated market without having to be established in the home Member State of the regulated market, where the trading procedures and systems of the market in question do not require a physical presence for conclusion of transactions on the market.
@@ -1357,8 +1275,6 @@ Member States shall require that investment firms from other Member States which
 Member States shall require that direct and indirect access of those investment firms to such facilities be subject to the same non-discriminatory, transparent and objective criteria as apply to local members or participants. Member States shall not restrict the use of those facilities to the clearing and settlement of transactions in financial instruments undertaken on a trading venue in their territory.
 
 **2.** Member States shall require that regulated markets in their territory offer all their members or participants the right to designate the system for the settlement of transactions in financial instruments undertaken on that regulated market, subject to the following conditions:
-
-Member States shall require that regulated markets in their territory offer all their members or participants the right to designate the system for the settlement of transactions in financial instruments undertaken on that regulated market, subject to the following conditions:
 
 (a) such links and arrangements between the designated settlement system and any other system or facility as are necessary to ensure the efficient and economic settlement of the transaction in question;
 
@@ -1388,8 +1304,6 @@ In order to avoid undue duplication of control, the competent authority shall ta
 
 **2.** Where a Member State requires that a third-country firm intending to provide investment services or to perform investment activities with or without any ancillary services in its territory establish a branch, the branch shall acquire a prior authorisation by the competent authorities of that Member State in accordance with the following conditions:
 
-Where a Member State requires that a third-country firm intending to provide investment services or to perform investment activities with or without any ancillary services in its territory establish a branch, the branch shall acquire a prior authorisation by the competent authorities of that Member State in accordance with the following conditions:
-
 (a) the provision of services for which the third-country firm requests authorisation is subject to authorisation and supervision in the third country where the firm is established and the requesting firm is properly authorised, whereby the competent authority pays due regard to any FATF recommendations in the context of anti-money laundering and countering the financing of terrorism;
 
 (b) cooperation arrangements, that include provisions regulating the exchange of information for the purpose of preserving the integrity of the market and protecting investors, are in place between the competent authorities in the Member State where the branch is to be established and competent supervisory authorities of the third country where the firm is established;
@@ -1410,8 +1324,6 @@ Where a Member State requires that a third-country firm intending to provide inv
 
 A third-country firm intending to obtain authorisation for the provision of any investment services or the performance of investment activities with or without any ancillary services in the territory of a Member State through a branch shall provide the competent authority of that Member State with the following:
 
-A third-country firm intending to obtain authorisation for the provision of any investment services or the performance of investment activities with or without any ancillary services in the territory of a Member State through a branch shall provide the competent authority of that Member State with the following:
-
 (a) the name of the authority responsible for its supervision in the third country concerned. When more than one authority is responsible for supervision, the details of the respective areas of competence shall be provided;
 
 (b) all relevant details of the firm (name, legal form, registered office and address, members of the management body, relevant shareholders) and a programme of operations setting out the investment services and/or activities as well as the ancillary services to be provided and the organisational structure of the branch, including a description of any outsourcing to third parties of essential operating functions;
@@ -1425,8 +1337,6 @@ A third-country firm intending to obtain authorisation for the provision of any 
 ### Article 41 — Granting of the authorisation
 
 **1.** The competent authority of the Member State where the third-country firm has established or intends to establish its branch shall only grant authorisation when the competent authority is satisfied that:
-
-The competent authority of the Member State where the third-country firm has established or intends to establish its branch shall only grant authorisation when the competent authority is satisfied that:
 
 (a) the conditions under Article 39 are fulfilled; and
 
@@ -1449,8 +1359,6 @@ Member States shall ensure that where a retail client or professional client wit
 <a id="art_43"></a>
 
 ### Article 43 — Withdrawal of authorisations
-
-The competent authority which granted an authorisation under Articles 41 may withdraw the authorisation issued to a third country firm where such a firm:
 
 The competent authority which granted an authorisation under Articles 41 may withdraw the authorisation issued to a third country firm where such a firm:
 
@@ -1488,8 +1396,6 @@ Member States shall also ensure that the market operator is entitled to exercise
 
 **5.** The competent authority may withdraw the authorisation issued to a regulated market, where it:
 
-The competent authority may withdraw the authorisation issued to a regulated market, where it:
-
 (a) does not make use of the authorisation within 12 months, expressly renounces the authorisation or has not operated for the preceding six months, unless the Member State concerned has provided for authorisation to lapse in such cases;
 
 (b) has obtained the authorisation by making false statements or by any other irregular means;
@@ -1510,8 +1416,6 @@ The competent authority may withdraw the authorisation issued to a regulated mar
 
 **2.** Members of the management body shall, in particular, fulfil the following requirements:
 
-Members of the management body shall, in particular, fulfil the following requirements:
-
 (a) All members of the management body shall commit sufficient time to perform their functions in the market operator. The number of directorships a member of the management body can hold, in any legal entity, at the same time shall take into account individual circumstances and the nature, scale and complexity of the market operator’s activities. Unless representing the Member State, members of the management body of market operators that are significant in terms of their size, internal organisation and the nature, the scope and the complexity of their activities shall not at the same time hold positions exceeding more than one of the following combinations: (i) one executive directorship with two non-executive directorships; (ii) four non-executive directorships. Executive or non-executive directorships held within the same group or undertakings where the market operator owns a qualifying holding shall be considered to be one single directorship. Competent authorities may authorise members of the management body to hold one additional non-executive directorship. Competent authorities shall regularly inform ESMA of such authorisations. Directorships in organisations which do not pursue predominantly commercial objectives shall be exempt from the limitation on the number of directorships a member of a management body can hold.
 
 (b) The management body shall possess adequate collective knowledge, skills and experience to be able to understand the market operator’s activities, including the main risks.
@@ -1521,8 +1425,6 @@ Members of the management body shall, in particular, fulfil the following requir
 **3.** Market operators shall devote adequate human and financial resources to the induction and training of members of the management body.
 
 **4.** Member States shall ensure that market operators which are significant in terms of their size, internal organisation and the nature, scope and complexity of their activities establish a nomination committee composed of members of the management body who do not perform any executive function in the market operator concerned.
-
-The nomination committee shall carry out the following:
 
 The nomination committee shall carry out the following:
 
@@ -1556,8 +1458,6 @@ Member States shall ensure that, in the process of authorisation of a regulated 
 
 **9.** ESMA shall issue guidelines on the following:
 
-ESMA shall issue guidelines on the following:
-
 (a) the notion of sufficient time commitment of a member of the management body to perform that member’s functions, in relation to the individual circumstances and the nature, scale and complexity of activities of the market operator;
 
 (b) the notion of adequate collective knowledge, skills and experience of the management body as referred to in point (b) of paragraph 2;
@@ -1578,8 +1478,6 @@ ESMA shall issue those guidelines by 3 January 2016.
 
 **2.** Member States shall require the market operator of the regulated market:
 
-Member States shall require the market operator of the regulated market:
-
 (a) to provide the competent authority with, and to make public, information regarding the ownership of the regulated market and/or the market operator, and in particular, the identity and scale of interests of any parties in a position to exercise significant influence over the management;
 
 (b) to inform the competent authority of and to make public any transfer of ownership which gives rise to a change in the identity of the persons exercising significant influence over the operation of the regulated market.
@@ -1591,8 +1489,6 @@ Member States shall require the market operator of the regulated market:
 ### Article 47 — Organisational requirements
 
 **1.** Member States shall require the regulated market:
-
-Member States shall require the regulated market:
 
 (a) to have arrangements to identify clearly and manage the potential adverse consequences, for the operation of the regulated market or for its members or participants, of any conflict of interest between the interest of the regulated market, its owners or its market operator and the sound functioning of the regulated market, and in particular where such conflicts of interest might prove prejudicial to the accomplishment of any functions delegated to the regulated market by the competent authority;
 
@@ -1616,15 +1512,11 @@ Member States shall require the regulated market:
 
 **2.** Member States shall require a regulated market to have in place:
 
-Member States shall require a regulated market to have in place:
-
 (a) written agreements with all investment firms pursuing a market making strategy on the regulated market;
 
 (b) schemes to ensure that a sufficient number of investment firms participate in such agreements which require them to post firm quotes at competitive prices with the result of providing liquidity to the market on a regular and predictable basis, where such a requirement is appropriate to the nature and scale of the trading on that regulated market.
 
 **3.** The written agreement referred to in paragraph 2 shall at least specify:
-
-The written agreement referred to in paragraph 2 shall at least specify:
 
 (a) the obligations of the investment firm in relation to the provision of liquidity and where applicable any other obligation arising from participation in the scheme referred to in paragraph 2(b);
 
@@ -1660,8 +1552,6 @@ Member States may allow a regulated market to impose a higher fee for placing an
 
 **12.** ESMA shall develop draft regulatory technical standards further specifying:
 
-ESMA shall develop draft regulatory technical standards further specifying:
-
 (a) the requirements to ensure trading systems of regulated markets are resilient and have adequate capacity;
 
 (b) the ratio referred to in paragraph 6, taking into account factors such as the value of unexecuted orders in relation to the value of executed transactions;
@@ -1689,8 +1579,6 @@ Power is delegated to the Commission to adopt the regulatory technical standards
 **1.** Member States shall require regulated markets to adopt tick size regimes in shares, depositary receipts, exchange-traded funds, certificates and other similar financial instruments and in any other financial instrument for which regulatory technical standards are developed in accordance with paragraph 4.
 
 **2.** The tick size regimes referred to in paragraph 1 shall:
-
-The tick size regimes referred to in paragraph 1 shall:
 
 (a) be calibrated to reflect the liquidity profile of the financial instrument in different markets and the average bid-ask spread, taking into account the desirability of enabling reasonably stable prices without unduly constraining further narrowing of spreads;
 
@@ -1739,8 +1627,6 @@ Member States shall ensure that the regulated market establishes arrangements wh
 **5.** A transferable security that has been admitted to trading on a regulated market can subsequently be admitted to trading on other regulated markets, even without the consent of the issuer and in compliance with the relevant provisions of Directive 2003/71/EC. The issuer shall be informed by the regulated market of the fact that its securities are traded on that regulated market. The issuer shall not be subject to any obligation to provide information required under paragraph 3 directly to any regulated market which has admitted the issuer’s securities to trading without its consent.
 
 **6.** ESMA shall develop draft regulatory technical standards which:
-
-ESMA shall develop draft regulatory technical standards which:
 
 (a) specify the characteristics of different classes of financial instruments to be taken into account by the regulated market when assessing whether a financial instrument is issued in a manner consistent with the conditions laid down in the second subparagraph of paragraph 1 for admission to trading on the different market segments which it operates;
 
@@ -1794,8 +1680,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **2.** The rules referred to in paragraph 1 shall specify any obligations for the members or participants arising from:
 
-The rules referred to in paragraph 1 shall specify any obligations for the members or participants arising from:
-
 (a) the constitution and administration of the regulated market;
 
 (b) rules relating to transactions on the market;
@@ -1807,8 +1691,6 @@ The rules referred to in paragraph 1 shall specify any obligations for the membe
 (e) the rules and procedures for the clearing and settlement of transactions concluded on the regulated market.
 
 **3.** Regulated markets may admit as members or participants investment firms, credit institutions authorised under Directive 2013/36/EU and other persons who:
-
-Regulated markets may admit as members or participants investment firms, credit institutions authorised under Directive 2013/36/EU and other persons who:
 
 (a) are of sufficient good repute;
 
@@ -1870,8 +1752,6 @@ Each Member State shall draw up a list of the regulated markets for which it is 
 
 **1.** Member States shall ensure that competent authorities, in line with the methodology for calculation determined by ESMA, establish and apply position limits on the size of a net position which a person can hold at all times in commodity derivatives traded on trading venues and economically equivalent OTC contracts. The limits shall be set on the basis of all positions held by a person and those held on its behalf at an aggregate group level in order to:
 
-Member States shall ensure that competent authorities, in line with the methodology for calculation determined by ESMA, establish and apply position limits on the size of a net position which a person can hold at all times in commodity derivatives traded on trading venues and economically equivalent OTC contracts. The limits shall be set on the basis of all positions held by a person and those held on its behalf at an aggregate group level in order to:
-
 (a) prevent market abuse;
 
 (b) support orderly pricing and settlement conditions, including preventing market distorting positions, and ensuring, in particular, convergence between prices of derivatives in the delivery month and spot prices for the underlying commodity, without prejudice to price discovery on the market for the underlying commodity.
@@ -1881,8 +1761,6 @@ Position limits shall not apply to positions held by or on behalf of a non-finan
 **2.** Position limits shall specify clear quantitative thresholds for the maximum size of a position in a commodity derivative that persons can hold.
 
 **3.** ESMA shall develop draft regulatory technical standards to determine the methodology for calculation that competent authorities are to apply in establishing the spot month position limits and other months’ position limits for physically settled and cash settled commodity derivatives based on the characteristics of the relevant derivative. The methodology for calculation shall take into account at least the following factors:
-
-ESMA shall develop draft regulatory technical standards to determine the methodology for calculation that competent authorities are to apply in establishing the spot month position limits and other months’ position limits for physically settled and cash settled commodity derivatives based on the characteristics of the relevant derivative. The methodology for calculation shall take into account at least the following factors:
 
 (a) the maturity of the commodity derivative contracts;
 
@@ -1920,8 +1798,6 @@ The competent authorities of the trading venues where the same commodity derivat
 
 **8.** Member States shall ensure that an investment firm or a market operator operating a trading venue which trades commodity derivatives apply position management controls. Those controls shall include at least, the powers for the trading venue to:
 
-Member States shall ensure that an investment firm or a market operator operating a trading venue which trades commodity derivatives apply position management controls. Those controls shall include at least, the powers for the trading venue to:
-
 (a) monitor the open interest positions of persons;
 
 (b) access information, including all relevant documentation, from persons about the size and purpose of a position or exposure entered into, information about beneficial or underlying owners, any concert arrangements, and any related assets or liabilities in the underlying market;
@@ -1939,8 +1815,6 @@ The competent authority shall communicate the same information as well as the de
 **11.** The position limits of paragraph 1 shall be imposed by competent authorities pursuant to point (p) of Article 69(2).
 
 **12.** ESMA shall develop draft regulatory technical standards to determine:
-
-ESMA shall develop draft regulatory technical standards to determine:
 
 (a) the criteria and methods for determining whether a position qualifies as reducing risks directly relating to commercial activities;
 
@@ -1968,8 +1842,6 @@ Where a competent authority imposes limits contrary to an ESMA opinion, it shall
 
 **14.** Member States shall provide that competent authorities can apply their powers to impose sanctions under this Directive for the infringements of position limits set in accordance with this Article to:
 
-Member States shall provide that competent authorities can apply their powers to impose sanctions under this Directive for the infringements of position limits set in accordance with this Article to:
-
 (a) positions held by persons situated or operating in its territory or abroad which exceed the limits on commodity derivative contracts the competent authority has set in relation to contracts on trading venues situated or operating in its territory or economically equivalent OTC contracts;
 
 (b) positions held by persons situated or operating in its territory which exceed the limits on commodity derivative contracts set by competent authorities in other Member States.
@@ -1979,8 +1851,6 @@ Member States shall provide that competent authorities can apply their powers to
 ### Article 58 — Position reporting by categories of position holders
 
 **1.** Member States shall ensure that an investment firm or a market operator operating a trading venue which trades commodity derivatives or emission allowances or derivatives thereof:
-
-Member States shall ensure that an investment firm or a market operator operating a trading venue which trades commodity derivatives or emission allowances or derivatives thereof:
 
 (a) make public a weekly report with the aggregate positions held by the different categories of persons for the different commodity derivatives or emission allowances or derivatives thereof traded on their trading venue, specifying the number of long and short positions by such categories, changes thereto since the previous report, the percentage of the total open interest represented by each category and the number of persons holding a position in each category in accordance with paragraph 4 and communicate that report to the competent authority and to ESMA; ESMA shall proceed to a centralised publication of the information included in those reports;
 
@@ -1994,8 +1864,6 @@ The obligation laid down in point (a) shall only apply when both the number of p
 
 **4.** Persons holding positions in a commodity derivative or emission allowance or derivative thereof shall be classified by the investment firm or market operator operating that trading venue according to the nature of their main business, taking account of any applicable authorisation, as either:
 
-Persons holding positions in a commodity derivative or emission allowance or derivative thereof shall be classified by the investment firm or market operator operating that trading venue according to the nature of their main business, taking account of any applicable authorisation, as either:
-
 (a) investment firms or credit institutions;
 
 (b) investment funds, either an undertaking for collective investments in transferable securities (UCITS) as defined in Directive 2009/65/EC, or an alternative investment fund manager as defined in Directive 2011/61/EC;
@@ -2007,8 +1875,6 @@ Persons holding positions in a commodity derivative or emission allowance or der
 (e) in the case of emission allowances or derivatives thereof, operators with compliance obligations under Directive 2003/87/EC.
 
 The reports referred to in point (a) of paragraph 1 shall specify the number of long and short positions by category of persons, any changes thereto since the previous report, percent of total open interest represented by each category, and the number of persons in each category.
-
-The reports referred to in point (a) of paragraph 1 and the breakdowns referred to in paragraph 2 shall differentiate between:
 
 The reports referred to in point (a) of paragraph 1 and the breakdowns referred to in paragraph 2 shall differentiate between:
 
@@ -2072,8 +1938,6 @@ Where a competent authority has withdrawn an authorisation in accordance with Ar
 
 **4.** ESMA shall develop draft regulatory technical standards to determine:
 
-ESMA shall develop draft regulatory technical standards to determine:
-
 (a) the information to be provided to the competent authorities under paragraph 2, including the programme of operations;
 
 (b) the information included in the notifications under Article 63(3).
@@ -2091,8 +1955,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 <a id="art_62"></a>
 
 ### Article 62 — Withdrawal of authorisations
-
-The competent authority may withdraw the authorisation issued to a data reporting services provider where the provider:
 
 The competent authority may withdraw the authorisation issued to a data reporting services provider where the provider:
 
@@ -2132,8 +1994,6 @@ Where a market operator seeks authorisation to operate an APA, a CTP or an ARM a
 
 **2.** The information made public by an APA in accordance with paragraph 1 shall include, at least, the following details:
 
-The information made public by an APA in accordance with paragraph 1 shall include, at least, the following details:
-
 (a) the identifier of the financial instrument;
 
 (b) the price at which the transaction was concluded;
@@ -2166,8 +2026,6 @@ Power is delegated to the Commission to adopt the regulatory technical standards
 
 **8.** ESMA shall develop draft regulatory technical standards specifying:
 
-ESMA shall develop draft regulatory technical standards specifying:
-
 (a) the means by which an APA may comply with the information obligation referred to in paragraph 1;
 
 (b) the content of the information published under paragraph 1, including at least the information referred to in paragraph 2 in such a way as to enable the publication of information required under Article 64;
@@ -2185,8 +2043,6 @@ Power is delegated to the Commission to adopt the regulatory technical standards
 ### Article 65 — Organisational requirements
 
 **1.** The home Member State shall require a CTP to have adequate policies and arrangements in place to collect the information made public in accordance with Articles 6 and 20 of Regulation (EU) No 600/2014, consolidate it into a continuous electronic data stream and make the information available to the public as close to real time as is technically possible, on a reasonable commercial basis.
-
-That information shall include, at least, the following details:
 
 That information shall include, at least, the following details:
 
@@ -2213,8 +2069,6 @@ That information shall include, at least, the following details:
 The information shall be made available free of charge 15 minutes after the CTP has published it. The home Member State shall require the CTP to be able to efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis and in formats that are easily accessible and utilisable for market participants.
 
 **2.** The home Member State shall require a CTP to have adequate policies and arrangements in place to collect the information made public in accordance with Articles 10 and 21 of Regulation (EU) No 600/2014, consolidate it into a continuous electronic data stream and make following information available to the public as close to real time as is technically possible, on a reasonable commercial basis including, at least, the following details:
-
-The home Member State shall require a CTP to have adequate policies and arrangements in place to collect the information made public in accordance with Articles 10 and 21 of Regulation (EU) No 600/2014, consolidate it into a continuous electronic data stream and make following information available to the public as close to real time as is technically possible, on a reasonable commercial basis including, at least, the following details:
 
 (a) the identifier or identifying features of the financial instrument;
 
@@ -2250,8 +2104,6 @@ Power is delegated to the Commission to adopt the regulatory technical standards
 
 **8.** ESMA shall develop draft regulatory technical standards specifying:
 
-ESMA shall develop draft regulatory technical standards specifying:
-
 (a) the means by which the CTP may comply with the information obligation referred to in paragraphs 1 and 2;
 
 (b) the content of the information published under paragraphs 1 and 2;
@@ -2283,8 +2135,6 @@ Power is delegated to the Commission to adopt the regulatory technical standards
 The home Member State shall also require the ARM to have systems in place to enable the ARM to detect errors or omissions caused by the ARM itself and to enable the ARM to correct and transmit, or re-transmit as the case may be, correct and complete transaction reports to the competent authority.
 
 **5.** ESMA shall develop draft regulatory technical standards specifying:
-
-ESMA shall develop draft regulatory technical standards specifying:
 
 (a) the means by which the ARM may comply with the information obligation referred to in paragraph 1; and
 
@@ -2329,8 +2179,6 @@ Member States shall require that competent authorities exchange any information 
 **1.** Competent authorities shall be given all supervisory powers, including investigatory powers and powers to impose remedies, necessary to fulfil their duties under this Directive and under Regulation (EU) No 600/2014.
 
 **2.** The powers referred to in paragraph 1 shall include, at least, the following powers to:
-
-The powers referred to in paragraph 1 shall include, at least, the following powers to:
 
 (a) have access to any document or other data in any form which the competent authority considers could be relevant for the performance of its duties and receive or take a copy of it;
 
@@ -2392,15 +2240,11 @@ By 3 July 2017 Member States shall notify the laws, regulations and administrati
 
 **3.** Member States shall ensure that at least an infringement of the following provisions of this Directive or of Regulation (EU) No. 600/2014 shall be regarded as an infringement of this Directive or of Regulation (EU) No. 600/2014:
 
-Member States shall ensure that at least an infringement of the following provisions of this Directive or of Regulation (EU) No. 600/2014 shall be regarded as an infringement of this Directive or of Regulation (EU) No. 600/2014:
-
 (a) with regard to this Directive: (i) point (b) of Article 8; (ii) Article 9(1) to (6); (iii) Article 11(1) and (3); (iv) Article 16(1) to (11); (v) Article 17(1) to (6); (vi) Article 18(1) to (9) and the first sentence of Article 18(10); (vii) Articles 19 and 20; (viii) Article 21(1); (ix) Article 23(1), (2) and (3); (x) Article 24(1) to (5) and (7) to (10) and the first and second subparagraphs of Article 24(11); (xi) Article 25(1) to (6); (xii) the second sentence of Article 26(1) and Article 26(2) and (3); (xiii) Article 27(1) to (8); (xiv) Article 28(1) and (2); (xv) the first subparagraph of Article 29(2), the third subparagraph of Article 29(2), the first sentence of Article 29(3), the first subparagraph of Article 29(4), and Article 29(5); (xvi) the second subparagraph of Article 30(1), the first sentence of the second subparagraph of Article 30(3); (xvii) Article 31(1), the first subparagraph of Article 31(2) and Article 31(3); (xviii) Article 32(1), the first, second and fourth subparagraphs of Article 32(2); (xix) Article 33(3); (xx) Article 34(2), the first sentence of Article 34(4), the first sentence of Article 34(5), the first sentence of Article 34(7); (xxi) Article 35(2), the first subparagraph of Article 35(7), the first sentence of Article 35(10); (xxii) Article 36(1); (xxiii) the first subparagraph and the first sentence of the second subparagraph of Article 37(1), and the first subparagraph of Article 37(2); (xxiv) the fourth subparagraph of Article 44(1), the first sentence of Article 44(2), the first subparagraph of Article 44(3) and point (b) of Article 44(5); (xxv) Article 45(1) to (6) and (8); (xxvi) Article 46(1), points (a) and (b) of Article 46(2); (xxvii) Article 47; (xxviii) Article 48(1) to (11); (xxix) Article 49(1); (xxx) Article 50(1); (xxxi) Article 51(1) to (4) and the second sentence of Article 51(5); (xxxii) Article 52(1), the first, second and fifth subparagraphs of Article 52(2); (xxxiii) Article 53(1), (2) and (3) and the first sentence of the second subparagraph of Article 53(6), Article 53(7); (xxxiv) Article 54(1), the first subparagraph of Article 54(2) and Article 54(3); (xxxv) Article 57(1) and (2), Article 57(8) and the first subparagraph of Article 57(10); (xxxvi) Article 58(1) to (4); (xxxvii) Article 63(1), (3) and (4); (xxxviii) Article 64(1) to (5); (xxxix) Article 65(1) to (5); (xxxx) Article 66(1) to (4); and
 
 (b) with regard to Regulation (EU) No 600/2014: (i) Articles 3(1) and (3); (ii) the first subparagraph of Article 4(3); (iii) Article 6; (iv) the first sentence of third subparagraph of Article 7(1); (v) Article 8(1), (3) and, (4); (vi) Article 10; (vii) the first sentence of third subparagraph of Article 11(1) and the third subparagraph of Article 11(3); (viii) Article 12(1); (ix) Article 13(1); (x) Article 14(1), the first sentence of Article 14(2) and the second, third and fourth sentence of Article 14(3); (xi) the first subparagraph and the first and third sentences of second subparagraph of Article 15(1), Article 15(2) and the second sentence of Article 15(4); (xii) the second sentence of Article 17(1); (xiii) Article 18(1) and (2), first sentence of Article 18(4), first sentence of Article 18(5), the first subparagraph of Article 18(6), Article 18(8) and (9); (xiv) Article 20(1) and the first sentence of Article 20(2); (xv) Article 21(1), (2) and (3); (xvi) Article 22(2); (xvii) Article 23(1) and (2); (xviii) Article 25(1) and (2); (xix) the first subparagraph of Article 26(1), Article 26(2) to (5), the first subparagraph of Article 26(6), the first to fifth and eighth subparagraph of Article 26(7); (xx) Article 27(1); (xxi) Article 28(1) and the first subparagraph of Article 28(2); (xxii) Article 29(1) and (2); (xxiii) Article 30(1); (xxiv) Article 31(2) and (3); (xxv) Article 35(1), (2) and (3); (xxvi) Article 36(1), (2) and (3); (xxvii) Article 37(1) and (3); (xxviii) Articles 40, 41 and 42.
 
 **4.** Providing investment services or performing investment activities without the required authorisation or approval in accordance with the following provisions of this Directive or of Regulation (EU) No 600/2014 shall also be considered to be an infringement of this Directive or of Regulation (EU) No 600/2014:
-
-Providing investment services or performing investment activities without the required authorisation or approval in accordance with the following provisions of this Directive or of Regulation (EU) No 600/2014 shall also be considered to be an infringement of this Directive or of Regulation (EU) No 600/2014:
 
 (a) Article 5 or Article 6(2) or Articles 34, 35, 39, 44 or 59 of this Directive; or
 
@@ -2409,8 +2253,6 @@ Providing investment services or performing investment activities without the re
 **5.** Failure to cooperate or comply in an investigation or with an inspection or request covered by Article 69 shall also be regarded as an infringement of this Directive.
 
 **6.** In the cases of infringements referred to in paragraphs 3, 4 and 5, Member States shall, in conformity with national law, provide that competent authorities have the power to take and impose at least the following administrative sanctions and measures:
-
-In the cases of infringements referred to in paragraphs 3, 4 and 5, Member States shall, in conformity with national law, provide that competent authorities have the power to take and impose at least the following administrative sanctions and measures:
 
 (a) a public statement, which indicates the natural or legal person and the nature of the infringement in accordance with Article 71;
 
@@ -2435,8 +2277,6 @@ In the cases of infringements referred to in paragraphs 3, 4 and 5, Member State
 ### Article 71 — Publication of decisions
 
 **1.** Member States shall provide that competent authorities publish any decision imposing an administrative sanction or measure for infringements of Regulation (EU) No 600/2014 or of the national provisions adopted in the implementation of this Directive on their official websites without undue delay after the person on whom the sanction was imposed has been informed of that decision. The publication shall include at least information on the type and nature of the infringement and the identity of the persons responsible. That obligation does not apply to decisions imposing measures that are of an investigatory nature.
-
-However, where the publication of the identity of the legal persons or of the personal data of the natural persons is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where publication jeopardises the stability of financial markets or an on-going investigation, Member States shall ensure that competent authorities shall either:
 
 However, where the publication of the identity of the legal persons or of the personal data of the natural persons is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where publication jeopardises the stability of financial markets or an on-going investigation, Member States shall ensure that competent authorities shall either:
 
@@ -2474,8 +2314,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **1.** Competent authorities shall exercise the supervisory powers including, investigatory powers and powers to impose remedies, referred to in Article 69 and the powers to impose sanctions referred to in Article 70 in accordance with their national legal frameworks:
 
-Competent authorities shall exercise the supervisory powers including, investigatory powers and powers to impose remedies, referred to in Article 69 and the powers to impose sanctions referred to in Article 70 in accordance with their national legal frameworks:
-
 (a) directly;
 
 (b) in collaboration with other authorities;
@@ -2485,8 +2323,6 @@ Competent authorities shall exercise the supervisory powers including, investiga
 (d) by application to the competent judicial authorities.
 
 **2.** Member States shall ensure that competent authorities, when determining the type and level of an administrative sanction or measure imposed under the exercise of powers to impose sanctions in Article 70, take into account all relevant circumstances, including, where appropriate:
-
-Member States shall ensure that competent authorities, when determining the type and level of an administrative sanction or measure imposed under the exercise of powers to impose sanctions in Article 70, take into account all relevant circumstances, including, where appropriate:
 
 (a) the gravity and the duration of the infringement;
 
@@ -2512,8 +2348,6 @@ Competent authorities may take into account additional factors to those referred
 
 The mechanisms referred to in the first subparagraph shall include at least:
 
-The mechanisms referred to in the first subparagraph shall include at least:
-
 (a) specific procedures for the receipt of reports on potential or actual infringements and their follow-up, including the establishment of secure communication channels for such reports;
 
 (b) appropriate protection for employees of financial institutions who report infringements committed within the financial institution at least against retaliation, discrimination or other types of unfair treatment;
@@ -2529,8 +2363,6 @@ The mechanisms referred to in the first subparagraph shall include at least:
 **1.** Member States shall ensure that any decision taken under the provisions of Regulation (EU) No 600/2014 or under laws, regulations or administrative provisions adopted in accordance with this Directive is properly reasoned and is subject to the right of appeal before a tribunal. The right of appeal before a tribunal shall also apply where, in respect of an application for authorisation which provides all the information required, no decision is taken within six months of its submission.
 
 **2.** Member States shall provide that one or more of the following bodies, as determined by national law, also may, in the interests of consumers and in accordance with national law, take action before the courts or competent administrative bodies to ensure that Regulation (EU) No 600/2014 and the national provisions adopted in the implementation of this Directive are applied:
-
-Member States shall provide that one or more of the following bodies, as determined by national law, also may, in the interests of consumers and in accordance with national law, take action before the courts or competent administrative bodies to ensure that Regulation (EU) No 600/2014 and the national provisions adopted in the implementation of this Directive are applied:
 
 (a) public bodies or their representatives;
 
@@ -2569,8 +2401,6 @@ ESMA shall publish and keep up-to-date a list of all extra-judicial mechanisms o
 ### Article 77 — Relations with auditors
 
 **1.** Member States shall provide, at least, that any person authorised within the meaning of Directive 2006/43/EC of the European Parliament and of the Council, performing in an investment firm, a regulated market or a data reporting services provider the task described in Article 34 of Directive 2013/34/EU or Article 73 of Directive 2009/65/EC or any other task prescribed by law, shall have a duty to report promptly to the competent authorities any fact or decision concerning that undertaking of which that person has become aware while carrying out that task and which is liable to:
-
-Member States shall provide, at least, that any person authorised within the meaning of Directive 2006/43/EC of the European Parliament and of the Council, performing in an investment firm, a regulated market or a data reporting services provider the task described in Article 34 of Directive 2013/34/EU or Article 73 of Directive 2009/65/EC or any other task prescribed by law, shall have a duty to report promptly to the competent authorities any fact or decision concerning that undertaking of which that person has become aware while carrying out that task and which is liable to:
 
 (a) constitute a material infringement of the laws, regulations or administrative provisions which lay down the conditions governing authorisation or which specifically govern pursuit of the activities of investment firms;
 
@@ -2614,8 +2444,6 @@ Competent authorities may use their powers for the purpose of cooperation, even 
 
 **5.** Without prejudice to paragraphs 1 and 4, competent authorities shall notify ESMA and other competent authorities of the details of:
 
-Without prejudice to paragraphs 1 and 4, competent authorities shall notify ESMA and other competent authorities of the details of:
-
 (a) any requests to reduce the size of a position or exposure pursuant to point (o) of Article 69(2);
 
 (b) any limits on the ability of persons to enter into a commodity derivative pursuant to point (p) of Article 69(2).
@@ -2645,8 +2473,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 ### Article 80 — Cooperation between competent authorities in supervisory activities, for on-site verifications or investigations
 
 **1.** A competent authority of one Member State may request the cooperation of the competent authority of another Member State in a supervisory activity or for an on-the-spot verification or in an investigation. In the case of investment firms that are remote members or participants of a regulated market the competent authority of the regulated market may choose to address them directly, in which case it shall inform the competent authority of the home Member State of the remote member or participant accordingly.
-
-Where a competent authority receives a request with respect to an on-the-spot verification or an investigation, it shall, within the framework of its powers:
 
 Where a competent authority receives a request with respect to an on-the-spot verification or an investigation, it shall, within the framework of its powers:
 
@@ -2682,8 +2508,6 @@ Competent authorities exchanging information with other competent authorities un
 
 **3.** Authorities as referred to in Article 71 as well as other bodies or natural and legal persons receiving confidential information under paragraph 1 of this Article or under Articles 77 and 88 may use it only in the course of their duties, in particular:
 
-Authorities as referred to in Article 71 as well as other bodies or natural and legal persons receiving confidential information under paragraph 1 of this Article or under Articles 77 and 88 may use it only in the course of their duties, in particular:
-
 (a) to check that the conditions governing the taking-up of the business of investment firms are met and to facilitate the monitoring, on a non-consolidated or consolidated basis, of the conduct of that business, especially with regard to the capital adequacy requirements imposed by Directive 2013/36/EU, administrative and accounting procedures and internal-control mechanisms;
 
 (b) to monitor the proper functioning of trading venues;
@@ -2710,8 +2534,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **1.** The competent authorities may refer to ESMA situations where a request relating to one of the following has been rejected or has not been acted upon within a reasonable time:
 
-The competent authorities may refer to ESMA situations where a request relating to one of the following has been rejected or has not been acted upon within a reasonable time:
-
 (a) to carry out a supervisory activity, an on-the-spot verification, or an investigation, as provided for in Article 80; or
 
 (b) to exchange information as provided for in Article 81.
@@ -2721,8 +2543,6 @@ The competent authorities may refer to ESMA situations where a request relating 
 <a id="art_83"></a>
 
 ### Article 83 — Refusal to cooperate
-
-A competent authority may refuse to act on a request for cooperation in carrying out an investigation, on-the-spot verification or supervisory activity as provided for in Article 84 or to exchange information as provided for in Article 81 only where:
 
 A competent authority may refuse to act on a request for cooperation in carrying out an investigation, on-the-spot verification or supervisory activity as provided for in Article 84 or to exchange information as provided for in Article 81 only where:
 
@@ -2738,8 +2558,6 @@ In the case of such a refusal, the competent authority shall notify the requesti
 
 **1.** The competent authorities of the other Member State involved shall be consulted prior to granting authorisation to an investment firm which is any of the following:
 
-The competent authorities of the other Member State involved shall be consulted prior to granting authorisation to an investment firm which is any of the following:
-
 (a) a subsidiary of an investment firm or market operator or credit institution authorised in another Member State;
 
 (b) a subsidiary of the parent undertaking of an investment firm or credit institution authorised in another Member State;
@@ -2747,8 +2565,6 @@ The competent authorities of the other Member State involved shall be consulted 
 (c) controlled by the same natural or legal persons who control an investment firm or credit institution authorised in another Member State.
 
 **2.** The competent authority of the Member State responsible for the supervision of credit institutions or insurance undertakings shall be consulted prior to granting an authorisation to an investment firm or market operator which is any of the following:
-
-The competent authority of the Member State responsible for the supervision of credit institutions or insurance undertakings shall be consulted prior to granting an authorisation to an investment firm or market operator which is any of the following:
 
 (a) a subsidiary of a credit institution or insurance undertaking authorised in the Union;
 
@@ -2777,8 +2593,6 @@ Power is conferred on the Commission to adopt the implementing technical standar
 ### Article 86 — Precautionary measures to be taken by host Member States
 
 **1.** Where the competent authority of the host Member State has clear and demonstrable grounds for believing that an investment firm acting within its territory under the freedom to provide services infringes the obligations arising from the provisions adopted pursuant to this Directive or that an investment firm that has a branch within its territory infringes the obligations arising from the provisions adopted pursuant to this Directive which do not confer powers on the competent authority of the host Member State, it shall refer those findings to the competent authority of the home Member State.
-
-If, despite the measures taken by the competent authority of the home Member State or because such measures prove inadequate, the investment firm persists in acting in a manner that is clearly prejudicial to the interests of host Member State investors or the orderly functioning of markets, the following shall apply:
 
 If, despite the measures taken by the competent authority of the home Member State or because such measures prove inadequate, the investment firm persists in acting in a manner that is clearly prejudicial to the interests of host Member State investors or the orderly functioning of markets, the following shall apply:
 
@@ -2821,8 +2635,6 @@ In addition, the competent authority of the host Member State may refer the matt
 Transfer of personal data to a third country by a Member State shall be in accordance with Chapter IV of Directive 95/46/EC.
 
 Transfers of personal data to a third country by ESMA shall be in accordance with Article 9 of Regulation (EU) No 45/2001.
-
-Member States and ESMA may also conclude cooperation agreements providing for the exchange of information with third country authorities, bodies and natural or legal persons responsible for one or more of the following:
 
 Member States and ESMA may also conclude cooperation agreements providing for the exchange of information with third country authorities, bodies and natural or legal persons responsible for one or more of the following:
 
@@ -2876,8 +2688,6 @@ The cooperation agreements referred to in the third subparagraph may be conclude
 
 **1.** Before 3 March 2020 the Commission shall, after consulting ESMA, present a report to the European Parliament and the Council on:
 
-Before 3 March 2020 the Commission shall, after consulting ESMA, present a report to the European Parliament and the Council on:
-
 (a) the functioning of OTFs, including their specific use of matched principal trading, taking into account supervisory experience acquired by competent authorities, the number of OTFs authorised in the Union and their market share and in particular examining whether any adjustments are needed to the definition of an OTF and whether the range of financial instruments covered by the OTF category remains appropriate;
 
 (b) the functioning of the regime for SME growth markets, taking into account the number of MTFs registered as SME growth markets, numbers of issuers present thereon, and relevant trading volumes; In particular, the report shall assess whether the threshold in point (a) of Article 33(3) remains an appropriate minimum to pursue the objectives for SME growth markets as stated in this Directive;
@@ -2898,8 +2708,6 @@ Before 3 March 2020 the Commission shall, after consulting ESMA, present a repor
 
 The reports referred to in the first subparagraph shall assess the functioning of the consolidated tape against the following criteria:
 
-The reports referred to in the first subparagraph shall assess the functioning of the consolidated tape against the following criteria:
-
 (a) the availability and timeliness of post trade information in a consolidated format capturing all transactions irrespective of whether they are carried out on trading venues or not;
 
 (b) the availability and timeliness of full and partial post trade information that is of a high quality, in formats that are easily accessible and usable for market participants and available on a reasonable commercial basis.
@@ -2907,8 +2715,6 @@ The reports referred to in the first subparagraph shall assess the functioning o
 Where the Commission concludes that the CTPs have failed to provide information in a way that meets the criteria set out in the second subparagraph, the Commission shall accompany its report by a request to ESMA to launch a negotiated procedure for the appointment though a public procurement process run by ESMA of a commercial entity operating a consolidated tape. ESMA shall launch the procedure after receiving the request from the Commission on the conditions specified in the Commission’s request and in accordance with Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council.
 
 **3.** The Commission shall, where the procedure outlined in paragraph 2 is initiated, be empowered to adopt delegated acts in accordance with Article 89 amending Articles 59 to 65 and Section D of Annex I of this Directive and point (19) of Article 2(1) of Regulation (EU) No 600/2014, by specifying measures in order to:
-
-The Commission shall, where the procedure outlined in paragraph 2 is initiated, be empowered to adopt delegated acts in accordance with Article 89 amending Articles 59 to 65 and Section D of Annex I of this Directive and point (19) of Article 2(1) of Regulation (EU) No 600/2014, by specifying measures in order to:
 
 (a) provide for the contract duration of the commercial entity operating a consolidated tape and the process and conditions for renewing the contract and the launching of new public procurement;
 
@@ -2933,8 +2739,6 @@ If the Commission considers that it would not be feasible and beneficial to incl
 <a id="art_91"></a>
 
 ### Article 91 — Amendments to Directive 2002/92/EC
-
-Directive 2002/92/EC is hereby amended as follows:
 
 Directive 2002/92/EC is hereby amended as follows:
 
@@ -2965,8 +2769,6 @@ An insurance intermediary or insurance undertaking shall maintain and operate ef
 **2.** Where organisational or administrative arrangements made by the insurance intermediary or insurance undertaking in accordance with Article 13b to manage conflicts of interest are not sufficient to ensure, with reasonable confidence, that risks of damage to customer interests will be prevented, the insurance intermediary or insurance undertaking shall clearly disclose to the customer the general nature and/or sources of conflicts of interest before undertaking business on its behalf.
 
 **3.** The Commission shall be empowered to adopt delegated acts in accordance with Article 13e to:
-
-The Commission shall be empowered to adopt delegated acts in accordance with Article 13e to:
 
 (a) define the steps that insurance intermediaries or insurance undertakings might reasonably be expected to take to identify, prevent, manage and disclose conflicts of interest when carrying out insurance distribution activities;
 
@@ -2999,8 +2801,6 @@ The Commission shall be empowered to adopt delegated acts in accordance with Art
 <a id="art_92"></a>
 
 ### Article 92 — Amendments to Directive 2011/61/EU
-
-Directive 2011/61/EU is amended as follows:
 
 Directive 2011/61/EU is amended as follows:
 
@@ -3038,8 +2838,6 @@ References to terms defined in, or Articles of, Directive 2004/39/EC or Directiv
 
 **1.** Until 3 January 2021:
 
-Until 3 January 2021:
-
 (a) the clearing obligation set out in Article 4 of Regulation (EU) No 648/2012 and the risk mitigation techniques set out in Article 11(3) thereof shall not apply to C6 energy derivative contracts entered into by non-financial counterparties that meet the conditions in Article 10(1) of Regulation (EU) No 648/2012 or by non-financial counterparties that shall be authorised for the first time as investment firms as from 3 January 2018; and
 
 (b) such C6 energy derivative contracts shall not be considered to be OTC derivative contracts for the purposes of the clearing threshold set out in Article 10 of Regulation (EU) No 648/2012.
@@ -3066,10 +2864,6 @@ This Directive is addressed to the Member States.
 
 **LISTS OF SERVICES AND ACTIVITIES AND FINANCIAL INSTRUMENTS**
 
-**LISTS OF SERVICES AND ACTIVITIES AND FINANCIAL INSTRUMENTS**
-
-SECTION A**Investment services and activities**
-
 **SECTION AInvestment services and activities**
 
 (1) Reception and transmission of orders in relation to one or more financial instruments;
@@ -3090,8 +2884,6 @@ SECTION A**Investment services and activities**
 
 (9) Operation of an OTF.
 
-SECTION B**Ancillary services**
-
 **SECTION BAncillary services**
 
 (1) Safekeeping and administration of financial instruments for the account of clients, including custodianship and related services such as cash/collateral management and excluding providing and maintaining securities accounts at the top tier level (‘central maintenance service’) referred to in point (2) of Section A of the Annex to the Regulation (EU) No 909/2014;
@@ -3107,8 +2899,6 @@ SECTION B**Ancillary services**
 (6) Services related to underwriting.
 
 (7) Investment services and activities as well as ancillary services of the type included under Section A or B of Annex 1 related to the underlying of the derivatives included under points (5), (6), (7) and (10) of Section C where these are connected to the provision of investment or ancillary services.
-
-SECTION C**Financial instruments**
 
 **SECTION CFinancial instruments**
 
@@ -3134,8 +2924,6 @@ SECTION C**Financial instruments**
 
 (11) Emission allowances consisting of any units recognised for compliance with the requirements of Directive 2003/87/EC (Emissions Trading Scheme).
 
-SECTION D**Data reporting services**
-
 **SECTION DData reporting services**
 
 (1) Operating an APA;
@@ -3148,17 +2936,13 @@ SECTION D**Data reporting services**
 
 ### ANNEX II
 
-**PROFESSIONAL CLIENTS FOR THE PURPOSE OF THIS DIRECTIVE**Professional client is a client who possesses the experience, knowledge and expertise to make its own investment decisions and properly assess the risks that it incurs. In order to be considered to be professional client, the client must comply with the following criteria:
+Professional client is a client who possesses the experience, knowledge and expertise to make its own investment decisions and properly assess the risks that it incurs. In order to be considered to be professional client, the client must comply with the following criteria:
 
 **PROFESSIONAL CLIENTS FOR THE PURPOSE OF THIS DIRECTIVE**
 
-Professional client is a client who possesses the experience, knowledge and expertise to make its own investment decisions and properly assess the risks that it incurs. In order to be considered to be professional client, the client must comply with the following criteria:
-
-I.CATEGORIES OF CLIENT WHO ARE CONSIDERED TO BE PROFESSIONALSThe following shall all be regarded as professionals in all investment services and activities and financial instruments for the purposes of the Directive.The entities referred to above are considered to be professionals. They must however be allowed to request non-professional treatment and investment firms may agree to provide a higher level of protection. Where the client of an investment firm is an undertaking referred to above, the investment firm must inform it prior to any provision of services that, on the basis of the information available to the investment firm, the client is deemed to be a professional client, and will be treated as such unless the investment firm and the client agree otherwise. The investment firm must also inform the customer that he can request a variation of the terms of the agreement in order to secure a higher degree of protection.It is the responsibility of the client, considered to be a professional client, to ask for a higher level of protection when it deems it is unable to properly assess or manage the risks involved.This higher level of protection will be provided when a client who is considered to be a professional enters into a written agreement with the investment firm to the effect that it shall not be treated as a professional for the purposes of the applicable conduct of business regime. Such agreement shall specify whether this applies to one or more particular services or transactions, or to one or more types of product or transaction.
+The following shall all be regarded as professionals in all investment services and activities and financial instruments for the purposes of the Directive.The entities referred to above are considered to be professionals. They must however be allowed to request non-professional treatment and investment firms may agree to provide a higher level of protection. Where the client of an investment firm is an undertaking referred to above, the investment firm must inform it prior to any provision of services that, on the basis of the information available to the investment firm, the client is deemed to be a professional client, and will be treated as such unless the investment firm and the client agree otherwise. The investment firm must also inform the customer that he can request a variation of the terms of the agreement in order to secure a higher degree of protection.It is the responsibility of the client, considered to be a professional client, to ask for a higher level of protection when it deems it is unable to properly assess or manage the risks involved.This higher level of protection will be provided when a client who is considered to be a professional enters into a written agreement with the investment firm to the effect that it shall not be treated as a professional for the purposes of the applicable conduct of business regime. Such agreement shall specify whether this applies to one or more particular services or transactions, or to one or more types of product or transaction.
 
 **I.CATEGORIES OF CLIENT WHO ARE CONSIDERED TO BE PROFESSIONALS**
-
-The following shall all be regarded as professionals in all investment services and activities and financial instruments for the purposes of the Directive.
 
 (1) Entities which are required to be authorised or regulated to operate in the financial markets. The list below shall be understood as including all authorised entities carrying out the characteristic activities of the entities mentioned: entities authorised by a Member State under a Directive, entities authorised or regulated by a Member State without reference to a Directive, and entities authorised or regulated by a third country: (a) Credit institutions; (b) Investment firms; (c) Other authorised or regulated financial institutions; (d) Insurance companies; (e) Collective investment schemes and management companies of such schemes; (f) Pension funds and management companies of such funds; (g) Commodity and commodity derivatives dealers; (h) Locals; (i) Other institutional investors;
 
@@ -3168,29 +2952,11 @@ The following shall all be regarded as professionals in all investment services 
 
 (4) Other institutional investors whose main activity is to invest in financial instruments, including entities dedicated to the securitisation of assets or other financing transactions.
 
-The entities referred to above are considered to be professionals. They must however be allowed to request non-professional treatment and investment firms may agree to provide a higher level of protection. Where the client of an investment firm is an undertaking referred to above, the investment firm must inform it prior to any provision of services that, on the basis of the information available to the investment firm, the client is deemed to be a professional client, and will be treated as such unless the investment firm and the client agree otherwise. The investment firm must also inform the customer that he can request a variation of the terms of the agreement in order to secure a higher degree of protection.
-
-It is the responsibility of the client, considered to be a professional client, to ask for a higher level of protection when it deems it is unable to properly assess or manage the risks involved.
-
-This higher level of protection will be provided when a client who is considered to be a professional enters into a written agreement with the investment firm to the effect that it shall not be treated as a professional for the purposes of the applicable conduct of business regime. Such agreement shall specify whether this applies to one or more particular services or transactions, or to one or more types of product or transaction.
-
-II.CLIENTS WHO MAY BE TREATED AS PROFESSIONALS ON REQUEST
-
 **II.CLIENTS WHO MAY BE TREATED AS PROFESSIONALS ON REQUEST**
 
-II.1.Identification criteriaClients other than those mentioned in section I, including public sector bodies, local public authorities, municipalities and private individual investors, may also be allowed to waive some of the protections afforded by the conduct of business rules.Investment firms shall therefore be allowed to treat any of those clients as professionals provided the relevant criteria and procedure mentioned below are fulfilled. Those clients shall not, however, be presumed to possess market knowledge and experience comparable to that of the categories listed in Section I.Any such waiver of the protection afforded by the standard conduct of business regime shall be considered to be valid only if an adequate assessment of the expertise, experience and knowledge of the client, undertaken by the investment firm, gives reasonable assurance, in light of the nature of the transactions or services envisaged, that the client is capable of making investment decisions and understanding the risks involved.The fitness test applied to managers and directors of entities licensed under Directives in the financial field could be regarded as an example of the assessment of expertise and knowledge. In the case of small entities, the person subject to that assessment shall be the person authorised to carry out transactions on behalf of the entity.In the course of that assessment, as a minimum, two of the following criteria shall be satisfied:Member States may adopt specific criteria for the assessment of the expertise and knowledge of municipalities and local public authorities requesting to be treated as professional clients. Those criteria can be alternative or additional to those listed in the fifth paragraph.
+Clients other than those mentioned in section I, including public sector bodies, local public authorities, municipalities and private individual investors, may also be allowed to waive some of the protections afforded by the conduct of business rules.Investment firms shall therefore be allowed to treat any of those clients as professionals provided the relevant criteria and procedure mentioned below are fulfilled. Those clients shall not, however, be presumed to possess market knowledge and experience comparable to that of the categories listed in Section I.Any such waiver of the protection afforded by the standard conduct of business regime shall be considered to be valid only if an adequate assessment of the expertise, experience and knowledge of the client, undertaken by the investment firm, gives reasonable assurance, in light of the nature of the transactions or services envisaged, that the client is capable of making investment decisions and understanding the risks involved.The fitness test applied to managers and directors of entities licensed under Directives in the financial field could be regarded as an example of the assessment of expertise and knowledge. In the case of small entities, the person subject to that assessment shall be the person authorised to carry out transactions on behalf of the entity.In the course of that assessment, as a minimum, two of the following criteria shall be satisfied:Member States may adopt specific criteria for the assessment of the expertise and knowledge of municipalities and local public authorities requesting to be treated as professional clients. Those criteria can be alternative or additional to those listed in the fifth paragraph.
 
 **II.1.Identification criteria**
-
-Clients other than those mentioned in section I, including public sector bodies, local public authorities, municipalities and private individual investors, may also be allowed to waive some of the protections afforded by the conduct of business rules.
-
-Investment firms shall therefore be allowed to treat any of those clients as professionals provided the relevant criteria and procedure mentioned below are fulfilled. Those clients shall not, however, be presumed to possess market knowledge and experience comparable to that of the categories listed in Section I.
-
-Any such waiver of the protection afforded by the standard conduct of business regime shall be considered to be valid only if an adequate assessment of the expertise, experience and knowledge of the client, undertaken by the investment firm, gives reasonable assurance, in light of the nature of the transactions or services envisaged, that the client is capable of making investment decisions and understanding the risks involved.
-
-The fitness test applied to managers and directors of entities licensed under Directives in the financial field could be regarded as an example of the assessment of expertise and knowledge. In the case of small entities, the person subject to that assessment shall be the person authorised to carry out transactions on behalf of the entity.
-
-In the course of that assessment, as a minimum, two of the following criteria shall be satisfied:
 
 - the client has carried out transactions, in significant size, on the relevant market at an average frequency of 10 per quarter over the previous four quarters, the client has carried out transactions, in significant size, on the relevant market at an average frequency of 10 per quarter over the previous four quarters,
 
@@ -3198,13 +2964,9 @@ In the course of that assessment, as a minimum, two of the following criteria sh
 
 - the client works or has worked in the financial sector for at least one year in a professional position, which requires knowledge of the transactions or services envisaged. the client works or has worked in the financial sector for at least one year in a professional position, which requires knowledge of the transactions or services envisaged.
 
-Member States may adopt specific criteria for the assessment of the expertise and knowledge of municipalities and local public authorities requesting to be treated as professional clients. Those criteria can be alternative or additional to those listed in the fifth paragraph.
-
-II.2.ProcedureThose clients may waive the benefit of the detailed rules of conduct only where the following procedure is followed:Before deciding to accept any request for waiver, investment firms must be required to take all reasonable steps to ensure that the client requesting to be treated as a professional client meets the relevant requirements stated in Section II.1.However, if clients have already been categorised as professionals under parameters and procedures similar to those referred to above, it is not intended that their relationships with investment firms shall be affected by any new rules adopted pursuant to this Annex.Firms must implement appropriate written internal policies and procedures to categorise clients. Professional clients are responsible for keeping the investment firm informed about any change, which could affect their current categorisation. Should the investment firm become aware however that the client no longer fulfils the initial conditions, which made him eligible for a professional treatment, the investment firm shall take appropriate action.
+Those clients may waive the benefit of the detailed rules of conduct only where the following procedure is followed:Before deciding to accept any request for waiver, investment firms must be required to take all reasonable steps to ensure that the client requesting to be treated as a professional client meets the relevant requirements stated in Section II.1.However, if clients have already been categorised as professionals under parameters and procedures similar to those referred to above, it is not intended that their relationships with investment firms shall be affected by any new rules adopted pursuant to this Annex.Firms must implement appropriate written internal policies and procedures to categorise clients. Professional clients are responsible for keeping the investment firm informed about any change, which could affect their current categorisation. Should the investment firm become aware however that the client no longer fulfils the initial conditions, which made him eligible for a professional treatment, the investment firm shall take appropriate action.
 
 **II.2.Procedure**
-
-Those clients may waive the benefit of the detailed rules of conduct only where the following procedure is followed:
 
 - they must state in writing to the investment firm that they wish to be treated as a professional client, either generally or in respect of a particular investment service or transaction, or type of transaction or product, they must state in writing to the investment firm that they wish to be treated as a professional client, either generally or in respect of a particular investment service or transaction, or type of transaction or product,
 
@@ -3212,50 +2974,28 @@ Those clients may waive the benefit of the detailed rules of conduct only where 
 
 - they must state in writing, in a separate document from the contract, that they are aware of the consequences of losing such protections. they must state in writing, in a separate document from the contract, that they are aware of the consequences of losing such protections.
 
-Before deciding to accept any request for waiver, investment firms must be required to take all reasonable steps to ensure that the client requesting to be treated as a professional client meets the relevant requirements stated in Section II.1.
-
-However, if clients have already been categorised as professionals under parameters and procedures similar to those referred to above, it is not intended that their relationships with investment firms shall be affected by any new rules adopted pursuant to this Annex.
-
-Firms must implement appropriate written internal policies and procedures to categorise clients. Professional clients are responsible for keeping the investment firm informed about any change, which could affect their current categorisation. Should the investment firm become aware however that the client no longer fulfils the initial conditions, which made him eligible for a professional treatment, the investment firm shall take appropriate action.
-
 <a id="anx_iii"></a>
 
 ### ANNEX III
 
+Directive 2004/39/EC of the European Parliament and of the Council (OJ L 145, 30.4.2004, p. 1).Directive 2006/31/EC of the European Parliament and of the Council (OJ L 114, 27.4.2006, p. 60).Directive 2007/44/EC of the European Parliament and of the Council (OJ L 247, 21.9.2007, p. 1).Directive 2008/10/EC of the European Parliament and of the Council (OJ L 76, 19.3.2008, p. 33).Directive 2010/78/EC of the European Parliament and of the Council (OJ L 331, 15.12.2010, p. 120).
+
 **PART ARepealed Directive with list of its successive amendments(referred to in Article 94)**
 
-Directive 2004/39/EC of the European Parliament and of the Council (OJ L 145, 30.4.2004, p. 1).
-
-Directive 2006/31/EC of the European Parliament and of the Council (OJ L 114, 27.4.2006, p. 60).
-
-Directive 2007/44/EC of the European Parliament and of the Council (OJ L 247, 21.9.2007, p. 1).
-
-Directive 2008/10/EC of the European Parliament and of the Council (OJ L 76, 19.3.2008, p. 33).
-
-Directive 2010/78/EC of the European Parliament and of the Council (OJ L 331, 15.12.2010, p. 120).
-
-PART B**List of time-limits for transposition into national law**(referred to in Article 94)Directive 2004/39/ECDirective 2006/31/ECDirective 2007/44/ECDirective 2010/78/EC
+Directive 2004/39/ECDirective 2006/31/ECDirective 2007/44/ECDirective 2010/78/EC
 
 **PART BList of time-limits for transposition into national law(referred to in Article 94)**
 
-Directive 2004/39/EC
-
 | Transposition period | 31 January 2007 |
 | --- | --- |
 | Implementation period | 1 November 2007 |
 
-Directive 2006/31/EC
-
 | Transposition period | 31 January 2007 |
 | --- | --- |
 | Implementation period | 1 November 2007 |
-
-Directive 2007/44/EC
 
 | Transposition period | 21 March 2009 |
 | --- | --- |
-
-Directive 2010/78/EC
 
 | Transposition period | 31 December 2011 |
 | --- | --- |
