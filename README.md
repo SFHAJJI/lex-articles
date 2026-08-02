@@ -5,9 +5,17 @@ Clean Markdown and structured JSON for every provision of every consolidated
 version — with validity dates, stable publisher-minted IDs, and a hash chain
 back to the exact bytes the state published.
 
-**1,212 works · 2,912 derived versions · 88,815 provisions · 102,371 distinct
+**1,212 works · 2,926 derived versions · 88,981 provisions · 102,773 distinct
 text states** (Luxembourg: full consolidated corpus, 1849→2030 · EU: GDPR,
-DORA, AI Act, NIS2, MiFID II, CRR, PSD2, SFDR).
+DORA, AI Act, NIS2, MiFID II, CRR, PSD2, SFDR — full text from the Publications
+Office's Formex 4 structural XML).
+
+**[Examples](examples/)** ·
+**[Schema contract](SCHEMA.md)** ·
+**[Releases (JSONL + parquet)](https://github.com/SFHAJJI/lex-articles/releases)** ·
+**[Live demo](https://law.soufien.lu)** ·
+**[MCP endpoint](https://law.soufien.lu/mcp)** ·
+**[Engine](https://github.com/SFHAJJI/lex)**
 
 ## Use it with AI in 60 seconds
 
@@ -21,14 +29,14 @@ for p in doc["provisions"]:
     print(p["provision_id"], p["article_valid_from"], p["text_md"][:80])
 ```
 
-Or skip cloning entirely — one flat file, one line per provision-version
+Or skip cloning entirely — one flat file, one row per provision-version
 ([release assets](https://github.com/SFHAJJI/lex-articles/releases), licence
-inline in every row):
+inline in every row, JSONL.gz and parquet):
 
 ```sql
 -- DuckDB, zero install beyond duckdb itself
 SELECT anchor, valid_from, valid_to, text_md
-FROM read_json_auto('https://github.com/SFHAJJI/lex-articles/releases/latest/download/lu-legilux-provisions.jsonl.gz')
+FROM read_parquet('https://github.com/SFHAJJI/lex-articles/releases/latest/download/lu-legilux-provisions.parquet')
 WHERE lex_id LIKE 'lu-legilux:rgd-2023-07-21-a444%'
   AND valid_from <= '2023-08-01' AND (valid_to IS NULL OR valid_to >= '2023-08-01');
 ```
@@ -40,6 +48,10 @@ key) — 8 tools including per-article `as_of` (outline/select modes) and
 ```
 claude mcp add --transport http lex https://law.soufien.lu/mcp
 ```
+
+Five runnable, dependency-free scripts live in [examples/](examples/) — load,
+point-in-time resolution with honest refusals, hash-chain verification, a raw
+MCP client, and dataset streaming.
 
 ## What a question about time looks like
 
@@ -58,17 +70,28 @@ had, as validity intervals:
 detected renumberings ("art_5 became art_5bis on 2023-10-26, identical text") —
 the signal that keeps an obligation register attached to the right provision.
 
-## Why you can trust it
+## Why you can trust it (collection & processing)
 
 This repo is the **consumption layer**. The **evidence layer** —
 [lex-corpus-lu-legilux](https://github.com/SFHAJJI/lex-corpus-lu-legilux) and
 [lex-corpus-eu-eurlex](https://github.com/SFHAJJI/lex-corpus-eu-eurlex) — holds
-the verbatim files the publishers serve, sha256-hashed, append-only. Every
-`text_sha256` here chains to a verbatim-file hash there; extraction is
-deterministic, versioned, immutable-per-profile code (never an LLM). Re-run the
-pinned open-source extractor on the state's bytes and you get these bytes.
-See [SCHEMA.md](SCHEMA.md) for the full contract (IDs, spans, profiles,
-validity semantics).
+the verbatim files the publishers serve (Akoma Ntoso XML for Luxembourg,
+Formex 4 / XHTML for the EU), sha256-hashed, append-only, fetched only from
+official robots-permitted channels. Every `text_sha256` here chains to a
+verbatim-file hash there; extraction is deterministic, versioned,
+immutable-per-profile code (never an LLM). Re-run the pinned open-source
+extractor on the state's bytes and you get these bytes —
+`examples/03_verify_hash_chain.py` does it in 25 lines. See
+[SCHEMA.md](SCHEMA.md) for the full contract (IDs, spans, profiles, validity
+semantics).
+
+## Maintenance
+
+Regenerated **nightly** when the law changes, by the same pipeline that serves
+[law.soufien.lu](https://law.soufien.lu). A determinism guard blocks any commit
+where derived files changed without a corpus change (extractor drift can never
+masquerade as legislation). HEAD is the contract; release assets are rebuilt on
+change.
 
 ## Layout
 
@@ -80,6 +103,15 @@ catalog.json                                   # every work, both publishers
   versions/<valid_from>/fr.md                  # clean Markdown, frontmatter
   versions/<valid_from>/fr.json                # structured provisions
 ```
+
+## Contributing & citing
+
+Gaps, mis-extractions, or a jurisdiction you want covered — open an issue.
+Extraction improvements ship as **new** profiles beside the old (published
+profiles are immutable, so pinned citations verify forever). If you use this
+dataset in research or a product, cite it as *"Lex — point-in-time Luxembourg
+and EU law (github.com/SFHAJJI/lex-articles)"* and keep the per-row publisher
+attribution.
 
 ## Licence & attribution
 
