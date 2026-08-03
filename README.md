@@ -132,3 +132,9 @@ it never interprets.
 
 Built nightly by [lex](https://github.com/SFHAJJI/lex) · browse and time-travel
 at [law.soufien.lu](https://law.soufien.lu)
+
+## Support
+
+This is free, open and maintained on my own time — and it stays that way whatever you decide.
+If it saved you an afternoon, you can [buy me a coffee ☕](https://buymeacoffee.com/shajji).
+Starring the repo helps just as much, and costs nothing.
