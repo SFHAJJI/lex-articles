@@ -1,4 +1,4 @@
-# lex-articles schema — `lex-articles/1`
+# lex-articles schema, `lex-articles/1`
 
 This repository is the **consumption layer** of Lex: clean, per-provision,
 point-in-time machine-readable law, deterministically derived from the verbatim
@@ -57,17 +57,17 @@ new profile is a new, tagged generation. Citations pinned under a profile verify
 under that profile, forever. Every `*.json` records its profile in
 `generator.profile`; `history.json` lists the profiles that produced it.
 
-- **LU (`akn-lu/1`)** — structural: article boundaries, anchors, per-article
+- **LU (`akn-lu/1`)**, structural: article boundaries, anchors, per-article
   ELIs and applicability dates are the publisher's own (Akoma Ntoso eIds +
   JOLUX metadata).
-- **EU (`fmx4-eu/1`)** — structural: Formex 4 is the Publications Office's own
+- **EU (`fmx4-eu/1`)**, structural: Formex 4 is the Publications Office's own
   production XML; `ARTICLE`/`PARAG` boundaries and numbering are publisher
   markup. Anchors continue the `xhtml-eu/1` convention (`art_N`, `anx_<roman>`)
   so permalinks and history states survive the profile switch. A work uses
   `fmx4-eu/1` only when every body-bearing version has a Formex manifestation;
   the evidence lives in the corpus repo under `versions/{date}/en.fmx4/`
   (verbatim zip members, one sha256 observation each).
-- **EU fallback (`xhtml-eu/1`)** — structural-in-presentation: boundaries follow
+- **EU fallback (`xhtml-eu/1`)**, structural-in-presentation: boundaries follow
   the publisher's `eli-subdivision` fragment identifiers in Cellar's
   consolidated XHTML (or its older flat format). Still used for works where a
   Formex manifestation is missing upstream for at least one version.
@@ -82,8 +82,8 @@ tests on every build.
 ## Validity: two truths, disclosed
 
 - `article_valid_from` (provision level) is the **publisher-asserted** valid
-  time (`dateApplicability`) — what a court cares about.
-- `history.json` intervals are **observed text identity** — what the bytes say,
+  time (`dateApplicability`), what a court cares about.
+- `history.json` intervals are **observed text identity**, what the bytes say,
   grouped by `text_sha256` across versions.
 
 Where they disagree, the state carries `validity_conflict: true`. Disagreement
@@ -94,7 +94,7 @@ contradict its own text is exactly what this corpus exists to surface.
 
 Per anchor: the distinct texts the provision has had, as validity intervals
 (`valid_from`, `valid_to`, `text_sha256`, `in_version`). Per version
-transition: `anchor_events` — `inserted`, `removed`, and `renumbered` (emitted
+transition: `anchor_events`, `inserted`, `removed`, and `renumbered` (emitted
 only when the text-hash match between one removed and one inserted anchor is
 unique within the transition; identical boilerplate stays honest
 removed/inserted).
@@ -109,7 +109,7 @@ removed/inserted).
   "type": "article | annex",
   "num": "Art. 1er.",
   "heading": null,
-  "path": ["Chapitre Ier — Objet"],
+  "path": ["Chapitre Ier, Objet"],
   "article_valid_from": "2023-07-16",
   "text_md": "…clean Markdown; amendment markers and hyperlinks are structured fields, never inline…",
   "text_sha256": "…",
@@ -120,10 +120,10 @@ removed/inserted).
 
 ## Licensing
 
-- LU content: **CC-BY-4.0** (Legilux — Ministère d'État, Service central de
+- LU content: **CC-BY-4.0** (Legilux, Ministère d'État, Service central de
   législation). Attribution rides inside every file.
 - EU content: reuse with attribution per **Commission Decision 2011/833/EU**;
-  consolidated texts have no legal effect — only the Official Journal is
+  consolidated texts have no legal effect, only the Official Journal is
   authentic.
 - This derived compilation: **CC-BY-4.0**.
 
