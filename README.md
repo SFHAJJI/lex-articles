@@ -2,19 +2,19 @@
 
 **Machine-readable Luxembourg + EU law, per article, point-in-time, verifiable.**
 Clean Markdown and structured JSON for every provision of every consolidated
-version — with validity dates, stable publisher-minted IDs, and a hash chain
+version, with validity dates, stable publisher-minted IDs, and a hash chain
 back to the exact bytes the state published.
 
 **1,212 works · 2,926 derived versions · 88,981 provisions · 102,773 distinct
 text states.**
 
-- **Luxembourg** — every act the state maintains a *consolidated* edition for,
+- **Luxembourg**, every act the state maintains a *consolidated* edition for,
   1849→2030: 1,206 of 1,399 works, 2,882 of 4,644 versions. The remainder are
   versions for which the publisher offers no machine-readable text; they keep
   their dates and a link to the official source rather than being dropped.
-- **EU** — six acts in full text from the Publications Office's Formex 4
+- **EU**, six acts in full text from the Publications Office's Formex 4
   structural XML: **GDPR, CRR, PSD2, MiFID II, NIS2, SFDR**. **DORA and the AI
-  Act are tracked but not included** — no consolidated body is retrievable for
+  Act are tracked but not included**, no consolidated body is retrievable for
   them, so Lex holds their record and dates only and answers `text_withheld`
   rather than guessing.
 
@@ -37,7 +37,7 @@ for p in doc["provisions"]:
     print(p["provision_id"], p["article_valid_from"], p["text_md"][:80])
 ```
 
-Or skip cloning entirely — one flat file, one row per provision-version
+Or skip cloning entirely, one flat file, one row per provision-version
 ([release assets](https://github.com/SFHAJJI/lex-articles/releases), licence
 inline in every row, JSONL.gz and parquet):
 
@@ -50,21 +50,21 @@ WHERE lex_id LIKE 'lu-legilux:rgd-2023-07-21-a444%'
 ```
 
 Or talk to the same data through the hosted MCP endpoint (any MCP client, no
-key) — 9 tools including per-article `as_of` (outline/select modes) and
+key), 9 tools including per-article `as_of` (outline/select modes) and
 `article_history`:
 
 ```
 claude mcp add --transport http lex https://law.soufien.lu/mcp
 ```
 
-Five runnable, dependency-free scripts live in [examples/](examples/) — load,
+Five runnable, dependency-free scripts live in [examples/](examples/), load,
 point-in-time resolution with honest refusals, hash-chain verification, a raw
 MCP client, and dataset streaming.
 
 ## What a question about time looks like
 
 *"What has Article 2 of this regulation said over its life?"* is a file read,
-not a computation — `history.json` holds every distinct text a provision has
+not a computation, `history.json` holds every distinct text a provision has
 had, as validity intervals:
 
 ```json
@@ -75,21 +75,18 @@ had, as validity intervals:
 ```
 
 `anchor_events` additionally reports insertions, removals, and mechanically
-detected renumberings ("art_5 became art_5bis on 2023-10-26, identical text") —
-the signal that keeps an obligation register attached to the right provision.
+detected renumberings ("art_5 became art_5bis on 2023-10-26, identical text"), the signal that keeps an obligation register attached to the right provision.
 
 ## Why you can trust it (collection & processing)
 
-This repo is the **consumption layer**. The **evidence layer** —
-[lex-corpus-lu-legilux](https://github.com/SFHAJJI/lex-corpus-lu-legilux) and
-[lex-corpus-eu-eurlex](https://github.com/SFHAJJI/lex-corpus-eu-eurlex) — holds
+This repo is the **consumption layer**. The **evidence layer**, [lex-corpus-lu-legilux](https://github.com/SFHAJJI/lex-corpus-lu-legilux) and
+[lex-corpus-eu-eurlex](https://github.com/SFHAJJI/lex-corpus-eu-eurlex), holds
 the verbatim files the publishers serve (Akoma Ntoso XML for Luxembourg,
 Formex 4 / XHTML for the EU), sha256-hashed, append-only, fetched only from
 official robots-permitted channels. Every `text_sha256` here chains to a
 verbatim-file hash there; extraction is deterministic, versioned,
 immutable-per-profile code (never an LLM). Re-run the pinned open-source
-extractor on the state's bytes and you get these bytes —
-`examples/03_verify_hash_chain.py` does it in 25 lines. See
+extractor on the state's bytes and you get these bytes, `examples/03_verify_hash_chain.py` does it in 25 lines. See
 [SCHEMA.md](SCHEMA.md) for the full contract (IDs, spans, profiles, validity
 semantics).
 
@@ -107,26 +104,26 @@ change.
 catalog.json                                   # every work, both publishers
 <publisher>/works/<slug>/
   work.json        # versions, languages, anchors, relations (reserved)
-  history.json     # per-anchor text states + anchor_events — the time axis
+  history.json     # per-anchor text states + anchor_events, the time axis
   versions/<valid_from>/fr.md                  # clean Markdown, frontmatter
   versions/<valid_from>/fr.json                # structured provisions
 ```
 
 ## Contributing & citing
 
-Gaps, mis-extractions, or a jurisdiction you want covered — open an issue.
+Gaps, mis-extractions, or a jurisdiction you want covered, open an issue.
 Extraction improvements ship as **new** profiles beside the old (published
 profiles are immutable, so pinned citations verify forever). If you use this
-dataset in research or a product, cite it as *"Lex — point-in-time Luxembourg
+dataset in research or a product, cite it as *"Lex, point-in-time Luxembourg
 and EU law (github.com/SFHAJJI/lex-articles)"* and keep the per-row publisher
 attribution.
 
 ## Licence & attribution
 
 Derived compilation: **CC-BY-4.0**. Luxembourg content: **CC-BY-4.0**
-(Legilux — Ministère d'État, Service central de législation). EU content:
+(Legilux, Ministère d'État, Service central de législation). EU content:
 reuse with attribution per Commission Decision 2011/833/EU; **consolidated
-texts have no legal effect** — only the Journal officiel / Official Journal is
+texts have no legal effect**, only the Journal officiel / Official Journal is
 authentic. Attribution rides inside every file. Lex states what the rule *was*;
 it never interprets.
 
@@ -135,6 +132,9 @@ at [law.soufien.lu](https://law.soufien.lu)
 
 ## Support
 
-This is free, open and maintained on my own time — and it stays that way whatever you decide.
-If it saved you an afternoon, you can [buy me a coffee ☕](https://buymeacoffee.com/shajji).
-Starring the repo helps just as much, and costs nothing.
+This is free and open, and it stays that way whatever you decide. It is also not free to run:
+the live site, the nightly jobs and the storage sit on Azure infrastructure I pay for out of
+pocket, and I maintain it on my own time.
+
+If it saved you an afternoon, you can [buy me a coffee ☕](https://buymeacoffee.com/shajji)
+and put it towards the hosting bill. Starring the repo helps just as much, and costs nothing.
