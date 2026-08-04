@@ -1,16 +1,16 @@
 ---
-lex_id: 'lu-legilux:loi-1980-03-07-n1:2023-02-01'
+lex_id: 'lu-legilux:loi-1980-03-07-n1:2026-07-05'
 title: 'Version consolidée applicable au 05/07/2026 : Loi du 7 mars 1980 sur l''organisation judiciaire.'
-valid_from: '2023-02-01'
-valid_to: '2023-03-06'
-source: 'https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20230201/fr'
-source_sha256: '0d787ac4d7b53b94ca8b735576152c14327ae7625355d11461a3921155951671'
+valid_from: '2026-07-05'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260705'
+source_sha256: '98c8a67c5b8d2213b58a4064e20b5a612eb368079cd336a8c7df1d41cc14e6f3'
 license: 'CC-BY-4.0'
 attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
 generator: 'akn-lu/1 · lex derive'
 ---
 
-## **Titre Ier** — **— Du pouvoir judiciaire**
+## **Titre Ier** — **Du pouvoir judiciaire**
 
 ### Chapitre I. — Des justices de paix
 
@@ -26,9 +26,9 @@ La justice de paix de Luxembourg comprend les cantons de Luxembourg, Grevenmache
 
 ### Art. 2.
 
-La justice de paix de Luxembourg est composée d’un juge de paix directeur, de deux juges de paix directeurs adjoints et de quinze juges de paix, celle d’Esch-sur-Alzette d’un juge de paix directeur, d’un juge de paix directeur adjoint et de huit juges de paix, celle de Diekirch d’un juge de paix directeur, d’un juge de paix directeur adjoint et de trois juges de paix.
+**(1)** La justice de paix de Luxembourg est composée d’un juge de paix directeur, de deux juges de paix directeurs adjoints et de quinze juges de paix, celle d’Esch-sur-Alzette d’un juge de paix directeur, d’un juge de paix directeur adjoint et de huit juges de paix, celle de Diekirch d’un juge de paix directeur, d’un juge de paix directeur adjoint et de quatre juges de paix.
 
-Les juges de paix directeurs administrent la justice de paix, répartissent le service entre les juges et assurent le bon fonctionnement du service.
+**(2)** Les juges de paix directeurs administrent la justice de paix, répartissent le service entre les juges et assurent le bon fonctionnement du service.
 
 <a id="art_3"></a>
 
@@ -84,15 +84,17 @@ En matière de police l’arrêt de renvoi est rendu sur la réquisition du proc
 
 ### Art. 8.
 
-Il y a dans chaque justice de paix un greffier en chef et des greffiers selon les besoins du service. D’autres fonctionnaires ainsi que des employés peuvent y être affectés.
+**(1)** Il y a dans chaque justice de paix un greffe.
+
+**(2)** Le greffe est dirigé par un greffier en chef et comprend des greffiers selon les besoins du service.
+
+**(3)** D’autres fonctionnaires, employés et salariés de l’État peuvent être affectés au greffe.
 
 <a id="art_9"></a>
 
 ### Art. 9.
 
-Nul ne peut remplir les fonctions de greffier en chef d’une justice de paix, s’il n’est pas âgé de vingt-cinq ans accomplis. L’affectation à l’emploi de greffier en chef et la désaffectation sont faites par le ministre de la justice, sur avis du procureur général d’Etat et du juge de paix directeur.
-
-L’affectation à l’emploi de greffier et la désaffectation sont faites par le procureur général d’Etat, sur avis du juge de paix directeur.
+Les affectations et désaffectations des agents du greffe des justices de paix sont faites par le procureur général d’État après consultation du juge de paix directeur concerné.
 
 ### Chapitre II. — Des tribunaux d’arrondissement
 
@@ -106,21 +108,21 @@ Les tribunaux d’arrondissement de Luxembourg et de Diekirch sont maintenus ave
 
 ### Art. 11.
 
-**(1)** Le tribunal d’arrondissement de Luxembourg est composé d’un président, de quatre premiers vice-présidents, d’un juge d’instruction directeur, de vingt-sept vice-présidents, d’un juge directeur du tribunal de la jeunesse et des tutelles, de deux juges de la jeunesse, de trois juges des tutelles, de trente-sept premiers juges, de trente juges, d’un procureur d’État, de trois procureurs d’État adjoints, de sept substituts principaux, de quatorze premiers substituts et de quatorze substituts.
+**(1)** Le tribunal d’arrondissement de Luxembourg est composé d’un président, de quatre premiers vice-présidents, d’un juge d’instruction directeur, de trente-trois vice-présidents, d’un juge directeur du tribunal de la jeunesse et des tutelles, de trois juges de la jeunesse, de quatre juges des tutelles, de quarante-et-un premiers juges, de trente-neuf juges, d’un procureur d’État, de quatre procureurs d’État adjoints, de treize substituts principaux, de dix-huit premiers substituts et de dix-huit substituts.
 
 **(2)** Le greffe est dirigé par un greffier en chef et comprend des greffiers selon les besoins du service.
 
-D’autres fonctionnaires ou employés de l’État peuvent y être affectés.
+D’autres fonctionnaires, employés et salariés de l’État peuvent y être affectés.
 
 <a id="art_12"></a>
 
 ### Art. 12.
 
-**(1)** Le tribunal d’arrondissement de Diekirch est composé d’un président, d’un premier vice-président, d’un juge d’instruction directeur, de deux vice-présidents, d’un juge de la jeunesse, d’un juge des tutelles, de trois premiers juges, de trois juges, d’un procureur d’État, d’un procureur d’État adjoint, de deux substituts principaux, de deux premiers substituts et de deux substituts.
+**(1)** Le tribunal d’arrondissement de Diekirch est composé d’un président, de deux premiers vice-présidents, d’un juge d’instruction directeur, de quatre vice-présidents, d’un juge directeur du tribunal de la jeunesse et des tutelles, d’un juge de la jeunesse, d’un juge des tutelles, de quatre premiers juges, de cinq juges, d’un procureur d’État, d’un procureur d’État adjoint, de deux substituts principaux, de trois premiers substituts et de quatre substituts.
 
 **(2)** Le greffe est dirigé par un greffier en chef et comprend des greffiers selon les besoins du service.
 
-D’autres fonctionnaires ou employés de l’État peuvent y être affectés.
+D’autres fonctionnaires, employés et salariés de l’État peuvent y être affectés.
 
 <a id="art_13"></a>
 
@@ -141,47 +143,65 @@ Pendant la durée de la délégation, le juge reste valablement saisi des affair
 
 ### Art. 13bis.
 
-Le procureur d’État auprès du tribunal d’arrondissement de Luxembourg désigne plus particulièrement les magistrats de son parquet, qui traitent, sous la direction d’un procureur d’État adjoint, les affaires économiques et financières.
+**(1)** Le parquet du tribunal d’arrondissement de Luxembourg et le parquet du tribunal d’arrondissement de Diekirch sont subdivisés en départements.
+
+**(2)** Le nombre de départements et leur spécialisation sont déterminés par le procureur d’État.
+
+**(3)** La fonction de chef de département est exercée par un procureur d’État adjoint ou, à défaut, par un substitut principal.
+
+**(4)** Le procureur d’État désigne, pour chaque département, les magistrats et les secrétaires qui sont spécialement chargés des affaires de la compétence du département.
 
 <a id="art_14"></a>
 
 ### Art. 14.
 
-(...)
+**(1)** Un département économique et financier est créé au sein du parquet du tribunal d’arrondissement de Luxembourg et du parquet du tribunal d’arrondissement de Diekirch.
+
+**(2)** Un service de lutte contre le blanchiment de capitaux et le financement du terrorisme est créé au sein du parquet du tribunal d’arrondissement de Luxembourg.
+
+**(3)** Les magistrats affectés au département et service visés aux paragraphes 1er et 2 sont placés sous la direction et la surveillance d’un procureur d’État adjoint.
 
 <a id="art_15"></a>
 
 ### Art. 15.
 
-**(1)** Il y a, dans chaque tribunal d’arrondissement, une section dénommée tribunal de la jeunesse et des tutelles qui est la seule à connaître des affaires qui lui sont attribuées par la législation sur la protection de la jeunesse et par les dispositions légales relatives aux administrations légales, aux tutelles et autres mesures de protection à l’égard des incapables.
+**(1)** Il y a, dans chaque tribunal d’arrondissement, une section dénommée « tribunal de la jeunesse et des tutelles », qui est la seule à connaître des affaires qui lui sont attribuées par la législation sur la protection de la jeunesse et par les dispositions légales relatives aux administrations légales, aux tutelles et autres mesures de protection à l’égard des incapables.
 
-Le tribunal de la jeunesse et des tutelles de Luxembourg est composé d’un juge directeur du tribunal de la jeunesse et des tutelles, de deux juges de la jeunesse, de deux juges des tutelles et de deux substituts.
+**(2)** Le tribunal de la jeunesse et des tutelles de Luxembourg est composé d’un juge directeur du tribunal de la jeunesse et des tutelles, de trois juges de la jeunesse et de quatre juges des tutelles.
 
-Le tribunal de la jeunesse et des tutelles de Diekirch est composé d’un juge de la jeunesse, d’un juge des tutelles et d’un substitut.
+Le tribunal de la jeunesse et des tutelles de Diekirch est composé d’un juge directeur du tribunal de la jeunesse et des tutelles, d’un juge de la jeunesse et d’un juge des tutelles.
 
-**(2)** Les juges de la jeunesse et les juges des tutelles sont nommés par le Grand-Duc parmi les magistrats qui ont au moins deux ans de fonctions judiciaires effectives ou de service au parquet.
+**(3)** Pour pouvoir être nommé juge directeur du tribunal de la jeunesse et des tutelles, il faut exercer la fonction de juge de la jeunesse ou de juge des tutelles.
 
-Le juge directeur est nommé par le Grand-Duc parmi les juges du tribunal de la jeunesse et des tutelles bénéficiant d’une certaine expérience.
+Le juge de la jeunesse et le juge des tutelles se suppléent mutuellement.
 
-Le juge de la jeunesse et le juge des tutelles se suppléent mutuellement. En cas d’empêchement tant des juges de la jeunesse que des juges des tutelles, leurs fonctions sont exercées par un magistrat désigné à cet effet par le président du tribunal d’arrondissement.
+En cas d’empêchement tant des juges de la jeunesse que des juges des tutelles, leurs fonctions sont exercées par un magistrat désigné à cet effet par le président du tribunal d’arrondissement.
 
-**(3)** Les substituts sont désignés par le procureur d’État parmi les magistrats du parquet près le tribunal d’arrondissement.
+**(4)** Le procureur d’État désigne annuellement les magistrats de son parquet qui exercent les fonctions du ministère public auprès du tribunal de la jeunesse et des tutelles.
 
-Ils exercent également les fonctions du ministère public près le tribunal d’arrondissement chaque fois que celui-ci est appelé à statuer sur les mesures provisoires relatives à la personne, aux aliments et aux biens d’enfants mineurs non émancipés dont les père et mère sont en instance de divorce ou de séparation de corps.
-
-Un autre magistrat du parquet est désigné par le procureur d’État pour remplacer les titulaires en cas d’empêchement.
+Ces magistrats exercent également les fonctions du ministère public auprès du tribunal d’arrondissement chaque fois que celui-ci est appelé à statuer sur les mesures provisoires relatives à la personne, aux aliments et aux biens d’enfants mineurs non émancipés dont les parents sont en instance de divorce ou de séparation de corps.
 
 <a id="art_15-1"></a>
 
 ### Art. 15-1.
 
-Parmi les magistrats formant le tribunal d’arrondissement de Luxembourg il y a quatorze juges aux affaires familiales dont deux vice-présidents.
+**(1)** Parmi les magistrats formant le tribunal d’arrondissement de Luxembourg, il y a quatorze juges aux affaires familiales, dont un premier vice-président et deux vice-présidents.
 
-Parmi les magistrats formant le tribunal d’arrondissement de Diekirch il y a trois juges aux affaires familiales dont un vice-président.
+Parmi les magistrats formant le tribunal d’arrondissement de Diekirch, il y a quatre juges aux affaires familiales, dont un premier vice-président et un vice-président.
 
-Les juges aux affaires familiales sont nommés par le Grand-Duc parmi les magistrats qui ont au moins deux ans de fonctions judiciaires effectives ou de service au parquet.
+Pour pouvoir être nommé premier vice-président et vice-président en charge des affaires familiales, il faut exercer la fonction de juge aux affaires familiales.
 
-Les juges aux affaires familiales se suppléent mutuellement. En cas d’empêchement d’un juge aux affaires familiales, ses fonctions sont exercées par un autre juge aux affaires familiales ou bien par un magistrat désigné à cet effet par le président du tribunal d’arrondissement.
+**(2)** Le juge directeur aux affaires familiales est chargé de la direction du service en charge des affaires familiales.
+
+Il répartit les affaires entre les juges aux affaires familiales.
+
+Il exerce la fonction de juge aux affaires familiales.
+
+La fonction de juge directeur aux affaires familiales est exercée par un premier vice-président ou, à défaut, par un vice-président.
+
+**(3)** Les juges aux affaires familiales se suppléent mutuellement.
+
+En cas d’empêchement d’un juge aux affaires familiales, ses fonctions sont exercées par un autre juge aux affaires familiales ou par un magistrat désigné à cet effet par le président du tribunal d’arrondissement.
 
 <a id="art_16"></a>
 
@@ -200,27 +220,35 @@ Pour être nommé à des fonctions judiciaires, il faut:
 
 ### Art. 17.
 
-Pour pouvoir être nommé président, procureur d’Etat, premier vice-président ou vice-président, il faut être âgé de trente ans accomplis et avoir exercé des fonctions judiciaires ou suivi le barreau comme avocat inscrit, pendant au moins trois ans.
+Le juge d’instruction directeur est chargé de la direction du cabinet d’instruction.
 
-Sont assimilées aux fonctions judiciaires: les fonctions de membre du Gouvernement, de chef d’administration et de conseiller de Gouvernement.
+Il répartit les affaires entre les juges d’instruction.
+
+Il exerce la fonction de juge d’instruction.
 
 <a id="art_18"></a>
 
 ### Art. 18.
 
-Le juge d’instruction directeur est choisi par le Grand-Duc parmi les magistrats ayant une expérience d’au moins trois ans comme juge d’instruction.
+**(1)** Le cabinet d’instruction du tribunal d’arrondissement de Luxembourg et le cabinet d’instruction du tribunal d’arrondissement de Diekirch sont subdivisés en départements.
 
-Il est chargé de la direction du cabinet des juges d’instruction et fait la répartition des affaires entre les juges chargés de l’information. Il exerce lui-même les fonctions de juge d’instruction.
+**(2)** Le nombre de départements et leur spécialisation sont déterminés par le juge d’instruction directeur.
+
+**(3)** La fonction de chef de département est exercée par un vice-président ou, à défaut, par un premier juge.
+
+**(4)** Le juge d’instruction directeur désigne, pour chaque département, les magistrats et les greffiers qui sont spécialement chargés des affaires de la compétence du service.
 
 <a id="art_19"></a>
 
 ### Art. 19.
 
-**(1)** En dehors du juge d’instruction directeur visé à l’article 11, il y a quinze juges d’instruction près le tribunal d’arrondissement de Luxembourg, dont six vice-présidents.
+**(1)** En dehors du juge d’instruction directeur visé à l’article 11, il y a vingt-et-un juges d’instruction près le tribunal d’arrondissement de Luxembourg, dont sept vice-présidents.
 
-En dehors du juge d’instruction directeur visé à l’article 12, il y a un juge d’instruction près le tribunal d’arrondissement de Diekirch.
+En dehors du juge d’instruction directeur visé à l’article 12, il y a deux juges d’instruction près le tribunal d’arrondissement de Diekirch, dont un vice-président.
 
-**(2)** Les juges d’instruction sont choisis par le Grand-Duc, parmi les vice-présidents, les premiers juges et les juges, chaque fois pour une période de trois années.
+Pour pouvoir être nommé juge d’instruction directeur et vice-président au sein du cabinet d’instruction, il faut exercer la fonction de juge d’instruction.
+
+**(2)** Les juges d’instruction sont nommés, parmi les vice-présidents, les premiers juges et les juges, chaque fois pour une période de trois ans.
 
 Ils peuvent obtenir le renouvellement de leurs fonctions.
 
@@ -230,7 +258,9 @@ Ils siègent suivant le rang de leur réception au jugement des affaires civiles
 
 ### Art. 20.
 
-(...)
+**(1)** Un département économique et financier est créé au sein du cabinet d’instruction du tribunal d’arrondissement de Luxembourg et du cabinet d’instruction du tribunal d’arrondissement de Diekirch.
+
+**(2)** Un service de lutte contre le blanchiment de capitaux et le financement du terrorisme est créé au sein du cabinet d’instruction du tribunal d’arrondissement de Luxembourg.
 
 <a id="art_21"></a>
 
@@ -242,9 +272,7 @@ Lorsque le juge d’instruction se trouve empêché, par quelque cause que ce so
 
 ### Art. 22.
 
-L’affectation aux emplois de greffier en chef et la désaffectation sont faites par le ministre de la justice sur avis du procureur général d’Etat et du président du tribunal d’arrondissement.
-
-L’affectation à l’emploi de greffier et la désaffectation sont faites par le procureur général d’Etat, sur avis du président du tribunal d’arrondissement.
+Les affectations et désaffectations des agents du greffe des tribunaux d’arrondissement sont faites par le procureur général d’État après consultation du président du tribunal d’arrondissement concerné.
 
 <a id="art_23"></a>
 
@@ -258,7 +286,11 @@ Nul ne peut être nommé greffier en chef d’un tribunal d’arrondissement, s�
 
 **(1)** Les tribunaux d’arrondissement siègent au nombre de trois juges, sous réserve des dispositions de l’article 179 du Code de procédure pénale et de l’article 1007-7 du Nouveau Code de procédure civile.
 
-**(2)** Au sein d’un tribunal d’arrondissement, une ou deux chambres criminelles, siégeant au même nombre, sont composées de magistrats dont l’un possède au moins le rang de vice-président et qui sont désignés pour toute l’année judiciaire par l’assemblée générale des tribunaux d’arrondissement.
+**(2)** Les chambres criminelles auprès des tribunaux d’arrondissement siègent au nombre de trois magistrats.
+
+Elles sont présidées par un premier vice-président ou par un vice-président.
+
+Les membres de la chambre criminelle sont annuellement désignés par l’assemblée générale du tribunal d’arrondissement concerné.
 
 **(3)** Lorsqu’un procès paraît de nature à entraîner de longs débats, le président du tribunal d’arrondissement peut décider qu’un ou plusieurs magistrats du siège supplémentaires assisteront aux débats.
 
@@ -272,11 +304,11 @@ Faute de pouvoir procéder de la manière qui précède, le président de la Cou
 
 ### Art. 25.
 
-**(1)** Le tribunal d’arrondissement de Luxembourg comprend vingt-et-une chambres.
+**(1)** Le tribunal d’arrondissement de Luxembourg comprend vingt-cinq chambres.
 
-**(2)** La répartition des affaires entre les différentes chambres se fait par le président du tribunal d’arrondissement.
+**(2)** Le président du tribunal d’arrondissement répartit les affaires entre les différentes chambres et fixe les tâches des magistrats qui ne sont pas affectés à une chambre.
 
-Celui-ci fixe également les tâches des juges qui ne sont pas affectés à une chambre.
+Celui-ci préside les différentes chambres du tribunal quand il le juge convenable.
 
 <a id="art_26"></a>
 
@@ -324,13 +356,15 @@ La cour supérieure de justice comprend une cour de cassation et une cour d’ap
 
 ### Art. 33.
 
-**(1)** *La Cour supérieure de justice est composée d’un président, de cinq conseillers à la Cour de cassation, de onze présidents de chambre à la Cour d’appel, de douze premiers conseillers, de treize conseillers à la Cour d’appel, d’un procureur général d’État, de deux procureurs généraux d’État adjoints, de sept premiers avocats généraux, de cinq avocats généraux et d’un substitut*.
+**(1)** La Cour supérieure de justice est composée d’un président, de cinq conseillers à la Cour de cassation, de quatorze présidents de chambre à la Cour d’appel, de quinze premiers conseillers, de seize conseillers à la Cour d’appel, d’un procureur général d’État, de trois procureurs généraux d’État adjoints, de neuf premiers avocats généraux et de neuf avocats généraux.
 
-**(2)** Les conseillers à la Cour de cassation portent également le titre de vice-président de la Cour supérieure de justice.
+**(2)** Les conseillers à la Cour de cassation portent également le titre de « vice-président de la Cour supérieure de justice ».
+
+Le président de chambre à la Cour d’appel le plus ancien rang porte également le titre de « président de la Cour d’appel ».
 
 **(3)** Le greffe est dirigé par un greffier en chef et comprend en outre des greffiers selon les besoins du service.
 
-D’autres fonctionnaires et employés de l’État peuvent y être affectés.
+D’autres fonctionnaires, employés et salariés de l’État peuvent y être affectés.
 
 <a id="art_33-1"></a>
 
@@ -340,7 +374,7 @@ D’autres fonctionnaires et employés de l’État peuvent y être affectés.
 
 Ce pool comprend quatre premiers juges et quatre juges.
 
-**(2)** Il est créé auprès du procureur général d’État un pool de complément des magistrats du ministère public qui effectuent des remplacements temporaires dans les conditions déterminées par l’article 138.
+**(2)** Il est créé auprès du procureur général d’État un pool de complément des magistrats du parquet qui effectuent des remplacements temporaires dans les conditions déterminées par l’article 138.
 
 Ce pool comprend deux premiers substituts et deux substituts.
 
@@ -376,7 +410,7 @@ Le président de la cour supérieure de justice et les conseillers à la cour de
 
 ### Art. 37.
 
-Les membres de la cour supérieure de justice qui ont concouru à l’arrêt ou au jugement attaqué, ou qui ont connu de l’affaire antérieurement comme juges, ne peuvent pas siéger en cassation; il en est de même pour les officiers du ministère public promus aux fonctions de juge qui ont pris antérieurement des conclusions dans l’affaire.
+Les membres de la cour supérieure de justice qui ont concouru à l’arrêt ou au jugement attaqué, ou qui ont connu de l’affaire antérieurement comme juges, ne peuvent pas siéger en cassation; il en est de même pour les magistrats du parquet promus aux fonctions de juge qui ont pris antérieurement des conclusions dans l’affaire.
 
 <a id="art_38"></a>
 
@@ -400,7 +434,7 @@ Sont portés devant la cour de cassation:
 
 **(1)** Sans préjudice d’autres dispositions légales, la Cour d’appel connaît des affaires civiles, commerciales, criminelles et correctionnelles, ainsi que des affaires jugées par les tribunaux du travail.
 
-**(2)** La Cour d’appel comprend dix chambres qui siègent au nombre de trois conseillers, sous réserve des dispositions de l’article 1007-10 du Nouveau Code de procédure civile.
+**(2)** La Cour d’appel comprend treize chambres qui siègent au nombre de trois conseillers, sous réserve des dispositions de l’article 1007-10 du Nouveau Code de procédure civile.
 
 **(3)** Lorsqu’un procès paraît de nature à entraîner de longs débats, le président de la Cour supérieure de justice peut décider qu’un ou plusieurs conseillers supplémentaires assisteront aux débats.
 
@@ -422,17 +456,13 @@ Dans le cas où, par suite de leurs attributions respectives, une des chambres e
 
 ### Art. 40.
 
-Sont portés devant la cour supérieure de justice :
+**(1)** Sont portées devant la Cour supérieure de justice les affaires à toiser en assemblée générale.
 
-1. les affaires dont les cours d’appel ou les cours supérieures de justice ont à s’occuper en assemblée générale;
-2. Constitution
-3. Constitution
-4. les actions disciplinaires contre les magistrats et dont la cour connaît d’après le chapitre XII du titre II de la présente loi;
-5. Code pénal
+**(2)** Les décisions de la cour ne peuvent être rendues par moins de neuf conseillers.
 
-Dans tous les cas, les décisions de la cour ne peuvent être rendues par moins de neuf juges. S’il y a partage des voix, la cour siégeant en nombre pair, le suffrage du conseiller le plus jeune en rang n’est pas compté.
+S’il y a partage des voix, la cour siégeant en nombre pair, le suffrage du conseiller le plus jeune en rang n’est pas compté.
 
-<a id="art_41"></a>
+<a id="art_41_20250916"></a>
 
 ### Art. 41.
 
@@ -440,13 +470,13 @@ Pour pouvoir être nommé président de la cour supérieure de justice, conseill
 
 Les fonctions de membres du gouvernement et de chef d’administration sont assimilées aux fonctions judiciaires.
 
-<a id="art_42"></a>
+<a id="art_42_20250916"></a>
 
 ### Art. 42.
 
 Les conseillers à la cour d’appel et les avocats généraux sont nommés aux conditions prévues à l’article 17.
 
-<a id="art_43"></a>
+<a id="art_43_20250916"></a>
 
 ### Art. 43.
 
@@ -462,9 +492,9 @@ En outre, le procureur général d’Etat émet un avis.
 
 ### Art. 44.
 
-L’affectation aux emplois de greffier en chef et de greffier ainsi que la désaffectation sont faites par le procureur général d’État après consultation du président de la Cour supérieure de justice.
+Les affectations et désaffectations des agents du greffe de la Cour supérieure de justice sont faites par le procureur général d’État après consultation du président de cette cour.
 
-<a id="art_45_20230201"></a>
+<a id="art_45_20250916"></a>
 
 ### Art. 45.
 
@@ -488,7 +518,12 @@ L’accès à la bibliothèque est réservé aux magistrats. Elle est également
 
 ### Art. 47.
 
-Le procureur général d’Etat est tenu d’adresser chaque année au ministre de la Justice un état renfermant tous les renseigne ments indiqués à l’article 28.
+**(1)** Avant le 15 février de chaque année, le président de la Cour supérieure de justice, le procureur général d’État, les présidents des tribunaux d’arrondissement, les procureurs d’État et les juges de paix directeurs communiquent au Conseil national de la justice et au ministre de la justice un rapport d’activités portant sur :
+
+1. le fonctionnement de leurs services pendant l’année judiciaire écoulée ;
+2. les statistiques qui précisent le nombre des affaires en instance, le nombre des affaires jugées et la durée des affaires.
+
+**(2)** Les rapports d’activités sont rendus publics.
 
 ### Chapitre IV. — De la chambre du conseil de la cour d’appel
 
@@ -512,7 +547,7 @@ Le procureur général d’Etat est tenu d’adresser chaque année au ministre 
 
 **(2)** Le mandat des conseillers est renouvelable.
 
-**(3)** En cas d’empêchement d’un membre de la chambre de l’application des peines, il est remplacé par les autres membres de la cour d’appel. Les membres de la cour supérieure de justice qui ont concouru à l’arrêt ou au jugement ayant prononcé la ou les peines dont l’exécution est en cause, ou qui ont connu de l’affaire antérieurement comme juges, ne peuvent siéger à la chambre de l’application des peines ; il en est de même pour les officiers du ministère public promus aux fonctions de juge qui ont pris antérieurement des conclusions dans l’affaire.
+**(3)** En cas d’empêchement d’un membre de la chambre de l’application des peines, il est remplacé par les autres membres de la cour d’appel. Les membres de la cour supérieure de justice qui ont concouru à l’arrêt ou au jugement ayant prononcé la ou les peines dont l’exécution est en cause, ou qui ont connu de l’affaire antérieurement comme juges, ne peuvent siéger à la chambre de l’application des peines ; il en est de même pour les magistrats du ministère public promus aux fonctions de juge qui ont pris antérieurement des conclusions dans l’affaire.
 
 ### Chapitre V. — De la cour militaire
 
@@ -562,15 +597,11 @@ Le nombre des assesseurs-salariés est fixé à 11 pour le tribunal du travail d
 
 Ils sont choisis sur une liste de candidats présentée par les chambres professionnelles intéressées. Celles-ci désignent les candidats par vote secret à l’urne au scrutin de liste, suivant les règles de la représentation proportionnelle, l’ordre de présentation des candidats se faisant suivant les résultats obtenus lors de ce vote. En cas d’égalité de voix, la priorité revient au candidat le plus âgé.
 
-**(3)** Les assesseurs doivent être domiciliés au Grand-Duché de Luxembourg et peuvent être appelés a siéger dans toute juridiction du travail, même en dehors de celle auprès de laquelle ils sont nommés. Ils doivent remplir les conditions pour être appelés aux fonctions de conseiller communal.
+**(3)** Avant d’entrer en fonctions, les assesseurs prêtent, entre les mains du juge de paix directeur de la justice de paix au siège de laquelle il y a le tribunal du travail auprès duquel ils ont été nommés, le serment suivant : « Je jure d’observer la Constitution et les lois et de remplir ma fonction avec intégrité, exactitude et impartialité
 
-Les assesseurs qui ont accepté leur nomination sont tenus d’assister aux audiences pour lesquelles ils ont été dûment convoqués. Ils ne peuvent abandonner leurs fonctions qu’après que leur démission a été acceptée par le ministre de la Justice. Ils cessent d’exercer leurs fonctions lorsqu’ils ne remplissent plus les conditions prévues.
+Dès leur assermentation, les assesseurs assistent aux audiences pour lesquelles ils ont été dûment convoqués. Ils peuvent être appelés à siéger dans tout tribunal du travail, même en dehors de celui auprès duquel ils sont nommés. Ils ne peuvent abandonner leurs fonctions qu’après l’acceptation de leur démission par le ministre de la Justice.
 
-Les assesseurs ne peuvent siéger dans aucune affaire dans laquelle soit eux-mêmes, soit leur parents ou alliés jusqu’au quatrième degré inclusivement ont un intérêt personnel. De même, ils ne peuvent prendre part aux délibérations sur les affaires dans lesquelles ils ont déjà connu en une autre qualité. Ils peuvent être récusés pour les causes énoncées dans l’article 521 du Nouveau Code de procédure civile.
-
-Avant d’entrer en fonction, les assesseurs prêtent entre les mains du juge de paix directeur de la justice de paix au siège de laquelle il y a le tribunal du travail auprès duquel ils ont été nommés le serment prescrit par l’article 110 de la Constitution.
-
-Ils doivent garder le secret des délibérations.
+Les assesseurs ne peuvent siéger dans aucune affaire dans laquelle soit eux-mêmes, soit leur conjoint ou partenaire légal, soit leurs parents ou alliés jusqu’au quatrième degré inclusivement ont un intérêt personnel. Ils ne peuvent pas prendre part aux délibérations sur les affaires dans lesquelles ils ont déjà connu dans une qualité autre qu’assesseur auprès du tribunal du travail. Ils peuvent être récusés pour les causes énoncées dans l’article 521 du Nouveau Code de procédure civile.
 
 **(4)** Les assesseurs ont droit à charge de l’Etat aux jetons de présence et aux frais de route à fixer par règlement grand-ducal.
 
@@ -661,7 +692,7 @@ Le juge d’instruction ne peut, à peine de nullité, concourir au jugement des
 Il en est de même pour:
 
 - les magistrats du siège qui ont antérieurement, comme membres de la chambre du conseil du tribunal d’arrondissement ou de la Cour d’appel, ordonné le renvoi devant la juridiction de fond ou statué sur la mise en liberté du prévenu;
-- les officiers du ministère public nommés aux fonctions de juge ou de conseiller qui ont antérieurement pris ou fait prendre des conclusions ou réquisitions dans l’affaire;
+- les magistrats du parquet nommés aux fonctions de juge ou de conseiller qui ont antérieurement pris ou fait prendre des conclusions ou réquisitions dans l’affaire;
 - code d’instruction criminelle
 
 <a id="art_65"></a>
@@ -700,23 +731,28 @@ Toute inobservation de ces injonctions est signalée au procureur général d’
 
 ### Art. 69.
 
-Le ministère public remplit les devoirs de son office auprès de la cour et des tribunaux, dans le ressort territorial qui lui est assigné par la loi, sauf les cas où la loi en a disposé autrement.
+**(1)** Le ministère public remplit les devoirs de son office auprès de la Cour supérieure de justice et des tribunaux d’arrondissement, dans le ressort territorial qui lui est assigné par la loi, sauf les cas où la loi en a disposé autrement.
+
+**(2)** Les fonctions du ministère public près les tribunaux de police sont remplies par les magistrats du parquet près le tribunal d’arrondissement dans le ressort duquel se trouve le siège du tribunal de police.
 
 <a id="art_70"></a>
 
 ### Art. 70.
 
-Les fonctions du ministère public sont exercées, sous l’autorité du ministre de la Justice, par le procureur général d’Etat; et sous la surveillance et la direction de celui-ci par les magistrats de son parquet, les procureurs d’Etat et leurs substituts.
+Les fonctions du ministère public sont exercées par :
 
-Les substituts exercent en outre leurs fonctions sous la surveillance et la direction des procureurs d’Etat.
+1. le procureur général d’État et les autres magistrats du Parquet général ;
+2. les procureurs d’État et les autres magistrats des parquets près les tribunaux d’arrondissement.
 
 <a id="art_71"></a>
 
 ### Art. 71.
 
-Les fonctions du ministère public près les tribunaux de police sont remplies par les magistrats du parquet près le tribunal d’arrondissement dans le ressort duquel se trouve le siège du tribunal de police.
+**(1)** Les fonctions du ministère public sont exercées sous la surveillance et la direction du procureur général d’État.
 
-<a id="art_72"></a>
+**(2)** Les magistrats des parquets près les tribunaux d’arrondissement exercent leurs fonctions également sous la surveillance et la direction du procureur d’État dont ils dépendent.
+
+<a id="art_72_20250916"></a>
 
 ### Art. 72.
 
@@ -724,7 +760,7 @@ Le ministre de la Justice exerce sa surveillance sur tous les officiers du minis
 
 Le procureur général d’Etat veille, sous l’autorité du ministre de la justice, au maintien de l’ordre dans tous les tribunaux et exerce la surveillance sur tous les officiers de police judiciaire et les officiers ministériels.
 
-<a id="art_73"></a>
+<a id="art_73_20250916"></a>
 
 ### Art. 73.
 
@@ -746,13 +782,13 @@ Il poursuit d’office l’exécution des lois, règlements et jugements dans le
 
 **(1)** Il est institué, sous la surveillance administrative du procureur général d’État, une Cellule de renseignement financier, ci-après « CRF », qui a compétence pour remplir les missions inscrites aux articles 74-2 à 74-7.
 
-**(2)** La CRF comprend un substitut principal, quatre premiers substituts et deux substituts.
+**(2)** La CRF comprend un procureur d’État adjoint, quatre substituts principaux, trois premiers substituts et trois substituts.
 
-Elle se complète par des analystes financiers et référendaires de justice.
+Pour pouvoir être nommé procureur d’État adjoint et substitut principal, il faut exercer une fonction de magistrat au sein de la CRF.
 
-**(3)** La CRF est placée sous la direction du substitut principal, qui porte le titre de « directeur de la Cellule de renseignement financier ».
+**(3)** La CRF est placée sous la direction du procureur d’État adjoint, qui porte le titre de « directeur de la Cellule de renseignement financier ».
 
-Les quatre premiers substituts remplacent le directeur de la Cellule de renseignement financier en son absence suivant leur rang d’ancienneté et portent le titre de « directeur adjoint de la Cellule de renseignement financier ».
+Les quatre substituts principaux remplacent le directeur de la Cellule de renseignement financier en son absence suivant leur rang d’ancienneté et portent le titre de « directeur adjoint de la Cellule de renseignement financier ».
 
 **(4)** La CRF est opérationnellement indépendante et autonome.
 
@@ -847,7 +883,7 @@ Tout refus est motivé.
 
 **(6)** L’échange d’informations et de pièces ne peut être refusé pour le motif que la demande de coopération porte également sur des questions fiscales.
 
-**(7)** Les différences existant entre les droits nationaux en ce qui concerne la définition des infractions fiscales pénales n’entravent pas la capacité de la CRF d’échanger des informations et des pièces ou d’apporter son aide à une CRF d’un État membre de l’Union européenne dans la plus grande mesure possible en vertu du droit national.
+**(7)** Les différences existant entre les droits nationaux en ce qui concerne la définition des infractions sous-jacentes associées n’entravent pas la capacité de la CRF d’apporter son aide à une CRF d’un État membre de l’Union européenne et ne restreignent pas l’échange, la dissémination et l’utilisation des informations et pièces conformément au présent article.
 
 **(8)** La CRF peut subordonner la communication des informations et pièces à une CRF étrangère à la condition qu’elles soient uniquement utilisées aux fins pour lesquelles elles ont été demandées ou fournies, sauf autorisation préalable et expresse par la CRF de les utiliser à d’autres fins.
 
@@ -855,7 +891,7 @@ Tout refus est motivé.
 
 La CRF peut subordonner l’autorisation de dissémination des informations et pièces à une autorité étrangère à la condition que les informations et pièces soient utilisées seulement à des fins d’enquête ou pour servir de motivation à une demande d’entraide judiciaire en matière pénale visant à obtenir les éléments de preuve à l’appui des informations échangées.
 
-L’autorisation de dissémination peut être refusée dans les mêmes conditions que celles prévues au paragraphe 5.
+L’autorisation de dissémination peut être refusée dans les mêmes conditions que celles prévues au paragraphe 5. La CRF ne peut toutefois pas refuser de donner son autorisation de dissémination à une CRF d’un État membre de l’Union européenne, sauf si cette dissémination n’entre pas dans le champ d’application des dispositions en matière de lutte contre le blanchiment et le financement du terrorisme ou est susceptible d’entraver une enquête ou est autrement contraire aux principes fondamentaux du droit national. Tout refus de donner son autorisation de dissémination à une CRF d’un État membre de l’Union européenne en vertu du présent alinéa est motivé. Ces exceptions sont précisées de manière à prévenir tout abus ou toute restriction indue de la dissémination d’informations aux autorités étrangères concernées.
 
 La CRF ne peut autoriser l’utilisation des informations et pièces dans une procédure judiciaire, en mentionnant la CRF comme source de ces informations et pièces et en incluant des communications avec la CRF en tant que pièce jointe à cette procédure, qu’avec l’autorisation préalable expresse du procureur général d’État. Celui-ci peut refuser leur utilisation à des fins judiciaires dans les conditions précitées sur base des motifs prévus à l’article 3 de la loi modifiée du 8 août 2000 sur l’entraide judiciaire en matière pénale.
 
@@ -1005,7 +1041,7 @@ Pour les besoins de la réception et de la transmission des informations entre E
 
 ### Art. 75-8bis.
 
-Les deux procureurs européens délégués désignés par le Luxembourg, pour être nommés, conformément à l’article 17 du règlement (UE) 2017/1939 du Conseil du 12 octobre 2017 mettant en œuvre une coopération renforcée concernant la création du Parquet européen, sont choisis par le procureur général d’État.
+Les procureurs européens délégués désignés par le Luxembourg, pour être nommés, conformément à l’article 17 du règlement (UE) 2017/1939 du Conseil du 12 octobre 2017 mettant en œuvre une coopération renforcée concernant la création du Parquet européen, sont choisis par le Conseil national de la justice. Le nombre total des procureurs européens délégués ne peut pas dépasser sept unités.
 
 Le choix est opéré parmi les magistrats de l’ordre judiciaire répondant aux critères prévus par l’article 17, paragraphe 2, du règlement (UE) 2017/1939 du Conseil du 12 octobre 2017 mettant en œuvre une coopération renforcée concernant la création du Parquet européen.
 
@@ -1029,9 +1065,11 @@ Au cas où leur traitement après réintégration serait inférieur à celui tou
 
 ### Art. 75-8quater.
 
-Le procureur général d’État met à la disposition des procureurs européens délégués des fonctionnaires et employés de l’État relevant de l’administration judiciaire pour les assister dans l’exercice de leurs fonctions.
+**(1)** L’Office des procureurs européens délégués comprend des référendaires de justice et greffiers.
 
-Ces fonctionnaires et employés de l’État sont placés sous la direction des procureurs européens délégués.
+**(2)** Les référendaires de justice et greffiers exercent leurs fonctions sous la direction et la surveillance des procureurs européens délégués.
+
+**(3)** Le procureur général d’État met à disposition de l’Office des procureurs européens délégués des fonctionnaires et employés de l’État relevant de l’administration judiciaire.
 
 <a id="art_75-9"></a>
 
@@ -1109,19 +1147,21 @@ Le procureur général d’État fait état dans son avis des informations issue
 
 ### Art. 77.
 
-**(1)** *Le Service central d’assistance sociale regroupe tous les services chargés d’enquêtes sociales et d’assistance à des personnes sous surveillance judiciaire, comme le service de la protection de la jeunesse, le service de probation, le service d’aide aux victimes, le service de médiation, le service des tutelles pour mineurs et incapables majeurs ainsi que les services chargés de l’établissement des dossiers de personnalité.*
+**(1)** Le Service central d’assistance sociale regroupe tous les services chargés d’enquêtes sociales et d’assistance à des personnes sous surveillance judiciaire, comme le service de la protection de la jeunesse, le service de probation, le service d’aide aux victimes, le service de médiation, le service des tutelles pour mineurs et incapables majeurs ainsi que les services chargés de l’établissement des dossiers de personnalité.
 
-**(2)** *Le Service central d’assistance sociale est dirigé, sous l’autorité du procureur général d’État ou de son délégué, par un directeur qui en est le chef d’administration.*
+**(2)** Le Service central d’assistance sociale est dirigé, sous l’autorité du procureur général d’État ou de son délégué, par un directeur qui en est le chef d’administration.
 
-*Le directeur est assisté d’un directeur adjoint auquel il peut déléguer certaines de ses attributions et qui le remplace.*
+Le directeur est assisté d’un directeur adjoint auquel il peut déléguer certaines de ses attributions et qui le remplace.
 
-**(3)** *Pour exercer la fonction de directeur ou de directeur adjoint, il faut être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent dans l’une des matières déterminées par le procureur général d’État.*
+**(3)** Pour exercer la fonction de directeur ou de directeur adjoint, il faut être titulaire d’un grade ou diplôme délivré par un établissement d’enseignement supérieur reconnu par l’État du siège de l’établissement et sanctionnant l’accomplissement avec succès d’un master ou de son équivalent dans l’une des matières déterminées par le procureur général d’État.
 
-*Ce grade ou diplôme doit être inscrit au registre des titres de formation et classé au moins au niveau 7 du cadre luxembourgeois des qualifications dans les conditions déterminées par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.*
+Ce grade ou diplôme doit être inscrit au registre des titres de formation et classé au moins au niveau 7 du cadre luxembourgeois des qualifications dans les conditions déterminées par la loi modifiée du 28 octobre 2016 relative à la reconnaissance des qualifications professionnelles.
 
-**(4)** *Le cadre du personnel du Service central d’assistance sociale comprend un directeur, un directeur adjoint et des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.*
+**(4)** Le cadre du personnel du Service central d’assistance sociale comprend un directeur, un directeur adjoint et des fonctionnaires des différentes catégories de traitement, telles que prévues par la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.
 
-*Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État selon les besoins du service et dans les limites des crédits budgétaires.*
+Ce cadre peut être complété par des fonctionnaires stagiaires, des employés et des salariés de l’État selon les besoins du service et dans les limites des crédits budgétaires.
+
+**(5)** Le service d’aide aux victimes visé au paragraphe 1er est accessible aux victimes d’un attentat terroriste immédiatement après ce dernier et aussi longtemps que nécessaire.
 
 <a id="art_78"></a>
 
@@ -1266,6 +1306,12 @@ Sans préjudice des incompatibilités prévues par des lois spéciales, les fonc
 
 Les membres de la cour, des tribunaux d’arrondissement et des justices de paix et les membres des parquets ne peuvent être bourgmestre, échevin ou conseiller communal.
 
+<a id="art_101-1"></a>
+
+### Art. 101-1.
+
+Les fonctions de magistrat du siège et de magistrat du parquet sont incompatibles avec la qualité de membre du Conseil d’État.
+
 <a id="art_102"></a>
 
 ### Art. 102.
@@ -1290,7 +1336,7 @@ Il est interdit, sous les peines disciplinaires, à tout membre de l’ordre jud
 
 ### Art. 105.
 
-Les conjoints, les partenaires au sens de la loi du 9 juillet 2004 précitée, les parents ou alliés jusqu’au degré d’oncle et de neveu inclusivement ne peuvent être simultanément membres de la Cour ou d’un même tribunal, soit comme magistrat du siège, soit comme magistrat du ministère public, soit comme greffier en chef, soit comme greffier, sans une dispense du Grand-Duc.
+Les conjoints, les partenaires au sens de la loi du 9 juillet 2004 précitée, les parents ou alliés jusqu’au degré d’oncle et de neveu inclusivement ne peuvent être simultanément membres de la Cour ou d’un même tribunal, soit comme magistrat du siège, soit comme magistrat du ministère public, soit comme greffier en chef, soit comme greffier, sans une dispense du Conseil national de la justice.
 
 <a id="art_106"></a>
 
@@ -1302,7 +1348,7 @@ Même en cas de dispense, les conjoints, les partenaires, parents ou alliés au 
 
 ### Art. 107.
 
-Les conjoints, les partenaires au sens de la loi du 9 juillet 2004 précitée, les parents ou alliés jusqu’au quatrième degré inclusivement ne peuvent être simultanément membres d’une même justice de paix, soit comme juge de paix, soit comme greffier en chef, soit comme greffier, sans une dispense du Grand-Duc.
+Les conjoints, les partenaires au sens de la loi du 9 juillet 2004 précitée, les parents ou alliés jusqu’au quatrième degré inclusivement ne peuvent être simultanément membres d’une même justice de paix, soit comme juge de paix, soit comme greffier en chef, soit comme greffier, sans une dispense du Conseil national de la justice.
 
 Ne peuvent siéger simultanément le juge et le magistrat du ministère public, conjoints ou partenaires au sens de la loi du 9 juillet 2004 précitée, ou parents ou alliés entre eux au degré visé à l’alinéa qui précède.
 
@@ -1316,7 +1362,7 @@ En cas de mariage, de partenariat ou d’alliance survenue depuis la nomination,
 
 ### Art. 109.
 
-En toute matière le juge ou l’officier du ministère public doit s’abstenir, sous telle peine disciplinaire que de droit, s’il est conjoint ou partenaire au sens de la loi du 9 juillet 2004 précitée, ou parent ou allié en ligne directe ou au second degré en ligne collatérale, de l’avocat ou du mandataire de l’une des parties.
+En toute matière, le magistrat du siège ou le magistrat du parquet doit s’abstenir, sous telle peine disciplinaire que de droit, s’il est conjoint ou partenaire au sens de la loi du 9 juillet 2004 précitée, ou parent ou allié en ligne directe ou au second degré en ligne collatérale, de l’avocat ou du mandataire de l’une des parties.
 
 <a id="art_110"></a>
 
@@ -1362,22 +1408,23 @@ Tout citoyen nommé à une fonction dans l’ordre judiciaire est tenu de prête
 
 ### Art. 115.
 
-A la cour supérieure de justice il est tenu une liste de préséance sur laquelle les membres de la cour et du parquet général sont inscrits dans l’ordre qui suit:
+**(1)** À la Cour supérieure de justice, il est tenu une liste de préséance sur laquelle les magistrats de la Cour de cassation, de la Cour d’appel et du Parquet général sont inscrits dans l’ordre qui suit :
 
-1. la cour de cassation: - le président,
-- les deux conseillers à la cour de cassation, dans l’ordre de leur nomination;
-2. la cour d’appel: - les présidents de chambre, dans l’ordre de leur nomination,
-- les premiers conseillers, dans l’ordre de leur nomination,
-- les conseillers à la cour d’appel, dans l’ordre de leur nomination;
-3. le parquet général: - le procureur général d’Etat,
-- le procureur général d’Etat adjoint,
-- les premiers avocats généraux, dans l’ordre de leur nomination,
-- les avocats généraux, dans l’ordre de leur nomination,
-- le substitut.
+1. 1. le président ;
+2. les conseillers à la Cour de cassation, dans l’ordre de leur nomination ;
+2. 1. les présidents de chambre à la Cour d’appel, dans l’ordre de leur nomination ;
+2. les premiers conseillers à la Cour d’appel, dans l’ordre de leur nomination ;
+3. les conseillers à la Cour d’appel, dans l’ordre de leur nomination ;
+3. 1. le procureur général d’État ;
+2. les procureurs généraux d’État adjoints, dans l’ordre de leur nomination ;
+3. les premiers avocats généraux, dans l’ordre de leur nomination ;
+4. les avocats généraux, dans l’ordre de leur nomination.
 
-Les magistrats nommés ensemble sont inscrits sur cette liste dans l’ordre que suivent les arrêtés de nomination, ou dans celui de leur inscription dans l’arrêté de nomination simultanée.
+**(2)** Les magistrats nommés ensemble sont inscrits sur la liste de préséance dans l’ordre que suivent les arrêtés de nomination, ou dans celui de leur inscription dans l’arrêté de nomination simultané.
 
-Cette liste est arrêtée par la cour en assemblée générale; elle est complétée à chaque nouvelle nomination dans l’ordre judiciaire.
+La liste de préséance est arrêtée par l’assemblée générale de la Cour supérieure de justice.
+
+Cette liste est complétée à chaque nouvelle nomination.
 
 <a id="art_116"></a>
 
@@ -1424,23 +1471,19 @@ La cour et les tribunaux, quand ils assistent à une cérémonie publique, sont 
 
 ### Art. 120.
 
-**(1)** Il est réservé au Grand-Duc, sur avis de la cour supérieure de justice, de nommer conseiller honoraire à la cour d’appel, le procureur général d’Etat adjoint, les premiers avocats généraux, les avocats généraux, les présidents et procureurs d’Etat près les tribunaux d’arrondissement, les procureurs d’Etat adjoints, les premiers vice-présidents des tribunaux d’arrondissement, les substituts principaux, les vice-présidents des tribunaux d’arrondissement, le juge d’instruction directeur, le juge directeur du tribunal de la jeunesse et des tutelles, les juges de la jeunesse et les juges des tutelles, les juges de paix directeurs, les juges de paix directeurs adjoints, les juges de paix.
+L’assemblée générale de la Cour supérieure de justice arrête une liste de rang sur laquelle les magistrats de l’ordre judiciaire sont inscrits dans l’ordre de leur première nomination à la magistrature.
 
-**(2)** Le conseiller honoraire nommé conseiller effectif prend rang à la cour d’appel à la date de sa nomination de conseiller honoraire. Les juges de paix, les juges de la jeunesse et les juges des tutelles touchent, s’ils sont nommés conseillers honoraires, le traitement du conseiller à la cour d’appel.
+Les magistrats nommés ensemble sont inscrits sur cette liste de rang dans l’ordre que suivent les arrêtés de nomination, ou dans celui de leur inscription dans l’arrêté de nomination simultané.
 
-**(3)** Il est réservé au Grand-Duc de donner au substitut du parquet général, aux substituts des procureurs d’Etat ainsi qu’aux juges de paix le rang de juge au tribunal d’arrondissement.
-
-**(4)** Les juges aux tribunaux d’arrondissement et les substituts ayant le rang de juge qui passent aux fonctions de juge de paix conservent le rang attaché à leurs fonctions antérieures.
-
-**(5)** Dans la mesure où ils n’ont pas le rang de conseiller honoraire à la cour d’appel, le rang entre les magistrats du parquet général, des tribunaux d’arrondissement, des parquets et des justices de paix est déterminé par le rang de juge au tribunal d’arrondissement.
+Ne sont pas repris les magistrats figurant sur la liste de rang visée à l’article 16-1 de la loi modifiée du 7 juin 2012 sur les attachés de justice.
 
 <a id="art_121"></a>
 
-### Art. 121.
+### Art.121.
 
-Le conseiller effectif ou honoraire qui a été appelé à d’autres fonctions, reprend le rang qu’il occupait à la cour lorsqu’il rentre plus tard dans la magistrature judiciaire.
+Le magistrat qui a été appelé à d’autres fonctions, reprend le rang qu’il occupait lorsqu’il réintègre la magistrature de l’ordre judiciaire.
 
-### Chapitre V.- — Du service des audiences et du roulement
+### Chapitre V. — Du service des audiences et du roulement
 
 <a id="art_122"></a>
 
@@ -1478,23 +1521,27 @@ Lorsque, par des circonstances extraordinaires, les membres d’une chambre appe
 
 ### Art. 126.
 
-Le président de la cour supérieure de justice préside l’assemblée générale de la cour supérieure de justice, la cour supérieure de justice siégeant à tous ses membres et la cour de cassation.
+**(1)** Le président de la Cour supérieure de justice préside l’assemblée générale de la Cour supérieure de justice et la Cour de cassation.
 
-Les présidents des tribunaux d’arrondissement président l’assemblée générale du tribunal.
+**(2)** Les présidents des tribunaux d’arrondissement président l’assemblée générale du tribunal.
 
-Le président du tribunal d’arrondissement de Luxembourg préside les différentes chambres du tribunal quand il le juge convenable.
+Ceux-ci président les différentes chambres du tribunal quand ils le jugent convenable.
 
-Le président du tribunal d’arrondissement de Diekirch préside l’audience civile. Il préside les autres audiences quand il le juge convenable.
+**(3)** Le président de la Cour supérieure de justice et les présidents des tribunaux d’arrondissement sont chargés d’assurer la bonne marche de la juridiction et d’en surveiller le fonctionnement.
 
-Le président de la cour supérieure de justice et les présidents des tribunaux d’arrondissement sont chargés d’assurer la bonne marche de la juridiction et d’en surveiller le fonctionnement. Ils répartissent les affaires entre les différentes chambres dans le cadre de l’ordre de service visé par l’article 141 ci-dessous.
+Ils répartissent les affaires entre les différentes chambres dans le cadre de l’ordre de service visé par l’article 141.
 
-Il y a chaque mois, à l’intérieur de la cour supérieure de justice et de chaque tribunal, une conférence des présidents et présidents de chambres ainsi que des présidents et vice-présidents consacrée aux problèmes intéressant le fonctionnement des différentes chambres et la répartition des affaires.
+**(4)** Il y a chaque mois, à l’intérieur de la Cour supérieure de justice et de chaque tribunal d’arrondissement, une conférence du président et des magistrats qui exercent la fonction de président de chambre.
+
+Cette conférence est consacrée aux problèmes intéressant le fonctionnement des différentes chambres et la répartition des affaires.
 
 <a id="art_127"></a>
 
 ### Art. 127.
 
-Les présidents de chambre et les vice-présidents président les chambres auxquelles ils sont affectés et dirigent les débats. Les conseillers et juges de la chambre peuvent avec l’autorisation du président poser directement aux parties et aux témoins les questions qu’ils jugent convenir.
+Le président de chambre dirige les débats au sein de la chambre à laquelle il est affecté.
+
+Les autres magistrats de la chambre peuvent, avec l’autorisation du président de chambre, poser directement aux parties et aux témoins les questions qu’ils jugent convenir.
 
 <a id="art_128"></a>
 
@@ -1590,7 +1637,7 @@ En cas d’empêchement, le greffier en chef est suppléé par le greffier qu’
 
 Lorsque les besoins du service l’exigent, le juge peut assumer, en qualité de greffier, un attaché de justice ou, à défaut, telle personne qu’il trouve convenable, pourvu qu’elle soit luxembourgeoise, âgée de dix-huit ans au moins, et qu’elle prête préalablement entre ses mains le serment imposé aux fonctionnaires publics.
 
-### Chapitre VII.- — De l’ordre de service et de la durée des audiences
+### Chapitre VII. — De l’ordre de service et de la durée des audiences
 
 <a id="art_141"></a>
 
@@ -1620,25 +1667,25 @@ Néanmoins, les juridictions peuvent, en cas de besoin, tenir des audiences extr
 
 ### Art. 143.
 
-Les officiers du ministère public doivent être appelés à toutes les délibérations relatives à l’ordre et au service intérieurs de la cour et des tribunaux.
+Les magistrats du parquet doivent être appelés à toutes les délibérations relatives à l’ordre et au service intérieurs de la cour et des tribunaux.
 
 Ils ont le droit de faire inscrire sur les registres les réquisitions qu’ils jugent à propos de faire.
 
 ### Chapitre VIII. — De la résidence
 
-<a id="art_144"></a>
+<a id="art_144_20250916"></a>
 
 ### Art. 144.
 
 Les magistrats, les attachés de justice et les agents de l’administration judiciaire sont tenus de résider au Grand-Duché de Luxembourg.
 
-<a id="art_145"></a>
+<a id="art_145_20250916"></a>
 
 ### Art. 145.
 
 La cour peut accorder dispense de ces dispositions dans le cas où le service n’en souffre pas. Cette dispense est toujours révocable.
 
-<a id="art_146"></a>
+<a id="art_146_20250916"></a>
 
 ### Art. 146.
 
@@ -1650,9 +1697,9 @@ L’avertissement se fait par lettre chargée à la poste contre reçu du destin
 
 Les pièces de l’instruction sont adressées dans les huit jours au ministère de la Justice.
 
-### Chapitre IX.- — Des absences et des congés
+### Chapitre IX. — Des absences et des congés
 
-<a id="art_147"></a>
+<a id="art_147_20250916"></a>
 
 ### Art. 147.
 
@@ -1676,9 +1723,19 @@ Les greffiers ne peuvent s’absenter plus de trois jours sans la permission du 
 
 ### Art. 148.
 
-Si l’absence doit durer plus d’un mois, la permission du ministre de la Justice est nécessaire.
+**(1)** Aucun greffier ne peut s’absenter si le service va souffrir de son absence.
 
-<a id="art_149"></a>
+**(2)** Pour pouvoir s’absenter, le greffier demande l’autorisation préalable du chef de corps dont il relève.
+
+Ce chef de corps peut demander l’avis des magistrats auprès desquels le greffier est affecté.
+
+Le greffier informe le procureur général d’État avant son absence.
+
+**(3)** Les absences de plus d’un mois requièrent l’autorisation préalable du procureur général d’État.
+
+Le procureur général d’État peut demander l’avis du chef de corps dont relève le greffier et l’avis des magistrats auprès desquels le greffier est affecté.
+
+<a id="art_149_20250916"></a>
 
 ### Art. 149.
 
@@ -1738,7 +1795,7 @@ En cas de parité de suffrages, la préférence est accordée à celui qui a ét
 
 Il en est de même lorsqu’il s’agit de déterminer lequel des deux candidats ayant obtenu le même nombre de voix doit entrer au scrutin de ballottage avec un troisième ayant obtenu plus de suffrages.
 
-Le greffier dresse procès-verbal des opérations de l’assemblée; ce procès-verbal contient les noms des membres qui ont fait partie de l’assemblée, ainsi que ceux des officiers du ministère public qui y ont assisté; il est signé par le président et par le greffier.
+Le greffier dresse procès-verbal des opérations de l’assemblée; ce procès-verbal contient les noms des membres qui ont fait partie de l’assemblée, ainsi que ceux des magistrats du parquet qui y ont assisté; il est signé par le président et par le greffier.
 
 Une expédition de ce procès-verbal est remise au procureur général d’Etat qui l’adresse au ministre de la Justice.
 
@@ -1758,13 +1815,13 @@ Le service des assemblées générales est fait par le greffier en chef ou par s
 
 ### Chapitre XII. — De la discipline
 
-<a id="art_155"></a>
+<a id="art_155_20250916"></a>
 
 ### Art. 155.
 
 Est qualifié faute disciplinaire tout acte commis dans l’exercice ou hors de l’exercice des fonctions, qui peut compromettre le caractère dont les magistrats sont revêtus, donner lieu à scandale, blesser les convenances et compromettre le service de la justice, ainsi que tout manquement aux devoirs de sa charge.
 
-<a id="art_156"></a>
+<a id="art_156_20250916"></a>
 
 ### Art. 156.
 
@@ -1777,7 +1834,7 @@ Les peines disciplinaires sont:
 5. la mise à la retraite;
 6. la révocation. La révocation emporte la perte de l’emploi, du titre et du droit à la pension, sans préjudice des droits découlant de l’assurance rétroactive prévue en matière de coordination des régimes de pension.
 
-<a id="art_157"></a>
+<a id="art_157_20250916"></a>
 
 ### Art. 157.
 
@@ -1789,25 +1846,25 @@ L’avertissement est donné d’office ou sur la réquisition du ministère pub
 
 L’application des autres peines prévues par l’article qui précède est faite par la Cour supérieure de Justice, en la chambre du conseil, sur la réquisition du procureur général d’Etat.
 
-<a id="art_158"></a>
+<a id="art_158_20250916"></a>
 
 ### Art. 158.
 
 Aucune décision ne peut être prise sans que le magistrat inculpé ait été entendu ou dûment appelé et que le procureur général d’Etat ait donné ses conclusions par écrit.
 
-<a id="art_159"></a>
+<a id="art_159_20250916"></a>
 
 ### Art. 159.
 
 Si le magistrat condamné n’a pas comparu en la chambre du conseil, il peut se pourvoir par voie d’opposition dans les cinq jours de la notification de la décision.
 
-<a id="art_160"></a>
+<a id="art_160_20250916"></a>
 
 ### Art. 160.
 
 Les décisions de la cour ont force d’arrêt.
 
-<a id="art_161"></a>
+<a id="art_161_20250916"></a>
 
 ### Art. 161.
 
@@ -1815,7 +1872,7 @@ Les notifications mentionnées aux articles 158 et 159 sont faites par le greffi
 
 Le greffier retient de la notification une copie sur laquelle il certifie l’envoi en y joignant le chargement de la poste et, le cas échéant, le reçu du destinataire.
 
-<a id="art_162"></a>
+<a id="art_162_20250916"></a>
 
 ### Art. 162.
 
@@ -1823,7 +1880,7 @@ La chambre du conseil est investie d’un pouvoir discrétionnaire pour l’inst
 
 Le faux témoignage et la subornation de témoins en cette matière sont punis des peines portées à l’article 220 du Code pénal.
 
-<a id="art_163"></a>
+<a id="art_163_20250916"></a>
 
 ### Art. 163.
 
@@ -1834,25 +1891,25 @@ Est suspendu de plein droit de l’exercice de ses fonctions:
 3. le magistrat contre lequel il existe une décision judiciaire non encore définitive qui porte ou emporte perte d’emploi, jusqu’à la décision définitive qui l’acquitte ou ne le condamne qu’à une peine moindre;
 4. le magistrat condamné disciplinairement à la révocation ou à l’exclusion temporaire des fonctions par une décision non encore définitive, jusqu’à la fin de la procédure disciplinaire.
 
-<a id="art_164"></a>
+<a id="art_164_20250916"></a>
 
 ### Art. 164.
 
 La cour peut, sur la réquisition du procureur général d’Etat, prononcer la suspension provisoire de tout magistrat poursuivi judiciairement ou administrativement, pendant tout le cours de la procédure jusqu’à décision définitive.
 
-<a id="art_165"></a>
+<a id="art_165_20250916"></a>
 
 ### Art. 165.
 
 Le président de la cour, les présidents des tribunaux d’arrondissement, les procureurs d’Etat et les juges de paix directeurs signalent au procureur général d’Etat tous les faits parvenus à leur connaissance, qui pourraient donner lieu à poursuite disciplinaire contre un magistrat.
 
-<a id="art_166"></a>
+<a id="art_166_20250916"></a>
 
 ### Art. 166.
 
 Tout jugement de condamnation rendu contre un magistrat à une peine même de police, est transmis au procureur général d’Etat, pour que celui-ci puisse exercer l’action disciplinaire, s’il y a lieu.
 
-<a id="art_167"></a>
+<a id="art_167_20250916"></a>
 
 ### Art. 167.
 
@@ -1864,19 +1921,19 @@ L’action disciplinaire est indépendante de toutes poursuites judiciaires et p
 
 (...)
 
-<a id="art_169"></a>
+<a id="art_169_20250916"></a>
 
 ### Art. 169.
 
 Les actes nécessaires pour l’exécution des dispositions du présent chapitre sont dispensés du timbre et de l’enregistrement.
 
-<a id="art_170"></a>
+<a id="art_170_20250916"></a>
 
 ### Art. 170.
 
 Les officiers du ministère public, dont la conduite est répréhensible, sont rappelés à leur devoir par le procureur général d’Etat. Il en est rendu compte au ministre de la Justice qui, selon la gravité des circonstances, leur fait faire par le procureur général d’Etat les injonctions qu’il juge nécessaires.
 
-<a id="art_171"></a>
+<a id="art_171_20250916"></a>
 
 ### Art. 171.
 
@@ -1884,7 +1941,7 @@ La cour est tenue d’instruire le ministre de la Justice toutes les fois qu’e
 
 Les présidents des tribunaux d’arrondissement instruisent le président de la cour et le procureur général d’Etat des reproches qu’ils se croient en droit de faire aux officiers du ministère public exerçant dans l’étendue de l’arrondissement, soit auprès de ces tribunaux, soit auprès des tribunaux de police.
 
-<a id="art_172"></a>
+<a id="art_172_20250916"></a>
 
 ### Art. 172.
 
@@ -1892,21 +1949,21 @@ Les officiers ministériels qui sont en contravention aux lois et règlements, p
 
 La disposition qui précède n’est pas applicable aux avocats. Toutefois, ceux-ci peuvent, si à l’audience ils contreviennent aux devoirs qui leur sont imposés par l’article 33 de la loi sur la profession d’avocat, recevoir des injonctions et être renvoyés de l’audience, selon la gravité des circonstances, avec information au Bâtonnier qui prendra telles mesures que de droit.
 
-<a id="art_173"></a>
+<a id="art_173_20250916"></a>
 
 ### Art. 173.
 
 Dans la cour et dans les tribunaux d’arrondissement, chaque membre relève les fautes de discipline qui ont été commises ou découvertes à son audience et les signale au ministère public de son siège.
 
-### Chapitre XIII.- — De la mise à la retraite des magistrats
+### Chapitre XIII. — De la mise à la retraite des magistrats
 
-<a id="art_174"></a>
+<a id="art_174_20250916"></a>
 
 ### Art. 174.
 
 Les membres de la Cour et des tribunaux sont mis à la retraite lorsqu’ils ont accompli l’âge de soixante-huit ans ou qu’une affection grave et permanente ne leur permet plus de remplir convenablement leurs fonctions ou qu’ils ont fait preuve d’inaptitude professionnelle constatée dans les formes prescrites par la procédure disciplinaire.
 
-<a id="art_175"></a>
+<a id="art_175_20250916"></a>
 
 ### Art. 175.
 
@@ -1918,25 +1975,25 @@ Quinze jours au moins avant celui qui a été fixé pour la réunion de la cour,
 
 Cette information et cette invitation ont lieu de la manière prévue par l’article 179 de la présente loi.
 
-<a id="art_176"></a>
+<a id="art_176_20250916"></a>
 
 ### Art. 176.
 
 La décision est immédiatement notifiée à l’intéressé. Si celui-ci n’avait pas fourni ses observations, la décision n’est considérée comme définitive que s’il n’a pas été formé opposition dans les cinq jours à dater de la notification.
 
-<a id="art_177"></a>
+<a id="art_177_20250916"></a>
 
 ### Art. 177.
 
 La décision rendue, soit sur les observations du magistrat, soit sur son opposition, est en dernier ressort.
 
-<a id="art_178"></a>
+<a id="art_178_20250916"></a>
 
 ### Art. 178.
 
 Aucun des actes auxquels donne lieu l’exécution des dispositions qui précèdent n’est soumis au timbre ni à l’enregistrement.
 
-<a id="art_179"></a>
+<a id="art_179_20250916"></a>
 
 ### Art. 179.
 
@@ -1946,13 +2003,13 @@ Si le magistrat n’habite pas la ville de Luxembourg, le greffier fait la notif
 
 L’opposition est reçue au greffe et consignée sur un registre spécial.
 
-<a id="art_180"></a>
+<a id="art_180_20250916"></a>
 
 ### Art. 180.
 
 Les décisions de la cour, dans le cas des articles précédents, lorsqu’elles sont définitives, sont adressées dans les quinze jours au ministre de la Justice.
 
-### Chapitre XIV.- — Dispositions diverses
+### Chapitre XIV. — Dispositions diverses
 
 <a id="art_181"></a>
 
@@ -1969,7 +2026,8 @@ Les décisions de la cour, dans le cas des articles précédents, lorsqu’elles
 **(2)** Bénéficient d’une indemnité spéciale de :
 
 1. soixante points indiciaires par mois les fonctionnaires et employés de l’État qui sont affectés ou détachés au greffe des cabinets des juges d’instruction ;
-2. trente points indiciaires par mois les fonctionnaires et employés de l’État qui sont affectés ou détachés au greffe de la chambre de l’application des peines ou au secrétariat du Parquet général auprès de cette chambre.
+2. trente points indiciaires par mois les fonctionnaires et employés de l’État qui sont affectés ou détachés au greffe de la chambre de l’application des peines ou au secrétariat du Parquet général auprès de cette chambre ;
+3. trente points indiciaires par mois aux fonctionnaires et employés de l’État qui exercent la fonction d’analyste financier auprès de la Cellule de renseignement financier.
 
 Les fonctionnaires, employés et salariés de l’État affectés ou détachés au Service central d’assistance sociale bénéficient d’une prime de risque de vingt points indiciaires par mois.
 
@@ -1977,9 +2035,9 @@ Les fonctionnaires, employés et salariés de l’État affectés ou détachés 
 
 <a id="art_182"></a>
 
-### Art. 182.
+### Art. 182 .
 
-**(1)** La Cour supérieure de justice, les tribunaux d’arrondissement, les justices de paix et la Cellule de renseignement financier disposent d’un pool commun de référendaires de justice*.*
+**(1)** La Cour supérieure de justice, le Parquet général, les tribunaux d’arrondissement, les parquets des tribunaux d’arrondissement, les justices de paix, la Cellule de renseignement financier et l’Office des procureurs européens délégués disposent d’un pool commun de référendaires de justice.
 
 **(2)** Les affectations et désaffectations des référendaires de justice sont faites par le procureur général d’État après consultation des chefs de corps concernés*.*
 
@@ -2017,7 +2075,7 @@ Sont abrogées toutes les dispositions qui comminent des peines pécuniaires con
 
 Dans tous les cas où les textes prévoient le dépôt au greffe d’une provision nécessaire pour couvrir les frais de la procédure, ce dépôt se fera dorénavant entre les mains du receveur de l’enregistrement.
 
-### Chapitre XV.- — Du service d’accueil et d’information juridique
+### Chapitre XV. — Du service d’accueil et d’information juridique
 
 <a id="art_189"></a>
 

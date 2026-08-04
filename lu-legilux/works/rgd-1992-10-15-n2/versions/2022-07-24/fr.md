@@ -1,8 +1,8 @@
 ---
 lex_id: 'lu-legilux:rgd-1992-10-15-n2:2022-07-24'
-title: 'Version consolidée applicable au 24/07/2022 : Règlement grand-ducal du 15 octobre 1992 concernant le mode d''élection des représentants du personnel salarié au conseil d''administration de l''Entreprise des Postes et Télécommunications et l''exercice de leurs fonctions.'
+title: 'rgd-1992-10-15-n2'
 valid_from: '2022-07-24'
-valid_to: 'open'
+valid_to: '2026-08-03'
 source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20220724/fr'
 source_sha256: '581581764c9ee08dc94a70f086128eb9cabcc22fcf177f37da4c5b499f0bbd44'
 license: 'CC-BY-4.0'
