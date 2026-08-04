@@ -1,5 +1,11 @@
 # lex-articles
 
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=flat-square)](LICENSE)
+[![Live](https://img.shields.io/badge/live-law.soufien.lu-e0705f?style=flat-square)](https://law.soufien.lu)
+[![Records](https://img.shields.io/badge/dataset-88%2C981%20articles%20%C2%B7%20102%2C773%20texts-brightgreen?style=flat-square)](SCHEMA.md)
+[![Formats](https://img.shields.io/badge/formats-JSON%20%C2%B7%20JSONL%20%C2%B7%20parquet-orange?style=flat-square)](README.md)
+[![Engine](https://img.shields.io/badge/engine-SFHAJJI%2Flex-24292f?style=flat-square)](https://github.com/SFHAJJI/lex)
+
 **Machine-readable Luxembourg + EU law, per article, point-in-time, verifiable.**
 Clean Markdown and structured JSON for every provision of every consolidated
 version, with validity dates, stable publisher-minted IDs, and a hash chain
