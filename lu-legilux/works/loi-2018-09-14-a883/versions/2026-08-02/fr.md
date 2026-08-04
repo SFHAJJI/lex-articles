@@ -1,10 +1,10 @@
 ---
-lex_id: 'lu-legilux:loi-2018-09-14-a883:2019-06-08'
+lex_id: 'lu-legilux:loi-2018-09-14-a883:2026-08-02'
 title: 'Version consolidée applicable au 02/08/2026 : Loi du 14 septembre 2018 relative à une administration transparente et ouverte.'
-valid_from: '2019-06-08'
-valid_to: '2026-08-01'
-source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20190608/fr'
-source_sha256: 'b7844baa9662f7865dae2b2f447045e025a970129b5d9fc4b828e79c6a68263e'
+valid_from: '2026-08-02'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20260802'
+source_sha256: '1f470b601c7fe571e663929c5f969a7408454b3bd4422b4ef351f4ec39d604f8'
 license: 'CC-BY-4.0'
 attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
 generator: 'akn-lu/1 · lex derive'
@@ -18,7 +18,11 @@ generator: 'akn-lu/1 · lex derive'
 
 ### Art. 1er.
 
-**(1)** Les personnes physiques et les personnes morales ont un droit d’accès aux documents détenus par les administrations et services de l’État, les communes, les syndicats de communes, les établissements publics placés sous la tutelle de l’État ou sous la surveillance des communes ainsi que les personnes morales fournissant des services publics, dans la mesure où les documents sont relatifs à l’exercice d’une activité administrative. Elles ont également accès aux documents détenus par la Chambre des Députés, le Conseil d’État, le Médiateur, la Cour des comptes et les Chambres professionnelles, qui sont relatifs à l’exercice d’une activité administrative.
+**(1)** Les personnes physiques et les personnes morales ont un droit d’accès aux documents détenus par les administrations et services de l’État, les communes, les syndicats de communes, les établissements publics placés sous la tutelle de l’État ou sous la surveillance des communes ainsi que les personnes morales fournissant des services publics, dans la mesure où les documents sont relatifs à l’exercice d’une activité administrative. Elles ont également accès aux documents détenus par la Chambre des Députés, le Conseil d’État, l’Ombudsman, l’Ombudsman fir Kanner a Jugendlecher, le Centre pour l’égalité de traitement, la Cour des comptes, les autorités judiciaires et les Chambres professionnelles, qui sont relatifs à l’exercice d’une activité administrative.
+
+Les administrations et services de l’État, les communes, les syndicats de communes, les établissements publics placés sous la tutelle de l’État ou sous la surveillance des communes ainsi que les personnes morales fournissant des services publics, la Chambre des Députés, le Conseil d’État, l’Ombudsman, l’Ombudsman fir Kanner a Jugendlecher, le Centre pour l’égalité de traitement, la Cour des comptes, les autorités judiciaires et les Chambres professionnelles fournissent aux journalistes professionnels au sens de l’article 3, point 6, de la loi modifiée du 8 juin 2004 sur la liberté d’expression dans les médias, ci-après « journalistes professionnels », un accès aux documents détenus relatifs à l’exercice d’une activité administrative et qui permettent aux journalistes professionnels de remplir leur mission d’intérêt général.
+
+On entend par « document » toutes informations enregistrées sous quelque forme que ce soit, rédigées ou reçues et détenues par les organismes visés au présent paragraphe.
 
 **(2)** Sont toutefois exclus du droit d’accès, les documents relatifs :
 
@@ -27,11 +31,13 @@ generator: 'akn-lu/1 · lex derive'
 3. au déroulement des procédures engagées devant les instances juridictionnelles, extrajudiciaires ou disciplinaires ou d’opérations préliminaires à de telles procédures ;
 4. à la prévention, à la recherche ou à la poursuite de faits punissables ;
 5. à des droits de propriété intellectuelle ;
-6. à un secret ou une confidentialité protégés par la loi ;
+6. Règlement de la Chambre des Députés
 7. er
 8. er
 9. er
-10. à la confidentialité des délibérations du Gouvernement.
+10. à la confidentialité des délibérations du Gouvernement ou de la Chambre des Députés.
+
+**(3)** Si une exception visée au paragraphe 2 s’applique à une partie des informations contenues dans un document, l’organisme peut néanmoins communiquer les autres informations contenues dans le document. Toute occultation est clairement précisée. Toutefois, l’accès est refusé si la version expurgée du document sollicité est trompeuse ou vide de sens, ou si la mise à disposition de ce qui reste du document est une charge manifestement déraisonnable pour l’organisme.
 
 ### **Section 2** — **Modalités d’accès**
 
@@ -57,6 +63,10 @@ Sans préjudice d’autres dispositions légales qui règlent l’accès à des 
 
 **(2)** Pour les demandes formulées de manière trop générale, l’organisme sollicité invite le demandeur, au plus tard avant l’expiration du délai prévu à l’article 5, paragraphe 1er, alinéa 1er, à préciser sa demande d’information.
 
+**(3)** L’organisme sollicité aide, dans les limites du raisonnable, le demandeur à identifier le document demandé.
+
+**(4)** L’organisme sollicité répond à la demande de communication du demandeur par l’envoi d’un accusé de réception qui comprend des indications par rapport au délai de traitement estimé.
+
 <a id="art_5"></a>
 
 ### Art. 5.
@@ -73,13 +83,15 @@ Le dépôt aux Archives nationales des documents accessibles aux termes de la pr
 
 1. le volume et la complexité des documents demandés sont tels que le délai d’un mois ne peut être respecté ;
 2. la demande est adressée à l’organisme qui ne détient pas le document ;
-3. l’organisme doit, en application de l’article 6, occulter ou disjoindre les données à caractère personnel d’autres personnes ;
+3. er
 4. le document sollicité a fait l’objet d’un dépôt aux Archives nationales ;
 5. l’organisme doit consulter un tiers.
 
 Le demandeur est informé dès que possible, et, en tout état de cause, avant la fin du délai d’un mois, de toute prolongation du délai et des motifs de cette prolongation.
 
 **(3)** Lorsque l’organisme sollicité demande au requérant de préciser la demande, conformément à l’article 4, paragraphe 2, le délai prévu à l’article 5, paragraphe 1er, alinéa 1er, est suspendu jusqu’à réception d’une demande libellée de manière suffisamment précise.
+
+**(4)** À défaut de communication du document demandé dans le délai prévu au paragraphe 1er, alinéa 1er, ou le cas échéant dans le délai prévu au paragraphe 2, alinéa 1er, l’organisme est réputé avoir rejeté la demande.
 
 <a id="art_6"></a>
 
@@ -100,13 +112,22 @@ La demande de communication peut être refusée si :
 1. la demande concerne des documents en cours d’élaboration ou des documents inachevés ;
 2. la demande porte sur un document qui est déjà publié ou qui a été réalisé à des fins de commercialisation ;
 3. la demande est manifestement abusive par son nombre, son caractère systématique ou répétitif ;
-4. la demande concerne des communications internes.
+4. la demande concerne des communications internes ;
+5. nonobstant l’aide accordée par l’organisme sollicité, la demande reste trop vague pour permettre l’identification du document recherché.
 
 <a id="art_8"></a>
 
 ### Art. 8.
 
 Chaque organisme visé à l’article 1er, paragraphe 1er, désigne un agent chargé de la communication des documents.
+
+## Chapitre I*bis* — Voies de recours
+
+<a id="art_8bis"></a>
+
+### Art. 8bis.
+
+Les décisions refusant de faire droit, en tout ou en partie, à une demande de communication d’un document sont susceptibles d’un recours en réformation devant le tribunal administratif.
 
 ## **Chapitre II** — **Commission d’accès aux documents**
 
@@ -140,7 +161,15 @@ Une Commission dite "Commission d’accès aux documents", établie auprès du P
 
 **(1)** La Commission d’accès aux documents est composée de cinq membres effectifs dont un magistrat, un représentant du Premier ministre, ministre d’État, un représentant de la Commission nationale pour la protection des données, un représentant du Syndicat des villes et communes luxembourgeoises et un représentant du Service information et presse du Gouvernement. Pour chaque membre effectif de la commission, deux membres suppléants sont nommés, à choisir selon les mêmes critères que le membre effectif qu’ils ont vocation à remplacer en cas d’empêchement. Les membres effectifs et les membres suppléants de la Commission d’accès aux documents sont nommés pour une durée de quatre ans par le Grand-Duc sur proposition du Premier ministre, ministre d’État. La présidence est assurée par le magistrat.
 
-**(2)** Les organismes visés à l’article 1er, paragraphe 1er, qui sont mis en cause sont tenus de communiquer à la Commission d’accès aux documents, dans le délai prescrit par le président, tous les éléments de droit et de fait qui ont motivé leur décision de refus.
+**(2)** Les organismes visés à l’article 1er, paragraphe 1er, qui sont mis en cause sont tenus de communiquer à la Commission d’accès aux documents, dans le délai prescrit par cette dernière, tous les éléments de droit et de fait qui ont motivé leur décision de refus ainsi que le document sollicité par le demandeur, nonobstant toute règle de confidentialité ou de secret professionnel leur étant applicable le cas échéant.
+
+La Commission d’accès aux documents prend toutes les mesures nécessaires pour assurer la confidentialité des documents transmis.
+
+Hormis les exceptions prévues par ou en vertu d’une loi, les membres de la Commission d’accès aux documents ainsi que les agents assurant le secrétariat de la Commission d’accès aux documents sont tenus de garder le secret des informations confidentielles reçues dans ou à l’occasion de l’exercice de leurs fonctions, sous peine des sanctions prévues à l’article 458 du Code pénal.
+
+Le présent paragraphe s’applique sans préjudice de la législation applicable aux pièces classifiées.
+
+La Commission d’accès aux documents peut convoquer un représentant de l’organisme concerné aux fins de recueillir des explications sur le document sollicité.
 
 **(3)** La Commission d’accès aux documents ne délibère valablement que si la majorité de ses membres est présente. Les avis sont adoptés à la majorité des suffrages exprimés. En cas de partage des voix, celle du Président est prépondérante.
 

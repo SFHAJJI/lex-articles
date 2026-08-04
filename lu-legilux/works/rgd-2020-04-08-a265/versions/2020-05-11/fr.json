@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2020-04-08-a265:2020-05-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 11/05/2020 : Règlement grand-ducal du 8 avril 2020 portant dérogation à l’article L.551-2 du Code du travail.",
+  "valid_from": "2020-05-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2020-04-08-a265/versions/2020-05-11/fr.pdf/eli-etat-leg-rgd-2020-04-08-a265-consolide-20200511-fr-pdf.pdf",
+    "sha256": "86b5d5021ebd57735914a2a02ea0158447eb2b2d6a45889fbd42faea2bd973ea",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a265/consolide/20200511/fr"
+  },
+  "generator": {
+    "profile": "pdf-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2020-04-08-a265:2020-05-11#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Par dérogation à l’article L. 551-2 paragraphe 3 du Code du travail, les gratifications, compléments et accessoires versés aux salariés qui assurent le bon fonctionnement, le maintien ou l’approvisionnement des activités des secteurs définis à l’annexe du présent règlement grand-ducal. Ces gratifications, compléments et accessoires devront être définis comme dus au titre de l’état de crise liée au Covid-19.",
+      "text_sha256": "d8cb5cc8dbc5d945027105db4816a0c9969ff4ecb18a3924f80582f7e5abda31",
+      "md_span": {
+        "start": 635,
+        "end": 1045
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2020-04-08-a265:2020-05-11#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "727c86324f983968ecdf17b3a5758e07b073772171306c03dcc95eec77eb2de3",
+      "md_span": {
+        "start": 1080,
+        "end": 1193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2020-04-08-a265:2020-05-11#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre ministre ayant le Travail, l’Emploi et l’Économie sociale et solidaire dans ses attributions est chargé de l’exécution des dispositions du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg. règlement grand-ducal du 8 avril 2020 Version consolidée au 11 mai 2020 - 1 -",
+      "text_sha256": "b89b9c23d6810b68151de2db603a9f2c2b21766bc743295b468a8b1924ef3db4",
+      "md_span": {
+        "start": 1228,
+        "end": 1534
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "dropped 10 line(s) of front matter"
+  ]
+}
