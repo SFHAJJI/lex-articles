@@ -10,6 +10,18 @@ attribution: 'Legilux — Ministère d''État, Service central de législation, 
 generator: 'pdf-memorial-lu/1 · lex derive'
 ---
 
+<a id="art_1er"></a>
+
+### Art. 1er.
+
+(Règl.g.-d.du 8 juin 1994) «(1) Les certificats de dépôt,bons de caisse et tous autres titres représentatifs de droits de propriété,de créances ou de valeurs mobilières,qu’ils soient matérialisés ou dématérialisés,transmissibles par inscription en compte ou tradition,au porteur ou nominatifs,endossables ou non,tombent sous l’application de la loi du 1er juin 1929 concernant le nantissement des valeurs mobilières.» (2) Les mêmes titres, dans la mesure où ils sont au porteur et où ils ont été créés dans le Grand-Duché de Luxem- bourg,tombent sous l’application de la loi du 16 mai 1891 concernant la perte des titres au porteur.Si les titres ne sont pas productifs d’intérêts ou de dividendes,par nature ou par convention,la loi précitée s’applique sous réserve de ce qui suit: a) l’autorisation prévue à l’article 5 de la loi pourra être accordée sous la seule condition qu’une année se sera écoulée depuis l’opposition; b) l’engagement de la caution prévue à l’article 8 de la loi s’étendra au moins à la valeur des titres appréciée au moment de l’opposition; c) le délai de dix ans prévu à l’article 17 de la loi prendra cours à partir de l’opposition.
+
+<a id="art_2"></a>
+
+### Art. 2. Le présent règlement ne déroge pas à la législation sur la lettre de change et le billet à ordre,contenue dans le
+
+texte coordonné du 15 décembre 1962, et à la législation sur le chèque, contenue dans le texte coordonné du 4 juillet 1968.
+
 <a id="art_3"></a>
 
 ### Art. 3. Le présent règlement est d’application immédiate à tous les titres,tels que définis à l’article 1er,même créés

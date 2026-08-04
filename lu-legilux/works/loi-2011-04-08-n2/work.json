@@ -6,6 +6,24 @@
   ],
   "versions": [
     {
+      "valid_from": "2017-01-01",
+      "valid_to": "2017-06-22",
+      "language": "fr",
+      "provisions": 7
+    },
+    {
+      "valid_from": "2017-06-23",
+      "valid_to": "2017-11-12",
+      "language": "fr",
+      "provisions": 7
+    },
+    {
+      "valid_from": "2017-11-13",
+      "valid_to": "2018-06-30",
+      "language": "fr",
+      "provisions": 7
+    },
+    {
       "valid_from": "2018-07-01",
       "valid_to": "2021-02-28",
       "language": "fr",
@@ -93,11 +111,14 @@
   "anchors": [
     "art_1er",
     "art_1er-1",
+    "art_1er__2",
     "art_2",
     "art_2-1",
     "art_3",
     "art_3-1",
+    "art_3__2",
     "art_4",
+    "art_412-3",
     "art_l_010-1",
     "art_l_010-2",
     "art_l_111-1",

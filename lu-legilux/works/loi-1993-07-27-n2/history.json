@@ -2,9 +2,18 @@
   "lex_work_id": "lu-legilux:loi-1993-07-27-n2",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/1",
+    "pdf-memorial-lu/1"
   ],
   "anchors": {
+    "art_1": [
+      {
+        "valid_from": "1997-03-28",
+        "valid_to": "2013-01-03",
+        "text_sha256": "3f15320a9a80c89560b292781632b5f0a3713a6f17f80fd7135795074fe5b852",
+        "in_version": "lu-legilux:loi-1993-07-27-n2:1997-03-28"
+      }
+    ],
     "art_10": [
       {
         "valid_from": "2013-01-04",
@@ -106,6 +115,12 @@
     ],
     "art_2": [
       {
+        "valid_from": "1997-03-28",
+        "valid_to": "2013-01-03",
+        "text_sha256": "69f97f80a0844f572208b2089c8df87ce6a3873d50a6edabba3df68e595a5afd",
+        "in_version": "lu-legilux:loi-1993-07-27-n2:1997-03-28"
+      },
+      {
         "valid_from": "2013-01-04",
         "valid_to": null,
         "text_sha256": "27016dddbd60eddcabbe3931c781110adbbecb69c04be4eecb8e6ec2eb3eb91d",
@@ -133,6 +148,12 @@
     ],
     "art_3": [
       {
+        "valid_from": "1997-03-28",
+        "valid_to": "2013-01-03",
+        "text_sha256": "1962b6275cdeeaee828bdb9778437317fc1168efe8006c0d08409a6d42d00ee8",
+        "in_version": "lu-legilux:loi-1993-07-27-n2:1997-03-28"
+      },
+      {
         "valid_from": "2013-01-04",
         "valid_to": null,
         "text_sha256": "bebb7e8abf4cbe1c167b9f365527e026c2e4da04acefda60e2a4d0b12935e4b7",
@@ -142,6 +163,12 @@
     ],
     "art_4": [
       {
+        "valid_from": "1997-03-28",
+        "valid_to": "2013-01-03",
+        "text_sha256": "0c3f6d0c9d04d293703b248c026c23419fdefea18c6a760a2994303645475a94",
+        "in_version": "lu-legilux:loi-1993-07-27-n2:1997-03-28"
+      },
+      {
         "valid_from": "2013-01-04",
         "valid_to": null,
         "text_sha256": "4ee8f46cf83fead27d37c83922d5e913a0b2349e0521ba61fe89537e2dc978f2",
@@ -149,7 +176,29 @@
         "article_valid_from": "2013-01-04"
       }
     ],
+    "art_5": [
+      {
+        "valid_from": "1997-03-28",
+        "valid_to": "2013-01-03",
+        "text_sha256": "8e68e7eae48eee37cfe19f3d6460ca246f703f314d91637025d54dd561583b17",
+        "in_version": "lu-legilux:loi-1993-07-27-n2:1997-03-28"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "1997-03-28",
+        "valid_to": "2013-01-03",
+        "text_sha256": "1d9e4b3419b55f0cb1223a6b38951ad2465b12465652839cc53c9dfcc94b0dd2",
+        "in_version": "lu-legilux:loi-1993-07-27-n2:1997-03-28"
+      }
+    ],
     "art_8": [
+      {
+        "valid_from": "1997-03-28",
+        "valid_to": "2013-01-03",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "lu-legilux:loi-1993-07-27-n2:1997-03-28"
+      },
       {
         "valid_from": "2013-01-04",
         "valid_to": null,
@@ -160,6 +209,12 @@
     ],
     "art_9": [
       {
+        "valid_from": "1997-03-28",
+        "valid_to": "2013-01-03",
+        "text_sha256": "9aa2b9c5e152c5b20b0daef99d38365c50bfcd0c801f70abcd99d242d569b08d",
+        "in_version": "lu-legilux:loi-1993-07-27-n2:1997-03-28"
+      },
+      {
         "valid_from": "2013-01-04",
         "valid_to": null,
         "text_sha256": "edb0e9f81e55672d08144c5534b8e45a442e33a3ca6cc5239e1c56e01a7d183d",
@@ -168,5 +223,86 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "art_1",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_5",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_6",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_10",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_11",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_12",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_13",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_14",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_15",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_16",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_17",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_18",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_19",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_1er",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_20",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_21",
+      "at_version": "lu-legilux:loi-1993-07-27-n2:2013-01-04"
+    }
+  ]
 }

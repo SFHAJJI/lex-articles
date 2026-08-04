@@ -6,6 +6,12 @@
   ],
   "versions": [
     {
+      "valid_from": "1997-03-28",
+      "valid_to": "2013-01-03",
+      "language": "fr",
+      "provisions": 8
+    },
+    {
       "valid_from": "2013-01-04",
       "valid_to": "2018-10-04",
       "language": "fr",
@@ -19,6 +25,7 @@
     }
   ],
   "anchors": [
+    "art_1",
     "art_10",
     "art_11",
     "art_12",
@@ -35,6 +42,8 @@
     "art_21",
     "art_3",
     "art_4",
+    "art_5",
+    "art_6",
     "art_8",
     "art_9"
   ],

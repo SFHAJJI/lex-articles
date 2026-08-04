@@ -12,17 +12,41 @@ generator: 'pdf-memorial-lu/1 · lex derive'
 
 <a id="art_1er"></a>
 
+### Art. 1er. L´article 2 du texte coordonné du 15 novembre 1967 comprenant la réglementation du salaire
+
+social minimum est modifié de la façon suivante: « Art. 2. Le taux horaire minimum du salaire est fixé à trente-trois francs, nombre-indice 160 pour les salariés masculins et féminins d´aptitude physique normale et âgés de vingt ans au moins. Pour les jeunes salariés âgés de moins de vingt ans, les taux sont fixés comme suit en pourcentage des salaires prévus pour les travailleurs adultes: de dix-neuf à vingt ans: quatre-vingt-dix pour-cent; de dix-huit à dix-neuf ans: quatre-vingts pour-cent; de dix-sept à dix-huit ans: soixante-dix pour-cent; de seize à dix-sept ans: soixante pour-cent; de quinze à seize ans: cinquante pour-cent. » . . . . . . 910
+
+<a id="art_2"></a>
+
+### Art. 2. L´article 3 du texte coordonné du 15 novembre 1967 comprenant la réglementation du salaire
+
+social minimum est modifié de la façon suivante: « Art. 3. Les appointements des employés et ouvriers non qualifiés masculins et féminins payés au mois ne pourront être inférieurs à six mille six cents francs, nombre-indice 160 pour les salariés d´apti- tude physique normale et âgés de vingt ans au moins. Pour les salariés âgés de moins de vingt ans, les appointements sont à fixer en appliquant les pour- centages prévus à l´article ci-dessus. »
+
+<a id="art_3"></a>
+
+### Art. 3. Les taux minima prévus aux articles 1er et 2 de la présente loi pourront être majorés succes-
+
+sivement par règlement grand-ducal jusqu´au maximum de trente-cinq francs par heure et de sept mille francs par mois, nombre-indice cent soixante, les chambres professionnelles, le Conseil d´Etat et la commission sociale de la Chambre des députés entendus en leurs avis.
+
+<a id="art_4"></a>
+
+### Art. 4. Le Gouvernement est autorisé à publier au Mémorial, sous la date de la présente loi, le texte
+
+coordonné des lois et arrêtés ayant pour objet la réglementation du salaire social minimum. Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne. Palais de Luxembourg, le 11 juillet 1969 Le Ministre du Travail Jean et de la Sécurité sociale, Jean Dupong Le Ministre de l´Economie Nationale et des Classes Moyennes, Marcel Mart Le Ministre de la Justice, Eugène Schaus Doc. parl. n° 1365. Sess. extraord. de 1969 TEXTE COORDONNE du 11 juillet 1969, des lois et arrêtés ayant pour objet la réglementation du salaire social minimum. Le texte coordonné ci-après comprend: 1) L´arrêté grand-ducal du 22 avril 1963 portant nouvelle fixation et réglementation du salaire social minimum. 2) L´arrêté grand-ducal du 25 juin 1965 modifiant et complétant l´arrêté grand-ducal du 22 avril 1963 portant nouvelle fixation et réglementation du salaire social minimum. 3) L´arrêté grand-ducal du 15 novembre 1967 portant modification de l´arrêté grand-ducal du 22 avril 1963 portant nouvelle fixation et réglementation du salaire social minimum tel qu´il a été modifié par l´arrêté grand-ducal du 25 juin 1965. 4) La loi du 11 juillet 1969 portant nouvelle fixation du taux du salaire social minimum. La publication est faite en application de l´article 4 de la loi du 11 juillet 1969 portant nouvelle fixation du taux du salaire social minimum.
+
+<a id="art_1er__2"></a>
+
 ### Art. 1er. Les taux des salaires minima fixés aux articles 2 et 3 sont obligatoires pour les employeurs
 
 et les travailleurs et ne pourront être abaissés ni par accord individuel, ni par contrat collectif. 911 Ils sont applicables aux établissements industriels, commerciaux et artisanaux aux établissements publics et d´utilité publique, aux professions libérales, aux sociétés et associations de quelque nature que ce soit ainsi qu´en général à toutes les branches d´activité privées ou publiques à l´exception cependant des gens de maison ainsi que de l´agriculture, de la viticulture et de l´horticulture. Ils sont adaptés au nombre-indice du coût de la vie suivant les modalités applicables aux traitements et pensions des fonctionnaires de l´Etat.
 
-<a id="art_2"></a>
+<a id="art_2__2"></a>
 
 ### Art. 2.
 
 (Loi du 11 juillet 1969) « Le taux horaire minimum du salaire est fixé à trente-trois francs nombre-indice 160 pour les salariés masculins et féminins d´aptitude physique normale et âgés de vingt ans au moins. Pour les jeunes salariés âgés de moins de vingt ans, les taux sont fixés comme suit en pourcentage des salaires prévus pour les travailleurs adultes: de dix-neuf à vingt ans: quatre-vingt-dix pour-cent; de dix-huit à dix-neuf ans: quatre-vingts pour-cent; de dix-sept à dix-huit ans: soixante-dix pour-cent; de seize à dix-sept ans: soixante pour-cent; de quinze à seize ans: cinquante pour-cent.
 
-<a id="art_3"></a>
+<a id="art_3__2"></a>
 
 ### Art. 3.
 
@@ -34,7 +58,7 @@ et les travailleurs et ne pourront être abaissés ni par accord individuel, ni 
 
 (Arr. gr.-d. du 25 juin 1965) « Pour les salariés masculins et féminins de qualification pro- fessionnelle spécifiée ci-après, les taux des salaires et appointements minima prévus aux articles 2 et 3 ci-dessus sont majorés de vingt pour-cent. Sont à considérer comme travailleurs qualifiés les salariés qui exercent une profession comportant une qualification professionnelle usuellement acquise par des études ou une formation confirmée par un certificat officiel et suivie d´une pratique d´au moins trois ans dans ladite profession. Sont à considérer comme certificats officiels, les certificats reconnus par l´Etat luxembourgeois et qui sont au moins du niveau du certificat d´aptitude professionnelle de l´enseignement professionnel ou du certificat de l´examen de passage de l´enseignement secondaire. Les salariés qui exercent une profession répondant aux critères énoncés à l´alinéa 2 sans être déten- teurs des certificats prévus à l´alinéa qui précède, doivent justifier d´une pratique professionnelle d´au moins dix ans dans ladite profession pour être reconnus comme travailleur qualifié. Dans les professions où la formation n´est pas établie par un certificat officiel les salariés peuvent être considérés comme travailleurs qualifiés, lorsqu´ils ont acquis une formation pratique résultant de l´exercice pendant au moins six ans de métiers, nécessitant une capacité technique progressivement croissante. »
 
-<a id="art_4"></a>
+<a id="art_4__2"></a>
 
 ### Art. 4. Les salaires et appointements minima sont basés sur la durée légale maximum de la journée
 

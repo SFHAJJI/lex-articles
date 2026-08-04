@@ -20,19 +20,3438 @@
   "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
   "provisions": [
     {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Le Grand-Duché est divisé en communes et celles-ci forment des districts, le tout de la manière qu'il est",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "établi ou qu'il sera ultérieurement arrêté. La dénomination de ville est attribuée par la loi. Elle est conservée aux communes de Luxembourg, Diekirch, Differdange, Dudelange, Echternach, Esch-sur-Alzette, Ettelbruck, Grevenmacher, Remich, Rumelange, Vianden et Wiltz. Les communes peuvent, par décision du conseil communal, prise sur avis préalable de la commission héraldique de l'Etat, se doter d'armoiries propres. Ces armoiries doivent être agréées et enregistrées par le ministre d'Etat, président du Gouvernement, conformément aux dispositions légales en vigueur.",
+      "text_sha256": "59c2cdcf1225f969d2f449d9ed17c18f4b5c486de057fde2f58a440b8158403c",
+      "md_span": {
+        "start": 690,
+        "end": 1260
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "La création de nouvelles communes, soit par l'érection en commune distincte de fractions d'une ou de",
+      "path": [
+        "Chapitre 2. – Du territoire de la commune"
+      ],
+      "article_valid_from": null,
+      "text_md": "plusieurs communes, soit par la fusion de deux ou de plusieurs communes, ainsi que la modification de leurs limites, ne peuvent se faire que par la loi.",
+      "text_sha256": "0ff101cafe67cf3da366b83a793d946c1a10d5fe269aff11e4d9a456ab9596f0",
+      "md_span": {
+        "start": 1442,
+        "end": 1594
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Le changement de nom d'une commune ne peut se faire que par la loi, sur la demande du conseil communal.",
+      "path": [
+        "Chapitre 3. – Du nom de la commune"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1772,
+        "end": 1772
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Il y a dans chaque commune un corps communal qui se compose du conseil communal, du collège des",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 1er. – Du corps communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "bourgmestre et échevins et du bourgmestre.",
+      "text_sha256": "cb9fb9cd1b1b2b50adf3f49a82b52f7319a97cc1d901443021915452f73fb8b1",
+      "md_span": {
+        "start": 2021,
+        "end": 2063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Les conseillers communaux sont élus directement par les électeurs de la commune, le tout dans la forme",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 1re. – De la formation du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "et de la manière déterminées par la loi électorale.",
+      "text_sha256": "268d15826778435ec609ae29e3eb903302df4564dd49c49f2383b11d6fc56c50",
+      "md_span": {
+        "start": 2297,
+        "end": 2348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Les conseillers prêtent, avant d'entrer en fonctions, le serment suivant:",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 1re. – De la formation du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "«Je jure fidélité au Grand-Duc, d'observer la Constitution et les lois du pays, et de remplir avec zèle, exactitude, intégrité et impartialité les fonctions qui me sont confiées.» Ce serment est prêté par les conseillers entre les mains du bourgmestre ou de celui qui le remplace. Quant aux conseillers qui, à l'expiration de leur mandat, sont immédiatement réélus, le serment qu'ils ont prêté antérieurement est considéré comme valable et suffisant.",
+      "text_sha256": "fe240e5fdfc8e988e7d87e2113289314097d2ce2735892ad9fc8ec39a91f9c25",
+      "md_span": {
+        "start": 2457,
+        "end": 2907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Tout candidat élu conseiller communal peut, après validation de son élection, renoncer, avant son",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 1re. – De la formation du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "installation, au mandat qui lui a été conféré. Ce désistement est donné par écrit au conseil communal. Une copie en est adressée en même temps au ministre de l'Intérieur et au commissaire de district.",
+      "text_sha256": "07f7343a341fb7423e945d522206a0f36e80e15c90b4ee0467e1e45a0282cf7c",
+      "md_span": {
+        "start": 3040,
+        "end": 3240
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Le conseiller qui, après avoir reçu deux convocations consécutives aux fins de prêter serment, s'abstient,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 1re. – De la formation du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "sans motif légitime, de remplir cette formalité, est considéré comme ayant renoncé à son mandat. Cette renonciation est formellement constatée par le ministre de l'Intérieur sur proposition du conseil communal ou du commissaire de district.",
+      "text_sha256": "19d2f061bc31039d1c746a5f5c07d9da2bc4935a278be1b05275e1bb888d147c",
+      "md_span": {
+        "start": 3382,
+        "end": 3622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Le conseiller élu au conseil communal, frappé d'incompatibilité par les articles 156 ou 158 de la loi électorale,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 1re. – De la formation du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "ne peut être admis à prêter serment aussi longtemps que l'incompatibilité subsiste. Le candidat élu est considéré comme se désistant de son mandat si, dans les trente jours à dater de la mise en demeure que lui notifie le collège des bourgmestre et échevins ou le ministre de l'Intérieur, il n'a pas mis fin à la situation incompatible avec son mandat. 865",
+      "text_sha256": "c20f6e12a61e560aa3847f1c70ef889d34e699ad1fd0a96d825d88a1b61bfbf7",
+      "md_span": {
+        "start": 3771,
+        "end": 4127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Tout membre du conseil communal qui accepte des fonctions incompatibles avec son mandat cesse de faire",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 1re. – De la formation du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "partie du conseil si, dans les trente jours à dater de la mise en demeure que lui notifie le collège des bourgmestre et échevins ou le ministre de l'Intérieur, il n'a pas résilié les fonctions incompatibles avec son mandat.",
+      "text_sha256": "2825eed16a6d21ab1c0320ddea368b4fc58ad3d08515fa6139e6836ea6365484",
+      "md_span": {
+        "start": 4267,
+        "end": 4490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Aussitôt après la prestation de serment, il est procédé à la formation du tableau de préséance des membres",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 1re. – De la formation du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "du conseil. Ce tableau qui est dressé par le conseil communal, sous l'approbation du ministre de l'Intérieur, est réglé d'après l'ordre d'ancienneté de service des conseillers. Les nouveaux membres y sont inscrits d'après la date et dans l'ordre de leur élection, à la suite de ceux qui sont déjà inscrits au tableau préexistant. Ceux qui sont élus par continuation ne sont pas considérés comme nouvellement entrés. Lorsque l'entrée en service a lieu à la même époque pour plusieurs conseillers, l'ancienneté est déterminée d'après le nombre des suffrages. Au cas de parité de voix, le plus âgé l'emporte. Les candidats proclamés élus sans scrutin, en vertu de l'article 169 de la loi électorale, devancent ceux qui sont élus au scrutin.",
+      "text_sha256": "2c8d138a2069928a16ca81d88770b9fe39d018155139d81276b419ced81dc01d",
+      "md_span": {
+        "start": 4634,
+        "end": 5371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Le conseil communal se réunit toutes les fois que l'exigent les affaires comprises dans ses attributions et",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "au moins une fois tous les trois mois. Il est convoqué par le collège des bourgmestre et échevins ou, en cas d'urgence, par le bourgmestre seul. Sur la demande écrite et motivée de la majorité des membres du conseil ou du ministre de l'Intérieur, le collège des bourgmestre et échevins est tenu de convoquer le conseil, avec l'ordre du jour proposé, dans un délai maximum de quinze jours.",
+      "text_sha256": "8be0554cfb9bcf8bd4bdddeb4266a21a12d9662df3546e70b095fac47b73a5e6",
+      "md_span": {
+        "start": 5573,
+        "end": 5961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Sauf le cas d'urgence, la convocation se fait, par écrit et à domicile, au moins cinq jours avant celui de la",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "réunion; elle mentionne le lieu, le jour et l'heure de la réunion et en contient l'ordre du jour. Aucun objet étranger à l'ordre du jour ne peut être mis en discussion, sauf dans les cas d'urgence. L'urgence est déclarée par la majorité des membres présents. Leurs noms sont inscrits au procès-verbal. Tout objet d'intérêt communal qu'un membre du conseil communal demande au bourgmestre de faire figurer à l'ordre du jour du conseil doit y être porté par le collège des bourgmestre et échevins, pour autant que la demande motivée a été faite par écrit et trois jours au moins avant la date de la réunion du conseil. Pour chaque point à l'ordre du jour, les documents, actes et pièces afférents peuvent être consultés, sans déplacement, par les membres du conseil à la maison communale durant le délai prévu à l'alinéa 1er du présent article. Il peut en être pris copie, le cas échéant contre remboursement.",
+      "text_sha256": "835aacb67d10b02901b5d58f303dfcd5ffb9e81d261e7c19c81d4af24959b41b",
+      "md_span": {
+        "start": 6108,
+        "end": 7015
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Le conseil communal se donne un règlement d'ordre intérieur qui arrête la façon dont il exerce ses",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "attributions, compte tenu des dispositions de la loi. (Loi du 28 décembre 1995 - Citoyens de l’Union Européenne) «La langue usuelle parlée au conseil communal est le luxembourgeois. Les conseillers peuvent s’exprimer également dans l’une des autres langues visées à l’article 3 de la loi du 24 février 1984 sur le régime des langues. Nul ne saurait toutefois demander une interprétation de la langue parlée ou une traduction des documents écrits présentés en une des langues visées par la loi précitée ou en toute autre langue.»",
+      "text_sha256": "6289e3b5dbee19ead409b4274b17c291a2a43857f202a656484262db86b19142",
+      "md_span": {
+        "start": 7151,
+        "end": 7679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Le conseil communal peut constituer des commissions consultatives dont la composition, le",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "fonctionnement et les attributions sont fixés par règlement d'ordre intérieur. Dans les communes qui votent d'après le système de la représentation proportionnelle chaque groupement de candidats est représenté dans les commissions consultatives en fonction du nombre de ses élus au conseil.",
+      "text_sha256": "a0c789235d7b5aac622c525af3e9695d6fc93e50674494cb3083deb70356b5a4",
+      "md_span": {
+        "start": 7806,
+        "end": 8096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Le bourgmestre ou celui qui le remplace préside le conseil communal.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le président ouvre et clôt la séance. Il peut aussi la suspendre pour un temps limité dans les conditions fixées par le règlement d'ordre intérieur.",
+      "text_sha256": "2e135d56bc9a9a3ddaf2f272036273f39b4b9b20dd40a31958149181da2972f2",
+      "md_span": {
+        "start": 8202,
+        "end": 8350
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Le président a seul la police de l'assemblée. Il peut faire expulser de l'auditoire ou faire arrêter toute",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "personne qui trouble l'ordre.",
+      "text_sha256": "f5bfb4d9699e37657916670b5f406f115f9fad533506351fe0e1057e5151f3f2",
+      "md_span": {
+        "start": 8494,
+        "end": 8523
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Le conseil ne peut prendre de résolution, si la majorité de ses membres en fonction n'est présente.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "Cependant, si l'assemblée a été convoquée deux fois sans s'être trouvée en nombre requis, elle pourra, après une nouvelle et dernière convocation, quel que soit le nombre des membres présents, prendre une résolution sur les objets mis pour la troisième fois à l'ordre du jour. Les deuxième et troisième convocations se feront conformément aux règles prescrites par les articles 12 et 13, et il sera fait mention si c'est pour la deuxième fois ou pour la troisième que la convocation a lieu; en outre la troisième convocation rappellera textuellement les deux premières dispositions du présent article. Un membre du conseil qui, sans motif légitime, n'aura pas été présent à trois séances consécutives pourra, sur la proposition du conseil, être déclaré démissionnaire par le ministre de l'Intérieur.",
+      "text_sha256": "4ddd77c7a444c90a1495a6e1ff0d82e95f0848b55b53ea1e9c38682b2f86bfd7",
+      "md_span": {
+        "start": 8660,
+        "end": 9459
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Le conseil décide à la majorité des suffrages. En cas de partage, l'objet en discussion devra être reporté à",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "l'ordre du jour de la séance suivante; au même cas de partage dans cette seconde séance, le bourgmestre, ou celui qui le remplace, a voix prépondérante. 866 Les membres du conseil votent à haute voix, à main levée ou par assis et levé. Le vote à haute voix a lieu par ordre alphabétique et commence par le conseiller dont le nom est sorti premier de l'urne. Les présentations de candidats, nominations aux emplois, démissions ou peines disciplinaires sont décidées au scrutin secret à la majorité absolue. Le conseil communal peut décider, par délibération à caractère général, que pour les présentations de candidats, les nominations définitives, les promotions et les démissions, le vote se fait à haute voix, à main levée ou par assis et levé. Toutefois, dans ces cas, le vote au scrutin secret reste de rigueur si un membre du conseil le demande. En ce qui concerne l'administration des hospices civils, les conditions de validité des délibérations de la commission, de l'ordre et de la tenue des séances, sauf en ce qui concerne la publicité, les conditions d'annulation de ses délibérations et de recours sont celles que fixe la législation en vigueur pour les conseils communaux.",
+      "text_sha256": "5d0362434a4b5b230669f454fa32972fbe338b05a8c0f88ee8c36ef8049d5908",
+      "md_span": {
+        "start": 9605,
+        "end": 10791
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Il est interdit à tout membre du corps communal, au secrétaire et receveur:",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "1° d'être présent aux délibérations du conseil communal et du collège des bourgmestre et échevins sur des objets auxquels il a un intérêt direct, soit personnellement, soit comme chargé d'affaires ou fondé de pouvoir ou auxquels ses parents ou alliés jusqu'au troisième degré inclusivement ont un intérêt personnel et direct. Cette interdiction s'applique tant aux discussions qu'au vote; 2° d'intervenir comme avocat, avoué ou chargé d'affaires dans les procès dirigés contre la commune. Il ne pourra, en la même qualité, servir la commune, si ce n'est gratuitement; 3° de prendre part, directement ou par personne interposée, à aucun marché de travaux, de fournitures ou de services pour la commune. Cette interdiction s'applique également aux sociétés civiles, en nom collectif, en commandite simple ou à responsabilité limitée dans lesquelles le membre du corps communal, le secrétaire ou le receveur est associé, gérant ou mandataire salarié ainsi qu'aux sociétés par actions ou coopératives dans lesquelles il est administrateur chargé de la gestion courante ou employé dirigeant. Cette interdiction s'applique encore aux sociétés par actions et sociétés coopératives dans lesquelles un membre du collège des bourgmestre et échevins appartient au conseil d'administration. L'interdiction visée aux alinéas qui précèdent sub 3° ne s'applique pas aux fournitures et prestations urgentes de faible envergure faites par un commerçant ou artisan, lorsqu'aucune autre entreprise de la même branche n'existe dans la commune ou dans le voisinage. Elle ne s'applique pas non plus aux sociétés visées à l'article 13 de la loi modifiée du 14 février 1900 concernant la création de syndicats de communes.",
+      "text_sha256": "46cbcb2448ff69d4c49035ea57f63c1e289b4a169df40ff66ba06da9e0853283",
+      "md_span": {
+        "start": 10904,
+        "end": 12602
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Les séances du conseil communal sont publiques.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "Toutefois, pour des considérations d'ordre public ou à cause d'inconvénients graves, le conseil, à la majorité des deux tiers des membres présents, peut décider, par délibération motivée, que la séance est tenue à huis clos.",
+      "text_sha256": "b4530d3d3d45cd42cd2fc6576c15166007006b7bdd4e1ed042a430414df0cc45",
+      "md_span": {
+        "start": 12687,
+        "end": 12911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Le conseil communal se réunit à la maison communale ou dans un local particulier à désigner par le conseil",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "communal, sous l'approbation du ministre de l'Intérieur.",
+      "text_sha256": "5975f7927372ddc7d3a1432eb43e56760cb73cbc55b16268794aa280dbc5b37a",
+      "md_span": {
+        "start": 13055,
+        "end": 13111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "Les membres du conseil communal ont le droit de prendre connaissance des décisions du collège des",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "bourgmestre et échevins prises en exécution des délibérations du conseil communal.",
+      "text_sha256": "a0762ba4e47340584a885ae8f3191697aaa063539bbdf6c53aa8ee1fd6f0b84c",
+      "md_span": {
+        "start": 13246,
+        "end": 13328
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "Tout habitant de la commune et toute personne intéressée a le droit de prendre connaissance et copie,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "le cas échéant contre remboursement, sans déplacement, des délibérations du conseil communal, à l'exception de celles qui furent prises à huis clos, aussi longtemps que le conseil n'a pas décidé de les rendre publiques. Le même droit ne peut en aucun cas et sous aucun prétexte être refusé au fonctionnaire délégué à cet effet par le ministre de l'Intérieur ou par le commissaire de district. A de pareils délégués ou commissaires spéciaux doivent aussi être fournis tous les renseignements que possède l'administration communale et dont ils ont besoin pour remplir leur mission.",
+      "text_sha256": "4d413d326f1c0c5cd4f340e7cc8ed755ac7d169141145e4f454b8fa5f74beae3",
+      "md_span": {
+        "start": 13467,
+        "end": 14046
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": "Les membres du conseil ont le droit de poser au collège des bourgmestre et échevins des questions",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "relatives à l'administration de la commune. Il y est répondu par écrit dans le mois ou oralement lors de la première réunion utile du conseil communal, le tout dans la forme et de la manière prévues au règlement d'ordre intérieur.",
+      "text_sha256": "28cee03edf9fb3de962fc80e97ec625f8568872c66541aeaf0d41ca3f8c71d64",
+      "md_span": {
+        "start": 14181,
+        "end": 14411
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Les délibérations du conseil communal sont rédigées par le secrétaire et transcrites sans blanc ni interligne,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "sur un registre à feuilles fixes ou mobiles qui est coté et paraphé par le bourgmestre; elles sont signées par tous les membres présents dans les meilleurs délais et si possible lors de la prochaine réunion du conseil, sans qu'il puisse en être délivré expédition avant les signatures de la majorité. Les délibérations constatent le nombre des membres qui ont voté pour et contre. Ces expéditions sont signées par le bourgmestre ou celui qui le remplace et contresignées par le secrétaire; elles énoncent les noms de tous les membres qui ont concouru à la délibération.",
+      "text_sha256": "208a3ebea4fd1cd72c43ad4436881fe6ff56d86612b6612ab2b3ce9e2d6ee35c",
+      "md_span": {
+        "start": 14559,
+        "end": 15128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": "Des jetons de présence peuvent, sous l'approbation du ministre de l'Intérieur, être accordés aux membres",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 2. – Du fonctionnement du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "du conseil et aux membres des commissions consultatives pour l'assistance aux séances du conseil et à celles de ses commissions. Des jetons de présence peuvent également être accordés, sous l'approbation du ministre de l'Intérieur, aux membres des commissions administratives des offices sociaux et des hospices civils pour l'assistance aux séances desdites commissions. 867",
+      "text_sha256": "5b1d98b8a1323adb90cc1d6dfaf10caa43b26ff404e3bfbec45ff1544e75e5aa",
+      "md_span": {
+        "start": 15270,
+        "end": 15644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": "Le conseil communal règle tout ce qui est d'intérêt communal; il délibère ou donne son avis toutes les fois",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "que ses délibérations ou avis sont requis par les lois et règlements ou demandés par l'autorité supérieure. Les délibérations du conseil sont précédées d'une information lorsqu'elle est prescrite par les lois et règlements ainsi que toutes les fois que le conseil communal le juge nécessaire.",
+      "text_sha256": "16a31a0ad7ee0dc291d554fee82a9e7121518b7455382d6268106bfebbbca2b4",
+      "md_span": {
+        "start": 15845,
+        "end": 16137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": "Le conseil fait les règlements communaux.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "Ces règlements ne peuvent être contraires aux lois ni aux règlements d'administration générale. Le conseil en transmet, dans les huit jours, des expéditions au ministre de l'intérieur. Les infractions aux règlements communaux sont punies de peines de police, à moins que d'autres peines ne soient prévues par des lois spéciales. Lorsque l'importance de la matière l'exige, le conseil communal peut, par délibération spécialement motivée, porter le maximum de l'amende jusqu'à 100.000 francs. Ces délibérations sont soumises à l'approbation du ministre de l'Intérieur.",
+      "text_sha256": "8a8a81a631392a58d8007d2b4fe77cc343655a4d7beb764763e327f2326ccab1",
+      "md_span": {
+        "start": 16216,
+        "end": 16783
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": "Le Conseil communal nomme, révoque et démissionne les fonctionnaires et les employés de la commune,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "sous l'approbation du ministre de l'Intérieur.",
+      "text_sha256": "8f0e026ac03734f5d422b314426b1d349e49985615570bdc4ae4f0d1a5dcb9e7",
+      "md_span": {
+        "start": 16920,
+        "end": 16966
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": "Le conseil nomme les membres des commissions administratives des hospices civils et des offices sociaux.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "Cette nomination est faite pour le terme fixé par la loi. Elle a lieu sur deux propositions, présentées l'une par l'administration de ces établissements, l'autre par le collège des bourgmestre et échevins. Le candidat figurant dans une proposition peut également figurer dans l'autre. Les membres des commissions administratives des hospices civils et des offices sociaux doivent être de nationalité luxembourgeoise. Les incompatibilités établies à l'égard des conseillers communaux leur sont applicables, sauf qu'ils peuvent être choisis parmi les ministres d'un culte salariés comme tels par l'Etat. Expédition des actes de nomination est transmise au ministre de l'Intérieur, par l'intermédiaire du commissaire de district. Le conseil communal peut révoquer les membres des commissions administratives, sous l'approbation du ministre de l'Intérieur qui peut également dissoudre lesdites commissions, le conseil communal entendu. Il n'est pas dérogé par les dispositions qui précèdent aux actes de fondation qui établissent des administrateurs spéciaux dont la gestion reste soumise à telle surveillance que de droit de la part de l'autorité supérieure compétente.",
+      "text_sha256": "5bc0e39f485cab4f2b3d69b16f2322573d3ec4bfefe4eb7b7d9269c3b680dae6",
+      "md_span": {
+        "start": 17108,
+        "end": 18274
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "Sans préjudice des dispositions prévues à l'article 19 de la présente loi, toutes les fois que le conseil",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "communal a une nomination ou une proposition de candidats à faire, le scrutin se fait par bulletins non signés, qui sont réunis par le bourgmestre ou celui qui le remplace, lequel donne ensuite lecture de ce qu'ils contiennent, tandis que deux autres membres présents du conseil communal, les premiers en rang après les échevins, s'occupent, l'un d'annoter successivement le contenu des bulletins, et l'autre d'en tenir le contrôle; il est en outre tenu par le secrétaire une liste des membres votants de l'assemblée pour chaque élection, ainsi que des personnes qui ont obtenu les voix; toutes ces opérations ont lieu en présence de l'assemblée.",
+      "text_sha256": "7821055913be7c9f2031602d70f31c6f06069e1cfa03664db8095e7c5b9f19b8",
+      "md_span": {
+        "start": 18417,
+        "end": 19063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": "Il est fait un scrutin particulier pour chaque place vacante, à laquelle on doit nommer, de même que pour",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "chaque personne à porter sur une liste de proposition; on n'admet pas de bulletin de suffrage de personnes absentes; tout bulletin est considéré comme nul, si le conseil communal juge que la désignation de la personne n'est pas assez claire, ou que, pour d'autres raisons, fondées sur la présente loi, le bulletin ne soit pas admissible. La nullité d'un ou de plusieurs bulletins de suffrage, ainsi que des bulletins laissés en blanc, n'invalide pas le scrutin.",
+      "text_sha256": "0178b54b07126281f1f8aec3e5b98035614097d8d91be2a838ac02021c3b20e8",
+      "md_span": {
+        "start": 19206,
+        "end": 19667
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": "Nul n'est admis au premier tour de scrutin, s'il ne réunit plus de la moitié des votes valables.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "En cas de partage de toutes les voix entre deux candidats, le sort décide. Si aucun des candidats ne réunit la majorité absolue des suffrages, il est procédé à un scrutin de ballottage entre les deux personnes qui ont le plus de voix, et la nomination a lieu à la majorité des votes. Si le premier tour de scrutin donne à plus de deux candidats le plus de voix et en nombre égal, un second scrutin est ouvert entre eux, et les deux candidats qui obtiennent à ce scrutin le plus de voix, sont seuls soumis au ballottage. Au cas d'une nouvelle parité de suffrages dans le second scrutin, le sort désigne les candidats à soumettre au ballottage. Si le premier ou le deuxième scrutin, sans donner à aucun des candidats la majorité, donne le plus de voix à l'un d'eux et parité de voix à plusieurs autres, il est procédé comme au cas précédent, pour trouver celui qui, avec le premier, sera soumis au ballottage.",
+      "text_sha256": "498105c06179964ca75ec439e0efdf20e9dd8e3e92bd294d507b8d5c834be45b",
+      "md_span": {
+        "start": 19801,
+        "end": 20708
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": "Le conseil communal peut appeler les électeurs à se prononcer par la voie du référendum dans les cas",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "d'intérêt communal et sous les conditions qu'il détermine. Le référendum est de droit lorsque la demande en est faite par un cinquième des électeurs dans les communes de plus de trois mille habitants, et par un quart des électeurs dans les autres communes. Dans ces cas, le conseil doit organiser le référendum dans les trois mois de la demande. Les modalités du référendum sont fixées par règlement grand-ducal. Les dispositions de la loi électorale relatives au vote obligatoire, notamment les articles 259 à 262 inclusivement, sont applicables. Dans tous les cas, le référendum n'a qu'un caractère consultatif. 868",
+      "text_sha256": "2bb8efbd2ce34ac8b9bb3002c0f754eeaed5406c41a49c0d2cd904ba92aee042",
+      "md_span": {
+        "start": 20846,
+        "end": 21463
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": "Sans préjudice des dispositions de l'article 35, le conseil communal ou le collège des bourgmestre et",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "échevins peuvent inviter les administrés de la commune, en totalité ou en partie, à faire connaître leur opinion au sujet d'un problème communal spécifique. La participation est facultative. Les modalités sont déterminées par l'autorité consultante. Le résultat de la consultation est communiqué au conseil communal.",
+      "text_sha256": "e220d2e8702d5f646e440def7a9fe74fcf107317610ab7365f12bd8f04571a9c",
+      "md_span": {
+        "start": 21602,
+        "end": 21918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": "En cas de rejet par le conseil communal du projet de budget présenté par le collège des bourgmestre et",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 2. – Du conseil communal",
+        "Section 3. – Des attributions du conseil communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "échevins, le conseil peut être saisi d'une motion de censure, laquelle, pour être recevable, doit être signée par un tiers au moins des membres du conseil. Le vote ne peut avoir lieu que cinq jours au moins et vingt jours au plus tard après le dépôt. Seuls sont recensés les votes favorables à la motion de censure, qui ne peut être adoptée qu'à la majorité des membres composant le conseil. En cas d'adoption de la motion, les membres du collège des bourgmestre et échevins sont déclarés démissionnaires par le ministre de l'Intérieur, à l'exception des bourgmestres et des échevins des villes, qui sont démissionnés par le Grand-Duc. La motion de censure n'est plus recevable lors du vote sur le budget de l'année dans laquelle aura lieu le renouvellement intégral des conseils communaux. La motion de censure est formulée par écrit; elle est remise au bourgmestre ou à celui qui le remplace.",
+      "text_sha256": "21347154e9ec15d3f5f864a2d67f8e1835957325ace66895fd7b5fd4c130552a",
+      "md_span": {
+        "start": 22058,
+        "end": 22952
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": "Le collège des bourgmestre et échevins de chaque commune se compose d'un bourgmestre et de deux",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "échevins. Par dérogation à l'alinéa qui précède, le nombre des échevins peut être fixé, par arrêté grand-ducal, à 3 dans les communes de 10.000 à 19.999 habitants et à 4 dans les communes de 20.000 habitants et plus, sauf que le nombre des échevins de la Ville de Luxembourg peut être de 6. Lorsque le dernier recensement prévu à l'article 85 de la loi électorale est antérieur de plus de cinq ans à la date des élections communales ordinaires, le nombre des échevins attribués à chaque commune est fixé eu égard à la population réelle de chaque commune au 31 décembre de l'année précédant les élections, lequel est publié par arrêté ministériel, conformément à l'article 148 de la loi électorale. (Loi du 28 décembre 1995) «Art. 39. Les échevins sont nommés, à savoir, ceux des villes par le Grand-Duc, et ceux des autres communes par le ministre de l'Intérieur, les uns et les autres à choisir parmi les membres luxembourgeois du conseil communal.»",
+      "text_sha256": "9c669d0b8429c50e0075d803bece50efaa7921f9bbad44495b28b54e67c6fc86",
+      "md_span": {
+        "start": 23219,
+        "end": 24169
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": "Le rang des échevins est déterminé par ordre de nomination. Il peut toutefois être modifié par une décision",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "du collège des bourgmestre et échevins, sous l'approbation du ministre de l'Intérieur.",
+      "text_sha256": "225ab211551466b87e694413a5c76345c48c0d46314a800631e02093903c83cd",
+      "md_span": {
+        "start": 24314,
+        "end": 24400
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": "En cas d'inconduite notoire, de faute ou de négligence graves, les échevins peuvent être suspendus de",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "l'exercice de leurs fonctions par le ministre de l'Intérieur pour un temps qui ne pourra excéder trois mois, sauf à être renouvelé par décision motivée. Ils peuvent être démis par le même ministre à l'exception des échevins des villes, auxquels le Grand-Duc seul peut donner leur démission. L'échevin démis ne peut siéger au collège des bourgmestre et échevins jusqu'au renouvellement du conseil communal qui suit sa démission. (Loi du 28 décembre 1995) «Art. 42. En cas d'absence ou d'empêchement d'un échevin, de vacance d'un mandat d'échevin ou de remplacement du bourgmestre par un échevin, le président du collège des bourgmestre et échevins peut remplacer l'échevin par un conseiller communal de nationalité luxembourgeoise.» Le remplacement est de droit dès que l'absence ou l'empêchement dépasse la durée d'un mois. Le remplaçant doit, dans tous les actes, énoncer la qualité en laquelle et la cause pour laquelle il agit comme tel.",
+      "text_sha256": "72fd7aa79e0b0a560abce50765af61776e8e6021f0aa01c6c61d22b2a2ff59ca",
+      "md_span": {
+        "start": 24539,
+        "end": 25479
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 43.",
+      "heading": "Les échevins sont nommés pour un terme de six ans. Toutefois, ils perdent cette qualité si, dans l'intervalle,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "ils cessent de faire partie du conseil communal. L'échevin nommé en remplacement d'un autre échevin achève le mandat de celui-ci.",
+      "text_sha256": "5a7436ab7c7e228616e859cf9b02258eb4564b02a5e1548a9ede84868ce6c01b",
+      "md_span": {
+        "start": 25627,
+        "end": 25756
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 44.",
+      "heading": "Les échevins prêtent, avant d'entrer en fonctions entre les mains du bourgmestre ou de celui qui le",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "remplace le serment prévu à l'art. 6 de la présente loi. Quant aux échevins, dont le mandat, à son expiration, est immédiatement renouvelé, le serment qu'ils ont prêté antérieurement est considéré comme valable et suffisant. L'échevin qui, après avoir reçu deux convocations consécutives aux fins de prêter serment, s'abstient, sans motif légitime, de remplir cette formalité, est considéré comme se désistant de son mandat.",
+      "text_sha256": "eaf79f519569414706dd920702d60628abb00b5c2dfcef575be881cb6ed8a051",
+      "md_span": {
+        "start": 25893,
+        "end": 26317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_45",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 45.",
+      "heading": "La démission des fonctions d'échevin est adressée par écrit au bourgmestre qui en donne connaissance en",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "séance publique au conseil communal. Une copie de la lettre de démission est adressée en même temps au ministre de l'Intérieur pour la Ville de Luxembourg et au commissaire de district pour toutes les autres communes. 869",
+      "text_sha256": "dc8312e5d94f28d7ea4145bec062f3e44567afbf4c28a747c8b8e518a2b78414",
+      "md_span": {
+        "start": 26458,
+        "end": 26679
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_46",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 46.",
+      "heading": "Les membres du collège frappés d'inéligibilité ou d'incompatibilité et qui, dans ce dernier cas, n'ont pas mis",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "fin à la situation incompatible avec leur mandat, dans les trente jours à dater de la mise en demeure que leur notifie le ministre de l'Intérieur, sont déclarés démissionnaires par le ministre de l'Intérieur, à l'exception des bourgmestres et des échevins des villes, qui sont démissionnés par le Grand-Duc.",
+      "text_sha256": "73ba3e1decba6a70b6455f796eb70b16060b26b226828583451df8b5a9fa36e4",
+      "md_span": {
+        "start": 26827,
+        "end": 27134
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_47",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 47.",
+      "heading": "L'échevin sortant, réélu comme conseiller communal ou l'échevin démissionnaire est tenu de continuer",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "l'exercice de son mandat jusqu'à ce qu'il ait été remplacé. L'échevin sortant non réélu comme conseiller communal est tenu de continuer l'exercice de son mandat jusqu'à l'installation du nouveau conseil communal.",
+      "text_sha256": "3dcd2b1e9ea97b83e91b01dfd8589d2c9ad1c797a1aa3e887312f911594f6db3",
+      "md_span": {
+        "start": 27272,
+        "end": 27484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_48",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 48.",
+      "heading": "L'échevin qui remplit les fonctions de bourgmestre pendant plus d'un mois a droit à l'indemnité du titulaire.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 1re. – De la formation du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "Dans aucun cas, l'échevin ne peut cumuler son indemnité avec celle du bourgmestre.",
+      "text_sha256": "4a9e74462206f8ab7b1e567bb62ac09d3909f63ee67a9b43d7ab36f5246a8058",
+      "md_span": {
+        "start": 27631,
+        "end": 27713
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_49",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 49.",
+      "heading": "Le bourgmestre est de droit président du collège des bourgmestre et échevins.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 2. – Du fonctionnement du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 27904,
+        "end": 27904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_50",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 50.",
+      "heading": "Le collège des bourgmestre et échevins se réunit aussi souvent que l'exige la prompte expédition des",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 2. – Du fonctionnement du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "affaires, soit aux jours et heures fixés par son règlement d'ordre intérieur, soit sur convocation du bourgmestre. Il ne peut délibérer que si plus de la moitié de ses membres sont présents. Les résolutions sont prises à la majorité des suffrages. En cas de parité des voix, et si le président ne remet pas l'affaire à une autre réunion, sa voix est prépondérante.",
+      "text_sha256": "319397745169adc84107f8328a550bf061b8b1fc10fc33d045beb3b006645f8c",
+      "md_span": {
+        "start": 28042,
+        "end": 28406
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_51",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 51.",
+      "heading": "Sauf disposition légale contraire, les réunions du collège des bourgmestre et échevins ont lieu à huis clos.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 2. – Du fonctionnement du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 28552,
+        "end": 28552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_52",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 52.",
+      "heading": "Les réunions du collège échevinal se tiennent à la maison communale ou dans un local à désigner par le collège.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 2. – Du fonctionnement du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 28701,
+        "end": 28701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_53",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 53.",
+      "heading": "Les délibérations du collège des bourgmestre et échevins sont rédigées par le secrétaire communal et",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 2. – Du fonctionnement du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "transcrites sur un registre dont la forme et la tenue sont assujetties aux règles prévues à l'article 26 de la présente loi pour le registre aux délibérations du conseil communal. En cas d'unanimité, il suffit que l'accord de chaque membre du collège soit consigné par écrit.",
+      "text_sha256": "e32342c4041f5cf4f3d2fc637adc96f4f327267cd732092b445164433a255f6d",
+      "md_span": {
+        "start": 28839,
+        "end": 29114
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_54",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 54.",
+      "heading": "Il est réservé au Grand-Duc de déterminer un signe distinctif et le modèle d'une pièce de légitimation pour",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 2. – Du fonctionnement du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "les bourgmestres et échevins.",
+      "text_sha256": "3ea312ce215d5bc1e76df406bcffdb50af5aac3fd9b7f7872cb9162cb2842507",
+      "md_span": {
+        "start": 29259,
+        "end": 29288
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_55",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 55.",
+      "heading": "Les indemnités des bourgmestre et échevins sont fixées par le conseil communal, sous l'approbation du",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 2. – Du fonctionnement du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "ministre de l'Intérieur. Un règlement grand-ducal peut arrêter les maxima de ces indemnités. Les commissions administratives des hospices civils peuvent allouer une indemnité à leurs présidents sous l'approbation du ministre de l'Intérieur. En dehors de ces indemnités, les personnes visées aux deux alinéas qui précèdent ne peuvent jouir d'aucun émolument à charge de la commune ou de l'hospice civil, sous quelque prétexte ou dénomination que ce soit.",
+      "text_sha256": "b4107bf7dc3c05ac6d658fae3d012fc14ec7cd7a7857dd1acfdb54eb3f10f19c",
+      "md_span": {
+        "start": 29427,
+        "end": 29880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_56",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 56.",
+      "heading": "Lorsqu'un conseiller communal remplace un échevin pour un terme d'un mois ou plus, l'indemnité attachée",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 2. – Du fonctionnement du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "à la fonction d'échevin lui est allouée pour tout le temps qu'il l'a remplie. Dans ce cas, l'échevin remplacé n'a pas droit à son indemnité, sauf s'il est empêché pour cause de maladie. Le conseiller remplaçant ne peut cumuler l'indemnité qu'il touche en tant qu'échevin faisant fonction et les jetons de présence auxquels il aurait droit comme conseiller pour son assistance aux séances du conseil communal.",
+      "text_sha256": "3e4ed519e17186f3a57f03c88c9ce2f78885a2666bf82799fba040434b1da512",
+      "md_span": {
+        "start": 30021,
+        "end": 30429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_57",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 57.",
+      "heading": "Indépendamment des attributions qui lui sont conférées par d'autres dispositions légales le collège des",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 3. – Des attributions du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "bourgmestre et échevins est chargé: 1° de l'exécution des lois, des règlements et arrêtés grand-ducaux et ministériels, pour autant qu'ils ne concernent pas la police; 2° de la publication et de l'exécution des résolutions du conseil communal; 3° de l'instruction des affaires à soumettre au conseil communal ainsi que de l'établissement de l'ordre du jour des réunions du conseil communal; 4° de l'administration des établissements communaux et du contrôle des établissements publics placés sous la surveillance de la commune; 5° de la surveillance des services communaux; 6° de la direction des travaux communaux; 7° de l'administration des propriétés de la commune ainsi que la conservation de ses droits; 8° de la surveillance des fonctionnaires, employés et ouvriers de la commune; de l'application à ces personnes des mesures qui découlent impérativement de dispositions législatives ou réglementaires en matière de congés, promotions et autres droits statutaires; 9° du contrôle de la composition régulière des conseils des fabriques d'église; 10° de la surveillance spéciale des hospices civils et des offices sociaux; 870 Le collège visite ces établissements chaque fois qu'il le juge convenable, veille à ce qu'ils ne s'écartent pas de la volonté des donateurs et testateurs et fait rapport au conseil des améliorations à y introduire et des abus qu'il y a découverts; 11° de la garde des archives, des titres et des registres de l'état civil.",
+      "text_sha256": "77e4bd316dff2e2943e7b835b91701e32659d4e5e50fc7d426764bccaf265ebf",
+      "md_span": {
+        "start": 30645,
+        "end": 32098
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_58",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 58.",
+      "heading": "En cas d’émeutes, d’attroupements hostiles, d’atteintes ou de menaces graves à la paix publique ou d’autres",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 3. – Du collège des bourgmestre et échevins",
+        "Section 3. – Des attributions du collège des bourgmestre et échevins"
+      ],
+      "article_valid_from": null,
+      "text_md": "événements imprévus, lorsque le moindre retard peut occasionner des dangers ou des dommages pour les habitants, les bourgmestres et échevins peuvent faire des règlements et ordonnances de police, à charge d’en donner communication au conseil et d’en envoyer immédiatement copie au ministre de l’Intérieur et au commissaire de district, en exposant les motifs pour lesquels ils ont cru devoir se dispenser de recourir au conseil communal. Dans les cas mentionnés au présent article le collège des bourgmestre et échevins peut délibérer, quel que soit le nombre des membres présents. En cas de partage la voix du président est prépondérante. Ces règlements et ordonnances cessent immédiatement d’avoir effet, s’ils ne sont pas confirmés par le conseil communal à sa prochaine séance. En cas d’inaction du collège échevinal ou à défaut de confirmation par le conseil communal des ordonnances du collège échevinal, le commissaire de district peut prendre les règlements et ordonnances dont il est question à l’alinéa 1er du présent article et en adresse immédiatement une copie au ministre de l’Intérieur et au collège échevinal. Les règlements et ordonnances pris par le commissaire de district sont publiés de la même manière que ceux édictés par le collège échevinal. L’exécution des règlements et ordonnances prévus au présent article peut être suspendue par le ministre de l’Intérieur. (Loi du 31 mai 1999) «Les contraventions aux règlements et ordonnances prévus au présent article seront punies de peines de police, à moins que d’autres peines ne soient prévues par des lois spéciales.»",
+      "text_sha256": "8ee1cea989e142b346a5207f9d65501c6efb60e7f03b59905b95ea1abe896cbd",
+      "md_span": {
+        "start": 32243,
+        "end": 33832
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_60",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 60.",
+      "heading": "Avant d’entrer en fonctions, le bourgmestre prête, entre les mains du ministre de l’Intérieur ou de son",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 1re. – De la nomination du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "délégué, le serment prévu à l’article 6 de la présente loi. La prestation de ce serment le dispense de celui à prêter comme conseiller communal. Quant au bourgmestre dont le mandat, à son expiration, est immédiatement renouvelé, le serment qu’il a antérieurement prêté est considéré comme valable et suffisant. Le bourgmestre qui, après avoir reçu deux convocations consécutives aux fins de prêter serment, s’abstient, sans motif légitime, de remplir cette formalité, est considéré comme se désistant de son mandat.",
+      "text_sha256": "c2f4191530f15259794c4960ca328d73a0ff47fd100fdeac81b8ceb7ec24fdf6",
+      "md_span": {
+        "start": 34060,
+        "end": 34575
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_61",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 61.",
+      "heading": "La démission des fonctions de bourgmestre est adressée au Grand-Duc et notifiée au conseil communal.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 1re. – De la nomination du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "Elle ne devient effective qu’après avoir été acceptée par le Souverain. Le bourgmestre qui désire donner sa démission comme conseiller communal doit avoir obtenu préalablement sa démission comme bourgmestre. Les fonctions de bourgmestre sont indépendantes de celles de membre du conseil communal de sorte qu’une personne peut demander et obtenir démission des premières de ces fonctions, sans cesser d’être membre du conseil communal.",
+      "text_sha256": "314a2e2ed1a98c3e0ca20d956c118072b09a5da75522cc2b4556fbaf14f98117",
+      "md_span": {
+        "start": 34713,
+        "end": 35147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_62",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 62.",
+      "heading": "Le bourgmestre sortant ou le bourgmestre démissionnaire est tenu de continuer l’exercice de ses",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 1re. – De la nomination du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "fonctions jusqu’à ce que son successeur ait prêté serment.",
+      "text_sha256": "7e8aacfc085405fb4340627ec1f3a7bf3a1b048ad3acaf57f02296ec23f74c68",
+      "md_span": {
+        "start": 35280,
+        "end": 35338
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_63",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 63.",
+      "heading": "En cas d’inconduite notoire, de faute ou de négligence graves, le bourgmestre peut être suspendu de",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 1re. – De la nomination du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’exercice de ses fonctions par le Grand-Duc, pour un temps qui ne pourra excéder trois mois, sauf à être renouvelé par décision motivée. Il peut également être démis. Il est préalablement entendu par le ministre de l’Intérieur ou son délégué. Le bourgmestre démis ne peut siéger au collège des bourgmestre et échevins jusqu’au renouvellement du conseil communal qui suit sa démission.",
+      "text_sha256": "6b10f34ede41dc39a1b1122e7c842da4f6a1dfb0333121a602cf0e8d4f5b1e2a",
+      "md_span": {
+        "start": 35475,
+        "end": 35860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_64",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 64.",
+      "heading": "En cas de maladie, absence ou autre empêchement, le bourgmestre délègue un échevin pour le remplacer,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 1re. – De la nomination du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "et en informe l’autorité immédiatement supérieure; à défaut de délégation, le service passe à un échevin suivant l’ordre établi par l’article 40 de la présente loi. (Loi du 28 décembre 1995) «A défaut d’échevin, le service passe au premier 871 en rang des conseillers de nationalité luxembourgeoise, et ainsi de suite. Il en est ainsi dans tous les cas de remplacement du bourgmestre ou d’un échevin par un conseiller posant un acte qui ressort de la puissance publique.Le remplaçant doit, dans tous les actes, énoncer la qualité en laquelle et la cause pour laquelle il agit comme tel.»",
+      "text_sha256": "8492ceb33fe62b4bbbef2993e8276a17247a6f3b179d07d0b81dec7fafe43f27",
+      "md_span": {
+        "start": 35999,
+        "end": 36586
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_65",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 65.",
+      "heading": "Lorsqu’un échevin remplace le bourgmestre pour un terme d’un mois ou plus, l’indemnité ou le traitement",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 1re. – De la nomination du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "attaché à cette fonction lui est alloué pour tout le temps qu’il l’a remplie. Dans ce cas, le bourgmestre n’a pas droit à son indemnité ou à son traitement, sauf s’il a été empêché pour cause de maladie.",
+      "text_sha256": "8a62c740ac3908a1076f407865e6359e812f1673865dc4fd5b99b9ded8765e9c",
+      "md_span": {
+        "start": 36727,
+        "end": 36930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_66",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 66.",
+      "heading": "L’échevin remplaçant ne peut cumuler son indemnité avec l’indemnité du bourgmestre.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 1re. – De la nomination du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 37051,
+        "end": 37051
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_68",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 68.",
+      "heading": "Dans les cas prévus à l’alinéa 1er de l’article 58, le bourgmestre ou celui qui le remplace pourra requérir",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "directement l’intervention de la force publique, à charge d’en informer sans retard le commissaire de district. La réquisition devra être faite par écrit. Les commandants sont tenus d’y obtempérer. Pour l’application du présent article et de l’article précédent, la Ville de Luxembourg est comprise dans le ressort du commissaire du district de Luxembourg.»",
+      "text_sha256": "154dfebbe53df9796ed862121ff000b2175ed246408d4324c42f01d8905475a1",
+      "md_span": {
+        "start": 37247,
+        "end": 37604
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_69",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 69.",
+      "heading": "Le bourgmestre, un échevin ou un conseiller par lui délégué à ces fins remplit les fonctions d’officier de",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’état civil; il est particulièrement chargé de faire observer tout ce qui concerne les actes et la tenue des registres de l’état civil. En cas d’empêchement de l’officier délégué, il est remplacé momentanément par le bourgmestre, par un échevin, dans l’ordre des nominations, ou par un conseiller, d’après le rang d’ancienneté. Il est fait mention dans chaque acte du motif du remplacement. Le secrétaire communal est chargé des écritures des actes de l’état civil, sous la surveillance et la responsabilité de l’officier désigné à ces fins. Dans le cas où le secrétaire communal est dispensé de la rédaction des actes, l’officier de l’état civil peut, à ces fins, avoir sous ses ordres, suivant les besoins du service, un ou plusieurs fonctionnaires ou employés rémunérés par la commune.",
+      "text_sha256": "92520cabfeb9fa000b1332cb62719abecdad777c0698f4837301a4e959bb48cb",
+      "md_span": {
+        "start": 37748,
+        "end": 38537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_70",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 70.",
+      "heading": "Sans préjudice des dispositions de l’article 69 de la présente loi, le bourgmestre peut déléguer à un ou",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "plusieurs fonctionnaires communaux, âgés d’au moins vingt-cinq ans, les fonctions qu’il exerce en tant qu’officier de l’état civil pour la réception des déclarations de naissance, de décès, d’enfants sans vie, de reconnaissance d’enfants naturels, pour la transcription, la mention en marge de tous les actes ou jugements sur les registres de l’état civil, de même que pour dresser tous les actes relatifs aux déclarations ci-dessus. Les actes ainsi dressés comportent la seule signature du fonctionnaire délégué. Cette délégation est exercée sous la surveillance et la responsabilité de l’officier de l’état civil déterminé par l’article 69. L’arrêté portant délégation est transmis tant au ministre de l’Intérieur qu’au procureur d’Etat près le tribunal d’arrondissement dans le ressort duquel se trouve la commune intéressée. Le ou les agents communaux délégués pour la réception des déclarations, la rédaction, la transcription et la mention en marge des actes de l’état civil prévus par le présent article peuvent valablement, sous le contrôle et la responsabilité du bourgmestre, délivrer tous copies et extraits d’état civil, quelle que soit la nature de ces actes.",
+      "text_sha256": "0e38d98a253324c1e24249a5893c8fd528debeeef50feaa93df7d1decad66492",
+      "md_span": {
+        "start": 38679,
+        "end": 39851
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_71",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 71.",
+      "heading": "La police des spectacles appartient au bourgmestre; il peut, dans des circonstances extraordinaires,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "interdire toute représentation, pour assurer le maintien de l’ordre et de la tranquillité publics.",
+      "text_sha256": "d4b129c6cffa40783ad359215c38e188c5d71db1252e88b610e3cf8e8edf2324",
+      "md_span": {
+        "start": 39989,
+        "end": 40087
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_72",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 72.",
+      "heading": "Le bourgmestre ou son délégué assiste, lorsqu’il le juge convenable, aux réunions des commissions adminis-",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "tratives des hospices civils et des offices sociaux et prend part à leurs délibérations avec voix délibérative. Il a le droit de présider l’assemblée. (Loi du 20 avril 1993) «Art. 73. Le bourgmestre a qualité pour provoquer le placement dans un établissement ou service psychiatrique fermé des personnes atteintes de troubles psychiques graves les rendant dangereuses pour elles-mêmes ou pour autrui. Le bourgmestre peut déléguer ses pouvoirs à cet effet soit à l'échevin, soit au commandant de brigade ou de commissariat ou à son remplaçant. Si une personne, par ses agissements insensés, met gravement en danger des personnes ou des biens, elle peut être placée, par une des personnes désignées à l'alinéa qui précède, pour une durée n'excédant pas douze heures dans un lieu de sûreté. Dans les cas visés aux alinéas 1 et 2 il est donné avis dans les trois jours au procureur d'Etat.» 872",
+      "text_sha256": "93c80e24000d278cda313f9abacf2d441960bdcefca8be35c10b1680d26f7ab6",
+      "md_span": {
+        "start": 40231,
+        "end": 41121
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_74",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 74.",
+      "heading": "Les règlements et arrêtés du conseil communal et du collège des bourgmestre et échevins, les publications,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "les actes et la correspondance de la commune sont signés par le bourgmestre ou celui qui le remplace et contresignés par le secrétaire. La signature de la correspondance de la commune peut être déléguée par le bourgmestre à un ou plusieurs échevins.",
+      "text_sha256": "32c2ee81f3a92eef9c84f341d7a4d2ca0343d2f3ccf6d598bad43203ad341d69",
+      "md_span": {
+        "start": 41265,
+        "end": 41514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_75",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 75.",
+      "heading": "Le bourgmestre, ou celui qui le remplace, est autorisé à légaliser des signatures conformément aux",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "dispositions d’un règlement grand-ducal. La signature manuscrite donnée par le bourgmestre ou par celui qui le remplace vaut en matière administrative sans être légalisée par une autre autorité, si elle est accompagnée du sceau de l’administration communale.",
+      "text_sha256": "efcd666e6cd86dcad13bf2daae9a5edee3934b47a96a4c29513132a532299914",
+      "md_span": {
+        "start": 41650,
+        "end": 41908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_76",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 76.",
+      "heading": "Le bourgmestre peut, sous sa surveillance et sous sa responsabilité, déléguer à un fonctionnaire de",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’adminis-tration communale 1° la délivrance des cartes d’identité; 2° la délivrance d’extraits des registres de la population et de certificats établis en tout ou en partie d’après ces registres; 3° la légalisation de signatures et 4° la certification conforme de copies de documents. La signature des fonctionnaires délégués en vertu du présent article doit être précédée de la mention de la délégation qu’ils ont reçue.",
+      "text_sha256": "ab8e401bee4dfad09ac05941bac110d61cdc47a5a09e861844462232cfcdf085",
+      "md_span": {
+        "start": 42045,
+        "end": 42467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_77",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 77.",
+      "heading": "Toute délégation doit se faire par un acte formel qui est inscrit au registre des délibérations du collège des",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 4. – Du bourgmestre",
+        "Section 2. – Des attributions du bourgmestre"
+      ],
+      "article_valid_from": null,
+      "text_md": "bourgmestre et échevins.",
+      "text_sha256": "3dec99ff13da177a443e223d64cd62827239ddf437e9ccb1746621a830362689",
+      "md_span": {
+        "start": 42615,
+        "end": 42639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_78",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 78.",
+      "heading": "Les agents des secteurs public et privé qui sont bourgmestre, échevin ou conseiller communal ont droit à",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 5. – De l’institution d’un congé politique"
+      ],
+      "article_valid_from": null,
+      "text_md": "un congé politique pour remplir leurs mandats ou fonctions. Par agent des secteurs public et privé on entend toute personne qui fournit contre rémunération un travail sous l’autorité d’une autre personne, publique ou privée.",
+      "text_sha256": "8b425cd37b2c9a19301f7a778cdc5f3f615abc004e23ad369bbdeea7dc46f04d",
+      "md_span": {
+        "start": 42838,
+        "end": 43062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_79",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 79.",
+      "heading": "Le Grand-Duc fixe, pour chacun des mandats et fonctions énumérés à l’article 78 et selon les critères et",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 5. – De l’institution d’un congé politique"
+      ],
+      "article_valid_from": null,
+      "text_md": "conditions qu’il détermine, le nombre maximum de jours de travail ou de parties de jours de travail par semaine qui sont considérés comme congé politique. Pendant ce congé, les agents qui exercent un de ces mandats ou une de ces fonctions peuvent s’absenter du lieu de leur travail avec maintien de leur rémunération normale pour remplir leurs mandats ou fonctions. Les éléments à prendre en considération pour l’établissement de la rémunération normale sont fixés par règlement grand-ducal.",
+      "text_sha256": "b06c3d5080e20c3e6e055ec6be3091e89628608a21e16978faacf3209d360ec5",
+      "md_span": {
+        "start": 43204,
+        "end": 43695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_80",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 80.",
+      "heading": "Il est remboursé à l’employeur de l’agent, par l’intermédiaire du fonds des dépenses communales, un",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 5. – De l’institution d’un congé politique"
+      ],
+      "article_valid_from": null,
+      "text_md": "montant correspondant à la rémunération brute majorée des cotisations patronales versées aux organismes de la sécurité sociale pendant la période pendant laquelle l’agent s’est absenté du travail pour remplir son mandat ou ses fonctions, le tout aux conditions et selon les modalités fixées par règlement grand-ducal. (Loi du 20 avril 1993) «Art. 81. Les membres des professions indépendantes ainsi que les personnes sans profession ne bénéficiant pas d'un régime statutaire, âgés de moins de 65 ans, toucheront, dans les limites et sous les conditions fixées par les articles 79 et 80, une indemnité dont le montant est fixé forfaitairement et uniformément par règlement grand-ducal.»",
+      "text_sha256": "d8e4d48df4fcbb4a4377005ffcc3690de8bec3f5a9eccf8fe42ee8b4460500d5",
+      "md_span": {
+        "start": 43832,
+        "end": 44517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_82",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 82.",
+      "heading": "Les règlements du conseil ou du collège des bourgmestre et échevins sont publiés par voie d’affiche.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 6. – De la publication des règlements"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les affiches mentionnent l’objet du règlement, la date de la décision par laquelle il a été établi et, le cas échéant, de son approbation par l’autorité supérieure. Le texte du règlement est à la disposition du public, à la maison communale, où il peut en être pris copie sans déplacement, le cas échéant contre remboursement. Les règlements deviennent obligatoires trois jours après leur publication par voie d’affiche dans la commune, sauf si le règlement en dispose autrement. Une copie du règlement est envoyée au ministre de l’Intérieur et au commissaire de district, avec un certificat du bourgmestre constatant la publication et l’affiche. Mention du règlement et de sa publication dans la commune est faite au Mémorial et soit dans au moins deux quotidiens publiés et imprimés dans le Grand-Duché de Luxembourg soit dans un bulletin communal distribué périodiquement à tous les ménages.",
+      "text_sha256": "4d043aaffe0aeeda6d4693c239170f1466fea0c52062502a9f4a9e32e3cc7ca0",
+      "md_span": {
+        "start": 44707,
+        "end": 45601
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_83",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 83.",
+      "heading": "Le collège des bourgmestre et échevins répond en justice à toute action intentée à la commune. Il intente",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 7. – Des actions judiciaires"
+      ],
+      "article_valid_from": null,
+      "text_md": "les actions en référé, les actions en possessoire et toutes les actions sur lesquelles le juge de paix statue en dernier ressort. Il fait tous les actes conservatoires ou interruptifs de la prescription et des déchéances. 873 Toutes les autres actions dans lesquelles la commune intervient comme demanderesse ne peuvent être intentées par le collège des bourgmestre et échevins qu’après autorisation du conseil communal.",
+      "text_sha256": "ef65cec817f7538b6b9b2a820bff356fe1cb4f6d43b14ac225062811e915a7a8",
+      "md_span": {
+        "start": 45787,
+        "end": 46207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_84",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 84.",
+      "heading": "Les communes sont habilitées à exercer les droits reconnus à la partie civile en ce qui concerne les faits",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 7. – Des actions judiciaires"
+      ],
+      "article_valid_from": null,
+      "text_md": "constituant une infraction aux règlements édictés par elles et portant un préjudice direct ou indirect aux intérêts collectifs confiés à leur vigilance, même si elles ne justifient pas d’un intérêt matériel et même si l’intérêt collectif dans lequel elles agissent se couvre entièrement avec l’intérêt social dont la défense est exercée par le ministère public.",
+      "text_sha256": "20d8850c748aad0e5707572c3323a7c915744ba0ca8869674a25b3795274b4e2",
+      "md_span": {
+        "start": 46351,
+        "end": 46712
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_85",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 85.",
+      "heading": "Un ou plusieurs habitants peuvent, à défaut du collège échevinal, ester en justice au nom de la commune,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 7. – Des actions judiciaires"
+      ],
+      "article_valid_from": null,
+      "text_md": "moyennant l’autorisation du ministre de l’Intérieur, en offrant, sous caution de se charger personnellement des frais du procès et de répondre des condamnations qui seraient prononcées. Le ministre de l’Intérieur est juge de la suffisance de la caution. La commune ne peut transiger sur le procès sans l’intervention de celui ou de ceux qui ont poursuivi l’action en son nom. En cas de refus, un recours est ouvert auprès du «tribunal administratif»1, statuant (...)1 comme juge du fond.",
+      "text_sha256": "8e9c4ce09a7024dd6645fe1118a3b9dd51db8feb51658419f4dde24f5f979894",
+      "md_span": {
+        "start": 46854,
+        "end": 47341
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_86",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 86.",
+      "heading": "Les conditions d’admission, de promotion, de démission, de rémunération ainsi que les droits et devoirs",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux"
+      ],
+      "article_valid_from": null,
+      "text_md": "des fonctionnaires et employés communaux sont déterminés par la loi et, dans les limites de la loi, par des délibérations du conseil communal dûment approuvées par le ministre de l’Intérieur.",
+      "text_sha256": "7c49a2b2241baf15594ec6dbf79e9c693145971917bbc2fcb424268f4fe45d17",
+      "md_span": {
+        "start": 47538,
+        "end": 47729
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_87",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 87.",
+      "heading": "Il y a dans chaque commune un secrétaire.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 1re. – Du secrétaire communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 47852,
+        "end": 47852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_88",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 88.",
+      "heading": "Deux ou trois communes, dont la population réunie ne dépasse pas 2.500 habitants, peuvent être",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 1re. – Du secrétaire communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "autorisées par le ministre de l’Intérieur à avoir un secrétaire en commun, occupé à plein temps. Les décisions relatives aux nominations provisoire et définitive, à la démission, aux peines disciplinaires, sauf l’avertissement et la réprimande, à la réglementation du service, à la part de chaque commune dans la rémunération du secrétaire commun sont prises conformément aux articles 19 et 32 à 34 de la présente loi par les conseils communaux des communes concernées, réunis sous la présidence du commissaire de district et votant séparément. Si le candidat est déjà en possession d’une nomination provisoire ou définitive dans l’une des communes concernées, la nouvelle nomination lui sera conférée uniquement par le conseil communal des autres communes. Dans les cas où les communes sont situées dans des districts différents, la réunion est présidée par le commissaire du district dans lequel est située la commune ayant la population la plus nombreuse. Les décisions afférentes sont sujettes à l’approbation du ministre de l’Intérieur. Le secrétaire en commun prête serment entre les mains du commissaire de district qui a présidé l’assemblée des communes. Le service du secrétaire en commun est contrôlé par les collèges des bourgmestre et échevins des communes intéressées.",
+      "text_sha256": "940bb732b3e4e29446f006ef99b7df60bcdfc259416fabb7d0452643103fed6d",
+      "md_span": {
+        "start": 47984,
+        "end": 49265
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_89",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 89.",
+      "heading": "Dans les communes de plus de 5.000 habitants, le conseil communal peut adjoindre au secrétaire un",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 1re. – Du secrétaire communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "fonctionnaire auquel il est donné le titre de secrétaire adjoint. Pour l’admission à l’emploi ce fonctionnaire doit remplir les mêmes conditions d’études, d’admissibilité, d’admission définitive et de stage que le secrétaire. Le secrétaire adjoint est subordonné au secrétaire communal qu’il aide et assiste. Il le remplace en cas de maladie, absence ou autre empêchement. Sa signature est précédée de la mention: «Pour le secrétaire empêché, le secrétaire adjoint». Le secrétaire adjoint peut, en outre, sous l’approbation du ministre de l’Intérieur, être chargé par le collège des bourgmestre et échevins de remplir une partie déterminée des fonctions que la loi attribue au secrétaire. Les signatures données en cette qualité sont précédées de la mention: «Le secrétaire adjoint délégué». En cas de démission, de révocation ou de décès du secrétaire, ses fonctions sont remplies par l’adjoint jusqu’à ce qu’il ait été procédé à l’installation d’un nouveau secrétaire.",
+      "text_sha256": "0ed4c547d500f04a9c2c9b9ee9a483bb0987be15b221d15b81d1f21856fefbab",
+      "md_span": {
+        "start": 49400,
+        "end": 50370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_90",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_90",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 90.",
+      "heading": "En cas d’empêchement momentané du secrétaire, le collège des bourgmestre et échevins pourvoit à son",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 1re. – Du secrétaire communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "remplacement. En cas d’empêchement de longue durée du secrétaire ou de vacance de son poste, un remplaçant est désigné par le conseil communal, sous l’approbation du ministre de l’Intérieur. Dans tous les cas, la durée du remplacement peut être limitée par le ministre de l’Intérieur.",
+      "text_sha256": "c81bb00e5c9772dab4be5ff8cfb43dcef88722d18e0a6f1c24b456a6422ba030",
+      "md_span": {
+        "start": 50507,
+        "end": 50791
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_91",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_91",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 91.",
+      "heading": "Outre les obligations résultant des articles 26, 53 et 69 le secrétaire est chargé, en général, de la",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 1re. – Du secrétaire communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "correspondance et des écritures de la commune, en prêtant assistance au conseil communal, au collège des bourgmestre et échevins et au bourgmestre. 1 En vertu de la loi du 7 novembre 1996, la référence au Comité du Contentieux du Conseil d’Etat s’entend comme référence au tribunal administratif. (Mém. A - 79 du 19 novembre 1996, p. 2262; doc. parl. 3940A) 874 Le secrétaire est tenu de se conformer aux instructions qui lui sont données par le collège des bourgmestre et échevins.",
+      "text_sha256": "d7c180a5455fc87123d0a05dff5279413fb5514af87c8898f6c98c4f8bf1ca08",
+      "md_span": {
+        "start": 50930,
+        "end": 51412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_92",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_92",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 92.",
+      "heading": "Il y a en outre dans chaque commune un receveur.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 2. – Du receveur communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 51538,
+        "end": 51538
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_93",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_93",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 93.",
+      "heading": "Deux ou trois communes, dont la population réunie ne dépasse pas 2.500 habitants, peuvent décider, sous",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 2. – Du receveur communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’approbation du ministre de l’Intérieur, qu’ils ont un receveur en commun, occupé à plein temps, le tout selon les modalités prévues à l’article 88 de la présente loi.",
+      "text_sha256": "02eacd9af639d0df3dc2c8c7deea8d00ca98d3b5cc2fd3e26db088a1f1125b71",
+      "md_span": {
+        "start": 51679,
+        "end": 51847
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_94",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_94",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 94.",
+      "heading": "Le receveur communal est chargé, seul et sous sa responsabilité, d’effectuer les recettes de la commune",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 2. – Du receveur communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "ainsi que d’acquitter les dépenses qui sont ordonnancées dans les formes et conditions déterminées par la loi. Pour permettre au receveur le recouvrement des recettes, dans les délais prescrits par la loi, le collège des bourgmestre et échevins doit lui délivrer, en temps utile, contre récépissé, une expédition, copie ou photocopie de tous les contrats, baux, jugements, actes et autres titres. Le collège des bourgmestre et échevins lui remet également ampliation tant du budget établi que du budget arrêté et lui notifie toutes les modifications budgétaires qui surviennent ultérieurement. Le receveur inscrit régulièrement dans les livres à ce destinés, les recettes et les paiements qu’il a effectués.",
+      "text_sha256": "040dd5aa1ab0545a569b6525fdc841fa77f62ec8a11ec8194a3aa7b165c449eb",
+      "md_span": {
+        "start": 51988,
+        "end": 52695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_95",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_95",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 95.",
+      "heading": "Le collège des bourgmestre et échevins veille à l’organisation de la sécurité du personnel de la recette.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 2. – Du receveur communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 52838,
+        "end": 52838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_96",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_96",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 96.",
+      "heading": "En cas d’empêchement momentané du receveur, le collège des bourgmestre et échevins pourvoit à son",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 2. – Du receveur communal"
+      ],
+      "article_valid_from": null,
+      "text_md": "remplacement. En cas d’empêchement de longue durée du receveur ou de vacance de son poste, un remplaçant est désigné par le conseil communal, sous l’approbation du ministre de l’Intérieur. Dans tous les cas, la durée du remplacement peut être limitée par le ministre de l’Intérieur.",
+      "text_sha256": "0a6c18796a54c3e836b6d74d69109145aab054d23a34e49962f1c023376f018f",
+      "md_span": {
+        "start": 52973,
+        "end": 53255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_97",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_97",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 97.",
+      "heading": "Chaque commune peut avoir un ou plusieurs gardes champêtres.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 3. – Du garde champêtre"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le garde champêtre est principalement chargé de veiller à la conservation des propriétés, des récoltes et des fruits de la terre. Il concourt, sous l’autorité du bourgmestre, à l’exécution des lois et règlements de police ainsi qu’au maintien du bon ordre et de la tranquillité dans la commune. Il est en outre à la disposition de l’administration communale pour tous les autres services en rapport avec ses aptitudes et la durée de ses autres prestations. A la demande des administrations communales intéressées, le ministre de l’Intérieur peut autoriser le garde champêtre d’une commune à exercer ses attributions dans une ou plusieurs communes limitrophes, à condition qu’il y ait accord sur la répartition du traitement et la réglementation du service.",
+      "text_sha256": "8184ac03e1ae4f67ae236117318757705c59d3aea625c26a43d614ca161b3672",
+      "md_span": {
+        "start": 53391,
+        "end": 54147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_98",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_98",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 98.",
+      "heading": "Le garde champêtre est nommé par le conseil communal, sous l’approbation du ministre de l’Intérieur. Un",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 3. – Du garde champêtre"
+      ],
+      "article_valid_from": null,
+      "text_md": "règlement grand-ducal détermine les conditions d’admissibilité, d’admission définitive, de promotion et de stage.",
+      "text_sha256": "39f30f93d47c025c266a4c8533607ef9bf4cb33ebb39a241fab5d4b146aaa737",
+      "md_span": {
+        "start": 54288,
+        "end": 54401
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_99",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_99",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 99.",
+      "heading": "Chaque commune peut avoir un ou plusieurs agents municipaux.",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 8. – De certains fonctionnaires communaux",
+        "Section 4. – Des agents municipaux"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les agents municipaux concourent, sous l’autorité du collège des bourgmestre et échevins, en accord avec le commandant du commissariat de police, à la constatation des infractions en matière de stationnement en décernant des avertissements taxés conformément aux alinéas 1er, 2 et 3 de l’article 15 de la loi du 14 février 1955 réglementant la circulation sur toutes les voies publiques. Ils sont à la disposition de l’administration communale pour tous les services en rapport avec leurs aptitudes. Un règlement grand-ducal déterminera les conditions de formation, de recrutement et de rémunération des agents municipaux. Un règlement grand-ducal fixera les conditions dans lesquelles les agents municipaux pourront constater des contraventions aux règlements communaux. A la demande des administrations communales intéressées, le ministre de l’Intérieur pourra autoriser l’agent municipal d’une commune à exercer ses attributions dans une ou plusieurs communes limitrophes à condition qu’il y ait accord sur la répartition du traitement et la réglementation du service.",
+      "text_sha256": "fdc2264d9f7ed13488b210795732909869c0e23ca44939e20d560812eed2af45",
+      "md_span": {
+        "start": 54540,
+        "end": 55611
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_100",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_100",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 100.",
+      "heading": "Sans préjudice des structures nationales et régionales des secours d’urgence de la protection civile,",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 9. – Du service d’incendie et de sauvetage"
+      ],
+      "article_valid_from": null,
+      "text_md": "chaque commune est tenue de créer ou de maintenir un service d’incendie et de sauvetage assuré par au moins un corps de sapeurs-pompiers volontaires ou professionnels et disposant des locaux et du matériel nécessaires. Le ministre de l’Intérieur peut autoriser une commune à avoir recours au service d’incendie et de sauvetage d’une autre commune moyennant le paiement d’une redevance forfaitaire et annuelle qu’il fixera. 875 L’intervention ponctuelle d’un corps sur le territoire d’une autre commune peut donner lieu au paiement d’une indemnité dans les conditions à fixer par règlement grand-ducal.",
+      "text_sha256": "1e1da8e00ce58882461440c0850330d2093ccc61d2d662029c9b22e94e6d25a7",
+      "md_span": {
+        "start": 55809,
+        "end": 56410
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_101",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_101",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 101.",
+      "heading": "L’organisation générale, la composition, le fonctionnement et la mission des services communaux",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 9. – Du service d’incendie et de sauvetage"
+      ],
+      "article_valid_from": null,
+      "text_md": "d’incendie et de sauvetage sont fixés par règlement grand-ducal. La loi règle les rapports des services communaux d’incendie et de sauvetage avec les services de la protection civile.",
+      "text_sha256": "33df9573be8733cadc1e376273d25dcde3cf2b84dfe14c3c5861684542c6e9cc",
+      "md_span": {
+        "start": 56545,
+        "end": 56728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_102",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_102",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 102.",
+      "heading": "Les services communaux d’incendie et de sauvetage sont soumis à l’inspection organisée par le Grand-",
+      "path": [
+        "Titre 2. – De la composition et des attributions des organes de la commune",
+        "Chapitre 9. – Du service d’incendie et de sauvetage"
+      ],
+      "article_valid_from": null,
+      "text_md": "Duc. Celle-ci comporte le contrôle, sur pièces et sur place, de l’application des dispositions légales et réglementaires et de l’exécution des mesures prévues en matière de prévention et de lutte contre l’incendie.",
+      "text_sha256": "67474696ec500b53af29654df70b0184e218a6eaf5e812fe894312686f44af57",
+      "md_span": {
+        "start": 56868,
+        "end": 57082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_103",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_103",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 103.",
+      "heading": "Le Grand-Duc peut annuler les actes collectifs et individuels des autorités communales qui sont",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 1er. – De l’annulation"
+      ],
+      "article_valid_from": null,
+      "text_md": "contraires à la loi ou à l’intérêt général. L’arrêté d’annulation doit être motivé et indiquer les moyens légaux ou les éléments d’intérêt général qui sont en cause et qu’il s’agit de protéger. Par autorités communales au sens des articles 103 à 108 inclus de la présente loi, on entend le conseil communal, le collège des bourgmestre et échevins, le bourgmestre, le receveur ainsi que les organes des syndicats de communes et établissements publics placés sous la surveillance des communes.",
+      "text_sha256": "31b3ab51b31260301c4af7c3d077fd7f0c04fb7162dc979ad31130cbf37be428",
+      "md_span": {
+        "start": 57298,
+        "end": 57789
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_104",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_104",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 104.",
+      "heading": "Le ministre de l’Intérieur peut, par arrêté motivé, suspendre l’exécution de l’acte par lequel une autorité",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 2. – De la suspension"
+      ],
+      "article_valid_from": null,
+      "text_md": "communale viole la loi ou lèse l’intérêt général. Les motifs de la suspension sont communiqués à l’autorité communale dans les cinq jours de la suspension. Si l’annulation de l’acte par le Grand-Duc n’intervient pas dans les quarante jours à partir de la communication à l’autorité communale, la suspension est levée.",
+      "text_sha256": "13e66b4e60fa9522310aa89ab846ec15086be13072ac883fcfc693669fbed096",
+      "md_span": {
+        "start": 57972,
+        "end": 58289
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_105",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_105",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 105.",
+      "heading": "Sont soumises à l’approbation du Grand-Duc les délibérations des conseils communaux relatives à",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 3. – De l’approbation"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’établissement, au changement et à la suppression des impositions communales et les règlements y relatifs. En cas de refus d’approbation le refus doit être motivé.",
+      "text_sha256": "d99ba4e3b3bb866118f37ff69ef2cf1a65b1f0f1cbe7261faddb86fd5708994e",
+      "md_span": {
+        "start": 58460,
+        "end": 58624
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_106",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_106",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 106.",
+      "heading": "Sans préjudice d’autres dispositions légales spéciales sont soumises à l’approbation du ministre de",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 3. – De l’approbation"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’Intérieur les délibérations des conseils communaux portant sur les objets suivants: 1° Les acquisitions d’immeubles ou de droits immobiliers, si la valeur en dépasse 300.000,- francs. Cette somme pourra être relevée par règlement grand-ducal. 2° Les aliénations et échanges de biens ou droits immobiliers de la commune, les partages de biens immobiliers indivis, à moins que ces partages ne soient ordonnés par l’autorité judiciaire, les constitutions d’hypothèques, les emprunts, les garanties d’emprunts, les ouvertures de crédits, le tout si la valeur en dépasse 300.000,- francs. Cette somme pourra être relevée par règlement grand-ducal. 3° Les baux immobiliers dont la durée dépasse trois ans et dont le loyer annuel dépasse la somme de 150.000,- francs. Cette somme pourra être relevée par règlement grand-ducal. 4° Les ventes et échanges qui ont pour objet des créances, obligations, capitaux et actions appartenant à la commune ou aux établissements publics placés sous sa surveillance, le tout si la valeur en dépasse 300.000,- francs. Cette somme pourra être relevée par règlement grand-ducal. 5° Les dispositions entre vifs ou par testament au profit des communes. 6° Les règlements communaux relatifs au service d’incendie et de sauvetage. 7° Les règlements ou tarifs relatifs à la fourniture d’eau, de gaz et d’électricité, au prix de location des places dans les halles, foires, marchés et abattoirs, aux droits de pesage et à tous les autres tarifs dus pour rémunération de services prêtés par la commune. 8° La reconnaissance, le classement, le déclassement et la suppression des rues et chemins communaux conformément aux lois et règlements y relatifs. 9° Le changement du mode de jouissance des biens communaux. 10° Les projets de construction, de grosses réparations, de démolition des édifices communaux, le tout si le montant en dépasse 300.000,- francs, somme qui pourra être relevée par règlement grand-ducal. Les projets comprennent le devis, les plans et les cahiers des charges. 11° Les transactions et les conventions d’arbitrage portant sur des litiges d’une valeur supérieure à 300.000,- francs. Cette somme pourra être relevée par règlement grand-ducal. Les dispositions du présent article sont applicables aux syndicats de communes et aux établissements publics placés sous la surveillance des communes. 876 Les actes délibérés par les établissements publics placés sous la surveillance des communes sont, en outre, soumis à l’avis du conseil communal. En cas de refus d’approbation le refus doit être motivé.",
+      "text_sha256": "1a1d427c498853f5cb165996613ed86ddc2b3c5eacd4268faf44b0cc66a5234a",
+      "md_span": {
+        "start": 58763,
+        "end": 61306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_107",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_107",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 107.",
+      "heading": "Il est ouvert aux autorités communales dont la décision à caractère individuel ou réglementaire a fait",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 3. – De l’approbation"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’objet d’une annulation ou d’un refus d’approbation par le Grand-Duc ou par le ministre de l’Intérieur un recours en annulation devant le «tribunal administratif»1, pour les causes d’ouverture prévues à l’article 31 de la loi du 8 février 1961 portant organisation du Conseil d’Etat.2 Le même recours est ouvert contre le refus d’approbation d’une décision émanant d’une autorité autre que le Grand-Duc ou le ministre de l’Intérieur. L’article 32 de la loi précitée du 8 février 1961 est applicable aux recours visés aux alinéas 1 et 2.",
+      "text_sha256": "39a5c24b4a124b4e47e75581580baa1fd6b154b25e084c2ecaa29c1250198f69",
+      "md_span": {
+        "start": 61448,
+        "end": 61985
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_108",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_108",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 108.",
+      "heading": "Après deux avertissements consécutifs envoyés sous pli recommandé à la poste avec accusé de réception,",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 4. – Du commissaire spécial"
+      ],
+      "article_valid_from": null,
+      "text_md": "le ministre de l’Intérieur ou le commissaire de district peut charger un ou plusieurs commissaires spéciaux de se rendre sur les lieux aux frais personnels des autorités communales en retard de satisfaire aux avertissements, à l’effet de recueillir les renseignements et observations demandés et de mettre à exécution les mesures prescrites par les lois et les règlements généraux ou par les décisions du ministre de l’Intérieur. Sauf le cas d’urgence dûment constaté dans l’arrêté de nomination du commissaire spécial, ce dernier ne peut être envoyé qu’après l’expiration d’un délai de huit jours à partir de la réception du deuxième avertissement. Contre l’arrêté de nomination du commissaire spécial un recours est ouvert devant le «tribunal administratif»1, qui statue comme juge du fond (...)1. Ce recours doit être introduit dans les dix jours à partir de la réception du deuxième avertissement; il n’est pas suspensif. Dans le même délai, copie du recours est notifiée à l’autorité qui a envoyé les avertissements prévus au présent article. A défaut de recours ou si celui-ci est rejeté, le recouvrement des frais exposés pourra être poursuivi comme en matière de contributions directes, sur l’exécutoire du ministre de l’Intérieur.",
+      "text_sha256": "100ab158385390553ad84ae4d48d5541a01e12db107771915fda0236e1270b7e",
+      "md_span": {
+        "start": 62169,
+        "end": 63408
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_109",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_109",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 109.",
+      "heading": "Le Grand-Duché est divisé en trois districts, dont les chefs-lieux sont établis à Luxembourg, à Diekirch",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 5. – Des commissaires de district"
+      ],
+      "article_valid_from": null,
+      "text_md": "et à Grevenmacher. Le district de Luxembourg comprend les cantons de Capellen, Esch-sur-Alzette, Luxembourg et Mersch. Celui de Diekirch se compose des cantons de Clervaux, Diekirch, Redange, Wiltz et Vianden. Celui de Grevenmacher comprend les cantons d’Echternach, Grevenmacher et Remich.",
+      "text_sha256": "eee97c2d503e3b853e790fc4b66967cd78e462e536622aa652599dc421907c60",
+      "md_span": {
+        "start": 63600,
+        "end": 63890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_110",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_110",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 110.",
+      "heading": "Il y a dans chaque district un fonctionnaire nommé par le Grand-Duc et portant le titre de commissaire",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 5. – Des commissaires de district"
+      ],
+      "article_valid_from": null,
+      "text_md": "de district.",
+      "text_sha256": "96df2d33f146c9db7cf6257fc2153214bb94916290525911bbbe7840a34fb168",
+      "md_span": {
+        "start": 64032,
+        "end": 64044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_111",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_111",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 111.",
+      "heading": "Il est attaché à chaque commissariat de district un secrétaire de district qui est nommé par le Grand-Duc",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 5. – Des commissaires de district"
+      ],
+      "article_valid_from": null,
+      "text_md": "sur proposition du commissaire de district. Les conditions de nomination et de promotion du secrétaire de district sont celles qui sont applicables au personnel de l’administration gouvernementale. Il est le chef des bureaux du commissariat. En cas d’empêchement, le commissaire de district peut se faire remplacer par le secrétaire de district dans les cas spéciaux à déterminer par lui, mais toujours sous sa responsabilité personnelle.",
+      "text_sha256": "43055ea1661a5ee52fa5f1d62ca03b8d61a8de14145037f8440cdc817f34b5b0",
+      "md_span": {
+        "start": 64189,
+        "end": 64627
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_112",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_112",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 112.",
+      "heading": "Les commissaires de district sont placés sous la surveillance du ministre de l’Intérieur; ils sont tenus",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 5. – Des commissaires de district"
+      ],
+      "article_valid_from": null,
+      "text_md": "d’exécuter les dispositions et les instructions émanant des membres du Gouvernement. Ils correspondent avec les départements ministériels par l’intermédiaire du ministre de l’Intérieur, excepté les cas qui requièrent célérité et ceux pour lesquels des lois ou règlements spéciaux en disposent autrement.",
+      "text_sha256": "e3b3665e6ed1f3324c6a5fa8c9023f48208f6a8d5b2ec77f18dadb5246eff3cb",
+      "md_span": {
+        "start": 64771,
+        "end": 65074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_113",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_113",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 113.",
+      "heading": "La compétence des commissaires de district s’étend à toutes les villes et communes de leur ressort, à",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 5. – Des commissaires de district"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’exception de la ville de Luxembourg qui reste sous l’autorité directe du ministre de l’Intérieur, sauf dans les cas prévus par des lois spéciales.",
+      "text_sha256": "aa8951d087afc2da47a45594734ea9fc02b2d0f067d827d0c6d116ec420ebff2",
+      "md_span": {
+        "start": 65215,
+        "end": 65363
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_114",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_114",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 114.",
+      "heading": "Indépendamment des attributions qui leur sont conférées par d’autres dispositions de la présente loi ou",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 5. – Des commissaires de district"
+      ],
+      "article_valid_from": null,
+      "text_md": "par des lois spéciales, les commissaires de district ont les attributions suivantes: 1° Ils veillent à l’exécution des lois et règlements généraux et communaux et rendent compte à l’autorité supérieure des infractions qui parviennent à leur connaissance. 2° Ils veillent au maintien du bon ordre, de la sûreté, de la tranquillité et de la salubrité publiques; ils prennent immédiatement, en cas d’événements extraordinaires, telles mesures qu’il appartient; ils requièrent, au besoin, la gendarmerie et toute autre force publique. Les commandants sont tenus d’obtempérer à ces réquisitions. 1 En vertu de la loi du 7 novembre 1996, la référence au Comité du Contentieux du Conseil d’Etat s’entend comme référence au tribunal administratif. (Mém A - 79 du 19 novembre 1996, p. 2262,; doc. parl. 3940A) 2 La loi du 8 février 1961 a été abrogée par la loi du 12 juillet 1996 portant réforme du Conseil d’Etat. 877 3° Ils assistent aux délibérations des autorités locales, lorsqu’ils le jugent utile; ils réunissent, le cas échéant, sous leur présidence, les autorités de plusieurs communes, pour délibérer sur des affaires d’intérêt commun. 4° Les administrations communales et leur personnel sont placés sous leur surveillance immédiate. Ils veillent à ce qu’ils remplissent les devoirs qui leur sont imposés par des lois, règlements et instructions. Ils rendent compte des abus de quelque nature qu’ils soient, commis par des fonctionnaires communaux à l’occasion de l’exercice de leurs fonctions. Ces autorités et fonctionnaires correspondent avec l’autorité supérieure par l’intermédiaire des commissaires de district, sauf en cas d’urgence. Les dispositions qui précèdent s’appliquent également aux offices sociaux et hospices civils. 5° Ils surveillent l’administration régulière des biens et revenus des communes, celles des fabriques d’église et des cures, en tant que ces établissements sont placés sous la surveillance tutélaire du Gouvernement, ainsi que celles des hospices civils et des offices sociaux. 6° Ils provoquent, au besoin, auprès des administrations communales les règlements de police et toutes autres mesures dont ils reconnaissent la nécessité ou l’utilité. 7° Ils examinent les budgets et les comptes des communes, ceux des établissements publics placés sous la surveillance des communes et ceux des syndicats de communes et les adressent avec leur avis au ministre de l’Intérieur pour être arrêtés. 8° Ils rendent exécutoires les rôles des impositions communales dont le montant est porté aux budgets, ainsi que les contraintes pour recouvrement d’impositions communales et reliquats de comptes arrêtés. 9° Ils surveillent la gestion des receveurs des communes, des établissements publics placés sous la surveillance des communes et des syndicats de communes et ils vérifient leurs caisses aussi souvent qu’ils le jugent nécessaire; ils s’assurent de la tenue régulière des écritures et donnent les instructions convenables à cet effet. En cas d’irrégularités graves constatées ils peuvent prendre toute mesure conservatoire propre à assurer le service de la recette et les intérêts communaux, notamment en suspendant les receveurs et les autres agents communaux chargés du maniement de fonds communaux; ils rendent compte à l’autorité supérieure de tout ce qu’ils auront fait en semblable occasion, pour y être disposé. 10° L’administration des Eaux et Forêts leur soumet les plans d’aménagement, de culture et de coupe de bois des communes, des établissements publics placés sous la surveillance des communes et des syndicats de communes. Ils les transmettent à l’administration propriétaire avec les observations qu’ils jugeront utiles. 11° Tous projets, toutes propositions de communes généralement quelconques, sont adressés aux commissaires qui les soumettent avec leurs considérations à l’autorité supérieure compétente, pour y être disposés.",
+      "text_sha256": "4f2a685e76e79f3d4128e039e2394c5ba1fcb0f2f0600f7619e59208c60cd490",
+      "md_span": {
+        "start": 65506,
+        "end": 69381
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_115",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_115",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 115.",
+      "heading": "Les commissaires de district se rendent dans les communes de leur ressort aussi souvent que l’intérêt",
+      "path": [
+        "Titre 3. – De la tutelle administrative",
+        "Chapitre 5. – Des commissaires de district"
+      ],
+      "article_valid_from": null,
+      "text_md": "du service y exige leur présence. Ils examinent l’état des édifices communaux; ils s’assurent si les registres de l’état civil sont régulièrement tenus, si les écritures des bureaux sont en règle, les archives soigneusement classés et si, en général, les fonctionnaires et employés communaux s’acquittent bien de leurs devoirs. Ils veillent à ce que les revenus communaux soient employés dans l’intérêt le mieux compris des communes et à ce que tous les biens susceptibles d’être loués ou affermés le soient au profit des communes ou établissements propriétaires. Ils adressent, s’il y a lieu, au ministre de l’Intérieur, les rapports traitant des problèmes que soulève la gestion adminis-trative et financière des communes, des établissements publics placés sous la surveillance des communes et des syndicats de communes.",
+      "text_sha256": "cfeaffed235bfaea2c94918198b7ab8d3ac310f402aec53d556cc1a2ea203e02",
+      "md_span": {
+        "start": 69522,
+        "end": 70344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_116",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_116",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 116.",
+      "heading": "L’administration communale est tenue d’établir annuellement un budget comprenant toutes les recettes",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "et toutes les dépenses à effectuer au cours de l’exercice financier pour lequel il est voté. L’exercice financier commence le 1er janvier et finit le 31 décembre de la même année. Appartiennent seuls à un exercice, les dépenses engagées et les droits constatés de la commune pendant l’année qui donne sa dénomination à l’exercice. Toutefois, les opérations relatives au recouvrement des recettes se rapportant à cet exercice et au paiement des dépenses engagées jusqu’au 31 décembre peuvent se prolonger jusqu’au 30 avril de l’année suivante. A cette date l’exercice est définitivement clos.",
+      "text_sha256": "777ebeea4844ed6b07076468ce3d85e5966cf6aa06c8c8aa5a182a2a83cef2b7",
+      "md_span": {
+        "start": 70559,
+        "end": 71150
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_117",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_117",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 117.",
+      "heading": "Le budget est divisé en chapitre ordinaire et en chapitre extraordinaire tant en recettes qu’en dépenses",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "suivant les modalités à fixer par règlement grand-ducal. Chaque chapitre budgétaire est subdivisé en sections et articles. Les dépenses de chaque chapitre sont équilibrées par des recettes de même nature. Toutefois, un excédent de recette dans le chapitre ordinaire peut contribuer à équilibrer le chapitre extraordinaire.",
+      "text_sha256": "f6791892d309898da0dd183c30492ab739fa550f0554886f17698addedda306f",
+      "md_span": {
+        "start": 71294,
+        "end": 71616
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_118",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_118",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 118.",
+      "heading": "L’administration communale peut recourir au crédit pour financer des dépenses extraordinaires si un",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "autre financement n’est ni possible ni économique et si le remboursement régulier des annuités est assuré. 878",
+      "text_sha256": "c10762c4e9861d0849a6d9c5c00bae0b2b287fb8cae15617c98dda08f6d0d8ed",
+      "md_span": {
+        "start": 71755,
+        "end": 71865
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_119",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_119",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 119.",
+      "heading": "Les dépenses se composent de dépenses obligatoires et de dépenses non obligatoires.",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "Seules les dépenses résultant d’obligations légales, d’engagements contractuels et de décisions judiciaires coulées en force de chose jugée sont considérées comme obligatoires. Des engagements nouveaux ne peuvent être contractés que si les crédits budgétaires afférents ont été votés par le conseil communal et approuvés par le ministre de l’Intérieur.",
+      "text_sha256": "8861e50a152fd3eb63fe0f092c59ee49bbf4a700f88cefb828c14c23a78a5750",
+      "md_span": {
+        "start": 71988,
+        "end": 72340
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_120",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_120",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 120.",
+      "heading": "Les crédits des articles de dépenses sont limitatifs à l’exception de ceux pour dépenses obligatoires.",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 72482,
+        "end": 72482
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_121",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_121",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 121.",
+      "heading": "Lorsque des dépenses obligatoires intéressent plusieurs communes, elles y concourent toutes",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "proportionnellement à l’intérêt qu’elles peuvent y avoir. En cas de refus ou de désaccord sur la proportion de cet intérêt et des charges à supporter, il y est statué par le ministre de l’Intérieur, sauf recours au «tribunal administratif»1 qui statue comme juge du fond (...)1.",
+      "text_sha256": "b85b39db158ecdc5f1366e52c4fbab1f7e563b474ae5ee95b29a4d31a8fd9b7f",
+      "md_span": {
+        "start": 72613,
+        "end": 72891
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_122",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_122",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 122.",
+      "heading": "Le budget est proposé par le collège des bourgmestre et échevins qui en justifie les dispositions. Il est",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "voté par le conseil communal avant le début de l’exercice financier. Le vote séparé sur un ou plusieurs articles est de rigueur lorsqu’il est demandé par un tiers au moins des membres présents du conseil communal.",
+      "text_sha256": "43985ca7e1a3b8f121b4f9b953b0f9da84f697bad6657d1fab6a60c2eca2b9c2",
+      "md_span": {
+        "start": 73036,
+        "end": 73249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_123",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_123",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 123.",
+      "heading": "Le budget voté est soumis sans retard par le collège des bourgmestre et échevins au commissaire de",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "district qui le transmet avec ses observations éventuelles au ministre de l’Intérieur. Le budget de la Ville de Luxembourg est adressé directement au ministre de l’Intérieur.",
+      "text_sha256": "ea2760c91303d36451acbfbcf41130b1be72bebfe0ef4de1a407e33e129685b2",
+      "md_span": {
+        "start": 73387,
+        "end": 73561
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_124",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_124",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 124.",
+      "heading": "Le ministre de l’Intérieur redresse le budget s’il n’est pas conforme aux lois et règlements. Il l’arrête",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "définitivement, sans préjudice du recours prévu à l’article 107. Le collège des bourgmestre et échevins communique le budget redressé aux membres du conseil communal.",
+      "text_sha256": "dd70a8e2727ae0ee965109eccadb5f54f01ce022d74968cb9232ccc2eaf31390",
+      "md_span": {
+        "start": 73706,
+        "end": 73872
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_125",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_125",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 125.",
+      "heading": "Si le budget n’est pas proposé par le collège des bourgmestre et échevins ou si le conseil communal ne",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "le vote pas dans les délais prescrits, le ministre de l’Intérieur se substitue à ces organes pour proposer ou arrêter d’office un budget limité aux dépenses obligatoires ainsi qu’aux recettes et aux dépenses indispensables au fonctionnement de la commune. Dans tous les cas où le conseil communal chercherait à éluder le paiement des dépenses obligatoires que la loi met à sa charge, en refusant leur allocation en tout ou en partie, le ministre de l’Intérieur, après avoir entendu le conseil communal, portera d’office la dépense au budget, dans la proportion du besoin, sans préjudice du recours prévu à l’article 107.",
+      "text_sha256": "e3cb69a81d14b9461b691e6ac885e74c934f8db3bb0b305e5dbf83ff8e467e3e",
+      "md_span": {
+        "start": 74014,
+        "end": 74634
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_126",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_126",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 126.",
+      "heading": "Si le budget n’est pas arrêté avant le commencement de l’exercice financier, le collège des bourgmestre",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "et échevins ne peut mandater par mois que les dépenses obligatoires du chapitre ordinaire.",
+      "text_sha256": "2fd9c5cd0f8a0a6d6f034b727492a08a348e31e083eda06a0384a7f7581e9fb6",
+      "md_span": {
+        "start": 74777,
+        "end": 74867
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_127",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_127",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 127.",
+      "heading": "Durant l’exercice financier des crédits nouveaux ou supplémentaires ne peuvent être votés par le conseil",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "communal que pour des dépenses imprévues, sous l’approbation du ministre de l’Intérieur.",
+      "text_sha256": "22675ef2003592488ea04c20b52182208b15e660949d0e4bda58b2bc4763ff4c",
+      "md_span": {
+        "start": 75011,
+        "end": 75099
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_128",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_128",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 128.",
+      "heading": "Le collège des bourgmestre et échevins peut transférer, jusqu’à la clôture définitive de l’exercice, les",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "excédents de crédit d’un article à un autre à l’intérieur d’une même section. Ne sont pas susceptibles d’être transférés à d’autres articles les crédits figurant au chapitre des dépenses extraordinaires de même que les crédits non limitatifs du chapitre des dépenses ordinaires et tout autre crédit marqué comme tel par son libellé. Quel que soit leur libellé, les crédits pour l’allocation de subventions à caractère bénévole ne sont pas susceptibles d’être majorés moyennant des transferts d’excédents de crédit d’autre nature. Dans le mois qui suit la clôture définitive de l’exercice, le collège des bourgmestre et échevins peut reporter à l’exercice suivant les crédits non entièrement absorbés du chapitre des dépenses extraordinaires pour solder les dépenses auxquelles ils sont destinés.",
+      "text_sha256": "0df0c87a167315527843c59acc5931ffbaa1a00b28154e9594cb5df2acdedda8",
+      "md_span": {
+        "start": 75243,
+        "end": 76038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_129",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_129",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 129.",
+      "heading": "Avant de procéder au vote du budget, le conseil communal arrête, sous l’approbation du ministre de",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 1er. – Du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’Intérieur, les prévisions actualisées des recettes et des dépenses de l’exercice en cours sous forme d’un budget rectifié, qui est établi et voté dans les mêmes conditions et selon les mêmes règles que le budget.",
+      "text_sha256": "d371794696ece9e7c38d8082a908ea10bd8cb7e675877bc2b6876ba4416e5fff",
+      "md_span": {
+        "start": 76176,
+        "end": 76390
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_130",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_130",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 130.",
+      "heading": "Le collège des bourgmestre et échevins vérifie les droits des créanciers de la commune et ordonnance",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "les dépenses dans la limite des crédits autorisés.",
+      "text_sha256": "151d9997e30e1c3c159fd5cb96f2f5fb0f5c1241251fd10ffe44cfb64ee231fd",
+      "md_span": {
+        "start": 76574,
+        "end": 76624
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_131",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_131",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 131.",
+      "heading": "Les mandats de paiement sont signés par le bourgmestre ou celui qui le remplace et par un échevin et",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "contresignés par le secrétaire communal. Aucun paiement à charge de la caisse communale ne peut avoir lieu qu’en vertu d’un mandat établi en due forme.",
+      "text_sha256": "09ba9c774af57aa0d9184192c92ca0c058597e9015b901e26c7f4441f8ef91d3",
+      "md_span": {
+        "start": 76764,
+        "end": 76915
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_132",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_132",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 132.",
+      "heading": "Si le moindre retard est de nature à causer un préjudice à la commune, le collège des bourgmestre et",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "échevins peut, sous sa responsabilité, ordonnancer une dépense pour laquelle aucun crédit n’est prévu au budget, sous condition d’en donner sans délai connaissance au conseil communal qui y statue. 1 En vertu de la loi du 7 novembre 1996, la référence au Comité du Contentieux du Conseil d’Etat s’entend comme référence au tribunal administratif. (Mém A - 79 du 19 novembre 1996, p. 2262,; doc. parl. 3940A) 879 La délibération afférente du conseil communal est soumise à l’approbation du ministre de l’Intérieur.",
+      "text_sha256": "e27f4c44d33abd270ac1e74923e554e5814d4c0cce488561a0794c3748c11f2f",
+      "md_span": {
+        "start": 77055,
+        "end": 77568
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_133",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_133",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 133.",
+      "heading": "Si le collège des bourgmestre et échevins refuse ou omet d’ordonnancer les dépenses que la loi met à",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "charge de la commune, le ministre de l’Intérieur peut ordonner que la dépense soit immédiatement payée. Cette décision tient lieu de mandat et le receveur est tenu d’en acquitter le montant.",
+      "text_sha256": "b8d8833497e491c7618c54c3c1dea507961d9876171a532b0a2aaf1497b80ae8",
+      "md_span": {
+        "start": 77708,
+        "end": 77898
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_134",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_134",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 134.",
+      "heading": "Dès réception des mandats régulièrement établis, le receveur communal est tenu de les payer dans la",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "limite des crédits budgétaires autorisés.",
+      "text_sha256": "e4e5a3f90729ce056a56c2cf67a51b934162e206be52b797c61895f202f1103e",
+      "md_span": {
+        "start": 78037,
+        "end": 78078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_135",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_135",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 135.",
+      "heading": "Le collège des bourgmestre et échevins établit les rôles et les titres de recettes et surveille la rentrée",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "des fonds. Le bourgmestre ou celui qui le remplace et un échevin signent les titres et rôles qui sont contresignés par le secrétaire.",
+      "text_sha256": "50ac6e6a8e1b8f28220d41be9532c6637791b30c3fb7d30281d7ffbef6fe4004",
+      "md_span": {
+        "start": 78224,
+        "end": 78357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_136",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_136",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 136.",
+      "heading": "Le collège des bourgmestre et échevins émet les titres rectificatifs pour redresser les doubles emplois,",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "les taxations erronées et les erreurs matérielles et pour accorder les escomptes et dégrèvements usuels.",
+      "text_sha256": "0b30d2c58c8b243a61852c6a8dd469aec1729e9eb344e047f3c5f5775ac5b315",
+      "md_span": {
+        "start": 78501,
+        "end": 78605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_137",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_137",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 137.",
+      "heading": "Si le collège des bourgmestre et échevins refuse ou omet d’établir un titre pour une recette due, le",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "ministre de l’Intérieur peut ordonner que la recette soit immédiatement recouvrée. Cette décision tient lieu de titre de recette imposant au receveur l’obligation de faire rentrer les montants en question.",
+      "text_sha256": "f05b5bec2d5a82bdd9de8ba26161b00761fc352c10178a4cd7d8607b71bed4b4",
+      "md_span": {
+        "start": 78745,
+        "end": 78950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_138",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_138",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 138.",
+      "heading": "Le receveur est chargé seul, sous sa responsabilité, d’encaisser les recettes et d’acquitter les dépenses de",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "la commune. Il est responsable de la gestion et de la bonne garde des fonds. Le recouvrement de recettes déterminées peut être confié, le cas échéant, par le collège des bourgmestre et échevins, à un ou plusieurs agents spéciaux. Ceux-ci gèrent les fonds perçus, sous leur propre responsabilité et sous la surveillance du receveur.",
+      "text_sha256": "bc0c3145cbfb66dfc3b170ed7e73b3821ed9c62ddf4cab5800299a8fa7e6d0dd",
+      "md_span": {
+        "start": 79098,
+        "end": 79429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_139",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_139",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 139.",
+      "heading": "A la clôture définitive de l’exercice, le receveur porte les recettes non rentrées, par débiteur et par",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "nature, sur un état des recettes restant à recouvrer.",
+      "text_sha256": "f01b447254a5b2c004d1e6f1a88ebebc270c44c2105773a5d3f22badfe9f42e9",
+      "md_span": {
+        "start": 79572,
+        "end": 79625
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_140",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_140",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 140.",
+      "heading": "Le receveur est déchargé de la perception des recettes irrécouvrables ainsi que de celles dont le collège",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "des bourgmestre et échevins lui donne décharge. Le collège ne peut accorder décharge totale ou partielle à un débiteur que dans les cas prévus par la loi, à moins qu’il n’y soit autorisé par le conseil communal.",
+      "text_sha256": "20e468a2b0f686a872b99ecb6a22bd3ee042ad87871c819832b3c3546e847568",
+      "md_span": {
+        "start": 79770,
+        "end": 79981
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_141",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_141",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 141.",
+      "heading": "Le receveur peut être forcé en recettes par le ministre de l’Intérieur pour les montants qui n’ont pas été",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "recouvrés deux années après la clôture définitive de l’exercice auquel ils se rapportent.",
+      "text_sha256": "79feaf8c3e16bac6d7114d5b796118edfc94ca685fa68eb4c781dba20465b53b",
+      "md_span": {
+        "start": 80127,
+        "end": 80216
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_142",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_142",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 142.",
+      "heading": "Le receveur est forcé d’office en recettes pour les montants devenus irrécouvrables par sa négligence ou",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "par sa faute. Il est tenu de verser à la caisse communale les montants pour lesquels il a été forcé en recettes. Il est subrogé dans ce cas aux droits et actions de la commune contre les débiteurs en retard de payer.",
+      "text_sha256": "2bc38cec7d0786671796e7b7ec57c99e151a2a537dbed9f3a0083aec4152a283",
+      "md_span": {
+        "start": 80360,
+        "end": 80576
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_143",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_143",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 143.",
+      "heading": "Il est tenu par exercice financier une comptabilité du collège des bourgmestre et échevins et une",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "comptabilité du receveur selon les modalités à déterminer par règlement grand-ducal.",
+      "text_sha256": "5fe034cb8bf410ff2ba43f4fb146927ee340889fb881b18e815151f382a89a28",
+      "md_span": {
+        "start": 80713,
+        "end": 80797
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_144",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_144",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 144.",
+      "heading": "Le ministre de l’Intérieur peut autoriser les communes à créer des fonds de réserves, d’amortissement",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "ou de renouvellement et à porter en dépense provisoire les sommes prévues à ces fins, selon les modalités à fixer par règlement grand-ducal.",
+      "text_sha256": "a09143c48e32279de1a6d0304b16519e47ebfd9854969d87cb52d34fcbc20d6a",
+      "md_span": {
+        "start": 80938,
+        "end": 81078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_145",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_145",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 145.",
+      "heading": "La forme des budgets, des comptes et des autres documents comptables est déterminée par le ministre",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "de l’Intérieur.",
+      "text_sha256": "f2846b742b7b73ef7bb903b8690f4c9eac74eed12a4acc607aeea3986a8a4d21",
+      "md_span": {
+        "start": 81217,
+        "end": 81232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_146",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_146",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 146.",
+      "heading": "Le collège des bourgmestre et échevins ou un de ses membres délégué par lui vérifie au moins tous les trois",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "mois, avec le concours du secrétaire communal, la comptabilité du receveur. Dans les communes qui disposent d’un service financier spécial, les vérifications trimestrielles peuvent se faire par ce service sous la surveillance du collège des bourgmestre et échevins.",
+      "text_sha256": "14ecef880a602b828ae596987bf72fbe8deade592c934eb6b784ebc3857c7929",
+      "md_span": {
+        "start": 81379,
+        "end": 81644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_147",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_147",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 147.",
+      "heading": "Sans préjudice des attributions spéciales des commissaires de district, le contrôle des budgets, des",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 2. – De l’exécution du budget"
+      ],
+      "article_valid_from": null,
+      "text_md": "comptes, de la comptabilité et des caisses des communes se fait par un service spécial dénommé «service de contrôle de la comptabilité des communes». Ce service est placé sous l’autorité directe du ministre de l’Intérieur. La mission du service de contrôle de la comptabilité des communes consiste, en cours d’exercice, à procéder à des vérifications périodiques et approfondies des caisses de la comptabilité des communes. Il en est dressé procès-verbal qui est communiqué au collège des bourgmestre et échevins concerné.",
+      "text_sha256": "bc94071ce357eed79714b8db4ed6900fdedaf4b644d900d80b79a0187c12b110",
+      "md_span": {
+        "start": 81784,
+        "end": 82306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_148",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_148",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 148.",
+      "heading": "Le recouvrement des taxes et impositions communales perçues directement par la commune se fait soit",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "par la voie judiciaire soit par la voie administrative selon les dispositions ci-après. 880",
+      "text_sha256": "c2c34b4038949b2526df0799fec7351d49a91f474e7be70b89d5bdf24a724c02",
+      "md_span": {
+        "start": 82500,
+        "end": 82591
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_149",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_149",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 149.",
+      "heading": "En exécution des rôles et des titres prévus à l’article 135 de la présente loi, le receveur adresse aux",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "débiteurs un bulletin qui est considéré comme premier avertissement les invitant à se libérer dans les quatre semaines à partir de la réception du bulletin.",
+      "text_sha256": "a8d27f325f0ed76f69bc7dc40dde94514e322f9600a761d7c4382661e4ba397a",
+      "md_span": {
+        "start": 82734,
+        "end": 82890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_150",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_150",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 150.",
+      "heading": "En cas de non-paiement un dernier avertissement est adressé aux débiteurs les sommant de s’exécuter",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "dans les quinze jours de sa réception.",
+      "text_sha256": "26edb91028706fd95a9b5b0ef336b5415247ea667ea2c051a36f4f53a2ff4c1d",
+      "md_span": {
+        "start": 83029,
+        "end": 83067
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_151",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_151",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 151.",
+      "heading": "Les débiteurs qui n’ont pas payé dans le délai prévu à l’art. 150 sont portés par le receveur sur un relevé",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "qu’il certifie conforme aux rôles et aux titres. Ce relevé qui indique les montants dus par chaque débiteur est rendu exécutoire par le ministre de l’Intérieur pour la ville de Luxembourg et par le commissaire de district pour les autres communes. Il constitue la contrainte.",
+      "text_sha256": "193a8cc85126afe6466314a5268b42565d4ade0722206101cc284163eb751dd3",
+      "md_span": {
+        "start": 83214,
+        "end": 83489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_152",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_152",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 152.",
+      "heading": "Le receveur notifie un extrait individuel du relevé soit par lettre recommandée avec avis de réception",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "soit par voie d’huissier à chaque débiteur avec sommation de s’acquitter dans un délai de sept jours. Après expiration de ce délai la contrainte emporte exécution forcée, sauf opposition de la part du débiteur.",
+      "text_sha256": "d2262c8e4de9597df050dfdc04dac950d744fe0c8b7f72b32034af3350004f41",
+      "md_span": {
+        "start": 83631,
+        "end": 83841
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_153",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_153",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 153.",
+      "heading": "Les contestations en matière d’impositions communales sont vidées conformément à l’article 8 de l’arrêté",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "grand-ducal du 26 octobre 1944 sur les impôts, taxes, cotisations et droits. Le recours n’est pas suspensif. La réclamation est à présenter dans les trois mois de la réception du bulletin visé à l’article 149. Ce bulletin doit contenir une information sur les voies de recours admissibles.",
+      "text_sha256": "60079ba0255af77158c62c0b81875e9c105bffd4eea0c615c313a9d82140abd5",
+      "md_span": {
+        "start": 83985,
+        "end": 84274
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_154",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_154",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 154.",
+      "heading": "Le recouvrement par voie judiciaire ou administrative des recettes visées à l’article 148 se prescrit par",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "cinq ans. Ce délai commence à courir à partir du 1er janvier qui suit la date de l’établissement du premier avertissement.",
+      "text_sha256": "535613677da385088fbd79a6c14c3f4666ed07f74e85a6dbde8b8c2838f34a57",
+      "md_span": {
+        "start": 84419,
+        "end": 84541
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_155",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_155",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 155.",
+      "heading": "A l’exception des frais de port, toutes les dépenses occasionnées par la contrainte et par son exécution",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "forcée sont à charge du débiteur et recouvrées avec la créance principale.",
+      "text_sha256": "dbbb31be07af1cd44bc56b436df4b24aa760f50fd1323037700cf841dded64b3",
+      "md_span": {
+        "start": 84685,
+        "end": 84759
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_156",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_156",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 156.",
+      "heading": "L’assignation en justice et la notification de la contrainte au débiteur interrompent la prescription.",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 84901,
+        "end": 84901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_157",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_157",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 157.",
+      "heading": "Le conseil communal peut exiger par un règlement-taxe le paiement d’intérêts de retard pour les recettes",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "fiscales et fixer le montant et le délai à partir desquels ils sont exigibles. Le taux des intérêts de retard réclamés par les communes ne peut excéder celui fixé par l’Etat en matière d’impôt sur le revenu.",
+      "text_sha256": "60d5dd16809214a498b50c2ddc8056dc6801bbef54d2bfdab9ab4b3461c2fe39",
+      "md_span": {
+        "start": 85045,
+        "end": 85252
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_158",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_158",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 158.",
+      "heading": "Pour le recouvrement de l’impôt foncier la commune jouit des mêmes privilèges et hypothèques que ceux",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "dont dispose l’Etat en matière d’impôt sur le revenu.",
+      "text_sha256": "0ccaffd604a9daf5da364472e04cb567436585e5b4332e0cec60484ba7da2a1d",
+      "md_span": {
+        "start": 85393,
+        "end": 85446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_159",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_159",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 159.",
+      "heading": "Pour les recettes provenant de la fourniture d’eau, de gaz et d’électricité le receveur communal peut",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "demander soit au début du contrat de fourniture soit au cours de son exécution une avance qui ne peut dépasser quatre fois la consommation mensuelle présumée ou effective du débiteur.",
+      "text_sha256": "1bdfc9f718572c9b93f08d8324552ca4d4b411e275edb3005ea16fea58e1d007",
+      "md_span": {
+        "start": 85587,
+        "end": 85770
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_160",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_160",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 160.",
+      "heading": "En cas de paiement partiel le débiteur a le droit de désigner les dettes qu’il désire acquitter.",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 3. – Du recouvrement des impôts et taxes"
+      ],
+      "article_valid_from": null,
+      "text_md": "Dans ce cas l’imputation doit se faire, en premier lieu, sur les frais de poursuite et les intérêts de retard se rapportant à la dette désignée. A défaut d’instruction de la part du débiteur, l’imputation se fait: 1° sur les frais de poursuite, 2° sur les intérêts de retard échus, 3° sur les créances pour lesquelles le risque de la prescription est le plus élevé. Lors de la liquidation d’un mandat au profit d’un débiteur le receveur est tenu de retenir les sommes que ce dernier doit à la commune.",
+      "text_sha256": "3e22de4508c977142354f6b27e197b905af8a03cd59e6ef645da221fd2d2a8ac",
+      "md_span": {
+        "start": 85906,
+        "end": 86407
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_161",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_161",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 161.",
+      "heading": "Dès la clôture définitive de l’exercice, le compte administratif est établi par le collège des bourgmestre",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "et échevins et le compte de gestion par le receveur communal. Le receveur qui quitte ses fonctions en cours d’exercice est tenu d’établir un compte de fin de gestion à la date de la cessation de ses fonctions. En cas de remplacement temporaire du receveur, le ministre de l’Intérieur peut dispenser le titulaire et le remplaçant, sur leur demande conjointe, de l’établissement de comptes distincts. En cas de décès du receveur, le compte est établi par ses héritiers. A défaut d’héritiers ou en cas de renonciation de ces derniers à la succession du receveur, le compte de fin de gestion est établi aux frais de la commune par une personne à désigner par le conseil communal.",
+      "text_sha256": "d605af87dd75d0045cadc6fc99a6644b7f532d58d550f138b73e8c119e7268ab",
+      "md_span": {
+        "start": 86584,
+        "end": 87259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_162",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_162",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 162.",
+      "heading": "Le collège des bourgmestre et échevins justifie par le compte administratif l’exécution du budget",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "conformément aux lois et aux règlements. Le receveur justifie par le compte de gestion le recouvrement des recettes selon les rôles et les titres qui lui ont été remis et le paiement des dépenses mandatées.",
+      "text_sha256": "106017bbcc92c9d5a4c2c56dcb848eb45ceff9a5af0ba5baa6b04516123332bb",
+      "md_span": {
+        "start": 87396,
+        "end": 87602
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_163",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_163",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 163.",
+      "heading": "Le compte administratif et le compte de gestion sont vérifiés par le service de contrôle de la comptabilité",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "des communes qui les transmet avec ses observations éventuelles au conseil communal. Le conseil arrête 881 provisoirement les deux comptes. Le ministre de l’Intérieur examine les comptes provisoirement arrêtés et redresse les écritures non conformes à la loi. Il arrête définitivement les comptes.",
+      "text_sha256": "ace88346cd24494c7d9d5257ce476911217bb3421caee22716d644af064ebab8",
+      "md_span": {
+        "start": 87749,
+        "end": 88046
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_164",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_164",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 164.",
+      "heading": "Les bourgmestre et échevins peuvent être déclarés personnellement responsables des dépenses qu’ils ont",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "mandatées en violation des lois et règlements et des recettes qui n’ont pu être recouvrées par leur faute. Dans ces cas, le ministre de l’Intérieur ordonne que l’action en recouvrement soit portée devant le tribunal compétent. Elle peut être exercée au nom de la commune, soit par citation directe, soit, si le ministre l’ordonne, par les soins du ministère public.",
+      "text_sha256": "9d5b11f05a5a10842b8c4732744dbfd28b7f6939dd9bdbaf7762b4ac59f36652",
+      "md_span": {
+        "start": 88188,
+        "end": 88553
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_165",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_165",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 165.",
+      "heading": "Dans tous les cas où les budgets, comptes ou autres documents ne sont pas présentés dans les délais",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "prescrits, le ministre de l’Intérieur ou le commissaire de district peut, conformément à l’article 108 de la présente loi, désigner un commissaire spécial qui exécutera aux frais des personnes en défaut les travaux en souffrance.",
+      "text_sha256": "880f07e27b88accc80cb39f0b9269a8ea2b45847acc9e1488b6b3c8c7df4f9d1",
+      "md_span": {
+        "start": 88692,
+        "end": 88921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_166",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_166",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 166.",
+      "heading": "Les arrêtés du ministre de l’Intérieur sur le compte de gestion ont force exécutoire entre le receveur ou",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "ses héritiers et la commune. Ces arrêtés peuvent être attaqués par voie de recours au «tribunal administratif»1 qui statue comme juge du fond (...)1.",
+      "text_sha256": "6cba03ba221c3692fbcc896b7a998732944976d3397d4ecadcbb26cb7fd98448",
+      "md_span": {
+        "start": 89066,
+        "end": 89215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_167",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_167",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 167.",
+      "heading": "Le ministre de l’Intérieur peut rectifier les comptes arrêtés pour faux, erreur, omission ou double emploi.",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 89362,
+        "end": 89362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_168",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_168",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 168.",
+      "heading": "Les budgets, comptes et autres documents comptables sont conservés par l’administration communale",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "pendant dix ans au moins.",
+      "text_sha256": "0b1c671a3898c838315f58b3a6be07b2a1bd4c9dbc450ca5552d4a1bf13b2e65",
+      "md_span": {
+        "start": 89499,
+        "end": 89524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_169",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_169",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 169.",
+      "heading": "Un règlement grand-ducal prévoit les cas dans lesquels des services industriels assurés par une commune",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 4. – Des comptes"
+      ],
+      "article_valid_from": null,
+      "text_md": "doivent tenir une comptabilité selon les principes de la comptabilité commerciale et en fixe les modalités. Les services en question doivent établir un bilan et un compte de profits et pertes, indépendamment de leur soumission aux règles qui gouvernent les budgets et les comptes des communes.",
+      "text_sha256": "a667acb8ee8a96eb61e93c3e943f01f324924df4c5b74a8a86c2d48b3bedc6d5",
+      "md_span": {
+        "start": 89667,
+        "end": 89960
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_170",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_170",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 170.",
+      "heading": "Les dispositions des chapitres 1 à 4 du titre 4 relatifs à la comptabilité des communes sont applicables",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 5. – Des syndicats de communes et des établissements publics"
+      ],
+      "article_valid_from": null,
+      "text_md": "aux syndicats de communes et aux établissements publics placés sous la surveillance des communes, sous réserve des adaptations et modifications prévues aux articles 171 à 173.",
+      "text_sha256": "c468660dd290269a01c0d0ae5d3feda426a8cefcd288d4d2fe9b1d7c89c90be3",
+      "md_span": {
+        "start": 90179,
+        "end": 90354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_171",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_171",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 171.",
+      "heading": null,
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 5. – Des syndicats de communes et des établissements publics"
+      ],
+      "article_valid_from": null,
+      "text_md": "(Loi du 23 février 2001) «L'organe directeur et le président de l'organe directeur des établissements publics placés sous la surveillance des communes exercent les attributions dévolues par les dispositions des chapitres 1 à 4 du présent titre respectivement au conseil communal et au bourgmestre. Le président de l'organe directeur assume également celles qui sont confiées au collège des bourgmestre et échevins. Le comité des syndicats de communes exerce les attributions dévolues par les dispositions des chapitres 1 à 4 du présent titre au conseil communal, le bureau assume celles qui sont confiées au collège des bourgmestre et échevins et le président celles du bourgmestre.»",
+      "text_sha256": "a5bc763565f2de9b0bbaa84c5b0dd917389aeabf0894b33cb24dd25a12bfbf92",
+      "md_span": {
+        "start": 90393,
+        "end": 91076
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_172",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_172",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 172.",
+      "heading": "Il est tenu par exercice une seule comptabilité selon les modalités à déterminer par règlement grand-",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 5. – Des syndicats de communes et des établissements publics"
+      ],
+      "article_valid_from": null,
+      "text_md": "ducal. Le ministre de l’Intérieur désigne les syndicats de communes et les établissements publics placés sous la surveillance des communes qui doivent tenir leur comptabilité selon les principes de la comptabilité commerciale et selon les modalités à fixer par règlement grand-ducal. Les crédits pour dépenses d’exploitation de ces syndicats et établissements publics sont non limitatifs. Leurs comptes d’exercice sont remplacés par un bilan et un compte de pertes et profits. Pour les syndicats de communes et les établissements publics placés sous la surveillance des communes qui ne tiennent pas une comptabilité commerciale un seul compte est rendu à la fin de l’exercice par l’organe directeur chargé de l’exécution du budget.",
+      "text_sha256": "fb70c8d038a31a5e5dd7151b41aebad520cc76542c745879b3f7d29b66100c9a",
+      "md_span": {
+        "start": 91217,
+        "end": 91948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_173",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_173",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 173.",
+      "heading": "Les budgets et les comptes des établissements publics placés sous la surveillance des communes sont",
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 5. – Des syndicats de communes et des établissements publics"
+      ],
+      "article_valid_from": null,
+      "text_md": "soumis à l’approbation du conseil communal. (Loi du 23 février 2001) «Titre 4bis - Des formes de collaboration des communes et syndicats de communes",
+      "text_sha256": "c56d9a5490e4c6e6af64fa74a05454ddcc39a6061efacf937069185bae1278ed",
+      "md_span": {
+        "start": 92087,
+        "end": 92235
+      },
+      "citations": []
+    },
+    {
       "anchor": "art_173bis",
       "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_173bis",
       "eli": null,
       "type": "article",
       "num": "Art. 173bis.",
       "heading": "Les communes et les syndicats de communes, dans les limites de leur objet, peuvent prendre des",
-      "path": [],
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 5. – Des syndicats de communes et des établissements publics"
+      ],
       "article_valid_from": null,
       "text_md": "participations financières dans des sociétés de droit privé en vue d'une œuvre ou d'un service d'intérêt communal. Les communes ne peuvent s'engager que divisément et jusqu'à concurrence d'une somme déterminée. La prise de participation est autorisée par arrêté grand-ducal qui en détermine les modalités et conditions.",
       "text_sha256": "1723799abf8cf3c9c76ca8907f3fae2bb59c3f8b890f09dd6cc4390636352165",
       "md_span": {
-        "start": 685,
-        "end": 1004
+        "start": 92375,
+        "end": 92694
       },
       "citations": []
     },
@@ -43,20 +3462,82 @@
       "type": "article",
       "num": "Art. 173ter.",
       "heading": "Sans préjudice de la législation sur les marchés publics les communes et les syndicats de communes",
-      "path": [],
+      "path": [
+        "Titre 4. – De la comptabilité communale",
+        "Chapitre 5. – Des syndicats de communes et des établissements publics"
+      ],
       "article_valid_from": null,
-      "text_md": "peuvent conclure entre elles et avec des personnes morales de droit public et de droit privé et avec des particuliers des conventions en des matières d'intérêt communal. Ces conventions sont soumises à l'approbation du ministre de l'Intérieur, si leur valeur dépasse 300.000 francs. Cette somme pourra être relevée par règlement grand-ducal. » Article 2. L'article 1er de la loi modifiée du 24 décembre 1985 portant fixation du statut général des fonctionnaires communaux est modifié comme suit: Au paragraphe 1, troisième alinéa, les termes «le président d'un syndicat de communes ou d'un établissement public» sont remplacés par «le bureau d'un syndicat de communes et le président d'un établissement public». Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne. Le Ministre de l’Intérieur, Palais de Luxembourg, le 23 février 2001. Michel Wolter Henri Doc. parl. 4139; sess. ord. 1996-1997, 1997-1998, 1998-1999, 1999-2000 et 2000-2001. 858",
-      "text_sha256": "a4270138f0d3234b88c9ceb10bfedcb17571715fd1ed8877c65b98e4c83e795d",
+      "text_md": "peuvent conclure entre elles et avec des personnes morales de droit public et de droit privé et avec des particuliers des conventions en des matières d'intérêt communal. Ces conventions sont soumises à l'approbation du ministre de l'Intérieur, si leur valeur dépasse 300.000 francs. Cette somme pourra être relevée par règlement grand-ducal.» 1 En vertu de la loi du 7 novembre 1996, la référence au Comité du Contentieux du Conseil d’Etat s’entend comme référence au tribunal administratif. (Mém A - 79 du 19 novembre 1996, p. 2262; doc. parl. 3940A) 882",
+      "text_sha256": "7e0b018ec36294bb009d5c60853102fe91efd5d127b78bfc96c759ac656b4579",
       "md_span": {
-        "start": 1148,
-        "end": 2172
+        "start": 92838,
+        "end": 93393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_174",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_174",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 174.",
+      "heading": "Les dispositions de la présente loi entrent en vigueur le premier du mois qui suit leur publication au",
+      "path": [
+        "Titre 5. – Dispositions diverses",
+        "Chapitre 1er. – Entrée en vigueur"
+      ],
+      "article_valid_from": null,
+      "text_md": "Mémorial à l’exception de celles qui figurent aux chapitres 1 à 5 du titre 4 et qui sortent leurs effets le premier janvier de l’année qui suit leur publication au Mémorial.",
+      "text_sha256": "d2bb1751cf486c0d2a0321d927e671799c3388009b4d93d3f3d42652950af18b",
+      "md_span": {
+        "start": 93611,
+        "end": 93784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_175",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_175",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 175.",
+      "heading": "Toutes les dispositions généralement quelconques qui sont contraires à la présente loi sont abrogées,",
+      "path": [
+        "Titre 5. – Dispositions diverses",
+        "Chapitre 2. – Des dispositions abrogatoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "notamment – la loi du 29 avril 1819 contenant des dispositions propres à assurer efficacement le recouvrement des impositions communales, – la loi du 24 février 1843 sur l’organisation communale et des districts, – les articles 45 à 47 et 51 à 71 de l’arrêté royal grand-ducal du 11 décembre 1846 concernant la réorganisation et le règlement des bureaux de bienfaisance, – la loi du 23 septembre 1847 sur le règlement des comptes des communes et des établissements publics, – l’arrêté royal grand-ducal du 29 mars 1882 concernant les poursuites pour le recouvrement des impositions commu- nales directes autres que les centimes additionnels, – l’article 4 alinéa 2 de la loi modifiée du 14 février 1900 concernant les syndicats de communes, – la loi du 1er août 1919 concernant les cautionnements des receveurs des communes, des syndicats de communes, des hospices et des bureaux de bienfaisance, telle qu’elle a été modifiée par la loi du 16 février 1929 et – la loi du 6 avril 1920 portant réorganisation du service de contrôle des caisses de la comptabilité des communes et des établissements publics.",
+      "text_sha256": "2b2cc8b40b647374387a43db9a0690e969269c5fae3c391b7e93d7c9acc0308d",
+      "md_span": {
+        "start": 93974,
+        "end": 95078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_176",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_176",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 176.",
+      "heading": "La loi du 24 juillet 1972 concernant l’action sociale en faveur des immigrants est complétée par un article",
+      "path": [
+        "Titre 5. – Dispositions diverses",
+        "Chapitre 3. – Disposition spéciale"
+      ],
+      "article_valid_from": null,
+      "text_md": "7bis de la teneur suivante: «Art. 7bis. Dans les communes dont la population comprend plus de 20% d’étrangers, le conseil communal constituera une commission consultative spéciale chargée des intérêts des résidents de nationalité étrangère sur le plan communal. Des résidents luxembourgeois et étrangers en feront partie. L’organisation et le fonctionnement de ces commissions sont fixés par règlement grand-ducal.» 883 Editeur: Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg Imprimeur: Imprimerie de la Cour Victor Buck, s. à r. l. Luxembourg",
+      "text_sha256": "2b334dd98bc1eab9ab93a9abe478eba36e9cad544065ccf6d739df5585d56104",
+      "md_span": {
+        "start": 95265,
+        "end": 95842
       },
       "citations": []
     }
   ],
   "notes": [
     "located by date alone; the issue does not name the instrument as the ELI does",
-    "stopped at the next act's heading, 48 line(s) in",
-    "took lines 6..54 of 1418 from the gazette issue"
+    "took lines 386..1418 of 1418 from the gazette issue"
   ]
 }

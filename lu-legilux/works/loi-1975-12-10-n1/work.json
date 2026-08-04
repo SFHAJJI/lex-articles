@@ -6,6 +6,12 @@
   ],
   "versions": [
     {
+      "valid_from": "1990-08-20",
+      "valid_to": "2010-02-22",
+      "language": "fr",
+      "provisions": 24
+    },
+    {
       "valid_from": "2010-02-23",
       "valid_to": null,
       "language": "fr",
@@ -14,6 +20,7 @@
   ],
   "anchors": [
     "art_10",
+    "art_11",
     "art_12",
     "art_13",
     "art_14",

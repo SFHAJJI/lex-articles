@@ -1,0 +1,26 @@
+{
+  "lex_work_id": "lu-legilux:rmin-2018-08-07-a766",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "pdf-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2019-06-28",
+        "valid_to": null,
+        "text_sha256": "5ceff614205fcaaaa76f5934d91e60d09d5c813e50e1831518ad858230ec16b3",
+        "in_version": "lu-legilux:rmin-2018-08-07-a766:2019-06-28"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2019-06-28",
+        "valid_to": null,
+        "text_sha256": "c850801aeb055060bb4309e36c855bdf91a88dd536a71a3662333db1ee4af5d9",
+        "in_version": "lu-legilux:rmin-2018-08-07-a766:2019-06-28"
+      }
+    ]
+  },
+  "anchor_events": []
+}

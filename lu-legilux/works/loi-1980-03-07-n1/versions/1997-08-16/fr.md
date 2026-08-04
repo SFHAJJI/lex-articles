@@ -10,10 +10,6 @@ attribution: 'Legilux — Ministère d''État, Service central de législation, 
 generator: 'pdf-memorial-lu/1 · lex derive'
 ---
 
-## Titre I. – Du pouvoir judiciaire
-
-### Chapitre I. – Des justices de paix
-
 <a id="art_1er"></a>
 
 ### Art. 1er. Il y a trois justices de paix, dont une à Luxembourg, une à Esch-sur-Alzette et une à Diekirch.
@@ -68,7 +64,7 @@ fonctionnaires ainsi que des employés peuvent y être affectés.
 
 accomplis. L’affectation aux emplois de greffier en chef et de greffier et la désaffectation sont faites par le ministre de la justice sur avis du procureur général d’Etat et du juge de paix directeur.
 
-### Chapitre II. – Des tribunaux d’arrondissement
+## Chapitre II. – Des tribunaux d’arrondissement
 
 <a id="art_10"></a>
 
@@ -184,7 +180,7 @@ leurs ressorts respectifs. En dehors des cas prévus par l’article 112 du Code
 
 
 
-### Chapitre III. – De la Cour Supérieure de Justice
+## Chapitre III. – De la Cour Supérieure de Justice
 
 <a id="art_32"></a>
 
@@ -276,7 +272,7 @@ détenteur du diplôme de docteur en droit délivré par un jury luxembourgeois 
 
 les renseignements indiqués à l’article 28.
 
-### Chapitre IV. – De la chambre du conseil de la cour d’appel
+## Chapitre IV. – De la chambre du conseil de la cour d’appel
 
 <a id="art_49"></a>
 
@@ -284,7 +280,7 @@ les renseignements indiqués à l’article 28.
 
 
 
-### Chapitre V. – De la cour militaire
+## Chapitre V. – De la cour militaire
 
 <a id="art_55"></a>
 
@@ -298,7 +294,7 @@ cassation deux officiers nommés par le Grand-Duc.»
 
 prennent rang entre eux suivant leur grade; à égalité de grade ils prennent rang dans l’ordre d’ancienneté comme juge. Le même ordre est observé dans les cérémonies publiques.
 
-### Chapitre VI. – Des juridictions du travail
+## Chapitre VI. – Des juridictions du travail
 
 <a id="art_56-2"></a>
 

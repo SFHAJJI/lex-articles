@@ -2,7 +2,8 @@
   "lex_work_id": "lu-legilux:rgd-2008-09-05-n1",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/1",
+    "pdf-memorial-lu/1"
   ],
   "anchors": {
     "art_10": [
@@ -23,6 +24,12 @@
     ],
     "art_1er": [
       {
+        "valid_from": "2011-08-25",
+        "valid_to": "2012-02-05",
+        "text_sha256": "18377c3c4ae3995fa6e5bf904c6f97cbf5fe079da7ee930690bb666121ffa17b",
+        "in_version": "lu-legilux:rgd-2008-09-05-n1:2011-08-25"
+      },
+      {
         "valid_from": "2012-02-06",
         "valid_to": null,
         "text_sha256": "dbcc2bbed953d67753c6e45bc3f3e9b47997540b46eaa87efcc614161dbafed3",
@@ -30,6 +37,12 @@
       }
     ],
     "art_2": [
+      {
+        "valid_from": "2011-08-25",
+        "valid_to": "2012-02-05",
+        "text_sha256": "ee89d240566fdcd221978591e96dde388234bea06a494193e5caa9789c8c97db",
+        "in_version": "lu-legilux:rgd-2008-09-05-n1:2011-08-25"
+      },
       {
         "valid_from": "2012-02-06",
         "valid_to": null,
@@ -171,6 +184,56 @@
     ]
   },
   "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "art_10",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_11",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_3",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_3bis",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_4",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_5",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_6",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_8",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9",
+      "at_version": "lu-legilux:rgd-2008-09-05-n1:2012-02-06"
+    },
     {
       "type": "inserted",
       "anchor": "art_5bis",

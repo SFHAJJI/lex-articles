@@ -2,7 +2,8 @@
   "lex_work_id": "lu-legilux:rgd-1989-12-06-n3",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/1",
+    "pdf-memorial-lu/1"
   ],
   "anchors": {
     "art_10": [
@@ -60,6 +61,12 @@
     ],
     "art_1er": [
       {
+        "valid_from": "1996-12-25",
+        "valid_to": "2012-05-06",
+        "text_sha256": "a460f26f06c361ae9a16fcb6b61a17f7c2c1fd27195ff65c5619ae9c6586e1e5",
+        "in_version": "lu-legilux:rgd-1989-12-06-n3:1996-12-25"
+      },
+      {
         "valid_from": "2012-05-07",
         "valid_to": "2015-01-01",
         "text_sha256": "129df0539a372df1f3274112604640a98896afa4a7513ee44dcaddecc824bda9",
@@ -75,6 +82,12 @@
       }
     ],
     "art_2": [
+      {
+        "valid_from": "1996-12-25",
+        "valid_to": "2012-05-06",
+        "text_sha256": "a2c8d91efaa8cab0d1ea0b6f395198475406300e099f631615842ea1f141271a",
+        "in_version": "lu-legilux:rgd-1989-12-06-n3:1996-12-25"
+      },
       {
         "valid_from": "2012-05-07",
         "valid_to": "2015-01-01",
@@ -104,6 +117,12 @@
       }
     ],
     "art_3": [
+      {
+        "valid_from": "1996-12-25",
+        "valid_to": "2012-05-06",
+        "text_sha256": "3898c076704270f56655c8912804a1c1a2b42bd25269b3d8c756860f665fb4f1",
+        "in_version": "lu-legilux:rgd-1989-12-06-n3:1996-12-25"
+      },
       {
         "valid_from": "2012-05-07",
         "valid_to": "2015-01-01",
@@ -160,6 +179,12 @@
     ],
     "art_4": [
       {
+        "valid_from": "1996-12-25",
+        "valid_to": "2012-05-06",
+        "text_sha256": "6f6b5f5530d6a88dbbaf4a7c9f17939d33cf7f9f1dae3df4186b239748a31bd5",
+        "in_version": "lu-legilux:rgd-1989-12-06-n3:1996-12-25"
+      },
+      {
         "valid_from": "2012-05-07",
         "valid_to": "2015-01-01",
         "text_sha256": "82f9a867c40c2489fc8e86a1cb76f94a0faf96bbdeba936b2decfa39544750ee",
@@ -175,6 +200,12 @@
       }
     ],
     "art_5": [
+      {
+        "valid_from": "1996-12-25",
+        "valid_to": "2012-05-06",
+        "text_sha256": "a146012043fd477de4b7d534cef83cd4e4d3b27034190d96309a6dc61115cd6f",
+        "in_version": "lu-legilux:rgd-1989-12-06-n3:1996-12-25"
+      },
       {
         "valid_from": "2012-05-07",
         "valid_to": "2015-01-01",
@@ -192,6 +223,12 @@
     ],
     "art_6": [
       {
+        "valid_from": "1996-12-25",
+        "valid_to": "2012-05-06",
+        "text_sha256": "86f75bdf1b655162c87c5dd21d44963b9094a898a2538055a48f6aec0af77901",
+        "in_version": "lu-legilux:rgd-1989-12-06-n3:1996-12-25"
+      },
+      {
         "valid_from": "2012-05-07",
         "valid_to": null,
         "text_sha256": "21eaeb6f1c835d205a9e994a2e477e2d7bbea435c1244077932af4ea8d843f4c",
@@ -199,6 +236,12 @@
       }
     ],
     "art_7": [
+      {
+        "valid_from": "1996-12-25",
+        "valid_to": "2012-05-06",
+        "text_sha256": "f63f7ffdb12d305e5ab816a42f411f171cfdb14da01c211122e20b2e98cd695b",
+        "in_version": "lu-legilux:rgd-1989-12-06-n3:1996-12-25"
+      },
       {
         "valid_from": "2012-05-07",
         "valid_to": "2015-01-01",
@@ -215,6 +258,12 @@
       }
     ],
     "art_8": [
+      {
+        "valid_from": "1996-12-25",
+        "valid_to": "2012-05-06",
+        "text_sha256": "57ca4c8d43acda883e07c7978b593a469c54980ffe77419fb1d6cca1c77bf0e3",
+        "in_version": "lu-legilux:rgd-1989-12-06-n3:1996-12-25"
+      },
       {
         "valid_from": "2012-05-07",
         "valid_to": "2015-01-01",
@@ -255,6 +304,26 @@
     ]
   },
   "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "art_10",
+      "at_version": "lu-legilux:rgd-1989-12-06-n3:2012-05-07"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_11",
+      "at_version": "lu-legilux:rgd-1989-12-06-n3:2012-05-07"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_3bis",
+      "at_version": "lu-legilux:rgd-1989-12-06-n3:2012-05-07"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9",
+      "at_version": "lu-legilux:rgd-1989-12-06-n3:2012-05-07"
+    },
     {
       "type": "renumbered",
       "from": "art_10",

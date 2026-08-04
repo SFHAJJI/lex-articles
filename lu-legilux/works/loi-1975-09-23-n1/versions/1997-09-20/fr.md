@@ -10,8 +10,6 @@ attribution: 'Legilux — Ministère d''État, Service central de législation, 
 generator: 'pdf-memorial-lu/1 · lex derive'
 ---
 
-## Section I – Du droit d’auteur en général
-
 <a id="art_1er"></a>
 
 ### Art. 1er. L’auteur d’une oeuvre littéraire ou artistique jouit sur cette oeuvre d’un droit de propriété incorporelle

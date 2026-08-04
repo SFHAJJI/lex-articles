@@ -10,10 +10,6 @@ attribution: 'Legilux — Ministère d''État, Service central de législation, 
 generator: 'pdf-memorial-lu/1 · lex derive'
 ---
 
-## Livre III. – Des corps communaux et des élections communales . . . . . . . . . . . . . . . . . . . . . . . . . . 500
-
-### Chapitre V. – Du vote par correspondance lors des élections européennes (Art. 327 à 342) . . . . . . . . . 522
-
 <a id="art_1er"></a>
 
 ### Art. 1er.
@@ -56,7 +52,7 @@ Sont exclus de l’électorat et ne peuvent être admis au vote: 1° les condamn
 
 (1) Il y a dans chaque commune trois listes électorales: 1. une liste des citoyens luxembourgeois, électeurs aux élections législatives, européennes et communales; 2. une liste des ressortissants étrangers, électeurs aux élections communales; 3. une liste des ressortissants des autres Etats membres de l’Union européenne, électeurs aux élections européennes. Les listes électorales sont permanentes. Le collège des bourgmestre et échevins procède de façon continue aux mises à jour des listes électorales, en y apportant les inscriptions et radiations d’électeurs, ainsi qu’aux modifications d’inscriptions d’électeurs, le tout conformément aux dispositions de la présente loi. La tenue et la mise à jour des listes électorales se font soit sur papier, soit sous forme de fichiers électroniques. Toutefois, les listes prévues aux articles 12, paragraphe (2) et 17 et destinées à l’inspection du public sont éditées sous forme papier. Il en est de même du relevé prévu à l’article 56. (2) Le collège des bourgmestre et échevins peut déléguer la fonction de procéder aux mises à jour des listes électorales à un ou plusieurs fonctionnaires communaux, âgés d’au moins vingt-cinq ans, désignés ci-après par les termes «le fonctionnaire délégué». Cette délégation est exercée sous la surveillance et la responsabilité du collège des bourgmestre et échevins. L’arrêté portant délégation est transmis par l’intermédiaire du commissaire de district territorialement compétent au ministre de l’Intérieur.
 
-### Chapitre II. – De la mise à jour des listes électorales
+## Chapitre II. – De la mise à jour des listes électorales
 
 <a id="art_8"></a>
 
@@ -82,7 +78,7 @@ Le domicile électoral du citoyen est au lieu de sa résidence habituelle, c’e
 
 Le collège des bourgmestre et échevins de la commune de résidence ou le fonctionnaire délégué procède à la radiation des listes électorales des personnes exclues de l’électorat. La radiation des personnes visées à l’article 6, points 1° et 2°, s’effectue sur la base du jugement prononçant l’interdiction du droit de vote, d’élection et d’éligibilité. Copie du dispositif du jugement est envoyée à cet effet au collège des bourgmestre et échevins de la commune de résidence du condamné par le ministre ayant dans ses attributions la Justice. La radiation des personnes visées à l’article 6, point 3° s’effectue sur la base d’un jugement prononcé par le juge des tutelles. Copie du dispositif du jugement est envoyée à cet effet au collège des bourgmestre et échevins de la commune de résidence du majeur en tutelle par le ministre ayant dans ses attributions la Justice.
 
-### Chapitre III. – Arrêt des listes et réclamations
+## Chapitre III. – Arrêt des listes et réclamations
 
 <a id="art_12"></a>
 
@@ -198,7 +194,7 @@ Dans les affaires qui ne sont point en état d’être jugées, la procédure es
 
 Le recours n’a pas d’effet suspensif. Le tribunal administratif statue au plus tard le quarante-quatrième jour avant le jour des élections. Le greffier notifie aux parties une copie certifiée conforme du jugement, le jour même de son prononcé. La notification s’effectue par lettre recommandée adressée aux avocats dans l’étude desquels les parties ont élu domicile, sinon en mains propres du destinataire. Une copie du jugement est adressée au procureur d’Etat, au collège des bourgmestre et échevins de la commune intéressée et au commissaire de district.
 
-### Chapitre V. – De l’instance d’appel devant la Cour administrative
+## Chapitre V. – De l’instance d’appel devant la Cour administrative
 
 <a id="art_31"></a>
 
@@ -272,7 +268,7 @@ Le collège des bourgmestre et échevins rectifie les listes électorales confor
 
 TITRE III. – DES COLLEGES ELECTORAUX
 
-### Chapitre Ier. – De la formation des collèges
+## Chapitre Ier. – De la formation des collèges
 
 <a id="art_54"></a>
 
@@ -298,7 +294,7 @@ Pour les électeurs luxembourgeois, pour les électeurs ressortissants d’un au
 
 Le collège des bourgmestre et échevins assigne à chaque bureau un local distinct pour le vote.
 
-### Chapitre II. – De la composition des bureaux
+## Chapitre II. – De la composition des bureaux
 
 <a id="art_58"></a>
 
@@ -360,7 +356,7 @@ Les membres des bureaux sont tenus de recenser fidèlement les suffrages. (Loi d
 
 (Loi du 10 février 2004) «Sans préjudice des dispositions de l’article 59 et du 5ième alinéa de l’article 60, nul ne peut être président, assesseur, assesseur suppléant ou témoin s’il n’est électeur de la commune, sachant lire et écrire. Nul ne peut être secrétaire, secrétaire adjoint ou calculateur s’il n’est électeur dans une commune luxembourgeoise, sachant lire et écrire. Dans aucune élection, ni les candidats, ni leurs parents ou alliés jusqu’au deuxième degré inclusivement, ni les titulaires d’un mandat électif national, européen ou communal, ne peuvent siéger comme président, secrétaire, secrétaire adjoint, assesseur, assesseur suppléant, témoin ou calculateur d’un bureau électoral.» 480 (Loi du 19 décembre 2008) «Lorsque le président d’un bureau principal reçoit la candidature d’un parent ou d’un allié jusqu’au deuxième degré inclusivement, il se fait immédiatement remplacer dans ses fonctions pour la suite des opérations électorales.» (Loi du 10 février 2004) «Les président et assesseurs d’un bureau de vote ne peuvent être parents ou alliés jusqu’au deuxième degré inclusivement. Les membres des bureaux de vote, le secrétaire et, le cas échéant, le secrétaire adjoint se réunissent au moins une heure avant l’ouverture des locaux de vote afin de garantir le bon déroulement des opérations électorales. Le président du bureau s’assure, avant le commencement du scrutin, en les interpellant individuellement, qu’aucune des personnes appelées à siéger au bureau ne contrevient aux prohibitions énoncées à l’alinéa 2 ci-dessus. Il s’assure ensuite, en les interpellant individuellement, qu’aucun des assesseurs n’est parent ou allié au degré prohibé ni du président lui-même, ni d’un autre assesseur du bureau. Il en est fait mention au procès-verbal.»
 
-### Chapitre III. – De la convocation des électeurs
+## Chapitre III. – De la convocation des électeurs
 
 <a id="art_68"></a>
 
@@ -374,7 +370,7 @@ Les membres des bureaux sont tenus de recenser fidèlement les suffrages. (Loi d
 
 Les collèges électoraux ne peuvent s’occuper que de l’élection pour laquelle ils sont convoqués. Les électeurs ne peuvent se faire remplacer.
 
-### Chapitre IV. – De l’installation des bureaux
+## Chapitre IV. – De l’installation des bureaux
 
 <a id="art_70"></a>
 
@@ -394,7 +390,7 @@ Il y a un compartiment ou pupitre isolé par 150 électeurs.
 
 L’instruction-modèle annexée à la présente loi est placardée dans la salle d’attente de chaque local de vote.
 
-### Chapitre V. – De l’admission des électeurs au vote
+## Chapitre V. – De l’admission des électeurs au vote
 
 <a id="art_73"></a>
 
@@ -456,7 +452,7 @@ A mesure qu’un électeur sort du local de vote, le bureau admet un autre, de m
 
 Nul n’est tenu de révéler le secret de son vote, à quelque réquisition que ce soit, même dans le cadre d’une instruction ou contestation judiciaire ou d’une enquête parlementaire.
 
-### Chapitre VI. – De la police des bureaux électoraux
+## Chapitre VI. – De la police des bureaux électoraux
 
 <a id="art_83"></a>
 
@@ -488,7 +484,7 @@ Le président ou son délégué rappelle à l’ordre ceux qui, dans le local o�
 
 Un exemplaire de la présente loi est déposé au bureau à la disposition des électeurs. Sont affichées à la porte de la salle d’attente de chaque bureau, en caractère gras, les pénalités prévues par la présente loi.
 
-### Chapitre VII. – Des dépenses électorales
+## Chapitre VII. – Des dépenses électorales
 
 <a id="art_88"></a>
 
@@ -496,7 +492,7 @@ Un exemplaire de la présente loi est déposé au bureau à la disposition des �
 
 Le mobilier électoral et toutes les autres dépenses relatives aux opérations électorales, y compris les frais des enquêtes administratives, sont à charge de la commune où l’élection a lieu, sauf le papier électoral qui est fourni par l’Etat. Pour les élections européennes, les communes mettent à la disposition des électeurs les bureaux de vote et le mobilier électoral. Toutes les autres dépenses relatives aux opérations électorales pour le Parlement européen et la Chambre des députés, y compris le papier électoral et les frais des enquêtes administratives, sont à charge de l’Etat. Les urnes doivent être conformes au modèle approuvé par le Gouvernement. En cas d’élections législatives et européennes simultanées, il est fait usage d’urnes différentes et de papier électoral de couleur différente pour chacune des deux élections.
 
-### Chapitre VIII. – Du vote obligatoire
+## Chapitre VIII. – Du vote obligatoire
 
 <a id="art_89"></a>
 
@@ -510,7 +506,7 @@ Le vote est obligatoire pour tous les électeurs inscrits sur les listes électo
 
 Dans le mois de la proclamation du résultat du scrutin, le procureur d’Etat dresse, par commune, le relevé des électeurs qui n’ont pas pris part au vote et dont les excuses n’ont pas été admises. Ces électeurs sont cités devant le juge de paix dans les formes tracées par la loi. Une première abstention non justifiée est punie d’une amende de 100 à 250 euros. En cas de récidive dans les cinq ans de la condamnation, l’amende est de 500 à 1.000 euros. La condamnation prononcée par défaut est sujette à opposition conformément aux dispositions du code d’instruction criminelle. Sont applicables les dispositions du titre I, livre II du code d’instruction criminelle: «Des tribunaux de police».
 
-### Chapitre IX. – Du financement des campagnes électorales
+## Chapitre IX. – Du financement des campagnes électorales
 
 <a id="art_91"></a>
 
@@ -530,7 +526,7 @@ Les frais d’affranchissement postaux d’une seule communication adressée sou
 
 La dotation est allouée à condition, d’une part, que le parti ou le groupement politique présente, pour les élections législatives, des listes complètes de candidats dans toutes les circonscriptions électorales et, pour les élections européennes, une liste complète de candidats dans la circonscription électorale unique. D’autre part, la dotation n’est allouée que si le parti politique ou groupement de candidats obtient aux élections législatives au moins un siège et aux élections européennes au moins 5% des suffrages exprimés. Le montant de la dotation est fixé comme suit: 1. Pour les élections législatives a) un montant forfaitaire de: – 50.000 euros pour les partis ou groupements qui comptent 1 à 4 élus à la Chambre – 100.000 euros pour les partis ou groupements qui comptent 5 à 7 élus à la Chambre – 150.000 euros pour les partis ou groupements qui comptent 8 à 11 élus à la Chambre – 200.000 euros pour les partis ou groupements qui comptent 12 élus à la Chambre au moins; b) un montant supplémentaire de 10.000 euros par élu. 2. Pour les élections européennes a) un montant forfaitaire de: – 12.500 euros pour les partis ou groupements obtenant au moins 5% des suffrages exprimés au niveau national; – 25.000 euros pour les partis ou groupements obtenant au moins 10% des suffrages exprimés au niveau national; – 37.500 euros pour les partis ou groupements obtenant au moins 15% des suffrages exprimés au niveau national; – 50.000 euros pour les partis ou groupements obtenant au moins 20% des suffrages exprimés au niveau national; – 74.500 euros pour les partis ou groupements obtenant au moins 25 % des suffrages exprimés au niveau national; b) un montant supplémentaire de 12.500 euros par député européen élu. Les montants à allouer aux partis ou groupements politiques sont à prévoir à la section de la Chambre des députés du budget de l’Etat de l’exercice des élections législatives et européennes. En cas d’élections anticipées, les montants sont inscrits au budget de l’exercice de l’année qui suit les élections.
 
-### Chapitre X. – Des pénalités
+## Chapitre X. – Des pénalités
 
 <a id="art_94"></a>
 
@@ -742,7 +738,7 @@ Le député qui pendant chacune des deux sessions ordinaires consécutives est r
 
 1. Durant son mandat, le parlementaire jouit d’une indemnité annuelle correspondant à 375 points indiciaires, dont la moitié, constituant des frais de représentation, est exempte d’impôts et de retenue pour pension. A l’égard des parlementaires nouvellement assermentés après le 1er janvier 1999, l’assurance pension du chef de la retenue opérée sur l’autre moitié de l’indemnité susvisée se fait auprès du régime de pension spécial des fonctionnaires de l’Etat, à moins que le parlementaire visé par l’article 129 ci-après, ne relève d’un régime de pension spécial autre que celui prévu à l’égard des fonctionnaires de l’Etat. Dans cette hypothèse l’assurance est opérée auprès du régime de pension spécial dont il relève. (Loi du 10 février 2004) «Le Président de la Chambre des Députés jouit d’une indemnité de représentation annuelle supplémentaire de 300 points indiciaires, exempte d’impôts et de retenue pour pension.» Les présidents des groupements parlementaires dont la composition est déterminée par le règlement de la Chambre jouissent d’une indemnité annuelle supplémentaire de 200 points exempte de retenue pour pension, dont la moitié, constituant des frais de représentation, est exempte d’impôts. La valeur numérique des points indiciaires est déterminée conformément aux règles fixées par la législation en matière des traitements des fonctionnaires de l’Etat. Le terme de parlementaire vise le membre de la Chambre des députés et le représentant du Grand-Duché de Luxembourg au Parlement Européen. Le parlementaire, détenant le mandat national et le mandat européen, ne jouit que d’une seule indemnité. L’indemnité est payable mensuellement, à raison d’un douzième par mois de l’indemnité annuelle. Une partie de mois est considérée comme un mois entier. Le parlementaire a par ailleurs droit à des jetons de présence pour sa participation aux séances plénières et aux réunions de commission. Les jetons de présence prévus à l’alinéa qui précède sont fixés à 15 euros NI 100. 488 Il est payé un seul jeton de présence par demi-journée. Le député n’a droit au paiement du jeton de présence que si sa présence est dûment marquée au procès-verbal de la séance plénière ou de la réunion de commission, et s’il a participé personnellement au moins à tous les votes sauf un au cas où des votes ont eu lieu au cours de la séance plénière, respectivement de la réunion de commission. 2. L’indemnité est sujette à réduction en proportion du nombre des absences non motivées du parlementaire. Les modalités de la réduction sont fixées par le Bureau de la Chambre. 3. Les dispositions légales concernant l’allocation de famille prévue pour les fonctionnaires de l’Etat sont applicables dans la mesure où le parlementaire n’en bénéficie pas en vertu d’un autre droit. 4. Pendant la durée de son mandat, le parlementaire est affilié auprès de la Caisse de maladie des Fonctionnaires et Employés Publics, à condition qu’il ne soit affilié obligatoirement à aucune autre caisse. 5. Le membre de la Chambre des députés a droit à une indemnité de déplacement pour les obligations parlementaires à l’intérieur du pays et à une indemnité de déplacement et de séjour pour les missions à l’étranger. Les modalités de ces indemnités sont fixées par le Bureau de la Chambre des députés. (Loi du 19 décembre 2008) «6. L’indemnité parlementaire est cessible et saisissable conformément aux dispositions de la loi modifiée du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes.» 7. Sur base de pièces justificatives, la Chambre rembourse aux députés assurés au titre des articles 171 2) et 6) respectivement 173 du C.A.S. la moitié de la charge des cotisations telles que déterminées à l’article 240 du C.A.S. et calculées sur une assiette mensuelle ne dépassant pas la différence entre la moitié de l’indemnité parlementaire découlant du paragraphe 1er ci-dessus et le plafond cotisable déterminé à l’article 241 du C.A.S. 8. a) Les agents du secteur privé, les membres des professions indépendantes ainsi que les personnes sans profession, qui exercent le mandat de député, ont droit à un congé politique pour remplir leur mandat. Le congé politique est de 20 heures par semaine au maximum. Il ne peut être utilisé par les ayants droit que pour l’exercice des missions qui découlent directement de l’accomplissement de leur mandat, dont notamment la participation aux travaux de la Chambre des députés ou de leur groupe politique ou technique, ainsi que pour préparer ces travaux. Le Bureau de la Chambre définit la nature des travaux à prendre en considération et fixe forfaitairement la part du congé politique consacrée à la préparation des travaux. L’ayant droit au congé politique prend ce congé à sa convenance par jour ou partie de jour, sans toutefois reporter le congé d’une session parlementaire à l’autre. Le congé politique tel que fixé ci-dessus peut être cumulé avec le congé politique découlant des articles 76 et suivants de la loi communale du 13 décembre 1988, sans toutefois dépasser un maximum de 40 heures par semaine. b) Par agents du secteur privé on entend toute personne qui fournit contre rémunération un travail sous l’autorité d’une autre personne privée. Pendant le congé, les agents du secteur privé qui exercent le mandat de député peuvent s’absenter du lieu de leur travail pour remplir leur mandat. Le congé politique est considéré comme temps de travail effectif. Pendant la durée du congé politique, les dispositions légales en matière de sécurité sociale et de protection de l’emploi restent applicables. La durée du congé politique ne peut pas être imputée sur le congé annuel de récréation tel qu’il est fixé par la loi ou par une convention sociale. Les ayants droit du congé politique continuent, pendant la durée du congé, à toucher leur rémunération et à jouir des avantages attachés à leur activité professionnelle. La Chambre rembourse à l’employeur de l’agent un montant correspondant à la rémunération brute majorée des cotisations patronales versées aux organismes de la sécurité sociale pendant la période pendant laquelle l’agent s’est absenté du travail pour remplir son mandat, sans cependant pouvoir dépasser un taux horaire maximal fixé au quadruple du salaire social minimum pour travailleurs qualifiés ayant charge de famille. Le Bureau de la Chambre fixe les éléments à prendre en considération pour l’établissement de la rémunération normale ainsi que les conditions et les modalités du remboursement. L’exactitude des indications est certifiée par la signature de l’ayant droit. c) (Loi du 10 février 2004) «Aux membres des professions indépendantes ainsi qu’aux personnes sans profession ne bénéficiant pas d’un régime statutaire, âgés de moins de 65 ans, qui exercent un mandat de député, il est versé par la Chambre une compensation horaire fixée forfaitairement au quadruple du salaire social minimum pour travailleurs qualifiés.» Le Bureau de la Chambre fixe les conditions et les modalités du versement. L’exactitude des indications est certifiée par la signature de l’ayant droit. 9. (Loi du 10 février 2004) «Sur présentation d’un contrat de travail, la Chambre, de l’assentiment de son Bureau, qui juge de la réalité des relations de travail, indemnise le député des frais à lui accrus du fait de l’engagement d’un collaborateur, sans que cette indemnité ne puisse dépasser un maximum de 200 points indiciaires annuels, à augmenter d’un douzième à titre d’allocation de fin d’année.» (Loi du 8 juin 2004) «Le contrat de travail peut être remplacé par une convention d’honoraires dans le cas où il s’agit de l’engagement d’un avocat inscrit au tableau de l’un des ordres des avocats ou d’un membre d’une autre profession indépendante dont l’accès et l’exercice sont réglementés.» 489 Plusieurs députés peuvent engager en commun et solidairement un ou plusieurs collaborateurs. Dans ce cas l’indemnité à rembourser par la Chambre des députés est plafonnée au total cumulé des montants de l’indemnité de secrétariat revenant à chaque député employeur. La Chambre rembourse aux députés non réélus lors d’élections législatives, jusqu’à concurrence des montants prévus aux alinéas qui précèdent, les indemnités de préavis et de départ qu’ils sont tenus à verser conformément à la législation sur le contrat de travail à leurs collaborateurs visés au présent paragraphe, en cas de licenciement au plus tard le premier jour du mois qui suit les élections en question. Les alinéas qui précèdent ne s’appliquent pas aux représentants du Grand-Duché de Luxembourg au Parlement européen. 10. Une indemnité de départ est versée par la Chambre des députés à ses membres qui quittent leur mandat parlementaire national. Cette indemnité de départ correspond à 375 points indiciaires et est versée pendant 3 mois suivant la fin du mandat parlementaire. Les dispositions de l’alinéa 4 du paragraphe 1. du présent article sont applicables. Le membre de la Chambre qui abandonne son mandat de parlementaire pour accepter une fonction comme membre du Gouvernement, du Parlement européen ou de la Commission européenne n’a plus droit à l’indemnité de départ à partir du moment où il assume ses nouvelles fonctions. Il en est de même d’un ancien député qui réintègre la Chambre avant la fin de la durée du versement de son indemnité de départ. Au cas où un député ayant déjà dans le passé bénéficié de l’intégralité de l’indemnité de départ au sens du présent paragraphe réintègre ultérieurement la Chambre, il ne peut plus bénéficier une nouvelle fois d’une indemnité de départ au moment où il quitte de nouveau sa fonction de député. Toutefois, si à la fin du mandat précédent, il n’a touché qu’une partie de l’indemnité de départ, il peut en bénéficier du solde. L’indemnité de départ versée par la Chambre aux députés sortants est soumise aux mêmes charges sociales et fiscales que l’indemnité parlementaire. Pendant la durée du paiement de l’indemnité de départ, le député sortant continue à bénéficier du régime de sécurité sociale des députés. TITRE II. – DES ELIGIBLES
 
-### Chapitre Ier. – Des conditions d’éligibilité
+## Chapitre Ier. – Des conditions d’éligibilité
 
 <a id="art_127"></a>
 
@@ -756,7 +752,7 @@ Pour être éligible, il faut: 1° être Luxembourgeois ou Luxembourgeoise; 2° 
 
 Ne sont pas éligibles: 1° les personnes qui sont privées du droit d’éligibilité par condamnation; 2° les personnes qui sont exclues de l’électorat par l’article 6 de la présente loi. La perte d’une des conditions d’éligibilité entraîne la cessation du mandat.
 
-### Chapitre II. – Des incompatibilités
+## Chapitre II. – Des incompatibilités
 
 <a id="art_129"></a>
 
@@ -776,7 +772,7 @@ Si un député accepte une fonction, un emploi ou une charge incompatibles avec 
 
 Les membres de la Chambre ne peuvent être parents ou alliés jusqu’au deuxième degré ni être unis par les liens du mariage; dans le cas où ils sont élus ensemble, il est procédé par tirage au sort à la proclamation du candidat élu. TITRE III. – DES OPERATIONS ELECTORALES
 
-### Chapitre Ier. – Des circonscriptions électorales et de la représentation proportionnelle
+## Chapitre Ier. – Des circonscriptions électorales et de la représentation proportionnelle
 
 <a id="art_132"></a>
 
@@ -790,7 +786,7 @@ Le pays forme quatre circonscriptions électorales. La circonscription Sud compr
 
 Les députés sont élus au scrutin de liste, avec répartition des députés aux différentes listes, proportionnellement au nombre des suffrages qu’elles ont recueillis.
 
-### Chapitre II. – De la date des élections
+## Chapitre II. – De la date des élections
 
 <a id="art_134"></a>
 
@@ -798,7 +794,7 @@ Les députés sont élus au scrutin de liste, avec répartition des députés au
 
 Les élections pour pourvoir au remplacement des députés sortants ont lieu, de plein droit, de cinq en cinq ans, le premier dimanche du mois de juin, conformément aux articles 121 et suivants de la présente loi. Si cette date coïncide avec le dimanche de la Pentecôte, les élections ont lieu le dernier dimanche du mois de mai. Les élections législatives ont toutefois lieu à la date fixée par règlement grand-ducal pour les élections européennes, si ces élections doivent avoir lieu au cours du mois de juin de la même année. En cas de dissolution de la Chambre, il est procédé à de nouvelles élections dans les trois mois au plus tard de la dissolution.
 
-### Chapitre III. – Des candidatures
+## Chapitre III. – Des candidatures
 
 <a id="art_135"></a>
 
@@ -830,7 +826,7 @@ Lors de la présentation des candidats, le mandataire de la liste peut désigner
 
 A l’expiration du terme fixé à l’article 136, alinéa 1, le président du bureau principal de la circonscription arrête les listes des candidats dans l’ordre de la présentation des candidats. Lorsque le nombre de candidats ne dépasse pas celui des mandats à conférer, ces candidats sont proclamés élus par le président sans autre formalité. Le procès-verbal, rédigé et signé séance tenante par le président et le secrétaire, est adressé au Gouvernement, qui en fait immédiatement publier des extraits par voie d’affiches dans chaque commune de la circonscription. Dans le cas contraire les listes des candidats sont affichées dans toutes les communes de la circonscription. Cette affiche reproduit sur une même feuille et en gros caractères les nom, prénoms, profession et domicile des candidats de toutes les listes enregistrées. Pour chaque liste, l’ordre de présentation des candidats y est maintenu. Les listes sont classées de la façon suivante: Au cas où les élections se font pour tout le pays, les partis politiques ou groupements de candidats présentant une liste dans chacune des circonscriptions électorales sont désignés dans toutes les circonscriptions par le même numéro d’ordre, déterminé par tirage au sort, opéré par le président du bureau principal de la circonscription du Centre, assisté de son secrétaire. A cet effet, le lendemain du dernier jour fixé pour le dépôt des listes, les présidents des autres bureaux principaux signalent par tous moyens appropriés au président chargé du tirage, les noms des partis ou groupements politiques ayant présenté une liste. L’information doit être faite avant midi. Le président du bureau principal de la circonscription du Centre avise immédiatement les présidents des autres bureaux principaux du résultat donné par le tirage au sort. Si outre ces listes, il en existe une autre, elle reçoit le numéro d’ordre qui suit immédiatement. S’il y en a plusieurs, le président du bureau principal de la circonscription afférente, assisté de son secrétaire, détermine par le sort le numéro d’ordre à attribuer à ces listes. Un chiffre arabe, correspondant au numéro d’ordre, est imprimé en gros caractères en tête de chaque liste; le numéro d’ordre est suivi de la dénomination de la liste. L’affiche reproduit aussi l’instruction annexée à la présente loi. Si les élections législatives et/ou européennes suivent les élections communales ou si les élections législatives suivent les élections européennes au cours de la même année civile, les listes présentées sous les mêmes dénominations que lors de ces élections communales gardent le même numéro d’ordre. Si un numéro d’ordre a été attribué à une liste pour les élections communales et si aucune liste portant la même dénomination n’est présentée pour les élections législatives et/ou européennes ayant lieu au cours de la même année civile, ce numéro d’ordre ne peut plus être attribué. Si lors des élections législatives et/ou européennes des listes sont présentées sous des dénominations nouvelles par rapport aux élections communales qui les ont précédées au cours de la même année civile, ces listes se voient attribuer des numéros d’ordre qui suivent immédiatement le dernier numéro d’ordre attribué lors des élections communales. Les listes visées par l’alinéa qui précède sont classées selon la procédure prévue à cet effet par le présent article.
 
-### Chapitre IV. – Des bulletins
+## Chapitre IV. – Des bulletins
 
 <a id="art_140"></a>
 
@@ -850,7 +846,7 @@ Le papier électoral servant à la confection des bulletins est fourni par l’E
 
 Au plus tard la veille du jour fixé pour le scrutin, le président du bureau principal de la commune fait remettre à chacun des présidents des bureaux de vote, sous enveloppe cachetée, les bulletins nécessaires à l’élection; la suscription extérieure de l’enveloppe indique, outre l’adresse, le nombre de bulletins qu’elle contient. Cette enveloppe ne peut être décachetée et ouverte qu’en présence du bureau régulièrement constitué. Le nombre des bulletins est vérifié immédiatement et le résultat de la vérification indiqué au procès-verbal.
 
-### Chapitre V. – Du vote
+## Chapitre V. – Du vote
 
 <a id="art_143"></a>
 
@@ -858,7 +854,7 @@ Au plus tard la veille du jour fixé pour le scrutin, le président du bureau pr
 
 Chaque électeur dispose d’autant de suffrages qu’il y a de députés à élire dans la circonscription. Il peut attribuer deux suffrages à chacun des candidats jusqu’à concurrence du total des suffrages dont il dispose. L’électeur qui, à l’aide d’un crayon, d’une plume, d’un stylo à bille ou d’un instrument analogue, remplit le cercle blanc de la case placée en tête d’une liste ou qui y inscrit une croix (+ ou x) adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste. Chaque croix (+ ou x) inscrite dans l’une des cases réservées derrière le nom des candidats vaut un suffrage à ce candidat. Tout cercle rempli même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste. Lorsque le scrutin est clos le bureau fait le récolement des bulletins non employés, lesquels sont immédiatement détruits. Il est fait mention du nombre de ces bulletins au procès-verbal.
 
-### Chapitre VI. – Du dépouillement et du scrutin
+## Chapitre VI. – Du dépouillement et du scrutin
 
 <a id="art_144"></a>
 
@@ -926,7 +922,7 @@ Le président du bureau principal de la commune, après avoir recueilli les docu
 
 Le président du bureau principal de la commune forme en outre: a) un paquet scellé et cacheté du sceau communal ou de celui du président qui contient les bulletins de vote de tous les bureaux de vote de la commune et porte comme suscription, outre l’adresse: Election de ........................ du .......................... Bulletins de vote b) un paquet, scellé et cacheté comme ci-dessus qui renferme les listes tenues en vertu des articles 74 et 146; c) un paquet renfermant les exemplaires de la loi électorale et les placards reproduisant les dispositions pénales qui ont servi aux divers bureaux de vote, ainsi que les imprimés non employés par ces bureaux. Ces trois paquets sont expédiés par le président du bureau principal de la commune à la Chambre des députés par envois séparés recommandés à la poste et ne peuvent être ouverts que par les commissions de vérification des pouvoirs. Les bulletins sont conservés jusqu’aux prochaines élections à des fins d’analyse politique. Ensuite ils sont détruits.
 
-### Chapitre VII. – Du recensement et de l’attribution des sièges
+## Chapitre VII. – Du recensement et de l’attribution des sièges
 
 <a id="art_155"></a>
 
@@ -1006,7 +1002,7 @@ Un extrait du procès-verbal est adressé sans délai par le Gouvernement à cha
 
 Les candidats venant sur chaque liste après ceux qui ont été proclamés élus sont appelés à achever le terme des députés de cette liste dont les sièges deviennent vacants par suite d’option, de démission, de décès ou pour toute autre cause. La notification de cet appel aux suppléants est faite par le président de la Chambre des députés dans le délai de quinze jours à partir de l’événement qui a donné lieu à la vacance.
 
-### Chapitre VIII. – Du vote par correspondance lors des élections législatives
+## Chapitre VIII. – Du vote par correspondance lors des élections législatives
 
 <a id="art_168"></a>
 
@@ -1092,7 +1088,7 @@ En présence de tous les membres du bureau, l’un d’entre eux mélange les en
 
 (. . .) (supprimé par la loi du 10 février 2004) LIVRE III. – DES CORPS COMMUNAUX ET DES ELECTIONS COMMUNALES TITRE Ier. – DISPOSITIONS ORGANIQUES
 
-### Chapitre Ier. – Du corps communal
+## Chapitre Ier. – Du corps communal
 
 <a id="art_183"></a>
 
@@ -1100,7 +1096,7 @@ En présence de tous les membres du bureau, l’un d’entre eux mélange les en
 
 En vue de déterminer le nombre des membres du conseil communal assignés à chaque commune, il est procédé, au moins tous les dix ans, au recensement de la population du Grand-Duché de Luxembourg. La date et les modalités de ce recensement sont fixées par règlement grand-ducal. Le recensement se fait sur la base de la résidence habituelle qui est le lieu géographique où la personne à recenser habite d’ordinaire.
 
-### Chapitre II. – Du conseil communal
+## Chapitre II. – Du conseil communal
 
 <a id="art_184"></a>
 
@@ -1150,7 +1146,7 @@ En cas de dissolution du conseil communal, les élections ont lieu au plus tard 
 
 La démission des fonctions de conseiller communal est donnée par écrit au ministre de l’Intérieur par l’intermédiaire du commissaire de district. Le ministre de l’Intérieur accepte la démission du conseiller. Cette acceptation est notifiée par simple lettre à l’intéressé. Copie en est adressée au bourgmestre de la commune pour information par l’intermédiaire du commissaire de district. Le bourgmestre informe le conseil communal de la démission du conseiller dans sa prochaine séance. Le bourgmestre ou l’échevin qui désirerait donner sa démission comme conseiller communal doit avoir préalablement obtenu sa démission comme bourgmestre ou échevin par l’autorité de nomination. Les démissionnaires exercent leurs fonctions jusqu’à ce que leur démission ait été acceptée. TITRE II. – DES ELIGIBLES
 
-### Chapitre Ier. – Des conditions d’éligibilité
+## Chapitre Ier. – Des conditions d’éligibilité
 
 <a id="art_192"></a>
 
@@ -1164,7 +1160,7 @@ Pour être éligible, il faut: 1° être Luxembourgeois ou ressortissant d’un 
 
 Ne sont pas éligibles: 1. les personnes qui sont privées du droit d’éligibilité par condamnation; 2. les personnes qui sont exclues de l’électorat par l’article 6 de la présente loi. La perte d’une des conditions d’éligibilité entraîne la cessation du mandat. 501 Le collège des bourgmestre et échevins ou le ministre de l’Intérieur signale immédiatement au conseil communal les faits qui sont de nature à entraîner la déchéance et fait parvenir à l’intéressé, contre récépissé, un avis de cette notification. Si, ayant connaissance de la cause de sa déchéance, même en l’absence de toute notification, l’intéressé continue l’exercice de ses fonctions, il est passible des peines comminées par l’article 262 du Code pénal. Le conseiller communal dont la déchéance est demandée peut, dans les huit jours, à partir du moment où il a eu connaissance de la notification faite au conseil communal, adresser une réclamation à celui-ci. La déchéance est constatée par le conseil communal dans les trente jours de la notification par le collège des bourgmestre et échevins ou par le ministre de l’Intérieur. Cette décision est communiquée par les soins du collège des bourgmestre et échevins ou par le ministre de l’Intérieur au conseiller communal concerné. Un recours au tribunal administratif statuant comme juge du fond, est ouvert au conseiller communal dans les huit jours qui suivent la communication. Le même recours est ouvert au collège des bourgmestre et échevins et au ministre de l’Intérieur dans les huit jours qui suivent la décision du conseil communal.
 
-### Chapitre II. – Des incompatibilités
+## Chapitre II. – Des incompatibilités
 
 <a id="art_194"></a>
 
@@ -1184,7 +1180,7 @@ Ne peuvent être bourgmestre ni échevin, ni en exercer temporairement les fonct
 
 Les membres du conseil communal ne peuvent être parents ou alliés jusqu’au deuxième degré inclusivement, ni être unis par les liens du mariage. Si deux personnes tombant dans l’une des catégories visées par l’alinéa premier sont élues, préférence est accordée à la personne qui a obtenu le plus de voix. En cas de parité de voix, le président du bureau principal procède par tirage au sort à la proclamation du candidat élu. Si ces parents, alliés ou conjoints ont été proclamés élus, il sera procédé au tirage au sort par le président du bureau de vote principal de la commune. Une alliance survenue ultérieurement entre les membres du conseil n’emporte pas révocation de leur mandat. L’alliance est censée dissoute par le décès du conjoint du chef duquel elle provient. TITRE III. – DES OPERATIONS ELECTORALES
 
-### Chapitre Ier. – Des circonscriptions électorales et du mode d’élection
+## Chapitre Ier. – Des circonscriptions électorales et du mode d’élection
 
 <a id="art_197"></a>
 
@@ -1198,7 +1194,7 @@ Chaque commune forme une circonscription électorale. Tous les électeurs de la 
 
 Les élections se font, soit d’après le système de la majorité relative, soit d’après le mode de la représentation proportionnelle, conformément aux dispositions de la présente loi.
 
-### Chapitre II. – Du système de la majorité relative
+## Chapitre II. – Du système de la majorité relative
 
 <a id="art_199"></a>
 
@@ -1206,7 +1202,7 @@ Les élections se font, soit d’après le système de la majorité relative, so
 
 Les élections communales se font d’après le système de la majorité relative dans toutes les communes du pays dont la population est inférieure à 3.000 habitants.
 
-#### Section Ière. – Des candidatures
+### Section Ière. – Des candidatures
 
 <a id="art_200"></a>
 
@@ -1250,7 +1246,7 @@ Trois jours au moins avant le jour fixé pour le scrutin, le président du burea
 
 A l’expiration du terme fixé par la présente loi pour la remise des déclarations de candidature, le bureau principal arrête la liste des candidats. Lorsque le nombre des candidats ne dépasse pas celui des mandats à conférer, ces candidats sont proclamés élus par le bureau principal, sans autre formalité. 503 Le procès-verbal ainsi qu’un relevé des personnes élues, rédigés et signés séance tenante par le président et le secrétaire sont adressés en double exemplaire au commissaire de district. Le procès-verbal et le relevé des personnes élues sont publiés par voie d’affiche à la maison communale. Le relevé des personnes élues doit indiquer le nom, les prénoms, l’adresse, la nationalité, la profession exacte et, le cas échéant, le degré de parenté entre plusieurs personnes élues. Lorsque le nombre des candidats dépasse celui des mandats à conférer, la liste des candidats est immédiatement affichée dans toutes les localités de vote de la commune. L’affiche reproduit en gros caractères, en la forme du bulletin électoral tel qu’il est déterminé ci-après, le nom des candidats ainsi que leurs prénoms, profession, domicile et nationalité.
 
-#### Section II. – Des bulletins
+### Section II. – Des bulletins
 
 <a id="art_207"></a>
 
@@ -1270,7 +1266,7 @@ L’Etat fournit le papier électoral, qui est timbré avant d’être remis au 
 
 Au plus tard la veille du jour fixé pour le scrutin, le président du bureau principal fait remettre à chacun des présidents des bureaux de vote, sous enveloppe cachetée, les bulletins nécessaires à l’élection; la suscription extérieure de l’enveloppe indique, outre l’adresse, le nombre de bulletins qu’elle contient. Cette enveloppe ne peut être décachetée et ouverte qu’en présence du bureau régulièrement constitué. Le nombre des bulletins est vérifié immédiatement et le résultat de la vérification indiqué au procès-verbal à dresser conformément aux dispositions de la présente loi.
 
-#### Section III. – Du vote
+### Section III. – Du vote
 
 <a id="art_210"></a>
 
@@ -1290,7 +1286,7 @@ L’électeur exprime son vote en traçant une croix (+ ou x) dans la case rése
 
 Lorsque le scrutin est clos, le bureau fait le récolement des bulletins non employés, lesquels sont immédiatement détruits. Il est fait mention du nombre de ces bulletins au procès-verbal.
 
-#### Section IV. – Du dépouillement du scrutin et de la proclamation des élus
+### Section IV. – Du dépouillement du scrutin et de la proclamation des élus
 
 <a id="art_213"></a>
 
@@ -1370,7 +1366,7 @@ Un relevé des personnes élues est à établir par le président et le secréta
 
 Les bulletins ainsi réunis sont expédiés directement, par envoi recommandé, au ministre de l’Intérieur par les soins du président du bureau principal. Les bulletins sont conservés jusqu’aux prochaines élections à des fins d’analyse politique. Ensuite ils sont détruits.
 
-### Chapitre III. – De la représentation proportionnelle
+## Chapitre III. – De la représentation proportionnelle
 
 <a id="art_226"></a>
 
@@ -1378,7 +1374,7 @@ Les bulletins ainsi réunis sont expédiés directement, par envoi recommandé, 
 
 Les élections se font au scrutin de liste avec représentation proportionnelle dans toutes les communes qui comprennent 3.000 habitants au moins.
 
-#### Section Ière. – Des candidatures
+### Section Ière. – Des candidatures
 
 <a id="art_227"></a>
 
@@ -1440,7 +1436,7 @@ Lors de la présentation des candidats, le mandataire de la liste peut désigner
 
 A l’expiration du terme fixé dans l’article 227 de la présente loi, le président du bureau principal arrête la liste des candidats dans l’ordre de la présentation des candidats. Lorsque le nombre des candidats ne dépasse pas celui des mandats à conférer, ces candidats sont proclamés élus par le président du bureau principal sans autre formalité. Le procès-verbal et le relevé des personnes élues, dressés en double exemplaire, rédigés et signés séance tenante par le président et le secrétaire, sont adressés au commissaire de district. Des extraits des procès-verbaux et le relevé des personnes élues sont immédiatement publiés par voie d’affiches dans chaque localité de vote de la commune. Le relevé des personnes élues à adresser au commissaire de district doit indiquer le nom, les prénoms, l’adresse, la nationalité, la profession exacte et, le cas échéant, le degré de parenté entre plusieurs personnes élues. Lorsque le nombre des candidats dépasse le nombre des mandats à conférer, les listes des candidats sont immédiatement affichées dans toutes les localités de vote de la commune. Cette affiche reproduit, sur une même feuille et en gros caractères, les nom, prénoms, profession, nationalité et domicile des candidats de toutes les listes enregistrées. Pour chaque liste, l’ordre de présentation des candidats y est maintenu. Les listes sont classées de la façon suivante: Lors du renouvellement intégral des conseils communaux, les partis et groupements politiques présentant une liste dans la majorité des communes où les élections se font au scrutin de listes avec représentation proportionnelle sont désignés dans toutes ces communes par le même numéro d’ordre, déterminé par tirage au sort, opéré par le président du bureau principal de la ville de Luxembourg, assisté de son secrétaire. A cet effet, le lendemain du dernier jour fixé pour le dépôt des listes, les présidents des autres bureaux principaux signalent par tous moyens appropriés au président chargé du tirage, les noms des partis politiques et groupements de candidats ayant présenté une liste. L’information doit être faite avant midi. Le président du bureau principal de la ville de Luxembourg avise immédiatement les présidents des autres bureaux principaux du résultat donné par le tirage au sort. Si outre ces listes il en existe une autre, elle reçoit le numéro d’ordre qui suit immédiatement. S’il y en a plusieurs, le président du bureau principal de la commune afférente, assisté de son secrétaire, détermine par le sort le numéro d’ordre à attribuer à ces listes. En cas de renouvellement d’un conseil communal, les partis politiques et groupements de candidats présentant une liste sont désignés par un numéro d’ordre, déterminé par tirage au sort, opéré par le président du bureau principal de la commune afférente, assisté de son secrétaire. 507 Un chiffre arabe, correspondant au numéro d’ordre, est imprimé en gros caractères en tête de chaque liste; le numéro d’ordre est suivi de la dénomination de la liste. L’affiche reproduit aussi l’instruction annexée à la présente loi. Si les élections communales suivent les élections législatives et/ou européennes au cours de la même année civile, les listes présentées sous les mêmes dénominations dans des communes où les élections se font au scrutin de listes avec représentation proportionnelle gardent le même numéro d’ordre que celui qui leur a été attribué pour les élections législatives et/ou européennes. Si un numéro d’ordre a déjà été attribué à une liste lors des élections législatives et/ou européennes et si aucune liste portant la même dénomination n’est présentée pour les élections communales ayant lieu au cours de la même année civile, ce numéro d’ordre ne peut plus être attribué. Si lors des élections communales des listes sont présentées sous des dénominations nouvelles par rapport aux élections législatives et/ou européennes qui les ont précédées au cours de la même année civile, ces listes se voient attribuer des numéros d’ordre qui suivent immédiatement le dernier numéro d’ordre attribué lors des élections législatives et/ou européennes. Les listes visées par l’alinéa qui précède sont classées selon la procédure prévue à cet effet par le présent article.
 
-#### Section II. – Des bulletins
+### Section II. – Des bulletins
 
 <a id="art_237"></a>
 
@@ -1472,7 +1468,7 @@ Chaque électeur dispose d’autant de suffrages qu’il y a de conseillers à �
 
 Lorsque le scrutin est clos, le bureau fait le récolement des bulletins non employés lesquels sont immédiatement détruits. Il est fait mention du nombre de ces bulletins au procès-verbal.
 
-#### Section IV. – Du dépouillement du scrutin
+### Section IV. – Du dépouillement du scrutin
 
 <a id="art_242"></a>
 
@@ -1534,7 +1530,7 @@ Le procès-verbal dont question aux articles précédents et qui renseigne les o
 
 Le procès-verbal de chaque bureau de vote est immédiatement porté par son président au bureau principal en même temps que les bulletins de vote et toutes les pièces tenues par le bureau.
 
-#### Section V. – Du recensement et de l’attribution des sièges
+### Section V. – Du recensement et de l’attribution des sièges
 
 <a id="art_252"></a>
 
@@ -1596,7 +1592,7 @@ Un relevé des personnes élues est à établir par le président et le secréta
 
 Les bulletins de vote ainsi réunis sont expédiés directement au ministre de l’Intérieur par les soins du président du bureau principal. Les bulletins sont conservés jusqu’aux prochaines élections à des fins d’analyse politique. Ensuite ils sont détruits.
 
-### Chapitre IV. – Du vote par correspondance lors des élections communales
+## Chapitre IV. – Du vote par correspondance lors des élections communales
 
 <a id="art_262"></a>
 
@@ -1736,7 +1732,7 @@ Le Parlement européen vérifie les pouvoirs des représentants et statue sur le
 
 Le Parlement européen reçoit la démission de ses membres. TITRE II. – DES ELIGIBLES
 
-### Chapitre Ier. – Des conditions d’éligibilité
+## Chapitre Ier. – Des conditions d’éligibilité
 
 <a id="art_285"></a>
 
@@ -1750,7 +1746,7 @@ Le Parlement européen reçoit la démission de ses membres. TITRE II. – DES E
 
 Ne sont pas éligibles: 1° les personnes qui sont privées du droit d’éligibilité par condamnation; 2° les personnes qui sont exclues de l’électorat par les dispositions de l’article 6 de la présente loi. La perte d’une des conditions d’éligibilité entraîne la cessation du mandat.
 
-### Chapitre II. – Des incompatibilités
+## Chapitre II. – Des incompatibilités
 
 <a id="art_287"></a>
 
@@ -1770,7 +1766,7 @@ Les représentants du Grand-Duché de Luxembourg au Parlement européen ne peuve
 
 Le représentant au Parlement européen qui a été appelé aux fonctions de membre du Gouvernement et qui quitte ces fonctions, est réinscrit de plein droit comme premier suppléant de la liste sur laquelle il a été élu. Il en est de même du représentant suppléant qui, appelé aux fonctions de membre du Gouvernement, a renoncé au mandat de député lui échu au cours de ses fonctions. En cas de concours entre plusieurs ayants droit, la réinscription est faite dans l’ordre des voix obtenues aux élections. En cas d’égalité de voix, l’ordre des suppléants sera déterminé par tirage au sort par le président du bureau de vote principal. TITRE III. – DES OPERATIONS ELECTORALES
 
-### Chapitre Ier. – Des candidatures
+## Chapitre Ier. – Des candidatures
 
 <a id="art_290"></a>
 
@@ -1808,7 +1804,7 @@ Lors de la présentation des candidats, le mandataire de la liste peut désigner
 
 A l’expiration du terme fixé à l’article 292, alinéa 1er, le président du bureau principal de la circonscription arrête les listes des candidats dans l’ordre de la présentation des candidats. Lorsque le nombre des candidats ne dépasse pas celui des mandats à conférer, ces candidats sont proclamés élus par le président sans autre formalité. Le procès-verbal, rédigé et signé séance tenante par le président et le secrétaire, est adressé au ministre d’Etat, qui en fait immédiatement publier des extraits par voie d’affiche dans chaque commune. Dans le cas contraire, les listes des candidats sont affichées dans toutes les communes. Cette affiche reproduit sur une même feuille et en gros caractères les nom, prénoms, profession, nationalité et domicile des candidats de toutes les listes enregistrées. Pour chaque liste, l’ordre de présentation des candidats y est maintenu. Les listes sont classées de la façon suivante: Les partis politiques ou groupements de candidats sont désignés par un numéro d’ordre, déterminé par le tirage au sort, opéré par le président du bureau principal de la circonscription, assisté de son secrétaire. Un chiffre arabe, correspondant au même numéro d’ordre est imprimé en gros caractères en tête de chaque liste; le numéro d’ordre est suivi de la dénomination de la liste. L’affiche reproduit aussi l’instruction annexée à la présente loi. En cas d’élections européennes et législatives simultanées, les listes sont classées, s’il y a lieu, de la façon suivante: Les partis politiques ou groupements de candidats qui présentent une liste pour le Parlement européen et une liste pour la Chambre des députés dans chacune des circonscriptions électorales sont désignés, sur le plan national et dans toutes les circonscriptions, par le même numéro d’ordre déterminé par un premier tirage au sort. Un deuxième tirage au sort a lieu entre les listes des partis ou groupements qui présentent une liste pour les élections au Parlement européen et une liste pour la Chambre des députés dans une ou plusieurs circonscriptions électorales, sans en présenter dans toutes les quatre. Elles sont désignées, sur le plan national et dans la ou les circonscriptions électorales afférentes, par le même numéro d’ordre. Un troisième tirage au sort a lieu entre les partis ou groupements qui présentent une liste pour les élections au Parlement européen, sans en présenter pour les élections législatives. Un quatrième tirage au sort se fait entre les listes des partis ou groupements qui présentent une liste pour la Chambre des députés dans les quatre circonscriptions électorales sans en présenter pour le Parlement européen et un cinquième tirage au sort s’opère entre les listes des groupements qui présentent des candidats pour la Chambre des députés dans une ou plusieurs circonscriptions électorales sans en présenter dans toutes les quatre ni pour le Parlement européen. Les groupements visés au présent alinéa sont désignés par le même numéro d’ordre dans toutes les circonscriptions où ils présentent une liste. Le tirage au sort et l’attribution des numéros d’ordre sont opérés dans tous les cas par le président du bureau principal de la circonscription du Centre, assisté de son secrétaire. A cet effet, le lendemain du dernier jour fixé pour le dépôt des listes, les présidents des autres bureaux principaux de circonscription signalent par tout moyen approprié au président chargé du tirage, les dénominations des groupements ayant présenté une liste. L’information doit être faite avant midi. Le président du bureau principal de la circonscription du Centre avise immédiatement les présidents des autres bureaux principaux de circonscription du résultat donné par le tirage au sort. Un chiffre arabe, correspondant au numéro d’ordre, est imprimé en gros caractères en tête de chaque liste; le numéro d’ordre est suivi de la dénomination de la liste. L’affiche reproduit aussi les instructions prévues par la présente loi. Si les élections européennes et/ou législatives suivent les élections communales au cours de la même année civile, les listes présentées sous les mêmes dénominations que lors de ces élections communales gardent le même numéro d’ordre. Si un numéro d’ordre a été attribué à une liste pour les élections communales et si aucune liste portant la même dénomination n’est présentée pour les élections européennes et/ou législatives ayant lieu au cours de la même année civile, ce numéro d’ordre ne peut plus être attribué. Si lors des élections européennes et/ou législatives des listes sont présentées sous des dénominations nouvelles par rapport aux élections communales qui les ont précédées au cours de la même année civile, ces listes se voient attribuer des numéros d’ordre qui suivent immédiatement le dernier numéro d’ordre attribué lors des élections communales. Les listes visées par l’alinéa qui précède sont classées selon la procédure prévue à cet effet par le présent article.
 
-### Chapitre II. – Des bulletins
+## Chapitre II. – Des bulletins
 
 <a id="art_296"></a>
 
@@ -1834,7 +1830,7 @@ Au plus tard la veille du jour fixé pour le scrutin, le président du bureau pr
 
 Lorsque le scrutin est clos le bureau fait le récolement des bulletins non employés, lesquels sont immédiatement détruits. Il est fait mention du nombre de ces bulletins au procès-verbal.
 
-### Chapitre III. – Du dépouillement et du scrutin
+## Chapitre III. – Du dépouillement et du scrutin
 
 <a id="art_301"></a>
 
@@ -1908,7 +1904,7 @@ Le président du bureau principal de la commune, après avoir recueilli les docu
 
 Le président du bureau principal de la commune forme en outre: a) un paquet scellé et cacheté du sceau communal ou de celui du président qui contient les bulletins de vote de tous les bureaux de vote de la commune et porte comme suscription, outre l’adresse: Election de............................................ du ...................................... Bulletins de vote b) un paquet, scellé et cacheté comme ci-dessus qui renferme les listes tenues en vertu des articles 74 et 303 c) un paquet renfermant les exemplaires de la loi électorale et les placards reproduisant les dispositions pénales qui ont servi aux divers bureaux de vote, ainsi que les imprimés non employés par ces bureaux. Ces trois paquets sont expédiés par le président du bureau principal de la commune à la Chambre des députés par envois séparés recommandés à la poste et ne peuvent être ouverts que par les commissions de vérification des pouvoirs. Les bulletins sont conservés jusqu’aux prochaines élections à des fins d’analyse politique. Ensuite ils sont détruits.
 
-### Chapitre IV. – Du recensement et de l’attribution des sièges
+## Chapitre IV. – Du recensement et de l’attribution des sièges
 
 <a id="art_313"></a>
 
@@ -1994,7 +1990,7 @@ Les candidats venant sur chaque liste après ceux qui ont été proclamés élus
 
 S’il n’y a plus de suppléant de la liste dont faisait partie le titulaire du siège vacant, il est procédé à des élections complémentaires. (Loi du 19 décembre 2008) «Le Premier ministre, ministre d’Etat fixe la date de ces élections complémentaires.» Toutefois, dans les douze mois qui précèdent le renouvellement intégral, des élections complémentaires n’ont lieu qu’au cas où la représentation luxembourgeoise a perdu plus de la moitié de ses membres.
 
-### Chapitre V. – Du vote par correspondance lors des élections européennes
+## Chapitre V. – Du vote par correspondance lors des élections européennes
 
 <a id="art_327"></a>
 

@@ -12,258 +12,150 @@ generator: 'pdf-memorial-lu/1 · lex derive'
 
 <a id="art_1er"></a>
 
-### Art. 1er. Les élections pour les délégations ouvrières sont organisées et dirigées par le chef de l’entreprise
+### Art. 1er.
 
-en personne ou par un délégué qu’il désignera à ces fins. Titre Ier.  Listes électorales.
+(Arr. g. d. du 20 novembre 1962) « Dans toutes les entreprises industrielles, commerciales et artisanales ainsi que dans les établissements publics et d’utilité publique occupant régulièrement au moins quinze ouvriers inscrits à la date du 1er août de l’année précédant celle des élections, il est institué une délé- gation ouvrière principale. En cas d’ouverture ou de réouverture d’une entreprise industrielle, commerciale ou artisanale ou de la création d’un établissement public ou d’utilité publique occupant au moins quinze ouvriers, une délégation ouvrière doit être instituée dans le délai de trois mois. Le même délai courra à partir du jour où le nombre d’ouvriers occupés dans une entreprise ou un éta- blissement public ou d’utilité publique atteint le nombre fixé à l’alinéa premier du présent article. Toute délégation continuera à exercer ses fonctions jusqu’à l’expiration de son mandat dans la compo- sition qui lui a été donnée par les élections, nonobstant toute modification de l’effectif ouvrier. »
 
 <a id="art_2"></a>
 
-### Art. 2. Le chef de l’entreprise ou son délégué fait établir pour chaque élection :
+### Art. 2. La délégation principale se compose de membres effectifs et d’un même nombre de membres
 
-a) la liste alphabétique des ouvriers et ouvrières qui remplissent les conditions pour exercer l’électorat actif fixées par l’article 7 de l’arrêté grand-ducal du 30 octobre 1958 concernant l’institution de déléga- tions ouvrières dans les entreprises industrielles, artisanales et commerciales ; b) la liste alphabétique des ouvriers et ouvrières qui, aux termes de l’article 8 de l’arrêté grand-ducal précité, sont admis à exercer l’électorat passif ; (Arr. g.-d. du 20 novembre 1962). « c) la liste alphabétique des ouvriers et ouvrières qui n’ont pas dépassé l’âge de vingt et un ans accomplis appelés à procéder à l’élection des représentants des jeunes travailleurs, conformément à l’article 7, alinéa 2, de l’arrêté grand-ducal du 30 octobre 1958 précité tel qu’il est modifié par l’article 4 de l’arrêté grand-ducal du 20 novembre 1962 ;» 1117 (Arr. g.-d. du 20 novembre 1962). « d) la liste alphabétique des ouvriers et ouvrières de dix-huit à vingt et un ans accomplis susceptibles de faire partie de la représentation des jeunes travailleurs, prévue par l’article 6 de l’arrêté grand-ducal du 30 octobre 1958 précité. »
+suppléants qui sont élus par les ouvriers nantis de ce droit en vertu de l’article 7 du présent arrêté. Le nombre des membres effectifs est fixé comme suit : Si l’entreprise compte 15 à 25 ouvriers : 1 membre ; Si l’entreprise compte 26 à 50 ouvriers : 2 membres ; Si l’entreprise compte 51 à 100 ouvriers : 3 membres ; Si l’entreprise compte 101 à 150 ouvriers : 4 membres ; Si l’entreprise compte 151 à 200 ouvriers : 5 membres. Si le nombre des ouvriers est supérieur à 200, le nombre des délégués augmente d’une unité par 100 ouvriers, sans pouvoir cependant dépasser celui de 15. Si le nombre des ouvriers est supérieur à 3000, le nombre des délégués augmente au-delà de 15 d’une unité par 500 ouvriers, sans pouvoir cependant dépasser celui de 20.
 
 <a id="art_3"></a>
 
-### Art. 3. Les listes électorales sont déposées à l’inspection des intéressés au moins 15 jours avant l’élection.
+### Art. 3. La délégation principale a pour mission de sauvegarder et de défendre, dans le domaine social,
 
-Un avis à publier le jour même du dépôt fait connaître aux ouvriers que toute réclamation contre les listes électorales doit être présentée dans les trois jours du dépôt. L’avis indique en même temps la date du scrutin, le nombre des délégués effectifs et suppléants à élire, ainsi que les jours et heures pour la réception des candidatures.
+les droits et les intérêts des ouvriers ; ses attributions consistent notamment : 1° à donner son avis sur l’élaboration ou la modification du règlement de service ou du règlement d’ate- lier de l’entreprise et à surveiller strictement l’exécution de ce règlement ; 2° à collaborer à l’établissement et à l’exécution du régime de l’apprentissage ; 3° à recevoir les réclamations des ouvriers et à aplanir par voie de conciliation, les difficultés surgies entre patrons et ouvriers ; 4° à participer à la gestion de toutes les institutions créées par le patron en vue de l’amélioration de la situation des ouvriers et de leurs familles ; 5° à s’interposer pour le réemploi des invalides accidentés et handicapés eu égard à leurs capacités phy- siques et intellectuelles ; 6° à contribuer à la prévention des accidents du travail et des maladies professionnelles conformément aux dispositions légales et réglementaires y relatives, notamment à celles de l’arrêté grand-ducal du 31 décembre 1929 fixant les attributions des délégués à la sécurité.
 
 <a id="art_4"></a>
 
-### Art. 4. Les réclamations présentées contre les listes électorales sont soumises à la décision du chef de
+### Art. 4. Si l’entreprise se compose de différentes divisions, il sera institué, sur la proposition de la déléga-
 
-l’entreprise ou de son délégué qui entendra les parties intéressées en leurs observations. Les décisions sont notifiées aux intéressés dans la huitaine du dépôt des listes. Titre II.  Candidatures.
+tion principale, une délégation pour chaque division, à condition toutefois que la division occupe régulière- ment au moins 50 ouvriers, Chaque délégation de division, qui est élue de la même façon que la délégation principale, se compose d’un membre effectif et d’un membre suppléant par 50 ouvriers, sans pouvoir ce- pendant dépasser le nombre de 5. 1113 Le champ d’action des délégations de division est limité aux seules affaires internes des divisions respec- tives. Les délégations de division traiteront les affaires de leur ressort avec leur chef de service immédiat.
 
 <a id="art_5"></a>
 
-### Art. 5. Pour les élections qui doivent se faire suivant le système de la représentation proportionnelle,
+### Art. 5. Lorsqu’une entreprise se compose de plusieurs établissements séparés, le Ministre du Travail
 
-la présentation des candidats pour les postes de délégués effectifs et de délégués suppléants se fait sous forme de listes. Toute candidature isolée est considérée, comme formant une liste à elle seule. (Arr. g.-d. du 20 novembre 1962). « Pour les élections qui doivent se faire suivant le système de la majorité relative, la présentation des candidats se fait soit sous forme de listes, soit sous forme de candidatures isolées. » Les listes et les candidatures isolées doivent être remises au chef de l’entreprise ou à son délégué au plus tard le 4me jour précédant les élections, à 6 heures du soir. Passé ce délai, les candidatures ne sont plus recevables.
+et de la Sécurité sociale pourra ordonner l’institution d’une délégation centrale, après avoir entendu le patron et les ouvriers, représentés par leur délégation. La délégation centrale représente les intérêts de l’ensemble des ouvriers occupés dans les divers établisse- ments d’une seule et même entreprise. Elle se compose de délégués des délégations principales qui désigne- ront dans leur sein, d’après la décision du Ministre du Travail et de la Sécurité sociale, deux ou trois délégués effectifs et délégués suppléants pour chaque établissement séparé.
 
 <a id="art_6"></a>
 
-### Art. 6. Chaque liste de candidats et chaque candidature isolée doit être présentée par 5 électeurs, en
+### Art. 6. Dans les entreprises où la délégation principale comprend au moins trois membres, celle-ci sera
 
-outre elle doit être accompagnée d’une déclaration signée par le ou les candidats attestant qu’ils acceptent la candidature. (Arr. g.-d. du 20 novembre 1962). « Dans les entreprises occupant moins de dix jeunes travailleurs, mais remplissant toutes les autres conditions pour l’élection d’une délégation des jeunes travailleurs, chaque liste de candidats et chaque candidature isolée est valablement présentée par trois électeurs. » Chaque liste porte la désignation d’un mandataire que les présentants de la liste ont choisi parmi eux pour faire la remise de la liste entre les mains du chef de l’entreprise ou de son délégué.
+complétée par des représentants des jeunes travailleurs dont le nombre est fixé comme suit : si l’entreprise occupe régulièrement 5 à 25 jeunes travailleurs : 1 représentant ; si l’entreprise occupe régulièrement 26 à 50 jeunes travailleurs : 2 représentants ; si l’entreprise occupe régulièrement 51 à 100 jeunes travailleurs : 3 représentants ; si l’entreprise occupe régulièrement plus de 100 jeunes travailleurs : 4 représentants. (Arr. g.-d. du 20 novembre 1962). « Pour chaque représentant des jeunes travailleurs, il est élu un repré- sentant suppléant qui prend d’office la place du titulaire, définitivement dans les cas prévus à l’article 13 et temporairement en cas d’absence dûment motivée du titulaire. L’accomplissement du service militaire obligatoire est considéré comme cas d’absence dûment motivée. » Ces représentants auront pour mission de conseiller la direction de l’entreprise et la délégation principale sur toutes les questions relatives aux conditions de travail et à la protection des jeunes ouvriers, ainsi que sur les questions concernant l’apprentissage. (Arr. g.-d. du 20 novembre 1962). « Ils ont le droit de porter ces questions à l’ordre du jour de la déléga- tion principale. Ils ont également le droit d’assister à la réunion de la délégation principale lorsque ces questions seront examinées. »
 
 <a id="art_7"></a>
 
-### Art. 7. La liste indique en ordre alphabétique les noms, prénoms et professions des candidats, ainsi que
+### Art. 7.
 
-les électeurs qui les présentent. Nul ne peut figurer sur plus d’une liste, ni comme candidat, ni comme présentant.
+(Arr. g.-d. du 20 novembre 1962). « Sont électeurs pour la désignation des délégations tous les ouvriers et toutes les ouvrières sans distinction de nationalité âgés de dix-huit ans au moins qui sont au service de l’entreprise depuis six mois sans interruption et contre lesquels il n’existe pas d’interdiction en tout ou en partie de l’exercice des droits énumérés à l’article 31 du code pénal. Toutefois, les représentants des jeunes travailleurs sont élus par les ouvriers même mineurs de dix-huit ans et qui n’ont pas dépassé l’âge de vingt et un ans, pourvu qu’ils remplissent les autres conditions prévues à l’alinéa qui précède. Les périodes de service militaire obligatoire ne constituent pas des interruptions de l’ancienneté de service et comptent, le cas échéant, pour l’ancienneté utile de six mois. »
 
 <a id="art_8"></a>
 
-### Art. 8. Une liste ne peut comprendre un nombre de candidats supérieur à celui des délégués effectifs
+### Art. 8. Sont éligibles comme membres des délégations, les ouvriers et ouvrières qui
 
-et des délégués suppléants à élire.
+(Arr. g.-d. du 20 novembre 1962). « 1° sont âgés de vingt et un ans accomplis. Toutefois, les ouvriers et ouvrières âgés de dix-huit ans au moins et de vingt et un ans au plus sont seuls éligibles comme représen- tants des jeunes travailleurs ; » 2° sont au service de l’entreprise d’une façon ininterrompue depuis un an au moins ; 3° contre lesquels il n’existe pas d’interdiction, en tout ou en partie, de l’exercice des droits énumérés à l’article 31 du Code pénal. Les périodes de service militaire obligatoire ne constituent pas des interruptions de l’ancienneté de service et comptent, le cas échéant, pour l’ancienneté de service d’un an. (Arr. g.-d. du 20 novembre 1962). « Les électeurs étrangers sont éligibles aux mêmes conditions que les ouvriers luxembourgeois. » 1114 Toutefois, le nombre des membres étrangers ne pourra dépasser le tiers du nombre total des membres d’une délégation. Les étrangers élus en surnombre qui auront reçu le moins de suffrages seront remplacés, s’il y a lieu, par les Luxembourgeois non élus qui, sur la même liste auront obtenu le plus grand nombre de suffrages. La représentation des différentes catégories d’ouvriers et l’institution d’une délégation des cadres, com- posés des agents de maîtrise, fera l’objet d’une réglementation ultérieure dans les formes prescrites par la loi habilitante. Toutefois, en attendant cette réglementation, les chefs d’équipe, chefs-machiniste et autres ouvriers accomplissant les mêmes fonctions qui n’ont pas le caractère d’employés privés, sont électeurs et éligibles dans la délégation ouvrière.
 
 <a id="art_9"></a>
 
-### Art. 9. Chaque liste doit porter une dénomination ; dans le cas où les listes différentes portent des déno-
+### Art. 9. Lors de l’ouverture d’une entreprise ou la réouverture d’un établissement après un arrêt temporaire,
 
-minations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi ces listes sont désignées par une lettre d’ordre par le chef de l’entreprise ou son délégué, désignation qui doit se faire avant l’expiration du délai imparti pour les déclarations de candidatures. 1118
+il sera fait abstraction des temps de travail exigés aux articles 7 et 8.
 
 <a id="art_10"></a>
 
-### Art. 10. Le chef de l’entreprise ou son délégué enregistre les listes ou les candidatures isolées dans l’ordre
+### Art. 10. La durée du mandat de délégué est de 4 ans pour toutes les délégations.
 
-de leur présentation. Il refuse l’enregistrement à toute liste qui ne répond pas aux prescriptions du présent règlement. Si des déclarations identiques quant aux candidats portés sur les listes sont déposées, la première en date est seule valable. Si elles portent la même date, toutes sont nulles.
+Les délégations sont renouvelées intégralement tous les 4 ans. Les membres sortants sont rééligibles. (Arr. g.-d. du 20 novembre 1962). « Le mandat des délégations élues en exécution de l’article 1er alinéas 2 et 3, expirera au terme de la période quadriennale valable pour toutes les autres délégations.»
 
 <a id="art_11"></a>
 
-### Art. 11. A l’expiration du délai fixé à l’article 5 du présent règlement, le chef de l’entreprise ou son délégué
+### Art. 11.
 
-arrête la liste des candidats. Lorsque le nombre des candidats ne dépasse pas celui des délégués effectifs et des délégués suppléants à élire, ou lorsque le nombre des canditats proposés est inférieur à celui des délégués effectifs et des délégués suppléants à élire, ces candidats sont proclamés élus sans autre formalité, sous condition toutefois qu’il n’ait été présenté qu’une liste de candidats et que le mandataire de cette liste ait expressément désigné, d’une part, les délégués effectifs, et, d’autre part, les délégués suppléants dans l’ordre suivant lequel ils doivent remplacer les membres effectifs. Le chef de l’entreprise ou son délégué en dresse procès-verbal.
+(Arr. g.-d. du 20 novembre 1962). « Les délégations sont élues au vote secret à l’urne. Les élec- tions se feront au scrutin de liste suivant le système de la représentation proportionnelle. Toutefois, à défaut de présentation de listes ainsi que pour les délégations ne comprenant pas plus de trois membres, les élections se feront d’après le système de la majorité relative. Les représentants des jeunes travailleurs sont toujours élus d’après le système de la majorité relative.» Les modalités de la procédure électorale pour les deux systèmes seront fixées ultérieurement. A défaut de présentation de candidats, le Ministre du Travail et de la Sécurité sociale désignera par arrêté les membres effectifs et les membres suppléants parmi les éligibles.
 
 <a id="art_12"></a>
 
-### Art. 12. Si aucune candidature valable n’a été présentée dans le délai réglementaire, le chef de l’entreprise
+### Art. 12. Les noms des ouvriers élus membres effectifs ou suppléants d’une délégation seront publiés
 
-ou son délégué en informe les électeurs et leur accorde un délai complémentaire de 3 jours. Si, à l’expiration de ce délai, aucune candidature valable n’a été présentée, le chef de l’entreprise ou son délégué en dresse procès-verbal qu’il transmet avec les documents y relatifs au Ministre du Travail et de la Sécurité sociale ; les délégués effectifs et les délégués suppléants sont alors désignés d’office parmi les ouvriers et ouvrières éligibles.
+par voie d’affiche.
 
 <a id="art_13"></a>
 
-### Art. 13. Les candidatures valables sont affichées durant les 3 derniers jours précédant le scrutin.
+### Art. 13. Le mandat de délégué effectif ou de délégué suppléant prend fin :
 
-Si l’élection doit se faire suivant le système de la représentation proportionnelle, l’affiche reproduit, sur une même feuille et en gros caractères, les noms, prénoms et professions des candidats de toutes les listes valables qui ont été enregistrées. Pour chaque liste, l’ordre de présentation des candidats y est maintenu, et les listes sont classées suivant l’ordre déterminé par le tirage au sort opéré par le chef d’entreprise ou son délégué, assisté de 2 électeurs comme témoins. Un chiffre arabe, correspondant au numéro d’ordre, est inscrit en gros caractères en tête de chaque liste. Si l’élection doit se faire suivant le système majoritaire, l’affiche reproduit, sur une même feuille et en gros caractères, les noms, prénoms et professions de tous les candidats qui se sont valablement déclarés. Les candidats sont classés suivant l’ordre déterminé par le tirage au sort opéré comme il est dit à l’alinéa qui précède. L’affiche reproduit aussi les instructions pour les électeurs. Titre III.  Bulletins de vote.
+1° par le décès du titulaire ; 2° par le fait de quitter l’établissement ; 3° par la renonciation volontaire ; 4° par la perte de l’éligibilité. Le délégué suppléant prend d’office la place du titulaire, définitivement dans les cas prévus ci-dessus, et temporairement en cas d’absence dûment motivée du titulaire.
 
 <a id="art_14"></a>
 
-### Art. 14. Après avoir arrêté la liste des candidats et après avoir procédé à l’affichage des candidatures,
+### Art. 14. Les délégations élisent dans leur sein, à la majorité relative un président et un secrétaire, par
 
-le chef de l’entreprise ou son délégué formule incontinent les bulletins de vote qui doivent être imprimés. Les bulletins de vote sont identiques à l’affiche, sauf qu’ils peuvent être de moindres dimensions et qu’ils ne reproduisent pas les instructions pour les électeurs. Ils indiquent le nombre des délégués effectifs et des délégués suppléants à élire.
+la voie du scrutin secret. En cas de parité de voix, le plus âgé est élu.
 
 <a id="art_15"></a>
 
-### Art. 15. Si l’élection doit se faire suivant le système de la représentation proportionnelle, chaque liste
+### Art. 15. Les délégations principales pourront se réunir une fois par mois pendant les heures de service,
 
-est surmontée d’une case réservée au vote. Deux autres cases sont aménagées à la suite des nom et prénoms de chaque candidat. La case de tête est noire et présente au milieu un petit cercle de la couleur du papier. Si l’élection doit se faire suivant le système majoritaire, une case est aménagée à la suite des nom et pré- noms de chaque candidat. Il n’y aura pas de case de tête.
+moyennant préavis de 48 heures donné à la direction, sauf accord sur un délai inférieur. Si les besoins l’exigent, les présidents des délégations principales pourront convoquer pendant les heures de service, moyennant préavis de 48 heures donné à la direction, les délégations de division, sans que toute- fois le nombre de ces réunions puisse dépasser 6 par an. Toutes les autres réunions devront avoir lieu en dehors des heures de service. Une réunion de la délégation devra avoir lieu, si le tiers des délégués le demande. La délégation sera convoquée par son président. Le droit de convocation appartient également au repré- sentant du patron. La direction pourra être invitée par la délégation à prendre part à ses délibérations, sans toutefois pouvoir assister au vote. 1115 Le Ministre du Travail et de la Sécurité sociale ou son délégué pourra convoquer la délégation aux fins qu’il jugera convenir ; il pourra également déléguer aux réunions un fonctionnaire de son choix qui devra être entendu en ses observations. Les réunions des délégations ne seront pas publiques. Les délégués et leurs suppléants exerceront leurs fonctions à titre purement honorifique et gratuit. Toute- fois, leur participation aux réunions visées aux alinéas 1 et 2 du présent article et aux réunions qui seront convoquées par la direction de l’établissement ou le Ministre du Travail et de la Sécurité sociale, ne pourra entraîner aucune perte de salaire. Quant aux réunions qui imposeront aux délégués des frais de voyage, les débours seront à charge du patron.
 
 <a id="art_16"></a>
 
-### Art. 16. Les bulletins employés pour un même scrutin doivent être absolument identiques sous le rapport
+### Art. 16. Dans toutes les entreprises, le président et le secrétaire de la délégation sont à décharger de leur
 
-du papier, du format et de l’impression. L’emploi de tous autres bulletins est interdit. Les bulletins de vote doivent être estampillés avant le scrutin. 1119 Titre IV.  Bureau électoral.
+travail pour la durée nécessaire à l’accomplissement de leurs fonctions. La dite durée sera fixée par accord entre la délégation et la direction de l’entreprise. Pendant ce temps, le président et le secrétaire de la délé- gation garderont le bénéfice intégral de la rémunération de leur catégorie. Dans les entreprises occupant plus de 1000 ouvriers, le président et le secrétaire de la délégation seront déchargés de tout travail dans l’entreprise, sous maintien intégral de la rémunération du poste auquel ils étaient affectés au moment de leur élection.
 
 <a id="art_17"></a>
 
-### Art. 17. Le jour du scrutin, il est constitué un bureau électoral, comprenant un président et deux asses-
+### Art. 17. Les propositions et desiderata des délégations devront être soumis par écrit à la direction.
 
-seurs. Le chef de l’entreprise ou son délégué remplit les fonctions de président du bureau électoral. Deux délégués ouvriers, à désigner par l’ancienne délégation, remplissent les fonctions d’assesseurs. Ne peuvent cependant siéger comme assesseurs, ni les membres sortants de la délégation ouvrière, ni les nouveaux candidats aux postes de délégués.
+
 
 <a id="art_18"></a>
 
-### Art. 18. Les membres du bureau électoral sont tenus de recenser fidèlement les suffrages et de garder
+### Art. 18. Le patron mettra gratuitement à la disposition des délégations un local convenable, garni du
 
-le secret des votes. Titre V.  Procédure du vote.
+nécessaire, dont le matériel de bureau requis pour la tenue des réunions visées à l’article 15 ainsi que pour le service du président et du secrétaire de la délégation. La délégation principale pourra, avec le consentement du patron, fixer pendant un jour déterminé de la semaine dans le local de la délégation des heures de consultation, pendant lesquelles les ouvriers pourront, en dehors des heures de travail, présenter leurs v ux et réclamations à un délégué désigné par la délégation.
 
 <a id="art_19"></a>
 
-### Art. 19. Les délégations sont élues au vote secret à l’urne. A l’ouverture du scrutin, l’un des assesseurs
+### Art. 19. Après accord avec la délégation sur le texte, un résumé des résultats obtenus au cours des réunions
 
-fait l’appel nominal des électeurs sur les listes qui ont été établies par le chef de l’entreprise ou son délégué conformément à l’article 2 du présent règlement ; il pointe les noms des électeurs qui répondent à l’appel. Chaque électeur qui répond à l’appel, reçoit des mains du président un bulletin de vote, plié en quatre à angles droits et estampillé au verso. L’électeur qui, par inadvertance, détériore le bulletin qui lui a été remis, peut en demander un autre au président, en lui rendant le premier qui est immédiatement détruit.
+avec le chef de l’entreprise ou son délégué, sera affiché par celui-ci dans les usines et chantiers pour que les ouvriers puissent en prendre connaissance.
 
 <a id="art_20"></a>
 
-### Art. 20. Après avoir voté, l’électeur montre au président du bureau électoral son bulletin replié régulière-
+### Art. 20. En cas de renvoi sans préavis d’un ouvrier les motifs du renvoi seront à notifier à la délégation
 
-ment en quatre, le timbre à l’extérieur, et le dépose dans l’urne. Aucun vote par procuration n’est admis. Le bulletin de vote est à remettre par l’électeur en personne ; il ne peut être remis ni par des tiers, ni par correspondance.
+compétente. En cas de licenciement collectif d’ouvriers, la délégation compétente doit être informée au préalable et en temps utile.
 
 <a id="art_21"></a>
 
-### Art. 21.
+### Art. 21. Les difficultés résultant de l’application des dispositions qui précèdent seront soumises à la
 
-(Arr. g.-d. du 20 novembre 1962). « Les élections se font au scrutin de liste suivant le système de la représentation proportionnelle. Toutefois, à défaut de présentation de listes ainsi que pour les délé- gations ne comprenant pas plus de trois membres, les élections se font d’après le système de la majorité relative. Les représentants des jeunes travailleurs sont toujours élus d’après le système de la majorité relative.»
+décision de l’Ingénieur-Directeur du Travail et des Mines.
 
 <a id="art_22"></a>
 
-### Art. 22. Chaque électeur dispose d’autant de suffrages qu’il y a en tout de délégués effectifs et de délégués
+### Art. 22. Les membres des délégations restent soumis au règlement d’atelier de l’entreprise ; en particulier,
 
-suppléants à élire. Si l’élection se fait suivant le système de la représentation proportionnelle, l’électeur peut attribuer deux suffrages à chacun des candidats jusqu’à concurrence du total des suffrages dont il dispose. L’électeur qui noircit le cercle de la case placée en tête d’une liste, adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste. Chaque croix (+ ou ×) inscrite dans l’une des cases réservées derrière le nom d’un candidat vaut un suffrage à ce candidat. Si l’élection se fait suivant le système majoritaire, l’électeur peut attribuer un suffrage à chacun des can- didats jusqu’à concurrence du total des suffrages dont il dispose. Il le fait en traçant une croix (+ ou ×) dans la case réservée derrière le nom du candidat. Tout cercle noirci même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste. Toute croix tracée dans un autre endroit que la case réservée à cette fin entraîne la nullité du bulletin de vote. Pour le surplus, l’électeur doit s’abstenir de faire sur le bulletin toute autre inscription, signature, rature ou signe quelconque.
+ils ne peuvent abandonner leur travail que dans les cas prévus aux articles 15 et 16 du présent arrêté. Dans les entreprises où le président et le secrétaire de la délégation sont déchargés de tout travail, ceux- ci ont à tout moment libre accès à toutes les divisions de l’entreprise. En cas de démission ou de non-réélection du président ou du secrétaire, ceux-ci doivent être réintégrés dans leur ancien poste ou dans un poste similaire comportant une rémunération au moins égale. Pendant la durée de leur mandat, les membres effectifs et suppléants des différentes délégations ne peuvent être licenciés sans l’assentiment de la délégation dont ils font partie. Toutefois, en cas de faute grave, le chef d’entreprise a la faculté de prononcer la mise à pied immédiate de l’intéressé en attendant la décision définitive. (Arr. g.-d. du 20 novembre 1962). « Le même régime est applicable au licenciement des anciens membres des délégations pendant les six mois qui suivent l’expiration de leur mandat et des candidats aux fonctions de membres des délégations dès la présentation des candidatures et pendant une durée de trois mois. œ 1116 Les contestations pouvant résulter des dispositions des alinéas qui précèdent sont de la compétence des conseils de prud’hommes. »
 
 <a id="art_23"></a>
 
-### Art. 23. L’électeur peut attribuer tous les suffrages dont il dispose à une des listes ou répartir les suffrages
+### Art. 23. Toute entrave apportée intentionnellement soit à la libre élection des membres des délégations,
 
-sur différentes listes. 1120 Titre VI.  Dépouillement du scrutin.
+soit au fonctionnement régulier d’une délégation légalement constituée sera punie d’une amende de 501 à 30 000 francs et d’un emprisonnement de 8 jours à 3 mois, ou d’une de ces peines seulement. Les dispositions du Livre 1er du Code pénal, ainsi que la loi du 18 juin 1879 modifiée par celle du 16 mai 1904 portant attribution aux cours et tribunaux de l’appréciation des circonstances atténuantes seront applicables.
 
 <a id="art_24"></a>
 
-### Art. 24. A l’heure fixée pour la clôture du scrutin, l’urne électorale est ouverte par le président en présence
+### Art. 24. Le présent arrêté ne déroge pas aux dispositions insérées dans les conventions collectives de
 
-des deux assesseurs ouvriers.
+travail, lorsque ces dispositions reconnaissent une compétence plus étendue aux délégations ouvrières ou en facilitent le fonctionnement.
 
 <a id="art_25"></a>
 
-### Art. 25. Le bureau compte, sans les déplier, les bulletins contenus dans l’urne.
+### Art. 25. Nos Ministre du Travail et de la Sécurité sociale et de la Justice sont chargés de l’exécution du
 
-Le nombre des votants et celui des bulletins sont inscrits au procès-verbal. Avant d’ouvrir les bulletins, le président les entremêle.
-
-<a id="art_26"></a>
-
-### Art. 26. Les suffrages donnés à une liste en totalité (suffrages de liste) ou aux candidats individuellement
-
-(suffrages nominatifs) comptent tant à la liste pour le calcul de la répartition proportionnelle des sièges entre les listes qu’aux candidats pour l’attribution des sièges dans les listes. Le suffrage exprimé dans la case figurant en tête d’une liste compte pour autant de suffrages de liste qu’il y figure de candidats.
-
-<a id="art_27"></a>
-
-### Art. 27. Le président du bureau électoral énonce les suffrages de liste et les suffrages nominatifs.
-
-Les deux assesseurs ouvriers font le recensement des suffrages et en tiennent note, chacun séparément.
-
-<a id="art_28"></a>
-
-### Art. 28. Les bulletins nuls n’entrent point en compte pour fixer le nombre des voix.
-
-Sont nuls : 1° tous les bulletins autres que ceux qui ont été remis aux électeurs par le président du bureau électoral ; 2° les bulletins qui expriment plus de suffrages qu’il n’y a de délégués à élire et ceux qui ne contiennent l’expression d’aucun suffrage ; 3° les bulletins dont les formes et dimensions auraient été altérées, qui contiendraient à l’intérieur un papier ou un objet quelconque, ou dont l’auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque quelconque.
-
-<a id="art_29"></a>
-
-### Art. 29. Lorsque tous les bulletins ont été dépouillés, les assesseurs ouvriers les examinent et présentent
-
-leurs observations ou réclamations éventuelles. Les bulletins qui ont fait l’objet de réclamations sont ajoutés aux bulletins valables au cas où ils ont été admis comme tels par décision du bureau. Les bulletins annulés ou contestés, autres que les bulletins blancs, sont paraphés par les membres du bureau. Les réclamations sont actées au procès-verbal, ainsi que les décisions du bureau.
-
-<a id="art_30"></a>
-
-### Art. 30. Le bureau arrête le nombre des votants, celui des bulletins nuls (y compris les bulletins blancs) et
-
-des bulletins valables, le nombre des suffrages de liste obtenus par chaque liste de candidats et celui des suffrages nominatifs obtenus par chaque candidat. Il les inscrit au procès-verbal. Titre VII.  Attribution des sièges. 1° Système de la représentation proportionnelle.
-
-<a id="art_31"></a>
-
-### Art. 31. Pour déterminer la répartition des sièges, le nombre total des suffrages valables recueillis par
-
-les différentes listes est divisé par le nombre des délégués effectifs à élire, augmenté de 1. On appelle « nombre électoral » le nombre entier qui est immédiatement supérieur au quotient ainsi obtenu. A chaque liste il est attribué autant de sièges de délégués effectifs et autant de sièges de délégués sup- pléants que le nombre électoral est contenu de fois dans le nombre des suffrages recueillis par cette liste.
-
-<a id="art_32"></a>
-
-### Art. 32. Lorsque le nombre des délégués effectifs et des délégués suppléants ainsi élus reste inférieur
-
-à celui des délégués effectifs et des délégués suppléants à élire, on divise le nombre des suffrages de chaque liste par le nombre des sièges de délégués effectifs qu’elle a déjà obtenus, augmenté de 1. Le siège de délégué effectif et le siège correspondant de délégué suppléant sont attribués à la liste qui obtient le quotient le plus élevé. On répète le même procédé, s’il reste encore des sièges disponibles. En cas d’égalité de quotient, le siège disponible de délégué effectif et celui de délégué suppléant sont attribués à la liste qui a recueilli le plus de suffrages. 1121
-
-<a id="art_33"></a>
-
-### Art. 33. Les sièges de délégués effectifs respectivement de délégués suppléants sont attribués, dans chaque
-
-liste aux candidats ayant obtenu le plus grand nombre de suffrages. Les sièges de délégués suppléants sont attribués aux candidats qui rangent, par le nombre des voix ob- tenues, après les délégués effectifs. En cas d’égalité de suffrages, l’élection est acquise au candidat le plus âgé.
-
-<a id="art_34"></a>
-
-### Art. 34. Si une liste obtient plus de représentants qu’elle n’a présenté de candidats, le nombre des sièges
-
-restant à pourvoir est distribué entre les autres listes. On procède à cet effet à une nouvelle répartition proportionnelle. (Arr. g.-d. du 20 novembre 1962). « 2°  Système de la majorité relative.»
-
-<a id="art_35"></a>
-
-### Art. 35.
-
-(Arr. g.-d. du 20 novembre 1962). « Lorsque le nombre de candidats dépasse celui des membres à élire, ceux qui ont obtenu le plus de voix sont élus. »
-
-<a id="art_36"></a>
-
-### Art. 36.
-
-(Arr. g.-d. du 20 novembre 1962). « En cas d’égalité de suffrages, l’élection est acquise au candidat le plus âgé. » Titre VIII.  Dispositions diverses.
-
-<a id="art_37"></a>
-
-### Art. 37. Un procès-verbal, signé séance tenante par le président et les deux assesseurs, est dressé sur les
-
-opérations électorales et les résultats du scrutin.
-
-<a id="art_38"></a>
-
-### Art. 38. Les noms des délégués effectifs et suppléants élus sont affichés durant trois jours dans l’établisse-
-
-ment. Il en est de même des noms des délégués proclamés élus en vertu de l’article 11 du présent règlement, ou désignés d’office par application de l’article 12 du même règlement.
-
-<a id="art_39"></a>
-
-### Art. 39. Si un candidat élu refuse son mandat, il est remplacé par celui qui, après lui, a obtenu le plus
-
-grand nombre de suffrages. Le refus doit se faire dans les six jours de la publication du résultat des élections.
-
-<a id="art_40"></a>
-
-### Art. 40. Les réclamations contre les élections seront soumises dans les huit jours qui suivent le scrutin
-
-à la décision de l’Ingénieur-Directeur du Travail et des Mines. Si l’élection est déclarée nulle par l’Ingénieur-Directeur du Travail et des Mines, de nouvelles élections doivent avoir lieu dans le délai d’un mois à compter de la date de l’annulation.
-
-<a id="art_41"></a>
-
-### Art. 41. Les pièces relatives aux élections sont conservées par la délégation jusqu’à l’expiration de son
-
-mandat. Tous les frais occasionnés par les élections sont à charge du chef de l’entreprise.
-
-<a id="art_42"></a>
-
-### Art. 42. L’arrêté ministériel du 17 mai 1929 portant nouvelle réglementation de la procédure pour les
-
-élections des délégations ouvrières dans les entreprises industrielles est rapporté.
-
-<a id="art_43"></a>
-
-### Art. 43. Notre Ministre du Travail et de la Sécurité sociale est chargé de l’exécution du présent arrêté
-
-qui entrera en vigueur le jour de sa publication au Mémorial. Imprimerie de la Cour Victor Buck, S. e. c. s., Luxembourg
+présent arrêté, chacun en ce qui le concerne. Les premières élections sur la base du présent arrêté auront lieu dans un délai de deux mois après la publication prévisée. 2me PARTIE. Procédure pour les élections des délégations ouvrières.

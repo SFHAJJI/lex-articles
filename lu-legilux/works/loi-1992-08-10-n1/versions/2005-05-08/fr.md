@@ -10,8 +10,6 @@ attribution: 'Legilux — Ministère d''État, Service central de législation, 
 generator: 'pdf-memorial-lu/1 · lex derive'
 ---
 
-## Titre Ier. – DISPOSITIONS GENERALES
-
 <a id="art_1er"></a>
 
 ### Art. 1er.
@@ -48,7 +46,7 @@ qui suivent, le conseil d’administration est désigné par les termes «Ie con
 
 nécessaires ou utiles à la réalisation de l’objet de l’entreprise sont de la compétence du comité, sous réserve des approbations requises en vertu de la présente loi.
 
-### Chapitre 1er. – Conseil
+## Chapitre 1er. – Conseil
 
 <a id="art_7"></a>
 
@@ -98,7 +96,7 @@ du Gouvernement en conseil, peut dissoudre le conseil. Cette mesure entraîne le
 
 secrétaire et toute autre personne appelée à assister aux réunions sont tenus de garder le secret des délibérations et des votes du conseil ainsi que de tous documents et renseignements ayant un caractère confidentiel. Les affaires concernant le personnel et ayant un caractère général sont exemptes d’une mise au secret, à moins que le conseil n’en décide autrement.
 
-### Chapitre 2. – Comité de direction
+## Chapitre 2. – Comité de direction
 
 <a id="art_15"></a>
 

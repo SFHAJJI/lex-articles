@@ -10,8 +10,6 @@ attribution: 'Legilux — Ministère d''État, Service central de législation, 
 generator: 'pdf-memorial-lu/1 · lex derive'
 ---
 
-## Chapitre 1er. – Objet,définitions,champ d’application
-
 <a id="art_1er"></a>
 
 ### Art. 1er. Les personnes physiques ou morales sont protégées contre l’utilisation abusive de données nominatives lors:

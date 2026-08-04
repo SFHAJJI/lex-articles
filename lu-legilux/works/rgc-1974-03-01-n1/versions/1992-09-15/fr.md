@@ -12,6 +12,84 @@ generator: 'pdf-memorial-lu/1 · lex derive'
 
 <a id="art_1er"></a>
 
+### Art. 1er. La présente loi et ses règlements d’exécution déterminent le régime des employés de l’Etat sans préjudice de
+
+l’application des dispositions légales existantes non contraires. Un règlement grand-ducal à prendre après avis obligatoire du Conseil d’Etat, pourra étendre aux employés de l’Etat tout ou partie des dispositions légales ou réglementaires concernant le statut disciplinaire des fonctionnaires de l’Etat dans la mesure où ces dispositions sont compatibles avec celles de la présente loi. (Loi du 8 août 1988) «Art. 2. La qualité d’employé de l’Etat est reconnue à toute personne qui remplit les conditions prévues par la présente loi et qui est engagée par l’Etat sous contrat d’employé pour une tâche complète ou partielle et à durée déter- minée ou indéterminée dans les administrations et services de l’Etat. Dans les dispositions qui suivent l’employé de l’Etat est désigné par le terme «employé».»
+
+<a id="art_3"></a>
+
+### Art. 3. Nul n’est admis au service de l’Etat en qualité d’employé s’il ne remplit les conditions suivantes:
+
+a) être de nationalité luxembourgeoise, b) jouir des droits civils et politiques, c) offrir les garanties de moralité requises, d) satisfaire aux conditions d’aptitude requises pour l’exercice de son emploi.
+
+<a id="art_4"></a>
+
+### Art. 4. L’engagement est effectué,sur avis du ministre de la Fonction publique,par le ministre qui a dans ses attribu-
+
+tions l’administration ou le service dont relèvera l’employé - et qui est désigné ci-après par le terme «ministre compé- tent» - dans les formes et suivant les modalités prévues par les dispositions portant règlement légal du louage de service des employés privés, sous réserve de la fixation de l’indemnité conformément aux dispositions de l’article 23 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.
+
+<a id="art_5"></a>
+
+### Art. 5. La résiliation du contrat d’engagement est prononcée, sur avis du ministre de la Fonction publique, par le
+
+ministre compétent.
+
+<a id="art_6"></a>
+
+### Art. 6. 1.La résiliation d’office du contrat résulte de plein droit:
+
+a) de la perte de la nationalité luxembourgeoise; b) des conditions qui,à l’égard des fonctionnaires,entraînent la perte de l’emploi,du titre et des droits à la pension. 2. Dans l’hypothèse prévue au paragraphe 1er sous a) l’employé pourra être maintenu en service par décision du Gouvernement en conseil. L’occupation consécutive à cette décision aura un caractère essentiellement temporaire et il pourra y être mis fin à tout moment.Toutefois,le contrat conclu initialement est remis en vigueur de plein droit à la date du recouvrement de la nationalité luxembourgeoise, à condition que la personne en cause ait été sans interruption au service de l’Etat.
+
+<a id="art_7"></a>
+
+### Art. 7. 1.Sans préjudice de l’application des dispositions des articles 6 et 10,le contrat à durée indéterminée devient
+
+non résiliable, sauf à titre de mesure disciplinaire, lorsqu’il est en vigueur depuis dix ans et que l’employé est âgé de trente-cinq ans au moins. 2.Le ministre compétent ne pourra prononcer la résiliation du contrat,à titre de mesure disciplinaire,qu’après avoir pris l’avis du conseil de discipline institué pour les fonctionnaires de l’Etat. Le conseil procédera conformément aux dispositions légales et réglementaires qui déterminent son organisation et son fonctionnement. 845 3. Les dispositions des paragraphes 1 et 2 ne portent pas préjudice au droit du ministre compétent de résilier le contrat en cas d’absence prolongée ou d’absences répétées pour raison de santé de l’employé qui ne bénéficie pas encore du régime de pension des fonctionnaires de l’Etat visé à l’article 8. Cette résiliation ne pourra être prononcée que sur avis du ministre de la Fonction publique et après que la Caisse de pension des employés privés,à la requête du ministre compétent et suivant des modalités à déterminer par règlement grand-ducal, se sera prononcée sur l’invalidité professionnelle de l’employé au sens des dispositions légales concernant l’assurance-pension des employés privés.
+
+<a id="art_8"></a>
+
+### Art. 8. 1.Sans préjudice de l’application des dispositions de l’article 10,l’employé en activité de service,qui bénéficie
+
+d’un contrat à durée indéterminée, a droit pour lui-même et ses survivants, à l’application du régime de pension des fonctionnaires de l’Etat dans l’une des conditions suivantes: a) après vingt années de service à compter de l’entrée en vigueur du contrat à durée indéterminée; b) lorsqu’il atteint l’âge de cinquante-cinq ans. Le même droit existe pour l’employé engagé avant l’âge de cinquante-cinq ans à l’essai ou sous contrat à durée déter- minée,à partir du moment où il obtient un contrat à durée indéterminée,à la condition que les différentes périodes se succèdent sans interruption. ( ...) (implicitement abrogé par la loi du 27 juillet 1992 -Assurance maladie) 2. (abrogé par la loi du 1er avril 1987) 3. (abrogé par la loi du 8 juin 1994) 4. Pour l’application du présent article,la terminologie en rapport avec les employés de l’Etat se substitue à celle en rapport avec les fonctionnaires de l’Etat de la législation sur les pensions des fonctionnaires de l’Etat. 5. Pour l’application du présent article, les dates à considérer qui ne coîncident pas avec le premier du mois sont reportées au premier du mois suivant.
+
+<a id="art_9"></a>
+
+### Art. 9. 1. Un règlement grand-ducal pourra accorder, sans créer un droit en faveur des intéressés et dans les limites
+
+déterminées par les crédits budgétaires et les dispositions du régime de pension des fonctionnaires de l’Etat,des supplé- ments de pension en faveur des employés mis à la retraite sans avoir pu bénéficier des dispositions de l’article 8 ci-dessus et de leurs survivants, des survivants des employés décédés dans les mêmes conditions, des employés mis à la retraite avant l’entrée en vigueur de la présente loi et de leurs survivants et des survivants des employés décédés avant l’entrée en vigueur de la présente loi. Toutefois, le total du supplément et des prestations d’autres régimes de pension luxembourgeois et étrangers ne pourra dépasser la pension qui serait due si l’ensemble des périodes d’assurance accomplies par l’employé sous les régimes luxembourgeois et étrangers était pris en considération pour la fixation d’une pension de l’Etat. 2.(abrogé par la loi du 4 avril 1974 portant réorganisation de l’inspection du travail et des mines)
+
+<a id="art_10"></a>
+
+### Art. 10. 1.Seront mises en compte pour l’application des délais prévus aux articles 7 et 8:
+
+a) les périodes passées au service de l’Etat en qualité d’employé à l’essai ou sous contrat à durée déterminée à condi- tion que ces périodes se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée: l’interruption de cette dernière période ne nuit pas à la prise en compte des périodes antérieures passées au service de l’Etat,lorsqu’il y a reprise de service ultérieure; b) les périodes passées au service de l’Etat en qualité de fonctionnaire ou de fonctionnaire stagiaire ainsi que les périodes en qualité d’employé à l’essai ou sous contrat à durée déterminée qui les précèdent sans interruption; c) la période de rengagement temporaire dans le cas de l’article 6,paragraphe 2,à la condition qu’il n’y ait pas d’inter- ruption entre la fin des relations de service en application de l’article 6,paragraphe 1er et la date du recouvrement de la nationalité luxembourgeoise; d) la période d’engagement temporaire qui précède sans interruption de service la date de l’engagement en qualité d’employé à la suite de l’acquisition de la nationalité luxembourgeoise. 2. Toutefois, pour que les dispositions de l’article 7 soient applicables dans le cas du rengagement en qualité d’employé, il faut que le contrat à durée indéterminée nouvellement conclu soit en vigueur depuis trois ans au moins. Cette disposition restrictive n’est pas applicable dans l’hypothèse prévue au paragraphe 2 de l’article 6. (Loi du 29 juillet 1988) «3.Si,par application des articles 30.1.et 31.1.de la loi modifiée du 16 avril 1979 fixant le statut général des fonction- naires de l’Etat, l’employé, qui ne remplit pas encore les conditions prévues à l’article 8.1. de la présente loi, bénéficie d’un congé sans traitement ou d’un congé pour travail à mi-temps, l’Etat prend à sa charge, pendant la première année consécutive au congé de maternité ou au congé d’accueil,les cotisations correspondant à l’indemnité intégrale qui aurait été due pendant ces périodes,en vue de la continuation de l’assurance conformément à l’article 173 de la loi du 27 juillet 1987 concernant l’assurance pension en cas de vieillesse,d’invalidité et de survie.» (Loi du 8 juin 1994) «La même prise à charge des cotisations par l’Etat a lieu pendant la deuxième année d’un de ces congés consécutifs au congé de maternité ou au congé d’accueil dont bénéficie l’employé du chef d’une naissance ou d’une adoption posté- rieure à la date de l’entrée en vigueur de la loi modifiant la loi modifiée du 16 avril 1979 fixant le statut général des fonc- tionnaires de l’Etat. Il en est de même des périodes prévues au paragraphe IV de l’article 9 de la loi sur les pensions,applicable à l’employé visé à l’alinéa 1er ci-dessus.» 846
+
+<a id="art_11"></a>
+
+### Art. 11. 1. Les contestations résultant du contrat d’emploi, de la rémunération et des sanctions et mesures discipli-
+
+naires sont de la compétence du Conseil d’Etat,Comité du Contentieux,statuant en dernière instance et comme juge de fond. Le délai de recours est de trois mois à partir de la notification de la décision. 2.Sans préjudice de l’application des dispositions de l’article 8,les employés sont soumis au régime légal de l’assurance pension des employés privés;...1 3.Les dispositions du code pénal concernant les fonctionnaires de l’Etat sont rendues applicables aux employés.
+
+<a id="art_12"></a>
+
+### Art. 12. Les employés en service et les anciens employés des offices de l’Etat des dommages de guerre et de la
+
+reconstruction, qualifiés d’employés privés par l’article 31 de la loi du 25 février 1950 concernant l’indemnisation des dommages de guerre,sont considérés comme employés de l’Etat pour l’application des dispositions de la présente loi.
+
+<a id="art_13"></a>
+
+### Art. 13. Un règlement grand-ducal2 pourra prévoir l’assimilation au régime des employés de l’Etat du personnel des
+
+établissements publics,des communes,des syndicats de communes et de la société nationale des chemins de fer luxem- bourgeois,qui,auprès de l’Etat répond à la notion «d’employé de l’Etat». Une telle assimilation aura notamment pour effet de faire considérer le temps passé au service de l’une et l’autre de ces personnes morales,y compris l’Etat,comme temps passé au service de la même personne morale. Dispositions transitoires
+
+<a id="art_14"></a>
+
+### Art. 14. 1. Les contrats conclus avant l’entrée en vigueur de la présente loi entre l’Etat et les personnes en activité
+
+de service, qui remplissent les conditions des articles 2 et 3 sont validés.A condition qu’ils aient été conclus pour une durée indéterminée avant le 1er avril 1968 ces contrats sont reconnus non résiliables sauf dans les cas prévus par la présente loi.En outre,ils sont réputés être en vigueur depuis l’engagement légal des personnes en cause pour l’applica- tion des dispositions des articles 8 et 10. 2.Dans les six mois qui suivent l’entrée en vigueur de la présente loi,les personnes entrées au service de l’Etat avant le 1er avril 1968, qui remplissent les conditions des articles 2 et 3 et dont l’engagement n’a pas été confirmé par contrat, pourront bénéficier d’un contrat à durée indéterminée, résiliable seulement dans les cas prévus par la présente loi. Ce contrat est réputé être en vigueur depuis l’engagement légal des personnes en cause pour l’application des dispositions des articles 8 et 10. 3. Les membres du personnel enseignant et administratif des cours pour jeunes filles organisés par l’Etat à l’Ecole professionnelle et ménagère «Ste-Marie» à Luxembourg-Verlorenkost, engagés avant le premier janvier 1967, pour une tâche complète et durable, repris par les Centres d’enseignement professionnel de l’Etat à partir du début de l’année scolaire 1969/70 et en service au moment de l’entrée en vigueur de la présente loi sont considérés à partir de leur enga- gement comme employés de l’Etat pour l’application de la présente loi. Il en est de même des membres de ce personnel qui ont été mis à la retraite ou qui sont décédés avant l’entrée en vigueur de la présente loi,ainsi que de ceux qui ont été mis à la retraite ou qui sont décédés avant leur reprise par les Centres d’enseignement professionnel. 4.Pour l’application des délais prévus aux articles 7 et 8,le temps de service comme volontaire de l’Armée aux condi- tions du règlement grand-ducal du 9 décembre 1963 déterminant le statut des volontaires de l’Armée est assimilé au temps passé au service de l’Etat sous contrat à durée indéterminée. (Loi du 8 août 1988) «Art.15. Les personnes qui ont été engagées avant le 15 juillet 1988 au service de l’Etat,dans les formes et suivant les modalités prévues par les dispositions portant règlement légal du louage de service des employés privés et qui ne remplissent pas les conditions prévues par l’article 3a) de la présente loi, peuvent continuer à bénéficier d’un contrat d’employé privé au service de l’Etat.» 1 Les termes «en outre,ils sont affiliés à la Caisse de maladie des employés privés» sont devenus sans objet à la suite du changement du régime d’assurance maladie des employés à partir du 1.1.1994. 2 Assimilation au régime des employés de l’Etat du personnel a) de l’Office des Séquestres — Règl.g.-d.du 3 mars 1972 (Mém.A 1972,p.545); b) de l’Office Commercial du Raviltaillement — Règl.g.-d.du 3 mars 1972 (Mém.A 1972,p.733); c) de l’Office des assurances sociales, de la Caisse de pension des employés privés, de la Caisse nationale d’assurance maladie des ouvriers,de la Caisse de maladie des employés privés et de la Caisse de maladie des fonctionnaires et employés publics — Règl.g.-d. du 23 mars 1972 (Mém.A 1972,p.775); d) de l’administration commune de la Caisse de pension des artisans,de la Caisse de pension des commerçcants et industriels et de la Caisse de maladie des professions indépendantes — Règl.g.-d.du 23 mars 1972 (Mém.A 1972,p.776); e) de la Société Nationale des Chemins de Fer Luxembourgeois — Règl.g.-d.du 20 juillet 1973 (Mém.A 1973,p.1071); f) du Fonds national de solidarité — Règl.g.-d.du 14 septembre 1973 (Mém.A 1973,p.1299); g) de la Chambre deTravail: du 1er mai 1974 (Règl. g.-d.du 29 avril 1974 — Mém.A 1974,p.573) au 1er février 1980 (Règl.g.-d.du 21 janvier 1980 — Mém.A 1980,p.32); h) de la Chambre des Fonctionnaires et Employés publics (Règl.g.-d.du 22 mai 1980 — Mém.A 1980,p.835). 847 Règlement du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat, (Mém.A 1974,p.382) modifié par: Règlement du Gouvernement en conseil du 15 novembre 1974 (Mém.A 1974,p.1722) Règlement du Gouvernement en conseil du 1er septembre 1978 (Mém.A 1978,p.1264) Règlement du Gouvernement en conseil du 12 janvier 1979 (Mém.A 1979,p.22) Règlement du Gouvernement en conseil du 5 mars 1982 (Mém.A 1982,p.652) Règlements du Gouvernement en conseil du 8 mai 1987 (Mém.A 1987,p.608 et 617) Règlement du Gouvernement en conseil du 15 janvier 1988 (Mém.A 1988,p.40) Règlement du Gouvernement en conseil du 1er juillet 1988 (Mém.A 1988,p.789) Règlement du Gouvernement en conseil du 18 novembre 1988 (Mém.A 1988,p.1115) Règlement du Gouvernement en conseil du 14 décembre 1990 (Mém.A 1990,p.934) Règlement du Gouvernement en conseil du 4 septembre 1992. (Mém.A 1992,p.2155) Te x t e c o o r d o n n é Chapitre I.
+
+<a id="art_1er__2"></a>
+
 ### Art. 1er. Le présent chapitre détermine les principes généraux qui régissent les indemnités des employés occupés
 
 dans les administrations et services de l’Etat.
@@ -22,73 +100,73 @@ dans les administrations et services de l’Etat.
 
 l’Etat,conformément aux dispositions ci-après.
 
-<a id="art_3"></a>
+<a id="art_3__2"></a>
 
 ### Art. 3. Les indemnités sont payables le 1er du mois.
 
 
 
-<a id="art_4"></a>
+<a id="art_4__2"></a>
 
 ### Art. 4. L’indemnité est due pour le mois entier si l’entrée en service a lieu le premier jour ouvrable du mois.
 
 
 
-<a id="art_5"></a>
+<a id="art_5__2"></a>
 
 ### Art. 5. L’indemnité de l’employé occupé à temps partiel est fixée en pourcentage de celle due pour une occupation à
 
 plein temps.
 
-<a id="art_6"></a>
+<a id="art_6__2"></a>
 
 ### Art. 6.
 
 (abrogé par règl.gouv.du 8 mai 1987)
 
-<a id="art_7"></a>
+<a id="art_7__2"></a>
 
 ### Art. 7. Dans les dispositions qui suivent,l’expression «la loi» désigne la loi du 22 juin 1963 fixant le régime des traite-
 
 ments des fonctionnaires de l’Etat, telle qu’elle a été modifiée et telle qu’elle sera modifiée dans la suite et le terme «indemnité» désigne l’indemnité de base,sauf disposition contraire.
 
-<a id="art_8"></a>
+<a id="art_8__2"></a>
 
 ### Art. 8. Les indemnités des employés sont déterminées par carrières et classements fixés par référence aux grades des
 
 tableaux indiciaires annexés à la loi. Les modifications qui seront apportées à ces tableaux indiciaires entraîneront de plein droit le recalcul des indemnités conformément aux nouveaux grades, sauf en cas de restructuration simultanée, affectant les classements décidés, des rubriques de classification des fonctions annexées à la loi. Ces dispositions sont applicables aux employés retraités et à leurs survivants.
 
-<a id="art_9"></a>
+<a id="art_9__2"></a>
 
 ### Art. 9. L’avancement de l’employé à un grade supérieur s’effectue conformément aux dispositions de l’article 5,
 
 paragraphe 1,2 et 3,relatives à la promotion du fonctionnaire,le passage à un grade inférieur conformément à l’article 6, paragraphe 1,de la loi.
 
-<a id="art_10"></a>
+<a id="art_10__2"></a>
 
 ### Art. 10. L’indemnité de l’employé qui passe à une carrière supérieure est calculée conformément à l’article 7, para-
 
 graphe 5 de la loi.
 
-<a id="art_11"></a>
+<a id="art_11__2"></a>
 
 ### Art. 11. La carrière de l’employé prend cours dès la fin de la période d’assimilation au stagiaire-fonctionnaire.
 
 
 
-<a id="art_12"></a>
+<a id="art_12__2"></a>
 
 ### Art. 12. L’indemnité revenant à l’employé au moment du début de carrière est déterminée conformément aux
 
 dispositions des articles 3,7 et 34 de la loi,sous réserve de l’application des alinéas ci-après. L’expression «début de carrière» se substitue à l’expression «nomination définitive» et le grade fixé comme grade de début de carrière est considéré comme grade normal de début de carrière et comme grade de computation de la bonifi- cation d’ancienneté. Le second alinéa du paragraphe 6 de l’article 7 de la loi n’est pas appliqué. 848
 
-<a id="art_13"></a>
+<a id="art_13__2"></a>
 
 ### Art. 13.
 
 (Règl.gouv.du 15 novembre 1974) «1.L’indemnité revenant à l’employé au moment du début de carrière est allouée d’office.» (Règl.gouv.du 1er septembre 1978) «2.Les avancements d’échelon,dont la périodicité est réglée conformément à l’article 4 de la loi,les avancements en grade et les avancements d’échelon supplémentaires sont alloués d’office,sauf le cas de suspension.» (Règl.gouv.du 15 novembre 1974) «La suspension est prononcée par le ministre du ressort par une décision motivée qui est communiquée à l’employé intéressé.L’employé peut présenter ses explications.La décision subséquente du ministre est sans recours. En cas de suspension unique ne dépassant pas un an,le ministre du ressort peut rétablir le jeu normal des avancements d’échelon et des avancements en grade. Dans toutes les hypothèses prévues aux alinéas ci-dessus la perte encourue par la suspension est définitive.» En cas de suspension de l’avancement d’échelon,la décision y relative est communiquée à l’employé intéressé qui peut présenter ses explications.La décision subséquente du ministre est sans recours. 3. Les avancements en grade font l’objet d’une décision du ministre compétent, selon les modalités prévues au para- graphe 2 ci-dessus pour les avancements d’échelon. 4.En cas de suspension unique ne dépassant pas un an,le ministre compétent peut rétablir le jeu normal des avance- ments d’échelon et des avancements en grade.La perte encourue par la suspension est définitive.
 
-<a id="art_14"></a>
+<a id="art_14__2"></a>
 
 ### Art. 14. Pour la détermination de l’échéance des augmentations d’âge et des avancements éventuels d’échelon et en
 
@@ -232,7 +310,7 @@ ment qui sera publié au Mémorial. ANNEXE* Tableaux des carrières I.- Employé
 
 1.Les indemnités des employés en activité de service ou pensionnés à la date de l’entrée en vigueur du présent règle- ment seront reconstituées selon les dispositions de l’article 1er ci-dessus. (Règl. gouv. du 15 janvier 1988) «Lorsque la reconstitution de la carrière aboutit à une rémunération inférieure à celle due en vertu de décisions individuelles anté- rieures prises par le Gouvernement en conseil,les intéressés bénéficient d’un supplément d’indemnité ou de pension.» Pour l’application de cette disposition, l’employé pensionné est censé avoir rempli les conditions de l’article 29bis du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat. Il en est de même de l’épreuve de qualification prévue à l’article 31 du même règlement. Toutefois l’article 1er paragraphes D et F numéro 5 ci-dessus1 s’applique aux seuls employés engagés après l’entrée en vigueur du présent règlement. Pour les employés engagés avant cette date, les articles 25 et 29 paragraphe 5 du règle- ment modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat restent applicables dans la teneur qui fut la leur avant l’entrée en vigueur du présent règlement.Les dispositions du présent règlement concernant les secrétaires de direction et les employés desser- vant un standard de télécommunications s’appliquent uniquement aux employés en activité de service au moment de l’entrée en vigueur du présent règlement ainsi qu’à ceux engagés après cette entrée en vigueur. L’alinéa 1er ci-dessus ne s’applique pas à l’article 1er,paragraphe D,alinéa 6 du présent règlement.2 2. Lorsqu’un grade est allongé par le présent règlement de deux ou plusieurs échelons supplémentaires, le dernier échelon ne viendra à échéance qu’au plus tôt deux années après l’entrée en vigueur du présent règlement.La présente disposition s’applique également aux pensionnés et aux survivants bénéficiaires d’une pension. 1 Il s’agit des articles 25 et 29 numéro 5 du règlement de base. 2 Entrée en vigueur le 2 janvier 1989. 858 3.Par dérogation à l’alinéa 1er de l’article 29bis du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat,les employés en acti- vité de service au moment de l’entrée en vigueur du présent règlement,et dont la participation aux cours de recyclage ou de perfectionnement constitue une condition à un allongement de grade sont dispensés: o de trois cours,si,au moment de l’entrée en vigueur du présent règlement,ils sont classés au dernier grade de leur carrière o de deux cours,s’ils sont classés à l’avant-dernier grade de leur carrière o d’un cours,s’ils sont classés à l’antépénultième grade de leur carrière. Les employés dont la participation aux cours de recyclage ou de perfectionnement constitue une condition à un avan- cement de grade sont dispensés o de trois cours,si au moment de l’entrée en vigueur du présent règlement,ils sont classés à l’avant-dernier grade de leur carrière; o de deux cours,s’ils sont classés à l’antépénultième grade de leur carrière. 4.Les employés des carrières C et D qui,au moment de l’entrée en vigueur du présent règlement,sont âgés de 45 ans au moins et qui sont classés respectivement au grade 7bis de la carrière C ou au grade 11 de la carrière D et qui ont réussi à leur examen de carrière, sont dispensés de la participation à l’épreuve de qualification prévue aux tableaux annexés au règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat. 5. Les employés qui desservent le standard téléphonique du Gouvernement, en service au moment de l’entrée en vigueur du présent règlement, restent classés dans la carrière B1. Toutefois, s’ils ne remplissent pas les conditions d’études requises pour l’accès à cette carrière, le supplément de rémunération de 10 points indiciaires ne leur est pas accordé. 6.Le présent règlement entrera en vigueur le 1er novembre 1986,à l’exception toutefois de l’article 1er,paragraphe D, alinéa 6 qui entrera en vigueur le jour de la publication du présent règlement au Mémorial.1 (c.à-d.le 4 juin 1987) Règlement du Gouvernement en conseil du 14 décembre 1990. Dispositions transitoires
 
-<a id="art_4__2"></a>
+<a id="art_4__3"></a>
 
 ### Art. 4. I.L’article 1er modifié du règlement du Gouvernement en conseil du 1er mars 1974 fixant le régime des indem-
 

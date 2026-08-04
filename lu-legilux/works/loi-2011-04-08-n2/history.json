@@ -2,15 +2,16 @@
   "lex_work_id": "lu-legilux:loi-2011-04-08-n2",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/1",
+    "pdf-lu/1"
   ],
   "anchors": {
     "art_1er": [
       {
-        "valid_from": "2018-07-01",
+        "valid_from": "2017-01-01",
         "valid_to": "2026-09-26",
         "text_sha256": "b3cd6359ff068da85ddc6d79b065a232119f0fd667de26ba0438721f0f7655e0",
-        "in_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-01-01"
       }
     ],
     "art_1er-1": [
@@ -22,7 +23,21 @@
         "article_valid_from": "2018-07-01"
       }
     ],
+    "art_1er__2": [
+      {
+        "valid_from": "2017-01-01",
+        "valid_to": "2018-06-30",
+        "text_sha256": "490a0d40bf1bd6e172fd04e1239998d33be8aa34e40f874fde2cead43da9a264",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-01-01"
+      }
+    ],
     "art_2": [
+      {
+        "valid_from": "2017-01-01",
+        "valid_to": "2018-06-30",
+        "text_sha256": "9bb0f2323c71cea6c236633a0e29c2b668fbe3c13cb6643f3b34e78f33880931",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-01-01"
+      },
       {
         "valid_from": "2018-07-01",
         "valid_to": "2026-09-26",
@@ -49,6 +64,12 @@
     ],
     "art_3": [
       {
+        "valid_from": "2017-01-01",
+        "valid_to": "2018-06-30",
+        "text_sha256": "35f10b4461947ddb0f786b369dc3f9322d1cce9f2f5c99ee12cbe39dc6aa0245",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-01-01"
+      },
+      {
         "valid_from": "2018-07-01",
         "valid_to": "2026-09-26",
         "text_sha256": "4aff13f77146eb12f6f4d3e67040d7d94cb353eb8474e59885f1e34e3b16be85",
@@ -64,7 +85,45 @@
         "article_valid_from": "2018-07-01"
       }
     ],
+    "art_3__2": [
+      {
+        "valid_from": "2017-01-01",
+        "valid_to": "2017-06-22",
+        "text_sha256": "095823b2cdf4b050a0d1a7dbe7f10184c6e536673ee4925a592cfd60bd6e9fef",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-01-01"
+      },
+      {
+        "valid_from": "2017-06-23",
+        "valid_to": "2017-11-12",
+        "text_sha256": "8311bd4b80367b2219cdab524e9aaae6c6537cb8b45c2e5eb138dccaf4f0c5be",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-06-23"
+      },
+      {
+        "valid_from": "2017-11-13",
+        "valid_to": "2018-06-30",
+        "text_sha256": "6256c1bc14716e1d2f34950097838f4bec8916456e0037eb30731f55851ba8d8",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-11-13"
+      }
+    ],
     "art_4": [
+      {
+        "valid_from": "2017-01-01",
+        "valid_to": "2017-06-22",
+        "text_sha256": "52441147e1ef8699f9556b299e38e0788367b31a5c93876f1e7d873716a68eae",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-01-01"
+      },
+      {
+        "valid_from": "2017-06-23",
+        "valid_to": "2017-11-12",
+        "text_sha256": "fe30e67919404f2ed44a844bf4913096d03528610e673a8d3af411c1e53bfaa1",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-06-23"
+      },
+      {
+        "valid_from": "2017-11-13",
+        "valid_to": "2018-06-30",
+        "text_sha256": "6f19b55dae90c84de96973b5efca7bf3dda8121ad23f72d1f845debd399c4c67",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-11-13"
+      },
       {
         "valid_from": "2018-07-01",
         "valid_to": "2024-07-21",
@@ -76,6 +135,26 @@
         "valid_to": "2026-09-26",
         "text_sha256": "34f50fe24da16d940335cc3f8d102e1f5776b4f622e2eda73530e28985b42c7b",
         "in_version": "lu-legilux:loi-2011-04-08-n2:2024-07-22"
+      }
+    ],
+    "art_412-3": [
+      {
+        "valid_from": "2017-01-01",
+        "valid_to": "2017-06-22",
+        "text_sha256": "8b3d3c09011272f9cf62f47365baad3ae30146e9cd5029b926c1cf572b5c75d5",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-01-01"
+      },
+      {
+        "valid_from": "2017-06-23",
+        "valid_to": "2017-11-12",
+        "text_sha256": "f1da2fd351f64b656e6c042d6c90826d8ddac28068767d4996c86b8deaa96fa1",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-06-23"
+      },
+      {
+        "valid_from": "2017-11-13",
+        "valid_to": "2018-06-30",
+        "text_sha256": "bb7e93ff4ea581ab6d25efb3140c1b2ce8ef742b7d38ad3acf2d72606726f0ba",
+        "in_version": "lu-legilux:loi-2011-04-08-n2:2017-11-13"
       }
     ],
     "art_l_010-1": [
@@ -5262,6 +5341,1411 @@
     ]
   },
   "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "art_1er__2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_3__2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_412-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_1er-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_2-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_3-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_010-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_010-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_111-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_112-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_113-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_121-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_121-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_122-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_122-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_122-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_122-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_122-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_122-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_122-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_122-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_211-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_211-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_211-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_211-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_211-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_211-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_211-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-10",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-11",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-12",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-13",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_212-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_213-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_213-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_213-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_213-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_213-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_213-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_213-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_221-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_221-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_221-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-10",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-11",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-12",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-13",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-14",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-15",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-16",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-17",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-18",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-19",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-20",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-21",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-22",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-23",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_222-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-10",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-11",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-12",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-13",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_223-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-10",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-11",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-12",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-13",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-14",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-15",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-16",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-17",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-18",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-19",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-20",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-21",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-22",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-23",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-24",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-25",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-26",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-27",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_224-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-10",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-11",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-12",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-13",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-14",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-15",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-16",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-17",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-18",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-19",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-20",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-21",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-22",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-23",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_225-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-10",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-11",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-12",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-13",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-14",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-15",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-16",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-17",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-18",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-19",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-20",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-21",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-22",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-23",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-24",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-25",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-26",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-27",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-28",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-29",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-30",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-31",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-32",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-33",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-34",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-35",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-36",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-37",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-38",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-39",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-40",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-41",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-42",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-43",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-44",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-45",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_226-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_311-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_312-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_313-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_313-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_320-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_320-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_320-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_320-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_320-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_320-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_320-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_411-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_411-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_411-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_412-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_412-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_412-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_413-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_421-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_421-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_422-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_423-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_423-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_431-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_431-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_431-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_431-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-10",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-11",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-12",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-13",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-14",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-15",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-16",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-17",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-8",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_l_432-9",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_112-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_112-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_112-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_112-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_112-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_121-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_222-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_222-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_223-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_223-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_223-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_223-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_223-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_224-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_224-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_224-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_224-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_225-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_225-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_225-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_226-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_226-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_226-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_301-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_301-2",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_301-3",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_301-4",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_301-5",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_301-6",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_301-7",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_r_411-1",
+      "at_version": "lu-legilux:loi-2011-04-08-n2:2018-07-01"
+    },
     {
       "type": "inserted",
       "anchor": "art_l_311-8-1",

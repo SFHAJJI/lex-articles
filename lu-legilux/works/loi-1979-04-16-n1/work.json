@@ -6,6 +6,36 @@
   ],
   "versions": [
     {
+      "valid_from": "1983-12-21",
+      "valid_to": "1987-06-30",
+      "language": "fr",
+      "provisions": 71
+    },
+    {
+      "valid_from": "1987-07-01",
+      "valid_to": "1989-07-31",
+      "language": "fr",
+      "provisions": 81
+    },
+    {
+      "valid_from": "1989-08-01",
+      "valid_to": "1998-09-04",
+      "language": "fr",
+      "provisions": 78
+    },
+    {
+      "valid_from": "1998-09-05",
+      "valid_to": "2008-06-30",
+      "language": "fr",
+      "provisions": 89
+    },
+    {
+      "valid_from": "2008-07-01",
+      "valid_to": "2022-07-14",
+      "language": "fr",
+      "provisions": 91
+    },
+    {
       "valid_from": "2022-07-15",
       "valid_to": "2022-12-26",
       "language": "fr",
@@ -74,9 +104,13 @@
   ],
   "anchors": [
     "art_10",
+    "art_100",
+    "art_101",
     "art_11",
     "art_12",
+    "art_129",
     "art_13",
+    "art_130",
     "art_14",
     "art_15",
     "art_16",
@@ -102,6 +136,7 @@
     "art_19ter",
     "art_1bis",
     "art_1er",
+    "art_1er__2",
     "art_1quater",
     "art_1quinquies",
     "art_1ter",
@@ -144,12 +179,16 @@
     "art_29septies",
     "art_29sexies",
     "art_29ter",
+    "art_2__2",
+    "art_2__3",
     "art_3",
     "art_30",
     "art_31",
     "art_31-1",
     "art_31-2",
     "art_31-3",
+    "art_31__2",
+    "art_31__3",
     "art_32",
     "art_33",
     "art_34",
@@ -161,6 +200,7 @@
     "art_37bis",
     "art_38",
     "art_39",
+    "art_3__2",
     "art_3bis",
     "art_4",
     "art_40",
@@ -180,6 +220,7 @@
     "art_50",
     "art_51",
     "art_52",
+    "art_521",
     "art_53",
     "art_54",
     "art_55",

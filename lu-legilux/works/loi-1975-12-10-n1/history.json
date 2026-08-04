@@ -2,16 +2,31 @@
   "lex_work_id": "lu-legilux:loi-1975-12-10-n1",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/1",
+    "pdf-memorial-lu/1"
   ],
   "anchors": {
     "art_10": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "50223f4c818e4681b7fb0090b34d2b18abb27d558d2b74d91cd27ca5cec62fe5",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "debda72e71012ad29d48c8131397594d9732d721595202a3f8d49087d6b3ce26",
         "in_version": "lu-legilux:loi-1975-12-10-n1:2010-02-23",
         "article_valid_from": "2010-02-23"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "7dc4070217b29c9fc2053b019d7e11f9ff4b9bfe84b3328abf19acba48b4a0b4",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
       }
     ],
     "art_12": [
@@ -43,6 +58,12 @@
     ],
     "art_15": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "9de84c35ae6e4d0c172ce0076b66ed9d13cb66b3551d6ad3982e24548d52b4aa",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "d305a73f730759058c247d67c0e14b55bf762b44b448c6e9026c7022628c46c4",
@@ -51,6 +72,12 @@
       }
     ],
     "art_16": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "a86e6a51c3b08e0cdea660dafc86032a93efcdf60f7f653a6b16db36b37978e6",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -61,6 +88,12 @@
     ],
     "art_17": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "e1e8503af7c853bba4a8a340b9dd1e17057613fd9daace29875f9474c1e1ae84",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "36c6d26f40d4e14123d24ab65af80e7900176f5e632eea7290dc6dd807270e61",
@@ -69,6 +102,12 @@
       }
     ],
     "art_18": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "5c03d67f5ec44590af482624a9df361734937b379882227c28fe28f1b38e19b7",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -88,6 +127,12 @@
     ],
     "art_1er": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "45ede6fa5e9d626a85ea4b4c1a3d30f00b08f03add02af58c4f6fd5d931a4297",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "ef08d2085ff5b6d06654c2b0dedea728d4ec59ebdd027931e18e841627d11844",
@@ -96,6 +141,12 @@
       }
     ],
     "art_2": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "2e4f97a9284d7298cbcde39cbd7f4f86c85573a4904523866f69a03042165233",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -106,6 +157,12 @@
     ],
     "art_20": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "3224e79c6d9c07a6c865ba67e68cc7cbf9e947ba58430f8d0867fa23625a03e5",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "36d6ccbe9c6df416046af92a55d895defcfc1d10327fc08c8457138ce7c8086d",
@@ -114,6 +171,12 @@
       }
     ],
     "art_21": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "e64ba1105e8554b0d757e9ac526768a372fe97659ff550f71952637fef0dcb77",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -124,6 +187,12 @@
     ],
     "art_22": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "fbf48b708e3bd31c29b366dacbb21d0261410fc00a4d642ee1248a611e87d339",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "3fee8b3dd8cb59e9fd02e70cd04417cc6d2eb3344cb78e5db62eabf74dad3417",
@@ -132,6 +201,12 @@
       }
     ],
     "art_23": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "8c6910a95e689c683b811fcb50ad3eb6bd057352641fffbd0146bc3c61cf0f17",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -142,6 +217,12 @@
     ],
     "art_24": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "216631ec74a1898d6f1255c28cd68d7e34980e3ee7e7e25a4b838634d12cb2fd",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "d980aa3d60e3f72007b550cac9f722a28e22b267f3dd307f8da2fbacddb6e8f9",
@@ -151,6 +232,12 @@
     ],
     "art_25": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "857886f6c761cadaa7cdeead1f4c2d6be766e19c44fb8a6c0541bcff7e87ed59",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "37e3859b20eccee80a0241b0e61a607017e67f417cae176f72e441cf60d62cfb",
@@ -159,6 +246,12 @@
       }
     ],
     "art_26": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "34da0d2b256db9401e6291ba0f346bf26af813c832419d7856c554e0e4d444f7",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -178,6 +271,12 @@
     ],
     "art_27": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "e1ab5bfa354737f2edeaf3c2ddf74f1b389e67768c600fd619dfb01c0154ea95",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "3d100c1b8b935f036a6828d1a1f499e155a23c1ab8dd5488e8bdfdd00d5238b6",
@@ -186,6 +285,12 @@
       }
     ],
     "art_28": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "bfdf0ffccec5c1d5645f7e054bd98e3fe5532f8d7741153e629c1317bea1fc2d",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -196,6 +301,12 @@
     ],
     "art_3": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "fde7b3e73299dd2c90fcfc9770da53939157ba5cb9d9c9325fefb17edab98379",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "794b710fcf7331a7dee5f818a4e41f2e45fdad42d09fdbc8ee3f1a9dbb363698",
@@ -204,6 +315,12 @@
       }
     ],
     "art_4": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "1b2b5503869075e87fc20260c2f658bc86ecd08079256b8bcaca5b148d68869c",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -214,6 +331,12 @@
     ],
     "art_5": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "0a8e87d79d2edf5fc5939bdc19697f6896d310813793aeeffd1cd12f03ddb87e",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "b345528a1f5ac000757f2cccd4edae2d2cb510c4608d97b60c47b5d64e149357",
@@ -222,6 +345,12 @@
       }
     ],
     "art_6": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "1f5599a6faeebfd3892f6ea799e04171667e8deaa6b88120e62cf3fdc07d4ace",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -232,6 +361,12 @@
     ],
     "art_7": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "ccfdb47dd3232117867a23b4bf533ae1604933ad9b6ef3cb58068426659dc4c2",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "140d763d649773caed8b0690411866188a2159b93256e8243d0bfdde9705d521",
@@ -241,6 +376,12 @@
     ],
     "art_8": [
       {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "fbc83a86443fe7ba008b0bd1dafbc207f2b14a9468b416659cf2b8a645ce4d5b",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
+      {
         "valid_from": "2010-02-23",
         "valid_to": null,
         "text_sha256": "057ac956742f679216e6e866d7f175c41c21018fb89e857db3b95554629ab1d3",
@@ -249,6 +390,12 @@
       }
     ],
     "art_9": [
+      {
+        "valid_from": "1990-08-20",
+        "valid_to": "2010-02-22",
+        "text_sha256": "c388cb1a91468d17c765b4302799e0c8d95f3c3100df44322e0b52f02dd35aee",
+        "in_version": "lu-legilux:loi-1975-12-10-n1:1990-08-20"
+      },
       {
         "valid_from": "2010-02-23",
         "valid_to": null,
@@ -266,5 +413,41 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "art_11",
+      "at_version": "lu-legilux:loi-1975-12-10-n1:2010-02-23"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_12",
+      "at_version": "lu-legilux:loi-1975-12-10-n1:2010-02-23"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_13",
+      "at_version": "lu-legilux:loi-1975-12-10-n1:2010-02-23"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_14",
+      "at_version": "lu-legilux:loi-1975-12-10-n1:2010-02-23"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_19",
+      "at_version": "lu-legilux:loi-1975-12-10-n1:2010-02-23"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_26-1",
+      "at_version": "lu-legilux:loi-1975-12-10-n1:2010-02-23"
+    },
+    {
+      "type": "inserted",
+      "anchor": "attachment_1",
+      "at_version": "lu-legilux:loi-1975-12-10-n1:2010-02-23"
+    }
+  ]
 }

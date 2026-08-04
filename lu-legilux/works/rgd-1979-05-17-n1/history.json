@@ -1,0 +1,26 @@
+{
+  "lex_work_id": "lu-legilux:rgd-1979-05-17-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "pdf-memorial-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "1993-04-13",
+        "valid_to": null,
+        "text_sha256": "1105a1cfa9ef36fd5dc50150d4c36fe9de4a633440e4ec52795b4f55a9f27f84",
+        "in_version": "lu-legilux:rgd-1979-05-17-n1:1993-04-13"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1993-04-13",
+        "valid_to": null,
+        "text_sha256": "083e76d9e3585faa02cb2f9e9c7d2d2f3f315e70b9ea065cd33c60f9d027ff46",
+        "in_version": "lu-legilux:rgd-1979-05-17-n1:1993-04-13"
+      }
+    ]
+  },
+  "anchor_events": []
+}

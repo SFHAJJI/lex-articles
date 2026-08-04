@@ -1,0 +1,951 @@
+{
+  "lex_work_id": "lu-legilux:loi-1937-06-07-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "pdf-memorial-lu/1"
+  ],
+  "anchors": {
+    "art_10": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "8f581fb3ef6a069ba4b4beabd555b6737b0a0559db81b9d5ba25c3f82face440",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "c4a6a9bd1c97b700e251bb437550087c3f8b6d4da435519890e6123e1e9ced64",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "85a26b6ee0b3197863d58dda003eb9afee782219544a871ea342f46ddd3b8c3b",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "a9f251c197deaf8d155da84acab5f7424308cd45440591ee0504db387892930b",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "b57e1e01617b977dc82824118e0d697ebba283db6356c456e387bf3faf381b11",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "814c27a390054a3773b25268199aa50f0189a5b280fa413759c5715388cebd6b",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "b6092916f78e5b8047302810794f6ec4133495bd6abd502cc7e6d67a681a5581",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "13a4d8946b8022100c61b6930f69f9b75bb52aa6a89a881b0bbcced50ea953ad",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1989-06-08",
+        "text_sha256": "711a21c7e7b2daa904aa15cf45023ea9aecf6a73da202267a83226165180698b",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "b2247d69f8beaf4cf8f1163c81514a1eb9316a68056a920082a0d8093049bede",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "5f559eb34960b02824ea92deebc3d4e944dce3ce8dca458936932d84aa180e2a",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "3d1f8c04bad763bb097c0b8ece9574bc8fb60e915b9754c6bbb9f021f345c46b",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "0c426b3d8128b19a38ae78708bc46ebb9f981c5876389c31efee81cd10afff22",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "2051f0e79df321172c1361f3af0d8e00324525a79d772fc6603cf8a1829c1595",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_13__2": [
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "bb5a16719bc0aa004f94ed4be35d306c642a8e22fbb34f08c06f136640c22223",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "d3ec3c12cde88a1f247f4eeddf2f6bf1b915471780bc691609b81e2cb9753d6a",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_14": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "9386025f7cdaab29a1e97a10a4f8373f03d82fb34548bf483027a344b16cffe7",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "dd79a0fbaa92c468192b3a830adc37023517ec1e34901edb40a7f9052153d5e8",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_15": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "6dd026afcc7352eba14b46b4a6008c1d480761db360c6b1d7a983ccc4b2b94f2",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "64145d987fe3f5fb4acffb4d919303116fa3fe4bff867254a11d866333d2010f",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1989-06-08",
+        "text_sha256": "e853e23def7a21f4a9faf9edb8f6ce68c87fe5699a2ccff3bacaaa71c88f0ec8",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "c121e6b95038e515ab49f14b645a01b7dcc73b780339914418750e872f25cb3e",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_16": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "ee4e5f218cb0ae87301ed2e8472360a1df44569f9262ce2a4be9b3ac2333fcd2",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "da3f7bd0af908a0f854f67d60414d0ab93a93803b85b772c9c9bda57f3e07232",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "b6c218c56e7f124fc6bbc537ee30de40816222619b60f07858aed7ca613313b4",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "95cdba3fd300f1da3514c9a4b68e06dd179e98c710da8ed028411883975abb72",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_17": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "01a20375026d363fa8e08e34598b48544e722394078b8c2cc2f59f1b21464e2b",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "763a3d14e4e7bac5945d0902c53a7bbcfbc33a815513971935c4f88f3782769e",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "5432e5d8bfccc5328380b1e849fea29863403f412210161282331ba435014db7",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "6d9df4da9e87d9d39a6b352ae29627d3c677ac062c6e312b4202aea5b3a6cf0f",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_18": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "0949a287b39b1af3efd2a0337b25bc10a1bbdb9186f508cab8b601b74d3b994e",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "37225b5b2236f235cac37cca6a69a5882a30ef282fd1a9d1fc45155aac7aee96",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "24a001595aebedb3c894e086c7d87cdffffed398a8df531f548d22cd8a482361",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "98314af374236a0e6842d34b944251d54c6dae902a3a66f3401823f2e78fbb0b",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_19": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "d22d06d285e6a3c8f87951aa990ee952663cba0388b9f44266c0f773a9bef000",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "9e5f1ac0767d6dd4e1bc6b71354a68849fb233cebae00b70f18f2e6ff0582d3d",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "e2c9c5cb4b91b7d547717c186773399937837dde188331be13501f7a514e3773",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "35d36069ecf28d88bbf53f3387828752e37a888fbc6a90845b4b43db7fa8f55d",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_1er": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "24590289777541e07e7a5481c7215ee4b55f5cbd60260fb22de5c9dbaa72d9f8",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "f0859dac0f00c9099465640e5576a33855dd3891ba447b5f99ac8dcecc6fbb4a",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1989-06-08",
+        "text_sha256": "a0f77a1735f2586afadbea2703d6be005de613d6c6e5f5694dbde7057a7f565a",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "83d54375583629b6ac026b24c20084b053e1990674d1e41a9894e1ed44616733",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "807ee94e2a09a8e6f761539a5000ae62534ab47f2f44864dbf62856812605bf6",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1989-06-08",
+        "text_sha256": "066c0de1432207bc39ede0a37ed3b290b13f31791a9ebdec5e444d5bc23959c7",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      }
+    ],
+    "art_20": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "93a3e7e80d449204e90ef193a6e527118b136572a7ff22e8b79bd915ea692cdb",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "d985f42deb30e5bed0af3feb5df2ffa1d4571e6215cbf73acd4d1c6a601a7f2d",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1989-06-08",
+        "text_sha256": "e455c6486ab78764db99fcd951eda26adfabeb6b56ab355aee3b21e2cb2b7ac4",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      }
+    ],
+    "art_21": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "81fce6d25433bce3f45e724d20f0ebc0186a6b468ad988fae1a40de41d6da505",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "eb6ef4977c1e12542e5e08467ac8bcf2e0055ba343da9d69639f5bc8e9244584",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "4e6fedcfa7da9fffb6b1f3223a146a6ae6641ffe9cf8d7c57e517ebf47433593",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "69295a52a1b42140ff600f8b8b30fc4c3523e1c483fcdce07230a6af401af74a",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_22": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "c0951d9ec7a5c03d41d2f47de3e436428ef6b3c6262709dba62a93ed6ef3d807",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "766a0a1127616245886d84ad7e69b16b8ab10d957604d0b8f733b4177d34d4bb",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "0b2ba97025fe9c45866481b1e7a3423c174c5e5aa811f96ac80a78b98160bcea",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "e8a0245a7ec63bed02f13a40ccc2c223052588153757efe3581eafc251b03d73",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_23": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "0270b24ca1b292b7603d6ec930f20e21b250e4237a154171c61003fa4c2e6ade",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "5a112712cc311335e4fe03e84a7e8d2792be8c319b1904209b64c8c6778fc063",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "5fc3b1ae8515e19025bae216641af6013a809062a235a335d75ccd04b204d5de",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "8b0212e67b07ff79e79b06e40d4d545bbadf84a5e8df006ed7fe62d4a46973d5",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_24": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "33b95717d6bf5b70cac11c4383bc2637e162a0a9f7120c82b25d579647954bbe",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "8ec28e60b94ca0a60fc8d6a3a760a3666f800d3773e82dcf6ca378a1df95aa5e",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1989-06-08",
+        "text_sha256": "9be9a11550e08e1b172929f65d77d71e780f3753732d388ee3d3d16358b41b7d",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "aaa11eb197ec10c615bbc7c4539d4bce89f2baf877acd2dfe0c0fd8b5d612796",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_25": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "12a416af842babbbb80e62a9d092bb333149c71da9d4919d1f88e3f3dbce618a",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "3b381861f347c02183e2fb29e245f95e183955e3a00300f335114f92ed308bd0",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "633d11664a9f18a328811f6f5ae994dca985b3d19128aad8b9ee228098d9d91e",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "7bae377e671765ccfdd354f115524d7e36d4f86761c88dcee6de8278234fd326",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "bbf816e4266ce11f00c636eec3c1e75955cabd3b219aef1a3b98f0aa9c9e9c91",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_26": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "783a22cf9ac1312a9e71431d940245a811f777e272c7891776929a667f914a6d",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "59fee04c57d24e8afea40938dd605f71cac5a63827399baa1b98686e30a0e3c8",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "694a1909ebdabf469491724211648aa5c0a1957ba0157eb35614bbbb7a76a63d",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "1c49c133757eb41d5ebb9e74a60aa8d712f6bde8c6ad73f06113d4e59f122f66",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "6bc3767765e2583cf5f8e5d716d20656db9f73faecfb49245a8673b018f783e0",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_27": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1981-03-29",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "7c72066c66a912cdecd0cc67136a49d31796193a26486d6b494b131c0d24f058",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_28": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "c79682d7d5d67005567f9276de1be91bdad703f017a4a70322a034af44698b00",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "1142d9057db40489537a7b84737ea4a82f170198eea38eda0d461a2940aaa92f",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "94d1f4c194d7f91e2acdf197d4a72ee99015df04ff9d28f218bec4e828d8b2b3",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "8f2a05a5aae36e424541373234d1f9490b7f1b521c50ce3781ef3eeb71e36f28",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "5f3549e5e18817775677ec39e7a8c680a84b4321d722410e49e42fb39b98cbfd",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_29": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "30b56e9f0b928234ace910fb28421b8ab53908164aba08594004eff2f7b404fb",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "2a4a787dbc9344fd490dd50e346f1dbfd1753fd30f2bd392c04503f8047bcae7",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1989-06-08",
+        "text_sha256": "6e1f70926936a19b68e78b40636e57ea2a7f02ca49a55cd5fec0242614deaf88",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "54fce6bdec6946aeb647a91133169645253bfc919e618bad354e5fc3cefc88dc",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "a604ac19c304ba930056bdc4dc3cd1a4610aa18066c1eb56d8665215fb68c470",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "53bbeeb3a32daf040d56819c6c4cdb55c0ef6450dfe59457f4e79c92a3f146ce",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "104fbbd7b3986509415283ccce07a36ac12a0a1f95c474038b38c9f02ba78a89",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "e59cbb9e57c84503e13171dec6fda844d044f9d2c9da15b328ec902903593498",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "3f6900d5adf3148ea99609b1791eabc8a96d87d91f345594d6236f73ab6ece1d",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_30": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "805bbadc5b655f5c1ea90469339604817cd88049b259ba130402d0139ed33cc5",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1989-06-08",
+        "text_sha256": "d9c041f18c8a15b8523085e1cff44569f6f6db4900219ed60c5d6b1e23bdfddb",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "1333006ecc90dbc55b43a1e57e1ea5e33ed373829dd59a9a711a42c2e5b3b25f",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_31": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "0e84752e1c3da13d576f451dc403be423d0aa0112b1696a93fdcd44c87504688",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "3624cc0b13b68be5b69928c5b0f1b618e9cdbd2fa6a8e1148b38f132fc457f74",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "5eab22b54b53c4d53b666e2da60016df5fdd2dfaf24f28ad10f66933959cd592",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "744b26ab7143b60391dd3a2f5d5ca16d21e3b003e4e189b794c01c4e567f440d",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "54663f6d312b06817d8638dd6ca2de1bfc5570825046677240fdf0c816c93ce6",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_32": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "a3f2e667b94c9e05d505d77af1285d7a6e36027dee07e90490f324521ab5f5c4",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "b05ce76dea1358573827eb0891876abce72ebf823e28cbdf09d1edde267c87b0",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "35375ea366e308a46d6c64a34573c475383a108f7c9decfe6ca2ddb52ad23cf5",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "0644f6ff44297efb71333f9db4a820425c1288307232bb46a8fda60fb08af6d3",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "e297c854938e7446f9943771e4684b5358b24e719da12a4df29ec1dce6e26acf",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "bf062834755c5801b29ec140739e0bfd60edbeeef4e4b8582937f8b6067fdf80",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "02c5849e553bad3cb5c7f2d003ba6c39fc130da70fee31281f31e4ed7dd9b444",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1989-06-08",
+        "text_sha256": "6db3437773f9abd0401d9eb4545e5c9b058395c5414faba8c0d1746435fefa6f",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "5880ad1b0048d38fb22a46814f7a8d9ae4315061e4251837625aeff94282fe7e",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "0f0e58860355cca72ab862164c5e42b85e7ea056ea9b4b4858eff54995edefa2",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "6ebb33b025577f198e601e548e2bdc480b67124ad503a800fd7aeccc3bea16fd",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "35395d88a5c6cfb72671f8e317df452a3c58ea918fd517bf2987a1f9297db767",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "91b74df7f5df4772cd6f4c3d2adf7c8591cf92121463f0dfa90d3e6b91d2b1fe",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "179be8013c1692cf7f1bb4b5721e7c67e94be13abbc5186505db648ed99b5f54",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "ee15721442f214f640be3e3d019514a01d9eff592337bade0a3f63737a87a5ff",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "8987434daf72723a1157861900b6326a28428ff9f64b5f9eb750b4147770a8fe",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "fe1b6ba4b92c6f61873dc7d4cf9789d8dd682aac910ea9c8d126034bb6638b42",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "9348fc5266dab60662999c11a23042ee906f182196b50699c13bb37bab2ff842",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "9b05654ed0c8adbc0e22f4c6b3caa7847fabd9f588b2698a6d4ee1c53712d565",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "e3eeb0615a57eb721eefc76b6e8cbd178e3ce82bea64c6023aee7bfbda3750ce",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "f6865ed9dc041256439b378d7e639268b92f9ff943d215bc60bce6320cd26c16",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "23cbb690fcad03e44188153a83b836b5080a025fd97f8a27b5950580cde55af4",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "5db13fd4f681f06baf295fef4922b6509a003ba623846c0678e59111714a3d88",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "71dd482f28cdd157238c7d5f7951fb062ee7cc5d7604c8827657693a486c2032",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "1962-04-25",
+        "valid_to": "1971-11-20",
+        "text_sha256": "d2233da9e20ceb9e8c566c13a7344aed74de62247497927bc8f8e5bbaee1930b",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1962-04-25"
+      },
+      {
+        "valid_from": "1971-11-21",
+        "valid_to": "1979-06-04",
+        "text_sha256": "2d46cfd5f9303c15ac762e48e7ada30ad27aea9751a26c6b2e833d3fa8bd6345",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+      },
+      {
+        "valid_from": "1979-06-05",
+        "valid_to": "1981-03-29",
+        "text_sha256": "e73e92d88b03b5f51b44ecd4fff1472757655adba9b88a8ea173b40e993a6df0",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+      },
+      {
+        "valid_from": "1981-03-30",
+        "valid_to": "1989-06-08",
+        "text_sha256": "d0db827d7c6cbcfe215b9b48e376ae544cf7004c31b7a25998147bb0f5a149b7",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1981-03-30"
+      },
+      {
+        "valid_from": "1989-06-09",
+        "valid_to": null,
+        "text_sha256": "fde20cd164275f36104445609be5e17c718b9414bf852bd708b90429709cc91f",
+        "in_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "art_10",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_14",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_6",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_7",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1971-11-21"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_13__2",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_6",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1979-06-05"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_13__2",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_16",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_17",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_18",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_19",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_2",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_20",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_21",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_22",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_23",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_5",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_10",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_14",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7",
+      "at_version": "lu-legilux:loi-1937-06-07-n1:1989-06-09"
+    }
+  ]
+}

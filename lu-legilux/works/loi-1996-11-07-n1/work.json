@@ -6,10 +6,22 @@
   ],
   "versions": [
     {
+      "valid_from": "2011-06-13",
+      "valid_to": "2021-07-22",
+      "language": "fr",
+      "provisions": 113
+    },
+    {
       "valid_from": "2021-07-23",
       "valid_to": "2021-12-31",
       "language": "fr",
       "provisions": 112
+    },
+    {
+      "valid_from": "2022-01-01",
+      "valid_to": "2022-12-31",
+      "language": "fr",
+      "provisions": 114
     },
     {
       "valid_from": "2023-01-01",
@@ -39,8 +51,13 @@
     "art_103",
     "art_104",
     "art_105",
+    "art_106",
+    "art_107",
+    "art_108",
     "art_109",
+    "art_10__2",
     "art_11",
+    "art_110",
     "art_11_20230822",
     "art_12",
     "art_13",
@@ -172,10 +189,12 @@
     "art_91-1",
     "art_92",
     "art_93",
+    "art_94",
     "art_95",
     "art_96",
     "art_97",
-    "art_98"
+    "art_98",
+    "art_99"
   ],
   "relations": {
     "amends": [],

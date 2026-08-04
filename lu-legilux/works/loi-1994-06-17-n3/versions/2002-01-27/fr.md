@@ -10,8 +10,6 @@ attribution: 'Legilux — Ministère d''État, Service central de législation, 
 generator: 'pdf-memorial-lu/1 · lex derive'
 ---
 
-## Chapitre I – DISPOSITIONS GÉNÉRALES
-
 <a id="art_1er"></a>
 
 ### Art. 1er. Objet

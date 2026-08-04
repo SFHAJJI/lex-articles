@@ -10,8 +10,6 @@ attribution: 'Legilux — Ministère d''État, Service central de législation, 
 generator: 'pdf-memorial-lu/1 · lex derive'
 ---
 
-## Chapitre 16. – Dispositionsabrogatoiresettransitoires(Art.94) . . . . . . . . . . . . . . . . . . . . . 1424
-
 <a id="art_1er"></a>
 
 ### Art. 1er. 1.Le présent statut s’applique aux fonctionnaires des communes,syndicats de communes et établissements

@@ -1,0 +1,50 @@
+{
+  "lex_work_id": "lu-legilux:rgd-1986-03-07-n11",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "pdf-memorial-lu/1"
+  ],
+  "anchors": {
+    "art_1er": [
+      {
+        "valid_from": "2002-12-23",
+        "valid_to": null,
+        "text_sha256": "9f9590d4b105a36da6e42d49d09cdd1742ec6e62cf3cbeb92227b21bfae8b56f",
+        "in_version": "lu-legilux:rgd-1986-03-07-n11:2002-12-23"
+      }
+    ],
+    "art_1er__2": [
+      {
+        "valid_from": "2002-12-23",
+        "valid_to": null,
+        "text_sha256": "9c9cb54895cd7a2851dbab3e4ef242e118d2d52aab4d072ee424ef04eac72119",
+        "in_version": "lu-legilux:rgd-1986-03-07-n11:2002-12-23"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2002-12-23",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "lu-legilux:rgd-1986-03-07-n11:2002-12-23"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2002-12-23",
+        "valid_to": null,
+        "text_sha256": "50551975cfa9da9fd330fc57f9beceacf08327b13289b05f4e0140b55b4188e2",
+        "in_version": "lu-legilux:rgd-1986-03-07-n11:2002-12-23"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2002-12-23",
+        "valid_to": null,
+        "text_sha256": "309ce3d312a7b111db216abbc29c29910aa7e6e5673b1830b0c0c640a4c3b1bc",
+        "in_version": "lu-legilux:rgd-1986-03-07-n11:2002-12-23"
+      }
+    ]
+  },
+  "anchor_events": []
+}
