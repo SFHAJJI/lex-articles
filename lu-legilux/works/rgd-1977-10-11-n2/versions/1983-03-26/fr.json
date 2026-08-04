@@ -1,0 +1,468 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/12/1982 : Règlement grand-ducal du 11 octobre 1977 concernant l'octroi d'un congé sportif.",
+  "valid_from": "1983-03-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1977-10-11-n2/versions/1983-03-26/fr.pdf-memorial/eli-etat-leg-memorial-1983-a17-fr-pdf.pdf",
+    "sha256": "51a85ff8a5c6011a6cc6d40959b84a387887cd41156dc5400109a9ed1d02c5b8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/10/11/n2/consolide/19830326/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Le congé spécial institué par l´article 26, alinéa 2, de la loi modifiée du 26 mars 1976 concernant",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l´éducation physique et le sport, appelé ci-après congé sportif, est destiné à permettre et à faciliter la participation des sportifs d´élite et de leur personnel d´encadrement aux Jeux Olympiques, à des compétitions organisées sur le plan mondial ou européen par les fédérations internationales ou avec leur coopération ainsi qu´à des stages de préparation de ces compétitions. Il est octroyé, conformément aux conditions et modalités du présent règlement, par le ministre ayant dans ses attributions l´éducation physique et le sport, appelé ci-après le ministre compétent Chapitre A. Détermination des compétitions et des stages de préparation",
+      "text_sha256": "1e043dc9559f63b413cf025a1ccbf0189deee368b573eb39f9cf67db6d71df88",
+      "md_span": {
+        "start": 726,
+        "end": 1371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Sont prises en considération pour l´octroi du congé sportif:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a) pour les Jeux Olympiques d´été et d´hiver, les disciplines sportives figurant au programme officiel des Jeux ainsi que celles des programmes de démonstration autorisés par le Comité International Olympique; b) pour les compétitions mondiales et européennes, celles organisées par les fédérations internationales compétentes ou avec leur coopération et réservées, sur le plan individuel ou collectif, aux sélections ou équipes nationales des catégories d´âge auxquelles elles s´adressent",
+      "text_sha256": "47a887e3da31bde7c86455d480858e038c08a064eae70b3249f29630b5da836f",
+      "md_span": {
+        "start": 1467,
+        "end": 1956
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Le congé sportif peut être octroyé tant pour la ou les phases qualificatives que pour la phase finale",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "des compétitions visées à l´article 2 ci-avant",
+      "text_sha256": "d09bd0860eab28d52856a0a4dc8acb35c16d7be03612fbde25c6f43c707d17e8",
+      "md_span": {
+        "start": 2093,
+        "end": 2139
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Les stages pris en considération pour l´octroi du congé sportif sont ceux auxquels les sportifs d´élite",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "sont inscrits par le Comité Olympique et Sportif Luxembourgeois ou leur fédération et qui ont pour but d´améliorer leurs performances et de parfaire leur état de préparation.",
+      "text_sha256": "7541f2177381387d90288208675ed8aa86d4e9deb0b7a35cd0c4a9d817b28b51",
+      "md_span": {
+        "start": 2278,
+        "end": 2452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Le congé sportif est limité à douze jours ouvrables par an et par bénéficiaire. Exceptionnellement, le",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Gouvernement peut déroger à cette limitation sur proposition motivée du ministre compétent - - - 330 Chapitre B. Détermination des bénéficiaires",
+      "text_sha256": "308d8a31b3e36889065a13cf5b1bac058b5045f00ad8ff484b70c7433427b586",
+      "md_span": {
+        "start": 2590,
+        "end": 2734
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Pour pouvoir bénéficier du congé sportif, les sportifs d´élite doivent être:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1) titulaires, en qualité d´amateurs, d´une licence d´affiliation à une fédération nationale agréée, et 2) qualifiés, en application des règlements du Comité International Olympique ou de la fédération internationale compétente, pour représenter le Grand-Duché de Luxembourg aux compétitions désignées à l´article 2 ci-avant.",
+      "text_sha256": "b30eab263684d906cb0394bd954ce224805deee9af39df6d24f83100486fbff7",
+      "md_span": {
+        "start": 2846,
+        "end": 3171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Le nombre des sportifs pouvant bénéficier du congé sportif pour la participation aux compétitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "et aux stages, désignés aux articles 2 et 4 ci-avant, est limité au nombre maximum d´engagements, les remplaçants compris, auquel le Comité Olympique et Sportif Luxembourgeois ou la fédération nationale intéressée ont droit d´après les règlements du Comité International Olympique ou de la fédération internationale compétente.",
+      "text_sha256": "b83d33a870203e0ec00100d052e80886f53cbce4c7aefac33f04248a3f7ba96b",
+      "md_span": {
+        "start": 3304,
+        "end": 3631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "A l´occasion de la participation aux compétitions, le personnel d´encadrement pouvant bénéficier",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "du congé sportif ne peut pas dépasser deux personnes pour un groupe de dix sportifs ou moins; trois personnes pour un groupe de onze sportifs ou plus. Pour autant que des sportifs de sports différents participent aux Jeux Olympiques il peut être dérogé à ces limitations. A l´occasion des stages de préparation, le personel visé aux alinéas qui précèdent est limité à une personne.",
+      "text_sha256": "9631963774b25fe9e228262554b43929b34207fda4e3bd02f0f7692029beb695",
+      "md_span": {
+        "start": 3763,
+        "end": 4144
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Les entraîneurs professionnels sont exclus du bénéfice du congé sportif.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 4252,
+        "end": 4252
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Pour pouvoir bénéficier du congé sportif en vue de la participation à un stage de préparation, les",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "sportifs et le personnel d´encadrement doivent justifier d´au moins six mois de service auprès du même employeur. Chapitre C. Procédure administrative à suivre pour l´octroi du congé sportif",
+      "text_sha256": "05f582d822f82fd78a1824429801bda39a0804e1a2950edd57ef2d1d3ef58729",
+      "md_span": {
+        "start": 4388,
+        "end": 4578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Les demandes en vue de l´octroi du congé sportif sont introduitres auprès du ministre compétent",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "- par le Comité Olympique et Sportif Luxembourgeois lorsqu´elles concernent les Jeux Olympiques; - par la fédération nationale compétente lorsqu´elles concernent des compétitions mondiales ou européennes; - lorsqu´il s´agit de stages, par le Comité Olympique et Sportif Luxembourgeois ou par la fédération nationale compétente. Lorsque la demande émane de la fédération nationale compétente, le Comité Olympique et Sportif Luxembourgeois est appelé à émettre son avis.",
+      "text_sha256": "6c7262ba59cf36363684edab454eb06c657b7e64895830e5b8adc472b986fbf4",
+      "md_span": {
+        "start": 4711,
+        "end": 5179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Les demandes sont à présenter en double exemplaire sur une formule mise à la disposition du",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Comité Olympique et Sportif Luxembourgeois et des fédérations sportives. Cette demande doit contenir notamment - des données quant à l´état civil et professionnel de l´intéressé; - des détails concernant l´objet, la date et la durée du congé sollicité; - un relevé des jours de congé annuel ou d´autres dispenses de service consacrés par l´intéressé à sa participation à des manifestations et compétitions sportives sur les plans national et international dans l´intérêt de la fédération et de la société sportive dont il relève. En outre cette demande doit contenir: a) pour le sportif d´élite: - des indications quant aux performances sportives susceptibles de justifier sa qualification de sportif d´élite; b) pour le personnel d´encadrement: - une spécification de ses fonctions techniques ou administratives; - une justification de la nécessité de ses services dans l´intérêt d´un ou de plusieurs sportifs d´élite. - - - - 331",
+      "text_sha256": "648cb0bfa69e44e14037f2cc7b75ae97e5c253e4d4b0227250dea00b1a96658f",
+      "md_span": {
+        "start": 5308,
+        "end": 6239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Les demandes sont introduites au moins un mois avant la date du commencement du congé",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "sollicité. Dans le même délai et par les soins de l´organisme demandeur, copie de chaque demande concernant un membre de son personnel est adressée à l´employeur de l´intéressé pour lui permettre de présenter ses observations au ministre compétent",
+      "text_sha256": "6b5ea974b05bfb38f9599357f5f74f6331a896d3e8e4821624cc62bc5871c475",
+      "md_span": {
+        "start": 6362,
+        "end": 6609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Le ministre compétent, après avoir entendu une commission spéciale du conseil supérieur de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l´éducation physique et des sports, accepte ou rejette la demande et fixe, le cas échéant, la durée du congé sportif. La décision du ministre est notifiée à l´organisme demandeur et à l´employeur de l´intéressé, au moins quinze jours avant la date du commencement du congé sollicité.",
+      "text_sha256": "69110f3c65d5b2df19f819b9d8ad16129cb108c467b116136b84c995a17fbd2e",
+      "md_span": {
+        "start": 6737,
+        "end": 7020
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Le congé sportif accordé en vue de la participation à un stage de préparation peut faire l´objet",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "d´une objection de la part de l´employeur si l´absence de l´intéressé risque d´avoir une répercussion préjudiciable sur l´entreprise ou le service. L´objection motivée doit être notifiée par écrit à l´intéressé, à l´organisme demandeur et au ministre compétent. Celui-ci statue à bref délai. Si dans les huit jours de la notification prévue par l´article 14 alinéa 2, l´employeur n´a pas fait d´ojection motivée, la décision ministérielle acceptant la demande est définitive. Chapitre D. Dispositions spéciales",
+      "text_sha256": "0df7c85324eba5a410c2c261e2c27b0000fc0a57d8c70022bc01d5bafc695e9d",
+      "md_span": {
+        "start": 7154,
+        "end": 7664
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Le congé sportif est considéré comme temps de travail effectif. Pendant la durée du congé sportif,",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "les dispositions légales en matière de sécurité sociale et de protection du travail restent applicables.",
+      "text_sha256": "fea2ecf09a5acdbf444cf685345b4ee7a0f48b6615e96625428a06f4884784db",
+      "md_span": {
+        "start": 7800,
+        "end": 7904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "La durée du congé sportif ne peut pas être imputée sur le congé annuel tel qu´il est fixé par la loi",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ou par une convention spéciale.",
+      "text_sha256": "d8fa9f51be157b5cd5256e5f799c6ffbc9858fa624217df4d9883d284501a429",
+      "md_span": {
+        "start": 8042,
+        "end": 8073
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Sauf accord de l´employeur, le congé sportif ne peut pas être rattaché à une période de congé",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "annuel pour le cas où ce cumul causerait une absence continue dépassant la durée totale du congé annuel dû.",
+      "text_sha256": "2cdeee6547ca91ced2f6e4167c067972aa1ed2241296eaa70d4922e45237a7c4",
+      "md_span": {
+        "start": 8204,
+        "end": 8311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Pour les compétirions au sens de l´article 2 ci-dessus, la durée de douze jours de congé sportif est",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "réduite proportionnellement si le nombre de jours de travail, y compris les jours de congé annuel, les jours de maladies dûment certifiés et les jours de repos accordés par la loi ou par une convention spéciale, est inférieur à 125 jours dans les six mois précédant la date du commencement du congé sportif sollicité.",
+      "text_sha256": "0a6df105e937c67331f396747e9d8d91de7d2584d2ea9bb35c94306a84beeda3",
+      "md_span": {
+        "start": 8449,
+        "end": 8766
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Le congé sportif peut être fractionné, chaque fraction ayant deux jours ouvrables au moins.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Chapitre E. Détermination des indemnités et des modalités de paiement",
+      "text_sha256": "07bd40e5c1b7008bfa8341ad1305f10d07d01469387b1300af88896dab73786b",
+      "md_span": {
+        "start": 8895,
+        "end": 8964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Dans le secteur public, les bénéficiaires du congé sportif continuent, pendant la durée du congé, à",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "toucher leur rémunération et à jouir des avantages attachés à leur fonction. Sont considérées comme relevant du secteur public les personnes au service de l´Etat, des organismes parastataux et services publics qui leur sont subordonnées, des communes, des syndicats de communes, des établissements publics placés sous la surveillance des communes ainsi que des chemins de fer luxembourgeois. Les dépenses occasionnées de ce fait sont à charge de l´Etat.",
+      "text_sha256": "ad11dccf36745ed60262be333313c8fb19d87f34d74f51ca80cf6ed885d2a05a",
+      "md_span": {
+        "start": 9101,
+        "end": 9554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Dans le secteur privé, les bénéficiaires du congé sportif ont droit, pour chaque journée de congé, à",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "une indemnité compensatoire égale au salaire journalier moyen tel qu´il est défini par la législation en vigueur portant réglementation uniforme du congé annuel payé des salariés du secteur privé, sans que le montant puisse dépasser trois cents pour cent (300%) du salaire social minimum.",
+      "text_sha256": "e5ed90b625208c25d594b5f885aed218d5858680f2ed1aacdabf7c07f5b8c9e8",
+      "md_span": {
+        "start": 9692,
+        "end": 9980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "Les personnes ercerçant une activité professionnelle indépendante bénéficient d´une indemnité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "compensatoire dont le montant est fixé par analogie avec celui de l´indemnité prévue à l´article 22 ci-avant.",
+      "text_sha256": "4372169e65f6680aa9286016d7a458082e9370d3f0647870c1fff4ac98b59dc4",
+      "md_span": {
+        "start": 10111,
+        "end": 10220
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "Aux ayants droit salariés, l´indemnité compensatoire est payée par l´employeur. Celui-ci touche",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de la part de l´Etat le montant de l´indemnité et la part patronale des cotisations sociales au vu d´une déclaration écrite du Comité Olympique et Sportif Luxembourgeois ou de la fédération sportive compétente certifiant la participation du bénéficiaire intéressé à la manifestation pour laquelle le congé sportif lui a été accordé. Aux ayants droit visés à l´article 23 l´indemnité compensatoire est payée par l´Etat au vu d´une déclaration identique à celle spécifiée ci-dessus. - - 332 Chapitre F. Dispositions finales",
+      "text_sha256": "b396e0c3d30234d9a90abedf3faea92762cbd42d9059ad940affd6451c7598f1",
+      "md_span": {
+        "start": 10353,
+        "end": 10874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": "Dans le mois qui suit la manifestation ayant donné lieu à l´octroi d´un congé sportif ou au paiement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "d´une indemnité compensatoire, le Comité Olympique et Sportif Luxembourgeois ou la fédération sportive concernée remet au ministre compétent un rapport succinct sur la compétition ou le stage auquel a participé le bénéficiaire.",
+      "text_sha256": "a3119b76f8a2c354708dcd86205cd1544ab780e4baa5d2ffc7e2a46689e031e9",
+      "md_span": {
+        "start": 11012,
+        "end": 11239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Notre Ministre ayant dans ses attributions l´éducation physique et les sports est chargé de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l´exécution du présent règlement qui sera publié au Mémorial. Imprimerie de la Cour Victor Buck, s. à r. l., Luxembourg -",
+      "text_sha256": "4ec61d634bc062a4be2eada690bb20f5fc6670fdded32388e37574c354b47e47",
+      "md_span": {
+        "start": 11368,
+        "end": 11489
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "took lines 91..228 of 228 from the gazette issue"
+  ]
+}

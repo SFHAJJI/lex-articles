@@ -1,0 +1,146 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgc-1990-02-23-n1:1991-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/12/1990 : Règlement du Gouvernement en Conseil du 23 février 1990 concernant l'octroi d'un subside aux exploitants agricoles pour l'amélioration de l'infrastructure de stockage de lisier et purin.",
+  "valid_from": "1991-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgc-1990-02-23-n1/versions/1991-01-01/fr.pdf-memorial/eli-etat-leg-memorial-1990-a78-fr-pdf.pdf",
+    "sha256": "95a21acb6f2ed1ddfb034f11a537fef039c611d7e2d48a40bf3e44afc98781eb",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/1990/02/23/n1/consolide/19910101/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgc-1990-02-23-n1:1991-01-01#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Il est créé,dans la limite des crédits budgétaires disponibles,et dans les conditions développées ci-après,une",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "subvention aux exploitants agricoles pour l’amélioration de l’infrastructure de stockage de lisier et purin.",
+      "text_sha256": "9010b89843a54e52194cf485d188f294f5224d0d4377c378144a6056c86b4444",
+      "md_span": {
+        "start": 845,
+        "end": 953
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgc-1990-02-23-n1:1991-01-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "La subvention est allouée",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "— aux exploitants agricoles qui procèdent à un agrandissement de la capacité de stockage individuelle existante couvrant une période minimale de 5 mois consécutifs,à condition que cet agrandissement soit réalisé indépendam- ment de toute modernisation ou nouvelle construction de bâtiments servant à la production animale; — aux associations d’exploitants agricoles qui procèdent à la mise en place d’une capacité de stockage collective nouvelle d’un volume tel que la capacité réunie de fosses individuelles et de la nouvelle fosse à construire corres- ponde à une période minimale de 5 mois consécutifs.",
+      "text_sha256": "f952d704e34d4b0e422293e45ddf94e83317d50e044e708396e85b715faa164f",
+      "md_span": {
+        "start": 1014,
+        "end": 1619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgc-1990-02-23-n1:1991-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Les subventions prévues par le présent règlement ne préjudicient pas aux aides qui sont accordées par l’Etat au",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "titre de la législation en vigueur et en particulier de la loi modifiée du 18 décembre 1986 promouvant le développement de l’agriculture.",
+      "text_sha256": "cccb67b51520169dfdcc5aaa2e919dd6a7c4c7f3e92353a7027c4e890d8414c5",
+      "md_span": {
+        "start": 1766,
+        "end": 1903
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgc-1990-02-23-n1:1991-01-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Règl.gouv.du 7 décembre 1990) «1. Lebénéficedesdispositionsduprésentrèglements’appliqueauxciternesconstruitesentrele1er janvier1990etle31 décembre 1991 inclusivement. 2. Les demandes en vue de l’obtention de la subvention sont à introduire au plus tard pour le 31 décembre 1991.» 3. Les demandes sont à adresser à l’Administration de l’Environnement au moyen du formulaire mis à la disposition des intéressés par celle-ci. 4. L’Administration de l’Environnement notifie au demandeur la suite réservée à sa demande,après avoir pris au préa- lable l’avis de l’Administration des ServicesTechniques de l’Agriculture.",
+      "text_sha256": "7e8e4115da6e9aa716ebb1d3a7c34fb3b705d1981398d7846219865ba012972c",
+      "md_span": {
+        "start": 1938,
+        "end": 2552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgc-1990-02-23-n1:1991-01-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Le montant de la subvention est fixé comme suit:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "— 15% du coût d’investissement avec un maximum de 100.000,— francs pour les agrandissements des capacités de stockage individuelles existantes; — 30% du coût d’investissement avec un maximum de 1.000.000,— francs pour la mise en place d’une capacité de stockage collective nouvelle. Au sens du présent règlement,le coût de l’investissement éligible à la subvention est établi selon les mêmes critères que dans le cadre de la loi modifiée du 18 décembre 1986 promouvant le développement de l’Agriculture.",
+      "text_sha256": "c63d4e59704f88e41211c94b41cd9f621ce833e8dd45d46a00a4482f3df5b641",
+      "md_span": {
+        "start": 2636,
+        "end": 3139
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgc-1990-02-23-n1:1991-01-01#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "La subvention est sujette à restitution si elle a été obtenue par suite de fausses déclarations,de renseignements",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "inexacts ou à cause d’une erreur de l’Administration.",
+      "text_sha256": "4d0136559f0b4a35be877f661134380e58785e4d6f4b5e9fb23a0bbf9811da70",
+      "md_span": {
+        "start": 3288,
+        "end": 3341
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgc-1990-02-23-n1:1991-01-01#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Le ministre de l’Aménagement duTerritoire et de l’Environnement,le ministre des Finances et le ministre de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l’Agriculture,de laViticulture et du Développement Rural sont chargés,chacun en ce qui le concerne,de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "text_sha256": "e2afd0cbc364ccf1df75ad202bbbc2db7ee399c20479c37c87a4c5d6a260d3ec",
+      "md_span": {
+        "start": 3483,
+        "end": 3646
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "stopped at the next act's heading, 36 line(s) in",
+    "took lines 103..139 of 1042 from the gazette issue"
+  ]
+}

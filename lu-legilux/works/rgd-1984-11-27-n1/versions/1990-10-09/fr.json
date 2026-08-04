@@ -1,0 +1,62 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1984-11-27-n1:1990-10-09",
+  "language": "fr",
+  "title": "Version consolidée applicable au 31/10/1989 : Règlement grand-ducal du 27 novembre 1984 portant coordination des dispositions légales et réglementaires relatives à la surveillance du secteur financier.",
+  "valid_from": "1990-10-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1984-11-27-n1/versions/1990-10-09/fr.pdf-memorial/eli-etat-leg-memorial-1991-a1-fr-pdf.pdf",
+    "sha256": "4913e4f6f43006aec39398160426f285014a6d4485199653e681ccfa4eb92934",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/11/27/n1/consolide/19901009/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1984-11-27-n1:1990-10-09#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Pour l’application de l’article 31 b) de la loi du 27 novembre 1984 précitée,la valeur du total des engagements",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "envers un autre établissement de crédit doit être égale ou supérieure à 100 millions de francs.",
+      "text_sha256": "626c5d375259b7f719879278ce686932b66bd24356b1492fd96881219250c67d",
+      "md_span": {
+        "start": 807,
+        "end": 902
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1984-11-27-n1:1990-10-09#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Notre Ministre ayant dans ses attributions l’Institut Monétaire Luxembourgeois, et Notre Ministre de l’Eco-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "nomie et des Classes moyennes sont chargés de l’exécution du présent règlement qui sera publié au Mémorial. Imprimerie de la CourVictor Buck,s. à r. l.,Luxembourg",
+      "text_sha256": "a510c600e064f1eb164e71bc6c816cb7fd949bc84c7d2955a24ae04cf024dfae",
+      "md_span": {
+        "start": 1045,
+        "end": 1207
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "located by date alone; the issue does not name the instrument as the ELI does",
+    "no 'texte coordonné' marker; started at the first article after the act's heading",
+    "took lines 822..827 of 827 from the gazette issue"
+  ]
+}

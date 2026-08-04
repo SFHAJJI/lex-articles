@@ -1,0 +1,417 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/12/1974 : Loi du 22 avril 1966 portant réglementation uniforme du congé annuel payé des salariés du secteur privé.",
+  "valid_from": "1975-03-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1966-04-22-n1/versions/1975-03-16/fr.pdf-memorial/eli-etat-leg-memorial-1979-a77-fr-pdf.pdf",
+    "sha256": "e3cac24cb8ee27454337573bb3dbb9fb8392c6d1dd189c2bf581cf3b0751071f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1966/04/22/n1/consolide/19750316/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Tous les salariés ont droit, chaque année, à un congé de récréation.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 26 juillet 1975). « Les jours de congé payés comptent pour la computation de la durée de travail hebdomadaire. »",
+      "text_sha256": "b0cc29f93f8b966791e58bcbc91a0d14fcf5898473f9ab9ab173c0dbeabab52b",
+      "md_span": {
+        "start": 717,
+        "end": 837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Sont visés par les dispositions de la présente loi tous les ouvriers et employés ainsi que toutes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "les personnes travaillant en vue d´acquérir une formation professionnelle. (Loi du 26 juillet 1975). « Un règlement grand-ducal, pris sur avis du Conseil d´Etat, réglera le droit au congé du personnel occupé dans les entreprises à caractère saisonnier (1) et du personnel occupé dans l´agriculture et la viticulture (2). »",
+      "text_sha256": "b844753082fd53d315bcaa6abb489f3950fc9d37616477cc8b2ae0c2fa5b49f7",
+      "md_span": {
+        "start": 970,
+        "end": 1292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "L´année de congé est l´année de calendrier.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1371,
+        "end": 1371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 26 juillet 1975). « La durée du congé sera d´au moins vingt-cinq jours ouvrables par année, indépendamment de l´âge du salarié. » Un congé supplémentaire de six jours ouvrables est accordé aux invalides de guerre, aux accidentés du travail et aux personnes physiquement diminuées auxquelles a été reconnue la qualité de travail- leurs handicapés conformément à l´article 3 de la loi du 28 avril 1959 concernant la création de l´Office de placement et de rééducation professionnelle des travailleurs handicapés et qui exercent une activité salariée conforme à leur capacité de travail. (Loi du 26 juillet 1975). « Le personnel ouvrier et les employés techniques des mines et minières ont droit à un congé payé supplémentaire de trois jours ouvrables par an. » Les salariés dont le service ne permet pas le repos ininterrompu de quarante-quatre heures par semaine, d´après constatation de l´inspection du travail et des mines, ont droit à un congé supplémen- taire de six jours ouvrables par an. Un règlement d´administration publique déterminera les modalités d´exécution du présent alinéa.",
+      "text_sha256": "07f341c00af79cab34ebec066b715122c53e35c8cf679a4e93b48ec448ddef7d",
+      "md_span": {
+        "start": 1406,
+        "end": 2503
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Sont jours ouvrables tous les jours de calendrier, sauf les dimanches et les jours fériés légaux.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 26 juillet 1975). « Lorsque la durée hebdomadaire de travail se trouve répartie sur cinq jours ouvrables, le jour de repos n´est pas mis en compte pour le congé de récréation. Pour les salariés dont la durée hebdomadaire de travail se trouve répartie sur cinq et demi ou six jours ouvrables, la semaine de congé doit dans tous les cas être mise en compte à raison de cinq jours ouvrables. »",
+      "text_sha256": "15920ceb8f8692086c39bd0e23072b830ed8daa4512c326b9ef3ed25212745f1",
+      "md_span": {
+        "start": 2636,
+        "end": 3034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 26 juillet 1975). « Le droit au congé naît après trois mois de travail ininterrompu auprès du même employeur sauf en cas d´application de l´article 12, alinéa 1er, de la présente loi. » Le congé peut être refusé au salarié aussi longtemps que ses absences injustifiées, calculées sur la partie de l´année déjà écoulée, dépassent dix pour cent du temps pendant lequel il aurait normalement dû travailler. Ne constituent cependant pas des absences injustifiées au sens de l´alinéa précédent et sont assimilées à des journées de travail effectifs: a) les absences pour cause de maladie ou d´accident; b) les absences en vertu d´une autorisation régulière préalable de l´employeur; (1) Règlement grand-ducal du 16 juin 1976 concernant les congés payés du personnel occupé dans les entreprises à caractère saisonnier; (2) Règlement grand-ducal du 28 janvier 1976 concernant les congés payés du personnel occupé dans l´agriculture et la viticulture. 1487 c) les absences motivées par des cas de force majeure ou par des causes indépendantes de la volonté du salarié, et qui ont mis ce dernier dans l´impossibilité de solliciter une autorisation préalable, à l´exception des absences résultant d´une peine d´emprisonnement; d) les jours fériés légaux et les jours de fête payés en vertu d´un contrat individuel ou de conventions collectives de travail; e) les jours de grève légale.",
+      "text_sha256": "1349b92d4615a2c977ab2ce6a233f3be7ff34f009eb9f21d6ec49c5259a78723",
+      "md_span": {
+        "start": 3069,
+        "end": 4452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Le congé de la première année est dû à raison d´un douzième par mois entier de travail.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les fractions de mois de travail dépassant quinze jours de calendrier sont comptées comme mois de travail entier. Les fractions de jours de congé supérieurs à la demie sont considérées comme jours entiers.",
+      "text_sha256": "cf0f56e4c27a0097ba398afe738e4a6b2c779571e5eadba8235c303d0b92cb03",
+      "md_span": {
+        "start": 4575,
+        "end": 4780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Le congé doit être pris en une seule fois, à moins que les besoins du service ou les désirs justi-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "fiés du salarié n´exigent un fractionnement auquel cas une fraction du congé doit être au moins de douze jours continus.",
+      "text_sha256": "7272c2a6b1b7b4149ea31c07fcd66a83edaaa88863f16fd2342799944c4c562d",
+      "md_span": {
+        "start": 4914,
+        "end": 5034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Le congé doit être accordé et pris au cours de l´année de calendrier.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Il peut cependant être reporté à l´année suivante à la demande du salarié s´il s´agit du droit au congé proportionnel de la première année lequel n´a pu être acquis dans sa totalité durant l´année en cours.",
+      "text_sha256": "92b66c99a43f37e0360da4212b0835a3aad29c4a7c56eb514cac242088106bd2",
+      "md_span": {
+        "start": 5139,
+        "end": 5345
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 26 juillet 1975). « Le congé est fixé en principe selon le désir du salarié à moins que les besoins du service et les désirs justifiés d´autres salariés de l´entreprise ne s´y opposent. Dans ce cas, le congé non encore pris à la fin de l´année de calendrier, peut être reporté exceptionnellement jusqu´au 31 mars de l´année qui suit. » Dans tous les cas, si le salarié le demande, le congé doit être fixé au moins un mois à l´avance. En cas de fermeture de l´entreprise pour congés annuels, la période du congé collectif doit être fixée d´un commun accord entre l´employeur et les salariés ou les délégations ouvrières et d´employés s´il en existe. Elle doit être notifiée aux salariés au plus tard au courant du premier trimestre de l´année de référence. Si, en cas de congé collectif, le salarié n´a pas droit au congé en vertu des dispositions de l´article 6, premier alinéa, de la présente loi, ou si la durée du congé auquel il a droit est inférieure à la période de fermeture de l´entreprise, cette période lui est intégralement mise en compte comme congé légal.",
+      "text_sha256": "9f88eacfd81a49fce74c788e5ba9abe32a3f5f2610a0f1d0c83242e16dd95f0e",
+      "md_span": {
+        "start": 5382,
+        "end": 6458
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Les absences prévues à l´article 6 de la présente loi ne peuvent être imputées sur la durée",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "du congé auquel le salarié a droit. De même si pendant le congé de récréation le salarié tombe malade de façon à ne plus pouvoir jouir de ce congé, les journées de maladie reconnues comme telles par certificat médical, ne sont pas consi- dérées comme jours de congé. Si le salarié se trouve au pays, le certificat médical devra être adressé à l´employeur dans les trois jours ouvrables; s´il se trouve à l´étranger l´employeur devra être informé aussi rapidement que pos- sible. La nouvelle fixation du congé doit être convenue d´un commun accord entre l´employeur et le salarié. Les dispenses éventuelles de service dont devra jouir le salarié avec conservation de l´intégralité de son salaire, aux fins d´accomplissement régulier tant de sa mission de membre de la chambre des employés privés ou de la chambre de travail, de celle de membre de la délégation d´employés ou d´ouvriers et de celle d´assesseur au tribunal arbitral en matière de louage de service des employés privés ou du conseil de prud´hommes, que des droits et devoirs civiques à lui octroyés ainsi que des mandats à lui attribués par les lois, arrêtés ou le Gouvernement, ne comptent pas pour la computation des congés susvisés. Pour le cas où le temps à consacrer à l´accomplissement de ces droits, devoirs ou mandats, autres que celui de délégué employé ou ouvrier, paraîtrait excessif, le tribunal arbitral ou, selon le cas, le conseil 1488 de prud´hommes, décidera, sur la demande du patron, s´il y a lieu à réduction de la rémunération du salarié, ou même le cas échéant, à la résiliation du contrat pour motifs graves.",
+      "text_sha256": "0bd8f14450d27e2df52d694418dd2e9ee7c4457cca3e652afc56ec73125f02f7",
+      "md_span": {
+        "start": 6587,
+        "end": 8181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Lorsque le contrat de travail prend fin dans le courant de l´année, le salarié a droit à un",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "douzième de son congé annuel par mois de travail entier sans préjudice des dispositions légales ou conventionnelles relatives au préavis de congédiement. Les fractions de mois de travail dépassant quinze jours de calendrier sont comptées comme mois de travail entier. Si après la résiliation du contrat de travail de la part soit de l´employeur soit du salarié, ce dernier quitte son emploi avant d´avoir joui de la totalité du congé qui lui est dû, l´indemnité correspondant au congé non encore pris lui sera versée au moment de son départ, sans préjudice de ses droits au préavis de congédiement.",
+      "text_sha256": "be9031d22e2c8b4e4f12ffec296c30303cb7e8daaf0b88c063edf6884f7ec5bd",
+      "md_span": {
+        "start": 8310,
+        "end": 8908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Si après la résiliation de la part soit de l´employeur soit du salarié, le contrat de travail",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "est conclu de nouveau endéans les trois mois qui suivent la résiliation, cette interruption n´est pas à considérer comme cessation du contrat de travail entraînant pour le salarié la perte du droit au congé légal. Un changement dans la personne de l´employeur ne portera en aucun cas atteinte aux droits du salarié au congé qui lui est légalement acquis.",
+      "text_sha256": "b11261c917e4c05445785f242ceabb39b980e8c0666bda53d868e6afa8d9a4b4",
+      "md_span": {
+        "start": 9039,
+        "end": 9393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 26 juillet 1975). « Pour chaque jour de congé le salarié a droit à une indemnité égale au salaire journalier moyen des trois mois précédant immédiatement l´entrée en jouissance du congé. Le salaire journalier moyen est établi à partir de la rémunération mensuelle brute du salarié. Il est obtenu en divisant la rémunération mensuelle brute, y compris les accessoires de la rémunération, par cent soixante-treize heures. Si pendant la période de référence prévue pour le calcul de l´indemnité de congé ou pendant la durée du congé interviennent des majorations de rémunération définitives résultant de la loi, de la convention collective ou du contrat individuel de travail, il doit, pour chaque mois, en être tenu compte pour le calcul de l´indemnité de congé. » Pour les salariés dont la rémunération est fixée en pourcentage, au chiffre d´affaires ou sujette à des variations prononcées, la moyenne de la rémunération des douze mois précédents servira de base au calcul de l´indemnité de congé. Pour le calcul de l´indemnité il n´est pas tenu compte des avantages non périodiques, notamment des gratifications et primes de bilan. Les modalités de calcul de l´indemnité telle qu´elle a été précisée aux alinéas qui précèdent, non réglementées par des conventions collectives pourront être fixées par règlement ministériel.",
+      "text_sha256": "bb8d46940210c5a4a762d06efca880117e1b911033ff6e0c7899b71112f4435d",
+      "md_span": {
+        "start": 9430,
+        "end": 10761
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Pendant la durée du congé le salarié ne pourra exécuter aucun travail rémunéré sous peine",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "d´être privé de l´indemnité prévue à l´article précédent.",
+      "text_sha256": "570f96aa22f0679161b5d6fd5ccfebdc77ff27a2b0dcb8d2c516559d6988e9f6",
+      "md_span": {
+        "start": 10888,
+        "end": 10945
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Le salarié obligé de s´absenter de son travail pour des raisons d´ordre personnel aura droit",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "à un congé extraordinaire, fixé à \uF8E7 un jour avant l´enrôlement au service militaire et pour le décès d´un parent ou allié au deuxième degré; \uF8E7 deux jours pour accouchement de l´épouse, le mariage d´un enfant ou en cas de déménagement; \uF8E7 trois jours pour le décès du conjoint ou d´un parent ou allié du premier degré; \uF8E7 six jours pour le mariage du salarié; le tout avec pleine conservation de sa rémunération. 1489 Le salarié a droit au congé extraordinaire sans qu´il doive observer la période d´attente de trois mois prévue à l´article 6 de la présente loi. Si l´événement donnant droit au congé extraordinaire se produit pendant la maladie du salarié, le congé prévu par la présente disposition n´est pas dû. (Loi du 26 juillet 1975). « Les congés extraordinaires ne peuvent être pris qu´au moment où l´événement donnant droit au congé se produit; ils ne pourront pas être reportés sur le congé ordinaire. Toutefois, lorsqu´un jour de congé extraordinaire tombe un dimanche, un jour férié légal, un jour ouvrable chômé ou un jour de repos compensatoire, il doit être reporté sur le premier jour ouvrable qui suit l´événement ou le terme du congé extraordinaire. » Si l´événement se produit durant une période de congé ordinaire, celui-ci est interrompu pendant la durée du congé extraordinaire.",
+      "text_sha256": "c810bddd00ac660ad654a86fdd6ada9f8ff1334de16706f000d4ace8a8ae6b08",
+      "md_span": {
+        "start": 11075,
+        "end": 12372
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "L´employeur est obligé de tenir livre sur le congé légal des salariés qui sont à son service.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les agents de l´Inspection du travail et des mines ont le droit d´exiger la présentation du registre ou fichier pour le contrôler.",
+      "text_sha256": "bdb9d2e728935a93cbe53014e382488455e9a41170dceb2dfe93bcf191c4c568",
+      "md_span": {
+        "start": 12503,
+        "end": 12633
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Il est interdit au salarié de faire abandon du congé auquel il a droit, fût-ce même contre une",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "indemnisation compensatrice sauf l´accord des parties de remplacer le congé par une indemnité de compensation en cas de cessation de la relation de travail conformément aux dispositions de l´article 12, alinéa 3, de la présente loi.",
+      "text_sha256": "dd60999136d8ec357dfcf7355edba585caa01096a40dc680a34b662fff610d51",
+      "md_span": {
+        "start": 12765,
+        "end": 12997
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Il est permis de déroger aux dispositions de la présente loi par conventions collectives. Les",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "réglementations dérogatoires ne peuvent être moins favorables aux salariés que les dispositions légales. Toute stipulation d´une convention collective contraire aux dispositions de l´alinéa précédent est nulle de plein droit.",
+      "text_sha256": "a5b5f7808e5c87a2074f97ac67e6724c2584fa18f12577fee1af0e71a7ff67f1",
+      "md_span": {
+        "start": 13128,
+        "end": 13353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Sont abrogés:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "\uF8E7 la loi du 27 juillet 1950 portant réglementation du congé annuel des salariés; \uF8E7 les alinéas 1 à 7, 9 et 10, 13 à 15 de l´article 10 de la loi du 20 avril 1962 portant réglementation légale du louage de service des employés privés; \uF8E7 l´arrêté grand-ducal du 8 octobre 1945 portant introduction du congé payé des compagnons travaillant dans les entreprises artisanales.",
+      "text_sha256": "b7927ab5f7947b10186ee3996285ebaaf38b5d95190363f5817661c42a7428e9",
+      "md_span": {
+        "start": 13404,
+        "end": 13774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 19 novembre 1975). Les infractions aux dispositions ainsi qu´aux règlements d´exécution de la présente loi sont punies d´une amende de \" deux mille cinq cent et un à cinquante mille francs\" et d´un emprisonnement de huit jours à un mois ou d´une de ces peines seulement. Les dispositions du livre 1er du code pénal ainsi que la loi du 18 juin 1879 portant attribution aux Cours et tribunaux de l´appréciation des circonstances atténuantes, telle qu´elle a été modifiée par la loi du 16 mai 1904 sur le même sujet, sont applicables. Dispositions transitoires",
+      "text_sha256": "8dfe91d38c14d3c243ca1725204b9ac764707b0b548d53457d3cc1ddf9002311",
+      "md_span": {
+        "start": 13811,
+        "end": 14376
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 26 juillet 1975). Supprimé.",
+      "text_sha256": "6fb39ebb9c98525f84a537fd5a07ea954d5730e7a0e16ca69468300855d4d298",
+      "md_span": {
+        "start": 14413,
+        "end": 14448
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "La présente loi sortira ses effets à partir du 1er janvier 1966.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1490 Convention de sauvegarde des Droits de l´Homme et des Libertés fondamentales, signée à Rome, le 4 novembre 1950. (Mémorial 1953, pp. 1099 et ss., pp. 1185, 1332 Mémorial 1954, p. 1034 Mémorial 1955, pp. 1164, 1406 Mémorial 1956, p. 9 Mémorial 1962, A, p. 1062 Mémorial 1965, A, p. 706 et ss. Mémorial 1968, A, p. 150 et ss., p. 591 Mémorial 1970, A, pp. 344, 1173 Mémorial 1972, A, p. 139 Mémorial 1974, A, pp. 1168 et 1169 Mémorial 1975, A, pp. 307 et 308 Mémorial 1979, A, p. 32 et ss., pp. 446, 1020). Il résulte d´une notification du Secrétaire Général du Conseil de l´Europe que le Représentant Per- manent du Royaume-Uni auprès du Conseil de l´Europe a fait savoir au Secrétaire Général, par note du 27 juillet 1979, que le Royaume-Uni a cessé d´assurer, à partir du 12 juillet 1979, les relations internatio- nales pour les îles Gilbert (Kiribati) auxquelles il avait étendu l´application de la Convention des Droits de l´Homme, coformément à l´article 63 de la Convention. En conséquence, la Convention désignée ci-dessus ne s´applique plus à ce territoire. Réglementation au tarif des droits d´entrée. Avis prévu à l´article 10 de la loi générale sur les douanes et accises, coordonnée le 18 juillet 1977, publié au Mémorial par règlement ministériel du 4 octobre 1977 concernant la coordination des dispositions générales relatives aux douanes et accises. En vertu des règlements nos 1818/79, 1821/79 et 1822/79 de la Commission des Communautés euro- péennes du 16 août 1979, les droits d´entrée sont rétablis, à partir du 20 août 1979 pour les produits des positions tarifaires suivantes: a) ex 46.02 \uF8E7 Tresses et articles similaires en matières à tresser, pour tous usages, même assemblés en bandes, à l´exclusion de ceux en matières végétales non filées; matières à tresser tissées à plat ou parallélisées, y compris les nattes de Chine, les paillassons grossiers et les claies; paillons pour bouteilles, originaires de Corée du Sud; b) 73.14 \uF8E7 Fils de fer ou d´acier, nus ou revêtus, à l´exclusion des fils isolés pour l´électricité, originaires de Roumanie; c) 73.31 \uF8E7 Pointes, clous, crampons appointés, agrafes ondulées ou biseautées, pitrons, crochets et punaises, en fonte, fer ou acier, même avec tête en autre matière, à l´exclusion de ceux avec tête en cuivre, originaires de Roumanie. Les droits d´entrée précités étaient suspendus depuis le 1er janvier 1979 consécutivement au règlement n° 3156/78 du Conseil des Communautés européennes du 29 décembre 1978 « portant ouverture de préférences tarifaires pour certains produits originaires de pays et territoires en voie de développement ». \uF8E7 \uF8E7 1491 Règlements communaux. (Les mentions ci-après sont faites en vertu de l´article 4 de l´arrêté royal grand-ducal du 22 octobre 1842 réglant le mode de publication des lois) Bettem bourg. Règlement-taxes sur l´utilisation du centre sportif et culturel. En séance du 25 avril 1979 le Conseil communal de Bettembourg à pris une délibération aux termes de laquelle ledit corps a fixé les redevances pour l´utilisation des locaux du centre sportif et culturel. Ladite délibération a été approuvée par décision ministérielle du 10 juillet 1979 et publiée en due forme. R a m b r o u c h. \uF8E7 Règlement-taxes sur les résidences secondaires. En séance du 22 février 1979 le Conseil communal de Rambrouch a pris une délibération aux termes de laquelle ledit corps a fixé la taxe à percevoir sur les résidences secondaires situées sur le territoire de la commune. Ladite délibération a été approuvée par arrêté grand-ducal du 4 avril 1979 et publiée en due forme. R a m b r o u c h. \uF8E7 Règlement-taxe sur les chiens. En séance du 22 février 1979 le Conseil communal de Rambrouch a pris une délibération aux termes de laquelle ledit corps a fixé la taxe annuelle sur les chiens. Ladite délibération a été approuvée par arrêté grand-ducal du 4 avril 1979 et publiée en due forme. R a m b r o u c h. \uF8E7 Taxes relatives à la fourniture de l´eau. En séance du 22 février 1979 le Conseil communal de Rambrouch a pris une délibération aux termes de laquelle ledit corps a fixé la taxe de location des compteurs d´eau à 120,\uF8E7 francs par an et le prix de l´eau a 15,\uF8E7 francs par m3. Ladite délibération a été approuvée par arrêté grand-ducal du 13 avril 1979 et par décision ministé- rielle du 25 avril 1979 et publiée en due forme. R a m b r o u c h. Règlement-taxes sur la chancellerie. En séance du 22 février 1979 le Conseil communal de Rambrouch a pris une délibération aux fermes de laquelle ledit corps a fixé les taxes de chancellerie. Ladite délibération a été approuvée par arrêté grand-ducal du 4 avril 1979 et publiée en due forme. R a m b r o u c h. \uF8E7 Taxe à percevoir pour la confection de fosses aux cimetières. En séance du 22 février 1979 le Conseil communal de Rambrouch a pris une délibération aux termes de laquelle ledit corps a fixé une taxe à percevoir pour la confection de fosses aux cimetières de la commune. Ladite délibération a été approuvée par arrêté grand-ducal du 4 avril 1979 et publiée en due forme. R a m b r o u c h. \uF8E7 Règlement-taxe sur l´enlèvement des ordures ménagères. En séance du 22 février 1979 le Conseil communal de Rambrouch a pris une délibération aux termes de laquelle ledit corps a édicté un règlement-taxe sur l´enlèvement des ordures ménagères. Ladite délibération a été approuvée par arrêté grand-ducal du 4 avril 1979 et publiée en due forme R a m b r o u c h. \uF8E7 Règlement-taxe sur l´utilisation de la canalisation. En séance du 22 février 1979 le Conseil communal de Rambrouch a pris une délibération aux termes de laquelle ledit corps a édicté un règlement-taxe sur l´utilisation de la canalisation. Ladite délibération a été approuvée par arrêté grand-ducal du 4 avril 1979 et publiée en due forme. R a m b r o u c h. \uF8E7 Taxes à percevoir pour l´octroi de dispenses spéciales pour nuits blanches. En séance du 22 février 1979 le Conseil communal de Rambrouch a pris une délibération aux termes de laquelle ledit corps a fixé les taxes à percevoir pour l´octroi de dispenses spéciales pour nuits blanches. Ladite délibération a été approuvée par arrêté grand-ducal du 4 avril 1979 et publiée en due forme. \uF8E7 1492 R e i s d o r f. \uF8E7 Règlement-taxe sur l´enlèvement des ordures. En séance du 28 décembre 1978 le Conseil communal de Reisdorf a pris une délibération aux termes de laquelle ledit corps a nouvellement fixé, à partir du 1er janvier 1979, les taxes à percevoir pour l´enlè- vement des ordures. Ladite délibération a été approuvée par arrêté grand-ducal du 30 mars 1979 et publiée en due forme. R e i s d o r f. \uF8E7 Taxe annuelle d´utilisation de la canalisation. En séance du 28 décembre 1978 le Conseil communal de Reisdorf a pris une délibération aux termes de laquelle ledit corps a nouvellement fixé, à partir du 1er janvier 1979, la taxe annuelle d´utilisation de de la canalisation. Ladite délibération a été approuvée par arrêté grand-ducal du 30 mars 1979 et publiée en due forme. Waldbillig. Règlement-taxe sur les nuits blanches. En séance du 8 février 1979 le Conseil communal de Waldbillig a pris une délibération aux termes de laquelle ledit corps a fixé les taxes à percevoir sur les nuits blanches. Ladite délibération a été approuvée par arrêté grand-ducal du 22 juin 1979 et publiée en due forme. Imprimerie de la Cour Victor Buck, s. à r. l., Luxembourg \uF8E7",
+      "text_sha256": "343c8320297b4ec41863bdc4bc27cab8287e71849566823b8d5583aafe8f0de7",
+      "md_span": {
+        "start": 14550,
+        "end": 21890
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "took lines 412..699 of 699 from the gazette issue"
+  ]
+}

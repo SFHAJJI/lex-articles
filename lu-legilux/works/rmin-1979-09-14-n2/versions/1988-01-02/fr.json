@@ -1,0 +1,197 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/11/1989 : Règlement ministériel du 14 septembre 1979 concernant l'octroi d'une subvention aux particuliers pour la réalisation d'économies d'énergie dans des habitations existantes.",
+  "valid_from": "1988-01-02",
+  "valid_to": "1990-12-25",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rmin-1979-09-14-n2/versions/1988-01-02/fr.pdf-memorial/eli-etat-leg-memorial-1988-a5-fr-pdf.pdf",
+    "sha256": "8de6ac56e1d6c7e6b2854870e4fef993ec62cd77362770a89d38b287f772874f",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1979/09/14/n2/consolide/19880102/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "L´assuré peut continuer son assurance conformément à l´article 173 du code des assurances sociales en présen-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "tant une demande écrite à la caisse de pension auprès de laquelle il était affilié en dernier lieu. Peut compléter par des cotisations volontaires celles versées au titre de l´assurance obligatoire, l´assuré qui justifie de douze mois d´assurance au titre de l´article 171 du code des assurances sociales pendant une période de trois années précé- dant la demande. Cette période de référence de trois ans est étendue pour autant et dans la mesure où elle se superpose à des périodes visées à l´article 172, 1) à 5) ou à l´article 173 du code des assurances sociales. La demande pour l´assurance continuée vaut également comme demande au titre de l´assurance complémentaire et inversément.",
+      "text_sha256": "4fa7447acece3fd1a116a9093a481c032a40cf214a93b1f99ec93f67dccd3cbc",
+      "md_span": {
+        "start": 837,
+        "end": 1525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "L´assurance continuée et l´assurance complémentaire prennent effet au premier jour du mois suivant celui de la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "demande; en cas d´assurance continuée, l´intéressé peut demander qu´elle prenne effet au premier jour du mois suivant celui de la perte de l´affiliation.",
+      "text_sha256": "2b7532625fb317361026fa91eff0e75e318000f4b7e4f3fa448455ca8791679b",
+      "md_span": {
+        "start": 1671,
+        "end": 1824
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "L´assiette de cotisation ne peut être inférieure au salaire social minimum de référence mensuel, ni supérieure au",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "quadruple de ce salaire. Compte tenu des dispositions prévisées, l´intéressé est libre de fixer l´assiette de cotisation sans cependant pouvoir dépasser le plafond fixé à l´article 226 du code des assurances sociales. En cas d´assurance complémentaire, l´assiette prévisée comprend l´assiette résultant de l´assurance obligatoire. L´opion retenue au moment de la demande vaut pour les exercices subséquents, sauf adaptation à opérer au mois de janvier de chaque année.",
+      "text_sha256": "7a2da3550e3c9c298f1d838e9e8564020ce45e97861367052cbdece7ddf82b0a",
+      "md_span": {
+        "start": 1973,
+        "end": 2441
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Les cotisations calculées sur base de l´assiette prévue à l´article 3 ci-dessus sont réclamées sous forme d´avances",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "par extraits de compte mensuels, sous réserve d´une régularisation à la clôture de l´exercice.",
+      "text_sha256": "c66e379802527c2c19f3e56866d0d7ef98e2903992329022d08abe88ec08e5bb",
+      "md_span": {
+        "start": 2592,
+        "end": 2686
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Pour les assurés exerçant une activité pour leur propre compte, toute cotisation indûment payée au titre de l´as-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "surance obligatoire peut être portée en compte comme cotisation de l´assurance continuée pour les périodes afférentes si l´assurance continuée est recevable pour ces périodes.",
+      "text_sha256": "392ecf882b6cc0eaa065db4fe15e564201557382c5e7f72d6342f6339071c85d",
+      "md_span": {
+        "start": 2835,
+        "end": 3010
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "L´assurance continuée ou complémentaire n´ouvre droit à des prestations que pour autant qu´elle soit valable-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ment couverte de cotisations. Les sommes qui auraient été acceptées contrairement aux dispositions légales ou réglementaires sont remboursées et n´entrent pas en ligne de compte pour la détermination des droits de l´assuré.",
+      "text_sha256": "6cd3c85864227a7ba24bbb42a498014d6c3e00f0cbc41384e649c1d5a762453a",
+      "md_span": {
+        "start": 3155,
+        "end": 3378
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "L´assurance est résiliée sur déclaration écrite de l´intéressé ou en cas de non paiement des cotisations dans un",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "délai de trois mois à partir de la mise en demeure notifiée par lettre recommandée dans les trois mois de l´extrait de compte. Dispositions transitoires et abrogatoires",
+      "text_sha256": "4ada5676b749d67cfbc39533e14d5e27608cc780b04a0d3c9db4e90edf419e6e",
+      "md_span": {
+        "start": 3526,
+        "end": 3694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Les articles 2 à 7 du présent règlement s´appliquent également aux assurances continuées ou complémentaires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "en cours au 31 décembre 1987.",
+      "text_sha256": "2148546631bbb31a4b28aed4ec4bed0af9a75e980344a53c08266807829e1f73",
+      "md_span": {
+        "start": 3837,
+        "end": 3866
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Sont abrogés:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "le règlement grand-ducal du 27 décembre 1984 portant réglementation de l´assurance pension volontaire; le règlement grand-ducal du 7 mars 1977 portant réglementation de l´assurance près de la caisse de pension des arti- sans, des commerçants et industriels; l´arrêté grand-ducal du 20 octobre 1958 portant réglementation de la continuation de l´assurance près de la caisse de pension agricole. \uF8E7 \uF8E7 \uF8E7 50 Entrée en vigueur",
+      "text_sha256": "4e97866142f03b627cc65a50cd749de481b535a2a4e2e549ba8ea0137dc983a1",
+      "md_span": {
+        "start": 3915,
+        "end": 4335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rmin-1979-09-14-n2:1988-01-02#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Notre Ministre de la sécurité sociale et Notre Ministre des finances sont chargés, chacun en ce qui le concerne,",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de l´exécution du présent règlement qui est publié au Mémorial et qui entre en vigueur le 1er janvier 1988. Le Ministre de la Sécurité sociale, Château de Berg, le 29 janvier 1988. Benny Berg Jean Le Ministre des Finances, Jacques Santer",
+      "text_sha256": "d8459a2b79bc79a621198c89738c7f72187d42b2381288814616d0c129958f69",
+      "md_span": {
+        "start": 4485,
+        "end": 4722
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "stopped at the next act's heading, 151 line(s) in",
+    "took lines 23..174 of 457 from the gazette issue"
+  ]
+}

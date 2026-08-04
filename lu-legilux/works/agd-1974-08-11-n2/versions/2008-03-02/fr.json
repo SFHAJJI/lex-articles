@@ -1,0 +1,63 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:agd-1974-08-11-n2:2008-03-02",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/03/2008 : Arrêté grand-ducal du 11 août 1974 portant énumération des sociétés anonymes visées à l’article 22 paragraphe (2) de la loi du 6 mai 1974 instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes.",
+  "valid_from": "2008-03-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/agd-1974-08-11-n2/versions/2008-03-02/fr.xml",
+    "sha256": "f36d9e19265fc7141c688d0c7dd7d6fca813731263bde0d7856816a6aa60dffb",
+    "source_uri": "https://legilux.public.lu/eli/etat/adm/agd/1974/08/11/n2/consolide/20080302/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:agd-1974-08-11-n2:2008-03-02#art_1er",
+      "eli": "http://data.legilux.public.lu/eli/etat/adm/agd/1974/08/11/n2/art_1er/20080302",
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "2008-03-02",
+      "text_md": "Sont visées par les dispositions du paragraphe (2) de l'article 22 de la loi du 6 mai 1974 instituant des comités mixtes dans les entreprises du secteur privé et organisant la représentation des salariés dans les sociétés anonymes, les entreprises énumérées ci-après :\n\n1. la Compagnie Grand-Ducale d'Electricité du Luxembourg (CEGEDEL), Société Anonyme ;\n2. la Société Anonyme Luxembourgeoise de Navigation Aérienne, LUXAIR ;\n3. la Compagnie Luxembourgeoise de Télédiffusion (CLT), Société Anonyme.\n4. Société de l'Aéroport de Luxembourg S.A. lux-Airport.",
+      "text_sha256": "b90962c1d638c4ef81b950c704aea8bc91860a252e794fd3234ed8c365ab6cdc",
+      "md_span": {
+        "start": 813,
+        "end": 1369
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1974/05/06/n1/jo",
+          "text": "loi du 6 mai 1974"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:agd-1974-08-11-n2:2008-03-02#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/adm/agd/1974/08/11/n2/art_2/19740920",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": "1974-09-20",
+      "text_md": "Notre Ministre d'Etat, Président du Gouvernement, Notre Ministre du Travail et de la Sécurité sociale, Notre Ministre des Transports et de l'Energie sont chargés chacun en ce qui le concerne de l'exécution du présent arrêté qui sera publié au Mémorial.",
+      "text_sha256": "217f6d290c7b7a8d91e9aed6b9843f12f7d7a914b79ed183a0c6799b89bbb712",
+      "md_span": {
+        "start": 1404,
+        "end": 1656
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

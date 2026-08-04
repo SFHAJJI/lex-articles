@@ -1,0 +1,143 @@
+---
+lex_id: 'lu-legilux:loi-1937-06-07-n1:1989-06-09'
+title: 'Version consolidée applicable au 06/12/1988 : Loi du 7 juin 1937, ayant pour objet la réforme de la loi du 31 octobre 1919, portant règlement légal du louage de service des employés privés.'
+valid_from: '1989-06-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/consolide/19890609/fr'
+source_sha256: '0764f6134adac0c81fe67d800ee8b772092a4e02562c0a7e10c58329c73cfd03'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'pdf-memorial-lu/1 · lex derive'
+---
+
+<a id="art_1er"></a>
+
+### Art. 1er. et 2. (Abrogés par la loi du 24 mai 1989 sur le contrat de travail)
+
+
+
+<a id="art_3"></a>
+
+### Art. 3.
+
+(Loi du 12 novembre 1971) «Sont à considérer comme employés privés pour l´application de la présente loi et de ses règlements d´exécution, toutes les personnes qui, sans distinction de sexe ou d´âge, exécutent sur la base d´un engage- ment durable ou d´une façon continue pour le compte d´autrui et contre rémunération soit en numéraire, soit en d´autres prestations ou valeurs, en tout ou en partie, un travail d´une nature, sinon exclusivement, du moins principalement intellec- tuelle. Il n´en est pas ainsi toutefois des personnes travaillant pour compte de l´Etat, des communes et autres établissements publics, lorsqu´elles bénéficient d´un statut légal ou réglementaire plus favorable.» (Loi du 20 avril 1962) «Par application de la définition générale qui précède, sont à considérer notamment comme employés privés au sens de la loi: toutes les personnes de l´un ou de l´autre sexe qui exercent, sous quelque dénomination que ce soit, une occupation de la nature de celles déterminées ci-après: a) direction d´entreprises et sections d´entreprises, directeurs, gérants, proviseurs de pharmacie; b) surveillance et contrôle comportant la responsabilité, au point de vue technique et économique du travail d´autres personnes, sans participation prépondérante au travail manuel  chefs d´atelier, chefs de chantier, porions, contre- maîtres, chefs d´équipe, chefs-machinistes; c) gardiens d´usine et de fabrique; d) travaux de bureau proprement dits tels que travaux de correspondance, de comptabilité, de calcul, de caisse, d´encais- sement, de dessin, d´écriture, enregistrement des actes, services du téléphone et autres travaux analogues à l´exclu- sion des travaux principalement physiques tels que nettoyage et courses; e) activité de vendeur et de vendeuse; activité de magasinage pour autant qu´elle exige soit une formation spéciale, soit une habileté spéciale; f) activité de voyageur, représentant et agent, qu´ils travaillent pour le compte d´une ou de plusieurs firmes et quel que soit le mode de leur rémunération, pourvu qu´ils ne mettent en oeuvre un agencement industriel ou commercial personnel complet; g) exercice d´arts libéraux, sans égard à la valeur artistique des productions,  chanteurs, musiciens, personnel artis- tique des théâtres et des stations d´émission de radio-télévision; h) enseignement, éducation, travail social et soins aux malades, pourvu que ces emplois exigent une formation scolaire ou professionnelle et ne consistent pas principalement en soins corporels ou d´hygiène; i) travail d´auxiliaires médicaux, de techniciens-dentistes, de laborants, d´infirmiers, d´assistance et de réception dans les cabinets médicaux.» Dispositions générales
+
+<a id="art_4"></a>
+
+### Art. 4. et 5. (Abrogés par la loi du 24 mai 1989 sur le contrat de travail)
+
+ 1343
+
+<a id="art_6"></a>
+
+### Art. 6.
+
+(Loi du 12 novembre 1971 ) I. De la durée du travail A. Principes généraux 1. Sans préjudice des dérogations prévues au présent article, la durée normale du travail des employés ne pourra excéder huit heures par jour et quarante heures par semaine. 2. On entend par durée du travail le temps pendant lequel l´employé est à la disposition de son ou de ses employeurs, s´il en a plusieurs; sont exclues les périodes de repos pendant lesquelles l´employé n´est pas à la disposition de son ou de ses employeurs. Pour les catégories d´employés occupés à des travaux essentiellement intermittents, des conventions collectives de travail et, à défaut, des règlements d´administration publique pourront déterminer le temps pendant lequel l´employé est à la disposition de son ou de ses employeurs. B. Dérogations  Le régime des dérogations compensatoires.  3. Lorsque les heures de travail hebdomadaires sont réparties sur moins de cinq jours ouvrables, la durée normale du travail peut être portée jusqu´à neuf heures par jour. 4. Lorsque les conditions spécifiques à certaines branches d´activité ou à certaines entreprises l´exigent, le ministre du travail pourra, suivant les modalités et sous les conditions qu´il détermine, et après avis préalable de la délégation d´employés, autoriser la répartition de la durée du travail sur une période de deux semaines sans que la durée journalière du travail puisse excéder dix heures. Dans les entreprises où le travail, à raison de sa nature, ne souffre ni interruption ni retard, ou est organisé par équipes successives, la période de référence prévue à l´alinéa qui précède peut être portée à quatre semaines. (Loi du 1er août 1988) «Le ministre du travail peut étendre la période de référence prévue à l´alinéa 1er du présent para- graphe sur une période d´une année au plus pour le calcul de la durée du travail des employés dont la présence est indispen- sable pour assurer le fonctionnement normal des entreprises saisonnières et des employés visés au paragraphe 18 du présent article.» Lorsqu´une convention collective de travail déclarée d´obligation générale détermine les conditions de travail des employés de la branche ou de l´entreprise intéressées, le ministre du travail demandera au préalable l´avis des organisations professionnelles et syndicales parties à la convention, lequel remplacera dans ce cas celui de la délégation d´employés prévu au point 15 du présent article. Il sera fait abstraction de la consultation prévue à l´alinéa qui précède lorsque la durée du travail aura été fixée par conven- tion collective tenant compte de façon explicite des conditions spécifiques inhérentes à la branche ou à l´entreprise auxquelles elle se rapporte. 5. Les heures de travail perdues par suite de cause accidentelle ou de force majeure, tels que accidents survenus aux installations, sinistres, intempéries, interruptions de la force motrice, de la lumière, du chauffage ou de l´eau, pourront être récupérées à raison d´une heure par jour. Les récupérations ne pourront avoir lieu pendant plus de quinze jours par an et devront être effectuées dans le mois suivant la reprise du travail. L´inspection du travail et des mines devra être informée avant le commencement de la récupération des heures perdues, de la nature, de la cause et de la date de l´arrêt collectif, du nombre des heures perdues et des modifications temporaires prévues à l´horaire.  Le régime de travail supplémentaire.  6. Est à considérer comme travail supplémentaire tout travail effectué au-delà des limites journalières et hebdomadaires de la durée normale du travail déterminées par la loi ou les parties. Toutefois dans les cas prévus aux points 3, 4 et 5 du présent article seul le travail effectué en dehors des conditions et au-delà des limites fixées par ces points, doit être considéré comme travail supplémentaire. 7. Toute prestation d´heures supplémentaires est subordonnée à une autorisation préalable du ministre du travail à déli- vrer suivant les modalités prévues sub IV du présent article. Le recours à des heures supplémentaires est limité aux cas exceptionnels suivants: a) pour prévenir la perte de matières périssables ou éviter de compromettre le résultat technique du travail; b) pour permettre des travaux spéciaux tels que l´établissement d´inventaires et de bilans, les échéances, les liquidations et les arrêtés de compte; c) pour permettre aux établissements de faire face à des surcroîts de travail extraordinaires provenant de circonstances particulières pour autant que l´on ne puisse normalement attendre de l´employeur qu´il ait recours à d´autres mesures;* * (Loi du 24 décembre 1977)
+
+<a id="art_13"></a>
+
+### Art. 13.
+
+(2) Le point c de l´article 6, paragraphe (7) de la loi du 7 juin 1937 modifié par la loi du 12 novembre 1971 portant réforme du règlement légal du louage de service des employés privés est suspendu. (3) Toutefois, pendant la période de suspension des dispositions visées au paragraphe qui précède, le ministre du travail peut accorder des autorisations exceptionnelles de prester des heures supplémentaires dans des cas dûment justifiés et sans incidence directe sur le marché du travail. A cet effet l´employeur introduit auprès de l´inspection du travail et des mines une requête motivée assortie de justifications sur les circons- tances exceptionnelles qui la motivent et sur les raisons susceptibles d´exclure le recours à l´embauche de travailleurs salariés complémen- taires; la requête doit être accompagnée de l´avis de la délégation d´entreprise s´il en existe. Le ministre du travail statue sur la base de rapports établis par l´inspection du travail et des mines et par l´administration de l´emploi. 1344 d) dans des cas exceptionnels qui s´imposeraient dans l´intérêt public et en cas d´événements présentant un danger national. 8. Aucune autorisation pour heures supplémentaires ne sera cependant requise pour: a) des travaux entrepris en vue de faire face à un accident survenu ou imminent; b) des travaux d´urgence à effectuer aux machines et à l´outillage et des travaux commandés par un cas de force majeure mais uniquement dans la mesure nécessaire pour éviter une entrave sérieuse à la marche normale de l´établissement. Dans ce cas le chef d´entreprise devra informer l´inspection du travail et des mines avec indication des motifs ayant entraîné la prestation d´heures supplémentaires. Si les heures supplémentaires consacrées à l´accomplissement des travaux visés sub a) et b) de l´alinéa qui précède se répartissent sur plus de trois jours par mois une autorisation du ministre du travail sera requise. 9. Dans les secteurs, branches ou entreprises souffrant d´une pénurie de main-d´oeuvre et dont le rendement n´est pas susceptible d´être notablement amélioré par des mesures d´organisation du travail, de mécanisation ou de rationalisation, des conventions collectives de travail peuvent déroger au régime légal sur la durée du travail des employés sans que le total des heures de travail puisse dépasser dix heures par jour et quarante-quatre heures par semaine. Pour sortir leurs effets au regard de la présente disposition de telles conventions collectives devront être approuvées au préalable par le ministre du travail. La durée de ces dérogations au régime légal sur la durée du travail ne pourra excéder deux ans. 10. Sans préjudice des heures supplémentaires prestées au titre des points 9 et 18 du présent article, il ne pourra être effectué en aucun cas plus de deux heures supplémentaires par jour; la durée journalière totale du travail ne pourra excéder dix heures. Toutefois, les limitations prévues à l´alinéa qui précède ne sont pas applicables aux travaux visés au point 8 du présent article. II. «Du travail des jours fériés légaux»* (Loi du 1er août 1988) «11. Tout travail de jour férié légal est subordonné à une autorisation du ministre du travail suivant les modalités prévues au point 15 du présent article. L´autorisation ne sera donnée qu´en raison d´impérieuses nécessités de service. Au sens des dispositions de l´alinéa qui précède, il y a nécessité impérieuse de service lorsque la présence de l´employé dans l´entreprise est indispensable pour en assurer le fonctionnement normal ou la surveillance du personnel.» III. Des majorations de rémunération 12. L´employé a droit pour chaque heure supplémentaire à son salaire horaire normal tel qu´il est convenu au contrat, majoré de 50% au moins. (Loi du 10 avril 1976) «L´employé a droit pour chaque heure travaillée lors d´un jour férié légal à son salaire horaire normal, tel qu´il est convenu au contrat majoré de 100% ainsi qu´à l´indemnité prévue par l´article 6 de la loi du 10 avril 1976 portant réforme de la réglementation des jours fériés légaux. Si les heures travaillées lors d´un jour férié légal sont compensées par un repos correspondant payé, seuls sont dus les suppléments de 100% ainsi que l´indemnité prévue par l´article 6 de la loi du 10 avril 1976 portant réforme de la réglemen- taion des jours fériés légaux.» Le salaire horaire normal prévu aux alinéas qui précèdent est calculé selon les dispositions du point 13 du présent article. 13. Le salaire horaire est obtenu en divisant les appointements mensuels par le nombre forfaitaire de cent soixante- treize heures. 14. (Abrogé par la loi du 24 mai 1989 sur le contrat de travail) IV. De la délivrance des autorisations ministérielles 15. Pour obtenir les autorisations ministérielles prévues aux alinéas qui précèdent, il sera procédé de la façon suivante: La demande en autorisation avec l´avis de la délégation d´employés, s´il en existe, sera adressée directement à l´inspection du travail et des mines qui transmettra le dossier avec son avis au ministre du travail. Lorsqu´une délégation est requise d´émettre l´avis prévu à l´alinéa qui précède, elle sera tenue de se prononcer dans les trois jours. L´autorisation sera toujours préalable et écrite. V. De la tenue d´un registre spécial 16. L´employeur est tenu d´inscrire sur un registre spécial ou sur un fichier toutes les prolongations de la durée normale du travail, les heures prestées les dimanches et jours fériés légaux ainsi que les rétributions payées de l´un ou de l´autre de ces chefs. Ce registre ou fichier est à présenter à toute demande de la part du délégué de l´inspection du travail et des mines. VI. Dérogations (Loi du 1er août 1988) «17. Les dispositions du présent article ne sont pas applicables: a) aux établissements dans lesquels sont seuls occupés les ascendants, descendants, frères et soeurs ou alliés au même degré de l´employeur; b) aux voyageurs et représentants de commerce, dans la mesure où ils exercent leur travail en dehors de l´établissement; c) aux personnes occupant un poste de direction effective ainsi qu´aux cadres supérieurs dont la présence à l´entreprise est indispensable pour en assurer le fonctionnement et la surveillance.» * Travail de dimanche: Voir loi du 1er août 1988 concernant le repos hebdomadaire des employés et ouvriers. 1345 (Loi du 1er août 1988) «18. Les dispositions du paragraphe 11 du présent article ne sont pas applicables: a) aux employés occupés dans les entreprises hôtelières, les entreprises de la restauration, les cantines, les débits de boissons et autres établissements où sont servies des consommations; b) aux employés des entreprises de spectacles et de divertissements; c) aux employés et équipages affectés au transport de personnes ou de marchandises; d) aux employés occupés dans les établissements ayant pour objet le traitement ou l´hospitalisation des malades, des infirmes, des indigents et des aliénés, dans les dispensaires, les maisons pour enfants, les sanatoriums, les maisons de repos, les maisons de retraite, les colonies de vacances, les orphelinats et les internats.» VII. Dispositions transitoires et finales 19. Lorsqu´un jour de repos compensatoire tombe dans une semaine comprenant un jour férié légal, le jour de repos compensatoire peut être reporté d´un commun accord des parties en cause dans une autre période de l´année. Il peut être également ajouté à la durée du congé payé.»
+
+<a id="art_7"></a>
+
+### Art. 7.
+
+(Loi du 24 mai 1989) «Le salaire stipulé en numéraire sera payé chaque mois, et ce au plus tard le dernier jour du mois de calendrier afférent. En cas de besoins particuliers, légitimes et urgents, l´employé pourra obtenir le versement anticipatif de la fraction du salaire correspondant au travail accompli. Les émoluments accessoires à la rémunération en numéraire, tels que tantièmes, remises, gratifications, primes ou autres de même nature, sont réglés au plus tard dans les deux mois suivant soit l´année de service, soit la clôture de l´exercice commercial, soit l´établissement du résultat de ce dernier.»
+
+<a id="art_8"></a>
+
+### Art. 8.
+
+(Abrogé par la loi du 24 mai 1989 sur le contrat de travail)
+
+<a id="art_9"></a>
+
+### Art. 9.
+
+(Loi du 20 avril 1962) «Sauf dans les cas exceptionnels autorisés par l´article 10, alinéa 8, l´employé jouira d´un repos hebdomadaire de quarante-quatre heures ininterrompues. Ce temps de repos coïncidera, dans la mesure du possible, avec le jour du dimanche.»
+
+<a id="art_10"></a>
+
+### Art. 10.
+
+(Loi du 22 avril 1966) «Les employés dont le service ne permet pas le repos ininterrompu de quarante-quatre heures par semaine, d´après constatation de l´inspection du travail et des mines, ont droit à un congé supplémentaire de six jours. Les jours fériés légalement fixés sont applicables à tous les employés privés sans exception, y compris les représentants de commerce à caractère d´employé privé payés à la commission.»
+
+<a id="art_11"></a>
+
+### Art. 11. L´employé ne peut être obligé par contrat ou ordre de service de participer aux frais d´institutions ayant pour
+
+but l´amélioration du sort des employés et de leurs familles qu´à la condition: 1° que le patron ne touche aucun profit commercial de l´institution; 2° qu´il contribue d´une façon sensible aux frais de l´institution; 3° que le capital de l´institution, en ce qui concerne les cotisations des employés, soit garanti et réservé à ceux-ci; même en cas de faillite du patron; 4° que la délégation d´employés ou toute autre représentation de ceux-ci librement choisie, prenne avec le patron une part égale à l´administration de l´institution.
+
+<a id="art_12"></a>
+
+### Art. 12. et 13. (Abrogés par la loi du 24 mai 1989 sur le contrat de travail)
+
+
+
+<a id="art_14"></a>
+
+### Art. 14.
+
+(Abrogé par la loi du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions et rentes) De la cessation du contrat
+
+<a id="art_15"></a>
+
+### Art. 15. à 23. (Abrogés par la loi du 24 mai 1989 sur le contrat de travail)
+
+Des délégations d´employés*
+
+<a id="art_24"></a>
+
+### Art. 24.
+
+(Abrogé par la loi du 18 mai 1979 portant réforme des délégations du personnel)
+
+<a id="art_25"></a>
+
+### Art. 25.
+
+(Abrogé par la loi du 24 mai 1989 sur le contrat de travail) Des contestations relatives au contrat de louage
+
+<a id="art_26"></a>
+
+### Art. 26.
+
+(Loi du 12 avril 1972) «Toutes les contestations relatives aux engagements entre patrons et employés seront jugées par un tribunal arbitral à établir auprès de chaque justice de paix.» (Loi du 14 août 1976) «Chaque tribunal sera composé d´un juge de paix ou de son suppléant comme président et de deux assesseurs, dont l´un sera choisi parmi les patrons et l´autre parmi les employés âgés de 21 ans. Ces assesseurs, ainsi que dix suppléants, dont cinq également patrons et cinq employés seront nommés par le ministre du travail pour une période de trois ans; leur mandat est renouvelable.» * II convient de se référer aux textes suivants:  Loi du 18 mai 1979 portant réforme des délégations du personnel (Mémorial A 1979, p. 947);  Loi du 3 avril 1980 portant modification des articles 3, 21 et 27 de la loi du 18 mai 1979 portant réforme des délégations du personnel (Mémorial A 1980, p. 400);  Règlement grand-ducal du 21 septembre 1979 concernant les opérations électorales pour la désignation des délégués du personnel (Mémorial A 1979, p. 1458). 1346 A l´expiration de leur mandat, les assesseurs titulaires et les assesseurs suppléants restent en fonction jusqu´à ce qu´il soit pourvu à leur remplacement ou au renouvellement de leur mandat. En cas de vacance de l´un ou de l´autre des sièges d´assesseurs par suite de décès, de démission ou autrement, le Gouver- nement pourvoira à son remplacement. Le remplaçant remplira le mandat de son prédécesseur. Les assesseurs ne pourront siéger dans aucune affaire dans laquelle, soit eux-mêmes, soit leurs parents ou alliés jusqu´au quatrième degré inclusivement ont un intérêt personnel. De même, ils ne pourront prendre part aux délibérations sur les affaires dans lesquelles ils ont déjà connu en une autre qualité. Ils pourront, en outre, être récusés pour les causes énoncées dans l´article 378 C. pr. c. Lorsque le tribunal est constitué sur la convocation du président, chaque assesseur prêtera le serment de remplir ses fonctions avec impartialité et de garder le secret des délibérations. (Loi du 20 avril 1962) «Les assesseurs aux tribunaux arbitraux en matière de louage de service des employés privés auront droit, à charge de l´Etat, aux jetons de présence et aux frais de route à fixer par arrêté ministériel.» Tout assesseur qui, sans cause légale ou sans motif légitime, manque à l´une des audiences ou refuse de prendre part à la délibération, encourt une amende de 16 à 100 Fr. L´amende est prononcée par le juge de paix qui statue en dernier ressort sur l´opposition formée par l´assesseur condamné. Lorsque le tribunal ne pourra se composer régulièrement pour l´une ou l´autre cause, le juge de paix appellera, après avoir entendu les parties en remplacement des assesseurs effectifs ou suppléants défaillants, d´autres patrons respectivement employés, soit de son ressort, soit même en dehors de ce dernier. Les audiences de cette juridiction auront lieu au local de la justice de paix du canton, aux jours et heures à fixer par le juge de paix.
+
+<a id="art_27"></a>
+
+### Art. 27. Le tribunal compétent est celui du lieu de l´entreprise dans le Grand-Duché.
+
+
+
+<a id="art_28"></a>
+
+### Art. 28.
+
+(Loi du 20 avril 1962) «Le tribunal arbitral connaîra en dernier ressort des contestations jusqu´à la valeur de douze mille francs en principal et à charge d´appel de tous les autres litiges.» La procédure à suivre devant le tribunal arbitral et devant la Cour supérieure de justice pour l´introduction, l´instruction et le jugement des contestations relatives aux engagements entre patrons et employés, sera réglée par un règlement d´administration publique. (Loi du 20 avril 1962) «En toute instance, y compris celle de cassation, tous les actes de la procédure seront libres de tous droits de timbres et d´enregistrement.»
+
+<a id="art_29"></a>
+
+### Art. 29. Par les termes de «salaire, rémunération, appointements», employés dans les dispositions de la présente loi, il
+
+faut entendre la rétribution globale de l´employé, comprenant, en dehors du taux en numéraire, les autres avantages et rétributions accessoires éventuels, tels que notamment les gratifications, tantièmes, remises, primes, logements gratuits et autres valeurs quelconques de même nature.
+
+<a id="art_30"></a>
+
+### Art. 30. Un règlement d´administration publique édictera les mesures nécessaires pour l´exécution de la présente loi.
+
+Il déterminera également les entreprises qui, à raison des exigences particulières du service, sont à dispenser provisoire- ment, en tout ou en partie, de l´observation de l´une ou de l´autre des prestations de la présente loi. Sanctions
+
+<a id="art_31"></a>
+
+### Art. 31.
+
+(Loi du 24 mai 1989) «Les infractions aux articles 6, 9 et 10 sont punies d´une amende de 2.501.- à 150.000,- francs et d´un emprisonnement de huit jours à un mois ou d´une de ces peines seulement. Ces infractions se prescrivent par le terme de trois ans. Le livre Ier du Code pénal ainsi que la loi modifiée du 18 juin 1879 portant attribution aux Cour et tribunaux de l´apprécia- tion des circonstances atténuantes, sont applicables auxdites infractions.» Dispositions transitoires
+
+<a id="art_32"></a>
+
+### Art. 32. Les dispositions de la présente loi sont également applicables aux engagements en cours lors de sa mise en
+
+vigueur. Les avantages éventuels existant en faveur de l´employé avant la mise en vigueur de la présente loi ne peuvent être abrogés à son égard. Imprimerie de la Cour Victor Buck, s. à r. l., Luxembourg

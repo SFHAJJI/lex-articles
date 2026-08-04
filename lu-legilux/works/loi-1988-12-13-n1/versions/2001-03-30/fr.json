@@ -1,0 +1,62 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30",
+  "language": "fr",
+  "title": "Version consolidée applicable au 14/08/2023 : Loi communale du 13 décembre 1988.",
+  "valid_from": "2001-03-30",
+  "valid_to": "2011-02-19",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1988-12-13-n1/versions/2001-03-30/fr.pdf-memorial/eli-etat-leg-memorial-2001-a36-fr-pdf.pdf",
+    "sha256": "bef6459ae49007e56d845fb5194d8b3f65a35651ee3c02c1b03d14705e3432c8",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n1/consolide/20010330/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_173bis",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_173bis",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 173bis.",
+      "heading": "Les communes et les syndicats de communes, dans les limites de leur objet, peuvent prendre des",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "participations financières dans des sociétés de droit privé en vue d'une œuvre ou d'un service d'intérêt communal. Les communes ne peuvent s'engager que divisément et jusqu'à concurrence d'une somme déterminée. La prise de participation est autorisée par arrêté grand-ducal qui en détermine les modalités et conditions.",
+      "text_sha256": "1723799abf8cf3c9c76ca8907f3fae2bb59c3f8b890f09dd6cc4390636352165",
+      "md_span": {
+        "start": 685,
+        "end": 1004
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_173ter",
+      "provision_id": "lu-legilux:loi-1988-12-13-n1:2001-03-30#art_173ter",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 173ter.",
+      "heading": "Sans préjudice de la législation sur les marchés publics les communes et les syndicats de communes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "peuvent conclure entre elles et avec des personnes morales de droit public et de droit privé et avec des particuliers des conventions en des matières d'intérêt communal. Ces conventions sont soumises à l'approbation du ministre de l'Intérieur, si leur valeur dépasse 300.000 francs. Cette somme pourra être relevée par règlement grand-ducal. » Article 2. L'article 1er de la loi modifiée du 24 décembre 1985 portant fixation du statut général des fonctionnaires communaux est modifié comme suit: Au paragraphe 1, troisième alinéa, les termes «le président d'un syndicat de communes ou d'un établissement public» sont remplacés par «le bureau d'un syndicat de communes et le président d'un établissement public». Mandons et ordonnons que la présente loi soit insérée au Mémorial pour être exécutée et observée par tous ceux que la chose concerne. Le Ministre de l’Intérieur, Palais de Luxembourg, le 23 février 2001. Michel Wolter Henri Doc. parl. 4139; sess. ord. 1996-1997, 1997-1998, 1998-1999, 1999-2000 et 2000-2001. 858",
+      "text_sha256": "a4270138f0d3234b88c9ceb10bfedcb17571715fd1ed8877c65b98e4c83e795d",
+      "md_span": {
+        "start": 1148,
+        "end": 2172
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "located by date alone; the issue does not name the instrument as the ELI does",
+    "stopped at the next act's heading, 48 line(s) in",
+    "took lines 6..54 of 1418 from the gazette issue"
+  ]
+}

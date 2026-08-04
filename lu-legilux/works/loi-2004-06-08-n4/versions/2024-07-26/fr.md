@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2004-06-08-n4:2024-07-26'
-title: 'loi-2004-06-08-n4'
+title: 'Version consolidée applicable au 02/08/2026 : Loi du 8 juin 2004 sur la liberté d’expression dans les médias.'
 valid_from: '2024-07-26'
 valid_to: '2026-08-01'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20240726/fr'

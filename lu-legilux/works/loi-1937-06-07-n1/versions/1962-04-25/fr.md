@@ -1,0 +1,203 @@
+---
+lex_id: 'lu-legilux:loi-1937-06-07-n1:1962-04-25'
+title: 'Version consolidée applicable au 06/12/1988 : Loi du 7 juin 1937, ayant pour objet la réforme de la loi du 31 octobre 1919, portant règlement légal du louage de service des employés privés.'
+valid_from: '1962-04-25'
+valid_to: '1971-11-20'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/consolide/19620425/fr'
+source_sha256: '9f92858f832ef58466e5f39819f09314a7455979bc1e98af270b61b11aba47fd'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'pdf-memorial-lu/1 · lex derive'
+---
+
+<a id="art_1er"></a>
+
+### Art. 1er. Le contrat de louage d’ouvrage visé par l’art. 1779 1° C.c. est régi, en ce qui concerne les
+
+employés privés, par les dispositions suivantes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . .. . .. . .. . .. . .. . .. . .. . .. . ... . . . . . .. . . . . . . .. .. . .. . .. . .. . ... .. . .. . . . . . . . .. .. . . . .. . .. . . . . . . . ... . .. . .. .. .. .. ... . . .. .. . .. . .. .. .. . .. .. . ... .. . . . . . . . ... . .. .. . .. .. . .. .. . .. .. .. .. .. .. .. .. .. . ... . . . . . .. ... .. ... ... .... ... ... .. .. ... .. .. .. . . .. . .. . . .. .. . ... . .. . . . . . 500
+
+<a id="art_2"></a>
+
+### Art. 2. Il est toutefois loisible aux parties contractantes d’apporter des stipulations différentes ou com-
+
+plémentaires, en tant qu’elles sont plus favorables à l’employé. Est nulle de plein droit toute clause qui serait de nature à rendre moins avantageuse la situation de ce dernier. (Loi du 20 avril 1962) « Néanmoins, l’employé engagé en remplacement d’un employé légalement em- pêché d’accomplir son service pourra être embauché à des clauses dérogeant aux règles prévues par la pré- sente loi en ce qui concerne la durée de l’emploi et les délais de préavis. » (Loi du 20 avril 1962) « Sauf le cas de faute grave aux termes de l’article 16 de la présente loi, toute modi- fication en défaveur de l’employé de la rémunération, y compris les autres avantages et rétributions con- venus, n’aura effet, si le contrat est à terme, qu’à l’expiration de ce terme, et, s’il est à durée indéterminée, qu’à l’expiration du délai de préavis. A peine de nullité de la modification, l’employeur devra préalable- ment demander l’avis de la délégation d’employés, qui sera tenue de se prononcer dans les quinze jours. »
+
+<a id="art_3"></a>
+
+### Art. 3. Sont à considérer comme employés privés, pour l’application de la présente loi, toutes les per-
+
+sonnes qui, sans distinction de sexe ou d’âge, exécutent sur la base d’un engagement durable ou d’une façon continue pour le compte d’autrui, à l’exception de l’Etat, des communes et autres établissements publics ou d’utilité publique, et contre rémunération soit en numéraire, soit en d’autres prestations ou valeurs, en tout ou en partie, un travail d’une nature, sinon exclusivement, du moins principalement intellectuelle. (Loi du 20 avril 1962) « Par application de la définition générale qui précède, sont à considérer notamment comme employés privés au sens de la loi : toutes les personnes de l’un ou de l’autre sexe qui exercent, sous quelque dénomination que ce soit, une occupation de la nature de celles déterminées ci-après : a) direction d’entreprises et sections d’entreprises, directeurs, gérants, proviseurs de pharmacie ; b) surveillance et contrôle comportant la responsabilité, au point de vue technique et économique, du travail d’autres personnes, sans participation prépondérante au travail manuel, -chefs d’ateliers, chefs de chantier, porions, contre-maîtres, chefs d’équipe, chefs-machinistes ; c) gardiens d’usine et de fabrique ; d) travaux de bureau proprement dits tels que travaux de correspondance, de comptabilité, de calcul, de caisse, d’encaissement, de dessin, d’écriture, enregistrement des actes, services du téléphone et autres travaux analogues à l’exclusion des travaux principalement physiques tels que nettoyage et courses ; e) activité de vendeur et de vendeuse ; activité de magasinage pour autant qu’elle exige soit une forma- tion spéciale soit une habileté spéciale ; f) activité de voyageur, représentant et agent, qu’ils travaillent pour le compte d’une ou de plusieurs firmes et quel que soit le mode de leur rémunération, pourvu qu’ils ne mettent en œuvre un agencement industriel ou commercial personnel complet ; g) exercice d’arts libéraux, sans égard à la valeur artistique des productions - chanteurs, musiciens, per- sonnel artistique des théâtres et des stations d’émissions de radio-télévision ; h) enseignement, éducation, travail social et soins aux malades, pourvu que ces emplois exigent une formation scolaire ou professionnelle et ne consistent pas principalement en soins corporels ou d’hygiène ; i) travail d’auxiliaires médicaux, de techniciens-dentistes, de laborants, d’infirmiers, d’assistance et de réceptions dans les cabinets médicaux.» Dispositions générales.
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+(Loi du 20 avril 1962) « Le contrat de louage de service entre patrons et employés soit à durée déterminée, soit à durée indéterminée, soit à l’essai, doit être conclu par écrit. Le contrat doit être passé en double exemplaire, dont le premier est destiné à l’employeur, le deuxième à l’employé et spécifier : a) la nature de l’emploi et les caractéristiques du travail à exécuter ; 501 b) la durée du contrat ou l’indication qu’il est conclu soit pour une durée indéterminée, soit à l’essai ; c) le traitement de début, et, le cas échéant, les majorations périodiques, les commissions ou participa- tions convenues ; d) les clauses dérogatoires ou complémentaires dont les parties auront convenu. Si l’employé est enga é en remplacement d’un employé légalement empêché d’accomplir son service, le contrat constatera cette circonstance et spécifiera les conventions arrêtées entre parties en ce qui con- cerne la durée de l’emploi et les délais de préavis. »
+
+<a id="art_5"></a>
+
+### Art. 5.
+
+(Loi du 20 avril 1962) « L’engagement à l’essai d’un employé détenteur du certificat de fin d’études secondaires, d’un diplôme de fin d’études de l’Ecole technique de l’Institut d’enseignement technique ou d’une école technique équivalente étrangère, ou ayant participé avec succès au concours organisé par l’employeur, ne peut avoir une durée supérieure à deux mois. Pour l’employé qui ne remplit pas ces con- ditions de formation, pareil engagement ne peut dépasser, si l’employé est majeur, une durée de quatre mois et s’il est mineur, une durée de six mois. Si quinze jours avant l’expiration du délai prévu, aucune des deux parties n’a averti l’autre de la résiliation de l’engagement à l’essai, celui-ci est considéré comme définitif à partir du jour de l’entrée en service provisoire. A défaut de contrat écrit constatant que l’engagement a été conclu à l’essai, il est réputé définitif et conclu pour un temps indéterminé. La preuve contraire n’est pas admissible. L’engagement à l’essai ne peut être renouvelé. »
+
+<a id="art_6"></a>
+
+### Art. 6.
+
+(Loi du 20 avril 1962) « La durée normale du travail est de quarante-quatre heures par semaine sans pouvoir dépasser huit heures par jour. Dans des cas particuliers et sur autorisation préalable et écrite de l’Inspection du Travail, les quarante-quatre heures de travail hebdomadaire pourront être réparties sur cinq jours ouvrables, sans que la durée normale du travail journalier puisse être augmentée de plus d’une heure. Est considéré comme durée de travail le temps pendant lequel l’employé est à la disposition de l’employeur ; sont exclus les repos pendant lesquels le personnel n’est pas à la disposition de l’employeur. L’autorisation de l’Inspection du Travail ne sera délivrée que sur avis de la délégation d’employés, qui sera tenue de se prononcer dans les quinze jours. Toute prestation d’heures supplémentaires réparties sur plus de trois jours par mois est subordonnée, sauf urgence, à une autorisation préalable du Ministre du Travail qui statuera sur avis de l’Inspection du Travail, après consultation de la délégation d’employés. Celle-ci sera tenue de se prononcer dans les quinze jours. De même, tout travail de dimanche ou de jour férié légal est subordonné à une autorisation du Ministre du Travail suivant les modalités prévues à l’alinéa qui précède. L’autorisation ne sera donnée que dans des circonstances exceptionnelles en raison des nécessités de service. Les heures de travail supplémentaires donneront lieu à une majoration de cinquante pour cent du salaire normal ; cette majoration sera de soixante-dix pour cent pour le travail de dimanche et de cent pour cent pour le travail des jours fériés légaux. Toutefois, une majoration de la rémunération n’est pas due lorsque le traitement a été fixé en considération du fait que l’employé est obligé en raison de la nature de son occu- pation à fournir régulièrement un travail en dehors des heures de travail normales et des jours ouvrables. Un règlement d’administration publique pourra prévoir que les dispositions concernant la durée normale du travail, le travail de dimanche et le travail des jours fériés ne s’appliqueront pas à certaines entreprises ou professions. Ce règlement pourra subordonner l’octroi de la dispense à la conclusion d’un contrat collectif. L’action de l’employé pour le salaire supplémentaire se prescrit par un an. L’employeur devra inscrire sur un registre spécial toutes les prolongations de la durée normale du travail, les heures prestées les dimanches et aux jours fériés légaux, ainsi que les rétributions payées de l’un ou de l’autre de ces chefs. Ce registre est à présenter à toute demande de la part du délégué de l’Inspection du Travail et des Mines. » 502
+
+<a id="art_7"></a>
+
+### Art. 7. Le salaire stipulé en numéraire sera payé chaque mois, et ce au plus tard le dernier jour du mois
+
+du calendrier afférent. En cas de besoins particuliers, légitimes et urgents, l’employé pourra obtenir le versement anticipatif de la fraction du salaire correspondant au travail accompli. Les émoluments accessoires à la rémunération en numéraire, tels que tantièmes, remises, gratifications, primes ou autres de même nature, sont réglés au plus tard dans les deux mois suivant soit l’année de service, soit la clôture de l’exercice commercial, soit l’établissement du résultat de ce dernier. (Loi du 20 avril 1962) « Le patron est obligé de remettre à l’employé à la fin de chaque mois, ensemble avec la paye, un décompte exact et détaillé exprimant le salaire brut mensuel, les compléments éventuels pour heures supplémentaires, travail de dimanche ou de jour férié légal ou tout autre émolument en espèces ou en nature, ainsi que les chiffres détaillés sur les déductions à titre d’impôts sur salaires, de cotisations légales pour charges sociales et toute autre retenue effectuée sur le salaire. »
+
+<a id="art_8"></a>
+
+### Art. 8.
+
+(Loi du 20 avril 1962) « Si l’employé est empêché par une maladie ou un accident de remplir ses engagements, le poste qu’il occupe lui sera réservé durant trois mois à partir du mois suivant celui où l’em- pêchement s’est produit, à moins qu’il ne s’agisse des conséquences d’une infraction à laquelle l’employé a participé volontairement ou d’une faute lourde.» Il jouira durant la maladie pour la fraction du mois et les trois mois suivants de l’intégralité de la rému- nération. Pendant la durée de ce délai, le droit de résiliation ainsi que le droit de dénonciation conférés au patron par les art. 16 et 21 seront suspendus. Le patron qui ne dénoncera pas le contrat et réservera l’emploi devra verser pendant le temps de maladie les mensualités totales correspondant au mois en cours et aux trois mois suivants. (Loi du 20 avril 1962) « Passé ces délais, il sera seulement tenu de compléter au maximum pendant la durée de douze mois l’allocation de maladie ou la pension due en vertu des lois afférentes jusqu’à parfaire le montant total net du traitement. Cette obligation ne pourra en aucun cas se prolonger au-delà de l’octroi de la pension d’invalidité. » (Loi du 20 avril 1962) « Le patron qui dénoncera le contrat ne pourra le faire qu’en observant, après l’acquittement des obligations découlant de l’alinéa 2 et, s’il y a lieu, de l’alinéa 5 du présent article, les prescriptions prévues par les articles 21 et 22 de la loi. » (Loi du 20 avril 1962) « Si l’employé a droit à une indemnité du fait de son affiliation à une caisse d’assu- rance obligatoire, la rémunération qui lui est due par le patron sera diminuée du montant de cette indemnité. » (Loi du 20 avril 1962) « La rémunération des voyageurs de commerce, fixée en pourcentage, est calculée sur la base de la moyenne mensuelle des commissions allouées pendant les douze mois précédant l’incapacité de travail ou, le cas échéant, pendant la partie de ces douze mois pendant laquelle l’intéressé a été en ser- vice. » (Loi du 20 avril 1962) « Si l’employé peut réclamer à un tiers, en vertu d’une disposition légale, la répara- tion du dommage résultant pour lui de la maladie ou de l’accident, ce droit, pour autant qu’il concerne l’indemnisation pour perte de gain subie pendant les périodes visées aux alinéas, 2, 5 et 6 qui précèdent, passera à l’employeur jusqu’à concurrence du traitement et des indemnités payés conformément aux dispo- sitions des dits alinéas. Les dispositions de l’article 283bis du code des assurances sociales concernant l’inter- vention des institutions d’assurance dans l’action dirigée contre le tiers responsable s’appliquent pareille- ment à l’égard de l’employeur. »
+
+<a id="art_9"></a>
+
+### Art. 9.
+
+(Loi du 20 avril 1962) « Sauf dans les cas exceptionnels autorisés par l’article 10, alinéa 8, l’employé jouira d’un repos hebdomadaire de quarante-quatre heures ininterrompues. Ce temps de repos coïncidera, dans la mesure du possible, avec le jour du dimanche. »
+
+<a id="art_10"></a>
+
+### Art. 10.
+
+(Loi du 20 avril 1962) « Il sera accordé à l’employé annuellement, soit en une fois, soit en deux parties sensiblement égales, suivant les besoins du service, un congé payé dont la durée sera proportionnée à la durée du travail accompli chez un ou plusieurs employeurs selon le barème suivant : 503 Pour les employés âgés de plus de vingt ans accomplis la durée du congé sera d’au moins : quinze jours ouvrables au cours des cinq premières années de service ; dix-huit jours ouvrables à partir de la sixième année de service ; vingt et un jours ouvrables à partir de la douzième année de service ; vingt-quatre jours ouvrables à partir de la vingtième année de service et en tout cas à partir du premier janvier de l’année au cours de laquelle l’employé aura accompli l’âge de 38 ans. Le samedi est mis en compte pour un demi-jour ouvrable, si le congé de récréation porte sur une période d’au moins six jours ouvrables consécutifs. Si le congé est fractionné soit pour des raisons de service, soit pour des motifs de convenances personnelles de l’employé, ce dernier a droit à la mise en compte comme demi-jours ouvrables d’autant de samedis que le nombre total de jours de congé, auquel il a droit, est divisible par six. Dans les entreprises où la demi-journée de repos hebdomadaire ne coïncide pas avec l’après-midi du samedi, les dispositions des deux alinéas qui précèdent sont à appliquer de telle manière que la semaine de congé soit mise en compte à raison de cinq jours et demi ouvrables. Pour les employés de plus de dix-huit mais de moins de vingt ans accomplis, la durée du congé sera de dix-huit jours ouvrables au moins ; elle sera de vingt-quatre jours ouvrables au moins pour les employés de moins de dix-huit ans accomplis. Un congé supplémentaire de six jours ouvrables est accordé aux invalides de guerre, aux accidentés du travail et aux personnes physiquement diminuées auxquelles a été reconnue la qualité de travailleurs han- dicapés conformément à l’article 3 de la loi du 28 avril 1959 concernant la création de l’Office de placement et de rééducation professionnelle des travailleurs handicapés et qui exercent une activité salariée confor- me à leur capacité de travail. En principe le droit au congé portera sur l’accomplissement d’une année de service entière, mais, après six mois de travail ininterrompu auprès du même employeur, l’employé bénéficiera d’une quote-part de congé proportionnelle à la durée de son service. Les employés dont le service ne permet pas le repos ininterrompu de quarante-quatre heures par semaine, d’après constatation de l’Inspection du Travail et des Mines, ont droit à un congé supplémentaire de six jours. L’employé obligé de s’absenter de son travail pour des raisons d’ordre personnel aura droit à un congé, extraordinaire. Ce congé est fixé à : un jour avant l’enrôlement au service militaire et pour le décès d’un parent ou allié du deuxième degré ; deux jours pour l’accouchement de l’épouse, le mariage d’un enfant et le changement de domicile ; trois jours pour le décès du conjoint ou d’un parent ou allié du premier degré ; six jours pour le mariage de l’employé, le tout avec pleine conservation de sa rémunération. L’employé n’aura droit au congé extraordinaire qu’après une période de service de trois mois. Si l’événe- ment se produit pendant la maladie de l’employé, le congé extraordinaire n’est pas dû. Les jours fériés légalement fixés sont applicables à tous les employés privés sans exception, y compris les représentants de commerce à caractère d’employé privé payés à la commission. L’alinéa 8 de l’article 8 sera applicable. Si pendant le congé annuel, l’employé tombe gravement malade, les journées de maladie ne seront pas comptées comme journées de congé, à condition que le patron ait été informé dans un bref délai. Le patron est obligé de tenir livre sur le congé annuel de ses employés ; il est loisible au Ministre du Trava.l et de la Sécurité sociale de prescrire la présentation de ce livre au contrôle de l’Inspection du Travail. Les dispenses éventuelles de service, dont devra jouir l’employé avec conservation de l’intégralité de son salaire, aux fins de l’accomplissement régulier, tant de sa mission, de membre de la Chambre des Employés Privés, de celle de membre de la délégation d’employés et de celle d’assesseur au tribunal arbitral, dont mention dans les articles 24 et 26 ci-après, que des droits et devoirs civiques à lui octroyés ainsi que des mandats 504 à lui attribués par les lois, les arrêtés ou le Gouvernement, ne comptent pas pour la computation des congés susvisés. Pour le cas où le temps à consacrer à l’accomplissement de ces droits, devoirs ou mandats, autres que celui de délégué employé paraîtrait excessif, le tribunal arbitral, sur la demande du patron, décidera s’il y a lieu à réduction de la rémunération de l’employé, ou même, le cas échéant, à la résiliation du contrat pour motifs graves par application de l’article 16 de la loi.»
+
+<a id="art_11"></a>
+
+### Art. 11. L’employé ne peut être obligé par contrat ou ordre de service de participer aux frais d’institu-
+
+tions ayant pour but l’amélioration du sort des employés et de leurs familles qu’à la condition 1° que le patron ne touche aucun profit commercial de l’institution ; 2° qu’il contribue d’une façon sensible aux frais de l’institution ; 3° que le capital de l’institution, en ce qui concerne les cotisations des employés, soit garanti et réservé à ceux-ci, même en cas de faillite du patron ; 4° que la délégation d’employés ou toute autre représentation de ceux-ci librement choisie, prenne avec le patron une part égale à l’administration de l’institution.
+
+<a id="art_12"></a>
+
+### Art. 12.
+
+(Loi du 20 avril 1962) « Il est interdit à l’employé de traiter des affaires sans l’assentiment du patron, dans la branche de ce dernier, soit pour son propre compte, soit pour le compte d’un tiers. L’in- fraction à cette disposition de la part de l’employé entraînera la résiliation immédiate du contrat de louage avec dommages et intérêts à charge de l’employé. »
+
+<a id="art_13"></a>
+
+### Art. 13.
+
+(Loi du 20 avril 1962) « Toute convention entre patron et employé aux termes de laquelle ce dernier, pour le temps qui suit l’expiration du contrat d’emploi, est contraint de limiter son activité com- merciale (clause de non-concurrence) est illégale et prohibée, lorsque l’employé, au moment de la conclusion de la convention est mineur ou que son traitement ne dépasse pas cent cinquante mille francs par an au nombre indice cent à l’expiration de son engagement.» En cas de traitement plus élevé, une telle convention n’aura d’effet que : 1° si la limitation apportée à l’activité de l’employé concerne le genre d’affaires du patron et ne dépasse pas une période d’une année ; 2° si la limitation en question, eu égard a son objet, au temps et à la localité, et en proportion de l’intérêt commercial qu’a le patron à son observation, ne rend pas trop difficile en équité pour l’employé la recherche de moyens d’existence. La clause de non-concurrence, stipulée conforme aux dispositions légales, n’est pas applicable, lorsque le patron aura mis fin au contrat sans y avoir été autorisé par l’art. 16 ou sans avoir satisfait aux prescrip- tions relatives au préavis.
+
+<a id="art_14"></a>
+
+### Art. 14.
+
+(Loi du 20 avril 1962) « Pour déterminer la part cessible et saisissable, les appointements des employés privés sont répartis en trois tranches qui sont fixées annuellement par arrêté du Ministre de la Justice, à publier au Mémorial. La part des appointements correspondant à la première tranche ne peut être cédée que jusqu’à concurrence d’un cinquième et saisie jusqu’à concurrence d’un dixième. La part des appointements correspondant à la deuxième tranche ne peut être cédée pour plus de deux cinquièmes ni saisie pour plus d’un quart. La part des appointements de la troisième tranche ne peut être saisie que jusqu’à concurrence du tiers. La partie cessible ne se confond pas avec la partie saisissable. Les dispositions qui précédent ne concernent pas les cessions et saisies qui auraient lieu pour les causes déterminées par les articles 203, 205, 206, 207, 214, 268, 280 et 301 du code civil. » De la cessation du contrat.
+
+<a id="art_15"></a>
+
+### Art. 15. Le contrat de louage à durée déterminée cesse de plein droit à l’expiration du terme contractuel.
+
+La continuation tacite des services après cette date est considérée comme formant un nouveau contrat à durée indéterminée, 505
+
+<a id="art_16"></a>
+
+### Art. 16. Le contrat à durée tant déterminée qu’indéterminée peut être résilié immédiatement pour motifs
+
+graves procédant du fait ou de la faute de l’une ou de l’autre des parties, avec dommages-intérêts à charge de la partie qui a donné lieu à la résiliation. (Loi du 20 avril 1962) « La notification de la résiliation immédiate du contrat à durée tant déterminée qu’indéterminée pour motifs graves procédant du fait ou de la faute de l’une ou l’autre des parties avec dommages et intérêts à charge de la partie dont la faute a occasionné la résiliation immédiate, doit se faire par lettre recommandée endéans les trois jours avec indication du ou des motifs invoqués. » (Loi du 20 avril 1962) « L’abstention de l’employé de prester ses services en raison d’une grève profession- nelle décrétée dans des conditions légitimes et licites ne rompt pas le contrat et ne constitue pas un motif grave ouvrant au patron le droit de congédier l’employé. »
+
+<a id="art_17"></a>
+
+### Art. 17.
+
+(Loi du 20 avril 1962) « S’il survient une modification dans la situation de l’employeur notamment par succession, vente, fusion, transformation de fonds, mise en société, tous les contrats de travail en cours au jour de la modification subsistent entre le nouvel entrepreneur et le personnel de l’entreprise. La cessation de l’entreprise, sauf le cas de force majeure, ne libère pas l’employeur de l’obligation de respecter le délai-congé. »
+
+<a id="art_18"></a>
+
+### Art. 18.
+
+(Loi du 20 avril 1962) « Le contrat de louage de service est résilié avec effet immédiat : 1) en cas de cessation des affaires par suite de mort, d’incapacité physique ou de déclaration en état de faillite du patron ; 2) en cas de décès de l’employé. Dans le cas visé sub 1) de l’alinéa qui précède, l’employé aura droit à la totalité des appointements du mois de la survenance de l’événement ainsi que du mois subséquent. Il touchera en outre la moitié des mensualités égales au délai de préavis, sans que le maximum de l’in- demnité puisse dépasser les mensualités des délais de préavis imposés par les articles 21 et 22. Le privilège prévu par le N° 4 de l’article 2101 du code civil s’étendra à cette créance. Aucune indemnité n’est cependant due en cas de continuation du contrat entre l’employé et le successeur du patron. »
+
+<a id="art_19"></a>
+
+### Art. 19.
+
+(Loi du 20 avril 1962) « Si l’employé décède en cours de contrat et qu’il ne laisse ni veuve, ni enfants de moins de dix-huit ans, ni enfant qui par suite d’infirmités physiques ou intellectuelles n’est pas en mesure de gagner sa vie, ni des enfants qui s’adonnent à des études moyennes, universitaires ou pro- fessionnelles, ni ascendants qui ont vécu avec lui en communauté de ménage et dont l’entretien était à sa charge, les appointements y compris les émoluments accessoires éventuels au prorata du temps de service, seront dus jusqu’à la fin du mois de décès à ses héritiers ou ayants cause. » (Loi du 20 avril 1962) « Les traitements de l’employé célibataire ou veuf, qui a des personnes à sa charge, ou des enfants qui s’adonnent à des études moyennes, universitaires ou professionnelles, sont dus jusqu’à la fin du mois de décès; il sera dû en outre une allocation égale aux appointements de trois mois. » (Loi du 20 avril 1962) « Si le défunt laisse une veuve, des enfants de moins de dix-huit ans, des enfants qui par suite d’infirmités physiques ou intellectuelles ne sont pas en mesure de gagner leur vie, ou des enfants qui s’adonnent à des études moyennes, universitaires ou professionnelles, ou des ascendants qui ont vécu en ménage commun avec lui et dont l’entretien était à sa charge, il leur sera dû le salaire du mois de décès et en outre une allocation égale aux appointements de trois mois en y comprenant la valeur au prorata des émoluments accessoires éventuels. » Le paiement de ces sommes aura lieu entre les mains de la veuve survivante, et à défaut de celle-ci, du représentant légal des enfants, respectivement, à défaut de veuve et d’enfants aux ascendants directs qui ont vécu en ménage commun avec lui, et dont l’entretien était à sa charge. Si le défunt a eu la jouissance d’un logement gratuit, ce dernier sera laissé gratuitement à la disposition de la veuve ou des enfants, respec- tivement des ascendants directs qui ont vécu en ménage commun avec lui et dont l’entretien était à sa charge, jusqu’à l’expiration des trois mois suivant celui du décès. 506
+
+<a id="art_20"></a>
+
+### Art. 20. La résiliation du contrat à durée indéterminée pourra encore avoir lieu en vertu de la dénon-
+
+ciation de l’une ou de l’autre des parties dans les conditions indiquées dans l’art. 21 ci-après.
+
+<a id="art_21"></a>
+
+### Art. 21.
+
+(Loi du 20 avril 1962) « A l’égard de l’employé la résiliation ne pourra avoir lieu que moyennant un préavis à lui notifié par lettre recommandée dans les délais suivants : 1) de deux mois, si l’employé se trouve en service depuis moins de cinq ans ; 2) de quatre mois, en cas d’un temps de service de cinq jusqu’à dix ans ; 3) de six mois, si la durée de service est de dix ans et plus. A l’égard du patron, les délais-congés à notifier par lettre recommandée par l’employé, sont respectivement réduits de moitié. Tous les délais de dénonciation ne commencent à courir que du quinzième ou du dernier jour du mois de calendrier. »
+
+<a id="art_22"></a>
+
+### Art. 22.
+
+(Loi du 20 avril 1962) « La partie qui aura mis fin au contrat sans y être autorisée par l’article 16 ou sans avoir, en cas de contrat à durée indéterminée, satisfait aux prescriptions relatives au préavis, sera tenue de payer à l’autre partie une indemnité ; celle-ci sera, lorsqu’il s’agit d’un contrat à durée indé- terminée, égale au salaire correspondant au délai-congé non observé. Cette indemnité ne se confond pas avec celle qui peut être due pour résiliation abusive de contrat. » (Loi du 20 avril 1962) « Le patron qui aura mis fin au contrat sans y être autorisé par l’article 16, et sans que l’employé puisse faire valoir des droits à une pension, soit aux frais de la caisse de pension des employés privés, soit auprès d’une autre caisse ou institution analogue à contribution publique ou patronale, paiera une indemnité de congédiement supplémentaire qui sera égale : après quinze années de service à trois mensualités ; après vingt années de service à six mensualités ; après vingt-cinq années de service à neuf mensualités. La pension de vieillesse anticipée n’est pas à considérer comme pension au sens de la présente disposition. » Pendant le délai de préavis, l’employé peut demander le congé qui lui est nécessaire pour la recherche d’un nouvel emploi, sans que ce congé puisse toutefois dépasser dans l’ensemble six jours ouvrables, le tout avec pleine conservation de l’intégralité de son traitement. (Loi du 20 avril 1962) « L’alinéa 8 de l’article 8 sera applicable ».
+
+<a id="art_23"></a>
+
+### Art. 23. Trois mois avant l’expiration du contrat concernant les engagements à terme fixe et mimé-
+
+diatement après la dénonciation de celui à durée indéterminée, le patron est obligé de délivrer à l’employé une attestation par écrit, constatant exactement la nature, le caractère et la durée des services fournis par l’employé. A la demande de ce dernier, la signature de ce document est à légaliser gratis par l’autorité compétente. Des délégations d’employés.
+
+<a id="art_24"></a>
+
+### Art. 24.
+
+(Loi du 20 avril 1962) « Le titulaire de toute entreprise occupant régulièrement douze employés au moins est tenu d’instituer dans les deux mois de la mise en vigueur de la présente et respectivement du commencement de son exploitation, une délégation de trois employés et de deux suppléants, à choisir par tous les employés au scrutin secret, à la majorité relative des voix, si le nombre des employés ne dépasse pas cinquante ; au cas où celui-ci excède ce chiffre, la délégation sera renforcée à raison d’un délégué et d’un suppléant par chaque fraction supplémentaire de cent employés. Chacun des établissements distincts d’une seule et même entreprise se trouve assujetti à l’institution d’une pareille délégation d’employés. Les parents et alliés juqu’au quatrième degré du patron, ainsi que les gérants et directeurs ne pourront être élus membres des délégations d’employés. Le nombre des membres étrangers ne pourra dépasser le tiers du nombre total des membres d’une délé- gation. Les étrangers élus en surnombre qui auront reçu le moins de suffrages seront remplacés, s’il y a lieu, par les Luxembourgeois non élus qui, sur la même liste, auront obtenu le plus grand nombre de suffrages, 507 Les délégués titulaires, de même que les suppléants sont renouvelés tous les trois ans ; les membres sortants sont rééligibles. En cas de renouveliement extraordinaire, soit total, soit partiel, d’une délégation, les nouveaux délégués achèveront le mandat de leurs prédécesseurs. Les délégués démissionnaires sont tenus de rester en fonctions jusqu’à ce qu’ils seront remplacés par les délégués suppléants ou par les nouveaux délégués. Les délégués désigneront entre eux un président et un secrétaire. Les fonctions de délégué sont purement honorifiques. La fourniture du local de réunion de même que les frais de bureau et ceux de chauffage et d’éclairage sont à charge du patron. La délégation d’employés doit se réunir au moins tous les trois mois. Le président peut en outre les convoquer à d’autres époques, soit d’office, soit à la demande du patron, ou de deux de ses membres. L’ordre du jour, de même que le mode et la procédure des délibérations sont déterminés par la délégation. Les délégations d’employés relèvent du Ministre du Travail et de la Sécurité sociale qui chargera l’in- pecteur du Travail de lui faire une fois par an un rapport détaillé sur l’exécution des dispositions de la présente loi. Un manquement itératif des délégués dans l’exécution de leur mandat autorise le Ministre du Travail et de la Sécurité sociale à les destituer sur rapport de l’inspecteur du Travail. Toute délégation d’employés est tenue d’adresser une copie du procès-verbal de ses séances trimestrielles au Ministre du Travail et de la Sécurité sociale. Pendant la durée de leur mandat les délégués conservent les droits qu’ils possédaient au moment où ce mandat leur a été conféré. Ils ne pourront être congédiés sauf dans les cas prévus à l’article 16. Le même régime est applicable au licenciement des anciens membres des délégations pendant les six mois qui suivent l’expiration de leur mandat ainsi que des candidats aux fonctions de membre des délé- gations dès la présentation des candidatures et pendant une durée de trois mois.»
+
+<a id="art_25"></a>
+
+### Art. 25. Les attributions de la délégation consistent :
+
+1° à donner son avis au sujet du règlement de service de l’entreprise et à surveiller strictement l’exécution de ce règlement ; 2° à aplanir, par voie de conciliation, les difficultés à surgir entre patrons et employés ; 3° à transmettre respectivement les voeux des patrons et des employés ; 4° à sauvegarder et à défendre les droits des employés , 5° à participer à la gestion de toutes les institutions qui seraient créées par le patron en vue de l’améliora- tion de la situation des employés ou de leurs familles ; 6° à s’interposer pour le réemploi des invalides et accidentés, eu égard à leurs capacités physiques et intellectuelles. Des contestations relatives au contrat de louage.
+
+<a id="art_26"></a>
+
+### Art. 26. Toutes les contestations relatives aux engagements entre patrons et employés seront jugées par
+
+un tribunal arbitral à établir dans chacun des cantons judiciaires, à l’exception du canton de Vianden, qui formera avec celui de Diekirch un seul ressort. Chaque tribunal arbitral sera composé du juge de paix ou de son suppléant, comme président, et de deux assesseurs, dont l’un sera choisi parmi les patrons, et l’autre parmi les employés majeurs de 21 ans. Ces asses- seurs, ainsi que deux suppléants, dont l’un également patron et l’autre employé, seront nommés par le Gouvernement pour une période de trois ans ; ils peuvent être continués dans leurs fonctions après l’expira- tion de leur mandat. En cas de vacance de l’un ou de l’autre des sièges d’assesseurs, par suite de décès, de démission ou autre- ment, le Gouvernement pourvoira à son remplacement. Le remplaçant remplira le mandat de son pré- décesseur. Les assesseurs ne pourront siéger dans aucune affaire dans laquelle, soit eux-mêmes, soit leurs parents ou alliés jusqu’au quatrième degré inclusivement ont un intérêt personnel. 508 De même, ils ne pourront prendre part aux délibérations sur les affaires dans lesquelles ils ont déjà connu en une autre qualité. Ils pourront, en outre, être récusés pour les causes énoncées dans l’art. 378 C. pr. c. Lorsque le tribunal est constitué sur la convocation du président, chaque assesseur prêtera le serment de remplir ses fonctions avec impartialité et de garder le secret des délibérations. (Loi du 20 avril 1962) « Les assesseurs aux tribunaux arbitraux en matière de loua e de service des employés privés auront droit, à charge de l’Etat, aux jetons de présence et aux frais de route à fixer par arrêté ministériel. » Tout assesseur qui, sans cause légale ou sans motif légitime, manque à l’une des audiences, ou refuse de prendre part à la délibération, encourt une amende de 16 à 100 fr. L’amende est prononcée par le juge de paix qui statue en dernier ressort sur l’opposition formée par l’assesseur condamné. Lorsque le tribunal ne pourra se composer régulièrement pour l’une ou l’autre cause, le juge de paix appellera, après avoir entendu les parties, en remplacement des assesseurs effectifs ou suppléants défaillants, d’autres patrons respectivement employés, soit de son ressort, soit même en dehors de ce dernier. Les audiences de cette juridiction auront lieu au local de la justice de paix du canton, aux jours et heures à fixer par le juge de paix.
+
+<a id="art_27"></a>
+
+### Art. 27. Le tribunal compétent est celui du lieu de l’entreprise dans le Grand-Duché.
+
+
+
+<a id="art_28"></a>
+
+### Art. 28.
+
+(Loi du 20 avril 1962) « Le tribunal arbitral connaîtra en dernier ressort des contestations jusqu’à la valeur de douze mille francs en principal et à charge d’appel de tous les autres litiges. » La procédure à suivre devant le tribunal arbitral et devant la Cour supérieure de justice pour l’intro- duction, l’instruction et le jugement des contestations relatives aux engagements entre patrons et employés, sera réglée par un règlement d’administration publique. (Loi du 20 avril 1962) « En toute instance, y compris celle de cassation, tous les actes de la procédure seront libres de tous droits de timbres et d’enregistrement.»
+
+<a id="art_29"></a>
+
+### Art. 29. Par les termes de « salaire, rémunération, appointements », employés dans les dispositions de
+
+la présente loi, il faut entendre la rétribution globale de l’employé, comprenant, en dehors du taux en numéraire, les autres avantages et rétributions accessoires éventuels, tels que notamment les gratifications, tantièmes, remises, primes, logements gratuits et autres valeurs quelconques de même nature.
+
+<a id="art_30"></a>
+
+### Art. 30. Un règlement d’administration publique édictera les mesures nécessaires pour l’exécution de
+
+la présente loi. Il déterminera également les entreprises qui, à raison des exigences particulières du service, sont à dispen- ser provisoirement, en tout ou en partie, de l’observation de l’une ou de l’autre des prestations de la présente loi. Sanctions.
+
+<a id="art_31"></a>
+
+### Art. 31.
+
+(Loi du 20 avril 1962) « Les infractions aux articles 6, 9, 10, 13, 19, 23 et 24 sont punies d’une amende de cinq cent un à trente mille francs et d’un emprisonnement de huit jours à un mois ou d’une de ces peines seulement. Ces infractions se prescrivent par le terme de trois ans. » Le livre 1er du Code pénal ainsi que la loi du 18 juin 1879 portant attribution aux cours et tribunaux de l’appréciation des circonstances atténuantes, modifiée par celle du 16 mai 1904, sont applicables aux dites infractions. Dispositions transitoires.
+
+<a id="art_32"></a>
+
+### Art. 32. Les dispositions de la présente loi sont également applicables aux engagements en cours lors
+
+de sa mise en vigueur. Les avantages éventuels existant en faveur de l’employé avant la mise en vigueur de la présente loi, ne peuvent être abrogés à son égard. Imprimerie de la Cour Victor Buck, S. e. c. s., Luxembourg.

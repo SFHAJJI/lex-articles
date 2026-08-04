@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1981-12-18-n3:1994-07-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 07/12/1993 : Règlement grand-ducal du 18 décembre 1981 concernant le nantissement, la circulation et la perte de titres.",
+  "valid_from": "1994-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1981-12-18-n3/versions/1994-07-01/fr.pdf-memorial/eli-etat-leg-memorial-1994-a75-fr-pdf.pdf",
+    "sha256": "f23bad27e7ad62b722a29c40508737f23860c0a08308f033736d564bf3a566bf",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1981/12/18/n3/consolide/19940701/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1981-12-18-n3:1994-07-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Le présent règlement est d’application immédiate à tous les titres,tels que définis à l’article 1er,même créés",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "avant sa date d’entrée en vigueur,sans préjudice de la validité des formalités accomplies avant cette date.",
+      "text_sha256": "cf9a8c6bb6d103f36f7e247b720d6bd2f3604a5103aab34f276b7d506dd02ec0",
+      "md_span": {
+        "start": 758,
+        "end": 865
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1981-12-18-n3:1994-07-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Notre Ministre duTrésor est chargé de l’exécution du présent règlement qui sera publié au Mémorial.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Editeur: Ministère d’Etat, Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg. Imprimeur: Imprimerie de la Cour Victor Buck, s. à r. l., Luxembourg",
+      "text_sha256": "326998d29613d281dc06d29236fa698d061a0a417f74881ede89e4997488f7ff",
+      "md_span": {
+        "start": 1000,
+        "end": 1177
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "took lines 129..135 of 135 from the gazette issue"
+  ]
+}

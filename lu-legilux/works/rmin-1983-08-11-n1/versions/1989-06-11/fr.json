@@ -1,0 +1,112 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rmin-1983-08-11-n1:1989-06-11",
+  "language": "fr",
+  "title": "Version consolidée applicable au 06/12/1988 : Règlement ministériel du 11 août 1983 déterminant les modalités de l'appréciation et du déroulement des épreuves à l'Institut de formation administrative, section de la carrière supérieure de l'administration.",
+  "valid_from": "1989-06-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rmin-1983-08-11-n1/versions/1989-06-11/fr.pdf-memorial/eli-etat-leg-memorial-1989-a36-fr-pdf.pdf",
+    "sha256": "a06d1bfd622c38bc46c54a7b7ce40b2c76023ae98f4c33cd8b25d33752802071",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1983/08/11/n1/consolide/19890611/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rmin-1983-08-11-n1:1989-06-11#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Pour la section du rédacteur, la formation générale à l´Institut de formation administrative comprend deux",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "parties: 1. Les cours et le nombre des heures de formation y afférentes pour la première partie sont fixés comme suit: Introduction générale au droit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs Droit constitutionnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 hrs Droit administratif . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 hrs Droit civil . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 hrs Droit pénal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 hrs Droit commercial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 hrs Droit du travail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs Le régime de la sécurité sociale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 hrs Le régime fiscal luxembourgeois . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 hrs Economie politique et économie de l´entreprise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 hrs Les entreprises luxembourgeoises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 hrs Initiation à l´informatique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 hrs Systèmes d´enregistrement et de communication de données administratives par l´informatique . . . . 20 hrs Méthodes et techniques législatives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 hrs Techniques d´organisation du travail administratif . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 hrs Gestion et fonctionnement de l´administration publique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 hrs Techniques d´organisation du travail personnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 hrs Les relations entre administration et administré . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 hrs Psychologie pratique appliquée à la gestion de l´administration . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs Histoire économique et sociale contemporaine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs Histoire de l´Etat luxembourgeois . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs Protection du citoyen face aux décisions de l´administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs Langage administratif: a) Français . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 hrs b) Allemand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs c) Anglais . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs d) Luxembourgeois . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 hrs 635 II. Dans le cadre du programme de formation fixé au paragraphe I ci-dessus, et jusqu´à concurrence du nombre d´heures de formation y prévu, des cours à option peuvent être introduits dans les conditions et suivant les moda- lités à fixer par un arrêté du Ministre de la Fonction publique. III. Les cours et le nombre des heures de formation y afférentes pour la deuxième partie sont fixés comme suit: Législation sur les fonctionnaires, employés et ouvriers (statut, traitements et salaires, pensions) . . . 42 hrs Gestion des ressources financières de l´Etat (Budget et comptabilité ) . . . . . . . . . . . . . . . . . . . . 20 hrs Marchés publics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 hrs Gestion du personnel au service de l´Etat . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 hrs Institutions internationales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 hrs",
+      "text_sha256": "c38ab68a4ffab4fd990e081fcade4dc13489ceb6dffdcca0119ecffbac9dd0be",
+      "md_span": {
+        "start": 865,
+        "end": 5326
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rmin-1983-08-11-n1:1989-06-11#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Jusqu´à concurrence du nombre d´heures de formation prévues à l´article 1er du règlement grand-ducal du 27",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "février 1989 portant exécution de l´article 6 de la loi modifiée du 9 mars 1983 portant création d´un Institut de formation administrative,le temps de formation comprend, dans le cadre ou en dehors des cours proprement dits, des travaux de recherche, des exposés sur des sujets divers, des conférences, des visites des différentes administrations et institutions ainsi que le cas échéant la participation des stagiaires aux cours de perfectionnement.",
+      "text_sha256": "1cabb5937e01a979258b98fbef16b519e9525091aa628bb3510cb24531b0446b",
+      "md_span": {
+        "start": 5468,
+        "end": 5918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rmin-1983-08-11-n1:1989-06-11#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Le chargé de direction de l´Institut établit l´horaire des cours après avis de la commission administrative visée à",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l´article 12 de la loi modifiée du 9 mars 1983 portant création d´un Institut de formation administrative.",
+      "text_sha256": "24258649f2d84231d7c00656261e140bbe4fb60065f764f38d8d3ecfeb4ce242",
+      "md_span": {
+        "start": 6069,
+        "end": 6175
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rmin-1983-08-11-n1:1989-06-11#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Le présent règlement entre en vigueur avec effet au 1er mars 1989. Toutefois les anciennes dispositions du règle-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ment grand-ducal du 10 août 1983 fixant le programme et l´organisation des cours à l´Institut de formation administrative, section du rédacteur, restent applicables aux stagiaires admis au stage avant le 1er mars 1989.",
+      "text_sha256": "6649d00c4f7061ce3819b7bbfc78da4601a087b2bf43c945ddb2417d2ee6db7e",
+      "md_span": {
+        "start": 6324,
+        "end": 6542
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rmin-1983-08-11-n1:1989-06-11#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Notre Ministre de la Fonction publique est chargé de l´exécution du présent règlement qui sera publié au Mémo-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "rial. Les Membres du Gouvernement, Château de Berg, le 27 février 1989. Jacques Santer Jean Jacques F. Poos Benny Berg Robert Krieps Fernand Boden Jean Spautz Jean-Claude Juncker Marcel Schlechter Johny Lahure René Steichen Robert Goebbels",
+      "text_sha256": "a2e6b6d6c431cce69a67bb15a12a749876e900afa85a545fb0503c49686abf2d",
+      "md_span": {
+        "start": 6688,
+        "end": 6927
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "stopped at the next act's heading, 151 line(s) in",
+    "took lines 560..711 of 3826 from the gazette issue"
+  ]
+}

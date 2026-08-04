@@ -1,0 +1,706 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24",
+  "language": "fr",
+  "title": "Version consolidée applicable au 02/11/2003 : Règlement grand-ducal du 2 juin 1999 concernant la formation théorique et pratique ainsi que la période probatoire des enseignants de l'enseignement postprimaire.",
+  "valid_from": "2004-12-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1999-06-02-n2/versions/2004-12-24/fr.pdf-memorial/eli-etat-leg-memorial-2005-a18-fr-pdf.pdf",
+    "sha256": "a10c173f5fd9ed4a0e65404799ae6f450f8aba9bb769e259bebbe3030b3de8ba",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/06/02/n2/consolide/20041224/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Nul ne peut être nommé aux fonctions de:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "professeur de lettres, de sciences, de sciences économiques et sociales, d’éducation artistique, d’éducation physique, d’éducation musicale ou de doctrine chrétienne, de professeur-ingénieur, de professeur-architecte, de professeur de sciences de l’enseignement secondaire technique, de professeur d’enseignement technique, de maître de cours spéciaux, de maître d’enseignement technique, s’il ne remplit pas les conditions d’études, d’admission à l’examen concours de recrutement et de stage1 pédagogique prévues au présent règlement, sans préjudice des conditions fixées à l’article 6 du présent règlement.",
+      "text_sha256": "818355ee2318ff9a2ef85256f5b79cbea02ca00d89a38fa804b04d60f418e6dd",
+      "md_span": {
+        "start": 748,
+        "end": 1356
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a. Les aspirants aux fonctions de professeurs de lettres ou de sciences doivent ou bien justifier du grade de docteur en philosophie et lettres ou en sciences physiques et mathématiques ou en sciences naturelles, conféré selon la loi du 5 août 1939 sur la collation des grades, ou bien, avoir obtenu l’homologation de leurs titres et grades étrangers d’enseignement supérieur selon la loi modifiée du 18 juin 1969 sur l’enseignement supérieur et l’homologation des titres et grades étrangers d’enseignement supérieur. b. Les aspirants aux fonctions de professeur de sciences économiques et sociales doivent remplir les conditions de la loi modifiée du 25 août 1971 portant création de la fonction de professeur de sciences économiques et sociales aux établissements d’enseignement secondaire. c. Les aspirants aux fonctions de professeurs d’éducation artistique, d’éducation physique, d’éducation musicale et de doctrine chrétienne doivent remplir les conditions de l’article 4 de la loi du 22 juin 1989 portant modification de la loi modifiée du 10 mai 1968 portant réforme de l’enseignement, titre VI: de l’enseignement secondaire. d. Le diplôme de fin d’études secondaires techniques donne les mêmes droits que le diplôme de fin d’études secondaires pour l’accès aux fonctions mentionnées aux paragraphes a à c du présent article et pour l’admission au stage correspondant.",
+      "text_sha256": "486c2fd67d12bf8aab2923cace5e8ccb923c39dcce839800638387782d20be05",
+      "md_span": {
+        "start": 1391,
+        "end": 2767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a. Les aspirants aux fonctions de professeur - ingénieur ou de professeur - architecte doivent être détenteurs d’un diplôme d’ingénieur ou d’architecte inscrit au registre des diplômes prévu par la loi du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur. b. Les aspirants aux fonctions de professeur de sciences de l’enseignement secondaire technique doivent être détenteurs d’un diplôme final délivré par un institut d’enseignement supérieur reconnu par l’Etat où il a son siège, sanctionnant un cycle d’études scientifiques de quatre années au moins, inscrit au registre des diplômes prévu par la loi du 17 juin 1963 ayant pour objet de protéger les titres d’enseignement supérieur. c. Les aspirants aux fonctions de professeur d’enseignement technique doivent être détenteurs soit d’un diplôme luxembourgeois de fin d’études secondaires soit d’un diplôme luxembourgeois de fin d’études secondaires techniques, soit d’un diplôme luxembourgeois de technicien, soit d’un diplôme reconnu équivalent par le ministre de l’Education nationale et de la Formation professionnelle, appelé par la suite le Ministre. En outre, ils doivent: - avoir fait avec succès au moins six semestres d’études universitaires, ou six semestres d’études spéciales supérieures, ou une formation reconnue équivalente par le Ministre; - pouvoir se prévaloir d’une pratique professionnelle d’au moins trois ans. 384 ––––– 1 (modifié par règlement grand-ducal du 9 décembre 2004)",
+      "text_sha256": "6581b349518dd0544e086529344c6ab1d5c48fc0717e50f6e4aaf2b04340d48b",
+      "md_span": {
+        "start": 2802,
+        "end": 4281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les détenteurs d’un diplôme répondant à la définition de l’article premier, paragraphe a, ou de l’article 3, paragraphe b, de la directive 89/48/CEE du Conseil du 21 décembre 1988 remplissent les conditions d’études pour la nomination aux fonctions de professeur de lettres (différentes spécialités), de sciences (différentes spécialités), de sciences économiques et sociales, d’éducation artistique, d’éducation physique, d’éducation musicale et de doctrine chrétienne, de professeur-ingénieur, professeur-architecte, professeur de sciences de l’enseignement secondaire technique: - si le diplôme au sens de la directive 89/48/CEE sanctionne un cycle d’études universitaires ou de niveau universitaire d’au moins 4 ans et donne accès, dans un Etat membre et dans la même spécialité, à la profession ou fonction correspondant à celle qui est visée au Luxembourg, ou - si le diplôme au sens de la directive 89/48/CEE2 sanctionne un cycle d’études universitaires ou de niveau universitaire de 3 ans et donne accès dans un Etat membre et dans la même spécialité, à la profession ou fonction correspondant à celle qui est visée au Luxembourg et si le demandeur peut faire état d’un exercice effectif et licite pendant deux ans dans une institution publique ou reconnue par l’Etat de la profession concernée dans un Etat membre, ou - si le diplôme au sens de la directive 89/48/CEE* sanctionne un cycle d’études universitaires ou de niveau universitaire d’au moins 3 ans, préparant à l’exercice dans la même spécialité de la profession correspondant à celle qui est visée au Luxembourg, et si le demandeur a exercé à plein temps cette profession pendant deux ans dans une institution publique ou reconnue par l’Etat dans un Etat membre qui ne réglemente pas cette profession. 2. Les détenteurs d’un diplôme répondant à l’article 1er, paragraphe a ou à l’article 3, paragraphe b, de la directive 92/51/CEE remplissent les conditions d’études pour la nomination aux fonctions de professeur de lettres (différentes spécialités), de sciences (différentes spécialités), de sciences économiques et sociales, d’éducation artistique, d’éducation physique, d’éducation musicale et de doctrine chrétienne, de professeur-ingénieur, professeur architecte, et de professeur de sciences de l’enseignement secondaire technique, si le diplôme, au sens de la directive 92/51/CEE, donne accès, dans un Etat membre et dans la même spécialité, à la profession ou fonction correspondant à celle qui est visée au Luxembourg et si le demandeur peut faire état d’un exercice effectif et licite pendant quatre ans dans une institution publique ou reconnue par l’Etat de la profession concernée dans un Etat membre. 3. Les détenteurs d’un diplôme répondant à l’article 1er, paragraphe a ou à l’article 3, paragraphe b, de la directive 89/48/CEE3 remplissent les conditions d’études pour la nomination aux fonctions de professeur d’enseignement technique - si le diplôme au sens de la directive 89/48/CEE sanctionne un cycle d’études universitaires ou de niveau universitaire de 3 ans et donne accès dans un Etat membre et dans la même spécialité, à la profession ou fonction correspondant à celle qui est visée au Luxembourg et si le demandeur peut faire état d’un exercice effectif et licite pendant trois ans dans une institution publique ou reconnue par l’Etat de la profession concernée dans un Etat membre, ou - si le diplôme au sens de la directive 89/48/CEE sanctionne un cycle d’études universitaires ou de niveau universitaire d’au moins 3 ans, préparant à l’exercice dans la même spécialité de la profession correspondant à celle qui est visée au Luxembourg, et si le demandeur a exercé à plein temps cette profession pendant trois ans dans un Etat membre qui ne réglemente pas cette profession. 4. Les détenteurs d’un diplôme répondant à l’article 1er, paragraphe a ou à l’article 3, paragraphe b, de la directive 92/51/CEE remplissent les conditions d’études pour la nomination aux fonctions de professeur d’enseignement technique - si le diplôme au sens de la directive 92/51/CEE donne accès dans un Etat membre et dans la même spécialité, à la profession ou fonction correspondant à celle qui est visée au Luxembourg et si le demandeur peut faire état d’un exercice effectif et licite pendant quatre ans dans une institution publique ou reconnue par l’Etat de la profession concernée dans un Etat membre, ou - si le diplôme au sens de la directive 92/51/CEE sanctionne un cycle d’études universitaires ou de niveau universitaire préparant à l’exercice dans la même spécialité de la profession correspondant à celle qui est visée au Luxembourg, et si le demandeur a exercé à plein temps cette profession pendant quatre ans dans un Etat membre qui ne réglemente pas cette profession.",
+      "text_sha256": "c6ed750664ce24fbb04530ecfd2ab3f832b98a854efabd7e7fd8b944985bceb1",
+      "md_span": {
+        "start": 4316,
+        "end": 9083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a. Les aspirants aux fonctions de maître de cours spéciaux doivent être détenteurs soit d’un diplôme luxembourgeois de fin d’études secondaires, soit d’un diplôme luxembourgeois de fin d’études secondaires techniques, soit d’un diplôme luxembourgeois de technicien, soit d’un diplôme reconnu équivalent par le Ministre. En outre, ils doivent avoir accompli avec succès au moins deux années d’études à une école spécialisée de niveau supérieur et se prévaloir d’une pratique professionnelle de trois ans au moins, consécutive à l’accomplissement des études. 385 ––––– 2 (modifié par règlement grand-ducal du 21 janvier 2002) 3 (modifié par règlement grand-ducal du 21 janvier 2002) Les détenteurs d’un diplôme répondant à l’article 1er, paragraphe a ou à l’article 3, paragraphe b, de la directive 92/51/CEE remplissent les conditions d’études pour la nomination aux fonctions de professeur d’enseignement technique - si le diplôme au sens de la directive 92/51/CEE donne accès dans un Etat membre et dans la même spécialité, à la profession ou fonction correspondant à celle qui est visée au Luxembourg et si le demandeur peut faire état d’un exercice effectif et licite pendant trois ans dans une institution publique ou reconnue par l’Etat de la profession concernée dans un Etat membre, ou - si le diplôme au sens de la directive 92/51/CEE sanctionne un cycle d’études universitaires ou de niveau universitaire préparant à l’exercice dans la même spécialité de la profession correspondant à celle qui est visée au Luxembourg, et si le demandeur a exercé à plein temps cette profession pendant trois ans dans un Etat membre qui ne réglemente pas cette profession. Sur demande du candidat et sur avis de la commission d’examen chargée de procéder à l’examen concours de recrutement, le Ministre peut accorder une dispense partielle ou totale de la pratique professionnelle. b. Les aspirants aux fonctions de maître d’enseignement technique doivent être détenteurs du brevet de maîtrise dans leur spécialité et se prévaloir d’une pratique professionnelle de trois ans au moins, consécutive à l’obtention du brevet de maîtrise. Des règlements grand-ducaux peuvent instituer des examens spéciaux sanctionnant la qualification des aspirants maîtres d’enseignement technique dont la spécialité professionnelle ne comporte pas de brevet de maîtrise. Sur demande du candidat et sur avis de la commission d’examen chargée de procéder à l’examen concours de recrutement, le Ministre peut accorder une dispense partielle ou totale de la pratique professionnelle. Chapitre II: Le stage pédagogique",
+      "text_sha256": "ffd9e52a0ff0779f5229a0b14f1f549180c7a2cda7c12af07e4e6bc0a0e7f6c6",
+      "md_span": {
+        "start": 9118,
+        "end": 11705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "L’admission au stage pédagogique est accordée par le Ministre, conformément aux dispositions de l’article 6",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de la loi modifiée du 10 juin 1980 portant planification des besoins en personnel enseignant de l’enseignement postprimaire si le stagiaire remplit les conditions suivantes: 1. Etre ressortissant d’un Etat-membre de l’Union européenne, 2. Jouir des droits civils et politiques, 3. Offrir les garanties de moralité requises, 4. Satisfaire aux conditions d’aptitude physique requises pour l’exercice de la fonction. La demande d’admission au stage pédagogique, ainsi que les pièces et documents prouvant que les conditions pour l’accès au stage sont remplies, doivent parvenir au Ministre dans les délais fixés, sous peine de forclusion. L’admission au stage a lieu pour la durée totale du stage. L’admission au stage est révocable. Le licenciement du stagiaire peut intervenir à tout moment, l’intéressé entendu en ses explications. Sauf dans le cas d’un licenciement pour motifs graves, le stagiaire a droit à un préavis d’un mois.",
+      "text_sha256": "ee1305b3e7cd46a326d83c81d09b5bdfe63d706ff07dd933c24cbf7b17043366",
+      "md_span": {
+        "start": 11848,
+        "end": 12779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Le stage pédagogique a une durée minimale de 24 mois et une durée maximale de 40 mois, sans préjudice",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "des dispenses et des suspensions de stage prévues par les dispositions ci-dessous. Il commence le premier janvier de chaque année à moins que le Ministre n’en décide autrement sur demande motivée de l’intéressé. Le stage peut être suspendu par décision du Ministre pour la durée de toute absence prolongée en cas d’incapacité de travail du stagiaire ainsi que dans l’hypothèse où le stagiaire bénéficie des congés visés aux articles 29bis ou 30, paragraphe 1er de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat.",
+      "text_sha256": "7bc5c5fc85b28bd95f1191875a9bb64c245e8233233e43b0375efc5c9cec2e90",
+      "md_span": {
+        "start": 12916,
+        "end": 13467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Le stage comprend:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a) une formation pédagogique d’ordre pratique et d’ordre théorique avec une insertion progressive dans une tâche d’enseignement, (Règlement grand-ducal du 9 décembre 2004) b) une période probatoire comprenant une tâche d’enseignement et de surveillance et qui donne accès à la carrière. Chapitre III: La formation pédagogique d’ordre théorique et d’ordre pratique A. Organisation et intervenants",
+      "text_sha256": "ebf3031634c91995a6e58f678c82197a60531b5af7321232fa1f1d161a99fc99",
+      "md_span": {
+        "start": 13521,
+        "end": 13916
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "La formation pédagogique d’ordre théorique et d’ordre pratique a une durée de 5 périodes consécutives;",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "chaque période correspond à un trimestre scolaire. Une interruption n’est permise que sous la forme de suspension de stage. Les formations d’ordre théorique et d’ordre pratique sont organisées selon les principes suivants: - formation modulaire, - formation en alternances (théorie-pratique; établissement scolaire - institut de formation), - insertion progressive du stagiaire dans l’enseignement moyennant un système de tutorat, et dans les cinq domaines suivants: - domaine scientifique ayant trait aux acquis scientifiques et aux savoirs et savoir-faire résultant des sciences de l’éducation, 386 - domaine didactique ayant trait aux compétences méthodologiques de l’enseignant, - domaine pédagogique et éducatif tenant compte des différences individuelles des élèves, - domaine institutionnel ayant trait au cadre législatif de l’école et au projet d’établissement, - domaine ayant trait au projet personnel du candidat. Le stage pédagogique est organisé et mis en oeuvre par un établissement d’enseignement supérieur reconnu par le pays dans lequel il a son siège et appelé Institut de formation par la suite. D’après les principes précédents, le cadre de la formation, les principes d’organisation de la formation et les modalités de concertation entre le Ministre, les directeurs des lycées et lycées techniques concernés, et l’Institut de formation sont définis par le cahier des charges annexé au présent règlement. Une convention conclue sur base du cahier des charges entre le Ministre d’une part, et l’Institut de formation d’autre part, détermine les modalités de désignation des personnels intervenant dans la formation, les modalités de financement et le programme d’action pour chaque année de fonctionnement. Le cahier des charges en question est annexé au présent règlement dont il fait partie intégrante.",
+      "text_sha256": "6212b39cfda71d50e99f8d514c429dc345112749a3b8c69cb708517d108c0e39",
+      "md_span": {
+        "start": 14054,
+        "end": 15878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "L’Institut de formation qui est en charge de l’organisation du stage pédagogique a les missions suivantes:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a) concevoir et mettre en oeuvre les modules de formation et leurs contenus, b) proposer le parcours de formation du stagiaire, c) assurer et organiser la coordination entre la formation modulaire et le système de tutorat, d) assurer et organiser la formation d’ordre pratique dans les lycées et lycées techniques. L’Institut de formation soumet annuellement, pour chaque année de formation, au Ministre - une proposition définissant le parcours de formation ainsi que les programmes pour la formation d’ordre théorique et pour la formation d’ordre pratique, - une proposition de budget pour la mise en oeuvre du stage pédagogique. (Règlement grand-ducal du 9 décembre 2004) Le Ministre d’une part, et l’Institut de formation d’autre part, déterminent d’un commun accord les lycées appelés à prendre en charge la formation des stagiaires sur le terrain.",
+      "text_sha256": "c519c51097e9f257bf93df7d9e9821d378370defdf05f5e7674432e7049d49b1",
+      "md_span": {
+        "start": 16022,
+        "end": 16875
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Les fonctions suivantes interviennent dans le stage pédagogique avec les missions définies ci-après:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a. Le tuteur: Le tuteur est chargé d’assurer l’insertion progressive du stagiaire dans l’exercice de sa tâche d’enseignement. Il est responsable de la promotion des élèves dans la (les) classe(s) faisant partie de la tâche d’enseignement du stagiaire. Le tuteur est choisi parmi les enseignants fonctionnaires et doit être titulaire d’une ou de plusieurs classes. (Règlement grand-ducal du 9 décembre 2004) Outre le devoir d’inspection tel que défini aux articles 13 et 14 du présent règlement, le tuteur veille à ce que le stagiaire ait l’expérience d’enseigner dans d’autres classes que celles qui font partie de sa tâche d’enseignement, en l’accueillant notamment dans ses propres classes. Le tuteur suit une formation continue organisée ou agréée par l’Institut de formation. b. Le formateur: Le formateur est chargé d’intervenir dans les modules à l’Institut de formation et d’assurer l’insertion progressive du stagiaire dans la pratique pédagogique. c. Le coordinateur: La fonction de coordinateur existe pour chaque discipline dans laquelle les stagiaires sont formés et pour la formation modulaire. La coordination établit les liens entre la formation d’ordre théorique et la formation d’ordre pratique. Le coordinateur assure entre autres la coordination et l’organisation de la formation d’ordre pratique dans les lycées et lycées techniques, et ce en accord avec les directeurs des établissements concernés et arrêtées conformément aux dispositions prévues dans le cahier des charges défini ci-dessus. - Les coordinateurs de discipline, qui sont choisis parmi les enseignants fonctionnaires, doivent pouvoir faire valoir cinq années de service à partir de leur première nomination et assurer une tâche d’enseignement dans un lycée ou un lycée technique. Ils ont un mandat renouvelable de cinq ans. - Le coordinateur de module coordonne et organise le parcours de formation dans le système modulaire. Les coordinateurs de module ont un mandat renouvelable de cinq ans. d. Les experts: L’Institut de formation peut s’adjoindre des experts, notamment pour assurer l’ouverture sur le monde non- scolaire et pour établir les liens avec le monde de la recherche scientifique. Les fonctions de tuteur, de formateur, de coordinateur de module et de coordinateur de discipline sont compatibles entre elles. Pour chaque module et pour chaque discipline, la formation d’ordre théorique et d’ordre pratique du stagiaire doit être assurée par deux formateurs et tuteurs au moins. 387",
+      "text_sha256": "372a633a0481e011666b5c61430c2039b0386a74eb2fecb9f54d1c1aec006965",
+      "md_span": {
+        "start": 17013,
+        "end": 19495
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Lorsqu’il agit dans le cadre de sa tâche d’enseignement et des activités pédagogiques dans rétablissement,",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "le stagiaire est placé sous l’autorité du directeur de rétablissement concerné. Lorsqu’il est en formation, le stagiaire est placé sous l’autorité de l’Institut de formation. Lorsqu’il agit en sa qualité d’enseignant d’un groupe d’élèves, le tuteur est placé sous l’autorité du directeur de rétablissement concerné. Lorsqu’il intervient dans la formation du stagiaire, le tuteur est placé sous l’autorité de l’Institut de formation. La désignation des enseignants fonctionnaires qui interviennent dans le stage se fait selon les procédures suivantes: Le Ministre met à la disposition de l’Institut de formation les catégories du personnel qui sont fonctionnaires de l’Etat, qui ont une nomination dans un lycée ou lycée technique et qui en en vertu du principe de l’alternance interviennent dans le stage pédagogique. Pour ces catégories de personnel, les modalités de dépôt de candidature et les modalités de désignation sont les suivantes: (Règlement grand-ducal du 9 décembre 2004) Les tuteurs pour les différentes disciplines sont proposés par les directeurs des établissements d’enseignement postprimaire; ils sont regroupés en un pool de tuteurs et ils sont nommés par l’Institut de formation pour une durée de cinq ans. Pour postuler les fonctions de coordinateur de discipline, de coordinateur de module et de formateur, les enseignants fonctionnaires répondent à un appel aux candidatures lancé conjointement par le Ministre et l’Institut de formation et transmis par voie hiérarchique aux lycées et lycées techniques. Le choix est fait par l’Institut de formation sur accord du Ministre. B. Le parcours de formation (Règlement grand-ducal du 24 juillet 2001)",
+      "text_sha256": "e77339722b50aeb2cf2ec0026aeb6577d4d06441fbe190d8f34dc9245e25185c",
+      "md_span": {
+        "start": 19639,
+        "end": 21307
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "«Les 1re et 2e périodes du stage pédagogique comprennent:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a) des modules de formation qui sont définis en termes de compétences attendues, qui portent sur les sciences de l’éducation, l’institution de l’école ainsi que la profession enseignante et qui en vertu du principe de l’alternance, impliquent des exercices d’application pratique dans les lycées et les lycées techniques. (Règlement grand-ducal du 9 décembre 2004) b) une tâche d’enseignement sous la responsabilité d’un tuteur fixée à au minimum à sept leçons et au maximum à neuf leçons hebdomadaires. Le stagiaire effectue sa tâche d’enseignement sous la responsabilité d’un ou de plusieurs tuteurs qui accompagnent le stagiaire et l’assistent dans sa démarche didactique. Ces tuteurs ont aussi le devoir d’inspection. La promotion des élèves des classes du stagiaire est faite sous la responsabilité des tuteurs; c) des activités pédagogiques au cas où la tâche d’enseignement serait inférieure à neuf leçons hebdomadaires et ceci jusqu’à concurrence d’une tâche globale d’enseignement et d’activités pédagogiques de neuf leçons hebdomadaires. (Règlement grand-ducal du 24 juillet 2001)",
+      "text_sha256": "7282f90c26976b809687bfd0b3b7d8242b31b3dc1ee3d02e3743d8195b530bc5",
+      "md_span": {
+        "start": 21402,
+        "end": 22492
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "«Pendant les 3e, 4e et 5e périodes du stage pédagogique, le stage comprend:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Règlement grand-ducal du 9 décembre 2004) a) une tâche d’enseignement sous la responsabilité d’un tuteur; Le stagiaire est chargé d’une tâche d’enseignement dans les deux ordres d’enseignement postprimaire. Sa tâche hebdomadaire est fixée à au minimum à huit leçons et au maximum à dix leçons. Le stagiaire effectue sa tâche d’enseignement sous la responsabilité de tuteurs qui accompagnent le stagiaire et l’assistent dans sa démarche didactique. Ces tuteurs ont aussi le devoir d’inspection. La promotion des élèves des classes du stagiaire est faite sous la responsabilité des tuteurs. Par dérogation aux dispositions ci-dessus, les stagiaires qui se destinent aux fonctions de professeur-ingénieur, de professeur-architecte, de professeur de sciences de l’enseignement secondaire technique, de professeur d’enseignement technique, de maître de cours spéciaux ou de maître d’enseignement technique, suivent le tutorat dans un lycée technique. Par dérogation aux dispositions ci-dessus, les stagiaires qui se destinent aux fonctions de professeur de lettres et dont la spécialité est le latin, le grec ou la quatrième langue vivante suivent le tutorat dans leur première spécialité dans un lycée et suivent le tutorat dans une seconde discipline dans un lycée technique; b) des modules de formation qui sont définis en termes de compétences à atteindre, qui portent sur les sciences de l’éducation, l’institution de l’école ainsi que la profession enseignante et qui, en vertu du principe de l’alternance, impliquent des exercices d’application pratique dans les lycées et lycées techniques; c) des activités pédagogiques dans les établissements dans lesquels il suit son tutorat au cas où la tâche d’enseignement est inférieure à 104 leçons hebdomadaires et ceci jusqu’à concurrence d’une tâche globale d’enseignement et d’activités pédagogiques de 104 leçons hebdomadaires.»",
+      "text_sha256": "d6a9a185d175b6bca3493de67e2017c156991274924bfdd0c6d1f3f59ed9fe7a",
+      "md_span": {
+        "start": 22605,
+        "end": 24484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Au cours des cinq premières périodes, le stagiaire rédige un mémoire axé sur la profession de l’enseignant",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "et sur le parcours de formation personnel du stagiaire. 388 ––––– 4 (modifié par règlement grand-ducal du 9 décembre 2004) Le mémoire est rédigé en français ou en allemand ou en anglais. L’Institut de formation précise les critères de qualité du mémoire et les communique aux stagiaires. Le sujet du mémoire doit être approuvé par l’Institut de formation. Dans la préparation de ce mémoire, le stagiaire est tenu de se faire conseiller par un formateur ou un coordinateur de l’Institut de formation. C. Le diplôme délivré par l’Institut de formation (Règlement grand-ducal du 24 juillet 2001)",
+      "text_sha256": "103c96a0793b02ff92b56cbf3b63af8f86f630c4a717ef6bbed3a1876a54f325",
+      "md_span": {
+        "start": 24628,
+        "end": 25220
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "La formation pédagogique d’ordre théorique et d’ordre pratique est sanctionnée par un examen.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’examen consiste en la soutenance d’un dossier qui comprend: - les pièces certifiées délivrées par les coordinateurs de module pour les modules de formation suivis pendant les cinq premières périodes du stage pédagogique, - les pièces certifiées délivrées par les coordinateurs de discipline pour les activités menées par le stagiaire dans le cadre du tutorat, - le mémoire défini à l’article 15 du présent règlement. La soutenance du dossier a lieu devant une commission composée de trois membres désignés par l’Institut de formation. La décision est validée par les coordinateurs de modules et de discipline réunis en conseil. La décision motivée est transmise au stagiaire par voie écrite. L’Institut de formation établit les critères d’évaluation du dossier et les communique aux stagiaires. Un diplôme de formation pédagogique délivré selon la réglementation luxembourgeoise est émis par l’Institut de formation. Pour l’obtention du diplôme de formation pédagogique, chacune des trois parties doit être jugée suffisante par la commission. En cas de réussite, la commission décerne une des mentions suivantes: satisfaisant, avec distinction, avec grande distinction. L’obtention du diplôme donne accès à la période probatoire. Le stagiaire qui à l’issue des cinq trimestres n’a pas obtenu le diplôme de formation pédagogique est tenu de prolonger sa formation de trois trimestres, qui s’étalent sur une année scolaire, pour obtenir une appréciation suffisante dans la ou les parties jugées insuffisantes par la commission instituée pour la soutenance. A cet effet il propose un parcours individualisé en accord avec le coordinateur de module présent à la soutenance et le coordinateur de discipline. Dans ce parcours individualisé, le nombre d’heures d’enseignement et de formation est identique à celui des stagiaires en 3e, 4e et 5e périodes de formation. En cas d’échec, le stagiaire est écarté du stage pédagogique. Chapitre IV. La période probatoire",
+      "text_sha256": "f2e69ac733991e6e57c5e7613d455ac27203bf073899febbc56a24fb02ea04db",
+      "md_span": {
+        "start": 25351,
+        "end": 27310
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Pendant la 6e période du stage pédagogique, appelée «période probatoire», le stagiaire est obligatoirement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "chargé d’une tâche d’enseignement et de surveillance dans un lycée et un lycée technique; cette tâche d’enseignement et de surveillance est fixée à 16 leçons hebdomadaires. Il n’y a pas de tutorat pendant la 6e période du stage pédagogique. (Règlement grand-ducal du 24 juillet 2001)",
+      "text_sha256": "5d21c97deebb33cb7b51e512442a055e39db3bdb6b24f8866b9daf703924c6d7",
+      "md_span": {
+        "start": 27454,
+        "end": 27737
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "La période probatoire comprend un examen de fin de stage dont la réussite constitue une des conditions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "donnant accès à la fonction briguée par le stagiaire. Cet examen comporte les 5 épreuves suivantes: a) deux leçons d’examen effectuées dans deux classes pour lesquelles le stagiaire est chargé d’une tâche d’enseignement. Pour les stagiaires se destinant aux fonctions de professeur de lettres, professeur de sciences, professeur de sciences économiques et sociales, professeur d’éducation artistique, professeur d’éducation physique, professeur d’éducation musicale, et de professeur de doctrine chrétienne, l’une des deux leçons est prestée dans une classe de l’enseignement secondaire, l’autre dans une classe de l’enseignement secondaire technique; b) l’élaboration et la soutenance d’un dossier pédagogique qui comporte dans une classe de l’enseignement secondaire et dans une classe de l’enseignement secondaire technique la préparation d’un cours portant sur six leçons consécutives, c) l’élaboration de deux devoirs en classe qui se rapportent aux cours portant sur six leçons consécutives définies sous b) ci-dessus ainsi que l’évaluation de la prestation des élèves dans ces deux devoirs en classe. 389 d) une épreuve portant sur les connaissances du stagiaire de la législation scolaire en vigueur; en vue de cette épreuve, des cours de législation scolaire peuvent être organisés par le Ministre. La partie de l’évaluation qui porte sur les deux leçons effectuées dans les deux classes intervient à raison de 25 points pour chaque leçon dans la note attribuée pour la période probatoire; les parties énumérées sous b) et c) ci-dessus interviennent respectivement pour 25 points et 15 points dans cette note alors que la partie énumérée sous d) y intervient pour 10 points. Les stagiaires qui se destinent aux fonctions de professeur-ingénieur, professeur-architecte, de professeur de sciences de l’enseignement secondaire technique, de professeur d’enseignement technique, de maître de cours spéciaux et de maître d’enseignement technique effectuent les deux leçons dans un lycée technique. Les stagiaires qui se destinent aux fonctions de professeur de lettres et dont la spécialité est le latin, le grec ou la quatrième langue vivante effectuent la leçon dans leur première spécialité dans un lycée et effectuent la deuxième leçon dans une seconde discipline dans un lycée technique. L’examen a lieu devant des commissions instituées à cet effet; chaque commission est nommée par le Ministre et elle se compose de cinq membres: - un Commissaire du Gouvernement, qui la préside, - un directeur ou un directeur adjoint de lycée ou de lycée technique. - trois enseignants fonctionnaires, dont au moins un enseignant étant intervenu dans le stage pédagogique durant les premières cinq périodes. (Règlement grand-ducal du 9 décembre 2004) La commission ne peut délibérer valablement que si au moins quatre de ses membres sont présents. Il y a chaque année trois sessions d’examen: la première au cours du premier trimestre de l’année scolaire, la deuxième au cours du deuxième trimestre et la troisième au cours du troisième trimestre. Les candidats sont tenus de se présenter à la première session, sauf cas de force majeure reconnu par le Ministre.",
+      "text_sha256": "9c6c851b46fdca3c4e64c9100ae27375bf887fb4ad4968c04b85eec163daeca6",
+      "md_span": {
+        "start": 27877,
+        "end": 31035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "La commission d’examen prend à l’égard de chaque stagiaire une des décisions suivantes: admission,",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ajournement, refus. Pour être admis, le stagiaire doit avoir obtenu une note égale ou supérieure à la moitié du maximum des points prévus dans chacune des épreuves. Une note inférieure à la moitié du maximum des points dans une épreuve est considérée comme une note insuffisante; elle donne lieu à un ajournement. Une note insuffisante dans plus d’une épreuve ainsi qu’une note insuffisante dans l’épreuve d’ajournement entraînent le refus. En cas d’ajournement ou de refus le stagiaire est renvoyé à la session suivante. (Règlement grand-ducal du 24 juillet 2001) Le candidat qui interrompt l’examen, est, après appréciation par la commission du motif de l’interruption, ou bien renvoyé à une session ultérieure ou bien autorisé à achever, en cours de session, l’examen déjà commencé. Toutefois, si le résultat des épreuves déjà subies entraîne le refus du candidat, cette décision est communiquée au candidat. Le stagiaire qui n’est pas admis à la deuxième session à laquelle il s’est présenté est écarté du stage.",
+      "text_sha256": "772416594a8122cb3a3b8391b4f9047194a98c9bcde47e2818e850a5a31143c3",
+      "md_span": {
+        "start": 31171,
+        "end": 32187
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Les stagiaires admis à l’examen probatoire peuvent être nommés candidats dans la fonction afférente, selon",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "les besoins de service et dans l’ordre de leur ancienneté de service respective à compter de la session où ils ont terminé avec succès l’examen de fin de stage. En cas d’ancienneté égale et pour autant que de besoin, les candidats d’une même fonction et spécialité sont classés sur la base du total des points obtenus aux différentes épreuves de l’examen de fin de stage. Ils sont nommés dans l’ordre de ce classement. En cas d’égalité des points, la préférence est donnée au candidat le plus âgé. Les stagiaires d’une même spécialité sont classés par le Ministre conformément aux dispositions qui suivent. Le rang du stagiaire dans le classement se fait sur la base du total des points obtenus dans l’évaluation de ses prestations lors de l’examen probatoire. Pour chaque épreuve dans chaque partie de l’évaluation qui a donné lieu à un ajournement ou à un refus, la moitié du maximum des points est mise en compte.",
+      "text_sha256": "d5b8cf412647a99f1c8601655a242e0a262d36bf29ab3059c536d668d225497d",
+      "md_span": {
+        "start": 32331,
+        "end": 33247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Nul ne peut, en qualité de membre d’une commission, prendre part à l’examen d’un de ses parents ou alliés",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "jusque et y compris le quatrième degré. Chapitre V. Le Conseil de Formation pédagogique",
+      "text_sha256": "a015ae8e74d986c690d99360c80d57455d79a797c1ad775777377e52c8fcd02b",
+      "md_span": {
+        "start": 33390,
+        "end": 33477
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Le Ministre nomme un Conseil de Formation pédagogique.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le Conseil de Formation pédagogique a les attributions suivantes: - il avise les propositions de programme et de budget soumises par l’institut de formation au Ministre; - il avise la mise en oeuvre du stage pédagogique; - il fait des propositions sur les orientations à donner au stage pédagogique; 390 - il évalue annuellement la conformité de la mise en oeuvre du stage pédagogique à la convention conclue entre l’Institut de formation et le Ministre. Le Conseil de Formation pédagogique se réunit au moins deux fois par an. Il a la composition suivante: - trois représentants du Ministre, - trois directeurs de lycée ou lycée technique, - cinq enseignants fonctionnaires nommés dans un lycée ou un lycée technique. Ces 11 membres sont nommés par le Ministre pour un mandat de cinq ans. Les mandats sont renouvelables. Le Conseil de Formation pédagogique est présidé par un des représentants du Ministre. Le Conseil de Formation pédagogique soumet son règlement d’ordre intérieur pour approbation au Ministre. L’administrateur ainsi qu’un coordinateur désigné par l’Institut de formation assistent avec voix consultative aux débats. Le Conseil de Formation pédagogique peut s’adjoindre des experts. Chapitre VI. Dispenses",
+      "text_sha256": "2f557e0831c85ac6a54099045d9f8e89a4de338da2670aab4f87df1fcb007971",
+      "md_span": {
+        "start": 33569,
+        "end": 34793
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "Par dérogation aux dispositions de l’article 8 ci-dessus, une dispense de la partie du stage portant sur la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "formation visée au paragraphe a) du même article peut être accordée par le Ministre, sur avis d’une commission consultative. Cette commission comprend 5 membres nommés par le Ministre pour une durée de trois ans. Elle examine les dossiers des stagiaires ayant présenté une demande de dispense de stage et émet son avis y relatif. Peuvent bénéficier de cette dispense les stagiaires qui, à l’entrée du stage pédagogique. peuvent se prévaloir d’une formation pédagogique théorique et pratique intégrale, auprès d’un établissement d’enseignement public ou privé, luxembourgeois ou appartenant à un autre Etat membre de l’Union européenne. Aucune dispense ne peut être accordée pour la période probatoire visée à l’article 8, paragraphe b. ci-dessus. Une dispense de la partie du stage prévue à l’article 8, paragraphe a), sans obligation de se soumettre ni à une épreuve d’aptitude ni à un stage d’adaptation peut être accordée au stagiaire pouvant se prévaloir d’une formation pédagogique équivalente à celle prévue au paragraphe a) de l’article 8 ci-dessus. Une dispense de la partie du stage prévue à l’article 8, paragraphe a), avec obligation de se soumettre soit à une épreuve d’aptitude soit à un stage d’adaptation peut être accordée au stagiaire pouvant se prévaloir d’une formation pédagogique théorique et pratique portant sur des matières différentes de celles couvertes par le diplôme de formation pédagogique visé à l’article 16 ci-dessus. L’épreuve d’aptitude vise à vérifier si le candidat maîtrise suffisamment les matières et compétences prévues par les dispositions du chapitre III. B. - Le parcours de formation - du présent règlement et non couvertes par la formation du candidat. Le stage d’adaptation, d’une durée maximale de dix-huit mois, vise à familiariser le stagiaire avec les objectifs et la pratique de l’enseignement luxembourgeois sur la base des matières et compétences prévues par les dispositions du chapitre III. B. - Le parcours de formation - du présent règlement et non couvertes par la formation du candidat.",
+      "text_sha256": "e6a0b00e85f5d0e4251375fd7a6e5f24ddcc2ba9f303c371fb9e0abe716e1373",
+      "md_span": {
+        "start": 34938,
+        "end": 36984
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "Les contenus, la date et l’organisation de l’épreuve d’aptitude, les contenus, les modalités d’évaluation et la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "durée du stage d’adaptation ainsi que le volume de la tâche d’enseignement hebdomadaire à assurer par le stagiaire se soumettant à une épreuve d’aptitude ou accomplissant un stage d’adaptation sont fixés par le Ministre sur avis de la commission consultative. La réussite à l’épreuve d’aptitude ainsi que l’accomplissement avec succès du stage d’adaptation donnent accès à la partie du stage prévue à l’article 8, paragraphe b), ci-dessus, dans le respect des dates auxquelles cette partie du stage est fixée par les dispositions de l’article 18 du présent règlement. Chapitre VII. Droits et devoirs du stagiaire",
+      "text_sha256": "a3759604b0cf5a4497d5be0c2789884ea25dc1bdfea120ed4d2b0a82b5d69f39",
+      "md_span": {
+        "start": 37133,
+        "end": 37745
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": "Affectation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le Ministre décide de l’affectation du stagiaire. En principe, cette décision vaut pour une année scolaire. Dans l’intérêt du service ou du stage, le stagiaire peut être changé d’affectation. Le stagiaire concerné dispose d’un délai de trois jours francs pour communiquer par écrit ses observations au Ministre, qui confirmera ou modifiera sa décision. Lorsqu’une mutation nécessite un changement de résidence ou de logement, le stagiaire a droit au remboursement des frais de déménagement et, le cas échéant, des frais accessoires, dans les conditions et suivant les modalités déterminées par le règlement grand-ducal du 5 août 1993 sur les frais de route et de séjour ainsi que sur les indemnités de déménagement des fonctionnaires et employés de l’Etat. 391",
+      "text_sha256": "719906dc625476a533c5476b1076d0d55fbad64747e60d83ad24eace384724bc",
+      "md_span": {
+        "start": 37794,
+        "end": 38554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Devoirs du stagiaire",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’article 9, paragraphes 1, 2, et 4, ainsi que les articles 10 à 16bis5 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat sont applicables aux stagiaires des différentes fonctions enseignantes, le cas échéant par application analogique.",
+      "text_sha256": "211edff233048be45118b976920446639ba7d74af58567092e6588e322ec8317",
+      "md_span": {
+        "start": 38612,
+        "end": 38888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": "Incompatibilité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La qualité de stagiaire est incompatible avec le mandat de député. L’acceptation par un stagiaire de ce mandat entraîne les conséquences prévues par la loi.",
+      "text_sha256": "e9567944b3af764f41c90dbda100fda88da11f987e637a1ee48417606b03a308",
+      "md_span": {
+        "start": 38941,
+        "end": 39097
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": "Congés",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le stagiaire a droit à des jours fériés et bénéficie de congés dans les limites et aux conditions prévues au présent chapitre ou à la réglementation du régime des congés du personnel enseignant de l’enseignement postprimaire. Les congés visés à l’alinéa qui précède comprennent notamment: a) le congé annuel de récréation, b) le congé pour raisons de santé, c) les congés extraordinaires et les congés de convenance personnelle, d) le congé de maternité ou le congé d’accueil, e) le congé-éducation, f) le congé sans traitement, g) le congé pour activité syndicale ou politique, h) le congé sportif, i) le congé parental, j) le congé pour raisons familiales. Le congé annuel de récréation ne peut se situer en dehors des vacances et congés scolaires. Pour le bénéfice du congé sans traitement par le stagiaire, seuls les paragraphes 1er, à l’exception du dernier alinéa, 3 et 4 de l’article 30 de la loi modifiée du 16 avril 1979 précitée sont applicables. Pour le bénéfice du congé parental, le stagiaire doit être en service depuis un an au moins. Le stagiaire conserve, pendant la durée des congés, sa qualité de stagiaire. Sauf disposition contraire, il continue de jouir des droits conférés par le présent statut et reste soumis aux obligations y prévues.",
+      "text_sha256": "b1ae8f7a1b2ea80e4518f3b91347794343d203f3cd54e7377d3160b16882c2b9",
+      "md_span": {
+        "start": 39141,
+        "end": 40401
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": "Congé de maternité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Le stagiaire féminin a droit, sur présentation d’un certificat médical attestant la date présumée de l’accouchement, à un congé de maternité. Cette période de congé exceptionnel se décompose en congé prénatal de huit semaines et en congé postnatal de huit semaines. Si l’accouchement n’a lieu qu’après la date prévue par le médecin, le congé prénatal est prolongé jusqu’à l’accouchement et sans que la durée du congé à prendre obligatoirement après l’accouchement puisse être réduite. La durée du congé postnatal est portée de huit à douze semaines en cas d’accouchement prématuré ou multiple ainsi que pour les mères allaitant leur enfant. 2. En cas d’adoption d’un enfant non encore admis à la première année d’études primaires, le stagiaire bénéficie, sur présentation d’une attestation de livrée par le tribunal selon laquelle la procédure d’adoption est introduite, d’un congé d’accueil de huit semaines. Le bénéfice de cette disposition ne s’applique pourtant qu’à l’un des deux conjoints. En cas d’adoption multiple, la durée du congé d’accueil est portée de huit à douze semaines. 3. Le congé de maternité visé au paragraphe 1er ainsi que le congé d’accueil visé au paragraphe 2 sont considérés comme période d’activité de service. 4. Sans préjudice des dispositions légales plus favorables, sont applicables aux stagiaires féminins, le cas échéant par analogie, les dispositions de la loi du 1er août 2001 concernant la protection des travailleuses enceintes, accouchées et allaitantes6.",
+      "text_sha256": "96701a288776ca41a99433d59a8793a5dd09ad493d5a63a10b31ce7386f0c1a5",
+      "md_span": {
+        "start": 40457,
+        "end": 41956
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": "Protection du stagiaire",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les articles 32 à 35 de la loi modifiée du 16 avril 1979 précitée sont applicables aux stagiaires des fonctions enseignantes de l’enseignement postprimaire, le cas échéant par application analogique. 392 ––––– 5 (modifié par règlement grand-ducal du 9 décembre 2004) 6 (modifié par règlement grand-ducal du 9 décembre 2004)",
+      "text_sha256": "201081d0ee44e97cfc06ecb2364abebbca48b39639a34aa28fa6e2134cded82e",
+      "md_span": {
+        "start": 42017,
+        "end": 42340
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": "Droit d’association",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les stagiaires jouissent de la liberté d’association et de la liberté syndicale. Toutefois, ils ne peuvent recourir à la grève que dans les limites et sous les conditions de la loi qui en réglemente l’exercice. Les stagiaires sont électeurs de la chambre professionnelle des fonctionnaires et employés publics et y sont éligibles.",
+      "text_sha256": "e9a32522e8262cb4e3c7ba34ebe927c9f449f04b7238e31d2eda063bdc83cd5d",
+      "md_span": {
+        "start": 42397,
+        "end": 42727
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "Sécurité sociale, pension",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le stagiaire bénéficie du régime de sécurité sociale applicable aux fonctionnaires de l’Etat. Pour chaque stagiaire, la durée effective du stage, telle qu’elle résulte des dispositions de l’article 7, est comptée comme temps de service pour le calcul de la pension.",
+      "text_sha256": "36aef7f6355b4a6650143442d7103e3fdc65b66afda12341dcfc9466b49ae915",
+      "md_span": {
+        "start": 42790,
+        "end": 43055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": "Cessation du stage",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La cessation du stage résulte: a) du décès du stagiaire, b) de l’application des dispositions de l’article 6, dernier alinéa, du présent règlement, c) de la démission volontaire régulièrement acceptée et de la démission d’office, d) de la perte de la nationalité d’un des Etats membres de l’Union européenne, e) de la perte des droits civils et politiques, f) de la perte du droit d’enseigner. 2. Cesse également ses fonctions le stagiaire qui, à l’issue de son stage, n’obtient pas de nomination définitive.",
+      "text_sha256": "e5f7aa9c06ae62a1cb1e328ae71478814b4811c59d0b111135e8f5d9315f94d9",
+      "md_span": {
+        "start": 43111,
+        "end": 43622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": "Le stagiaire est en droit de renoncer à ses fonctions. Il ne peut toutefois abandonner l’exercice de ses",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "obligations de service avant d’avoir obtenu l’accord du Ministre. La demande de démission doit être adressée par écrit au Ministre par la voie hiérarchique. Elle doit préciser la date à laquelle le stagiaire désire cesser ses fonctions. L’accord du Ministre doit être notifié dans un délai ne pouvant excéder trente jours à partir de la date de réception de la demande de démission des fonctions. La décision du Ministre fixe l’effet de la cessation définitive à la date proposée par le stagiaire à moins que l’intérêt du service n’impose le choix d’une date plus éloignée. Celle-ci ne peut être postérieure de plus de trois mois à la date de réception de la demande du stagiaire. Le Ministre peut refuser la demande de démission des fonctions si une action disciplinaire est déjà en cours à la date de la réception de la demande ou si une telle action est exercée dans les trente jours qui suivent.",
+      "text_sha256": "2e82f6d826c4bce65a7c928dfa5cdfeccae3f0d0eb99d91c72a7f9cb6e89762d",
+      "md_span": {
+        "start": 43764,
+        "end": 44663
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": "Discipline",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les articles 44, 47 numéros 1 à 3, 54, paragraphe 1er, ainsi que l’article 74 de la loi modifiée du 16 avril 1979 précitée sont applicables aux stagiaires des différentes fonctions enseignantes de l’enseignement postprimaire, le cas échéant par application analogique. Les sanctions de l’avertissement, de la réprimande et de l’amende sont appliquées par le Ministre ou par le chef hiérarchique du stagiaire. Chapitre VIII. Dispositions transitoires",
+      "text_sha256": "84a8ed5ca005681b44d097ce74182c101c1a404da3f0ecb787983cf9402b3ae9",
+      "md_span": {
+        "start": 44711,
+        "end": 45160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par règlement grand-ducal du 24 juillet 2001) Chapitre VIII. Dispositions générales",
+      "text_sha256": "19863cb95e11c1d77a38aff7760c3b54d16042d931b0dfc4c5bc72bff37a6d69",
+      "md_span": {
+        "start": 45197,
+        "end": 45288
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": "p.m.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 45330,
+        "end": 45330
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": "Les dispositions du présent règlement entrent en vigueur pour les stagiaires nouvellement admis au stage",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "pédagogique à partir du premier janvier 2005. (Règlement grand-ducal du 9 décembre 2004)",
+      "text_sha256": "e78aa2c57ee214d3337f58611d7fbaf59f3e83a75725935366c2b4d83c4829d3",
+      "md_span": {
+        "start": 45472,
+        "end": 45560
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": "La Convention pour la mise en œuvre du stage pédagogique des enseignants de l’enseignement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "postprimaire conclue en date du 12 février 1999 et reconduite tacitement d’année en année entre le Centre Universitaire de Luxembourg et le Ministre de l’Éducation nationale et de la Formation professionnelle reste en vigueur jusqu’à la conclusion d’une nouvelle convention.",
+      "text_sha256": "e7b5295cd177b6c01edf3e0184f6aad558caebcad5e501ae4f75a7bfb56fef95",
+      "md_span": {
+        "start": 45688,
+        "end": 45962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:rgd-1999-06-02-n2:2004-12-24#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": "Notre Ministre de l’Education nationale et de la Formation professionnelle est chargée de l’exécution du",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "présent règlement, qui sera publié au Mémorial. 393 Annexe Le cahier des charges soumis à l’Institut de formation Sommaire 1. Le plan de formation: orientations générales 1.1. les missions de l’enseignant 1.2. les principes de la formation 1.3. des éléments pour une évaluation de la mise en œuvre et des contenus du stage pédagogique 2. Le plan de formation: objectifs et contenus 2.1. le référentiel de compétences 2.2. la carte des modules 2.3. le tutorat 3. Le plan de formation: organisation et modalités de mise en œuvre 3.1. la répartition des volumes horaires 3.2. le réseau des intervenants 3.3. la fiche financière 4. Dispositions diverses 4.1. la durée du contrat 4.2. la reconduction ou la rupture du contrat 4.3. la charte de développement de l’organisme 4.4. la dimension européenne de la formation 4.5. les rapports intermédiaires 1. Orientations générales Le développement professionnel est à la base de la formation. Ainsi, le cadre de référence de la formation procède de l’analyse des missions assignées aux différents types d’enseignants et répond à un double souci de cohérence: - cohérence de la formation initiale de l’ensemble du corps enseignant de l’enseignement postprimaire; c’est à cette volonté que répond la liste des compétences à développer chez les enseignants; - cohérence du dispositif de formation; 1.1. Les missions de l’enseignant Une première mission de l’enseignant est d’instruire les jeunes qui lui sont confiés, de contribuer à leur éducation et de leur assurer une formation qui permette l’insertion sociale et professionnelle. L’enseignant exerce sa profession dans des établissements de l’enseignement secondaire et/ou de l’enseignement secondaire technique aux caractéristiques variables selon le public accueilli, l’implantation géographique, la taille et les formations offertes. L’enseignant fait acquérir les savoir et savoir-faire, selon les objectifs définis pour les niveaux de compétences fixés par les programmes et référentiels de diplômes. Il concourt au développement des aptitudes et capacités des élèves. Il les aide à développer leur esprit critique, à élaborer un projet personnel et à construire leur autonomie. Il prépare les élèves à la société de l’information et de la communication médiatisée qui se développe. Il se préoccupe également de leur faire comprendre le sens et les valeurs qui sont à la base de notre société démocratique et les prépare ainsi au plein exercice de leur citoyenneté. Dans le cadre des orientations et des programmes définis par le Ministre de l’Education nationale et de la Formation professionnelle, l’enseignant dispose d’une autonomie dans ses choix pédagogiques. Cette autonomie s’exerce dans le respect des principes suivants: - les élèves sont au centre de la réflexion et de l’action de l’enseignant, qui les considère comme des personnes capables d’apprendre et de progresser et qui les fait devenir les acteurs de leur propre apprentissage; - l’enseignant agit avec équité envers les élèves; il les connaît et les accepte dans le respect de leur diversité; il est attentif à leurs difficultés et veille à y apporter une aide; - l’enseignant exerce son métier en liaison avec les membres de la communauté scolaire dans le cadre d’équipes à géométrie variable; - l’enseignant est conscient qu’il exerce un métier complexe, diversifié et en constante évolution. Il poursuit sa propre formation tout au long de sa vie professionnelle. Il s’attache pour cela à actualiser ses connaissances ainsi que ses compétences et à mener une réflexion permanente sur ses pratiques professionnelles. La mission de l’enseignant et la responsabilité qu’elle implique se situent dans le triple cadre du système éducatif, de son établissement d’affectation et des classes qui lui sont confiées. 394 1.2. Les principes de la formation Le référentiel de compétences défini ci-dessous devient le principe organisateur de la formation. Le dispositif de formation permet de développer, de mettre en œuvre et d’évaluer des compétences. Les savoirs propres à chaque discipline sont considérés comme des ressources qui prennent sens par rapport à la maîtrise des compétences professionnelles visées. La formation se fait en alternance entre périodes de « regroupement » des stagiaires dans des équipes de formes diverses à l’Institut de formation et périodes de formation sur le « terrain ». Cette alternance est au service d’une formation à visée de professionnalisation. Elle repose sur une complémentarité entre les différents temps et les différents lieux de formation. La formation comprend une partie tutorat d’accueil dans un lycée et/ou un lycée technique et une formation par modules à l’Institut de formation. Le plan de formation par module se présente comme une succession d’unités cohérentes, chacune prenant en charge, à son niveau et à sa manière, l’articulation théorie/pratique, avec une norme commune: en principe, 40% de temps de formation sur le terrain avec entre autres visites de sites-pilotes. C’est sur la base d’objectifs et d’objets communs au sein du tutorat et des modules de formation que cette complémentarité est organisée et mise en œuvre par les différents acteurs engagés dans le dispositif: tuteurs, formateurs, coordinateurs par discipline, coordinateurs de modules, ainsi que des experts chargés d’interventions ponctuelles. La pluralité des intervenants et des rôles respectifs nécessite des références communes et partagées. Le public, adultes en formation professionnelle, autant que la finalité de la formation (exercice de responsabilité) nécessitent que le stagiaire soit associé à l’élaboration de son parcours. Cette préoccupation d’individualisation trouve une expression toute particulière durant les périodes sur le «terrain». Durant les périodes de regroupement, si la formation est essentiellement collective, elle comporte également des éléments de différenciation. Dans tous les cas, en fonction de l’expérience et des acquis antérieurs des stagiaires, il est prévu des modulations: - dans la mise en situation en vue de permettre l’exercice de responsabilités ultérieures; - dans la préparation et la réalisation de productions de natures diverses. Cette modulation des activités suppose, dès la phase initiale de la formation « un positionnement » de stagiaires de façon à faire apparaître les besoins qui orientent l’élaboration et la régulation de parcours de formation. La définition et le suivi de ces parcours s’effectuent à partir du cadre de référence que constituent les compétences complexes. (voir sub 2.1.) 1.3. Des éléments pour une évaluation de la mise en oeuvre et des contenus du stage pédagogique: Le référentiel de compétences présenté ci-après (voir sub 2.1.) s’inscrit également dans une logique d’évaluation. Dans cette perspective, l’Institut de formation et le Ministre de l’Education Nationale et de la Formation Professionnelle préciseront les éléments nécessaires à la régulation du dispositif de formation. Ces éléments tiennent compte des critères suivants: - l’évaluation se fait par rapport au référentiel des compétences; - l’évaluation se situe dans une optique évolutive; - l’évaluation est faite selon un modèle participatif avec intervenants internes et externes. 2. Objectifs et Contenus Conformément aux dispositions qui définissent la formation, les contenus de la formation s’organisent selon des compétences qui font appel à des savoir et des savoir-faire clairement définis par rapport à des situations données. 2.1. Le référentiel de compétences Le terme de compétence est pris au sens large: l’aptitude à réaliser une tâche ou résoudre un problème dans un contexte professionnel déterminé en mobilisant des acquis de tous ordres. Est présenté ci-après le répertoire de compétences: - communiquer de manière efficace, consensuelle et cohérente avec les partenaires internes et externes à l’école à des moments institutionnalisés et improvisés; - construire un (son) projet professionnel permanent dans le cadre institutionnel en tenant compte des savoirs scientifiques et des pratiques pédagogiques variés, et qui permet une évolution personnelle nourrie par une réflexion continue et des initiatives personnelles; - maîtriser le cadre institutionnel du système scolaire afin de l’appliquer et de l’expliquer dans sa pratique; - piloter, en coopération avec d’autres enseignants, des activités d’apprentissage reflétant la diversité des élèves afin de mieux les impliquer dans l’atteinte des objectifs d’apprentissage; - réguler l’apprentissage dans une optique formative dans des séances régulières et fréquentes en donnant à l’élève un feed-back qui l’aide à progresser; - exploiter des informations scolaires et socio-familiales, voire socio-culturelles en rapport avec l’élève à partir de sources internes et externes à l’école, pour aider à résoudre de façon rationnelle et efficace une situation; 395 - contrôler dans un cadre institutionnel donné, les connaissances et les savoir-faire des élèves dans une optique certificative, en fonction des objectifs d’apprentissage et des règlements de promotion; - articuler les savoirs psycho-pédagogiques et disciplinaires dans la pratique pédagogique et en formation continue par rapport à des références scientifiques actualisées; - aider l’élève à devenir autonome et à construire son projet personnel cohérent avec ses capacités et ses attentes dans des situations d’orientation et de consultation et des situations d’apprentissage; - mettre en œuvre une recherche permanente par rapport à sa propre pratique; - participer activement au développement de l’organisation et de la qualité pédagogique de l’établissement; - rendre l’élève responsable dans le cadre scolaire et socioculturel, ce qui doit aboutir à un comportement positif et intégré. 2.2. La carte des modules: 2.2.1. Principes/définitions Le module est un ensemble de séquences d’apprentissage regroupées par un objectif terminal et mettant en œuvre les principes de la formation. Il structure les contenus et les met en cohérence. Les principes organisateurs des modules sont: - l’alternance des lieux de formation et des intervenants, - la mise en cohérence « pratique/théorie », - l’interdisciplinarité, - le travail en équipe, - l’apprentissage par l’action, - la participation active de l’apprenant, - la différenciation, - le travail par projet. La dimension de chaque module peut varier, mais en moyenne elle se situe autour de 90 heures d’intervention. La formation est organisée autour de cinq modules. Au sein de chaque module, les modalités de travail intègrent des modes d’appropriation variés: conférences, exposés, tables rondes, travaux pratiques, études de cas, recherche personnelle, auto-formation, formation on-line. Parmi ces modalités, des ateliers s’inscrivent dans la perspective de résolution de problèmes professionnels et visent plus particulièrement à privilégier les interactions théorie/pratique. Ces ateliers regroupent les séquences qui, à l’Institut de formation, sont centrées sur la préparation et l’exploitation de situations professionnelles. Ils permettent aussi l’échange et la structuration des expériences vécues ou observées sur le terrain, en vue d’une réflexion préparant l’entrée en fonction. Participent également à l’alternance, les observations, les études ou les analyses réalisées sur le terrain, préparées et exploitées lors des regroupements. La formation se sert des technologies de l’information et de la communication comme outil de travail. Le potentiel des technologies est exploité au mieux par les stagiaires dans le cadre de leurs travaux de recherche aux niveaux de la production, de la recherche de l’information, de la publication et de l’échange. Par ailleurs, les technologies sont employées activement par les stagiaires dans un travail interdisciplinaire approfondi ou dans la réalisation pratique d’un projet; dans le cadre modulaire une approche interdisciplinaire est privilégiée afin de centrer la réflexion pédagogique sur les différents aspects du processus d’apprentissage, à savoir: le contexte socioculturel, le cadre d’apprentissage, les échanges authentiques, l’autonomie et la responsabilité, la valeur des compétences individuelles. (Règlement grand-ducal du 9 décembre 2004) Les compétences visées à la rubrique ci-après sont à répartir sur trois modules, la coordination entre les trois modules étant à organiser par l’Institut de formation. Le contenu de la formation est défini par l’Institut de formation en fonction du « Référentiel des compétences » repris à la rubrique 2.1. et en fonction des compétences énumérées à la rubrique 2.2.2.. 2.2.2. Les modules 1. concevoir et conduire des activités d’enseignement et d’apprentissage L’enseignement suppose la capacité de traduire les contenus des disciplines dans des formes pédagogiques efficaces et adaptées aux différences individuelles. Le module doit donc amener les stagiaires à acquérir l’habileté à planifier le contenu des disciplines et à proposer aux élèves des situations d’apprentissage adaptées à leurs capacités et ce, dans le respect de la démarche éducative propre à ces disciplines. Par ailleurs, la maîtrise de l’intervention didactique présuppose elle-même la connaissance de la manière dont une personne pense, apprend et évolue. Compte tenu de ce qui précède, les compétences particulières considérées comme les plus importantes en ce qui concerne l’intervention pédagogique proprement dite sont les suivantes: - connaissance des processus par lesquels la personne acquiert des connaissances, développe des compétences et adopte des attitudes ou des comportements; 396 - connaissance des programmes d’études pour les disciplines à enseigner (nature des objectifs, fondements pédagogiques et perspective historique); - connaissance des formes courantes de ressources didactiques; - capacité de planifier à court et à moyen terme des activités d’enseignement et d’apprentissage liées aux objectifs des programmes d’études; - capacité d’élaborer des stratégies d’enseignement qui favorisent l’exploitation de compétences transversales comme l’esprit d’analyse et de synthèse, la capacité de résoudre des problèmes; - la capacité de choisir et d’utiliser les ressources didactiques appropriées et non discriminatoires, notamment celles qui mettent à profit les nouvelles technologies de l’information; - la capacité d’offrir des activités d’enseignement et d’apprentissage adaptées aux exigences de la situation pédagogique et aux caractéristiques des élèves ainsi que d’en assurer le bon déroulement; - capacité de transmettre aux élèves des exigences claires et de bon niveau; - capacité de communiquer des savoirs et/ou des savoir-faire; 2. évaluer et réguler des savoirs et des capacités dans des activités d’enseignement et d’apprentissage La formation doit rendre les stagiaires capables d’ évaluer et de certifier les apprentissages réalisés par leurs élèves et, notamment de repérer les obstacles à ces apprentissages. Compte tenu de ce qui précède, les compétences particulières considérées comme les plus importantes en ce qui concerne l’évaluation sont les suivantes: - connaissance des facteurs qui influencent la réussite scolaire des élèves et capacité de collaborer à l’instauration de conditions propices à la réussite du plus grand nombre; - capacité de mettre en oeuvre des démarches et des procédés d’évaluation formative et d’évaluation sommative des apprentissages pour les disciplines à enseigner; - capacité de déceler les besoins d’ordre pédagogique des élèves, aussi bien de ceux qui sont doués que de ceux qui éprouvent des difficultés, et capacité d’y répondre par la différenciation; 3. développer l’autonomie et la responsabilité de l’élève L’école est une institution sociale dont la responsabilité est de former l’ensemble des jeunes pour qu’ils deviennent des personnes autonomes et des citoyens responsables. La conduite de la classe impose ses exigences: traiter avec les élèves, individuellement et en groupe, maintenir le climat et créer l’environnement favorables influent sur la réussite scolaire des élèves. Pour y préparer les stagiaires, ils doivent avoir acquis des capacités particulières leur permettant d’entretenir des relations soutenues avec leurs élèves et, plus particulièrement, d’avoir une profonde compréhension de la personne et de porter une grande attention aux divers aspects de son développement. La conduite de la classe suppose également la connaissance et le respect des différences culturelles, socio-économiques. Compte tenu de ce qui précède, les capacités particulières considérées comme les plus importantes en ce qui concerne le développement et l’autonomie de l’élève sont les suivantes: - capacité de diriger une classe et de maintenir la discipline, tout en conservant une atmosphère détendue et un environnement propice à l’apprentissage; - capacité d’établir des contacts positifs avec les groupes et de s’adapter à leur dynamique particulière; - capacité d’éveiller la curiosité intellectuelle des élèves, de les amener à développer des méthodes de travail, de les motiver à apprendre, de mettre à contribution leur expérience, de les aider à construire leurs projet d’études; - capacité d’aider chaque élève à mieux se connaître, à mieux comprendre son milieu et à poursuivre sa formation malgré des difficultés liées à l’appartenance à un sexe, à un groupe, à un milieu familial ou à un milieu socioculturel, à la compétition ou à l’échec; - capacité d’aider l’élève à construire son savoir-être; - capacité d’aider l’élève à s’orienter et à faire des choix. 4. Communiquer dans l’institution et avec les partenaires de l’école et prendre conscience des dimensions culturelle et sociale de l’éducation Outre l’enseignement proprement dit, les interventions des enseignants dans la classe peuvent prendre diverses formes: encadrement des élèves, rencontres avec les parents, collaboration avec les autres enseignants. Ces tâches qui exigent l’ouverture aux autres et la disponibilité ne prennent sens que lorsqu’elles s’inscrivent dans une visée d’éducation. Par ailleurs, l’école est une institution sociale qui vise à offrir à tous l’égalité des chances et les meilleures conditions d’apprentissage. Il importe donc que les futurs enseignants réfléchissent sur le rôle de l’école dans la société et sur les enjeux sociaux des connaissances, des cheminements scolaires et des phénomènes éducatifs. Compte tenu de ce qui précède, les capacités particulières considérées comme les plus importantes en ce qui concerne la communication et les dimensions culturelles et sociales de l’éducation sont: - connaissance du système scolaire et de son histoire, des facteurs qui influencent ses orientations, plus particulièrement en ce qui a trait aux rôles sociaux des hommes et des femmes dans ce système, à la diversité culturelle et à la participation des citoyens et citoyennes à la vie scolaire, et, inversement, capacité de comprendre l’influence que le système scolaire exerce sur la société luxembourgeoise; 397 - capacité de discerner et de combattre les diverses formes de discrimination, notamment celles qui sont fondées sur le sexe, la religion, la race ou le handicap; - capacité de reconnaître les conflits de valeurs et les représentations culturelles qui influencent les apprentissages et capacité de les traiter; - capacité de collaborer à la réalisation du projet d’établissement de l’école; - capacité d’établir et de maintenir des relations interpersonnelles positives avec l’ensemble des élèves de l’école, avec les parents et avec les autres membres de l’équipe-école; - capacité d’offrir présence et soutien aux élèves, de veiller à leur sécurité physique et morale, de même que d’être un modèle, contribuant ainsi à la structuration de l’être; - comprendre l’institution scolaire et son contexte, agir dans ce contexte: communiquer des savoirs scientifiques, négocier la prise de décision, travailler en équipe, contribuer à la construction de curricula. 5. Construire un projet professionnel initial et continu de l’enseignant Les enseignants travaillent dans une organisation scolaire complexe qui ne cesse d’évoluer. Tout au long de leur carrière, ils devront mettre à jour leurs connaissances et améliorer l’ensemble de leurs compétences. Il importe, dès lors, que leur formation initiale s’inscrive dans une perspective de formation continue, de manière qu’ils soient en mesure de s’ajuster constamment aux réalités changeantes de leur milieu professionnel. En outre, ils forment un groupe professionnel, et il importe qu’ils en connaissent les origines et qu’ils puissent contribuer à son évolution. Compte tenu de ce qui précède, les capacités particulières considérées comme les plus importantes en ce qui concerne la construction du projet professionnel initial et continu sont: - capacité d’analyse et de réflexion critique par rapport à la pratique éducative, à l’organisation pédagogique et à la politique scolaire; - capacité de clarifier ses propres valeurs pédagogiques, de réfléchir sur ses pratiques éducatives et de les améliorer; de réfléchir sur sa réactivité; - capacité de maintenir ou d’améliorer ses compétences professionnelles de façon continue et diversifiée; - capacité de participer aux efforts d’innovation pédagogique et à la réalisation de recherches dans le milieu d’enseignement, et de contribuer à l’avancement des connaissances dans le domaine de pratique éducative; - connaissance de l’histoire de la profession et capacité de s’identifier à celle-ci. 2.3. Le tutorat A l’enseignement intra-muros s’ajoute un système de tutorat. Le tutorat comporte 144 heures de formation pour chaque stagiaire durant les 1re et 2e périodes du stage pédagogique. L’objectif du tutorat est d’observer et d’analyser des pratiques d’enseignement et d’apprentissage. Dans le cadre du tutorat, des activités hors-leçon sont proposées par le stagiaire dans le cadre d’un projet autonome, dont le contenu sera au préalable discuté et agrée par le coordinateur de discipline. Des séries de leçons pratiques font partie du tutorat. Le tutorat fait l’objet d’une évaluation. 3. Organisation et modalités de mise en œuvre 3.1. La répartition des volumes horaires (abrogé par règlement grand-ducal du 9 décembre 2004) 3.2. Le réseau des intervenants La formation des stagiaires qui prend en compte les principes d’alternance et de différenciation constitue un système qui nécessite la mise en œuvre de plusieurs fonctions et la mobilisation d’un réseau d’acteurs. Les fonctions des intervenants sont définies dans le présent règlement grand-ducal dont ce cahier des charges fait partie intégrante. 3.2.1. Les tuteurs Personnels d’accueil en fonction dans les lycées et, en partie, à l ‘Institut de formation, les tuteurs font partie d’un réseau constitué par les coordinateurs de discipline prévus par règlement grand-ducal. D’une manière générale, le rôle des tuteurs est de contribuer à la régulation des parcours de formation et s’organise selon trois dimensions: - une dimension relationnelle: accueillir, suivre le stagiaire; l’aider à se construire une représentation réaliste et précise de ses futures fonctions; - une dimension formatrice: le tuteur est mobilisé dans le cadre d’un projet de formation; il, doit en partager les objectifs en termes de compétence et contribuer à l’accompagnement d’un parcours de formation (orientation, guidance, repérage des évolutions et des progrès); - une dimension professionnelle: contribuer à la constitution d’une identité professionnelle, à l’appréhension d’une culture qui la caractérise. La régulation des parcours de formation dans leur composante-métier nécessite deux types de fonctions: a. Une fonction d’accompagnement et d’accueil du stagiaire dans son parcours personnalisé. Il doit permettre au stagiaire - d’être informé des exigences du métier et des contextes dans lesquels elles s’inscrivent ainsi que de la déontologie professionnelle; 398 - d’exprimer ses besoins et attentes afin d’élaborer ensemble avec les tuteurs un projet personnel de formation négocié; - de favoriser l’insertion du stagiaire dans les structures organisationnelles et institutionnelles; - de faciliter l’accès à la documentation et le recueil d’informations utiles aux différents travaux. Il revient au tuteur, - de faire découvrir le plus largement possible et le plus concrètement possible la diversité des tâches liées à l’exercice de la fonction et la nécessité de les hiérarchiser; - de développer la réflexion sur la pratique du métier dans le cadre de situations professionnelles - d’assurer de manière progressive la mise en situation d’exercice de responsabilités compatibles avec le statut de stagiaire et en accord avec les directions des lycées concernés. Le tuteur aide le stagiaire à faire le point régulièrement sur sa progression en lui donnant les moyens de s’évaluer et de formaliser ses activités. Il effectue un bilan avec le stagiaire, à la fin de chaque trimestre. Ce bilan régulier permet de suivre le parcours personnalisé du stagiaire en vue d’un ajustement et d’une réorientation éventuelle des activités dans le cadre de compétences à mobiliser. Au terme de l’année, le tuteur participe à l’évaluation des périodes de stage de l’année. b. Une fonction de conception des séquences de formation qui consiste à rechercher dans des situations professionnelles des points d’appui pour le développement de compétences. Il s’agit d’aider le stagiaire à identifier les compétences requises pour maîtriser ces situations à travers des temps d’observation et de pratique accompagnée. (Règlement grand-ducal du 9 décembre 2004) Les tuteurs pour les différentes disciplines sont proposés par les directeurs des établissements d’enseignement postprimaire; ils sont regroupés en un pool de tuteurs et ils sont nommés par l’Institut de formation pour une durée de cinq ans. 3.2.2. Les formateurs Les formateurs interviennent dans les modules et peuvent également assurer la fonction de tuteur dans un lycée ou lycée technique. Leur type d’intervention ainsi que les contenus de leur intervention répondent aux critères fixés par les coordinateurs de modules. Les formateurs appartiennent à toutes les catégories des personnels d’enseignement affectés à l’enseignement postprimaire. Ils sont désignés par l’Institut de formation sur appel d’offre sur accord du Ministre de l’Éducation Nationale et de la Formation Professionnelle. 3.2.3. Les coordinateurs par discipline Le coordinateur par discipline intervient à l’Institut de formation; il met en réseau les tuteurs qui accueillent et accompagnent le stagiaire dans les lycées. Il fait lui-même partie d’un réseau constitué par les coordinateurs de discipline. Il assure le lien avec les coordinateurs de modules. D’une manière générale, le rôle des coordinateurs par discipline est de contribuer à la régulation des parcours de formation et s’organise selon trois dimensions: - une dimension relationnelle: suivre le stagiaire; l’aider à se construire une représentation réaliste et précise de ses futures fonctions; - une dimension formatrice: le coordinateur par discipline est mobilisé dans le cadre d’un projet de formation; il, doit en partager les objectifs en termes de compétence et contribuer à l’accompagnement d’un parcours de formation (orientation, guidance, repérage des évolutions et des progrès); - une dimension professionnelle: contribuer à la constitution d’une identité professionnelle, à l’appréhension d’une culture qui la caractérise. La régulation des parcours de formation dans leur composante-métier nécessite deux types de fonctions: a. Une mise en cohérence du parcours personnalisé du stagiaire dans le cadre de son tutorat. Il revient au coordinateur par discipline d’arrêter les parcours des stagiaires et de définir la grille d’observation et d’analyse des situations convenues pour le parcours du tutorat. Il effectue un bilan avec l’ensemble des tuteurs et des stagiaires par discipline, à la fin de chaque trimestre. Au terme de l’année, le coordinateur participe à l’évaluation des périodes de stage de l’année. b. Une fonction de conception des séquences de formation dans le cadre du tutorat et dans le cadre des modules qui consiste à rechercher dans des situations professionnelles des points d’appui pour le développement de compétences. Il s’agit d’aider le stagiaire à identifier les compétences requises pour maîtriser ces situations à travers des temps d’observation et de pratique accompagnée. Les coordinateurs appartiennent à toutes les catégories des personnels d’enseignement affectés à l’enseignement postprimaire. Ils sont désignés par l’Institut de formation sur appel d’offre sur accord du Ministre de l’Éducation Nationale et de la Formation Professionnelle. Le choix des tuteurs/coordinateurs se fait selon les critères suivants: - adhésion aux principes de la formation 399 - connaissance dans la matière à traiter - expérience professionnelle - compétences pédagogiques, notamment en pédagogie pour adultes - disponibilité de travailler en équipe - disponibilité de participer à des séquences de formation continue 3.2.4. Les coordinateurs de module (Règlement grand-ducal du 9 décembre 2004). Les coordinateurs de module sont les garants de l’économie et de la cohérence de la formation organisée au sein d’un module. Les coordinateurs de module ont les fonctions suivantes: - construire les modules et en identifier les contenus; - négocier les agencements à faire avec les didactiques des disciplines; - organiser et coordonner le module; - identifier les formateurs intervenant dans les modules et définir le cahier des charges de leur intervention; - réguler et évaluer les modules. Les coordinateurs sont désignés par l’Institut de formation sur appel d’offre. La désignation des coordinateurs choisis parmi les enseignants fonctionnaires est soumise à l’accord du Ministre de l’Éducation Nationale et de la Formation Professionnelle. 3.2.5. L’échéancier Les coordinateurs de module sont désignés pour le début du stage pédagogique. Les tuteurs et les coordinateurs de discipline sont désignés pour le début du stage pédagogique. 3.3. La fiche financière (Règlement grand-ducal du 9 décembre 2004) Les frais engendrés par la mise en œuvre de la présente convention sont couverts par un crédit du Ministère de l’Education nationale et de la Formation professionnelle, inscrit au budget des dépenses de l’Etat. Une leçon annuelle de décharge correspond à 72 heures de travail. Une décharge minimum s’élève à 2 leçons. Après consultation des directeurs de lycées et lycées techniques, le Ministre de l’Education Nationale et de la Formation Professionnelle désigne en concertation avec l’Institut de formation les intervenants recrutés parmi ses personnels. L’Institut de formation propose une répartition des leçons de décharge. Dispositions diverses 4.1. La durée du contrat Le contrat établi sur base du présent cahier de charges a une durée de 60 mois. 4.2. La reconduction ou la rupture du contrat Six mois avant la date d’expiration du contrat, la partie qui veut le résilier, en informe par écrit l’autre partie. En cas de résiliation du contrat et à échéance de celui-ci, l’Institut de formation s’engage à offrir aux stagiaires en cours de formation la totalité des cinq périodes de formation prévues pour le parcours de formation. Un avenant au contrat en cours règle les dispositions financières transitoires. 4.3. La charte de développement de l’organisme L’Institut de formation prendra en charge le développement professionnel des intervenants dans le stage pédagogique et communiquera le plan de formation des intervenants au Ministre de l’Éducation Nationale et de la Formation Professionnelle avant le 1er février 1999. Suivant disponibilité des places, cette formation des formateurs est ouverte aux autres enseignants des lycées et lycées techniques. 4.4. La dimension européenne de la formation L’organisateur assurera la dimension européenne de la formation par - l’intervention de formateurs - la mise en réseau - l’échange de stagiaires 4.5. Les rapports intermédiaires L’Institut de formation soumet au Ministre de l’Éducation nationale et de la Formation professionnelle un rapport sur la mise en oeuvre du stage pédagogique pour le 1er octobre de chaque année. 400 Editeur: Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg Imprimeur: Association momentanée Imprimerie Centrale / Victor Buck",
+      "text_sha256": "878ffb61358a19a5ebf22487da6aae2a20a04bb70b99ca85903e255929b78975",
+      "md_span": {
+        "start": 46104,
+        "end": 78559
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "took lines 4..975 of 975 from the gazette issue"
+  ]
+}

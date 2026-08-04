@@ -1,0 +1,95 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1962-04-20-n1:1966-05-02",
+  "language": "fr",
+  "title": "Version consolidée applicable au 05/12/1965 : Loi du 20 avril 1962 portant \n1) réforme du règlement du louage de service des employés privés; \n2) modification de l'article 2101, 4 du code civil ainsi que de l'article 545 du code de commerce.",
+  "valid_from": "1966-05-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1962-04-20-n1/versions/1966-05-02/fr.pdf-memorial/eli-etat-leg-memorial-1971-a82-fr-pdf.pdf",
+    "sha256": "eb5bd959e45c5fa30f575932a7501a023efd41558c5ba386b356fa1d0ff00e75",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1962/04/20/n1/consolide/19660502/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1962-04-20-n1:1966-05-02#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": "Par les termes de « salaire, rémunération, appointements », employés dans les dispositions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de la présente loi, il faut entendre la rétribution globale de l´employé, comprenant, en dehors du taux en numéraire, les autres avantages et rétributions accessoires éventuels, tels que notamment les gra- tifications, tantièmes, remises, primes, logements gratuits et autres valeurs quelconques de même na- ture.",
+      "text_sha256": "2a4a787dbc9344fd490dd50e346f1dbfd1753fd30f2bd392c04503f8047bcae7",
+      "md_span": {
+        "start": 830,
+        "end": 1143
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1962-04-20-n1:1966-05-02#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": "Un règlement d´administration publique édictera les mesures nécessaires pour l´exécution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de la présente loi. Il déterminera également les entreprises qui, à raison des exigences particulières du service, sont à dispenser provisoirement, en tout ou en partie, de l´observation de l´une ou de l´autre des prestations de la présente loi. Sanctions",
+      "text_sha256": "d9c041f18c8a15b8523085e1cff44569f6f6db4900219ed60c5d6b1e23bdfddb",
+      "md_span": {
+        "start": 1269,
+        "end": 1524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1962-04-20-n1:1966-05-02#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Loi du 12 novembre 1971) « Les infractions aux articles 6, 7 alinéa 4, 9, 10, 13, 19, 23 et 24 sont punies d´une amende de cinq cent un à trente mille francs et d´un emprisonnement de huit jours à un mois ou d´une de ces peines seulement. Ces infractions se prescrivent par le terme de trois ans. » Le livre 1er du Code pénal ainsi que la loi du 18 juin 1879 portant attribution aux Cour et tribunaux de l´appréciation des circonstances atténuantes, modifiée par celle du 16 mai 1904, sont applicables aux dites infractions. Dispositions transitoires",
+      "text_sha256": "3624cc0b13b68be5b69928c5b0f1b618e9cdbd2fa6a8e1148b38f132fc457f74",
+      "md_span": {
+        "start": 1561,
+        "end": 2112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1962-04-20-n1:1966-05-02#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "Les dispositions de la présente loi sont également applicables aux engagements en cours",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "lors de sa mise en vigueur. Les avantages éventuels existant en faveur de l´employé avant la mise en vigueur de la présente loi, ne peuvent être abrogés à son égard. Imprimerie de la Cour Victor BUCK, s. à r. I., Luxembourg",
+      "text_sha256": "b05ce76dea1358573827eb0891876abce72ebf823e28cbdf09d1edde267c87b0",
+      "md_span": {
+        "start": 2237,
+        "end": 2460
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "no 'texte coordonné' marker; started at the first article after the act's heading",
+    "took lines 622..645 of 645 from the gazette issue"
+  ]
+}

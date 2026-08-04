@@ -1,0 +1,502 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/12/1981 : Règlement grand-ducal du 30 mars 1979 portant exécution de la loi du 30 novembre 1978 promouvant la modernisation de l'agriculture.",
+  "valid_from": "1982-03-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-1979-03-30-n1/versions/1982-03-02/fr.pdf-memorial/eli-etat-leg-memorial-1982-a58-fr-pdf.pdf",
+    "sha256": "6644da146b4b465660509168658ed494c20a9abb4b8ad3b2b40b9e599e607e87",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/03/30/n1/consolide/19820302/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Au sens du présent règlement, on entend par loi, la loi du 30 novembre 1978 promouvant",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "la modernisation de l´agriculture. (Règlement grand-ducal du 10 mars 1981) «Art. 2. (1) Les montants exprimés dans la loi en «U.C.» (unités de compte) sont remplacés par des montants exprimés en «Ecus» de la manière indiquée à l´annexe V du présent règlement. (2) Dans la mesure où la conversion en francs luxembourgeois des montants exprimés dans la loi en Ecus n´a pas été faite dans le présent règlement, cette conversion se fait au taux applicable dans le cadre de la politique agricole commune.» (Règlement grand-ducal du 10 mars 1981) «Art. 3. - (1) Les aides à la modernisation des exploitations agricoles prévues au présent règlement sont versées à partir de la décision ministérielle constatant l´achèvement et arrêtant le coût effectif des investissements auxquels ces aides se rapportent. Toutefois, lorsque ces aides sont subordonnées à la tenue d´une comptabilité de gestion au sens de l´article 24 de la loi, elles ne sont versées qu´après la présentation du bilan et du compte d´exploitation relatifs au premier exercice comptable. Au cas où ces aides ne sont pas versées six mois après cette décision ministérielle, des intérêts mora- toires sont dus, à condition que le bilan et le compte d´exploitation relatifs au premier exercice comp- table soient présentés pour le cas où la tenue d´une comptabilité de gestion est imposée par la loi. Le taux des intérêts moratoires est égal au taux d´intérêt normal visé à l´article 13, paragraphe (1), alinéa 2, de la loi. (2) Par dérogation aux dispositions du paragraphe (1) ci-dessus, des avances peuvent être accordées par le Ministre de l´agriculture. (3) Sans préjudice des dispositions des articles 44 et 45 de la loi, les aides versées et les avances accor- dées doivent être restituées si le Ministre de l´agriculture a constaté par après que les exigences de la loi en matière de tenue d´une comptabilité de gestion n´ont pas été respectées. (4) Sauf les exceptions à déterminer par le Ministre de l´agriculture, les investissements dans les cons- tructions et aménagements, susceptibles de bénéficier d´une aide prévue au présent règlement, ne peuvent être exécutés avant l´agrément ministériel. _ 1329 En cas d´inobservation de cette condition par le bénéficiaire, l´aide globale peut être réduite dans des limites à fixer par le Ministre de l´agriculture.»",
+      "text_sha256": "abdd4ba42a5fe00d9188e2125bd159b7bccf0ebf0a6ec5cdd807357f0d1e383b",
+      "md_span": {
+        "start": 763,
+        "end": 3090
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Sont considérés comme exploitants agricoles à titre principal, les exploitants:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "\uF8E7 dont la part du revenu provenant de l´exploitation agricole est égale ou supérieure à cinquante pour cent du revenu global de l´exploitant, \uF8E7 dont la part du temps de travail consacré aux activités extérieures à l´exploitation agricole est inférieure à la moitié du temps de travail total de l´exploitant et \uF8E7 qui sont affiliés à la caisse de maladie agricole. Le Ministre de l´agriculture peut, dans des cas exceptionnels, dispenser de cette dernière exigence.",
+      "text_sha256": "f7b9dc55045cc83a116b2d03600711b0662da5c76fc0cbb5b15300c1d3a11aa5",
+      "md_span": {
+        "start": 3205,
+        "end": 3668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Si l´exploitant est une personne morale, il est à considérer comme exploitant à titre prin-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "cipal si toutes les personnes physiques associées remplissent les conditions de l´article 4 ci-dessus.",
+      "text_sha256": "16fa0eb8b98aa591284ce489d828873b24b299f580b22c24b484effbaf51c6e1",
+      "md_span": {
+        "start": 3795,
+        "end": 3897
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) L´exploitant agricole possède une capacité professionnelle suffisante, s´il est détenteur du diplôme de fin d´études de l´Ecole agricole de l´Etat ou du brevet d´études délivré par l´Institut d´enseignement agricole à Ettelbruck, ou d´un diplôme sanctionnant un cycle complet de formation professionnelle agricole et reconnu équivalent au brevet d´études précité. (2) A défaut de tels diplômes, l´exploitant doit justifier d´une expérience professionnelle d´une durée minimum de cinq ans, ou apporter toute autre preuve justifiant d´une qualification adéquate garantissant une bonne gestion de l´exploitation.",
+      "text_sha256": "9e168973881ec17a961e3d8dc09d2a209cd35f5e59eaa9ec7ba44684f18c145a",
+      "md_span": {
+        "start": 3932,
+        "end": 4545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Sont agréés aux fins visées par les articles 13 et 17 de la loi, les établissements de crédit autorisés à exercer leurs activités au Grand-Duché de Luxembourg et les associations agricoles de crédit affiliées à la Caisse centrale des associations agricoles. (2) Ces établissements et associations sont tenus de comptabiliser séparément les opérations prévues par la loi et le présent règlement. (3) Sans préjudice des dispositions de l´article 16, paragraphe (3), de la loi, l´agrément peut être retiré par décision conjointe du Ministre de l´agriculture et du Ministre des finances si les établissements et associations ne se conforment pas aux obligations leur imposées en vertu du présent règlement. (Règlement grand-ducal du 19 février 1982) «Art. 8. (1) L´octroi des aides prévues au présent règlement est subordonné à un investissement minimum de: un million de francs pour les investissements réalisés dans le cadre du chapitre 2 du présent règlement et sept cent mille francs pour les investissements réalisés dans le cadre du chapitre 3 du présent règle- ment; cinquante mille francs pour les investissements réalisés dans le cadre du chapitre 4 du présent règle- ment; un million de francs pour les investissements réalisés dans le cadre du chapitre 8 du présent règlement par les associations agricoles ou syndicales ainsi que les associations de ces organisations; toutefois, pour les investissements réalisés par les associations d´utilisation en commun de machines agricoles, l´investissement minimum est fixé à cinquante mille francs; dix millions de francs pour les autres bénéficiaires visés à l´article 34, paragraphe (1), de la loi. (2) L´aide visée à l´article 17 de la loi n´est accordée que pour autant que l´annuité s´élève à cinq mille francs au minimum.» Chapitre 2. \uF8E7 Régime d´encouragement des exploitations agricoles en mesure de se développer",
+      "text_sha256": "e57349f014c261139e832f39bcad55d829999f0fb1f506d1abd85109700144c8",
+      "md_span": {
+        "start": 4580,
+        "end": 6455
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Pour déterminer le revenu de l´exploitation à mettre en rapport avec le revenu comparable",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "visé à l´article 5 de la loi, la rémunération des capitaux mis en oeuvre dans l´exploitation est calculée comme suit: _ _ _ _ 1330 \uF8E7 capitaux propres: . capital terre: le fermage moyen du pays, déduction faite de l´impôt foncier; . autres capitaux: en pour cent de la valeur moyenne du capital investi; \uF8E7 capitaux empruntés: l´intérêt calculé au taux effectivement payé sur la valeur moyenne du capital emprunté, compte tenu de la bonification du taux d´intérêt accordée.",
+      "text_sha256": "cf9ac6e2028b3792a8bc1f88a761616b488164d239107a2857a7114190cda1db",
+      "md_span": {
+        "start": 6580,
+        "end": 7051
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "L´exploitant agricole peut inclure dans le revenu de travail à atteindre à l´achèvement de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "son plan de développement l´indemnité compensatoire annuelle jusqu´à concurrence de l´indemnité lui revenant en application du montant de base prévu à l´article 27 du présent règlement.",
+      "text_sha256": "c1c8e09ce20e77f657ab31e145999e01267a27a02c496cd2f7c00a338299d9f7",
+      "md_span": {
+        "start": 7179,
+        "end": 7364
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Le plan de développement à établir par l´exploitant agricole doit répondre au schéma à fixer par règlement du Ministre de l´agriculture. (2) Au sens de l´article 9, paragraphe (2), 2e tiret de la loi, on entend par acte de caractère juridique tout acte authentique ou sous seing privé ayant pour objet la vente ou la location de terres au deman- deur d´aides, soit une promesse écrite de vente ou de location de terres au profit du même demandeur.",
+      "text_sha256": "5f9fd40a173706a3891325eb1196aea7b4a48fbefabb539e9174ceae9d4d3d16",
+      "md_span": {
+        "start": 7401,
+        "end": 7852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Les aides prévues aux articles 13 à 19 de la loi ne sont accordées que pour la partie des investissements nécessaires pour atteindre le revenu de travail comparable, compte tenu d´une marge supplémentaire de vingt pour cent de ce revenu. (Règlement grand-ducal du 10 mars 1981) «(2) Pour le calcul des aides, le Ministre de l´agriculture peut fixer des limites en ce qui concerne les investissements dans le secteur laitier ainsi que dans les machines et le matériel agricoles. (3) Un plan de développement ne peut être approuvé que si les investissements y prévus ont pour objet l´amélioration durable de la situation de revenu de l´exploitation à moderniser. (4) Les travaux d´infrastructure tels que chemins d´accès, adductions d´eau, installations d´alimenta- tion en électricité, canalisation, bénéficient des mêmes aides que les investissements retenus dans le plan de développement. (5) Pour les investissements dans les terres, la bonification du taux d´intérêt ne peut être allouée dans des conditions plus favorables que celles prévues au règlement grand-ducal du 10 janvier 1981 portant allocation d´une aide destinée à alléger les charges de la reprise d´une exploitation agricole et de l´acquisi- tion de terrains agricoles auprès de tiers.»",
+      "text_sha256": "e83f7e19380583d8c1d2d393498367d6c4b4888605024385e05bc79a5d2d61c2",
+      "md_span": {
+        "start": 7889,
+        "end": 9147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Le plafond des investissements prévu à l´article 11 paragraphe 2 de la loi est majoré de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "trente pour cent si la transplantation est réalisée dans les conditions suivantes: \uF8E7 en cas d´expropriation pour cause d´utilité publique; \uF8E7 si elle est imposée par ou en vertu d´une réglementation en matière d´hygiène publique et d´en- vironnement; \uF8E7 lorsque la configuration des lieux met obstacle à tout agrandissement de l´exploitation; \uF8E7 si elle est réalisée dans le cadre d´opérations de remembrement.",
+      "text_sha256": "6458359eb8f6216101deefadc082d95a4a697b91fd8a0ca59906b4642632315a",
+      "md_span": {
+        "start": 9273,
+        "end": 9680
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Les investissements retenus dans le plan de développement agréé par le Ministre de l´agriculture bénéficient d´une bonification du taux d´intérêt de 5%, sans que la charge minimale du bénéficiaire puisse être inférieure à 3%. (2) Dans les zones défavorisées, la bonification du taux d´intérêt est fixée à 7%, sans que la charge minimale du bénéficiaire puisse être inférieure à 2%. (3) La bonification du taux d´intérêt n´est allouée que pour la partie du prêt ayant servi au finance- ment des investissements retenus dans le plan de développement. Le Ministre de l´agriculture peut fixer des modalités de contrôle en vue d´assurer le respect de cette exigence. (4) Les avances en compte courant ne sont pas à considérer comme prêt au sens du présent article. 1331 (5) La bonification du taux d´intérêt et la subvention en capital prévues à l´article 13 de la loi sont calculées sur base du coût effectif des investissements retenus dans le plan de développement. Le coût effectif est constaté par une décision du Ministre de l´agriculture au moment de l´achèvement des investissements prévus. Il ne peut pas dépasser le coût estimé des investissements au moment de l´agrément du plan de développement, majoré de 10%, sans pouvoir dépasser les prix unitaires à fixer en application de l´article 11, paragraphe (2), de la loi. L´approbation du coût estimé des investissements au moment de l´agrément du plan de développement peut être subordonnée au respect de critères à fixer par le Ministre de l´agriculture. (6) En cas de capitalisation de la bonification du taux d´intérêt, le calcul de cette bonification se fait suivant un barême d´amortissement à annuités constantes. Le taux de capitalisation correspond au taux d´intérêt normal, visé à l´article 13, paragraphe (1), alinéa 2, de la loi.",
+      "text_sha256": "e9abc604fc8c8d7633d478e23f917a0ed7eecc6a278613c3425c69ba3bf622fe",
+      "md_span": {
+        "start": 9717,
+        "end": 11516
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) L´intervention de l´Etat dans le paiement des annuités visé à l´article 17 de la loi porte sur le montant de l´emprunt déduction faite de la bonification du taux d´intérêt et de la subvention en capital. Le calcul de cette intervention se fait suivant un barème d´amortissement à annuités cons- tantes au taux d´intérêt normal, visé à l´article 13, paragraphe (1), alinéa 2, de la loi. L´intervention est calculée sur la durée du prêt prise en considération pour l´allocation de la bonification du taux d´intérêt. (2) L´intervention visée à l´alinéa 1er ci-dessus est fixée à quarante pour cent de l´annuité due et à un montant maximum de quatre-vingt mille francs par exploitation et par an. (3) Dans les zones défavorisées, le taux de l´intervention de l´Etat est fixé à cinquante pour cent de l´annuité due et à un montant maximum de cent mille francs par exploitation et par an. (4) Le taux des aides est réduit de 10% du montant initial pour la cinquième année de réalisation du plan de développement et de 20% de leur montant initial pour la sixième année de réalisation du plan de développement.",
+      "text_sha256": "cdca1223783f4a5f5fc5923026f0dd8f4596fb5139e0a68975da77e959c175a5",
+      "md_span": {
+        "start": 11553,
+        "end": 12659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Dans les zones défavorisées, les montants de la prime d´orientation prévue à l´article 18.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "paragraphe (1), de la loi sont majorés d´un tiers, en faveur des exploitations agricoles visées au présent chapitre.",
+      "text_sha256": "f6bc13daaa6f54e45f2d635cc8912b13be981b365f484dd5da46b00451f747e9",
+      "md_span": {
+        "start": 12787,
+        "end": 12903
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "Le montant de la prime visée à l´article 19, paragraphe (3), de la loi est fixé à trois mille",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "francs par hectare. Chapitre 3. \uF8E7 Régime d´encouragement des exploitations situées dans des régions considérées comme zones défavorisées et qui ne sont pas en mesure d´atteindre le revenu de travail comparable",
+      "text_sha256": "46e4670281a6cc0361e34345ed04e85756af78542e3199722cc1a8b309cd56c4",
+      "md_span": {
+        "start": 13034,
+        "end": 13243
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Le niveau du revenu de travail à atteindre par les exploitations visées à l´article 20 de la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "loi est fixé à soixante-dix pour cent du revenu de travail comparable. (Règlement grand-ducal du 19 février 1982) «Art. 19. (1) La bonification du taux d´intérêt applicable aux exploitations visées à l´article 20 de la loi est fixée à 5%, sous réserve que la charge minimale du bénéficiaire n´est pas inférieure à 3% (2) Les dispositions de l´article 3 et de l´article 14, paragraphes (3) à (6), du présent règlement sont applicables pour le calcul des aides.»",
+      "text_sha256": "d1922841853a8384a120494aa1d75766d683fe86436fd1b79adc88f49143ec28",
+      "md_span": {
+        "start": 13373,
+        "end": 13833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Les exploitations agricoles visées à l´article 20 de la loi bénéficient d´une intervention de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l´Etat dans le paiement des annuités de quarante pour cent de l´annuité due, sans que cette intervention puisse dépasser quatre-vingt mille francs par exploitation et par an. (Règlement grand-ducal du 10 mars 1981) «L´article 15, paragraphe (1) et (4) ci-dessus est applicable.» 1332",
+      "text_sha256": "a62acdaee3a0c4fbed95855a5668fb4d36b839da4c7cc9dc80680e9488924ac4",
+      "md_span": {
+        "start": 13964,
+        "end": 14247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "L´article 17 du présent règlement est applicable aux exploitations visées au présent chapitre.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Règlement grand-ducal du 10 mars 1981) «Art. 21 bis. Sans préjudice des dispositions des articles 22 et 23 du présent règlement, les exploita- tions agricoles ayant bénéficié des mesures d´encouragement prévues au titre I, chapitre II, de la loi peuvent bénéficier d´aides en faveur de leur modernisation ultérieure pour autant que cette modernisa- tion se place dans le cadre du titre I, chapitre I, de la loi et que le plan de développement établi dans le cadre du titre I, chapitre II, de la loi est arrivé à son achèvement.» Chapitre 4. Régime d´aides en faveur des exploitations agricoles non en mesure de se développer (Règlement grand-ducal du 19 février 1982) «Art. 22. (1) Les exploitations agricoles qui sont visées à l´article 22 de la loi et dont le revenu agricole ne dépasse pas le plafond du revenu de travail comparable, tel qu´il est fixé à l´article 6 de la loi, bénéficient, pour les investissements dont la liste figure à l´annexe I du présent règlement, d´une subven- tion en capital équivalant à la bonification du taux d´intérêt telle que calculée au paragraphe (2) ci-après. Cette aide est également applicable aux exploitations agricoles, qui exercent l´activité agricole à titre accessoire. Les investissements dans le secteur de la production laitière ne bénéficient de la subvention en capital qu´à condition qu´ils n´aient pas pour objectif d´augmenter le cheptel laitier. Toutefois, en ce qui con- cerne les exploitations qui exercent l´activité agricole à titre principal, ces investissements bénéficient de la subvention en capital à condition qu´ils ne portent pas le nombre de vaches laitières à plus de quarante par exploitation. Pour les investissements dans le secteur de la production porcine, les aides ne sont accordées que pour un volume d´investissement nécessaire pour atteindre cinq cent cinquante places pour porcs à l´exploita- tion. (2) La bonification du taux d´intérêt est calculée sur base du taux d´intérêt normal tel que constaté en application de l´article 13, paragraphe (1), alinéa 2 de la loi, la charge minimale du bénéficiaire étant de 5%. La bonification du taux d´intérêt est calculée sur base du coût effectif des investissements qui ne peut pas dépasser les prix unitaires à fixer par règlement grand-ducal et sur une durée de 20 ans pour les investissements dans les silos à fourrages, les hangars à machines, les granges, les bâtiments d´exploita- tion, les équipements de chauffage et de réglage du climat dans les serres et les dispositifs de récupération et d´économie de l´énergie dans les serres, et sur une durée de 10 ans pour les autres investissements visés à l´annexe I. (3) Les investissements réalisés dans le cadre du présent article ne sont retenus, pour le calcul de l´aide, que pour un montant ne pouvant pas dépasser trois millions de francs.» (Règlement grand-ducal du 19 février 1982) «Art. 22bis. (1) Les exploitations agricoles visées à l´article 22 de la loi qui ne sont pas en mesure d´atteindre le revenu de travail comparable, tel qu´il est fixé à l´atticle 6 de la loi et dont le chef d´exploita- tion est âgé de moins de 55 ans, bénéficient du régime d´aides transitoire suivant. Les investissements dans les silos à fourrages, les hangars à machines, les granges et l´amélioration des bâtiments d´exploita- tion, y compris les désileuses, l´équipement pour la distribution de l´ensilage et l´évacuation du fumier et du lisier, bénéficient d´une subvention en capital équivalant à la bonification du taux d´intérêt telle que calculée au pragraphe (2) ci-après. Cette aide est applicable aux seules exploitations qui exercent l´activité agricole à titre principal au sens de l´article 4 du présent règlement. Les investissements dans le secteur de la production laitière ne bénéficient de la subvention en capital qu´à condition qu´ils n´aient pas pour objectif d´augmenter le cheptel laitier au-delà de quarante vaches laitières. _ 1333 Pour les investissements dans le secteur de la production porcine, les aides ne sont accordées que pour un volume d´investissement nécessaire pour atteindre cinq cent cinquante places pour porcs à l´exploita- tion. (2) La bonification du taux d´intérêt est calculée sur base du taux d´intérêt normal tel que constaté en application de l´article 13, paragraphe (1), alinéa 2, de la loi. La bonification du taux d´intérêt est fixée à 5%, sous réserve que la charge minimale du bénéficiaire n´est pas inférieure à 3%. Dans les zones défavorisées, la bonification du taux d´intérêt est fixée à 7%, sans que la charge mini- male du bénéficiaire puisse être inférieure à 2%. (3) La bonification du taux d´intérêt est calculée sur base du coût effectif des investissements qui ne peut pas dépasser les prix unitaires à fixer par règlement grand-ducal et sur une durée de 10 ans pour les investissements dans les désileuses, l´équipement pour la distribution de l´ensilage et l´évacuation du fumier et du lisier et sur une durée de 20 ans pour les autres investissements visés au paragraphe (1) ci- dessus. (4) Les investissements réalisés dans le cadre du présent article ne sont retenus, pour le calcul de l´aide, que pour un montant ne pouvant dépasser 18.785 Ecus. (5) L´allocation de l´aide transitoire prévue au présent article n´exclut pas le bénéfice ultérieur des régimes d´aide prévus aux article 6 et 20 de la loi et de l´article 22 du présent règlement. Toutefois, un investissement, pour lequel une aide est allouée dans le cadre du présent article, est exclu du bénéfice des autres régimes d´aide.»",
+      "text_sha256": "44450465a1c8b6ad1bcfad9392381897b9a00184c80b5b196b6fbc57d58098bb",
+      "md_span": {
+        "start": 14379,
+        "end": 19912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Les installations nécessaires à l´établissement de tanks à lait ainsi que les investissements dans les constructions et équipements destinés à renforcer les conditions d´hygiène dans les exploitations agricoles, visés à l´article 33 de la loi, bénéficient d´une aide en capital dont le taux est fixé à trente-cinq pour cent des investissements en question. (Règlement grand-ducal du 10 mars 1981) «(2) L´aide prévue au présent article est applicable aux exploitations agricoles avec ou sans plan de développement, sous réserve cependant que les exploitations visées aux chapitres 2 et 3 ne peuvent en bénéficier que pour autant que les investissements prévus au présent article sont réalisés en dehors d´un plan de développement. Cette aide est également applicable aux exploitations agricoles qui exercent l´activité agricole à titre accessoire.» (3) La liste des investissements pouvant bénéficier des aides visées ci-dessus figure à l´annexe II du présent règlement. Les normes auxquelles doivent répondre ces investissements ainsi que leurs prix sont fixés par règlement grand-ducal. (Règlement grand-ducal du 10 mars 1981) «(4) Le montant global maximum des aides pouvant être accordé à une exploitation agricole dans le cadre du présent article est fixé à deux cent cinquante mille francs.»",
+      "text_sha256": "6d982632ad6d5c5631ebbaedeca2dd69718a8500306c96fcdfb24446c91bcf7d",
+      "md_span": {
+        "start": 19949,
+        "end": 21249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "Les aides prévues aux articles 22 et 23 ci-dessus peuvent être accordées cumulativement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "jusqu´à concurrence des plafonds respectifs.",
+      "text_sha256": "ffff3971de2965f35af92873f25bed57cde31a88d1a62aa65678c2f09cb9c30a",
+      "md_span": {
+        "start": 21374,
+        "end": 21418
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) L´aide visée à l´article 31, paragraphe (1), de la loi est fixée à 35% du prix d´achat des machines et du matériel agricoles servant à la production fourragère. La liste des machines et du maté- riel bénéficiant de l´aide figure à l´annexe III du présent règlement. (2) La liste des machines et du matériel à usage viti-vinicole bénéficiant de l´aide visée à l´article 31, paragraphe (2), de la loi est reproduite à l´annexe IV du présent règlement. (3) Pour le calcul des aides, le Ministre de l´agriculture peut fixer des prix unitaires. (4) Pour bénéficier des aides visées au présent article, le demandeur doit présenter un certificat établi par le comité d´un des groupements visés à l´article 30 paragraphe 1 ci-dessous, attestant: 1334 qu´il existe un besoin d´utilisation de ces machines et matériel au sein du groupement en question, que le demandeur a pris l´engagement écrit à l´égard du groupement d´utiliser de façon prépondé- rante la machine ou le matériel pour lequel l´aide est demandée pour la satisfaction des besoins du groupement. (Règlement grand-ducal du 10 mars 1981) «En outre, le bénéfice des aides est subordonné au constat que les machines ou le matériel sont utilisés de façon rationnelle.» (5) Le paiement de l´aide visée au paragraphe (1) ci-dessus est échelonné sur trois ans. L´aide visée à l´article 31, paragraphe (2), de la loi est payée en deux tranches égales, échelonnées sur deux années. Chaque versement partiel est subordonné à l´attestation par le comité du groupement que le bénéfi- ciaire de l´aide a rempli les engagements souscrits à l´égard du groupement. (Règlement grand-ducal du 10 mars 1981) «(6) Les aides prévues au présent article sont applicables aux exploitations agricoles avec ou sans plan de développement, sous réserve que les exploitations visées aux chapitres 2 et 3 du présent règlement ne peuvent en bénéficier que pour autant que l´investissement en question est réalisé en dehors d´un plan de développement. Ces aides sont également applicables aux exploitations exerçant l´activité agricole à titre accessoire.» Chapitre 5. Aides communes aux diverses catégories d´exploitations",
+      "text_sha256": "2da040777dae8824f05a4d7ac67dd0bc5fc2a829f30a1121c76fdb699230b2ca",
+      "md_span": {
+        "start": 21455,
+        "end": 23605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Les frais d´entraide visés à l´article 32 de la loi sont pris en charge par l´Etat pour cin- quante pour cent des frais d´entraide exposés et dans les conditions des paragraphes (2) à (6) ci-après. (2) L´Etat prend en charge, par exploitation et par an, les frais précités pendant une durée maximum de six mois. Cette prise en charge se fait sur demande de l´intéressé. (3) La prise en charge des frais d´entraide concerne les chefs d´exploitation exerçant l´activité agri- cole à titre principal ainsi que leurs épouses et membres de famille occupés à titre permanent dans l´exploitation agricole. (4) En cas de maladie d´une des personnes visées au paragraphe (3) ci-dessus, la demande d´aide doit être appuyée: d´un certificat du médecin traitant, attestant l´incapacité de travail ainsi que la durée de cette incapacité; d´une attestation du gérant du goupement visé à l´article 30, paragraphe (1) ci-dessous, dont l´exploitation est membre, certifiant les heures et dates pendant lesquelles la main-d´œuvre de remplacement a été employée dans l´exploitation concernée ainsi que la rémunération de cette main-d´œuvre de remplacement. Celle-ci doit être conforme aux tarifs en application dans le groupement en question. (5) En cas de décès d´une des personnes visées au paragraphe (3) ci-dessus, la demande d´aide doit être appuyée d´un certificat de l´administration communale attestant le décès ainsi que de l´attes- tation du gérant du groupement visé au paragraphe (4), 2e tiret, ci-dessus. (6) Ne donnent lieu à une prise en charge par l´Etat que les frais d´entraide qui dépassent deux mille francs par cas. (Règlement grand-ducal du 13 mai 1981)",
+      "text_sha256": "e8c17c3d21598e7e2d500cf3d97ed7da001c6087aa5b622b3f21f308f88f29d3",
+      "md_span": {
+        "start": 23642,
+        "end": 25302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": "«(1) L´indemnité compensatoire annuelle visée à l´article 28 de la loi est fixée à un montant",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de base annuel de deux cent cinquante millions de francs.» (2) L´indemnité est accordée dans les limites et conditions prévues aux articles 6 et 7 de la directive 75/268/CEE. L´indemnité compensatoire annuelle revenant à chaque exploitation individuelle peut _ _ \uF8E7 \uF8E7 \uF8E7 1335 être différenciée par règlement du Ministre de l´agriculture en fonction du nombre d´unités de gros bétail détenu à l´exploitation. Le montant total de l´indemnité par exploitation peut être plafonné par règlement du Ministre de l´agriculture en fonction d´un nombre maximum d´unités de gros bétail. (3) Le montant de base annuel visé au paragraphe (1) ci-dessus peut être augmenté, dans les limites prévues par la directive 75/268/CEE, par règlement du Gouvernement en Conseil. Ce règlement peut réserver une majoration du montant de base annuel aux exploitants exerçant l´activité agricole à titre principal au sens de l´article 4 du présent règlement et peut différencier suivant les critères visés au paragraphe (2) ci-dessus. (4) Le paiement de l´indemnité compensatoire annuelle se fait sur base d´un recensement spécial à faire exécuter annuellement par le Ministre de l´agriculture. En cas de déclarations incomplètes ou de fausses déclarations par un exploitant agricole, le Ministre de l´agriculture peut refuser, en tout ou en partie, l´indemnité à cet exploitant. Au cas où cette indem- nité a déjà été payée, elle doit être restituée. En outre les sanctions pénales prévues à l´article 45 de la loi sont applicables. (5) Le contrôle des données du recensement spécial visé au paragraphe précédent est effectué par des fonctionnaires habilités par le Ministre de l´agriculture. Les exploitants agricoles doivent per- mettre la visite de leur exploitation par lesdits fonctionnaires. Chapitre 6. \uF8E7 Aides aux services de comptabilité professionnels ou privés",
+      "text_sha256": "74be7f5aab7594f3226ee4d45d2444d78faf76b645d480b1b87eaa8b92056185",
+      "md_span": {
+        "start": 25433,
+        "end": 27275
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Les services de comptabilité professionnels ou privés, agréés par le Ministre de l´agri- culture, bénéficient d´une subvention annuelle de quatre mille francs au nombre indice 100 par comp- tabilité tenue. Cette subvention est accordée pendant la même durée que l´aide à la tenue d´une comp- tabilité de gestion, visée à l´article 23 de la loi; à partir de la seconde année, elle est réduite chaque année d´un sixième. (2) L´agrément des services de comptabilité agricole est subordonné aux conditions que ces services comptables: \uF8E7 s´engagent à tenir la comptabilité agricole conformément aux exigences de l´article 24 de la loi et en conformité avec le schéma comptable prescrit par le Ministre de l´agriculture; \uF8E7 disposent de personnel ayant une qualification professionnelle suffisante. Cette condition est censée remplie par toute personne justifiant d´études commerciales et comptables. A défaut de telles études, la preuve d´une expérience professionnelle suffisante en matière de compta- bilité doit être rapportée; \uF8E7 s´engagent à assurer le fonctionnement de services de comptabilité durant une période d´au moins quatre années consécutives à partir de la date de leur agrément; \uF8E7 s´obligent à faire bénéficier les exploitations agricoles, dont ils tiennent la comptabilité de ges- tion, de la totalité des subventions leur accordées, jusqu´à concurrence du prix payé. Chapitre 7. \uF8E7 Aides aux groupements visés à l´article 29 de la loi",
+      "text_sha256": "79795b8843f3c6269d72d0b48c21ab4d8969d64994a9be221ee14c2bd8bfb6c4",
+      "md_span": {
+        "start": 27312,
+        "end": 28761
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": "Les groupements légalement constitués, notamment sous la forme d´une association agri-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "cole, d´une société coopérative ou d´une société civile et reconnus par le Ministre de l´agriculture, bénéficient d´une aide unique de démarrage destinée à alléger les coûts de leur gestion. L´aide n´est accordée que lorsque ces groupements ont pour but l´entraide entre exploitations, une utilisation en commun plus rationnelle du matériel agricole ou une exploitation en commun, à condition qu´ils remplissent les conditions de l´article 30 ci-après.",
+      "text_sha256": "04b877db23dde283d90d401368f6e13b87674237931139f56a12166a9e52aa57",
+      "md_span": {
+        "start": 28885,
+        "end": 29337
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Les groupements légalement constitués qui ont pour objet l´entraide entre exploi- tations et l´utilisation en commun plus rationnelle du matériel agricole ne sont reconnus par le Minis- tre de l´agriculture que pour autant que: 1336 \uF8E7 leurs statuts ou des règlements appropriés prévoient l´organisation, par l´intermédiaire d´un bureau central et suivant un barême préétabli: . d´un service d´échange ou de mise en commun de machines et de travail disponibles auprès de leurs membres ou auprès du groupement et/ou . d´un service d´entraide organisant l´échange de main-d´œuvre de remplacement à l´intention de leurs membres, notamment en cas de maladie du chef d´exploitation; \uF8E7 le nombre minimum des adhérents ne soit pas inférieur à quatre-vingts. (2) Les groupements légalement constitués qui ont pour objet l´exploitation en commun ne sont reconnus par le Ministre de l´agriculture qu´à condition: \uF8E7 que, dans le cas d´une fusion totale, il soit démontré, par la présentation d´un plan de dévelop- pement approuvé selon la procédure de l´article 10 de la loi, qu´à l´achèvement de ce plan, la main-d´œuvre occupée dans l´exploitation fusionnée puisse atteindre le revenu de travail com- parable tel que défini à l´article 6 de la loi; \uF8E7 que, dans le cas d´une fusion partielle, la fusion porte sur un ou plusieurs secteurs de la produc- tion animale et qu´il soit démontré par la présentation d´un plan de développement, approuvé suivant la procédure de l´article 10 de la loi, que le secteur fusionné puisse, endéans un délai ne pouvant pas dépasser six ans, assurer au moins à une unité de travail homme un revenu au moins égal au revenu de travail comparable tel que défini à l´article 6 de la loi. (3) Les groupements visés au paragraphe (2) ci-dessus doivent tenir la comptabilité de gestion visée à l´article 24 de la loi portant, en cas de fusion totale, sur toute l´exploitation fusionnée et, en cas de fusion partielle, sur le ou les secteurs de production fusionnés. (4) Chacun des participants aux groupements visés au paragraphe (2) doit faire des apports tant en capital qu´en travail et doit en outre exercer l´activité agricole à titre principal au sens de l´article 4 du présent règlement.",
+      "text_sha256": "a2c30c17a15aa9cd0bcd45cdb09c629b171687d7ba37e8df7bcba45799f29d1c",
+      "md_span": {
+        "start": 29374,
+        "end": 31587
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) L´aide visée à l´article 29 de la loi est fixée, pour les groupements visés à l´article 30, paragraphe (1), du présent règlement, à: \uF8E7 398.000 francs, lorsqu´il s´agit de groupements ayant pour objet à la fois l´entraide et l´utilisation en commun de matériel agricole et de travail; \uF8E7 270.000 francs, lorsqu´il s´agit de groupements ayant pour objet, soit la seule entraide, soit la seule utilisation en commun de matériel agricole et de travail. Ce montant est augmenté de 50.000 francs si le nombre des membres du groupement dépasse d´au moins cinquante le nombre minimum de quatre-vingts. (2) L´aide visée à l´article 29 de la loi est fixée, pour les groupements visés à l´article 30, paragraphe (2), du présent règlement, à: (a) \uF8E7 245.000 francs lorsqu´il s´agit de fusion totale; \uF8E7 190.000 francs lorsqu´il s´agit d´une fusion partielle portant sur les productions bovine et/ou porcine; \uF8E7 133.000 francs lorsqu´il s´agit d´une fusion partielle portant sur les autres productions ani- males.(b) L´aide visée sous (a) du présent paragraphe est augmentée de vingt pour cent pour tout membre adhérent au-delà de deux, sans que le maximum de l´aide puisse dépasser: \uF8E7 398.000 francs lorsqu´il s´agit de fusion totale; \uF8E7 270.000 francs lorsqu´il s´agit d´une fusion partielle portant sur les productions bovine et/ou porcine; \uF8E7 190.000 francs lorsqu´il s´agit d´une fusion partielle portant sur les autres productions animales. (3) Le paiement des aides prévues aux paragraphes 1 et 2 est échelonné sur plusieurs années. 1337",
+      "text_sha256": "14f4f7ce1624312983d2e9e208aa1be210469f04ce059bce3fbf4081542889f4",
+      "md_span": {
+        "start": 31624,
+        "end": 33153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "L´aide visée à l´article 30 ci-dessus est accordée sur demande des groupements concernés.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La demande doit être accompagnée soit d´une copie de l´acte de constitution du groupement, soit d´une copie des statuts ainsi que, dans le cas des groupements visés à l´article 30, paragraphe (1), d´un état prévisionnel des recettes et des dépenses et, dans le cas des groupements visés à l´article 30, para- graphe (2), du plan de développement approuvé suivant la procédure prévue à l´article 10 de la loi. Chapitre 8. \uF8E7 Subventions en faveur de l´amélioration des équipements collectifs de l´agriculture",
+      "text_sha256": "83f2c60305dcb62cc107854912c9db5dc5eec72aeab120a3d957f9aebc790565",
+      "md_span": {
+        "start": 33280,
+        "end": 33786
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) Les subventions en capital visées à l´article 34 de la loi sont fixées à 45% du coût hors T.V.A. des investissements en immeubles et en équipements, sans préjudice des dispositions commu- nautaires en matière de règles de concurrence découlant des articles 92 et 93 du Traité instituant la Communauté économique européenne. (2) Dans tous les cas où il n´existe pas de règles déterminées par la Communauté économique euro- péenne le montant minimum de l´apport à mobiliser par les personnes morales visées à l´article 34 de la loi est fixé à trente pour cent du coût des investissements. (3) Le devis dont question dans la 2e phrase de l´alinéa 2 du paragraphe (2) de l´article 34 de la loi et le coût estimé au moment de l´approbation du projet d´investissement majoré du coefficient for- faitaire d´adaptation de ce coût. (Règlement grand-ducal du 10 mars 1981) «Art. 34. - (1) Les investissements dans les machines et le matériel de l´exploitation agricole ne sont pas admis au bénéfice de l´aide prévue à l´article 34 de la loi. (2) Par dérogation aux dispositions du paragraphe (1) ci-dessus, les associations pour l´utilisation en commun de machines agricoles bénéficient d´une subvention en capital fixée à 35% du coût hors TVA pour l´acquisition de machines et de matériel agricoles figurant à l´annexe IIIbis du présent règlement. Le coût des investissements est calculé hors TVA sur la base de prix unitaires à fixer par règlement grand- ducal. (3) Le bénéfice des aides prévues au présent article est soumis aux conditions que: les statuts de l´association ont été approuvés par le Ministre de l´agriculture; les machines ou le matériel restent la propriété de l´association bénéficiaire des aides; l´association apporte la preuve que ces investissements sont utilisés de façon rationnelle. (4) Le paiement de l´aide visée au présent article est échelonné sur trois ans. Chaque versement partiel est subordonné à la constatation que les conditions prévues au paragraphe (3), 2° et 3° tirets, ci-dessus ont été respectées.» ANNEXE I silo à fourrages ensileuse désileuse équipement pour la distribution de l´ensilage silo à aliments concentrés distributions d´aliments concentrés dans les salles de traite hangar à machines grange élévateur de foin et de paille en botte évacuation du fumier ou du lisier amélioration des bâtiments d´exploitation* équipements de chauffage et de réglage du climat dans les serres* _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \uF8E7 1338 dispositifs de récupération et d´économie de l´énergie dans les serres* épandeur de fumier** pulvérisateur** faucheuse rotative** matériel de fanage et d´andainage** chargeur de balles** ramasseuse-presse à haute densité** récipients vinaires pressoir mécanique pour raisins matériel d´embouteillage motoculteur interligne à quatre roues motrices* rogneuse* * Investissements ajoutés par le règlement grand-ducal du 10 mars 1981. ** Investissements ajoutés par le règlement grand-ducal du 19 février 1982. ANNEXE II (1) Bénéficient des aides prévues à l´article 23 du présent règlement, dans la mesure où ils sont nécessaires à l´établissement des tanks à lait, les investissements suivants: \uF8E7 la construction, la transformation ou la modernisation d´une chambre à lait, y compris l´équipe- ment connexe. (2) Les investissements dans les constructions et équipements destinés à renforcer les conditions d´hygiène, visés à l´article 23 du présent règlement sont les suivants: \uF8E7 la citerne à purin ou à lisier, \uF8E7 la fosse à fumier, \uF8E7 les installations destinées à réduire les émissions d´odeur provenant des élevages intensifs y compris les installations utilisées lors du stockage du lisier, \uF8E7 les dispositifs pour évacuer ou épurer les eaux usées. ANNEXE III Liste des machines et du matériel agricoles servant à la production fourragère visés à l´article 25 du présent règlement: \uF8E7 fraiseuse-semeuse \uF8E7 épandeur d´engrais (2,5 t et plus) \uF8E7 pulvérisateur pour engrais liquides \uF8E7 épandeur de lisier (3000 I et plus) \uF8E7 faucheuse-conditionneuse ramasseuse-hacheuse-chargeuse à coupe fine \uF8E7 remorque à fourrages hachés avec ou sans déchargeur doseur \uF8E7 remorque autochargeuse avec dispositif de coupe \uF8E7 ramasseuse-presse à haute densité \uF8E7 ramasseuse-presse à grosses balles \uF8E7 récolteuse de betteraves à trémie \uF8E7 charrue fossoyeuse \uF8E7 moissoneuse-batteuse. planteuse de pommes de terre** récolteuse de pommes de terre** ** Investissements ajoutés par le règlement grand-ducal du 19 février 1982. \uF8E7 \uF8E7 \uF8E7 \uF8E7 _ _ _ _ _ _ _ _ _ _ _ _ \uF8E7 \uF8E7 1339 ANNEXE IIIbis*** fraiseuse-semeuse épandeur d´engrais (2,5 t et plus) pulvérisateur pour engrais liquides épandeur de lisier (3.000 I et plus) faucheuse-conditionneuse ramasseuse-hacheuse-chargeuse à coupe fine remorque à fourrages hachés avec ou sans déchargeur doseur remorque autochargeuse avec dispositif de coupe ramasseuse-presse à haute densité ramasseuse-presse à grosses balles récolteuse de betteraves à trémie charrue fossoyeuse moissonneuse-batteuse récolteuse de pommes de terre planteuse de pommes de terre pulvérisateur à grande surface centrifuge à compost charrue sous-soleuse avec vibreur planteur de pieux rogneuse broyeuse de sarment machine à bêcher machine à écorcer *** L´annexe IIIbis a été introduite par le règlement grand-ducal du 10 mars 1981. ANNEXE IV Liste des machines et matériels viti-vinicoles visés à l´article 25 du présent règlement \uF8E7 pulvérisateur à grande surface \uF8E7 centrifuge à compost \uF8E7 charrue sous-soleuse avec vibreur \uF8E7 planteur de pieux \uF8E7 rogneuse \uF8E7 broyeuse de sarment. machine à écorcer* machine à bêcher* * Investissements ajoutés par le règlement grand-ducal du 10 mars 1981. \uF8E7 \uF8E7 \uF8E7 \uF8E7 \uF8E7 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1340 ANNEXE V** Les montants visés sont remplacés par aux articles suivants de la lol s´élevant à les montants suivants Article 13, paragraphe (3), 43.030 u.c./UTH 75.136 Ecus/UTH Article 18, paragraphe (1), 48,2 u.c./ha 61,7 Ecus/ha 32,6 u.c./ha 41,8 Ecus/ha 16,6 u.c./ha 21,2 Ecus/ha 4.820 u.c./exploitation 6.169 Ecus/exploitation 3.260 u.c./exploitation 4.181 Ecus/exploitation 1.660 u.c./exploitation 2.128 Ecus/exploitation Article 23 614 u.c. 787 Ecus Article 29 2.691 u.c. 3.447 Ecus 8.072 u.c. 10.337 Ecus ** Règlement grand-ducal du 19 février 1982. Imprimerie de la Cour Victor Buck, Luxembourg",
+      "text_sha256": "bb1075d1bd4cfc4b20bbc60b970ed0c8ab857b90aa55888f43038d9b959d7e62",
+      "md_span": {
+        "start": 33823,
+        "end": 40102
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "took lines 788..1451 of 1451 from the gazette issue"
+  ]
+}

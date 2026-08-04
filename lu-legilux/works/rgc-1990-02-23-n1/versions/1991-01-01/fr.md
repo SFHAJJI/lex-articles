@@ -1,0 +1,53 @@
+---
+lex_id: 'lu-legilux:rgc-1990-02-23-n1:1991-01-01'
+title: 'Version consolidée applicable au 01/12/1990 : Règlement du Gouvernement en Conseil du 23 février 1990 concernant l''octroi d''un subside aux exploitants agricoles pour l''amélioration de l''infrastructure de stockage de lisier et purin.'
+valid_from: '1991-01-01'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgc/1990/02/23/n1/consolide/19910101/fr'
+source_sha256: '95a21acb6f2ed1ddfb034f11a537fef039c611d7e2d48a40bf3e44afc98781eb'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'pdf-memorial-lu/1 · lex derive'
+---
+
+<a id="art_1er"></a>
+
+### Art. 1er. Il est créé,dans la limite des crédits budgétaires disponibles,et dans les conditions développées ci-après,une
+
+subvention aux exploitants agricoles pour l’amélioration de l’infrastructure de stockage de lisier et purin.
+
+<a id="art_2"></a>
+
+### Art. 2. La subvention est allouée
+
+— aux exploitants agricoles qui procèdent à un agrandissement de la capacité de stockage individuelle existante couvrant une période minimale de 5 mois consécutifs,à condition que cet agrandissement soit réalisé indépendam- ment de toute modernisation ou nouvelle construction de bâtiments servant à la production animale; — aux associations d’exploitants agricoles qui procèdent à la mise en place d’une capacité de stockage collective nouvelle d’un volume tel que la capacité réunie de fosses individuelles et de la nouvelle fosse à construire corres- ponde à une période minimale de 5 mois consécutifs.
+
+<a id="art_3"></a>
+
+### Art. 3. Les subventions prévues par le présent règlement ne préjudicient pas aux aides qui sont accordées par l’Etat au
+
+titre de la législation en vigueur et en particulier de la loi modifiée du 18 décembre 1986 promouvant le développement de l’agriculture.
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+(Règl.gouv.du 7 décembre 1990) «1. Lebénéficedesdispositionsduprésentrèglements’appliqueauxciternesconstruitesentrele1er janvier1990etle31 décembre 1991 inclusivement. 2. Les demandes en vue de l’obtention de la subvention sont à introduire au plus tard pour le 31 décembre 1991.» 3. Les demandes sont à adresser à l’Administration de l’Environnement au moyen du formulaire mis à la disposition des intéressés par celle-ci. 4. L’Administration de l’Environnement notifie au demandeur la suite réservée à sa demande,après avoir pris au préa- lable l’avis de l’Administration des ServicesTechniques de l’Agriculture.
+
+<a id="art_5"></a>
+
+### Art. 5. Le montant de la subvention est fixé comme suit:
+
+— 15% du coût d’investissement avec un maximum de 100.000,— francs pour les agrandissements des capacités de stockage individuelles existantes; — 30% du coût d’investissement avec un maximum de 1.000.000,— francs pour la mise en place d’une capacité de stockage collective nouvelle. Au sens du présent règlement,le coût de l’investissement éligible à la subvention est établi selon les mêmes critères que dans le cadre de la loi modifiée du 18 décembre 1986 promouvant le développement de l’Agriculture.
+
+<a id="art_6"></a>
+
+### Art. 6. La subvention est sujette à restitution si elle a été obtenue par suite de fausses déclarations,de renseignements
+
+inexacts ou à cause d’une erreur de l’Administration.
+
+<a id="art_7"></a>
+
+### Art. 7. Le ministre de l’Aménagement duTerritoire et de l’Environnement,le ministre des Finances et le ministre de
+
+l’Agriculture,de laViticulture et du Développement Rural sont chargés,chacun en ce qui le concerne,de l’exécution du présent règlement qui sera publié au Mémorial.

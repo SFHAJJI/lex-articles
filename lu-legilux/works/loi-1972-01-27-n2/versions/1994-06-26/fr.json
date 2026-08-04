@@ -1,0 +1,910 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26",
+  "language": "fr",
+  "title": "Version consolidée applicable au 06/12/1993 : Loi du 27 janvier 1972 fixant le régime des employés de l'Etat.",
+  "valid_from": "1994-06-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1972-01-27-n2/versions/1994-06-26/fr.pdf-memorial/eli-etat-leg-memorial-1995-a27-fr-pdf.pdf",
+    "sha256": "91ab530029af170121ebdc3d414dc479ebd95ef37490f983d5875ad0f2519b2e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1972/01/27/n2/consolide/19940626/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "La présente loi et ses règlements d’exécution déterminent le régime des employés de l’Etat sans préjudice de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l’application des dispositions légales existantes non contraires. Un règlement grand-ducal à prendre après avis obligatoire du Conseil d’Etat, pourra étendre aux employés de l’Etat tout ou partie des dispositions légales ou réglementaires concernant le statut disciplinaire des fonctionnaires de l’Etat dans la mesure où ces dispositions sont compatibles avec celles de la présente loi. (Loi du 8 août 1988) «Art. 2. La qualité d’employé de l’Etat est reconnue à toute personne qui remplit les conditions prévues par la présente loi et qui est engagée par l’Etat sous contrat d’employé pour une tâche complète ou partielle et à durée déter- minée ou indéterminée dans les administrations et services de l’Etat. Dans les dispositions qui suivent l’employé de l’Etat est désigné par le terme «employé».»",
+      "text_sha256": "7f2b8c0f94cfea97ebdf7a429003bb719a6047b7ed406a38e3e24d24e78caf7c",
+      "md_span": {
+        "start": 717,
+        "end": 1518
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Nul n’est admis au service de l’Etat en qualité d’employé s’il ne remplit les conditions suivantes:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a) être de nationalité luxembourgeoise, b) jouir des droits civils et politiques, c) offrir les garanties de moralité requises, d) satisfaire aux conditions d’aptitude requises pour l’exercice de son emploi.",
+      "text_sha256": "26009a11dea5fc94a88a2005954ef554e2c333431ae556d8c842fb21fed7e3e0",
+      "md_span": {
+        "start": 1653,
+        "end": 1860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "L’engagement est effectué,sur avis du ministre de la Fonction publique,par le ministre qui a dans ses attribu-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "tions l’administration ou le service dont relèvera l’employé - et qui est désigné ci-après par le terme «ministre compé- tent» - dans les formes et suivant les modalités prévues par les dispositions portant règlement légal du louage de service des employés privés, sous réserve de la fixation de l’indemnité conformément aux dispositions de l’article 23 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat.",
+      "text_sha256": "66436dcb450f75c01163bca75e3b9b8fcf48ca4f27686295a95702717a7f1c9c",
+      "md_span": {
+        "start": 2006,
+        "end": 2457
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "La résiliation du contrat d’engagement est prononcée, sur avis du ministre de la Fonction publique, par le",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ministre compétent.",
+      "text_sha256": "9f0b3b5e62a798562198d7d06e4febaa5a77253084a727e5f8f849087bd1734d",
+      "md_span": {
+        "start": 2599,
+        "end": 2618
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "1.La résiliation d’office du contrat résulte de plein droit:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a) de la perte de la nationalité luxembourgeoise; b) des conditions qui,à l’égard des fonctionnaires,entraînent la perte de l’emploi,du titre et des droits à la pension. 2. Dans l’hypothèse prévue au paragraphe 1er sous a) l’employé pourra être maintenu en service par décision du Gouvernement en conseil. L’occupation consécutive à cette décision aura un caractère essentiellement temporaire et il pourra y être mis fin à tout moment.Toutefois,le contrat conclu initialement est remis en vigueur de plein droit à la date du recouvrement de la nationalité luxembourgeoise, à condition que la personne en cause ait été sans interruption au service de l’Etat.",
+      "text_sha256": "dd53f7fedbbc77ff635b52e729c3147b83986405b3ea2c422097f074e4ba0b1b",
+      "md_span": {
+        "start": 2714,
+        "end": 3371
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "1.Sans préjudice de l’application des dispositions des articles 6 et 10,le contrat à durée indéterminée devient",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "non résiliable, sauf à titre de mesure disciplinaire, lorsqu’il est en vigueur depuis dix ans et que l’employé est âgé de trente-cinq ans au moins. 2.Le ministre compétent ne pourra prononcer la résiliation du contrat,à titre de mesure disciplinaire,qu’après avoir pris l’avis du conseil de discipline institué pour les fonctionnaires de l’Etat. Le conseil procédera conformément aux dispositions légales et réglementaires qui déterminent son organisation et son fonctionnement. 845 3. Les dispositions des paragraphes 1 et 2 ne portent pas préjudice au droit du ministre compétent de résilier le contrat en cas d’absence prolongée ou d’absences répétées pour raison de santé de l’employé qui ne bénéficie pas encore du régime de pension des fonctionnaires de l’Etat visé à l’article 8. Cette résiliation ne pourra être prononcée que sur avis du ministre de la Fonction publique et après que la Caisse de pension des employés privés,à la requête du ministre compétent et suivant des modalités à déterminer par règlement grand-ducal, se sera prononcée sur l’invalidité professionnelle de l’employé au sens des dispositions légales concernant l’assurance-pension des employés privés.",
+      "text_sha256": "9c2b54aa77f8431ea24301de4c7dd6828592dc6b6a19e8eef6b52ffb06268696",
+      "md_span": {
+        "start": 3518,
+        "end": 4699
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "1.Sans préjudice de l’application des dispositions de l’article 10,l’employé en activité de service,qui bénéficie",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "d’un contrat à durée indéterminée, a droit pour lui-même et ses survivants, à l’application du régime de pension des fonctionnaires de l’Etat dans l’une des conditions suivantes: a) après vingt années de service à compter de l’entrée en vigueur du contrat à durée indéterminée; b) lorsqu’il atteint l’âge de cinquante-cinq ans. Le même droit existe pour l’employé engagé avant l’âge de cinquante-cinq ans à l’essai ou sous contrat à durée déter- minée,à partir du moment où il obtient un contrat à durée indéterminée,à la condition que les différentes périodes se succèdent sans interruption. ( ...) (implicitement abrogé par la loi du 27 juillet 1992 -Assurance maladie) 2. (abrogé par la loi du 1er avril 1987) 3. (abrogé par la loi du 8 juin 1994) 4. Pour l’application du présent article,la terminologie en rapport avec les employés de l’Etat se substitue à celle en rapport avec les fonctionnaires de l’Etat de la législation sur les pensions des fonctionnaires de l’Etat. 5. Pour l’application du présent article, les dates à considérer qui ne coîncident pas avec le premier du mois sont reportées au premier du mois suivant.",
+      "text_sha256": "369d2e404ff5f63ff6f4a44899333d0f80dfd5f23fdbf08ae49705c4863dfc19",
+      "md_span": {
+        "start": 4848,
+        "end": 5979
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "1. Un règlement grand-ducal pourra accorder, sans créer un droit en faveur des intéressés et dans les limites",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "déterminées par les crédits budgétaires et les dispositions du régime de pension des fonctionnaires de l’Etat,des supplé- ments de pension en faveur des employés mis à la retraite sans avoir pu bénéficier des dispositions de l’article 8 ci-dessus et de leurs survivants, des survivants des employés décédés dans les mêmes conditions, des employés mis à la retraite avant l’entrée en vigueur de la présente loi et de leurs survivants et des survivants des employés décédés avant l’entrée en vigueur de la présente loi. Toutefois, le total du supplément et des prestations d’autres régimes de pension luxembourgeois et étrangers ne pourra dépasser la pension qui serait due si l’ensemble des périodes d’assurance accomplies par l’employé sous les régimes luxembourgeois et étrangers était pris en considération pour la fixation d’une pension de l’Etat. 2.(abrogé par la loi du 4 avril 1974 portant réorganisation de l’inspection du travail et des mines)",
+      "text_sha256": "579dd7aacf37c0edcfa543510ca6496f34eafe7d5b0a4d5b2492ccafb89381c9",
+      "md_span": {
+        "start": 6124,
+        "end": 7075
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "1.Seront mises en compte pour l’application des délais prévus aux articles 7 et 8:",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a) les périodes passées au service de l’Etat en qualité d’employé à l’essai ou sous contrat à durée déterminée à condi- tion que ces périodes se succèdent sans interruption et qu’elles rejoignent sans interruption la période sous contrat à durée indéterminée: l’interruption de cette dernière période ne nuit pas à la prise en compte des périodes antérieures passées au service de l’Etat,lorsqu’il y a reprise de service ultérieure; b) les périodes passées au service de l’Etat en qualité de fonctionnaire ou de fonctionnaire stagiaire ainsi que les périodes en qualité d’employé à l’essai ou sous contrat à durée déterminée qui les précèdent sans interruption; c) la période de rengagement temporaire dans le cas de l’article 6,paragraphe 2,à la condition qu’il n’y ait pas d’inter- ruption entre la fin des relations de service en application de l’article 6,paragraphe 1er et la date du recouvrement de la nationalité luxembourgeoise; d) la période d’engagement temporaire qui précède sans interruption de service la date de l’engagement en qualité d’employé à la suite de l’acquisition de la nationalité luxembourgeoise. 2. Toutefois, pour que les dispositions de l’article 7 soient applicables dans le cas du rengagement en qualité d’employé, il faut que le contrat à durée indéterminée nouvellement conclu soit en vigueur depuis trois ans au moins. Cette disposition restrictive n’est pas applicable dans l’hypothèse prévue au paragraphe 2 de l’article 6. (Loi du 29 juillet 1988) «3.Si,par application des articles 30.1.et 31.1.de la loi modifiée du 16 avril 1979 fixant le statut général des fonction- naires de l’Etat, l’employé, qui ne remplit pas encore les conditions prévues à l’article 8.1. de la présente loi, bénéficie d’un congé sans traitement ou d’un congé pour travail à mi-temps, l’Etat prend à sa charge, pendant la première année consécutive au congé de maternité ou au congé d’accueil,les cotisations correspondant à l’indemnité intégrale qui aurait été due pendant ces périodes,en vue de la continuation de l’assurance conformément à l’article 173 de la loi du 27 juillet 1987 concernant l’assurance pension en cas de vieillesse,d’invalidité et de survie.» (Loi du 8 juin 1994) «La même prise à charge des cotisations par l’Etat a lieu pendant la deuxième année d’un de ces congés consécutifs au congé de maternité ou au congé d’accueil dont bénéficie l’employé du chef d’une naissance ou d’une adoption posté- rieure à la date de l’entrée en vigueur de la loi modifiant la loi modifiée du 16 avril 1979 fixant le statut général des fonc- tionnaires de l’Etat. Il en est de même des périodes prévues au paragraphe IV de l’article 9 de la loi sur les pensions,applicable à l’employé visé à l’alinéa 1er ci-dessus.» 846",
+      "text_sha256": "7156d44f9ec77c26b8fd64aa7a76c483cd2f4c88ef43cd7fa40611905c39ff55",
+      "md_span": {
+        "start": 7195,
+        "end": 9936
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "1. Les contestations résultant du contrat d’emploi, de la rémunération et des sanctions et mesures discipli-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "naires sont de la compétence du Conseil d’Etat,Comité du Contentieux,statuant en dernière instance et comme juge de fond. Le délai de recours est de trois mois à partir de la notification de la décision. 2.Sans préjudice de l’application des dispositions de l’article 8,les employés sont soumis au régime légal de l’assurance pension des employés privés;...1 3.Les dispositions du code pénal concernant les fonctionnaires de l’Etat sont rendues applicables aux employés.",
+      "text_sha256": "cafab8433fce81610b06ac3037245c1b48af332e527f77755ee145567306b784",
+      "md_span": {
+        "start": 10082,
+        "end": 10552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Les employés en service et les anciens employés des offices de l’Etat des dommages de guerre et de la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "reconstruction, qualifiés d’employés privés par l’article 31 de la loi du 25 février 1950 concernant l’indemnisation des dommages de guerre,sont considérés comme employés de l’Etat pour l’application des dispositions de la présente loi.",
+      "text_sha256": "82d17455e8910b9a939baa3d7db41ab9e95e9f0033da73a83acb98665b1ec4c6",
+      "md_span": {
+        "start": 10691,
+        "end": 10927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Un règlement grand-ducal2 pourra prévoir l’assimilation au régime des employés de l’Etat du personnel des",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "établissements publics,des communes,des syndicats de communes et de la société nationale des chemins de fer luxem- bourgeois,qui,auprès de l’Etat répond à la notion «d’employé de l’Etat». Une telle assimilation aura notamment pour effet de faire considérer le temps passé au service de l’une et l’autre de ces personnes morales,y compris l’Etat,comme temps passé au service de la même personne morale. Dispositions transitoires",
+      "text_sha256": "5f585f9849cbed3bf1313c6638871b96ddedbc49fdca337dfd02c9f7148f11f8",
+      "md_span": {
+        "start": 11070,
+        "end": 11497
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "1. Les contrats conclus avant l’entrée en vigueur de la présente loi entre l’Etat et les personnes en activité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de service, qui remplissent les conditions des articles 2 et 3 sont validés.A condition qu’ils aient été conclus pour une durée indéterminée avant le 1er avril 1968 ces contrats sont reconnus non résiliables sauf dans les cas prévus par la présente loi.En outre,ils sont réputés être en vigueur depuis l’engagement légal des personnes en cause pour l’applica- tion des dispositions des articles 8 et 10. 2.Dans les six mois qui suivent l’entrée en vigueur de la présente loi,les personnes entrées au service de l’Etat avant le 1er avril 1968, qui remplissent les conditions des articles 2 et 3 et dont l’engagement n’a pas été confirmé par contrat, pourront bénéficier d’un contrat à durée indéterminée, résiliable seulement dans les cas prévus par la présente loi. Ce contrat est réputé être en vigueur depuis l’engagement légal des personnes en cause pour l’application des dispositions des articles 8 et 10. 3. Les membres du personnel enseignant et administratif des cours pour jeunes filles organisés par l’Etat à l’Ecole professionnelle et ménagère «Ste-Marie» à Luxembourg-Verlorenkost, engagés avant le premier janvier 1967, pour une tâche complète et durable, repris par les Centres d’enseignement professionnel de l’Etat à partir du début de l’année scolaire 1969/70 et en service au moment de l’entrée en vigueur de la présente loi sont considérés à partir de leur enga- gement comme employés de l’Etat pour l’application de la présente loi. Il en est de même des membres de ce personnel qui ont été mis à la retraite ou qui sont décédés avant l’entrée en vigueur de la présente loi,ainsi que de ceux qui ont été mis à la retraite ou qui sont décédés avant leur reprise par les Centres d’enseignement professionnel. 4.Pour l’application des délais prévus aux articles 7 et 8,le temps de service comme volontaire de l’Armée aux condi- tions du règlement grand-ducal du 9 décembre 1963 déterminant le statut des volontaires de l’Armée est assimilé au temps passé au service de l’Etat sous contrat à durée indéterminée. (Loi du 8 août 1988) «Art.15. Les personnes qui ont été engagées avant le 15 juillet 1988 au service de l’Etat,dans les formes et suivant les modalités prévues par les dispositions portant règlement légal du louage de service des employés privés et qui ne remplissent pas les conditions prévues par l’article 3a) de la présente loi, peuvent continuer à bénéficier d’un contrat d’employé privé au service de l’Etat.» 1 Les termes «en outre,ils sont affiliés à la Caisse de maladie des employés privés» sont devenus sans objet à la suite du changement du régime d’assurance maladie des employés à partir du 1.1.1994. 2 Assimilation au régime des employés de l’Etat du personnel a) de l’Office des Séquestres — Règl.g.-d.du 3 mars 1972 (Mém.A 1972,p.545); b) de l’Office Commercial du Raviltaillement — Règl.g.-d.du 3 mars 1972 (Mém.A 1972,p.733); c) de l’Office des assurances sociales, de la Caisse de pension des employés privés, de la Caisse nationale d’assurance maladie des ouvriers,de la Caisse de maladie des employés privés et de la Caisse de maladie des fonctionnaires et employés publics — Règl.g.-d. du 23 mars 1972 (Mém.A 1972,p.775); d) de l’administration commune de la Caisse de pension des artisans,de la Caisse de pension des commerçcants et industriels et de la Caisse de maladie des professions indépendantes — Règl.g.-d.du 23 mars 1972 (Mém.A 1972,p.776); e) de la Société Nationale des Chemins de Fer Luxembourgeois — Règl.g.-d.du 20 juillet 1973 (Mém.A 1973,p.1071); f) du Fonds national de solidarité — Règl.g.-d.du 14 septembre 1973 (Mém.A 1973,p.1299); g) de la Chambre deTravail: du 1er mai 1974 (Règl. g.-d.du 29 avril 1974 — Mém.A 1974,p.573) au 1er février 1980 (Règl.g.-d.du 21 janvier 1980 — Mém.A 1980,p.32); h) de la Chambre des Fonctionnaires et Employés publics (Règl.g.-d.du 22 mai 1980 — Mém.A 1980,p.835). 847 Règlement du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat, (Mém.A 1974,p.382) modifié par: Règlement du Gouvernement en conseil du 15 novembre 1974 (Mém.A 1974,p.1722) Règlement du Gouvernement en conseil du 1er septembre 1978 (Mém.A 1978,p.1264) Règlement du Gouvernement en conseil du 12 janvier 1979 (Mém.A 1979,p.22) Règlement du Gouvernement en conseil du 5 mars 1982 (Mém.A 1982,p.652) Règlements du Gouvernement en conseil du 8 mai 1987 (Mém.A 1987,p.608 et 617) Règlement du Gouvernement en conseil du 15 janvier 1988 (Mém.A 1988,p.40) Règlement du Gouvernement en conseil du 1er juillet 1988 (Mém.A 1988,p.789) Règlement du Gouvernement en conseil du 18 novembre 1988 (Mém.A 1988,p.1115) Règlement du Gouvernement en conseil du 14 décembre 1990 (Mém.A 1990,p.934) Règlement du Gouvernement en conseil du 4 septembre 1992. (Mém.A 1992,p.2155) Te x t e c o o r d o n n é Chapitre I.",
+      "text_sha256": "c7ae89b854c62a9c2e52cfa61fa7775aa4010043293675d8461608cec7600420",
+      "md_span": {
+        "start": 11645,
+        "end": 16504
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_1er__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_1er__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Le présent chapitre détermine les principes généraux qui régissent les indemnités des employés occupés",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "dans les administrations et services de l’Etat.",
+      "text_sha256": "d9207f34d73181181200f9ec1066714786e35865e6f2212b1c386f46d16861f1",
+      "md_span": {
+        "start": 16649,
+        "end": 16696
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Les indemnités des employés sont fixées par référence à la législation sur les traitements des fonctionnaires de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l’Etat,conformément aux dispositions ci-après.",
+      "text_sha256": "a70e25685dd480c288d07e036c7761cd92056e6c7fa01cbbfbc7d2a3a7ce86fd",
+      "md_span": {
+        "start": 16844,
+        "end": 16890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_3__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Les indemnités sont payables le 1er du mois.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 16973,
+        "end": 16973
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_4__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "L’indemnité est due pour le mois entier si l’entrée en service a lieu le premier jour ouvrable du mois.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 17115,
+        "end": 17115
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_5__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "L’indemnité de l’employé occupé à temps partiel est fixée en pourcentage de celle due pour une occupation à",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "plein temps.",
+      "text_sha256": "5dddc05021562c941d96b58441a42cb5af2cea61d7c783374ecf34026f55a88e",
+      "md_span": {
+        "start": 17261,
+        "end": 17273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_6__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(abrogé par règl.gouv.du 8 mai 1987)",
+      "text_sha256": "d6116d2d7a6ee577b670d06bbf7ec3bd83aee93538d076c85a0076849dc49901",
+      "md_span": {
+        "start": 17311,
+        "end": 17347
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_7__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Dans les dispositions qui suivent,l’expression «la loi» désigne la loi du 22 juin 1963 fixant le régime des traite-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ments des fonctionnaires de l’Etat, telle qu’elle a été modifiée et telle qu’elle sera modifiée dans la suite et le terme «indemnité» désigne l’indemnité de base,sauf disposition contraire.",
+      "text_sha256": "8cca2d980949ef04506452f9880bead1e0b066eabe1869257df3e349c33ccf60",
+      "md_span": {
+        "start": 17501,
+        "end": 17690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_8__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Les indemnités des employés sont déterminées par carrières et classements fixés par référence aux grades des",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "tableaux indiciaires annexés à la loi. Les modifications qui seront apportées à ces tableaux indiciaires entraîneront de plein droit le recalcul des indemnités conformément aux nouveaux grades, sauf en cas de restructuration simultanée, affectant les classements décidés, des rubriques de classification des fonctions annexées à la loi. Ces dispositions sont applicables aux employés retraités et à leurs survivants.",
+      "text_sha256": "f1b5b23e8f87bdf89066712dee9f173aa18c42fc657445ca871a3dedc2adcb5e",
+      "md_span": {
+        "start": 17837,
+        "end": 18253
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_9__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "L’avancement de l’employé à un grade supérieur s’effectue conformément aux dispositions de l’article 5,",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "paragraphe 1,2 et 3,relatives à la promotion du fonctionnaire,le passage à un grade inférieur conformément à l’article 6, paragraphe 1,de la loi.",
+      "text_sha256": "60878cabbe7806a3eb21f7caf708cc5b090ffb7812e77d4cd2978c7225c8040c",
+      "md_span": {
+        "start": 18395,
+        "end": 18540
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_10__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "L’indemnité de l’employé qui passe à une carrière supérieure est calculée conformément à l’article 7, para-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "graphe 5 de la loi.",
+      "text_sha256": "be3671d0954b473b4e0f3550e61eea91c18b12f1f60650adf9724b5c9292cef0",
+      "md_span": {
+        "start": 18688,
+        "end": 18707
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_11__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "La carrière de l’employé prend cours dès la fin de la période d’assimilation au stagiaire-fonctionnaire.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 18852,
+        "end": 18852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_12__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "L’indemnité revenant à l’employé au moment du début de carrière est déterminée conformément aux",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "dispositions des articles 3,7 et 34 de la loi,sous réserve de l’application des alinéas ci-après. L’expression «début de carrière» se substitue à l’expression «nomination définitive» et le grade fixé comme grade de début de carrière est considéré comme grade normal de début de carrière et comme grade de computation de la bonifi- cation d’ancienneté. Le second alinéa du paragraphe 6 de l’article 7 de la loi n’est pas appliqué. 848",
+      "text_sha256": "101d7e096b4365a500e44aff3d162da51086cc7e802ebd6d8b724f1ffc5e8aca",
+      "md_span": {
+        "start": 18988,
+        "end": 19421
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_13__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Règl.gouv.du 15 novembre 1974) «1.L’indemnité revenant à l’employé au moment du début de carrière est allouée d’office.» (Règl.gouv.du 1er septembre 1978) «2.Les avancements d’échelon,dont la périodicité est réglée conformément à l’article 4 de la loi,les avancements en grade et les avancements d’échelon supplémentaires sont alloués d’office,sauf le cas de suspension.» (Règl.gouv.du 15 novembre 1974) «La suspension est prononcée par le ministre du ressort par une décision motivée qui est communiquée à l’employé intéressé.L’employé peut présenter ses explications.La décision subséquente du ministre est sans recours. En cas de suspension unique ne dépassant pas un an,le ministre du ressort peut rétablir le jeu normal des avancements d’échelon et des avancements en grade. Dans toutes les hypothèses prévues aux alinéas ci-dessus la perte encourue par la suspension est définitive.» En cas de suspension de l’avancement d’échelon,la décision y relative est communiquée à l’employé intéressé qui peut présenter ses explications.La décision subséquente du ministre est sans recours. 3. Les avancements en grade font l’objet d’une décision du ministre compétent, selon les modalités prévues au para- graphe 2 ci-dessus pour les avancements d’échelon. 4.En cas de suspension unique ne dépassant pas un an,le ministre compétent peut rétablir le jeu normal des avance- ments d’échelon et des avancements en grade.La perte encourue par la suspension est définitive.",
+      "text_sha256": "416d16cab35025b5e135ab7e443f58d6e220f674d20b53814650c0ec9fda21e4",
+      "md_span": {
+        "start": 19461,
+        "end": 20927
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_14__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Pour la détermination de l’échéance des augmentations d’âge et des avancements éventuels d’échelon et en",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "grade,les dates de naissance et d’entrée en service qui tombent à une date autre que le 1er du mois sont reportées au premier du mois suivant.",
+      "text_sha256": "9209112079817c2fff19e5a00442c7a5df4888f0b96755f7ec7b7e5787bd4110",
+      "md_span": {
+        "start": 21072,
+        "end": 21214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "L’ouvrier de l’Etat qui est engagé en qualité d’employé et dont l’indemnité au sens de l’article 6 ci-dessus est",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "inférieure au salaire d’ouvrier bénéficie d’un supplément personnel d’indemnité égal à la différence entre les éléments comparés. Le salaire pris en considération est le salaire mensuel normal au jour du changement de statut, y compris le montant tenant lieu «d’allocation de famille». Le supplément personnel diminue au fur et à mesure que l’indemnité augmente par l’accomplissement des conditions d’années de service et d’examen. (Règl.gouv.du 4 septembre 1992) «Art. 16. Sont appliquées aux employés les dispositions des articles 9, 9bis et 10 de la loi relatives à l’allocation de famille, à l’allocation de repas et aux allocations familiales. Pour l’application des dispositions concernant l’allocation de repas,les chargés de cours de religion sont assimilés aux fonctionnaires de la rubrique IV.- Enseignement de l’annexeA de la loi. L’employé bénéficie de la totalité d’une allocation de repas,sauf si son degré d’occupation mensuel est inférieur à une tâche complète auquel cas l’allocation est réduite de moitié.Aucune allocation n’est due lorsque le degré d’occupation est inférieur à la moitié d’une tâche complète.» (Règl.gouv.du 4 septembre 1992) «Art.17. Les employés peuvent bénéficier de la prime d’astreinte conformément aux paragraphes 2 et 3 de l’article 25 de la loi et suivant les modalités prévues par les règlements d’exécution.» (Règl.gouv.du 12 janvier 1979) «L’employé dont l’indemnité est inférieure à cent cinquante points indiciaires bénéficie d’un supplément d’indemnité de sept points indiciaires; toutefois, le supplément est réduit d’autant de points indiciaires que le total de ces deux éléments dépasse la somme de cent cinquante points indiciaires.»",
+      "text_sha256": "8b91e95aa1913bc4f1b377e4b06dcdcf40ad4e9749eda0ff18678c87dc79ed36",
+      "md_span": {
+        "start": 21364,
+        "end": 23051
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "L’indemnité de l’employé,telle qu’elle est définie à l’article 6 ci-dessus,ainsi que la prime d’astreinte prévue à",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l’article 17 ci-dessus sont adaptées au coût de la vie conformément aux dispositions de l’article 11 de la loi.L’indemnité est établie en francs conformément aux dispositions du paragraphe 2 du même article 11.",
+      "text_sha256": "878f2bd1d66f3c0c466497657b33c41d2c3b0488c9f0d418dd518fe4fb4b7a9f",
+      "md_span": {
+        "start": 23203,
+        "end": 23413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Sont appliquées en faveur des employés les dispositions des articles 1er et 2 de la loi modifiée du 22 juin 1963",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "portant fixation de la valeur numérique des traitements des fonctionnaires de l’Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, et les modifications qui y seront apportées dans la suite.Toutefois,le prélèvement forfaitaire est supprimé pour l’employé qui ne bénéficie pas de l’application de l’article 8 de la loi du 27 janvier 1972 fixant le régime des employés de l’Etat. (Règl.gouv.du 8 mai 1987) «Art.20. Les administrations ou départements ministériels pourront désigner un employé pour remplir les fonctions de secrétaire de direction pour autant que les nécessités de service l’exigent. Le classement et l’indemnité des secré- taires de direction sont fixés conformément au tableau I annexé.»",
+      "text_sha256": "eff6b17e472c6a15dde8255aaac762e6658eb053656fc629944fabaa227e7512",
+      "md_span": {
+        "start": 23563,
+        "end": 24351
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Règl.gouv.du 18 novembre 1988) «1.Pour l’employé qui bénéficie de l’application de l’article 8 de la loi du 27 janvier 1972 fixant le régime des employés de l’Etat,les articles 26,alinéas 1er et 4,et 29bis de la loi du 22 juin 1963 fixant le régime des traitements des fonction- naires de l’Etat sont applicables.Toutefois, par dérogation à l’alinéa 2 du paragraphe 3 de l’article 29bis, le délai y prévu commence à courir à partir du jour de la publication du présent règlement au Mémorial.» 849 (Règl.gouv.du 1er juillet 1988) «2. L’employé qui, sans bénéficier de l’application de l’article 8 de la loi du 27 janvier 1972 fixant le régime des employés de l’Etat, quitte le service de l’Etat parce qu’il a atteint la limite d’âge de 65 ans ou parce qu’il a obtenu la pension de vieillesse ou la pension d’invalidité permanente, a droit, pendant les trois mois qui suivent le départ, à la dernière indemnité d’activité, telle qu’elle est définie à l’article 6 ci-dessus, diminuée de la pension totale versée par la caisse de pension des employés privés. En cas de décès,une somme égale à trois mensualités de la même indemnité est payée,en dehors de celle du mois de décès, au profit respectivement de la veuve, des enfants ou parents qui ont vécu en ménage commun avec le défunt et dont l’entretien était à sa charge. A défaut d’une veuve, d’enfants ou de parents remplissant ces conditions, ce trimestre de faveur n’est pas dû.Toute- fois, une indemnité spéciale ne pouvant dépasser dix mille francs au nombre indice 100 du coût de la vie sera allouée, conformément à la réglementation afférente en vigueur pour les fonctionnaires de l’Etat,à toute personne qui aura payé les frais de dernière maladie et d’enterrement. En cas où le trimestre de faveur est inférieur à l’indemnité spéciale,les personnes visées à l’alinéa 2 ci-dessus ont droit à l’indemnité spéciale.» Chapitre II.",
+      "text_sha256": "dc0d058f7de300831bec86059a53b5dfa35bc29784686ad27ab6599e19ce1cdd",
+      "md_span": {
+        "start": 24388,
+        "end": 26273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Sans préjudice de l’application des dispositions du chapitre 1er ci-dessus, les employés administratifs et",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "techniques assimilés aux fonctionnaires de l’Etat des carrières inférieures et moyennes sont classés par application des tableaux des carrières annexés au présent règlement et suivant les dispositions du présent chapitre.",
+      "text_sha256": "79c38b475a22f8dca2c830040bcf573fdaf097538e29d78b1781a0d1714c04ec",
+      "md_span": {
+        "start": 26417,
+        "end": 26638
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "L’employé n’est admis à une carrière déterminée que si la condition d’études et celle de l’emploi correspon-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "dant sont remplies conjointement,sauf les exceptions prévues à l’annexe. (Règl.gouv.du 15 novembre 1974) «Art.24. Les décisions individuelles de classement sont prises par le ministre de la Fonction publique.» (Règl.gouv.du 8 mai 1987) «Art.25. L’âge de 19 ans est considéré comme âge fictif de début de carrière pour les employés des carrièresA,B,B1 et C du tableau I annexé, l’âge de 21 ans comme âge fictif de début de carrière pour les employés des carrières D, E1 et E2 et l’âge de 25 ans comme âge fictif de début de carrière pour les employés de la carrière S. Les employés des carrières A, B et B1 sont assimilés pendant les 2 premières années de service aux stagiaires-fonc- tionnaires.Pour les employés des carrières C,D,et S,cette période est portée à 3 années.» (Règl.gouv.du 14 décembre 1990) «Les employés sont considérés comme étant en première année de stage à partir de l’âge fictif de début de carrière.A partir de cet âge ils ont droit au troisième échelon de leur grade.Toutefois, dès qu’ils font valoir une année de service depuis l’engagement en qualité d’employé,ils ont droit au quatrième échelon de leur grade. Les employés des carrièresA,B,B1 et C engagés entre dix-huit et dix-neuf ans,ont droit au deuxième échelon de leur grade.Les employés de ces carrières âgés de moins de dix-huit ans ont droit au premier échelon de leur grade. Les employés des carrières D,E1 et E2 engagés avant l’âge de vingt-et-un ans ont droit au deuxième échelon de leur grade.Il en est de même des employés de la carrière S engagés avant l’âge de vingt-cinq ans.» (Règl.gouv.du 8 mai 1987) «Les employés des carrièresA,B et B1 du tableau I - Employés administratifs et techniques - engagés à vingt-huit ans sont considérés comme étant en deuxième année de stage. Ces employés ne sont plus considérés comme étant en période de stage à partir de l’âge de vingt-neuf ans.Il en est de même des employés des carrières C et D mentionnées aux tableaux annexés lorsqu’ils sont engagés à l’âge de trente ans et lorsqu’ils ont atteint l’âge de trente et un ans ainsi que des employés de la carrière S lorsqu’ils sont engagés à l’âge de trente-quatre ans et lorsqu’ils ont atteint l’âge de trente-cinq ans. Les réductions de la période assimilée au stage, telles qu’elles découlent de ces dispositions sont comptées comme temps de service accompli pour l’application des troisième,quatrième et cinquième alinéas qui précèdent. Le temps passé au service de l’Etat ou d’un établissement pubic antérieurement à l’engagement en qualité d’employé peut être imputé, pour une période maximum de douze mois, sur la période assimilée au stage, si l’occupation qui a précédé cet engagement a eu les mêmes caractéristiques que l’occupation ultérieure. Les décisions individuelles sont prises par le ministre compétent sur avis conforme du ministre de la Fonction publique. Les périodes mises en compte sont considérées comme temps de service pour l’application des alinéas qui précèdent.» 850",
+      "text_sha256": "2b50986917f7f361cdb921bea3aa88132c775f9a0b4903c98f82f4e2596fb97b",
+      "md_span": {
+        "start": 26784,
+        "end": 29760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Pour l’employé qui passe à une carrière supérieure les délais d’attente relatifs aux deux premiers avance-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ments en grade sont fixés respectivement à «quatre et sept ans»1 à partir de la date du changement de carrière.Toute- fois, même dans cette hypothèse, aucun avancement en grade ne peut intervenir si les conditions d’âge et d’années de service prévues aux tableaux des carrières annexés ne sont pas remplies. (Règl.gouv.du 5 mars 1982) «Le temps passé au service de l’Etat ou d’un établissement public antérieurement à l’engagement en qualité d’employé peut être imputé,pour une période maximum de vingt-quatre mois,sur les mêmes délais d’attente,si l’occupation qui a précédé cet engagement a eu les mêmes caractéristiques que l’occupation ultérieure.» Les décisions individuelles sont prises par le ministre compétent sur avis conforme du ministre de la Fonction publique.Toutefois,aucun avancement en grade ne peut intervenir si les conditions d’âge fixées aux tableaux des carrières annexés ne sont pas remplies.",
+      "text_sha256": "aad79b92ccf74dc4c9a54682f85dfd5ea37ec94c208ccbdcdf41c1ab51395145",
+      "md_span": {
+        "start": 29904,
+        "end": 30819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": "Lorsque l’indemnité de base de l’employé ayant passé à une carrière supérieure n’atteint pas celle de la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "carrière inférieure, les avantages de celle-ci lui restent acquis jusqu’au moment où le résultat de la nouvelle carrière devient plus favorable.",
+      "text_sha256": "ca00997164c5cd9d81a64213f8c9d445046af942da979bfaac9b45d98335681f",
+      "md_span": {
+        "start": 30961,
+        "end": 31105
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": "Pour la détermination des grades de début de carrière,il est renvoyé aux tableaux des carrières annexés.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Est considérée comme carrière supérieure par rapport à une autre celle dont le grade de début de carrière est supé- rieur.",
+      "text_sha256": "4c89e4bd432140bc2260ab694ffb6694c4ad1fcfade241d7e6782efe83cdbe66",
+      "md_span": {
+        "start": 31247,
+        "end": 31369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Règl.gouv.du 8 mai 1987) «1.Pour les employés de la carrièreA du tableau I annexé,qui ont réussi à l’examen de carrière,le grade 3 est allongé d’un échelon supplémentaire ayant l’indice 209. 2. Pour les employés de la carrière B1 du tableau I annexé,le grade 7 est allongé d’un échelon supplémentaire ayant l’indice 266. 3. Pour les employés de la carrière C du tableau I annexé,qui n’ont pas réussi à l’examen de carrière,le grade 7 est allongé d’un échelon supplémentaire ayant l’indice 266. 4. Pour les employés de la carrière D du tableau I annexé,qui n’ont pas réussi à l’examen de carrière,le grade 9 est allongé de trois échelons supplémentaires ayant les indices 326,338 et 350.» (Règl.gouv.du 1er juillet 1988) «5.Pour l’employé technique de la carrière D du tableau I annexé,l’indice 194 constitue le premier échelon du grade 7.» (Règl.gouv.du 8 mai 1987) «6.Pour les employés de la carrière S du tableau I annexé,le grade 14 est allongé d’un échelon supplémentaire ayant l’indice 485. 7. Pour les secrétaires personnels des membres du Gouvernement classés dans la carrière E1 du tableau II annexé,le grade 10 est allongé d’un échelon supplémentaire ayant l’indice 350 et le grade 11 est allongé d’un échelon supplé- mentaire ayant l’indice 395. 8. Pour les secrétaires personnels des membres du Gouvernement classés dans la carrière E2 du tableau II annexé,le grade 11 est allongé d’un échelon supplémentaire ayant l’indice 395 et le grade 12 est allongé d’un échelon supplé- mentaire ayant l’indice 425.» (Règl.gouv.du 8 mai 1987) «Art. 29bis. Sur demande de l’employé et sur avis du chef d’administration, l’employé peut, à la condition d’avoir participé au cours de sa carrière à au moins trois cours de recyclage ou de perfectionnement,ou d’en avoir été dispensé pour des raisons dûment motivées par son chef d’administration,bénéficier des avancements ou allongements de grades ci-après: 1. Pour les employés de la carrièreA du tableau I annexé qui ont réussi à l’examen de carrière,le grade 3 allongé est allongé de deux échelons supplémentaires ayant les indices 216 et 222. 2. Pour les employés de la carrière B du tableau I annexé, le grade 6 est allongé de deux échelons supplémentaires ayant les indices 251 et 259. 3. Pour les employés de la carrière B1 du tableau I annexé,le grade 7 allongé est allongé de deux échelons supplémen- taires ayant les indices 275 et 282. 4. Pour les employés de la carrière C du tableau I annexé, le grade 8 est allongé de deux échelons supplémentaires ayant les indices 308 et 317. 5. Pour les employés de la carrière D du tableau I annexé,le grade 12 est allongé de deux échelons supplémentaires ayant les indices 425 et 435. 6. Pour les employés de la carrière S du tableau I annexé,le grade 14 allongé est allongé d’un échelon supplémentaire ayant l’indice 500.Les employés de cette carrière remplissant les conditions de l’alinéa premier du présent article peuvent avancer au grade 15.» 1 Ainsi modifié par le règlement du Gouvernement en conseil du 8 mai 1987. 851 (Règl.gouv.du 1er juillet 1988) «7.Pour les contrôleurs-ouvriers et les contrôleurs-employés attachés à l’inspection du travail et des mines et à l’Administration de l’Emploi,le grade 8bis est allongé de deux échelons ayant les indices 332 et 339.» (Règl.gouv.du 1er juillet 1988) «Art.29ter. L’article 27bis de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat est applicable aux employés qui ont été engagés ou qui ont bénéficié d’une reconstitution de carrière sur la base de l’article 7 de la loi précitée pendant la période du premier novembre 1983 au trente et un octobre 1986.»",
+      "text_sha256": "91c01512175f19d93c3f6871a291df40e73a3718ae9bb5d1b4ac9339a587a2e2",
+      "md_span": {
+        "start": 31406,
+        "end": 35061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(Règl. gouv. du 5 mars 1982) «Nul employé n’est admis à l’examen prévu pour sa carrière s’il n’est âgé de vingt-six ans au moins et s’il ne peut faire valoir au moins cinq années de service depuis l’engagement en cette qualité.Le temps passé avant cet engagement auprès de l’Etat ou d’un établissement public peut être imputé, à concurrence de vingt-quatre mois au maximum,sur le délai de cinq ans par décision de la commission permanente prévue à l’article 32 ci-après.» Sans préjudice de l’application de l’alinéa qui précède, l’employé qui change de carrière n’est admis à l’examen de la nouvelle carrière qu’après trois années de service dans cette carrière. (Règl.gouv.du 8 mai 1987) «Nul employé n’est admis à l’épreuve de qualification prévue pour sa carrière s’il ne peut faire valoir au moins dix années de service depuis l’engagement en cette qualité.»",
+      "text_sha256": "0768aaa334857898b51c39f28b36978e4a8a6372d7e7566890fae671d6e469cc",
+      "md_span": {
+        "start": 35098,
+        "end": 35960
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": "Les examens de carrière «et les épreuves de qualification»1 des employés se font pas écrit, sauf les excep-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "tions prévues ci-après. Ils porteront sur les branches et les matières suivantes: 1.Tableau I.- CarrièreA. a) Epreuveportantsurunsujetenrelationavecl’occupationquotidienneducandidat. . . . . . . . . . . . . . 60points b) Notionsindispensablessurl’organisationdel’administrationdontrelèvelecandidat . . . . . . . . . . . . 60points c) Travauxpratiques. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points Le candidat peut choisir entre la langue françcaise et la langue allemande. Pour l’employé-garçcon de bureau les travaux pratiques sont remplacés par une épreuve orale. Le candidat doit pouvoir s’exprimer en luxembourgeois,en françcais et en allemand en donnant les renseignements qui lui sont demandés. Lorsque le candidat est empêché par un défaut physique de s’exprimer par écrit,la commission peut décider de l’exa- miner oralement dans toutes les branches. 2.Tableau I.- Carrière B. (a) Reproductionaprèslectured’untextefran ç ais . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (b) Traductiond’untexteallemandenlanguefran ç aise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (c) Traductiond’untextefran ç aisenlangueallemande . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (d) Eléments de la législation,des règlements et instructions qui déterminent les attributions,l’organi- sation et le fonctionnement de l’administration à laquelle appartient l’employé; le programme détaillédecettebrancheestfixéparlacommissiond’examen . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (e) Principesélémentairesdedroitpublicluxembourgeois. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30points 3.Tableau I.- Carrière B1. (a) Reproductiond’aprèslectured’untextefran ç ais. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (b) Traductiond’untexteallemandenlanguefran ç aise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (c) Traduction d’un texte françcais en langue allemande; cette épreuve peut être remplacée par une épreuvepratiqueouspécifiquementtechnique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (d) Eléments de la législation,des règlements et instructions qui déterminent les attributions,l’organi- sation et le fonctionnement de l’administration à laquelle appartient l’employé; le programme détaillédecettebrancheestfixéparlacommissiond’examen . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (e) Principesélémentairesdedroitpublicluxembourgeois. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 points 1 Ajouté par règl.gouv.du 8 mai 1987. 852 (Règl.gouv.du 8 mai 1987) «4.Tableau I.- Carrière C I.Examen de carrière: (a) Rédactiond’unrapportenlanguefran ç aisesurunsujetadministratifoutechnique . . . . . . . . . . . . . . 60points (b) Rédactiond’unrapportenlangueallemandesurunsujetadministratifoutechnique . . . . . . . . . . . . . 60points (c) Correspondancedeserviceenfrançcaisetenallemandouuneépreuvetechnique . . . . . . . . . . . . . . . 40points (d) Notions générales sur la législation, les règlements et les instructions qui déterminent les attribu- tions, l’organisation et le fonctionnement de l’administration à laquelle appartient l’employé; le programmedétaillédecettebrancheestfixéparlacommissiond’examen . . . . . . . . . . . . . . . . . . . 60points (e) Principesélémentairesdedroitpublicluxembourgeois. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30points II.Epreuve de qualification: (a) Questionsenrapportaveclapratiqueprofessionnelle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100points (b) Rapportd’activité . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100points» 5.Tableau I.- Carrière D I.Examen de carrière: (a) Elaborationd’unmémoireenlanguefran ç aise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 120points (b) Correspondancedeserviceenlanguefran ç aise . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60points (c) Correspondance de service en langue allemande; cette épreuve peut être remplacée par une épreuvethéoriquespécifiquementtechnique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40points (d) La législation,les règlements et les instructions qui déterminent les attributions,l’organisation et le fonctionnement de l’administration à laquelle appartient l’employé - interprétation et applications; leprogrammedétaillédecettebrancheestfixéparlacommissiond’examen . . . . . . . . . . . . . . . . . . 100points (e) Droitconstitutionneletdroitadministratifluxembourgeois . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40points II.Epreuve de qualification: (a) Questionsenrapportaveclapratiqueprofessionnelle . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100points (b) Rapportd’activité . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100points» Pour les matières communes aux différents programmes prévus ci-dessus, la commission arrête le degré de difficulté de l’examen en fonction des carrières.",
+      "text_sha256": "ac7f77287cd60e12c325b1cdc5c69d974856d63e53ae1ee64b434dcd9946e8b7",
+      "md_span": {
+        "start": 36105,
+        "end": 41447
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "Les examens prévus ci-dessus pour les employés des carrières des tableaux I. et II. auront lieu devant une",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "commission permanente nommée par le ministre de la Fonction publique pour une durée de trois ans. La commission comprendra au moins trois membres effectifs et trois membres suppléants choisis parmi les fonctionnaires de l’adminis- tration gouvernementale. Lorsque l’employé ne fait pas partie de cette administration, le commission sera complétée, sur les propositions du ministre compétent,par deux fonctionnaires de l’administration dont relève l’employé.Un de ces fonctionnaires pourra être remplacé par un employé. Nul ne peut être membre de la commission d’un examen auquel participe un parent ou allié jusqu’au 4e degré inclusi- vement. La commission statue sur l’admissibilité des candidats et arrête la procédure à suivre. (Règl.gouv.du 1er juillet 1988) «Les articles 4, paragraphe 4, et 5 du règlement grand-ducal du 13 avril 1984 déterminant la procédure des commis- sions d’examen du concours d’admission au stage, de l’examen de fin de stage et de l’examen de promotion dans les administrations et services de l’Etat sont applicables aux examens de carrière ainsi qu’aux épreuves de qualification.»",
+      "text_sha256": "7e03fbd7e47a3b40ce66825a215f08830f99960a34de65dabd868253d198db24",
+      "md_span": {
+        "start": 41591,
+        "end": 42702
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": "Est considérée comme insuffisante la note qui n’atteint pas la moitié des points attribués à une branche de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l’examen. Les candidats qui n’auront pas obtenu les 3/5mes du maximum total des points seront refusés de même que ceux qui auront obtenu plus d’une note insuffisante. Les candidats qui auront obtenu les 3/5mes du maximum total des points et une note insuffisante dans une branche de l’examen subiront dans cette branche un examen écrit supplémentaire qui décidera de leur admission. Les candidats devront se présenter à l’examen supplémentaire dans le délai de six mois suivant la décision de la commission.A défaut, ils seront considérés comme étant refusés. Les candidats refusés pourront se présenter à un nouvel examen complet après un délai d’un an au plus tôt. (Règl.gouv.du 18 novembre 1988) «Art. 34. Les employés en service le 1er janvier 1989 accèdent à cette date à l’échelon suivant de leur grade, avec conservation de l’ancienneté d’échelon acquise et sans préjudice de l’application des dispositions prévues à l’article 7 de la loi et à l’article 29bis du présent règlement. Cette disposition ne s’applique pas aux employés classés au dernier échelon de leur grade de fin de carrière. 853 Les employés ayant atteint le dernier échelon d’un grade qui n’est pas le dernier grade de leur carrière bénéficient,en vue de l’application de l’alinéa 1er ci-dessus,d’un échelon supplémentaire dont la valeur est égale à la différence entre le dernier et l’avant dernier échelon actuel. Pour l’application des dispositions relatives aux avancements en grade, cet indice supplémentaire est considéré comme échelon. Au sens des dispositions du présent paragraphe, il y a lieu d’entendre par dernier échelon, l’indice maximum d’un grade tel qu’il résulte des articles 29 et 29bis du présent règlement et de l’annexe C de la loi.Par grade de fin de carrière, il y a lieu d’entendre le grade de la carrière qui peut être atteint par un employé remplissant toutes les conditions d’examen et d’ancienneté de service prévues pour sa carrière. Les employés qui,au sens de l’article 25 du présent règlement,sont considérés comme étant en période de stage à la date du 1er janvier 1989,bénéficieront de l’application des dispositions du présent paragraphe lors de la fixation de leur indemnité définitive. Les employés en service le 1er janvier 1989 dont la carrière est reconstituée à une date ultérieure,bénéficieront de la mesure de cette reconstitution.« (Règl.gouv.du 14 décembre 1990) «Art.34bis.Allocation de fin d’année.L’employé en activité de service bénéficie par assimilation au fonctionnaire d’une allocation de fin d’année calculée sur base des dispositions de l’article 29ter de la loi.» (Règl.gouv.du 14 décembre 1990) «Art.34ter. De la restitution des indemnités.Par application analogique la disposition de l’article 29quater de la loi est applicable aux employés occupés dans les administrations et services de l’Etat.» Dispositions transitoires.",
+      "text_sha256": "fc1a4ff7b778c56fa1cffdba4bb18aa0781899c8c299b210564deb70f678916b",
+      "md_span": {
+        "start": 42847,
+        "end": 45705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": "Les examens reçcus et les décisions de classement intervenues soit en exécution des dispositions de la régle-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "mentation antérieure, soit par dérogation à ces dispositions, sont validés et les employés classés conformément aux tableaux annexés au règlement modifié du Gouvernement en conseil du 23 février 1968 fixant les conditions de louage de service et de rémunération des employés de l’Etat sont admis,sans préjudice de l’application de l’article 36 ci-après, aux carrières prévues par le présent règlement conformément au tableau des équivalences suivant: Ancienne réglementation Nouvelle réglementation Tableau I. Tableau III. Tableau I. Carrière Carrière Carrière A A A B A1 B B1 B B1 C C C D D D Sans préjudice de l’application des articles 36, 37 et 38 ci-après,les indemnités de base et les carrières des employés en activité de service et retraités au moment de la publication du présent règlement seront reconstituées, jusqu’au 1er avril 1974, conformément aux dispositions du règlement et de l’annexe en tenant compte de tous les grades des carrières.",
+      "text_sha256": "f342a83a26ade9568bba4b82e3ae8e4b3e08d70e7cd18bc28ee2ab4d91715972",
+      "md_span": {
+        "start": 45852,
+        "end": 46806
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": "Par dérogation à l’article 35 ci-dessus la carrière des secrétaires personnels des membres du Gouvernement,",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "en service au moment de l’entrée en vigueur du présent règlement,qui ne remplissent par les conditions exigées pour la carrière D conformément auTableau II annexé,est limitée aux grades 7 et 8. Les secrétaires personnels des membres du Gouvernement,en service au moment de l’entrée en vigueur du présent règlement, qui remplissent les conditions d’études prévues pour la carrière D1 du Tableau II annexé, seront classés d’office dans cette carrière à partir de l’entrée en vigueur du présent règlement et leurs indemnités de base reconstituées conformément à cette carrière.",
+      "text_sha256": "378184360e44054f92dcdcdfe2a3fb7251e051cb9b52f95c8c7d83f0c27c90f1",
+      "md_span": {
+        "start": 46951,
+        "end": 47525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 37.",
+      "heading": "Pour les employés qui furent classés à la carrière B du Tableau III de l’ancienne réglementation et dont",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l’engagement est antérieur au 1er avril 1968,le grade 5 reste le deuxième grade de leur carrière.L’avancement au grade 6 de leur nouvelle carrière B1 est subordonné à la réussite à l’examen prévu. Les employés en service au moment de l’entrée en vigueur du présent règlement, qui avaient bénéficié de l’avance- ment au troisième grade de leur carrière par décision spéciale du Gouvernement en conseil,sont dispensés de l’examen y prévu en vue de l’avancement au grade suivant.",
+      "text_sha256": "bb128fc117ea62a83be2c33dbad456839a6023ccbe6fb0ab58b1ef2106805909",
+      "md_span": {
+        "start": 47667,
+        "end": 48143
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": "Les dispositions transitoires de l’article 6 du règlement du Gouvernement en conseil du 22 novembre 1968",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "concernant l’organisation,les programmes et la procédure des examens de carrière des employés de l’Etat seront appli- quées aussi longtemps que des employés en service rempliront les conditions y prévues.Toutefois, les employés de la carrière A et les employés féminins des carrières B, B1 et C du Tableau I annexé, en service à la date de l’entrée en vigueur du présent règlement, seront admissibles à l’examen à programme réduit ou à l’examen oral s’ils sont âgés respectivement de 45 et 55 ans à la date de l’entrée en vigueur du présent règlement.Pour les employés de la carrièreA l’examen à programme réduit comprendra une seule épreuve écrite portant sur l’organisation de l’administration dont relève le candidat.",
+      "text_sha256": "1a77e63a3763d15ac7a8b3651ac5ff70212b03b8887334b883e56faf24f16e3f",
+      "md_span": {
+        "start": 48285,
+        "end": 49005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": "Les décisions d’allocation de la prime d’astreinte prises antérieurement à l’entrée en vigueur du présent",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "règlement sont confirmées. 854 Chapitre III.",
+      "text_sha256": "0db8430bba24cdc21249135de760df745bb96a1251792b7728dd0762b15a69ae",
+      "md_span": {
+        "start": 49148,
+        "end": 49192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": "Sans préjudice de l’application des dispositions transitoires du chapitre II ci-dessus, le présent règlement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "remplace à partir du jour de son entrée en vigueur. le règlement du Gouvernement en conseil du 23 février 1968 fixant les conditions de louage de service et de rémuné- ration des employés de l’Etat,tel qu’il a été modifié par le règlement du 6 janvier 1970, le règlement du Gouvernement en conseil du 22 novembre 1968 concernant l’organisation, les programmes et la procédure des examens de carrière des employés de l’Etat, l’arrêté du Gouvernement en conseil du 28 janvier 1964 rendant applicable aux employés de l’Etat les conditions et les modalités d’allocation d’une prime d’astreinte aux fonctionnaires de l’Etat.",
+      "text_sha256": "bd302960460f068e258b800ed8f718e25745ba0e5abc80cffc5beb38423482c5",
+      "md_span": {
+        "start": 49338,
+        "end": 49957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": "Le présent règlement sort ses effets à partir du 1er janvier 1974.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 50061,
+        "end": 50061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 42.",
+      "heading": "Les Membres du Gouvernement sont chargés,chacun en ce qui le concerne,de l’exécution du présent règle-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ment qui sera publié au Mémorial. ANNEXE* Tableaux des carrières I.- Employés administratifs et techniques CarrièreA. Emplois: garçcon de bureau, garçcon de salle, garçcon de laboratoire, emplois confiés à des employés qui ne possèdent pas le degré d’études exigé pour le classe- ment dans l’une des carrières B,B1,C,D et S. Grade de début de carrière: grade 1. Avantagedecarrière: Avancement au grade 2 après 6 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 25 ans. Développement ultérieur delacarrière: A) Si l’employé a réussi à l’examen de carrière: Avancement au grade 3 après 9 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 28 ans. B) Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’est présenté sans succès: Avancement au grade 3 après 11 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 50 ans. Dispositionsspéciales: 1. Les employés exerçcant la fonction de concierge sont classés dans cette carrière. Pour ces agents, les grades 1, 2 et 3 prévus ci-dessus sont remplacés respectivement par les grades 3, 4 et 5 sans que toutefois les délais d’attente entre les avancements soient modifiés. 2. Les employés de cette carrière desservant un standard de télécommunications bénéfi- cient d’un supplément de rémunération de dix points indiciaires. Carrière B. Degréd’études: Pour être classé dans cette carrière l’employé doit avoir accompli avec succès,dans l’ensei- gnement public luxembourgeois, deux années d’études à plein temps soit dans l’enseigne- ment secondaire soit dans l’enseignement secondaire technique ou présenter un certificat sanctionnant des études reconnues équivalentes par le ministre de la Fonction publique. Emplois: Emplois administratifs ou techniques correspondant à ces degrés d’études. Grade de début de carrière: grade 2. Avantagedecarrière: Avancement au grade 3 après 6 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 25 ans. * Annexe,telle qu’elle a été remplacée par le règl.gouv.du 8 mai 1987. 855 Développement ultérieur delacarrière A) Si l’employé a réussi à l’examen de carrière: 1. Avancement au grade 4 après 9 années de bons et loyaux services depuis l’engage- ment comme employé et au plus tôt à l’âge de 28 ans. 2. Avancement au grade 6 après 22 années de bons et loyaux services depuis l’engage- ment comme employé et au plus tôt à l’âge de 50 ans. B) Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’est présenté sans succès: Avancement au grade 4 après 11 années de bons et loyaux services depuis l’engagement et au plus tôt à l’âge de 50 ans. Dispositionspéciale: Les employés de cette carrière desservant un standard de télécommunications bénéficient d’un supplément de rémunération de dix points indiciaires. Carrière B1. Degréd’études: Pour être classé dans cette carrière l’employé doit avoir accompli avec succès,dans l’ensei- gnement public luxembourgeois,trois années d’études à plein temps soit dans l’enseignement secondaire, soit dans l’enseignement secondaire technique, ou présenter un certificat sanctionnant des études reconnues équivalentes par le ministre de la Fonction publique. Emplois: Emplois administratifs ou techniques correspondant à ces degrés d’études. Grade de début de carrière: grade 3. Avantagedecarrière: Avancement au grade 4 après 6 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 25 ans. Développement ultérieur delacarrière: A) Si l’employé a réussi à l’examen de carrière: 1. Avancement au grade 6 après 9 années de bons et loyaux services depuis l’engage- ment comme employé et au plus tôt à l’âge de 28 ans. 2. Avancement au grade 7 après 22 années de bons et loyaux services depuis l’engage- ment comme employé et au plus tôt à l’âge de 50 ans. B) Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’est présenté sans succès: Avancement au grade 6 après 11 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 50 ans. Dispositionsspéciales: 1. Pour les employés de cette carrière, exerçcant les fonctions de secrétaire de direction, les échelons des grades 3,4,6 et 7 ,y compris ceux figurant aux articles 29 et 29bis sont augmentés de dix points indiciaires. 2. Les employés de cette carrière desservant un standard de télécommunications bénéfi- cient d’un supplément de rémunération de dix points indiciaires. Carrière C. Degréd’études: A) Pour être classé à un emploi administratif dans cette carrière l’employé doit avoir accompli avec succès,dans l’enseignement public luxembourgeois,cinq années d’études soit dans l’enseignement secondaire soit dans l’enseignement secondaire technique - division de la formation administrative et commerciale ou division de l’apprentissage commercial ou bien présenter un certificat sanctionnant des études reconnues équivalentes par le ministre de la Fonction publique. B) Pour être classé à un emploi technique dans cette carrière, l’employédoit être déten- teur d’un C.A.T.P.correspondant à la définition de l’emploi ou bien présenter un certificat sanctionnant des études reconnues équivalentes par le ministre de la Fonction publique. Emplois: Emplois administratifs et techniques correspondant à ces degrés d’études. Grade de début decarrière: grade 4. Avantagedecarrière: Avancement au grade 6 après 7 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 26 ans. 856 Développementultérieur delacarrière: A) Si l’employé a réussi à l’examen de carrière: Avancement au grade 7bis après 10 années de bons et loyaux services depuis l’engage- ment comme employé et au plus tôt à l’âge de 29 ans. B) Si l’employé a réussi à l’épreuve de qualification: Avancement au grade 8 après 22 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 50 ans. C) Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’est présenté sans succès: Avancement au grade 7 après 11 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 50 ans. Dispositionspéciale: Pour les employés de cette carrière exerçcant les fonctions de secrétaire de direction, les échelons des grades 4,6,7,7bis et 8,y compris ceux figurant aux articles 29 et 29bis,sont augmentés de quinze points indiciaires. Carrière D. Degréd’études: Pour être classé dans cette carrière l’employé doit ou bien être détenteur soit du certificat luxembourgeois de fin d’études secondaires, soit du certificat luxembourgeois de fin d’études secondaires techniques, soit du diplôme luxembourgeois d’ingénieur-technicien, ou bien présenter un certificat sanctionnant des études reconnues équivalentes par le ministre de la Fonction publique. Emplois: Emplois administratifs ou techniques correspondant à ces degrés d’études. Grade de début decarrière: grade 7. Avantagedecarrière: Avancement au grade 8 après 7 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 28 ans. Développementultérieur delacarrière: (A) Si l’employé a réussi à l’examen de carrière: 1. Avancement au grade 9 après 10 années de bons et loyaux services depuis l’enga- gement comme employé et au plus tôt à l’âge de 31 ans. 2. Avancement au grade 10 après 14 années de bons et loyaux services depuis l’enga- gement comme employé et au plus tôt à l’âge de 35 ans. 3. Avancement au grade 11 après 22 années de bons et loyaux services depuis l’enga- gement et au plus tôt à l’âge de 46 ans. (B) Si l’employé a réussi à l’épreuve de qualification: Avancement au grade 12 après 28 années de bons et loyaux services depuis l’engage- ment comme employé et au plus tôt à l’âge de 52 ans. (C) Si l’employé ne s’est pas présenté à l’examen de carrière ou s’il s’est présenté sans succès: Avancement au grade 9 après 11 années de bons et loyaux services depuis l’engage- ment comme employé et au plus tôt à l’âge de 50 ans. Dispositionspéciale: Pour les employés de cette carrière exerçcant les fonctions de secrétaire de direction, les échelons des grades 7,8,9,10,11 et 12 sont augmentés de vingt points indiciaires. Carrière S. Degréd’études: Pour être classé dans cette carrière l’employé doit remplir les conditions d’études prévues au règlement grand-ducal du 27 février 1987 portant organisation des examens-concours pour l’admission au stage des fonctions administratives de la carrière supérieure des admi- nistrations de l’Etat et des établissements publics. Emplois: Emplois administratifs et techniques correspondant à ces degrés d’études. Grade de début de carrière: grade 12. Avantagedecarrière: - Avancement au grade 13 après 7 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 32 ans. - Avancement au grade 14 après 10 années de bons et loyaux services depuis l’engage- ment comme employé et au plus tôt à l’âge de 35 ans. - Si l’employé remplit les conditions de l’article 29bis du présent règlement:Avancement au grade 15 après 23 années de bons et loyaux services depuis l’engagement comme employé et au plus tôt à l’âge de 48 ans. 857 II.Secrétaires personnels des membres du Gouvernement. 1. Les secrétaires personnels des membres du Gouvernement bénéficient,pour la durée de l’emploi,d’un classement spécial suivant les modalités ci-après: 1. Le secrétaire détenteur, soit du certificat luxembourgeois de fin d’études secondaires ou secondaires techni- ques, soit du diplôme luxembourgeois d’ingénieur-technicien, soit d’un certificat sanctionnant des études reconnues équivalentes par le ministre de la Fonction publique,est classé dans la carrière E2. 2. Le secrétaire ne possédant pas un des diplômes énumérés au numéro 1.ci-dessus est classé dans la carrière E1. Carrière E1.Grade de début decarrière: grade 7. Développement ultérieur delacarrière: 1. Avancement au grade 8 après 4 années de bons et loyaux services depuis l’engagement comme secrétaire d’un membre du Gouvernement. 2. Avancement au grade 9 après 7 années de bons et loyaux services depuis l’engagement comme secrétaire d’un membre du Gouvernement. 3. Avancement au grade 10 après 11 années de bons et loyaux services depuis l’engage- ment comme secrétaire d’un membre du Gouvernement. 4. Avancement au grade 11 après 19 années de bons et loyaux services depuis l’engage- ment comme secrétaire d’un membre du Gouvernement. Carrière E2.Grade de début decarrière: grade 8. Développementultérieur delacarrière: 1. Avancement au grade 9 après 4 années de bons et loyaux services depuis l’engagement comme secrétaire d’un membre du Gouvernement. 2. Avancement au grade 10 après 7 années de bons et loyaux services depuis l’engagement comme secrétaire d’un membre du Gouvernement. 3. Avancement au grade 11 après 11 années de bons et loyaux services depuis l’engage- ment comme secrétaire d’un membre du Gouvernement. 4. Avancement au grade 12 après 19 années de bons et loyaux services depuis l’engage- ment comme secrétaire d’un membre du Gouvernement. 4. Pour les secrétaires personnels des membres du Gouvernement,les échelons des différents grades sont augmentés respectivement de quinze points indiciaires pour la carrière E1 et de vingt points indiciaires pour la carrière E2. 5. Le secrétaire repris par un service administratif dès la cessation de son emploi est considéré à partir de la date du déplacement, tout en conservant le bénéfice du grade qu’il avait atteint, comme étant classé dans la carrière du Tableau I. ci-dessus qui correspond à son degré d’études. Cependant, pour son avancement dans cette carrière, il est dispensé des conditions d’examen y prévues. DISPOSITIONSTRANSITOIRES SUPPLEMENTAIRES: Règlement du Gouvernement en conseil du 8 mai 1987, modifié par le règlement du Gouvernement en conseil du 15 janvier 1988.",
+      "text_sha256": "fadac59ab52712872990e4a2731b5a848e040999d14021aa6269e3a47af3d1b3",
+      "md_span": {
+        "start": 50201,
+        "end": 62111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2__2",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_2__2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Dispositions transitoires et finales.",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1.Les indemnités des employés en activité de service ou pensionnés à la date de l’entrée en vigueur du présent règle- ment seront reconstituées selon les dispositions de l’article 1er ci-dessus. (Règl. gouv. du 15 janvier 1988) «Lorsque la reconstitution de la carrière aboutit à une rémunération inférieure à celle due en vertu de décisions individuelles anté- rieures prises par le Gouvernement en conseil,les intéressés bénéficient d’un supplément d’indemnité ou de pension.» Pour l’application de cette disposition, l’employé pensionné est censé avoir rempli les conditions de l’article 29bis du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat. Il en est de même de l’épreuve de qualification prévue à l’article 31 du même règlement. Toutefois l’article 1er paragraphes D et F numéro 5 ci-dessus1 s’applique aux seuls employés engagés après l’entrée en vigueur du présent règlement. Pour les employés engagés avant cette date, les articles 25 et 29 paragraphe 5 du règle- ment modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat restent applicables dans la teneur qui fut la leur avant l’entrée en vigueur du présent règlement.Les dispositions du présent règlement concernant les secrétaires de direction et les employés desser- vant un standard de télécommunications s’appliquent uniquement aux employés en activité de service au moment de l’entrée en vigueur du présent règlement ainsi qu’à ceux engagés après cette entrée en vigueur. L’alinéa 1er ci-dessus ne s’applique pas à l’article 1er,paragraphe D,alinéa 6 du présent règlement.2 2. Lorsqu’un grade est allongé par le présent règlement de deux ou plusieurs échelons supplémentaires, le dernier échelon ne viendra à échéance qu’au plus tôt deux années après l’entrée en vigueur du présent règlement.La présente disposition s’applique également aux pensionnés et aux survivants bénéficiaires d’une pension. 1 Il s’agit des articles 25 et 29 numéro 5 du règlement de base. 2 Entrée en vigueur le 2 janvier 1989. 858 3.Par dérogation à l’alinéa 1er de l’article 29bis du règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat,les employés en acti- vité de service au moment de l’entrée en vigueur du présent règlement,et dont la participation aux cours de recyclage ou de perfectionnement constitue une condition à un allongement de grade sont dispensés: o de trois cours,si,au moment de l’entrée en vigueur du présent règlement,ils sont classés au dernier grade de leur carrière o de deux cours,s’ils sont classés à l’avant-dernier grade de leur carrière o d’un cours,s’ils sont classés à l’antépénultième grade de leur carrière. Les employés dont la participation aux cours de recyclage ou de perfectionnement constitue une condition à un avan- cement de grade sont dispensés o de trois cours,si au moment de l’entrée en vigueur du présent règlement,ils sont classés à l’avant-dernier grade de leur carrière; o de deux cours,s’ils sont classés à l’antépénultième grade de leur carrière. 4.Les employés des carrières C et D qui,au moment de l’entrée en vigueur du présent règlement,sont âgés de 45 ans au moins et qui sont classés respectivement au grade 7bis de la carrière C ou au grade 11 de la carrière D et qui ont réussi à leur examen de carrière, sont dispensés de la participation à l’épreuve de qualification prévue aux tableaux annexés au règlement modifié du Gouvernement en conseil du 1er mars 1974 fixant le régime des indemnités des employés occupés dans les administrations et services de l’Etat. 5. Les employés qui desservent le standard téléphonique du Gouvernement, en service au moment de l’entrée en vigueur du présent règlement, restent classés dans la carrière B1. Toutefois, s’ils ne remplissent pas les conditions d’études requises pour l’accès à cette carrière, le supplément de rémunération de 10 points indiciaires ne leur est pas accordé. 6.Le présent règlement entrera en vigueur le 1er novembre 1986,à l’exception toutefois de l’article 1er,paragraphe D, alinéa 6 qui entrera en vigueur le jour de la publication du présent règlement au Mémorial.1 (c.à-d.le 4 juin 1987) Règlement du Gouvernement en conseil du 14 décembre 1990. Dispositions transitoires",
+      "text_sha256": "5280bb39a78b649495ec5c8fdbe3edc690b5ad07ab54d030af9fec8df290aa63",
+      "md_span": {
+        "start": 62187,
+        "end": 66653
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4__3",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_4__3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "I.L’article 1er modifié du règlement du Gouvernement en conseil du 1er mars 1974 fixant le régime des indem-",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "nités des employés occupés dans les administrations et services de l’Etat ne s’appliquera pas aux employés en activité de service à la date du 1er janvier 1989 et ayant bénéficié d’une biennale avancée sur base de l’art.34 du même règlement. Pour ces agents,les anciennes dispositions de cet article restent en vigueur. II. L’employé qui à la date du 1er janvier 1989 a atteint par application des dispositions de l’art. 34 du règlement du Gouvernement en conseil du 1er mars 1974, modifié par le présent règlement, le dernier échelon d’un grade qui n’était pas le dernier de sa carrière,bénéficie d’un échelon supplémentaire au moment de son ancienne échéance biennale dont la valeur est égale à la différence entre le dernier et l’avant-dernier échelon actuel.2 Règlement du Gouvernement en conseil du 4 septembre 1992. Dispositions finales",
+      "text_sha256": "2ae0ca23d3b3310c51c11fe8ea47a3a8ee3d947ba58562c1d6a13df8b4c5c9ba",
+      "md_span": {
+        "start": 66800,
+        "end": 67642
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2__3",
+      "provision_id": "lu-legilux:loi-1972-01-27-n2:1994-06-26#art_2__3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Les paragraphes 1) et 2) de l’article 7 de la loi du 27 juillet 1992 modifiant et complétant",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "a) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, b) la loi modifiée du 22 juin 1963 fixant la valeur numérique des traitements des fonctionnaires de l’Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, c) la loi du 27 août 1986 modifiant et complétant la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, d) la loi du 20 décembre 1991 concernant le budget des recettes et des dépenses de l’Etat pour l’exercice 1992, e) la loi du 28 mars 1986 portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat, f) la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l’Etat, s’appliquent aux employés. 1 Il s’agit de l’article 25 alinéa 6 du règlement de base. 2 Entrée en vigueur le 2 janvier 1989. Editeur: Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg. Imprimeur: Imprimerie de la Cour Victor Buck, s. à r. l., Luxembourg",
+      "text_sha256": "7dea773164d145199c301af037689d6572f4bf6bd7d126c70a4ced805593488c",
+      "md_span": {
+        "start": 67773,
+        "end": 68899
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "took lines 33..860 of 860 from the gazette issue"
+  ]
+}

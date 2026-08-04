@@ -1,0 +1,333 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 07/12/2002 : Loi du 27 mars 1986 fixant les conditions et les modalités selon lesquelles le fonctionnaire de l'Etat peut se faire changer d'administration.",
+  "valid_from": "2003-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1986-03-27-n1/versions/2003-07-01/fr.pdf-memorial/eli-etat-leg-memorial-2004-a55-fr-pdf.pdf",
+    "sha256": "e9761d967f90044c85f004e78a66b9ed733534236521dcea04d21eaee8a86d7e",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/03/27/n1/consolide/20030701/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "1. Le fonctionnaire peut, si l’organisation interne et l’intérêt des services concernés le permettent, pour",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "des raisons personnelles motivées et justifiées, se faire changer d’administration, dans les conditions et suivant les modalités ci-après. (Loi du 19 mai 2003) Est notamment considérée comme raison personnelle motivée et justifiée l’absence de vacance de poste dans l’administration d’origine du fonctionnaire à l’expiration de son congé sans traitement ou de son congé pour travail à mi-temps accordé conformément aux articles 30 et 31 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l’Etat. (Loi du 24 juin 1987) 2. La disposition qui précède s’applique à tous les fonctionnaires exerçant les fonctions énumérées aux rubriques I. – Administration générale. II. – Magistrature. III. – Force publique et VII. - Douanes figurant à l’annexe A de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat. Elle s’applique également aux fonctionnaires et employés publics des établissements publics. Elle ne s’applique pas aux fonctionnaires stagiaires de l’Etat, ni aux fonctionnaires stagiaires et employés publics stagiaires des établissements publics. (Loi du 19 mai 2003)",
+      "text_sha256": "2b272721eb79f43bb69197fa1e89e1d513dca5d7c887a1d065cf7294e666e435",
+      "md_span": {
+        "start": 796,
+        "end": 1939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "1. Par changement d’administration au sens de la présente loi, il y a lieu d’entendre la nomination du",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "fonctionnaire dans une autre administration pour autant que ce changement se fait dans la même carrière ou dans une carrière comparable et dans le même grade. Par carrière comparable, il y a lieu d’entendre toute carrière qui, par rapport à la carrière initiale du fonctionnaire, est classée dans le même grade de computation de la bonification d’ancienneté et qui comprend les mêmes grades de début de carrière et de fin de carrière que ceux de la carrière initiale du fonctionnaire, conformément aux annexes C et D de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat. 2. Tout changement d’administration qui, au sens des dispositions de l’article 1er, paragraphe 2 de la présente loi, entraîne pour le fonctionnaire l’exercice de fonctions classées sous une rubrique autre que celle dans laquelle sont classées les fonctions de sa carrière initiale, ne peut être accordé que dans le respect du principe de la comparabilité des carrières énoncé au paragraphe 1 du présent article. 3. Toutefois, dans des cas exceptionnels et pour des raisons dûment motivées à constater par la commission de contrôle prévue à l’article 9 de la présente loi, le fonctionnaire peut être autorisé à se faire changer d’administration même si le transfert entraîne un classement dans des fonctions d’une carrière hiérarchiquement inférieure à sa carrière initiale. Dans ce cas, les dispositions de l’article 6 bis II. de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat lui sont applicables. 4. Tout changement d’administration doit sortir ses effets dans les six mois qui suivent la décision du ministre de la Fonction Publique et de la Réforme Administrative prévue à l’article 13 de la présente loi.",
+      "text_sha256": "3908b3be0873e038863c16ae0fecd58cde3ababc6249b1767ceb9fcb5f18d186",
+      "md_span": {
+        "start": 2077,
+        "end": 3848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Le changement d’administration ne peut s’opérer que pour une carrière, une fonction ou un emploi",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "compatibles avec les conditions de formation spécifique requises pour pouvoir accéder à cette carrière, cette fonction ou cet emploi.",
+      "text_sha256": "454886a19c294def640a7919418d4fc11a64486d82eb110c6fdf233c41524cef",
+      "md_span": {
+        "start": 3980,
+        "end": 4113
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Le changement d’administration ne peut avoir lieu que s’il existe une vacance de poste dans le cadre de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "l’administration dont l’intéressé désire faire partie. Par vacance de poste au sens de la présente loi, il y a lieu d’entendre celle résultant de l’autorisation d’engagement conférée à une administration déterminée conformément aux dispositions légales en vigueur. (Loi du 19 mai 2003)",
+      "text_sha256": "e06fb0f5283a96378278d6149a96b5c5700d38a91ec30aa39553eb79bc19e8dc",
+      "md_span": {
+        "start": 4252,
+        "end": 4537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "1. A la demande des intéressés, le secrétaire de la commission de contrôle prévue à l’article 9 les renseigne",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "sur toutes les vacances de poste existant dans les différentes administrations. A cet effet, les administrations font parvenir au ministre de la Fonction Publique et de la Réforme Administrative copie de chaque nouvelle autorisation d’engagement ou de remplacement concernant les carrières faisant partie des rubriques visées à l’article 1er de la présente loi ainsi que, le cas échéant, toutes autres informations y relatives. 866 2. Au cas où un poste vacant doit être prioritairement occupé par voie de changement d’administration au sens de la présente loi, les administrations communiquent au ministre de la Fonction Publique et de la Réforme Administrative, en dehors des renseignements prévus au paragraphe 1 ci-dessus, la date de l’engagement prévue ainsi que le délai pour l’introduction des demandes de changement d’administration. Le ministre de la Fonction Publique et de la Réforme Administrative porte le poste vacant à la connaissance des fonctionnaires intéressés en tenant compte de la procédure prévue à l’article 7 de la présente loi.",
+      "text_sha256": "a004b57e75d7d54cbca3be6fc33755bb0b636dbfea45f2cd994bf9acb24c96e8",
+      "md_span": {
+        "start": 4682,
+        "end": 5735
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Pour les carrières dont l’accès se fait sur la base de la réussite à un examen-concours, aucune demande de",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "changement d’administration n’est recevable pendant la période se situant entre la date du délai d’inscription des candidatures par voie de recrutement externe et la date de la proclamation des résultats. Toutefois, aucune demande de changement d’administration n’est recevable même en dehors de la période visée à l’alinéa précédant si l’examen-concours est organisé en vue de pourvoir à l’occupation d’un seul poste vacant.",
+      "text_sha256": "a1a5603e8384602060858a9c66cbb2b6f1fef94584e50d4f1b546ea0401cf4e6",
+      "md_span": {
+        "start": 5877,
+        "end": 6302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Le fonctionnaire qui désire changer d’administration selon les modalités de la présente loi doit en faire la",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "demande par écrit. La demande ne peut concerner qu’une vacance de poste déterminée. Elle est adressée directement au ministre de la Fonction Publique qui en saisit la commission de contrôle prévue ci-après. Le fonctionnaire fait parvenir une copie de sa demande à son ministre et à son chef d’administration, s’il y en a un, ainsi qu’au ministre et au chef de l’administration, s’il y en a un, dont il désire faire partie. (Loi du 19 mai 2003)",
+      "text_sha256": "9d79fd846a0678ebb668cbd98bb813a6796e4b784f45ab4eefb51b09e7c40939",
+      "md_span": {
+        "start": 6446,
+        "end": 6889
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Dès réception de la copie prévue à l’article 7 ci-dessus, l’administration au sein de laquelle existe la vacance",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de poste ne peut procéder à un nouvel engagement avant la décision du Ministre de la Fonction Publique prévue à l’article 14 de la présente loi.",
+      "text_sha256": "2338353fe130e4170128577377327674a3c6b3c14afb275345881726fb19e1dd",
+      "md_span": {
+        "start": 7037,
+        "end": 7181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Il est institué auprès du ministère de la Fonction Publique une commission de contrôle dont la mission",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "consiste à 1. émettre son avis sur toute demande de changement d’administration 2. examiner si les conditions énumérées aux articles 2 à 6 de la présente loi sont remplies 3. apprécier l’intérêt du service et les nécessités de l’organisation interne tant dans l’administration d’origine que dans l’administration au sein de laquelle existe la vacance de poste 4. se prononcer sur les modalités de la nouvelle nomination et du placement hors cadre prévues aux articles 15 et 16 paragraphe 1 ci-dessous. (Loi du 19 mai 2003)",
+      "text_sha256": "a41f87d09a87a863f6eb721377f09f25dab1cb09f8fe59ce229f5685c2bc970a",
+      "md_span": {
+        "start": 7319,
+        "end": 7841
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "La commission comprend six membres dont trois membres permanents. Les trois membres permanents",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "représentent respectivement le ministre ayant la Fonction Publique dans ses attributions, l’Administration du Personnel de l’Etat et le Premier Ministre. Ils sont nommés par le ministre ayant la Fonction Publique dans ses attributions, et, en ce qui concerne le représentant du Premier Ministre, sur proposition de ce dernier. Trois membres sont nommés à titre spécial par le ministre de la Fonction Publique parmi lesquels figurent obligatoirement le chef de l’administration dont le candidat fait partie et le chef de l’administration dont le candidat désire faire partie, ou leurs délégués, ainsi qu’un fonctionnaire proposé par le ministre dont relève l’administration dont le candidat veut faire partie. Les propositions ci-devant visées sont adressées au ministre de la Fonction Publique dans les dix jours de la réception de la copie prévue à l’article 7. Le ministre de la Fonction Publique désigne, parmi les membres nommés à titre permanent, le président de la commission et son suppléant. Toutes les nominations soit à titre permanent, soit à titre spécial sont révocables à tout moment. La commission dispose, dans le cadre des services du Ministère de la Fonction Publique, d’un secrétariat dont la gestion est assurée par un ou, le cas échéant, par plusieurs fonctionnaires à désigner par le Ministre de la Fonction Publique.",
+      "text_sha256": "8ddb41c7e41c431b18f10b07a45a4f2dd26e3e7535ee0c45e55f6a07a0184a7c",
+      "md_span": {
+        "start": 7973,
+        "end": 9312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "Les demandes de changement d’administration introduites conformément aux dispositions de la présente",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "loi sont centralisées au secrétariat de la commission. Il y est établi un dossier pour chaque candidat qui contient toutes les pièces communiquées en relation avec sa candidature. Les noms des membres nommés à titre spécial conformément aux dispositions de l’article 10 sont communiqués au président de la commission qui est tenu de réunir la commission dans les meilleurs délais. La commission est tenue de donner son avis dans un délai de vingt jours à partir de la première réunion, à moins que le ministre de la Fonction Publique ne lui fixe un délai plus long ou plus court. Pour délibérer valablement, au moins quatre membres de la commission doivent être présents. Toutes les affaires sont délibérées en réunion ; le secrétaire rédige les procès-verbaux. 867 La commission recueille tous les renseignements et se fait communiquer tous les documents et éléments d’information qu’elle juge nécessaires à l’accomplissement de sa mission ; elle peut désigner un de ses membres à procéder à toute enquête spéciale, jugée utile, et même se faire assister par des experts. Le candidat a le droit de présenter des observations écrites ou de venir s’expliquer oralement.",
+      "text_sha256": "8d8c9b2e0edac813f1c4949df064b05a0dc78ab8ecda545cb47b499b8830c1f1",
+      "md_span": {
+        "start": 9450,
+        "end": 10618
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "Les membres de la commission, le secrétaire et ceux qui procèdent à des actes d’instruction",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "conformément à l’article 11 sont tenus de garder le secret sur les délibérations et les informations qui leur ont été fournies dans l’accomplissement de leur mission.",
+      "text_sha256": "abb630702c8aabfbf0df36c23c3550465e2cca3e1c2be2022e2aa5801cc32759",
+      "md_span": {
+        "start": 10747,
+        "end": 10913
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "L’avis de la commission doit être motivé et signé par tous les membres de la commission. Chaque membre",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "de la commission a le droit d’exprimer son opinion personnelle qu’il doit motiver. En cas de pluralité d’opinions, la motivation de l’avis doit refléter les différentes prises de position. L’avis est incessamment soumis à la décision du Ministre de la Fonction Publique. Le Ministre de la Fonction Publique peut, avant de prendre sa décision, consulter le membre du Gouvernement dont relève l’administration à laquelle le candidat est affecté ainsi que le membre du Gouvernement dont relève l’administration dont le candidat désire faire partie.",
+      "text_sha256": "44edade35b085e0ca2c7d602eb85ff6d45aac3c4f7bd666903604f097691e89b",
+      "md_span": {
+        "start": 11053,
+        "end": 11598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "Le Ministre de la Fonction Publique transmet sa décision à la commission de contrôle qui en informe le",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "candidat ainsi que les ministres concernés.",
+      "text_sha256": "151810445d1d7a52c58c82a7140b1fee71e4dfbec28996c9c6eba4ca9c91cfd9",
+      "md_span": {
+        "start": 11738,
+        "end": 11781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Si le fonctionnaire est admis à changer d’administration, l’autorité investie du pouvoir de nomination",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "procède à la nomination qui emporte de plein droit démission de la fonction exercée antérieurement.",
+      "text_sha256": "e68f10dd46e4aba63c9c90fe633a7e509fac8ffe15097c12b002ca8c886299ae",
+      "md_span": {
+        "start": 11921,
+        "end": 12020
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "I. Le fonctionnaire est placé hors cadre dans sa nouvelle administration, le cas échéant par dépassement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "du nombre des postes hors cadre à caractère technique y prévus. II. 1. Il y est intégré aux niveaux de grade et de traitement atteints dans l’administration d’origine. Toutefois il est intégré dans le cadre si celui-ci ne comprend aucun autre fonctionnaire de la même carrière. 2. Par traitement au sens du présent article il y a lieu d’entendre le traitement tel qu’il est fixé aux tableaux indiciaires de l’annexe C, ainsi qu’à l’article 22 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat. 3. N’est pas considérée comme une diminution de ce traitement au sens du présent article la cessation d’emplois accessoires ni la cessation de primes, d’indemnités extraordinaires ou de frais de voyage, de bureau ou autres lorsque la cause de ces indemnités vient à disparaître avec le nouvel emploi.",
+      "text_sha256": "589cfbd1f61f57adcf7ccc666d7c081220a1411c9471380d819743a8c9dea6ca",
+      "md_span": {
+        "start": 12162,
+        "end": 13003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": "En vue des avancements ultérieurs, le rang du fonctionnaire ayant changé d’administration est fixé comme",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "suit: a) pour le fonctionnaire ayant changé d’administration avant l’examen de promotion dans l’administration dont il a fait partie, par référence pour la première promotion, à l’examen de fin de stage auquel l’intéressé aurait normalement pu prendre part si, depuis son admission au stage il avait fait partie de la nouvelle administration b) pour le fonctionnaire ayant changé d’administration après l’examen de promotion dans l’administration dont il a fait partie, par référence à l’examen de promotion auquel l’intéressé aurait normalement pu prendre part si, depuis sa nomination définitive il avait fait partie de la nouvelle administration c) pour le fonctionnaire dont la carrière ne prévoit pas d’examen de promotion dans l’administration dont il a fait partie, par référence pour la première promotion à l’examen de fin de stage auquel l’intéressé aurait normalement pu prendre part si, depuis son admission au stage il avait fait partie de la nouvelle administration d) pour le fonctionnaire dont la carrière ne prévoit pas d’examen de promotion dans la nouvelle administration, par référence à l’examen de fin de stage auquel l’intéressé aurait normalement pu prendre part si, depuis son admission au stage il avait fait partie de la nouvelle administration e) pour le fonctionnaire dont la carrière ne prévoit pas d’examen de promotion ni dans l’administration dont il a fait partie ni dans la nouvelle administration, par référence à l’examen de fin de stage auquel l’intéressé aurait normalement pu prendre part si, depuis son admission au stage il avait fait partie de la nouvelle administration. Dans tous les cas a), b), c), d) et e) ci-dessus il y a lieu d’admettre : - en cas de pluralité de réussites à ces différents examens, que l’intéressé se soit classé entre le fonctionnaire classé dernier du premier tiers et le fonctionnaire classé premier du deuxième tiers - en cas de réussite unique, qu’il se soit classé au même rang que ce fonctionnaire.",
+      "text_sha256": "6163ba3cb6ea3745d01049d266e175bd0d1eb8003a51f7beb2353d9011d0026b",
+      "md_span": {
+        "start": 13145,
+        "end": 15118
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1986-03-27-n1:2003-07-01#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": "Le changement d’administration du fonctionnaire exerçant les fonctions énumérées à la rubrique IV. –",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Enseignement figurant à l’annexe A de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l’Etat, se fait d’après les dispositions légales et réglementaires en vigueur. Toutefois, l’intéressé qui par ce changement obtient une nomination dans un établissement de l’Etat conserve l’ancienneté de service atteinte dans son administration d’origine ; le nouveau traitement ne peut être inférieur au traitement touché précédemment. 868 Editeur: Service Central de Législation, 43, boulevard F.-D. Roosevelt, L-2450 Luxembourg Imprimeur: Imprimerie de la Cour Victor Buck, s. à r. l. Leudelange",
+      "text_sha256": "91a01142d1cea78da2c70ee58dd2ee7ebb9687e2723fd58755cc28f06b2b1f36",
+      "md_span": {
+        "start": 15256,
+        "end": 15879
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "located by date alone; the issue does not name the instrument as the ELI does",
+    "took lines 4..188 of 188 from the gazette issue"
+  ]
+}

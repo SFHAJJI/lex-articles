@@ -1,0 +1,787 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06",
+  "language": "fr",
+  "title": "Version consolidée applicable au 31/10/1991 : Loi du 31 mars 1979 réglementant l'utilisation des données nominatives dans les traitements informatiques.",
+  "valid_from": "1992-10-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/loi-1979-03-31-n1/versions/1992-10-06/fr.pdf-memorial/eli-etat-leg-memorial-1992-a74-fr-pdf.pdf",
+    "sha256": "4285c358cc8ae061de725532fd4f91227ecd9e3005daf17b8338997bff793eb4",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/03/31/n1/consolide/19921006/fr"
+  },
+  "generator": {
+    "profile": "pdf-memorial-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": "Les personnes physiques ou morales sont protégées contre l’utilisation abusive de données nominatives lors:",
+      "path": [
+        "Chapitre 1er. – Objet,définitions,champ d’application"
+      ],
+      "article_valid_from": null,
+      "text_md": "a) de la collecte de ces données en vue d’un traitement automatique; b) de leur enregistrement dans les banques de données; c) du traitement automatique appliqué à ces données; d) de la transmission à des tiers de ces données et des résultats de ces traitements.",
+      "text_sha256": "59e588028a1110868472638a66d4ab7dd21685a891fbfb7e764e09691152aa76",
+      "md_span": {
+        "start": 817,
+        "end": 1079
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Pour l’application de la présente loi les termes énumérés ci-après ont les significations suivantes:",
+      "path": [
+        "Chapitre 1er. – Objet,définitions,champ d’application"
+      ],
+      "article_valid_from": null,
+      "text_md": "Donnée nominative: toute information au sujet d’une personne déterminée ou susceptible d’être déterminée. Personne: toute personne physique ou morale,publique ou privée ou groupement de fait. Banque de données: collection de données de base enregistrées sur un support informatique. Propriétaire de la banque de données: personne pour le compte de laquelle la banque est tenue et qui en dispose. Gestionnaire de la banque de données: personne qui tient effectivement la banque en appliquant aux données nominatives des traitements automatiques. Tiers: toute personne autre que le propriétaire ou gestionnaire. Dans le secteur public on entend par tiers une adminis- tration,un service public ou ministère autre que celui qui est propriétaire ou gestionnaire de la banque.",
+      "text_sha256": "f0a2343979985ba3be369aaf401f35f2c8383a88b3b286c70e70d9a0242a00f2",
+      "md_span": {
+        "start": 1215,
+        "end": 1986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [
+        "Chapitre 1er. – Objet,définitions,champ d’application"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) La loi est applicable à toutes les banques de données nominatives installées ou utilisées sur le territoire du Grand-Duché de Luxembourg. (2) Sont exclus du champ d’application de la présente loi: a) les banques de données qui en vertu d’une loi ou d’un règlement sont accessibles au public; b) celles qui contiennent exclusivement des données en rapport avec le propriétaire de la banque; c) celles qui sont établies pour compte des institutions de droit international public. (3) Les prescriptions de la présente loi sont applicables aux banques de données implantées sur le territoire luxem- bourgeois,même si les données sont uniquement utilisées à l’étranger. Si une banque de données,implantée sur territoire étranger,est accessible au Grand-Duché de Luxembourg au moyen d’un terminal,les prescriptions de la présente loi doivent être observées par l’utilisateur de ce terminal.",
+      "text_sha256": "10dd21d61fc972ec8890103615c25adf009d971ba4a18bf0c4c2a298f98275a6",
+      "md_span": {
+        "start": 2021,
+        "end": 2909
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "La création et l’exploitation de toute banque de données ne relevant pas de l’Etat sont soumises à l’autorisa-",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "tion préalable du ministre ayant dans ses attributions le répertoire national des banques de données défini à l’article 13.",
+      "text_sha256": "633f8d895e6aa4dc6906dadc906947e9e715a414fb90df8d8c5713d80339ddc3",
+      "md_span": {
+        "start": 3121,
+        "end": 3244
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) La demande d’autorisation est adressée par le propriétaire et le gestionnaire éventuel au Ministre. (2) En cas d’utilisation d’une banque de données implantée hors du territoire luxembourgeois l’obligation de demande d’autorisation incombe à l’utilisateur situé sur le territoire luxembourgeois. (3) La demande doit contenir pour chaque banque de données les informations suivantes: a) le nom,la raison sociale ou la dénomination,l’adresse des propriétaires et gestionnaires,ou le cas échéant de l’uti- lisateur. b) La dénomination de la banque de données. c) La description détaillée du but poursuivi par la banque. d) La nature et l’origine des données accessibles dans la banque ainsi que leur pertinence par rapport au but poursuivi par la banque. e) En cas de communication de données à des tiers,la nature des données et résultats transmis,ainsi que l’identifica- tion des tiers ou groupes de tiers destinataires. 2243",
+      "text_sha256": "d3c5c9fa67761ca54312b0b34ca0f5ec492df40e1f7949c13b8fe4f322714838",
+      "md_span": {
+        "start": 3279,
+        "end": 4207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Après avis de la Commission consultative prévue à l’article 30 ou à son défaut après l’expiration d’un délai de",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "3 mois depuis la saisine de la commission consultative,l’autorisation est accordée par le Ministre lorsqu’il n’existe aucune raison de craindre une utilisation abusive des données nominatives ou une violation des dispositions de la présente loi. La décision du Ministre accordant ou refusant l’autorisation doit être motivée. L’autorisation porte uniquement sur l’objet de la demande. Elle détermine obligatoirement la durée de validité de l’autorisation.Cette durée ne peut en aucun cas dépasser dix ans. L’autorisation peut en outre contenir réglementation des points suivants: a) les systèmes de sécurité et de contrôle à mettre en place. b) la période au-delà de laquelle les données ne peuvent plus,le cas échéant,être gardées,utilisées ou diffusées. Toute modification touchant à l’objet de l’autorisation ou aux points réglementés par le Ministre dans sa décision est soumise à autorisation préalable conformément aux dispositions des articles 4 et 5. L’autorisation est personnelle dans le chef du propriétaire,du gestionnaire et de l’utilisateur.Elle est révocable et sera retirée si les termes n’en sont pas respectés.",
+      "text_sha256": "9b7e9a519bc6a8aa280e34fd967c17dfcb4ae30506a52199a2f37828b5d31b2d",
+      "md_span": {
+        "start": 4354,
+        "end": 5482
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Les décisions du ministre portant octroi,refus ou retrait des autorisations prévues par la présente loi peuvent",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "être déférées au Conseil d’Etat,Comité du Contentieux,qui statuera comme juge du fond. Le recours doit être introduit,sous peine de forclusion,dans le délai d’un mois à partir de la notification de la décision entreprise. Section 2:Banques de données relevant de l’Etat",
+      "text_sha256": "256607678eded4ee534431f9b342dfccf4a457436d212b07e1344f05728fe3d7",
+      "md_span": {
+        "start": 5629,
+        "end": 5898
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "La création et l’exploitation de banques de données nominatives pour compte de l’Etat ne peuvent se faire",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "qu’en application d’une loi ou d’un règlement grand-ducal.",
+      "text_sha256": "644f99cd71649355512948ddf4644e09da109d96a82b0b9a767718147d0d974b",
+      "md_span": {
+        "start": 6039,
+        "end": 6097
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Le Gouvernement soumet à l’avis de la commission consultative le texte de tout projet de loi et de tout",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "projet de règlement grand-ducal portant création d’une banque de données ainsi que le texte de tout amendement concernant ces projets de loi ou de règlement grand-ducal. Il fournit à la commission tous les renseignements visés à l’article 5 (3).",
+      "text_sha256": "ac6827e896768628289498763429db27a1041300f9767629dabfd28bc5582ae9",
+      "md_span": {
+        "start": 6236,
+        "end": 6481
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "L’avis motivé de la commission consultative porte sur le respect des droits protégés par la présente loi.",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il peut contenir des propositions concernant: a) les systèmes de sécurité et de contrôle à mettre en place en vue d’assurer l’intégralité des données,de prévenir et de détecter les détournements de données,intentionnels ou non; b) la période au-delà de laquelle les données ne devront plus,le cas échéant,être gardées,utilisées ou diffusées. La commission arrête son avis à la majorité de ses membres.Un avis minoritaire peut y être joint sans désignation de l’auteur.",
+      "text_sha256": "dca3195617cdceb8e92cf77f140619a62918306a17e3d4dd57030bcf148fc388",
+      "md_span": {
+        "start": 6624,
+        "end": 7092
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": "La loi ou le règlement grand-ducal qui autorise la création et l’exploitation d’une banque pour compte de",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’Etat fixe la durée de validité de cette autorisation qui ne peut en aucun cas dépasser dix ans.",
+      "text_sha256": "f92dfea23344f77b154236dc9dc501eeba40f9208305a24fe468878bfaf6c83b",
+      "md_span": {
+        "start": 7235,
+        "end": 7332
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": "En ce qui concerne les banques de données intéressant la sûreté de l’Etat,la défense nationale et la sécurité",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "publique,le Gouvernement en conseil peut les dispenser de l’inscription au répertoire national visé à l’article 13. (Loi du 30 septembre 1992) «Art.12-1. (1) La création et l’exploitation de banques de données d’ordre général constituées pour les besoins de la prévention, de la recherche, de la constatation et de la poursuite des infractions sont réservées aux organes de la gendarmerie et de la police,selon les modalités à déterminer par règlement grand-ducal pris sur avis du Conseil d’Etat. (2) Par dérogation aux articles 8 et 11,la création et l’exploitation d’une banque de données constituée dans le cadre d’une ou de plusieurs affaires pénales peuvent être autorisées par le ministre ayant dans ses attributions le répertoire national des banques de données,après avoir entendu en son avis la commission consultative prévue à l’article 30. Le ministre arrête les conditions de création de la banque et en fixe la durée qui ne peut dépasser dix ans. (3) Les dispositions des paragraphes (1) et (2) n’excluent pas le recours à un gestionnaire pour le traitement et la conservation des données y visées. (4) Sans préjudice du droit de contrôle du ministre conformément à l’article 29, l’exploitation des banques de données visées aux paragraphes (1) et (2) est placée sous le contrôle du procureur général d’Etat, qui peut déléguer à cette fin un membre de son parquet. Le procureur général d’Etat est informé immédiatement de la création de chaque banque. Il veille à ce que les traitements automatisés des données personnelles soient effectués conformément aux disposi- tions de la présente loi et de ses règlements d’exécution ainsi qu’aux conditions imposées par le ministre. Pour l’exercice de son contrôle,le procureur général d’Etat a un droit d’accès direct aux banques visées. Il peut, par décision particulière, charger un ou plusieurs fonctionnaires de procéder, quant aux traitements visés, à des vérifications sur place et se faire communiquer tous renseignements et documents utiles à sa mission. Il fait opérer les rectifications et radiations nécessaires. Il présente chaque année au ministre ayant dans ses attributions le répertoire national des banques de données un rapport rendant compte de l’exécution de sa mission. 2244 (5) Par dérogation aux dispositions du chapitre 5,le droit d’accès aux banques de données visées aux paragraphes (1) et (2) ne peut être exercé que par l’intermédiaire du membre magistrat de la commission consultative prévue par l’article 30. Celui-ci procède aux vérifications et investigations utiles, fait opérer les rectifications nécessaires et informe l’inté- ressé que la banque ne contient aucune donnée contraire à la loi,à ses règlements d’exécution ou aux conditions impo- sées par le ministre.» Chapitre 3. - Répertoire national des banques de données",
+      "text_sha256": "2694781464d06107d9b5bc288eb5157961ae2c6770feeb0ea8f18d3c6f60436b",
+      "md_span": {
+        "start": 7479,
+        "end": 10294
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": "Il est créé un répertoire national des banques de données tombant sous le champ d’application de la",
+      "path": [
+        "Chapitre 2. – Création et exploitation des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "présente loi. Le répertoire national contient pour chaque banque de données: a) le nom,la raison sociale ou la dénomination,l’adresse des propriétaires et gestionnaires et le cas échéant des utili- sateurs; b) la dénomination de la banque; c) la description du but poursuivi par la banque; d) la nature et l’origine des données enregistrées dans la banque; e) les tiers destinataires des informations traitées et la nature des données transmises; f) la date de l’autorisation ou celle de la loi ou du règlement grand-ducal autorisant la création et l’exploitation d’une banque; g) l’indication de la durée de validité de l’autorisation; h) le cas échéant l’indication de la date du retrait de l’autorisation ou de la suppression de la banque de données. A ce répertoire tel qu’il est défini ci-dessus il est adjoint une annexe qui contient les avis prévus aux articles 9 et 10. Pour les besoins de la surveillance et de la consultation le répertoire peut être constitué sous forme de banque de données sans procédure d’autorisation.",
+      "text_sha256": "76649f4d2be83b201fbc54bee6f1baafe5d26adb4f44c1724a3a835a942e3563",
+      "md_span": {
+        "start": 10431,
+        "end": 11463
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": "La collecte de données opérée par tout moyen frauduleux,déloyal ou illicite est interdite.",
+      "path": [
+        "Chapitre 4. – Réglementation de la collecte des données"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 11651,
+        "end": 11651
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": "Il est interdit de collecter et d’enregistrer dans des banques de données:",
+      "path": [
+        "Chapitre 4. – Réglementation de la collecte des données"
+      ],
+      "article_valid_from": null,
+      "text_md": "a) les données relatives aux opinions ou activités politiques,syndicales,philosophiques ou religieuses des personnes; b) les données concernant l’intimité de la vie privée. (Loi du 19 novembre 1987) «c) les données à caractère personnel révélant l’origine raciale.» Il n’est pas interdit à une association de droit ou de fait de tenir le répertoire de ses membres sous forme d’une banque de données. De même les appartenances syndicales peuvent être collectées et enregistrées dans les banques de données en cas de demande expresse des intéressés. Ces données ne peuvent être communiquées à un tiers.",
+      "text_sha256": "d62c496d7d064c7ec3056e8a5f35a0fc163df9eb753c3ddf628cbf72397fe56b",
+      "md_span": {
+        "start": 11763,
+        "end": 12363
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": "Sont réservés à l’Etat dans les seules limites légales ou réglementaires l’enregistrement et le traitement des",
+      "path": [
+        "Chapitre 4. – Réglementation de la collecte des données"
+      ],
+      "article_valid_from": null,
+      "text_md": "données suivantes: a) les inscriptions figurant au casier judiciaire à l’exception de celles concernant les jugements et arrêts déclaratifs de faillite; b) les mesures prises par l’application de la loi du 12 novembre 1971 relative à la protection de la jeunesse.",
+      "text_sha256": "11e942ba74a091f61c0c340fcbf343a261233c127ad7d589b9bdb356d6cecef6",
+      "md_span": {
+        "start": 12511,
+        "end": 12774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 17.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Réglementation de la collecte des données"
+      ],
+      "article_valid_from": null,
+      "text_md": "(Abrogé par la loi du 1er octobre 1992)",
+      "text_sha256": "9aab54fd61b8ac7f631c43389d963d6f0872868bb491c2188f3b277ae9953ca5",
+      "md_span": {
+        "start": 12811,
+        "end": 12850
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 18.",
+      "heading": null,
+      "path": [
+        "Chapitre 4. – Réglementation de la collecte des données"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Les personnes auprès desquelles sont recueillies en vue d’un traitement informatique des données nominatives doivent être informées: a) du but poursuivi par le traitement automatique des données; b) du caractère obligatoire ou facultatif des réponses; c) des conséquences à leur égard d’un défaut de réponse; d) des tiers destinataires des informations; e) de l’existence d’un droit d’accès et de rectification. Lorsque de telles informations sont recueillies par voie de questionnaires, ceux-ci doivent mentionner ces prescrip- tions. (2) Ces dispositions ne s’appliquent pas à la collecte des informations nécessaires à la poursuite des infractions.",
+      "text_sha256": "2bff3f83267d4be77b8de9c70a5240694d65bc4cfe13efd9a38628b6beb25f39",
+      "md_span": {
+        "start": 12887,
+        "end": 13542
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 19.",
+      "heading": "Toute personne peut prendre connaissance gratuitement des informations contenues dans le répertoire",
+      "path": [
+        "Chapitre 5. – Exercice du droit d’accès"
+      ],
+      "article_valid_from": null,
+      "text_md": "national des banques de données et obtenir copie intégrale ou partielle des informations concernant une banque de données déterminée contre paiement d’une taxe de bureau à fixer par règlement grand-ducal. 2245",
+      "text_sha256": "5f557a16571bfc03667f6f77d4170dd7ba2cff32b86136d2939f4ca31a44afab",
+      "md_span": {
+        "start": 13723,
+        "end": 13932
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 20.",
+      "heading": "Toute personne a le droit d’interroger par écrit le propriétaire,ou l’utilisateur pour les banques étrangères,",
+      "path": [
+        "Chapitre 5. – Exercice du droit d’accès"
+      ],
+      "article_valid_from": null,
+      "text_md": "en vue de savoir si la banque de données contient des données nominatives qui la concernent et, le cas échéant, d’en obtenir communication. La communication doit être faite dans le mois suivant la réception de la demande sous une forme intelligible et conforme au contenu des enregistrements. Un règlement grand-ducal fixera le montant de la redevance à percevoir pour la communication définie ci-dessus.",
+      "text_sha256": "4a39f64875e2c45df90a04f3e3c1b023269dbb90aacee227d39b5689dddf1c20",
+      "md_span": {
+        "start": 14080,
+        "end": 14484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 21.",
+      "heading": "Par dérogation aux dispositions de l’article 20, ne sont pas communiquées les données nominatives qui, en",
+      "path": [
+        "Chapitre 5. – Exercice du droit d’accès"
+      ],
+      "article_valid_from": null,
+      "text_md": "vertu d’une loi ou d’un règlement grand-ducal,ne peuvent être communiquées aux personnes exerçcant le droit d’accès. Font exception à l’obligation de communiquer les informations qui sont déjà communiquées ou communicables sous une autre forme que celle prévue au présent article et ce en vertu d’une loi,d’un règlement ou d’un contrat. (...) (Abrogé par la loi du 1er octobre 1992)",
+      "text_sha256": "3e2a798b112114a5bb4bfaf048262937bdc258bb591bcf2966717b40e9c21116",
+      "md_span": {
+        "start": 14627,
+        "end": 15009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 22.",
+      "heading": "Le titulaire d’un droit d’accès peut exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effa-",
+      "path": [
+        "Chapitre 5. – Exercice du droit d’accès"
+      ],
+      "article_valid_from": null,
+      "text_md": "cées les données le concernant qui sont inexactes, incomplètes, équivoques, périmées ou dont la collecte, l’enregistre- ment,la communication ou la conservation sont interdit. Lorsque l’intéressé en fait la demande,il doit être délivré sans frais copie de l’enregistrement rectifié. Lorsque le titulaire du droit d’accès obtient une modification de l’enregistrement, la redevance versée en application de l’article 20 est remboursée.",
+      "text_sha256": "87ebab1732a7f53a9ac6edb5562c1ab4a69b6601204bc21a7cbb56b224ac50e2",
+      "md_span": {
+        "start": 15159,
+        "end": 15592
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 23.",
+      "heading": "Si une donnée a été transmise à un tiers,sa rectification ou son annulation doit être notifiée à ce tiers.",
+      "path": [
+        "Chapitre 5. – Exercice du droit d’accès"
+      ],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 15736,
+        "end": 15736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 24.",
+      "heading": "Toute personne qui dans l’exercice de son droit d’accès a des raisons sérieuses d’admettre que les données",
+      "path": [
+        "Chapitre 5. – Exercice du droit d’accès"
+      ],
+      "article_valid_from": null,
+      "text_md": "qui lui ont été communiquées ne sont pas conformes aux données enregistrées,peut en informer le ministre ayant dans ses attributions le répertoire national des banques de données.Il appartient au ministre d’ordonner, le cas échéant,une enquête.",
+      "text_sha256": "7cdccf6770e1ceec14714420744a63b98c9baecb2b117c440fe8993495e4caaa",
+      "md_span": {
+        "start": 15880,
+        "end": 16124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 25.",
+      "heading": "Les personnes qui, dans l’exercice de leurs fonctions, interviennent dans la collecte, le traitement ou la",
+      "path": [
+        "Chapitre 6. – Obligations des propriétaires,gestionnaires et utilisateurs des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "transmission des données personnelles sont tenues au secret professionnel.",
+      "text_sha256": "802634ab33d1510a6657a397bf30d2c2d934719c3a62c206f35f4a640038a9c8",
+      "md_span": {
+        "start": 16369,
+        "end": 16443
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 26.",
+      "heading": "Les propriétaires et gestionnaires des banques de données doivent faire toute diligence pour tenir les",
+      "path": [
+        "Chapitre 6. – Obligations des propriétaires,gestionnaires et utilisateurs des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "données à jour, pour corriger les données erronées ou pour supprimer les données périmées ou obtenues par des moyens illicites ou frauduleux. Ils doivent prendre toutes précautions utiles afin de préserver la sécurité des données enregistrées et notamment d’empêcher qu’elles ne soient déformées,endommagées ou communiquées à des tiers non autorisés. Ils doivent s’assurer du caractère approprié des programmes servant au traitement automatique des données ainsi que de la régularité de leur application. Ils doivent veiller à la régularité de la transmission des données et des résultats.",
+      "text_sha256": "b9dfad28bdbc8fd6fdf096facdf98c7ec22a44218afd0a13215ce7a271fee13a",
+      "md_span": {
+        "start": 16583,
+        "end": 17172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 27.",
+      "heading": "Un règlement grand-ducal pris sur avis du Conseil d’Etat et de la commission consultative peut déterminer",
+      "path": [
+        "Chapitre 6. – Obligations des propriétaires,gestionnaires et utilisateurs des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "les mesures générales à caractère technique destinées à assurer la sécurité matérielle des banques de données et des trai- tements. L’effet de protection recherché par ces mesures doit être dans un rapport adéquat avec les dépenses qu’elles occasionnent.",
+      "text_sha256": "9bc411c2d0d7b0dfc73e4e9de967cd73d131de6dcc8d0f6ddc082a65786ff3f6",
+      "md_span": {
+        "start": 17315,
+        "end": 17569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 28.",
+      "heading": "Les propriétaires et gestionnaires ou les utilisateurs sont tenus de notifier tout changement d’adresse",
+      "path": [
+        "Chapitre 6. – Obligations des propriétaires,gestionnaires et utilisateurs des banques de données"
+      ],
+      "article_valid_from": null,
+      "text_md": "endéans un mois au ministre ayant dans ses attributions le répertoire national des banques de données. (Loi du 1er octobre 1992) «Chapitre 6-1. – Des banques de données médicales» (Loi du 1er octobre 1992) «Art.28-1. (1) La création et l’exploitation de banques de données nominatives comportant la collecte et le traite- ment de données médicales sont réservées aux instances médicales, aux organismes de la sécurité sociale, ainsi qu’aux administrations et services publics qui gèrent des données médicales en exécution de leurs attributions. Cette disposition n’exclut pas le recours à un gestionnaire pour le traitement et la conservation des données médi- cales. (2) Au sens des dispositions de la présente loi sont considérés comme: – Donnée médicale: toute donnée concernant l’état physique et mental d’une personne, y compris les informations sociales et administratives connexes susceptibles d’avoir une incidence sur cet état; – Instance médicale:toute personne physique ou morale qui est autorisée à exercer des activités techniques et scien- tifiques ayant pour but la prévention,la détection,la guérison,ainsi que le soulagement des maladies et infirmités; – Organisme de sécurité sociale: tout organisme de droit public ou privé qui assure des prestations, obligatoires ou facultatives, relatives à la maladie, la maternité, la vieillesse, les accidents corporels, l’invalidité, le décès, le chômage,ainsi que des prestations familiales ou d’aides sociales. (3) Par dérogation à l’article 20, l’exercice du droit d’accès à une banque de données nominatives comportant des données médicales ne peut s’opérer que par l’intermédiaire d’un médecin désigné par l’intéressé. 2246 (4) Un règlement grand-ducal pris sur avis du Conseil d’Etat détermine: – les modalités d’après lesquelles les banques de données médicales peuvent être créées et exploitées; – les modalités d’après lesquelles les données médicales peuvent être collectées et traitées; – les conditions à observer afin de garantir la sécurité technique et le caractère confidentiel des données médicales collectées et traitées; – les modalités d’après lesquelles les données médicales peuvent être communiquées à un tiers; – les modalités d’après lesquelles les données médicales peuvent être utilisées à des fins de recherche. Ce règlement peut aussi compléter les dispositions prévues aux chapitres 2 à 6 de la présente loi. (5) La communication de données relatives à des prestations médicales, faite par le fournisseur de soins à un orga- nisme de sécurité sociale aux fins de remboursement des dépenses afférentes,est autorisée.»",
+      "text_sha256": "4e42e5a8ede32a70c4dc552559298300aa1f67b7e7e1c62fc6192772cc38e9c2",
+      "md_span": {
+        "start": 17710,
+        "end": 20315
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 29.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. – Mission du ministre compétent de la commission consultative"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) Le ministre ayant dans ses attributions le répertoire national des banques de données veille à ce que les traitements automatisés de données personnelles soient effectués conformément aux dispositions de la présente loi et de ses règlements d’exécution ainsi qu’aux conditions d’exploitation imposées. (2) Il prend les décisions individuelles dans les cas prévus par la présente loi et ses règlements d’exécution. (3) Il procède aux inscriptions dans le répertoire national des banques de données. Il peut procéder à la radiation des banques de données qui ne sont plus exploitées depuis cinq ans au moins. (4) Il peut,par décision particulière,charger un ou plusieurs fonctionnaires de procéder,à l’égard de tout traitement, à des vérifications sur place et se faire communiquer tous renseignements et documents utiles à sa mission. (5) Il peut demander des explications aux intéressés. (6) Il reçcoit les réclamations. (7) Il adresse aux intéressés des recommandations et des avertissements. (8) Il surveille l’exercice des droits conférés aux particuliers par les articles 19 à 23. (9) Il dénonce aux autorités judiciaires les infractions dont il a connaissance.",
+      "text_sha256": "5b43440d26ab45c6ddc4f1761eb5fadab50f32266bd9df7c1960351da2231eec",
+      "md_span": {
+        "start": 20430,
+        "end": 21599
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 30.",
+      "heading": "Il est institué auprès du ministre ayant dans ses attributions le répertoire national des banques de données",
+      "path": [
+        "Chapitre 7. – Mission du ministre compétent de la commission consultative"
+      ],
+      "article_valid_from": null,
+      "text_md": "une commission consultative qui est composée d’au moins cinq membres nommés par le Grand-Duc pour une durée de cinq ans et recrutés dans les secteurs public et privé parmi des juristes et des informaticiens.Le mandat des membres de la commission est renouvelable. L’organisation de la commission de même que les procédures et méthodes de travail par elle suivies font l’objet d’un règlement grand-ducal.",
+      "text_sha256": "10cd5a1ea0a5e62ecde3348af47bb4870cae68cf65753809fbfd7e9e416931c0",
+      "md_span": {
+        "start": 21745,
+        "end": 22148
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 31.",
+      "heading": null,
+      "path": [
+        "Chapitre 7. – Mission du ministre compétent de la commission consultative"
+      ],
+      "article_valid_from": null,
+      "text_md": "(1) La commission émet les avis prévus par la présente loi. (2) En outre elle possède une mission d’information dans le cadre de laquelle elle: a) se tient informée et conseille le Gouvernement au sujet des conséquences de l’utilisation de l’informatique et de ses perspectives d’évolution au regard de l’exercice des libertés et du fonctionnement des institutions démocrati- ques;elle fait procéder,à cette fin,à des études et à des enquêtes; b) porte à l’attention du Gouvernement les déficiences ou abus qui ne sont pas spécifiquement visés par les disposi- tions légales,réglementaires et administratives existantes; c) présente chaque année au Gouvernement un rapport rendant compte de l’exécution de sa mission. Ce rapport est publié.",
+      "text_sha256": "518e26b8071df02571d56e0af96dd9304050daa16a069b470cee34dccd041483",
+      "md_span": {
+        "start": 22185,
+        "end": 22925
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 32.",
+      "heading": "Est puni d’un emprisonnement de huit jours à six mois et d’une amende de 2.501 à 500.000 francs ou d’une",
+      "path": [
+        "Chapitre 8. – Dispositions pénales"
+      ],
+      "article_valid_from": null,
+      "text_md": "de ces peines seulement quiconque crée,exploite ou utilise une banque de données sans être détenteur d’une autorisa- tion valable répondant aux conditions prévues au chapitre 2 de la présente loi,ou ne se conforme pas aux conditions de celle-ci. Est puni des mêmes peines quiconque exploite ou utilise une banque de données après que l’autorisation dont il est question à l’alinéa qui précède lui a été retirée. Est puni des mêmes peines le détenteur de données nominatives qui,à l’occasion de leur enregistrement,de leur clas- sement, de leur transmission ou de toute autre forme de traitement, les a détournées de leur finalité telle qu’elle est définie dans l’autorisation prévue au chapitre 2 ou dans les dispositions légales ou réglementaires qui sont à la base de la banque de données, ou si le détenteur de données nominatives a, sans l’autorisation de l’intéressé, sciemment transmis ou laissé transmettre ces données à des tiers.",
+      "text_sha256": "bce5ae8fd1cfc00fc27ddc7be928f78fdf5501e0bb0f5d476e50cf448f105dc7",
+      "md_span": {
+        "start": 23106,
+        "end": 24044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 33.",
+      "heading": "Est puni d’un emprisonnement d’un mois à un an et d’une amende de 10.000 à 500.000 francs ou d’une de",
+      "path": [
+        "Chapitre 8. – Dispositions pénales"
+      ],
+      "article_valid_from": null,
+      "text_md": "ces peines seulement quiconque a collecté ou fait collecter,enregistré ou fait enregistrer,conservé ou fait conserver des données nominatives en violation des dispositions des articles 14,15,16 et «28-1»1. Le tribunal peut en outre ordonner l’insertion du jugement,intégralement ou par extraits,dans un ou plusieurs jour- naux et son affichage,dans les conditions qu’il détermine,aux frais du condamné. 1 Ainsi modifié par la loi du 1er octobre 1992. 2247",
+      "text_sha256": "385b77f6ab660eb9a446327e3a7760491b9c4a8929e06db74df3152c5d310a87",
+      "md_span": {
+        "start": 24183,
+        "end": 24638
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 34.",
+      "heading": "Est puni d’un emprisonnement de huit jours à un mois et d’une amende de 2.501 à 100.000 francs ou d’une",
+      "path": [
+        "Chapitre 8. – Dispositions pénales"
+      ],
+      "article_valid_from": null,
+      "text_md": "de ces peines seulement quiconque ne fournit pas dans le délai prévu par la loi les renseignements demandés en vertu de l’article 20 ou donne sciemment des renseignements inexacts, ou ne remplit pas les obligations qui lui incombent en vertu des articles 22 et 23.",
+      "text_sha256": "5729a385e971bb07a89da4428f51c38c1ad680dbb3186a600bea56dd3e26b2dd",
+      "md_span": {
+        "start": 24779,
+        "end": 25043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 35.",
+      "heading": "Est puni d’un emprisonnement de huit jours à un an et d’une amende de 2.501 à 300.000 francs ou d’une de",
+      "path": [
+        "Chapitre 8. – Dispositions pénales"
+      ],
+      "article_valid_from": null,
+      "text_md": "ces peines seulement quiconque a pris un nom ou prénom supposé ou une fausse qualité pour obtenir communication de données nominatives par application de l’article 20.",
+      "text_sha256": "bea1d49cfd36d7fafc6223e3aeb16f4ed2781c3e9182865b06335acd0e219c48",
+      "md_span": {
+        "start": 25185,
+        "end": 25352
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 36.",
+      "heading": "Est puni d’une amende de 2.501 à 100.000 francs quiconque ne se conforme pas aux prescriptions des arti-",
+      "path": [
+        "Chapitre 8. – Dispositions pénales"
+      ],
+      "article_valid_from": null,
+      "text_md": "cles 26 et 28 ou des règlements grand-ducaux pris en exécution de l’article 27. (Loi du 30 septembre 1992) «Art.37. Est puni d’un emprisonnement de huit jours à six mois et d’une amende de 2.501 à 500.000 francs ou d’une de ces peines seulement quiconque empêche ou entrave volontairement,de quelque manière que ce soit,l’accomplisse- ment de la mission incombant au ministre ayant dans ses attributions le répertoire national des banques de données,au procureur général d’Etat ou à la commission consultative. Est considéré notamment comme empêchant ou entravant volontairement la mission du ministre ou du procureur général d’Etat,le refus opposé aux organes chargés d’une enquête de donner accès aux locaux et aux documents ou de fournir les renseignements demandés.»",
+      "text_sha256": "83432baec0ca47d1bb9f2b5d9e59692169dc1d77bb1fd89d9ca3d4450de3c96c",
+      "md_span": {
+        "start": 25494,
+        "end": 26264
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 38.",
+      "heading": "La confiscation et la destruction sans indemnité de tout ou partie de la banque de données formant l’objet",
+      "path": [
+        "Chapitre 8. – Dispositions pénales"
+      ],
+      "article_valid_from": null,
+      "text_md": "des infractions prévues aux articles 32 et 33 sont toujours prononcées en cas de condamnation. Elles peuvent être prononcées du chef d’infractions prévues aux articles 34,36 et 37.",
+      "text_sha256": "1a6a22692783618bd70fb50b2e64f104e324e36ac959ac802db628d00a3a567e",
+      "md_span": {
+        "start": 26408,
+        "end": 26588
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 39.",
+      "heading": "Le livre premier du code pénal ainsi que la loi du 18 juin 1879 portant attribution aux cours et tribunaux de",
+      "path": [
+        "Chapitre 8. – Dispositions pénales"
+      ],
+      "article_valid_from": null,
+      "text_md": "l’appréciation des circonstances atténuantes, telle qu’elle a été modifiée par la loi du 16 mai 1904, sont applicables aux délits prévus par la présente loi.",
+      "text_sha256": "7d479289afa6c0861eccc4de6f4c5efbb138792fe89222eb72162166acc44a38",
+      "md_span": {
+        "start": 26735,
+        "end": 26892
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 40.",
+      "heading": "La loi entre en vigueur le premier jour du sixième mois qui suit celui au cours duquel elle a été publiée au",
+      "path": [
+        "Chapitre 9. – Entrée en vigueur et disposition transitoire"
+      ],
+      "article_valid_from": null,
+      "text_md": "Mémorial.",
+      "text_sha256": "729d7cfd2c7a6ff10a294222434be8fd4719a45851ae8f085dfc161afa27b25b",
+      "md_span": {
+        "start": 27101,
+        "end": 27110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "lu-legilux:loi-1979-03-31-n1:1992-10-06#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 41.",
+      "heading": "Les propriétaires,gestionnaires,ou utilisateurs des banques de données existant lors de l’entrée en vigueur",
+      "path": [
+        "Chapitre 9. – Entrée en vigueur et disposition transitoire"
+      ],
+      "article_valid_from": null,
+      "text_md": "de la présente loi doivent s’y conformer endéans les douze mois suivant cette entrée en vigueur. Ils introduisent leur demande d’autorisation dans les six mois suivant l’entrée en vigueur de la loi.",
+      "text_sha256": "92e71963585eef41c837fec08881a86dabb8ec2d7ab7ec22b285b44eade6f563",
+      "md_span": {
+        "start": 27255,
+        "end": 27453
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "stopped at the next act's heading, 431 line(s) in",
+    "took lines 14..445 of 702 from the gazette issue"
+  ]
+}
