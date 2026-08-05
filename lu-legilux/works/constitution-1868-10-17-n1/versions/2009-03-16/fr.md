@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:constitution-1868-10-17-n1:2009-03-16'
-title: 'Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Großherzogtums Luxemburg.'
+title: 'Version consolidée applicable au 01/07/2023 : Constitution du Grand-Duché de Luxembourg.'
 valid_from: '2009-03-16'
 valid_to: '2016-10-23'
 source: 'https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090316/fr'

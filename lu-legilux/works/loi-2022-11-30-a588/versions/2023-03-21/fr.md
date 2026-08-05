@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2022-11-30-a588:2023-03-21'
-title: 'loi-2022-11-30-a588'
+title: 'Version consolidée applicable au 02/04/2024 : Loi du 30 novembre 2022 relative à la concurrence et portant :\n1° organisation de l’Autorité nationale de concurrence ;\n2° modification de la loi modifiée du 10 août 1991 sur la profession d’avocat ;\n3° modification de la loi modifiée du 21 juin 1999 portant règlement de procédure devant les juridictions administratives ;\n4° modification de la loi modifiée du 10 février 2015 relative à l’organisation du marché de produits pétroliers ;\n5° modification de la loi modifiée du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État ;\n6° modification de la loi modifiée du 23 juillet 2016 relative à la profession de l’audit ;\n7° modification de la loi du 5 mars 2021 relative à certaines modalités de mise en œuvre du règlement (UE) n° 2019/1150 du Parlement européen et du Conseil du 20 juin 2019 promouvant l’équité et la transparence pour les entreprises utilisatrices de services d’intermédiation en ligne ;\n8° modification de la loi du 1er juin 2021 sur les relations entre entreprises au sein de la chaîne d’approvisionnement agricole et alimentaire.\n'
 valid_from: '2023-03-21'
 valid_to: '2023-04-03'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588/consolide/20230321/fr'

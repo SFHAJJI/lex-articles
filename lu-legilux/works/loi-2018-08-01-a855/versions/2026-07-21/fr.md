@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2018-08-01-a855:2026-07-21'
-title: 'loi-2018-08-01-a855'
+title: 'Loi du 1er août 2018 portant création d’une représentation nationale des parents.'
 valid_from: '2026-07-21'
 valid_to: '2028-11-30'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/consolide/20260721/fr'

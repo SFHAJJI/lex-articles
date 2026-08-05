@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2010-12-17-n9:2025-01-17'
-title: 'loi-2010-12-17-n9'
+title: 'Loi du 17 décembre 2010 concernant les organismes de placement collectif.'
 valid_from: '2025-01-17'
 valid_to: '2026-04-02'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20250117/fr'

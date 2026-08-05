@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2023-12-22-a864:2023-12-31'
-title: 'loi-2023-12-22-a864'
+title: 'Loi du 22 décembre 2023 relative à l’imposition minimale effective pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure.'
 valid_from: '2023-12-31'
 valid_to: '2025-12-31'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2023/12/22/a864/consolide/20231231/fr'

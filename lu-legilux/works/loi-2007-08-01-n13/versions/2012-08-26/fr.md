@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2007-08-01-n13:2012-08-26'
-title: 'loi-2007-08-01-n13'
+title: 'Loi du 1er août 2007 relative à l’organisation du marché de l’électricité.'
 valid_from: '2012-08-26'
 valid_to: '2015-07-03'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13/consolide/20120826/fr'

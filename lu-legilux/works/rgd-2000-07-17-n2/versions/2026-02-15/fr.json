@@ -1,0 +1,299 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15",
+  "language": "fr",
+  "title": "Version consolidée applicable au 15/02/2026 : Règlement grand-ducal du 17 juillet 2000 relatif aux denrées et ingrédients alimentaires traités par ionisation.",
+  "valid_from": "2026-02-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2000-07-17-n2/versions/2026-02-15/fr.pdf/eli-etat-leg-rgd-2000-07-17-n2-consolide-20260215-fr-pdf.pdf",
+    "sha256": "9b2152125434458203fa870d01ea64eb37c0b4dc26bcd8316e7b4055f47b1f89",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/07/17/n2/consolide/20260215"
+  },
+  "generator": {
+    "profile": "pdf-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1er",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_1er",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 1er.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Le présent règlement s’applique à la fabrication, à l’importation et à la commercialisation des denrées et ingrédients alimentaires, ci-après dénommés «denrées alimentaires», qui sont traités par ionisation. 2. Le présent règlement ne s’applique pas: a) aux denrées alimentaires exposées aux rayonnements ionisants émis par des instruments de mesure ou d’inspection, pour autant que la dose absorbée ne soit pas supérieure à 0,01 Gy pour les instruments d’inspection à neutrons et à 0,5 Gy dans les autres cas, à un niveau d’énergie maximal de 10 MeV dans le cas des rayons X, 14 MeV dans le cas des neutrons et 5 MeV dans les autres cas; b) à l’irradiation de denrées alimentaires préparées pour des patients ayant besoin d’une nourriture stérilisée sous surveillance médicale.",
+      "text_sha256": "51b657333c3fde1fee790d5ce68abca197589521a13d98dbb38908a2f693a0fd",
+      "md_span": {
+        "start": 644,
+        "end": 1425
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Il est interdit de fabriquer, d’importer ou de commercialiser des denrées alimentaires irradiées qui ne sont pas conformes aux dispositions du présent règlement.",
+      "text_sha256": "ec074b2d325bdeabd51158fb0b15bf9f5126dea7c23f0b3c5ea7928fee02dd4f",
+      "md_span": {
+        "start": 1460,
+        "end": 1621
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les conditions qui doivent être respectées pour l’autorisation du traitement des denrées alimentaires par ionisation sont énoncées à l’annexe I. Au moment du traitement, les denrées alimentaires doivent se trouver dans des conditions adéquates de salubrité. 2. L’irradiation ne peut être effectuée qu’au moyen des sources énumérées à l’annexe II et conformément aux prescriptions du code d’usage en matière d’irradiation visées à l’article 7, paragraphe 1er. La dose globale moyenne absorbée est calculée conformément aux dispositions de l’annexe III.",
+      "text_sha256": "1c9986fba69478144ccc6f5eef8d330a8d9c0ac37994b5f57f8005971fab44c9",
+      "md_span": {
+        "start": 1656,
+        "end": 2210
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les denrées alimentaires pouvant, à l’exclusion de toutes autres, être soumises à un traitement par ionisation ainsi que les doses maximales d’irradiation autorisées, sont limitativement énumérées à l’annexe IV. - 1 -",
+      "text_sha256": "4381f6312dd58b80d6087937a8fa660ddc2ef3627225e4d6f2337305f3d31c82",
+      "md_span": {
+        "start": 2245,
+        "end": 2465
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La dose maximale d’irradiation des denrées alimentaires peut être appliquée en plusieurs doses partielles. Toutefois, la dose maximale d’irradiation fixée conformément à l’article 4 ne doit pas être dépassée. Le traitement par irradiation ne peut être utilisé en combinaison avec un traitement chimique ayant le même objectif que celui dudit traitement. 2. Des exceptions au paragraphe 1er décidées conformément à la procédure prévue à l’article 12 de la directive 1999/2/CE du Parlement européen et du Conseil du 22 février 1999 relative au rapprochement des législations des états membres sur les denrées et ingrédients alimentaires traités par ionisation, sont applicables au Luxembourg.",
+      "text_sha256": "b043ae2f6b0c4545ba8a53c1f4368eca5a1b2ddd223a42cd344cf8a3832efe89",
+      "md_span": {
+        "start": 2500,
+        "end": 3193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "L’étiquetage des denrées alimentaires traitées par ionisation est régi par les dispositions suivantes: 1) Pour les produits destinés au consommateur final et aux collectivités: a) si les produits sont vendus sous conditionnement individuel, la mention «traité par rayonnements ionisants» ou «traité par ionisation» doit figurer sur l’étiquetage, conformément à l’article 4, paragraphe 3, du règlement grand-ducal modifié du 16 avril 1992 concernant l’étiquetage et la présentation des denrées alimentaires ainsi que la publicité faite à leur égard. Pour les produits vendus en vrac, cette mention figure, avec la dénomination du produit, sur une affiche ou sur un écriteau placé au-dessus ou à côté du récipient qui les contient; b) si un produit irradié est utilisé comme ingrédient, la même mention doit accompagner sa dénomination dans la liste des ingrédients. Pour les produits vendus en vrac, cette mention figure, avec la dénomination du produit, sur une affiche ou sur un écriteau placé au-dessus ou à côté du récipient qui les contient; c) par dérogation à l’article 5, paragraphe 4, du règlement grand-ducal modifié du 16 avril 1992 concernant l’étiquetage et la présentation des denrées alimentaires ainsi que la publicité faite à leur égard, la même mention est requise pour signaler les ingrédients irradiés utilisés dans des ingrédients composés de denrées alimentaires, même si ceux-ci interviennent pour moins de 25 % dans le produit fini. 2) Pour les produits non destinés au consommateur final et aux collectivités: a) la mention prévue au paragraphe précédent est utilisée pour signaler le traitement, tant pour les denrées que pour les ingrédients contenus dans une denrée alimentaire non irradiée; b) l’identité et l’adresse de l’unité qui a pratiqué l’irradiation ou son numéro de référence visés à l’article 7 sont indiqués. 3) La mention signalant le traitement doit, dans tous les cas, figurer sur les documents accompagnant les denrées alimentaires irradiées ou s’y référant.",
+      "text_sha256": "841052c814dadfffb2b8086018db94c859593fb064056531e91abee78ab54760",
+      "md_span": {
+        "start": 3228,
+        "end": 5229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Sans préjudice des dispositions de la loi du 28 mai 2019 relative à la radioprotection, chaque unité d’irradiation doit être autorisée par le ministre de la Santé qui accorde l’agrément dans les cas où: - l’unité satisfait aux prescriptions du code international d’usage pour l’exploitation des installations de traitement des aliments par irradiation recommandé par la Commission mixte du Codex alimentarius FAO/OMS (référence FAO/OMS/CAC/Vol. XV, édition 1) et aux prescriptions supplémentaires qui peuvent être adoptées selon la procédure prévue à l’article 12 de la directive 1999/2/CE précitée, - l’unité désigne une personne responsable du respect de toutes les conditions nécessaires pour l’application du procédé. 2. Le ministre de la Santé communique à la Commission: a) le nom des autorités compétentes responsables: - de l’octroi d’un numéro de référence officiel pour les unités d’irradiation agréées, - du contrôle et de l’inspection officiels, - du retrait ou de toute modification de l’agrément. - 2 - b) le nom, l’adresse et le numéro de référence de chaque unité d’irradiation qu’il a agréée, le texte de l’acte d’agrément, ainsi que toute décision de suspension ou de retrait de l’agrément.",
+      "text_sha256": "9eda4db88c73b41a0f2735a2ebe8adf84166bb0c60d64caf6b3a71084acf0645",
+      "md_span": {
+        "start": 5264,
+        "end": 6475
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les méthodes utilisées pour détecter si un produit a été traité par ionisation doivent être conformes aux paragraphes 1er et 2 de l’annexe de la directive 85/591/CEE du Conseil, du 20 décembre 1985, concernant l’introduction de modes de prélèvement d’échantillons et de méthodes d’analyse communautaires des denrées destinées l’alimentation humaine. Sur avis du directeur de la Santé, les procédures visées ci-dessus sont validées par le ministre de la Santé pour le 31 décembre 2002 au plus tard.",
+      "text_sha256": "fe60a6ee653e447fe61ee3b25c6c14eaef72fecec57bd799725673e70ebbbd12",
+      "md_span": {
+        "start": 6510,
+        "end": 7007
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les unités d’irradiation agréées conformément à l’article 7 doivent, pour chacune des sources de rayonnements ionisants utilisées, tenir un registre indiquant, pour chaque lot de denrées alimentaires traitées: a) la nature et la quantité des denrées alimentaires irradiées; b) le numéro du lot; c) le donneur d’ordre du traitement par irradiation; d) le destinataire des denrées alimentaires traitées; e) la date d’irradiation; f) les matériaux d’emballage utilisés pendant le traitement; g) les paramètres de contrôle du procédé d’irradiation prévus à l’annexe III, les contrôles dosimétriques effectués et leurs résultats, en précisant, en particulier, les valeurs limites inférieure et supérieure de la dose absorbée et le type de rayonnement ionisant; h) la référence aux mesures de validation effectuées avant l’irradiation. 2. Les registres mentionnés au paragraphe 1er doivent être conservés pendant au moins cinq ans. Les modalités d’application de l’article 8 de la directive 1999/2/CE précitée, arrêtées par les autorités communautaires, sont applicables au Luxembourg.",
+      "text_sha256": "814a9d74344bf6879719d5b57be9612f7bc82c2533208d358b864d7f182a4296",
+      "md_span": {
+        "start": 7042,
+        "end": 8124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Une denrée alimentaire traitée par ionisation ne peut être importée d’un pays tiers que dans les cas où: - elle satisfait aux conditions applicables à ces denrées alimentaires; - elle est accompagnée de documents indiquant le nom comportant les informations mentionnées à l’article 9; - elle a été traitée dans une unité d’irradiation agréée par la Communauté conformément à la procédure prévue à l’article 12 de la directive 1999/2/CE précitée.",
+      "text_sha256": "f66b8efd942b3a46d6c7c6fe027c8165a6b05aafe61a214fc247fc0fed4172a6",
+      "md_span": {
+        "start": 8161,
+        "end": 8606
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 11.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les matériaux utilisés pour l’emballage des denrées alimentaires à irradier doivent convenir à cet effet.",
+      "text_sha256": "d44434f4f04c04e8c3ff18a91c32acabca605b9df44d5d41cf649d9806d35647",
+      "md_span": {
+        "start": 8643,
+        "end": 8748
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 12.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les modifications ultérieures des annexes de la directive 1999/2/CE précitée destinées à tenir compte des progrès scientifiques et techniques, conformément aux procédures communautaires, sont applicables au Luxembourg par modification des annexes correspondantes. 2. Les modifications apportées à la directive 1999/2/CE précitée ainsi qu’à la directive 1999/3/CE du Parlement européen et du Conseil du 22 février 1999 établissant une liste communautaire de denrées et ingrédients alimentaires traités par ionisation, conformément à la procédure prévue à l’article 12 de la directive 1999/2/CE précitée, sont applicables au Luxembourg. - 3 -",
+      "text_sha256": "05534871b0211fa86afa99cb29409e0dfbe03a7361b321ab96d1542c0c7a542f",
+      "md_span": {
+        "start": 8785,
+        "end": 9428
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 13.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Le ministre de la Santé peut suspendre ou restreindre temporairement la fabrication, la commercialisation ainsi que l’importation des denrées, lorsqu’à la suite de nouvelles informations ou d’une réévaluation des informations disponibles, il dispose d’éléments précis prouvant que l’irradiation de certaines denrées alimentaires présente un danger pour la santé humaine. 2. Le ministre de la Santé communique sans délai aux autres Etats membres et à la Commission les mesures prises, accompagnées d’un exposé des motifs. 3. Pour sa décision définitive, le ministre de la Santé s’en tient à la décision prise par la Commission à la suite de sa consultation avec toutes les parties concernées.",
+      "text_sha256": "0234a6f9f9db315a600fea0da96b73f3aa35ada4b991134f69ae048391fdcc0d",
+      "md_span": {
+        "start": 9465,
+        "end": 10159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 14.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les infractions aux dispositions du présent règlement sont punies des peines édictées par l’article 2 de la loi modifiée du 25 septembre 1953 ayant pour objet la réorganisation du contrôle des denrées alimentaires, boissons et produits usuels, sans préjudice de celles prévues par les articles 9 et suivants de la même loi, par le code pénal ou par d’autres lois.",
+      "text_sha256": "7a9a29a1b2a0a480dad582f45bc87325d457a4b6ce53f940436c2ecd9d8e9b1d",
+      "md_span": {
+        "start": 10196,
+        "end": 10559
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 15.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les annexes du présent règlement en font partie intégrante.",
+      "text_sha256": "7ea17628263d988fa663ab1754bf12f868bc9406347c906a36a6cb274784eab5",
+      "md_span": {
+        "start": 10596,
+        "end": 10655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "lu-legilux:rgd-2000-07-17-n2:2026-02-15#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Art. 16.",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Notre ministre de la Santé et Notre ministre de la Justice sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial. - 4 -",
+      "text_sha256": "b8f6f77e1f7c604650e95b0d26b0325b2e583f896105f1b95435820faa9647d1",
+      "md_span": {
+        "start": 10692,
+        "end": 10865
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "removed 1 repeated running header/footer line(s)",
+    "dropped 10 line(s) of front matter"
+  ]
+}

@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2016-07-05-n8:2025-09-01'
-title: 'loi-2016-07-05-n8'
+title: 'Loi du 5 juillet 2016 portant réorganisation du Service de renseignement de l''État.'
 valid_from: '2025-09-01'
 valid_to: '2027-02-28'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8/consolide/20250901/fr'

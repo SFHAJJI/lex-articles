@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-1967-12-04-n1:2011-01-04'
-title: 'loi-1967-12-04-n1'
+title: 'Version consolidée applicable au 01/12/2010 : Loi du 4 décembre 1967 concernant l''impôt sur le revenu.'
 valid_from: '2011-01-04'
 valid_to: '2022-06-29'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/consolide/20110104/fr'

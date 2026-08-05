@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2013-07-12-n1:2016-03-21'
-title: 'loi-2013-07-12-n1'
+title: 'Loi du 12 juillet 2013 relative aux gestionnaires de fonds d’investissement alternatifs.'
 valid_from: '2016-03-21'
 valid_to: '2016-05-31'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/consolide/20160321/fr'

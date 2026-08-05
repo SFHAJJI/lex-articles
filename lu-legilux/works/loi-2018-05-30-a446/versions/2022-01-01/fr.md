@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2018-05-30-a446:2022-01-01'
-title: 'loi-2018-05-30-a446'
+title: 'Loi du 30 mai 2018 relative aux marchés d’instruments financiers.'
 valid_from: '2022-01-01'
 valid_to: '2023-03-22'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446/consolide/20220101/fr'

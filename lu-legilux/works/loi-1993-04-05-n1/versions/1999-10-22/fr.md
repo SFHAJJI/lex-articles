@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-1993-04-05-n1:1999-10-22'
-title: 'loi-1993-04-05-n1'
+title: 'Version consolidée applicable au 31/10/2002 : Loi du 5 avril 1993 relative au secteur financier.'
 valid_from: '1999-10-22'
 valid_to: '2003-09-30'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/consolide/19991022/fr'

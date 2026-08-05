@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:rgd-1988-07-15-n3:2026-05-20'
-title: 'rgd-1988-07-15-n3'
+title: 'Version consolidée applicable au 01/11/2026 : Règlement grand-ducal du 15 juillet 1988 concernant la protection des salariés contre les risques liés à une exposition à l''amiante pendant le travail.'
 valid_from: '2026-05-20'
 valid_to: '2026-10-31'
 source: 'https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20260520/fr'

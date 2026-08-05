@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2006-08-11-n1:2018-09-10'
-title: 'loi-2006-08-11-n1'
+title: 'Loi du 11 août 2006 relative à la lutte antitabac'
 valid_from: '2018-09-10'
 valid_to: '2025-12-31'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2006/08/11/n1/consolide/20180910/fr'

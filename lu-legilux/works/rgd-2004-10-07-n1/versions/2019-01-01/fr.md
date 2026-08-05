@@ -1,8 +1,8 @@
 ---
 lex_id: 'lu-legilux:rgd-2004-10-07-n1:2019-01-01'
-title: 'Version consolidée applicable au 01/01/2019 : Règlement grand-ducal du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.'
+title: 'Version consolidée applicable au 31/07/2026 : Règlement grand-ducal du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.'
 valid_from: '2019-01-01'
-valid_to: 'open'
+valid_to: '2026-07-30'
 source: 'https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20190101/fr'
 source_sha256: '690c4dec9a5e9bf7f3a5649a5824bfbd106584a728b0ca9f4cfafee447713437'
 license: 'CC-BY-4.0'

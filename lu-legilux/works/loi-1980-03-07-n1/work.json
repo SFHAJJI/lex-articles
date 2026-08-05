@@ -1,6 +1,6 @@
 {
   "lex_work_id": "lu-legilux:loi-1980-03-07-n1",
-  "title": "Version consolidée applicable au 05/07/2026 : Loi du 7 mars 1980 sur l'organisation judiciaire.",
+  "title": "Version consolidée applicable au 08/08/2026 : Loi du 7 mars 1980 sur l'organisation judiciaire.",
   "languages": [
     "fr"
   ],
@@ -79,9 +79,15 @@
     },
     {
       "valid_from": "2026-07-05",
-      "valid_to": null,
+      "valid_to": "2026-08-07",
       "language": "fr",
       "provisions": 222
+    },
+    {
+      "valid_from": "2026-08-08",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 223
     }
   ],
   "anchors": [
@@ -553,6 +559,7 @@
     "art_74-2",
     "art_74-3",
     "art_74-4",
+    "art_74-4bis",
     "art_74-5",
     "art_74-6",
     "art_74-7",

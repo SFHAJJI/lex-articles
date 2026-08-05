@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:rgd-2023-02-21-a95:2025-07-02'
-title: 'rgd-2023-02-21-a95'
+title: 'Version consolidée applicable au 01/04/2026 : Règlement grand-ducal du 21 février 2023 relatif à la participation de l’Armée luxembourgeoise aux forces terrestres avancées (Forward Land Forces – FLF) de l’OTAN en Roumanie.'
 valid_from: '2025-07-02'
 valid_to: '2026-03-31'
 source: 'https://legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95/consolide/20250702/fr'

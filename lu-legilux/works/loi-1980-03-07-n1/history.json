@@ -7286,6 +7286,15 @@
         "validity_conflict": true
       }
     ],
+    "art_74-4bis": [
+      {
+        "valid_from": "2026-08-08",
+        "valid_to": null,
+        "text_sha256": "bb5560af1925bbd176c63ece15e206b5b9a0faad68401a1b963057883d95b6cb",
+        "in_version": "lu-legilux:loi-1980-03-07-n1:2026-08-08",
+        "article_valid_from": "2026-08-08"
+      }
+    ],
     "art_74-5": [
       {
         "valid_from": "2022-07-05",
@@ -11097,6 +11106,11 @@
       "text_sha256": "173f8a64772994ae2a1252e1abce86203dcae6b58a2b6f3087eadc22c0fed1d5",
       "at_version": "lu-legilux:loi-1980-03-07-n1:2026-07-05",
       "basis": "identical_text"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_74-4bis",
+      "at_version": "lu-legilux:loi-1980-03-07-n1:2026-08-08"
     }
   ]
 }

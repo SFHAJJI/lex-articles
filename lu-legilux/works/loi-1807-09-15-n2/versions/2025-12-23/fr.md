@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-1807-09-15-n2:2025-12-23'
-title: 'loi-1807-09-15-n2'
+title: 'Code de commerce'
 valid_from: '2025-12-23'
 valid_to: '2026-08-02'
 source: 'https://legilux.public.lu/eli/etat/leg/code/commerce/20251223/fr'

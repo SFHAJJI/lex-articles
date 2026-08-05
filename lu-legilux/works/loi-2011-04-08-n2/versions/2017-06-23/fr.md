@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2011-04-08-n2:2017-06-23'
-title: 'loi-2011-04-08-n2'
+title: 'Code de la consommation'
 valid_from: '2017-06-23'
 valid_to: '2017-11-12'
 source: 'https://legilux.public.lu/eli/etat/leg/code/consommation/20170623/fr'

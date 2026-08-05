@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-1996-11-07-n1:2011-06-13'
-title: 'loi-1996-11-07-n1'
+title: 'Version consolidée applicable au 16/09/2025 : Loi du 7 novembre 1996 portant organisation des juridictions de l''ordre administratif.'
 valid_from: '2011-06-13'
 valid_to: '2021-07-22'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20110613/fr'

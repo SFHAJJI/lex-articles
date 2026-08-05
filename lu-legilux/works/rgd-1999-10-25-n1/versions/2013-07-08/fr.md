@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:rgd-1999-10-25-n1:2013-07-08'
-title: 'rgd-1999-10-25-n1'
+title: 'Version consolidée applicable au 01/01/2024 : Règlement grand-ducal du 25 octobre 1999 déterminant le fonctionnement de la commission de surveillance prévue à l’article 72 du Code des assurances sociales.'
 valid_from: '2013-07-08'
 valid_to: '2023-12-31'
 source: 'https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20130708/fr'

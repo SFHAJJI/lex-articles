@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-1808-11-17-n1:2020-03-20'
-title: 'loi-1808-11-17-n1'
+title: 'Code de procédure pénale'
 valid_from: '2020-03-20'
 valid_to: '2020-12-20'
 source: 'https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20200320/fr'
