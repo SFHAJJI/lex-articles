@@ -1,10 +1,10 @@
 ---
-lex_id: 'lu-legilux:rgd-1992-10-15-n2:2010-03-14'
+lex_id: 'lu-legilux:rgd-1992-10-15-n2:2026-08-04'
 title: 'Version consolidée applicable au 04/08/2026 : Règlement grand-ducal du 15 octobre 1992 concernant le mode d''élection du représentant du personnel ouvrier au conseil d''administration de l''Entreprise des Postes et Télécommunications et l''exercice de ses fonctions.'
-valid_from: '2010-03-14'
-valid_to: '2017-07-27'
-source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20100314/fr'
-source_sha256: '5d228f613686614eb0eba1392d67d72c37c0fc0095c8363f9b7a00a65839bf6d'
+valid_from: '2026-08-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20260804'
+source_sha256: 'c476195c0159904ebaff2d300b8075ca784796374a25ee05579238fad762ad91'
 license: 'CC-BY-4.0'
 attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
 generator: 'akn-lu/1 · lex derive'
@@ -22,7 +22,7 @@ Un salarié de l'entreprise ne peut être désigné administrateur représentant
 
 ### Art 2.
 
-La date des élections est fixée par le membre du Gouvernement ayant les postes et télécommunications dans ses attributions, désigné dans les dispositions qui suivent par les termes «le ministre compétent». Les représentants du personnel salarié sont élus parallèlement aux autres représentants du personnel au conseil d'administration de l'entreprise. Cette date est portée à la connaissance de la Délégation des Salariés des P. & T. au moins six semaines avant les élections.
+La date des élections est fixée par le membre du Gouvernement ayant les postes et télécommunications dans ses attributions, désigné dans les dispositions qui suivent par les termes «le ministre compétent». Les représentants du personnel salarié sont élus parallèlement aux autres représentants du personnel au conseil d'administration de l'entreprise. Cette date est portée à la connaissance de la Délégation des Salariés des P. & T. au plus tard cinquante jours avant les élections.
 
 <a id="art_3"></a>
 
@@ -40,7 +40,7 @@ Le service du personnel de l'entreprise établit la liste alphabétique des sala
 
 ### Art 5.
 
-La liste électorale, arrêtée provisoirement, est déposée un mois au moins avant la date fixée pour les élections pendant dix jours à l'inspection des salariés dans un ou plusieurs locaux désignés à cette fin par le service du personnel au siège de l'entreprise.
+La liste électorale, arrêtée provisoirement, est déposée au plus tard quarante jours avant la date fixée pour les élections pendant dix jours à l'inspection des salariés dans un ou plusieurs locaux désignés à cette fin par le service du personnel au siège de l'entreprise.
 
 Une circulaire interne porte le dépôt à la connaissance des salariés.
 
@@ -50,13 +50,13 @@ Pendant les dix jours au cours desquels la liste électorale est déposée à l'
 
 ### Art 6.
 
-Dans les trois jours à partir de l'expiration du délai de recours, le service du personnel transmet les recours et toutes les pièces qui s'y rapportent au ministre compétent, ou à son délégué dûment mandaté à cet effet, qui statue dans les trois jours.
+Dans les trois jours à partir de l'expiration du délai de recours, le service du personnel transmet les recours et toutes les pièces qui s'y rapportent au président de la commission chargée du dépouillement du scrutin, qui statue dans les trois jours.
 
 <a id="art_7"></a>
 
 ### Art 7.
 
-Le comité de direction de l'entreprise modifie incontinent la liste électorale en respectant les décisions du ministre, ou de son délégué ayant statué sur les recours. La liste électorale sera ainsi arrêtée définitivement au plus tard deux semaines avant la date des élections.
+Le comité exécutif de l'entreprise modifie incontinent la liste électorale en respectant les décisions du président de la commission chargée du dépouillement du scrutin ayant statué sur les recours. La liste électorale sera ainsi arrêtée définitivement au plus tard vingt-quatre jours avant la date des élections.
 
 <a id="art_8"></a>
 
@@ -70,13 +70,15 @@ Les réclamations, recours, actes de procédure et expéditions en matière éle
 
 Les listes de candidats sont à présenter par deux ou plusieurs membres ou membres suppléants de la Délégation des Salariés des P. & T. Chaque liste de candidats doit être accompagnée d'une déclaration signée par les candidats confirmant qu'ils acceptent la candidature sur cette liste.
 
-Une liste ne peut comprendre que quatre candidats. Toute candidature isolée est considérée comme formant une liste à elle seule.
+Le nombre de candidats à élire est calculé selon la clé de répartition arrêtée par le règlement grand-ducal du 20 juillet 2017 arrêtant les modalités de répartition des sièges des représentants du personnel au conseil d’administration de l’entreprise des postes et télécommunications.
+
+Le nombre des candidats d’une liste ne peut être supérieur au double du nombre de candidats à élire. Toute candidature isolée est considérée comme formant une liste à elle seule.
 
 La liste indique les noms et prénoms et la désignation de service des candidats ainsi que des présentateurs de cette liste. Nul ne peut figurer comme présentateur pour plus d'une liste.
 
 Chaque liste de candidats doit être déposée par un mandataire désigné par et parmi ses présentateurs qui l'ont signée à cet effet. Le mandataire remplit en outre tous les autres devoirs qui lui sont imposés par le présent règlement.
 
-Chaque liste doit porter une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l'expiration du délai imparti pour les déclarations de candidature, ces listes sont désignées par une lettre d'ordre par le ministre compétent ou son délégué dûment mandaté à cet effet.
+Chaque liste doit porter une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l'expiration du délai imparti pour les déclarations de candidature, ces listes sont désignées par une lettre d'ordre par le président de la commission chargée du dépouillement du scrutin.
 
 Les formules imprimées des listes et des déclarations visés au présent article sont imprimés par les soins du service du personnel de l'entreprise. Ils doivent être disponibles au plus tard trois semaines avant le jour des élections.
 
@@ -84,17 +86,17 @@ Les formules imprimées des listes et des déclarations visés au présent artic
 
 ### Art 10.
 
-Les listes de candidats doivent être déposées entre les mains du ministre compétent ou de son délégué dûment mandaté à cet effet au plus tard le dixième jour ouvrable avant les élections, à dix-huit heures. Un récépissé est délivré au mandataire de la liste.
+Les listes de candidats doivent être déposées entre les mains du président de la commission chargée du dépouillement du scrutin au plus tard vingt jours avant les élections, à dix-huit heures. Un récépissé est délivré au mandataire de la liste.
 
 L'enregistrement est refusé à toute liste qui ne répond pas aux conditions prévues par l'article 9.
 
-Lors du dépôt de la liste, le mandataire peut désigner un témoin et un témoin suppléant qui peuvent assister aux opérations de dépouillement du scrutin.
+Lors du dépôt de la liste, le mandataire peut désigner un témoin et un témoin suppléant qui peuvent assister aux opérations de dépouillement du scrutin. Les témoins ne peuvent être candidats.
 
 <a id="art_11"></a>
 
 ### Art 11.
 
-A l'expiration du terme fixé à l'article 10 alinéa 1er, le ministre compétent ou son délégué arrête les listes de candidats. Pour chaque liste, l'ordre de présentation des candidats y est maintenu.
+A l'expiration du terme fixé à l'article 10 alinéa 1er, le président de la commission chargée du dépouillement du scrutin arrête les listes de candidats. Pour chaque liste, l'ordre de présentation des candidats y est maintenu.
 
 Après avoir arrêté les listes de candidats, le ministre compétent ou son délégué, assisté de deux membres de la commission chargée du dépouillement du scrutin, détermine aussitôt, par tirage au sort, l'ordre d'inscription des listes de candidats sur les bulletins de vote ainsi que sur les circulaires internes de l'entreprise.
 
@@ -102,7 +104,7 @@ Après avoir arrêté les listes de candidats, le ministre compétent ou son dé
 
 ### Art 12.
 
-Les listes ainsi arrêtées, leur désignations et les numéros d'ordre sont communiqués au plus tard huit jours ouvrables avant la date des élections au service du personnel de l'entreprise qui en informe la Délégation des Salariés des P. & T. au plus tard six jours avant la date des élections. Cette communication reproduit en outre les instructions pour l'électeur annexées au présent règlement.
+Les listes ainsi arrêtées, leur désignations et les numéros d'ordre sont communiqués au plus tard dix-huit jours avant la date des élections au service du personnel de l'entreprise qui en informe la Délégation des Salariés des P. & T. au plus tard seize jours avant la date des élections. Cette communication reproduit en outre les instructions pour l'électeur annexées au présent règlement.
 
 Cette circulaire reproduit les noms, prénoms ainsi que les désignations de service des candidats. Les listes y sont placées suivant l'ordre déterminé par le tirage au sort visé à l'article 11. Un chiffre arabe correspondant au numéro d'ordre ainsi que la dénomination sont imprimés en tête de chaque liste.
 
@@ -140,27 +142,29 @@ Le jour du scrutin, les représentants du personnel salarié est élu au vote se
 
 A l'ouverture du scrutin, l'un des scrutateurs fait l'appel nominal des électeurs ainsi définis en présence des membres de la commission chargée du dépouillement du scrutin.
 
-Chaque électeur qui répond à l'appel reçoit des mains du président un bulletin de vote, plié en quatre à angles droits, l'estampille des élections à l'extérieur.
+Chaque électeur qui répond à l'appel reçoit des mains du président un bulletin de vote, préplié à angles droits, l'estampille des élections à l'extérieur.
 
 <a id="art_16"></a>
 
 ### Art 16.
 
-Chaque électeur dispose de quatre suffrages. Il peut attribuer un ou deux suffrages à chacun des candidats jusqu'à concurrence du total des suffrages dont il dispose.
+Chaque électeur dispose d’un nombre de suffrages égal au double du nombre de candidats à élire.
 
-L'électeur exprime ses suffrages à l'aide d'un crayon, d'une plume, d'un stylo à bille ou d'un instrument analogue. L'électeur qui remplit le cercle de la case placée en tête d'une liste ou qui y inscrit une croix (+ ou x) adhère à cette liste en totalité.
+Il peut attribuer deux suffrages à chacun des candidats jusqu’à concurrence du total des suffrages dont il dispose.
 
-Si une liste inscrite sur les bulletins de vote contient les noms de quatre candidats, l'électeur, en procédant de la façon définie à l'alinéa précédant, attribue quatre suffrages à cette liste. Si au contraire, elle contient moins de quatre noms, il attribue à cette liste autant de suffrages qu'il y a de noms sur la liste. Dans ce dernier cas le ou les suffrages restant peuvent être attribués à un ou plusieurs candidats d'autres listes.
+L’électeur qui, à l’aide d’un crayon, d’une plume, d’un stylo à bille ou d’un instrument analogue, remplit le cercle blanc de la case placée en tête d’une liste ou qui y inscrit une croix (+ ou x) adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste.
 
-La croix (+ ou x) inscrite dans la première case réservée à cette fin derrière le nom d'un candidat vaut un suffrage à ce candidat. Si les deux cases réservées à cette fin derrière le nom d'un candidat sont marquées d'une croix ( + ou x) deux suffrages sont attribués à ce candidat. Tout cercle rempli, même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l'intention de rendre le bulletin reconnaissable ne soit manifeste.
+Chaque croix (+ ou x) inscrite dans l’une des cases réservées derrière le nom des candidats vaut un suffrage à ce candidat.
 
-L'électeur s'abstient de faire sur le bulletin toute autre inscription, signature, rature ou signe quelconque.
+Tout cercle rempli, même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.
+
+L’électeur s’abstient de faire sur le bulletin toute autre inscription, signature, rature ou signe quelconque.
 
 <a id="art_17"></a>
 
 ### Art 17.
 
-Après avoir voté, l'électeur montre au président de la commission chargée du dépouillement du scrutin son bulletin replié régulièrement en quatre, l'estampille à l'extérieur, et le dépose dans l'urne.
+Après avoir voté, l'électeur montre au président de la commission chargée du dépouillement du scrutin son bulletin repliérégulièrement en quatre, l'estampille à l'extérieur, et le dépose dans l'urne.
 
 L'électeur qui, par inadvertance, détériore le bulletin, qui lui a été remis, peut en demander un autre au président en lui rendant le premier qui est immédiatement détruit.
 
@@ -226,7 +230,7 @@ Sont nuls:
 
 2o ce bulletin même
 
-a) s’il exprime plus de quatre suffrages,
+a) s’il exprime plus de suffrages que le double du nombre de candidats à élire,
 
 b) s’il porte une marque ou un signe distinctif quelconque,
 
@@ -244,7 +248,11 @@ On appelle «nombre électoral» le nombre entier qui est immédiatement supéri
 
 A chaque liste il est attribué autant de sièges que le nombre électoral est contenu de fois dans le nombre de suffrages recueillis par cette liste.
 
-Lorsque le nombre de membres élus par cette répartition reste inférieur à celui des membres à élire, on divise le nombre de suffrages de chaque liste par le nombre de sièges qu'elle a déjà obtenu augmenté de un: le siège est attribué à la liste qui obtient le quotient le plus élevé.
+Lorsque le nombre de membres élus par cette répartition reste inférieur à celui des membres à élire, on divise le nombre de suffrages de chaque liste par le nombre de sièges qu'elle a déjà obtenu augmenté de un: le siège est attribué à la liste qui obtient le quotient le plus élevé. On répète le même procédé, s’il reste encore un siège disponible.
+
+En cas d’égalité de quotient, le siège disponible est attribué à la liste qui a recueilli le plus de suffrages.
+
+Ces sièges sont attribués, dans chaque liste, aux candidats ayant obtenu le plus grand nombre de suffrages nominatifs. En cas d’égalité de suffrage, est proclamé élu le candidat qui est désigné par tirage au sort par le président de la commission de dépouillement.
 
 <a id="art_27"></a>
 
@@ -272,7 +280,7 @@ Le résultat du scrutin ainsi que les noms et prénoms des candidats élus sont 
 
 Cet extrait est communiqué au service du personnel de l'entreprise qui diffuse le résultat de l'élection sans désemparer au personnel de l'entreprise par circulaire.
 
-Tout électeur a le droit de réclamer contre les opérations électorales. La réclamation doit être formulée par écrit, énoncer tous les moyens du recours et être remise au ministre compétent dans les trois jours qui suivent la proclamation du résultat sous peine de forclusion. Le ministre statuera dans les plus brefs délais possibles.
+Tout électeur a le droit de réclamer contre les opérations électorales. La réclamation doit être formulée par écrit, énoncer tous les moyens du recours et être remise au ministre compétent dans les cinq jours qui suivent la proclamation du résultat sous peine de forclusion. Le ministre statuera dans les plus brefs délais possibles.
 
 <a id="art_29"></a>
 
@@ -308,22 +316,22 @@ Notre Ministre des Communications est chargé de l'exécution du présent règle
 
 1. Est électeur tout membre titulaire de la Délégation des salariés des P. & T. ou, le cas échéant, le membre suppléant qui le remplace.
 
-2. L’électeur dispose de quatre suffrages.
+2. L’électeur dispose de… suffrages.
 
 3. L’électeur vote:
 
 - soit en remplissant le cercle de la case placée en tête d’une liste, soit en y inscrivant une croix (+ ou x)
 - soit en inscrivant une croix ( + ou x) dans la ou les cases placées à la suite du nom des candidats.
 
-4. L’électeur qui remplit le cercle de la case placée en tête d’une liste qui comprend quatre candidats ou qui inscrit une croix (+ ou x) dans la case placée en tête d’une telle liste, a ainsi attribué tous les suffrages dont il dispose.
+4. L’électeur qui remplit le cercle de la case placée en tête d’une liste qui comprend… candidats ou qui inscrit une croix (+ ou x) dans la case placée en tête d’une telle liste, a ainsi attribué tous les suffrages dont il dispose.
 
-5. L'électeur qui remplit le cercle qui se trouve à la tête d'une liste qui comprend moins de quatre candidats accorde à cette liste autant de suffrages qu'elle comporte de candidats.
+5. L'électeur qui remplit le cercle qui se trouve à la tête d'une liste qui comprend moins de … candidats accorde à cette liste autant de suffrages qu'elle comporte de candidats.
 
-S'il désire utiliser le total des suffrages dont il dispose, l'électeur doit ensuite placer une croix (+ ou x) dans l'une des cases placées à la suite du nom d'un candidat ou de candidats figurant sur une ou plusieurs autres listes sans dépasser le total des quatre suffrages dont il dispose.
+S'il désire utiliser le total des suffrages dont il dispose, l'électeur doit ensuite placer une croix (+ ou x) dans l'une des cases placées à la suite du nom d'un candidat ou de candidats figurant sur une ou plusieurs autres listes sans dépasser le total des … suffrages dont il dispose.
 
 6. L’électeur procède aux inscriptions sur le bulletin de vote à l’aide d’un crayon, d’une plume, d’un stylo à bille ou d’un instrument analogue.
 
-7.Après avoir voté, l’électeur montre au président de la commission chargée du dépouillement du scrutin son bulletin replié régulièrement en quatre, l’estampille à l’extérieur, et le dépose dans l’urne.
+7.Après avoir voté, l’électeur montre au président de la commission chargée du dépouillement du scrutin son bulletin repliérégulièrement en…, l’estampille à l’extérieur, et le dépose dans l’urne.
 
 Aucun vote par procuration n’est admis. Le bulletin de vote est à remettre par l’électeur en personne, il ne peut être remis ni par des tiers, ni sous pli postal.
 
@@ -333,7 +341,7 @@ A)Tous les bulletins autres que ceux remis par le président de la commission ch
 
 B) Ce bulletin même
 
-a) s’il exprime plus de quatre suffrages;
+a) s’il exprime plus de… suffrages;
 
 b) s’il porte une marque ou un signe distinctif quelconque
 
